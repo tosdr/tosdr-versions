@@ -31,932 +31,923 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cortes de luz en Cuenca para este viernes 18 de octubre
-=======================================================
+Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito
+========================================================================
 
-En algunos barrios, los cortes de luz se extienden de corrido, mientras que en otros la suspensión se realiza en dos franjas horarias.
---------------------------------------------------------------------------------------------------------------------------------------
+El manejo inadecuado de residuos voluminosos, más conocidos como 'tereques', representa un problema operativo recurrente para Emaseo
+------------------------------------------------------------------------------------------------------------------------------------
 
-![Los horarios del cronograma en la ciudad austral se implementan en varias jornadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Cuenca-18-de-octubre.jpg)
+![Este domingo 20 de octubre se realizará una campaña para recolectar desechos voluminosos.](https://www.elcomercio.com/wp-content/uploads/2024/10/tereques.jpg)
 
-La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este viernes 18 de octubre de 2024. La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
-
-Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
+El **Domingo de Tereques** es una iniciativa del Municipio para realizar un **manejo adecuado de los residuos** voluminosos en Quito.
 
 ### Más noticias
 
-* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Cortes de luz en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-quito-viernes-18-octubre.html "Cortes de luz en Quito este viernes 18 de octubre")
-
-Horarios de cortes de luz
--------------------------
-
-El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
-
-En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
-
-Los horarios del cronograma en la ciudad austral se implementan en **13 jornadas**:
-
-* 00:00 a 06:00
-* 00:00 a 04:00 y de 09:00 a 15:00
-* 00:00 a 06:00 y de 14:00 a 18:00
-* 05:00 a 10:00 y de 14:00 a 19:00
-* 05:00 a 10:00 y de 14:00 a 20:00
-* 06:00 a 10:00 y de 15:00 a 21:00
-* 06:00 a 12:00 y de 16:00 a 20:00
-* 09:00 a 14:00 y de 18:00 a 23:00
-* 10:00 a 15:00 y de 19:00 a 00:00
-* 10:00 a 16:00 y de 20:00 a 00:00
-* 16:00 a 20:00
-* 10:00 a 14:00
-* 11:00 a 17:00
-
-La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/").
-
-> 🔵Con la [#AppCentrosur](https://twitter.com/hashtag/AppCentrosur?src=hash&ref_src=twsrc%5Etfw) consultar la programación de cortes de energía es fácil y rápido.  
->   
-> Entérate👇paso a paso cómo hacerlo.  
->   
-> También puedes ingresar📱💻 al siguiente link: [https://t.co/InuU9w1Urt](https://t.co/InuU9w1Urt) coloca tu información y revisa la información personalizada. [pic.twitter.com/F6vY85yP0B](https://t.co/F6vY85yP0B)
-> 
-> — Centrosur (@centrosurec) [October 16, 2024](https://twitter.com/centrosurec/status/1846347828576100519?ref_src=twsrc%5Etfw)
-
-Embalse de Mazar se recupera
-----------------------------
-
-La ministra de Energía y Minas (e), Inés Manzano, se pronunció este miércoles sobre el estado del **embalse de Mazar**.
-
-La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (**Celec**).
-
-En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en **2 116,68 metros** sobre el nivel del mar y, a las 15:00, subió a **2 116,88**.
-
-“Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimo (…) Estamos a **37 metros** de llegar a la [**cota máxima**](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)")”, dijo.
-
-Juez dicta medidas contra agentes de tránsito detenidos
-=======================================================
-
-La Fiscalía abrió la investigación en el caso llamado Pico y Plata contra siete agentes procesados por presunto delito de concusión
------------------------------------------------------------------------------------------------------------------------------------
-
-![Siete agentes metropolitanos son procesados por presuntamente pedir dinero a sus víctimas.](https://www.elcomercio.com/wp-content/uploads/2024/10/agentes-de-transito.jpg)
-
-La **Policía Nacional** realizó, en coordinación con la **Fiscalía Nacional del Estado**, un operativo durante la madrugada del jueves 17 de octubre de 2024.
-
-### Más noticias
-
-* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
-* [Así funciona el Pico y placa en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-viernes-18-de-octubre.html "Así funciona el Pico y placa en Quito este viernes 18 de octubre")
-* [Circulación vehicular se reanuda en la Plaza Argentina](https://www.elcomercio.com/actualidad/quito/circulacion-vehicular-se-reanuda-en-la-plaza-argentina.html "Circulación vehicular se reanuda en la Plaza Argentina")
-
-Siete agentes detenidos
------------------------
-
-En este operativo, la Policía detuvo a **siete agentes de tránsito** para una investigación por, presuntamente, haber exigido dinero a cambio de no sancionar infracciones, como la medida del pico y placa.
-
-Según información de Quito Informa, los uniformados también detuvieron a **otras dos personas**con fines investigativos.
-
-Desde el **Municipio,** se lucha contra la corrupción y se colaborará en este proceso investigativo.
-
-Esta investigación, a la que se le ha llamado el caso Pico y Plata, está a cargo de la **Unidad de Transparencia y Lucha contra la Corrupción** de la Fiscalía.
-
-Durante la noche de ayer, 17 de octubre, se instaló **la audiencia de formulación de cargos**, en el Complejo Judicial Norte, **contra los siete agentes metropolitanos de tránsito**. A los funcionarios públicos se los investiga por presunta concusión.
-
-El juez acogió el pedido de Fiscalía y **dictó presentaciones periódicas y prohibición de salida del país** para los siete agentes de tránsito.
-
-Ellos, mediante amenazas, habrían exigido dinero a sus víctimas para no sancionarlas por el incumplimiento de la medida del [Pico y Placa](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-La Fiscalía pide a la ciudadanía **denunciar** estos y todos los delitos cometidos por **servidores públicos**.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoPicoYPlata](https://twitter.com/hashtag/CasoPicoYPlata?src=hash&ref_src=twsrc%5Etfw): Juez acoge el pedido de [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y dicta presentaciones periódicas y prohibición de salida del país contra 7 agentes metropolitanos de Tránsito por presunta [#Concusión](https://twitter.com/hashtag/Concusi%C3%B3n?src=hash&ref_src=twsrc%5Etfw). Por medio de amenazas, habrían solicitado dinero a sus víctimas. [pic.twitter.com/zVll0TYkUq](https://t.co/zVll0TYkUq)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 18, 2024](https://twitter.com/FiscaliaEcuador/status/1847125450516009169?ref_src=twsrc%5Etfw)
-
-Operativo se desarrolló en Quito
---------------------------------
-
-Los uniformados ejecutaron varios **allanamientos en inmuebles en la ciudad de Quito**, en el marco de una investigación por **presunta concusión**.
-
-En el cometimiento de este **presunto delito** estarían involucrados agentes metropolitanos de tránsito.
-
-**223 servidores policiales**, más personal de la Fiscalía participaron en la puesta en marcha de este operativo en Quito.
-
-Los policías pudieron recoge**r algunas evidencias** como:
-
-* Dinero en efectivo
-* Celulares
-* Computadoras
-* Matrículas y licencias de conducir
-* Uniformes de uso policial, entre otras
-
-Estos indicios pasarán a **cadena de custodia** y posteriormente serán presentados como pruebas en los procesos legales que se establezcan.
-
-> 🔴 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
->   
-> OPERATIVO CONTRA EL DELITO DE CONCUSIÓN  
->   
-> Esta madrugada en coordinación con [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw), ejecutamos varios allanamientos en [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw), en el marco de una investigación por presunta [#concusión](https://twitter.com/hashtag/concusi%C3%B3n?src=hash&ref_src=twsrc%5Etfw), que involucra a varios agentes metropolitanos de tránsito.  
->   
-> Operativo… [pic.twitter.com/L8M7tgugBO](https://t.co/L8M7tgugBO)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 17, 2024](https://twitter.com/PoliciaEcuador/status/1846855876713369929?ref_src=twsrc%5Etfw)
-
-¿Qué es el delito de concusión?
--------------------------------
-
-La **concusión** es un término legal que se refiere a cuando un **funcionario público** en uso de su cargo, exige o hace pagar a una persona una contribución, o también al cobrar más de lo que le corresponde por las funciones que realiza.
-
-Este delito puede presentar **agravantes si se emplea intimidación** o si se invoca que son órdenes de un funcionario de mayor jerarquía, y esta exacción es en provecho **[propio](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")**.
-
-​Este delito está tipificado en e**l Código Integral Penal**: Art. 281.- Concusión.- Las o los servidores públicos y las personas que actúen en virtud de una potestad estatal **en alguna de las instituciones del Estado**, determinadas en la **Constitución de la República**, sus agentes o dependientes oficiales que abusando de su cargo o funciones, por sí o por medio de terceros, ordenen o **exijan la entrega de derechos**, cuotas, contribuciones, rentas, intereses, sueldos o gratificaciones no debidas, serán sancionados con pena **privativa de libertad de tres a cinco años**. Si la conducta prevista en el inciso anterior se realiza mediante violencias o amenazas, la o el servidor público, será sancionado con pena privativa de libertad de cinco a siete años. Tomado del COIP (2014).
-
-Exintegrantes de One Direction comparten fotos conmovedoras junto a Liam Payne
-==============================================================================
-
-Exintegrantes de One Direction dedicaron emotivos mensajes tras la muerte de Liam Payne.
-----------------------------------------------------------------------------------------
-
-![Liam Payne murió a los 31 años en Buenos Aires, Argentina. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo186.jpg)
-
-**Niall Horan y Zayn Malik**, exintegrantes de la icónica banda británica **[One Direction](https://www.onedirectionmusic.com/gb/home.html "https://www.onedirectionmusic.com/gb/home.html"),** expresaron su tristeza por la muerte de **Liam Payne.**
-
-El cantante de 31 años falleció en un hotel de Buenos Aires. Ambos artistas compartieron conmovedores mensajes en sus redes sociales, recordando los momentos vividos junto a su amigo.
-
-### **Más noticias:**
-
-* [Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html")
-* [Liam Payne luchó contra uno de los peores enemigos](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-deceso-excesos-alcohol.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-deceso-excesos-alcohol.html")
-* [Liam Payne compartió con Cristiano Ronaldo en el Real Madrid](https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html "https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html")
-
-**Liam Payne estaba lleno de energía, según sus amigo**s
---------------------------------------------------------
-
-Niall Horan, en su publicación de **Instagram**, dijo sentirse “destrozado” por la pérdida. En su emotivo mensaje, destacó la energía y pasión de Payne, describiéndolo como una persona capaz de iluminar cualquier espacio.
-
-Horan rememoró las risas y recuerdos compartidos, destacando la importancia de esos instantes en su vida. “Apreciaré cada momento que tuvimos para siempre”.
-
-Zayn Malik también expresó su dolor. En su comunicado, agradeció a Payne por el apoyo brindado durante momentos difíciles. Recordó cómo, a los 17 años, cuando se sentía lejos de casa, Liam siempre estaba presente con su actitud positiva y su sonrisa tranquilizadora.
-
-Malik destacó la sabiduría y firmeza de Payne, resaltando que, a pesar de sus diferencias, siempre lo respetó. “Siempre fuiste más sensato que yo”.
-
-**Harry Styles también está dolido por la muerte de Liam** **Payne**
---------------------------------------------------------------------
-
-La noticia de la muerte de Liam Payne dejó a los integrantes de **One Direction**, incluidos Harry Styles y Louis Tomlinson, “completamente devastados”.
-
-En un comunicado conjunto, expresaron su dolor y anunciaron que tomarán un tiempo para llorar y procesar la pérdida de su “hermano”.
-
-La banda, que marcó una generación, se une en este momento de luto, recordando a un amigo que dejó una huella imborrable en sus vidas.
-
-Día de la Menopausia, momento para hablar sobre salud femenina 
-===============================================================
-
-El Día de la Menopausia es una oportunidad para reflexionar sobre los retos que enfrentan las mujeres.
-------------------------------------------------------------------------------------------------------
-
-![El Día Mundial de la Menopausia promueve la salud y el bienestar de las mujeres en esta etapa. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Menopausia.jpg)
-
-La celebración del **Día Mundial de la Menopausia** se lleva a cabo cada 18 de octubre desde el año 2000. Esta fecha fue establecida por la **Sociedad Internacional de la Menopausia** (SIM) y la **Organización Mundial de la Salud** (OMS).  
-
-### Más noticias
-
-* [Tratamientos de menopausia aumentan riesgo de cáncer de seno, según estudio](https://www.elcomercio.com/tendencias/salud/tratamientos-menopausia-cancer-seno-estudio.html "https://www.elcomercio.com/tendencias/salud/tratamientos-menopausia-cancer-seno-estudio.html")
-* [Menopausia eleva riesgo de sufrir osteoporosis y enfermedades cardiovasculares](https://www.elcomercio.com/tendencias/salud/menopausia-riesgo-enfermedades-osteoporosis-cardiovasculares.html "https://www.elcomercio.com/tendencias/salud/menopausia-riesgo-enfermedades-osteoporosis-cardiovasculares.html")
-
-Su objetivo principal es **crear conciencia sobre la importancia de la salud femenina**, especialmente en una etapa que afecta a millones de mujeres en todo el mundo. La **menopausia**, un proceso natural, **marca el final de la vida reproductiva** y presenta desafíos tanto físicos como emocionales. 
-
-**Importancia del Día Mundial de la Menopausia** 
--------------------------------------------------
-
-La **menopausia** es un tema que ha estado rodeado de tabúes y prejuicios. A pesar de ser **un proceso natural**, muchas mujeres enfrentan dificultades para hablar sobre ello. 
-
- La conmemoración **busca visibilizar estos desafíos y fomentar un diálogo abierto sobre la salud femenina**. Según la OMS, se estima que en los próximos años habrá más de **1000 millones de mujeres mayores de 50 años**, lo que subraya la necesidad de **atención especializada en ginecología y salud mental** para este grupo, a decir de la página [Noticiero Médico](https://www.noticieromedico.com/post/18-de-octubre-d%C3%ADa-mundial-de-la-menopausia "https://www.noticieromedico.com/post/18-de-octubre-d%C3%ADa-mundial-de-la-menopausia").  
-
-**Síntomas y cambios asociados** 
----------------------------------
-
-Los **síntomas de la menopausia** pueden variar considerablemente entre las mujeres. Los más comunes incluyen: 
-
-* Sofocos 
-
-* Sudores nocturnos 
-
-* Alteraciones del sueño 
-
-* Cambios en el estado de ánimo 
-
-* Disminución del deseo sexual 
-
-Estos síntomas son provocados por una **disminución en los niveles de estrógeno**, lo que puede afectar no solo el bienestar físico sino también emocional. Se estima que **los síntomas pueden durar entre cuatro y 12 años**, aunque algunos pueden persistir incluso más tiempo, según la [Asociación Argentina para el Estudio del Climaterio](https://www.aapec.org/index.php/noticias-y-novedades/actividad-de-aapec/1013-el-dia-mundial-de-la-menopausia-marca-su-decimo-aniversario "https://www.aapec.org/index.php/noticias-y-novedades/actividad-de-aapec/1013-el-dia-mundial-de-la-menopausia-marca-su-decimo-aniversario"). 
-
-**Educación y prevención** 
----------------------------
-
-Uno de los **objetivos fundamentales del Día Mundial de la Menopausia** es educar a las mujeres sobre **cómo manejar esta fase**. La información sobre los síntomas, las opciones de tratamiento y los cambios en el estilo de vida es esencial para mejorar su calidad de vida. Las campañas educativas deben centrarse en: 
-
-* La importancia del ejercicio regular. 
-
-* La adopción de una dieta equilibrada. 
-
-* La búsqueda de apoyo psicológico si es necesario. 
-
-Además, **se recomienda realizar chequeos médicos regulares** para monitorear la **salud cardiovascular** y otros aspectos relacionados con esta etapa 
-
-**Datos curiosos sobre la menopausia** 
----------------------------------------
-
-Basados en información de [El Diario de Argentina](https://www.eldiarioar.com/sociedad/dia-mundial-menopausia-conmemora-18-octubre_1_10604559.html "https://www.eldiarioar.com/sociedad/dia-mundial-menopausia-conmemora-18-octubre_1_10604559.html"), se presentan datos interesantes sobre la menopausia: 
-
-* **Fertilidad:** Durante los primeros años, algunas mujeres pueden quedar embarazadas a pesar de tener ciclos irregulares. 
-
-* **Memoria:** Muchas experimentan problemas temporales con la memoria, comúnmente conocida como “niebla mental”. 
-
-* **Irritabilidad:** Aproximadamente el 70% reporta cambios en su estado emocional durante esta etapa. 
-
-Así funciona el Pico y placa en Quito este viernes 18 de octubre
-================================================================
-
-Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
-------------------------------------------------------------------------------------------------------------------
-
-![Los agentes de tránsito vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Quito-pp.jpg)
-
-El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
-
-Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
-
-### Más noticias
-
-* [Circulación vehicular se reanuda en la Plaza Argentina](https://www.elcomercio.com/actualidad/quito/circulacion-vehicular-se-reanuda-en-la-plaza-argentina.html "Circulación vehicular se reanuda en la Plaza Argentina")
-* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
-* [Daniel Noboa condona deudas de Juntas de Agua](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-entrega-camionetas-y-condona-deudas-de-juntas-de-agua.html "Daniel Noboa condona deudas de Juntas de Agua")
-
-Horarios de Pico y placa
-------------------------
-
-Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
-
-Estos son los horarios de aplicación:
-
-* En la **mañana**: de 06:00 a 09:30
-* En la **tarde**: de 16:00 a 20:00
-
-El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
-
-Multas por infringir el Pico y placa
-------------------------------------
-
-La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
-
-Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
-
-Recuerda retirar tu auto de las plazas de parqueo
--------------------------------------------------
-
-Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
-
-Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
-
-Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
-
-Este **viernes 11 de octubre de 2024 es feriado** y, por lo tanto, no se aplica la medida d**e Pico y placa** en la ciudad de Quito.
-
-> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oh699gKfye](https://t.co/oh699gKfye)
-> 
-> — AMTQuito (@AMT\_Quito) [October 4, 2024](https://twitter.com/AMT_Quito/status/1842143169346957464?ref_src=twsrc%5Etfw)
-
-Paz con la naturaleza: COP 16
-=============================
-
-La COP 16 en Cali abordará la conservación de la biodiversidad y la distribución equitativa de beneficios genéticos.
---------------------------------------------------------------------------------------------------------------------
-
-![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
-
-Entre los días 21 de octubre y 1 de noviembre se desarrollará en Cali, Colombia la COP 16 (Conferencia de las Partes), del **Convenio de las Naciones Unidas para la Diversidad Biológica**, bajo el sugestivo nombre de “**Paz con la Naturaleza**”, en un país que cuenta con una riquísima biodiversidad, pero escasa paz entre sus habitantes desde hace medio siglo.
-
-En este encuentro, representantes de todo el mundo trabajarán para avanzar en la **conservación** y uso sostenible de la **biodiversidad**.  
-
-Al ser la primera COP desde la adopción del **Marco Mundial de Biodiversidad de Kunming-Montreal**, celebrada en diciembre de 2022, uno de sus objetivos será la revisión y medición del cumplimiento de lo acordado, por parte de aquellos países que la suscribieron.
-
-Se prevé que las Partes muestren la alineación de sus **Estrategias y Planes de Acción** en materia de **Diversidad Biológica** con lo acordado hace dos años.  Otro objetivo será finalizar y operacionalizar el **mecanismo multilateral** sobre participación **justa y equitativa** de los **beneficios** derivados del uso de **información digital** sobre secuencias de recursos genéticos.
-
-Colombia y su actual gobierno presidido por Gustavo Petro, viene de manera reiterada exponiendo en todos los **foros internacionales**, que la **humanidad** camina hacia su **extinción**, si acaso no se hace un giro drástico en la extracción, uso y consumo de combustibles fósiles, a pesar de que su principal rubro de **exportación** es el **petróleo**, generando por ello, un fuerte **debate interno**.
-
-Su constante **denuncia** del **cambio climático** explica que Colombia postulara y obtuviera el ser sede de este importante **evento internacional**, el más relevante ocurrido en dicho país desde que en 1995 se realizara en Cartagena de Indias la **Cumbre de los Países No Alineados**.
-
-Es importante contextualizar esta COP 16, puesto que desde 1992, durante la **Cumbre de la Tierra**, celebrada en Río de Janeiro, se establecieron tres acuerdos claves para coordinar esfuerzos internacionales para abordar los **problemas ambientales globales.** 
-
-Así, la **Convención Marco de las Naciones Unidas sobre el Cambio Climático,** es el primero, más conocido e importante en **temas ambientales**.  Su principal objetivo es el reducir las emisiones de gases de efecto invernadero para limitar el **calentamiento global**.  Su Acuerdo más relevante es el de París, alcanzado en el 2015, y representa un compromiso global para limitar el **calentamiento global**. 
-
-Un segundo, es la **Convención sobre Diversidad Biológica,** adoptada en Canadá en el 2022, convirtiéndose en un hito clave en la protección de la biodiversidad global.  Su objetivo principal es proteger el 30% del **planeta**, incluyendo áreas terrestres, marinas y de agua dulce. Además, pone un fuerte énfasis en la restauración y protección de ecosistemas críticos, como las **selvas tropicales** y los humedales, que son esenciales para la **biodiversidad** y el **equilibrio climático**.  Esta es la que se realizara próximamente en Cali.
-
-Y un tercero, es la **Convención de las Naciones Unidas** para la Lucha en **Contra de la Desertificación**, que aborda la **prevención de la desertificación** y la **degradación de las tierras**, con el objetivo de promover la **gestión sostenible** de los **recursos terrestres** y mejorar la **resiliencia de las áreas afectadas** por la sequía.  Adoptada en 1994, esta **cumbre** es el único **acuerdo internacional** legalmente vinculante que une el ambiente y el **desarrollo sostenible** con la gestión y restauración de las tierras secas, que representan un tercio de la **superficie terrestre** del planeta.
-
-Las tres están interrelacionadas y apuntan a un mismo **objetivo global**, la **protección del ambiente**, para hacer frente a la triple **crisis planetaria**: el cambio climático, la pérdida de la **biodiversidad** y la **contaminación**.
-
-Crisis en el sector energético (parte 5)
-========================================
-
-¿Cómo lograr un adecuado equilibrio y transparencia en el mercado de generación para que sea competitivo y transparente?
-------------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-Los **políticos** de todas las bancadas del **arcoíris** de tendencias, ciertamente cargan con la **responsabilidad** por no haber puesto como **prioridad** los **sagrados** intereses de la nación por sobre sus intereses personales (no solamente ahora, pero desde larga data atrás). Ya vemos que están aprovechando para atacar al **gobierno** de turno cuando la **responsabilidad** es colectiva, heredada e intensificada en el tiempo.
-
-Expongo lo inmediato anterior, ante el tratamiento que en los próximos días hará la asamblea al Proyecto de “**LEY ORGÁNICA PARA IMPULSAR LA INICIATIVA PRIVADA EN LA TRANSICIÓN A ENERGÍAS RENOVABLES**” que, calificada **COMO URGENTE EN MATERIA ECONÓMICA**, ha sido presentada por el señor Presidente de la república.
-
-El **objetivo** de la referida ley, según su Art.1, es promover **soluciones económicas** y de generación de **energía renovable** a fin de superar la crisis energética, optimizando el uso de recursos públicos asociados al sector eléctrico e incentivar la inversión privada en todo el territorio nacional.
-
-Al tomar conocimiento de su contenido, miramos con atención el esfuerzo que hace el primer mandatario para generar confianza en el **sector privado** para su **participación en la gestión del sector eléctrico** del país, sin embargo, creemos que hace falta, no solo incorporar normas que generen esa confianza sino pensar en una **reforma importante** y fundamental en el alcance que debe tener la **Ley Orgánica del Servicio Público de Energía Eléctrica** – LOSPEE – actualmente vigente, así como la reforma amplia y suficiente a su **Reglamento General** de aplicación.
-
-Tales reformas deberían comprender que la participación del **sector privado** se fundamente en normas propias de la LOSPEE, en las que, en forma clara se disponga que la participación de dicho sector sea amplia tanto para proponer **proyectos de generación** como de autogeneración, estableciendo disposiciones que, al formar parte de dicha ley, su aplicación sea inmediata, para no depender de normas de carácter secundario – reglamentarias o regulatorias -, como ocurre hoy para el desarrollo de **proyectos de autogeneración.**
-
-Asimismo, es necesario que la **participación privada**, a más de contar con la autorización para participar en cualquiera de las **actividades** antes mencionadas, esté permitida su participación en la comercialización de la **energía** que produzca como **generador** y de los excedentes que pueda disponer si su **autorización** es para participar como auto generador, mediante las **transacciones** de compraventa con cualquiera de los participantes autorizados conforme la ley.
-
-Si bien el gobierno de turno, al igual que los **candidatos** inscritos para las siguientes **elecciones** en febrero 2025, en lugar de traernos un rosario de ofertas, deben proponer y el país debe exigir los escenarios y planes para sacar al país de la postración y **crisis actual,** tocando **problemas** fundamentales y no **demagogia** barata. Aquí también radica la **responsabilidad** de los medios, los periodistas, los entrevistadores para que no anden por las ramas, sino directo al **grano** de nuestras preocupaciones colectivas de los **ecuatorianos**.
-
-Es fácil botar la pelotita a los demás, pero no lo haré, más bien se puede enunciar una serie de inquietudes que despejen la hoja de ruta hacia una **legislación** adecuada para un futuro, donde la normativa aplicable al **sector eléctrico** tenga el **tratamiento legislativo** que la situación exige.
-
-¿Cómo beneficiará o afectará este **proyecto** de **ley** al **desarrollo** de las **economías locales y nacionales**?
-
-¿Cuáles son los **incentivos** adecuados y necesarios para atraer la **inversión privada** y como desarrollar el Marco regulatorio que permita y garantice el **desarrollo** de este **mercado**? Aquí se puede tomar los modelos de múltiples países con el **asesoramiento** de las **entidades** multilaterales.
-
-¿Cómo lograr que este **proyecto** garantice un **acceso económico** adecuado para las comunidades más vulnerables de la **sociedad**? Esto es más fácil cuando se lo pone por techos de **consumo** de acuerdo cada uno de los entornos de estas **comunidades**.
-
-¿Determinar si la **infraestructura** existente actual está lista para soportar la **transmisión** y distribución del incremento en la **generación** de **energía** y, si no es la adecuada, que apertura se dará en este caso al rol del sector privado tanto en generación, transmisión y **distribución** de la **energía**?
-
-¿Cómo hacer que toda esta **transición energética** contribuya con la sostenibilidad del **medio** ambiente y los **acuerdos internacionales** comprometidos y firmados por el **Ecuador**?
-
-¿Cómo lograr un **adecuado equilibrio** y transparencia en el **mercado** de generación para que sea competitivo y **transparente** con la actual **generación estatal** y como regular la participación en este mercado mayorista de los **actores privados**?
-
-Cartas a Quito / 18 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este viernes 18 de octubre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-**Necesitamos una canción**. **Evoco las Palabras de mi Maestro Alfredo Pérez Guerrero** 
------------------------------------------------------------------------------------------
-
-“El país debe comenzar una nueva era, y para llegar a la Tierra de Promisión, es menester que hagamos un examen de conciencia todos los ecuatorianos y que, arrepentidos de nuestras culpas, de nuestros errores y de nuestros crímenes, unamos las pocas fuerzas que nos quedan en el alma que son únicas que importan para seguir el viaje. Quizás, si en ello nos empeñamos y si en ello ponemos fe, amor y tenacidad, podemos bordear la roca contra la cual parece va a estrellarse definitivamente la vida de nuestro pueblo.” 
-
-“Quizá lo único que hace falta para nuestro viaje es una canción. El que la invente será nuestro abanderado y nuestro guía. No necesitamos aeroplanos supersónicos, ni proyectiles deformes con su carga de átomos despedazados; no nos hacen falta dólares ni las libras esterlinas no los rublos, no nos sirven los antibióticos, ni los elixires prolongadores de la juventud y retardadores de la muerte, no nos importan los discursos académicos, ni el pro ni el contra de los leguleyos, ni la tesis y antítesis de los dialécticos, ni los sermones hipócritas y dulzones que pretenden enredarnos y robarnos nuestra alegría.” 
-
-“Solo necesitamos una canción, una canción simple que sea como una bandada de alondras o como un ramo de rosas o como un astro al amanecer; que brote de los pechos y de los labios cuál surtidor de aguas cristalinas; que nos levante de nuestro desfallecimiento, cierre nuestras heridas sangrantes, descorra los opacos velos que enturbian nuestra mirada, y nos devuelva el latido fuerte de nuestro corazón de hombres.” 
-
-“Cantemos nuestro canto de hombres que tienen fe y virilidad, y que están dispuestos a defender y a salvar “lo único que importa”. Encarguemos a los poetas que tracen las líneas de la estrofa, y dejemos que la música sea cambiante, que tenga del arrullo y del trino y también del rugir de la tormenta.” 
-
-“Luego de tantos años de dolor y fracaso, entreguemos las insignias de nuestro poderío en las manos fuertes, sanas y preparadas en los problemas del país, a la juventud, ya que nosotros, hombres maduros, hemos conducido al país a esta encrucijada. Que sea la juventud que no tiene prejuicios, ni cadenas, ni consignas, las que levanta sobre sus brazos fuertes el Arca Santa que contiene las esencias del ser humano.” 
-
-Jorge Enríquez Páez  
-
-El voto latino y su impacto en las elecciones de EE. UU.
-========================================================
-
-El voto latino es clave en las elecciones estadounidenses y puede influir en reformas migratorias y relaciones con América Latina.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump y Kamala Harris buscan la presidencia de EE.UU. La elección será el 5 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/trump.jpg)
-
-Las elecciones presidenciales de **Estados Unidos** del próximo 5 de noviembre se presentan como un escenario crucial, especialmente para la comunidad latina, que ha demostrado ser un electorado decisivo en los últimos años. Con una población latina que supera los 62 millones, su participación puede inclinar la balanza en estados clave y determinar el rumbo de políticas que afectan no solo a los inmigrantes, sino también a las relaciones de EE. UU. con países latinoamericanos como **Venezuela, México, Brasil, Nicaragua y Argentina.** A medida que se acercan las elecciones, es fundamental analizar cómo el voto latino puede influir en las reformas migratorias y la política exterior estadounidense.
-
-> La comunidad latina ha crecido significativamente en EE. UU. y se ha convertido en una fuerza electoral que no puede ser ignorada.
-
-En las elecciones de 2020, a**proximadamente el 50%** de los votantes latinos eligieron a **Joe Biden**, lo que fue crucial para su victoria. Este año, se espera que la participación latina sea igualmente relevante, ya que muchos votantes están motivados por temas como la inmigración, la justicia social y el acceso a la salud.
-
-Uno de los temas más apremiantes para los votantes latinos es la reforma migratoria. La administración Biden prometió avanzar en un camino hacia la ciudadanía para millones de inmigrantes indocumentados, así como mejorar las condiciones en los centros de detención y abordar las políticas restrictivas implementadas por administraciones anteriores.
-
-Sin embargo, la falta de avances significativos ha generado desilusión entre muchos votantes latinos. La presión sobre el próximo gobierno para implementar reformas migratorias efectivas será alta, especialmente si se considera el aumento del número de migrantes provenientes de países como Venezuela y Nicaragua. La comunidad espera que se prioricen soluciones humanitarias y se establezcan vías legales para la migración.
-
-La política exterior de EE. UU. hacia América Latina también está en juego. Las relaciones con Venezuela han sido tensas bajo el gobierno de **Nicolás Maduro**, quien ha enfrentado sanciones por violaciones a los derechos humanos y corrupción. La comunidad latina en EE. UU., especialmente aquellos con raíces venezolanas, espera que el nuevo gobierno adopte un enfoque más diplomático que contemple el apoyo a la democracia y los derechos humanos sin recurrir a medidas extremas.
-
-En cuanto a Nicaragua, bajo el liderazgo de **Daniel Ortega**, las relaciones han sido igualmente complicadas. El próximo gobierno estadounidense deberá considerar cómo abordar la crisis política en Nicaragua sin exacerbar tensiones regionales. Un enfoque equilibrado podría incluir apoyo a iniciativas democráticas mientras se evita una intervención directa que podría ser contraproducente.
-
-La relación con Argentina también merece atención. Con un nuevo gobierno en Argentina que busca fortalecer sus vínculos internacionales, EE. UU. tiene la oportunidad de colaborar en temas económicos y sociales. La comunidad latina espera que el próximo presidente estadounidense fomente una relación constructiva con Argentina, centrada en el comercio justo y la cooperación en áreas como la educación y la salud pública. Sin embargo, se debe considerar que la relación no será igual si el **Partido Demócrata se mantiene en la Casa Blanca**, ya que el presidente argentino, **Javier Milei, mantiene una estrecha relación con el candidato republicano, Donald Trump.**
-
-Se deberá tener atención a la política exterior del nuevo Gobierno mexicano. La mayoría de migrantes en EE.UU. provienen de ese país y son potenciales votantes, sin embargo, México y Washington guardan por el momento un distanciamiento prudente por la última reforma judicial.
-
-El voto latino tiene el potencial de ser un factor determinante en las próximas elecciones presidenciales de EE. UU., influyendo no solo en reformas migratorias, sino también en cómo se gestionan las relaciones con países como, México, Venezuela, Nicaragua y Argentina. La comunidad latina debe aprovechar esta oportunidad para hacer oír su voz y asegurar que sus intereses sean representados adecuadamente.
-
-Minera Fruta del Norte se pronunció tras aviso de eliminación de subsidios al sector
-====================================================================================
-
-Lundin Gold, operadora de la mina de oro Fruta del Norte, difundió un comunicado con su postura.
-------------------------------------------------------------------------------------------------
-
-![La minera de oro Fruta del Norte opera en la provincia de Zamora Chinchipe](https://www.elcomercio.com/wp-content/uploads/2024/10/fruta-del-norte.jpg)
-
-**Lundin Gold**, operadora de la mina de oro **Fruta del Norte**, ubicada en la provincia de Zamora Chinchipe, emitió un comunicado tras el anuncio del presidente **Daniel Noboa** de retirar los subsidios a las mineras.
-
-El mandatario señaló este martes 15 de octubre de 2024, que la decisión busca corregir un “sistema de subsidios injusto que beneficia a los que más recursos tienen”.
-
-### Más noticias
-
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
-* [Cortes de luz en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-quito-viernes-18-octubre.html "Cortes de luz en Quito este viernes 18 de octubre")
-
-“Las **mineras** en **Ecuador** consumen más energía de la que necesita un hospital para operar. Y aun así, su tarifa de energía ha sido subsidiada por el Estado. Ese subsidio incongruente e injusto que han tenido las mineras, no va más”, publicó en la red social X.
-
-Esta decisión tuvo la reacción inmediata de la Cámara de Minería del Ecuador **(CME)**. **María Eulalia Silva**, presidenta del directorio de la entidad aseguró que las **tarifas eléctricas** de las **empresas mineras** no constituyen un **subsidio**.
-
-Silva explicó que **la tarifa eléctrica** para la categoría AV2 (alto voltaje), no solo la pagan las **dos minas** que se encuentran en producción, **Fruta del Norte y Mirador**; sino que también otras industrias en las que se incluyen los campos petroleros.
-
-Postura de Lundin Gold
+* [Cierre vial en El Trébol se aplicará en este horario](https://www.elcomercio.com/actualidad/quito/cierre-vial-en-el-trebol-se-aplicara-en-este-horario.html "Cierre vial en El Trébol se aplicará en este horario")
+* [Cortes de agua en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-este-viernes-18-de-octubre.html "Cortes de agua en Quito este viernes 18 de octubre")
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+
+¿Cómo y cuándo se realizará la recolección?
+-------------------------------------------
+
+Este domingo 20 de octubre, se realizará la recolección de tereques en el **Centro Histórico de Quito**. Este programa está pensando para los habitantes, comerciantes y personal de dependencias públicas y negocios privados.
+
+Se trata de recoger los **residuos voluminosos** que no se pueden desechar con la basura normal debido a su volumen, por ejemplo:
+
+* Restos de poda
+* Materiales de construcción
+* Artefactos
+* Camas
+* Colchones
+* Sillones
+* Mesas
+* Todo tipo de mobiliario en desuso
+
+El Domingo de Tereques
 ----------------------
 
-La empresa canadiense mostró una **postura similar** a la CME sobre este tema.
+El manejo inadecuado de residuos voluminosos, más conocidos como **‘tereques’** representa un problema operativo recurrente para Emaseo EP. **Este es un inconveniente** sobre todo en las rutas de recolección ordinaria en el **Centro Histórico** y que afecta también en la salubridad y el paisaje urbano de la zona.
 
-La encargada de Fruta del Norte dijo reafirmar su compromiso con el país en medio de la **crisis energética** que afecta a Ecuador, por lo que, según detalló, ha implementado un plan de **autogeneración parcial** que le permite operar de manera continua y contribuir al alivio del Sistema Nacional Interconectado (SNI).
+Para establecer la implementación de este servicio se consideraron algunos aspectos como las características **geográficas y demográficas del sector**. También condiciones de accesibilidad, generación de desechos voluminosos y delimitación de la zona a intervenir.
 
-La compañía aseguró que desde el segundo semestre de 2023 ha contribuido con sus **propios mecanismos de electricidad**.
+Para este programa, el **equipo técnico operativo** colocará cajas metálicas de 27 metros cúbicos y volquetas de 8 metros cúbicos para la recolección. Estos se ubicarán en:
 
-“A pesar de que el consumo normal de la mina es de aproximadamente **17 MW**, la implementación del plan ha reducido este consumo a la mitad, a 8,5 MW, demostrando el compromiso con la sostenibilidad energética”, puntualizó la empresa.
+* Escuela Sucre
+* Parque El Arbolito
+* Centro de Arte Contemporáneo
+* Plaza de San Diego
 
-Además, para aumentar esta capacidad, la empresa afirmó que está en proceso de **importar generadores adicionales** que llegarán en las próximas semanas.
+La ejecución de esta campaña incluye labores que se desarrollan entres fases. Estas son
 
-De acuerdo con Lundin Gold, la empresa invirtió unos **22 millones en la construcción** de un sistema de transmisión eléctrico, desde 2018, “que no solo beneficia a la mina, sino también a las comunidades locales”.
+* Disposición de un **vehículo ampliroll** que realizará la colocación de las cajas de 27 m2 en puntos estratégicos.
+* En cada sector delimitado, **se asignará una volqueta** para que realice un recorrido y pueda descargar los desechos voluminosos en las cajas correspondientes.
+* Una vez terminada la recolección, **las cajas serán trasladadas** al sitio que la Empresa de Gestión de Residuos Sólidos (Emgiris EP) disponga para la descarga.
 
-Mineras no se oponen a la revisión de las tarifas eléctricas
-------------------------------------------------------------
+Con esta iniciativa se busca contribuir al **cuidado de los espacios urbanos** y naturales para así evitar que los ciudadanos arrojen estos residuos en quebradas o terrenos baldíos. Esto en cumplimiento a la ordenanza Verde Azul [en el DMQ](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
 
-Tanto **Lundin Gold** como la Cámara de Minería del Ecuador aseguraron que no se oponen a la revisión de las tarifas eléctricas, pero enfatizaron “en la importancia de que este **proceso** se realice **de manera técnica** considerando las particularidades de cada industria y garantizando la estabilidad jurídica”.
+Municipio de Quito convoca a privados para proyectos ambientales y de movilidad
+===============================================================================
 
-“Lundin Gold no solo busca operar eficientemente su mina en un contexto desafiante, sino que también se compromete a generar un **impacto positivo** en las comunidades locales y contribuir al desarrollo sostenible del país”, mencionó la compañía en su comunicado.
+La Alcaldía de Quito busca una mayor participación de los sectores privados para proyectos urbanos. Deben tener estudios técnicos.
+----------------------------------------------------------------------------------------------------------------------------------
 
-> [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | La Cámara de Minería del Ecuador reitera que no existe un subsidio eléctrico para el sector minero. Reafirmamos nuestro compromiso con el país ante la crisis energética. Invitamos a leer nuestro comunicado completo aquí: [https://t.co/Rp7uS0dZz2](https://t.co/Rp7uS0dZz2) [pic.twitter.com/TE0iQ9S7KK](https://t.co/TE0iQ9S7KK)
-> 
-> — Cámara de Minería del Ecuador (@mineriaecuador) [October 16, 2024](https://twitter.com/mineriaecuador/status/1846609660582797705?ref_src=twsrc%5Etfw)
+![El Municipio de Quito recibirá hasta el 30 de octubre los proyectos presentados por sectores privados.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-14-2.jpg)
 
-Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis
-===========================================================================
-
-El presidente Daniel Noboa explicó en qué consiste el plan estratégico a ejecutarse para superar la crisis de energía en Ecuador.
----------------------------------------------------------------------------------------------------------------------------------
-
-![El Gobierno aseguró que el plan estratégico ayudará a superar la crisis energética que complica el trabajo y la cotidianidad de la ciudadanía](https://www.elcomercio.com/wp-content/uploads/2024/10/energiaa.jpg)
-
-El presidente **Daniel Noboa** se refirió a la **crisis energética** que tiene Ecuador, la noche de este jueves 17 de octubre de 2024.
-
-A través de un video difundido en sus redes sociales, el mandatario habló sobre las medidas que se tomarán durante las **próximas semanas** y **meses**.
+Hasta el 30 de octubre del 2024, el Municipio de Quito recibirá propuestas privados para presentar proyectos ambientales, de movilidad y de otros sectores. La convocatoria se abrió al iniciar el mes y está abierta para personas jurídicas nacionales y extranjeras.
 
 ### Más noticias
 
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Cortes de luz en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-quito-viernes-18-octubre.html "Cortes de luz en Quito este viernes 18 de octubre")
-* [Recomendaciones para conducir de noche con cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-conducir-noche-quito-recomendaciones.html "Recomendaciones para conducir de noche con cortes de luz en Quito")
+* [Nuevo operativo de tránsito por la Ecovía en Quito: ¿cuándo arranca?](https://www.elcomercio.com/actualidad/nuevo-operativo-transito-obras-ecovia-quito-domingo.html "Nuevo operativo de tránsito por la Ecovía en Quito: ¿cuándo arranca?")
+* [Incendio forestal se registra en el cerro Ilaló, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-cerro-ilalo-quito.html "Incendio forestal se registra en el cerro Ilaló, en Quito")
+* [El agua es lo más buscado por las familias de Quito desde mediados de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-agua-racionamiento-barrios-quito.html "El agua es lo más buscado por las familias de Quito desde mediados de septiembre")
 
-Acompañado de las ministras del Ambiente, **Inés Manzano** y de la Producción, **Sonsoles García**, Daniel Noboa inició su intervención agradeciendo a la ciudadanía por “afrontar esta realidad”.
-
-“En las últimas semanas, como país hemos tenido que afrontar momentos **extremadamente complejos**, lo entiendo, ha sido difícil, sé del esfuerzo que hemos tenido que hacer”, comentó.
-
-“Gracias a los emprendedores, niños jóvenes, padres y madres; reconozco y agradezco todo sus esfuerzos para **sostener el país**“, añadió.
-
-Cortes de luz se reducirán de forma paulatina
----------------------------------------------
-
-A continuación, Noboa detalló que los horarios de **cortes de luz** tendrán cambios en las próximas tres semanas.
-
-Los apagones se ejecutarán en **dos bloques** y se reducirán de forma paulatina para las **zonas residenciales**, detalló.
-
-Los cortes irán disminuyendo **dos horas** cada siete días. Es decir, la semana del 21 de octubre los cortes de luz serán de **ocho horas**; la del 28 de octubre de **seis horas** y la del 6 de noviembre de **cuatro horas**.
-
-Mientras que el **sector industrial** se mantendrá con los horarios asignados.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBQGMUORKTU/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBQGMUORKTU/?utm_source=ig_embed&utm_campaign=loading)
-
-Gobierno incluirá 1 598 MW al sistema energético
-------------------------------------------------
-
-En otras medidas anunciadas, los funcionarios aseguraron que el Gobierno trabaja en un **plan estratégico** en favor de crear energías alternativas para que el país “no dependa únicamente del **recurso hídrico**“.
-
-Se espera incluir hasta el primer trimestre de 2025 un total de **1 598 megavatios (MW)**, a través de la compra de generación eléctrica en tierra, renta interna y el funcionamiento de **Toachi Pilatón**.
-
-Algunos de estos megavatios serán incluidos según el siguiente cronograma:
-
-* **Noviembre**: se incluirán 241 MW a partir de la compra de generación permanente en tierra.
-* **Diciembre**: 300 MW serán añadidos a través de contratos de renta en tierra y 204 MW más gracias al funcionamiento de Toachi Pilatón.
-* **Enero a marzo de 2025**: La compra de generación terrestre sumará otros 419 MW.
-
-También se anunció que desde el mes de noviembre se adelantará el subsidio de **180 kilovatios** de consumo eléctrico para las zonas residenciales.
-
-Medidas para el sector productivo
----------------------------------
-
-De acuerdo con la ministra **García**, “ya se está trabajando en alternativas energéticas para que el sector productivo siga operando”.
-
-Entre ellas mencionó: **incentivos fiscales**, apoyo logístico y la presentación de propuestas de competitividad a la Asamblea para facilitar las operaciones y la sostenibilidad.
-
-Por otra parte, Inés Manzano afirmó que se están emprendiendo acciones para cambiar la matriz energética, en los que se incluyen **proyectos solares, eólicos y geotérmicos** “para asegurar a mediano plazo la diversidad de la producción de energía”.
-
-“El país que nos dejaron es enteramente dependiente de la lluvia y de los caudales de los ríos (…) se promoverán alternativas a esta dependencia”, enfatizó la **Ministra de Ambiente**.
-
-Cortes de luz en Guayaquil este viernes 18 de octubre
-=====================================================
-
-CNEL estableció la programación de los cortes de luz en Guayaquil para este viernes 18 de octubre.
---------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este viernes 18 de octubre continúan por franjas horarias.](https://www.elcomercio.com/wp-content/uploads/2024/04/apagones-quito-23-abril.jpg)
-
-Los **cortes** de luz en **Guayaquil** este **viernes 18 de octubre de 2024** son de hasta 10 horas.
-
-**CNEL** estableció la programación en esta ciudad por franjas horarias.
-
-### Más noticias:
-
-* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-
-En este tiempo, el Gobierno de Daniel Noboa ha anunciado **varias medidas** para contrarrestar los efectos de la crisis energética.
-
-Entre estas están que las mineras en producción generen su propia energía, el transporte de soluciones móviles de energía en **aviones Hércules**.
-
-Además, las 10 horas de cortes de luz en el sector industrial, durante 15 días, y proyectos de energía renovable que darán electricidad a **largo plazo**, entre otras.
-
-La noche de este jueves 17 de octubre, el presidente **Daniel Noboa** anunció cambios en los cortes de luz para las próximas tres semanas.
-
-El mandatario dijo que se **reducirán paulatinamente** para el **sector residencial** y se mantendrán en dos franjas horarias.
-
-Mientras que, para el **sector industrial** se mantendrán.
-
-Cortes de luz en Guayaquil este viernes 18 de octubre
------------------------------------------------------
-
-Los cortes de luz en Guayaquil para este viernes serán de hasta **tres franjas** horarias por sector.
-
-Las **empresas eléctricas** del país aclaran que, debido a la mejora de las condiciones hidrológicas, los cortes de luz pueden reducirse dentro del período del corte programado.
-
-A continuación los horarios de los cortes de luz en Guayaquil para este **viernes 18 de octubre**, por sectores:
-
-El agua es lo más buscado por las familias de Quito desde mediados de septiembre
-================================================================================
-
-Moradores de diferentes barrios de Quito se dan modos para conservar la poca agua que les llega durante la época seca.
-----------------------------------------------------------------------------------------------------------------------
-
-![Jacoba Barros, moradora del barrio Laderas del Cisne, comenta que no tiene agua hace dos días.](https://www.elcomercio.com/wp-content/uploads/2024/10/Quito-sin-agua-.jpg)
-
-El clima en **Quito** presenta temperaturas muy altas, junto con niveles elevados de **radiación**. Esto hace que la demanda de agua sea mayor[.](https://es.wikipedia.org/wiki/Uso_racional_del_agua "https://es.wikipedia.org/wiki/Uso_racional_del_agua")
-
-Más noticias
-------------
-
-* [Cortes de agua en Quito la tarde de este jueves 17 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-tarde-jueves-17-de-octubre.html "Cortes de agua en Quito la tarde de este jueves 17 de octubre")
-* [Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal](https://www.elcomercio.com/actualidad/quito/vecinos-bolanos-quito-levantan-tres-semanas-incendio.html "Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal")
-* [Daniel Noboa condona deudas de Juntas de Agua](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-entrega-camionetas-y-condona-deudas-de-juntas-de-agua.html "Daniel Noboa condona deudas de Juntas de Agua")
-
-La ciudad enfrenta no solo **cortes** **de luz**, sino también **racionamientos** **de agua**. En algunos barrios, el suministro del líquido vital llega a faltar hasta dos días.
-
-Historias de los barrios de Quito sin agua
+La convocatoria para el Municipio de Quito
 ------------------------------------------
 
-Cecy Morales, residente de **Atucucho**, un sector ubicado en el noroccidente de **Quito**, comentó que en varias partes del barrio el **agua** no llega.
+En la convocatoria, el Municipio de Quito invita a personas jurídicas, nacionales o extranjeras, asociaciones o consorcios, a participar y presentar iniciativas privadas que contribuyan al desarrollo de proyectos ambientales, de movilidad, entre otros sectores[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
 
-Ella se encarga de llamar a la **Epmaps** para resolver la situación, pero a veces ni siquiera ellos saben que falta el **líquido** **vital**. Además, menciona que los **tanqueros** del Municipio solo llegaron dos días.
+La modalidad será para lograr una asociación público-privada. Esta asociación estará de acuerdo a la ventana temporal general e intersectorial para los Gobiernos Autónomos Descentralizados y que aprobó el Comité Interinstitucional de Asociones Público-Privadas.
 
-Jacoba Barras, quien vive en **Laderas** del **Cisne**, cerca de **Atucucho**, lleva dos días sin agua. En su cocina guarda el agua que recolectó después de **lavar los platos**; no la desecha, pues la usará para el baño.
+Esta decisión se toma amparada a los artículos 31 y 33 de la Ley Orgánica de Eficiencia Económica y Generción de Empleo y el Reglamento General de la Ley Orgánica de Eficiencia Económica y Generación de Empleo. Y los proyectos deberán sujetarse a esas disposiciones.
 
-En su casa, de cuatro pisos, viven 20 personas. Este 17 de octubre no tenían agua ni para cocinar. Solo cuentan con **arroz** guardado, que piensan complementar con huevo.
+¿Cómo y dónde presentar los proyectos?
+--------------------------------------
 
-Su lavadora se encuentra inservible, con ropa a medio lavar, porque cuando hay luz no hay agua, y cuando hay agua, no hay luz.
+Los proyectos deben tener un perfil. Según el Municipio de Quito, los interesados deben enviar propuestas que estén enfocados en identificar problemas y ofrecer soluciones por medio de un estudio técnico.
 
-Junto a ella vive **María** **Guevara**, madre de dos hijos, uno en la universidad y otro en el colegio.
+Los trabajos de estas entididades privadas que busquen asociarse con lo público, deberán ser entregados en dos formatos. El primero es digital, pero el segundo es fiísico. Por ello, los interesados deberán acudir hasta la Secretaría General del Municipio.
 
-Relata que, cuando sus hijos regresan de clases, deben ingeniárselas para **lavar la ropa** y realizar su aseo personal y deberes.
+Las oficinas quedan en el tercer piso del Palacio Municipal, en la calle Venezuela entre Chile y Espejo, en pleno Centro Histórico de la ciudad.
 
-En el barrio **Unión** la **Paz**, Julio Velasteguí vive con su esposa y su hijo. Han tenido más suerte, ya que recuperan el **suministro de agua** por un breve periodo una vez al día, momento que aprovechan para recolectar el **líquido** en baldes.
+Truco para ver mensajes eliminados en WhatsApp 
+===============================================
 
-Julio reclama que no se les ha informado sobre un horario de **cortes** **de agua** que les permita tomar precauciones.
+Opciones para ver los mensajes eliminados en WhatsApp. Sigue estos pasos sencillos y efectivos.
+-----------------------------------------------------------------------------------------------
 
-Tanto en la casa de **Jacoba** como en la de **Julio** intentan aprovechar al máximo este recurso. Incluso recolectan las aguas de las esporádicas lluvias, que utilizan para el baño o la hacen hervir para poder usarla en la limpieza.
+![Consulta el historial de notificaciones en Android para ver fácilmente los mensajes eliminados de WhatsApp. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/mensajes-eliminados-whatsapp.jpg)
 
-Características geográficas de Quito complican el abastecimiento de agua
-------------------------------------------------------------------------
-
-Debido a las características geográficas de **Quito**, los sectores más elevados dependen de estaciones de **bombeo** para impulsar el agua hacia los tanques de distribución. “Por esta razón, los cortes de energía afectan el funcionamiento de estas estaciones de bombeo y, en consecuencia, la provisión de agua”, indicó el Municipio.
-
-El Cabildo añadió que, una vez restablecido el **servicio eléctrico,** el personal de la **Epmaps** monitorea y controla las estaciones para reactivarlas y comenzar el llenado de tanques y redes de distribución. “Cuanto más tiempo dure el corte de energía, más tardará en restablecerse el servicio de agua potable”, advirtió el Municipio.
-
-Por este motivo, las autoridades exhortaron a los habitantes de las zonas bajas de la ciudad a **consumir** **agua** de manera moderada para facilitar el **llenado de los tanques** en el menor tiempo posible.
-
-Retraso en el reabastecimiento de agua en Quito
------------------------------------------------
-
-Johanna Patiño, gerente de operaciones de la **Epmaps**, explicó que, en algunos sectores altos de **Quito**, después de reanudar el servicio eléctrico, es necesario esperar un par de horas para restablecer el suministro de agua.
-
-Esto se debe a la necesidad de generar la presión adecuada para enviar el agua a esas zonas, lo cual implica volver a llenar las **estaciones de bombeo** y liberar el aire acumulado en las **tuberías**.
-
-Según Patiño, el 6% de la **población de** **Quito** enfrenta este tipo de problemas durante los cortes de luz, aunque no todos se ven afectados simultáneamente. Existen, sin embargo, sitios críticos como La **Roldós**, **Colinas del Norte**, **Chiriyacu**, **Forestal**, **Chillogallo** y **La Merced**.
-
-Patiño afirmó que Quito no enfrenta una emergencia hídrica.
-
-Incremento en el consumo de agua en Quito
------------------------------------------
-
-La ausencia de **lluvias** y las altas temperaturas han provocado un aumento en el consumo de agua en la ciudad.
-
-Mirely Segovia, jefa de Producción de la **Epmaps**, indicó que el consumo promedio por habitante en **Quito** es de 160 litros al día, pero durante esta época seca ha aumentado hasta 220 litros por día.
-
-Esto ha llevado a emitir recomendaciones para consumir solo el agua necesaria para la **salud**, **higiene** y **alimentación**.
-
-El 15 de septiembre de 2024, **Jorge Ramírez, jefe de la Unidad de Operaciones** de la Epmaps, explicó que, debido a las condiciones climáticas que atraviesa Quito, el consumo de agua aumentó, debido a estos factores. Por el calor, las personas ocupan más agua de lo normal para **hidratarse, bañarse más e incluso aumenta el riego de las plantas.**
-
-**Rafael Osorio, jefe de Recursos Hídricos de la Epmaps**, añadió que, debido a los cortes de energía eléctrica, la recuperación del suministro de agua es más lenta en algunas partes altas de la ciudad, especialmente en la zona norte, donde el agua llega mediante sistemas de bombeo.
-
-Jefferson Pérez confía en el deporte ecuatoriano para Los Ángeles 2028
-======================================================================
-
-Jefferson Pérez tiene altas expectativas para el deporte ecuatoriano de cara a los Juegos Olímpicos de Los Ángeles 2028.
-------------------------------------------------------------------------------------------------------------------------
-
-![Jefferson Pérez, doble medallista olímpico de Ecuador, durante una entrevista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-17T215931.644.jpg)
-
-Los **Juegos Olímpicos de París 2024** constituyeron la mejor participación de Ecuador en la historia de la competencia. Aunque la actuación de la delegación tricolor consiguió cinco preseas, **Jefferson Pérez** -exmarchista y doble medallista olímpico- considera que pudo haber más y ve con optimismo a Los Ángeles 2028.
-
-La pasada cita olímpica, las medallas para Ecuador llegaron gracias a **Neisi Dájomes y Angie Palacios** en levantamiento de pesas, **Daniel Pintado y Glenda Morejón** en marcha y **Lucía Yépez** en lucha olímpica. Durante aquella gesta, Pérez acompañó a los deportistas durante los días de competencia.
-
-### Más noticias:
-
-* [‘Chito’ Vera visitó al Barcelona SC y se entrenó con la olímpica Luisa Valverde](https://www.elcomercio.com/deportes/futbol/chito-vera-barcelonasc-luisa-valverde-camiseta.html "‘Chito’ Vera visitó al Barcelona SC y se entrenó con la olímpica Luisa Valverde")
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-* [Ecuador cerró los Juegos Paralímpicos con cuatro medallas y nueve diplomas](https://www.elcomercio.com/deportes/juegos-olimpicos/juegos-paralimpicos-paris2024-medallas-ecuador.html "Ecuador cerró los Juegos Paralímpicos con cuatro medallas y nueve diplomas")
-
-Con los **Juegos Olímpicos** finalizados y ya en el país, Jefferson Pérez conversó con EL COMERCIO y se refirió a la participación del deporte tricolor. A su vez, este relató cómo lo ve actualmente, en que matices se debe trabajar y lo que representa el certamen venidero.
-
-Para él existen procesos que deben reforzarse y direccionarse hacia las distintas disciplinas en el contexto de **crecimiento deportivo** que vive el país. Asimismo, este considera que, si aquello se hubiese dado, la participación en París habría tenido aún mayor resonancia.
-
-La oportunidad de Los Ángeles 2028 y una sugerencia de Jefferson Pérez
-----------------------------------------------------------------------
-
-A partir de lo que observó en los últimos **Juegos Olímpicos**, el azuayo señala que constató junto a los dirigentes que se deben cuidar procesos, más allá de que sean o no de directa competencia. De tal forma, este señala que debe haber un apoyo interinstitucional o del sector privado.
-
-“El Comité ecuatoriano es el responsable de los equipos nacionales en Juegos Bolivarianos, Suramericanos, Panamericanos y Olímpicos. El Ministerio del Deporte, el responsable de la financiación de la preparación y participación de los deportistas. Más o menos tienes una estructura. **Pero nos dimos cuenta de que si una institución, ante la ausencia de otra, pudiera apoyarla, no sustituirla, hubiese sido más fácil tratar lesiones a tiempo, por ejemplo**“, expresó el Pérez[.](https://es.wikipedia.org/wiki/Jefferson_P%C3%A9rez "https://es.wikipedia.org/wiki/Jefferson_P%C3%A9rez")
-
-El medallista en **Atlanta 1996 y Pekín 2024** sostuvo que es necesario abrirse a nuevas opciones para potenciarse y solidifcar las bases, pues la mayoría de los esfuerzos de los atletas aún se dan por **iniciativa propia**. Asimismo, en el caso de que hubiese existido un fideicomiso, el exatleta señala que se hubiese podido atender a los atletas cuando fuese necesario y los resultados hubiesen podido ser mejores.
-
-De cara a la próxima cita olímpica y con aquellos rasgos a mejorar identificados, Jefferson Pérez cree que Los Ángeles 2028 es un “**momento extraordinario**” para Ecuador. “Va a haber una gran ascendencia, latina. Estamos apenas a dos horas de diferencia, es facilísimo ir a Los Ángeles en el sentido de vuelos, hay muchos centros de entrenamiento aquí en el continente donde se puede hacer adaptaciones… **hay muchas ventajas**“, señala.
-
-La marcha de Ecuador tiene un futuro prometedor
------------------------------------------------
-
-Con respeto a la marcha, que le dio dos medallas a Ecuador en los pasados Juegos Olímpicos, Pérez la ve está en buenas manos. **Daniel Pintado** y sus colegas, así como **Glenda Morejón** en la categoría femenina, constituyen una generación prometedora y que ha demostrado de lo que es capaz.
-
-“**Daniel Pintado está en la edad normal para haber ganado, yo fui la distorsión. Tiene una inteligencia emocional superior.** A diferencia de mí a los 22 años, que no estaba preparado, que no tenía ni idea del mundo, Daniel ya tiene referencias. Hay un sendero, ya sabe cómo recorrerlo y tiene 29 años. Tiene dos hijos a mucha más madurez, entonces de él y de su equipo dependerá cuánto pueda extenderlo”, señaló el referente.
-
-Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas
-========================================================================================
-
-Los nuevos horarios de cortes de luz, anunciados por el presidente Daniel Noboa, se aplicarán en todo el país.
---------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa se refirió a los nuevos horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa.jpg)
-
-El presidente **Daniel Noboa** anunció los cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, este jueves 17 de octubre de 2024[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-Noboa hizo este anuncio en la red Instagram acompañado de **Inés Manzano**, ministra de Energía encargada.
-
-Más noticias:
--------------
-
-* [Cortes de luz en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-quito-viernes-18-octubre.html "Cortes de luz en Quito este viernes 18 de octubre")
-* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
-
-El Gobierno de Daniel Noboa ha anunciado **varias medidas** para contrarrestar los efectos de la crisis energética.
-
-Entre estas están que las mineras en producción generen su propia energía, el transporte de soluciones móviles de energía en **aviones Hércules**.
-
-Además, las 10 horas de cortes de luz en el **sector industrial**, durante 15 días, y proyectos de energía renovable que darán electricidad a largo plazo, entre otras.
-
-Nuevos horarios de cortes de luz anunciados por Daniel Noboa
-------------------------------------------------------------
-
-El presidente Daniel Noboa señaló que el país ha enfrentado momentos extremadamente **complejos** en las últimas semanas.
-
-Se refirió a los **esfuerzos** en negocios, familias y estudiantes para realizar sus tareas diarias.
-
-En este contexto, dijo que es necesario dar **respuestas** no solo a la crisis actual, sino definitivas.
-
-Anunció que los cortes de luz se mantendrán en **dos franjas horarias** y se reducirán paulatinamente para las **zonas residenciales**.
-
-La **semana del 21 de octubre** los cortes serán de ocho horas.
-
-Los cortes serán de seis horas para la **semana del 28 de octubre**.
-
-Para la **semana del 6 de noviembre** serán de cuatro horas.
-
-Para las **zonas industriales**, los horarios van a mantenerse.
-
-Un segundo integrante de BTS completó el servicio militar en Corea del Sur
-==========================================================================
-
-La popular banda de k-pop, BTS, hizo una pausa en 2022 hasta que sus siete miembros completen el servicio militar obligatorio.
-------------------------------------------------------------------------------------------------------------------------------
-
-![El servicio militar en Corea del Sur es obligatorio durante 18 meses para los hombres](https://www.elcomercio.com/wp-content/uploads/2024/10/j-hope-bts.jpg)
-
-Uno de los integrantes de la popular banda surcoreana **BTS**, concluyó el servicio militar, este jueves 17 de octubre de 2024.
-
-El artista es el segundo integrante del grupo en completarlo. Luego de **18 meses**, fue recibido por su compañero **Jin**, quien ya cumplió con este requisito obligatorio en el país.
+**WhatsApp** es una de las **aplicaciones de mensajería** más populares del mundo, con millones de usuarios que la utilizan diariamente para comunicarse. Sin embargo, una de las funciones que más intriga genera es la **capacidad de eliminar mensajes**. ¿Qué pasa si alguien borra un mensaje antes de ser leído? Afortunadamente, existen métodos para recuperar y ver esos mensajes eliminados. 
 
 ### Más noticias
 
-* [¿Qué viene a hacer MrBeast en Ecuador?](https://www.elcomercio.com/tendencias/trending/mrbest-youtuber-redes-sociales-ecuador.html "¿Qué viene a hacer MrBeast en Ecuador? ")
-* [Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html "Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne")
-* [Policía dio nueva información de la muerte de Liam Payne, ex One Direction](https://www.elcomercio.com/tendencias/entretenimiento/policia-informacion-muerte-liam-payne.html "Policía dio nueva información de la muerte de Liam Payne, ex One Direction")
+* [¿Son los autos eléctricos en Ecuador una solución o una moda?](https://www.elcomercio.com/tendencias/tecnologia/dia-vehiculo-electrico-efemeride.html "https://www.elcomercio.com/tendencias/tecnologia/dia-vehiculo-electrico-efemeride.html") 
+* [Guía para armar la PC Gamer ideal en 2024](https://www.elcomercio.com/tendencias/tecnologia/pc-gamer-juegos-tecnologia.html "https://www.elcomercio.com/tendencias/tecnologia/pc-gamer-juegos-tecnologia.html") 
 
-J-Hope fue recibido por la prensa y el propio Jin, quien le entregó un **ramo de flores**, frente a la puerta principal del campo de entrenamiento de Infantería del Ejército en Wonju, a unos 90 kilómetros al sureste de **Seúl**.
-
-“Durante mis 18 meses de servicio militar, cumplí funciones de instructor y **marché mucho**, por lo que vi a muchos ciudadanos de Wonju. Quiero agradecer a los ciudadanos que **saludaron y vitorearon** a los soldados. Fue muy conmovedor”, dijo J-Hope en declaraciones recogidas por la agencia surcoreana Yonhap.
-
-BTS volverá cuando todos completen el servicio militar
+**El truco para ver mensajes eliminados en WhatsApp** 
 ------------------------------------------------------
 
-Jin, quien completó el servicio en junio, fue el único miembro del grupo que acompañó a J-Hope, debido a que los otros integrantes, **Suga, RM, Jimin, V y Jungkook** se encuentran cumpliéndolo.
+Para **ver los mensajes eliminados en WhatsApp**, se puede utilizar el **historial de notificaciones** de los **dispositivos Android**. Este método es sencillo y **no requiere aplicaciones de terceros**, lo que lo hace seguro y confiable. Según [El Universal](https://www.eluniversal.com.mx/techbit/truco-de-whatsapp-para-ver-los-mensajes-eliminados/ "https://www.eluniversal.com.mx/techbit/truco-de-whatsapp-para-ver-los-mensajes-eliminados/"), este truco permite **acceder al contenido de los mensajes eliminados de manera fácil y rápida**. 
 
-La banda de **k-pop** tuvo que hacer una pausa en **2022** por esta razón y planea reunirse luego de tres años, en 2025.
+**Pasos para activar el historial de notificaciones en Android:** 
+------------------------------------------------------------------
 
-Se espera que tanto Jin como J-Hope se centren en sus **carreras individuales** hasta el regreso oficial del grupo.
+* **Accede a la configuración de tu dispositivo**: Abre la aplicación de **“Configuración”** en tu teléfono Android. 
 
-J-Hope nació el 18 de febrero de 1994, tiene **30 años**. Es el **bailarín** principal de BTS y también rapero.
+* **Selecciona “Apps y notificaciones”**: Dentro de “Configuración”, busca y selecciona la opción “Apps y notificaciones”. 
 
-Los **siete miembros** de BTS acordaron aprovechar esta pausa para centrarse en sus proyectos personales y también para cumplir con el servicio militar que es obligatorio para los hombres en Corea.
+* **Ve a “Notificaciones”**: Dentro de “Apps y notificaciones”, selecciona “Notificaciones”. 
 
-Enner Valencia anima a la Selección de Ecuador Sub-15 antes de su final
-=======================================================================
+* **Activa el “Historial de notificaciones”**: Busca la opción “Historial de notificaciones” y actívala. A partir de ahora, **tu dispositivo guardará un registro de todas las notificaciones recibidas**, lo que incluye los mensajes de WhatsApp. 
 
-Enner Valencia, capitán de la Selección de Ecuador absoluta, envió un mensaje de aliento y agradecimiento a la sub-15 antes de su final.
-----------------------------------------------------------------------------------------------------------------------------------------
+Este método es efectivo y **no compromete tu privacidad ni seguridad**, ya que no es necesario **descargar aplicaciones adicionales** que podrían contener ‘malware’ o ‘spyware’. [Gizmodo](https://es.gizmodo.com/truco-para-ver-mensajes-eliminados-en-whatsapp-sin-apps-adicionales-2000127964 "https://es.gizmodo.com/truco-para-ver-mensajes-eliminados-en-whatsapp-sin-apps-adicionales-2000127964") también destaca la efectividad de este truco, al señalar que es una **forma segura de acceder a los mensajes eliminados**. 
 
-![Enner Valencia con un premio al mejor jugador del partido entre la Selección de Ecuador y Perú en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000146868-scaled.jpg)
+**Otras opciones para ver mensajes eliminados en WhatsApp** 
+------------------------------------------------------------
 
-La **Selección de Ecuador Sub-15** se encuentra a puertas de una final histórica en el Sudamericano de su categoría y recibió un mensaje de uno de los referentes de la escuadra absoluta. **Enner Valencia**, capitán del máximo equipo, le envió un mensaje al combinado.
+Además del **historial de notificaciones**, existen otras formas de **recuperar mensajes eliminados** en WhatsApp. [A24](https://www.a24.com/trends/el-ajuste-whatsapp-ver-los-mensajes-eliminados-n1351088 "https://www.a24.com/trends/el-ajuste-whatsapp-ver-los-mensajes-eliminados-n1351088") menciona que algunos usuarios prefieren **utilizar aplicaciones de terceros**, aunque esto puede implicar **riesgos de seguridad**. Sin embargo, si decides optar por esta vía, asegúrate de **descargar aplicaciones de fuentes confiables** y revisa las opiniones de otros usuarios. 
 
-El conjunto que dirige **Juan Carlos Burbano** se encuentra en Bolivia en la disputa del torneo y en su último cotejo consiguió la clasificación a la final. La Tri juvenil se impuso ante **Chile** desde los penales tras empatar 3-3 en el tiempo reglamentario.
+**Aplicaciones recomendadas:** 
+-------------------------------
+
+* **Notification History Log**: Esta aplicación guarda un registro de todas las notificaciones recibidas en tu dispositivo, permitiéndote acceder a los mensajes eliminados de WhatsApp. 
+
+* **WhatsRemoved+**: Similar a Notification History Log, esta aplicación guarda un registro de las notificaciones y te permite ver los mensajes eliminados. 
+
+**Consideraciones de privacidad y seguridad** 
+----------------------------------------------
+
+Es importante tener en cuenta que, aunque estos métodos son efectivos, siempre **existe un riesgo asociado al uso de aplicaciones de terceros**. [Esquire](https://www.esquire.com/es/tecnologia/a42917924/como-ver-mensajes-borrados-whatsapp/ "https://www.esquire.com/es/tecnologia/a42917924/como-ver-mensajes-borrados-whatsapp/") advierte que **algunas aplicaciones pueden recopilar datos personales** o mostrar anuncios intrusivos. Por ello, es recomendable utilizar **métodos nativos del sistema operativo** siempre que sea posible. 
+
+Leonardo Campana sueña con ser artista
+======================================
+
+Si no fuera futbolista, 'Leo' Campana tiene claro a qué le gustaría dedicarse.
+------------------------------------------------------------------------------
+
+![Leonardo Campana en la pasarela de los Billboard Latin Music Week.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-18T140017.572.jpg)
+
+Tras su paso por la **Selección de Ecuador**, **Leonardo Campana** acudió a una convocatoria diferente, esta vez fuera del mundo del fútbol, y relacionada con la música. El delantero fue uno de los invitados al _Billboard Latin Week_.
+
+En su reciente regreso a la Selección ecuatoriana, el jugador formado en Barcelona SC jugó apenas media hora en el primer encuentro contra Paraguay, en Quito, donde no se mostró cómodo. En el siguiente partido ante Uruguay, permaneció en el banco de suplentes.
+
+### Más noticias:
+
+* [La asombrosa historia del hincha que se tatuó a Leonardo Campana](https://www.elcomercio.com/deportes/futbol/asombrosa-historia-del-hincha-que-se-tatuo-leonardo-campana.html "La asombrosa historia del hincha que se tatuó a Leonardo Campana")
+* [Fanático inmortalizó a Leonardo Campana en su cuerpo](https://www.elcomercio.com/deportes/futbol/fanatico-inmortalizo-a-leonardo-campana-en-su-cuerpo.html "Fanático inmortalizó a Leonardo Campana en su cuerpo")
+* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
+
+Del fútbol a la música
+----------------------
+
+Antes de reincorporarse al Inter Miami, Campana **participó en el _Billboard Latin Week_**, un evento en el que se reúnen diversas personalidades y artistas para hablar sobre la música latina en charlas y talleres. El delantero fue invitado desde septiembre para participar en este prestigioso evento.
+
+Durante su intervención en el panel “**La combinación ganadora del deporte y la música**“, compartió escenario con su colega, el chileno Igor Lichnovsky, y artistas como Piso 21 y Guillermo Novellis, líder de la banda _La Mosca Tsé Tsé_.
+
+Durante su participación, Campana dejó claro su interés en la música, señalando que le gustaría explorar más su faceta artística: “**Yo juego al fútbol, pero me gustaría ser más artista**. Soy el tipo de persona que disfruta escuchando un álbum musical de principio a fin”, comentó el jugador ecuatoriano.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBMKIRspChi/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Billboard Latin (@billboardlatin)](https://www.instagram.com/reel/DBMKIRspChi/?utm_source=ig_embed&utm_campaign=loading)
+
+Regreso discreto a la Selección
+-------------------------------
+
+En los dos partidos que disputó la ‘Tri’ en la última fecha FIFA, ante Paraguay y Uruguay, por las eliminatorias sudamericanas, Campana solo tuvo minutos en uno de ellos, acumulando 32 minutos en total.
+
+Su regreso a la **Selección de Ecuador** se dio el jueves 10 de octubre, en el empate sin goles ante Paraguay en el Estadio Rodrigo Paz Delgado. Entró en el minuto 65, cuando Sebastián Beccacece buscaba mayor presencia ofensiva.
+
+A pesar de su esfuerzo, **Campana** no logró destacarse en el partido debido a la férrea defensa paraguaya. Se movió por distintos sectores del campo, sobre todo por la banda derecha, pero recibió pocos balones y no consiguió conectarse adecuadamente con sus compañeros.
+
+En total, **tocó el balón solo nueve veces,** completó cinco de ocho pases y perdió la posesión en tres ocasiones, lo que limitó su impacto en el partido.
+
+En el segundo encuentro contra Uruguay, **Campana no fue utilizado por Beccacece**, quien optó por Enner Valencia como titular y Kevin Rodríguez como variante en el ataque.
+
+Ariel Holan dejó el país con ‘amargura’
+=======================================
+
+El argentino Ariel Holan permaneció como entrenador de Barcelona Sporting Club menos de seis meses.
+---------------------------------------------------------------------------------------------------
+
+![Ariel Holan como entrenador de Barcelona SC en septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/holan_viaje_2.jpg)
+
+**Ariel Holan** se marchó de Ecuador la mañana de este viernes 18 de octubre de 2024. Salió del Aeropuerto Internacional José Joaquín de Olmedo de Guayaquil con destino a Buenos Aires.
+
+“Barcelona ha llegado a un mutuo acuerdo con el entrenador Ariel Holan, **para finalizar la relación laboral que existía entre ambas partes**“, indicó el comunicado del club publicado en sus redes sociales el pasado jueves 10.
+
+### Más noticias:
+
+* [Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-dirigira-su-segundo-clasico-del-astillero.html "Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero")
+* [Horarios de la Liga Pro en Ecuador (fecha 10)](https://www.elcomercio.com/deportes/futbol/horarios-partidos-fecha10-liga-pro-ecuador-barcelona-emelec.html "Horarios de la Liga Pro en Ecuador (fecha 10)")
+* [Cristiano Ronaldo es el futbolista mejor pagado en 2024](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-es-el-futbolista-mejor-pagado-en-2024.html "Cristiano Ronaldo es el futbolista mejor pagado en 2024")
+
+Holan se vinculó a Barcelona en **abril pasado en reemplazo del uruguayo Diego López**, que salió del equipo por una campaña irregular dejándolo prácticamente eliminado en la fase de grupos de la Copa Libertadores.
+
+El argentino tenía contrato hasta abril próximo con BSC, **pero se fue del equipo ecuatoriano tras los malos resultados** y en acuerdo mutuo con los directivos, precisó el comunicado del club.
+
+Con Holan, el **Barcelona disputó seis partidos y se quedó en el segundo luga**r de la primera fase de la Liga Pro, que la ganó el Independiente del Valle.
+
+Tras ese aceptable inicio, las expectativas se encendieron y el Barcelona apareció como uno de los favoritos para ganar la segunda fase, pero comenzó el éxodo de jugadores como los argentinos Francisco Fydriszewski, Damián ‘Kitu’ Díaz y el ecuatoriano Gabriel Cortez.
+
+Otras figuras **también fueron enviadas por Holan al banquillo de suplentes**, y de manera abrupta, comenzó a incluir a jugadores juveniles en partidos decisivos que Barcelona perdió o empató.
+
+La goleada que derramó el vaso
+------------------------------
+
+El sábado 5 de octubre fue el último encuentro que Holan dirigió como DT de BSC, en medio de un ambiente conflictivo entre los hinchas, el plantel y los jugadores, antes, durante y después del juego.
+
+Esa tarde soleada y lluviosa en el Olímpico Atahualpa, El Nacional goleó por 3-0 con tatos de Alejandro Cabeza, **Gabriel Cortez y Fidel Martínez, estos dos últimos descartados del plantel** por el entrenador ganador de la Copa Sudamericana en 2017 con Independiente de Avellaneda.
+
+Tras nueve partidos disputados en la segunda fase, **el equipo cayó al noveno puesto con 13 puntos**, seis menos que el líder, Liga de Quito; con cuatro triunfos, un empate y cuatro derrotas. También fue eliminado de la actual Copa Ecuador y Copa Sudamericana.
+
+Tras la salida del técnico argentino, lo ha reemplazado de forma interina el ecuatoriano Segundo Alejandro Castillo, un exfutbolista del equipo e integrante de los cuerpos técnicos de Barcelona. 
+
+Holan se fue junto a Pocho
+--------------------------
+
+“**Con la amargura de no haber podido hacer más**“, mencionó ante la consulta sobre como asimiló su salida del cuadro guayaquileño.
+
+“**Ya está todo cerrado**“, aseguró sobre como está su situación en el aspecto económico.
+
+Holan llegó al Aeropuerto en Guayaquil, junto a su esposa y su mascota Pocho, **un perro de raza pastor belga**, que fue con el que llegó a la ciudad el 27 de abril.
+
+Inquieto y raudo, en ese momento, **Pocho** salió de la terminal aérea con una pechera de color negro y su respectiva correa, siempre al cuidado del entrenador argentino, que se limitó a saludar a la prensa que lo recibió.
+
+No era la primera vez que **Ariel Holan** hizo público su amor por las mascotas. En su cuenta de Instagram compartió, en 2021, un duro momento que le tocó vivir por la muerte de Lennon.
+
+“Fuiste compañero, amigo y familia. Te quisimos y te disfrutamos cada día. Siempre protector y cariñoso. Tu mirada única estará siempre con nosotros. Hasta siempre Lennon”, fueron las emotivas palabras de DT para su fallecida mascota.
+
+Por esos días, Holán entrenaba al **Santos de Brasil**. Su estancia fue corta y apenas duró un poco más de dos meses. Tras 12 partidos en los que cosechó cuatro victorias, tres empates, y cinco derrotas, renunció al cargo. Luego pasó por el León de México.
+
+Su último empleo antes de llegar a **Barcelona SC**, fue una segunda etapa con la Universidad Católica de Chile, club con el que quedó campeón en el año 2020.
+
+El título más relevante de Ariel Holán en su carrera se dio en 2017 con Independiente de Avellaneda. Ganó la Copa Sudamericana, tras vencer en la final a **Flamengo,** en el estadio Maracaná de Río de Janeiro.
+
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/holan_viaje_1-1024x683.jpg)
+
+Foto: Instagram del club.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Infartos llevan a la muerte a dos competidores en el Mundial de triatlón
+========================================================================
+
+Los deportistas, pertenecientes a la categoría de Grupos de Edad en la distancia sprint, fallecieron a causa de un infarto
+--------------------------------------------------------------------------------------------------------------------------
+
+![Dos triatletas fallecieron en los Mundiales de la especialidad en Torremolinos, España. Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-12-1.jpg)
+
+Los dos deportistas fallecidos en el **Mundial de triatlón** que se disputa en la localidad malagueña de Torremolinos (España), uno procedente de Reino Unido (57 años) y otro de México (79), cumplían con los requisitos exigidos por sus respectivas federaciones nacionales para competir a nivel internacional.
+
+Los deportistas, ambos veteranos y pertenecientes a la categoría de Grupos de Edad en la distancia sprint, fallecieron a causa de un infarto en incidentes separados durante la competición.
+
+En el caso del triatleta británico en el segmento de la carrera a pie y el mexicano en el tramo de natación del **Mundial de triatlón**.
+
+### Más noticias:
+
+* [El llamativo giro de Luana Alonso, de la natación a OnlyFans](https://www.elcomercio.com/deportes/otros/luana-alonso-onlyfans-neymar-natacion.html "El llamativo giro de Luana Alonso, de la natación a OnlyFans")
+* [Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años](https://www.elcomercio.com/deportes/futbol/damian-diaz-goles-emelec-clasico.html "Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años")
+* [‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito](https://www.elcomercio.com/deportes/futbol/liga-quito-liderato-ligapro-vitamina-sanchez.html "‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito")
+
+Luto en el Mundial de triatlón
+------------------------------
+
+Ambos deportistas cumplían con todos los requisitos exigidos para competir a nivel internacional, por lo que su inscripción se pudo realizar sin problemas.
+
+“Cada federación nacional, en base a sus criterios de **clasificación**, decide qué deportistas van a competir a cada campeonato internacional. Además, cada federación nacional pone sus propios requisitos para tener sus licencias y sus controles médicos que, dependiendo del país, son más o menos exhaustivos”, expresan a EFE desde la **Federación Internacional de Triatlón.**
+
+“Para competir no hay límite de edad. Hay un cupo por países, que suele ser de diez por país en cada franja de grupo de edad, aunque si no se completa con el cupo máximo al país organizador se le pueda dar alguna plaza más”, señalan.
+
+En España, para la participación en actividades o competiciones federadas oficiales de ámbito estatal, será preciso estar en posesión de licencia federativa. La licencia se puede conseguir federándose a nivel individual o a través de un club.
+
+La Federación Internacional de **Triatlón** considera que “los deportistas fallecidos cumplían los requisitos para participar porque habían sido designados por sus respectivas federaciones nacionales como deportistas aptos para competir con todas las garantías y tenían licencias federativas”.
+
+La organización no va a facilitar datos personales de los fallecidos por petición de las familias pero la Federación Mexicana de [Triatlón,](https://es.wikipedia.org/wiki/Triatl%C3%B3n) en una publicación en su cuenta de la red social Facebook, reveló la identidad de su compatriota, **Roger Mas**, de 79 años. 
+
+Tribunal publica documentos del rol de Trump en el asalto al Capitolio
+======================================================================
+
+La jueza Tanya Chutkan negó una petición del equipo legal del republicano para mantener los documentos bajo secreto.
+--------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Donald-Trump-Efe-2024.jpg)
+
+Un **tribunal federal** en Washington publicó este viernes, 18 de octubre de 2024, miles de documentos sobre la **investigación del fiscal** especial Jack Smith. Respecto al caso que indaga el papel del expresidente Donald Trump (2017-2021) en el **asalto al Capitolio** el 6 de enero de 2021.
+
+### Más información
+
+* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
+* [Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder](https://www.elcomercio.com/actualidad/mundo/fiscal-donald-trump-informe-completo-delitos.html "Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder")
+* [Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU. ")
+
+En un fallo emitido el jueves en la noche, la jueza Tanya Chutkan **negó una petición** del equipo legal del republicano para **mantener los documentos bajo secreto** hasta después de las elecciones del 5 de noviembre.
+
+Los más de 2 000 documentos, en su mayoría con **elementos censurados**, incluyen publicaciones de Trump en la red social X. Además, **documentos redactados por el abogado** y exasesor del expresidente John Eastman.
+
+También incluyen entrevistas con colaboradores de Trump realizadas por el **comité del Congreso** que investigó el ataque al Capitolio.
+
+Ese día, unas 10 000 personas -la mayoría simpatizantes de Trump- marcharon hacia la sede del Congreso y unas 800 irrumpieron en el edificio mientras **se estaba certificando la victoria de Joe Biden** en los comicios del 2020. Se considera que hubo en total **cinco muertos y cerca de 140 agentes heridos** relacionados con ese asalto.
+
+El exmandatario está siendo investigado por conspirar para **obstruir el triunfo de Biden** tras las elecciones.
+
+Trump goza de impunidad “parcial”
+---------------------------------
+
+Los documentos forman parte del intento de Smith por encauzar el caso, después de que la Corte Suprema emitiera un fallo asegurando que **Trump goza de impunidad “parcial”** por los delitos que pudo haber cometido mientras ostentaba el cargo de presidente.
+
+Tras la decisión del Supremo en julio, el tribunal ordenó a Chutkan que analizara la acusación al exmandatario y decidiera qué cargos no procedían debido a las **nuevas reglas de inmunidad**.
+
+Smith presentó el 27 de agosto una nueva acta de acusación manteniendo los **cuatro cargos anteriores** en su contra, como el de **conspiración para obstruir un procedimiento oficial,** pero rebajando las alegaciones para ajustarse a ese dictamen. 
+
+Cierre vial en El Trébol se aplicará en este horario
+====================================================
+
+El Municipio de Quito también avanza en la construcción del nuevo bulevar en la av. De los Shyris con las jardineras y camineras.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![El Trébol es un sector donde confluyen vehículos que llegan del valle, del norte y del sur de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/El-Trebol.jpg)
+
+La **Empresa Metropolitana de Obras Públicas** (Epmmop) informó este viernes 18 de octubre sobre un cierre vial que se implementó en el sector de El Trébol.
+
+### Más noticias
+
+* [Cortes de agua en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-este-viernes-18-de-octubre.html "Cortes de agua en Quito este viernes 18 de octubre")
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+* [Juez dicta medidas contra agentes de tránsito detenidos](https://www.elcomercio.com/actualidad/juez-dicta-medidas-contra-agentes-de-transito-detenidos-pico-y-placa.html "Juez dicta medidas contra agentes de tránsito detenidos")
+
+El cierre en El Trébol
+----------------------
+
+La Epmmop realiza trabajos de **iluminación ornamental** en el intercambiador de El Trébol, por lo que su personal se encuentra en la vía.
+
+Por ello, mientras **se ejecutan las adecuaciones**, se cerró la circulación vehicular en el carril derecho (sentido norte-sur).
+
+La **Agencia Metropolitana de Tránsito** (AMT) gestiona el flujo vehicular ante este cierre de la circulación para evitar la congestión.
+
+Este cierre se realizará solamente este viernes 18 de octubre en **dos jornadas**:
+
+* De 09:00 a 12:00
+* De 14:00 a 16:00
+
+> ⬇️[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) | HOY hay cierre de la circulación vehicular en el intercambiador de El Trébol, carril derecho (sentido norte – sur) por trabajos de iluminación ornamental  
+>   
+> Horarios:  
+> ⏰9h00 a 12h00  
+> ⏰14h00 a 16h00[@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) gestiona la movilidad del sector [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/A2w0bUXmmn](https://t.co/A2w0bUXmmn)
+> 
+> — Obras Quito (@ObrasQuito) [October 18, 2024](https://twitter.com/ObrasQuito/status/1847303852850086164?ref_src=twsrc%5Etfw)
+
+Vía cerrada en Alma Lojana
+--------------------------
+
+La **Agencia Metropolitana de Tránsito** (AMT) dio a conocer también un cierre vehicular que se realizó debido a un siniestro de tránsito en el sector de Alma Lojana.
+
+El cierre vial es en la autopista General Rumiñahui y av. Simón Bolívar. Se encuentra cerrado el carril derecho sobre la **autopista Rumiñahui** en sentido Quito-valle.
+
+No se conoce las circunstancias del siniestro ni si hay personas heridas.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Alma Lojana  
+> 🚧 Cierre: Autopista General Rumiñahui y av. Simón Bolívar  
+> 🛣 Carriles cerrados: derecho sobre la autopista Gral. Rumiñahui en sentido Quito – Valle  
+> 🛑 Motivo: Siniestro de tránsito  
+> 👮‍☀ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YCePCJCR8n](https://t.co/YCePCJCR8n)
+> 
+> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847322017399525563?ref_src=twsrc%5Etfw)
+
+Trabajos en la Shyris continúan
+-------------------------------
+
+El **Municipio de Quito** avanza en la construcción del nuevo bulevar en la **av. De los Shyris,** en reemplazo de la antigua tribuna.
+
+Los **trabajos continúan** en estas áreas:
+
+* Jardineras
+* Construcción de nuevas camineras
+* Encofrado y fundido de bordillos
+
+Este nuevo espacio verde incluirá: **equipamiento con actividades lúdicas** para niños; iluminación ornamental y arquitectónica; zona para mascotas y más.
+
+La **fecha prevista para la entrega** de esta obra es la última semana de noviembre y contemplaba una inversión referencial [de 950 000 dólares](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 👌[#QuitoCiudadDePaz](https://twitter.com/hashtag/QuitoCiudadDePaz?src=hash&ref_src=twsrc%5Etfw) | Avanzamos en la construcción del nuevo bulevar de la [#AvDeLosShyris](https://twitter.com/hashtag/AvDeLosShyris?src=hash&ref_src=twsrc%5Etfw) con:  
+>   
+> 🌹Jardineras  
+> 🚶Construcción de nuevas camineras  
+> 👷‍♀️Encofrado y fundido de bordillos  
+>   
+> 👏Obras sustentables para los quiteños👏[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PuCnzUhUTQ](https://t.co/PuCnzUhUTQ)
+> 
+> — Obras Quito (@ObrasQuito) [October 18, 2024](https://twitter.com/ObrasQuito/status/1847294665080361068?ref_src=twsrc%5Etfw)
+
+Bayern modifica su escudo para ‘modernizar su identidad de marca’
+=================================================================
+
+El Bayern Múnich lidera la tabla de posiciones de la Bundesliga 2024/25 en sus seis primeras jornadas.
+------------------------------------------------------------------------------------------------------
+
+![Leroy Sané con el Bayer Múnich en septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/bayern_escudo_1.jpg)
+
+El **Bayern Múnich** ha modificado “levemente” su escudo, según anunció el club bávaro este viernes 18 de octubre de 2024, para “modernizar su identidad de marca”.
+
+El nuevo anagrama de la entidad germana, idéntico en diseño, **pero con unos colores algo más claros**, fue mostrado por el propio Bayern, que indica que, “de este modo”, la institución “cumple ya las directrices de la nueva Ley de Accesibilidad al Contenido Web (BFSG)”, que entrará en vigor en el país en junio de 2025.
 
 ### Más noticias:
 
 * [La Selección de Ecuador Femenina sub-17 fue sorprendida con una carta](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-sub17-carta.html "La Selección de Ecuador Femenina sub-17 fue sorprendida con una carta")
-* [La paciencia de John Yeboah en la Selección de Ecuador: ‘mi momento llegará’](https://www.elcomercio.com/deportes/futbol/john-yeboah-mensaje-seleccion-ecuador.html "La paciencia de John Yeboah en la Selección de Ecuador: ‘mi momento llegará’")
-* [Calendario de la Selección de Ecuador Femenina sub-17 en el Mundial](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-sub17-calendario.html "Calendario de la Selección de Ecuador Femenina sub-17 en el Mundial")
+* [Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-dirigira-su-segundo-clasico-del-astillero.html "Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero")
+* [Horarios de la Liga Pro en Ecuador (fecha 10)](https://www.elcomercio.com/deportes/futbol/horarios-partidos-fecha10-liga-pro-ecuador-barcelona-emelec.html "Horarios de la Liga Pro en Ecuador (fecha 10)")
 
-Antes de llegar a las semifinales, la Tri disputó cuatro cotejos en la fase de grupos, en la que finalizó en el segundo puesto. Allí, esta igualó con **Uruguay y Argentina**, derrotó a Brasil y perdió ante Venezuela en el compromiso de cierre.
+Esta normativa “**regula la relación de contraste entre los colores del texto** y del fondo de acuerdo con los requisitos de las Directrices de Accesibilidad al Contenido Web en el sector digital” y, como parte de esta medida, “el escudo del Bayern”, añade la nota, “también se ha adaptado levemente por primera vez desde la última modernización en 2017”.
 
-En el choque que defina al campeón del certamen, la Selección de Ecuador deberá medirse ante Paraguay. El mensaje de **Enner Valencia** llegó dos días antes de aquel compromiso, que se llevará a cabo durante este sábado 19 de octubre del 2024 a las 18:30.
+“Con el nuevo diseño de toda la presencia de la marca, el **Bayern ofrecerá a todos una experiencia de usuario mejorada**. Los nuevos diseños se están implementando ahora paso a paso. Dado que existe un único escudo del Bayern con una identidad corporativa uniforme en todas las áreas de aplicación, la personalización no es exclusivamente digital”, añade la entidad.
 
-¿Qué le dijo Enner Valencia a la Selección de Ecuador Sub-15?
--------------------------------------------------------------
+El club bávaro concluye que “**una premisa decisiva en todas las medidas correspondientes** del club es considerar siempre la cuestión de la accesibilidad para que todos puedan acceder al Bayern de la mejor manera posible”.
 
-> 👋🏾 Hola mis hermanos queridos, gracias por representar tan bien al Ecuador”  
->   
-> Lo dice, nuestro goleador histórico y referente Enner Valencia 🇪🇨  
->   
-> 🔥🐐CONMEBOL Sub 15 [pic.twitter.com/GSdnYA9iwv](https://t.co/GSdnYA9iwv)
-> 
-> — La Tri 🇪🇨 (@LaTri) [October 18, 2024](https://twitter.com/LaTri/status/1847087710151848140?ref_src=twsrc%5Etfw)
+![Foto: fcbayern.com/es.](https://www.elcomercio.com/wp-content/uploads/2024/10/bayern_escudo_3-1024x683.jpg)
 
-El capitán de la **Selección de Ecuador** absoluta se hizo presente por medio de los canales oficiales del combinado nacional. Allí, este ponderó y agradeció a la escuadra **sub-15** por lo realizado en el Sudamericano y les bridó aliento para el futuro choque.
+Foto: fcbayern.com/es.
 
-“**Hola, mis hermanos queridos, espero que todos se encuentren muy bien. Gracias por representar tan bien a nuestro Ecuador. Les enviamos un fuerte abrazo y muchas bendiciones, sabemos que en esa final les irá muy bien.** Desde acá seguiremos apoyándolos y viéndolos. Disfruten mucho y que Dios los bendiga”, manifestó Enner Valencia[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+Kompany confirma la baja de Musiala
+-----------------------------------
 
-El mensaje de ‘Superman’ llegó después de que los jugadores de la Selección de Ecuador dejaran la concentración para unirse a sus clubes. La escuadra se había reunido para disputar la novena y décima fecha de las eliminatorias rumbo al **Mundial 2026**.
+El técnico del Bayern Múnich, Vincent Kompany, ha confirmado que el **mediapunta alemán Jamal Musiala** se perderá el choque con el Stuttgart que se disputará este sábado 19 en el Allianz Arena.
 
-¿Cómo le fue a Enner Valencia en eliminatorias?
------------------------------------------------
+En la rueda de prensa de previa al partido, el belga adelantó que la estrella germana, que esta semana volvió a ejercitarse por su cuenta tras su lesión en la cadera que le hizo perderse la fecha internacional con la ‘Mannschaft’, aún no se ha recuperado completamente de sus problemas físicos, lo mismo que el central francés Dayot Upamecano, aunque en el caso del galo, dejó su presencia en cuestión.
 
-**Enner Valencia** formó parte de los convocados de Sebastián Beccacece para el último ciclo de eliminatorias de la Selección de Ecuador. El delantero formó parte de la alineación titular en la doble jornada ante **Uruguay y Paraguay**.
+En relación con la dinámica de tres encuentros sin ganar que encadena el Bayern, **Kompany reconoció que deben “hacer las cosas mejor”**, pero que tiene “una confianza del 100%” en que su “camino será exitoso”.
 
-Durante tales compromisos, sin embargo, el delantero no utilizó el brazalete de capitán dado que el DT busca una rotación de la responsabilidad. De tal manera, **Pervis Estupiñán y Piero Hincapié** fueron quienes portaron la cinta.
+“Ojalá podamos dar el siguiente paso en el próximo partido. En los encuentros contra el Aston Villa y el Eintracht dominamos. **Tuvimos muchísimas más ocasiones que nuestros oponentes**. Por supuesto que tenemos que ser mejores, optimizar, pero creo que si somos objetivos sería estúpido cambiar todo solo porque los resultados no fueron los correctos”, reivindicó el técnico.
 
-En los dos choques, **Valencia** no consiguió convertir goles, al igual que sus compañeros. Tanto el primero como el segundo finalizaron con un empate de 0-0.
+Cuestionado por su rival en la séptima jornada de la Bundesliga, Kompany valoró que “el Stuttgart ha demostrado lo que quiere hacer”, lo cual “es lo que les ha dado éxito” y “por eso quedaron segundos la temporada pasada”.
 
-Cortes de luz en Quito este viernes 18 de octubre
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/bayern_escudo_2-1024x683.jpg)
+
+Foto: Instagram del club.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Se aplaza de audiencia de Verónica Abad en el TCE
 =================================================
 
-Los cortes de luz en Quito se realizarán hasta en dos franjas horarias este viernes 18 de octubre.
---------------------------------------------------------------------------------------------------
+El 18 de octubre de 2024, suspendieron la audiencia oral en el TCE, relacionada con la denuncia contra la vicepresidenta Verónica Abad
+--------------------------------------------------------------------------------------------------------------------------------------
 
-![Los cortes de luz en Quito para este viernes 18 de octubre están programados para las 24 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz.png)
+![Verónica Abad logró aplazar su audiencia en el TCE.](https://www.elcomercio.com/wp-content/uploads/2024/10/abad.jpg)
 
-Los **cortes de luz** en **Quito** este viernes 18 de octubre de 2024 se mantienen con una duración de hasta 10 horas[.](https://es.wikipedia.org/wiki/Quito)
+Este 18 de octubre de 2024 se suspendió una audiencia oral única de pruebas y alegatos en el **Tribunal Contencioso Electoral (TCE)**, relacionada con la denuncia contra la **vicepresidenta Verónica Abad** por **supuesta campaña anticipada**.
 
-La **Empresa Eléctrica Quito** emitió la programación con las franjas horarias y los sectores para este viernes.
+### Más noticias
 
-### Más noticias:
+* [Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veronica-abad-cronologia-enfrentamiento-denuncia-elecciones-2025.html "Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes")
+* [Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo](https://www.elcomercio.com/actualidad/politica/jueza-accion-proteccion-veronica-abad-ministerio-trabajo.html "Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo")
+* [Verónica Abad solicita a la Asamblea Nacional investigar a dos Ministras](https://www.elcomercio.com/actualidad/politica/veronica-abad-asamblea-ministras-fiscalizacion.html "Verónica Abad solicita a la Asamblea Nacional investigar a dos Ministras")
 
-* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
-* [Gobierno apunta a la eficiencia energética de los electrodomésticos](https://www.elcomercio.com/actualidad/negocios/gobierno-apunta-a-la-eficiencia-energetica-de-electrodomesticos.html "Gobierno apunta a la eficiencia energética de los electrodomésticos")
-* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
+El consejero de Participación Ciudadana y Control Social, **Juan Esteban Guarderas**, presentó la denuncia en julio de 2024, aunque aclaró que actúa en **calidad de ciudadano**.
 
-En este tiempo, el Gobierno de **Daniel Noboa** ha anunciado varias medidas para contrarrestar los efectos de la crisis energética.
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | En el Tribunal Contencioso Electoral ([@TCE\_Ecuador](https://twitter.com/TCE_Ecuador?ref_src=twsrc%5Etfw)) se instala la audiencia de prueba y alegato por presunta infracción electoral, en contra de la vicepresidenta, Verónica Abad ([@veroniabad](https://twitter.com/veroniabad?ref_src=twsrc%5Etfw)). Infracción que habría cometido en su calidad de candidata a la Alcaldía de… [pic.twitter.com/SfrfhL8wRj](https://t.co/SfrfhL8wRj)
+> 
+> — Ecuador Chequea (@ECUADORCHEQUEA) [October 18, 2024](https://twitter.com/ECUADORCHEQUEA/status/1847324179227693537?ref_src=twsrc%5Etfw)
 
-Entre estas están que las mineras en producción generen su propia energía, el transporte de soluciones móviles de energía en **aviones Hércules**.
+Contexto de la denuncia contra Verónica Abad
+--------------------------------------------
 
-Además, las 10 horas de cortes de luz en el **sector industrial**, durante 15 días, y proyectos de **energía renovable** que darán electricidad a largo plazo, entre otras.
+Guarderas acusa a [Abad](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad") de realizar **proselitismo antes del periodo** autorizado durante su candidatura a la alcaldía de Cuenca, en febrero de 2023.
 
-Cortes de luz en Quito este viernes 18 de octubre
--------------------------------------------------
+Sin embargo, difirieron la audiencia prevista porque la **defensa de Abad,** solicitó la nulidad del proceso y un nuevo cronograma para la diligencia. En este se argumentó la falta de notificación oportuna.
 
-Los cortes de luz en Quito serán en **dos franjas horarias** de tres horas en la mañana y siete en la tarde y noche, en unos sectores.
+La jueza del TCE, **Ivonne Coloma**, quien lleva el caso, aceptó la solicitud de diferir la audiencia tras recibir dos comunicados. La Vicepresidenta, actualmente en **Turquía**, aseguró que no la habían informado formalmente y que sus abogados **no habían tenido suficiente acceso al expedient**e, que contiene unas 800 páginas.
 
-Y de cinco horas en la mañana y cinco en la tarde y noche, otros **sectores**.
+> [#TCEinforma](https://twitter.com/hashtag/TCEinforma?src=hash&ref_src=twsrc%5Etfw) | Hoy,⏰11h00, Audiencia Oral de Prueba y Alegatos.  
+> ✔️Causa 121-2024-TCE  
+> 👩‍⚖️Jueza: Abg. Ivonne Coloma  
+> 📡Transmisión en vivo 👉[https://t.co/YqLt0NWk5s](https://t.co/YqLt0NWk5s) [pic.twitter.com/oKWjESV0yq](https://t.co/oKWjESV0yq)
+> 
+> — TCE Ecuador (@TCE\_Ecuador) [October 18, 2024](https://twitter.com/TCE_Ecuador/status/1847269434714358136?ref_src=twsrc%5Etfw)
 
-Las **empresas eléctricas** del país aclaran que, debido a la mejora de las condiciones hidrológicas, los cortes de luz pueden reducirse dentro del período del corte programado.
+Guarderas rechazó la decisión, afirmando que **Abad fue notificada en agosto** y conocía de la demanda.
 
-A continuación los horarios de los cortes de luz en Quito para este **viernes 18 de octubre**, por sectores.
+También manifestó que la dilación está afectando sus derechos ciudadanos, aunque señaló que esperará la decisión final de l**a jueza Coloma**.
 
-Joyce Higgins de Ginatta falleció este jueves 17 de octubre
-===========================================================
+Mientras tanto, **Eric Erazo,** defensa de Abad, indicó que solo hasta este 18 de octubre logró tener acceso completo al expediente, haciendo **inviable una preparación adecuada para la defens**a. Anunciarán la nueva fecha para la audiencia en las próximas horas.
 
-Representantes de varios sectores de la sociedad lamentaron la partida de Joyce Higgins de Ginatta en redes sociales.
----------------------------------------------------------------------------------------------------------------------
-
-![Joyce Higgins de Ginatta fue impulsora de la dolarización en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-2.jpg)
-
-**Joyce Higgins de Ginatta**, empresaria que impulsó la dolarización en el país, **falleció** este jueves 17 de octubre[.](https://es.wikipedia.org/wiki/Dolarizaci%C3%B3n)
-
-Representantes de varios sectores de la sociedad lamentaron su partida en **redes sociales**.
-
-### Más noticias:
-
-* [Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?](https://www.elcomercio.com/actualidad/ecuador/asamblea-aprobo-proyecto-de-ley-de-cuidados-paliativos-a-quienes-beneficia.html "Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?")
-* [Jacobo Bucaram Ortiz, político y hermano de Abdalá Bucaram, falleció a los 77 años](https://www.elcomercio.com/actualidad/politica/jacobo-bucaram-ortiz-fallecio-guayaquil.html "Jacobo Bucaram Ortiz, político y hermano de Abdalá Bucaram, falleció a los 77 años")
-
-**Joyce Higgins de Ginatta** fue la primera presidenta de la **Cámara de la Pequeña Industria del Guayas** y es considerada una de las impulsoras de la **dolarización** en **Ecuador**.
-
-¿Quién fue Joyce Higgins de Ginatta?
+El reclamo de los derechos políticos
 ------------------------------------
 
-Nació en Pensilvania, **Estados Unidos** y es la segunda de cinco hermanos.
+El consejero Guarderas **busca que el TCE sancione a la vicepresidenta Abad**. Lo que podría resultar en la pérdida de sus **derechos políticos y su eventual destitución del carg**o.
 
-En sus últimos años fue **conferencista** nacional e internacional.
+Policía detuvo a falsos trabajadores de CNEL en Guayaquil
+=========================================================
 
-Se autodefinió como “mentora de la dolarización” y escribió el libro **“La Dama de la Dolarización”.**
+Los sospechosos presentaron credenciales falsificadas de la Corporación Nacional de Electricidad.
+-------------------------------------------------------------------------------------------------
 
-Higgins asumió la **Presidencia de la Cámara de la Pequeña Industria** en 1991.
+![Los desconocidos vestían uniformes con los logos de la CNEL](https://www.elcomercio.com/wp-content/uploads/2024/10/cnel.jpg)
 
-Para 1998, la empresaria fue una de las primeras personas en divulgar la tesis de la **dolarización.**
+La Policía Nacional detuvo a **dos sospechosos** que fingían ser trabajadores de la Corporación Nacional de Electricidad (**CNEL**).
 
-Dos años después, el país cambió su moneda del **sucre** al dólar.
+Moradores de **Sauces 6**, en Guayaquil, alertaron a los uniformados de la extraña actitud de los hombres, por lo que se ejecutó un **patrullaje preventivo** en el sector.
 
-Obtuvo su título de Ingeniera Comercial en la **Universidad de Guayaquil**.
+### Más noticias
 
-Junto a su hijo Giovanni tenía el programa radial **“Futuro en acción”**, que también se transmitía por algunas redes sociales.
+* [Cortes de luz en Guayaquil este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-viernes-18-octubre.html "Cortes de luz en Guayaquil este viernes 18 de octubre")
+* [Gobierno suspende temporalmente el cobro de planillas eléctricas de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/gobierno-suspende-temporalmente-cobro-planillas-luz-septiembre-de-2024.html "Gobierno suspende temporalmente el cobro de planillas eléctricas de septiembre de 2024")
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
 
-En la red social Facebook, se presentaba como presidenta de la **Federación Interamericana Empresarial**.
+Al detectarlos, los individuos se mostraron nerviosos, pero presentaron sus **credenciales** para, según ellos, comprobar que pertenecían a la entidad.
 
-Aún se desconocen las causas de su deceso.
+Los supuestos empleados de CNEL **vestían uniformes** y cascos con los logos de la Corporación, similares a los que utilizan sus colaboradores.
 
-Lionel Messi gana un nuevo premio basado en su figura
-=====================================================
+Los policías dudaron y se contactaron con un funcionario jurídico de la empresa, quien confirmó que los sospechosos **no eran parte de la nómina**, comprobándose que las supuestas identidades laborales eran **falsificadas**.
 
-El argentino Lionel Messi sumó una nueva distinción individual y el trofeo que recibió está basado en su figura.
-----------------------------------------------------------------------------------------------------------------
+El jefe del circuito Sauces, Stiven Guanoluisa, informó que los individuos se hacían pasar por **electricistas** para acercarse a las viviendas y realizar falsas revisiones en los medidores, con la intención de cometer **estafas**.
 
-![Lionel Messi, estrella argentina del Inter Miami, recibe un nuevo premio.](https://www.elcomercio.com/wp-content/uploads/2024/10/cf8956dc89a69aea30aaba6882239184b06dfe5e.jpg)
+Los aprehendidos, identificados como **Darwin M. B. y Alan M. M.** fueron puestos a órdenes de las autoridades competentes.
 
-**Lionel Messi** afirmó este jueves 17 de octubre que tras pasar un difícil año en el que sufrió varias lesiones que le apartaron durante meses de los campos de fútbol se siente “bien físicamente” y listo “para terminar de la mejor manera”, con otro título, la temporada de la MLS con el Inter Miami.
+El primero de los detenidos registra antecedentes por usurpación y simulación de funciones públicas en 2020 y por **extorsión** en 2021.
 
-Durante la ceremonia de entrega del Premio Marca América, celebrada en Miami y a la que asistieron la esposa del futbolista, **Antonela Rocuzzo** y el dueño del Inter Miami, Jorge Más, Messi, de 37 años, también calificó al Barcelona como el equipo de su vida.
+Los afectados presentaron la denuncia en Fiscalía por el delito captado en **flagrancia**.
+
+CNEL alertó posibles estafas
+----------------------------
+
+La CNEL recordó a la ciudadanía que ningún trabajador de la empresa está autorizado a **recibir dinero** a cambio de visitas técnicas a los domicilios.
+
+“Ningún colaborador puede receptar dinero por **servicios eléctricos**, como instalación o cambio de medidores, reubicaciones, correctivos, refacturaciones, arreglo de luminarias, instalación de postes o materiales eléctricos”, indicó la Corporación.
+
+La empresa instó a la comunidad a no proporcionar **información a desconocidos**, ni permitir el ingreso de personas no autorizadas que afirmen ser trabajadores de CNEL.
+
+  
+
+Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador
+=============================================================
+
+El Gobierno adelantará el subsidio de 180 kW en el consumo en la planilla de luz residencial desde noviembre.
+-------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa se refirió a los nuevos horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa.jpg)
+
+El presidente de la República, **Daniel Noboa**, decidió adelantar la gratuidad de los 180 Kwh de consumo en las **planillas de luz** de los hogares del **Ecuador**. Esto como medida de compensación por los inconvenientes causados por los **cortes de luz**, en medio de la crisis energética que vive el país[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
+
+### Más noticias
+
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+* [Recomendaciones para conducir de noche con cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-conducir-noche-quito-recomendaciones.html "Recomendaciones para conducir de noche con cortes de luz en Quito")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
+
+En cadena nacional, el presidente **Daniel Noboa** anunció este 17 de octubre del 2024 que, desde noviembre de 2024, el **Estado** subsidiará los primeros 180 kilovatios (kW) en las facturas de **consumo eléctrico en las zonas residenciales** a nivel nacional. Esta medida, aunque temporal, busca aliviar la carga económica de las familias.
+
+Inicialmente, el Gobierno había anunciado que la medida durarías tres meses entre diciembre (2024), enero y febrero (2025). Ahora empezará un mes antes.
+
+Sin embargo, no aclaró si será solo por **tres meses**, es decir, terminaría en enero de 2025 o se incrementaría un mes más e iría hasta febrero de 2025
+
+Otras medidas anunciadas
+------------------------
+
+Asimismo, Noboa anunció que esta medida se complementa con un **plan a mediano plazo**, el cual busca añadir un total de 1 598 megavatios (MW) al sistema eléctrico del país.
+
+Aunque solo detalló 925,41 MW. Por ejemplo, dijo que en noviembre de 2024 se sumarán 241 MW provenientes de la compra de generación permanente en tierra, mientras que en diciembre de 2025 se incorporarán 300 MW adicionales a través de la renta de generación terrestre y 204 MW con el funcionamiento de la central hidroeléctrica **Toachi Pilatón.**
+
+Y en el primer trimestre de 2025, se espera la incorporación de 419 MW adicionales a partir de la compra de generación terrestre.
+
+Además, señaló que los generadores adquiridos son duales, lo que les permite funcionar tanto con diésel como con gas natural.
+
+  
+
+Nuevo operativo de tránsito por la Ecovía en Quito: ¿cuándo arranca?
+====================================================================
+
+Ya abierta la circulación de la Plaza Argentina, los operativos de tránsito por las obras en la Ecovía se extenderán a las avenidas al sur de la Whymper.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Funcionarios de la AMT, Epmmop y la empresa constructora de la rehabilitación de la Ecovía, planifican el nuevo operativo de tránsito para la zona de las avenidas República y Orellana.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-13-1.jpg)
+
+La **Agencia Metropolitana de Tránsito** planifica un nuevo **operativo** para coordinar la **movilidad** de **Quito**. La rehabilitación de los carriles exclusivos de la **Ecovía** provocará tensiones de **tránsito** en un nuevo punto de la ciudad. Para ello se reunió con la **Empresa Pública Metropolitana de Movilidad y Obras** **Públicas** y la contratista este viernes 18 de octubre del 2024.
+
+### Más noticias
+
+* [El agua es lo más buscado por las familias de Quito desde mediados de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-agua-racionamiento-barrios-quito.html "El agua es lo más buscado por las familias de Quito desde mediados de septiembre")
+* [Incendio forestal se registra en el cerro Ilaló, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-cerro-ilalo-quito.html "Incendio forestal se registra en el cerro Ilaló, en Quito")
+* [Taxista que provocó incendio forestal en Quito recibió medidas cautelares](https://www.elcomercio.com/actualidad/quito/taxista-formulacion-cargos-incendios-forestales-quito.html "Taxista que provocó incendio forestal en Quito recibió medidas cautelares")
+
+El inicio del nuevo operativo de tránsito
+-----------------------------------------
+
+A las 11:00 de este 18 de octubre, funcionarios de las tres instituciones mantenían una reunión de avanzada para definir las operaciones que deberán realizar.
+
+En esta reunión, las tres instituciones seguían deliberando si se trabaja sobre la avenida **Seis de Diciembre** desde la **Whymper** hasta la avenida **República** o llegar incluso hasta la avenida **Orellana**.
+
+Luego de los diálogos llegaron a una conclusión. El cierre arrancará el **domingo 20 de octubre** a las **19:00**. Solamente trabajarán hasta la avenida **República**.
+
+Si cerraban hasta la Orellana, iba ser un caos mayor por el transporte público que pasa por allí. En la siguiente etapa será desde la Orellana a la avenida Colón. Y tendrán un plazo de **10 días**, pero podrían acortarse si el clima y otros factores ayudan para agilizar las obras.
+
+Con el envión de la Ecovía de la Plaza Argentina
+------------------------------------------------
+
+La rehabilitación de la **Ecovía** ha generado mayores congestiones de tránsito en un Quito que ya tiene una movilidad complicada. Ya habían intervenido en los carriles exclusivos de la **Ecovía** a la altura de la **Río Coca**, **Granados**, **Naciones Unidas** y **Eloy Alfaro**[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+Lo que ocurrió en la Plaza Argentina resultó alentador al terminar la intervención antes de lo previsto. Según la planificación original, las obras en esa zona comenzó el 10 de octubre y debía terminar el 20 de octubre del 2024. Sin embargo, la Plaza Argentina se abrió el 17 de octubre.
+
+Por otra parte, otra vía compleja será cuando se trabaje a la altura de la avenida Patria. Según el director de la **AMT**, **Washington Martínez**, sostuvo que la idea es que se aproveche el **feriado de finados**, 1 al 4 de noviembre.
+
+Marc Anthony votará por Kamala Harris y alerta a latinos sobre Trump
+====================================================================
+
+El cantante señaló que Trump "va a separar niños (indocumentados) de sus familias, y amenazó con usar al Ejército para hacerlo".
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Vista de un concierto del cantante Marc Anthony, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/marc-anthony-efe.jpg)
+
+El cantante [Marc Anthony](https://www.elcomercio.com/tendencias/entretenimiento/marc-anthony-seduce-festival-vina.html "https://www.elcomercio.com/tendencias/entretenimiento/marc-anthony-seduce-festival-vina.html") hizo oficial su apoyo a favor de la candidata demócrata a la Casa Blanca y vicepresidenta de Estados Unidos, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-hara-campana-junto-barack-michelle-obama-estados-clave.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-hara-campana-junto-barack-michelle-obama-estados-clave.html").
+
+### Más noticias
+
+* [Marc Anthony seduce y encanta Viña del Mar con sus mejores pasos de salsa](https://www.elcomercio.com/tendencias/entretenimiento/marc-anthony-seduce-festival-vina.html "https://www.elcomercio.com/tendencias/entretenimiento/marc-anthony-seduce-festival-vina.html")
+* [La campaña de Kamala Harris apela a menores indocumentados](https://www.elcomercio.com/actualidad/mundo/campana-kamala-harris-apela-menores-indocumentados.html "La campaña de Kamala Harris apela a menores indocumentados")
+* [La campaña de Kamala Harris apela a menores indocumentados](https://www.elcomercio.com/actualidad/mundo/campana-kamala-harris-apela-menores-indocumentados.html "La campaña de Kamala Harris apela a menores indocumentados")
+
+Lo informó mediante un anunció publicitario difundido este viernes y en el que de paso recuerda a los latinos lo **“divisivo”** que fue el mandato del expresidente (2017-2021) y aspirante republicano, **Donald Trump**.
+
+Ante cámaras, el salsero señaló que no olvida lo que fue la presidencia de Trump y en especial lo que “hizo y dijo” de Puerto Rico tras el **devastador impacto en la isla del huracán María en 2017.**
+
+Acciones de Trump con Puerto Rico
+---------------------------------
+
+“Trump **bloqueó miles de millones en asistencia mientras miles morían**. Yo recuerdo cuando necesitábamos agua limpia y electricidad, Trump les tiró toallas de papel y llamó a Puerto Rico ‘sucio y pobre'”, dijo Anthony en el anuncio.
+
+Niños indocumentados separados de sus familias
+----------------------------------------------
+
+El intérprete recordó además que Trump ya delantó que, de ganar las elecciones el próximo 5 de noviembre, “**va a separar niños (indocumentados) de sus familias**, y amenazó con usar al Ejército para hacerlo”.
+
+“Esta elección va más allá de los partidos políticos. Debemos recordar que Estados Unidos se trata de eso, de estar **UNIDOS. Sin importar de donde vengamos”**, recalcó el músico, nacido en Nueva York e hijo de padres puertorriqueños.
+
+El anuncio forma parte de una inversión de **370 millones de dólares** que hizo la campaña de Harris en publicidad para televisión y soportes digitales hasta el día de las elecciones, con énfasis en estados claves.
+
+El corte de Anthony, llamado **‘Recuerdo**‘, se transmitirá a nivel nacional por la cadena Telemundo durante la emisión este domingo de los Premios Billboard de Música Latina 2024, además de otros medios hispanos. 
+
+Liam Payne deja una herencia millonaria a su hijo
+=================================================
+
+Tras su muerte, la mayor parte de la fortuna de Liam Payne pasaría a su único hijo, Bear Gray Payne.
+----------------------------------------------------------------------------------------------------
+
+![Liam Payne murió a los 31 años, en Buenos Aires, Argentina. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo188.jpg)
+
+La trágica muerte de **Liam Payne**, exintegrante de **One Direction**, el 16 de octubre en Buenos Aires, conmocionó al mundo del espectáculo.
+
+Payne, quien cayó desde un balcón en un hotel de la capital argentina, dejó una fortuna, según cita Infobae, haciendo referencia a la agencia británica Reuters.
+
+### **Más noticias:**
+
+* [Exintegrantes de One Direction comparten fotos conmovedoras junto a Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-deceso-fotos-amigos-one-direction.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-deceso-fotos-amigos-one-direction.html")
+* [Liam Payne luchó contra uno de los peores enemigos](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-deceso-excesos-alcohol.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-deceso-excesos-alcohol.html")
+* [Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link")
+
+**Liam Payne deja una herencia millonaria a su hijo**
+-----------------------------------------------------
+
+Este patrimonio se generó principalmente a partir de su exitosa carrera musical, tanto con la banda como en su trayectoria en solitario.
+
+Payne alcanzó la fama en 2010 junto a sus compañeros de **One Direction,** quienes se convirtieron en un fenómeno global.
+
+Tras la pausa de la banda en 2015, el cantante lanzó su álbum debut ‘LP1″‘ en 2019, además de participar en campañas publicitarias de marcas reconocidas como Hugo Boss. También incursionó en el arte digital con la colección de NFT ‘Lonely Bug’ en 2021.
+
+**¿Quién es el hijo de Liam Payne?**
+------------------------------------
+
+La mayor parte de la herencia de Liam se destinará a su hijo de siete años, Bear Gray Payne, fruto de su relación con la cantante Cheryl Cole.
+
+En una entrevista, Payne expresó su deseo de que su fortuna fuera heredada por Bear, mencionando: “Mi vida ahora es suya, mi dinero es suyo”. También indicó que había creado empresas que podrían ser gestionadas por su hijo al alcanzar la mayoría de edad.
+
+¿De cuánto es la herencia millonaria que deja Liam Payne a su hijo?
+
+La fortuna alcanzaría los 70 millones de dólares. Entre sus propiedades, destacan dos mansiones. La primera, ubicada en Malibú, California.
+
+La segunda, una lujosa residencia en Surrey, Inglaterra, valorada en 8,5 millones de dólares, incluye instalaciones de lujo como piscina y cancha de tenis.
+
+Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años
+======================================================================
+
+El argentino Damián Díaz llegó a Barcelona Sporting Club en 2011 por pedido de su compatriota Luis Zubeldía.
+------------------------------------------------------------------------------------------------------------
+
+![Damián Díaz en un Clásico del Astillero en el George Capwell en el 2022.](https://www.elcomercio.com/wp-content/uploads/2024/10/diaz_clasico_1.jpg)
+
+**Damián Díaz** dejó una profunda huella en su paso por Barcelona Sporting Club, al que defendió entre el 2011-2013 y 2016-2024, cortando abruptamente su contrato para el segundo semestre de esta temporada.
+
+Tras dejar **Barcelona Sporting Club, Damián Díaz se vinculó a Banfield de Argentina**. Su buen arranque se vio truncado por una fractura del maleolo externo de la pierna izquierda que hizo que el año se termine antes de lo planeado.
 
 ### Más noticias:
 
-* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
-* [Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada](https://www.elcomercio.com/deportes/futbol/lionel-messi-emotivo-mensaje-para-andres-iniesta-tras-su-retirada.html "Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada")
-* [(Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi](https://www.elcomercio.com/deportes/futbol/leonardo-campana-festejo-golazo-junto-lionel-messi.html "(Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi")
+* [Liga de Quito extraña al Deportivo Quito en Serie A](https://www.elcomercio.com/deportes/futbol/liga-de-quito-extrana-al-deportivo-quito-en-serie-a.html "Liga de Quito extraña al Deportivo Quito en Serie A")
+* [¿Cuál es la diferencia de Barcelona SC y Emelec en el Clásico del Astillero?](https://www.elcomercio.com/deportes/historial-235-barcelona-emelec-clasico-astillero.html "¿Cuál es la diferencia de Barcelona SC y Emelec en el Clásico del Astillero?")
+* [La Selección de Ecuador Femenina sub-17 fue sorprendida con una carta](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-sub17-carta.html "La Selección de Ecuador Femenina sub-17 fue sorprendida con una carta")
 
-A preguntas del director del periódico deportivo Marca, Juan Ignacio Gallardo, tras la entrega del premio, **Messi** señaló que ha alcanzado todos sus sueños.
+Díaz es considerado como el mejor jugador de Barcelona SC en el siglo XXI, aunque **muchos se animan a ponerlo como el mejor jugador de la historia** del club, peleando junto a nombres como los de Víctor Ephanor, Severino Vasconcelos, Rubén Darío Insúa, Carlos Muñoz, José Gavica, entre otros.
 
-“**Gracia a Dios pude cumplir todos mis sueños. Puede lograr mucho más de lo que había soñado cuando era chico.** Pude conseguir el sueño más grande de cualquier jugador que es ganar un Mundial que creo que es el trofeo que todos queremos”, explicó.
+Gran parte de la idolatría que **Díaz construyó con los hinchas canarios fue por sus destacadas** actuaciones contra Emelec en el Clásico del Astillero, tanto en el George Capwell como en el Monumental.
 
-Lionel Messi espera mantener su plenitud física
------------------------------------------------
+Goles, jugadas de lujo, resonadas victorias, dolorosas derrotas, peleas con sus rivales deportivos, penales fallados, reclamos a los árbitros, **las infaltables tarjetas amarillas o las ‘cargadas’ a los hinchas eléctricos**, son parte del repertorio que el argentino-ecuatoriano dejó en su paso por el país.
 
-“**Cuando empezamos tuve la suerte de ganar muchísimos títulos en el club de mi vida, que es el Barcelona.** Ganar títulos también en el París (Saint-Germain), llegar acá y ganar títulos. La verdad es que no puedo pedir más pero estamos cerquita de poder conseguir algún otro más y el objetivo es intentarlo como siempre”, añadió.
+El del domingo 20 de octubre de 2024, por la décima fecha de la **segunda etapa de la Liga Pro en el Monumental**, será el primer Clásico del Astillero sin el mediocampista, en los últimos ocho años.
 
-Messi no quiso comprometerse a participar en el Mundial que se disputará en **Estados Unidos, México y Canadá** en 2026.
+Damián Díaz el goleador amarillo
+--------------------------------
 
-“Ahora vivo el día a día, trato de disfrutar de todo lo que me pasa en cada momento y cuando llegue el momento se verá. **Ojalá pueda seguir rindiendo a este nivel para sentirme bien y para estar feliz porque cuando me siento bien y puedo disfrutar de lo que hago, soy feliz**“, declaró.
+Según Transfermarkt, el ‘Kitu’ es el **máximo goleador de Barcelona SC en el Clásico del Astillero** en los últimos 13 años, sin ser un centro delantero, lo que destaca aún más su aporte frente al arco rival.
 
-“**La verdad es que no me pongo como objetivo llegar sino vivir el día a día y estar bien**“, concluyó.
+La estadísticas revelan que jugó 26 partido, ganó 10, empató nueve y perdió siete. Anotó seis goles, asistió en cinco oportunidades, fue amonestado con tarjeta amarilla en 13 ocasiones y nunca fue expulsado.
 
-Gallardo le recordó que con el Premio Marca América ya tiene **103 títulos colectivos e individuales** en su poder a lo que la estrella argentina reconoció que no sabía que esa era la cifra.
+El último gol ante el ‘Bombillo’ fue el **27 de noviembre de 2016 en el estadio Monumental**. Anotó en la derrota 1-2 en un año en el que se proclamaron campeones del torneo nacional sin necesidad de una final.
 
-Messi no pierde la emoción en las canchas
------------------------------------------
+El **primer gol se remontan al 19 de noviembre de 2011** con un certero contragolpe. Fue un 2-0 en el Monumental. El otro tanto fue de Vinicio Angulo.
 
-“Me encanta jugar al fútbol, disfruto de estar dentro de una cancha. Hace poquito me tocó estar en Argentina y disfrutar de un Monumental repleto, feliz por ver a la selección, coreando mi nombre, el de mis compañeros y eso la verdad que para mí es lo máximo. **He luchado muchísimo y he pasado muchas malas en Argentina para que llegue este momento y hoy lo disfruto más que nunca**“, comentó.
+También fue parte **fundamental en las goleadas 5-0 en 2012 y 2016**. En ambos fue titular y anotó un gol en cada encuentro.
 
-En la ceremonia de la entrega del premio, otorgado por el periódico deportivo Marca por ser el futbolista con más títulos de la historia del deporte, Messi también recibió un **cuadro pintado** por el artista barcelonés José María Peña Gallardo y una **escultura** del argentino Carlos Benavídez.
+En la vereda azul el goleador en ese mismo periodo de tiempo es Ángel Mena con seis tantos y dos asistencias en 18 partidos. De ese total, ganó ocho, perdió cuatro y empató seis.
 
-Messi aplaudió la elección de los dos artistas de Cataluña y Argentina. “**Son las dos casas que me representan, donde fuimos felices y somos felices junto con mi familia**. Y hoy nos toca estar en un lugar en el que también somos muy felices, que estamos disfrutando muchísimo de la ciudad, del club, de la gente nueva”, concluyó.
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/diaz_clasico_2-1024x683.jpg)
+
+Foto: API.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Kamala Harris hará campaña junto a Barack y Michelle Obama en estados clave
+===========================================================================
+
+El expresidente Obama ya partició en varios eventos en solitario en apoyo de Harris en Pittsburgh.
+--------------------------------------------------------------------------------------------------
+
+![Kamala Harris en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala-harris-efe-discurso.jpg)
+
+La candidata demócrata, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-impulsa-promesa-legalizar-marihuana-recreativa.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-impulsa-promesa-legalizar-marihuana-recreativa.html"), hará por primera vez **campaña** junto al expresidente **Barack Obama** (2009-2017) y la exprimera dama **Michelle Obama** la semana próxima en los estados clave de **Georgia** y **Míchigan**.
+
+### Más noticias:
+
+* [Kamala Harris impulsa su promesa de legalizar la marihuana recreativa](https://www.elcomercio.com/actualidad/mundo/kamala-harris-impulsa-promesa-legalizar-marihuana-recreativa.html "Kamala Harris impulsa su promesa de legalizar la marihuana recreativa")
+* [La campaña de Kamala Harris apela a menores indocumentados](https://www.elcomercio.com/actualidad/mundo/campana-kamala-harris-apela-menores-indocumentados.html "La campaña de Kamala Harris apela a menores indocumentados")
+* [Kamala Harris aventaja a Trump entre votantes latinos](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-trump-entre-votantes-latinos.html "Kamala Harris aventaja a Trump entre votantes latinos ")
+
+Harris en Georgia
+-----------------
+
+Harris estará en Georgia el 24 de octubre con Obama y el 26 de octubre en Míchigan con Michelle Obama, según un alto cargo de la **campaña demócrata** que habló con la prensa bajo condición de anonimato.
+
+Será la primera vez que la exprimera dama participe en un acto de campaña en apoyo a Harris.
+
+Wisconsin y Míchigan
+--------------------
+
+El expresidente Obama ya partició en varios **eventos en solitario** en apoyo de Harris en Pittsburgh, en el estado clave de Pensilvania, y tiene previsto dar un mitin este viernes en Arizona y mañana sábado en Nevada. La semana próxima también estará en **Wisconsin** y **Míchigan**.
+
+Los Obama fueron firmes defensores de Harris desde que se convirtió en la candidata demócrata tras la retirada del presidente, Joe Biden, quien puso **fin a su campaña** en julio presionado por su propio partido después de un mal desempeño en un debate televisivo contra el expresidente y candidato republicano Donald Trump (2017-2021).
+
+Tanto **Barack** como **Michelle Obama**, figuras muy populares del Partido Demócrata, ya pronunciaron **apasionados discursos** en apoyo a Harris durante la Convención Nacional Demócrata celebrada en agosto en Chicago. 
+
+Casos Metástasis, Purga y Plaga derivan en separación de 25 servidores judiciales
+=================================================================================
+
+El Consejo de la Judicatura destituyó a 25 funcionarios que han sido procesados en los casos: Metástasis, Purga y Plaga.
+------------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis en la Corte Nacional de Justicia el pasado 12 de agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/consejo-judi.jpg)
+
+La **Fiscalía General del Estado** investigó alrededor de un centenar de sospechosos de posible delincuencia organizada, que incluyen **jueces, fiscales, policías, abogados** y funcionarios del SNAI. Esta operación se centró en los casos denominados **Purga, Plaga y Metástasis**, que revelaron una presunta red de corrupción.
+
+### Más noticias
+
+* [Fiscalía procesa a supuestos miembros de Los Tiguerones por secuestro extorsivo](https://www.elcomercio.com/actualidad/seguridad/fiscalia-procesa-tiguerones-secuestro-extorsivo.html "Fiscalía procesa a supuestos miembros de Los Tiguerones por secuestro extorsivo")
+* [Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía](https://www.elcomercio.com/actualidad/seguridad/asi-operaba-red-leandro-norero-caso-metastasis-segun-fiscalia.html "Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía")
+* [Fiscalía ratifica a sus acusados en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juez-manuel-cabrera-tomo-resolucion.html "Fiscalía ratifica a sus acusados en el caso Metástasis")
+
+El Consejo de la Judicatura destituyó a **25 servidores judiciales** que han sido procesados por su presunta vinculación con estos casos de **delincuencia organizada**.
+
+Entre los destituidos se encuentran **17 jueces, 3 fiscales, 4 secretarios de unidades judiciales y de la Corte Provincial** y un presidente de la misma entidad. La mayoría de los sancionados se concentran en la provincia del **Guayas (13), seguida por Santo Domingo de los Tsáchilas (7), Manabí (2), El Oro (2) y Cotopaxi (1)**.
+
+En diciembre de 2023, un operativo a **escala naciona**l resultó en la detención de varias autoridades. Entre ellas, carcelarias, empresarios, abogados, **miembros de la fuerza pública** y líderes de bandas delincuenciales por su presunta vinculación con una trama de corrupción.
+
+> 📰 [#BOLETÍN](https://twitter.com/hashtag/BOLET%C3%8DN?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> El [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw) ha destituido a 2️⃣5️⃣ servidores judiciales que están siendo investigados en los casos [#Purga](https://twitter.com/hashtag/Purga?src=hash&ref_src=twsrc%5Etfw), [#Plaga](https://twitter.com/hashtag/Plaga?src=hash&ref_src=twsrc%5Etfw) y [#Metástasis](https://twitter.com/hashtag/Met%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw). Estos funcionarios incurrieron en actos irregulares durante el ejercicio de sus funciones.  
+>   
+> Encuentra más información aquí ▶️… [pic.twitter.com/lSiI4sXmuO](https://t.co/lSiI4sXmuO)
+> 
+> — Consejo de la Judicatura (@CJudicaturaEc) [October 17, 2024](https://twitter.com/CJudicaturaEc/status/1846721061972594970?ref_src=twsrc%5Etfw)
+
+Los operativos resultaron de la investigación que inició con el **análisis de dispositivos** encontrados en la celda de **Leandro Norero**.
+
+Origen de los casos Purga, Plaga y Metástasis
+---------------------------------------------
+
+El caso Purga fue abierto por la Fiscalía el 5 de marzo de 2024, basándose en mensajes de texto encontrados en los teléfonos de Norero. Estos chats dieron origen al **caso Metástasis, del cual se derivaron los casos Purga y Plaga**.
+
+En estos procesos se investigan a funcionarios judiciales, abogados y otros actores del sistema judicial por su presunta vinculación con el **crimen organizado y el narcotráfico**, especialmente en la provincia del Guayas.
+
+En el caso Plaga, iniciado tras un allanamiento el 3 de abril de 2024, se investiga a **jueces y exjueces, abogados, policías, funcionarios judiciales y extrabajadores del SNA**I.
+
+Como resultado de este operativo, detuvieron a 14 personas, quienes actualmente enfrentan un proceso por presunta delincuencia organizada.
+
+Distribución de los exservidores procesados
+-------------------------------------------
+
+Entre los exservidores judiciales destituidos, **8 están procesados en el caso Purga**, **8 en el caso Metástasis** y **9 en el caso Plaga**. En el caso Metástasis, **30 de los 52 investigados irán a juicio**.
+
+Entre ellos se encuentra el expresidente del Consejo de la Judicatura, **Wilman T.**, cuyo juicio iniciará el próximo lunes **21 de octubre a las 09:00 en la Corte Nacional de Justicia**.
+
+Para otros siete procesados, el juicio se suspendió debido a que se encuentran prófugos, incluyendo al **exasambleísta Ronny A**.
+
+Audiencias programadas
+----------------------
+
+Para el **21 de octubre, a las 09:00**, se ha convocado la audiencia preparatoria de juicio para los 31 sospechosos de presunta delincuencia organizada en el **caso Plaga**, en la que se incluyen jueces, fiscales, abogados y otros funcionarios.
+
+Por otro lado, la audiencia de evaluación y preparatoria de juicio en el **caso Purga** se ha fijado para el **lunes 28 de octubre de 2024, a las 08:30, en la Corte Nacional de Justicia**.
+
+Entre los investigados en este caso están la expresidenta de la **Corte de Guayas, Fabiola G., y el exasambleísta socialcristiano Pablo M**.
+
+El llamativo giro de Luana Alonso, de la natación a OnlyFans
+============================================================
+
+Además de su nuevo camino, Luana Alonso reveló que Neymar le envió un mensaje directo en Instagram tras darle 'like'.
+---------------------------------------------------------------------------------------------------------------------
+
+![La exnadadora Luana Alonso dio un giro radical en su carrera tras anunciar que creará contenido exclusivo en OnlyFans.](https://www.elcomercio.com/wp-content/uploads/2024/10/luana.jpg)
+
+La nadadora paraguaya **Luana Alonso** dio un giro radical en su carrera tras anunciar su retiro del deporte y dedicarse a crear contenido exclusivo en **OnlyFans.**
+
+Con solo 20 años, decidió dejar las competencias de natación y pasar a la plataforma de pago, una decisión que ha captado la atención de sus más de un millón de seguidores en Instagram.
+
+### Más noticias:
+
+* [Paraguay remonta y le da su primera victoria a Gustavo Alfaro](https://www.elcomercio.com/deportes/futbol/partido-paraguay-venezuela-alfaro-eliminatorias.html "Paraguay remonta y le da su primera victoria a Gustavo Alfaro")
+* [Luana Alonso, nadadora de Paraguay, niega que la hayan expulsado de la Villa Olímpica.](https://www.elcomercio.com/wp-content/uploads/2024/08/ENDRICK-PALMEIRAS-2024-08-05T172253.381.jpg "Luana Alonso, nadadora de Paraguay, niega que la hayan expulsado de la Villa Olímpica.")
+* [Dragonas a cuartos de final de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-libertadores-femenina-cuartos.html "Dragonas a cuartos de final de la Libertadores Femenina")
+
+“¡Ya es oficial! Me retiro de la natación, muchísimas gracias a todos por el apoyo”, escribió en su cuenta, después de una participación en los **Juegos Olímpicos de París 2024**, donde finalizó sexta en su serie de los 100 metros mariposa con un registro de 1:03.09 minutos.
+
+Con ese tiempo finalizó en el casillero 29, entre 32 nadadoras. La china **Zhang Yufei** fue la ganadora de la medalla de oro con 56:50 segundos.
+
+Su eliminación no solo marcó el final de su carrera deportiva, sino que también generó controversia.
+
+La Jefa de Misión del **Comité Olímpico Paraguayo** solicitó su retiro de la **Villa Olímpica**, argumentando que su presencia afectaba el ambiente del equipo.
+
+Luana Alonso en OnlyFans
+------------------------
+
+Ahora, Luana se presenta en **OnlyFans** como “tu exnadadora favorita” y promete a sus suscriptores: “Te prometo que no te arrepentirás de esto”.
+
+La joven ha fijado el precio de su contenido en 35 dólares mensuales, atrayendo así a una nueva base de fans dispuestos a conocer su vida más íntima y personal.
+
+![Luana Alonso, nadadora de Paraguay, niega que la hayan expulsado de la Villa Olímpica.](https://www.elcomercio.com/wp-content/uploads/2024/08/ENDRICK-PALMEIRAS-2024-08-05T172253.381-1024x683.jpg)
+
+Luana Alonso negó en su momento que la hayan expulsado de la Villa Olímpica.
+
+Neymar y Luana Alonso
+---------------------
+
+Además de su nuevo camino en la **plataforma de pago**, Luana ha revelado que **Neymar** le envió un mensaje directo en Instagram tras dar ‘like’ a una de sus publicaciones, lo que ha alimentado rumores sobre una posible conexión entre ambos.
+
+Con planes de estudiar Ciencias Políticas en Estados Unidos y aspiraciones a convertirse en ministra de Deportes, **Luana Alonso** demuestra que, a pesar de dejar la natación, sigue dispuesta a explorar nuevas oportunidades en su vida.
+
+> [pic.twitter.com/2KL0jM6BpJ](https://t.co/2KL0jM6BpJ)
+> 
+> — Luana Alonso OLY (@luanalonsom) [October 8, 2024](https://twitter.com/luanalonsom/status/1843682120813948986?ref_src=twsrc%5Etfw)
+
+MrBeast en Ecuador, lo que se sabe de su visita
+===============================================
+
+Se vio a MrBeast en Ecuador, una visita que ha generado gran expectativa e incluso memes.
+-----------------------------------------------------------------------------------------
+
+![MrBeast, nacido en Carolina del Norte, ha alcanzado más de 320 millones de suscriptores en YouTube. Foto: Instagram @mrbeast.](https://www.elcomercio.com/wp-content/uploads/2024/10/MrBest-Ecuador.jpg)
+
+El **famoso ‘youtuber’ [MrBeast](https://www.instagram.com/mrbeast/ "https://www.instagram.com/mrbeast/")**, cuyo nombre real es **Jimmy Donaldson**, finalmente, y a través de un video en su cuenta de TikTok, confirmó su visita a Ecuador.  
+
+### Más noticias
+
+* [¿Qué viene a hacer MrBeast en Ecuador?](https://www.elcomercio.com/tendencias/trending/mrbest-youtuber-redes-sociales-ecuador.html "https://www.elcomercio.com/tendencias/trending/mrbest-youtuber-redes-sociales-ecuador.html") 
+* [¿Quién es MrBeast?](https://www.elcomercio.com/tendencias/entretenimiento/quien-es-mrbeast.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/quien-es-mrbeast.html?source=Internal&ref=Single+Content+Link")
+
+Desde el 15 de octubre de 2024, según medios locales, videos y publicaciones en redes sociales han especulado sobre los **motivos de su presencia en Quito**. Los fanáticos han intentado sorprenderlo en varios lugares, incluso tratando de verlo en el **hotel donde supuestamente se hospedó**. 
+
+**Expectativas y rumores en torno a la visita de MrBest** 
+----------------------------------------------------------
+
+La llegada de **MrBeast** ha desatado **una serie de especulaciones**. Algunos usuarios de Internet **han creado memes sobre su visita**. Esta situación ha llevado a **bromas sobre su posible intención de construir hidroeléctricas** o incluso **realizar proyectos que mejoren el acceso al agua en diversas comunidades**, pues el ‘influencer’ es conocido por su **labor filantrópica**.  
+
+Sin embargo, **hasta ahora no ha habido confirmación oficial** sobre sus actividades específicas en el país. 
+
+**Lo que se sabe de su visita** 
+--------------------------------
+
+Un **video compartido por MrBeast en su cuenta de TikTok** lo muestra en una terraza de Quito, aparentemente en el **sector de La Floresta**, acompañado del ‘tiktoker’ y músico brasileño **MC Menor JP**, quien está en el país para **grabar un videoclip**.  
+
+> [@mrbeast](https://www.tiktok.com/@mrbeast?refer=embed "@mrbeast") We found him @mcmenor.jp [#brazil](https://www.tiktok.com/tag/brazil?refer=embed "brazil") [#funk](https://www.tiktok.com/tag/funk?refer=embed "funk") [♬ original sound – MrBeast](https://www.tiktok.com/music/original-sound-7426429012022496031?refer=embed "♬ original sound - MrBeast")
+
+Este video ha sido fundamental para **confirmar la presencia de MrBeast en Ecuador**. **Medios brasileños**, como [Omatogrossense](https://es.famousbirthdays.com/people/mr-beast.html "https://es.famousbirthdays.com/people/mr-beast.html"), informan que **MC Menor JP** está en Ecuador para este video musical de su tema Mina de Vermelho, y es posible que **MrBeast sea el principal colaborador en esta producción**. 
+
+El artista **MC Menor JP** también subió una historia en su **[cuenta de Instagram](https://www.instagram.com/imcmenorjp/ "https://www.instagram.com/imcmenorjp/")** para agradecer la presencia del ‘influencer’: “Canté Menina de Vermelho junto a mi amigo @mrbeast el youtuber más grande del mundo 🌎😭🇧🇷”, se puede leer en la publicación.  
+
+**Curiosidades de MrBeast** 
+----------------------------
+
+MrBeast nació el 7 de mayo de 1998 en **Greenville, Carolina del Norte**. Desde joven **mostró interés por la creación de contenido**, y comenzó su carrera en YouTube a los 13 años.  
+
+**Su canal se ha convertido en el más visto de la plataforma**, con más de **320 millones de suscriptores**. Su contenido se caracteriza por **retos extravagantes y donaciones generosas** a organizaciones benéficas. 
+
+A pesar de sus éxitos, MrBeast enfrenta desafíos personales. **Padece la enfermedad de Crohn**, una condición inflamatoria intestinal que afecta su calidad de vida. Sin embargo, esto no le ha impedido seguir adelante con su carrera y **contribuir a causas sociales**, a decir de la página [Famous Birthdays](https://es.famousbirthdays.com/people/mr-beast.html "https://es.famousbirthdays.com/people/mr-beast.html").
