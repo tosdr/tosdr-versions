@@ -1050,7 +1050,7 @@ Please note, some products may not be available in your location.
 * [Ethereum Price Prediction](https://www.binance.com/en/price-prediction/ethereum)
 * [Buy Bitcoin](https://www.binance.com/en/how-to-buy/bitcoin)
 * [Buy BNB](https://www.binance.com/en/how-to-buy/bnb)
-* [Buy Ripple](https://www.binance.com/en/how-to-buy/xrp)
+* [Buy XRP](https://www.binance.com/en/how-to-buy/xrp)
 * [Buy Dogecoin](https://www.binance.com/en/how-to-buy/dogecoin)
 * [Buy Ethereum](https://www.binance.com/en/how-to-buy/ethereum)
 * [Buy Tradable Altcoins](https://www.binance.com/en/altcoins/tradable)
