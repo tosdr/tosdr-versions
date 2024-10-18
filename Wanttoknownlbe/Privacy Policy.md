@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/help-wanttoknow-stuur-eens-een-artikel-door/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/jullie-zijn-de-kracht-van-vrede/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
