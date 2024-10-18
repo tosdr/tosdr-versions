@@ -34,6 +34,8 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     * [Request Pricing](https://www.kaseya.com/request-pricing/ "Request Pricing")
     * [Get a Demo](https://www.kaseya.com/request-my-demo/ "Get a Demo")
     
+    ![](https://www.kaseya.com/wp-content/uploads/2024/04/logo-kaseya-365-white.svg)
+    
     The Golden Age of IT Management
     
     Everything Needed to Manage, Secure, Backup and Automate Your Endpoints
