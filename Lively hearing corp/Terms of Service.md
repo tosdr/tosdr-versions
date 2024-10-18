@@ -1,10 +1,10 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Take $300 off the Enhance Select 500! [Shop](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
 100-day risk-free trial, US-based support!
 
@@ -16,22 +16,55 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+
 Previous
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
+![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/audiology-awareness-sale-2024-desktop.jpg)
 
-New
+Save $300 on
+============
 
-It’s your hearing. Let’s make the most of it.
----------------------------------------------
+the Enhance
+===========
 
-The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
+Select 500!
+===========
+
+Get it for the same price as the
+
+Enhance Select _300_. Happy Audiology
+
+Awareness Month!
+
+Save $300 on the
+----------------
+
+Enhance Select
+--------------
+
+500!
+----
+
+Get it for the same price as the
+
+Enhance Select _300_. Happy
+
+Audiology Awareness Month!
+
+### Save $300 on the
+
+### Enhance Select 500!
+
+Get it for the same price as the
+
+Enhance Select _300_. Happy
+
+Audiology Awareness Month!
 
 [Shop now](https://www.listenlively.com/product)
 
@@ -42,14 +75,22 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
-sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $300!
 
-“Best if you're new to hearing aids”
+**Shop now**](https://www.listenlively.com/product)[##### Save $300!
+
+**Shop now**](https://www.listenlively.com/product)[Save $300!
+----------
+
+**Shop now**](https://www.listenlively.com/product)
+
+“Best Hearing Aids of 2024 Editor's Pick”
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Next
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -149,7 +190,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* New
+* Latest
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
@@ -157,9 +198,19 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.
     
-    $1,795 - $1,995
+    $1,495 - $1,695
     
-    or as low as $58/mo per pair[\*](#financing-disclosure)
+    ~$1,795 \- $1,995~
+    
+    $300 SAVINGS
+    
+    Limited time offer. Applies only to Enhance Select 500 hearing aids purchased directly from Jabra Enhance.
+    
+    [See offer details](https://www.listenlively.com/faq#sale-details)
+    
+    Close
+    
+    or as low as $49/mo per pair[\*](#financing-disclosure)
     
     [](https://www.listenlively.com/product/enhanceselect500)
 * ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
