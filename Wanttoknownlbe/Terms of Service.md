@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/als-laatste-dienst-aan-usa-obama-verspreekt-zich/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/mh17-leugens-en-bedrog/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
