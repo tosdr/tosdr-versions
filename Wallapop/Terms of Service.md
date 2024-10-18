@@ -823,12 +823,7 @@ Our [Privacy Policy](https://about.wallapop.com/en/privacy-policy/) gives a deta
 
 Wallapop
 
-### Trending topics
-
-* [London](https://uk.wallapop.com/london)
-* [Manchester](https://uk.wallapop.com/manchester)
-* [Leicester](https://uk.wallapop.com/leicester)
-* [Bristol](https://uk.wallapop.com/bristol)
+Copyright © 2024 Wallapop © of their respective owners
 
 ### Wallapop
 
@@ -840,15 +835,15 @@ Wallapop
 ### Support
 
 * [Help center](https://ayuda.wallapop.com/hc/en-us)
-* [Publishing rules](https://ayuda.wallapop.com/hc/en-us/articles/360004667717-What-content-is-not-allowed-on-wallapop)
+* [Community guidelines](https://ayuda.wallapop.com/hc/en-us/articles/360019800078-Community-Guidelines)
 * [Security tips](https://ayuda.wallapop.com/hc/en-us/sections/360001177157-Security-tips)
 
 ### Legal
 
-* [Legal notice and Ethical Channel](https://about.wallapop.com/en/legal-notice/)
-* [Legal terms and Conditions](https://about.wallapop.com/en/legal-terms-and-conditions/)
-* [Privacy Policy](https://about.wallapop.com/en/privacy-policy/)
-* [Cookies policy](https://uk.wallapop.com/?qc=true)
+* [Legal notice](https://about.wallapop.com/en/legal-notice/)
+* [Terms](https://about.wallapop.com/en/legal-terms-and-conditions)
+* [Privacy](https://about.wallapop.com/en/privacy-policy)
+* [Cookies policy](https://about.wallapop.com/en/cookies)
 
 * [Download on the App Store](https://apps.apple.com/es/app/wallapop/id692753615?l=en "Download on the App Store")
 * [Get it on Google Play](https://play.google.com/store/apps/details?id=com.wallapop&hl=en&gl=US "Get it on Google Play")
@@ -856,5 +851,3 @@ Wallapop
 * [Facebook](https://facebook.com/wallapop.es "Facebook")
 * Instagram
 * [Twitter](https://twitter.com/wallapop "Twitter")
-
-Copyright © 2024 Wallapop © of their respective owners
