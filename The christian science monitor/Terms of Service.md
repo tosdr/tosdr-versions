@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Equality
+
+### How China’s women claim freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1018/How-China-s-women-claim-freedom "How China’s women claim freedom")
+
+[Cooperation
+
+### Transformed FEMA faces a torrent of challenges to its growing relief efforts](https://www.csmonitor.com/Environment/2024/1018/helene-fema-distrust-north-carolina "Transformed FEMA faces a torrent of challenges to its growing relief efforts")
+
 [Peace
 
 ### Fearless renewal in Kashmir](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1017/Fearless-renewal-in-Kashmir "Fearless renewal in Kashmir")
-
-[Peace
-
-### Calm amid climate change](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1016/Calm-amid-climate-change "Calm amid climate change")
-
-[Innovation
-
-### Slow and small, drones find cracks in Israel’s high-tech air defenses](https://www.csmonitor.com/World/Middle-East/2024/1016/israel-hezbollah-drones-missile-defense "Slow and small, drones find cracks in Israel’s high-tech air defenses")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Last-minute Texas Supreme Court halts execution of man in shaken baby case](https://www.csmonitor.com/USA/2024/1018/Execution-halted-Texas-murder-shaken-baby-syndrome "Last-minute Texas Supreme Court halts execution of man in shaken baby case")
+
+[### South Korea says North Korea is sending troops to Russia. Is that true?](https://www.csmonitor.com/World/Asia-Pacific/2024/1018/north-korea-russia-ukraine-war-troop-deployment "South Korea says North Korea is sending troops to Russia. Is that true?")
+
 [### Hamas leader, Israel’s ‘most wanted,’ is dead. What happens to war in Gaza?](https://www.csmonitor.com/World/Middle-East/2024/1017/israel-hamas-gaza-yahya-sinwar-dead "Hamas leader, Israel’s ‘most wanted,’ is dead. What happens to war in Gaza?")
-
-[### As birth rates fall, who will keep the economy running? Immigrants.](https://www.csmonitor.com/World/2024/1017/population-immigration-politics-solution-economic "As birth rates fall, who will keep the economy running? Immigrants.")
-
-[### Amid fresh wave of antisemitism, some French Jews resort to fake names](https://www.csmonitor.com/World/Europe/2024/1017/mideast-conflict-antisemitism-france "Amid fresh wave of antisemitism, some French Jews resort to fake names")
 
 * * *
 
