@@ -233,9 +233,9 @@ Games you might like
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
-[School Escape](https://lagged.com/en/g/school-escape) ![School Escape Game](https://imgs2.dab3games.com/school-escape2-ft45.png) new
-
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
+
+[School Escape](https://lagged.com/en/g/school-escape) ![School Escape Game](https://imgs2.dab3games.com/school-escape2-ft45.png) new
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
@@ -243,9 +243,9 @@ Games you might like
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
-[Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
-
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
+
+[Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
 
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
