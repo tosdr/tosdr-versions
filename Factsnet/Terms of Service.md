@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Torch Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-torch-syndrome/)
+[![25 Facts About Enterprise Solutions ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/25-facts-about-enterprise-solutions/)
+
+General
+
+18 Oct 2024
+
+[25 Facts About Enterprise Solutions](https://facts.net/general/25-facts-about-enterprise-solutions/)
+
+[![25 Facts About Heart Tumor Of The Adult ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-heart-tumor-of-the-adult/)
 
 Health Science
 
-17 Oct 2024
+18 Oct 2024
 
-[30 Facts About Torch Syndrome](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-torch-syndrome/)
-
-[![15 Facts About Hendrik Verwoerd ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/15-facts-about-hendrik-verwoerd/)
-
-People
-
-17 Oct 2024
-
-[15 Facts About Hendrik Verwoerd](https://facts.net/history/people/15-facts-about-hendrik-verwoerd/)
+[25 Facts About Heart Tumor Of The Adult](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-heart-tumor-of-the-adult/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
