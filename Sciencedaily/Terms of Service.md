@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+[Vaccines](https://www.sciencedaily.com/news/health_medicine/vaccines/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+[Telecommunications](https://www.sciencedaily.com/news/matter_energy/telecommunications/)
 
-[Space Missions](https://www.sciencedaily.com/news/space_time/space_missions/)
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+
+[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
   
 
