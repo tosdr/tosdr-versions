@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111170-mid-day-digest-2024-10-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111212-mid-day-digest-2024-10-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,7 +104,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111170-mid-day-digest-2024-10-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111212-mid-day-digest-2024-10-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -116,20 +116,22 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34380)
+     [](https://patriotpost.us/cartoons/34386)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Mark Alexander Memo to Harris: Violent Crime Did NOT Decline](https://patriotpost.us/alexander/111195-memo-to-harris-violent-crime-did-not-decline-2024-10-18)
+*      [Hans von Spakovsky Why Are Criminal Illegal Aliens Allowed to Roam U.S. Freely?](https://patriotpost.us/opinion/111208-why-are-criminal-illegal-aliens-allowed-to-roam-us-freely-2024-10-18)
+*      [Michael Reagan Kamala Shows America How Much She Hates Trump](https://patriotpost.us/opinion/111207-kamala-shows-america-how-much-she-hates-trump-2024-10-18)
+*      [Tim Graham Fox’s Bret Baier Pressed Harris, and the Powder-Puff Press Hated It](https://patriotpost.us/opinion/111206-foxs-bret-baier-pressed-harris-and-the-powder-puff-press-hated-it-2024-10-18)
+*      [Gary Bauer Baier vs. Harris](https://patriotpost.us/opinion/111205-baier-vs-harris-2024-10-18)
+*      [Michael Barone Are Minorities Voting Increasingly Like Normies?](https://patriotpost.us/opinion/111203-are-minorities-voting-increasingly-like-normies-2024-10-18)
+*      [Josh Hammer The Collapse of Kamala Harris](https://patriotpost.us/opinion/111201-the-collapse-of-kamala-harris-2024-10-18)
+*      [David Harsanyi Why Can’t Kamala Answer a Simple Question?](https://patriotpost.us/opinion/111199-why-cant-kamala-answer-a-simple-question-2024-10-18)
 *      [Mark Alexander Profiles of Valor: CPL Tibor Rubin (USA)](https://patriotpost.us/alexander/111177-profiles-of-valor-cpl-tibor-rubin-usa-2024-10-18)
-*      [Victor Davis Hanson Election 2024 — Those who lecture versus those tired of being lectured](https://patriotpost.us/opinion/111176-election-2024-those-who-lecture-versus-those-tired-of-being-lectured-2024-10-17)
-*      [Hans von Spakovsky How States Can Protect the Right to Vote in Hurricane-Ravaged Areas](https://patriotpost.us/opinion/111150-how-states-can-protect-the-right-to-vote-in-hurricane-ravaged-areas-2024-10-17)
-*      [Larry Elder Obama Again Whips Out His Race Card — Tells ‘The Brothers’ How To Vote](https://patriotpost.us/opinion/111148-obama-again-whips-out-his-race-card-tells-the-brothers-how-to-vote-2024-10-17)
-*      [Gary Bauer JDFI Defends Religious Liberty](https://patriotpost.us/opinion/111147-jdfi-defends-religious-liberty-2024-10-17)
-*      [Armstrong Williams Race: The Currency of Power](https://patriotpost.us/opinion/111146-race-the-currency-of-power-2024-10-17)
-*      [Cal Thomas Regime Change in Iran Is the Only Option](https://patriotpost.us/opinion/111144-regime-change-in-iran-is-the-only-option-2024-10-17)
-*      [Mark Alexander JD Vance v. New York Times](https://patriotpost.us/alexander/111104-jd-vance-v-new-york-times-2024-10-17)
+*      [The Babylon Bee Harris Complains She Was Not Informed the Interview Would Include Questions](https://patriotpost.us/opinion/111209-harris-complains-she-was-not-informed-the-interview-would-include-questions-2024-10-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,11 +145,13 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“Amplification is the vice of modern oratory.” —Thomas Jefferson (1824)
+“To prevent crimes, is the noblest end and aim of criminal jurisprudence. To punish them, is one of the means necessary for the accomplishment of this noble end and aim.” —James Wilson (1790)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
