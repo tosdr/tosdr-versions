@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ebbd1bd816c9ea79fa63122e60dea252
+38a6b3df5a8f8948914b9d5a05b23dbd
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![9 mm by 8 mm glass chevrons](https://www.sojourner.biz/images/cache/glass/VB0037.200.jpg)](https://www.sojourner.biz/beads/glass/9-mm-by-8-mm-glass-chevrons.html "9 mm by 8 mm glass chevrons")
+[![4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/images/cache/stone/ON0007.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
 
-#### [9 mm by 8 mm glass chevrons](https://www.sojourner.biz/beads/glass/9-mm-by-8-mm-glass-chevrons.html "9 mm by 8 mm glass chevrons")
+#### [4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
 
-$6.00
+$26.00
 
 ### Best Sellers
 
