@@ -40,7 +40,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Category icons](https://www.knowledgeowl.com/help/category-icons)
             * [Control subcategory display](https://www.knowledgeowl.com/help/control-subcategory-display)
             * [Customize category behavior in the table of contents](https://www.knowledgeowl.com/help/customize-how-a-category-behaves-in-the-table-of-contents)
-            * [Delete a category and its content](https://www.knowledgeowl.com/help/delete-a-category-and-its-content)Updated
+            * [Delete a category and its content](https://www.knowledgeowl.com/help/delete-a-category-and-its-content)
         * [Visibility and permissions](https://www.knowledgeowl.com/help/category-visibility-permissions)
             
             * [Hide a category from navigation](https://www.knowledgeowl.com/help/hide-a-category-from-navigation)
@@ -114,9 +114,9 @@ Table of Contents Table of Contents Toggle navigation
                 * [How to use versions](javascript:void(0);)
                     
                     * [Open and edit versions](https://www.knowledgeowl.com/help/editing-versions)
-                    * [Create a version](https://www.knowledgeowl.com/help/create-a-version)Updated
-                    * [Activate a version](https://www.knowledgeowl.com/help/activating-a-version)Updated
-                    * [Delete a version](https://www.knowledgeowl.com/help/deleting-a-version)Updated
+                    * [Create a version](https://www.knowledgeowl.com/help/create-a-version)
+                    * [Activate a version](https://www.knowledgeowl.com/help/activating-a-version)
+                    * [Delete a version](https://www.knowledgeowl.com/help/deleting-a-version)
                 * [Version notes](javascript:void(0);)
                     
                     * [What are version notes?](https://www.knowledgeowl.com/help/what-are-version-notes)
@@ -451,7 +451,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Use automatic Related Articles](https://www.knowledgeowl.com/help/use-automatic-related-articles)
             * [Manually suggest Related Articles](https://www.knowledgeowl.com/help/manually-suggest-related-articles)
             * [Use both manual and automatic Related Articles](https://www.knowledgeowl.com/help/use-combo-manual-automatic-related-articles)
-            * [Add related articles](https://www.knowledgeowl.com/help/adding-related-articles)Updated
+            * [Add related articles](https://www.knowledgeowl.com/help/adding-related-articles)
             * [Reorder or remove Related Articles](https://www.knowledgeowl.com/help/reordering-or-removing-related-articles)
         * [Configure Related Articles](javascript:void(0);)
             
@@ -822,8 +822,8 @@ Table of Contents Table of Contents Toggle navigation
             
             * [What are author teams?](https://www.knowledgeowl.com/help/author-teams-intro)
             * [Create author teams](https://www.knowledgeowl.com/help/create-author-teams)
-            * [Change the order of author teams](https://www.knowledgeowl.com/help/change-the-order-of-author-teams)Updated
-            * [Restrict content to author teams](https://www.knowledgeowl.com/help/restrict-content-to-author-teams)Updated
+            * [Change the order of author teams](https://www.knowledgeowl.com/help/change-the-order-of-author-teams)
+            * [Restrict content to author teams](https://www.knowledgeowl.com/help/restrict-content-to-author-teams)
             * [Inherited author team restrictions](https://www.knowledgeowl.com/help/refining-inherited-author-team-restrictions)
             * [Remove author team restrictions](https://www.knowledgeowl.com/help/removing-author-team-restrictions)
         * [Author roles & custom roles](https://www.knowledgeowl.com/help/author-roles-custom-roles)
@@ -1401,7 +1401,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
+* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
     
 
    
