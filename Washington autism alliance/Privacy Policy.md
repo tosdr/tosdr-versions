@@ -148,7 +148,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Nov 11 2024
     
-    #### [Support Group - Topic TBD](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-11)
+    #### [Supporting Parents of Autism - SPA](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-11)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
