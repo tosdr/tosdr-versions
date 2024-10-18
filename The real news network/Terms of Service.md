@@ -111,7 +111,7 @@ Trending Posts
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 Close
 
@@ -175,7 +175,7 @@ Trending Posts
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 [Skip to content](#main)
 
@@ -374,7 +374,7 @@ Trending Posts
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
