@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Streaming advertising: then and now](https://illumin.com/wp-content/uploads/2024/10/streaming-then-and-now-263x300.jpg)
+    * ![Email marketing: then and now](https://illumin.com/wp-content/uploads/2024/10/email-then-and-now-263x300.jpg)
         
-        Streaming advertising: then and now[Read More](https://illumin.com/insights/blog/streaming-advertising-then-and-now/)
+        Email marketing: then and now[Read More](https://illumin.com/insights/blog/email-marketing-then-and-now/)
         
 * [Company](#)
     * [Company](#)
