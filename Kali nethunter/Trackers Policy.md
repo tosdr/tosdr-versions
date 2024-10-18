@@ -84,7 +84,7 @@
     
     Prove critical knowledge & skills with an industry-standard certification](https://www.offsec.com/courses-and-certifications/)[Get Hands-on Practice
     
-    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/)[Increase Career Prospects
+    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/individual/)[Increase Career Prospects
     
     Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
     
@@ -112,7 +112,7 @@
     
     Provide continuous Learning Library access to build cyber workforce resilience](https://www.offsec.com/pricing/organization/)[Cyber Ranges
     
-    Hands-on training in live-fire, simulation environments](https://www.offsec.com/enterprise/cyber-range/)[Pentesting Services
+    Hands-on training in live-fire, simulation environments](https://www.offsec.com/labs/enterprise/)[Pentesting Services
     
     Let OffSec conduct a comprehensive vulnerability assessment](https://www.offsec.com/penetration-testing/)
     
@@ -142,7 +142,7 @@
     
     12-month access to introductory- and essential-level content](https://www.offsec.com/products/fundamentals/)[Proving Grounds Labs
     
-    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/)
+    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual/)
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
@@ -313,7 +313,7 @@
     
     Prove critical knowledge & skills with an industry-standard certification](https://www.offsec.com/courses-and-certifications/)[Get Hands-on Practice
     
-    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/)[Increase Career Prospects
+    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/individual/)[Increase Career Prospects
     
     Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
     
@@ -341,7 +341,7 @@
     
     Provide continuous Learning Library access to build cyber workforce resilience](https://www.offsec.com/pricing/organization/)[Cyber Ranges
     
-    Hands-on training in live-fire, simulation environments](https://www.offsec.com/enterprise/cyber-range/)[Pentesting Services
+    Hands-on training in live-fire, simulation environments](https://www.offsec.com/labs/enterprise/)[Pentesting Services
     
     Let OffSec conduct a comprehensive vulnerability assessment](https://www.offsec.com/penetration-testing/)
     
@@ -371,7 +371,7 @@
     
     12-month access to introductory- and essential-level content](https://www.offsec.com/products/fundamentals/)[Proving Grounds Labs
     
-    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/)
+    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual/)
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
@@ -625,7 +625,7 @@ Products and Pricing
 
 * [Courses & Content](https://www.offsec.com/courses-and-certifications/)
 * [Learn Subscriptions](https://www.offsec.com/products/)
-* [Proving Grounds Labs](https://www.offsec.com/labs/)
+* [Proving Grounds Labs](https://www.offsec.com/labs/individual/)
 * [Enterprise Cyber Range](https://www.offsec.com/enterprise/cyber-range/)
 * [Pricing](https://www.offsec.com/pricing/)
 * [Financing](https://www.offsec.com/financing/)
@@ -647,7 +647,7 @@ Resources
 * [Blog](https://www.offsec.com/blog/)
 * [OffSec Cyberversity](https://www.offsec.com/cyberversity/)
 * [Press Room](https://www.offsec.com/press-room/)
-* [Join our Mailing List](https://www.offsec.com/subscriptions)
+* [Join our Mailing List](https://www.offsec.com/subscriptions/)
 * [Help Center](https://help.offensive-security.com/hc/en-us?utm_source=offsec)
 * [Swag Store](https://offsec.usa.dowlis.com/?utm_source=offsec)
 
