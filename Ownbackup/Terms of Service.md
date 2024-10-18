@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Own Discover
+[Data Security
 
-Agentforce and the Rising Importance of Quality Historical Data](https://www.ownbackup.com/blog/agentforce-and-the-rising-importance-of-quality-historical-data)
+Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
 
-[Government
+[Data Lifecycle Management
 
-How States Can Secure Voter Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-voter-data-with-fedramp-authorized-saas-solutions)
+Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
 
-[Backup and Recovery
+[On-Platform Development
 
-Introducing Continuous Data Protection For Salesforce: Achieve Near-Zero Data Loss for Rapidly-Changing Mission-Critical Data](https://www.ownbackup.com/blog/introducing-continuous-data-protection-for-salesforce)
+What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Own Discover
+[Data Security
 
-Agentforce and the Rising Importance of Quality Historical Data](https://www.ownbackup.com/blog/agentforce-and-the-rising-importance-of-quality-historical-data)
+Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
 
-[Government
+[Data Lifecycle Management
 
-How States Can Secure Voter Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-voter-data-with-fedramp-authorized-saas-solutions)
+Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
 
-[Backup and Recovery
+[On-Platform Development
 
-Introducing Continuous Data Protection For Salesforce: Achieve Near-Zero Data Loss for Rapidly-Changing Mission-Critical Data](https://www.ownbackup.com/blog/introducing-continuous-data-protection-for-salesforce)
+What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
 
 Company
 
