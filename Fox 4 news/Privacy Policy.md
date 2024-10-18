@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![5 arrested in South Dallas: Stolen guns, weed, meth, cocaine, mushrooms confiscated](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dpd-seizure-2.png?ve=1&tl=1)
+ [![2 arrested in Rockwall murder after man shot, truck stolen](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/abygail-chaparro-32-and-terry-lacy-29.png?ve=1&tl=1)
 
- ![5 arrested in South Dallas: Stolen guns, weed, meth, cocaine, mushrooms confiscated](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dpd-seizure-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/5-arrested-south-dallas-stolen-guns-weed-meth-cocaine-mushrooms-confiscated)
+ ![2 arrested in Rockwall murder after man shot, truck stolen](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/abygail-chaparro-32-and-terry-lacy-29.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-arrested-rockwall-murder-after-man-shot-truck-stolen)
 
-### [5 arrested in South Dallas: Stolen guns, weed, meth, cocaine, mushrooms confiscated](https://www.fox4news.com/news/5-arrested-south-dallas-stolen-guns-weed-meth-cocaine-mushrooms-confiscated)
+### [2 arrested in Rockwall murder after man shot, truck stolen](https://www.fox4news.com/news/2-arrested-rockwall-murder-after-man-shot-truck-stolen)
 
- [![Hardware wholesaler True Value files for bankruptcy, plans sale to rival](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/true-value-sign.jpg?ve=1&tl=1)
+ [![Man sentenced for sexually assaulting preschool-aged children: 'I did what I did'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/GettyImages-1427321345.jpg?ve=1&tl=1)
 
- ![Hardware wholesaler True Value files for bankruptcy, plans sale to rival](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/true-value-sign.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/true-value-bankrupt)
+ ![Man sentenced for sexually assaulting preschool-aged children: 'I did what I did'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/592/333/GettyImages-1427321345.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-sentenced-sexually-assaulting-preschool-aged-children-i-did-what-i-did)
 
-### [Hardware wholesaler True Value files for bankruptcy, plans sale to rival](https://www.fox4news.com/money/true-value-bankrupt)
+### [Man sentenced for sexually assaulting preschool-aged children: 'I did what I did'](https://www.fox4news.com/news/man-sentenced-sexually-assaulting-preschool-aged-children-i-did-what-i-did)
 
- [![Ted Cruz leads Colin Allred by 7 points, new poll shows](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/02/32/18/cruz-allred.jpg?ve=1&tl=1)
+ [![Dallas Wings fire coach Latricia Trammell after 2 seasons](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2154915105.jpg?ve=1&tl=1)
 
- ![Ted Cruz leads Colin Allred by 7 points, new poll shows](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/02/32/18/592/333/cruz-allred.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ted-cruz-colin-allred-texas-senate-poll-october)
+ ![Dallas Wings fire coach Latricia Trammell after 2 seasons](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2154915105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-wings-fire-coach-latricia-trammell-after-2-seasons)
 
-### [Ted Cruz leads Colin Allred by 7 points, new poll shows](https://www.fox4news.com/news/ted-cruz-colin-allred-texas-senate-poll-october)
+### [Dallas Wings fire coach Latricia Trammell after 2 seasons](https://www.fox4news.com/news/dallas-wings-fire-coach-latricia-trammell-after-2-seasons)
 
- [![What we know so far about Liam Payne's death](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-626297592.jpg?ve=1&tl=1)
+ [![Where to Vote: Tarrant County early voting locations](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/GettyImages-1228929110.jpg?ve=1&tl=1)
 
- ![What we know so far about Liam Payne's death](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-626297592.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/liam-payne-death-hotel-argentina-911-call-whats-known)
+ ![Where to Vote: Tarrant County early voting locations](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/592/333/GettyImages-1228929110.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/tarrant-county-early-voting-locations)
 
-### [What we know about former One Direction member Liam Payne’s death](https://www.fox4news.com/news/liam-payne-death-hotel-argentina-911-call-whats-known)
+### [Tarrant County early voting locations](https://www.fox4news.com/election/tarrant-county-early-voting-locations)
 
- [![When will leaves change color in North Texas?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-155703867.jpg?ve=1&tl=1)
+ [![Macy's Thanksgiving parade will feature Minnie Mouse balloon for first time ever](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/minnie-mouse.jpg?ve=1&tl=1)
 
- ![When will leaves change color in North Texas?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-155703867.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-will-leaves-change-color-north-texas-fall)
+ ![Macy's Thanksgiving parade will feature Minnie Mouse balloon for first time ever](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/minnie-mouse.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/macys-thanksgiving-parade-minnie-mouse-balloon)
 
-### [When will leaves change color in North Texas?](https://www.fox4news.com/news/when-will-leaves-change-color-north-texas-fall)
+### [Macy's Thanksgiving parade will feature Minnie Mouse balloon for first time ever](https://www.fox4news.com/news/macys-thanksgiving-parade-minnie-mouse-balloon)
 
 ###### [News](https://www.fox4news.com/news)
 
