@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Hamas chief and Oct. 7 mastermind Yahya Sinwar confirmed dead](https://nypost.com/2024/10/17/world-news/hamas-chief-and-oct-7-mastermind-yahya-sinwar-killed-in-israeli-strike/)
+[Hamas leader tried to take out Israeli drone moments before he was killed](https://nypost.com/2024/10/17/world-news/israeli-drone-captures-yahya-sinwars-last-moments-alive/)
 
 Terms Of Use
 ============
