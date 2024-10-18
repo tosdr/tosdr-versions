@@ -93,45 +93,45 @@ Sponsor
 Recent Posts
 ------------
 
-[](https://yiff-party.com/yiff-ai-premium/emma-and-kacey-directed-by-asp791-director-2/)
+[](https://yiff-party.com/yiff-ai-premium/jack-and-legoshi-directed-by-ascar-3/)
 
-[emma and kacey directed by asp791 (director)](https://yiff-party.com/yiff-ai-premium/emma-and-kacey-directed-by-asp791-director-2/)
+[jack and legoshi directed by ascar](https://yiff-party.com/yiff-ai-premium/jack-and-legoshi-directed-by-ascar-3/)
 
 0 1 0
 
 October 18, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/emma-directed-by-asp791-director-2/)
+[](https://yiff-party.com/yiff/akari-2024-pokemon-gigaleak-and-etc-created-by-renaspyro/)
 
-[emma directed by asp791 (director)](https://yiff-party.com/yiff-ai-premium/emma-directed-by-asp791-director-2/)
-
-0 2 0
-
-October 17, 2024
-
-[](https://yiff-party.com/yiff/nala-the-lion-king-and-etc-created-by-lollipopcon/)
-
-[nala (the lion king and etc) created by lollipopcon](https://yiff-party.com/yiff/nala-the-lion-king-and-etc-created-by-lollipopcon/)
-
-0 2 0
-
-October 17, 2024
-
-[](https://yiff-party.com/yiff/fennel-reeso-and-wisp-rain-world-and-etc-created-by-doeboi/)
-
-[fennel, reeso, and wisp (rain world and etc) created by doeboi](https://yiff-party.com/yiff/fennel-reeso-and-wisp-rain-world-and-etc-created-by-doeboi/)
-
-0 2 0
-
-October 17, 2024
-
-[](https://yiff-party.com/yiff-ai-premium/directed-by-lewdtf-88/)
-
-[directed by lewdtf](https://yiff-party.com/yiff-ai-premium/directed-by-lewdtf-88/)
+[akari (2024 pokemon gigaleak and etc) created by renaspyro](https://yiff-party.com/yiff/akari-2024-pokemon-gigaleak-and-etc-created-by-renaspyro/)
 
 0 3 0
 
-October 17, 2024
+October 18, 2024
+
+[](https://yiff-party.com/yiff/irena-and-lily-created-by-averysweatyboy/)
+
+[irena and lily created by averysweatyboy](https://yiff-party.com/yiff/irena-and-lily-created-by-averysweatyboy/)
+
+0 4 0
+
+October 18, 2024
+
+[](https://yiff-party.com/yiff-gif/ember-and-fan-character-nintendo-and-etc-created-by-psychobatsu/)
+
+[ember and fan character (nintendo and etc) created by psychobatsu](https://yiff-party.com/yiff-gif/ember-and-fan-character-nintendo-and-etc-created-by-psychobatsu/)
+
+0 4 0
+
+October 18, 2024
+
+[](https://yiff-party.com/yiff-ai-premium/directed-by-wildclaw666-5/)
+
+[directed by wildclaw666](https://yiff-party.com/yiff-ai-premium/directed-by-wildclaw666-5/)
+
+0 4 0
+
+October 18, 2024
 
 Latest commented posts
 ----------------------
@@ -140,31 +140,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 477 1
+0 484 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/emma-and-kacey-directed-by-asp791-director-2/)
+[](https://yiff-party.com/yiff-ai-premium/jack-and-legoshi-directed-by-ascar-3/)
 
-[emma and kacey directed by asp791 (director)](https://yiff-party.com/yiff-ai-premium/emma-and-kacey-directed-by-asp791-director-2/)
+[jack and legoshi directed by ascar](https://yiff-party.com/yiff-ai-premium/jack-and-legoshi-directed-by-ascar-3/)
 
 0 1 0
 
 October 18, 2024
 
-[](https://yiff-party.com/yiff/crown-prince-and-momo-gunfire-reborn-created-by-miso-souperstar/)
+[](https://yiff-party.com/yiff/lamb-and-red-crown-massive-monster-studio-and-etc-created-by-rixtry-oficial/)
 
-[crown prince and momo (gunfire reborn) created by miso souperstar](https://yiff-party.com/yiff/crown-prince-and-momo-gunfire-reborn-created-by-miso-souperstar/)
+[lamb and red crown (massive monster (studio) and etc) created by rixtry oficial](https://yiff-party.com/yiff/lamb-and-red-crown-massive-monster-studio-and-etc-created-by-rixtry-oficial/)
 
-0 109 0
+0 105 0
 
 September 18, 2024
 
-[](https://yiff-party.com/yiff/loona-helluva-boss-and-etc-created-by-ninesm/)
+[](https://yiff-party.com/yiff/mercenary-directed-by-directorx/)
 
-[loona (helluva boss and etc) created by ninesm](https://yiff-party.com/yiff/loona-helluva-boss-and-etc-created-by-ninesm/)
+[mercenary directed by directorx](https://yiff-party.com/yiff/mercenary-directed-by-directorx/)
 
-0 154 0
+0 136 0
 
 September 18, 2024
 
