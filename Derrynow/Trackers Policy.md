@@ -277,46 +277,30 @@ PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in De
 [PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Girls mural on Badgers Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls mural on Badgers Bar")](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
+[![End of an era as Derry's Jobby Crossan shop closes for final time](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "End of an era as Derry's Jobby Crossan shop closes for final time")](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
 
-Derry Girls mural on Badgers Bar
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry pub reinstalls controversial awning three days after removal](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Yellow weather warning for Derry from the MET Office](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Yellow weather warning for Derry from the MET Office")](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police search for owner of 'significant sum' of money found in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police search for owner of 'significant sum' of money found in Derry")](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
-
-Police search for owner of 'significant sum' of money found in Derry
+Jobby Crossan shop has closed for the final time
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
+[![When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more")](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
 
-PSNI
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings")](https://www.derrynow.com/news/weather/1633352/live-tracker-track-storm-ashley-as-it-barrels-towards-ireland-amid-warnings.html)
 
-[![IN PICTURES: Derry 'Chat Tea Train' celebrates one year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Chat Tea Train' celebrates one year")](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
+LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Weather](https://www.derrynow.com/section/997/cookie-policy)
 
-[IN PICTURES: Derry 'Chat Tea Train' celebrates one year](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings](https://www.derrynow.com/news/weather/1633352/live-tracker-track-storm-ashley-as-it-barrels-towards-ireland-amid-warnings.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
 
@@ -324,6 +308,15 @@ PSNI
 
 [Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two young men injured and road closed after horror early morning crash in Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two young men injured and road closed after horror early morning crash in Galway")](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
+
+Two young men injured and road closed after horror early morning crash in Galway
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Two young men injured and road closed after horror early morning crash in Galway](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings")](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
 
@@ -334,13 +327,22 @@ Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings
 [Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two young men injured and road closed after horror early morning crash in Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two young men injured and road closed after horror early morning crash in Galway")](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
+[![widespread flooding across Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "widespread flooding across Derry")](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
 
-Two young men injured and road closed after horror early morning crash in Galway
+Widespread flooding across Derry
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Widespread flooding across Derry](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
+--------------------------------------------------------------------------------------------------------------------------
+
+[![Mystery solved as US President's Air Force One plane spotted flying over Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mystery solved as US President's Air Force One plane spotted flying over Ireland")](https://www.derrynow.com/news/national-news/1633305/mystery-solved-as-us-president-s-air-force-one-plane-spotted-flying-over-ireland.html)
+
+Air Force One Stock Image PIC: Pixabay
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Two young men injured and road closed after horror early morning crash in Galway](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
+[Mystery solved as US President's Air Force One plane spotted flying over Ireland](https://www.derrynow.com/news/national-news/1633305/mystery-solved-as-us-president-s-air-force-one-plane-spotted-flying-over-ireland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -521,53 +523,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Council issues advice in advance of Storm Ashley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Council issues advice in advance of Storm Ashley")](https://www.derrynow.com/news/derry-news/1633734/council-issues-advice-in-advance-of-storm-ashley.html)
+[![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+Kelly was sentenced at Antrim Crown Court today.
 
-[Council issues advice in advance of Storm Ashley](https://www.derrynow.com/news/derry-news/1633734/council-issues-advice-in-advance-of-storm-ashley.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[!['Trusted courier' has been jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted courier' has been jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
+[Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry Crown Court
+[![Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week")](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Chair of Mid Ulster District Council, Councillor Eugene McConnell, launches the 2024 Mid Ulster Enterprise Week with guest speakers.
 
-['Trusted courier' has been jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Derry man to be sentenced next month after admitting to drugs charges](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man to be sentenced next month after admitting to drugs charges")](https://www.derrynow.com/news/local-news/1633581/derry-man-to-be-sentenced-next-month-after-admitting-to-drugs-charges.html)
+[Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man to be sentenced next month after admitting to drugs charges](https://www.derrynow.com/news/local-news/1633581/derry-man-to-be-sentenced-next-month-after-admitting-to-drugs-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Serial perpetrator of domestic abuse' remanded at Derry Magistrate's Court](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "'Serial perpetrator of domestic abuse' remanded at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1633497/serial-perpetrator-of-domestic-abuse-remanded-at-derry-magistrate-s-court.html)
+[![28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/resizer/165/93/true/2024_10_18/6-1729275618315.jpg--.jpg?1729275621349 "28-year-old man charged with number of dangerous driving-related offences")](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Serial perpetrator of domestic abuse' remanded at Derry Magistrate's Court](https://www.derrynow.com/news/local-news/1633497/serial-perpetrator-of-domestic-abuse-remanded-at-derry-magistrate-s-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/resizer/165/93/true/2024_10_18/463904571_1071489524985576_2751260295639126943_n-1729253422003.jpg--.jpg?1729253422084 "End of an era as Derry's Jobby Crossan shop closes for final time")](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
+[![Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary](https://www.derrynow.com/resizer/165/93/true/2024_10_18/AA_1-1729266247941.jpg--.jpg?1729266248698 "Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary")](https://www.derrynow.com/news/home/1634076/ratheane-care-home-honours-memory-of-air-ambulance-patient-candice-during-35th-anniversary.html)
 
-Jobby Crossan shop has closed for the final time
+Cheque presentation at Ratheane Care Home, Coleraine with Macklin Family, Candice’s Family and Katrina Hughes from Air Ambulance NI.
+
+[Home](https://www.derrynow.com/)
+
+[Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary](https://www.derrynow.com/news/home/1634076/ratheane-care-home-honours-memory-of-air-ambulance-patient-candice-during-35th-anniversary.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_18/1729268708339_0.jpg--.jpg?1729268708606 "Criminal barristers in NI to withdraw services in legal aid dispute")](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Playhouse 'Artitude' project receives massive funding boost](https://www.derrynow.com/resizer/165/93/true/2024_10_18/24-10_-_Arititude_Launch_-_Main_Pic-1729247989074.JPG--.JPG?1729247994675 "Derry's Playhouse 'Artitude' project receives massive funding boost")](https://www.derrynow.com/news/local-news/1633538/derry-s-playhouse-artitude-project-receives-massive-funding-boost.html)
+[![Causeway Council relaunches its Neighbourhood Health Improvement Programme](https://www.derrynow.com/resizer/165/93/true/2024_10_18/CCGBC_1510_NHIP_1-1729261385917.jpg--.jpg?1729261387782 "Causeway Council relaunches its Neighbourhood Health Improvement Programme")](https://www.derrynow.com/news/home/1633864/causeway-council-relaunches-its-neighbourhood-health-improvement-programme.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Pictured are (l-r) Jonathan McFadden, Sports Development Manager CC&G, Stephanie Scott, Neighbourhood Renewal Coordinator, Patti Thornton, Western Trust NHIP and Gareth Scott, Health Improvement.
 
-[Derry's Playhouse 'Artitude' project receives massive funding boost](https://www.derrynow.com/news/local-news/1633538/derry-s-playhouse-artitude-project-receives-massive-funding-boost.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[Causeway Council relaunches its Neighbourhood Health Improvement Programme](https://www.derrynow.com/news/home/1633864/causeway-council-relaunches-its-neighbourhood-health-improvement-programme.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
