@@ -259,12 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
+[![Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement")](https://www.derrynow.com/news/arts---entertainment/1633291/niall-horan-breaks-silence-on-liam-payne-s-death-in-heartbreaking-one-direction-statement.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement
 
-[Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement](https://www.derrynow.com/news/arts---entertainment/1633291/niall-horan-breaks-silence-on-liam-payne-s-death-in-heartbreaking-one-direction-statement.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
 
@@ -274,15 +276,6 @@ PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in De
 
 [PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dramatic increase in Ballykelly bug bites causing concern for locals ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
-
-Dramatic increase in Ballykelly bug bites causing concern for locals
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Girls mural on Badgers Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls mural on Badgers Bar")](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
 
@@ -325,27 +318,52 @@ PSNI
 [IN PICTURES: Derry 'Chat Tea Train' celebrates one year](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Dungiven man charged with series of waste management offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
 
-Derry Crown Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-[Suspended sentence for Dungiven man charged with series of waste management offences](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings")](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
 
-[![Belfast man charged with number of violent offences in Derry denied bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Belfast man charged with number of violent offences in Derry denied bail")](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
+Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Weather](https://www.derrynow.com/section/997/cookie-policy)
 
-[Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two young men injured and road closed after horror early morning crash in Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two young men injured and road closed after horror early morning crash in Galway")](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
+
+Two young men injured and road closed after horror early morning crash in Galway
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Two young men injured and road closed after horror early morning crash in Galway](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death")](https://www.derrynow.com/news/derry-news/1633411/derry-s-eoghan-quigg-posts-tribute-to-one-direction-s-liam-payne-following-his-death.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death](https://www.derrynow.com/news/derry-news/1633411/derry-s-eoghan-quigg-posts-tribute-to-one-direction-s-liam-payne-following-his-death.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+
+PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry 'Chat Tea Train' celebrates one year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Chat Tea Train' celebrates one year")](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
 
@@ -382,6 +400,13 @@ Multimedia
 [IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![WATCH: Kilrea woman's plea for kidney donor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Kilrea woman's plea for kidney donor")](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[WATCH: Kilrea woman's plea for kidney donor](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game")](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -395,27 +420,6 @@ Multimedia
 
 [Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event")](https://www.derrynow.com/story-telling/pictures---videos/1629837/in-pictures-derry-youth-relish-our-guildhall-our-space-social-event.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event](https://www.derrynow.com/story-telling/pictures---videos/1629837/in-pictures-derry-youth-relish-our-guildhall-our-space-social-event.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: St Bernadette service - Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Bernadette service - Derry")](https://www.derrynow.com/news/pictures---videos/1629939/pictures-relics-of-st-bernadette-of-lourdes-arrive-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Relics of St Bernadette of Lourdes arrive in Derry](https://www.derrynow.com/news/pictures---videos/1629939/pictures-relics-of-st-bernadette-of-lourdes-arrive-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette")](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,53 +521,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
+[![Council issues advice in advance of Storm Ashley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Council issues advice in advance of Storm Ashley")](https://www.derrynow.com/news/derry-news/1633734/council-issues-advice-in-advance-of-storm-ashley.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[Council issues advice in advance of Storm Ashley](https://www.derrynow.com/news/derry-news/1633734/council-issues-advice-in-advance-of-storm-ashley.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+[!['Trusted courier' has been jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted courier' has been jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
 
-PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
-
-PSNI
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['Trusted courier' has been jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit](https://www.derrynow.com/resizer/165/93/true/2024_10_17/Hay_Trail_1-1729173207044.jpg--.jpg?1729173207584 "'Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit")](https://www.derrynow.com/news/local-news/1632879/halloween-hay-trail-is-fantastic-opportunity-to-get-into-the-halloween-spirit.html)
+[![Derry man to be sentenced next month after admitting to drugs charges](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man to be sentenced next month after admitting to drugs charges")](https://www.derrynow.com/news/local-news/1633581/derry-man-to-be-sentenced-next-month-after-admitting-to-drugs-charges.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-['Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit](https://www.derrynow.com/news/local-news/1632879/halloween-hay-trail-is-fantastic-opportunity-to-get-into-the-halloween-spirit.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry small businesses encouraged to apply for development grant funding](https://www.derrynow.com/resizer/165/93/true/1484216066110.jpg--.jpg?1484216067000 "Derry small businesses encouraged to apply for development grant funding")](https://www.derrynow.com/news/local-news/1633016/derry-small-businessesencouraged-to-apply-for-development-grant-funding.html)
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry small businesses encouraged to apply for development grant funding](https://www.derrynow.com/news/local-news/1633016/derry-small-businessesencouraged-to-apply-for-development-grant-funding.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man to be sentenced next month after admitting to drugs charges](https://www.derrynow.com/news/local-news/1633581/derry-man-to-be-sentenced-next-month-after-admitting-to-drugs-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Maghera)](https://www.derrynow.com/resizer/165/93/true/2024_10_17/camogie_champions-1729176802973.PNG--.PNG?1729176803025 "St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Maghera)")](https://www.derrynow.com/news/gaa/1632968/county-derry-school-crowned-all-ireland-7-s-camogie-champions.html)
+[!['Serial perpetrator of domestic abuse' remanded at Derry Magistrate's Court](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "'Serial perpetrator of domestic abuse' remanded at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1633497/serial-perpetrator-of-domestic-abuse-remanded-at-derry-magistrate-s-court.html)
 
-St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Maghera)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+['Serial perpetrator of domestic abuse' remanded at Derry Magistrate's Court](https://www.derrynow.com/news/local-news/1633497/serial-perpetrator-of-domestic-abuse-remanded-at-derry-magistrate-s-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[County Derry school crowned All-Ireland 7's camogie champions](https://www.derrynow.com/news/gaa/1632968/county-derry-school-crowned-all-ireland-7-s-camogie-champions.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/resizer/165/93/true/2024_10_18/463904571_1071489524985576_2751260295639126943_n-1729253422003.jpg--.jpg?1729253422084 "End of an era as Derry's Jobby Crossan shop closes for final time")](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
+
+Jobby Crossan shop has closed for the final time
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's Playhouse 'Artitude' project receives massive funding boost](https://www.derrynow.com/resizer/165/93/true/2024_10_18/24-10_-_Arititude_Launch_-_Main_Pic-1729247989074.JPG--.JPG?1729247994675 "Derry's Playhouse 'Artitude' project receives massive funding boost")](https://www.derrynow.com/news/local-news/1633538/derry-s-playhouse-artitude-project-receives-massive-funding-boost.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's Playhouse 'Artitude' project receives massive funding boost](https://www.derrynow.com/news/local-news/1633538/derry-s-playhouse-artitude-project-receives-massive-funding-boost.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
