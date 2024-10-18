@@ -2,7 +2,7 @@
 
 [Skip to content](#content)
 
-[![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.gif)](https://adstradata.com/)
+[![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.webp)](https://adstradata.com/)
 
 * [Home](https://adstradata.com/)
 * [Segments](#)
@@ -141,7 +141,9 @@ Adstra does not accept unsolicited ideas, works, or other materials, and you ack
 
 Adstra expressly prohibits the scraping of email addresses from this Site and expressly opts out of receiving commercial electronic mail messages to Adstra domain email addresses that were obtained in violation of the foregoing or by use of automatic address-generation software.
 
-![](https://adstradata.com/wp-content/uploads/2020/05/adstra-logo-watermark-square-purple.gif)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20754'%3E%3C/svg%3E)
+
+![](https://adstradata.com/wp-content/uploads/2020/05/adstra-logo-watermark-square-purple.webp)
 
 Adstra Headquarters
 
@@ -167,7 +169,11 @@ Princeton, NJ 08540
 
 Copyright © year Adstra all rights reserved
 
-![](https://adstradata.com/wp-content/uploads/2020/05/English_Adstra_LLC_US_English_2024_Certification_Badge.gif)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20682'%3E%3C/svg%3E)
+
+![](https://adstradata.com/wp-content/uploads/2020/05/English_Adstra_LLC_US_English_2024_Certification_Badge.webp)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20382%20382'%3E%3C/svg%3E)
 
 ![](https://adstradata.com/wp-content/uploads/2023/10/equity.diversity.inclusion.2.jpg)
 
@@ -181,7 +187,9 @@ Email
 
 Submit
 
-[![Enterprise Identity Solution](https://adstradata.com/wp-content/uploads/2022/07/Enterprise-Identity-Cover-2.png)](https://adstradata.com/wp-content/uploads/2022/07/ADSTRA-The-Enterprise-Identity-Solution-.pdf)
+[![Enterprise Identity Solution](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20612%20792'%3E%3C/svg%3E)
+
+![Enterprise Identity Solution](https://adstradata.com/wp-content/uploads/2022/07/Enterprise-Identity-Cover-2.png)](https://adstradata.com/wp-content/uploads/2022/07/ADSTRA-The-Enterprise-Identity-Solution-.pdf)
 
 Please enter your email to  
 access our thought piece.​​
