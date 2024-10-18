@@ -130,31 +130,32 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
+[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
+
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
 
 ### Featured Articles
 
+[![What Animal Am I](https://www.wikihow.com/images/thumb/b/ba/What_animal_are_you_quiz.png/-crop-126-120-126px-What_animal_are_you_quiz.png)
+
+What Animal Am I Quiz](https://www.wikihow.com/What-Animal-Am-I)
+
+[![Be Less Impulsive](https://www.wikihow.com/images/thumb/0/0f/Be-Less-Impulsive-Step-17-Version-3.jpg/-crop-126-120-126px-Be-Less-Impulsive-Step-17-Version-3.jpg)
+
+How to  
+Be Less Impulsive](https://www.wikihow.com/Be-Less-Impulsive)
+
+[![Feel Confident](https://www.wikihow.com/images/thumb/0/02/Feel-Confident-Step-17-Version-2.jpg/-crop-126-120-126px-Feel-Confident-Step-17-Version-2.jpg)
+
+How to  
+Feel Confident](https://www.wikihow.com/Feel-Confident)
+
 [![Schedule Your Day](https://www.wikihow.com/images/thumb/b/be/Schedule-Your-Day-Step-14-Version-4.jpg/-crop-126-120-126px-Schedule-Your-Day-Step-14-Version-4.jpg)
 
 How to  
 Schedule Your Day: Examples, Tips & More](https://www.wikihow.com/Schedule-Your-Day)
-
-[![Drink Wine](https://www.wikihow.com/images/thumb/a/ab/Drink-Wine-Step-11-Version-2.jpg/-crop-126-120-126px-Drink-Wine-Step-11-Version-2.jpg)
-
-How to  
-Drink Wine](https://www.wikihow.com/Drink-Wine)
-
-[![Write a Diary](https://www.wikihow.com/images/thumb/0/04/Write-a-Diary-Step-17-Version-4.jpg/-crop-126-120-126px-Write-a-Diary-Step-17-Version-4.jpg)
-
-How to  
-Write a Diary](https://www.wikihow.com/Write-a-Diary)
-
-[![Get a Six Pack Without Any Equipment](https://www.wikihow.com/images/thumb/e/e0/Get-a-Six-Pack-Without-Any-Equipment-Step-14-Version-7.jpg/-crop-126-120-126px-Get-a-Six-Pack-Without-Any-Equipment-Step-14-Version-7.jpg)
-
-How to  
-Get a Six Pack Without Any Equipment](https://www.wikihow.com/Get-a-Six-Pack-Without-Any-Equipment)
 
   
 
@@ -197,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-157
+145
