@@ -449,6 +449,7 @@ student-nav
         * [Registration](https://www.lwsd.org/students-families/families/registration)
         * [School Supply Lists](https://www.lwsd.org/students-families/families/school-supply-lists)
         * [Transfer Options](https://www.lwsd.org/students-families/families/transfer-options)
+        * [New to LWSD](https://www.lwsd.org/students-families/families/new-to-lwsd)
         * [Welcome Event for New & International Families](https://www.lwsd.org/students-families/families/welcome-event)
         
     
