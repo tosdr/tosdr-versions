@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
         
-        #### [Illinois correctional workers rally for stronger security and better protections](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c) [![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
+        #### [Illinois correctional workers rally for stronger security and better protections](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
         
-        #### [Union picket calls for action against contraband in Illinois prisons](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a1459d43-12eb-47ad-9bf6-b212c51694ef/20240619T233058/a1459d43-12eb-47ad-9bf6-b212c51694ef_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a1459d43-12eb-47ad-9bf6-b212c51694ef/20240619T233058/a1459d43-12eb-47ad-9bf6-b212c51694ef_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/quad-city-steamwheelers-subscription-season-tickets/526-87256f12-2eb1-4425-b168-1989bc9f47f0)
         
         #### [QC Steamwheelers offering new subscription pricing on season tickets](https://www.wqad.com/article/sports/local-sports/quad-city-steamwheelers-subscription-season-tickets/526-87256f12-2eb1-4425-b168-1989bc9f47f0)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-53°
+45°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
