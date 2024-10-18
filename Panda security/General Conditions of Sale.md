@@ -200,6 +200,16 @@ Customer ID
 
 Renew at a discount
 
+Halloween Special Offer: Renew and get 60% off
+
+Only available for 48 hours!
+
+Email 
+
+Customer ID 
+
+Renew at a discount
+
 TERMINATION OF THE AGREEMENT
 ============================
 
