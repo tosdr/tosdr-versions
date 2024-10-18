@@ -15,27 +15,27 @@ FOREST SERVER | **Year: 136 Era: 15**
     * [My Pastures](https://hj2.huntandjump.com/member.php?uid=&sp=y)
     * [Create A Horse](https://hj2.huntandjump.com/add_horse_form.php)
     * [Achievement Tasks](https://hj2.huntandjump.com/achievments.php)
-    * [Manage My Breeds](https://hj2.huntandjump.com/breeds.php)
 * ![](/images/coloricons/icon_nav_showing.png)Showing
     
     * [My Show Entries](https://hj2.huntandjump.com/entries.php)
     * [Train My Horses](https://hj2.huntandjump.com/training_form.php)
     * [Auto Show Settings](https://hj2.huntandjump.com/up_autoshow.php)
+    * [Breeder Clubs](https://hj2.huntandjump.com/clubs.php)
+    * [LB Awards](https://hj2.huntandjump.com/awards.php)
 * ![](/images/coloricons/icon_nav_market.png)Advanced Facilities
     
-    * [Boost Tokens](https://hj2.huntandjump.com/boost_tokens.php)
-    * [Gene Mod Treatment](https://hj2.huntandjump.com/gmt.php)
+    * [Manage My Breeds](https://hj2.huntandjump.com/breeds.php)
     * [Owned Genetic Material](https://hj2.huntandjump.com/ai_mygametes.php)
+    * [Herd Helper Collection](https://hj2.huntandjump.com/herdhelpers.php)
 * ![](/images/coloricons/icon_nav_community.png)Community
     
     * [Search Horses](https://hj2.huntandjump.com/adv_search.php)
+    * [Public Auction House](https://hj2.huntandjump.com/pub_auction.php)
     * [Community Forum](https://hj2.huntandjump.com/forum/)
     * [Discord Server](https://hj2.huntandjump.com/discord.php)
     * [Buddy Chat](https://hj2.huntandjump.com/buddy_chat.php)
     * [Search Users](https://hj2.huntandjump.com/search_members.php)
-    * [Breeder Clubs](https://hj2.huntandjump.com/clubs.php)
-    * [LB Awards](https://hj2.huntandjump.com/awards.php)
-    * [Public Auction House](https://hj2.huntandjump.com/pub_auction.php)
+    * [Pay Another User](https://hj2.huntandjump.com/pay_member.php)
 * ![](/images/coloricons/icon_nav_upgrade.png)Upgrade
     
     * [Upgrades for HBs](https://hj2.huntandjump.com/member_exchange.php)
@@ -143,6 +143,11 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/18/2024 3:47 AM EST
+
+You can now purchase the exact herd helper you are looking for with golden tokens!
+----------------------------------------------------------------------------------
+
 10/15/2024 9:30 AM EST
 
 [SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
@@ -236,52 +241,6 @@ Monster GMT lab sale now on
 
 HuntAndJump now has an official Discord server! We are soft-launching our new discord chat. Registrations are welcome as we sort everything out.  
 [JOIN OUR SERVER](https://discord.gg/qjyheUzkcx)
-
-9/15/2024 9:30 AM EST
-
-[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**Sooty Plus**  
-![](https://www.huntandjump.com/images/grsExamples/sootyplus.png)  
-**Watercolor**  
-![](https://www.huntandjump.com/images/grsExamples/wtc.png)  
-**Plaid**  
-![](https://www.huntandjump.com/images/grsExamples/plaid.png)  
-**Kit Promoter**  
-![](https://www.huntandjump.com/images/grsExamples/kp.png)  
-**Axiom Nexus**  
-![](https://www.huntandjump.com/images/grsExamples/axN.png)  
-**Axiom Red**  
-![](https://www.huntandjump.com/images/grsExamples/axR.png)  
-**Axiom Blue**  
-![](https://www.huntandjump.com/images/grsExamples/axB.png)  
-**Axiom Green**  
-![](https://www.huntandjump.com/images/grsExamples/axG.png)  
-**Axiom Wrong Warp**  
-![](https://www.huntandjump.com/images/grsExamples/axW.png)  
-**Rainbow Riot Thunderstruck**  
-![](https://www.huntandjump.com/images/grsExamples/rrT.png)  
-**Rainbow Riot Nacre**  
-![](https://www.huntandjump.com/images/grsExamples/rrN.png)  
-**Kit Promoter 2**  
-![](https://www.huntandjump.com/images/grsExamples/kp2.png)  
-**Rainbow Riot Paintbrush Cool**  
-![](https://www.huntandjump.com/images/grsExamples/pbc.png)  
-**Rainbow Riot Paintbrush Warm**  
-![](https://www.huntandjump.com/images/grsExamples/pbw.png)  
-**Rainbow Riot Paintbrush Prism**  
-![](https://www.huntandjump.com/images/grsExamples/pbp.png)  
-**Phantom Apple Picking**  
-![](https://www.huntandjump.com/images/grsExamples/apple.png)  
-**Rainbow Riot 2 Toner**  
-![](https://www.huntandjump.com/images/grsExamples/toner.png)  
-**Rainbow Riot 2 Ink Spot**  
-![](https://www.huntandjump.com/images/grsExamples/inkspot.png)  
-**Ice 17**  
-![](https://www.huntandjump.com/images/grsExamples/ice17.png)  
-**Platinum**  
-![](https://www.huntandjump.com/images/grsExamples/platinum.png)  
-**Rainbow Riot 2 Void**  
-![](https://www.huntandjump.com/images/grsExamples/void.png)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
