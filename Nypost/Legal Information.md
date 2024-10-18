@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### About last night
+#### Breaking News
 
-[Comedian's scorching takedown of Dems at Al Smith dinner goes viral: 'Murder of an entire political party'](https://nypost.com/2024/10/18/us-news/comedian-jim-gaffigans-takedown-of-kamala-harris-at-al-smith-dinner-goes-viral/)
+[Simon Cowell breaks his silence on Liam Payne's death: 'I feel empty'](https://nypost.com/2024/10/18/entertainment/simon-cowell-breaks-silence-on-liam-paynes-death-feel-empty/)
 
 Privacy Notice Highlights
 =========================
