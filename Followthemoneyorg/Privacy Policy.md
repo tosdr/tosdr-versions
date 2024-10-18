@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Contested Races by State, 2014](/assets/Images/teasers/small/Contested-Races.png)](https://www.followthemoney.org/research/blog/no-contest-36-percent-of-2014-state-legislative-races-offer-no-choice-blog/)
-
-36% of races were uncontested in 2014.
+[![Donations to Ballot Measure Committees, by Industry, 2016](/assets/Images/teasers/small/Ballot-measures-by-industry.JPG)](https://www.followthemoney.org/research/institute-reports/2016-ballot-measures-overview)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
