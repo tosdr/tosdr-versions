@@ -118,11 +118,6 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
-    
-    Amy Winehouse: What Really Happened
-    
-    Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
@@ -133,34 +128,39 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
+    
+    Very Young Girls
+    
+    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
 
 ###### Throwback Documentaries
 
-* [![David Lynch: Consciousness, Creativity and the Brain](/wp-content/thumbnails/3714-100x70.jpg?x53432)
+* [![Steve Jobs: Billion Dollar Hippy](/wp-content/thumbnails/6277-100x70.png?x53432)
     
-    David Lynch: Consciousness, Creativity and the Brain
+    Steve Jobs: Billion Dollar Hippy
     
-    The inside story on transcending the brain, with David Lynch, Award-winning film director of Blue Velvet, Twin Peaks, Mullholland Drive, Inland Empire; John Hagelin, Ph.D., Quantum physicist featured](https://documentaryheaven.com/david-lynch-consciousness-creativity-and-the-brain/ "David Lynch: Consciousness, Creativity and the Brain")
-* [![Space Tourists](/wp-content/thumbnails/110-100x70.png?x53432)
+    Broadly considered a brand that inspires fervour and defines cool consumerism, Apple has become one of the biggest corporations in the world, fuelled by game-changing products that tap into modern des](https://documentaryheaven.com/steve-jobs-billion-dollar-hippy/ "Steve Jobs: Billion Dollar Hippy")
+* [![The Fantastical World of Hormones](/wp-content/thumbnails/8844-100x70.jpg?x53432)
     
-    Space Tourists
+    The Fantastical World of Hormones
     
-    This documentary deals with an issue that many still find hard to believe is possible.Over 40 years ago man first went into space. Ever since ordinary people have dreamt of getting there themselves. B](https://documentaryheaven.com/space-tourists/ "Space Tourists")
-* [![Childhood 2.0](/wp-content/thumbnails/16365-100x70.jpg?x53432)
+    Theres a mysterious set of chemicals that flow through every part of our bodies, they can rule our lives and shape our destinies, they turn children into adults, they govern our appetites and they eve](https://documentaryheaven.com/fantastical-world-hormones/ "The Fantastical World of Hormones")
+* [![The Secret of Drawing](/wp-content/thumbnails/9894-100x70.jpg?x53432)
     
-    Childhood 2.0
+    The Secret of Drawing
     
-    Childhood 2.0 isn't a typical tech documentary warning you of all the dangers that lurk behind social media these days (shots fired at Netflix :P). It's more of a deep dive into the online world for](https://documentaryheaven.com/childhood-2-0/ "Childhood 2.0")
-* [![15 Years of Terror](/wp-content/thumbnails/12557-100x70.jpg?x53432)
+    Once upon a time the ability to draw was seen as the first and most essential skill of any artist, but in the age of the unmade bed and the pickled shark, drawing is widely perceived as an old fashion](https://documentaryheaven.com/secret-of-drawing/ "The Secret of Drawing")
+* [![Inside Mecca](/wp-content/thumbnails/1187-100x70.jpg?x53432)
     
-    15 Years of Terror
+    Inside Mecca
     
-    15 years ago today on September 11, 2001, the world became witness to an unimaginable horror, the sight of New Yorks skyline ablaze fundamentally changed how we as a society view terrorism. Today we a](https://documentaryheaven.com/15-years-terror/ "15 Years of Terror")
-* [![Infamy](/wp-content/thumbnails/3626-100x70.jpg?x53432)
+    For over 1400 years, Mecca has been one of the most important cities in the Arabian Peninsula. By the middle of the 6th century, there were three major settlements in northern Arabia, all along the so](https://documentaryheaven.com/inside-mecca/ "Inside Mecca")
+* [![The Gorilla King](/wp-content/thumbnails/9231-100x70.jpg?x53432)
     
-    Infamy
+    The Gorilla King
     
-    Infamy is an intense journey into the dangerous lives and obsessed minds of six of America’s most prolific graffiti artists. Directed by acclaimed filmmaker Doug Pray (Hype and Scratch) who teamed up](https://documentaryheaven.com/infamy/ "Infamy")
+    High on the Virunga Volcanos of Rwanda lives a lost tribe, one of our closest living relatives, the Mountain Gorilla. This particular mountain is a dangerous one, and no more so than for one](https://documentaryheaven.com/gorilla-king/ "The Gorilla King")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
