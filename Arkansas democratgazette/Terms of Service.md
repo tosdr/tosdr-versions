@@ -130,7 +130,7 @@ Open user options menu
 * [Local News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
 * [Election](https://www.arkansasonline.com/election)
 * [HS Football Scores](https://www.arkansasonline.com/arpreps/2024/)
-* [Best of the Best Event](https://bestofthebest.arkansasonline.com/)
+* [Simmons Bank Championship](https://www.arkansasonline.com/simmons-bank-championship/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
 * [Obits](https://www.arkansasonline.com/obituaries/)
 * [Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
