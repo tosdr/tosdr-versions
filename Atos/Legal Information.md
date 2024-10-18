@@ -150,18 +150,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [The role of AI in digital workplace security](https://atos.net/en/blog/the-role-of-ai-in-digital-workplace-security)
         * [Generative AI: Technology matters, but adoption matters more](https://atos.net/en/blog/generative-ai-technology-matters-ai-adoption-matters-more)
         * [DORA and NIS2: The impact of new EU cybersecurity regulations](https://atos.net/en/blog/understanding-new-eu-cybersecurity-regulations-directives-dora-nis2)
         * [Harnessing data to drive fan engagement](https://atos.net/en/blog/harnessing-data-to-drive-fan-engagement)
-        * [How data enables the media to tell the stories of sport](https://atos.net/en/blog/how-sports-data-enables-media-to-tell-the-stories-of-sport)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 11, 2024
+        Oct 18, 2024
         
-        ### Generative AI: Technology matters, but adoption matters more
+        ### The role of AI in digital workplace security
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
