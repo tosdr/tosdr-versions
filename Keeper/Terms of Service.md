@@ -95,7 +95,7 @@
         * [Instagram](https://www.instagram.com/keepersecurity/)
         * [Facebook](https://www.facebook.com/keeperplatform/)
         * [Reddit](https://www.reddit.com/r/KeeperSecurity/)
-        * [Twitter](https://twitter.com/keepersecurity)
+        * [X](https://x.com/keepersecurity)
     
 * [Get a Quote](https://www.keepersecurity.com/request-quote.html)
     
@@ -225,6 +225,8 @@ You are responsible for reviewing the Fee Schedule from time to time and remaini
 ### Payment
 
 As a condition for using Keeper, you must provide us with payment. Payment for Software shall be made by a valid credit card, debit card or charge card (collectively referred to as "Charge Card") as accepted by Keeper Security and having sufficient payment to cover the Subscription Fees, as charged to you. Payment methods such as check, wire transfer or other trade format must be negotiated directly with and approved by Keeper Security. Keeper reserves the right to auto-bill and charge you for recurring Subscription Fees. You are responsible for paying amounts billed by Keeper Security to your Charge Card for Subscription Fees. Business customers using Keeper may also issue payment by wire, ACH or by other means for amounts exceeding USD$10,000.
+
+If you purchase through an MSP or reseller, the terms of your MSP or reseller agreement shall control with regard to any fee or payment obligations notwithstanding any other language herein to the contrary.
 
 ### Invalid or Cancelled Payments
 
@@ -490,6 +492,8 @@ Payment
 
 As a condition for using KeeperChat Plus, you must provide us with payment. Payment for Software shall be made by a valid credit card, debit card or charge card (collectively referred to as "Charge Card") as accepted by Keeper Security and having sufficient payment to cover the Subscription Fees, as charged to you. Payment methods such as check, wire transfer or other trade format must be negotiated directly with and approved by Keeper Security. Keeper reserves the right to auto-bill and charge you for recurring Subscription Fees. You are responsible for paying amounts billed by Keeper Security to your Charge Card for Subscription Fees.
 
+If you purchase through an MSP or reseller, the terms of your MSP or reseller agreement shall control with regard to any fee or payment obligations notwithstanding any other language herein to the contrary.
+
 Invalid or Cancelled Payments
 -----------------------------
 
@@ -712,6 +716,8 @@ Fees and Payments
 
 Keeper Security has made and continues to make a substantial investment in its SDKs and APIs. The SDKs and APIs are free and open source for registered Keeper users. If however, the use of the SDKs or APIs are substantial in volume or require specific customizations for use in commercial applications for a user's account, Keeper Security reserves the right to charge fees for this purpose.
 
+If you purchase through an MSP or reseller, the terms of your MSP or reseller agreement shall control with regard to any fee or payment obligations notwithstanding any other language herein to the contrary.
+
 Right to Disable Access
 -----------------------
 
@@ -905,6 +911,8 @@ You are responsible for reviewing the Fee Schedule from time to time and remaini
 ### Payment
 
 As a condition for using Keeper, you must provide us with payment. Payment for Software shall be made by a valid credit card, debit card or charge card (collectively referred to as "Charge Card") as accepted by Keeper Security and having sufficient payment to cover the Subscription Fees, as charged to you. Payment methods such as check, wire transfer or other trade format must be negotiated directly with and approved by Keeper Security. Keeper reserves the right to auto-bill and charge you for recurring Subscription Fees. You are responsible for paying amounts billed by Keeper Security to your Charge Card for Subscription Fees. Business customers using Keeper may also issue payment by wire, ACH or by other means for amounts exceeding USD$10,000.
+
+If you purchase through an MSP or reseller, the terms of your MSP or reseller agreement shall control with regard to any fee or payment obligations notwithstanding any other language herein to the contrary.
 
 ### Invalid or Cancelled Payments
 
@@ -1136,7 +1144,7 @@ Download
 English (US)
 
 * [_linkedin_](https://www.linkedin.com/company/keeper-security-inc-/)
-* [_twitter_](https://twitter.com/keepersecurity)
+* [_X_](https://x.com/keepersecurity)
 * [_facebook_](https://www.facebook.com/keeperplatform/)
 * [_instagram_](https://www.instagram.com/keepersecurity/)
 * [_reddit_](https://www.reddit.com/r/KeeperSecurity/)
@@ -1150,7 +1158,7 @@ English (US)
 Withdraw Cookie Consent
 
 * [_linkedin_](https://www.linkedin.com/company/keeper-security-inc-/)
-* [_twitter_](https://twitter.com/keepersecurity)
+* [_twitter_](https://x.com/keepersecurity)
 * [_facebook_](https://www.facebook.com/keeperplatform/)
 * [_instagram_](https://www.instagram.com/keepersecurity/)
 * [_reddit_](https://www.reddit.com/r/KeeperSecurity/)
@@ -1292,4 +1300,4 @@ English (US) Call Us
         * [Instagram](https://www.instagram.com/keepersecurity/)
         * [Facebook](https://www.facebook.com/keeperplatform/)
         * [Reddit](https://www.reddit.com/r/KeeperSecurity/)
-        * [Twitter](https://twitter.com/keepersecurity)
+        * [X](https://x.com/keepersecurity)
