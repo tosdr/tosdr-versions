@@ -305,8 +305,6 @@ You will not use the Services for or any part thereof for any commercial purpose
 
 You will not distribute, publish, send, or facilitate the sending of unsolicited commercial or mass e-mail or other messages, promotions, advertising, or solicitations (e.g., “spam”), including commercial advertising and informational announcements. You will not alter or obscure mail headers or assume a sender’s identity without the sender’s explicit permission. You will not collect replies to messages sent from another internet service provider if those messages violate this Acceptable Use Policy or the policies of that provider.
 
-### _Related_
-
 * [Get The App](#)
     * [iPhone/iPad/Watch](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788?ct=web-footer_download_link)
     * [Android](https://play.google.com/store/apps/details?id=com.dayoneapp.dayone&referrer=utm_source%3Dweb%26utm_campaign%3Dfooter_download_link)
@@ -360,5 +358,3 @@ Download the free Day One journal app for free on iPhone, Android, iPad, Mac, an
 [Mac](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web-top_nav_modal&mt=8)
 
 [Login now](https://dayone.me/)
-
-### _Related_
