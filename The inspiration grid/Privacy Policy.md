@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/10/editorial-gaming-ebooks-cover.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/these-ebooks-on-gaming-consoles-are-the-perfect-place-to-draw-inspiration-for-your-next-designs/)
+
+### These eBooks on gaming consoles are the perfect place to draw inspiration for your next designs
+
 ![](https://inspgr.id/app/uploads/2024/10/editorial-analogue-3d-feature.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/esr-geo-wallet-review-youll-never-lose-your-wallet-again/)
 
 ### ESR Geo Wallet Review: You’ll never lose your wallet again
-
-![](https://inspgr.id/app/uploads/2024/10/halloween-24-roundup-feature.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/the-best-halloween-graphics-for-your-spooky-projects/)
-
-### The Best Halloween Graphics for Your Spooky Projects
 
 #want
 -----
