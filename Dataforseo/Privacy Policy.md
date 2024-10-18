@@ -1,3 +1,20 @@
+* [API Docs](https://docs.dataforseo.com/v3)
+* [Free Tools](https://dataforseo.com/free-seo-stats)
+    * [Top 1000 Websites By Ranking Keywords](https://dataforseo.com/free-seo-stats/top-1000-websites)
+    * [Top 1000 Keywords](https://dataforseo.com/free-seo-stats/top-1000-keywords)
+    * [Top 1000 Websites By Domain Rank](https://dataforseo.com/free-seo-stats/top-1000-websites-by-domain-rank)
+    * [Top 1000 Websites By Traffic Trends](https://dataforseo.com/free-seo-stats/top-1000-websites-by-traffic-trends)
+    * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
+    * [DataForSEO Trends](https://trends.dataforseo.com/)
+* [About us](#)
+    * [Mission and vision](https://dataforseo.com/about-us)
+    * [Our data](https://dataforseo.com/our-data)
+    * [Ukrainian Bravery](https://dataforseo.com/bravery)
+    * [Status Page](https://status.dataforseo.com/)
+* [AI Assistant](https://chat.dataforseo.com/)
+* [Contact us](https://dataforseo.com/contact)
+* [Login](https://app.dataforseo.com/signin)
+
   [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
@@ -6,16 +23,17 @@
     
     * [APIs](https://dataforseo.com/apis)
         * [SERP API](https://dataforseo.com/apis/serp-api)
-        * [Keyword Data API](https://dataforseo.com/apis/keyword-data-api)
-            * [Google Ads](https://dataforseo.com/apis/google-ads-api)
-            * [Google Trends](https://dataforseo.com/apis/google-trends-api)
-            * [Bing Ads](https://dataforseo.com/apis/bing-ads-api)
+        * [Keywords Data APIs](https://dataforseo.com/apis/keyword-data-api)
+            * [Google Ads API](https://dataforseo.com/apis/google-ads-api)
+            * [Google Trends API](https://dataforseo.com/apis/google-trends-api)
+            * [Bing Ads API](https://dataforseo.com/apis/bing-ads-api)
             * [Clickstream Data API](https://dataforseo.com/apis/clickstream-data-api)
             * [DataForSEO Trends API](https://dataforseo.com/apis/dataforseo-trends-api)
         * [Backlinks API](https://dataforseo.com/apis/backlinks-api)
         * [On-Page API](https://dataforseo.com/apis/on-page-api)
         * [DataForSEO Labs API](https://dataforseo.com/apis/dataforseo-labs-api)
         * [Reviews API](https://dataforseo.com/apis/reviews-api)
+            * [Google Reviews API](https://dataforseo.com/apis/google-reviews-api)
             * [Google Reviews API](https://dataforseo.com/apis/reviews-api/google-reviews-api)
             * [Google Shopping Reviews API](https://dataforseo.com/apis/reviews-api/google-shopping-api)
             * [Trustpilot Reviews API](https://dataforseo.com/apis/reviews-api/trustpilot-reviews-api)
@@ -52,50 +70,57 @@
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
     
-* [Solutions](https://dataforseo.com/solutions)
+* [Integrations](#)
     
-    * [By industry](#)
-        * [Media](https://dataforseo.com/solutions/media)
-        * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
-        * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
-        * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
-        * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
-    * [By company type](#)
-        * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
-        * [SEO Software](https://dataforseo.com/solutions/seo-software)
-    * [By application](#)
-        * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
-        * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
-        * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
-        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
-        * [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
-    
-* [Pricing](https://dataforseo.com/pricing)
-* [Docs](https://docs.dataforseo.com/v3)
-* [Knowledge base](https://dataforseo.com/knowledgebase)
-* [Resources](#)
-    
-    * [About us](https://dataforseo.com/about-us)
-    * [FAQ](https://dataforseo.com/faq)
-    * [Ukrainian Bravery](https://dataforseo.com/bravery)
-    * [SERP features](https://dataforseo.com/serp-features)
-    * [Free SEO Stats](https://dataforseo.com/free-seo-stats)
-        * [Top Sites by Keywords](https://dataforseo.com/free-seo-stats/top-1000-websites)
-        * [Top Keywords](https://dataforseo.com/free-seo-stats/top-1000-keywords)
-        * [Top Sites by Rank](https://dataforseo.com/free-seo-stats/top-1000-websites-by-domain-rank)
-        * [Top Sites by Traffic](https://dataforseo.com/free-seo-stats/top-1000-websites-by-traffic-trends)
-        * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
-    * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
     * [Make Integration](https://dataforseo.com/make-integration)
     * [Postman Integration](https://dataforseo.com/postman-integrations)
-    * [Our data](https://dataforseo.com/our-data)
-    * [Status Page](https://status.dataforseo.com/)
-    * [DataForSEO AI Assistant](https://chat.dataforseo.com/)
     
-* [Contact](https://dataforseo.com/contact)
+* [Use Cases](https://dataforseo.com/solutions)
+    
+    * By industry
+        
+        [Media](https://dataforseo.com/solutions/media)
+        
+        [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
+        
+        [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
+        
+        [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        
+        [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
+        
+        By company type
+        
+        [SEO Agency](https://dataforseo.com/solutions/seo-agency)
+        
+        [SEO Software](https://dataforseo.com/solutions/seo-software)
+        
+        By application
+        
+        [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+        
+        [Reputation Management](https://dataforseo.com/solutions/api-driven-reputation-management)
+        
+        [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        
+        [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        
+        [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
+        
+    
+* [Pricing](https://dataforseo.com/pricing)
+* [Knowledge base](https://dataforseo.com/knowledgebase)
+    
+    * [Blog](https://dataforseo.com/blog)
+    * [API Documentation](https://docs.dataforseo.com/v3)
+    * [Help Center](https://dataforseo.com/help-center)
+    * [Product updates](https://dataforseo.com/updates)
+    * [FAQ](https://dataforseo.com/faq)
+    * [SERP features](https://dataforseo.com/serp-features)
+    * [White papers](https://dataforseo.com/whitepapers)
+    
 * [Try for free](https://app.dataforseo.com/register)
-* [Login](https://app.dataforseo.com/signin)
 
   [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
@@ -105,16 +130,17 @@
     
     * [APIs](https://dataforseo.com/apis)
         * [SERP API](https://dataforseo.com/apis/serp-api)
-        * [Keyword Data API](https://dataforseo.com/apis/keyword-data-api)
-            * [Google Ads](https://dataforseo.com/apis/google-ads-api)
-            * [Google Trends](https://dataforseo.com/apis/google-trends-api)
-            * [Bing Ads](https://dataforseo.com/apis/bing-ads-api)
+        * [Keywords Data APIs](https://dataforseo.com/apis/keyword-data-api)
+            * [Google Ads API](https://dataforseo.com/apis/google-ads-api)
+            * [Google Trends API](https://dataforseo.com/apis/google-trends-api)
+            * [Bing Ads API](https://dataforseo.com/apis/bing-ads-api)
             * [Clickstream Data API](https://dataforseo.com/apis/clickstream-data-api)
             * [DataForSEO Trends API](https://dataforseo.com/apis/dataforseo-trends-api)
         * [Backlinks API](https://dataforseo.com/apis/backlinks-api)
         * [On-Page API](https://dataforseo.com/apis/on-page-api)
         * [DataForSEO Labs API](https://dataforseo.com/apis/dataforseo-labs-api)
         * [Reviews API](https://dataforseo.com/apis/reviews-api)
+            * [Google Reviews API](https://dataforseo.com/apis/google-reviews-api)
             * [Google Reviews API](https://dataforseo.com/apis/reviews-api/google-reviews-api)
             * [Google Shopping Reviews API](https://dataforseo.com/apis/reviews-api/google-shopping-api)
             * [Trustpilot Reviews API](https://dataforseo.com/apis/reviews-api/trustpilot-reviews-api)
@@ -151,68 +177,77 @@
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
     
-* [Solutions](https://dataforseo.com/solutions)
+* [Integrations](#)
     
-    * [By industry](#)
-        * [Media](https://dataforseo.com/solutions/media)
-        * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
-        * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
-        * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
-        * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
-    * [By company type](#)
-        * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
-        * [SEO Software](https://dataforseo.com/solutions/seo-software)
-    * [By application](#)
-        * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
-        * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
-        * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
-        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
-        * [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
-    
-* [Pricing](https://dataforseo.com/pricing)
-* [Docs](https://docs.dataforseo.com/v3)
-* [Knowledge base](https://dataforseo.com/knowledgebase)
-* [Resources](#)
-    
-    * [About us](https://dataforseo.com/about-us)
-    * [FAQ](https://dataforseo.com/faq)
-    * [Ukrainian Bravery](https://dataforseo.com/bravery)
-    * [SERP features](https://dataforseo.com/serp-features)
-    * [Free SEO Stats](https://dataforseo.com/free-seo-stats)
-        * [Top Sites by Keywords](https://dataforseo.com/free-seo-stats/top-1000-websites)
-        * [Top Keywords](https://dataforseo.com/free-seo-stats/top-1000-keywords)
-        * [Top Sites by Rank](https://dataforseo.com/free-seo-stats/top-1000-websites-by-domain-rank)
-        * [Top Sites by Traffic](https://dataforseo.com/free-seo-stats/top-1000-websites-by-traffic-trends)
-        * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
-    * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
     * [Make Integration](https://dataforseo.com/make-integration)
     * [Postman Integration](https://dataforseo.com/postman-integrations)
-    * [Our data](https://dataforseo.com/our-data)
-    * [Status Page](https://status.dataforseo.com/)
-    * [DataForSEO AI Assistant](https://chat.dataforseo.com/)
     
-* [Contact](https://dataforseo.com/contact)
+* [Use Cases](https://dataforseo.com/solutions)
+    
+    * By industry
+        
+        [Media](https://dataforseo.com/solutions/media)
+        
+        [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
+        
+        [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
+        
+        [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        
+        [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
+        
+        By company type
+        
+        [SEO Agency](https://dataforseo.com/solutions/seo-agency)
+        
+        [SEO Software](https://dataforseo.com/solutions/seo-software)
+        
+        By application
+        
+        [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+        
+        [Reputation Management](https://dataforseo.com/solutions/api-driven-reputation-management)
+        
+        [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        
+        [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        
+        [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
+        
+    
+* [Pricing](https://dataforseo.com/pricing)
+* [Knowledge base](https://dataforseo.com/knowledgebase)
+    
+    * [Blog](https://dataforseo.com/blog)
+    * [API Documentation](https://docs.dataforseo.com/v3)
+    * [Help Center](https://dataforseo.com/help-center)
+    * [Product updates](https://dataforseo.com/updates)
+    * [FAQ](https://dataforseo.com/faq)
+    * [SERP features](https://dataforseo.com/serp-features)
+    * [White papers](https://dataforseo.com/whitepapers)
+    
 * [Try for free](https://app.dataforseo.com/register)
-* [Login](https://app.dataforseo.com/signin)
 
 [](javascript:void(0))
 
 [![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
-* [Products](#)
+* #### Products
+    
     * [APIs](https://dataforseo.com/apis)
         * [SERP API](https://dataforseo.com/apis/serp-api)
-        * [Keyword Data API](https://dataforseo.com/apis/keyword-data-api)
-            * [Google Ads](https://dataforseo.com/apis/google-ads-api)
-            * [Google Trends](https://dataforseo.com/apis/google-trends-api)
-            * [Bing Ads](https://dataforseo.com/apis/bing-ads-api)
+        * [Keywords Data APIs](https://dataforseo.com/apis/keyword-data-api)
+            * [Google Ads API](https://dataforseo.com/apis/google-ads-api)
+            * [Google Trends API](https://dataforseo.com/apis/google-trends-api)
+            * [Bing Ads API](https://dataforseo.com/apis/bing-ads-api)
             * [Clickstream Data API](https://dataforseo.com/apis/clickstream-data-api)
             * [DataForSEO Trends API](https://dataforseo.com/apis/dataforseo-trends-api)
         * [Backlinks API](https://dataforseo.com/apis/backlinks-api)
         * [On-Page API](https://dataforseo.com/apis/on-page-api)
         * [DataForSEO Labs API](https://dataforseo.com/apis/dataforseo-labs-api)
         * [Reviews API](https://dataforseo.com/apis/reviews-api)
+            * [Google Reviews API](https://dataforseo.com/apis/google-reviews-api)
             * [Google Reviews API](https://dataforseo.com/apis/reviews-api/google-reviews-api)
             * [Google Shopping Reviews API](https://dataforseo.com/apis/reviews-api/google-shopping-api)
             * [Trustpilot Reviews API](https://dataforseo.com/apis/reviews-api/trustpilot-reviews-api)
@@ -248,45 +283,69 @@
         * [Business Listings Database](https://dataforseo.com/databases/business-listings-database)
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
-* [Solutions](https://dataforseo.com/solutions)
-    * [By industry](#)
-        * [Media](https://dataforseo.com/solutions/media)
-        * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
-        * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
-        * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
-        * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
-    * [By company type](#)
-        * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
-        * [SEO Software](https://dataforseo.com/solutions/seo-software)
-    * [By application](#)
-        * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
-        * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
-        * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
-        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
-        * [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
-* [Pricing](https://dataforseo.com/pricing)
-* [Docs](https://docs.dataforseo.com/v3)
-* [Knowledge base](https://dataforseo.com/knowledgebase)
-* [Resources](#)
-    * [About us](https://dataforseo.com/about-us)
-    * [FAQ](https://dataforseo.com/faq)
-    * [Ukrainian Bravery](https://dataforseo.com/bravery)
-    * [SERP features](https://dataforseo.com/serp-features)
-    * [Free SEO Stats](https://dataforseo.com/free-seo-stats)
-        * [Top Sites by Keywords](https://dataforseo.com/free-seo-stats/top-1000-websites)
-        * [Top Keywords](https://dataforseo.com/free-seo-stats/top-1000-keywords)
-        * [Top Sites by Rank](https://dataforseo.com/free-seo-stats/top-1000-websites-by-domain-rank)
-        * [Top Sites by Traffic](https://dataforseo.com/free-seo-stats/top-1000-websites-by-traffic-trends)
-        * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
-    * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
+* #### Integrations
+    
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
     * [Make Integration](https://dataforseo.com/make-integration)
     * [Postman Integration](https://dataforseo.com/postman-integrations)
-    * [Our data](https://dataforseo.com/our-data)
-    * [Status Page](https://status.dataforseo.com/)
-    * [DataForSEO AI Assistant](https://chat.dataforseo.com/)
-* [Contact](https://dataforseo.com/contact)
+* [Use Cases](https://dataforseo.com/solutions)
+    * By industry
+        
+        [Media](https://dataforseo.com/solutions/media)
+        
+        [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
+        
+        [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
+        
+        [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        
+        [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
+        
+        By company type
+        
+        [SEO Agency](https://dataforseo.com/solutions/seo-agency)
+        
+        [SEO Software](https://dataforseo.com/solutions/seo-software)
+        
+        By application
+        
+        [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+        
+        [Reputation Management](https://dataforseo.com/solutions/api-driven-reputation-management)
+        
+        [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        
+        [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        
+        [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
+        
+* [Pricing](https://dataforseo.com/pricing)
+* [Knowledge base](https://dataforseo.com/knowledgebase)
+    * [Blog](https://dataforseo.com/blog)
+    * [API Documentation](https://docs.dataforseo.com/v3)
+    * [Help Center](https://dataforseo.com/help-center)
+    * [Product updates](https://dataforseo.com/updates)
+    * [FAQ](https://dataforseo.com/faq)
+    * [SERP features](https://dataforseo.com/serp-features)
+    * [White papers](https://dataforseo.com/whitepapers)
 * [Try for free](https://app.dataforseo.com/register)
+
+* [API Docs](https://docs.dataforseo.com/v3)
+* [Free Tools](https://dataforseo.com/free-seo-stats)
+    * [Top 1000 Websites By Ranking Keywords](https://dataforseo.com/free-seo-stats/top-1000-websites)
+    * [Top 1000 Keywords](https://dataforseo.com/free-seo-stats/top-1000-keywords)
+    * [Top 1000 Websites By Domain Rank](https://dataforseo.com/free-seo-stats/top-1000-websites-by-domain-rank)
+    * [Top 1000 Websites By Traffic Trends](https://dataforseo.com/free-seo-stats/top-1000-websites-by-traffic-trends)
+    * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
+    * [DataForSEO Trends](https://trends.dataforseo.com/)
+* #### About us
+    
+    * [Mission and vision](https://dataforseo.com/about-us)
+    * [Our data](https://dataforseo.com/our-data)
+    * [Ukrainian Bravery](https://dataforseo.com/bravery)
+    * [Status Page](https://status.dataforseo.com/)
+* [AI Assistant](https://chat.dataforseo.com/)
+* [Contact us](https://dataforseo.com/contact)
 * [Login](https://app.dataforseo.com/signin)
 
 [](#)
