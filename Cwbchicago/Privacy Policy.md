@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tyrus-Walker-and-clip-326x245.jpg)](https://cwbchicago.com/2024/10/handcuffed-man-ran-from-cops-with-a-machine-gun-hidden-in-his-crotch-prosecutors-say.html "Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say")
+
+Chicago Lawn
+
+### [Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say](https://cwbchicago.com/2024/10/handcuffed-man-ran-from-cops-with-a-machine-gun-hidden-in-his-crotch-prosecutors-say.html "Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say")
+
+[October 16, 2024 6:31 AM](https://cwbchicago.com/2024/10)
+
+It’s not easy to run from the cops while handcuffed. It’s gotta be even harder when you have a machine gun stuffed in your crotch.[](https://cwbchicago.com/2024/10/handcuffed-man-ran-from-cops-with-a-machine-gun-hidden-in-his-crotch-prosecutors-say.html "Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Map-Oct-15-Chicago-326x245.jpg)](https://cwbchicago.com/2024/10/armed-robbery-crew-is-targeting-people-businesses-from-lincoln-park-to-east-garfield-park.html "Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park")
+
+Citywide
+
+### [Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park](https://cwbchicago.com/2024/10/armed-robbery-crew-is-targeting-people-businesses-from-lincoln-park-to-east-garfield-park.html "Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park")
+
+[October 15, 2024 6:30 PM](https://cwbchicago.com/2024/10)
+
+An armed robbery crew is prowling the city, robbing businesses and people on the streets, Chicago police warned in a new community alert on Tuesday.[](https://cwbchicago.com/2024/10/armed-robbery-crew-is-targeting-people-businesses-from-lincoln-park-to-east-garfield-park.html "Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Desmond-White-326x245.jpg)](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
 
 West Loop
@@ -252,26 +272,6 @@ West Loop
 [October 15, 2024 6:06 PM](https://cwbchicago.com/2024/10)
 
 Two armed men who tried to rob an off-duty corrections officer in the West Loop both fired shots at the victim before he returned fire, seriously wounding one of them, officials said Tuesday.[](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/P24-5-057-dickens-1-326x245.jpg)](https://cwbchicago.com/2024/10/burglary-crew-took-cash-jewels-and-a-safe-from-bucktown-homes-police-warn.html "Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn")
-
-Bucktown
-
-### [Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn](https://cwbchicago.com/2024/10/burglary-crew-took-cash-jewels-and-a-safe-from-bucktown-homes-police-warn.html "Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn")
-
-[October 15, 2024 8:03 AM](https://cwbchicago.com/2024/10)
-
-Chicago police have updated their warning about a burglary crew that’s targeting homes in Bucktown by releasing surveillance video and images of the suspects.[](https://cwbchicago.com/2024/10/burglary-crew-took-cash-jewels-and-a-safe-from-bucktown-homes-police-warn.html "Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Left-to-right-Terrell-Gordon-material-allegedly-seized-from-Stanley-Rounds-and-Rounds-326x245.jpg)](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
-
-Citywide
-
-### [2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
-
-[October 15, 2024 7:34 AM](https://cwbchicago.com/2024/10)
-
-The Cook County Sheriff’s Office has announced charges against two more inmates who allegedly arranged to bring drugs into the county jail. At least 44 people, both inmates and visitors, have been charged with having drugs or bringing drugs into the facility this year.[](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
 
 Search
 
