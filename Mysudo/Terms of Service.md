@@ -21,6 +21,8 @@
     
     * [Plans & pricing](https://anonyome.com/individuals/mysudo-plans/)
     
+    * [Sudo Safe Initiative](https://anonyome.com/sudo-safe-initiative/)
+    
     * [Support](https://support.mysudo.com/hc/en-us)
     
     * [MySudo VPN](https://anonyome.com/individuals/mysudo-vpn/)
