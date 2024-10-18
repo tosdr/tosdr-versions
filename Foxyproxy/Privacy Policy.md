@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love the simplicity of being able to watch English TV from the USA.
+I really want to thank you and congratulate you on your product in general and your service in particular. I wish more companies were this responsive (and nice, too). I have recommended you and will continue to do so. Greetings from Germany!
 
-Tony Tracey
+Markus
