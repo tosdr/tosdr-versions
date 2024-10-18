@@ -919,7 +919,7 @@ Gut aussehen und sich gut fühlen
 
 [Mundpflege](https://de.iherb.com/c/oral-care)
 
-[Massage](https://de.iherb.com/c/body-massage-oils)
+[Massage](https://de.iherb.com/c/body-massage-oil)
 
 [Hygieneartikel & Pflegeprodukte](https://de.iherb.com/c/personal-care)
 
