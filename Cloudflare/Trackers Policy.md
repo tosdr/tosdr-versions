@@ -28,6 +28,9 @@ Products
         ### For developers
         
     
+    Register your domain
+    --------------------
+    
     Get 1.1.1.1
     -----------
     
