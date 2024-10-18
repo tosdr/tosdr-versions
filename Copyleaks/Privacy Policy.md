@@ -21,6 +21,8 @@
                 
         * * [AI Adoption and Perspectives in Education, 2024
                 
+                ![polygon-blue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+                
                 ![polygon-blue](https://copyleaks.com/wp-content/uploads/2024/04/polygon-blue.svg)
                 
                 This analysis explores the opinions of 1,000 students & 250 teachers on adopting artificial intelligence within education.](https://copyleaks.com/blog/bridging-the-gap-ai-adoption-and-perspectives-in-education-2024)
