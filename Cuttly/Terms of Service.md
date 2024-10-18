@@ -283,9 +283,9 @@ Updated: March 21, 2024
 
 * [Data Processing Agreement (DPA)](https://cutt.ly/files/DPA.pdf)
 
-![Cuttly | URL Shortener, Branded Short Links & Analytics](img/foot_logo.svg)
+![Cuttly | URL Shortener, Branded Links, QR Codes & More](img/foot_logo.svg)
 
-Cuttly | URL Shortener, Branded Short Links & Analytics
+Cuttly | URL Shortener, Branded Links, QR Codes & More
 
 [![facebook](img/fb.svg)](https://www.facebook.com/cuttlyURL/) [![twitter](img/twitter.svg)](https://twitter.com/cutt_ly/) [![instagram](img/instagram.svg)](https://www.instagram.com/cutt.ly/) [![linked in](img/linkedin.svg)](https://www.linkedin.com/showcase/cuttly-url-shortener/)
 
