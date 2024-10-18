@@ -233,7 +233,7 @@
 Terms of Service: Transport, Delivery and Logistics
 ===================================================
 
-Last modified: 9 July 2024
+Last modified: 18 October 2024
 
 **TERMS OF SERVICE**
 
@@ -269,7 +269,7 @@ In these Terms of Service, the following words shall have the meanings ascribed 
 
 2.4.4 in relation to Grab for Business, the Grab entity stated at the Grab for Business account sign-up page (or if there is no such entity stated, Grabtaxi Pte Ltd and Grabcar Pte Ltd); 
 
-2.4.5 GrabLink Pte Ltd in relation to GrabGifts;
+2.4.5 Grabtaxi Pte Ltd in relation to GrabGifts;
 
 2.4.6 Grabtaxi Holdings Pte Ltd. in relation to platform fees, small order fees, subscriptions and other fees or charges that may be due for Consumer’s use of the Application or any Service or Solution; and/or
 
@@ -337,7 +337,7 @@ In these Terms of Service, the following words shall have the meanings ascribed 
 
 2.14.14 GrabAds Shop;
 
-2.14.15 GrabGifts;  
+2.14.15 GrabGifts;
 
 2.14.16 GrabCar Premium;
 
@@ -936,7 +936,7 @@ Purchasing GrabGifts for Users
 
 7.4 Payment shall be made using any of the payment methods made available by Grab. If you are purchasing GrabGifts for an overseas user, the GrabGifts purchase amount will be in the recipient’s local currency and the exchange rate will be determined by your card issuing company.
 
-7.5 All GrabGifts purchases are final and cannot be cancelled or exchanged by you.
+7.5 All GrabGifts purchases are final and cannot be cancelled or exchanged by you. 
 
 7.6 Grab reserves the right to decline to process or accept any GrabGifts purchase without providing any reason. You will receive a refund if Grab cancels a GrabGifts purchase. Grab will not be liable for any losses howsoever arising out of Grab’s declining or cancellation of a GrabGifts purchase.
 
@@ -959,21 +959,23 @@ Purchasing GrabGifts for Corporate Entities
 
 7.12 Where permitted by Grab, you may draw on GrabGifts in your Order in batches. The GrabGifts will be sent to your designated recipient three (3) business days after your written instructions are received by Grab in accordance with the notice details in the Order. Your Order must be fully drawn within six (6) months from the date of Grab’s invoice above failing which any undrawn amounts will be forfeited.
 
-7.13 Grab will not be liable to you whether in contract, tort or otherwise for (a) any direct or indirect economic loss (including loss of profits, savings, goodwill expenditure) or (b) any indirect, consequential, incidental, special, exemplary loss howsoever arising in connection with the provision of GrabGifts provided under these terms. Nothing in these terms limits or excludes liability for death or personal injury caused by negligence or fraud.
+7.13 You shall not resell, offer for sale or transfer the GrabGifts for consideration, without Grab’s prior written approval.
 
-7.14 You agree to defend, indemnify and hold Grab, its licensors and each party’s parent organisations, affiliates, subsidiaries, officers, directors, members, employees, attorneys and agents harmless from and against all claims, costs, damages, losses liabilities and expenses (including attorneys’ fees and costs and/or regulatory fines) arising out of or in connection with (a) any Order placed by you or on your behalf, your violation of these terms and conditions or any applicable law or regulation, whether or not referenced herein and (c) your use or misuse of GrabGifts.
+7.14 Grab will not be liable to you whether in contract, tort or otherwise for (a) any direct or indirect economic loss (including loss of profits, savings, goodwill expenditure) or (b) any indirect, consequential, incidental, special, exemplary loss howsoever arising in connection with the provision of GrabGifts provided under these terms. Nothing in these terms limits or excludes liability for death or personal injury caused by negligence or fraud.
 
-7.15 You shall not use the Grab name, logo or marks without Grab’s prior written consent. In the event that such consent is provided, Grab may withdraw such consent at any time by notifying you.
+7.15 You agree to defend, indemnify and hold Grab, its licensors and each party’s parent organisations, affiliates, subsidiaries, officers, directors, members, employees, attorneys and agents harmless from and against all claims, costs, damages, losses liabilities and expenses (including attorneys’ fees and costs and/or regulatory fines) arising out of or in connection with (a) any Order placed by you or on your behalf, your violation of these terms and conditions or any applicable law or regulation, whether or not referenced herein and (c) your use or misuse of GrabGifts.
 
-7.16 By placing an Order, you agree and acknowledge that the GrabGifts must be used in accordance with the terms and conditions set forth below. Please also refer to the [GrabGifts Privacy Policy](https://www.grab.com/sg/terms-policies/privacy-notice/) which explains how Grab collects, uses, processes and discloses Personal Data through the use of Grab’s mobile applications and websites.
+7.16 You shall not use the Grab name, logo or marks without Grab’s prior written consent. In the event that such consent is provided, Grab may withdraw such consent at any time by notifying you.
+
+7.17 By placing an Order, you agree and acknowledge that the GrabGifts must be used in accordance with the terms and conditions set forth below. Please also refer to the [GrabGifts Privacy Policy](https://www.grab.com/sg/terms-policies/privacy-notice/) which explains how Grab collects, uses, processes and discloses Personal Data through the use of Grab’s mobile applications and websites.
 
 Using GrabGifts
 
-7.17 This section applies to use of GrabGifts by Users.
+7.18 This section applies to use of GrabGifts by Users.
 
-7.18 You must have a valid Grab account in order to receive and redeem GrabGifts. Grab will not be liable for any delay in sending, transmission or receipt of GrabGifts.
+7.19 You must have a valid Grab account in order to receive and redeem GrabGifts. Grab will not be liable for any delay in sending, transmission or receipt of GrabGifts.
 
-7.19 Redemption and usage of GrabGifts is subject to the usage restrictions stipulated for each GrabGift, including:
+7.20 Redemption and usage of GrabGifts is subject to the usage restrictions stipulated for each GrabGift, including:
 
 * the type of Grab offering or merchant(s) for which the GrabGifts may be redeemed;
 * the type of Grab offerings for which the GrabGifts may be redeemed;
@@ -981,23 +983,23 @@ Using GrabGifts
 * expiry date; and
 * any other restrictions as may be notified by Grab.
 
-7.20 GrabGifts may only be redeemed in the Grab Application. Users should ensure that they have downloaded the latest version of the Grab Application.
+7.21 GrabGifts may only be redeemed in the Grab Application. Users should ensure that they have downloaded the latest version of the Grab Application.
 
-7.21 Grab will not replace, exchange or refund any GrabGifts that has expired.
+7.22 Grab will not replace, exchange or refund any GrabGifts that has expired.
 
-7.22 GrabGifts cannot be transferred to another Grab account.
+7.23 GrabGifts cannot be transferred to another Grab account.
 
-7.23 Each GrabGifts may only be redeemed once. Any unutilized GrabGifts amount will be forfeited. If your transaction value exceeds the GrabGifts value, you will be required to top-up the shortfall. GrabGifts may not be applied towards Grab platform fees.
+7.24 Each GrabGifts may only be redeemed once. Any unutilized GrabGifts amount will be forfeited. If your transaction value exceeds the GrabGifts value, you will be required to top-up the shortfall. GrabGifts may not be applied towards Grab platform fees.
 
-7.24 Grab is not responsible for, and makes no warranty in relation to, the quality of the products and/or solutions for which the GrabGifts are redeemed.
+7.25 Grab is not responsible for, and makes no warranty in relation to, the quality of the products and/or solutions for which the GrabGifts are redeemed.
 
-7.25 GrabGifts may not be used in conjunction with other promotions or discounts, unless otherwise indicated.
+7.26 GrabGifts may not be used in conjunction with other promotions or discounts, unless otherwise indicated.
 
-7.26 Grab will not be responsible or liable for any GrabGifts sold by any third party.
+7.27 Grab will not be responsible or liable for any GrabGifts sold by any third party.
 
-7.27 GrabGifts cannot be exchanged for cash.
+7.28 GrabGifts cannot be exchanged for cash.
 
-7.28 Grab may take any action for illegal or fraudulent usage of GrabGifts, including suspending or terminating your Grab account and cancelling the GrabGifts without reimbursement.
+7.29 Grab may take any action for illegal or fraudulent usage of GrabGifts, including suspending or terminating your Grab account and cancelling the GrabGifts without reimbursement.
 
 **8\. GrabAds Terms**
 
