@@ -6,7 +6,6 @@
 * [Gitea](https://git.oldgate.org/ogs)
 * [Publications](https://oldgate.org/publications/)
 * Toggle Sub Menu [Projects](#)
-    * [Free Subtiltes](https://oldgate.org/subtitles)
     * [Project Firewatch](https://projectfirewatch.com/)
     * [SOP.wtf](https://sop.wtf/)
     * [Gitea Blurple](https://git.oldgate.org/OGS/Gitea-Blurple)
