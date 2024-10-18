@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Transforming data privacy and governance with OneTrust and Snowflake](https://www.onetrust.com/resources/transforming-data-privacy-and-governance-with-onetrust-and-snowflake-video/)
+* [The marketer's first-party data checklist](https://www.onetrust.com/resources/the-marketers-first-party-data-checklist/)
 * [DSAR Product Demo with Data Privacy Group](https://www.onetrust.com/resources/dsar-product-demo-with-data-privacy-group-webinar/)
-* [Revisiting IAPP DPC: Top trends from IAPP's privacy conference in Brussels](https://www.onetrust.com/resources/revisiting-iapp-dpc-top-trends-from-iapps-privacy-conference-in-brussels-webinar/)
-* [Live Demo: Building a more resilient Third-Party Management program](https://www.onetrust.com/resources/live-demo-building-a-more-resilient-third-party-management-program/)
 
 ### Platform
 
