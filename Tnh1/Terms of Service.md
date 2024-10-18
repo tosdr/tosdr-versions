@@ -116,6 +116,16 @@ Homem é preso por assassinar e carbonizar corpo do amante para esconder relacio
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
 
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
+
+Pessoas & Negócios
+
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
+
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
 * [Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
@@ -188,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_record_brasileirao_R7_75e8296243.jpg)
-
-Futebol Nacional
-
-Futebol Nacional
-
-Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025
-
-Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025](https://www.tnh1.com.br/noticia/nid/record-ja-garantiu-5-marcas-patrocinadoras-para-transmissao-do-brasileirao-2025/ "Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ")[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
+[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
 
 em Rio Largo
 
@@ -204,25 +206,33 @@ em Rio Largo
 
 Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento
 
-Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[![Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_csm_IML-viatura_f11c21a970_62eeaa15d8.jpg)
+Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[![Liam Payne, do One Direction, morre aos 31 anos, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_liam-payne-01-press-photo-new-2018-billboard-1548_4688a64678.jpg)
 
-Polícia
+caiu de prédio
 
-Polícia
+caiu de prédio
 
-Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió
+Liam Payne, do One Direction, morre aos 31 anos, diz site
 
-Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-presos-suspeitos-de-fraudar-abastecimento-de-viaturas-do-iml-em-maceio/ "Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ")[![O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_FgTS_-__Marcelo_Camargo_Agencia_Brasil_3ccf715570.jpg)
+Liam Payne, do One Direction, morre aos 31 anos, diz site](https://www.tnh1.com.br/noticia/nid/liam-payne-do-one-direction-morre-aos-31-anos-diz-site/ "Liam Payne, do One Direction, morre aos 31 anos, diz site")[![Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_ryan-gosling-eva-mendes-filho-reproducao_3a63cbbc81.jpg)
 
-Economia
+Gente Famosa
 
-Economia
+Gente Famosa
 
-O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido
+Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'
 
-O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido](https://www.tnh1.com.br/noticia/nid/o-que-pode-mudar-na-multa-do-fgts-e-no-seguro-desemprego-de-quem-for-demitido/ "O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido")
+Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://www.tnh1.com.br/noticia/nid/eva-mendes-se-emociona-ao-revelar-maior-dificuldade-de-criar-filhas-com-ator-nao-e-justo/ "Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'")[![Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_Rua_Jangadeiros_Alagoano_-_foto_Google_Street_View_c8fc9d4848.jpg)
 
-[![Itália: lei caracteriza barriga de aluguel como "crime universal"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_1_pregnant_woman_touching_her_belly-37658239_f3404e2026.jpg)
+55 anos
+
+55 anos
+
+Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias
+
+Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/turista-e-abordado-por-assaltantes-na-pajucara-e-perde-r-6-mil-em-transferencias-bancarias/ "Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias")
+
+[![Itália: lei caracteriza barriga de aluguel como "crime universal"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/8/csm_1_pregnant_woman_touching_her_belly-37658239_f3404e2026.jpg)
 
 projeto de lei
 
@@ -230,7 +240,7 @@ projeto de lei
 
 Itália: lei caracteriza barriga de aluguel como "crime universal"
 
-Itália: lei caracteriza barriga de aluguel como "crime universal"](https://www.tnh1.com.br/noticia/nid/italia-lei-caracteriza-barriga-de-aluguel-como-crime-universal/ "Itália: lei caracteriza barriga de aluguel como "crime universal"")[![Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_Liam_Payne_-_foto_Reproducao_-_Instagram_-_%40liampayne_a176e3cbe4.jpg)
+Itália: lei caracteriza barriga de aluguel como "crime universal"](https://www.tnh1.com.br/noticia/nid/italia-lei-caracteriza-barriga-de-aluguel-como-crime-universal/ "Itália: lei caracteriza barriga de aluguel como "crime universal"")[![Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/1/csm_Liam_Payne_-_foto_Reproducao_-_Instagram_-_%40liampayne_a176e3cbe4.jpg)
 
 31 anos
 
@@ -238,7 +248,7 @@ Itália: lei caracteriza barriga de aluguel como "crime universal"](https://www.
 
 Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel
 
-Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel](https://www.tnh1.com.br/noticia/nid/medico-que-socorreu-liam-payne-informa-de-qual-altura-cantor-caiu-em-hotel/ "Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ")[![Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_Ator_diz_que_biscoito_foi_seu_cache_para_estrear_em_filmes_de_Adam_Sandler_-_foto_Reproducao_4d3858bb52.jpg)
+Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel](https://www.tnh1.com.br/noticia/nid/medico-que-socorreu-liam-payne-informa-de-qual-altura-cantor-caiu-em-hotel/ "Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ")[![Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/2/csm_Ator_diz_que_biscoito_foi_seu_cache_para_estrear_em_filmes_de_Adam_Sandler_-_foto_Reproducao_4d3858bb52.jpg)
 
 Henry Winkler
 
@@ -246,7 +256,7 @@ Henry Winkler
 
 Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler
 
-Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://www.tnh1.com.br/noticia/nid/ator-diz-que-biscoito-foi-seu-cache-para-estrear-em-filmes-de-adam-sandler/ "Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler")[![Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/8/csm_neymar-no-al-hilal-750x450_411aba9a5f.jpg)
+Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://www.tnh1.com.br/noticia/nid/ator-diz-que-biscoito-foi-seu-cache-para-estrear-em-filmes-de-adam-sandler/ "Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler")[![Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/8/csm_neymar-no-al-hilal-750x450_411aba9a5f.jpg)
 
 veja a lista
 
