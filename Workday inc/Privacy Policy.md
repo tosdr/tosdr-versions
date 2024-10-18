@@ -738,7 +738,7 @@ Learn Learn
 Company Company
 ---------------
 
-* [About Workday](https://www.workday.com/en-us/company/about-workday/our-story-leadership.html "About Workday ")
+* [About Workday](https://www.workday.com/en-us/company/about-workday/leadership.html "About Workday ")
 * [Corporate Responsibility](https://www.workday.com/en-us/company/corporate-responsibility/overview.html "Corporate Responsibility ")
 * [Investor Relations](https://investor.workday.com/ "Investor Relations ")
 * [Newsroom](https://newsroom.workday.com/ "Newsroom ")
