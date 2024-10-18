@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
 
-6 min read
+4 min read
 
-### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
+### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
 
-article5 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+article1 day ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
-5 min read
+2 min read
 
-### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
+### Hubble Captures a New View of Galaxy M90
 
-article3 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -241,47 +241,47 @@ Back
 
 ### Featured
 
-[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
-
-6 min read
-
-### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
-
-article 5 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
-### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
+### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 3 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 1 day ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
-### Hubble Spots a Grand Spiral of Starbursts
+### Hubble Captures a New View of Galaxy M90
 
-article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
+
+5 min read
+
+### NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
+
+article 1 day ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
+
+7 min read
+
+### NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
+
+article 4 hours ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
 
 3 min read
 
 ### What Human Health Science Should Be Done on Gateway Lunar Space Station?
 
-article 23 hours ago](https://www.nasa.gov/humans-in-space/what-human-health-science-should-be-done-on-gateway-lunar-space-station/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 1 day ago](https://www.nasa.gov/humans-in-space/what-human-health-science-should-be-done-on-gateway-lunar-space-station/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
 ### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
 
-article 2 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Oct. 11, 2024
-
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)
+article 2 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
 2 min read
 
@@ -307,25 +307,25 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
+
+2 min read
+
+### LExSO
+
+article 22 mins ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
 ### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 20 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
 
 4 min read
 
 ### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
 
-article 21 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
-
-5 min read
-
-### Track the Solar Cycle with Sunspots
-
-article 2 days ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)
+article 1 day ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 2 days ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-suns
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
 
 3 min read
 
@@ -357,23 +357,29 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
 
 5 min read
 
 ### What is Air Quality?
 
-article 6 hours ago](https://www.nasa.gov/general/what-is-air-quality/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+article 12 hours ago](https://www.nasa.gov/general/what-is-air-quality/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
 ### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 20 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)
+article 1 day ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)
 
 ### Highlights
 
-[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/image-edffe7.jpeg?w=1024)
+
+3 min read
+
+### NASA and Partners Scaling to New Heights 
+
+article 3 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
 4 min read
 
@@ -385,13 +391,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-p
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 4 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
-
-2 min read
-
-### A Serendipitous NASA Family Reunion
-
-article 5 days ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)
+article 4 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
 
 ### Highlights
 
@@ -413,7 +413,7 @@ article 2 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercia
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)
 
 ### Featured
 
@@ -427,25 +427,25 @@ article 1 week ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)
 
 ### Featured
 
-[![Hurricane Milton as seen from NASA team.](https://www.nasa.gov/wp-content/uploads/2024/10/hurricanemiltonuavsar.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/image-edffe7.jpeg?w=1024)
 
 3 min read
 
-### NASA Activates Resources to Help Assess Impacts from Hurricane Milton
+### NASA and Partners Scaling to New Heights 
 
-article 6 days ago](https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
+article 3 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
-2 min read
+4 min read
 
-### Controlled Propulsion for Gentle Landings 
+### NASA Pilots Add Perspective to Research
 
-article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![NASA astronaut Kathryn C. Thornton on her second spacewalk on STS-61](https://www.nasa.gov/wp-content/uploads/2024/10/women-eva-4-thornton-eva-2-sts-61-eva-2-dec-1993-sts061-77-016.jpg?w=1022)
 
-8 min read
+12 min read
 
-### Kathryn Sullivan: The First American Woman to Walk in Space
+### Five Years Ago: First All Woman Spacewalk
 
-article 1 week ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)
+article 4 hours ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/)
 
 ### Highlights
 
