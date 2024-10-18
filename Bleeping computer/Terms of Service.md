@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
 * [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
-* [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Amazon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    TrickMo malware steals Android PINs using fake lock screen](https://www.bleepingcomputer.com/news/security/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
+    Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
+* [![Police arrests hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    USDoD hacker behind National Public Data breach arrested in Brazil](https://www.bleepingcomputer.com/news/security/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
 
 ##### Follow us:
 
