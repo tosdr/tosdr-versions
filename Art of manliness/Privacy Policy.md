@@ -240,6 +240,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
 
+[![An illustrated guide demonstrating how to perform a combat roll, featuring a person rolling forward on the ground with an arrow indicating movement direction.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-perform-a-combat-roll/)
+
+[How to Perform a Combat Roll](https://www.artofmanliness.com/skills/how-to/how-to-perform-a-combat-roll/)
+
 [![Illustration of a person at a shooting range encountering common pistol misfires, with their firearm clicking instead of firing and question marks floating above their head.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
 
 [How to Handle 3 Common Pistol Misfires](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
@@ -251,10 +255,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
 
 [Skill of the Week: Remove a Tick](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
-
-[![Illustration of a neatly stacked pile of cut logs arranged in a crisscross pattern, showing the ends of the logs with visible rings—perfect to build a summer fire.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-build-a-summer-fire/)
-
-[Skill of the Week: Build a Summer Fire](https://www.artofmanliness.com/skills/how-to/how-to-build-a-summer-fire/)
 
 [![A person, depicted in a comic style, is performing the French Drop Coin Trick for two children. The kids appear interested and are looking intently at the coin as they watch Cool Uncle Tricks in action.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
 
