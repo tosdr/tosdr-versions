@@ -66,7 +66,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month PlatinumXL Emergency Survival Food Kit
         
-        27 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
+        28 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
         
         [![ 4Patriots Ultimate Meat Medley Jumbo Survival Food Kit.](//shop.4patriots.com/cdn/shop/files/MAIN-ARRAY-1-UMM-1024x1024_360x.jpg?v=1684934486)
         
