@@ -490,6 +490,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![A group of people convene at the Arab American Family Support Center](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/arab-american-family-support-center_header-photo.png.webp?itok=nHJkcEbY)
+
+**Breaking down barriers for NYC immigrants**
+
+Empowering NYC immigrants for 30 years, the Arab-American Family Support Center provides essential services like legal aid, ESL classes, and mental health support
+
+[Read their story onBreaking down barriers for NYC immigrants](https://www.everyaction.com/case-studies/breaking-down-barriers-nyc-immigrants)
+
+Impact Powered by:
+
 ![3 puffins on a rock](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/audubon-lead-image.png.webp?itok=CJSHpopt)
 
 **National Audubon Society**
@@ -553,18 +563,6 @@ Home Repair Services has strengthened communities for 45 years, completing 66,00
 [Read their story on45 years of safer homes and stronger communities](https://www.everyaction.com/case-studies/45-years-safer-homes-and-stronger-communities)
 
 Impact Powered by:
-
-![Members of Wilmington Alliance celebrating](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/wilmingtonalliance_main-image.png.webp?itok=7tQTvjhQ)
-
-**Empowering entrepreneurship to build the local economy** 
-
-Learn how Wilmington Alliance utilized technology to address inequity within its borders.
-
-[Read their story onEmpowering entrepreneurship to build the local economy](https://www.everyaction.com/case-studies/empowering-entrepreneurship-build-local-economy) 
-
-Impact Powered by:
-
-* Case Management
 
 Previous Next
 
