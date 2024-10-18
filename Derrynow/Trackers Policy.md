@@ -266,6 +266,15 @@ Most Popular
 [Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+
+PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Dramatic increase in Ballykelly bug bites causing concern for locals ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
 
 Dramatic increase in Ballykelly bug bites causing concern for locals
@@ -291,22 +300,6 @@ Derry Girls mural on Badgers Bar
 [Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall")](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
-
-Liam Payne has died at the age of 31
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Police search for owner of 'significant sum' of money found in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police search for owner of 'significant sum' of money found in Derry")](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
 
 Police search for owner of 'significant sum' of money found in Derry
@@ -324,6 +317,13 @@ PSNI
 
 [Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry 'Chat Tea Train' celebrates one year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Chat Tea Train' celebrates one year")](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry 'Chat Tea Train' celebrates one year](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Dungiven man charged with series of waste management offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
 
@@ -517,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
 
 PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry
@@ -526,7 +533,7 @@ PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in De
 [PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
+[![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
 
 PSNI
 
@@ -557,15 +564,6 @@ St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Mag
 
 [County Derry school crowned All-Ireland 7's camogie champions](https://www.derrynow.com/news/gaa/1632968/county-derry-school-crowned-all-ireland-7-s-camogie-champions.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/resizer/165/93/true/2015/04/17112652/strandroadpolicestation.jpg--.jpg "Police search for owner of 'significant sum' of money found in Derry")](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
-
-Police search for owner of 'significant sum' of money found in Derry
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
