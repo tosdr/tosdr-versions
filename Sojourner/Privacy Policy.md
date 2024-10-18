@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dda1a41f31ad3b30021058e5912d0ae5
+ebbd1bd816c9ea79fa63122e60dea252
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,9 +171,9 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![15 mm by 10 mm faceted glass teardrop beads](https://www.sojourner.biz/images/cache/glass/GL0128.200.jpg)](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-faceted-glass-teardrop-beads.html "15 mm by 10 mm faceted glass teardrop beads")
+[![9 mm by 8 mm glass chevrons](https://www.sojourner.biz/images/cache/glass/VB0037.200.jpg)](https://www.sojourner.biz/beads/glass/9-mm-by-8-mm-glass-chevrons.html "9 mm by 8 mm glass chevrons")
 
-#### [15 mm by 10 mm faceted glass teardrop beads](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-faceted-glass-teardrop-beads.html "15 mm by 10 mm faceted glass teardrop beads")
+#### [9 mm by 8 mm glass chevrons](https://www.sojourner.biz/beads/glass/9-mm-by-8-mm-glass-chevrons.html "9 mm by 8 mm glass chevrons")
 
 $6.00
 
