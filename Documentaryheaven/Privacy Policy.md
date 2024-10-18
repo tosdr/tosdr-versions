@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Soul Rebel: Dub, Reggae & Sound System Culture](/wp-content/thumbnails/7443-100x70.jpg?x53432)
+* [![The Irish: Warriors of the Emerald Isle](/wp-content/thumbnails/6555-100x70.png?x53432)
     
-    Soul Rebel: Dub, Reggae & Sound System Culture
+    The Irish: Warriors of the Emerald Isle
     
-    This short documentary explores the spiritual experience and message behind Reggae music and Dub culture. This film is an exploration of the the UK Dub, sound system phenomena, from the role of the so](https://documentaryheaven.com/soul-rebel/ "Soul Rebel: Dub, Reggae & Sound System Culture")
-* [![Uncle Saddam](/wp-content/thumbnails/5467-100x70.jpg?x53432)
+    Discovery Channel documentary about Brian Boru and Ireland during the Viking Age.](https://documentaryheaven.com/the-irish-warriors-of-the-emerald-isle/ "The Irish: Warriors of the Emerald Isle")
+* [![What Plants Talk About](/wp-content/thumbnails/7474-100x70.jpg?x53432)
     
-    Uncle Saddam
+    What Plants Talk About
     
-    Uncle Saddam is a satirical yet sobering look inside the world of Iraqi president Saddam Hussein. Featuring narration written by Scott Thompson of “The Kids in the Hall” and the voice of Wallace Langh](https://documentaryheaven.com/uncle-saddam/ "Uncle Saddam")
-* [![Obama’s Real Reason He Wants Your Guns](/wp-content/thumbnails/6936-100x70.png?x53432)
+    This program integrates hard-core science with a light-hearted look at how plants behave, revealing a world where plants are as busy, responsive and complex as we are. From the stunning heights of the](https://documentaryheaven.com/what-plants-talk-about/ "What Plants Talk About")
+* [![Million Dollar Rooms](/wp-content/thumbnails/7178-100x70.jpg?x53432)
     
-    Obama’s Real Reason He Wants Your Guns
+    Million Dollar Rooms
     
-    Christopher Greene examines the “real reason” President Obama wants your guns and while doing that he explicitly claims the following:In many ways America seems to be making the same mistakes as Ger](https://documentaryheaven.com/obamas-real-reason-he-wants-your-guns/ "Obama’s Real Reason He Wants Your Guns")
-* [![On A Knife Edge](/wp-content/thumbnails/14254-100x70.jpg?x53432)
+    Take a grand tour of spectacular spaces custom created for some of the world’s most lavish and distinctive homes. Million Dollar Rooms features the very best in high-end design and luxury living aroun](https://documentaryheaven.com/million-dollar-rooms/ "Million Dollar Rooms")
+* [![Bill Gates v Steve Jobs](/wp-content/thumbnails/5475-100x70.jpg?x53432)
     
-    On A Knife Edge
+    Bill Gates v Steve Jobs
     
-    London, the capital of the United Kingdom is currently going through what could only be described as an epidemic. In the last few years there have been a record breaking amount of knife-related murder](https://documentaryheaven.com/knife-edge/ "On A Knife Edge")
-* [![Air France Flight 447 Crash](/wp-content/thumbnails/8683-100x70.jpg?x53432)
+    Bill Gates heads the biggest software, services and Internet technologies company in the world. Steve Jobs predicted the personal computer revolution and made it happen. So who is the most powerful in](https://documentaryheaven.com/bill-gates-v-steve-jobs/ "Bill Gates v Steve Jobs")
+* [![North Korea’s Nuclear Trump Card](/wp-content/thumbnails/13542-100x70.jpg?x53432)
     
-    Air France Flight 447 Crash
+    North Korea’s Nuclear Trump Card
     
-    Air France Flight 447 was an international, long haul flight departing from Rio de Janeiro, heading towards Paris. On the 1st of June 2009 the flight crashed into the Atlantic Ocean. All passengers an](https://documentaryheaven.com/air-france-flight-447-crash/ "Air France Flight 447 Crash")
+    North Korea has just tested a nuclear bomb which is believed to be 10 times more powerful than the one used on Hiroshima. Kim Jong Un versus Donald Trump is the most dangerous stand off seen in decade](https://documentaryheaven.com/north-koreas-nuclear-trump-card/ "North Korea’s Nuclear Trump Card")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
