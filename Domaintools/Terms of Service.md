@@ -259,7 +259,7 @@
 Terms of Service
 ================
 
-_**Last Revision: June 30, 2022**_
+_**Last Revision: October 18, 2024**_
 
 **Notice of Arbitration Agreement: These Terms of Service contain an Arbitration Agreement that may impact your rights to use the courts to resolve disputes. Please carefully review the terms of the Arbitration Agreement below. _If you do not wish to be bound by the Arbitration Agreement, do not use the Service as defined herein._**
 
@@ -282,7 +282,7 @@ I. The Service
 
 (a) **Requirements for Use of the Service.** In order to use the Service, you must be at least 18 years old and have legal capacity to enter binding contracts. Additionally, you must not be barred from accessing or using the Service under United States law or the laws applicable where you reside or from where you access or use the Service.
 
-(b) **DomainTools Limited License to You.** Subject to your compliance with these Terms, including, without limitation the Restrictions on Use and Responsibilities in Section III below, DomainTools grants you a limited, revocable, non-assignable, non-transferable, non-sublicensable, and non-exclusive right and license to access and use the Service solely (i) for your own personal or internal business purposes, and (ii) in connection with cybersecurity; fraud prevention; network and information security; threat detection, prevention, and remediation; law, regulatory, and rights enforcement; and the investigation of illegal acts or threats to safety or security.
+(b) **DomainTools Limited License to You.** Subject to your compliance with these Terms, including, without limitation the Restrictions on Use and Responsibilities in Section III below, DomainTools grants you a limited, revocable, non-assignable, non-transferable, non-sublicensable, and non-exclusive right and license to access and use the Service solely (i) for your own personal or internal purposes, not for the benefit of any of your customers, constituents or other third parties, and (ii) in connection with: cybersecurity; fraud prevention; network or information security; threat detection, prevention, or remediation; law, regulatory, or rights enforcement; or the investigation of illegal acts or threats to safety or security.
 
 (c) **Membership Account Registration.** Certain features or services offered on or through the Service may require you to open a membership account. In order to open an account, you must provide DomainTools with certain information (“Registration Data”) requested on the registration form; inquiries marked “required” must be answered, and any other request for information may be left blank. You agree that the Registration Data you provide: (1) is true, accurate, current, and complete, and (2) will be maintained and updated by you to keep it true, accurate, current and complete. DomainTools reserves the right to suspend or terminate your use of the Service and refuse to provide you with any and all current or future use of the Service if DomainTools, in its sole discretion, determines that any of your Registration Data is untrue, inaccurate, not current, or incomplete.
 
