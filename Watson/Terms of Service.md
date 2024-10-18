@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)15°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)10°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Liban](https://www.watson.ch/fr/liban/)
-* [Iran](https://www.watson.ch/fr/iran/)
+* [People](https://www.watson.ch/fr/people/)
 * [Ski](https://www.watson.ch/fr/ski/)
 * [voiture](https://www.watson.ch/fr/voiture/)
 * [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
-* [People](https://www.watson.ch/fr/people/)
-* [Environnement](https://www.watson.ch/fr/environnement/)
-* [Ecologie](https://www.watson.ch/fr/ecologie/)
 * [Football](https://www.watson.ch/fr/football/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [Cuba](https://www.watson.ch/fr/cuba/)
 * [Vaud](https://www.watson.ch/fr/vaud/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Agriculture](https://www.watson.ch/fr/agriculture/)
 * [Corée du Nord](https://www.watson.ch/fr/coree-du-nord/)
-* [Décès](https://www.watson.ch/fr/deces/)
+* [Féminisme](https://www.watson.ch/fr/feminisme/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
+* [électricité](https://www.watson.ch/fr/electricite/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Italie](https://www.watson.ch/fr/italie/)
-* [guerre](https://www.watson.ch/fr/guerre/)
-* [Netanyahou](https://www.watson.ch/fr/netanyahou/)
-* [Israël](https://www.watson.ch/fr/israel/)
-* [Hamas](https://www.watson.ch/fr/hamas/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
