@@ -46,6 +46,16 @@ FOX SCORES
     | TON | 0   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240101)
+* [Men's PC
+    
+    19/10 19:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FIJ | –   |
+    | PNG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240102)
 * Cricket
     
 * [Men's Test
@@ -70,24 +80,14 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Women's T20 WC
     
-    19/10 1:00 AEST
+    NZL won by 8 runs
     
     |     |     |
     | --- | --- |
-    | WI  | –   |
-    | NZL | –   |
+    | WI  | 8 /120 |
+    | NZL | 9 /128 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250202)
-* [Men's T20I
-    
-    NEP won by 17 runs
-    
-    |     |     |
-    | --- | --- |
-    | USA | 7 /147 |
-    | NEP | 9 /164 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250301)
 * [Women's T20
     
     19/10 10:00 AEST
@@ -132,6 +132,36 @@ FOX SCORES
     | STK | 5.2.32 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240802)
+* [AFL Women's
+    
+    19/10 13:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HAW | –   |
+    | GWS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240803)
+* [AFL Women's
+    
+    19/10 15:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | GCS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240804)
+* [AFL Women's
+    
+    19/10 17:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEL | –   |
+    | RIC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240805)
 * Motorsport
     
 * [Formula 1
@@ -154,18 +184,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 10  |
-    | DEN | 33  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250717)
 * Basketball
     
 * [NBL
@@ -178,6 +196,26 @@ FOX SCORES
     | SYD | 80  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050002/play-by-play)
+* [NBL
+    
+    19/10 17:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NZB | –   |
+    | PER | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050003)
+* [NBL
+    
+    19/10 20:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAI | –   |
+    | ILL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050004)
 * Football
     
 * [A-League M
@@ -200,28 +238,28 @@ FOX SCORES
     | BRI | –   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250102)
+* [A-League M
+    
+    19/10 17:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NEW | –   |
+    | MCY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250103)
+* [A-League M
+    
+    19/10 19:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WSW | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250104)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | CLE | 7   |
-    | NYY | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002B5C98)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | NYM | 2   |
-    | LAD | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002A0FB0)
 * [MLB
     
     19/10 8:08 AEST
