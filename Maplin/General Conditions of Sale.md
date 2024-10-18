@@ -395,7 +395,6 @@ Browse
         * [Desktop Microphones](https://www.maplin.co.uk/collections/desktop-microphones)
         * [Boom Microphones](https://www.maplin.co.uk/collections/boom-microphones)
         * [Handheld Microphones](https://www.maplin.co.uk/collections/handheld-microphones)
-        * [Audio Recorders](https://www.maplin.co.uk/collections/audio-recorders)
         * [Microphone Accessories](https://www.maplin.co.uk/collections/microphone-accessories)
         
     * Stage & Studio
@@ -1189,7 +1188,6 @@ Browse
     * [Desktop Microphones](https://www.maplin.co.uk/collections/desktop-microphones)
     * [Boom Microphones](https://www.maplin.co.uk/collections/boom-microphones)
     * [Handheld Microphones](https://www.maplin.co.uk/collections/handheld-microphones)
-    * [Audio Recorders](https://www.maplin.co.uk/collections/audio-recorders)
     * [Microphone Accessories](https://www.maplin.co.uk/collections/microphone-accessories)
     
     [Stage & Studio](https://www.maplin.co.uk/collections/stage-studio)
