@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 17, 2024**
+**October 18, 2024**
 
 * * *
 
@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Breakthrough in Ultra-Clean Biofuel Tech](https://www.sciencedaily.com/releases/2024/10/241017113536.htm)
+* [People Sympathize With Bullied AI Bots](https://www.sciencedaily.com/releases/2024/10/241017113151.htm)
 * [MRNA Vaccine to Prevent and Treat C. Diff](https://www.sciencedaily.com/releases/2024/10/241017112707.htm)
 * [Drug Discovery Within the Patient](https://www.sciencedaily.com/releases/2024/10/241017112513.htm)
 * [Fastest Degrading Bioplastic in Seawater](https://www.sciencedaily.com/releases/2024/10/241017112500.htm)
@@ -237,8 +239,6 @@ this hour
 * [Genes That Viruses 'Steal' from Ocean Microbes](https://www.sciencedaily.com/releases/2024/10/241017112343.htm)
 * [Electricity from Harnessing Vibrations](https://www.sciencedaily.com/releases/2024/10/241017112223.htm)
 * [Plankton Balloon to 6 Times Their Size to Travel](https://www.sciencedaily.com/releases/2024/10/241017112220.htm)
-* [New Process Found to Drive Anti-Viral Immunity](https://www.sciencedaily.com/releases/2024/10/241016115857.htm)
-* [Why Do We Love Carbs? Pre-Neanderthal DNA](https://www.sciencedaily.com/releases/2024/10/241017172950.htm)
 
 Trending Topics
 ---------------
@@ -253,7 +253,7 @@ this week
 
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+
 [Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
-
-[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
   
 
