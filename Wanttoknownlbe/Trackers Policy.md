@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/geheim-braziliaans-aloe-recept-geneest-kanker/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/een-vierkante-cirkel-of-een-rond-vierkant/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
