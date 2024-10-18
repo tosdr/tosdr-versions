@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Kamala in a Nutshell: SAF Video Features Her Most Damning Anti-Gun Rhetoric](https://www.thegunpage.com/kamala-in-a-nutshell-saf-video-features-her-most-damning-anti-gun-rhetoric/10611295)
+* [PSA Releases the Soviet Arms AKS-74U “Krinkov” In 300BLK](https://www.thegunpage.com/psa-releases-the-soviet-arms-aks-74u-krinkov-in-300blk-2/10611293)
+* [Smith & Wesson M&P4 Rifles Now Available for Military & LE](https://www.thegunpage.com/smith-wesson-mp4-rifles-now-available-for-military-le/10611294)
+* [Gun Registry Lessons From New Zealand](https://www.thegunpage.com/gun-registry-lessons-from-new-zealand/10611290)
+* [The ARC Bulks Up: Hornady's New .338 ARC](https://www.thegunpage.com/the-arc-bulks-up-hornadys-new-338-arc/10611288)
+* [Shooting By North Dakota Teacher Ruled Self-Defense](https://www.thegunpage.com/shooting-by-north-dakota-teacher-ruled-self-defense/10611287)
+* [Franklin Armory Introduces The G-S193 Binary Trigger For The Glock 19](https://www.thegunpage.com/franklin-armory-introduces-the-g-s193-binary-trigger-for-the-glock-19/10611289)
 * [AR-15 for Home Defense: Why It Should Be Your Go-To Choice](https://www.thegunpage.com/ar-15-for-home-defense-why-it-should-be-your-go-to-choice/10611282)
 * [TFB 1,000 Round Review: PSA Sabre 15 (Duty Grade Or Don't-y Grade?)](https://www.thegunpage.com/tfb-1000-round-review-psa-sabre-15-duty-grade-or-dont-y-grade/10611277)
 * [POTD: Sandstorm by Daniel Defense](https://www.thegunpage.com/potd-sandstorm-by-daniel-defense/10611278)
-* [Concealed Carry Corner: Carrying In A System](https://www.thegunpage.com/concealed-carry-corner-carrying-in-a-system/10611279)
-* [C&H Precision Introduces The EDC Enclosed](https://www.thegunpage.com/ch-precision-introduces-the-edc-enclosed/10611273)
-* [Harris’ Actions on Guns Speak Louder Than Her Campaign Rhetoric](https://www.thegunpage.com/harris-actions-on-guns-speak-louder-than-her-campaign-rhetoric/10611271)
-* [X-Vision Optics Unveils the Shadow 10 Night Vision Binocular](https://www.thegunpage.com/x-vision-optics-unveils-the-shadow-10-night-vision-binocular/10611270)
-* [Walgreens Employee With Concealed Carry License Fatally Shoots Suspected Thief](https://www.thegunpage.com/walgreens-employee-with-concealed-carry-license-fatally-shoots-suspected-thief/10611269)
-* [MA: Anti-Liberty Super Bill Update](https://www.thegunpage.com/ma-anti-liberty-super-bill-update/10611268)
-* [Maryville, TN Police Department Awards Contract to Smith & Wesson](https://www.thegunpage.com/maryville-tn-police-department-awards-contract-to-smith-wesson/10611262)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Catboss on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782737)
 * Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
 * charles wilkins on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782729)
 * Stanley Warner on [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/#comment-782725)
@@ -236,7 +237,6 @@ Recent Comments
 * charles wilkins on [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/#comment-782712)
 * Stan on [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/#comment-782707)
 * charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
-* William Wallace on [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/#comment-782701)
 
 [Close](#)
 
