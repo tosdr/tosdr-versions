@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=95806521)  
-Enhle Oarabile Kea
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=59913206)  
+MONSTER SECURITY SERVICES
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=15802404)  
-webb it services
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=93839143)  
+Blue Bulls Rugby Coaches Association
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=155569830)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=93007753)  
+Qothiphango Mining
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=198601911)  
-Stevens Consulting
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=32930307)  
+Prosper Park
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=145792936)  
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=91462087)  
+Goju-Ryu Pretoria East
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=61447459)  
+Sarabi
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=107622473)  
 Norton Medical & Consult - Namibia
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=1260955)  
-High Point Marketing CC t/a Leads For Africa
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=95685651)  
+webb it services
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=103464316)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=158325462)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=64478214)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=32634666)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=182233965)  
-Printo
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=14981805)  
+Firstweb Hosting & Design
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=12629136)  
-Three Moons Emporium
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=190268915)  
+Waterfinatics Swim School
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=177198203)  
-Sportspro Group (Pty) Ltd
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=125697846)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=53844289)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=133207123)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=211519746)  
-AMS Ambu Medical Supplies
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=3482284)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=370412fa8b1343ae161fc0b6e590f69a2aefdb44dceb20cf25bc6be85a3e11bd&c=203232891)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=48467576)  
+Website Café (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
