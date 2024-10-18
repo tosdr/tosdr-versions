@@ -65,6 +65,7 @@ Registered users give their consent to the processing of personal data, under th
         
 * [Privacy Policy](https://android-zone.ws/privacy/)
 * [Contact Us](https://android-zone.ws/contact/)
+* [Cookies](https://android-zone.ws/cookies/)
 
 [×](#)
 
@@ -97,6 +98,4 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=6bd073e407a3c0697ec86c4d14491a25)
-
- Change theme
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=6695e9890175e0986f91daae1aeaea39)
