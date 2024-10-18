@@ -190,8 +190,10 @@ Wallapop
 
 ### Wallapop
 
-* [About](https://about.wallapop.com/en/)
+* [About us](https://about.wallapop.com/en)
+* [Press](https://about.wallapop.com/prensa)
 * [Jobs](https://boards.eu.greenhouse.io/wallapop)
+* [Sustainability](https://lareddelcambio.wallapop.com/)
 
 ### Support
 
