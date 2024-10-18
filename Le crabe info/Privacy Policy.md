@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 171 utilisateurs actifs
+##### 711 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Réparer les icônes de Windows (réinitialiser le cache des icônes)](https://lecrabeinfo.net/reparer-les-icones-de-windows-reinitialiser-le-cache-des-icones.html)
 * [Souris par abonnement : Logitech renonce à son idée de "souris éternelle" (pour le moment)](https://lecrabeinfo.net/souris-par-abonnement-logitech-renonce-a-son-idee-de-souris-eternelle-pour-le-moment.html)
 * [Windows 11 24H2 provoque des écrans bleus (BSOD) avec les SSD Western Digital](https://lecrabeinfo.net/windows-11-24h2-provoque-des-ecrans-bleus-bsod-avec-les-ssd-western-digital.html)
-* [Téléchargez les wallpapers du 10ᵉ anniversaire de Windows Insider !](https://lecrabeinfo.net/telecharger-les-wallpapers-du-10%e1%b5%89-anniversaire-de-windows-insider.html)
 
 ### Tendance
 
@@ -152,8 +152,8 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 757 membres
-* 925 articles
+* 67 758 membres
+* 926 articles
 * 26 742 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
