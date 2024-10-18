@@ -2,11 +2,11 @@
 
 SALE ENDS IN
 
-05HRS
+01HRS
 
-16MIN
+30MIN
 
-43SEC
+31SEC
 
 [![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234&auto=compress,format)](https://www.aceable.com/)
 
@@ -39,8 +39,6 @@ Defensive Driving ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=171267455
 [**California** Traffic School](https://www.aceable.com/traffic-school/california/)
 
 [**Florida** Basic Driver Improvement](https://www.aceable.com/driver-improvement/florida/)
-
-[**Indiana** Defensive Driving](https://www.aceable.com/traffic-school/indiana/)
 
 [**Texas** Defensive Driving](https://www.aceable.com/defensive-driving/texas/)
 
