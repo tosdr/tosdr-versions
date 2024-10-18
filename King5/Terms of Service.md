@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_360x203.jpg)](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
+    *  [![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
         
-        #### [Environment Northwest: When The Earth Shakes](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
+        #### [City of Tacoma stops glass recycling because of low demand](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
         
-    *  [![](https://media.king5.com/assets/KING/images/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84/20241014T160026/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84/20241014T160026/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84_360x203.jpg)](https://www.king5.com/article/news/local/woman-charged-enumclaw-crash-history-driving-violations/281-fd31367e-89cb-4166-b13e-14cbb59185ff)
+    *  [![](https://media.king5.com/assets/KING/images/77da0536-96ac-4665-a390-cd2b51aa94a5/20241018T010749/77da0536-96ac-4665-a390-cd2b51aa94a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/77da0536-96ac-4665-a390-cd2b51aa94a5/20241018T010749/77da0536-96ac-4665-a390-cd2b51aa94a5_360x203.jpg)](https://www.king5.com/article/news/local/bellingham/fentanyl-detecting-police-dogs-on-streets-western-washington/281-2ffe935a-1daa-4fad-b679-a73770fa8793)
         
-        #### [Woman charged in Enumclaw crash has history of driving violations](https://www.king5.com/article/news/local/woman-charged-enumclaw-crash-history-driving-violations/281-fd31367e-89cb-4166-b13e-14cbb59185ff)
+        #### [The newest weapon in fight against fentanyl has four legs and a snout](https://www.king5.com/article/news/local/bellingham/fentanyl-detecting-police-dogs-on-streets-western-washington/281-2ffe935a-1daa-4fad-b679-a73770fa8793)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+51°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
