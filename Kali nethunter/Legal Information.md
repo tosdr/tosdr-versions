@@ -12,15 +12,15 @@
     
     [Courses & Certifications
     
-    Industry-leading certifications and training for continuous learning](https://www.offsec.com/courses-and-certifications/)[Learning Paths
+    Industry-leading certifications and training for continuous learning](https://www.offsec.com/courses-and-certifications)[Learning Paths
     
-    Focused training to develop skills based on a specific area of interest](https://www.offsec.com/learning/paths/)[Job Roles
+    Focused training to develop skills based on a specific area of interest](https://www.offsec.com/learning/paths)[Job Roles
     
-    Rigorous training content and labs for the most critical and in-demand job roles](https://www.offsec.com/learning/)[Skills Development
+    Rigorous training content and labs for the most critical and in-demand job roles](https://www.offsec.com/learning)[Skills Development
     
-    Focused training to develop critical cybersecurity skills](https://www.offsec.com/learning/skill-paths-pins/)[Industry Frameworks
+    Focused training to develop critical cybersecurity skills](https://www.offsec.com/learning/skill-paths-pins)[Industry Frameworks
     
-    MITRE ATT&CK- and D3FEND-aligned learning paths](https://www.offsec.com/learning/paths/industry-frameworks/)
+    MITRE ATT&CK- and D3FEND-aligned learning paths](https://www.offsec.com/learning/paths/industry-frameworks)
     
     [Explore Learning Library](https://portal.offsec.com/)
     
@@ -34,11 +34,11 @@
     
     [Enterprise Cyber Range & Versus
     
-    Set up tournaments and test red and blue team skills in a live-fire cyber range](https://www.offsec.com/enterprise/cyber-range/)[Offensive Cyber Range
+    Set up tournaments and test red and blue team skills in a live-fire cyber range](https://www.offsec.com/enterprise/cyber-range)[Offensive Cyber Range
     
-    Train on the latest attack vectors to address vulnerabilities](https://www.offsec.com/enterprise/cyber-range/offensive/)[Defensive Cyber Range
+    Train on the latest attack vectors to address vulnerabilities](https://www.offsec.com/enterprise/cyber-range/offensive)[Defensive Cyber Range
     
-    Prepare for the next attack with simulated real-world training environments](https://www.offsec.com/enterprise/cyber-range/defensive/)
+    Prepare for the next attack with simulated real-world training environments](https://www.offsec.com/enterprise/cyber-range/defensive)
     
     [Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus/?utm_source=offsec)
     
@@ -48,7 +48,7 @@
     
     Use our most powerful cyber range to develop a cyber resilient workforce
     
-    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus/)
+    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus)
     
 * Why OffSec
     
@@ -62,15 +62,15 @@
     
     [Teams & Enterprises
     
-    Continuous learning & hands-on skills development for cybersecurity teams](https://www.offsec.com/organizations/enterprise/)[Public Sector
+    Continuous learning & hands-on skills development for cybersecurity teams](https://www.offsec.com/organizations/enterprise)[Public Sector
     
-    Unique training for government agencies and educational institutions](https://www.offsec.com/public-sector/)[Use Cases
+    Unique training for government agencies and educational institutions](https://www.offsec.com/public-sector)[Use Cases
     
-    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases/)[Industries
+    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases)[Industries
     
-    Purpose-built and industry-recognized cybersecurity training](https://www.offsec.com/industry/)
+    Purpose-built and industry-recognized cybersecurity training](https://www.offsec.com/industry)
     
-    [Contact sales](https://www.offsec.com/sales/)
+    [Contact sales](https://www.offsec.com/sales)
     
     [Recommended
     
@@ -78,15 +78,15 @@
     
     Address your talent gap through continuous skills development and knowledge acquisition
     
-    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise/)
+    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise)
     
     [Attain a Certification
     
-    Prove critical knowledge & skills with an industry-standard certification](https://www.offsec.com/courses-and-certifications/)[Get Hands-on Practice
+    Prove critical knowledge & skills with an industry-standard certification](https://www.offsec.com/courses-and-certifications)[Get Hands-on Practice
     
-    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/individual/)[Increase Career Prospects
+    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/individual)[Increase Career Prospects
     
-    Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
+    Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products)
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
@@ -110,13 +110,13 @@
     
     [Subscription Pricing
     
-    Provide continuous Learning Library access to build cyber workforce resilience](https://www.offsec.com/pricing/organization/)[Cyber Ranges
+    Provide continuous Learning Library access to build cyber workforce resilience](https://www.offsec.com/pricing/organization)[Cyber Ranges
     
-    Hands-on training in live-fire, simulation environments](https://www.offsec.com/labs/enterprise/)[Pentesting Services
+    Hands-on training in live-fire, simulation environments](https://www.offsec.com/labs/enterprise)[Pentesting Services
     
-    Let OffSec conduct a comprehensive vulnerability assessment](https://www.offsec.com/penetration-testing/)
+    Let OffSec conduct a comprehensive vulnerability assessment](https://www.offsec.com/penetration-testing)
     
-    [Contact sales](https://www.offsec.com/sales/)
+    [Contact sales](https://www.offsec.com/sales)
     
     [Recommended
     
@@ -128,21 +128,21 @@
     
     [Pricing
     
-    Flexible options based on your learning goals](https://www.offsec.com/pricing/individual/)[![Learn One](/_astro/one.CuIttstx_1iqdIc.svg)
+    Flexible options based on your learning goals](https://www.offsec.com/pricing/individual)[![Learn One](/_astro/one.CuIttstx_1iqdIc.svg)
     
     Learn One
     
-    12-month access to a single course, related labs, and two exam attempts](https://www.offsec.com/products/learn-one/)[![Course & Certification Bundle](/_astro/courses.DUpgYt2-_ZJbVTu.svg)
+    12-month access to a single course, related labs, and two exam attempts](https://www.offsec.com/products/learn-one)[![Course & Certification Bundle](/_astro/courses.DUpgYt2-_ZJbVTu.svg)
     
     Course & Certification Bundle
     
-    90-day access to a single course, related labs, and one exam attempt](https://www.offsec.com/products/90-day-bundle/)[![Learn Fundamentals](/_astro/fundamentals.iMOuAzP9_Z1YsvOA.svg)
+    90-day access to a single course, related labs, and one exam attempt](https://www.offsec.com/products/90-day-bundle)[![Learn Fundamentals](/_astro/fundamentals.iMOuAzP9_Z1YsvOA.svg)
     
     Learn Fundamentals
     
-    12-month access to introductory- and essential-level content](https://www.offsec.com/products/fundamentals/)[Proving Grounds Labs
+    12-month access to introductory- and essential-level content](https://www.offsec.com/products/fundamentals)[Proving Grounds Labs
     
-    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual/)
+    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual)
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
@@ -152,11 +152,11 @@
     
     Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
+    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200)
     
 * Partners
     
-    [Global Partner Program](https://www.offsec.com/global-partners/)[Partner Portal Login](https://partnerportal.offsec.com/?utm_source=offsec#/page/login)[Find a Partner](https://www.offsec.com/partner-locator/)
+    [Global Partner Program](https://www.offsec.com/global-partners)[Partner Portal Login](https://partnerportal.offsec.com/?utm_source=offsec#/page/login)[Find a Partner](https://www.offsec.com/partner-locator)
     
     Become a Partner
     
@@ -166,7 +166,7 @@
     
 * Community Kali & Community
     
-    [Join Our Community](https://www.offsec.com/community-sign-up/)[Kali Linux](http://www.kali.org/get-kali/?utm_source=offsec)[Community Projects](https://www.offsec.com/community-projects/)[OffSec Discord](https://offs.ec/discord?utm_source=offsec)[OffSec Live](https://www.twitch.tv/offsecofficial?utm_source=offsec)
+    [Join Our Community](https://www.offsec.com/community-sign-up)[Kali Linux](http://www.kali.org/get-kali/?utm_source=offsec)[Community Projects](https://www.offsec.com/community-projects)[OffSec Discord](https://offs.ec/discord?utm_source=offsec)[OffSec Live](https://www.twitch.tv/offsecofficial?utm_source=offsec)
     
     Connect with us
     
@@ -180,35 +180,35 @@
         
     
     * [Blog](https://www.offsec.com/blog/)
-    * [Case Studies](https://www.offsec.com/resources/case-study/)
-    * [Guides](https://www.offsec.com/resources/guides/)
-    * [White Papers](https://www.offsec.com/resources/whitepaper/)
-    * [Product Updates](https://www.offsec.com/resources/product-updates/)
+    * [Case Studies](https://www.offsec.com/resources/case-study)
+    * [Guides](https://www.offsec.com/resources/guides)
+    * [White Papers](https://www.offsec.com/resources/whitepaper)
+    * [Product Updates](https://www.offsec.com/resources/product-updates)
     
     * Watch
         
     
-    * [Webinars](https://www.offsec.com/webinars/)
+    * [Webinars](https://www.offsec.com/webinars)
     * [Twitch](https://www.twitch.tv/offsecofficial?utm_source=offsec)
     * [YouTube](https://www.youtube.com/@OffSecTraining?utm_source=offsec)
     
     * Learn
         
     
-    * [Cyberversity](https://www.offsec.com/cyberversity/)
-    * [Cybersecurity Job Roles](https://www.offsec.com/cybersecurity-roles/)
+    * [Cyberversity](https://www.offsec.com/cyberversity)
+    * [Cybersecurity Job Roles](https://www.offsec.com/cybersecurity-roles)
     
-    * [Live Training & Events](https://www.offsec.com/training-and-events/)
+    * [Live Training & Events](https://www.offsec.com/training-and-events)
     
     * Work at OffSec
         
     
-    * [Careers](https://www.offsec.com/careers/)
-    * [Values](https://www.offsec.com/values/)
+    * [Careers](https://www.offsec.com/careers)
+    * [Values](https://www.offsec.com/values)
     
-    * [Subscribe to our Newsletters](https://www.offsec.com/subscriptions/)
+    * [Subscribe to our Newsletters](https://www.offsec.com/subscriptions)
     
-    * [Press Room](https://www.offsec.com/press-room/)
+    * [Press Room](https://www.offsec.com/press-room)
     
     * [Help Center](https://help.offsec.com/hc/en-us?utm_source=offsec)
     
@@ -241,15 +241,15 @@
     
     [Courses & Certifications
     
-    Industry-leading certifications and training for continuous learning](https://www.offsec.com/courses-and-certifications/)[Learning Paths
+    Industry-leading certifications and training for continuous learning](https://www.offsec.com/courses-and-certifications)[Learning Paths
     
-    Focused training to develop skills based on a specific area of interest](https://www.offsec.com/learning/paths/)[Job Roles
+    Focused training to develop skills based on a specific area of interest](https://www.offsec.com/learning/paths)[Job Roles
     
-    Rigorous training content and labs for the most critical and in-demand job roles](https://www.offsec.com/learning/)[Skills Development
+    Rigorous training content and labs for the most critical and in-demand job roles](https://www.offsec.com/learning)[Skills Development
     
-    Focused training to develop critical cybersecurity skills](https://www.offsec.com/learning/skill-paths-pins/)[Industry Frameworks
+    Focused training to develop critical cybersecurity skills](https://www.offsec.com/learning/skill-paths-pins)[Industry Frameworks
     
-    MITRE ATT&CK- and D3FEND-aligned learning paths](https://www.offsec.com/learning/paths/industry-frameworks/)
+    MITRE ATT&CK- and D3FEND-aligned learning paths](https://www.offsec.com/learning/paths/industry-frameworks)
     
     [Explore Learning Library](https://portal.offsec.com/)
     
@@ -263,11 +263,11 @@
     
     [Enterprise Cyber Range & Versus
     
-    Set up tournaments and test red and blue team skills in a live-fire cyber range](https://www.offsec.com/enterprise/cyber-range/)[Offensive Cyber Range
+    Set up tournaments and test red and blue team skills in a live-fire cyber range](https://www.offsec.com/enterprise/cyber-range)[Offensive Cyber Range
     
-    Train on the latest attack vectors to address vulnerabilities](https://www.offsec.com/enterprise/cyber-range/offensive/)[Defensive Cyber Range
+    Train on the latest attack vectors to address vulnerabilities](https://www.offsec.com/enterprise/cyber-range/offensive)[Defensive Cyber Range
     
-    Prepare for the next attack with simulated real-world training environments](https://www.offsec.com/enterprise/cyber-range/defensive/)
+    Prepare for the next attack with simulated real-world training environments](https://www.offsec.com/enterprise/cyber-range/defensive)
     
     [Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus/?utm_source=offsec)
     
@@ -277,7 +277,7 @@
     
     Use our most powerful cyber range to develop a cyber resilient workforce
     
-    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus/)
+    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus)
     
 * Why OffSec
     
@@ -291,15 +291,15 @@
     
     [Teams & Enterprises
     
-    Continuous learning & hands-on skills development for cybersecurity teams](https://www.offsec.com/organizations/enterprise/)[Public Sector
+    Continuous learning & hands-on skills development for cybersecurity teams](https://www.offsec.com/organizations/enterprise)[Public Sector
     
-    Unique training for government agencies and educational institutions](https://www.offsec.com/public-sector/)[Use Cases
+    Unique training for government agencies and educational institutions](https://www.offsec.com/public-sector)[Use Cases
     
-    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases/)[Industries
+    Meet critical cyber workforce needs with OffSec's learning platform](https://www.offsec.com/use-cases)[Industries
     
-    Purpose-built and industry-recognized cybersecurity training](https://www.offsec.com/industry/)
+    Purpose-built and industry-recognized cybersecurity training](https://www.offsec.com/industry)
     
-    [Contact sales](https://www.offsec.com/sales/)
+    [Contact sales](https://www.offsec.com/sales)
     
     [Recommended
     
@@ -307,15 +307,15 @@
     
     Address your talent gap through continuous skills development and knowledge acquisition
     
-    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise/)
+    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise)
     
     [Attain a Certification
     
-    Prove critical knowledge & skills with an industry-standard certification](https://www.offsec.com/courses-and-certifications/)[Get Hands-on Practice
+    Prove critical knowledge & skills with an industry-standard certification](https://www.offsec.com/courses-and-certifications)[Get Hands-on Practice
     
-    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/individual/)[Increase Career Prospects
+    Challenge yourself in real-world lab environments](https://www.offsec.com/labs/individual)[Increase Career Prospects
     
-    Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
+    Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products)
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
@@ -339,13 +339,13 @@
     
     [Subscription Pricing
     
-    Provide continuous Learning Library access to build cyber workforce resilience](https://www.offsec.com/pricing/organization/)[Cyber Ranges
+    Provide continuous Learning Library access to build cyber workforce resilience](https://www.offsec.com/pricing/organization)[Cyber Ranges
     
-    Hands-on training in live-fire, simulation environments](https://www.offsec.com/labs/enterprise/)[Pentesting Services
+    Hands-on training in live-fire, simulation environments](https://www.offsec.com/labs/enterprise)[Pentesting Services
     
-    Let OffSec conduct a comprehensive vulnerability assessment](https://www.offsec.com/penetration-testing/)
+    Let OffSec conduct a comprehensive vulnerability assessment](https://www.offsec.com/penetration-testing)
     
-    [Contact sales](https://www.offsec.com/sales/)
+    [Contact sales](https://www.offsec.com/sales)
     
     [Recommended
     
@@ -357,21 +357,21 @@
     
     [Pricing
     
-    Flexible options based on your learning goals](https://www.offsec.com/pricing/individual/)[![Learn One](/_astro/one.CuIttstx_1iqdIc.svg)
+    Flexible options based on your learning goals](https://www.offsec.com/pricing/individual)[![Learn One](/_astro/one.CuIttstx_1iqdIc.svg)
     
     Learn One
     
-    12-month access to a single course, related labs, and two exam attempts](https://www.offsec.com/products/learn-one/)[![Course & Certification Bundle](/_astro/courses.DUpgYt2-_ZJbVTu.svg)
+    12-month access to a single course, related labs, and two exam attempts](https://www.offsec.com/products/learn-one)[![Course & Certification Bundle](/_astro/courses.DUpgYt2-_ZJbVTu.svg)
     
     Course & Certification Bundle
     
-    90-day access to a single course, related labs, and one exam attempt](https://www.offsec.com/products/90-day-bundle/)[![Learn Fundamentals](/_astro/fundamentals.iMOuAzP9_Z1YsvOA.svg)
+    90-day access to a single course, related labs, and one exam attempt](https://www.offsec.com/products/90-day-bundle)[![Learn Fundamentals](/_astro/fundamentals.iMOuAzP9_Z1YsvOA.svg)
     
     Learn Fundamentals
     
-    12-month access to introductory- and essential-level content](https://www.offsec.com/products/fundamentals/)[Proving Grounds Labs
+    12-month access to introductory- and essential-level content](https://www.offsec.com/products/fundamentals)[Proving Grounds Labs
     
-    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual/)
+    OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual)
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
@@ -381,11 +381,11 @@
     
     Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
+    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200)
     
 * Partners
     
-    [Global Partner Program](https://www.offsec.com/global-partners/)[Partner Portal Login](https://partnerportal.offsec.com/?utm_source=offsec#/page/login)[Find a Partner](https://www.offsec.com/partner-locator/)
+    [Global Partner Program](https://www.offsec.com/global-partners)[Partner Portal Login](https://partnerportal.offsec.com/?utm_source=offsec#/page/login)[Find a Partner](https://www.offsec.com/partner-locator)
     
     Become a Partner
     
@@ -395,7 +395,7 @@
     
 * Community Kali & Community
     
-    [Join Our Community](https://www.offsec.com/community-sign-up/)[Kali Linux](http://www.kali.org/get-kali/?utm_source=offsec)[Community Projects](https://www.offsec.com/community-projects/)[OffSec Discord](https://offs.ec/discord?utm_source=offsec)[OffSec Live](https://www.twitch.tv/offsecofficial?utm_source=offsec)
+    [Join Our Community](https://www.offsec.com/community-sign-up)[Kali Linux](http://www.kali.org/get-kali/?utm_source=offsec)[Community Projects](https://www.offsec.com/community-projects)[OffSec Discord](https://offs.ec/discord?utm_source=offsec)[OffSec Live](https://www.twitch.tv/offsecofficial?utm_source=offsec)
     
     Connect with us
     
@@ -409,35 +409,35 @@
         
     
     * [Blog](https://www.offsec.com/blog/)
-    * [Case Studies](https://www.offsec.com/resources/case-study/)
-    * [Guides](https://www.offsec.com/resources/guides/)
-    * [White Papers](https://www.offsec.com/resources/whitepaper/)
-    * [Product Updates](https://www.offsec.com/resources/product-updates/)
+    * [Case Studies](https://www.offsec.com/resources/case-study)
+    * [Guides](https://www.offsec.com/resources/guides)
+    * [White Papers](https://www.offsec.com/resources/whitepaper)
+    * [Product Updates](https://www.offsec.com/resources/product-updates)
     
     * Watch
         
     
-    * [Webinars](https://www.offsec.com/webinars/)
+    * [Webinars](https://www.offsec.com/webinars)
     * [Twitch](https://www.twitch.tv/offsecofficial?utm_source=offsec)
     * [YouTube](https://www.youtube.com/@OffSecTraining?utm_source=offsec)
     
     * Learn
         
     
-    * [Cyberversity](https://www.offsec.com/cyberversity/)
-    * [Cybersecurity Job Roles](https://www.offsec.com/cybersecurity-roles/)
+    * [Cyberversity](https://www.offsec.com/cyberversity)
+    * [Cybersecurity Job Roles](https://www.offsec.com/cybersecurity-roles)
     
-    * [Live Training & Events](https://www.offsec.com/training-and-events/)
+    * [Live Training & Events](https://www.offsec.com/training-and-events)
     
     * Work at OffSec
         
     
-    * [Careers](https://www.offsec.com/careers/)
-    * [Values](https://www.offsec.com/values/)
+    * [Careers](https://www.offsec.com/careers)
+    * [Values](https://www.offsec.com/values)
     
-    * [Subscribe to our Newsletters](https://www.offsec.com/subscriptions/)
+    * [Subscribe to our Newsletters](https://www.offsec.com/subscriptions)
     
-    * [Press Room](https://www.offsec.com/press-room/)
+    * [Press Room](https://www.offsec.com/press-room)
     
     * [Help Center](https://help.offsec.com/hc/en-us?utm_source=offsec)
     
