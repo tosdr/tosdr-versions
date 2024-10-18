@@ -44,6 +44,11 @@
         **Verify**
         
         Globally-managed multichannel 2FA and passwordless authentication](https://www.twilio.com/en-us/user-authentication-identity/verify)
+    * [Twilio Lookup logo
+        
+        **Lookup**
+        
+        Know your customer and assess identity risk with real-time phone intelligence](https://www.twilio.com/en-us/user-authentication-identity/lookup)
     
     * * *
     
@@ -52,11 +57,6 @@
         **Email**
         
         Deliver email messages reliably at scale with SendGrid](https://www.twilio.com/en-us/sendgrid/email-api)
-    * [Twilio Lookup logo
-        
-        **Lookup**
-        
-        Know your customer and assess identity risk with real-time phone intelligence](https://www.twilio.com/en-us/user-authentication-identity/lookup)
     * [Twilio Task Router logo
         
         **Serverless**
@@ -69,6 +69,12 @@
         Access local, national, and toll-free phone numbers](https://www.twilio.com/en-us/phone-numbers)
         
         [Toll-Free](https://www.twilio.com/en-us/phone-numbers/toll-free) [10DLC](https://www.twilio.com/en-us/a2p-10dlc) [Short Codes](https://www.twilio.com/en-us/messaging/channels/sms/short-codes)
+        
+    * Twilio Video logo
+        
+        **Video**
+        
+        Connect virtually with secure, high-quality video calling at global scale
         
     
     ##### Applications
@@ -398,6 +404,11 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         **Verify**
         
         Globally-managed multichannel 2FA and passwordless authentication](https://www.twilio.com/en-us/user-authentication-identity/verify)
+    * [Twilio Lookup logo
+        
+        **Lookup**
+        
+        Know your customer and assess identity risk with real-time phone intelligence](https://www.twilio.com/en-us/user-authentication-identity/lookup)
     
     * * *
     
@@ -406,11 +417,6 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         **Email**
         
         Deliver email messages reliably at scale with SendGrid](https://www.twilio.com/en-us/sendgrid/email-api)
-    * [Twilio Lookup logo
-        
-        **Lookup**
-        
-        Know your customer and assess identity risk with real-time phone intelligence](https://www.twilio.com/en-us/user-authentication-identity/lookup)
     * [Twilio Task Router logo
         
         **Serverless**
@@ -423,6 +429,12 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         Access local, national, and toll-free phone numbers](https://www.twilio.com/en-us/phone-numbers)
         
         [Toll-Free](https://www.twilio.com/en-us/phone-numbers/toll-free) [10DLC](https://www.twilio.com/en-us/a2p-10dlc) [Short Codes](https://www.twilio.com/en-us/messaging/channels/sms/short-codes)
+        
+    * Twilio Video logo
+        
+        **Video**
+        
+        Connect virtually with secure, high-quality video calling at global scale
         
     
     ##### Applications
