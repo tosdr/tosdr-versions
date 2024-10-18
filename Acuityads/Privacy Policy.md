@@ -1,3 +1,7 @@
+Check out illumin's brand new Support Center
+
+[Visit](https://support.illumin.com/csm)
+
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
 * [Product](#)
@@ -190,6 +194,7 @@ A platform that provides the perfect space for journey planning, execution, and 
     * [Audience Engagement Map](https://illumin.com/product/audience-engagement-map/)
     * [Pathlight Analysis](https://illumin.com/product/pathlight-analysis/)
     * [Request A Demo](https://illumin.com/product/request-a-demo/)
+    * [Support](https://support.illumin.com/csm)
 * [Insights](#)
     * [Blog](https://illumin.com/insights/blog/)
     * [Whitepapers](https://illumin.com/insights/whitepapers/)
