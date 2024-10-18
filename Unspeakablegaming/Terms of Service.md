@@ -53,12 +53,12 @@ Header - Shapes Theme
     * [![UNSPEAKABLE ICON BLANKET](//www.unspeakable.com/cdn/shop/files/DSC03064_1.jpg?v=1727707389&width=700)
         
         UNSPEAKABLE ICON BLANKET](https://www.unspeakable.com/products/unspeakable-icon-blanket)
+    * [![HOLIDAY LIGHTS T-SHIRT](//www.unspeakable.com/cdn/shop/files/DSC_1079_2.jpg?v=1729087234&width=700)
+        
+        HOLIDAY LIGHTS T-SHIRT](https://www.unspeakable.com/products/holiday-lights-t-shirt)
     * [![4 PACK SHOE CHARMS](//www.unspeakable.com/cdn/shop/files/DSC_1018_2.jpg?v=1724174114&width=700)
         
         4 PACK SHOE CHARMS](https://www.unspeakable.com/products/4-pack-shoe-charms)
-    * [![BIRTHDAY CARD](//www.unspeakable.com/cdn/shop/files/unnamed_2.jpg?v=1724348147&width=700)
-        
-        BIRTHDAY CARD](https://www.unspeakable.com/products/birthday-card)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
