@@ -714,7 +714,7 @@ Give Feedback
 
 Your Feedback
 
- ![newsletter](https://images.static-thomann.de/pics/images/misc/placeholder.svg)
+ ![](https://images.static-thomann.de/pics/images/misc/placeholder.svg)
 
 ### Thomann Newsletter
 
