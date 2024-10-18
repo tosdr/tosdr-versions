@@ -57,7 +57,7 @@ The California Consumer Privacy Act (CCPA) provides California residents with sp
 
 The Oregon Consumer Privacy Act provides Oregon residents with specific rights regarding how their personal information is collected and maintained.
 
-[Data Privacy Rights are more fully explained in our US States Privacy Notice.](https://www.edwardjones.com/us-en/privacy/u-s-state-privacy-notice)
+[Data Privacy Rights are more fully explained in our US States Privacy Notice.](https://www.edwardjones.com/us-en/privacy/us-state-privacy-notice)
 
 ### Consumer Data Rights Request
 
