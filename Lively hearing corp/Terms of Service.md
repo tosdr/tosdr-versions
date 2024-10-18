@@ -126,7 +126,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3847 reviews)
+4.6 out of 5(3852 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -173,7 +173,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3847 reviews)
+4.6 out of 5(3852 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -190,7 +190,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* Latest
+* New
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
@@ -213,7 +213,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     or as low as $49/mo per pair[\*](#financing-disclosure)
     
     [](https://www.listenlively.com/product/enhanceselect500)
-* ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
+* ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
     
     ### Enhance Select 300
     
