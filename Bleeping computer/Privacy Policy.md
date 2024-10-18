@@ -36,18 +36,18 @@
         
         Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
     
+    * [![Microsoft warns it lost some customer's security logs for a month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
+    * [![Fake Google Meet conference errors push infostealing malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Fake Google Meet conference errors push infostealing malware](https://www.bleepingcomputer.com/news/security/fake-google-meet-conference-errors-push-infostealing-malware/)
     * [![FBI arrest Alabama man suspected of hacking SEC's X account](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FBI arrest Alabama man suspected of hacking SEC's X account](https://www.bleepingcomputer.com/news/security/fbi-arrest-alabama-man-suspected-of-hacking-secs-x-account/)
     * [![Ditch subscriptions and get a Office 2021 standalone license in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ditch subscriptions and get a Office 2021 standalone license in this deal](https://www.bleepingcomputer.com/offer/deals/ditch-subscriptions-and-get-a-office-2021-standalone-license-in-this-deal/)
-    * [![Undercover North Korean IT workers now steal data, extort employers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Undercover North Korean IT workers now steal data, extort employers](https://www.bleepingcomputer.com/news/security/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
-    * [![BianLian ransomware claims attack on Boston Children's Health Physicians](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        BianLian ransomware claims attack on Boston Children's Health Physicians](https://www.bleepingcomputer.com/news/security/bianlian-ransomware-claims-attack-on-boston-childrens-health-physicians/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
