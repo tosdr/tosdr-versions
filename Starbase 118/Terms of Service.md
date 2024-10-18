@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
+
+### [Lattice Alliance siege of DS33 broken after 20 hours, USS Excalibur’s arrival turns the tide](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
+
+Federation News Service October 18, 2024
+
+Deep Space Thirty-Three – Lengthy siege of the lone Starfleet outpost is finally over, the USS Excalibur’s timely arrival forced the Lattice Alliance to retreat;
+
+[Read More »](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
 
 ### [Award Winner – Esa Kiax – USS Astraeus – Prestigious Service Medallion – Operations](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
@@ -377,18 +389,6 @@ Federation News Service October 16, 2024
 VARIOUS PORTS, GAMMA QUADRANT – Crew seeks rest and recovery, finds trouble, opportunities
 
 [Read More »](https://www.starbase118.net/2024/busy-oe-bees/)
-
-[![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Addison Mackenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
-
-### [Captain’s Corner – Addison MacKenzie, USS Artemis-A](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
-
-otterhooligan October 15, 2024
-
-Each month, we interview a captain or first officer of the fleet to gain more insight on what it takes to command a ship and
-
-[Read More »](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
 
 Ready to get started?
 ---------------------
