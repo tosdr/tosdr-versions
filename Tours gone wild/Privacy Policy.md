@@ -2,7 +2,7 @@
 
 Search … 
 
-          
+           
 
 [Skip to content](#content)
 
@@ -502,9 +502,7 @@ Get a Price Quote
 TGW Customer Reviews
 --------------------
 
-[![Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.")
-
-![Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.](https://connect.ekomi.de/widget/286BCCF8E9D7AE4-6.gif "Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.")](https://www.ekomi-us.com/review-tgw-travel-group-inc.html "Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.")
+[![Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.](https://connect.ekomi.de/widget/286BCCF8E9D7AE4-6.gif "Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.")](https://www.ekomi-us.com/review-tgw-travel-group-inc.html "Customer review: Everything about our recent trip to Rio de Janeiro for New Years was incredible. TGW did an excellent job at setting up all of our accommodations and activities. Our guides were very attentive and quickly responded to any questions we had. The parties and dinners they set up for us were all amazing experiences, Im not sure if we wouldve been the same experience had we tried to seek out these things ourselves. They definitely made for an unforgettable experience and a great start to the year. I would definitely recommend them to anyone looking to travel to Rio or any of the other destinations they offer.")
 
 Speak to a TGW Sales Rep
 ------------------------
@@ -531,8 +529,6 @@ UK +44 20 33719356
 
   
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif)
 
   
@@ -552,15 +548,11 @@ Subscribe
 
 ACCREDITED BY
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2069%2069'%3E%3C/svg%3E)
-
-![](/wp-content/uploads/2020/06/22.png)
+![IATAN](/wp-content/uploads/2020/06/22.png)
 
 THIRD-PARTY CUSTOMER REVIEWS
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](/wp-content/uploads/2020/06/66.png)](https://www.ekomi-us.com/review-tgw-travel-group-inc.html)
+[![Ekomi](/wp-content/uploads/2020/06/66.png)](https://www.ekomi-us.com/review-tgw-travel-group-inc.html)
 
 FLORIDA SELLER OF TRAVEL NUMBER: ST35764
 
