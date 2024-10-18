@@ -1194,8 +1194,6 @@ Regarding the download offer, the Customer’s banking information (card number,
 
 XANDRIE SA reserves the right to cancel or refuse any order from a Customer with whom there is a dispute (unpaid, etc.). 
 
-?>
-
 * [Desktop version](https://www.qobuz.com/gb-en/legal/terms)
 * [Mobile version](https://www.qobuz.com/gb-en/legal/terms)
 
