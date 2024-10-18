@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/04/230418-Gespraech-Ganser-Mueller-TitelbildKasten.jpg "Daniele Ganser im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=96507)
+[![Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Wolfgang-Kubicki-im-Gespraech-mit-Albrecht-Mueller-e1605795693982.png "Wolfgang Kubicki im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
 
-* [Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=96507)
+* [Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Von Herzen, Rheinmetall!](https://www.nachdenkseiten.de/?p=122927)
-* [Emmanuel Todd: „Russlands Rolle im Weltgeschehen hat mich immer erstaunt“](https://www.nachdenkseiten.de/?p=122641)
-* [Sigmar Gabriel und die gekauften Mäuler der USA](https://www.nachdenkseiten.de/?p=122718)
-* [Europarat stuft Julian Assange als „politischen Gefangenen“ ein – Was sagt die Bundesregierung?](https://www.nachdenkseiten.de/?p=122620)
-* [Noch mehr Zensur: Vorsicht vor den „vertrauenswürdigen Hinweisgebern“](https://www.nachdenkseiten.de/?p=122750)
-* [Keine Corona-Aufarbeitung im Bundestag – Regierung stiehlt sich (erwartungsgemäß) davon](https://www.nachdenkseiten.de/?p=122831)
+* [Russische Sabotage: Wollen unsere Geheimdienste uns eigentlich für dumm verkaufen?](https://www.nachdenkseiten.de/?p=123219)
+* [Unentwegt Stimmungsmache gegen Russland: So kann man in nur 20 Jahren die Stimmung komplett drehen](https://www.nachdenkseiten.de/?p=123158)
+* [Völkerrechtswidrige NATO-Kommandozentrale in Rostock? Die fragwürdigen Ausreden der Bundesregierung](https://www.nachdenkseiten.de/?p=123250)
+* [Viktor Orbán und die Farce im EU-Parlament](https://www.nachdenkseiten.de/?p=123072)
+* [Emmanuel Todd: Der Westen im Niedergang](https://www.nachdenkseiten.de/?p=123244)
+* [Fettspritze: Pharmariese baut eine Fabrik und bekommt ein lukratives Gesetz](https://www.nachdenkseiten.de/?p=123185)
 
 ### Audioangebot
 
