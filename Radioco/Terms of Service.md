@@ -23,13 +23,12 @@
 Terms of Service
 ================
 
-**Last modified:** 12th August 2023
+**Last modified:** 18th October 2024
 
 Recent Changes
 --------------
 
-* Clarified terms of reselling our products/services.
-* Added clarity to plan names, features and eligibility
+* Clarified discount usage.
 
 Radio.co (UK) Ltd is Registered in England and Wales (Company No: 9272479 & VAT Number: GB248855657)
 ----------------------------------------------------------------------------------------------------
@@ -92,8 +91,8 @@ Without exception, Radio.co requires prior notification from clients who intend 
 
 All plans include concurrent listener, periodic (monthly) bandwidth and storage limits. If your station usage exceeds bandwidth or storage usage by more than 25% one calendar month, or 10% over multiple consecutive months, your plan will be upgraded automatically to a more suitable plan level which will carry a prorated upgrade fee. You will be notified by email 24 hours prior to upgrade.
 
-Trials, Payment, Cancellations, Discounts, and Refunds
-------------------------------------------------------
+Trials, Payment, Cancellations, and Refunds
+-------------------------------------------
 
 Trial periods are intended purely for evaluation of the product. Using the product for any commercial purpose during trial period is strictly prohibited. Trials are limited to one per station. If we detect trial abuse, you acknowledge the trial period will be forfeited and payment will be attempted. If payment is unsuccessful your station may be removed from our systems. You will be prohibited from signing up for any future stations with us.
 
@@ -103,9 +102,7 @@ All standard plans offer a 24 hour 'cooling off' period for new customers after 
 
 Website Builder (including Plus), all Custom and Plus plans, once purchased, are non-refundable. Any refunds provided will be entirely at our discretion.
 
-It is the clients responsibility to keep track of all payments made. Any refunds to existing customers or given after the 24 hour cooling off period will be made entirely at our discretion.
-
-Unless otherwise stated in writing our standard discount is 10% in exchange for a banner placement on your website and discounts are only available to non-profit organisations with a registered charity number. Any discounts offered by Radio.co are done at our sole discretion.
+It is the clients responsibility to keep track of all payments made. Any refunds to existing customers or given after the 24 hour cooling off period will be made entirely at our discretion.  
 
 For payments received via any other means than Paypal or Credit Card there will a 10% processing and administration fee added to your bill.
 
@@ -113,12 +110,19 @@ You are not liable for any form of refund if you have breached the terms of serv
 
 All payments billed to existing clients are non-refundable, clients wishing to cancel their service should do so via the Billing section of their Radio.co station at least 7 days before their next billing date, or within their 7 day trial period. Our base pricing is laid out in US Dollars ($), pricing in Euros (€) and British Pounds (£) is for your convenience and subject to change depending on current exchange rates. Cancelling a PayPal or Card subscription directly without notifying us may result in an automated termination of service and loss of data.
 
-Promotions
-----------
+Promotions and Discounts
+------------------------
 
 From time to time Radio.co may run promotions or provide promo codes. Any promotional codes released are for use on new accounts only and cannot be retrospectively applied.
 
-Radio.co has the right to withdraw any promotional campaign or codes at any time without prior notice.
+Unless otherwise stated in writing our standard discount is 10% in exchange for a banner placement on your website and discounts are only available to non-profit organisations with a registered charity number. Any discounts offered by Radio.co are done at our sole discretion.
+
+Radio.co has the right to withdraw any promotional campaign or codes without prior notice. We may revoke a discount applied to a subscription if:
+
+* The discount was obtained through fraudulent means or unauthorized access.
+* The discount code is no longer valid or has expired.
+* The discount does not apply to the chosen plan or subscription type.
+* The customer is found to be misusing the discount or violating Radio.co's terms of service.
 
 Add-on Terms
 ------------
