@@ -445,7 +445,7 @@ Main Menu
 
 * [Explore](#)
     
-    * [Explore Schools and Programs](https://www.applyboard.com/recommended_programs/onboarding)
+    * [Explore Schools and Programs](https://www.applyboard.com/search)
     * [Register](https://www.applyboard.com/services/register)
 * [Discover](#)
     
