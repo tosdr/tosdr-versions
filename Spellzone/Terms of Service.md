@@ -435,11 +435,9 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-"Spellzone really is an incredibly simple, engaging and cost effective resource - it makes a big difference to literacy levels."
+"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
 
-**Millthorpe School, York**
-
-[read more...](https://www.spellzone.com/pages/case-studies/millthorpe.cfm)
+**College Lecturer**
 
 ### Curriculum...
 
