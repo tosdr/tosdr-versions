@@ -24,11 +24,11 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/4bl6tx5)
+[](https://amzn.to/4cdoFKu)
 
-[](https://amzn.to/2Bz3JgN)
+[](https://amzn.to/45JqVq9)
 
-[](https://drawabox.com/rec/zapata/shading)
+[](https://amzn.to/4cDKBhz)
 
 [](https://drawabox.com/rec/uncomfortable/whattodraw)
 
