@@ -203,23 +203,11 @@ Terms of Use
 
 [12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
 
-[![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-
-### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-
-[10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 [15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-
-[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Den-generic-1-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
-
-### [On this day: Millwall splashed the cash on Brighton youngster](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
-
-[11th October 2024](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
 [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
 
@@ -232,6 +220,19 @@ Terms of Use
 ### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 [15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+
+[![A map of the proposed Bakerloo Line extension to Lewisham. 
+Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-120x86.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+
+### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
+
+[16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+
+[![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+[11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
 
 ### Featured Articles
 
