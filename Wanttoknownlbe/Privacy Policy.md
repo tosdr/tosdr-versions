@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/jullie-zijn-de-kracht-van-vrede/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/dijken-doorbreken-sluizen-dicht-opzettelijk/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
