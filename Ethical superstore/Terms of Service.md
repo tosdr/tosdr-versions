@@ -140,9 +140,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
-            
         * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
+            
+        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -162,14 +162,14 @@ Customer Services Helpline
             * [Socks & Tights](https://www.ethicalsuperstore.com/category/fashion/womens/socks/)
             * [Nightwear](https://www.ethicalsuperstore.com/category/fashion/womens/nightwear/)
             * [Trousers & Leggings](https://www.ethicalsuperstore.com/category/fashion/womens/trousers/)
-            * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
             * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
+            * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
             * [Bags](https://www.ethicalsuperstore.com/category/fashion/womens/bags/)
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
+            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
