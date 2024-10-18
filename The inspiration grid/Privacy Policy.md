@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-anya-evdokimova-feature.jpg)
+
+[](https://theinspirationgrid.com/digital-collages-poster-designs-by-anya-evdokimova/)
+
+### Digital Collages & Poster Designs by Anya Evdokimova
+
+![](https://inspgr.id/app/uploads/2024/10/design-carly-berry-feature.jpg)
+
+[](https://theinspirationgrid.com/graphic-design-illustrations-by-carly-berry/)
+
+### Graphic Design & Illustrations by Carly Berry
+
 ![](https://inspgr.id/app/uploads/2024/10/art-anand-rk-feature.jpg)
 
 [](https://theinspirationgrid.com/stunning-comic-book-art-by-anand-rk/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/striking-visual-experiments-by-marcus-chaloner/)
 
 ### Striking Visual Experiments by Marcus Chaloner
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-duckie-feature.jpg)
-
-[](https://theinspirationgrid.com/cultural-fusions-illustrations-by-duckie/)
-
-### Cultural Fusions: Illustrations by Duckie
-
-![](https://inspgr.id/app/uploads/2024/10/art-kevin-m-fletcher-feature.jpg)
-
-[](https://theinspirationgrid.com/kaleidoscopic-portraits-by-kevin-m-fletcher/)
-
-### Kaleidoscopic Portraits by Kevin M. Fletcher
 
 Awesome products for creatives
 ------------------------------
