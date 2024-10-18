@@ -141,6 +141,7 @@ MSX Music player
 Latest reactions
 
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
+* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [HCC MSX, the next generation](https://www.msx.org/photoshoots/bussum-2007/hcc-msx-next-generation "HCC MSX, the next generation")
 * [XPLA V3.0 & ADXP V5.0 by Mstz80ax](https://www.msx.org/news/software/en/xpla-v30-adxp-v50-by-mstz80ax "XPLA V3.0 & ADXP V5.0 by Mstz80ax")
@@ -149,11 +150,12 @@ Latest reactions
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
-* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 
 Latest forum posts
 
-* [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars "Robot Wars")
+* [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars?page=1 "Robot Wars")
+* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
+* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
 * [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
 * [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=1 "Arkos Tracker 3!")
@@ -164,8 +166,6 @@ Latest forum posts
 * [MI - Mapper Info ver.1.2](https://www.msx.org/forum/msx-talk/software/mi-mapper-info-ver12 "MI - Mapper Info ver.1.2")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 * [Question about INT pin for the TMS9918](https://www.msx.org/forum/msx-talk/hardware/question-about-int-pin-for-the-tms9918 "Question about INT pin for the TMS9918")
-* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
-* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
