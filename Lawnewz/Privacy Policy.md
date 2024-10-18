@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Steven Edward Riley Jr. and Ina Thea Kenoyer (Steven Edward Riley/Facebook)](https://am22.mediaite.com/lc/cnt/uploads/2024/05/Steven-Edward-Riley-Jr.-and-Ina-Thea-Kenoyer-Steven-Edward-RileyFacebook-432x243.jpg)](https://lawandcrime.com/crime/woman-who-fatally-spiked-boyfriends-sweet-tea-with-antifreeze-over-non-existent-30-million-inheritance-is-sentenced/)
+1. [![Ryan Walters, when a candidate for Oklahoma State Superintendent](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24179738108196-432x243.jpg)](https://lawandcrime.com/lawsuit/violates-the-religious-freedom-of-parents-and-children-protestant-reverend-is-lead-plaintiff-in-lawsuit-against-oklahoma-push-to-mandate-bible-study-in-public-schools/)
+    
+    ### ['Violates the religious freedom of parents and children': Protestant reverend is lead plaintiff in lawsuit against Oklahoma push to mandate Bible study in public schools](https://lawandcrime.com/lawsuit/violates-the-religious-freedom-of-parents-and-children-protestant-reverend-is-lead-plaintiff-in-lawsuit-against-oklahoma-push-to-mandate-bible-study-in-public-schools/)
+    
+2. [![Dawayland Hurst](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Dawayland-Hurst-432x243.jpg)](https://lawandcrime.com/crime/man-pulls-off-diabolical-plot-to-avenge-half-brothers-death-by-murdering-mother-of-killers-child-cops/)
+    
+    ### [Man pulls off diabolical plot to avenge half-brother's death by murdering mother of killer's child: Cops](https://lawandcrime.com/crime/man-pulls-off-diabolical-plot-to-avenge-half-brothers-death-by-murdering-mother-of-killers-child-cops/)
+    
+3. [![Steven Edward Riley Jr. and Ina Thea Kenoyer (Steven Edward Riley/Facebook)](https://am22.mediaite.com/lc/cnt/uploads/2024/05/Steven-Edward-Riley-Jr.-and-Ina-Thea-Kenoyer-Steven-Edward-RileyFacebook-432x243.jpg)](https://lawandcrime.com/crime/woman-who-fatally-spiked-boyfriends-sweet-tea-with-antifreeze-over-non-existent-30-million-inheritance-is-sentenced/)
     
     ### [Woman who fatally spiked boyfriend's sweet tea with antifreeze over non-existent $30 million inheritance is sentenced](https://lawandcrime.com/crime/woman-who-fatally-spiked-boyfriends-sweet-tea-with-antifreeze-over-non-existent-30-million-inheritance-is-sentenced/)
     
-2. [![Rudy Giuliani makes appearance at RNC.](https://am21.mediaite.com/lc/cnt/uploads/2024/07/AP24198792449520-432x243.jpg)](https://lawandcrime.com/high-profile/this-court-was-not-at-all-persuaded-judge-harshly-rubbishes-rudy-giuliani-for-imagined-claim-about-grand-jury-in-arizona-fake-electors-case-denies-all-further-relief/)
+4. [![A Minnesota cop working as substitute teacher has reportedly been banned for reenacting on a student the prone restraint that killed George Floyd.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/George-Floyd--432x243.jpg)](https://lawandcrime.com/live-trials/live-trials-current/george-floyd-death/very-disturbing-cop-working-as-english-substitute-teacher-banned-after-apparently-reenacting-george-floyds-murder-in-the-classroom-talking-about-dead-bodies-he-had-seen/)
     
-    ### ['This court was not at all persuaded': Judge harshly rubbishes Rudy Giuliani for 'imagined' claim about grand jury in Arizona fake electors case, denies all further relief](https://lawandcrime.com/high-profile/this-court-was-not-at-all-persuaded-judge-harshly-rubbishes-rudy-giuliani-for-imagined-claim-about-grand-jury-in-arizona-fake-electors-case-denies-all-further-relief/)
+    ### ['Very disturbing': Cop working as English substitute teacher banned after apparently reenacting George Floyd's murder in the classroom, talking about 'dead bodies he had seen'](https://lawandcrime.com/live-trials/live-trials-current/george-floyd-death/very-disturbing-cop-working-as-english-substitute-teacher-banned-after-apparently-reenacting-george-floyds-murder-in-the-classroom-talking-about-dead-bodies-he-had-seen/)
     
-3. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
+5. [![Brianne Nicoletti (Bayfield County Sheriff’s Office)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Brianne-Nicoletti-Bayfield-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/in-her-mug-shot-shes-smiling-ive-never-seen-this-prosecutor-judge-stunned-by-remorseless-mom-who-starved-and-tortured-son-in-home-akin-to-concentration-camp/)
     
-    ### ['No authority to legislate': Judge slaps down multiple new election rules put in place by Trump allies in Georgia as 'unconstitutional' administrative agency overreach](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
-    
-4. [![Inset: Vem Miller (News Nation). Background: Donald Trump speaking at his campaign rally in Coachella, California (Forbes).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-2-432x243.jpg)](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
-    
-    ### [Sheriff 'fabricated allegations' of third assassination attempt on Trump so he could seem 'heroic' in arresting 'staunch' Trump supporter: Lawsuit](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
-    
-5. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/the-public-has-been-poisoned-trump-tries-one-more-time-to-stop-jack-smiths-jan-6-evidence-from-coming-out-ahead-of-2024-election/)
-    
-    ### ['The public has been poisoned': Trump tries one more time to stop Jack Smith's Jan. 6 evidence from coming out ahead of 2024 election](https://lawandcrime.com/high-profile/the-public-has-been-poisoned-trump-tries-one-more-time-to-stop-jack-smiths-jan-6-evidence-from-coming-out-ahead-of-2024-election/)
+    ### ['In her mug shot, she's smiling. I've never seen this': Prosecutor, judge stunned by remorseless mom who starved and tortured son in home akin to 'concentration camp'](https://lawandcrime.com/crime/in-her-mug-shot-shes-smiling-ive-never-seen-this-prosecutor-judge-stunned-by-remorseless-mom-who-starved-and-tortured-son-in-home-akin-to-concentration-camp/)
     
 
 [](http://eepurl.com/c89Jdb)
