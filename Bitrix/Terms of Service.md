@@ -770,7 +770,7 @@ Bitrix24
 
 * [Product](https://www.bitrix24.com/tools/)
 * [Pricing](https://www.bitrix24.com/prices/)
-* [Media kit](https://bitrixsoft.com/download/files/partners-en/Bitrix_media_kit.zip)
+* [Media kit](https://bitrixsoft.com/download/files/partners-en/bitrix_media_kit_en.zip)
 * [Contact us](https://www.bitrix24.com/about/contacts.php)
 * [In the press](https://www.bitrix24.com/about/press.php)
 * [Sustainability](https://www.bitrix24.com/pr/sustainability.php)
