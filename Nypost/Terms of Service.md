@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### About last night
 
-[Hamas leader tried to take out Israeli drone moments before he was killed](https://nypost.com/2024/10/17/world-news/israeli-drone-captures-yahya-sinwars-last-moments-alive/)
+[Comedian's scorching takedown of Dems at Al Smith dinner goes viral: 'Murder of an entire political party'](https://nypost.com/2024/10/18/us-news/comedian-jim-gaffigans-takedown-of-kamala-harris-at-al-smith-dinner-goes-viral/)
 
 Terms Of Use
 ============
