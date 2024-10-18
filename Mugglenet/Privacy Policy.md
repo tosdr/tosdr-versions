@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-When Arthur Weasley takes Harry Potter to the Ministry of Magic, they must first dial a secret code into a telephone keypad. He enters the number 62442. The letters underneath those numbers on a standard mobile phone spell out the word “magic.”
+During filming for Harry Potter and the Chamber of Secrets, many of the child actors got lice.
 
 ### Potter History
 
-December 31, 2005 – The Harry Potter and the Goblet of Fire film soundtrack makes top 10 of 2005.
+October 19, 2007 – Dumbledore is revealed to be gay at a reading of Harry Potter and the Deathly Hallows in New York City.
 
 ### Potter Quote
 
-“Well – it’s just that you seem to be laboring under the delusion that I am going to – what is the phrase? – come quietly. I am afraid I am not going to come quietly at all, Cornelius. I have absolutely no intention of being sent to Azkaban. I could break out, of course – but what a waste of time, and frankly, I can think of a whole host of things I would rather be doing.”
+“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
 
 [](#)
 
