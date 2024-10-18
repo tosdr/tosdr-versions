@@ -39,9 +39,9 @@ Off-Canvas Toggle
     * [Client Portal & Forms](https://adultautismcenter.org/contact/client-portal "Client Portal & Forms")
 * [Donate](https://adultautismcenter.org/donate "Donate")
 
-Search
+[Client Payment Portal](https://secure.itransact.com/customers/split/Home.page?vendor_id=4ac711076d3013829d4&mername=Valley%20Behavioral%20Health&ret_addr=https://secure.itransact.com/scripts/receipt/index&showaddr=1&showcvv=1&total_input=1&first_name=&last_name=&address=&city=&state=&zip=&country=USA&phone=&email=&lookup=first_name&first_name_label=Billing%20First%20Name&lookup=last_name&last_name_label=Billing%20Last%20Name&lookup=address&lookup=city&lookup=state&lookup=zip&lookup=country&lookup=phone&lookup=email&lookup=authcode&lookup=total&lookup=test_mode&lookup=when&lookup=xid&lookup=avs_response&lookup=confemail&passback=receipt_tpl&lookup=cc_last_four&lookup=cc_name&receipt_tpl=m2&passback=mername&ret_mode=post&altadd=1&&show_input=patient_name&save=patient_name&patient_nanme_label=Patient%20Name&passback=patient_name&show_input=date_birth&save=date_birth&date_birth_label=Patient%20Date%20Of%20Birth&passback=date_birth)  [UA COLORLINE](https://adultautismcenter.org/colorline)
 
-[Client Payment Portal](https://secure.itransact.com/customers/split/Home.page?vendor_id=4ac711076d3013829d4&mername=Valley%20Behavioral%20Health&ret_addr=https://secure.itransact.com/scripts/receipt/index&showaddr=1&showcvv=1&total_input=1&first_name=&last_name=&address=&city=&state=&zip=&country=USA&phone=&email=&lookup=first_name&first_name_label=Billing%20First%20Name&lookup=last_name&last_name_label=Billing%20Last%20Name&lookup=address&lookup=city&lookup=state&lookup=zip&lookup=country&lookup=phone&lookup=email&lookup=authcode&lookup=total&lookup=test_mode&lookup=when&lookup=xid&lookup=avs_response&lookup=confemail&passback=receipt_tpl&lookup=cc_last_four&lookup=cc_name&receipt_tpl=m2&passback=mername&ret_mode=post&altadd=1&&show_input=patient_name&save=patient_name&patient_nanme_label=Patient%20Name&passback=patient_name&show_input=date_birth&save=date_birth&date_birth_label=Patient%20Date%20Of%20Birth&passback=date_birth)
+Search
 
  [![Valley Behavioral Health](https://valleycares.com/images/admin/valley-behavioral-logo.png) ![Valley Behavioral Health](https://valleycares.com/images/admin/valley-behavioral-logo.png)](https://valleycares.com/)
 
@@ -261,7 +261,7 @@ Sign Up!
 
  
 
-Last Name 
+Message 
 
 #### Contact Us
 
