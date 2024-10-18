@@ -16,6 +16,7 @@ Other languages:
 * [Esperanto](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/eo "Policy:Privacy policy/eo (57% translated)")
 * [Frysk](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/fy "Policy:Privacy policy/fy (1% translated)")
 * [Hausa](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ha "Policy:Privacy policy/ha (20% translated)")
+* [Ido](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/io "Policy:Privacy policy/io (7% translated)")
 * [Kiswahili](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/sw "Policy:Privacy policy/sw (95% translated)")
 * [Kreyòl ayisyen](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ht "Policy:Privacy policy/ht (13% translated)")
 * [Ligure](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/lij "Policy:Privacy policy/lij (9% translated)")
