@@ -368,7 +368,7 @@ Login to save your wishlist.
 
 [Copy link to share ![Email Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy guest wishlist link")](#) 
 
-##### SHARE THIS CREATION
+##### Share this item
 
 ##### Or Share Via
 
