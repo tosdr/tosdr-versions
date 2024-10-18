@@ -23,6 +23,7 @@ Parents and School Administrators >
                 * [Instructional Services](https://factsmgt.com/products/education-services/instructional-services/)
                 * [Learning Courses](https://factsmgt.com/products/education-services/learning-courses/)
                 * [Federal Funding Consulting](https://factsmgt.com/products/education-services/federal-funding-consulting/)
+                * [E-Rate Funding](https://factsmgt.com/e-rate-funding/)
                 * [Global Credentialing & Professional Development](https://factsmgt.com/products/education-services/globaled/)
         * * [Financial Management](https://factsmgt.com/products/financial-management/)
                 * [Tuition Management](https://factsmgt.com/products/financial-management/tuition-management/)
