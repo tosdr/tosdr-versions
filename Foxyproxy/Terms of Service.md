@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Hi, thanks for this great add-on. I'm a chinese, so foxyproxy means much for me.
+I enjoyed using the service ... I was still able to stream video quite comfortably on an ADSL2 connection.
 
-Zero
+Chris Campbell
