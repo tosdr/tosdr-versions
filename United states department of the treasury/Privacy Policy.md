@@ -565,7 +565,7 @@ MENU MENU
     
     October 17, 2024
     
-    [Treasury Targets Actors Involved in Drone Production for Russia’s War Against Ukraine](https://home.treasury.gov/news/press-releases/jy2651)
+    [Treasury Sanctions Network for Shipping Oil on Behalf of Iran-Backed Houthi Financier](https://home.treasury.gov/news/press-releases/jy2652)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
