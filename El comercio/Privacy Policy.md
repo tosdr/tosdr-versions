@@ -31,56 +31,333 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-El voto latino y su impacto en las elecciones de EE. UU.
-========================================================
+Cortes de luz en Cuenca para este viernes 18 de octubre
+=======================================================
 
-El voto latino es clave en las elecciones estadounidenses y puede influir en reformas migratorias y relaciones con América Latina.
-----------------------------------------------------------------------------------------------------------------------------------
+En algunos barrios, los cortes de luz se extienden de corrido, mientras que en otros la suspensión se realiza en dos franjas horarias.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-![Donald Trump y Kamala Harris buscan la presidencia de EE.UU. La elección será el 5 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/trump.jpg)
+![Los horarios del cronograma en la ciudad austral se implementan en varias jornadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-Cuenca-18-de-octubre.jpg)
 
-Las elecciones presidenciales de **Estados Unidos** del próximo 5 de noviembre se presentan como un escenario crucial, especialmente para la comunidad latina, que ha demostrado ser un electorado decisivo en los últimos años. Con una población latina que supera los 62 millones, su participación puede inclinar la balanza en estados clave y determinar el rumbo de políticas que afectan no solo a los inmigrantes, sino también a las relaciones de EE. UU. con países latinoamericanos como **Venezuela, México, Brasil, Nicaragua y Argentina.** A medida que se acercan las elecciones, es fundamental analizar cómo el voto latino puede influir en las reformas migratorias y la política exterior estadounidense.
+La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este viernes 18 de octubre de 2024. La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
 
-> La comunidad latina ha crecido significativamente en EE. UU. y se ha convertido en una fuerza electoral que no puede ser ignorada.
+Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
 
-En las elecciones de 2020, a**proximadamente el 50%** de los votantes latinos eligieron a **Joe Biden**, lo que fue crucial para su victoria. Este año, se espera que la participación latina sea igualmente relevante, ya que muchos votantes están motivados por temas como la inmigración, la justicia social y el acceso a la salud.
+### Más noticias
 
-Uno de los temas más apremiantes para los votantes latinos es la reforma migratoria. La administración Biden prometió avanzar en un camino hacia la ciudadanía para millones de inmigrantes indocumentados, así como mejorar las condiciones en los centros de detención y abordar las políticas restrictivas implementadas por administraciones anteriores.
+* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+* [Cortes de luz en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-quito-viernes-18-octubre.html "Cortes de luz en Quito este viernes 18 de octubre")
 
-Sin embargo, la falta de avances significativos ha generado desilusión entre muchos votantes latinos. La presión sobre el próximo gobierno para implementar reformas migratorias efectivas será alta, especialmente si se considera el aumento del número de migrantes provenientes de países como Venezuela y Nicaragua. La comunidad espera que se prioricen soluciones humanitarias y se establezcan vías legales para la migración.
+Horarios de cortes de luz
+-------------------------
 
-La política exterior de EE. UU. hacia América Latina también está en juego. Las relaciones con Venezuela han sido tensas bajo el gobierno de **Nicolás Maduro**, quien ha enfrentado sanciones por violaciones a los derechos humanos y corrupción. La comunidad latina en EE. UU., especialmente aquellos con raíces venezolanas, espera que el nuevo gobierno adopte un enfoque más diplomático que contemple el apoyo a la democracia y los derechos humanos sin recurrir a medidas extremas.
+El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
 
-En cuanto a Nicaragua, bajo el liderazgo de **Daniel Ortega**, las relaciones han sido igualmente complicadas. El próximo gobierno estadounidense deberá considerar cómo abordar la crisis política en Nicaragua sin exacerbar tensiones regionales. Un enfoque equilibrado podría incluir apoyo a iniciativas democráticas mientras se evita una intervención directa que podría ser contraproducente.
+En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
 
-La relación con Argentina también merece atención. Con un nuevo gobierno en Argentina que busca fortalecer sus vínculos internacionales, EE. UU. tiene la oportunidad de colaborar en temas económicos y sociales. La comunidad latina espera que el próximo presidente estadounidense fomente una relación constructiva con Argentina, centrada en el comercio justo y la cooperación en áreas como la educación y la salud pública. Sin embargo, se debe considerar que la relación no será igual si el **Partido Demócrata se mantiene en la Casa Blanca**, ya que el presidente argentino, **Javier Milei, mantiene una estrecha relación con el candidato republicano, Donald Trump.**
+Los horarios del cronograma en la ciudad austral se implementan en **13 jornadas**:
 
-Se deberá tener atención a la política exterior del nuevo Gobierno mexicano. La mayoría de migrantes en EE.UU. provienen de ese país y son potenciales votantes, sin embargo, México y Washington guardan por el momento un distanciamiento prudente por la última reforma judicial.
+* 00:00 a 06:00
+* 00:00 a 04:00 y de 09:00 a 15:00
+* 00:00 a 06:00 y de 14:00 a 18:00
+* 05:00 a 10:00 y de 14:00 a 19:00
+* 05:00 a 10:00 y de 14:00 a 20:00
+* 06:00 a 10:00 y de 15:00 a 21:00
+* 06:00 a 12:00 y de 16:00 a 20:00
+* 09:00 a 14:00 y de 18:00 a 23:00
+* 10:00 a 15:00 y de 19:00 a 00:00
+* 10:00 a 16:00 y de 20:00 a 00:00
+* 16:00 a 20:00
+* 10:00 a 14:00
+* 11:00 a 17:00
 
-El voto latino tiene el potencial de ser un factor determinante en las próximas elecciones presidenciales de EE. UU., influyendo no solo en reformas migratorias, sino también en cómo se gestionan las relaciones con países como, México, Venezuela, Nicaragua y Argentina. La comunidad latina debe aprovechar esta oportunidad para hacer oír su voz y asegurar que sus intereses sean representados adecuadamente.
+La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/").
 
-Cartas a Quito / 18 de octubre de 2024
-======================================
+> 🔵Con la [#AppCentrosur](https://twitter.com/hashtag/AppCentrosur?src=hash&ref_src=twsrc%5Etfw) consultar la programación de cortes de energía es fácil y rápido.  
+>   
+> Entérate👇paso a paso cómo hacerlo.  
+>   
+> También puedes ingresar📱💻 al siguiente link: [https://t.co/InuU9w1Urt](https://t.co/InuU9w1Urt) coloca tu información y revisa la información personalizada. [pic.twitter.com/F6vY85yP0B](https://t.co/F6vY85yP0B)
+> 
+> — Centrosur (@centrosurec) [October 16, 2024](https://twitter.com/centrosurec/status/1846347828576100519?ref_src=twsrc%5Etfw)
 
-Estas son las cartas a Quito de este viernes 18 de octubre de 2024
-------------------------------------------------------------------
+Embalse de Mazar se recupera
+----------------------------
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+La ministra de Energía y Minas (e), Inés Manzano, se pronunció este miércoles sobre el estado del **embalse de Mazar**.
 
-**Necesitamos una canción**. **Evoco las Palabras de mi Maestro Alfredo Pérez Guerrero** 
------------------------------------------------------------------------------------------
+La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (**Celec**).
 
-“El país debe comenzar una nueva era, y para llegar a la Tierra de Promisión, es menester que hagamos un examen de conciencia todos los ecuatorianos y que, arrepentidos de nuestras culpas, de nuestros errores y de nuestros crímenes, unamos las pocas fuerzas que nos quedan en el alma que son únicas que importan para seguir el viaje. Quizás, si en ello nos empeñamos y si en ello ponemos fe, amor y tenacidad, podemos bordear la roca contra la cual parece va a estrellarse definitivamente la vida de nuestro pueblo.” 
+En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en **2 116,68 metros** sobre el nivel del mar y, a las 15:00, subió a **2 116,88**.
 
-“Quizá lo único que hace falta para nuestro viaje es una canción. El que la invente será nuestro abanderado y nuestro guía. No necesitamos aeroplanos supersónicos, ni proyectiles deformes con su carga de átomos despedazados; no nos hacen falta dólares ni las libras esterlinas no los rublos, no nos sirven los antibióticos, ni los elixires prolongadores de la juventud y retardadores de la muerte, no nos importan los discursos académicos, ni el pro ni el contra de los leguleyos, ni la tesis y antítesis de los dialécticos, ni los sermones hipócritas y dulzones que pretenden enredarnos y robarnos nuestra alegría.” 
+“Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimo (…) Estamos a **37 metros** de llegar a la [**cota máxima**](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)")”, dijo.
 
-“Solo necesitamos una canción, una canción simple que sea como una bandada de alondras o como un ramo de rosas o como un astro al amanecer; que brote de los pechos y de los labios cuál surtidor de aguas cristalinas; que nos levante de nuestro desfallecimiento, cierre nuestras heridas sangrantes, descorra los opacos velos que enturbian nuestra mirada, y nos devuelva el latido fuerte de nuestro corazón de hombres.” 
+Juez dicta medidas contra agentes de tránsito detenidos
+=======================================================
 
-“Cantemos nuestro canto de hombres que tienen fe y virilidad, y que están dispuestos a defender y a salvar “lo único que importa”. Encarguemos a los poetas que tracen las líneas de la estrofa, y dejemos que la música sea cambiante, que tenga del arrullo y del trino y también del rugir de la tormenta.” 
+La Fiscalía abrió la investigación en el caso llamado Pico y Plata contra siete agentes procesados por presunto delito de concusión
+-----------------------------------------------------------------------------------------------------------------------------------
 
-“Luego de tantos años de dolor y fracaso, entreguemos las insignias de nuestro poderío en las manos fuertes, sanas y preparadas en los problemas del país, a la juventud, ya que nosotros, hombres maduros, hemos conducido al país a esta encrucijada. Que sea la juventud que no tiene prejuicios, ni cadenas, ni consignas, las que levanta sobre sus brazos fuertes el Arca Santa que contiene las esencias del ser humano.” 
+![Siete agentes metropolitanos son procesados por presuntamente pedir dinero a sus víctimas.](https://www.elcomercio.com/wp-content/uploads/2024/10/agentes-de-transito.jpg)
 
-Jorge Enríquez Páez  
+La **Policía Nacional** realizó, en coordinación con la **Fiscalía Nacional del Estado**, un operativo durante la madrugada del jueves 17 de octubre de 2024.
+
+### Más noticias
+
+* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
+* [Así funciona el Pico y placa en Quito este viernes 18 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-viernes-18-de-octubre.html "Así funciona el Pico y placa en Quito este viernes 18 de octubre")
+* [Circulación vehicular se reanuda en la Plaza Argentina](https://www.elcomercio.com/actualidad/quito/circulacion-vehicular-se-reanuda-en-la-plaza-argentina.html "Circulación vehicular se reanuda en la Plaza Argentina")
+
+Siete agentes detenidos
+-----------------------
+
+En este operativo, la Policía detuvo a **siete agentes de tránsito** para una investigación por, presuntamente, haber exigido dinero a cambio de no sancionar infracciones, como la medida del pico y placa.
+
+Según información de Quito Informa, los uniformados también detuvieron a **otras dos personas**con fines investigativos.
+
+Desde el **Municipio,** se lucha contra la corrupción y se colaborará en este proceso investigativo.
+
+Esta investigación, a la que se le ha llamado el caso Pico y Plata, está a cargo de la **Unidad de Transparencia y Lucha contra la Corrupción** de la Fiscalía.
+
+Durante la noche de ayer, 17 de octubre, se instaló **la audiencia de formulación de cargos**, en el Complejo Judicial Norte, **contra los siete agentes metropolitanos de tránsito**. A los funcionarios públicos se los investiga por presunta concusión.
+
+El juez acogió el pedido de Fiscalía y **dictó presentaciones periódicas y prohibición de salida del país** para los siete agentes de tránsito.
+
+Ellos, mediante amenazas, habrían exigido dinero a sus víctimas para no sancionarlas por el incumplimiento de la medida del [Pico y Placa](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+La Fiscalía pide a la ciudadanía **denunciar** estos y todos los delitos cometidos por **servidores públicos**.
+
+> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoPicoYPlata](https://twitter.com/hashtag/CasoPicoYPlata?src=hash&ref_src=twsrc%5Etfw): Juez acoge el pedido de [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y dicta presentaciones periódicas y prohibición de salida del país contra 7 agentes metropolitanos de Tránsito por presunta [#Concusión](https://twitter.com/hashtag/Concusi%C3%B3n?src=hash&ref_src=twsrc%5Etfw). Por medio de amenazas, habrían solicitado dinero a sus víctimas. [pic.twitter.com/zVll0TYkUq](https://t.co/zVll0TYkUq)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 18, 2024](https://twitter.com/FiscaliaEcuador/status/1847125450516009169?ref_src=twsrc%5Etfw)
+
+Operativo se desarrolló en Quito
+--------------------------------
+
+Los uniformados ejecutaron varios **allanamientos en inmuebles en la ciudad de Quito**, en el marco de una investigación por **presunta concusión**.
+
+En el cometimiento de este **presunto delito** estarían involucrados agentes metropolitanos de tránsito.
+
+**223 servidores policiales**, más personal de la Fiscalía participaron en la puesta en marcha de este operativo en Quito.
+
+Los policías pudieron recoge**r algunas evidencias** como:
+
+* Dinero en efectivo
+* Celulares
+* Computadoras
+* Matrículas y licencias de conducir
+* Uniformes de uso policial, entre otras
+
+Estos indicios pasarán a **cadena de custodia** y posteriormente serán presentados como pruebas en los procesos legales que se establezcan.
+
+> 🔴 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> OPERATIVO CONTRA EL DELITO DE CONCUSIÓN  
+>   
+> Esta madrugada en coordinación con [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw), ejecutamos varios allanamientos en [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw), en el marco de una investigación por presunta [#concusión](https://twitter.com/hashtag/concusi%C3%B3n?src=hash&ref_src=twsrc%5Etfw), que involucra a varios agentes metropolitanos de tránsito.  
+>   
+> Operativo… [pic.twitter.com/L8M7tgugBO](https://t.co/L8M7tgugBO)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 17, 2024](https://twitter.com/PoliciaEcuador/status/1846855876713369929?ref_src=twsrc%5Etfw)
+
+¿Qué es el delito de concusión?
+-------------------------------
+
+La **concusión** es un término legal que se refiere a cuando un **funcionario público** en uso de su cargo, exige o hace pagar a una persona una contribución, o también al cobrar más de lo que le corresponde por las funciones que realiza.
+
+Este delito puede presentar **agravantes si se emplea intimidación** o si se invoca que son órdenes de un funcionario de mayor jerarquía, y esta exacción es en provecho **[propio](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")**.
+
+​Este delito está tipificado en e**l Código Integral Penal**: Art. 281.- Concusión.- Las o los servidores públicos y las personas que actúen en virtud de una potestad estatal **en alguna de las instituciones del Estado**, determinadas en la **Constitución de la República**, sus agentes o dependientes oficiales que abusando de su cargo o funciones, por sí o por medio de terceros, ordenen o **exijan la entrega de derechos**, cuotas, contribuciones, rentas, intereses, sueldos o gratificaciones no debidas, serán sancionados con pena **privativa de libertad de tres a cinco años**. Si la conducta prevista en el inciso anterior se realiza mediante violencias o amenazas, la o el servidor público, será sancionado con pena privativa de libertad de cinco a siete años. Tomado del COIP (2014).
+
+Exintegrantes de One Direction comparten fotos conmovedoras junto a Liam Payne
+==============================================================================
+
+Exintegrantes de One Direction dedicaron emotivos mensajes tras la muerte de Liam Payne.
+----------------------------------------------------------------------------------------
+
+![Liam Payne murió a los 31 años en Buenos Aires, Argentina. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo186.jpg)
+
+**Niall Horan y Zayn Malik**, exintegrantes de la icónica banda británica **[One Direction](https://www.onedirectionmusic.com/gb/home.html "https://www.onedirectionmusic.com/gb/home.html"),** expresaron su tristeza por la muerte de **Liam Payne.**
+
+El cantante de 31 años falleció en un hotel de Buenos Aires. Ambos artistas compartieron conmovedores mensajes en sus redes sociales, recordando los momentos vividos junto a su amigo.
+
+### **Más noticias:**
+
+* [Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html")
+* [Liam Payne luchó contra uno de los peores enemigos](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-deceso-excesos-alcohol.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-deceso-excesos-alcohol.html")
+* [Liam Payne compartió con Cristiano Ronaldo en el Real Madrid](https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html "https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html")
+
+**Liam Payne estaba lleno de energía, según sus amigo**s
+--------------------------------------------------------
+
+Niall Horan, en su publicación de **Instagram**, dijo sentirse “destrozado” por la pérdida. En su emotivo mensaje, destacó la energía y pasión de Payne, describiéndolo como una persona capaz de iluminar cualquier espacio.
+
+Horan rememoró las risas y recuerdos compartidos, destacando la importancia de esos instantes en su vida. “Apreciaré cada momento que tuvimos para siempre”.
+
+Zayn Malik también expresó su dolor. En su comunicado, agradeció a Payne por el apoyo brindado durante momentos difíciles. Recordó cómo, a los 17 años, cuando se sentía lejos de casa, Liam siempre estaba presente con su actitud positiva y su sonrisa tranquilizadora.
+
+Malik destacó la sabiduría y firmeza de Payne, resaltando que, a pesar de sus diferencias, siempre lo respetó. “Siempre fuiste más sensato que yo”.
+
+**Harry Styles también está dolido por la muerte de Liam** **Payne**
+--------------------------------------------------------------------
+
+La noticia de la muerte de Liam Payne dejó a los integrantes de **One Direction**, incluidos Harry Styles y Louis Tomlinson, “completamente devastados”.
+
+En un comunicado conjunto, expresaron su dolor y anunciaron que tomarán un tiempo para llorar y procesar la pérdida de su “hermano”.
+
+La banda, que marcó una generación, se une en este momento de luto, recordando a un amigo que dejó una huella imborrable en sus vidas.
+
+Día de la Menopausia, momento para hablar sobre salud femenina 
+===============================================================
+
+El Día de la Menopausia es una oportunidad para reflexionar sobre los retos que enfrentan las mujeres.
+------------------------------------------------------------------------------------------------------
+
+![El Día Mundial de la Menopausia promueve la salud y el bienestar de las mujeres en esta etapa. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Menopausia.jpg)
+
+La celebración del **Día Mundial de la Menopausia** se lleva a cabo cada 18 de octubre desde el año 2000. Esta fecha fue establecida por la **Sociedad Internacional de la Menopausia** (SIM) y la **Organización Mundial de la Salud** (OMS).  
+
+### Más noticias
+
+* [Tratamientos de menopausia aumentan riesgo de cáncer de seno, según estudio](https://www.elcomercio.com/tendencias/salud/tratamientos-menopausia-cancer-seno-estudio.html "https://www.elcomercio.com/tendencias/salud/tratamientos-menopausia-cancer-seno-estudio.html")
+* [Menopausia eleva riesgo de sufrir osteoporosis y enfermedades cardiovasculares](https://www.elcomercio.com/tendencias/salud/menopausia-riesgo-enfermedades-osteoporosis-cardiovasculares.html "https://www.elcomercio.com/tendencias/salud/menopausia-riesgo-enfermedades-osteoporosis-cardiovasculares.html")
+
+Su objetivo principal es **crear conciencia sobre la importancia de la salud femenina**, especialmente en una etapa que afecta a millones de mujeres en todo el mundo. La **menopausia**, un proceso natural, **marca el final de la vida reproductiva** y presenta desafíos tanto físicos como emocionales. 
+
+**Importancia del Día Mundial de la Menopausia** 
+-------------------------------------------------
+
+La **menopausia** es un tema que ha estado rodeado de tabúes y prejuicios. A pesar de ser **un proceso natural**, muchas mujeres enfrentan dificultades para hablar sobre ello. 
+
+ La conmemoración **busca visibilizar estos desafíos y fomentar un diálogo abierto sobre la salud femenina**. Según la OMS, se estima que en los próximos años habrá más de **1000 millones de mujeres mayores de 50 años**, lo que subraya la necesidad de **atención especializada en ginecología y salud mental** para este grupo, a decir de la página [Noticiero Médico](https://www.noticieromedico.com/post/18-de-octubre-d%C3%ADa-mundial-de-la-menopausia "https://www.noticieromedico.com/post/18-de-octubre-d%C3%ADa-mundial-de-la-menopausia").  
+
+**Síntomas y cambios asociados** 
+---------------------------------
+
+Los **síntomas de la menopausia** pueden variar considerablemente entre las mujeres. Los más comunes incluyen: 
+
+* Sofocos 
+
+* Sudores nocturnos 
+
+* Alteraciones del sueño 
+
+* Cambios en el estado de ánimo 
+
+* Disminución del deseo sexual 
+
+Estos síntomas son provocados por una **disminución en los niveles de estrógeno**, lo que puede afectar no solo el bienestar físico sino también emocional. Se estima que **los síntomas pueden durar entre cuatro y 12 años**, aunque algunos pueden persistir incluso más tiempo, según la [Asociación Argentina para el Estudio del Climaterio](https://www.aapec.org/index.php/noticias-y-novedades/actividad-de-aapec/1013-el-dia-mundial-de-la-menopausia-marca-su-decimo-aniversario "https://www.aapec.org/index.php/noticias-y-novedades/actividad-de-aapec/1013-el-dia-mundial-de-la-menopausia-marca-su-decimo-aniversario"). 
+
+**Educación y prevención** 
+---------------------------
+
+Uno de los **objetivos fundamentales del Día Mundial de la Menopausia** es educar a las mujeres sobre **cómo manejar esta fase**. La información sobre los síntomas, las opciones de tratamiento y los cambios en el estilo de vida es esencial para mejorar su calidad de vida. Las campañas educativas deben centrarse en: 
+
+* La importancia del ejercicio regular. 
+
+* La adopción de una dieta equilibrada. 
+
+* La búsqueda de apoyo psicológico si es necesario. 
+
+Además, **se recomienda realizar chequeos médicos regulares** para monitorear la **salud cardiovascular** y otros aspectos relacionados con esta etapa 
+
+**Datos curiosos sobre la menopausia** 
+---------------------------------------
+
+Basados en información de [El Diario de Argentina](https://www.eldiarioar.com/sociedad/dia-mundial-menopausia-conmemora-18-octubre_1_10604559.html "https://www.eldiarioar.com/sociedad/dia-mundial-menopausia-conmemora-18-octubre_1_10604559.html"), se presentan datos interesantes sobre la menopausia: 
+
+* **Fertilidad:** Durante los primeros años, algunas mujeres pueden quedar embarazadas a pesar de tener ciclos irregulares. 
+
+* **Memoria:** Muchas experimentan problemas temporales con la memoria, comúnmente conocida como “niebla mental”. 
+
+* **Irritabilidad:** Aproximadamente el 70% reporta cambios en su estado emocional durante esta etapa. 
+
+Así funciona el Pico y placa en Quito este viernes 18 de octubre
+================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Quito-pp.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Circulación vehicular se reanuda en la Plaza Argentina](https://www.elcomercio.com/actualidad/quito/circulacion-vehicular-se-reanuda-en-la-plaza-argentina.html "Circulación vehicular se reanuda en la Plaza Argentina")
+* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
+* [Daniel Noboa condona deudas de Juntas de Agua](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-entrega-camionetas-y-condona-deudas-de-juntas-de-agua.html "Daniel Noboa condona deudas de Juntas de Agua")
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+Este **viernes 11 de octubre de 2024 es feriado** y, por lo tanto, no se aplica la medida d**e Pico y placa** en la ciudad de Quito.
+
+> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oh699gKfye](https://t.co/oh699gKfye)
+> 
+> — AMTQuito (@AMT\_Quito) [October 4, 2024](https://twitter.com/AMT_Quito/status/1842143169346957464?ref_src=twsrc%5Etfw)
+
+Paz con la naturaleza: COP 16
+=============================
+
+La COP 16 en Cali abordará la conservación de la biodiversidad y la distribución equitativa de beneficios genéticos.
+--------------------------------------------------------------------------------------------------------------------
+
+![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+
+Entre los días 21 de octubre y 1 de noviembre se desarrollará en Cali, Colombia la COP 16 (Conferencia de las Partes), del **Convenio de las Naciones Unidas para la Diversidad Biológica**, bajo el sugestivo nombre de “**Paz con la Naturaleza**”, en un país que cuenta con una riquísima biodiversidad, pero escasa paz entre sus habitantes desde hace medio siglo.
+
+En este encuentro, representantes de todo el mundo trabajarán para avanzar en la **conservación** y uso sostenible de la **biodiversidad**.  
+
+Al ser la primera COP desde la adopción del **Marco Mundial de Biodiversidad de Kunming-Montreal**, celebrada en diciembre de 2022, uno de sus objetivos será la revisión y medición del cumplimiento de lo acordado, por parte de aquellos países que la suscribieron.
+
+Se prevé que las Partes muestren la alineación de sus **Estrategias y Planes de Acción** en materia de **Diversidad Biológica** con lo acordado hace dos años.  Otro objetivo será finalizar y operacionalizar el **mecanismo multilateral** sobre participación **justa y equitativa** de los **beneficios** derivados del uso de **información digital** sobre secuencias de recursos genéticos.
+
+Colombia y su actual gobierno presidido por Gustavo Petro, viene de manera reiterada exponiendo en todos los **foros internacionales**, que la **humanidad** camina hacia su **extinción**, si acaso no se hace un giro drástico en la extracción, uso y consumo de combustibles fósiles, a pesar de que su principal rubro de **exportación** es el **petróleo**, generando por ello, un fuerte **debate interno**.
+
+Su constante **denuncia** del **cambio climático** explica que Colombia postulara y obtuviera el ser sede de este importante **evento internacional**, el más relevante ocurrido en dicho país desde que en 1995 se realizara en Cartagena de Indias la **Cumbre de los Países No Alineados**.
+
+Es importante contextualizar esta COP 16, puesto que desde 1992, durante la **Cumbre de la Tierra**, celebrada en Río de Janeiro, se establecieron tres acuerdos claves para coordinar esfuerzos internacionales para abordar los **problemas ambientales globales.** 
+
+Así, la **Convención Marco de las Naciones Unidas sobre el Cambio Climático,** es el primero, más conocido e importante en **temas ambientales**.  Su principal objetivo es el reducir las emisiones de gases de efecto invernadero para limitar el **calentamiento global**.  Su Acuerdo más relevante es el de París, alcanzado en el 2015, y representa un compromiso global para limitar el **calentamiento global**. 
+
+Un segundo, es la **Convención sobre Diversidad Biológica,** adoptada en Canadá en el 2022, convirtiéndose en un hito clave en la protección de la biodiversidad global.  Su objetivo principal es proteger el 30% del **planeta**, incluyendo áreas terrestres, marinas y de agua dulce. Además, pone un fuerte énfasis en la restauración y protección de ecosistemas críticos, como las **selvas tropicales** y los humedales, que son esenciales para la **biodiversidad** y el **equilibrio climático**.  Esta es la que se realizara próximamente en Cali.
+
+Y un tercero, es la **Convención de las Naciones Unidas** para la Lucha en **Contra de la Desertificación**, que aborda la **prevención de la desertificación** y la **degradación de las tierras**, con el objetivo de promover la **gestión sostenible** de los **recursos terrestres** y mejorar la **resiliencia de las áreas afectadas** por la sequía.  Adoptada en 1994, esta **cumbre** es el único **acuerdo internacional** legalmente vinculante que une el ambiente y el **desarrollo sostenible** con la gestión y restauración de las tierras secas, que representan un tercio de la **superficie terrestre** del planeta.
+
+Las tres están interrelacionadas y apuntan a un mismo **objetivo global**, la **protección del ambiente**, para hacer frente a la triple **crisis planetaria**: el cambio climático, la pérdida de la **biodiversidad** y la **contaminación**.
 
 Crisis en el sector energético (parte 5)
 ========================================
@@ -118,35 +395,56 @@ Es fácil botar la pelotita a los demás, pero no lo haré, más bien se puede e
 
 ¿Cómo lograr un **adecuado equilibrio** y transparencia en el **mercado** de generación para que sea competitivo y **transparente** con la actual **generación estatal** y como regular la participación en este mercado mayorista de los **actores privados**?
 
-Paz con la naturaleza: COP 16
-=============================
+Cartas a Quito / 18 de octubre de 2024
+======================================
 
-La COP 16 en Cali abordará la conservación de la biodiversidad y la distribución equitativa de beneficios genéticos.
---------------------------------------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este viernes 18 de octubre de 2024
+------------------------------------------------------------------
 
-![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-Entre los días 21 de octubre y 1 de noviembre se desarrollará en Cali, Colombia la COP 16 (Conferencia de las Partes), del **Convenio de las Naciones Unidas para la Diversidad Biológica**, bajo el sugestivo nombre de “**Paz con la Naturaleza**”, en un país que cuenta con una riquísima biodiversidad, pero escasa paz entre sus habitantes desde hace medio siglo.
+**Necesitamos una canción**. **Evoco las Palabras de mi Maestro Alfredo Pérez Guerrero** 
+-----------------------------------------------------------------------------------------
 
-En este encuentro, representantes de todo el mundo trabajarán para avanzar en la **conservación** y uso sostenible de la **biodiversidad**.  
+“El país debe comenzar una nueva era, y para llegar a la Tierra de Promisión, es menester que hagamos un examen de conciencia todos los ecuatorianos y que, arrepentidos de nuestras culpas, de nuestros errores y de nuestros crímenes, unamos las pocas fuerzas que nos quedan en el alma que son únicas que importan para seguir el viaje. Quizás, si en ello nos empeñamos y si en ello ponemos fe, amor y tenacidad, podemos bordear la roca contra la cual parece va a estrellarse definitivamente la vida de nuestro pueblo.” 
 
-Al ser la primera COP desde la adopción del **Marco Mundial de Biodiversidad de Kunming-Montreal**, celebrada en diciembre de 2022, uno de sus objetivos será la revisión y medición del cumplimiento de lo acordado, por parte de aquellos países que la suscribieron.
+“Quizá lo único que hace falta para nuestro viaje es una canción. El que la invente será nuestro abanderado y nuestro guía. No necesitamos aeroplanos supersónicos, ni proyectiles deformes con su carga de átomos despedazados; no nos hacen falta dólares ni las libras esterlinas no los rublos, no nos sirven los antibióticos, ni los elixires prolongadores de la juventud y retardadores de la muerte, no nos importan los discursos académicos, ni el pro ni el contra de los leguleyos, ni la tesis y antítesis de los dialécticos, ni los sermones hipócritas y dulzones que pretenden enredarnos y robarnos nuestra alegría.” 
 
-Se prevé que las Partes muestren la alineación de sus **Estrategias y Planes de Acción** en materia de **Diversidad Biológica** con lo acordado hace dos años.  Otro objetivo será finalizar y operacionalizar el **mecanismo multilateral** sobre participación **justa y equitativa** de los **beneficios** derivados del uso de **información digital** sobre secuencias de recursos genéticos.
+“Solo necesitamos una canción, una canción simple que sea como una bandada de alondras o como un ramo de rosas o como un astro al amanecer; que brote de los pechos y de los labios cuál surtidor de aguas cristalinas; que nos levante de nuestro desfallecimiento, cierre nuestras heridas sangrantes, descorra los opacos velos que enturbian nuestra mirada, y nos devuelva el latido fuerte de nuestro corazón de hombres.” 
 
-Colombia y su actual gobierno presidido por Gustavo Petro, viene de manera reiterada exponiendo en todos los **foros internacionales**, que la **humanidad** camina hacia su **extinción**, si acaso no se hace un giro drástico en la extracción, uso y consumo de combustibles fósiles, a pesar de que su principal rubro de **exportación** es el **petróleo**, generando por ello, un fuerte **debate interno**.
+“Cantemos nuestro canto de hombres que tienen fe y virilidad, y que están dispuestos a defender y a salvar “lo único que importa”. Encarguemos a los poetas que tracen las líneas de la estrofa, y dejemos que la música sea cambiante, que tenga del arrullo y del trino y también del rugir de la tormenta.” 
 
-Su constante **denuncia** del **cambio climático** explica que Colombia postulara y obtuviera el ser sede de este importante **evento internacional**, el más relevante ocurrido en dicho país desde que en 1995 se realizara en Cartagena de Indias la **Cumbre de los Países No Alineados**.
+“Luego de tantos años de dolor y fracaso, entreguemos las insignias de nuestro poderío en las manos fuertes, sanas y preparadas en los problemas del país, a la juventud, ya que nosotros, hombres maduros, hemos conducido al país a esta encrucijada. Que sea la juventud que no tiene prejuicios, ni cadenas, ni consignas, las que levanta sobre sus brazos fuertes el Arca Santa que contiene las esencias del ser humano.” 
 
-Es importante contextualizar esta COP 16, puesto que desde 1992, durante la **Cumbre de la Tierra**, celebrada en Río de Janeiro, se establecieron tres acuerdos claves para coordinar esfuerzos internacionales para abordar los **problemas ambientales globales.** 
+Jorge Enríquez Páez  
 
-Así, la **Convención Marco de las Naciones Unidas sobre el Cambio Climático,** es el primero, más conocido e importante en **temas ambientales**.  Su principal objetivo es el reducir las emisiones de gases de efecto invernadero para limitar el **calentamiento global**.  Su Acuerdo más relevante es el de París, alcanzado en el 2015, y representa un compromiso global para limitar el **calentamiento global**. 
+El voto latino y su impacto en las elecciones de EE. UU.
+========================================================
 
-Un segundo, es la **Convención sobre Diversidad Biológica,** adoptada en Canadá en el 2022, convirtiéndose en un hito clave en la protección de la biodiversidad global.  Su objetivo principal es proteger el 30% del **planeta**, incluyendo áreas terrestres, marinas y de agua dulce. Además, pone un fuerte énfasis en la restauración y protección de ecosistemas críticos, como las **selvas tropicales** y los humedales, que son esenciales para la **biodiversidad** y el **equilibrio climático**.  Esta es la que se realizara próximamente en Cali.
+El voto latino es clave en las elecciones estadounidenses y puede influir en reformas migratorias y relaciones con América Latina.
+----------------------------------------------------------------------------------------------------------------------------------
 
-Y un tercero, es la **Convención de las Naciones Unidas** para la Lucha en **Contra de la Desertificación**, que aborda la **prevención de la desertificación** y la **degradación de las tierras**, con el objetivo de promover la **gestión sostenible** de los **recursos terrestres** y mejorar la **resiliencia de las áreas afectadas** por la sequía.  Adoptada en 1994, esta **cumbre** es el único **acuerdo internacional** legalmente vinculante que une el ambiente y el **desarrollo sostenible** con la gestión y restauración de las tierras secas, que representan un tercio de la **superficie terrestre** del planeta.
+![Donald Trump y Kamala Harris buscan la presidencia de EE.UU. La elección será el 5 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/trump.jpg)
 
-Las tres están interrelacionadas y apuntan a un mismo **objetivo global**, la **protección del ambiente**, para hacer frente a la triple **crisis planetaria**: el cambio climático, la pérdida de la **biodiversidad** y la **contaminación**.
+Las elecciones presidenciales de **Estados Unidos** del próximo 5 de noviembre se presentan como un escenario crucial, especialmente para la comunidad latina, que ha demostrado ser un electorado decisivo en los últimos años. Con una población latina que supera los 62 millones, su participación puede inclinar la balanza en estados clave y determinar el rumbo de políticas que afectan no solo a los inmigrantes, sino también a las relaciones de EE. UU. con países latinoamericanos como **Venezuela, México, Brasil, Nicaragua y Argentina.** A medida que se acercan las elecciones, es fundamental analizar cómo el voto latino puede influir en las reformas migratorias y la política exterior estadounidense.
+
+> La comunidad latina ha crecido significativamente en EE. UU. y se ha convertido en una fuerza electoral que no puede ser ignorada.
+
+En las elecciones de 2020, a**proximadamente el 50%** de los votantes latinos eligieron a **Joe Biden**, lo que fue crucial para su victoria. Este año, se espera que la participación latina sea igualmente relevante, ya que muchos votantes están motivados por temas como la inmigración, la justicia social y el acceso a la salud.
+
+Uno de los temas más apremiantes para los votantes latinos es la reforma migratoria. La administración Biden prometió avanzar en un camino hacia la ciudadanía para millones de inmigrantes indocumentados, así como mejorar las condiciones en los centros de detención y abordar las políticas restrictivas implementadas por administraciones anteriores.
+
+Sin embargo, la falta de avances significativos ha generado desilusión entre muchos votantes latinos. La presión sobre el próximo gobierno para implementar reformas migratorias efectivas será alta, especialmente si se considera el aumento del número de migrantes provenientes de países como Venezuela y Nicaragua. La comunidad espera que se prioricen soluciones humanitarias y se establezcan vías legales para la migración.
+
+La política exterior de EE. UU. hacia América Latina también está en juego. Las relaciones con Venezuela han sido tensas bajo el gobierno de **Nicolás Maduro**, quien ha enfrentado sanciones por violaciones a los derechos humanos y corrupción. La comunidad latina en EE. UU., especialmente aquellos con raíces venezolanas, espera que el nuevo gobierno adopte un enfoque más diplomático que contemple el apoyo a la democracia y los derechos humanos sin recurrir a medidas extremas.
+
+En cuanto a Nicaragua, bajo el liderazgo de **Daniel Ortega**, las relaciones han sido igualmente complicadas. El próximo gobierno estadounidense deberá considerar cómo abordar la crisis política en Nicaragua sin exacerbar tensiones regionales. Un enfoque equilibrado podría incluir apoyo a iniciativas democráticas mientras se evita una intervención directa que podría ser contraproducente.
+
+La relación con Argentina también merece atención. Con un nuevo gobierno en Argentina que busca fortalecer sus vínculos internacionales, EE. UU. tiene la oportunidad de colaborar en temas económicos y sociales. La comunidad latina espera que el próximo presidente estadounidense fomente una relación constructiva con Argentina, centrada en el comercio justo y la cooperación en áreas como la educación y la salud pública. Sin embargo, se debe considerar que la relación no será igual si el **Partido Demócrata se mantiene en la Casa Blanca**, ya que el presidente argentino, **Javier Milei, mantiene una estrecha relación con el candidato republicano, Donald Trump.**
+
+Se deberá tener atención a la política exterior del nuevo Gobierno mexicano. La mayoría de migrantes en EE.UU. provienen de ese país y son potenciales votantes, sin embargo, México y Washington guardan por el momento un distanciamiento prudente por la última reforma judicial.
+
+El voto latino tiene el potencial de ser un factor determinante en las próximas elecciones presidenciales de EE. UU., influyendo no solo en reformas migratorias, sino también en cómo se gestionan las relaciones con países como, México, Venezuela, Nicaragua y Argentina. La comunidad latina debe aprovechar esta oportunidad para hacer oír su voz y asegurar que sus intereses sean representados adecuadamente.
 
 Minera Fruta del Norte se pronunció tras aviso de eliminación de subsidios al sector
 ====================================================================================
@@ -661,240 +959,4 @@ Messi no pierde la emoción en las canchas
 
 En la ceremonia de la entrega del premio, otorgado por el periódico deportivo Marca por ser el futbolista con más títulos de la historia del deporte, Messi también recibió un **cuadro pintado** por el artista barcelonés José María Peña Gallardo y una **escultura** del argentino Carlos Benavídez.
 
-Messi aplaudió la elección de los dos artistas de Cataluña y Argentina. “**Son las dos casas que me representan, donde fuimos felices y somos felices junto con mi familia**. Y hoy nos toca estar en un lugar en el que también somos muy felices, que estamos disfrutando muchísimo de la ciudad, del club, de la gente nueva”, concluyó. 
-
-Incendio forestal se registra en el cerro Ilaló, en Quito
-=========================================================
-
-El incendio forestal en el Ilaló comenzó a las 15:00 de este jueves 17 de octubre.
-----------------------------------------------------------------------------------
-
-![Las llamas quemaron parte de la vegetación del volcán inactivo Ilaló](https://www.elcomercio.com/wp-content/uploads/2024/10/ilalo.jpg)
-
-Un **incendio forestal** se registró en Quito, la tarde y noche de este jueves 17 de octubre de 2024.
-
-De acuerdo con el **ECU 911**, la emergencia fue reportada en el sector del cerro **Ilaló**, al este de la ciudad, pasadas las 15:00.
-
-### Más noticias
-
-* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
-* [Taxista que provocó incendio forestal en Quito recibió medidas cautelares](https://www.elcomercio.com/actualidad/quito/taxista-formulacion-cargos-incendios-forestales-quito.html "Taxista que provocó incendio forestal en Quito recibió medidas cautelares")
-* [Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal](https://www.elcomercio.com/actualidad/quito/vecinos-bolanos-quito-levantan-tres-semanas-incendio.html "Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal")
-
-Desde ese momento se coordinó el traslado de miembros del **Cuerpo de Bomberos** de la ciudad al lugar.
-
-Durante la tarde, moradores de los sectores aledaños al volcán inactivo, como Tumbaco, La Merced y Alangasí, visualizaron una extensa **columna de humo**.
-
-Al ser consultados sobre el flagelo, los ‘casacas rojas’ informaron a las **19:55** que el incendio se encuentra **confinado**, es decir, encerrado a un espacio limitado.
-
-Hasta el cierre de esta nota, los efectivos continúan en el Ilaló, a la altura de Guangopolo, realizando el **control de las llamas**.
-
-En imágenes y videos difundidos en redes sociales se observa como el fuego se mantiene activo en una **larga columna** que quema la vegetación.
-
-> [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) saludos, incendio por el Ilaló (dirección norte sobre Guangopolo, Av. 2 de Agosto)… visto desde el sector de Mirasierra. [pic.twitter.com/FWmBGO1504](https://t.co/FWmBGO1504)
-> 
-> — Alvaro Gabriel (@ag\_aviador) [October 17, 2024](https://twitter.com/ag_aviador/status/1847065013242286400?ref_src=twsrc%5Etfw)
-
-Las cámaras de videovigilancia del ECU 911 monitorean la emergencia en **tiempo real**.
-
-Esta entidad confirmó que no hay personas heridas o fallecidas.
-
-El incendio forestal en el Ilaló ocurre luego que Quito no registrara emergencias similares en los últimos días, luego de las **numerosas alertas** que se reportaron a finales de septiembre.
-
-La llegada de las **lluvias** colaboraron para que los puntos de calor en la ciudad pararan, sin embargo, desde el lunes 14 de octubre, Quito no ha registrado **precipitaciones considerables**, sino altas temperaturas y extremos niveles de radiación solar.
-
-Cerro Ilaló
------------
-
-El Cerro Ilaló es un **volcán inactivo** y erosionado ubicado en la cordillera occidental de Ecuador, a unos 31 kilómetros al sureste de Quito.
-
-Su altitud es de 3 186 metros sobre el nivel del mar, y su última erupción se produjo hace alrededor de **1,6 millones de años**.
-
-El nombre “Ilaló” proviene de palabras en la lengua cayapa que significan “**caña y aguacate**“
-
-**_Noticia en desarrollo…_**
-
-Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?
-============================================================================
-
-El Ejecutivo deberá aprobar u objetar parcial o totalmente el proyecto de Ley de Cuidados Paliativos.
------------------------------------------------------------------------------------------------------
-
-![El proyecto de Ley de Cuidados Paliativos busca beneficiar a personas con enfermedades avanzadas o terminales. Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2021/06/operation-1.jpg)
-
-El Pleno de la **Asamblea** aprobó el proyecto de **Ley de Cuidados Paliativos**, este jueves 17 de octubre de 2024.
-
-El presidente **Daniel Noboa** deberá aceptar u objetar total o parcialmente el texto de la iniciativa legal.
-
-### Más noticias:
-
-* [Nueva ley de energía supera un paso en la Asamblea Nacional](https://www.elcomercio.com/actualidad/negocios/nueva-ley-energia-avanza-asamblea-nacional.html "Nueva ley de energía supera un paso en la Asamblea Nacional")
-* [Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-asamblea-proyecto-bases-militares-extranjeras-constitucion-reforma.html "Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras")
-
-La Asamblea aprobó el proyecto de Ley de Cuidados Paliativos por **unanimidad**.
-
-Este proyecto cuenta con el respaldo de **asociaciones y fundaciones** de la sociedad civil.
-
-Beneficiarios del proyecto de Ley de Cuidados Paliativos, aprobado por la Asamblea
-----------------------------------------------------------------------------------
-
-El proyecto de Ley de Cuidados Paliativos busca brindar y garantizar una **atención integral** a personas con cierto tipo de enfermedades.
-
-La intención es que estas personas puedan vivir con dignidad, en **cualquier etapa** de su enfermedad.
-
-El proyecto pretende establecer un marco normativo en beneficio de las personas que padecen una **enfermedad avanzada, progresiva, incurable**, de síntomas múltiples, intensos y cambiantes.
-
-“Esta atención, sin duda, va a proporcionar, desde el diagnóstico de una enfermedad avanzada o incurable, adaptándose a las necesidades tanto del paciente como de su familia”, señaló la presidenta de la Asamblea, **Viviana Veloz**.
-
-El proponente del proyecto, **Humberto Tapia**, dijo que la iniciativa garantiza un acceso integral a estos servicios.
-
-Esto, en todas las modalidades de cuidados paliativos, en los ámbitos público y privado.
-
-Además, asegura el acompañamiento y soporte a las familias de los pacientes, mediante la implementación efectiva del **Sistema Nacional de Cuidados Paliativos**.
-
-El proyecto define a los cuidados paliativos como “**la asistencia activa, holística, de personas de todas las edades con sufrimiento grave relacionado con la salud, debido a una enfermedad severa** y, especialmente, de quienes están cerca del final de la vida”.
-
-Crea el subsistema de capacitación en cuidados paliativos y establece el **voluntariado**.
-
-Los asambleístas señalaron que, con este proyecto, se da un paso trascendental en el reconocimiento de las personas que atraviesan la última etapa de su vida, con **enfoque integral**, que alivie el sufrimiento en situación crítica y de sus familiares.
-
-Respaldo al proyecto de Ley de Cuidados Paliativos
---------------------------------------------------
-
-La presidenta de la **Asociación Ecuatoriana de Cuidados Paliativos, Viviana Araujo**, manifestó que este es un derecho humano, porque nadie debe enfrentar el dolor sin un acompañamiento.
-
-Araujo informó que, en **Ecuador**, 79 mil personas sufren severamente y que necesitan cuidados paliativos, de ellas, cinco mil son niños.
-
-**Alberto Vittorio, director Administrativo del Hospice San Camilo**, señaló que los cuidados paliativos respetan la dignidad de la persona y le permiten irse y despedirse de su familia en paz.
-
-El Nacional tiene como gran objetivo ganar la Copa Ecuador
-==========================================================
-
-El Nacional se encuentra en las semifinales de la Copa Ecuador y pone al torneo como prioridad en la temporada 2024.
---------------------------------------------------------------------------------------------------------------------
-
-![Charles Vélez de El Nacional celebra la clasificación a las semifinales de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241002130719-fbl-copa-ecuador-liga-nacional-scaled.jpg)
-
-**El Nacional** consiguió la clasificación a las semifinales de la Copa Ecuador y tiene claras sus prioridades para el 2024. Tras haber llegado a la penúltima fase del torneo, el equipo lo tiene como prioridad con relación a la **Liga Pro** y busca coronarse campeón.
-
-Los puros criollos atraviesan un dulce momento tras haber eliminado a **Liga de Quito** en la Copa Ecuador y haber vencido a **Barcelona** en el certamen liguero. Pese a ello, el equipo vive realidades distintas en las dos competencias.
-
-### Más noticias:
-
-* [El Nacional brindó un reconocimiento a los bomberos tras incendios](https://www.elcomercio.com/deportes/el-nacional-reconocimiento-bomberos-incendio.html "El Nacional brindó un reconocimiento a los bomberos tras incendios")
-* [El Nacional goleó a Barcelona SC, en Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-goleo-a-barcelona-sc.html "El Nacional goleó a Barcelona SC, en Quito")
-* [El Nacional, a tres partidos de cortar 18 años sin títulos](https://www.elcomercio.com/deportes/futbol/el-nacional-copa-ecuador-titulos.html "El Nacional, a tres partidos de cortar 18 años sin títulos")
-
-Si bien el equipo criollo se encuentra en las semifinales del evento copero, a nivel de la Liga Pro busca un cupo a torneos internaciones en la **tabla acumulada** y en la segunda etapa está en el séptimo puesto. Dentro del primer torneo mencionado, el equipo no solo puede levantar una nueva presea, sino asegurarse un cupo en la **Copa Libertadores.**
-
-A raíz del contexto que atraviesa la escuadra, **Marco Pazos** -presidente de El Nacional- se refirió a los objetivos de la temporada. En diálogo con la radio Mach Deportes especificó las aspiraciones durante este jueves 17 de octubre del 2024[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
-
-“**La prioridad es la Copa Ecuador. Soñamos con levantarla. Hace 18 años que no hemos logrado un título**“, manifestó el principal del ‘Bi-Tri’.
-
-¿David Cabezas se queda en El Nacional?
----------------------------------------
-
-Pazos también se refirió a la situación económica del club y a lo que se debe realizar para equilibrar cuentas en el ‘Rojo’. Más allá de los premios que el equipo puede recibir si ganar la **Copa Ecuador**, este se refirió al interés de otros clubes en sus jugadores y a potenciales transferencias.
-
-“**Para lograr financiar y equilibrar el presupuesto, debemos vender un par de jugadores**“, sostuvo el dirigente. Dentro de aquellos potenciales ingresos por el traspaso de derechos económicos y federativos, el directivo se refirió al caso de **David Cabezas.**
-
-Con respecto al arquero de 29 años del ‘Bi-Tri’, este señaló que existen ofertas que serán analizadas. El guardameta es una de las figuras del equipo criollo y ha sido su mejor futbolista y uno de los más destacados de la **Liga Pro** durante la segunda etapa.
-
-¿Cuándo será la semifinal de El Nacional en la Copa Ecuador?
-------------------------------------------------------------
-
-Las semifinales de la **Copa Ecuador** están constituidas por partidos de ida y vuelta. A partir del marcador global se definirá el finalista de cada llave, que irá al último duelo que sí será uno solo.
-
-El Nacional deberá enfrentar a **Mushuc Runa** el miércoles 23 de octubre del 2024 en Latacunga y luego lo hará en el Estadio Olímpico Atahualpa de Quito durante el 31 de octubre. El equipo que triunfe en dicha fase jugará la final ante **Universidad Católica** o **Independiente del Valle**.
-
-Interpol deportó a ecuatoriano desde Panamá
-===========================================
-
-El ciudadano deportado tenía notificación azul de la Interpol por el delito de delincuencia organizada.
--------------------------------------------------------------------------------------------------------
-
-![Interpol, junto con Migración de Panamá, entregó al ciudadano a las autoridades de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/migracion-panama.jpg)
-
-Un **ecuatoriano** requerido por la justicia nacional fue **deportado** desde **Panamá**, este jueves 17 de octubre de 2024.
-
-La Policía Internacional (**Interpol**), en coordinación con las autoridades de Ecuador, identificó y capturó a **Robinson P.** en el país centroamericano.
-
-### Más noticias
-
-* [Policía encontró droga oculta en insólito lugar](https://www.elcomercio.com/actualidad/quito/policia-droga-oculta-canes-quito.html "Policía encontró droga oculta en insólito lugar")
-* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
-* [‘Colada morada’ con droga se encontró en Quito](https://www.elcomercio.com/actualidad/seguridad/colada-morada-droga-se-encontro-quito.html "‘Colada morada’ con droga se encontró en Quito")
-
-La Unidad Judicial Penal de **Santo Domingo de los Tsáchilas** investiga al ciudadano desde 2022, por el presunto delito de **extorsión**.
-
-El 21 de octubre de ese año, el implicado le habría exigido una fuerte cantidad de dinero a una persona a cambio de devolverle un **vehículo robado**.
-
-Tras su llegada a Ecuador, la Policía puso a Robinson P. a cargo de las **autoridades provinciales**.
-
-Deportado tenía notificación azul de Interpol
----------------------------------------------
-
-El individuo tenía una **notificación azul** de la Interpol por **delincuencia organizada**.
-
-Este tipo de alerta se utiliza para obtener información sobre la identidad, paradero y actividades de una persona que puede estar involucrada en un delito o que posee información relevante.
-
-A diferencia de la **notificación roja**, que se emite para solicitar la detención de una persona ya acusada, la notificación azul se expide para identificar a un involucrado en una **investigación activa**.
-
-> CAPTURADO CIUDADANO CON NOTIFICACIÓN AZUL DE [#INTERPOL](https://twitter.com/hashtag/INTERPOL?src=hash&ref_src=twsrc%5Etfw) POR DELITO DE DELINCUENCIA ORGANIZADA  
->   
-> Mediante coordinación con [@INTERPOL\_HQ](https://twitter.com/INTERPOL_HQ?ref_src=twsrc%5Etfw), se efectuó la detención Robinson P., en [#Panamá](https://twitter.com/hashtag/Panam%C3%A1?src=hash&ref_src=twsrc%5Etfw). El implicado fue deportado desde ese país hasta [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw), al ser requerido por la Unidad… [pic.twitter.com/2npmf2OqZu](https://t.co/2npmf2OqZu)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 17, 2024](https://twitter.com/PoliciaEcuador/status/1847035999425110191?ref_src=twsrc%5Etfw)
-
-Deportado uno de los Más Buscados de Colombia
----------------------------------------------
-
-El **Ministerio del Interior**, a través de la Subsecretaría de Migración y la Policía Nacional, deportó a un ciudadano a **Colombia** por considerarlo como “una **amenaza** o riesgo para el Estado”.
-
-**Víctor V.** tenía notificación azul de Interpol al mantener **dos órdenes de captura** en el país del norte, una por homicidio agravado y otra por tráfico, fabricación o porte de estupefacientes.
-
-El individuo fue entregado por las autoridades de Ecuador a las colombianas en el puente internacional de **Rumichaca**.
-
-> 🚨URGENTE🚨  
->   
-> ¡DEPORTADO UNO DE LOS MÁS BUSCADOS DE COLOMBIA![#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw)  
->   
-> ▶️ Funcionarios de la Subsecretaría de Migración, en conjunto con la Dirección General de Inteligencia de la Policía Nacional del Ecuador realizaron la deportación de Víctor V., ciudadano colombiano, quien… [pic.twitter.com/XCOIpaSbjq](https://t.co/XCOIpaSbjq)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [October 17, 2024](https://twitter.com/MinInteriorEc/status/1847055979487072592?ref_src=twsrc%5Etfw)
-
-Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne
-=================================================================================
-
-Liam Payne murió el pasado miércoles tras caer del tercer piso de un hotel de Buenos Aires, Argentina.
-------------------------------------------------------------------------------------------------------
-
-![Liam Payne murió a los 31 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo185.jpg)
-
-Los exintegrantes de **[One Direction](https://www.onedirectionmusic.com/gb/home.html "https://www.onedirectionmusic.com/gb/home.html")**, Harry Styles, Zayn Malik, Louis Tomlinson y Niall Horan, expresaron su profundo dolor tras la muerte de **Liam Payne**, ocurrida el pasado miércoles en un hotel de Buenos Aires.
-
-En un comunicado publicado en **Instagram**, los músicos se declararon “completamente devastados” y anunciaron que tomarán un tiempo para “llorar y procesar” la pérdida de su “hermano”.
-
-### **Más noticias:**
-
-* [Liam Payne dejó un gran ‘desorden’ en la habitación del hotel antes de morir](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-desorden-habitacion-hotel-alcohol.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-desorden-habitacion-hotel-alcohol.html")
-* [Policía dio nueva información de la muerte de Liam Payne, ex One Direction](https://www.elcomercio.com/tendencias/entretenimiento/policia-informacion-muerte-liam-payne.html "https://www.elcomercio.com/tendencias/entretenimiento/policia-informacion-muerte-liam-payne.html")
-* [Liam Payne compartió con Cristiano Ronaldo en el Real Madrid](https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html "https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html")
-
-**Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne**
--------------------------------------------------------------------------------------
-
-El mensaje destaca la importancia de Payne en sus vidas y en la banda, afirmando que “atesorarán para siempre los recuerdos” compartidos.
-
-Los cuatro artistas enfatizan que sus pensamientos están con la familia, amigos y fans de **Payne**, quien tenía 31 años al momento de su fallecimiento.
-
-Louis Tomlinson, en un mensaje separado, recordó su relación con **Liam**, a quien describió como el “buen hermano que había deseado toda mi vida”.
-
-En su tributo, **Tomlinson** reconoció el talento de Payne como compositor y su contribución vital a la banda. “Liam era en mi opinión la parte más vital de One Direction”.
-
-**La familia de Liam Payne está devastada por su muerte**
----------------------------------------------------------
-
-La muerte de Liam Payne llevó a la Fiscalía argentina a calificar el caso como “muerte dudosa”. Según informes, el músico cayó desde el tercer piso de su hotel y se investiga si sufrió un brote relacionado con el abuso de sustancias.
-
-La familia de Payne, devastada por la pérdida, recordó al artista como alguien con “alma amable, divertida y valiente”. El primer ministro británico, Keir Starmer, también ofreció sus condolencias.
+Messi aplaudió la elección de los dos artistas de Cataluña y Argentina. “**Son las dos casas que me representan, donde fuimos felices y somos felices junto con mi familia**. Y hoy nos toca estar en un lugar en el que también somos muy felices, que estamos disfrutando muchísimo de la ciudad, del club, de la gente nueva”, concluyó.
