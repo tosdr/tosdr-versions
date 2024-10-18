@@ -131,7 +131,7 @@ Consent\*
 
 CAPTCHA
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
