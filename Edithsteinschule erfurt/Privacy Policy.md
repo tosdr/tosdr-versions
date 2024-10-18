@@ -32,7 +32,6 @@ Schalte Navigation
     * [Teestube](https://www.ess-erfurt.de/teestube/)
 * [Eltern](#)
     * [Noteneinsicht X-School](https://www.ess-erfurt.de/noteneinsicht-x-school/)
-    * [Elternbriefe](https://www.ess-erfurt.de/elternbriefe-2/)
     * [Elternvertretung](https://www.ess-erfurt.de/elternvertretung/)
     * [Freistellung](https://www.ess-erfurt.de/freistellung/)
     * [Sprechzeiten](https://www.ess-erfurt.de/lehrersprechzeiten/)
@@ -331,22 +330,6 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**17.09.2024**
-
-19.30 Uhr Elternsprechersitzung in der Aula
-
-**15.10.2024**
-
-18.30 Uhr Schulkonferenz im Raum 3.12
-
-**16.10.2024**
-
-verkürzter Unterricht ab 1. Stunde wegen pädagogischen Konferenzen
-
-**17.10.2024**
-
-ab 13.00 Uhr Berufsbörse für 9d/10abcd/11abcd
-
 **01.11.2024**
 
 schulfreier Tag
@@ -390,7 +373,6 @@ schulfreier Tag
     * [Teestube](https://www.ess-erfurt.de/teestube/)
 * [Eltern](#)
     * [Noteneinsicht X-School](https://www.ess-erfurt.de/noteneinsicht-x-school/)
-    * [Elternbriefe](https://www.ess-erfurt.de/elternbriefe-2/)
     * [Elternvertretung](https://www.ess-erfurt.de/elternvertretung/)
     * [Freistellung](https://www.ess-erfurt.de/freistellung/)
     * [Sprechzeiten](https://www.ess-erfurt.de/lehrersprechzeiten/)
