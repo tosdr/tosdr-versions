@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### About last night
+
+[Comedian's scorching takedown of Dems at Al Smith dinner goes viral: 'Murder of an entire political party'](https://nypost.com/2024/10/18/us-news/comedian-jim-gaffigans-takedown-of-kamala-harris-at-al-smith-dinner-goes-viral/)
+
 Privacy Notice Highlights
 =========================
 
