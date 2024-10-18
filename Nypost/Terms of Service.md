@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### About last night
+#### Breaking News
 
-[Comedian's scorching takedown of Dems at Al Smith dinner goes viral: 'Murder of an entire political party'](https://nypost.com/2024/10/18/us-news/comedian-jim-gaffigans-takedown-of-kamala-harris-at-al-smith-dinner-goes-viral/)
+[Liam Payne’s girlfriend, Kate Cassidy, breaks her silence after One Direction singer’s death](https://pagesix.com/2024/10/18/celebrity-news/liam-paynes-girlfriend-kate-cassidy-speaks-out-on-former-one-direction-singers-death/)
 
 Terms Of Use
 ============
