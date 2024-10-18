@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/3819.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/3600.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -92,9 +92,9 @@ Visitez l'une de nos quelques environ
 
 Jusqu'à 25%de rabais sur une sélection de moniteurs de HP, ASUS, AOC et PHILIPS](https://www.microspot.ch/fr/cms/actions-moniteurs)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0689-CM3-Promos-KW415.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzODAyN3xpbWFnZS9qcGVnfGFEZGtMMmd4WWk4NE5qQjRORGcwWDBreU5GOHdOamc1WDBOTk0xOVFjbTl0YjNOZlMxYzBNVFV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJPRGxmUTAwelgxQnliMjF2YzE5TFZ6UXhOUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8MzBhMzRlMDU3NDA3ZmVkYzI2NjVjYjEzYWVhZmRlZWQ1MDYxZDNiODJjZjg0NTJkNWQ2Y2M0MWQxOWE5ZThmNQ&w=2360&q=75)
+[![Apple](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0679-CM2-Promos-KW397.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NzA2MnxpbWFnZS9qcGVnfGFHTmpMMmcwTnk4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVGN1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJOemxmUTAweVgxQnliMjF2YzE5TFZ6TTVOeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Zjg0NWQ0NGRmYjlhMDkwM2MwZWJlYjE1N2NjMmY0MTdiODg2N2JkMmJkN2E2MTc0ODg1YTgzYWY2MWQzNjQxMA&w=2360&q=75)
 
-ACTIONDe nettoyage d'automne](https://www.microspot.ch/fr/cms/actions-nettoyage-aspirateurs)
+10%Rabais sur une sélection de MacBook Air](https://www.microspot.ch/fr/cms/macbook)
 
 Autres actions ici
 
@@ -209,17 +209,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Frais de port gratuits pour livraison
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
