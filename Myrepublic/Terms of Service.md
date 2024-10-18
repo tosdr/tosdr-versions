@@ -422,7 +422,7 @@ Broadband
 Promotions
 ----------
 
-[![Carousel-Banner-Broadband](data:image/svg+xml;nitro-empty-id=Mjc2NDozODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
+[![](data:image/svg+xml;nitro-empty-id=Mjc2NDozNjE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
 
 ### [Stream, Surf and Game with Ultra-Fast Broadband from $37.99/mth](https://myrepublic.net/sg/broadband-promotions)
 
@@ -446,7 +446,7 @@ Other Benefits
 Promotions
 ----------
 
-[![Carousel-Banner-Broadband](data:image/svg+xml;nitro-empty-id=Mjg0NTozODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
+[![](data:image/svg+xml;nitro-empty-id=Mjg0NTozNjE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
 
 ### [Stream, Surf and Game with Ultra-Fast Broadband from $37.99/mth](https://myrepublic.net/sg/broadband-promotions)
 
