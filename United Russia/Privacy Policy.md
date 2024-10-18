@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» получила награду международного конкурса лучших цифровых проектов и практик «BRICS Solutions Awards»](https://cdn.er.ru/media/news/October2024/suPsiSa1Tevlw8R2ZaXd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-poluchila-nagradu-mezhdunarodnogo-konkursa-luchshih-cifrovyh-proektov-i-praktik-brics-solutions-awards)
+
+[«Единая Россия» получила награду международного конкурса лучших цифровых проектов и практик «BRICS Solutions Awards»](https://er.ru/activity/news/edinaya-rossiya-poluchila-nagradu-mezhdunarodnogo-konkursa-luchshih-cifrovyh-proektov-i-praktik-brics-solutions-awards)
+
+[#Орлова](https://er.ru/activity/news?tags%5B0%5D=918) [#Сатеев](https://er.ru/activity/news?tags%5B0%5D=119210) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833)
+
+Сегодня 17:48
+
+[![«Единая Россия»: Более миллиона человек посетили первую в России передвижную выставку трофейной техники НАТО «Сила V правде – гордость и победа»](https://cdn.er.ru/media/news/October2024/IdKGBCHgqFE3cWUmozUs-small.png)](https://er.ru/activity/news/edinaya-rossiya-bolee-milliona-chelovek-posetili-pervuyu-v-rossii-peredvizhnuyu-vystavku-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda)
+
+[«Единая Россия»: Более миллиона человек посетили первую в России передвижную выставку трофейной техники НАТО «Сила V правде – гордость и победа»](https://er.ru/activity/news/edinaya-rossiya-bolee-milliona-chelovek-posetili-pervuyu-v-rossii-peredvizhnuyu-vystavku-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda)
+
+[#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286)
+
+Сегодня 15:38
+
+[![В Тюмени при поддержке «Единой России» стартовал Межрегиональный форум «Моя семья – моя крепость»](https://cdn.er.ru/media/news/October2024/rYHBg8l4KkFvOiIXpxm8-small.jfif)](https://er.ru/activity/news/v-tyumeni-pri-podderzhke-edinoj-rossii-startoval-mezhregionalnyj-forum-moya-semya-moya-krepost)
+
+[В Тюмени при поддержке «Единой России» стартовал Межрегиональный форум «Моя семья – моя крепость»](https://er.ru/activity/news/v-tyumeni-pri-podderzhke-edinoj-rossii-startoval-mezhregionalnyj-forum-moya-semya-moya-krepost)
+
+[#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#Коченов](https://er.ru/activity/news?tags%5B0%5D=1095283) [#Салмин](https://er.ru/activity/news?tags%5B0%5D=13104) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#ОтцыРоссии](https://er.ru/activity/news?tags%5B0%5D=1095808) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньОтца](https://er.ru/activity/news?tags%5B0%5D=1092263)
+
+Сегодня 15:00
+
 [![«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://cdn.er.ru/media/news/October2024/UjueGdt0PTXBqzXJ1JcE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
 
 [«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
@@ -322,30 +346,6 @@
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171)
 
 17.10.24
-
-[![«Единая Россия» подключится к разработке госстандарта для проведения квестов](https://cdn.er.ru/media/news/October2024/T3hTpp0vDc2vDffLvOJ4-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-podklyuchitsya-k-razrabotke-gosstandarta-dlya-provedeniya-kvestov)
-
-[«Единая Россия» подключится к разработке госстандарта для проведения квестов](https://er.ru/activity/news/edinaya-rossiya-podklyuchitsya-k-razrabotke-gosstandarta-dlya-provedeniya-kvestov)
-
-[#Шапошников](https://er.ru/activity/news?tags%5B0%5D=3789) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#квесты](https://er.ru/activity/news?tags%5B0%5D=101108) [#квест-игры](https://er.ru/activity/news?tags%5B0%5D=97183) [#развлечения](https://er.ru/activity/news?tags%5B0%5D=47330)
-
-17.10.24
-
-[![Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://cdn.er.ru/media/news/October2024/0fudalmTeilGZxFYrTus-small.JPG)](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
-
-[Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Иванков](https://er.ru/activity/news?tags%5B0%5D=92573) [#Роструд](https://er.ru/activity/news?tags%5B0%5D=30255) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#МояКарьерасЕдинойРоссией](https://er.ru/activity/news?tags%5B0%5D=1093129) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#профориентация](https://er.ru/activity/news?tags%5B0%5D=6397) [центрызанятости](https://er.ru/activity/news?tags%5B0%5D=153605) [#рыноктруда](https://er.ru/activity/news?tags%5B0%5D=112742) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642)
-
-17.10.24
-
-[![Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://cdn.er.ru/media/news/October2024/Ts1ybY83k6Rmib8BUaPe-small.jpg)](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
-
-[Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
-
-[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#региональныеотделения](https://er.ru/activity/news?tags%5B0%5D=140130) [#РИК](https://er.ru/activity/news?tags%5B0%5D=123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-16.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
