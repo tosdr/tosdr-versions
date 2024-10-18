@@ -81,7 +81,7 @@ Trending Posts
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
+* [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 
 Close
 
@@ -145,7 +145,7 @@ Trending Posts
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
+* [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 
 [Skip to content](#main)
 
