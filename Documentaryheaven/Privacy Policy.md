@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Interview with a Poltergeist](/wp-content/thumbnails/8167-100x70.png?x53432)
+* [![Soul Rebel: Dub, Reggae & Sound System Culture](/wp-content/thumbnails/7443-100x70.jpg?x53432)
     
-    Interview with a Poltergeist
+    Soul Rebel: Dub, Reggae & Sound System Culture
     
-    The Enfield Poltergeist was a period of apparent poltergeist activity which occurred in the village of Brimsdown, in the borough of Enfield, England. The activity began when single parent, Peggy Hodgs](https://documentaryheaven.com/interview-with-poltergeist/ "Interview with a Poltergeist")
-* [![The FIFA Story](/wp-content/thumbnails/10148-100x70.jpg?x53432)
+    This short documentary explores the spiritual experience and message behind Reggae music and Dub culture. This film is an exploration of the the UK Dub, sound system phenomena, from the role of the so](https://documentaryheaven.com/soul-rebel/ "Soul Rebel: Dub, Reggae & Sound System Culture")
+* [![Uncle Saddam](/wp-content/thumbnails/5467-100x70.jpg?x53432)
     
-    The FIFA Story
+    Uncle Saddam
     
-    FIFA is one of those video games that everyone has played, when you think of football games you think of FIFA. The game franchise was originally released back in 1993 and since then EA Sports have inc](https://documentaryheaven.com/fifa-story/ "The FIFA Story")
-* [![The Cleveland Strangler](/wp-content/thumbnails/10217-100x70.jpg?x53432)
+    Uncle Saddam is a satirical yet sobering look inside the world of Iraqi president Saddam Hussein. Featuring narration written by Scott Thompson of “The Kids in the Hall” and the voice of Wallace Langh](https://documentaryheaven.com/uncle-saddam/ "Uncle Saddam")
+* [![Obama’s Real Reason He Wants Your Guns](/wp-content/thumbnails/6936-100x70.png?x53432)
     
-    The Cleveland Strangler
+    Obama’s Real Reason He Wants Your Guns
     
-    They say that death is the great equalizer, that no matter who you are or where your from we all turn to dust in the end but in Cleveland where Wilbert L. Cooper was born and raised life has long been](https://documentaryheaven.com/the-cleveland-strangler/ "The Cleveland Strangler")
-* [![Visions of the Future](/wp-content/thumbnails/1760-100x70.jpg?x53432)
+    Christopher Greene examines the “real reason” President Obama wants your guns and while doing that he explicitly claims the following:In many ways America seems to be making the same mistakes as Ger](https://documentaryheaven.com/obamas-real-reason-he-wants-your-guns/ "Obama’s Real Reason He Wants Your Guns")
+* [![On A Knife Edge](/wp-content/thumbnails/14254-100x70.jpg?x53432)
     
-    Visions of the Future
+    On A Knife Edge
     
-    In this new three-part documentary, leading theoretical physicist and futurist Dr Michio Kaku explores the cutting edge science of today, tomorrow, and beyond. He argues that humankind is at a turning](https://documentaryheaven.com/visions-of-the-future/ "Visions of the Future")
-* [![One Night In Cologne](/wp-content/thumbnails/11740-100x70.jpg?x53432)
+    London, the capital of the United Kingdom is currently going through what could only be described as an epidemic. In the last few years there have been a record breaking amount of knife-related murder](https://documentaryheaven.com/knife-edge/ "On A Knife Edge")
+* [![Air France Flight 447 Crash](/wp-content/thumbnails/8683-100x70.jpg?x53432)
     
-    One Night In Cologne
+    Air France Flight 447 Crash
     
-    In the last year more than 1 million asylum seekers, many flocked when the German chancellor Angela Merkel declared the borders open to Syrians. However a panicked Europe is now locking down on who it](https://documentaryheaven.com/one-night-in-cologne/ "One Night In Cologne")
+    Air France Flight 447 was an international, long haul flight departing from Rio de Janeiro, heading towards Paris. On the 1st of June 2009 the flight crashed into the Atlantic Ocean. All passengers an](https://documentaryheaven.com/air-france-flight-447-crash/ "Air France Flight 447 Crash")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
