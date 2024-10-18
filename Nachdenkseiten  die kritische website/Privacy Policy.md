@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Ein umfassendes Gespräch mit der Weltwoche](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230724-Weltwoche.png "Ein umfassendes Gespräch mit der Weltwoche")](https://www.nachdenkseiten.de/?p=101625)
+[![Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/04/230418-Gespraech-Ganser-Mueller-TitelbildKasten.jpg "Daniele Ganser im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=96507)
 
-* [Ein umfassendes Gespräch mit der Weltwoche](https://www.nachdenkseiten.de/?p=101625)
+* [Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=96507)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
