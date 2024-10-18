@@ -1,6 +1,6 @@
 ![](https://secure.intelligentdatawisdom.com/788945.png)              
 
-![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
+![](https://supplierlink.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
 
