@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Bret Baier Says He Made ‘A Mistake’ With Trump Clip in Harris Interview](https://www.theepochtimes.com/us/bret-baier-says-he-made-a-mistake-with-trump-clip-in-harris-interview-5743647)
+* [Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://www.theepochtimes.com/business/majority-of-americans-feel-worse-off-now-than-4-years-ago-gallup-5743697)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Bret Baier Says He Made ‘A Mistake’ With Trump Clip in Harris Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bret Baier Says He Made ‘A Mistake’ With Trump Clip in Harris Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742800-Harris-Fox-News-205x123.png.webp)](https://www.theepochtimes.com/us/bret-baier-says-he-made-a-mistake-with-trump-clip-in-harris-interview-5743647)
-* [DOE Awards $2 Billion for 38 Electric Grid Expansion, Resilience Projects Across 42 States](https://www.theepochtimes.com/us/doe-awards-2-billion-for-38-electric-grid-expansion-resilience-projects-across-42-states-5743274)
+    ![Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684758-GettyImages-2157164982-205x123.jpg.webp)](https://www.theepochtimes.com/business/majority-of-americans-feel-worse-off-now-than-4-years-ago-gallup-5743697)
+* [Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://www.theepochtimes.com/tech/heres-how-to-protect-yourself-from-new-scams-targeting-gmail-users-5743783)
     
-    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![DOE Awards $2 Billion for 38 Electric Grid Expansion, Resilience Projects Across 42 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![DOE Awards $2 Billion for 38 Electric Grid Expansion, Resilience Projects Across 42 States](https://img.theepochtimes.com/assets/uploads/2024/05/19/id5653118-Severe_Weather_Texas_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/doe-awards-2-billion-for-38-electric-grid-expansion-resilience-projects-across-42-states-5743274)
-* [Foreign Holdings of US Debt Surge to Record High of $8.5 Trillion](https://www.theepochtimes.com/us/foreign-holdings-of-us-debt-surge-to-record-high-of-8-5-trillion-5743402)
+    ![Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741301-gmail-shutterstock_1303813597-205x123.jpg.webp)](https://www.theepochtimes.com/tech/heres-how-to-protect-yourself-from-new-scams-targeting-gmail-users-5743783)
+* [DOJ Announces It Will Monitor Voting in Ohio County Over ‘Intimidation’ Concerns](https://www.theepochtimes.com/us/doj-announces-it-will-monitor-voting-in-ohio-county-over-intimidation-concerns-5743733)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Foreign Holdings of US Debt Surge to Record High of $8.5 Trillion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ Announces It Will Monitor Voting in Ohio County Over ‘Intimidation’ Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Foreign Holdings of US Debt Surge to Record High of $8.5 Trillion](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738583-Dollar-GettyImages-2150540506-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/foreign-holdings-of-us-debt-surge-to-record-high-of-8-5-trillion-5743402)
-* [Homeland Security Deports Chinese Illegal Immigrants on Charter Flight](https://www.theepochtimes.com/us/homeland-security-deports-chinese-illegal-immigrants-on-charter-flight-5743406)
+    ![DOJ Announces It Will Monitor Voting in Ohio County Over ‘Intimidation’ Concerns](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705176-08122024-DSC00315-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-announces-it-will-monitor-voting-in-ohio-county-over-intimidation-concerns-5743733)
+* [Harris Campaign, Podcast Host Spar Over Claim Trump ‘Abruptly’ Ended Interview Early](https://www.theepochtimes.com/us/harris-campaign-podcast-host-spar-over-claim-trump-abruptly-ended-interview-early-5743757)
     
-    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Homeland Security Deports Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Campaign, Podcast Host Spar Over Claim Trump ‘Abruptly’ Ended Interview Early](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Homeland Security Deports Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684202-JPEG-image-4069-9E2B-98-0-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/homeland-security-deports-chinese-illegal-immigrants-on-charter-flight-5743406)
-* [Trump Attempted Assassination Suspect Ryan Routh Asks Judge to Recuse Herself From Case](https://www.theepochtimes.com/us/trump-attempted-assassination-suspect-ryan-routh-asks-judge-to-recuse-herself-from-case-5743339)
+    ![Harris Campaign, Podcast Host Spar Over Claim Trump ‘Abruptly’ Ended Interview Early](https://img.theepochtimes.com/assets/uploads/2021/10/29/GettyImages-1052717298-1200x777-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaign-podcast-host-spar-over-claim-trump-abruptly-ended-interview-early-5743757)
+* [Weight Loss Drug May Help Combat Opioid Crisis, Research Suggests](https://www.theepochtimes.com/health/weight-loss-drug-may-help-combat-opioid-crisis-research-suggests-5743723)
     
-    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    2hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
-    [![Trump Attempted Assassination Suspect Ryan Routh Asks Judge to Recuse Herself From Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Weight Loss Drug May Help Combat Opioid Crisis, Research Suggests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Attempted Assassination Suspect Ryan Routh Asks Judge to Recuse Herself From Case](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730597-GettyImages-2171592164-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-attempted-assassination-suspect-ryan-routh-asks-judge-to-recuse-herself-from-case-5743339)
-* [Trump Thanks God, Calls for Unity Amid Witty Remarks at Al Smith Dinner](https://www.theepochtimes.com/us/trump-thanks-god-calls-for-unity-amid-witty-remarks-at-al-smith-dinner-5743214)
+    ![Weight Loss Drug May Help Combat Opioid Crisis, Research Suggests](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558662-Ozempic-1482908413-1200x859-e1687553633840-205x123.jpg.webp)](https://www.theepochtimes.com/health/weight-loss-drug-may-help-combat-opioid-crisis-research-suggests-5743723)
+* [A Look at the Various Legal Issues Surrounding the 2024 Election](https://www.theepochtimes.com/article/legal-issues-ahead-of-the-2024-election-5742382)
     
-    3hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Trump Thanks God, Calls for Unity Amid Witty Remarks at Al Smith Dinner](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![A Look at the Various Legal Issues Surrounding the 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Thanks God, Calls for Unity Amid Witty Remarks at Al Smith Dinner](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743465-DSC09724-alfred-smith-dinner_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-thanks-god-calls-for-unity-amid-witty-remarks-at-al-smith-dinner-5743214)
-* [One Direction ‘Devastated’ After Liam Payne’s Death, as Autopsy Reveals Extent of Injuries](https://www.theepochtimes.com/entertainment/one-direction-devastated-after-liam-paynes-death-as-autopsy-reveals-extent-of-injuries-5743491)
+    ![A Look at the Various Legal Issues Surrounding the 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743778-Court-Election-Challenges-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/legal-issues-ahead-of-the-2024-election-5742382)
+* [Tax Underreporting, High-Income Earners’ Non-Compliance Among Major Issues Facing IRS in 2025](https://www.theepochtimes.com/us/tax-underreporting-high-income-earners-non-compliance-among-major-issues-facing-irs-in-2025-post-5743719)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![One Direction ‘Devastated’ After Liam Payne’s Death, as Autopsy Reveals Extent of Injuries](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Tax Underreporting, High-Income Earners’ Non-Compliance Among Major Issues Facing IRS in 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![One Direction ‘Devastated’ After Liam Payne’s Death, as Autopsy Reveals Extent of Injuries](https://img.theepochtimes.com/assets/uploads/2014/02/e43fe8b70eb34b074c0f6a70670004b0-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/one-direction-devastated-after-liam-paynes-death-as-autopsy-reveals-extent-of-injuries-5743491)
-* [Hezbollah Says It Will Escalate War With Israel After Death of Hamas Leader](https://www.theepochtimes.com/world/hezbollah-says-it-will-escalate-war-with-israel-after-death-of-hamas-leader-5743500)
+    ![Tax Underreporting, High-Income Earners’ Non-Compliance Among Major Issues Facing IRS in 2025](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695185-10162023-DSC07619-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/tax-underreporting-high-income-earners-non-compliance-among-major-issues-facing-irs-in-2025-post-5743719)
+* [Doctors Free to Perform Emergency Abortions in Tennessee: Judges](https://www.theepochtimes.com/us/doctors-free-to-perform-emergency-abortions-in-tennessee-judges-5743728)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Hezbollah Says It Will Escalate War With Israel After Death of Hamas Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Doctors Free to Perform Emergency Abortions in Tennessee: Judges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hezbollah Says It Will Escalate War With Israel After Death of Hamas Leader](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743280-GettyImages-1251819212-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-says-it-will-escalate-war-with-israel-after-death-of-hamas-leader-5743500)
-* [IV Fluids: Wartime Powers Used to Restore North Carolina Medical Facility Damaged by Helene](https://www.theepochtimes.com/us/iv-fluids-wartime-powers-used-to-restore-north-carolina-medical-facility-damaged-by-helene-5742819)
+    ![Doctors Free to Perform Emergency Abortions in Tennessee: Judges](https://img.theepochtimes.com/assets/uploads/2024/04/09/id5625517-justice-getty-stock-photo-court-room-courtroom-1200x720-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctors-free-to-perform-emergency-abortions-in-tennessee-judges-5743728)
+* [RNC Appeals Georgia Judge’s Ruling That Invalidates 7 Election Rules](https://www.theepochtimes.com/us/republican-national-committee-appeals-georgia-judges-ruling-that-invalidates-7-election-rules-5743693)
     
-    6hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![IV Fluids: Wartime Powers Used to Restore North Carolina Medical Facility Damaged by Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![RNC Appeals Georgia Judge’s Ruling That Invalidates 7 Election Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IV Fluids: Wartime Powers Used to Restore North Carolina Medical Facility Damaged by Helene](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733461-Hurricane-Helene-AP24274607077324-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/iv-fluids-wartime-powers-used-to-restore-north-carolina-medical-facility-damaged-by-helene-5742819)
-* [China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://www.theepochtimes.com/china/china-to-cut-bank-reserve-ratio-again-amid-economic-slowdown-5743474)
+    ![RNC Appeals Georgia Judge’s Ruling That Invalidates 7 Election Rules](https://img.theepochtimes.com/assets/uploads/2023/04/14/id5195100-absentee-ballots-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-national-committee-appeals-georgia-judges-ruling-that-invalidates-7-election-rules-5743693)
+* [16 Indicted for Alleged Drug Trafficking and Murders Spanning North America](https://www.theepochtimes.com/us/16-indicted-for-alleged-drug-trafficking-and-murders-spanning-north-america-5743569)
     
-    7hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    3hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![16 Indicted for Alleged Drug Trafficking and Murders Spanning North America](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741776-GettyImages-2160638464-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-to-cut-bank-reserve-ratio-again-amid-economic-slowdown-5743474)
+    ![16 Indicted for Alleged Drug Trafficking and Murders Spanning North America](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743813-CP173350511KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/16-indicted-for-alleged-drug-trafficking-and-murders-spanning-north-america-5743569)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
