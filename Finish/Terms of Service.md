@@ -26,7 +26,7 @@
         
         [Learn more](https://www.finishdishwashing.com/24-hour-challenge/)[Descrube más](https://www.finishdishwashing.com/24h-challenge-es/)
         
-    * ![Finish range](/static/1934585b924181934fccd61472ff54eb/46604/new-packshots-1.png)
+    * ![Finish range](/static/b63fc9a208a499e1eed4877c772e2e1d/b50f6/rb24_0903_finish_home-page-product-page-banners-creation_website_assets_3_v02.png)
         
         ### Ingredient Transparency
         
