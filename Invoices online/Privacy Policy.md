@@ -118,59 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=90457944)  
-VerdanTech Pty Ltd
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=186874851)  
-OrgChart Hosting Pty Ltd
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=61079852)  
-SLOANE STAR MEAT MARKET
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=27900977)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=29253863)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=49174829)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=128987885)  
-MR Compressors& Industrial Supplies
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=85552890)  
-Know Informatics
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=159335958)  
-SA Security Brokerz (Pty) Ltd
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=214293554)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=21884193)  
-CLEVER STUDENTS
-
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=26014374)  
-Safe Train Mokgethwa (PTY) Ltd
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=27135809)  
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=83992431)  
 Vplay Letsheng Mall
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=179769289)  
-AquariumSmiths
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=148762900)  
+Oukraal Merino's
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=81764071)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=18679455)  
+FJW Security Cc
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=54228735)  
+AMS Ambu Medical Supplies
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=213186139)  
+M's Frozen Delights
+
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=26549248)  
+FlipDesign - Renovation Contracting Firm
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=7290257)  
+Little Nutty Professors
+
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=146367153)  
+TurboFibre
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=66467173)  
+Goju-Ryu Pretoria East
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=172088232)  
+Highlands Auto Engineering
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=213241586)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=158080103)  
+VIR Electrical (PTY) LTD
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=101379396)  
+MSPCloud (Pty) Ltd
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=14523553)  
+MONSTER SECURITY GUARDING
+
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=92035311)  
+Echo Recording Studio cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
