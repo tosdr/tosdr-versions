@@ -12,7 +12,7 @@ Menu
     
     TOP STORIES
     
-    * [Hamas official confirms Sinwar's death, as Hezbollah vows a new phase of war with Israel](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
+    * [Israel and Hamas signal they are no closer to ending Gaza war after Sinwar's death](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
     * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
     * [Sinwar’s killing means much uncertainty for the war in Gaza but also possible opportunity](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
     * [Texas Supreme Court halts execution of man in shaken baby case after lawmakers' last-minute appeal](https://apnews.com/article/texas-execution-shaken-baby-syndrome-1ef99c052cc1630785ac5d6e2edfc9cb)
     * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
-    * [Murder trial to begin in small Indiana town in 2017 killings of two teenage girls](https://apnews.com/article/abby-libby-delphi-indiana-richard-allen-trial-9d9756a1e076edaa2f0694a2b54ab3da)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Harris and Trump target Michigan as both parties try to shore up 'blue wall' votes](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
+    * [Trump delivers a pointed and at times bitter speech at Al Smith charity dinner](https://apnews.com/article/trump-al-smith-comedy-fundraiser-219b815c343e4fb017541f4f39597c39)
     * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
-    * [Trump was asked to name three nice things about Harris. His response sounded like hers](https://apnews.com/article/trump-harris-election-22229b28388616b69c37cd145b194ad7)
-    * [The Biden administration has canceled student loans for more than 1 million in public service jobs](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
     
     Newsletters
     
@@ -74,7 +74,7 @@ Menu
     
     * [Harris will campaign with the Obamas later this month in Georgia and Michigan](https://apnews.com/article/harris-barack-michelle-obama-b31b662260f8e22131123a0d32888b56)
     * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
-    * [Biden says Western allies must keep aiding Ukraine as he meets European partners before election](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
+    * [Trump couldn't pronounce 'Assyrians.' The community is happy to be in the spotlight](https://apnews.com/article/donald-trump-assyrians-election-arizona-michigan-8cd7af1563b4b694e57736f7afc28bf9)
     
     Newsletters
     
@@ -92,7 +92,7 @@ Menu
     
     TOP STORIES
     
-    * [Mets look for biggest comeback yet after falling behind Dodgers 3-1 in NLCS](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
+    * [The Mets need their biggest comeback yet to reach the World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
     * [Fry's 2-run homer in 10th sends Guardians to stunning 7-5 win over Yankees, close to 2-1 in ALCS](https://apnews.com/article/guardians-yankees-mlb-playoffs-54dd54dd01493c61d60f6e84b24296df)
     * [Sean Payton triumphs in return to New Orleans as the Broncos dominate the Saints, 33-10](https://apnews.com/article/broncos-saints-score-0070b3eb6d8415b06f843574c3662b94)
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
-    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
-    * [Liam Payne’s 1D bandmates, James Corden and more friends and musicians mourn singer](https://apnews.com/article/liam-payne-death-reactions-one-direction-band-tribute-f08045886ebff903fbc3addc62dcb836)
+    * [BRELAND went to Selma to find himself. His ‘Project 2024' is music based on what he saw and felt](https://apnews.com/article/breland-project-2024-country-music-interview-23d79513e45c182b1ac98b7e0b40a1e1)
+    * [Reba McEntire finds a new on-screen family in NBC's 'Happy's Place'](https://apnews.com/article/reba-mcentire-happys-place-belissa-escobedo-interview-5f3e64ee173d7ca27eb02b66e62bb492)
+    * [Fox News says none of its employees wrote jokes for Trump to tell at traditional campaign dinner](https://apnews.com/article/trump-jokes-fox-writer-293d56fd6b4cd32d714f371a220cfdb0)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
     * [Wealthier Americans are driving retail spending and powering US economy](https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af)
     * [CVS Health CEO Lynch steps down as national chain struggles to right its path](https://apnews.com/article/cvs-health-ceo-lynch-joyner-56ad4f6c4fed7a293b841f7037bd71a8)
-    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     
 * [Science](https://apnews.com/science)
     
@@ -219,12 +219,12 @@ Menu
     
     TOP STORIES
     
+    * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
     * [Tech firms remove social media accounts of a Russian drone factory after an AP investigation](https://apnews.com/article/alabuga-russia-africa-ukraine-war-shahed-drones-bc175c4c98d752dc298c23434637417e)
     * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     * [A South Korean adoptee needed answers about the past. She got them — just not the ones she wanted](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
-    * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -234,15 +234,15 @@ Menu
     
     TOP STORIES
     
+    * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
+    * [Biden administration races to shell out billions for clean energy as election nears](https://apnews.com/article/clean-energy-offshore-wind-election-biden-trump-harris-4a6d561ff06841504b6713ed48c920f1)
     * [Efforts to combat deforestation in Colombia hindered because of armed groups, report finds](https://apnews.com/article/amazon-deforestation-colombia-farc-armed-dissidents-emc-90db9cef21c2b38fecf68d1d980f897c)
-    * [Thousands in North Carolina can't flush their toilets amid hurricane damage](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
-    * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
-    * [Teen smoking and other tobacco use drop to lowest level in 25 years, CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
+    * [Teen smoking just hit an all-time low in the U.S., CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
     * [Whooping cough is at a decade-high level in US](https://apnews.com/article/whooping-cough-pertussis-childhood-vaccine-02c66d962115e90c2a9bd9dd9c3138e1)
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Designers of the late Princess Diana's wedding dress settle dispute over drawings of the gown](https://apnews.com/article/britain-princess-diana-dress-dispute-drawings-1e041eb329fea4e5deaa2488daac989b)
     * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     * [King Charles III's visit rekindles Australia's debate on ending ties to the British monarchy](https://apnews.com/article/australia-king-charles-visit-sydney-dcb4baf655f28fc20068c5991f09f28f)
-    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Hamás confirma la muerte de Sinwar y Hezbollah anuncia una nueva fase en la guerra contra Israel](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Para Israel y Hamás, la guerra en Gaza no está cerca de terminar tras muerte de Sinwar](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
     * [Alemania la contribución de Biden a las relaciones transatlánticas en vísperas de elecciones en EEUU](https://apnews.com/world-news/general-news-c515131547eaa90a45c287bb3cb46891)
-    * [Medios: agencia de espionaje de Seúl cree que el Norte envió tropas para apoyar a Rusia en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
-    * [EEUU investiga sistema de conducción autónoma de Tesla tras muerte de un peatón con baja visibilidad](https://apnews.com/business/general-news-d9124d0b47418176aae27faacc7c1012)
-    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-5e9379a2244ac0e2b1ef7c7bbe0efb4a)
-    * [Texas demanda a doctora por supuesta violación de la ley que impide atención de afirmación de género](https://apnews.com/us-news/general-news-55c965405e1be9cc8e9cacfa9b715b8a)
+    * [Corea del Sur afirma que Norcorea ha enviado soldados para apoyar a Rusia en su guerra en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
+    * [Fuerzas de paz de la ONU mantienen su posición en sur de Líbano pese a advertencias de Israel](https://apnews.com/world-news/general-news-77866eaae80809f26ed277015a257a56)
+    * [EEUU investiga sistema de conducción autónoma de Tesla tras muerte de peatón arrollado](https://apnews.com/business/general-news-d9124d0b47418176aae27faacc7c1012)
+    * [Sudáfrica pide a Taiwán que traslade su embajada fuera de la capital administrativa](https://apnews.com/article/sudafrica-taiwan-china-embajada-98357817d5f4298d47b6c80ffbe30351)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,7 +459,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Hamas official confirms Sinwar's death, as Hezbollah vows a new phase of war with Israel](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
+    * [Israel and Hamas signal they are no closer to ending Gaza war after Sinwar's death](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
     * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
     * [Sinwar’s killing means much uncertainty for the war in Gaza but also possible opportunity](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
     
@@ -477,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
+    * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
     * [Texas Supreme Court halts execution of man in shaken baby case after lawmakers' last-minute appeal](https://apnews.com/article/texas-execution-shaken-baby-syndrome-1ef99c052cc1630785ac5d6e2edfc9cb)
     * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
-    * [Murder trial to begin in small Indiana town in 2017 killings of two teenage girls](https://apnews.com/article/abby-libby-delphi-indiana-richard-allen-trial-9d9756a1e076edaa2f0694a2b54ab3da)
     
     Newsletters
     
@@ -506,9 +506,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Harris and Trump target Michigan as both parties try to shore up 'blue wall' votes](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
+    * [Trump delivers a pointed and at times bitter speech at Al Smith charity dinner](https://apnews.com/article/trump-al-smith-comedy-fundraiser-219b815c343e4fb017541f4f39597c39)
     * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
-    * [Trump was asked to name three nice things about Harris. His response sounded like hers](https://apnews.com/article/trump-harris-election-22229b28388616b69c37cd145b194ad7)
-    * [The Biden administration has canceled student loans for more than 1 million in public service jobs](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
     
     Newsletters
     
@@ -533,7 +533,7 @@ Submit Search
     
     * [Harris will campaign with the Obamas later this month in Georgia and Michigan](https://apnews.com/article/harris-barack-michelle-obama-b31b662260f8e22131123a0d32888b56)
     * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
-    * [Biden says Western allies must keep aiding Ukraine as he meets European partners before election](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
+    * [Trump couldn't pronounce 'Assyrians.' The community is happy to be in the spotlight](https://apnews.com/article/donald-trump-assyrians-election-arizona-michigan-8cd7af1563b4b694e57736f7afc28bf9)
     
     Newsletters
     
@@ -561,7 +561,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Mets look for biggest comeback yet after falling behind Dodgers 3-1 in NLCS](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
+    * [The Mets need their biggest comeback yet to reach the World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
     * [Fry's 2-run homer in 10th sends Guardians to stunning 7-5 win over Yankees, close to 2-1 in ALCS](https://apnews.com/article/guardians-yankees-mlb-playoffs-54dd54dd01493c61d60f6e84b24296df)
     * [Sean Payton triumphs in return to New Orleans as the Broncos dominate the Saints, 33-10](https://apnews.com/article/broncos-saints-score-0070b3eb6d8415b06f843574c3662b94)
     
@@ -590,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
-    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
-    * [Liam Payne’s 1D bandmates, James Corden and more friends and musicians mourn singer](https://apnews.com/article/liam-payne-death-reactions-one-direction-band-tribute-f08045886ebff903fbc3addc62dcb836)
+    * [BRELAND went to Selma to find himself. His ‘Project 2024' is music based on what he saw and felt](https://apnews.com/article/breland-project-2024-country-music-interview-23d79513e45c182b1ac98b7e0b40a1e1)
+    * [Reba McEntire finds a new on-screen family in NBC's 'Happy's Place'](https://apnews.com/article/reba-mcentire-happys-place-belissa-escobedo-interview-5f3e64ee173d7ca27eb02b66e62bb492)
+    * [Fox News says none of its employees wrote jokes for Trump to tell at traditional campaign dinner](https://apnews.com/article/trump-jokes-fox-writer-293d56fd6b4cd32d714f371a220cfdb0)
     
 * [Business](https://apnews.com/business)
     
@@ -606,9 +606,9 @@ Submit Search
     
     TOP STORIES
     
+    * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
     * [Wealthier Americans are driving retail spending and powering US economy](https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af)
     * [CVS Health CEO Lynch steps down as national chain struggles to right its path](https://apnews.com/article/cvs-health-ceo-lynch-joyner-56ad4f6c4fed7a293b841f7037bd71a8)
-    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     
 * [Science](https://apnews.com/science)
     
@@ -709,12 +709,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
     * [Tech firms remove social media accounts of a Russian drone factory after an AP investigation](https://apnews.com/article/alabuga-russia-africa-ukraine-war-shahed-drones-bc175c4c98d752dc298c23434637417e)
     * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     * [A South Korean adoptee needed answers about the past. She got them — just not the ones she wanted](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
-    * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -729,15 +729,15 @@ Submit Search
     
     TOP STORIES
     
+    * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
+    * [Biden administration races to shell out billions for clean energy as election nears](https://apnews.com/article/clean-energy-offshore-wind-election-biden-trump-harris-4a6d561ff06841504b6713ed48c920f1)
     * [Efforts to combat deforestation in Colombia hindered because of armed groups, report finds](https://apnews.com/article/amazon-deforestation-colombia-farc-armed-dissidents-emc-90db9cef21c2b38fecf68d1d980f897c)
-    * [Thousands in North Carolina can't flush their toilets amid hurricane damage](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
-    * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
-    * [Teen smoking and other tobacco use drop to lowest level in 25 years, CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
+    * [Teen smoking just hit an all-time low in the U.S., CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
     * [Whooping cough is at a decade-high level in US](https://apnews.com/article/whooping-cough-pertussis-childhood-vaccine-02c66d962115e90c2a9bd9dd9c3138e1)
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
@@ -775,9 +775,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Designers of the late Princess Diana's wedding dress settle dispute over drawings of the gown](https://apnews.com/article/britain-princess-diana-dress-dispute-drawings-1e041eb329fea4e5deaa2488daac989b)
     * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     * [King Charles III's visit rekindles Australia's debate on ending ties to the British monarchy](https://apnews.com/article/australia-king-charles-visit-sydney-dcb4baf655f28fc20068c5991f09f28f)
-    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
     
 * [Religion](https://apnews.com/religion)
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Hamás confirma la muerte de Sinwar y Hezbollah anuncia una nueva fase en la guerra contra Israel](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Para Israel y Hamás, la guerra en Gaza no está cerca de terminar tras muerte de Sinwar](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
     * [Alemania la contribución de Biden a las relaciones transatlánticas en vísperas de elecciones en EEUU](https://apnews.com/world-news/general-news-c515131547eaa90a45c287bb3cb46891)
-    * [Medios: agencia de espionaje de Seúl cree que el Norte envió tropas para apoyar a Rusia en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
-    * [EEUU investiga sistema de conducción autónoma de Tesla tras muerte de un peatón con baja visibilidad](https://apnews.com/business/general-news-d9124d0b47418176aae27faacc7c1012)
-    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-5e9379a2244ac0e2b1ef7c7bbe0efb4a)
-    * [Texas demanda a doctora por supuesta violación de la ley que impide atención de afirmación de género](https://apnews.com/us-news/general-news-55c965405e1be9cc8e9cacfa9b715b8a)
+    * [Corea del Sur afirma que Norcorea ha enviado soldados para apoyar a Rusia en su guerra en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
+    * [Fuerzas de paz de la ONU mantienen su posición en sur de Líbano pese a advertencias de Israel](https://apnews.com/world-news/general-news-77866eaae80809f26ed277015a257a56)
+    * [EEUU investiga sistema de conducción autónoma de Tesla tras muerte de peatón arrollado](https://apnews.com/business/general-news-d9124d0b47418176aae27faacc7c1012)
+    * [Sudáfrica pide a Taiwán que traslade su embajada fuera de la capital administrativa](https://apnews.com/article/sudafrica-taiwan-china-embajada-98357817d5f4298d47b6c80ffbe30351)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
