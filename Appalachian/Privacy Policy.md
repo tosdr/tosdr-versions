@@ -37,9 +37,9 @@ Main Menu
 
 * [Home](https://www.appstate.edu/)
 
-* Post-Hurricane Helene Update: Oct. 11-15, 2024
+* App State will resume normal operations in Boone and Hickory on Friday, Oct. 25 at 4 p.m.
     
-    Classes at Appalachian State University will resume on Wednesday Oct. 16. On Friday Oct. 11 at 5 p.m., [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) will go into effect through 4 p.m. Oct. 25.
+    App State will resume normal operations in Boone and Hickory on Friday, Oct. 25 at 4 p.m. [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) remains in effect for non-faculty employees in Boone and Hickory until Friday, Oct. 25 at 4 p.m. [Read full message](https://appstatealert.com/)
     
 
 Appalachian Privacy Statement
