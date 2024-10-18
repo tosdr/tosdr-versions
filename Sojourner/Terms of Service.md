@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-832d2158be246aea44425bc3f3eb584c
+33f1d51b0b6b33fcc9be897dfa2fdca4
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![13 mm silver diamond pearls](https://sojourner.biz/images/cache/pearls/PE0117.200.jpg)](https://sojourner.biz/beads/pearls/13-mm-silver-diamond-pearls.html "13 mm silver diamond pearls")
+[![Turquoise bar toggle clasp](https://sojourner.biz/images/cache/SKU0143front.200.jpg)](https://sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")
 
-#### [13 mm silver diamond pearls](https://sojourner.biz/beads/pearls/13-mm-silver-diamond-pearls.html "13 mm silver diamond pearls")
+#### [Turquoise bar toggle clasp](https://sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")
 
-$32.00
+$13.50
 
 ### Best Sellers
 
