@@ -115,9 +115,9 @@ Speech & Language Link
 We help schools to support children with speech, language and communication needs (SLCN). We do this by providing evidence based interventions, standardised screening assessments and training in the use of these tools. Everything we offer is designed by our speech and language therapy team and backed up by our specialist help desk.  
 We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
 
-**![](/wp-content/uploads/2024/07/Suffolk_CC_small_logo2.jpg)Suffolk County Council are using Delivering Better Value (DBV) funding to support their schools’ use of Speech & Language Link.**
+**![](/wp-content/uploads/2024/10/DLDday-1-768x284-1.png)Today, 18th October, is DLD awareness day. Read about the results of our DLD survey and how Developmental Language Disorder can be supported in your classroom**
 
-[Find out more about the Suffolk DBV project](https://speechandlanguage.info/news/suffolk-speech-language-link/)
+[Find out more about DLD](https://speechandlanguage.info/resources/how-dld-aware-are-you/)
 
 [](https://speechandlanguage.info/whole-school-approach/)
 
