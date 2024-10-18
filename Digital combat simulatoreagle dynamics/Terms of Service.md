@@ -6,11 +6,11 @@ Terms of service
 Acceptance of the Terms of Service
 ----------------------------------
 
-These Terms of Service govern the relationship between you and **Eagle Dynamics SA, Route de la Glâne 107, Villars-sur-Glâne, 1752, Switzerland, CH-660.2.221.000-8 ("Eagle Dynamics", "we", "our" and "us")** in relation to our websites: [digitalcombatsimulator.com](https://www.digitalcombatsimulator.com/), [digitalcombatsimulator.ch](http://www.digitalcombatsimulator.ch/), [digitalcombatsimulator.ru](http://www.digitalcombatsimulator.ru/), [dcs-world.com](http://dcs-world.com/), [dcs-world.ch](http://dcs-world.ch/), [dcs-world.cn](http://dcs-world.cn/), [dcs-world.ru](http://dcs-world.ru/), [dcs.world](http://dcs.world/) sites (each a "Site").
+These Terms of Service govern the relationship between you and **Eagle Dynamics SA, Route de Moncor 2, Villars-sur-Glâne 1, 1752, Switzerland, CH-660.2.221.000-8 ("Eagle Dynamics", "we", "our" and "us")** in relation to our websites: [digitalcombatsimulator.com](https://www.digitalcombatsimulator.com/), [digitalcombatsimulator.ch](http://www.digitalcombatsimulator.ch/), [digitalcombatsimulator.ru](http://www.digitalcombatsimulator.ru/), [dcs-world.com](http://dcs-world.com/), [dcs-world.ch](http://dcs-world.ch/), [dcs-world.cn](http://dcs-world.cn/), [dcs-world.ru](http://dcs-world.ru/), [dcs.world](http://dcs.world/) sites (each a "Site").
 
 These Terms of Service apply to your use of our Sites, including any content, functionality, products, and services offered on or through Sites, whether as a guest or a registered user.
 
-These Terms of Service also govern the relationship between you and us regarding your use of any of the forums that we operate for the DCS World games (the "Games Forums"). The rules and guidelines applicable to the Games Forums (the "Forum Rules") are set out at [https://forums.eagle.ru/rules.php#en](https://forums.eagle.ru/rules.php#en) and form part of these Terms of Service.
+These Terms of Service also govern the relationship between you and us regarding your use of any of the forums that we operate for the DCS World games (the "Games Forums"). The rules and guidelines applicable to the Games Forums (the "Forum Rules") are set out at [https://forum.dcs.world/guidelines/](https://forum.dcs.world/guidelines/) and form part of these Terms of Service.
 
 In these Terms of Service, the Sites and Games Forums are collectively referred to as the "Services."
 
