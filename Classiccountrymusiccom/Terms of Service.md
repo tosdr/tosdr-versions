@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [“Happy’s Place” Casts Actress Elizabeth Alderfer...](https://classiccountrymusic.com/happys-place-casts-actress-elizabeth-alderfer-to-play-rebas-daughter/)
 * [Randy Travis Surprises Crowd With Tear-Jerking...](https://classiccountrymusic.com/randy-travis-surprises-crowd-with-tear-jerking-amazing-grace-performance/)
 * [1972: Loretta Lynn Became The First...](https://classiccountrymusic.com/1972-loretta-lynn-became-the-first-woman-to-win-cma-entertainer-of-the-year/)
-* [Reba Surprises Her “Happy’s Place” Co-Stars...](https://classiccountrymusic.com/reba-surprises-her-happys-place-co-stars-with-the-shows-theme-song/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +122,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Hank Williams Jr. & Waylon Jennings’...](https://classiccountrymusic.com/hank-williams-jr-waylon-jennings-the-conversation-reaches-new-milestone-45-years-later/)
 * [Bronze Statue of Merle Haggard Unveiled...](https://classiccountrymusic.com/bronze-statue-of-merle-haggard-unveiled-in-muskogee-oklahoma/)
 * [Allman Brothers Band Member Johnny Neel...](https://classiccountrymusic.com/allman-brothers-band-member-johnny-neel-dies-at-70/)
-* [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
 
 Terms of Use
 ============
