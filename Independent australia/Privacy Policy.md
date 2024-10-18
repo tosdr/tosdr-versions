@@ -86,7 +86,7 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/no-self-respecting-democracy-deserves-dutton,19060)
+[Denying hungry kids and women’s rights w David Crisafulli et al](https://independentaustralia.net/article-display/denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19083)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19083 "Permanent Link : Denying hungry kids and women’s rights with David Crisafulli et al")
+* [Kid Laroi dazzles NRL grand final while 'horror' opera causes outrage](https://independentaustralia.net/article-display/kid-laroi-dazzles-nrl-grand-final-while-horror-opera-causes-outrage,19084 "Permanent Link : Kid Laroi dazzles NRL grand final while 'horror' opera causes outrage")
+* [CARTOONS: Dutton's dynamic opposition matches Albanese's popularity.](https://independentaustralia.net/article-display/cartoons-duttons-dynamic-opposition-matches-albaneses-popularity,19070 "Permanent Link : CARTOONS: Dutton's dynamic opposition matches Albanese's popularity.")
 * [Dutton’s divisive agenda a threat to social cohesion](https://independentaustralia.net/article-display/duttons-divisive-agenda-a-threat-to-social-cohesion,19081 "Permanent Link : Dutton’s divisive agenda a threat to social cohesion")
 * [EDITORIAL: Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/editorial-denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19082 "Permanent Link : EDITORIAL: Denying hungry kids and women’s rights with David Crisafulli et al")
 * [Labor fights the trend as election day looms in Queensland](https://independentaustralia.net/article-display/labor-fights-the-trend-as-election-day-looms-in-queensland,19080 "Permanent Link : Labor fights the trend as election day looms in Queensland")
 * [Coalition and Murdoch press hypocritical on Labor's asylum management](https://independentaustralia.net/article-display/coalition-and-murdoch-press-hypocritical-on-labors-asylum-management,19079 "Permanent Link : Coalition and Murdoch press hypocritical on Labor's asylum management")
-* [Queensland conservatives divide state with law and order campaigns](https://independentaustralia.net/article-display/queensland-conservatives-divide-state-with-law-and-order-campaigns,19078 "Permanent Link : Queensland conservatives divide state with law and order campaigns")
-* [Consumers key to tackling climate crisis](https://independentaustralia.net/article-display/consumers-key-to-tackling-climate-crisis,19077 "Permanent Link : Consumers key to tackling climate crisis")
-* [Vocus-TPG deal reshaping Australia’s digital infrastructure](https://independentaustralia.net/article-display/vocus-tpg-deal-reshaping-australias-digital-infrastructure,19076 "Permanent Link : Vocus-TPG deal reshaping Australia’s digital infrastructure")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
