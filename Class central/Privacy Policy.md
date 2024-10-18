@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. English
     
-2. marketing
+2. computer science
     
-3. web development
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Machine Learning
+1. [Communication Skills
+    
+    4,064 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Machine Learning
     
     14,862 courses](https://www.classcentral.com/subject/machine-learning)
-2. [Project Management
+3. [Artificial Intelligence
     
-    3,981 courses](https://www.classcentral.com/subject/project-management)
-3. [Management & Leadership
-    
-    2,350 courses](https://www.classcentral.com/subject/management-and-leadership)
+    12,176 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Aprender
+1. [Astronomy: Exploring Time and Space
     
-    Universidad Nacional Autónoma de México](https://www.classcentral.com/course/aprendo-4631)
-2. [Introduction to Animal Behaviour
+    University of Arizona](https://www.classcentral.com/course/astro-3007)
+2. [Psychology of Personal Growth
     
-    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
-3. [Tsinghua Chinese: Start Talking with 1.3 Billion People
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
+3. [Six Sigma Part 1: Define and Measure
     
-    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/six-sigma-technische-universitat-munchen-six-sigm-8450)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
