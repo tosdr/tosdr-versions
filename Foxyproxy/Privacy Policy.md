@@ -123,7 +123,3 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 * [FoxyProxy Wifi Routers](https://getfoxyproxy.org/wifi-routers)
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
-
-Thank you!! Fastest response ever.
-
-Amy Xu
