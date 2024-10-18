@@ -392,10 +392,9 @@ Support
 Resources
 ---------
 
+* [Blog](https://www.hellobrigit.com/learn)
 * [What are overdrafts?](https://www.hellobrigit.com/what-are-overdraft-fees)
 * [How is my credit score calculated?](https://www.hellobrigit.com/learn/how-is-my-credit-score-calculated)
-* [Credit Builder vs. the competition](https://www.hellobrigit.com/learn/brigits-credit-builder-vs-the-competition)
-* [Blog](https://www.hellobrigit.com/learn)
 
 Get Brigit
 ----------
