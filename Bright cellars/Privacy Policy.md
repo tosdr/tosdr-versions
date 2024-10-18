@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Join Winc & get $30 off first order - JOINWINC](https://www.brightcellars.com/discount/MEMSDAY24?redirect=/collections/all&utm_source=Internal%20Marketing%20-%20Club&utm_medium=Other&utm_campaign=Other_InternalMarketing-Club_25_off_MEMSDAY24)
+[Join Winc & get $30 off first order - JOINWINC](https://winc.com//discount/JOINWINC?redirect=/pages/palate-profile&utm_source=Internal%20Marketing%20-%20Club&utm_medium=Other&utm_campaign=Other_InternalMarketing-Club_30-off_JOINWINC)
 
 [Search](https://www.brightcellars.com/search)
 
