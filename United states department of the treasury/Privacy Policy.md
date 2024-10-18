@@ -565,12 +565,16 @@ MENU MENU
     
     October 17, 2024
     
-    [Treasury Sanctions Network for Shipping Oil on Behalf of Iran-Backed Houthi Financier](https://home.treasury.gov/news/press-releases/jy2652)
+    [Treasury Targets Actors Involved in Drone Production for Russia’s War Against Ukraine](https://home.treasury.gov/news/press-releases/jy2651)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    October 18, 2024
+    
+    [Joint Statement of Janet L. Yellen, Secretary of the Treasury, and Shalanda D. Young, Director of the Office of Management and Budget, on Budget Results for Fiscal Year 2024](https://home.treasury.gov/news/press-releases/jy2657)
     
     October 17, 2024
     
@@ -579,10 +583,6 @@ MENU MENU
     October 13, 2024
     
     [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Inflation Reduction Act Technical Assistance](https://home.treasury.gov/news/press-releases/jy2647)
-    
-    October 11, 2024
-    
-    [Remarks by Under Secretary for International Affairs Jay Shambaugh on the Essential Role of the International Financial Institutions for the Global and U.S. Economies](https://home.treasury.gov/news/press-releases/jy2643)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
