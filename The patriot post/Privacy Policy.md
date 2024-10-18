@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111178-ugh-2024-10-17)
+     [](https://patriotpost.us/memes/111188-a-silent-prayer-2024-10-18)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander Profiles of Valor: CPL Tibor Rubin (USA)](https://patriotpost.us/alexander/111177-profiles-of-valor-cpl-tibor-rubin-usa-2024-10-18)
 *      [Victor Davis Hanson Election 2024 — Those who lecture versus those tired of being lectured](https://patriotpost.us/opinion/111176-election-2024-those-who-lecture-versus-those-tired-of-being-lectured-2024-10-17)
 *      [Hans von Spakovsky How States Can Protect the Right to Vote in Hurricane-Ravaged Areas](https://patriotpost.us/opinion/111150-how-states-can-protect-the-right-to-vote-in-hurricane-ravaged-areas-2024-10-17)
 *      [Larry Elder Obama Again Whips Out His Race Card — Tells ‘The Brothers’ How To Vote](https://patriotpost.us/opinion/111148-obama-again-whips-out-his-race-card-tells-the-brothers-how-to-vote-2024-10-17)
@@ -129,7 +130,6 @@ Last Updated: November 15, 2011.
 *      [Armstrong Williams Race: The Currency of Power](https://patriotpost.us/opinion/111146-race-the-currency-of-power-2024-10-17)
 *      [Cal Thomas Regime Change in Iran Is the Only Option](https://patriotpost.us/opinion/111144-regime-change-in-iran-is-the-only-option-2024-10-17)
 *      [Mark Alexander JD Vance v. New York Times](https://patriotpost.us/alexander/111104-jd-vance-v-new-york-times-2024-10-17)
-*      [The Babylon Bee Democrats Wondering If It’s Too Late to Go Back to Joe Biden](https://patriotpost.us/opinion/111168-democrats-wondering-if-its-too-late-to-go-back-to-joe-biden-2024-10-17)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,11 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
