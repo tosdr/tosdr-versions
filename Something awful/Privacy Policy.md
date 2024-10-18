@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Brilliant Distortions, the best around! (Part 2)](https://www.somethingawful.com/photoshop-phriday/content-aware-distortions/1/)
-* [Holiday Albums, Vol II](https://www.somethingawful.com/photoshop-phriday/holiday-albums-vol/1/)
-* [They Came From the Kindle: "Billionaires"](https://www.somethingawful.com/news/kindle-billionaires-review/1/)
-* [Classic Art](https://www.somethingawful.com/photoshop-phriday/classic-art/1/)
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Yahoo Personals Part 2](https://www.somethingawful.com/comedy-goldmine/yahoo-personals-part-2/1/)
+* [The Fountain Pen Network (Thanks, Gilgameshback!)](https://www.somethingawful.com/awful-links/fountain-pen-network/)
+* [05-14-2007](https://www.somethingawful.com/forum-fridays/ff05-14-2007/1/)
+* [Board Game Reality](https://www.somethingawful.com/photoshop-phriday/board-game-reality/1/)
+* [Good Movies, Crap Posters!](https://www.somethingawful.com/photoshop-phriday/bad-movie-posters/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Toshiyuki Nishida is gone](http://forums.somethingawful.com/showthread.php?threadid=4072876 "Toshiyuki Nishida is gone")
-* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Singer Liam Payne fell One Direction (down) off a hotel balcony and died](http://forums.somethingawful.com/showthread.php?threadid=4072830 "Singer Liam Payne fell One Direction (down) off a hotel balcony and died")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-blogs.gif) [Have you ever told people IRL that you post on the SA forums?](http://forums.somethingawful.com/showthread.php?threadid=4072871 "Have you ever told people IRL that you post on the SA forums?")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [iTT WE'RE MF ROACHES](http://forums.somethingawful.com/showthread.php?threadid=4072858 "iTT WE'RE MF ROACHES")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Y'all ready to party?](http://forums.somethingawful.com/showthread.php?threadid=4072863 "Y'all ready to party?")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [iTT WE'RE MF ROACHES](http://forums.somethingawful.com/showthread.php?threadid=4072858 "iTT WE'RE MF ROACHES")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Toshiyuki Nishida is gone](http://forums.somethingawful.com/showthread.php?threadid=4072876 "Toshiyuki Nishida is gone")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-blogs.gif) [Have you ever told people IRL that you post on the SA forums?](http://forums.somethingawful.com/showthread.php?threadid=4072871 "Have you ever told people IRL that you post on the SA forums?")
 
 ### Random Articles
 
-* [TopCops](https://www.somethingawful.com/awful-links/topcops-around-world/)
-* [I Hate You Page 172](https://www.somethingawful.com/cliff-yablonski/i-hate-you-172/)
-* [Lightening Up History \[With FaceApp\]!](https://www.somethingawful.com/photoshop-phriday/historical-smile-photos/)
-* [Celebrity Zoo!](https://www.somethingawful.com/photoshop-phriday/celebrity-zoo/1/)
-* [Let's Make This Haunted House a Haunted Home](https://www.somethingawful.com/news/haunted-house-home/)
+* [Daily Dirt WHAMMY](https://www.somethingawful.com/daily-dirt/daily-dirt-whammy/)
+* [AwfulVision Expose: Lurker Bunny](https://www.somethingawful.com/awfulvision/lurker-bunny-expose/1/)
+* [Mega Men!](https://www.somethingawful.com/news/mega-men/)
+* [Gamepro, Totse and Starfox-Online](https://www.somethingawful.com/weekend-web/gamepro-totse-starfoxonline/1/)
+* [I Hate You Page 57](https://www.somethingawful.com/cliff-yablonski/i-hate-you-57/)
 
 [Random!](https://www.somethingawful.com/random/)
 
