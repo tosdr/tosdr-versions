@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ October 18, 2024 \] Longshoremen’s Strike Sparks Debate Over the Future Use of Automation National News](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/ "Longshoremen’s Strike Sparks Debate Over the Future Use of Automation")
+* [\[ October 18, 2024 \] Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement National News](https://americanfreepress.net/big-business-tech-media-banks-give-kamala-glowing-endorsement/ "Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement")
 * [\[ October 17, 2024 \] Issue 41 & 42 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-41-42-news-you-may-have-missed-2/ "Issue 41 & 42 News You May Have Missed")
 * [\[ October 17, 2024 \] Criticism of Regime Is Misinformation and/or Disinformation Subscriber Only](https://americanfreepress.net/criticism-of-regime-is-misinformation-and-or-disinformation/ "Criticism of Regime Is Misinformation and/or Disinformation")
 * [\[ October 17, 2024 \] Washington Prioritizes Money for Wars Over Hurricane Victims National News](https://americanfreepress.net/washington-prioritizes-money-for-wars-over-hurricane-victims/ "Washington Prioritizes Money for Wars Over Hurricane Victims")
-* [\[ October 3, 2024 \] Conservative Filmmaker Wonders, ‘Am I Racist?’ Subscriber Only](https://americanfreepress.net/conservative-filmmaker-wonders-am-i-racist/ "Conservative Filmmaker Wonders, ‘Am I Racist?’")
-* [\[ September 7, 2024 \] Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns Subscriber Only](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/ "Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,11 +128,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Longshoremen’s Strike Sparks Debate Over the Future Use of Automation](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/)
+* [Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement](https://americanfreepress.net/big-business-tech-media-banks-give-kamala-glowing-endorsement/)
 * [Issue 41 & 42 News You May Have Missed](https://americanfreepress.net/issue-41-42-news-you-may-have-missed-2/)
 * [Criticism of Regime Is Misinformation and/or Disinformation](https://americanfreepress.net/criticism-of-regime-is-misinformation-and-or-disinformation/)
 * [Washington Prioritizes Money for Wars Over Hurricane Victims](https://americanfreepress.net/washington-prioritizes-money-for-wars-over-hurricane-victims/)
-* [Does Anyone Believe $200 billion We Spent on Ukraine Went to Ukraine?](https://americanfreepress.net/does-anyone-believe-200-billion-we-spent-on-ukraine-went-to-ukraine/)
-* [Conservative Filmmaker Wonders, ‘Am I Racist?’](https://americanfreepress.net/conservative-filmmaker-wonders-am-i-racist/)
 
 ###### Recent Comments
 
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=677562478)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=716360827)
