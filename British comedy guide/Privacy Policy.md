@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Charlie Vero-Martin](https://cdn.comedy.co.uk/images/library/people/300x200/c/charlie_vero_martin_green.jpg "Charlie Vero-Martin")](https://www.comedy.co.uk/live/fgwg/charlie-vero-martin/) Live
+
+[First Gig, Worst Gig: Charlie Vero-Martin](https://www.comedy.co.uk/live/fgwg/charlie-vero-martin/)
+
 [![Alan Resnick](https://cdn.comedy.co.uk/images/library/people/300x200/a/alan_resnick.jpg "Alan Resnick")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/) Live
 
 [Alan Resnick / Major Entertainer / Neil Hamburger - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/slingers_day2.jpg "Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television")](https://www.comedy.co.uk/quiz/328/) Quiz
 
 [British Comedy Quiz #328](https://www.comedy.co.uk/quiz/328/)
-
-[![BAB. Image shows left to right: Amy Spinks, Lauren Soley](https://cdn.comedy.co.uk/images/library/misc/300x200/b/bab_comedy.jpg "BAB. Image shows left to right: Amy Spinks, Lauren Soley")](https://www.comedy.co.uk/live/random8/bab-amy-spinks-lauren-soley/) Live
-
-[Random 8: BAB](https://www.comedy.co.uk/live/random8/bab-amy-spinks-lauren-soley/)
 
 #### Subscribe to our newsletters
 
