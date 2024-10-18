@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+    
+    ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-360x180.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+    
+    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning by Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+    
+    [![Croydon Magistrates Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-16-10-2024-at-13.52-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
+    
+    ### [Camberwell landlord and letting agent ordered to pay over £3,000 for unlicensed property](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
+    
     [![Sheila Hancock (credit: Neil Spence)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sheila-Hancock_High-Res_Credit-Neil-Spence-10-2-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
     
     ### [Dame Sheila Hancock to host ‘An Evening With’ in Dulwich for hospice](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
@@ -43,18 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
     
     ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
-    
-    [![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-    
-    ### [New permanent location found for Walworth Post Office](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-    
-    [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-    
-    ### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-    
-    [![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-    
-    ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+    
+    ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-360x180.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+    
+    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning by Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+    
+    [![Croydon Magistrates Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-16-10-2024-at-13.52-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
+    
+    ### [Camberwell landlord and letting agent ordered to pay over £3,000 for unlicensed property](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
+    
     [![Sheila Hancock (credit: Neil Spence)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sheila-Hancock_High-Res_Credit-Neil-Spence-10-2-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
     
     ### [Dame Sheila Hancock to host ‘An Evening With’ in Dulwich for hospice](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
@@ -124,18 +136,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
     
     ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
-    
-    [![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-    
-    ### [New permanent location found for Walworth Post Office](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-    
-    [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-    
-    ### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-    
-    [![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-    
-    ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -205,12 +205,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
-[![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-
-### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-
-[15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-
 [![CGI of new Nine Elms primary school.
 Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
@@ -225,6 +219,12 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 [16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
 
+[![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+
+### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+
+[15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+
 [![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 ### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
@@ -232,6 +232,25 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 [15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 ### Featured Articles
+
+[![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-120x86.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+
+### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+
+[18th October 2024](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-120x86.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+
+### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning by Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+
+[18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+
+[![London mayor Sadiq Khan at a primary school. 
+Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-120x86.jpg)](https://southwarknews.co.uk/area/london/mayor-launches-1m-toolkit-for-primary-school-children-to-combat-online-misogyny/)
+
+### [Mayor launches £1m toolkit for primary school children to combat online misogyny](https://southwarknews.co.uk/area/london/mayor-launches-1m-toolkit-for-primary-school-children-to-combat-online-misogyny/)
+
+[18th October 2024](https://southwarknews.co.uk/area/london/mayor-launches-1m-toolkit-for-primary-school-children-to-combat-online-misogyny/)
 
 [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-120x86.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
 
@@ -250,24 +269,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
 
 [17th October 2024](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-[![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-
-### [New permanent location found for Walworth Post Office](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-
-[17th October 2024](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
-
-[![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-
-### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-
-[16th October 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
-
-[![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-
-### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-
-[16th October 2024](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
 
 ### USEFUL PAGES
 
