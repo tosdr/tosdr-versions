@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Hamas leader tried to take out Israeli drone moments before he was killed](https://nypost.com/2024/10/17/world-news/israeli-drone-captures-yahya-sinwars-last-moments-alive/)
-
 Privacy Notice Highlights
 =========================
 
