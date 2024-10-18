@@ -159,7 +159,7 @@ Shop
 
 Learn
 
-[Find your phone](https://chipolo.net/en-us/pages/find-phone) [Key finder](https://chipolo.net/en-us/pages/key-finder) [Wallet finder](https://chipolo.net/en-us/pages/wallet-finder) [Remote finder](https://chipolo.net/en-us/pages/remote-finder) [Luggage tracker](https://chipolo.net/en-us/pages/luggage-tracker)
+[Find your phone](https://chipolo.net/en-us/pages/find-phone) [Key finder](https://chipolo.net/en-us/pages/key-finder) [Car key tracker](https://chipolo.net/en-us/pages/car-keys) [Wallet finder](https://chipolo.net/en-us/pages/wallet-finder) [Remote finder](https://chipolo.net/en-us/pages/remote-finder) [Luggage tracker](https://chipolo.net/en-us/pages/luggage-tracker)
 
 Support
 
