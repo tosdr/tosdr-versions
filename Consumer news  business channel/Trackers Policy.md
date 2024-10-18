@@ -63,7 +63,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/93?brandA=Telemundo_Networks&intake=Telemundo_Networks "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?brandA=Owned_Stations&intake=NBC_5_Dallas_Fort_Worth/ "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
