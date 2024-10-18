@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)11°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)15°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,22 +54,22 @@
 
 Thèmes du moment
 
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Football](https://www.watson.ch/fr/football/)
+* [Valais](https://www.watson.ch/fr/valais/)
 * [Télévision](https://www.watson.ch/fr/television/)
-* [Migrants](https://www.watson.ch/fr/migrants/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Abus sexuel](https://www.watson.ch/fr/abus-sexuel/)
+* [Football](https://www.watson.ch/fr/football/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Justice](https://www.watson.ch/fr/justice/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
-* [Drame](https://www.watson.ch/fr/drame/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Washington](https://www.watson.ch/fr/washington/)
-* [Armée](https://www.watson.ch/fr/armee/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
+* [RTS](https://www.watson.ch/fr/rts/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [RTS](https://www.watson.ch/fr/rts/)
 * [People](https://www.watson.ch/fr/people/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
 * [Israël](https://www.watson.ch/fr/israel/)
