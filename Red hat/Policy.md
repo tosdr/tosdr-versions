@@ -31,6 +31,7 @@ Featured links
         * [Hybrid cloud learning hub](https://cloud.redhat.com/learn)
         * [Interactive labs](https://www.redhat.com/en/interactive-labs)
         * [Learning community](https://learn.redhat.com/)
+        * [Red Hat TV](https://tv.redhat.com/)
     * Open source communities
         * [Ansible](https://www.ansible.com/community)
         * [Global advocacy](https://access.redhat.com/accelerators)
@@ -233,6 +234,7 @@ Learning resources
 * [Hybrid cloud learning hub](https://cloud.redhat.com/learn)
 * [Interactive labs](https://www.redhat.com/en/interactive-labs)
 * [Learning community](https://learn.redhat.com/)
+* [Red Hat TV](https://tv.redhat.com/)
 
 Open source communities
 
