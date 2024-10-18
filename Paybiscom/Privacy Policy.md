@@ -132,7 +132,6 @@ Policies
 4. [3\. Anti-Money Laundering and KYC Policy](https://paybis.com/policies/aml/)
 5. [4\. Refund Policy](https://paybis.com/policies/refunds/)
 6. [5\. Cryptocurrency Price Terms and Conditions](https://paybis.com/policies/dynamic-price-terms/)
-7. [6\. Crypto Widget Terms of Use](https://paybis.com/policies/widget-terms/)
 
 ### **Privacy Policy**
 
