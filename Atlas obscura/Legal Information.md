@@ -149,21 +149,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![Pelješac Bridge](https://img.atlasobscura.com/BeU7VATNea3Vl-ZSJDQzakI1nikMIMxvP3KjVnMQiEA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82M2I4/MzAzMi1lOWZhLTRi/MTUtODQ5Yy02MmU0/NjM0ZjdlMGI0ZTZi/NzhmNDc4ZWJiYTBi/YjBfUGVsamVzYWMt/bW9zdC0wMi5qcGc.jpg)
+
+Pelješac Bridge](https://www.atlasobscura.com/places/peljesac-bridge)
+
+   [![](https://img.atlasobscura.com/ypGnyE-uVPQb3tWjOD511rmbb1MAffb5njsl4Fo6x1c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNmJl/M2FjYS00MWE3LTQ4/YWYtYWYxNi00MjIw/YzI3NzExMTc4YTAw/ODdmMDJlZjY1ZDYx/ZTBfMjAuanBn.jpg)
+
+Oxford Huguenot Fort](https://www.atlasobscura.com/places/oxford-huguenot-fort)
+
+   [![The Stecci Cemetery](https://img.atlasobscura.com/U_hGdgy9drx1272D2xJUgDAlg12g1BJil5r3cswjjy8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ZjBh/ZWJmZC1lMmQ3LTRl/YTYtYWM3Yi1jMmQz/MjA0MzNiNDczZmZm/Y2I2MzRlMjk3NWEx/MDZfSU1HXzUwNTYu/cG5nLnBuZw.png)
+
+Medieval Slavic Cemetery](https://www.atlasobscura.com/places/medieval-slavic-cemetery)
+
    [![](https://img.atlasobscura.com/Ci4S5A_6sUSaLGaCTCv1FleXn_SiX0oKmumBrERjrgM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MjBi/MzhiMC04NGI3LTQx/N2UtYTZkOS1mZGQw/MmU0ZjJmNjMzM2Rl/MjczNTcwMGQ2YjJj/YTZfMTAwMDA4MDYz/My5qcGc.jpg)
 
 Smokkelhuis](https://www.atlasobscura.com/places/smokkelhuis)
-
-   [![](https://img.atlasobscura.com/P_tK94lEvsE6DgGOsv_kmZv023wBd-Fgx3y4oXMlv3Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yZGIw/OTY4OC05MWVkLTRi/YTgtYjk4ZS0zNGVm/YjRiNWM4YmUxNmE4/NjkzYmFlMGIwMTQ1/NjJfR2V0dHlJbWFn/ZXMtMTE0MDM5NDEy/My5qcGc.jpg)
-
-Mummified Hand at the Haunch of Venison](https://www.atlasobscura.com/places/mummified-hand-haunch-of-venison)
-
-   [![This once-abandoned space has been given new life as a public park.](https://img.atlasobscura.com/iZQxfxvPjk_0KjodzW1h3tp9b1BBfBFLzTdddWW2aDU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNDRl/ZWI1NC1kODliLTRh/ZmMtYjc0Yy04YTlj/NGI5OTQyNzA1Yjdh/NTFiNDM4ZGQ4NmVj/ZGZfY2hhbyAoNiku/anBn.jpg)
-
-Chao Phraya Sky Park](https://www.atlasobscura.com/places/chao-phraya-sky-park)
-
-   [![The Door of Wishes was built to withstand an earthquake.](https://img.atlasobscura.com/4AVXqa0ftbURP1rbqe9CYnhZ8kxUvQAG1Y5fsCHR8iA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85YjI5/MTRkYy0yNDkxLTQz/NzEtYThjOC1mMmEx/NTA2MTk1YmYxOTFk/MDJkMDk4MzY4NmE5/N2ZfRFNDXzEzMzEu/anBlZw.jpg)
-
-Old Doors Trail](https://www.atlasobscura.com/places/old-doors-trail)
 
 Latest Places to Eat & Drink
 
@@ -197,7 +197,11 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
-   [![](https://img.atlasobscura.com/pkaVjiK_ggbdVY1V65mUxX7uwfcmDK2omvIhbaZJc3E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82YzA2NTBiOS1h/NTQ3LTQwZWQtYTEx/Ny1mZWM3ZTQ5ZmE3/ZGFjNDE4YTdkYThj/MzBlZDcxYjdfU3Rp/bGwgMjAyNC0xMC0w/MSAxNTQ0MzhfNC4x/Ljc2LmpwZw.jpg)
+   [![The deck of the SS United States, with a sign directing to the SS United States Conservancy's website.](https://img.atlasobscura.com/3QWJeRsyRuYDQvnha6vVkAX5nw8PPQAVlxrXeWJO6ZE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82M2VlZmE3MGQ1/Nzc4NmUzZTdfSU1H/Xzg5NjlfMS5qcGc.jpg)
+
+The SS United States Heads Into Unknown Waters](https://www.atlasobscura.com/articles/abandoned-america-ss-united-states)
+
+   [![](https://img.atlasobscura.com/StTQ6DMRPjX_5BHpe2KoLW5BlUgbCHvcaIm7JTBxL0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wZmNlMWEzOGUw/MjRjYzk4MmVfU3Rp/bGwgMjAyNC0xMC0w/MSAxNTQ0MzhfNC4x/Ljc2LmpwZw.jpg)
 
 How Two Artists Are Painting Portland’s Future](https://www.atlasobscura.com/articles/video-how-two-artists-are-painting-portland-maine-future)
 
@@ -208,10 +212,6 @@ The 2024 Nikon Small World Winners Are Big on Wonder](https://www.atlasobscura.c
    [![The black-eyed children, first described in Texas in the mid-90s, have since been seen around the world.](https://img.atlasobscura.com/ToxPX5ftoZO2bL50RpwyKTAUJvkQvXUZ2f-SWaBp22Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84MTUyMTc1My05/YjFlLTQ3NGEtYTNk/NC03YTk1MDUzMjFl/MTdlMDYzZTU2ZjBj/ZTdiYWE0N2JfYmxh/Y2sgZXllZCBjaGls/ZHJlbiBGSU5BTC5q/cGc.jpg)
 
 Death as a Child: The Modern Legend of the Black-Eyed Children](https://www.atlasobscura.com/articles/black-eyed-children-urban-legend)
-
-   [![Food with a face is disconcerting. With fangs? Even more so. ](https://img.atlasobscura.com/HvhaaT3ObzLRvpdLahSLp-mRHealBr9MaE_fGr9KvvA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lODQ5ZjNkOC1j/MjEwLTQxZWMtYjE4/MC00MjQ5YTg5ZTc1/OGU2OTBlNjk3N2Q1/NzM1YjYyMzZfU2Nh/cnkgQ2hlcnJ5IFBp/ZS5qcGc.jpg)
-
-Gloriously Gruesome Confections for Halloween–and the Rest of the Year](https://www.atlasobscura.com/articles/halloween-recipes)
 
 No search results found for  
 “”
