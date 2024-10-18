@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[83°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[75°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/PartlyCloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,27 +39,26 @@ Hi
 
 [](#)
 
-83°F
+75°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png) Clear
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/PartlyCloudyNight.png) Partly Cloudy
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
 [](# "search icon")
 
 * [Home](https://www.reviewjournal.com/)
-* [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink)
 * [Latest Headlines](https://www.reviewjournal.com/archive/)
+* [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink)
 * [7@7 video](https://www.reviewjournal.com/7at7/)
-* [Tropicana Implosion](https://www.reviewjournal.com/tag/tropicana-closing/)
+* [Election 2024](https://www.reviewjournal.com/tag/2024-election/)
 * [Top 100 Restaurants](https://www.reviewjournal.com/top-100-restaurants/)
 * [Things To Do In Vegas](https://www.reviewjournal.com/things-to-do-in-vegas/)
-* [What Are They Hiding?](https://www.reviewjournal.com/tag/what-are-they-hiding/)
-* [Election 2024](https://www.reviewjournal.com/tag/2024-election/)
 * [Israel at War](https://www.reviewjournal.com/tag/war-in-israel/)
 * [News](https://www.reviewjournal.com/news/)
     * [Education](https://www.reviewjournal.com/local/education/)
     * [Politics and Government](https://www.reviewjournal.com/news/politics-and-government/)
+        * [Your 2024 Voter Guide](https://www.reviewjournal.com/voter-guide-2024/)
         * [2024 Election](https://www.reviewjournal.com/tag/2024-election/)
         * [Nevada](https://www.reviewjournal.com/news/politics-and-government/nevada/)
         * [Clark County](https://www.reviewjournal.com/news/politics-and-government/clark-county/)
