@@ -231,6 +231,7 @@ support@xvpn.io
 * [IP Address Checker](https://xvpn.io/ip-address-checker)
 * [DNS Leak Test](https://xvpn.io/dns-leak-test)
 * [WebRTC Leak Test](https://xvpn.io/webrtc-leak-test)
+* [IPv6 Leak Test](https://xvpn.io/ipv6-leak-test)
 * [IP Lookup](https://xvpn.io/ip-lookup)
 * [Password Generator](https://xvpn.io/password-generator)
 
