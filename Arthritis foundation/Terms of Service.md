@@ -8,7 +8,7 @@ skip to main content
 
 Popular Search
 
-[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [cbd](https://www.arthritis.org/search?query=cbd) [osteoarthritis](https://www.arthritis.org/search?query=osteoarthritis)
+[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [osteoarthritis](https://www.arthritis.org/search?query=osteoarthritis) [cbd](https://www.arthritis.org/search?query=cbd)
 
 Suggested Content
 
@@ -385,7 +385,7 @@ _Revised April 27, 2021_
 
 Atlanta, GA
 
-58° Arthritis Index Beneficial
+46° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
