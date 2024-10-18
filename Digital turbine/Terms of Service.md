@@ -96,7 +96,7 @@ Audiences
 
 Company
 
-[About](https://www.digitalturbine.com/about)[Investors](https://ir.digitalturbine.com/)[Careers](https://www.digitalturbine.com/careers)[Locations](https://www.digitalturbine.com/locations)
+[About](https://www.digitalturbine.com/about)[Investors](https://ir.digitalturbine.com/)[Careers](https://www.digitalturbine.com/careers)[Trust Center](https://www.digitalturbine.com/trust-center)[Locations](https://www.digitalturbine.com/locations)
 
 Resources
 
