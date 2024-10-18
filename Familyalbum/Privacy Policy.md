@@ -42,7 +42,6 @@ Is FamilyAlbum safe?
 FamilyAlbum was created to give parents a safe and convenient way to share photos and videos of their children with family. We are committed to providing the best possible protection for the security and privacy of our users.
 
 * Your album is completely private. All photos/videos you upload to the app belong to you, and they can only be viewed by you and the people you invite.
-* There are no third-party ads in the app and we don't share your data with advertisers.
 * Any photos/videos you delete from the app are deleted from our servers.
 * Data transferred between your device and our servers is encrypted using the latest encryption technology.
 * Our servers are protected by a strong firewall, secure passwords, two-factor authentication, SSH key authentication, etc.
