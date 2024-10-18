@@ -19,7 +19,6 @@
     
     Shop By
     
-    * [Mystery Items](https://fanjoy.co/collections/mystery-items)
     * [Hoodies](https://fanjoy.co/collections/hoodies)
     * [Shirts](https://fanjoy.co/collections/shirts)
     * [Hats & Beanies](https://fanjoy.co/collections/hats-beanies)
@@ -94,7 +93,6 @@ United States | USD $
     
 * Shop By
     
-    * [Mystery Items](https://fanjoy.co/collections/mystery-items)
     * [Hoodies](https://fanjoy.co/collections/hoodies)
     * [Shirts](https://fanjoy.co/collections/shirts)
     * [Hats & Beanies](https://fanjoy.co/collections/hats-beanies)
