@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
+[![Contested Races by State, 2014](/assets/Images/teasers/small/Contested-Races.png)](https://www.followthemoney.org/research/blog/no-contest-36-percent-of-2014-state-legislative-races-offer-no-choice-blog/)
+
+36% of races were uncontested in 2014.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
