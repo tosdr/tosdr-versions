@@ -1,3 +1,5 @@
+[Breaking: Georgia passes 1 million early voting mark](https://www.ajc.com/politics/election/georgia-passes-1-million-vote-mark/KNMH3BTAJNELXJW7SYVZPZ34CU/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
@@ -14,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-whats-in-it-for-the-west-end/2TIIIYKN7VEPLNUCNJJXV6OW4E/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
