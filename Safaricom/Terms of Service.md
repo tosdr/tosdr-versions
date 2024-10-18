@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [717 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [723 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -223,7 +223,31 @@ Customer Testimonials
 
 out of 5 based on
 
-[717 reviews](https://www.trustpilot.com/review/www.safari.com)
+[723 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 17, 2024
+
+> Aquilia Safari trip
+
+> Re: Safari from Cape Town to Aquilia. Fadiel was very helpful and organised our trip for us. We were picked up by Joe, who was our driver for the day. Joe is born and raised in Cape Town. He was prompt and was very friendly and informative. There was a good choice of food at Aquilia and had choices for my husband too who is Coeliac.
+
+Manning Manning
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 17, 2024
+
+> Sweet Kim Abrahams was extremely…
+
+> Sweet Kim Abrahams was extremely patient with the two of us oldsters. We had computer problems, took a very long time to decide and confirm our intentions and challenged every detail. Thank you Kim
+
+Diane Wasney
+
+,
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -321,34 +345,6 @@ customer
 
 US
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 10, 2024
-
-> Absolutely great service
-
-> Absolutely great service. Leche was so helpful and quick to respond. Great choices and service.
-
-Col
-
-,
-
-GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 9, 2024
-
-> Seems pointless to book things direct when Safari.com can do it all for you at the same cost
-
-> I wasn’t actually planning on leaving a review until after our trip which has been scheduled for March 2025. I wasn’t even planning to use a travel company to assist as we are experienced travellers who are used to booking our own arrangements. The cost of going direct with suppliers and going through Safari.com was exactly the same - with the latter you also have outstanding service and advice which makes it pointless to do it yourself. But I felt compelled to leave a shout out for Leigh-Ann Croeser who has been extremely helpful in organising our itinerary for South Africa. Her response to queries was always prompt and professional. When we ultimately wish to travel to East Africa, I know who I will be contacting.
-
-Henry
-
-,
-
-AU
-
 VIP service
 
 Your own personal travel assistant
@@ -408,6 +404,9 @@ Contact a safari expert now
 17 Dock Road,  
 Victoria & Alfred Waterfront,  
 Cape Town  
+  
+Southern Africa Tourism Services Association (SATSA) – Member No. #1680  
+African Travel & Tourism Association (ATTA) – Member No. #206430  
 
 [![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
 
