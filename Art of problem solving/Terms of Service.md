@@ -61,14 +61,6 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-![](/assets/images/logos/math-jams-white.svg)
-
-Live Discussion!
-
-USAMTS Round 1 Discussion 2024 is going on now!
-
-[Join InGo](https://artofproblemsolving.com/schoolhouse/room/mathjam)
-
 Spring classes are open for enrollment!  [Reserve your spot today](https://artofproblemsolving.com/school/schedule)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
