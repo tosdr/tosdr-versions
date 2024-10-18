@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [5 Celebs Who Have Opened Up About Having Miscarriages](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-    ===================================================================================================================
+    [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    ========================================================================================================================================================
     
-    While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
+    Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
     
-    By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+    By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
     
-* *  [![Ariana Grande in pink](https://www.women.com/img/gallery/5-glinda-coded-outfits-ariana-grande-has-worn-promoting-wicked/intro-1729004293.jpg)](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
+* *  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+        
+        [Wellness](https://www.women.com/category/wellness/)
+        
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        
+        ### [5 Celebs Who Have Opened Up About Having Miscarriages](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+        
+        While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+        
+    *  [![Ariana Grande in pink](https://www.women.com/img/gallery/5-glinda-coded-outfits-ariana-grande-has-worn-promoting-wicked/intro-1729004293.jpg)](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
         
-    *  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-        
-        [Politics](https://www.women.com/category/politics/)
-        
-        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-        
-        ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-        
-        Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-        
 
 More Stories
 ------------
 
+*  [![Ariana Grande](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [Love Lessons We've Learned From Ariana Grande](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+    
+    Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+    
+*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
 *  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -381,30 +405,6 @@ More Stories
     While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
     
     By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
-    
-*  [![Princess Diana at event](https://www.women.com/img/gallery/princess-dianas-stunning-hair-transformation/intro-1727795663.jpg)](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [Princess Diana's Stunning Hair Transformation](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
-    
-    Princess Diana's hair told a story of the bashful bride, dutiful wife, happy mother, and later, a woman stepping into power and independence.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1677472/princess-diana-stunning-hair-transformation/)
-    
-*  [![Eterneva on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-eterneva-diamonds-after-shark-tank/intro-1727801681.jpg)](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With Eterneva Diamonds After Shark Tank](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
-    
-    To make Eterneva Diamonds happen, Adelle Archer and Garrett Ozar needed help. So they took their business to Shark Tank.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
     
 
 Back
