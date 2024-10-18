@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/bewijs-geleverd-autisme-veroorzaakt-door-vaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/onze-agenda-is-jouw-agenda/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
+
+[Afgelopen week (Dinsdag 15-10-2024) Was Bauke Geersing bij O…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626340)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is tijd..??
 
 [Werkelijk een prachtig artikel, zoals alle voorgaande artike…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626307)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### OM meet met 2 maten: rechtsstaat bezoedeld..!!
-
-[Hoi Arend :) Ja, een mooi en krachtig gedicht, een gedicht v…](https://www.wanttoknow.nl/effetjes/om-meet-met-2-maten-rechtsstaat-bezoedeld/comment-page-1/#comment-626306)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
