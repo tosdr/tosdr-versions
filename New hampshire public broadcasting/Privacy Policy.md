@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Sheri Says: Culinary Uses for Crab Meat** | The Key Ingredient](https://video.nhpbs.org/video/culinary-uses-for-crab-meat-kkyjei?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Why Don't Humans Hibernate?** | Be Smart](https://video.nhpbs.org/video/why-dont-humans-hibernate-0qtkjd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Counting the Vote with Margaret Hoover** | The State We're In](https://video.nhpbs.org/video/counting-the-vote-with-margaret-hoover-vof32e?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Last Supper** | PBS Presents](https://video.nhpbs.org/video/the-last-supper-0qypza?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-17-2024-pbs-news-hour-full-episode-1729137601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Land of Gold Preview** | Great Performances](https://video.nhpbs.org/video/land-of-gold-preview-rf77pv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**James Carville analyzes Harris' path to victory** | PBS News Hour](https://video.nhpbs.org/video/campaign-strategies-1729114437?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 16, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-16-2024-vtx3pt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Over the Wall** | REEL SOUTH](https://video.nhpbs.org/video/over-the-wall-odmscg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Solar System: Volcano Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-volcano-worlds-uysbb5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Disclaimer** | Flicks](https://video.nhpbs.org/video/disclaimer-nl3mpb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Amsterdam in Winter** | Van der Valk](https://video.nhpbs.org/video/amsterdam-in-winter-7ygz6l?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Life, the Universe, and the Buddha** | Crash Course Religions](https://video.nhpbs.org/video/life-the-universe-and-the-buddha-jmbp6v?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**A Year of War: Israelis and Palestinians** | FRONTLINE](https://video.nhpbs.org/video/a-year-of-war-israelis-and-palestinians-ojps9u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Over the Wall** | REEL SOUTH](https://video.nhpbs.org/video/over-the-wall-odmscg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
