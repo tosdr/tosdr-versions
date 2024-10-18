@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        
+        #### [Cantwell leads Garcia by 23 points in US Senate race: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        
     *  [![](https://media.king5.com/assets/KING/images/d7771a02-dd89-4c95-96f0-914879e07505/20241018T064501/d7771a02-dd89-4c95-96f0-914879e07505_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7771a02-dd89-4c95-96f0-914879e07505/20241018T064501/d7771a02-dd89-4c95-96f0-914879e07505_360x203.jpg)](https://www.king5.com/article/news/local/marysville-woman-110-years-old/281-347e8c3d-5efa-4837-bb5d-9e3540cca6b6)
         
         #### [Marysville woman turns 110 years old](https://www.king5.com/article/news/local/marysville-woman-110-years-old/281-347e8c3d-5efa-4837-bb5d-9e3540cca6b6)
-        
-    *  [![](https://media.king5.com/assets/KING/images/7be21636-6725-4546-b096-8428b43ce020/20241018T003604/7be21636-6725-4546-b096-8428b43ce020_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7be21636-6725-4546-b096-8428b43ce020/20241018T003604/7be21636-6725-4546-b096-8428b43ce020_360x203.jpg)](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
-        
-        #### [Navy aircraft crash site located east of Mount Rainier, condition of crew still unknown](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e2e9d29b-4677-418d-9952-f0e3b4a321f0/20241018T031139/e2e9d29b-4677-418d-9952-f0e3b4a321f0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e2e9d29b-4677-418d-9952-f0e3b4a321f0/20241018T031139/e2e9d29b-4677-418d-9952-f0e3b4a321f0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0a6492c0-c99b-47e6-8cb7-44ff33610444/20241018T120610/0a6492c0-c99b-47e6-8cb7-44ff33610444_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0a6492c0-c99b-47e6-8cb7-44ff33610444/20241018T120610/0a6492c0-c99b-47e6-8cb7-44ff33610444_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-48°
+47°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
