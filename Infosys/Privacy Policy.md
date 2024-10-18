@@ -64,13 +64,14 @@ Industries
 * [Life Sciences](https://www.infosys.com/industries/life-sciences.html "Life Sciences")
 * [Logistics & Distribution](https://www.infosys.com/industries/logistics-distribution.html "Logistics & Distribution")
 * [Media and Entertainment](https://www.infosys.com/industries/media-entertainment.html "Media and Entertainment")
-
 * [Mining](https://www.infosys.com/industries/mining.html "Mining")
+
 * [Oil and Gas](https://www.infosys.com/industries/oil-and-gas.html "Oil and Gas")
 * [Private Equity](https://www.infosys.com/industries/private-equity.html "Private Equity")
 * [Professional Services](https://www.infosys.com/industries/professional-services.html "Professional Services")
 * [Public Sector](https://www.infosys.com/industries/public-sector.html "Public Sector")
 * [Retail](https://www.infosys.com/industries/retail.html "Retail")
+* [Semiconductor](https://www.infosys.com/industries/semiconductors.html "Semiconductor")
 * [Travel and Hospitality](https://www.infosys.com/industries/travel-hospitality.html "Travel and Hospitality")
 * [Utilities](https://www.infosys.com/industries/utilities.html "Utilities")
 * [Waste Management](https://www.infosys.com/industries/waste-management.html "Waste Management")
