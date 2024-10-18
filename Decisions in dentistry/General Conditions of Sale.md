@@ -138,6 +138,9 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[EARN 2 CEUs: Oral Manifestations of Commonly Used ![EARN 2 CEUs: Oral Manifestations of Commonly Used Chemical Substances⁠
+Understanding the oral health implications of substance use and abuse is crucial for dentists to provide comprehensive care and support for affected patients. By Edward Ruvins, DDS, MS, MBA, MSF, MSAC, Katie Brydon, LCSW, LAC, MAC, EMDR-c, Mark Stein, DDS, MD and Susanna Kayserman, DDS](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBOlJ0XNVbY/) 
+
 [The ADA Forsyth Institute has received a $6.2 mill ![The ADA Forsyth Institute has received a $6.2 million grant to develop AI-powered dental fillings that can repair themselves and fight off harmful bacteria. This groundbreaking innovation will accelerate dental care advancements, setting the stage for smarter and more durable dental materials. Link in bio.⁠
 ⁠
 ⁠
@@ -177,17 +180,6 @@ Click the link in bio for full article.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBBtMJZzyPD/) 
-
-[Recent advancements have shifted the understanding ![Recent advancements have shifted the understanding and management of peri-implant disease, highlighting the detrimental effects of certain debridement techniques and materials on implant surfaces. Central to these findings is the concept of metallosis, a pathogenic process triggered by oral biofilm and exacerbated by titanium particle release. Understanding these mechanisms is crucial for improving long-term treatment success and maintaining implant health. Link in bio.⁠
-⁠
-⁠
-•⁠
-•⁠
-•⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA_BjClzNTj/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
