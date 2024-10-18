@@ -1,7 +1,3 @@
-[HP Canada: Warehouse Sale! Exclusive savings up to 60% off while supplies last + 10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -257,7 +253,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/skinceuticals)[Clearly
         
-        up to 5% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
+        12% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
         3% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
         
