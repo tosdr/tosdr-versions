@@ -22,11 +22,11 @@ Audio
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    Join Our Authors for Upcoming Events
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
