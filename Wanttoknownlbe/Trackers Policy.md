@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/reizigers-uit-veilig-gevaccineerd-israel-verboden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/geheim-braziliaans-aloe-recept-geneest-kanker/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
