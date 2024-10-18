@@ -70,7 +70,13 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
-    [![Hearst Networks UK and Sky Ireland Ad Sales Launch](/s3/files/styles/card_tablet/public/2024-10/Hearst%20Networks%20UK%20x%20Sky%20Media%20-%20Ad%20Sales%20Ireland%20Launch%203.jpg?itok=4levHaee)
+    [![GEMA Awards Win Cosmo](/s3/files/styles/card_tablet/public/2024-10/THE-BASE_GEMA_Premios%20CD%201.jpg?itok=O9NWEP82)
+
+18 October 2024
+
+### COSMO WINS 2 GOLD AND 1 SILVER AT THE WORLD GEMA AWARDS](https://www.aenetworks.tv/news/spain/cosmo-wins-2-gold-and-1-silver-world-gema-awards)
+
+    [![Hearst Networks UK and Sky Ireland Ad Sales Launch](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-10/Hearst%20Networks%20UK%20x%20Sky%20Media%20-%20Ad%20Sales%20Ireland%20Launch%203.jpg?VersionId=nCw8YCjV2_6Nwo6S4bC9LAP3SVY0rHB6&itok=4levHaee)
 
 17 October 2024
 
@@ -87,12 +93,6 @@ Latest news
 17 September 2024
 
 ### EVISION AND HEARST NETWORKS EMEA FORM STRATEGIC PARTNERSHIP TO ENRICH VIEWER EXPERIENCE](https://www.aenetworks.tv/news/evision-and-hearst-networks-emea-form-strategic-partnership-enrich-viewer-experience)
-
-    [![Hearst Networks EMEA](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Hearst_1920x1080px_1.jpg?VersionId=osYNAwVo71UUOUv8amW7CL8Jc5n2lKK.&itok=ABJ6ZdEg)
-
-12 September 2024
-
-### A+E NETWORKS EMEA IS REBRANDING ITS COMPANY NAME TO HEARST NETWORKS EMEA](https://www.aenetworks.tv/news/ae-networks-emea-rebranding-its-company-name-hearst-networks-emea)
 
 Corporate
 ---------
