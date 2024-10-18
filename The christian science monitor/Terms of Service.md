@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 16, 2024
+October 17, 2024
 
-Amid upheaval, the possibility of restoration
+Stories of now, stories of us
 
-Amid the everyday awfulness of the Middle East and a contentious election in the United States, how do we care for our soul? Troubled by anger and uncertainty, we can feel bruised in ways beyond what others can see, existentially disturbed.But Stephen Humphries’ article today points to the possibility of restoration. The journey of a brilliant young director struggling with trauma is more than a story about a film, but a study of one path to healing. For that reason, I believe it is as important as anything you will read today.
+News becomes less abstract when it’s grounded in humanity. Plenty of media outlets have figured that out. For the Monitor, it’s an organizing principle. Our coverage routinely involves smart uses of our lens.For Gaza’s residents, now absorbing news of another Hamas leader’s death, the devastating conflict now deepens empathy for the Lebanese under fire to their north (watch for our report soon). Among Jewish residents in France, solidarity girds a refusal to live in fear of those who fuel antisemitism. In countries from Canada to Australia, governments work to foster an understanding that skilled immigrants are essential to social welfare.These are stories of shared values. They’re stories of us.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Hamas leader, Israel’s ‘most wanted,’ is dead. What happens to war in Gaza?](https://www.csmonitor.com/World/Middle-East/2024/1017/israel-hamas-gaza-yahya-sinwar-dead "Hamas leader, Israel’s ‘most wanted,’ is dead. What happens to war in Gaza?")
+
 [### As birth rates fall, who will keep the economy running? Immigrants.](https://www.csmonitor.com/World/2024/1017/population-immigration-politics-solution-economic "As birth rates fall, who will keep the economy running? Immigrants.")
 
 [### Amid fresh wave of antisemitism, some French Jews resort to fake names](https://www.csmonitor.com/World/Europe/2024/1017/mideast-conflict-antisemitism-france "Amid fresh wave of antisemitism, some French Jews resort to fake names")
-
-[### Three weeks from the election, a Georgia judge reverses new voting rules](https://www.csmonitor.com/USA/2024/1017/Georgia-state-election-ballot-count-measure "Three weeks from the election, a Georgia judge reverses new voting rules")
 
 * * *
 
