@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/1622.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/3819.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -72,9 +72,9 @@ Visitez l'une de nos quelques environ
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
 
-[![Apple](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0679-CM2-Promos-KW397.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NzA2MnxpbWFnZS9qcGVnfGFHTmpMMmcwTnk4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVGN1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJOemxmUTAweVgxQnliMjF2YzE5TFZ6TTVOeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Zjg0NWQ0NGRmYjlhMDkwM2MwZWJlYjE1N2NjMmY0MTdiODg2N2JkMmJkN2E2MTc0ODg1YTgzYWY2MWQzNjQxMA&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW42-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1NDExOHxpbWFnZS9qcGVnfGFERTVMMmhqWVM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhOREpmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhOREpmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MzQ0ZDFkODllODc1NDFmMDU3MzI5YjM1OWRhYmJjNWE0NmE0MjA2OWI5YTUyZjM1YmQzYTQyZDcxZTlmNTZlZg&w=2360&q=75)
 
-10%Rabais sur une sélection de MacBook Air](https://www.microspot.ch/fr/cms/macbook)
+20%de rabais sur une sélection de téléviseurs et barres de son SAMSUNG](https://www.microspot.ch/fr/cms/id-weekend-deal)
 
 [![hp](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0006-CM2-HP.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1NDQ3NXxpbWFnZS9qcGVnfGFEVTJMMmcxWlM4NE5qQjRORGcwWDBreU5GOHdNREEyWDBOTk1sOUlVR1JrTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOHdNREEyWDBOTk1sOUlVR1JrTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YzBiN2JiYzY1M2UxMWZhMGFlMTViOTRmYzM2YzgxYjNiNWFlNTU5ZTAwZjc1NzUwZjFhZWE2YTVlNzUzMTZjNA&w=2360&q=75)
 
