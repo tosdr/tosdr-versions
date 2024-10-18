@@ -659,13 +659,7 @@ downloads
 
 [Events](https://bluespice.com/events/)
 
-[Career](https://bluespice.com/career/)
-
 [Become a partner](https://bluespice.com/buy/order/partner-us/)
-
-[Legal](https://bluespice.com/legal/)
-
-[Trust & Safety](https://en.wiki.bluespice.com/wiki/Info:Trust_and_Safety)
 
 [Privacy](https://bluespice.com/privacy/)
 
@@ -674,6 +668,14 @@ downloads
 [Contact](https://bluespice.com/contact/)
 
 [Cookies](#)
+
+#### [Company](#ece5b53ad499484cd)
+
+[Career](https://bluespice.com/career/)
+
+[Trust & Safety](https://en.wiki.bluespice.com/wiki/Info:Trust_and_Safety)
+
+[Legal](https://bluespice.com/legal/)
 
 * **Get started**
     
@@ -730,19 +732,22 @@ downloads
     
 * [Events](https://bluespice.com/events/)
     
-* [Career](https://bluespice.com/career/)
-    
 * [Become a partner](https://bluespice.com/buy/order/partner-us/)
-    
-* [Legal](https://bluespice.com/legal/)
-    
-* [Trust & Safety](https://en.wiki.bluespice.com/wiki/Info:Trust_and_Safety)
     
 * [Privacy](https://bluespice.com/privacy/)
     
 * [Imprint](https://bluespice.com/imprint/)
     
 * [Contact](https://bluespice.com/contact/)
+    
+
+* **Company**
+    
+* [Career](https://bluespice.com/career/)
+    
+* [Trust & Safety](https://en.wiki.bluespice.com/wiki/Info:Trust_and_Safety)
+    
+* [Legal](https://bluespice.com/legal/)
     
 
 ![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27140%27%20height%3D%2748%27%20viewBox%3D%270%200%20140%2048%27%3E%3Crect%20width%3D%27140%27%20height%3D%2748%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "HalloWelt-Logo")
