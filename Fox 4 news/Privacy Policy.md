@@ -54,7 +54,7 @@ Search site
 
 * [Links from On Air](https://www.fox4news.com/links)
 * [Birthdays](https://www.fox4news.com/good-day-birthdays)
-* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
+* [Recipes](https://www.fox4news.com/tag/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![With Robert Roberson’s execution hours away, supporters hope desperate measures will spare him](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
+ [![Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/marq-williams.jpg?ve=1&tl=1)
 
- ![With Robert Roberson’s execution hours away, supporters hope desperate measures will spare him](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-robersons-execution-hours-away-supporters-hope-desperate-measures-will-spare-him)
+ ![Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/marq-williams.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-robbery-trackdown-marq-williams)
 
-### [With Robert Roberson’s execution hours away, supporters hope desperate measures will spare him](https://www.fox4news.com/news/robert-robersons-execution-hours-away-supporters-hope-desperate-measures-will-spare-him)
+### [Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://www.fox4news.com/news/garland-robbery-trackdown-marq-williams)
 
- [![Election 2024: What are the Dallas HERO amendments?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-1227728245.jpg?ve=1&tl=1)
+ [![Hamas terror leader Yahya Sinwar killed in Gaza, Israeli official says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/yahya-sinwar.jpg?ve=1&tl=1)
 
- ![Election 2024: What are the Dallas HERO amendments?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-1227728245.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-2024-dallas-hero-amendments)
+ ![Hamas terror leader Yahya Sinwar killed in Gaza, Israeli official says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/yahya-sinwar.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hamas-terror-leader-yahya-sinwar-killed-gaza-israeli-official-says-2024-october)
 
-### [Election 2024: What are the Dallas HERO amendments?](https://www.fox4news.com/news/election-2024-dallas-hero-amendments)
+### [Hamas terror leader Yahya Sinwar killed in Gaza, Israeli official says](https://www.fox4news.com/news/hamas-terror-leader-yahya-sinwar-killed-gaza-israeli-official-says-2024-october)
 
- [![Woman shot, killed inside Lewisville office building](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101724-sky-4-thu-kdfweme002_12_28_02_mpg_00.22.30.30.jpg?ve=1&tl=1)
+ [![Texas appeals court clears way for execution in 'shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
 
- ![Woman shot, killed inside Lewisville office building](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101724-sky-4-thu-kdfweme002_12_28_02_mpg_00.22.30.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/woman-shot-killed-inside-lewisville-office-building)
+ ![Texas appeals court clears way for execution in 'shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
 
-### [Woman shot, killed inside Lewisville office building](https://www.fox4news.com/news/woman-shot-killed-inside-lewisville-office-building)
+### [Texas appeals court clears way for execution in 'shaken baby syndrome' case](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
 
- [![Hurricane season is nearing the endgame, but what can we expect in its final weeks?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/hurricane1.jpg?ve=1&tl=1)
+ [![Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1)
 
- ![Hurricane season is nearing the endgame, but what can we expect in its final weeks?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/hurricane1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/hurricane-season-is-nearing-endgame-what-can-we-expect-its-final-weeks)
+ ![Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
 
-### [Hurricane season is nearing the endgame, but what can we expect in its final weeks?](https://www.fox4news.com/weather/hurricane-season-is-nearing-endgame-what-can-we-expect-its-final-weeks)
+### [Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
 
- [![Will Netflix raise prices again? Analysts think so](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/netflix-tv-remote.jpg?ve=1&tl=1)
+ [![DNA evidence connects suspect to 2008 murder in Grand Prairie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gardnerjerry-lee.jpg?ve=1&tl=1)
 
- ![Will Netflix raise prices again? Analysts think so](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/netflix-tv-remote.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/will-netflix-raise-prices-again)
+ ![DNA evidence connects suspect to 2008 murder in Grand Prairie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gardnerjerry-lee.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-raymond-hernandez-jerry-lee-gardner-dna)
 
-### [Will Netflix raise prices again? Analysts think so](https://www.fox4news.com/news/will-netflix-raise-prices-again)
+### [DNA evidence connects suspect to 2008 murder in Grand Prairie](https://www.fox4news.com/news/grand-prairie-raymond-hernandez-jerry-lee-gardner-dna)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -469,7 +469,7 @@ Please note that, in some instances, we may decline to honor your request where,
 
 * [Links from On Air](https://www.fox4news.com/links)
 * [Birthdays](https://www.fox4news.com/good-day-birthdays)
-* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
+* [Recipes](https://www.fox4news.com/tag/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
