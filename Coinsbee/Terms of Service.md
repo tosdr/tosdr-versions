@@ -135,7 +135,7 @@ Tools
 * [Supported Crypto](https://coinsbee.com/en/cryptocurrencies/)
 * [How it Works](https://coinsbee.com/en/howitworks/)
 * [Newsletter](https://coinsbee.com/en/newsletter/)
-* [Events](https://coinsbee.com/en/events/)
+* [Event Calendar](https://coinsbee.com/en/events/)
 
 About Us
 
