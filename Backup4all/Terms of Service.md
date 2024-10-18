@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
     
-* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
+* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
     
-* [How to restore a backup from Backblaze](https://www.backup4all.com/how-to-restore-a-backup-from-backblaze-kb.html)  
+* [How to back up data files from Google Drive u ...](https://www.backup4all.com/how-to-back-up-data-files-from-google-drive-using-backup4all-kb.html)  
     
-* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
+* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
     
-* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
+* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
     
 
 Choose language:
