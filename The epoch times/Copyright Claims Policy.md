@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://www.theepochtimes.com/china/china-to-cut-bank-reserve-ratio-again-amid-economic-slowdown-5743474)
+    
+    NEW By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    
+    [![China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741776-GettyImages-2160638464-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-to-cut-bank-reserve-ratio-again-amid-economic-slowdown-5743474)
+* [In South Africa, Influx of Chinese and Russian ‘Instruments of War’ Sparks Geopolitical Concerns](https://www.theepochtimes.com/world/in-south-africa-influx-of-chinese-and-russian-instruments-of-war-sparks-geopolitical-concerns-5742968)
+    
+    NEW By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
+    
+    [![In South Africa, Influx of Chinese and Russian ‘Instruments of War’ Sparks Geopolitical Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In South Africa, Influx of Chinese and Russian ‘Instruments of War’ Sparks Geopolitical Concerns](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743030-GettyImages-1222705435-205x123.jpg.webp)](https://www.theepochtimes.com/world/in-south-africa-influx-of-chinese-and-russian-instruments-of-war-sparks-geopolitical-concerns-5742968)
+* [Most Americans Support Cellphone Restrictions in Schools, But Not All-Day Bans: Poll](https://www.theepochtimes.com/us/most-americans-support-cellphone-restrictions-in-schools-but-not-all-day-bans-poll-5743008)
+    
+    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Most Americans Support Cellphone Restrictions in Schools, But Not All-Day Bans: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Most Americans Support Cellphone Restrictions in Schools, But Not All-Day Bans: Poll](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707290-GettyImages-2081068951KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/most-americans-support-cellphone-restrictions-in-schools-but-not-all-day-bans-poll-5743008)
+* [5 Contestants Reach Finals in NTD’s International Piano Competition](https://www.theepochtimes.com/bright/5-contestants-reach-finals-in-ntds-international-piano-competition-5743343)
+    
+    6hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    
+    [![5 Contestants Reach Finals in NTD’s International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Contestants Reach Finals in NTD’s International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743424-NTD-Piano-competition-Jean-Luc-Therrien-205x123.jpg.webp)](https://www.theepochtimes.com/bright/5-contestants-reach-finals-in-ntds-international-piano-competition-5743343)
 * [Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://www.theepochtimes.com/us/judge-denies-trump-request-to-delay-releasing-smiths-evidence-until-after-election-5743108)
     
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    6hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569479-layout-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-trump-request-to-delay-releasing-smiths-evidence-until-after-election-5743108)
 * [Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://www.theepochtimes.com/article/day-in-photos-student-protest-drug-trafficking-operation-and-flooding-alert-5742941)
     
-    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743257-GettyImages-2178148933-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-student-protest-drug-trafficking-operation-and-flooding-alert-5742941)
 * [Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://www.theepochtimes.com/world/biden-harris-other-us-leaders-cheer-death-of-hamas-leader-yahya-sinwar-5743211)
     
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693861-Netanyahu-Biden-GettyImages-2162794101-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-other-us-leaders-cheer-death-of-hamas-leader-yahya-sinwar-5743211)
 * [Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://www.theepochtimes.com/health/key-updates-for-medicare-enrollees-and-what-you-need-to-know-for-2025-post-5743058)
     
-    4hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    10hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
     [![Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5503629-shutterstock_115761625-205x123.jpg.webp)](https://www.theepochtimes.com/health/key-updates-for-medicare-enrollees-and-what-you-need-to-know-for-2025-post-5743058)
 * [CCP Is Impersonating Americans to Influence 2024 Elections](https://www.theepochtimes.com/article/ccp-is-impersonating-americans-to-influence-2024-elections-5739796)
     
-    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    10hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![CCP Is Impersonating Americans to Influence 2024 Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![CCP Is Impersonating Americans to Influence 2024 Elections](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743324-China-Fake-American-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/ccp-is-impersonating-americans-to-influence-2024-elections-5739796)
 * [Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://www.theepochtimes.com/business/manufacturing-weakness-deepens-with-bigger-than-expected-decline-in-industrial-output-5743110)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735884-GettyImages-1810386707-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/manufacturing-weakness-deepens-with-bigger-than-expected-decline-in-industrial-output-5743110)
-* [Caitlin Clark Makes More History by Making All-WNBA First Team](https://www.theepochtimes.com/sports/caitlin-clark-makes-more-history-by-making-all-wnba-first-team-5742802)
-    
-    5hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
-    
-    [![Caitlin Clark Makes More History by Making All-WNBA First Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Caitlin Clark Makes More History by Making All-WNBA First Team](https://img.theepochtimes.com/assets/uploads/2024/10/id5735022-2.download-205x123.jpg.webp)](https://www.theepochtimes.com/sports/caitlin-clark-makes-more-history-by-making-all-wnba-first-team-5742802)
-* [Federal Agency Moves to Shield Thousands of Lebanese Nationals From Deportation](https://www.theepochtimes.com/us/federal-agency-moves-to-shield-thousands-of-lebanese-nationals-from-deportation-5743201)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Federal Agency Moves to Shield Thousands of Lebanese Nationals From Deportation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Agency Moves to Shield Thousands of Lebanese Nationals From Deportation](https://img.theepochtimes.com/assets/uploads/2024/08/30/id5715639-08122024-DSC06623-DHS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agency-moves-to-shield-thousands-of-lebanese-nationals-from-deportation-5743201)
-* [Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743312-Fox-NewsKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
-* [Father and Son Indicted on Murder Charges for Mass School Shooting in Georgia](https://www.theepochtimes.com/us/father-and-son-indicted-on-murder-charges-for-mass-school-shooting-in-georgia-5743159)
-    
-    6hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Father and Son Indicted on Murder Charges for Mass School Shooting in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Father and Son Indicted on Murder Charges for Mass School Shooting in Georgia](https://img.theepochtimes.com/assets/uploads/2024/10/id5742646-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/father-and-son-indicted-on-murder-charges-for-mass-school-shooting-in-georgia-5743159)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
