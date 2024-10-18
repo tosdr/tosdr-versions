@@ -43,6 +43,9 @@
         * [![Enteprise Multi-DRM](/images/enterprise-drm-mediacage.svg "Enteprise Multi-DRM")
             
             Enteprise Multi-DRM](https://bunny.net/stream/media-cage-enterprise-multi-drm-digital-rights-management/)
+        * [![Premium Encoding](/most-reliable-cdn.svg "Premium Encoding")
+            
+            Premium Encoding](https://bunny.net/stream/premium-encoding/)
         * [![Transcribe AI](/images/ai-automated-transcribed-subtitles.svg "Transcribe AI")
             
             Transcribe AI](https://bunny.net/stream/transcribe-ai/)
@@ -412,39 +415,39 @@ Easy to understand. Simple to follow.
 
 **Our Terms of Services (ToS) are designed to be read and understood by the average person. Before using our service, please read them carefully and make sure you understand everything they say. Our Terms of Service are a legally binding contract between bunny.net and you.**
 
-Referred hereinafter as 'BUNNYNET', 'bunny.net', 'our', 'we' and 'us'; is a content delivery network service provider. All customers using our service are subject to the terms and conditions described in this document as well as the Acceptable Use Policy described [here](https://bunny.net/acceptable-use/). We reserve the right to make alterations to these documents whenever required. It is the client's sole responsibility to check for updates on a regular basis.
+Referred to hereinafter as 'BUNNYNET,' 'bunny.net,' 'our,' 'we,' and 'us,' is a content delivery network service provider. All customers using our service are subject to the terms and conditions described in this document, as well as the Acceptable Use Policy described [here](https://bunny.net/acceptable-use/). We reserve the right to make alterations to these documents whenever required. It is the client's sole responsibility to check for updates on a regular basis.
 
 ![bunnynet Terms of Service](/images/bunnynet-terms-of-service.svg "bunnynet Terms of Service")
 
-Privacy & Data Policy
+Privacy & data policy
 ---------------------
 
-bunny.net is committed to complete transparency in how we handle your data. We have prepared a complete a detailed, but easy to understand privacy and data policy. By using our service, you agree that you have read and accepted the terms outlined in the policy.
+bunny.net is committed to complete transparency in how we handle your data. We have prepared a detailed but easy-to-understand privacy and data policy. By using our service, you agree that you have read and accepted the terms outlined in the policy.
 
 Pricing
 -------
 
-bunny.net's service costs and pricing may be changed from time to time at bunny.net's sole discretion. All the payments are paid in advance and not refundable. All the prices stated by us are subject to change and may be changed from time to time at bunny.net's sole discretion.
+bunny.net's service costs and pricing may be changed from time to time at bunny.net's sole discretion. All payments are paid in advance and are not refundable. All the prices stated by us are subject to change and may be changed from time to time at bunny.net's sole discretion.
 
-Account Termination
+Account termination
 -------------------
 
-You agree that bunny.net might, under certain circumstances and without prior notice terminate your account and restrict access to our service. Causes for this include but are not limited to: violations of the Terms of Service and Acceptable Use Policy, requests by law enforcement or other government agencies and/or having provided false information as part of your account. All terminations will be made in bunny.net's sole discretion and we will not be liable for any disruption or damage to you or your service that such a termination might cause. Once your account has been terminated we reserve the right to delete all the data associated with it without the option to restore it.
+You agree that bunny.net might, under certain circumstances and without prior notice, terminate your account and restrict access to our service. Causes for this include but are not limited to: violations of the Terms of Service and Acceptable Use Policy, requests by law enforcement or other government agencies, and/or having provided false information as part of your account. All terminations will be made at bunny.net's sole discretion, and we will not be liable for any disruption or damage to you or your service that such a termination might cause. Once your account has been terminated, we reserve the right to delete all data associated with it, without the option to restore it.
 
-Content Hosting
+Content hosting
 ---------------
 
-In order for us to distribute your content on our network, it is necessary for our servers to make and store copies of your files. By using our service you acknowledge that these copies are being made and give us permission to maintain them and distribute them to users on the internet. This does not give us any ownership of your content, you still retain all ownership and any intellectual property rights.
+In order for us to distribute your content on our network, it is necessary for our servers to make and store copies of your files. By using our service, you acknowledge that these copies are being made and give us permission to maintain and distribute them to users on the internet. This does not give us any ownership of your content—you still retain all ownership and intellectual property rights.
 
-Service Level Agreement
+Service level agreement
 -----------------------
 
-bunny.net will use all possible efforts to keep your service running 24 hours a day, 7 days a week as long as you abide by our Terms Of Service. We are aiming for at least a 99.995% monthly uptime for our content delivery service, however sometimes for a number of reasons, it may be unavailable to you. You recognize and acknowledge that occasional unavailability of the services will occur. We make no warranty or assurance that the service will be running uninterrupted. We do not guarantee to provide support outside of normal business hours unless specifically stated by us.
+bunny.net will use all possible efforts to keep your service running 24 hours a day, 7 days a week, as long as you abide by our Terms of Service. We aim for at least a 99.995% monthly uptime for our content delivery service; however, sometimes, for a number of reasons, it may be unavailable to you. You recognize and acknowledge that occasional unavailability of the services will occur. We make no warranty or assurance that the service will run uninterrupted. We do not guarantee to provide support outside of normal business hours unless specifically stated by us.
 
 Limitation of liability
 -----------------------
 
-To the extent allowed by applicable law, in no event, shall bunny.net, its affiliates, directors, or employees be liable for any damages whatsoever, including without limitation, any loss of profits, loss of business, loss of use or data, interruption of business, or for direct, indirect, special, incidental or consequential damages of any kind.
+To the extent allowed by applicable law, in no event shall bunny.net, its affiliates, directors, or employees be liable for any damages whatsoever, including, without limitation, any loss of profits, loss of business, loss of use or data, interruption of business, or for direct, indirect, special, incidental, or consequential damages of any kind.
 
 **To the extent allowed by applicable law, in no event shall bunny.net or its affiliates, directors, or employees be liable for the following:**
 
@@ -460,7 +463,7 @@ To the extent allowed by applicable law, in no event, shall bunny.net, its affil
 DMCA
 ----
 
-We respect artist and content owner rights and are not a platform for distributing copyrighted content. You must do the same. In accordance with the Digital Millennium Copyright Act (DMCA), we have adopted a policy to terminate the accounts of customers found to be repeatedly violating of copyright without the right to a refund.
+We respect artists' and content owners' rights and are not a platform for distributing copyrighted content. You must do the same. In accordance with the Digital Millennium Copyright Act (DMCA), we have adopted a policy to terminate the accounts of customers found to be repeatedly violating copyright without the right to a refund.
 
 **For your complaint to be valid under the DMCA, you must provide the following information in writing:**
 
@@ -468,11 +471,11 @@ We respect artist and content owner rights and are not a platform for distributi
     
 * Identification of the copyrighted work that you claim has been infringed
     
-* Identification of the material that is claimed to be infringing and where it is located on the Service
+* Identification of the material that is claimed to be infringing and where it is located on the service
     
-* Information reasonably sufficient to permit bunny.net to contact you, such as your address, telephone number, and, email address
+* Information reasonably sufficient to permit bunny.net to contact you, such as your address, telephone number, and email address
     
-* A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law
+* A statement that you have a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law
     
 * A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner
     
@@ -488,11 +491,11 @@ Email: support@bunnycdn.com_
 Start Your 14 Day Free Trial
 ----------------------------
 
-Join over 50,000+ satisfied customers already using bunny.net
+Join 50,000+ satisfied customers already using bunny.net.
 
 [Start FREE Trial](https://dash.bunny.net/auth/register?pk_buttonlocation=footer&pk_buttonurl=tos)
 
-No credit card required – Complete Registration in under 2 minutes.
+No credit card required. Complete setup in 2 minutes.
 
 ![bunny.net](/images/bunnynet-content-delivery-network.svg "bunny.net")
 
