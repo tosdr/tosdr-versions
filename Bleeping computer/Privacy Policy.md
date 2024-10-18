@@ -36,18 +36,18 @@
         
         Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
     
-    * [![Begin an IT career with this $50 CompTIA certification prep deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![ESET partner breached to send data wipers to Israeli orgs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Begin an IT career with this $50 CompTIA certification prep deal](https://www.bleepingcomputer.com/offer/deals/begin-an-it-career-with-this-50-comptia-certification-prep-deal/)
-    * [![Microsoft warns it lost some customer's security logs for a month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        ESET partner breached to send data wipers to Israeli orgs](https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
+    * [![Tech giant Nidec confirms data breach following ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
-    * [![Fake Google Meet conference errors push infostealing malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Tech giant Nidec confirms data breach following ransomware attack](https://www.bleepingcomputer.com/news/security/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
+    * [![Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fake Google Meet conference errors push infostealing malware](https://www.bleepingcomputer.com/news/security/fake-google-meet-conference-errors-push-infostealing-malware/)
-    * [![FBI arrest Alabama man suspected of hacking SEC's X account](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
+    * [![How to leverage $200 million FCC program boosting K-12 cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI arrest Alabama man suspected of hacking SEC's X account](https://www.bleepingcomputer.com/news/security/fbi-arrest-alabama-man-suspected-of-hacking-secs-x-account/)
+        How to leverage $200 million FCC program boosting K-12 cybersecurity](https://www.bleepingcomputer.com/news/security/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,12 +442,12 @@ Popular Stories
 * [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
-* [![Amazon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
 * [![Microsoft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
+* [![Amazon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
 
 ##### Follow us:
 
