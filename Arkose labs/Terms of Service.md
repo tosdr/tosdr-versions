@@ -83,8 +83,8 @@
     [Book a demo today](https://www.arkoselabs.com/bot-management-demo/)
     
 * [Resources](https://www.arkoselabs.com/resources/)
-    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)
     * [Blog](https://www.arkoselabs.com/blog/)
+    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
@@ -190,8 +190,8 @@
     * [Services & Support](https://www.arkoselabs.com/services/)
     * [Partnerships & Integrations](https://www.arkoselabs.com/partner-with-us/)
 * [Resources](https://www.arkoselabs.com/resources/)
-    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)
     * [Blog](https://www.arkoselabs.com/blog/)
+    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
@@ -366,7 +366,3 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
-
-                                                  
-
-https://www.arkoselabs.com/
