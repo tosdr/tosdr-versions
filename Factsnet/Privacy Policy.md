@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![38 Facts About Hallgrimskirkja ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/38-facts-about-hallgrimskirkja/)
+[![30 Facts About Fraipontite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-fraipontite/)
 
-Landmarks
+Earth Sciences
 
-17 Oct 2024
+18 Oct 2024
 
-[38 Facts About Hallgrimskirkja](https://facts.net/world/landmarks/38-facts-about-hallgrimskirkja/)
+[30 Facts About Fraipontite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-fraipontite/)
 
-[![25 Facts About Pakistani Cities ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2297%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/cities/25-facts-about-pakistani-cities/)
+[![40 Facts About Thaumatin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/40-facts-about-thaumatin/)
 
-Cities
+Chemistry
 
-17 Oct 2024
+18 Oct 2024
 
-[25 Facts About Pakistani Cities](https://facts.net/world/cities/25-facts-about-pakistani-cities/)
+[40 Facts About Thaumatin](https://facts.net/science/chemistry/40-facts-about-thaumatin/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
