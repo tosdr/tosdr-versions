@@ -229,7 +229,6 @@ CLIA #05D2081492 - CAP #8975161
 * [Terms of Service](https://www.color.com/policies/tos) -
 * [Privacy Notice](https://www.color.com/policies/privacy) -
 * [Notice of Privacy Practices](https://www.color.com/policies/notice-of-privacy-practices) -
-* [Reporting a Security Vulnerability](https://www.color.com/security/vulnerability-reporting) -
 * [](#cookies)[Cookie Management Center](#)
 
 ![Footer Color Kit](https://www.color.com/wp-content/uploads/2023/03/footer-reveal-kit-midnight.jpg)
