@@ -35,6 +35,7 @@
     * [Volunteer](https://www.uwkc.org/volunteer/)
         * [Free Tax Preparation](https://www.uwkc.org/volunteer/free-tax-prep/)
         * [Celebrating Dr. King’s Legacy](https://www.uwkc.org/volunteer/mlk-day-of-service/)
+        * [Volunteerism Offerings Menu](https://www.uwkc.org/volunteer/volunteerism-menu/)
     * [Connect](https://www.uwkc.org/get-involved/connect/)
         * [Emerging Leaders 365](https://www.uwkc.org/emerging-leaders-365/)
         * [Change Makers](https://www.uwkc.org/change-makers/)
