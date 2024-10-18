@@ -218,9 +218,27 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
-Sorry, we couldn't find any posts. Please try a different search.
+[![FCARI Conference image only](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/FCARI-Conference-image-only-1-landscape-fe6970067cabe80a8470698543dd8409-.jpg "FCARI Conference image only")](https://www.unitedwayri.org/event/caring-for-family-caregivers-conference-2/)
 
-### Search
+14 Nov
+
+#### [Join us at the 6th Annual Family Caregivers Alliance of RI Conference](https://www.unitedwayri.org/event/caring-for-family-caregivers-conference-2/ "Join us at the 6th Annual Family Caregivers Alliance of RI Conference")
+
+Our Voices, Our Stories: Centering the Unique Needs  
+of Caregivers in Rhode Island  
+Nuestras Voces, Nuestras Historias: Centrando las Necesidades únicas  
+de los Cuidadores en Rhode Island
+
+The Family Caregivers Alliance of Rhode Island conference will provide free resources, tools and community connections for caregivers. Topics will range from self-care, tips for stress management, getting a break through respite, strategies for caring for your loved one with a dementia or Alzheimer’s diagnosis, to understanding how to access programs and effectively communicating with community based organizations.
+
+If you help an older family member or friend with daily activities such as cleaning, personal care, shopping trips, or doctor’s appointments; if you are grandparent who became a primary caregiver to your grandchildren, a parent caring for a child with special needs; or if you are a professional seeking to better understand the unique needs of our caregiving community and learn tips to improve your models of care, we invite you to join us!
+
+Breakfast and Lunch will be served for all attendants. Spanish, Portuguese and ASL translators available.
+
+Thursday, November 14, 2024  
+8:30 a.m. - 3:00 p.m.  
+Crowne Plaza Hotel | Plaza Ballroom  
+801 Greenwich Ave, Warwick RI 02886
 
 ### Subscribe to add impact to your inbox
 
