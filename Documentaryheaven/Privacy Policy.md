@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Steve Jobs: Billion Dollar Hippy](/wp-content/thumbnails/6277-100x70.png?x53432)
+* [![Interview with a Poltergeist](/wp-content/thumbnails/8167-100x70.png?x53432)
     
-    Steve Jobs: Billion Dollar Hippy
+    Interview with a Poltergeist
     
-    Broadly considered a brand that inspires fervour and defines cool consumerism, Apple has become one of the biggest corporations in the world, fuelled by game-changing products that tap into modern des](https://documentaryheaven.com/steve-jobs-billion-dollar-hippy/ "Steve Jobs: Billion Dollar Hippy")
-* [![The Fantastical World of Hormones](/wp-content/thumbnails/8844-100x70.jpg?x53432)
+    The Enfield Poltergeist was a period of apparent poltergeist activity which occurred in the village of Brimsdown, in the borough of Enfield, England. The activity began when single parent, Peggy Hodgs](https://documentaryheaven.com/interview-with-poltergeist/ "Interview with a Poltergeist")
+* [![The FIFA Story](/wp-content/thumbnails/10148-100x70.jpg?x53432)
     
-    The Fantastical World of Hormones
+    The FIFA Story
     
-    Theres a mysterious set of chemicals that flow through every part of our bodies, they can rule our lives and shape our destinies, they turn children into adults, they govern our appetites and they eve](https://documentaryheaven.com/fantastical-world-hormones/ "The Fantastical World of Hormones")
-* [![The Secret of Drawing](/wp-content/thumbnails/9894-100x70.jpg?x53432)
+    FIFA is one of those video games that everyone has played, when you think of football games you think of FIFA. The game franchise was originally released back in 1993 and since then EA Sports have inc](https://documentaryheaven.com/fifa-story/ "The FIFA Story")
+* [![The Cleveland Strangler](/wp-content/thumbnails/10217-100x70.jpg?x53432)
     
-    The Secret of Drawing
+    The Cleveland Strangler
     
-    Once upon a time the ability to draw was seen as the first and most essential skill of any artist, but in the age of the unmade bed and the pickled shark, drawing is widely perceived as an old fashion](https://documentaryheaven.com/secret-of-drawing/ "The Secret of Drawing")
-* [![Inside Mecca](/wp-content/thumbnails/1187-100x70.jpg?x53432)
+    They say that death is the great equalizer, that no matter who you are or where your from we all turn to dust in the end but in Cleveland where Wilbert L. Cooper was born and raised life has long been](https://documentaryheaven.com/the-cleveland-strangler/ "The Cleveland Strangler")
+* [![Visions of the Future](/wp-content/thumbnails/1760-100x70.jpg?x53432)
     
-    Inside Mecca
+    Visions of the Future
     
-    For over 1400 years, Mecca has been one of the most important cities in the Arabian Peninsula. By the middle of the 6th century, there were three major settlements in northern Arabia, all along the so](https://documentaryheaven.com/inside-mecca/ "Inside Mecca")
-* [![The Gorilla King](/wp-content/thumbnails/9231-100x70.jpg?x53432)
+    In this new three-part documentary, leading theoretical physicist and futurist Dr Michio Kaku explores the cutting edge science of today, tomorrow, and beyond. He argues that humankind is at a turning](https://documentaryheaven.com/visions-of-the-future/ "Visions of the Future")
+* [![One Night In Cologne](/wp-content/thumbnails/11740-100x70.jpg?x53432)
     
-    The Gorilla King
+    One Night In Cologne
     
-    High on the Virunga Volcanos of Rwanda lives a lost tribe, one of our closest living relatives, the Mountain Gorilla. This particular mountain is a dangerous one, and no more so than for one](https://documentaryheaven.com/gorilla-king/ "The Gorilla King")
+    In the last year more than 1 million asylum seekers, many flocked when the German chancellor Angela Merkel declared the borders open to Syrians. However a panicked Europe is now locking down on who it](https://documentaryheaven.com/one-night-in-cologne/ "One Night In Cologne")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
