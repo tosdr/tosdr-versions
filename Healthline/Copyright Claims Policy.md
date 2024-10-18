@@ -190,26 +190,14 @@
 
 Subscribe
 
-[#### Nutrition](https://www.healthline.com/nutrition)
+[#### Weight Management](https://www.healthline.com/weight-management)
 
-* Meal Kits
-    
-    * [Overview](https://www.healthline.com/nutrition/meal-kits)
-    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
-    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
-    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
-    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
-    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
-    
-* [Special Diets](https://www.healthline.com/nutrition/diets)
-* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
-* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
-* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
-* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
-* [Products](https://www.healthline.com/reviews/nutrition-products)
-* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
-* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
-* [Weight Management](https://www.healthline.com/nutrition/weight-management)
+* [Nutrition](https://www.healthline.com/weight-management/nutrition)
+* [Fitness](https://www.healthline.com/weight-management/fitness)
+* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
+* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
+* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
+* [Apps](https://www.healthline.com/weight-management/apps-products)
 
 Ad & Sponsorship Policy
 =======================
@@ -254,9 +242,6 @@ As part of the [article creation process](https://www.healthline.com/product-sel
 ---------------------------------------------------------------------
 
 Occasionally Healthline Media will work with products, services, or organizations that align with our mission. Healthline Media vets these products, services, or organizations for quality and only presents what it feels is valuable to and in the best interest of our users. Healthline Media does not medically review the content and is not responsible for providing the products or services described on these pages. Any partner content of this type will be labeled with language that indicates it did not go through our standard editorial process and follows these Ad and Sponsorship Policy guidelines. In the instances where Healthline Media receives a payment when users purchase or sign up for the product or service, the page may also include this language: “Healthline and our partners may receive a portion of revenues if you make a purchase using a link above.” Partner pages may also include a “what’s this” link that takes users to a page that explains the nature of the partnership.
-
-**Resource not available**  
-We're unable to show some of our resources at this time. We're sorry for any inconvenience.
 
 * [About Us](https://www.healthline.com/about)
 * [Contact Us](https://www.healthline.com/about/contact-us)
