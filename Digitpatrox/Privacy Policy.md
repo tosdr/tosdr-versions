@@ -20,16 +20,16 @@ Friday, October 18 2024
 
 Latest
 
-* [Ransomware Attacks Growing More Dangerous, Complex](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
-* [NYT Connections today hints and answers — Friday, October 18 (#495)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
-* [Microsoft warns it lost some customer’s security logs for a month](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
-* [The best iPhones to buy in 2024](https://digitpatrox.com/the-best-iphones-to-buy-in-2024/)
-* [Demon Slayer: How Is Tanjiro Related to Yoriichi?](https://digitpatrox.com/demon-slayer-how-is-tanjiro-related-to-yoriichi/)
-* [How to watch Australian Survivor in the USA](https://digitpatrox.com/how-to-watch-australian-survivor-in-the-usa/)
-* [UiPath and SAP team up to streamline cloud migrations](https://digitpatrox.com/uipath-and-sap-team-up-to-streamline-cloud-migrations/)
-* [Run a business? Then you need to join this Apple service – Computerworld](https://digitpatrox.com/run-a-business-then-you-need-to-join-this-apple-service-computerworld/)
-* [My Favorite Amazon Deal of the Day: The Samsung Galaxy Ring](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-samsung-galaxy-ring/)
-* [What is The Ytmp3.cc virus and How Can You Remove it?](https://digitpatrox.com/what-is-the-ytmp3-cc-virus-and-how-can-you-remove-it/)
+* [Google Chrome Is Fixing Autofill on Android Phones](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
+* [A Complete Guide For 2024](https://digitpatrox.com/a-complete-guide-for-2024/)
+* [No, not pull-ups — personal trainer recommends this one exercise that builds upper body strength without weights](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
+* [Fake Google Meet conference errors push infostealing malware](https://digitpatrox.com/fake-google-meet-conference-errors-push-infostealing-malware/)
+* [Amazon will stream a live election special hosted by Brian Williams](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
+* [How to Post Anonymously on Facebook](https://digitpatrox.com/how-to-post-anonymously-on-facebook/)
+* [How to remove mugshots from the internet](https://digitpatrox.com/how-to-remove-mugshots-from-the-internet/)
+* [About that brawl between the WordPress co-founder and WP Engine… – Computerworld](https://digitpatrox.com/about-that-brawl-between-the-wordpress-co-founder-and-wp-engine-computerworld/)
+* [The Best Horror Movies That Aren’t Too Scary to Watch With Your Kids](https://digitpatrox.com/the-best-horror-movies-that-arent-too-scary-to-watch-with-your-kids/)
+* [Ransomware gang claims it breached Tennessee school district, disrupted internet access](https://digitpatrox.com/ransomware-gang-claims-it-breached-tennessee-school-district-disrupted-internet-access/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241017-microsoft-ransomware-attacks-grew-2024-.jpg)](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chrome2.jpg)](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
     
-    [Ransomware Attacks Growing More Dangerous, Complex](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
+    [Google Chrome Is Fixing Autofill on Android Phones](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
     
-    3 mins ago
+    2 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/wNvLvjTssKAz44xARheeHW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241017-pos-terminals.jpg)](https://digitpatrox.com/a-complete-guide-for-2024/)
     
-    [NYT Connections today hints and answers — Friday, October 18 (#495)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
-    
-    18 mins ago
-    
-* [![](https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg)](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
-    
-    [Microsoft warns it lost some customer’s security logs for a month](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
-    
-    46 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/Ert0djYK8bso4_YTb8kG9d6eM58=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652775/247288_iPhone_Buying_Guides_2_CVirginia.jpg)](https://digitpatrox.com/the-best-iphones-to-buy-in-2024/)
-    
-    [The best iPhones to buy in 2024](https://digitpatrox.com/the-best-iphones-to-buy-in-2024/)
+    [A Complete Guide For 2024](https://digitpatrox.com/a-complete-guide-for-2024/)
     
     1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/tanjiro-yoriichi-demon-slayer.jpg)](https://digitpatrox.com/demon-slayer-how-is-tanjiro-related-to-yoriichi/)
+* [![](https://cdn.mos.cms.futurecdn.net/SHTFkbTmWNHEhWmmRYS7kZ-1200-80.jpg)](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
     
-    [Demon Slayer: How Is Tanjiro Related to Yoriichi?](https://digitpatrox.com/demon-slayer-how-is-tanjiro-related-to-yoriichi/)
+    [No, not pull-ups — personal trainer recommends this one exercise that builds upper body strength without weights](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
     
     1 hour ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2024/04/24/meet-2.jpg)](https://digitpatrox.com/fake-google-meet-conference-errors-push-infostealing-malware/)
+    
+    [Fake Google Meet conference errors push infostealing malware](https://digitpatrox.com/fake-google-meet-conference-errors-push-infostealing-malware/)
+    
+    2 hours ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/6C8OpvYEs71fFNQbuXCgZpuLWjk=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25685860/prime_video_election_night_brian_williams.jpg.png)](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
+    
+    [Amazon will stream a live election special hosted by Brian Williams](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [2 mins ago
     
-    ### Ransomware Attacks Growing More Dangerous, Complex](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
-* [18 mins ago
+    ### Google Chrome Is Fixing Autofill on Android Phones](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
+* [1 hour ago
     
-    ### NYT Connections today hints and answers — Friday, October 18 (#495)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
-* [46 mins ago
+    ### A Complete Guide For 2024](https://digitpatrox.com/a-complete-guide-for-2024/)
+* [1 hour ago
     
-    ### Microsoft warns it lost some customer’s security logs for a month](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
+    ### No, not pull-ups — personal trainer recommends this one exercise that builds upper body strength without weights](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
 
 Most Popular Topics
 
-* [5 days ago
+* [1 week ago
     
-    ### Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
-* [2 days ago
+    ### Big shift in IT employment shows new skills are needed – Computerworld](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
+* [August 15, 2024
     
-    ### Vendor Spotlight: CoSoSys](https://digitpatrox.com/vendor-spotlight-cososys/)
-* [5 days ago
+    ### NYT Strands Today: Hints, Answers & Spangram for August 15](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-august-15/)
+* [August 15, 2024
     
-    ### 8 Stats That Explain Why Gen Z Prefers Video Games to Movies](https://digitpatrox.com/8-stats-that-explain-why-gen-z-prefers-video-games-to-movies/)
+    ### The Nintendo Switch Lite (With ‘Animal Crossing New Horizons’) Is on Sale for $159](https://digitpatrox.com/the-nintendo-switch-lite-with-animal-crossing-new-horizons-is-on-sale-for-159/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### UiPath and SAP team up to streamline cloud migrations](https://digitpatrox.com/uipath-and-sap-team-up-to-streamline-cloud-migrations/)
-* [3 hours ago
-    
-    ### Run a business? Then you need to join this Apple service – Computerworld](https://digitpatrox.com/run-a-business-then-you-need-to-join-this-apple-service-computerworld/)
+    ### How to remove mugshots from the internet](https://digitpatrox.com/how-to-remove-mugshots-from-the-internet/)
 * [4 hours ago
     
-    ### My Favorite Amazon Deal of the Day: The Samsung Galaxy Ring](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-samsung-galaxy-ring/)
+    ### About that brawl between the WordPress co-founder and WP Engine… – Computerworld](https://digitpatrox.com/about-that-brawl-between-the-wordpress-co-founder-and-wp-engine-computerworld/)
+* [4 hours ago
+    
+    ### The Best Horror Movies That Aren’t Too Scary to Watch With Your Kids](https://digitpatrox.com/the-best-horror-movies-that-arent-too-scary-to-watch-with-your-kids/)
 
 Most Viewed Topics
 
-* [August 28, 2024
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+* [August 21, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
