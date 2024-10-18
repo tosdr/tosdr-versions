@@ -976,3 +976,58 @@ Get Your Quote![Loading](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAA
 ![Loading](https://www.roadwaymoving.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg)
 
 [Get Your Quote](https://roadwaymoving.com/full-form/?wm_ev=sticky-form-btn)
+
+❅
+
+❅
+
+❆
+
+❄
+
+❅
+
+❆
+
+❄
+
+❅
+
+❆
+
+❄
+
+❅
+
+❅
+
+❆
+
+❄
+
+❅
+
+❆
+
+❄
+
+❅
+
+❆
+
+❄
+
+SPIN TO WIN!
+------------
+
+* _Try your lucky to get discount coupon_
+* _1 spin per email_
+* _No cheating_
+
+Try Your Lucky
+
+Never
+
+Remind later
+
+No thanks
