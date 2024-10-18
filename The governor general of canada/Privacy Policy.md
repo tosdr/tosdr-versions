@@ -93,7 +93,6 @@ Enter your keywords
 
 * [About the Office](https://www.gg.ca/en/the-office)
 * [Reports](https://www.gg.ca/en/the-office/reports)
-* [Accessibility](https://www.gg.ca/en/the-office/accessibility)
 * [Terms & Conditions](https://www.gg.ca/en/the-office/terms-and-conditions)
 * [Privacy](https://www.gg.ca/en/the-office/privacy)
 
@@ -196,7 +195,6 @@ The Office
 
 * [About the Office](https://www.gg.ca/en/the-office)
 * [Reports](https://www.gg.ca/en/the-office/reports)
-* [Accessibility](https://www.gg.ca/en/the-office/accessibility)
 * [Terms & Conditions](https://www.gg.ca/en/the-office/terms-and-conditions)
 * [Privacy](https://www.gg.ca/en/the-office/privacy)
 
