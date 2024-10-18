@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB 1,000 Round Review: PSA Sabre 15 (Duty Grade Or Don't-y Grade?)](https://www.thegunpage.com/tfb-1000-round-review-psa-sabre-15-duty-grade-or-dont-y-grade/10611277)
+* [POTD: Sandstorm by Daniel Defense](https://www.thegunpage.com/potd-sandstorm-by-daniel-defense/10611278)
+* [Concealed Carry Corner: Carrying In A System](https://www.thegunpage.com/concealed-carry-corner-carrying-in-a-system/10611279)
+* [C&H Precision Introduces The EDC Enclosed](https://www.thegunpage.com/ch-precision-introduces-the-edc-enclosed/10611273)
+* [Harris’ Actions on Guns Speak Louder Than Her Campaign Rhetoric](https://www.thegunpage.com/harris-actions-on-guns-speak-louder-than-her-campaign-rhetoric/10611271)
 * [X-Vision Optics Unveils the Shadow 10 Night Vision Binocular](https://www.thegunpage.com/x-vision-optics-unveils-the-shadow-10-night-vision-binocular/10611270)
 * [Walgreens Employee With Concealed Carry License Fatally Shoots Suspected Thief](https://www.thegunpage.com/walgreens-employee-with-concealed-carry-license-fatally-shoots-suspected-thief/10611269)
 * [MA: Anti-Liberty Super Bill Update](https://www.thegunpage.com/ma-anti-liberty-super-bill-update/10611268)
 * [Maryville, TN Police Department Awards Contract to Smith & Wesson](https://www.thegunpage.com/maryville-tn-police-department-awards-contract-to-smith-wesson/10611262)
 * [Taurus Pocket .22 Returns as the New 22TUC](https://www.thegunpage.com/taurus-pocket-22-returns-as-the-new-22tuc/10611261)
-* [TFB Behind the Gun #137: Modern Military Movie Guns w/ Darwin](https://www.thegunpage.com/tfb-behind-the-gun-137-modern-military-movie-guns-w-darwin/10611263)
-* [Instagram Post Leads To Arrests At Indianapolis Gun And Drug Bust](https://www.thegunpage.com/instagram-post-leads-to-arrests-at-indianapolis-gun-and-drug-bust/10611260)
-* [The History of PKM, the Most Common Machine Gun In the World. Part 5](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-5/10611256)
-* [POTD: Winkler Knives Push Dagger EDC](https://www.thegunpage.com/potd-winkler-knives-push-dagger-edc/10611257)
-* [Wheelgun Wednesday: NEW Charter Arms Double Dog Revolver Series](https://www.thegunpage.com/wheelgun-wednesday-new-charter-arms-double-dog-revolver-series/10611258)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
