@@ -90,19 +90,19 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/do-black-newborns-fare-better-with-black-doctors-1.jpg)[](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse.jpg)[](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/ "Read More")
 
-Issue Brief Governance, Culture, Health
+Report Public Safety, Governance
 
-Oct 15 2024
+Oct 17 2024
 
-Issue Brief Governance, Culture, Health
+Report Public Safety, Governance
 
-Oct 15 2024
+Oct 17 2024
 
-### [Do Black Newborns Fare Better with Black Doctors?](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/) The Limits of Measuring Racial Concordance
+### [Not Taking Crime Seriously](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/) California’s Prop 47 Exacerbated Crime and Drug Abuse
 
-By **[George J. Borjas](https://admin.mi52siterestore.com/person/george-j-borjas/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **18 mins** [Read More](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/)
+By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **29 mins** [Read More](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/fed-independence-trump-treasury-powell.jpg)[](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/ "Read More")
 
@@ -113,6 +113,16 @@ Oct 15 2024
 [The Fed Isn’t as Independent as It Seems](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/)
 
 By **[Stephen Miran](https://admin.mi52siterestore.com/person/stephen-miran/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/do-black-newborns-fare-better-with-black-doctors-1.jpg)[](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/ "Read More")
+
+Issue Brief Governance, Culture, Health
+
+Oct 15 2024
+
+[Do Black Newborns Fare Better with Black Doctors? The Limits of Measuring Racial Concordance](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/)
+
+By **[George J. Borjas](https://admin.mi52siterestore.com/person/george-j-borjas/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **18 mins** [Read More](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/american-universities-continue-to-underreport-foreign-money.jpg)[](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/ "Read More")
 
@@ -133,16 +143,6 @@ Oct 14 2024
 [The Question Hanging over Harris’s Campaign](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/)
 
 By **[Reihan Salam](https://admin.mi52siterestore.com/person/reihan-salam/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all.jpg)[](https://admin.mi52siterestore.com/article/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all/ "Read More")
-
-Commentary Governance, Economics Supreme Court
-
-Oct 12 2024
-
-[A Supreme Court Case in Hawaii Could Raise Gas Costs for Us All](https://admin.mi52siterestore.com/article/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all/)
-
-By **[Jordan McGillis](https://admin.mi52siterestore.com/person/jordan-mcgillis/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all/)
 
 Our Policy Areas
 ----------------
