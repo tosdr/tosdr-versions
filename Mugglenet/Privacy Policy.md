@@ -244,12 +244,6 @@ MuggleNet Archive Select Month October 2024  (10) September 2024  (30) August 
 
 ### October 2024
 
-#### Thu, Oct 17
-
-Filius Flitwick's birthday
-
-Recurs yearly
-
 #### Fri, Oct 18
 
 Toby Regbo's birthday
@@ -300,6 +294,12 @@ Recurs yearly
 
 Seraphina Picquery
 
+#### Thu, Oct 24
+
+Angelina Johnson's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming for Harry Potter and the Chamber of Secrets, many of the child actors got lice.
+Six different actors have played Lord Voldemort in the Harry Potter films.
 
 ### Potter History
 
-October 19, 2007 – Dumbledore is revealed to be gay at a reading of Harry Potter and the Deathly Hallows in New York City.
+August 13, 2006 – Daniel Radcliffe said that he “will bare it all” upon assuming the role of Alan Strang in London’s West End play, Equus.
 
 ### Potter Quote
 
-“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
+“Now let’s get upstairs and fight, or all the good Death Eaters’ll be taken.”
 
 [](#)
 
