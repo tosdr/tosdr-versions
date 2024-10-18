@@ -19,9 +19,7 @@ Friday, October 18, 2024
     * [People Facts](https://factpros.com/category/people/)
 * [Privacy Policy](https://factpros.com/privacy-policy/)
 
-[![Fact Pros](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20400'%3E%3C/svg%3E)
-
-![Fact Pros](https://36e04e82.rocketcdn.me/wp-content/uploads/2023/12/FactPros-header.webp)](https://factpros.com/ "Fact Pros")
+[![Fact Pros](https://36e04e82.rocketcdn.me/wp-content/uploads/2023/12/FactPros-header.webp)](https://factpros.com/ "Fact Pros")
 
 You are here:[Home](https://factpros.com/) » **Privacy Policy**
 
