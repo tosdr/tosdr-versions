@@ -203,13 +203,13 @@ Connect with us
 
 Noteworthy
 
-![](https://www.renaissance.com/wp-content/uploads/2024/09/student-drawing-shutterstock_2409566945.jpg)
+![Fast Company logo](https://www.renaissance.com/wp-content/uploads/2024/09/fast-company-renaissance-2024-innovators-243x300.jpg)
 
-Understanding Dyslexia
+Renaissance recognized for innovation
 
-Download our popular whitepaper for a deeper understanding of dyslexia—and strategies for supporting students through early screening, instruction, and targeted intervention.
+Renaissance ranks #24 on _Fast Company_’s 100 Best Places to Work for Innovators List, honoring our commitment to creating impactful solutions to empower educators.
 
-Download now
+Learn more
 
 ![three smiling people](https://www.renaissance.com/wp-content/uploads/2022/07/TaxWarrantyBanner.webp)
 
