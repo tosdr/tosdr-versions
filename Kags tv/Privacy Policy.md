@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KENS/images/a3707f74-7417-4261-9a55-005b5cc95970/20240819T203543/a3707f74-7417-4261-9a55-005b5cc95970_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/a3707f74-7417-4261-9a55-005b5cc95970/20240819T203543/a3707f74-7417-4261-9a55-005b5cc95970_360x203.jpg)](https://www.kagstv.com/article/news/politics/elections/ted-cruz-in-lorena-and-college-station-oct-18-2024/500-a77fe333-dbfb-4d52-bb17-b195d1b300a5)
+        
+        #### [Ted Cruz to host two rallies in Lorena, College Station](https://www.kagstv.com/article/news/politics/elections/ted-cruz-in-lorena-and-college-station-oct-18-2024/500-a77fe333-dbfb-4d52-bb17-b195d1b300a5)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/ce2a152a-3da3-450d-806d-ef3a485fd524/20241017T171213/ce2a152a-3da3-450d-806d-ef3a485fd524_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/ce2a152a-3da3-450d-806d-ef3a485fd524/20241017T171213/ce2a152a-3da3-450d-806d-ef3a485fd524_360x203.jpg)](https://www.kagstv.com/article/news/crime/darrell-edwin-hemann-shandi-imhoff-pursuit-arrests-oct-16-2024/500-413dc257-f069-4d63-8a32-ecc10bb21a43)
         
         #### [Two arrested after leading police on chase through Grimes, Waller counties](https://www.kagstv.com/article/news/crime/darrell-edwin-hemann-shandi-imhoff-pursuit-arrests-oct-16-2024/500-413dc257-f069-4d63-8a32-ecc10bb21a43)
-        
-    *  [![](https://media.kagstv.com/assets/WXIA/images/c1e70d48-02ff-44a7-82c3-8c4148ff771c/20241015T111000/c1e70d48-02ff-44a7-82c3-8c4148ff771c_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/c1e70d48-02ff-44a7-82c3-8c4148ff771c/20241015T111000/c1e70d48-02ff-44a7-82c3-8c4148ff771c_360x203.jpg)](https://www.kagstv.com/article/news/local/atlanta-delta-air-lines-new-cabin-design-entire-fleet-photos/85-df0d290f-0847-45b3-a8c9-a212c661777f)
-        
-        #### [Delta Air Lines unveils new cabin design for entire fleet](https://www.kagstv.com/article/news/local/atlanta-delta-air-lines-new-cabin-design-entire-fleet-photos/85-df0d290f-0847-45b3-a8c9-a212c661777f)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-61°
+82°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
