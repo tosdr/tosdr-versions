@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[BREAKING: Fire breaks out at The Boathouse Tiki Bar & Grill at Cape Yacht Club](https://www.fox4now.com/cape-coral/breaking-boathouse-tiki-bar-grill-on-fire)
+[Fire breaks out at the Boathouse Tiki Bar & Grill at Cape Coral Yacht Club](https://www.fox4now.com/cape-coral/breaking-boathouse-tiki-bar-grill-on-fire)
 
 Terms of Use
 ============
