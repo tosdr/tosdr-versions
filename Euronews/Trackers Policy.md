@@ -18,53 +18,53 @@
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
     * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Volodymyr Zelenskyy](https://www.euronews.com/tag/volodymyr-zelensky)
-    * [Italy](https://www.euronews.com/tag/italy)
+    * [Russia](https://www.euronews.com/tag/russia)
+    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+    * [Ukraine](https://www.euronews.com/tag/ukraine)
     
     * * *
     
     Latest stories
     
-    [![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")
+    [![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")
     
-    ![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](https://static.euronews.com/articles/stories/08/79/72/90/368x207_cmsv2_5a161dd2-362e-5c68-a003-9010bd889658-8797290.jpg "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
-    
-    Now playing Next
-    
-    [Destinations](https://www.euronews.com/travel/destinations)
-    
-    ### [Reims, Brescia, Girona: Top destinations to beat the crowds](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
-    
-    [![The levy would apply to flights departing from EEA countries and the UK.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The levy would apply to flights departing from EEA countries and the UK.")
-    
-    ![The levy would apply to flights departing from EEA countries and the UK.](https://static.euronews.com/articles/stories/08/79/70/38/368x207_cmsv2_f1768605-90d4-51be-912c-6060ce6f1f6d-8797038.jpg "The levy would apply to flights departing from EEA countries and the UK.")](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+    ![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](https://static.euronews.com/articles/stories/08/79/84/32/368x207_cmsv2_96b0329a-b9b5-5860-ab79-4630aa698f35-8798432.jpg "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
     
     Now playing Next
     
-    [Living](https://www.euronews.com/green/green-living)
+    [USA](https://www.euronews.com/news/america/usa)
     
-    ### [Frequent flyer tax would punish the rich to tune of €64bn per year](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+    ### [Elon Musk has promised '$100' for those that sign a political petition](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
     
-    [![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")
+    [![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")
     
-    ![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](https://static.euronews.com/articles/stories/08/79/70/74/368x207_cmsv2_9e7ea09f-92e4-558c-9940-d7998fd63a53-8797074.jpg "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+    ![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](https://static.euronews.com/articles/stories/08/79/83/82/368x207_cmsv2_21bba5a1-cd29-5c97-955e-507b59ee78d5-8798382.jpg "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
+    
+    Now playing Next
+    
+    [Culture news](https://www.euronews.com/culture/culture-news)
+    
+    ### [Tributes pour in for Liam Payne as Argentine authorities probe death](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
+    
+    [![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")
+    
+    ![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](https://static.euronews.com/articles/stories/08/79/82/60/368x207_cmsv2_4cf60b36-8122-5ad2-8447-0dff9a2cb1b1-8798260.jpg "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
     
     Now playing Next
     
     [Gaza](https://www.euronews.com/news/asia/gaza)
     
-    ### [Breaking news. Hamas leader Sinwar 'highly likely' killed in Gaza, Israeli army says](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+    ### [WATCH: IDF releases drone footage showing last moments of Hamas leader Yahya Sinwar](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
     
-    [![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")
+    [![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")
     
-    ![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](https://static.euronews.com/articles/stories/05/53/56/74/368x207_cmsv2_29cc6e14-9865-58f3-b5dc-240bf1c1e89e-5535674.jpg " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
+    ![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](https://static.euronews.com/articles/stories/08/79/80/14/368x207_cmsv2_35034aba-4c25-573e-8ae4-3144b7f4a5fe-8798014.jpg "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
     
     Now playing Next
     
-    [Business](https://www.euronews.com/business/business)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [France’s richest family plan to buy into football with club purchase](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
+    ### [Moldovans prepare to decide on EU membership in crucial referendum](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -312,6 +312,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -358,59 +360,59 @@ Trending
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
 * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Volodymyr Zelenskyy](https://www.euronews.com/tag/volodymyr-zelensky)
-* [Italy](https://www.euronews.com/tag/italy)
+* [Russia](https://www.euronews.com/tag/russia)
+* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+* [Ukraine](https://www.euronews.com/tag/ukraine)
 
 * * *
 
 Latest stories
 
-[![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")
+[![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")
 
-![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](https://static.euronews.com/articles/stories/08/79/72/90/368x207_cmsv2_5a161dd2-362e-5c68-a003-9010bd889658-8797290.jpg "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
-
-Now playing Next
-
-[Destinations](https://www.euronews.com/travel/destinations)
-
-### [Reims, Brescia, Girona: Top destinations to beat the crowds](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
-
-* * *
-
-[![The levy would apply to flights departing from EEA countries and the UK.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The levy would apply to flights departing from EEA countries and the UK.")
-
-![The levy would apply to flights departing from EEA countries and the UK.](https://static.euronews.com/articles/stories/08/79/70/38/368x207_cmsv2_f1768605-90d4-51be-912c-6060ce6f1f6d-8797038.jpg "The levy would apply to flights departing from EEA countries and the UK.")](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](https://static.euronews.com/articles/stories/08/79/84/32/368x207_cmsv2_96b0329a-b9b5-5860-ab79-4630aa698f35-8798432.jpg "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
 
 Now playing Next
 
-[Living](https://www.euronews.com/green/green-living)
+[USA](https://www.euronews.com/news/america/usa)
 
-### [Frequent flyer tax would punish the rich to tune of €64bn per year](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+### [Elon Musk has promised '$100' for those that sign a political petition](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
 
 * * *
 
-[![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")
+[![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")
 
-![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](https://static.euronews.com/articles/stories/08/79/70/74/368x207_cmsv2_9e7ea09f-92e4-558c-9940-d7998fd63a53-8797074.jpg "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](https://static.euronews.com/articles/stories/08/79/83/82/368x207_cmsv2_21bba5a1-cd29-5c97-955e-507b59ee78d5-8798382.jpg "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
+
+Now playing Next
+
+[Culture news](https://www.euronews.com/culture/culture-news)
+
+### [Tributes pour in for Liam Payne as Argentine authorities probe death](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
+
+* * *
+
+[![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")
+
+![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](https://static.euronews.com/articles/stories/08/79/82/60/368x207_cmsv2_4cf60b36-8122-5ad2-8447-0dff9a2cb1b1-8798260.jpg "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
 
 Now playing Next
 
 [Gaza](https://www.euronews.com/news/asia/gaza)
 
-### [Breaking news. Hamas leader Sinwar 'highly likely' killed in Gaza, Israeli army says](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+### [WATCH: IDF releases drone footage showing last moments of Hamas leader Yahya Sinwar](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
 
 * * *
 
-[![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")
+[![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")
 
-![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](https://static.euronews.com/articles/stories/05/53/56/74/368x207_cmsv2_29cc6e14-9865-58f3-b5dc-240bf1c1e89e-5535674.jpg " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
+![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](https://static.euronews.com/articles/stories/08/79/80/14/368x207_cmsv2_35034aba-4c25-573e-8ae4-3144b7f4a5fe-8798014.jpg "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [France’s richest family plan to buy into football with club purchase](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
+### [Moldovans prepare to decide on EU membership in crucial referendum](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -660,6 +662,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
