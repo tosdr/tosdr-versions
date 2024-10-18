@@ -18,13 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -217,9 +212,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action Against Qargo Coffee for Franchise Rule Violations](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-against-qargo-coffee-franchise-rule-violations)
+    ### [FTC Denies Motion to Disqualify Administrative Law Judge in H&R Block Case](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-denies-motion-disqualify-administrative-law-judge-hr-block-case)
     
-    October 16, 2024
+    October 18, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -319,13 +314,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -333,29 +323,20 @@ Secondary Menu
 * [Submit Public Comments](https://www.ftc.gov/policy/public-comments)
 
 * [Enforcement](https://www.ftc.gov/enforcement) Show/hide Enforcement menu items
-    * [Cases and Proceedings](https://www.ftc.gov/legal-library/browse/cases-proceedings)
     * [Premerger Notification Program](https://www.ftc.gov/enforcement/premerger-notification-program)
     * [Merger Review](https://www.ftc.gov/enforcement/merger-review)
     * [Anticompetitive Practices](https://www.ftc.gov/enforcement/anticompetitive-practices)
     * [Rulemaking](https://www.ftc.gov/enforcement/rulemaking)
-    * [Statutes](https://www.ftc.gov/legal-library/browse/statutes)
     * [Competition and Consumer Protection Guidance Documents](https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents)
-    * [Warning Letters](https://www.ftc.gov/legal-library/browse/warning-letters)
     * [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)
     * [Criminal Liaison Unit](https://www.ftc.gov/enforcement/criminal-liaison-unit)
     * [FTC Refund Programs](https://www.ftc.gov/enforcement/refunds)
     * [Notices of Penalty Offenses](https://www.ftc.gov/enforcement/penalty-offenses)
-    * [Competition Matters Blog](https://www.ftc.gov/enforcement/competition-matters)
 * [Policy](https://www.ftc.gov/policy) Show/hide Policy menu items
     * [Advocacy and Research](https://www.ftc.gov/policy/advocacy-research)
-    * [Advisory Opinions](https://www.ftc.gov/legal-library/browse/advisory-opinions)
-    * [Cooperation Agreements](https://www.ftc.gov/legal-library/browse/cooperation-agreements)
-    * [Federal Register Notices](https://www.ftc.gov/legal-library/browse/federal-register-notices)
     * [Reports](https://www.ftc.gov/policy/reports)
     * [Public Comments](https://www.ftc.gov/policy/public-comments)
     * [Studies](https://www.ftc.gov/policy/studies)
-    * [Testimony](https://www.ftc.gov/legal-library/browse/testimony)
-    * [Policy Statements](https://www.ftc.gov/legal-library/browse/policy-statements)
     * [International](https://www.ftc.gov/policy/international)
     * [Office of Technology Blog](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
 * Advice and Guidance Show/hide Advice and Guidance menu items
@@ -512,29 +493,20 @@ Main navigation
 ---------------
 
 * [Enforcement](https://www.ftc.gov/enforcement)
-    * [Cases and Proceedings](https://www.ftc.gov/legal-library/browse/cases-proceedings)
     * [Premerger Notification Program](https://www.ftc.gov/enforcement/premerger-notification-program)
     * [Merger Review](https://www.ftc.gov/enforcement/merger-review)
     * [Anticompetitive Practices](https://www.ftc.gov/enforcement/anticompetitive-practices)
     * [Rulemaking](https://www.ftc.gov/enforcement/rulemaking)
-    * [Statutes](https://www.ftc.gov/legal-library/browse/statutes)
     * [Competition and Consumer Protection Guidance Documents](https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents)
-    * [Warning Letters](https://www.ftc.gov/legal-library/browse/warning-letters)
     * [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)
     * [Criminal Liaison Unit](https://www.ftc.gov/enforcement/criminal-liaison-unit)
     * [FTC Refund Programs](https://www.ftc.gov/enforcement/refunds)
     * [Notices of Penalty Offenses](https://www.ftc.gov/enforcement/penalty-offenses)
-    * [Competition Matters Blog](https://www.ftc.gov/enforcement/competition-matters)
 * [Policy](https://www.ftc.gov/policy)
     * [Advocacy and Research](https://www.ftc.gov/policy/advocacy-research)
-    * [Advisory Opinions](https://www.ftc.gov/legal-library/browse/advisory-opinions)
-    * [Cooperation Agreements](https://www.ftc.gov/legal-library/browse/cooperation-agreements)
-    * [Federal Register Notices](https://www.ftc.gov/legal-library/browse/federal-register-notices)
     * [Reports](https://www.ftc.gov/policy/reports)
     * [Public Comments](https://www.ftc.gov/policy/public-comments)
     * [Studies](https://www.ftc.gov/policy/studies)
-    * [Testimony](https://www.ftc.gov/legal-library/browse/testimony)
-    * [Policy Statements](https://www.ftc.gov/legal-library/browse/policy-statements)
     * [International](https://www.ftc.gov/policy/international)
     * [Office of Technology Blog](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
 * Advice and Guidance
