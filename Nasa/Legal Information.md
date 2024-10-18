@@ -269,7 +269,7 @@ article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### What Human Health Science Should Be Done on Gateway Lunar Space Station?
 
-article 10 hours ago](https://www.nasa.gov/humans-in-space/what-human-health-science-should-be-done-on-gateway-lunar-space-station/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 12 hours ago](https://www.nasa.gov/humans-in-space/what-human-health-science-should-be-done-on-gateway-lunar-space-station/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
@@ -291,7 +291,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
 
-article 7 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
 2 min read
 
@@ -313,13 +313,13 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 7 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
 
 4 min read
 
 ### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
 
-article 8 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
+article 10 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
 
 5 min read
 
@@ -335,7 +335,7 @@ article 1 day ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunsp
 
 ### NASA’s Hubble Sees a Stellar Volcano
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missi
 
 ### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 7 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
+article 9 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
 
 2 min read
 
 ### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
 
-article 7 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
 
 4 min read
 
 ### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
 
-article 8 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)
+article 10 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)
 
 ### Highlights
 
