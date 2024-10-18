@@ -159,14 +159,6 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
-  [![The Sonian Forest wetlands](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
- ![The Sonian Forest wetlands](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/10/The-Sonian-Forest-100x70.jpg)](https://unric.org/en/the-magnificent-world-of-forests-the-belgian-sonian-forest/ "The magnificent world of forests: the Belgian Sonian Forest")
-
-### [The magnificent world of forests: the Belgian Sonian Forest](https://unric.org/en/the-magnificent-world-of-forests-the-belgian-sonian-forest/ "The magnificent world of forests: the Belgian Sonian Forest")
-
-17/10/2024
-
  [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 ### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
@@ -191,11 +183,17 @@ The information will be used internally only for web site traffic analysis. If t
 
 20/08/2024
 
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+
+### [UNRIC Info Point & Library Newsletter: August 2024](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+
+12/08/2024
+
 [Load more](#)
 
 #### Publications
 
-* [October 2024](https://unric.org/en/2024/10/) (24)
+* [October 2024](https://unric.org/en/2024/10/) (26)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (12)
 * [July 2024](https://unric.org/en/2024/07/) (24)
