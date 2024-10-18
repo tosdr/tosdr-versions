@@ -43,6 +43,9 @@
         * [![Enteprise Multi-DRM](/images/enterprise-drm-mediacage.svg "Enteprise Multi-DRM")
             
             Enteprise Multi-DRM](https://bunny.net/stream/media-cage-enterprise-multi-drm-digital-rights-management/)
+        * [![Premium Encoding](/most-reliable-cdn.svg "Premium Encoding")
+            
+            Premium Encoding](https://bunny.net/stream/premium-encoding/)
         * [![Transcribe AI](/images/ai-automated-transcribed-subtitles.svg "Transcribe AI")
             
             Transcribe AI](https://bunny.net/stream/transcribe-ai/)
