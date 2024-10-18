@@ -32,7 +32,7 @@
 
 [See All Pest Services](https://www.resteasypestcontrol.com/pest-services)
 
-[516-806-4382](tel:516-806-4382) Book Now
+[516-806-4382](tel:516-806-4382) [Book Now](javascript:void(0);)
 
 Rest Easy Pest Control
 ======================
