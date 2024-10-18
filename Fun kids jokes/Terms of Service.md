@@ -202,20 +202,15 @@ Any claim relating to FunKidsJokes.com’s web site shall be governed by the law
 
 We are committed to conducting our business in accordance with principles that ensure the confidentiality of personal information is protected and maintained. You can view our [Privacy Policy](https://funkidsjokes.com/privacy/) for complete details.
 
-#### Recent Jokes
+#### Just Added
 
-[![Panda Bear Jokes for Kids](https://funkidsjokes.com/wp-content/uploads/2024/10/panda-jokes-100x70.png "Panda Bear Jokes")](https://funkidsjokes.com/panda-jokes/ "Panda Bear Jokes")
+* [Hamster Jokes](https://funkidsjokes.com/hamster-jokes/)
+* [Panda Bear Jokes](https://funkidsjokes.com/panda-jokes/)
+* [Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them](https://funkidsjokes.com/most-popular-halloween-costumes-for-kids/)
+* [Armadillo Jokes](https://funkidsjokes.com/armadillo-jokes/)
+* [Zebra Jokes](https://funkidsjokes.com/zebra-jokes/)
 
-### [Panda Bear Jokes](https://funkidsjokes.com/panda-jokes/ "Panda Bear Jokes")
-
-[![Top Halloween Costumes for Kids this Year](https://funkidsjokes.com/wp-content/uploads/2024/10/kids-1966202_640-100x70.jpg "Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them")](https://funkidsjokes.com/most-popular-halloween-costumes-for-kids/ "Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them")
-
-### [Most Popular Halloween Costumes for Kids – Plus Funny Jokes to...](https://funkidsjokes.com/most-popular-halloween-costumes-for-kids/ "Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them")
-
-[![Funny Armadillo jokes](https://funkidsjokes.com/wp-content/uploads/2024/10/armadillo-jokes-100x70.png "Armadillo Jokes")](https://funkidsjokes.com/armadillo-jokes/ "Armadillo Jokes")
-
-### [Armadillo Jokes](https://funkidsjokes.com/armadillo-jokes/ "Armadillo Jokes")
-
+  
   
   
 
