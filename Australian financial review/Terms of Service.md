@@ -296,7 +296,6 @@ Advertise
 
 ### [Made in Australia – a showstopping watch for $530,000](https://www.afr.com/life-and-luxury/fashion-and-style/made-in-australia-a-showstopping-watch-for-530-000-20241016-p5kir6)
 
-* 55 mins ago
 * Bani McSpedden
 
 * ### [How to make Supernormal’s famous lobster roll](https://www.afr.com/life-and-luxury/food-and-wine/how-to-make-supernormal-s-famous-lobster-roll-20240829-p5k6fk)
@@ -311,7 +310,6 @@ Advertise
 
 ### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
 
-* 55 mins ago
 * Sally Patten
 
 * ### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
@@ -326,7 +324,6 @@ Advertise
 
 ### [Wes Anderson art, organic tableware and the closest shave](https://www.afr.com/life-and-luxury/fashion-and-style/wes-anderson-art-organic-tableware-and-the-closest-shave-20240930-p5kemz)
 
-* 55 mins ago
 * Eugenie Kelly
 
 * ### [How do I know my resale handbag is the real deal?](https://www.afr.com/life-and-luxury/fashion-and-style/how-do-i-know-my-resale-handbag-is-the-real-deal-20240920-p5kc8a)
