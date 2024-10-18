@@ -150,5 +150,6 @@ TinyPNG is created for modern browsers with HTML5 & CSS3 support. We have not tr
     * [![twitter logo](/images/twitter-logo.png)](https://twitter.com/Tinypng)[![Facebook logo](/images/fb-logo.png)](https://www.facebook.com/TinyPng)[![linkedin logo](/images/linkedin-logo.png)](https://www.linkedin.com/company/tinypng/)[![github logo](/images/github-logo-inverted.png)](https://github.com/tinify)
         
     
+    * [Cookie settings](javascript: Cookiebot.renew())
 
 Made by VoormediaBy using this site you accept the [terms of use](https://tinypng.com/terms).
