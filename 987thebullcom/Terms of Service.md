@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| LivingDierks Bentley<br><br>5:40pm |
-| Pink SkiesZach Bryan<br><br>5:37pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>5:34pm |
-| My Kinda PartyJason Aldean<br><br>5:24pm |
-| Can'T Have MineDylan Scott<br><br>5:21pm |
+| Tennessee OrangeMegan Moroney<br><br>11:38pm |
+| LosersPost Malone Ft Jelly Roll<br><br>11:34pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>11:31pm |
+| You ProofMorgan Wallen<br><br>11:29pm |
+| A Lot More FreeMax Mcnown<br><br>11:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -366,13 +366,13 @@ News Talk • Eastern
 
 Top 40 • Pacific NW
 
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
