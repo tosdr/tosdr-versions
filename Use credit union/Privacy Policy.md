@@ -9,6 +9,12 @@ BluPeak Credit Union ![BluPeak Credit Union App stars rating](https://www.blupea
 
 [Install App](https://apps.apple.com/us/app/id390555899) [Install App](https://play.google.com/store/apps/details?id=com.ifs.androidmobilebanking.fiid3265)
 
+Notice
+
+Branches will open at 9:30 AM on October 18th. Please use our online banking services for your convenience.
+
+[](#)
+
 [Skip to web banking login](#js-header_login_panel)
 
 What can we help you find?
