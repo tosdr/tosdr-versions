@@ -180,49 +180,49 @@ J'active
 
 Chez Banque BCP, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Banque De Savoie](https://www.paylib.fr/wp-content/uploads/2019/09/banque-de-savoie-logo.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Banque de Savoie, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Banque Palatine](https://www.paylib.fr/wp-content/uploads/2021/03/palatine-icon-app-store.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Banque Palatine, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Banque Populaire](https://www.paylib.fr/wp-content/uploads/2020/03/logo-app-paylib-11.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Banque Populaire, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Caisse d'Epargne](https://www.paylib.fr/wp-content/uploads/2020/03/logo-app-paylib-8.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Caisse d'Epargne, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Crédit Coopératif](https://www.paylib.fr/wp-content/uploads/2020/03/logo-app-paylib-1.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Crédit Coopératif, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Crédit Maritime](https://www.paylib.fr/wp-content/uploads/2019/09/credi-maritime-logo-apple.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Crédit Maritime, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
 ![Crédit Agricole](https://www.paylib.fr/wp-content/uploads/2019/08/Ma_banque.svg) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
 
 Chez Crédit Agricole, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
 
-[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
  J’accepte que ce numéro de téléphone mobile soit utilisé par Paylib pour me guider dans l’utilisation du service
 
