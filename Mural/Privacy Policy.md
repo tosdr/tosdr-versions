@@ -219,7 +219,7 @@ Cloud Based Product Analytics Service
 
 United States  
 
-Last Updated: May 31, 2024  
+Last Updated: October 17, 2024  
 
 Mural is committed to transparency about our collection, use, transfer and disclosure of your information. Please direct any inquiries, comments or questions regarding this Privacy Statement or our processing of your information to: [privacy@mural.co](mailto:privacy@mural.co).  
 
