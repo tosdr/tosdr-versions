@@ -20,16 +20,16 @@ Friday, October 18 2024
 
 Latest
 
-* [Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
-* [The Best Ways to Keep Your Old House Warm in the Winter](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
-* [How to install ChatGPT as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
-* [Tips on Choosing a Security Camera (From Someone Who’s Owned a Few)](https://digitpatrox.com/tips-on-choosing-a-security-camera-from-someone-whos-owned-a-few/)
-* [NIS2 is now in force around the EU – can business keep up with new compliance obligations?](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
-* [AI Training a Problem For Australian Employees](https://digitpatrox.com/ai-training-a-problem-for-australian-employees/)
-* [9 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 18-20)](https://digitpatrox.com/9-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-18-20/)
-* [Undercover North Korean IT workers now steal data, extort employers](https://digitpatrox.com/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
-* [Google will once again ban election ads after the polls close](https://digitpatrox.com/google-will-once-again-ban-election-ads-after-the-polls-close/)
-* [Blindfire Early Access Impressions: Need Friends or a Drink to Have Fun](https://digitpatrox.com/blindfire-early-access-impressions-need-friends-or-a-drink-to-have-fun/)
+* [How to get Discord Nitro cheaper with a VPN](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
+* [Huawei Cloud: enabling business and industry growth](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
+* [Download our OneDrive for Windows Cheat Sheet](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
+* [These Three Apps Can Help You Remotely Access Your Computer](https://digitpatrox.com/these-three-apps-can-help-you-remotely-access-your-computer/)
+* [Ellsworth Cooperative Creamery notifies victims of data breach claimed by BlackSuit ransomware gang](https://digitpatrox.com/ellsworth-cooperative-creamery-notifies-victims-of-data-breach-claimed-by-blacksuit-ransomware-gang/)
+* [15 Best TVs of 2024, Tested by Our Experts](https://digitpatrox.com/15-best-tvs-of-2024-tested-by-our-experts/)
+* [Don’t Have Hours to Read Terms of Service? Here’s How to Cut Down the Time](https://digitpatrox.com/dont-have-hours-to-read-terms-of-service-heres-how-to-cut-down-the-time/)
+* [The blind spots: five critical mistakes cybersecurity channel leaders must avoid](https://digitpatrox.com/the-blind-spots-five-critical-mistakes-cybersecurity-channel-leaders-must-avoid/)
+* [Get Lifetime 1TB of Cloud Storage for Just $120](https://digitpatrox.com/get-lifetime-1tb-of-cloud-storage-for-just-120/)
+* [What is the Big Fig mattress for heavy people and should you buy one?](https://digitpatrox.com/what-is-the-big-fig-mattress-for-heavy-people-and-should-you-buy-one/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.networkworld.com/wp-content/uploads/2024/10/3567954-0-86252500-1729176549-shutterstock_2030685905.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-get-Discord-Nitro-cheaper-with-a-VPN.jpg)](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
     
-    [Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
+    [How to get Discord Nitro cheaper with a VPN](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
     
-    2 mins ago
+    6 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2GYDJ8JCEEH7AZNFEPMNT2/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
+* [![](https://cdn.mos.cms.futurecdn.net/kkSxF7avnLVjrNeHRABpSa-1200-80.jpg)](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
     
-    [The Best Ways to Keep Your Old House Warm in the Winter](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
+    [Huawei Cloud: enabling business and industry growth](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
     
-    29 mins ago
+    28 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/01/windows-11-chatgpt-app-hero-maurohuculak.webp)](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
+* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/09/default_image1726683479.2135.png)](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
     
-    [How to install ChatGPT as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
+    [Download our OneDrive for Windows Cheat Sheet](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
     
     50 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-security-camera-on-an-external-wall-with-icons-of-some-features-it-has-a-security-camera-on-an-external-wall-with-icons-of-some-features-it-has.jpg)](https://digitpatrox.com/tips-on-choosing-a-security-camera-from-someone-whos-owned-a-few/)
+* [![](https://lifehacker.com/imagery/articles/01JAFPBQ0ZX65T6MQSKFD8ZFTR/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/these-three-apps-can-help-you-remotely-access-your-computer/)
     
-    [Tips on Choosing a Security Camera (From Someone Who’s Owned a Few)](https://digitpatrox.com/tips-on-choosing-a-security-camera-from-someone-whos-owned-a-few/)
+    [These Three Apps Can Help You Remotely Access Your Computer](https://digitpatrox.com/these-three-apps-can-help-you-remotely-access-your-computer/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/drfSnL94YBbqohSPBuBLnP-1200-80.jpg)](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Ransomware-gang-claims-it-breached-Tennessee-school-district-copy.jpg)](https://digitpatrox.com/ellsworth-cooperative-creamery-notifies-victims-of-data-breach-claimed-by-blacksuit-ransomware-gang/)
     
-    [NIS2 is now in force around the EU – can business keep up with new compliance obligations?](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
+    [Ellsworth Cooperative Creamery notifies victims of data breach claimed by BlackSuit ransomware gang](https://digitpatrox.com/ellsworth-cooperative-creamery-notifies-victims-of-data-breach-claimed-by-blacksuit-ransomware-gang/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [6 mins ago
     
-    ### Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
-* [29 mins ago
+    ### How to get Discord Nitro cheaper with a VPN](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
+* [28 mins ago
     
-    ### The Best Ways to Keep Your Old House Warm in the Winter](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
+    ### Huawei Cloud: enabling business and industry growth](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
 * [50 mins ago
     
-    ### How to install ChatGPT as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
+    ### Download our OneDrive for Windows Cheat Sheet](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
 
 Most Popular Topics
 
-* [August 12, 2024
+* [August 17, 2024
     
-    ### Hackers leak 2.7 billion data records with Social Security numbers](https://digitpatrox.com/hackers-leak-2-7-billion-data-records-with-social-security-numbers/)
+    ### Wordle Answer for Today, August 17, 2024](https://digitpatrox.com/wordle-answer-for-today-august-17-2024/)
 * [4 days ago
     
-    ### How to watch ‘Married at First Sight USA’ 2024 online](https://digitpatrox.com/how-to-watch-married-at-first-sight-usa-2024-online/)
-* [3 weeks ago
+    ### Don’t Miss out on These 5 Underrated Music Streaming Services](https://digitpatrox.com/dont-miss-out-on-these-5-underrated-music-streaming-services/)
+* [2 weeks ago
     
-    ### Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
+    ### Is there any future for the IT helpdesk? AI and automation could render it ‘redundant’ within three years](https://digitpatrox.com/is-there-any-future-for-the-it-helpdesk-ai-and-automation-could-render-it-redundant-within-three-years/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### 9 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 18-20)](https://digitpatrox.com/9-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-18-20/)
+    ### Don’t Have Hours to Read Terms of Service? Here’s How to Cut Down the Time](https://digitpatrox.com/dont-have-hours-to-read-terms-of-service-heres-how-to-cut-down-the-time/)
 * [3 hours ago
     
-    ### Undercover North Korean IT workers now steal data, extort employers](https://digitpatrox.com/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
+    ### The blind spots: five critical mistakes cybersecurity channel leaders must avoid](https://digitpatrox.com/the-blind-spots-five-critical-mistakes-cybersecurity-channel-leaders-must-avoid/)
 * [3 hours ago
     
-    ### Google will once again ban election ads after the polls close](https://digitpatrox.com/google-will-once-again-ban-election-ads-after-the-polls-close/)
+    ### Get Lifetime 1TB of Cloud Storage for Just $120](https://digitpatrox.com/get-lifetime-1tb-of-cloud-storage-for-just-120/)
 
 Most Viewed Topics
 
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 21, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
