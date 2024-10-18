@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Six different actors have played Lord Voldemort in the Harry Potter films.
+If a Muggle spotted Hogwarts, they would just see an old ruin with a sign that says “Keep out, dangerous building.”
 
 ### Potter History
 
-August 13, 2006 – Daniel Radcliffe said that he “will bare it all” upon assuming the role of Alan Strang in London’s West End play, Equus.
+April 5, 2006 – Warner Bros. announces that Harry Potter and the Order of Phoenix will hit theaters on July 13, 2007.
 
 ### Potter Quote
 
-“Now let’s get upstairs and fight, or all the good Death Eaters’ll be taken.”
+“Dear Mr. Potter, We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. Term begins on September 1. We await your owl by no later than July 31.”
 
 [](#)
 
