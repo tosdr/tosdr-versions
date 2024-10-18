@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Thunderball!](https://www.myabandonware.com/game/thunderball-svt)
-* [The Quest for the Rings](https://www.myabandonware.com/game/the-quest-for-the-rings-svs)
-* [The Mousing Cat](https://www.myabandonware.com/game/the-mousing-cat-svr)
-* [The Great Wall Street Fortune Hunt](https://www.myabandonware.com/game/the-great-wall-street-fortune-hunt-svq)
-* [Take the Money and Run!](https://www.myabandonware.com/game/take-the-money-and-run-svp)
+* [Super Sprint](https://www.myabandonware.com/game/super-sprint-5cx)
+* [K.C. Munchkin!](https://www.myabandonware.com/game/k-c-munchkin-sw2)
+* [4 in 1 Row](https://www.myabandonware.com/game/4-in-1-row-sw1)
+* [Invaders from Hyperspace!](https://www.myabandonware.com/game/invaders-from-hyperspace-sw0)
+* [Interpol](https://www.myabandonware.com/game/interpol-svz)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
