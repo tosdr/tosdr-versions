@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**Sheri Says: Culinary Uses for Crab Meat** | The Key Ingredient](https://video.nhpbs.org/video/culinary-uses-for-crab-meat-kkyjei?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Why Don't Humans Hibernate?** | Be Smart](https://video.nhpbs.org/video/why-dont-humans-hibernate-0qtkjd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Where Harris and Trump stand on climate change policies** | PBS News Hour](https://video.nhpbs.org/video/promises-policies-1729199203?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Counting the Vote with Margaret Hoover** | The State We're In](https://video.nhpbs.org/video/counting-the-vote-with-margaret-hoover-vof32e?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Last Supper** | PBS Presents](https://video.nhpbs.org/video/the-last-supper-0qypza?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-17-2024-pbs-news-hour-full-episode-1729137601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Why Don't Humans Hibernate?** | Be Smart](https://video.nhpbs.org/video/why-dont-humans-hibernate-0qtkjd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**NYT Journalist Discusses the Killing of Hamas Leader Yahya Sinwar** | Amanpour and Company](https://video.nhpbs.org/video/nyt-journalist-discusses-the-killing-of-hamas-leader-yahya-sinwar-k685ag?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Land of Gold Preview** | Great Performances](https://video.nhpbs.org/video/land-of-gold-preview-rf77pv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What happened to the once lush, now desert-like Colorado River Delta?** | Overview](https://video.nhpbs.org/video/what-happened-to-the-once-lush-now-desert-like-colorado-river-delta-bruvka?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Remembering the Fallen Soldiers of the Simpsonville Massacre** | Secrets of the Dead](https://video.nhpbs.org/video/remembering-the-fallen-soldiers-of-the-simpsonville-massacre-ddxxjw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Disclaimer** | Flicks](https://video.nhpbs.org/video/disclaimer-nl3mpb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
