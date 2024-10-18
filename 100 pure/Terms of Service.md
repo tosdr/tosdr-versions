@@ -354,7 +354,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1127 reviews (1127)
+1128 reviews (1128)
 
 $45.00
 
@@ -392,9 +392,9 @@ Default Title - $48
 
 ADD TO TOTE
 
-[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/1FMDSR_Dark_Spot_Remover_Primary_239x254.webp?v=1727773719)](https://www.100percentpure.com/products/dark-spot-remover)
+[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/Darkspotremover_239x254.webp?v=1729269736)](https://www.100percentpure.com/products/dark-spot-remover)
 
-![ parent_primary](//www.100percentpure.com/cdn/shop/files/1FMDSR_Dark_Spot_Remover_Primary_220x.webp?v=1727773719)
+![ Dark spot remover](//www.100percentpure.com/cdn/shop/files/Darkspotremover_220x.webp?v=1729269736)
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
