@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/which-matters-more-dementia-prevention-diet-exercise-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/cbt-and-meds-combo-for-ms-fatigue-1440x810.jpg)
 
-Which Does More to Prevent Dementia, Diet or Exercise?](https://www.everydayhealth.com/neurological-disorders/which-does-more-to-prevent-dementia-diet-or-exercise/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Talk Therapy and Medication Both Reduce Multiple Sclerosis Fatigue](https://www.everydayhealth.com/neurological-disorders/talk-therapy-medication-reduce-multiple-sclerosis-fatigue/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/covid-can-raise-risk-of-heart-attack-and-stroke-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/breast-cancer-excess-body-fat-postmenopause-1440x810.jpg)
 
-COVID-19 Infection May Raise Heart Attack Risk for 3 Years](https://www.everydayhealth.com/infectious-diseases/covid-infection-may-raise-heart-attack-risk-for-three-years/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Excess Body Fat Strongly Linked to Hormone-Positive Breast Cancers](https://www.everydayhealth.com/cancer/excess-body-fat-linked-to-hormone-positive-breast-cancers/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
