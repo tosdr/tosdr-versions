@@ -131,28 +131,44 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+
+  [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+
+[Actor Toshiyuki Nishida dies at 76](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
+
+  [![Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428464.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.")](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
+
 [First Japanese national extradited to U.S. killed by Hawaii cellmate](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
 
   [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
+
+[Michelin stars awarded to 170 Tokyo restaurants](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
+
+  [![The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428453.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.")](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
 
 [JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
   [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
-[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
-
-  [![Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428041.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.")](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
-
-[Bandai Namco cuts jobs and culls titles as game sector woes deepen](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
-
-  [![Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428048.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.")](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
-
-[TSMC bulls expect strong results to support record-high shares](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
-
-  [![The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428296.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.")](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+
+[Actor Toshiyuki Nishida dies at 76](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428464.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.")](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -162,6 +178,14 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
 
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Michelin stars awarded to 170 Tokyo restaurants](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
+
+By [Mike Fu](https://www.japantimes.co.jp/author/6008/mike-fu/ "Mike Fu")  
+
+  [![The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428453.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.")](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
@@ -169,30 +193,6 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428041.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.")](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Bandai Namco cuts jobs and culls titles as game sector woes deepen](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
-
-By [Takashi Mochizuki](https://www.japantimes.co.jp/author/456/takashi-mochizuki/ "Takashi Mochizuki")  
-
-  [![Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428048.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.")](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[TSMC bulls expect strong results to support record-high shares](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
-
-By [Charlotte Yang](https://www.japantimes.co.jp/author/3663/charlotte-yang/ "Charlotte Yang")  
-
-  [![The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428296.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.")](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nvidia-backed firm eyes a data center near nuclear power in Japan](https://www.japantimes.co.jp/business/2024/10/18/companies/data-center-nuclear-power/ "Nvidia-backed firm eyes a data center near nuclear power in Japan")
+[Election causing disruptions amid autumn sports day season](https://www.japantimes.co.jp/news/2024/10/18/japan/society/school-events-canceled-election/ "Election causing disruptions amid autumn sports day season")
 
-24 mins ago
+15 mins ago
 
-[Couche-Tard’s 7-Eleven overlaps to face skeptical U.S. FTC review](https://www.japantimes.co.jp/business/2024/10/18/companies/couche-tard-us-ftc/ "Couche-Tard’s 7-Eleven overlaps to face skeptical U.S. FTC review")
+[Australian man claiming language mix-up jailed over Shinjuku break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Shinjuku break-in")
 
-45 mins ago
+42 mins ago
 
-[MHI, BAE Systems showcase drones for potential use with GCAP fighter](https://www.japantimes.co.jp/news/2024/10/18/japan/defense-exhibition-gcap-fighter-jet/ "MHI, BAE Systems showcase drones for potential use with GCAP fighter")
-
-48 mins ago
-
-[Japan’s inflation slows for first time since April](https://www.japantimes.co.jp/business/2024/10/18/economy/japan-september-inflation-slows/ "Japan’s inflation slows for first time since April")
+[In western Tokyo, national scandals rub up against local politics](https://www.japantimes.co.jp/news/2024/10/18/japan/politics/general-election-tokyo-24-race/ "In western Tokyo, national scandals rub up against local politics")
 
 1 hours ago
 
-[China launches survey to understand 'fear of having children'](https://www.japantimes.co.jp/news/2024/10/18/asia-pacific/society/china-childbearing-fear-survey/ "China launches survey to understand 'fear of having children'")
+[Mid- to long-term foreign residents in Japan hit record high](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
 
 1 hours ago
+
+[China's third-quarter GDP hits weakest pace since early 2023](https://www.japantimes.co.jp/business/2024/10/18/economy/china-economy-slowdown-third-quarter/ "China's third-quarter GDP hits weakest pace since early 2023")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
