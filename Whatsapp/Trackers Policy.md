@@ -92,7 +92,7 @@ The [https://www.whatsapp.com](https://www.whatsapp.com/) website exclusively us
 
 [Download](https://www.whatsapp.com/download)
 
-[](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
+[](https://x.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
 [![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/ya/r/GjxmhIpug9B.svg)](https://www.whatsapp.com/)
 
@@ -110,12 +110,12 @@ Need help?[Contact Us](https://www.whatsapp.com/contact)[Help Center](https://fa
 
 [Download](https://www.whatsapp.com/download)
 
-[](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
+[](https://x.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
 2024 © WhatsApp LLC
 
 [Terms & Privacy Policy](https://www.whatsapp.com/legal/)[###### Sitemap](https://www.whatsapp.com/sitemap)
 
-[](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
+[](https://x.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
 AzərbaycanAfrikaansBahasa IndonesiaMelayuCatalàčeštinaDanskDeutschEestiEnglishEspañolFrançaisGaeilgeHrvatskiItalianoKiswahiliLatviešuLietuviųMagyarNederlandsNorsk bokmålO‘zbekFilipinoPolskiPortuguês (Brasil)Português (Portugal)RomânăShqipSlovenčinaSlovenščinaSuomiSvenskaTiếng ViệtTürkçeΕλληνικάбългарскиқазақ тілімакедонскирусскийсрпскиукраїнськаעבריתالعربيةفارسیاردوবাংলাहिन्दीગુજરાતીಕನ್ನಡमराठीਪੰਜਾਬੀதமிழ்తెలుగుമലയാളംไทย简体中文繁體中文（台灣）繁體中文（香港）日本語한국어azərbaycanAfrikaansBahasa IndonesiaMelayucatalàčeštinadanskDeutscheestiEnglishespañolfrançaisGaeilgehrvatskiitalianoKiswahililatviešulietuviųmagyarNederlandsnorsk bokmålo‘zbekFilipinopolskiPortuguês (Brasil)Português (Portugal)românăshqipslovenčinaslovenščinasuomisvenskaTiếng ViệtTürkçeΕλληνικάбългарскиқазақ тілімакедонскирусскийсрпскиукраїнськаעבריתالعربيةفارسیاردوবাংলাहिन्दीગુજરાતીಕನ್ನಡमराठीਪੰਜਾਬੀதமிழ்తెలుగుമലയാളംไทย简体中文繁體中文（台灣）繁體中文（香港）日本語한국어
