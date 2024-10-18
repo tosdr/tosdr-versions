@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, October 17, 2024**
+**Friday, October 18, 2024**
 
-**...Cool, Dry, and PLeasant Conditions Nearly Statewide As High Pressure Builds In Behind the Recent Cold Front...Isolated to Widely Scattered Showers with Embedded Thunderstorms Along Far Southern Peninsula and Keys...Breezy Northerly to Northeastery Winds Along the Peninsula and Keys With Gusts Up to 35 MPH; Wind Advisories In Effect Along the Southeast Coast...Relative Humidity Values Near Critical Thresholds Across the Florida Panhandle and Suwannee Valley (25-40%); Sensitive Wildfire Conditions Possible...Minor to Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Warnigns and Advisories In Effect...****Developing** **King Tides to Bring Minor to Locally Moderate Coastal Flooding Along the East Coast and Keys; Coastal Flood Advisories and Statements in Effect...Moderate to High Risk for Rip Currents Statewide...Widespread Riverine Flooding Continues Throughout West-Central, Central, and Northeast Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin...**
+**...Cool, Dry, and Pleasant Conditions Continue Nearly Statewide As High Pressure Builds In Behind the Recent Cold Front...Isolated to Widely Scattered Showers with Embedded Thunderstorms Along Far Southern Peninsula and Keys...Breezy Northerly to Northeastery Winds Along the Peninsula and Keys With Gusts Up to 35 MPH; Wind Advisories In Effect Along the Southeast Coast...Relative Humidity Values Near Critical Thresholds Across the Florida Panhandle and Suwannee Valley (25-40%); Sensitive Wildfire Conditions Possible...Minor to Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Warnigns and Advisories In Effect...****Developing** **King Tides to Bring Minor to Locally Moderate Coastal Flooding Along the East Coast and Keys; Coastal Flood Advisories and Statements in Effect...Moderate to High Risk for Rip Currents Statewide...Widespread Riverine Flooding Continues Throughout West-Central, Central, and Northeast Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin (Invest 94L & Invest 95L)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
