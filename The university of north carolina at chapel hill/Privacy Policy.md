@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/URWPreviewHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/StateService1-250x141.jpg)
     
-    Peek behind the scenes at Research and Discovery Fair](https://www.unc.edu/posts/2024/10/17/peek-behind-the-scenes-at-research-and-discovery-fair/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/Back2BasicsHero-1-250x141.jpg)
+    Human resources honors longest-serving employees](https://www.unc.edu/posts/2024/10/18/human-resources-honors-longest-serving-employees/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/101724_Hero-250x141.png)
     
-    Undergraduate researchers go ‘Back to Basics’](https://www.unc.edu/posts/2024/10/17/undergraduate-researchers-go-back-to-basics/)
+    New award funds projects with real-world impact](https://www.unc.edu/posts/2024/10/17/new-award-funds-projects-with-real-world-impact/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=207944ddfc&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=f710a01d1f&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
