@@ -38,25 +38,29 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [For Business](https://www.rev.com/solutions)
 
-[News Organizations
+[Newsrooms & Journalists
 
 Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)
 
-[Video Localization & Accessibility
+[Research & Consulting
 
-Unlock New Audiences and Revenue with Accessible Content](https://www.rev.com/solutions/video-accessibility-localization)
+Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)
 
-[Court Reporting & Legal
+[Legal & Court Reporting
 
 A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)
 
-[Market Research
+[Education
 
-Transcribe, Discover, and Publish with Precision](https://www.rev.com/solutions/market-research)
+Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)
 
-[Video Distribution
+[Video Distribution & Accessibility
 
-Rapidly Deliver Platform-Tailored Content at Scale](https://www.rev.com/solutions/video-distribution)
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)
+
+[Technology
+
+Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology) 
 
 ![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
 
@@ -121,17 +125,19 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 back to menu
 
-[News Organizations
+[Newsrooms & Journalists
 
-Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)[Market Research
+Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)[Research & Consulting
 
-Transcribe, Discover, and Publish with Precision](https://www.rev.com/solutions/market-research)[Video Distribution
+Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Legal & Court Reporting
 
-Rapidly Deliver Platform-Tailored Content at Scale](https://www.rev.com/solutions/video-distribution)[Video Localization & Accessibility
+A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)[Video Distribution & Accessibility
 
-Unlock New Audiences and Revenue with Accessible Content](https://www.rev.com/solutions/video-accessibility-localization)[Court Reporting & Legal
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Education
 
-A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)
+Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Technology
+
+Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology) 
 
 ![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
 
@@ -386,7 +392,7 @@ If you have any questions about this Privacy Policy or our Services, you may con
 
 [![Rev logo](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/65e47d8c010b905c265d6aa9_logo-white.svg)](https://www.rev.com/)
 
-[Services](#services-modal_footer-cta)[Why rev?](https://www.rev.com/why-rev)[Pricing](https://www.rev.com/pricing)[Blog](https://www.rev.com/blog)[Freelancers](https://www.rev.com/freelancers)[press](https://www.rev.com/press)
+[Services](https://www.rev.com/services)[Why rev?](https://www.rev.com/why-rev)[Pricing](https://www.rev.com/pricing)[Blog](https://www.rev.com/blog)[Freelancers](https://www.rev.com/freelancers)[press](https://www.rev.com/press)
 
 [Support](https://support.rev.com/hc/en-us)[LinkedIn](https://www.linkedin.com/company/rev-com/)[X](https://twitter.com/rev)[YouTube](https://www.youtube.com/c/Revdotcom)[Facebook](https://www.facebook.com/rev)[Instagram](https://www.instagram.com/rev/?hl=en)[Spotify](https://spoti.fi/49E2RGh)[Apple](https://podcasts.apple.com/us/podcast/the-rough-draft/id1730123012)
 
