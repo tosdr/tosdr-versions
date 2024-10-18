@@ -128,6 +128,7 @@ Rechercher sur Le Parisien
     * [Cinéma](https://www.leparisien.fr/culture-loisirs/cinema/)
     * [Séries](https://www.leparisien.fr/culture-loisirs/series/)
     * [Télévision & médias](https://www.leparisien.fr/culture-loisirs/tv/)
+    * [Miss France 2025](https://www.leparisien.fr/culture-loisirs/miss-france/)
     * [Livres](https://www.leparisien.fr/culture-loisirs/livres/)
     * [Musique](https://www.leparisien.fr/culture-loisirs/musique/)
     * [Sorties IDF & Oise](https://www.leparisien.fr/culture-loisirs/sortir-region-parisienne/)
