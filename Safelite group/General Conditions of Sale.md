@@ -27,7 +27,7 @@ MenuClose
     * [View all services](https://www.safelite.com/auto-glass-services)
     
 * [Locations](https://www.safelite.com/store-locator)
-* [Warranty](https://www.safelite.com/national-lifetime-warranty)
+* [We're hiring](https://www.safelite.com/careers)
 * [My appointment](https://myaccount.safelite.com/)
 * [Get quote + schedule](https://www.safelite.com/schedule-service?start_type=fmg)
 
