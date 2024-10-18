@@ -50,6 +50,7 @@
     * [BlueStacks Roundups](https://www.bluestacks.com/blog/bluestacks-roundups.html)
     * [News](https://www.bluestacks.com/blog/news.html)
     * [BlueStacks Videos](https://www.bluestacks.com/blog/bluestacks-videos.html)
+* [StoreNew](https://www.bluestacks.com/products/store.html)
 * [Support](https://support.bluestacks.com/)
 
 English
@@ -719,6 +720,8 @@ Unlock your PC's gaming potential. And yours too.
     * [BlueStacks 5](https://www.bluestacks.com/bluestacks-5.html)
     * [Windows 11 Knowledge Hub](https://windows11.bluestacks.com/)
     * [Android 11](https://www.bluestacks.com/android-11.html)
+    * [nowbux](https://www.bluestacks.com/products/nowbux.html)
+    * [Deals](https://www.bluestacks.com/products/deals.html)
     * [Games](https://www.bluestacks.com/apps.html)
         * [All Games](https://www.bluestacks.com/apps.html)
         * [Top Games](https://www.bluestacks.com/top-games.html)
