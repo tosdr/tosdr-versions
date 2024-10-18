@@ -61,7 +61,6 @@ Frequently searched:
 * [Affiliated Institutes](https://www.hm.edu/en/about_hm/affiliated_institutes/index.en.html)
 * [Campuses](https://www.hm.edu/en/about_hm/campuses/index.en.html)
 * [Reasons to study at HM](https://www.hm.edu/en/about_hm/munich/index.en.html)
-* [Alumni](https://www.hm.edu/en/about_hm/alumni_en/index.en.html)
 
 [Academic Programmes](https://www.hm.edu/en/course_offerings/course_offerings_overview/index.en.html)
 
