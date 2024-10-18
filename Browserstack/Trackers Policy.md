@@ -217,21 +217,27 @@ Press
 Cookie Policy
 =============
 
+Cookie Policy
+
+* [Terms of Service](https://www.browserstack.com/terms "Terms of Service")
+* [Privacy Policy](https://www.browserstack.com/privacy "Privacy Policy")
+* [Cookie Policy](https://www.browserstack.com/cookie-policy "Cookie Policy")
+
 This site is provided by BrowserStack. BrowserStack (“we”, “us”) uses cookies and similar technologies (jointly referred to as “cookies”) on this site.
 
 This Cookie Policy explains what cookies are, why they are used, and your choices regarding their use.  
 For more information on how BrowserStack Inc processes personal data, please visit BrowserStack’s Privacy Policy [here](https://www.browserstack.com/privacy).
 
-#### **What are cookies?**
+#### What are cookies?
 
 A cookie is a small file placed onto your browser that enables us to enhance your experience on BrowserStack by remembering your preferences. When you visit the site again, the cookie allows that site to recognise your browser. This way, the information you previously provided can be retrieved. Cookies may store user preferences and other information to enhance your experience on the site or be used to track you when you navigate to other sites.
 
-#### **What types of cookies are used on this site?**
+#### What types of cookies are used on this site?
 
 * Strictly necessary cookies: These cookies are necessary to make the site work properly.
 * Optional cookies: These cookies collect information that is used to help us understand how the site is being used.
 
-#### **Your control of cookies**
+#### Your control of cookies
 
 You have the right to decide whether to accept or reject cookies that are not strictly necessary. You can do so by:
 
@@ -240,9 +246,16 @@ You have the right to decide whether to accept or reject cookies that are not st
 
 \*This is only applicable for users from the EU and California region.
 
-#### **Contact us**
+#### Contact us
 
 If you have any questions about this Cookie Policy, please email us at [**support@browserstack.com**](mailto:support@browserstack.com).
+
+On This Page
+
+* [What Are Cookies?](#toc0 "What Are Cookies?")
+* [What Types Of Cookies Are Used On This Site?](#toc1 "What Types Of Cookies Are Used On This Site?")
+* [Your Control Of Cookies](#toc2 "Your Control Of Cookies")
+* [Contact Us](#toc3 "Contact Us")
 
 Products
 
