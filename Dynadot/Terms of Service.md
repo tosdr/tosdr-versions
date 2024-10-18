@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Establish global credibility with a .CO domain 🌐 1st-year registrations on sale for only $2.99!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Promobar%20Oct%202024&utm_medium=co&drefid=4613)[Unlock the .CASE to your digital future! 💼 Register .CASE for $2499!](https://www.dynadot.com/domain/case?utm_source=Promobar&utm_campaign=CASE%20Promobar%20Oct%202024&utm_medium=Case&drefid=4619)[Elevate your brand with an .IT.COM domain for only $4.49!](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Oct%202024&utm_medium=it%20com&drefid=4612)
+[Establish global credibility with a .CO domain 🌐 1st-year registrations on sale for only $2.99!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Promobar%20Oct%202024&utm_medium=co&drefid=4613)[Elevate your brand with an .IT.COM domain for only $4.49!](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Oct%202024&utm_medium=it%20com&drefid=4612)
 
 [](https://www.dynadot.com/)
 
