@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a Muggle spotted Hogwarts, they would just see an old ruin with a sign that says “Keep out, dangerous building.”
+Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
 
 ### Potter History
 
-April 5, 2006 – Warner Bros. announces that Harry Potter and the Order of Phoenix will hit theaters on July 13, 2007.
+May 14-16, 2010 – StarKid performs A Very Potter Sequel at the University of Michigan.
 
 ### Potter Quote
 
-“Dear Mr. Potter, We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. Term begins on September 1. We await your owl by no later than July 31.”
+“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
 
 [](#)
 
