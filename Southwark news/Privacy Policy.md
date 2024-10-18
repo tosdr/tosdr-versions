@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Sheila Hancock (credit: Neil Spence)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sheila-Hancock_High-Res_Credit-Neil-Spence-10-2-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
+    
+    ### [Dame Sheila Hancock to host ‘An Evening With’ in Dulwich for hospice](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
+    
     [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-360x180.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
     
     ### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
@@ -51,10 +55,6 @@
     [![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
     
     ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-    
-    [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-    
-    ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Sheila Hancock (credit: Neil Spence)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sheila-Hancock_High-Res_Credit-Neil-Spence-10-2-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
+    
+    ### [Dame Sheila Hancock to host ‘An Evening With’ in Dulwich for hospice](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
+    
     [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-360x180.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
     
     ### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
@@ -132,10 +136,6 @@ View All Result
     [![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
     
     ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-    
-    [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-    
-    ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -355,11 +355,12 @@ Website
 
 [15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
 
-[![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+[![CGI of new Nine Elms primary school.
+Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
-### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
-[15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+[17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
 [![A map of the proposed Bakerloo Line extension to Lewisham. 
 Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-120x86.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
@@ -368,11 +369,11 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 [16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
 
-[![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+[![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
-### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
-[11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+[15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 ### Featured Articles
 
