@@ -685,7 +685,3 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
-
-                                                 
-
-https://lublin.wyborcza.pl/lublin/0,113141.html?tag=komunikacja+miejskawlublinie#s.wazne-k.c-b.1-l.7.zw
