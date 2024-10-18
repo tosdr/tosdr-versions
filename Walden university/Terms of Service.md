@@ -259,6 +259,7 @@ Search Search Close
     * Certificates
         * CERTIFICATE PROGRAMS
         * Fast and affordable option. Choose from over 60 career-focused certificate programs.
+        * [All Certificates Programs](https://www.waldenu.edu/online-certificates-programs)
         * Business and Management
         * Criminal Justice
         * Education
@@ -669,6 +670,7 @@ Call Us: [**8556465286**](tel:8556465286)
         
         * [CERTIFICATE PROGRAMS](# "CERTIFICATE PROGRAMS")
         * [Fast and affordable option. Choose from over 60 career-focused certificate programs.](# "Fast and affordable option. Choose from over 60 career-focused certificate programs.")
+        * [All Certificates Programs](https://www.waldenu.edu/online-certificates-programs "All Certificates Programs")
         * [Business and Management](# "Business and Management")
             
             * [BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS](# "BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS")
