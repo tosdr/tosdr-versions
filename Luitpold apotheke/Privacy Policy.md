@@ -43,7 +43,7 @@ Luitpoldstraße 2
   
 HRA: 3376, Amtsgericht Hof  
   
-Stand: 08/2024  
+Stand: 10/2024  
   
 
 ### § 1 Information über die Erhebung personenbezogener Daten
@@ -62,6 +62,7 @@ Stand: 08/2024
 4. Falls wir für einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zurückgreifen oder Ihre Daten für werbliche Zwecke nutzen möchten, werden wir Sie untenstehend im Detail über die jeweiligen Vorgänge informieren. Dabei nennen wir auch die festgelegten Kriterien der Speicherdauer.
 
   
+  
 
 ### § 2 Ihre Rechte
 
@@ -76,6 +77,7 @@ Stand: 08/2024
 3. Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
 4. Wenn Sie Ihre Rechte uns gegenüber wahnnehmen möchten, so wenden Sie sich bitte schriftlich an [Datenschutzbeauftragter@medikamente-per-klick.de](mailto:Datenschutzbeauftragter@medikamente-per-klick.de) oder über unsere Postadresse mit dem Zusatz "der Datenschutzbeauftragte" an uns.
 
+  
   
 
 ### § 3 Erhebung personenbezogener Daten bei Besuch unserer Website
@@ -96,6 +98,7 @@ Stand: 08/2024
 3. Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt, bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu machen. Zu den Details zu unseren Cookies sowie zu Ihren Auswahlmöglichkeiten diesbezüglich verweisen wir auf unsere Cookie-Einstellungen. Sie können zudem Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und z. B. die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie eventuell nicht alle Funktionen dieser Website nutzen können.
 
   
+  
 
 ### § 4 Weitere Funktionen und Angebote unserer Website
 
@@ -105,6 +108,7 @@ Stand: 08/2024
 4. Soweit unsere Dienstleister oder Partner ihren Sitz in einem Staat außerhalb des Europäischen Wirtschaftsraumen (EWR) haben, informieren wir Sie über die Folgen dieses Umstands in der Beschreibung des Angebotes.
 
   
+  
 
 ### § 5 Widerspruch oder Widerruf gegen die Verarbeitung Ihrer Daten
 
@@ -112,6 +116,7 @@ Stand: 08/2024
 2. Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf die Interessenabwägung stützen, können Sie Widerspruch gegen die Verarbeitung einlegen. Dies ist der Fall, wenn die Verarbeitung insbesondere nicht zur Erfüllung eines Vertrags mit Ihnen erforderlich ist, was von uns jeweils bei der nachfolgenden Beschreibung der Funktionen dargestellt wird. Bei Ausübung eines solchen Widerspruchs bitten wir um Darlegung der Gründe, weshalb wir Ihre personenbezogenen Daten nicht wie von uns durchgeführt verarbeiten sollten. Im Falle Ihres begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder Ihnen unsere zwingenden schutzwürdigen Gründe aufzeigen, aufgrund derer wir die Verarbeitung fortführen.
 3. Selbstverständlich können Sie der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen. Über Ihren Werbewiderspruch können Sie uns unter folgenden Kontaktdaten informieren: Luitpold Apotheke, Inhaber Herr Karlheinz Ilius e.K. Luitpoldstraße 2, D - 95138 Bad Steben, Tel: +49 (0)9280 / 98 44 44, Fax: +49 (0)9280 / 98 44 479 E-Mail: [Datenschutzbeauftragter@medikamente-per-klick.de](mailto:Datenschutzbeauftragter@medikamente-per-klick.de)
 
+  
   
 
 ### § 6 Nutzung unseres Webshops
@@ -129,6 +134,7 @@ Stand: 08/2024
 8. Bei dem Betrieb unseres Webshops werden wir durch die Noventi Health SE (vormals: awinta GmbH) technisch unterstützt. Mit dem weisungsgebundenen Dienstleister haben wir eine entsprechende Auftragsverarbeitungsvereinbarung abgeschlossen.
 
   
+  
 
 ### § 7 Bonitätsprüfung
 
@@ -137,6 +143,7 @@ Stand: 08/2024
 3. Eine weitere Prüfung wird durchgeführt, wenn der vorgenannte Datenabgleich keine Übereinstimmung ergeben hat und unter Risikogesichtspunkten eine weitere Bonitätsprüfung erforderlich ist. Es erfolgt sodann ein Abgleich mit den Datenbeständen von Boniversum, um einen sog. Scoring-Wert zu ermitteln. Sollte der von Boniversum ermittelte Scoring Wert aus Risikogesichtspunkten keinen Kauf auf Rechnung oder Lastschriftverfahren ermöglichen, können wir Ihnen diese Bezahloptionen leider nicht anbieten. Sie haben die Möglichkeit, eine der anderen Zahlungsoptionen zu wählen. Die übrigen Zahlungsoptionen unterliegen von unserer Seite keiner Bonitätsprüfung.
 4. Rechtsgrundlage für die vorstehenden Verarbeitungen ist Ihre Einwilligung, die Sie mit der Auswahl der Zahlungsoption "Rechnung" oder "SEPA-Lastschrift" erteilt haben (Art. 6 Abs. 1 lit. a DSGVO). Beide Stufen der Bonitätsprüfung erfolgen in einem automatisierten Verfahren. Die im Rahmen der Bonitätsprüfung verarbeiteten Daten speichern wir bzw. Boniversum für drei Jahre.
 
+  
   
 
 ### § 8 Newsletter
@@ -150,10 +157,12 @@ Stand: 08/2024
 7. Falls Sie keine personalisierte Werbung erhalten wollen, können Sie dem jederzeit widersprechen. Eine Mitteilung in Textform an [Datenschutzbeauftragter@medikamente-per-klick.de](mailto:Datenschutzbeauftragter@medikamente-per-klick.de) reicht hierfür aus. Alternativ können Sie sich über den Abmeldelink am Ende jedes Produktmailings austragen.
 
   
+  
 
 ### § 9 eKomi Kundenbewertung
 
 Zur Durchführung von freiwilligen Kundenbewertungen verwenden wir die Bewertungssoftware der eKomi Ltd., Markgrafenstr. 11 in 10969 Berlin. eKomi ermöglicht es nach Ihrem Kauf, Sie per E-Mail an die Möglichkeit zur Abgabe einer Bewertung aufzufordern und Kundenbewertungen auf unserer Internetseite einzubinden. An eKomi wird lediglich eine Unique-ID zur Identifikation und zum Erzeugen eines Bewertungslinks übermittelt. Rechtsgrundlage für die sich daran ggf. anschließende Verwendung der angegebenen E-Mail-Adresse zur Zusendung von Werbung und der Bewertungsanfrage sowie der anschließenden Auswertung und Verwendung Ihrer Bewertung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Ihre Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Weitergehende Informationen erhalten Sie direkt bei eKomi unter [http://www.ekomi.de/de/datenschutz](http://www.ekomi.de/de/datenschutz).  
+  
   
 
 ### § 10 Einbindung des Trusted Shops Trustbadge
@@ -164,12 +173,14 @@ Zur Durchführung von freiwilligen Kundenbewertungen verwenden wir die Bewertung
 4. Weitere personenbezogene Daten werden lediglich an Trusted Shops übertragen, soweit Sie hierzu eingewilligt haben, sich nach Abschluss einer Bestellung für die Nutzung von Trusted Shops Produkten entscheiden oder sich bereits für die Nutzung registriert haben. In diesem Fall gilt die zwischen Ihnen und Trusted Shops getroffene vertragliche Vereinbarung.
 
   
+  
 
 ### § 11 Vorteilsangebote der userwerk GmbH
 
 1. Wenn Sie sich für ein Angebot der userwerk GmbH, Ehinger Straße 19, 89077 Ulm (userwerk) interessieren und auf den Bestellbutton klicken, dann übermitteln Sie selbst Ihre personenbezogenen Daten, die für die Bestellabwicklung relevant sind, durch Betätigung des rechtskonformen Bestellbuttons an die userwerk (Art. 6 Abs. 1 lit a DSGVO) auf sicherem Wege (SSL-Verschlüsselung). Zudem speichert die userwerk GmbH in diesem Zusammenhang, bei welchem Affiliate (z.B. Bestellbestätigungsseiten oder Newsletteranmeldeseiten) Ihre Bestellung getätigt wurde, damit diese dem Affiliate später eindeutig zugeordnet werden kann (Abrechnung).
 2. Weitere Informationen zur Verarbeitung Ihrer Daten durch userwerk entnehmen Sie bitte den Online-Datenschutzhinweisen unter [https://www.userwerk.com/datenschutzerklaerung/](https://www.userwerk.com/datenschutzerklaerung/).
 
+  
   
 
 ### § 12 Einbindung des idealo Logos
@@ -186,31 +197,43 @@ Auf unserer Webseite ist das Logo unseres Partners idealo (idealo internet GmbH,
   
 Die vorübergehende Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Webseite zu ermöglichen. Dafür muss die IP-Adresse für die Dauer der Sitzung gespeichert bleiben. Die Speicherung in Logfiles erfolgt, um die Funktionsfähigkeit der Webseite sicherzustellen. Zudem dienen die Daten zur Optimierung der Webseite und zur Sicherstellung der Sicherheit der informationstechnischen Systeme. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten erfolgt nicht. Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO.  
   
+  
 
-### § 13 Cookies & Plug-Ins
+### § 13 Google Analytics und serverseitiges Tracking
+
+1. Diese Website nutzt Google Analytics, einen Webtracking-Dienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland ("Google"). Zweck der Nutzung des Tools ist es, die Analyse Ihrer Nutzerinteraktionen zu ermöglichen und durch die gewonnenen Statistiken und Berichte unser Angebot zu verbessern und für Sie als Nutzer interessanter gestalten.
+2. Die Interaktionen zwischen Ihnen als Nutzer der Website und unserer Website erfassen wir in erster Linie mithilfe von Cookies, Daten zum Gerät/Browser, IP-Adressen und Website- oder App-Aktivitäten. In Google Analytics werden außerdem Ihre (gekürzte) IP-Adressen erfasst, um die Sicherheit des Dienstes zu gewährleisten und um uns als Websitebetreiber Aufschluss darüber zu geben, aus welchem Land, welcher Region oder welchem Ort der jeweilige Nutzer stammt.  
+3. Rechtsgrundlage für die Erhebung und weitere Verarbeitung der Informationen ist Ihre im Consent Tool erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Der Widerruf Ihrer Einwilligung ist jederzeit möglich, ohne dass davon die Zulässigkeit der Verarbeitung bis zum Widerruf berührt wird. Den Widerruf können Sie am einfachsten über unser Consent Tool durchführen oder das Browser-Add-on von Google installieren, das über folgenden Link abrufbar ist: [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de).
+4. Bei der Nutzung von Google Analytics nutzen wir das Verfahren des "Server-Side-Tracking". Beim Server-Side-Tracking wird zwischen die Erhebung Ihrer personenbezogenen Daten durch uns und der Übertragung an Google von unserer Seite ein Server in der EU zwischengeschaltet. Ihre personenbezogenen Daten werden auf diesem vor der Weiterleitung an Google anonymisiert. 
+5. Um das Server-Side-Tracking zu ermöglichen und die Nutzung von Google Analytics zu vereinfachen, verwenden wir den Google Tag Manager. Nähere Informationen zum Leistungsumfang von Google Analytics erhalten Sie unter [https://marketingplatform.google.com/about/analytics/terms/de/](https://marketingplatform.google.com/about/analytics/terms/de/). Informationen zur Datenverarbeitung bei Nutzung von Google Analytics stellt Google unter folgendem Link bereit: [https://support.google.com/analytics/answer/6004245?hl=de/](https://support.google.com/analytics/answer/6004245?hl=de/).
+
+  
+  
+
+### § 14 Cookies & Plug-Ins
 
 Um Cookies und sonstige Technologien zu verwalten, nutzen wir den Dienst Usercentrics der Usercentrics GmbH, Sendlinger Str. 7, 80331 München, Deutschland. Dies ermöglicht uns die Einwilligung der Websitenutzer zur Datenverarbeitung einzuholen und zu verwalten. Mit dem weisungsgebundenen Dienstleister haben wir eine entsprechende Auftragsverarbeitungsvereinbarung abgeschlossen.  
   
 Nähere Hinweise zum Einsatz von Cookies auf unserer Website sowie Ihren Einstellungsmöglichkeiten finden Sie unter "Cookie-Einstellungen". Dort informieren wir Sie auch über die von uns eingebundenen Plug-Ins sowie deren Anbieter und stellen Ihnen weitergehende Datenschutzhinweise hierzu zur Verfügung. Sämtliche Marketing- und Trackingmaßnahmen im Zusammenhang mit unserer Website erfolgen ausschließlich auf Grundlage Ihrer Einwilligungserklärung (Art. 6 Abs. 1 lit. a DSGVO), die Sie jederzeit unter "Cookie-Einstellungen" modifizieren oder widerrufen können.  
   
-Gerne können Sie sich unsere Datenschutzerklärung [**hier**](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/datenschutzerklaerung_mpk.pdf) als PDF herunterladen.  
   
 
-### § 14 Nutzung von etracker  
+### § 12 Nutzung von etracker
 
 In unserem Angebot nutzen wir Technologien der etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg, zur Analyse von Nutzungsdaten über unsere Dienste. Wir setzen "etracker" ein, um die Nutzung unserer Website zu analysieren, zu verbessern und für Sie als Nutzer interessanter gestalten zu können. Wir führen Reichweiten-Analysen, eine Erfolgsmessung unserer Online-Marketing-Maßnahmen sowie Testverfahren durch, um z.B. unterschiedliche Versionen unseres Online-Angebotes oder seiner Bestandteile zu testen und zu optimieren. Wir beschränken uns bei der Verarbeitung Ihrer Daten dabei auf das für diesen Zweck notwendige Mindestmaß an Daten.  
   
-Für die Besuchererkennung werden ausschließlich Informationen wie Browser- oder Header-Informationen verarbeitet, die zwangsläufig oder aufgrund von (Browser-)Einstellungen des Endgerätes übermittelt werden. Es erfolgt kein "Zugriff auf Informationen, die bereits in der Endeinrichtung gespeichert sind" i.S.v. § 25 Abs. 1 TDDDG. Außerdem werden keine Eigenschaften eines Endgerätes ausgelesen. Der Einsatz von etracker erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, soweit überhaupt personenbezogene Daten verarbeitet werden. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Optimierung unseres Online-Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Besucher wichtig ist, werden die Daten, die möglicherweise einen Bezug zu einer einzelnen Person zulassen, wie die IP-Adresse, Anmelde- oder Gerätekennungen, frühestmöglich anonymisiert oder pseudonymisiert. etracker wurde unabhängig geprüft, zertifiziert und mit dem Datenschutz-Gütesiegel  [**ePrivacyseal**](https://www.eprivacy.eu/kunden/vergebene-siegel/firma/etracker-gmbh/) ausgezeichnet. Mit etracker besteht eine Auftragsverarbeitungsvereinbarung.  
+Für die Besuchererkennung werden ausschließlich Informationen wie Browser- oder Header-Informationen verarbeitet, die zwangsläufig oder aufgrund von (Browser-)Einstellungen des Endgerätes übermittelt werden. Es erfolgt kein "Zugriff auf Informationen, die bereits in der Endeinrichtung gespeichert sind" i.S.v. § 25 Abs. 1 TDDDG. Außerdem werden keine Eigenschaften eines Endgerätes ausgelesen. Der Einsatz von etracker erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, soweit überhaupt personenbezogene Daten verarbeitet werden. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Optimierung unseres Online-Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Besucher wichtig ist, werden die Daten, die möglicherweise einen Bezug zu einer einzelnen Person zulassen, wie die IP-Adresse, Anmelde- oder Gerätekennungen, frühestmöglich anonymisiert oder pseudonymisiert. etracker wurde unabhängig geprüft, zertifiziert und mit dem Datenschutz-Gütesiegel [**ePrivacyseal**](https://www.eprivacy.eu/kunden/vergebene-siegel/firma/etracker-gmbh/) ausgezeichnet. Mit etracker besteht eine Auftragsverarbeitungsvereinbarung.  
   
 Sie können der Verarbeitung Ihrer personenbezogenen Daten jederzeit widersprechen:  
   
 [](#)  
   
-Der Widerspruch hat keine nachteiligen Folgen für Sie. Im Falle eines Widerspruchs wird ein technisch erforderlicher Cookie i.S.v. § 25 Abs. 2 Nr. 2 TDDDG gesetzt.  
+Der Widerspruch hat keine nachteiligen Folgen für Sie. Im Falle eines Widerspruchs wird ein technisch erforderliches Cookie i.S.v. § 25 Abs. 2 Nr. 2 TDDDG gesetzt.  
   
 Soweit wir über die vorstehende Verarbeitung hinaus Analyse- und Optimierungs-Cookies einsetzen, holen wir Einwilligungserklärungen gesondert im Vorfeld ein. In diesem Fall werden Cookies eingesetzt, die eine statistische Reichweiten-Analyse dieser Website, eine Erfolgsmessung unserer Online-Marketing-Maßnahmen sowie Testverfahren ermöglichen, um z.B. unterschiedliche Versionen unseres Online-Angebotes oder seiner Bestandteile zu testen und zu optimieren.  
   
 Weitere Informationen zum Datenschutz bei etracker finden Sie hier: [**https://www.etracker.com/datenschutz/**](https://www.etracker.com/datenschutz/)  
+  
   
 
 ### Änderungen
@@ -637,4 +660,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=hpawvktdwdzhtbeoxirvxkburqlylokm&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=lyevcygwvacwffpedilortlaeiwzjbre&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
