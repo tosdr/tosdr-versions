@@ -12,8 +12,8 @@ Menu
     
     TOP STORIES
     
-    * [Israel confirms Hamas leader Yahya Sinwar was killed in Gaza](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182)
-    * [Zelenskyy says 10,000 North Koreans could join Russian forces in Ukraine as he pushes 'Victory Plan'](https://apnews.com/article/ukraine-zelenskyy-europe-victory-plan-summit-863bd5c70816449e3c92b7c1f767a2ff)
+    * [Sinwar's killing opens up opportunity and much uncertainty for the war in Gaza](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
+    * [Israel says it has killed Hamas leader Yahya Sinwar in Gaza](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182)
     * [Who was Yahya Sinwar, the Hamas leader Israel says it killed?](https://apnews.com/article/israel-palestinians-hamas-war-sinwar-leader-2963dbc6e8ef040a00e588488cba33e7)
     
     Newsletters
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
-    * [After hurricane, with no running water, residents organize to meet a basic need](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
-    * [Florida digs out of mountains of sand swept in by back-to-back hurricanes](https://apnews.com/article/milton-helene-hurricane-sand-florida-2906dfdc1027051547c4d49e934a838d)
+    * [Texas Supreme Court halts execution of man in shaken baby case after lawmakers' last-minute appeal](https://apnews.com/article/texas-execution-shaken-baby-syndrome-1ef99c052cc1630785ac5d6e2edfc9cb)
+    * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
+    * [Alabama executes man who killed 5 and asked to be put to death](https://apnews.com/article/derrick-dearman-death-penalty-alabama-3bbb792e73b7c82faccea13ea8254009)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris and Trump say America tanks if they lose. So why the exuberance at their rallies?](https://apnews.com/article/trump-harris-rallies-pennsylvania-georgia-92d8be2d5e5a45a6bec105efed6364cd)
-    * [Trump is consistently inconsistent on abortion and reproductive rights](https://apnews.com/article/trump-abortion-election-2024-ivf-contraception-d91f0959087e803db390be11eb60975b)
-    * [Vance says 'no' when asked whether Trump lost 2020 election](https://apnews.com/article/vance-trump-2020-election-3659368bc50e3224e5cc59f76015e096)
+    * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
+    * [Trump was asked to name three nice things about Harris. His response sounded like hers](https://apnews.com/article/trump-harris-election-22229b28388616b69c37cd145b194ad7)
+    * [The Biden administration has canceled student loans for more than 1 million in public service jobs](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Panel looking into Trump assassination attempt says Secret Service needs ‘fundamental reform’](https://apnews.com/article/secret-service-trump-butler-shooting-assassination-attempt-00fce4f3d481d9c3c7964a0215c84678)
-    * [The Latest: Harris keeps a focus on 'blue wall' states in the campaign's final weeks](https://apnews.com/article/kamala-harris-donald-trump-blue-wall-campaign-081a71ffb0cd15f5e48b92640aa94447)
-    * [McConnell called Trump 'stupid' and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
+    * [As Biden meets with European allies, the possibility of another Trump term hangs over their talks](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
+    * [Harris and Trump target Michigan as both parties try to shore up 'blue wall' votes](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [While LeBron and Bronny prepare for their historic family pairing, the Lakers shrug off the critics](https://apnews.com/article/lebron-bronny-james-lakers-c58518529e631ca65633fe514fcf40b1)
-    * [Ionescu's 3-pointer with 1 second left gives Liberty 80-77 win over Lynx and 2-1 lead in WNBA Finals](https://apnews.com/article/wnba-finals-lynx-liberty-score-8efdf448485626ac2bbcad2105d286d4)
-    * [After Severino misplays a pair of comebackers, Mets in need of NLCS comeback against Dodgers](https://apnews.com/article/mlb-playoffs-mets-severino-lindor-70ec43c16970949248da477474848539)
+    * [Ohtani and Betts lead Dodgers to latest blowout of Mets for 3-1 lead in lopsided NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-ohtani-b74016de46665008a9cc927a14d21f75)
+    * [Mets look for biggest comeback yet after falling behind Dodgers 3-1 in NLCS](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
+    * [Fry's 2-run homer in 10th sends Guardians to stunning 7-5 win over Yankees, close to 2-1 in ALCS](https://apnews.com/article/guardians-yankees-mlb-playoffs-54dd54dd01493c61d60f6e84b24296df)
     
     Newsletters
     
@@ -114,8 +114,8 @@ Menu
     
     TOP STORIES
     
-    * [Liam Payne, former One Direction member, dies at 31 in Argentina hotel fall](https://apnews.com/article/liam-payne-dies-one-direction-6b7893a56e0d8701096775f611399dd8)
-    * [Death of ex-One Direction member Liam Payne at 31 shocks fans around the world](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
+    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
+    * [Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
     * [Mitzi Gaynor, star of ‘South Pacific,’ dies at 93](https://apnews.com/article/mitzi-gaynor-dead-south-pacific-320eb99fe0824091babafac794dc2320)
     
 * [Business](https://apnews.com/business)
@@ -128,7 +128,7 @@ Menu
     
     * [Average rate on a 30-year mortgage in the US rises to the highest level in 8 weeks](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-e7d5328d9f0ae06086c108b870eba987)
     * [US shoppers spent more at retailers last month in latest sign consumers are driving growth](https://apnews.com/article/retailers-spending-consumers-inflation-stores-shoppers-economy-3e4df15431444adb36a67c628c6553b7)
-    * [Big Tech's energy needs mean nuclear power is getting a fresh look from electricity providers](https://apnews.com/article/nuclear-tech-ai-data-11baf04fc4e7e7570313d5f7e4e64eb1)
+    * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
     
 * [Science](https://apnews.com/science)
     
@@ -219,12 +219,12 @@ Menu
     
     TOP STORIES
     
+    * [Tech firms remove social media accounts of a Russian drone factory after an AP investigation](https://apnews.com/article/alabuga-russia-africa-ukraine-war-shahed-drones-bc175c4c98d752dc298c23434637417e)
+    * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     * [A South Korean adoptee needed answers about the past. She got them — just not the ones she wanted](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
-    * [How Tucson police handled a death like George Floyd’s when leaders thought it would never happen](https://apnews.com/article/lethal-restraint-tucson-police-deaths-transparency-texts-7087a4f1637596d7d66afa92358b811b)
-    * [A series of deaths and the 'Big Fight': Uncovering police force in one Midwestern city](https://apnews.com/article/police-use-of-force-deaths-evansville-lethal-restraint-4d4b8e5c590938b22f4b59ee34fac3d9)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
-    * [After hurricane, with no running water, residents organize to meet a basic need](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
+    * [Efforts to combat deforestation in Colombia hindered because of armed groups, report finds](https://apnews.com/article/amazon-deforestation-colombia-farc-armed-dissidents-emc-90db9cef21c2b38fecf68d1d980f897c)
+    * [Thousands in North Carolina can't flush their toilets amid hurricane damage](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
     * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
-    * [Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms](https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Teen smoking and other tobacco use drop to lowest level in 25 years, CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
+    * [Whooping cough is at a decade-high level in US](https://apnews.com/article/whooping-cough-pertussis-childhood-vaccine-02c66d962115e90c2a9bd9dd9c3138e1)
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
     * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [Listeria recall grows to 12 million pounds of meat and poultry, some of it sent to US schools](https://apnews.com/article/brucepac-meat-listeria-recall-98d34858d2b909b69525dc089654cc9d)
-    * [Trump would be the oldest person to become president. He's not sharing health details](https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5)
-    * [Uphill battles that put abortion rights on ballots are unlikely to end even if the measures pass](https://apnews.com/article/abortion-ballot-measures-legal-battle-missouri-florida-d114832682dbda8b50b2d1bbe7c2e17f)
+    * [Texas sues doctor and accuses her of violating ban on gender-affirming care](https://apnews.com/article/gender-affirming-care-doctor-lawsuit-texas-bb2a24b0c981819a11c7a4386c72eb6c)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Elon Musk holds his first solo event in support of Trump in the Philadelphia suburbs](https://apnews.com/article/elon-musk-america-pac-donald-trump-344f1ecc9770c4e394fceb7bbbe2b237)
+    * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
     * [Meta lays off staff at WhatsApp and Instagram to align with 'strategic goals'](https://apnews.com/article/meta-layoffs-whatsapp-instagram-4af727c7fb75f89bc50c84284fef2fee)
-    * [Amazon and Google are dueling with nuclear for data center power](https://apnews.com/article/climate-data-centers-amazon-google-nuclear-energy-e404d52241f965e056a7c53e88abc91a)
-    * [US agency adopts rule to make it easier for consumers to cancel unwanted subscriptions](https://apnews.com/article/ftc-rule-cancel-online-subscriptions-renewal-fb11fe0392c0b60acd131267bcc2eb4a)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [Universal will open fourth Orlando theme park next May](https://apnews.com/article/universal-studios-florida-orlando-theme-parks-c0971c1e79c01abcc657bd0371586ca0)
-    * [Listeria recall grows to 12 million pounds of meat and poultry, some of it sent to US schools](https://apnews.com/article/brucepac-meat-listeria-recall-98d34858d2b909b69525dc089654cc9d)
-    * [Disney to debut new Lightning Lane Premier Pass this month, but some guests may have sticker shock](https://apnews.com/article/disney-lightning-premier-disneyland-84d74db76e8222845bfd4ef9b152c810)
+    * [King Charles III's visit rekindles Australia's debate on ending ties to the British monarchy](https://apnews.com/article/australia-king-charles-visit-sydney-dcb4baf655f28fc20068c5991f09f28f)
+    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
+    * [Biggest source of new Floridians and Texans last year was other countries](https://apnews.com/article/florida-texas-migration-states-census-bureau-933b58ac9f4a231d9d603209aab3a239)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Harris to address Al Smith charity dinner by video, organizers say](https://apnews.com/article/trump-al-smith-comedy-fundraiser-219b815c343e4fb017541f4f39597c39)
-    * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
-    * [Archdiocese of Los Angeles agrees to pay $880 million to victims of clergy sexual abuse](https://apnews.com/article/los-angeles-archdiocese-clergy-sexual-abuse-bf23e8967410017c036f765bb83910f6)
+    * [What to know about the Los Angeles Catholic Church's $880M settlement with sexual abuse victims](https://apnews.com/article/los-angeles-church-sexual-abuse-settlement-8d04f5c8da061462f04be59b73cc3e92)
+    * [Oklahoma parents and teachers sue to stop top education official's classroom Bible mandate](https://apnews.com/article/oklahoma-bible-mandate-schools-lawsuit-c5c09efa5332db1ab16f7ff2da7be0b8)
+    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [La muerte Liam Payne, ex One Direction, a los 31 años causa conmoción en todo el mundo](https://apnews.com/world-news/general-news-4bf392c42a17f837ea745769c5be05ce)
-    * [Israel confirma que líder de Hamás murió en operativo en Gaza](https://apnews.com/world-news/general-news-5da0cfbadfe66c06d9cdac10be71bb16)
-    * [Zelenskyy: Soldados norcoreanos se preparan para ayudar a fuerzas rusas en Ucrania](https://apnews.com/world-news/general-news-1c7df498eff14189681871d36421e306)
-    * [Justicia argentina investiga las circunstancias alrededor de la muerte del cantante Liam Payne](https://apnews.com/world-news/general-news-e8d4fdf7f6530a68b886b2eb6070433e)
-    * [EEUU mira hacia energía nuclear ante creciente demanda de electricidad y energía más limpia](https://apnews.com/science/eeuu-mira-hacia-energia-nuclear-ante-creciente-demanda-de-electricidad-y-energia-mas-limpia-840b1cdae27cdc78d241bf59ccb23b10)
-    * [Luz de Luna puede dificultar visión de las Oriónidas, lluvia de meteoritos del cometa Halley](https://apnews.com/science/luz-de-luna-puede-dificultar-vision-de-las-orionidas-lluvia-de-meteoritos-del-cometa-halley-c059202e03b30efacd8d522895a65981)
+    * [Israel confirma que líder de Hamás, Yahya Sinwar, murió en operativo militar en Gaza](https://apnews.com/world-news/general-news-5da0cfbadfe66c06d9cdac10be71bb16)
+    * [¿Quién era Yahya Sinwar, el líder de Hamás a quien Israel dice haber abatido?](https://apnews.com/world-news/general-news-8af18edfa5ec7fd2f91fa344029f04e8)
+    * [Mayoría de nuevos residentes de Florida y Texas el año pasado procedían de otros países](https://apnews.com/us-news/general-news-ab22d4a72029fb18296865f0ce50d169)
+    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-5e9379a2244ac0e2b1ef7c7bbe0efb4a)
+    * [El riesgo de hambruna en Gaza sigue siendo alto, dicen expertos](https://apnews.com/world-news/general-news-3fd551225c9722d4d20db981c7d4bb02)
+    * [La tos ferina alcanza su nivel más alto en una década en EEUU](https://apnews.com/health/la-tos-ferina-alcanza-su-nivel-mas-alto-en-una-decada-en-eeuu-165cab449cb71c7c8a823477b8cb0b79)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,8 +459,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel confirms Hamas leader Yahya Sinwar was killed in Gaza](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182)
-    * [Zelenskyy says 10,000 North Koreans could join Russian forces in Ukraine as he pushes 'Victory Plan'](https://apnews.com/article/ukraine-zelenskyy-europe-victory-plan-summit-863bd5c70816449e3c92b7c1f767a2ff)
+    * [Sinwar's killing opens up opportunity and much uncertainty for the war in Gaza](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
+    * [Israel says it has killed Hamas leader Yahya Sinwar in Gaza](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182)
     * [Who was Yahya Sinwar, the Hamas leader Israel says it killed?](https://apnews.com/article/israel-palestinians-hamas-war-sinwar-leader-2963dbc6e8ef040a00e588488cba33e7)
     
     Newsletters
@@ -477,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
-    * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
-    * [After hurricane, with no running water, residents organize to meet a basic need](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
-    * [Florida digs out of mountains of sand swept in by back-to-back hurricanes](https://apnews.com/article/milton-helene-hurricane-sand-florida-2906dfdc1027051547c4d49e934a838d)
+    * [Texas Supreme Court halts execution of man in shaken baby case after lawmakers' last-minute appeal](https://apnews.com/article/texas-execution-shaken-baby-syndrome-1ef99c052cc1630785ac5d6e2edfc9cb)
+    * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
+    * [Alabama executes man who killed 5 and asked to be put to death](https://apnews.com/article/derrick-dearman-death-penalty-alabama-3bbb792e73b7c82faccea13ea8254009)
     
     Newsletters
     
@@ -506,9 +506,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris and Trump say America tanks if they lose. So why the exuberance at their rallies?](https://apnews.com/article/trump-harris-rallies-pennsylvania-georgia-92d8be2d5e5a45a6bec105efed6364cd)
-    * [Trump is consistently inconsistent on abortion and reproductive rights](https://apnews.com/article/trump-abortion-election-2024-ivf-contraception-d91f0959087e803db390be11eb60975b)
-    * [Vance says 'no' when asked whether Trump lost 2020 election](https://apnews.com/article/vance-trump-2020-election-3659368bc50e3224e5cc59f76015e096)
+    * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
+    * [Trump was asked to name three nice things about Harris. His response sounded like hers](https://apnews.com/article/trump-harris-election-22229b28388616b69c37cd145b194ad7)
+    * [The Biden administration has canceled student loans for more than 1 million in public service jobs](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Panel looking into Trump assassination attempt says Secret Service needs ‘fundamental reform’](https://apnews.com/article/secret-service-trump-butler-shooting-assassination-attempt-00fce4f3d481d9c3c7964a0215c84678)
-    * [The Latest: Harris keeps a focus on 'blue wall' states in the campaign's final weeks](https://apnews.com/article/kamala-harris-donald-trump-blue-wall-campaign-081a71ffb0cd15f5e48b92640aa94447)
-    * [McConnell called Trump 'stupid' and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
+    * [As Biden meets with European allies, the possibility of another Trump term hangs over their talks](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
+    * [Harris and Trump target Michigan as both parties try to shore up 'blue wall' votes](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [While LeBron and Bronny prepare for their historic family pairing, the Lakers shrug off the critics](https://apnews.com/article/lebron-bronny-james-lakers-c58518529e631ca65633fe514fcf40b1)
-    * [Ionescu's 3-pointer with 1 second left gives Liberty 80-77 win over Lynx and 2-1 lead in WNBA Finals](https://apnews.com/article/wnba-finals-lynx-liberty-score-8efdf448485626ac2bbcad2105d286d4)
-    * [After Severino misplays a pair of comebackers, Mets in need of NLCS comeback against Dodgers](https://apnews.com/article/mlb-playoffs-mets-severino-lindor-70ec43c16970949248da477474848539)
+    * [Ohtani and Betts lead Dodgers to latest blowout of Mets for 3-1 lead in lopsided NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-ohtani-b74016de46665008a9cc927a14d21f75)
+    * [Mets look for biggest comeback yet after falling behind Dodgers 3-1 in NLCS](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
+    * [Fry's 2-run homer in 10th sends Guardians to stunning 7-5 win over Yankees, close to 2-1 in ALCS](https://apnews.com/article/guardians-yankees-mlb-playoffs-54dd54dd01493c61d60f6e84b24296df)
     
     Newsletters
     
@@ -590,8 +590,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Liam Payne, former One Direction member, dies at 31 in Argentina hotel fall](https://apnews.com/article/liam-payne-dies-one-direction-6b7893a56e0d8701096775f611399dd8)
-    * [Death of ex-One Direction member Liam Payne at 31 shocks fans around the world](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
+    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
+    * [Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
     * [Mitzi Gaynor, star of ‘South Pacific,’ dies at 93](https://apnews.com/article/mitzi-gaynor-dead-south-pacific-320eb99fe0824091babafac794dc2320)
     
 * [Business](https://apnews.com/business)
@@ -608,7 +608,7 @@ Submit Search
     
     * [Average rate on a 30-year mortgage in the US rises to the highest level in 8 weeks](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-e7d5328d9f0ae06086c108b870eba987)
     * [US shoppers spent more at retailers last month in latest sign consumers are driving growth](https://apnews.com/article/retailers-spending-consumers-inflation-stores-shoppers-economy-3e4df15431444adb36a67c628c6553b7)
-    * [Big Tech's energy needs mean nuclear power is getting a fresh look from electricity providers](https://apnews.com/article/nuclear-tech-ai-data-11baf04fc4e7e7570313d5f7e4e64eb1)
+    * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
     
 * [Science](https://apnews.com/science)
     
@@ -709,12 +709,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Tech firms remove social media accounts of a Russian drone factory after an AP investigation](https://apnews.com/article/alabuga-russia-africa-ukraine-war-shahed-drones-bc175c4c98d752dc298c23434637417e)
+    * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     * [A South Korean adoptee needed answers about the past. She got them — just not the ones she wanted](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
-    * [How Tucson police handled a death like George Floyd’s when leaders thought it would never happen](https://apnews.com/article/lethal-restraint-tucson-police-deaths-transparency-texts-7087a4f1637596d7d66afa92358b811b)
-    * [A series of deaths and the 'Big Fight': Uncovering police force in one Midwestern city](https://apnews.com/article/police-use-of-force-deaths-evansville-lethal-restraint-4d4b8e5c590938b22f4b59ee34fac3d9)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -729,20 +729,20 @@ Submit Search
     
     TOP STORIES
     
-    * [After hurricane, with no running water, residents organize to meet a basic need](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
+    * [Efforts to combat deforestation in Colombia hindered because of armed groups, report finds](https://apnews.com/article/amazon-deforestation-colombia-farc-armed-dissidents-emc-90db9cef21c2b38fecf68d1d980f897c)
+    * [Thousands in North Carolina can't flush their toilets amid hurricane damage](https://apnews.com/article/hurricane-helene-milton-community-toilets-water-flush-fb84a3a0d22f55dbf7b09fb9bc8e44e5)
     * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
-    * [Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms](https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Teen smoking and other tobacco use drop to lowest level in 25 years, CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
+    * [Whooping cough is at a decade-high level in US](https://apnews.com/article/whooping-cough-pertussis-childhood-vaccine-02c66d962115e90c2a9bd9dd9c3138e1)
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
     * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [Listeria recall grows to 12 million pounds of meat and poultry, some of it sent to US schools](https://apnews.com/article/brucepac-meat-listeria-recall-98d34858d2b909b69525dc089654cc9d)
-    * [Trump would be the oldest person to become president. He's not sharing health details](https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5)
-    * [Uphill battles that put abortion rights on ballots are unlikely to end even if the measures pass](https://apnews.com/article/abortion-ballot-measures-legal-battle-missouri-florida-d114832682dbda8b50b2d1bbe7c2e17f)
+    * [Texas sues doctor and accuses her of violating ban on gender-affirming care](https://apnews.com/article/gender-affirming-care-doctor-lawsuit-texas-bb2a24b0c981819a11c7a4386c72eb6c)
     
 * [Tech](https://apnews.com/technology)
     
@@ -755,9 +755,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Elon Musk holds his first solo event in support of Trump in the Philadelphia suburbs](https://apnews.com/article/elon-musk-america-pac-donald-trump-344f1ecc9770c4e394fceb7bbbe2b237)
+    * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
     * [Meta lays off staff at WhatsApp and Instagram to align with 'strategic goals'](https://apnews.com/article/meta-layoffs-whatsapp-instagram-4af727c7fb75f89bc50c84284fef2fee)
-    * [Amazon and Google are dueling with nuclear for data center power](https://apnews.com/article/climate-data-centers-amazon-google-nuclear-energy-e404d52241f965e056a7c53e88abc91a)
-    * [US agency adopts rule to make it easier for consumers to cancel unwanted subscriptions](https://apnews.com/article/ftc-rule-cancel-online-subscriptions-renewal-fb11fe0392c0b60acd131267bcc2eb4a)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -775,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
-    * [Universal will open fourth Orlando theme park next May](https://apnews.com/article/universal-studios-florida-orlando-theme-parks-c0971c1e79c01abcc657bd0371586ca0)
-    * [Listeria recall grows to 12 million pounds of meat and poultry, some of it sent to US schools](https://apnews.com/article/brucepac-meat-listeria-recall-98d34858d2b909b69525dc089654cc9d)
-    * [Disney to debut new Lightning Lane Premier Pass this month, but some guests may have sticker shock](https://apnews.com/article/disney-lightning-premier-disneyland-84d74db76e8222845bfd4ef9b152c810)
+    * [King Charles III's visit rekindles Australia's debate on ending ties to the British monarchy](https://apnews.com/article/australia-king-charles-visit-sydney-dcb4baf655f28fc20068c5991f09f28f)
+    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
+    * [Biggest source of new Floridians and Texans last year was other countries](https://apnews.com/article/florida-texas-migration-states-census-bureau-933b58ac9f4a231d9d603209aab3a239)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Harris to address Al Smith charity dinner by video, organizers say](https://apnews.com/article/trump-al-smith-comedy-fundraiser-219b815c343e4fb017541f4f39597c39)
-    * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
-    * [Archdiocese of Los Angeles agrees to pay $880 million to victims of clergy sexual abuse](https://apnews.com/article/los-angeles-archdiocese-clergy-sexual-abuse-bf23e8967410017c036f765bb83910f6)
+    * [What to know about the Los Angeles Catholic Church's $880M settlement with sexual abuse victims](https://apnews.com/article/los-angeles-church-sexual-abuse-settlement-8d04f5c8da061462f04be59b73cc3e92)
+    * [Oklahoma parents and teachers sue to stop top education official's classroom Bible mandate](https://apnews.com/article/oklahoma-bible-mandate-schools-lawsuit-c5c09efa5332db1ab16f7ff2da7be0b8)
+    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
     
     Newsletters
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [La muerte Liam Payne, ex One Direction, a los 31 años causa conmoción en todo el mundo](https://apnews.com/world-news/general-news-4bf392c42a17f837ea745769c5be05ce)
-    * [Israel confirma que líder de Hamás murió en operativo en Gaza](https://apnews.com/world-news/general-news-5da0cfbadfe66c06d9cdac10be71bb16)
-    * [Zelenskyy: Soldados norcoreanos se preparan para ayudar a fuerzas rusas en Ucrania](https://apnews.com/world-news/general-news-1c7df498eff14189681871d36421e306)
-    * [Justicia argentina investiga las circunstancias alrededor de la muerte del cantante Liam Payne](https://apnews.com/world-news/general-news-e8d4fdf7f6530a68b886b2eb6070433e)
-    * [EEUU mira hacia energía nuclear ante creciente demanda de electricidad y energía más limpia](https://apnews.com/science/eeuu-mira-hacia-energia-nuclear-ante-creciente-demanda-de-electricidad-y-energia-mas-limpia-840b1cdae27cdc78d241bf59ccb23b10)
-    * [Luz de Luna puede dificultar visión de las Oriónidas, lluvia de meteoritos del cometa Halley](https://apnews.com/science/luz-de-luna-puede-dificultar-vision-de-las-orionidas-lluvia-de-meteoritos-del-cometa-halley-c059202e03b30efacd8d522895a65981)
+    * [Israel confirma que líder de Hamás, Yahya Sinwar, murió en operativo militar en Gaza](https://apnews.com/world-news/general-news-5da0cfbadfe66c06d9cdac10be71bb16)
+    * [¿Quién era Yahya Sinwar, el líder de Hamás a quien Israel dice haber abatido?](https://apnews.com/world-news/general-news-8af18edfa5ec7fd2f91fa344029f04e8)
+    * [Mayoría de nuevos residentes de Florida y Texas el año pasado procedían de otros países](https://apnews.com/us-news/general-news-ab22d4a72029fb18296865f0ce50d169)
+    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-5e9379a2244ac0e2b1ef7c7bbe0efb4a)
+    * [El riesgo de hambruna en Gaza sigue siendo alto, dicen expertos](https://apnews.com/world-news/general-news-3fd551225c9722d4d20db981c7d4bb02)
+    * [La tos ferina alcanza su nivel más alto en una década en EEUU](https://apnews.com/health/la-tos-ferina-alcanza-su-nivel-mas-alto-en-una-decada-en-eeuu-165cab449cb71c7c8a823477b8cb0b79)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
