@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,7 @@
 
 Сейчас читают
 
+* [Дрожжевой рулет с клюквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=173058)
 * [Макароны с баклажанами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174231)
 
 |     |
@@ -239,7 +240,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174383#comments) | 17.10.24 |     |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174383#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -267,7 +268,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=173962#comments) | 17.10.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=173962#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -309,7 +310,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22738#comments) | 17.10.24 |     |
+|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22738#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -351,7 +352,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174474#comments) | 17.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174474#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -452,10 +453,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743621.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173321) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743198.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174187) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173422) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737287.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173769) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742669.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174368) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740080.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174313) |
-| [Киш из рубленого теста, с курицей, грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173321) | [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [Оладьи из кабачков с бататом](https://www.russianfood.com/recipes/recipe.php?rid=174187) | [Рулетики с сыром, томатным соусом и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=173422) | [Салат с морским коктейлем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173769) | [Овощной суп с рисом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174368) | [Кексы с виноградом и корицей](https://www.russianfood.com/recipes/recipe.php?rid=174313) |
-| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743130.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174316) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173962) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743005.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174383) | [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732192.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173107) |
-| [Галета с грушей](https://www.russianfood.com/recipes/recipe.php?rid=174316) | [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [Салат с маринованными огурцами, сыром и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=173962) | [Кофейно-сливочный мусс с печеньем и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174383) | [Бездрожжевые слоёные лепёшки на кипятке (катлама)](https://www.russianfood.com/recipes/recipe.php?rid=173107) |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743130.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174316) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740080.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174313) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173962) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743198.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174187) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737287.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173769) |
+| [Галета с грушей](https://www.russianfood.com/recipes/recipe.php?rid=174316) | [Кексы с виноградом и корицей](https://www.russianfood.com/recipes/recipe.php?rid=174313) | [Салат с маринованными огурцами, сыром и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=173962) | [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [Оладьи из кабачков с бататом](https://www.russianfood.com/recipes/recipe.php?rid=174187) | [Салат с морским коктейлем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173769) |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742669.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174368) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173422) | [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732192.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173107) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743621.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173321) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743005.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174383) |
+| [Овощной суп с рисом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174368) | [Рулетики с сыром, томатным соусом и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=173422) | [Бездрожжевые слоёные лепёшки на кипятке (катлама)](https://www.russianfood.com/recipes/recipe.php?rid=173107) | [Киш из рубленого теста, с курицей, грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173321) | [Кофейно-сливочный мусс с печеньем и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174383) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(130)
+(161)
