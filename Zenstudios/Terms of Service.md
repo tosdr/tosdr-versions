@@ -233,7 +233,7 @@ Stay Connected
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-© 2006-2024 [Home of the Best Pinball Games and Exciting DLCs](https://zenstudios.com/) All rights reserved. Zen Studios is a part of the Embracer Group
+© 2006-2024 [Home of the Best Pinball Games](https://zenstudios.com/) All rights reserved. Zen Studios is a part of the Embracer Group
 
 * [Legal Notices](https://zenstudios.com/legal-notices/)
 * [EULA](https://zenstudios.com/eula/)
