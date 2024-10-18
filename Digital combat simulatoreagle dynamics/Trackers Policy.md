@@ -16,7 +16,7 @@ Our websites, including [digitalcombatsimulator.com](https://www.digitalcombatsi
 
 Your creation and use of a DCS World account on any of the Sites (an "Account"). For more information on Accounts and how to create an Account please see our Terms of Service.
 
-Your use of any of PC games including, but not limited to, "DCS World", additional modules, campaigns and terrains (the "Games" or individually a "Game"). Your use of each Game will be subject to the End User License Agreement (the "EULA") in respect of that Game. You can read the EULA for our Games during the purchase process on our Sites or in the Game. Your use of any of the Games Forums we operate as part of the Game will be subject to the rules and guidelines applicable to the Games Forums (the "Forum Rules"). The Forum Rules are set out at [https://forums.eagle.ru/guidelines](https://forums.eagle.ru/guidelines) and constitute a part of Terms of Service.
+Your use of any of PC games including, but not limited to, "DCS World", additional modules, campaigns and terrains (the "Games" or individually a "Game"). Your use of each Game will be subject to the End User License Agreement (the "EULA") in respect of that Game. You can read the EULA for our Games during the purchase process on our Sites or in the Game. Your use of any of the Games Forums we operate as part of the Game will be subject to the rules and guidelines applicable to the Games Forums (the "Forum Rules"). The Forum Rules are set out at [https://forum.dcs.world/guidelines/](https://forum.dcs.world/guidelines/) and constitute a part of Terms of Service.
 
 In this Policy we refer to the Sites, the Account and the Games together as the "Services".
 
@@ -25,7 +25,7 @@ Please read this Policy carefully. By use of any of the Services, you accept the
 Information we collect
 ----------------------
 
-The information we collect depends on what products you use and how you use them. The controller of the personal information collected is Eagle Dynamics SA, Route de la Glâne 107, Villars-sur-Glâne, 1752, Switzerland.
+The information we collect depends on what products you use and how you use them. The controller of the personal information collected is Eagle Dynamics SA, Route de Moncor 2, Villars-sur-Glâne 1, 1752, Switzerland.
 
 We respect your right to privacy and will only process personal data and other information you provide to us, or we collect about you, in accordance with applicable privacy and personal data protection laws.
 
