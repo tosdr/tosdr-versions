@@ -36,7 +36,6 @@ Our websites use cookies to distinguish you from other users of our website. Thi
         
 * [Privacy Policy](https://android-zone.ws/privacy/)
 * [Contact Us](https://android-zone.ws/contact/)
-* [Cookies](https://android-zone.ws/cookies/)
 
 [×](#)
 
@@ -69,4 +68,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=1d780f4596d514120738089380fb9326)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=a4614f30030abd6f2d8cf2f7bb193cb0)
+
+ Change theme
