@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. data science
+1. java
     
-2. law
+2. marketing
     
-3. flutter
+3. web development
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Machine Learning
     
-    4,064 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Cybersecurity
+    14,862 courses](https://www.classcentral.com/subject/machine-learning)
+2. [Project Management
     
-    16,039 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Digital Marketing
+    3,981 courses](https://www.classcentral.com/subject/project-management)
+3. [Management & Leadership
     
-    5,933 courses](https://www.classcentral.com/subject/digital-marketing)
+    2,350 courses](https://www.classcentral.com/subject/management-and-leadership)
 
 Popular courses
 ---------------
 
-1. [Gender and Sexuality: Applications in Society
+1. [Aprender
     
-    The University of British Columbia](https://www.classcentral.com/course/gender-studies-university-of-british-columbia-gen-12333)
-2. [Bitcoin and Cryptocurrency Technologies
+    Universidad Nacional Autónoma de México](https://www.classcentral.com/course/aprendo-4631)
+2. [Introduction to Animal Behaviour
     
-    Princeton University](https://www.classcentral.com/course/bitcointech-3655)
-3. [Competencias para buscar, mantener y promocionar en un empleo
+    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
+3. [Tsinghua Chinese: Start Talking with 1.3 Billion People
     
-    Universidad Autónoma de Madrid](https://www.classcentral.com/course/business-skills-universidad-autonoma-de-madrid-co-18073)
+    Tsinghua University](https://www.classcentral.com/course/language-tsinghua-university-tsinghua-chinese-sta-5426)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
