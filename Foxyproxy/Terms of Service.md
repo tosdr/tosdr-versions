@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much for your great support as always.
+Thanks for the great and quick support!
 
-Vito Vanjak
+Brandon
