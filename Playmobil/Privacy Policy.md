@@ -135,7 +135,7 @@ Join our newsletter and get an exclusive 15% off your first order!
 * More
     
     * [Find a Store](https://www.playmobil.com/en-us/store-search/)
-    * [Gift cards](https://www.playmobil.com/en-us/gift-card-purchase/)
+    * [Gift cards](https://www.playmobil.com/en-us/content/giftvoucher/giftvoucher.html)
     
 * * [](https://www.facebook.com/playmobil/)
     * [](https://x.com/PlaymobilUSA)
