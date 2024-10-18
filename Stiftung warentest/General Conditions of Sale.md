@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
 
 Service Stiftung Warentest
 
