@@ -1432,7 +1432,6 @@ Company
 
 Products
 
-* [Brands](https://naturesway.com/pages/natures-way-brands)
 * [Popular Products](https://naturesway.com/collections/trending-products)
 * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
 * [Nature’s Way® Canada](https://shop.natureswaycanada.ca/)
@@ -1462,7 +1461,6 @@ More Info
 
 #### Products
 
-* [Brands](https://naturesway.com/pages/natures-way-brands)
 * [Popular Products](https://naturesway.com/collections/trending-products)
 * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
 * [Nature’s Way® Canada](https://shop.natureswaycanada.ca/)
