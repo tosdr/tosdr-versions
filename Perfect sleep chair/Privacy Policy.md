@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                      
 
 [Skip to content](#MainContent)
 
@@ -660,7 +660,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 8 people voted yesNo, this review was not helpful 2 people voted no
+    Yes, this review was helpful 9 people voted yesNo, this review was not helpful 2 people voted no
     
 * **D E C.**
     
@@ -686,7 +686,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 7 people voted yesNo, this review was not helpful 0 people voted no
+    Yes, this review was helpful 8 people voted yesNo, this review was not helpful 0 people voted no
     
     **JH** 
     
