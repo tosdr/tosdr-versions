@@ -33,7 +33,7 @@ Cancel
 * [Books](#)
     * [Buy / Reserve / Rent](https://www.bhsubookstore.com/buy_textbooks.asp?)
     * [Sell Textbooks](https://onlinebuyback.mbsbooks.com/index.php?jde=7523)
-* [Categories](#)
+* [Shop](#)
     * [Apparel](#)
         * [T-Shirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=248)
         * [Sweatshirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=254)
@@ -157,7 +157,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Friday 8:00AM - 5:00PM CLOSED
+Friday 8:00AM - 5:00PM OPEN
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
