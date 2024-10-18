@@ -71,43 +71,43 @@ Sponsor
 Recent Posts
 ------------
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-ilmpbx-7/)
+[](https://yiff-party.com/yiff/aurora-lites-mcdonalds-and-etc-created-by-frank-79/)
 
-[directed by ilmpbx](https://yiff-party.com/yiff-ai-premium/directed-by-ilmpbx-7/)
+[aurora lites (mcdonald’s and etc) created by frank-79](https://yiff-party.com/yiff/aurora-lites-mcdonalds-and-etc-created-by-frank-79/)
 
 0 1 0
 
 October 18, 2024
 
-[](https://yiff-party.com/yiff/directed-by-someannon/)
+[](https://yiff-party.com/yiff-gif/veronica-created-by-evov1/)
 
-[directed by someannon](https://yiff-party.com/yiff/directed-by-someannon/)
-
-0 2 0
-
-October 18, 2024
-
-[](https://yiff-party.com/yiff-ai-premium/directed-by-wildclaw666-8/)
-
-[directed by wildclaw666](https://yiff-party.com/yiff-ai-premium/directed-by-wildclaw666-8/)
-
-0 2 0
-
-October 18, 2024
-
-[](https://yiff-party.com/yiff/ember-fan-character-and-robinv-mythology-and-etc-created-by-psychobatsu/)
-
-[ember, fan character, and robinv (mythology and etc) created by psychobatsu](https://yiff-party.com/yiff/ember-fan-character-and-robinv-mythology-and-etc-created-by-psychobatsu/)
+[veronica created by evov1](https://yiff-party.com/yiff-gif/veronica-created-by-evov1/)
 
 0 3 0
 
 October 18, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-jasonafex-2/)
+[](https://yiff-party.com/yiff/created-by-bunlewdparadise/)
 
-[nick wilde directed by jasonafex](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-jasonafex-2/)
+[created by bunlewdparadise](https://yiff-party.com/yiff/created-by-bunlewdparadise/)
 
-0 4 0
+0 5 0
+
+October 18, 2024
+
+[](https://yiff-party.com/yiff-ai-premium/directed-by-sinfulgirl178-2/)
+
+[directed by sinfulgirl178](https://yiff-party.com/yiff-ai-premium/directed-by-sinfulgirl178-2/)
+
+0 6 0
+
+October 18, 2024
+
+[](https://yiff-party.com/yiff/vicar-amelia-sony-interactive-entertainment-and-etc-created-by-foxgumie/)
+
+[vicar amelia (sony interactive entertainment and etc) created by foxgumie](https://yiff-party.com/yiff/vicar-amelia-sony-interactive-entertainment-and-etc-created-by-foxgumie/)
+
+0 5 0
 
 October 18, 2024
 
@@ -118,31 +118,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 495 1
+0 504 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-ilmpbx-7/)
+[](https://yiff-party.com/yiff/aurora-lites-mcdonalds-and-etc-created-by-frank-79/)
 
-[directed by ilmpbx](https://yiff-party.com/yiff-ai-premium/directed-by-ilmpbx-7/)
+[aurora lites (mcdonald’s and etc) created by frank-79](https://yiff-party.com/yiff/aurora-lites-mcdonalds-and-etc-created-by-frank-79/)
 
 0 1 0
 
 October 18, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-trick-rex-artist/)
+[](https://yiff-party.com/yiff-ai-premium/krystal-directed-by-director-joe420/)
 
-[nintendo and etc created by trick rex (artist)](https://yiff-party.com/yiff/nintendo-and-etc-created-by-trick-rex-artist/)
+[krystal directed by director joe420](https://yiff-party.com/yiff-ai-premium/krystal-directed-by-director-joe420/)
 
-0 169 0
+0 70 0
 
 September 18, 2024
 
-[](https://yiff-party.com/yiff/boleslaw-mythology-created-by-vesper-art/)
+[](https://yiff-party.com/yiff/spoogie-nintendo-and-etc-created-by-spoogiehowl/)
 
-[boleslaw (mythology) created by vesper art](https://yiff-party.com/yiff/boleslaw-mythology-created-by-vesper-art/)
+[spoogie (nintendo and etc) created by spoogiehowl](https://yiff-party.com/yiff/spoogie-nintendo-and-etc-created-by-spoogiehowl/)
 
-0 130 0
+0 99 0
 
 September 18, 2024
 
