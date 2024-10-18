@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Top support, guys!
+Hi, thanks for this great add-on. I'm a chinese, so foxyproxy means much for me.
 
-Carl Short
+Zero
