@@ -688,4 +688,4 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
                                                  
 
-https://www.arkoselabs.com/
+https://www.arkoselabs.com/legal/terms-of-use/
