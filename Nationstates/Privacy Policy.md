@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Remember, Remember… (1,029)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (1,029 posts)")
-* [YL catches AL doing something embaras… (136)](https://forum.nationstates.net/viewtopic.php?t=555982&f=25&view=unread#unread ""YL catches AL doing something embarassing, YL's reaction?" (136 posts)")
-* [Guess Who BN Is! (5,561)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,561 posts)")
-* [NFL Football Thread 24-25: The Road t… (8,103)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,103 posts)")
-* [How evil is AN based on its flag? III (9,256)](https://forum.nationstates.net/viewtopic.php?t=515034&f=25&view=unread#unread ""How evil is AN based on its flag? III" (9,256 posts)")
+* [October Revolution (89)](https://forum.nationstates.net/viewtopic.php?t=557051&f=20&view=unread#unread ""October Revolution" (89 posts)")
+* [The country game(a roleplay) (7,961)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (7,961 posts)")
+* [A contradiction with German National… (52)](https://forum.nationstates.net/viewtopic.php?t=557032&f=20&view=unread#unread ""A contradiction with German National Socialism?" (52 posts)")
+* [What's Your Pointless Holiday? (61)](https://forum.nationstates.net/viewtopic.php?t=556952&f=20&view=unread#unread ""What's Your Pointless Holiday?" (61 posts)")
+* [Create an Alternate Timeline (Revived… (367)](https://forum.nationstates.net/viewtopic.php?t=554588&f=25&view=unread#unread ""Create an Alternate Timeline (Revived v.3)" (367 posts)")
 
 Advertisement
 
