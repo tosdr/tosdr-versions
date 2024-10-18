@@ -299,9 +299,9 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» запустила Всероссийский мониторинг безопасности пешеходных переходов «Дом-школа-дом»](https://cdn.er.ru/media/news/October2024/UjueGdt0PTXBqzXJ1JcE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskij-monitoring-bezopasnosti-peshehodnyh-perehodov-dom-shkola-dom)
+[![«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://cdn.er.ru/media/news/October2024/UjueGdt0PTXBqzXJ1JcE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
 
-[«Единая Россия» запустила Всероссийский мониторинг безопасности пешеходных переходов «Дом-школа-дом»](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskij-monitoring-bezopasnosti-peshehodnyh-perehodov-dom-shkola-dom)
+[«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
 
 [#Тен](https://er.ru/activity/news?tags%5B0%5D=10707) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#БезопасныеДороги](https://er.ru/activity/news?tags%5B0%5D=1091227) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#пешеходныепереходы](https://er.ru/activity/news?tags%5B0%5D=110758) [#безопасностьнадороге](https://er.ru/activity/news?tags%5B0%5D=119360) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
 
