@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![a tiny crab in an oyster](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/) [15 People Who Captured Something They Just Had to Share](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
     
-    [![22 Bits of Twitter Cringe That Should Get Off the App](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/) [22 Bits of Twitter Cringe That Should Get Off the App](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/)
+    [![Touring the “Worst Resort in Las Vegas”](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/) [Touring the “Worst Resort in Las Vegas”](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/)
     
-    [![Kid trolls NBA dance cam](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/) [Genius Kid Baits NBA Dance Cam into Showing a Pro-Hong Kong Message](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/)
+    [![21 Savage Insults That Burnt People to a Crisp](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/) [21 Savage Insults That Burnt People to a Crisp](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/)
     
-    [![james corden](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/) [James Corden Once Stole a Joke From Ricky Gervais Word for Word](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/)
+    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
     
 
 * Advertisement
