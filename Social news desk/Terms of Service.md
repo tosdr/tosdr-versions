@@ -52,9 +52,9 @@ Engage parents and celebrate education in your community.](https://www.socialnew
 
 Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
 
-Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[**Healthcare**
+Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[Customer Stories
 
-Transform patient engagement and education through social media.](https://www.socialnewsdesk.com/healthcare/)
+See what real SND customers have to say about their experience.](https://www.socialnewsdesk.com/snd-customer-stories)
 
 [![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/sweetwater.png)](https://www.socialnewsdesk.com/blog/customer-review-city-of-sweetwater-conquers-social-media-chaos-with-snd/)
 
@@ -76,9 +76,7 @@ Master social media management with free downloadable resources.](https://www.so
 
 View educational tutorials from experts in social media.](https://www.socialnewsdesk.com/snd-webinars-events)[Blog
 
-Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[Customer Stories
-
-See what real SND customers have to say about their experience.](https://www.socialnewsdesk.com/snd-customer-stories)[About us
+Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[About us
 
 Meet the team behind SND and see why we love social media.](https://www.socialnewsdesk.com/about-us/)[Customer support
 
