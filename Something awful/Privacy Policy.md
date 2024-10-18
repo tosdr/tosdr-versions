@@ -205,26 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Dimensional Failure (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/dimensional-failure-part1/1/)
-* [Merge Famous Art with TV, Movies, and Anime](https://www.somethingawful.com/comedy-goldmine/merge-famous-art/1/)
-* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
-* [Recaption New Yorker Cartoons!](https://www.somethingawful.com/photoshop-phriday/recaption-newyorker-cartoons/1/)
-* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
+* [Augmentation Gone Rampant!](https://www.somethingawful.com/photoshop-phriday/deus-ex-augmentation/1/)
+* [The Adventures of Spidatman!](https://www.somethingawful.com/comedy-goldmine/adventures-spidatman-spiderman/1/)
+* [Making Reading Fun Through Trickery](https://www.somethingawful.com/photoshop-phriday/literal-book-covers/1/)
+* [Milo & Otis + PHOTOSHOP!](https://www.somethingawful.com/photoshop-phriday/milo-otis-betamax/1/)
+* [Remove One Lettr! (Part 3 of 3)](https://www.somethingawful.com/photoshop-phriday/remove-letter-part3/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-blogs.gif) [Have you ever told people IRL that you post on the SA forums?](http://forums.somethingawful.com/showthread.php?threadid=4072871 "Have you ever told people IRL that you post on the SA forums?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Toshiyuki Nishida is gone](http://forums.somethingawful.com/showthread.php?threadid=4072876 "Toshiyuki Nishida is gone")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Y'all ready to party?](http://forums.somethingawful.com/showthread.php?threadid=4072863 "Y'all ready to party?")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [iTT WE'RE MF ROACHES](http://forums.somethingawful.com/showthread.php?threadid=4072858 "iTT WE'RE MF ROACHES")
-
 ### Random Articles
 
-* [Lord of the Rings: ON THE GO!](https://www.somethingawful.com/comedy-goldmine/lord-rings-on/1/)
-* [Dungeons & Dragons: The Book of Wondrous Inventions](https://www.somethingawful.com/dungeons-and-dragons/wtf-wondrous-items/1/)
-* [I'll Do Anything for a Fiverr](https://www.somethingawful.com/news/fiverr-job-list/)
-* [Carol Channing's Disembodied Head!](https://www.somethingawful.com/comedy-goldmine/carol-channing-head/1/)
-* [Reptoids (Thanks, blackishsheep!)](https://www.somethingawful.com/awful-links/reptoids-john-rhodes/)
+* [40 Mistakes I Made Last Year](https://www.somethingawful.com/news/40-mistakes-made/)
+* [June 1, 2009](https://www.somethingawful.com/forum-fridays/ff06-01-09/1/)
+* [Trust No One](https://www.somethingawful.com/news/biden-xfiles-spoilers/)
+* [The Strokes, Good Charlotte, Greatest Hits Albums](https://www.somethingawful.com/your-band-sucks/strokes-good-charlotte/)
+* [Last Minute Holiday Gifts from the Bradford Exchange](https://www.somethingawful.com/news/bradford-exchange-christmas/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
