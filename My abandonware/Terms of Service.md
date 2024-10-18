@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [S.T.U.N. Runner](https://www.myabandonware.com/game/s-t-u-n-runner-10w)
+* [Strike Zone Baseball](https://www.myabandonware.com/game/strike-zone-baseball-q5)
 * [Super Sprint](https://www.myabandonware.com/game/super-sprint-5cx)
 * [K.C. Munchkin!](https://www.myabandonware.com/game/k-c-munchkin-sw2)
 * [4 in 1 Row](https://www.myabandonware.com/game/4-in-1-row-sw1)
-* [Invaders from Hyperspace!](https://www.myabandonware.com/game/invaders-from-hyperspace-sw0)
-* [Interpol](https://www.myabandonware.com/game/interpol-svz)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
