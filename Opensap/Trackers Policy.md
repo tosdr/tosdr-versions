@@ -28,10 +28,10 @@ Explore responsible AI practices
 --------------------------------
 
 Don't miss out on this opportunity to enhance your knowledge!  
-Join us in November for the new massive open online course (MOOC) [Putting AI Ethics into Practice at SAP](https://learning.sap.com/learning-journeys/putting-ai-ethics-into-practice-at-sap).  
+Join us in November for the new massive open online course (MOOC) [Putting AI Ethics into Practice at SAP](https://learning.sap.com/learning-journeys/putting-ai-ethics-into-practice-at-sap?url_id=ctabutton-glo-mooc-AIEthics).  
 Gain insights into the importance and principles of AI ethics, SAP's ethics governance framework, and the rules for employees in the development, deployment, use, and sale of AI systems.  
 
-[Join here](https://open.sap.com/learning-journeys/putting-ai-ethics-into-practice-at-sap)
+[Join here](https://open.sap.com/learning-journeys/putting-ai-ethics-into-practice-at-sap?url_id=ctabutton-glo-mooc-AIEthics)
 
 ![Hand over symbolic pawn family - stock photo.](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt2dc1b4e1ee4df9f4%2F670e85eef70c21669903acee%2F286966_16_9.jpg%3Fheight%3D600&w=3840&q=75)
 
@@ -45,55 +45,28 @@ Ask your questions about your digital learning journeys, prepare successfully f
 
 ![](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fbltcc07306557919143%2F659d822ce86979040a7b604e%2F298119_SAP_Learning_Group.jpg%3Fheight%3D600&w=3840&q=75)
 
-Site Information
-
-Site Information
-
-* [Privacy](https://open.sap.com/about/legal/privacy)
-* [Terms of Use](https://www.sap.com/corporate/en/legal/terms-of-use.html)
-* [Legal Disclosure](https://www.sap.com/about/legal/impressum.html)
-
-* [Do not share/sell my personal information (US Learners only)](https://www.sap.com/registration/dnss.html)
-
-Quick Links
-
-Quick Links
-
-* [SAP Learning Hub](https://www.sap.com/training-certification/learning-hub.html)
-* [SAP Training Shop](https://training.sap.com/)
-* [SAP Developer Center](https://developers.sap.com/)
-* [SAP Community](https://community.sap.com/)
-* [Newsletter](https://www.sap.com/cmp/nl/sap-learning-hub-news/index.html?source=glo-lh-dotcom)
-
-Learning Support
-
-Learning Support
-
-* [Frequently Asked Questions](https://learning.sap.com/frequently-asked-questions#general)
-* [Get Support](https://support.learning.sap.com/)
-* [Share Feedback](https://sapinsights.eu.qualtrics.com/jfe/form/SV_5Bc5MdKzdw8dc4m)
-
-About SAP
-
-About SAP
-
-* [Company Information](https://www.sap.com/about/company.html)
-* [Copyright](https://www.sap.com/about/legal/copyright.html)
-* [Trademark](https://www.sap.com/about/legal/trademark.html)
-* [Worldwide Directory](https://www.sap.com/about/company/office-locations.html)
-* [Careers](https://www.sap.com/about/careers.html)
-* [News and Press](https://news.sap.com/)
-
 [![SAP Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visit home page")
 
-![SAP Logo](/_next/image?url=%2Fsap-logo-svg.svg&w=256&q=75 "Visit home page")](https://open.sap.com/)
+![SAP Logo](/_next/image?url=%2Fsap-logo-svg.svg&w=256&q=75 "Visit home page")
 
-Find us on:
+Learning](https://open.sap.com/)
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Facebook")
+* * *
 
-![SAP Facebook](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt3f1d4b2504d88a61%2F61a8d1039ca4302c0786c30b%2Ffacebook.svg&w=64&q=75 "SAP Facebook")](https://www.facebook.com/SAP)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP Youtube](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Youtube")
+###### Quick Links
 
-![SAP Youtube](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt5c20f5a0005e7f8c%2F61a8d0fdf8a9443d676910ac%2Fyoutube.svg&w=64&q=75 "SAP Youtube")](https://www.youtube.com/SAPCommunities)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP LinkedIn](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP LinkedIn")
+###### Learning Support
 
-![SAP LinkedIn](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fbltc12a8bce7d4e6d88%2F61a8d0fe5634cd1b519c7166%2Flinkedin.svg&w=64&q=75 "SAP LinkedIn")](https://www.linkedin.com/company/sap)
+###### About SAP
+
+###### Site Information
+
+* * *
+
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![SAP Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Facebook")
+
+![SAP Facebook](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fbltaff11c79df5f3c02%2F66ffba318d8ee7cd4dc6b054%2Ficon-facebook.svg&w=32&q=75 "SAP Facebook")](https://www.facebook.com/SAP)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![SAP Youtube](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Youtube")
+
+![SAP Youtube](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt34a08ebe75772f44%2F66ffba31e49b356b5d75b010%2Ficon-youtube.svg&w=32&q=75 "SAP Youtube")](https://www.youtube.com/SAPCommunities)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![SAP LinkedIn](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP LinkedIn")
+
+![SAP LinkedIn](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fbltb40b9a950627e1ef%2F66ffba315b309643714c139b%2Ficon-linked-in.svg&w=32&q=75 "SAP LinkedIn")](https://www.linkedin.com/company/sap)
