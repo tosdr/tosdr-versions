@@ -146,11 +146,11 @@ Receive the most current news and important information you need.
 
 [Sign Up](https://www.numotion.com/newsletter-sign-up)
 
+* [Home](https://www.numotion.com/)
 * [Credentialed ATPs](https://www.numotion.com/careers/credentialed-atps-at-numotion)
 * [Customer Stories](https://www.numotion.com/customer-center/customer-stories)
 * [myNumotion App](https://www.numotion.com/mynumotionapp)
 * [Products & Services](https://www.numotion.com/products-services)
-* [Home](https://www.numotion.com/)
 * [Customer Center](https://www.numotion.com/customer-center)
 * [Locations](https://www.numotion.com/locations)
 * [About Us](https://www.numotion.com/about-us)
