@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Unlock the Mystery of Shen Yun: A Rare Glimpse into the Art Behind the Global Sensation](https://www.theepochtimes.com/bright/unlock-the-mystery-of-shen-yun-a-rare-glimpse-into-the-art-behind-the-global-sensation-5740286)
+* [Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://www.theepochtimes.com/us/judge-denies-trump-request-to-delay-releasing-smiths-evidence-until-after-election-5743108)
     
-    NEW By [Shen Yun Creations](https://www.theepochtimes.com/author/shen-yun-creations)
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Unlock the Mystery of Shen Yun: A Rare Glimpse into the Art Behind the Global Sensation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Unlock the Mystery of Shen Yun: A Rare Glimpse into the Art Behind the Global Sensation](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743273-3000x2000-EN-1-205x123.jpg)](https://www.theepochtimes.com/bright/unlock-the-mystery-of-shen-yun-a-rare-glimpse-into-the-art-behind-the-global-sensation-5740286)
+    ![Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569479-layout-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-trump-request-to-delay-releasing-smiths-evidence-until-after-election-5743108)
+* [Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://www.theepochtimes.com/article/day-in-photos-student-protest-drug-trafficking-operation-and-flooding-alert-5742941)
+    
+    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743257-GettyImages-2178148933-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-student-protest-drug-trafficking-operation-and-flooding-alert-5742941)
+* [Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://www.theepochtimes.com/world/biden-harris-other-us-leaders-cheer-death-of-hamas-leader-yahya-sinwar-5743211)
+    
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693861-Netanyahu-Biden-GettyImages-2162794101-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-other-us-leaders-cheer-death-of-hamas-leader-yahya-sinwar-5743211)
+* [Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://www.theepochtimes.com/health/key-updates-for-medicare-enrollees-and-what-you-need-to-know-for-2025-post-5743058)
+    
+    4hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    
+    [![Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5503629-shutterstock_115761625-205x123.jpg.webp)](https://www.theepochtimes.com/health/key-updates-for-medicare-enrollees-and-what-you-need-to-know-for-2025-post-5743058)
+* [CCP Is Impersonating Americans to Influence 2024 Elections](https://www.theepochtimes.com/article/ccp-is-impersonating-americans-to-influence-2024-elections-5739796)
+    
+    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![CCP Is Impersonating Americans to Influence 2024 Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![CCP Is Impersonating Americans to Influence 2024 Elections](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743324-China-Fake-American-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/ccp-is-impersonating-americans-to-influence-2024-elections-5739796)
+* [Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://www.theepochtimes.com/business/manufacturing-weakness-deepens-with-bigger-than-expected-decline-in-industrial-output-5743110)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735884-GettyImages-1810386707-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/manufacturing-weakness-deepens-with-bigger-than-expected-decline-in-industrial-output-5743110)
+* [Caitlin Clark Makes More History by Making All-WNBA First Team](https://www.theepochtimes.com/sports/caitlin-clark-makes-more-history-by-making-all-wnba-first-team-5742802)
+    
+    5hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
+    
+    [![Caitlin Clark Makes More History by Making All-WNBA First Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Caitlin Clark Makes More History by Making All-WNBA First Team](https://img.theepochtimes.com/assets/uploads/2024/10/id5735022-2.download-205x123.jpg.webp)](https://www.theepochtimes.com/sports/caitlin-clark-makes-more-history-by-making-all-wnba-first-team-5742802)
+* [Federal Agency Moves to Shield Thousands of Lebanese Nationals From Deportation](https://www.theepochtimes.com/us/federal-agency-moves-to-shield-thousands-of-lebanese-nationals-from-deportation-5743201)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Federal Agency Moves to Shield Thousands of Lebanese Nationals From Deportation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Agency Moves to Shield Thousands of Lebanese Nationals From Deportation](https://img.theepochtimes.com/assets/uploads/2024/08/30/id5715639-08122024-DSC06623-DHS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agency-moves-to-shield-thousands-of-lebanese-nationals-from-deportation-5743201)
 * [Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743221-Fox-News-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
-* [Texas AG Alleges Doctor Provided Banned Gender Treatment to Nearly 2 Dozen Minors](https://www.theepochtimes.com/us/texas-ag-alleges-doctor-provided-banned-gender-treatment-to-nearly-2-dozen-minors-5743157)
+    ![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743312-Fox-NewsKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
+* [Father and Son Indicted on Murder Charges for Mass School Shooting in Georgia](https://www.theepochtimes.com/us/father-and-son-indicted-on-murder-charges-for-mass-school-shooting-in-georgia-5743159)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    6hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Texas AG Alleges Doctor Provided Banned Gender Treatment to Nearly 2 Dozen Minors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Father and Son Indicted on Murder Charges for Mass School Shooting in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Texas AG Alleges Doctor Provided Banned Gender Treatment to Nearly 2 Dozen Minors](https://img.theepochtimes.com/assets/uploads/2024/03/26/id5615545-Ken-Paxton-CPAC-Dallas-3-OP-e1711502061278-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-ag-alleges-doctor-provided-banned-gender-treatment-to-nearly-2-dozen-minors-5743157)
-* [Food utensils, toys, hair accessories are made with chemicals recycled from electronics containing flame retardants](https://www.theepochtimes.com/health/toxic-electronics-chemicals-found-in-childrens-toys-and-kitchen-utensils-study-5742921)
-    
-    NEW By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Food utensils, toys, hair accessories are made with chemicals recycled from electronics containing flame retardants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Food utensils, toys, hair accessories are made with chemicals recycled from electronics containing flame retardants](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743232-shutterstock_2394337423_black_plastic_kitchen_utensil-205x123.jpg.webp)](https://www.theepochtimes.com/health/toxic-electronics-chemicals-found-in-childrens-toys-and-kitchen-utensils-study-5742921)
-* [US Sanctions Chinese Entities Over Drone Development for Russia](https://www.theepochtimes.com/world/us-sanctions-chinese-entities-over-drone-development-for-russia-5742996)
-    
-    1hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![US Sanctions Chinese Entities Over Drone Development for Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Sanctions Chinese Entities Over Drone Development for Russia](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735731-2024-09-25T143033Z_2_LYNXMPEK8O0CJ_RTROPTP_4_UKRAINE-CONFLICT-RUSSIA-DRONES-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-sanctions-chinese-entities-over-drone-development-for-russia-5742996)
-* [Upside-Down Car Loans Owed by Americans Hit All-Time High](https://www.theepochtimes.com/us/upside-down-car-loans-owed-by-americans-hit-all-time-high-5743089)
-    
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Upside-Down Car Loans Owed by Americans Hit All-Time High](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Upside-Down Car Loans Owed by Americans Hit All-Time High](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708290-GettyImages-1241224919-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/upside-down-car-loans-owed-by-americans-hit-all-time-high-5743089)
-* [Health Care Network Serving 35,000 Patients Files for Bankruptcy](https://www.theepochtimes.com/us/healthcare-network-serving-35000-patients-files-for-bankruptcy-5742916)
-    
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Health Care Network Serving 35,000 Patients Files for Bankruptcy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Health Care Network Serving 35,000 Patients Files for Bankruptcy](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743191-GettyImages-462270656-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/healthcare-network-serving-35000-patients-files-for-bankruptcy-5742916)
-* [Trump Shooting Calls for ‘Fundamental’ Secret Service Reform, Independent Panel Says](https://www.theepochtimes.com/us/trump-shooting-calls-for-fundamental-secret-service-reform-independent-panel-says-5743024)
-    
-    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Trump Shooting Calls for ‘Fundamental’ Secret Service Reform, Independent Panel Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Shooting Calls for ‘Fundamental’ Secret Service Reform, Independent Panel Says](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714865-GettyImages-2161356025-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-shooting-calls-for-fundamental-secret-service-reform-independent-panel-says-5743024)
-* [How to Remove Fluoride From Your Water At Home](https://www.theepochtimes.com/health/fluoride-free-your-guide-to-water-filtration-and-health-5741827)
-    
-    3hr By [Sheramy Tsai](https://www.theepochtimes.com/author/sher-tsai)
-    
-    [![How to Remove Fluoride From Your Water At Home](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How to Remove Fluoride From Your Water At Home](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743134-shutterstock_2485393435-205x123.jpg.webp)](https://www.theepochtimes.com/health/fluoride-free-your-guide-to-water-filtration-and-health-5741827)
-* [Florida Sues Federal Government, Seeking Data on Noncitizen Voters](https://www.theepochtimes.com/us/florida-sues-federal-government-seeking-data-on-noncitizen-voters-5743068)
-    
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Florida Sues Federal Government, Seeking Data on Noncitizen Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Florida Sues Federal Government, Seeking Data on Noncitizen Voters](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743137-GettyImages-2172608196KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-sues-federal-government-seeking-data-on-noncitizen-voters-5743068)
+    ![Father and Son Indicted on Murder Charges for Mass School Shooting in Georgia](https://img.theepochtimes.com/assets/uploads/2024/10/id5742646-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/father-and-son-indicted-on-murder-charges-for-mass-school-shooting-in-georgia-5743159)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
