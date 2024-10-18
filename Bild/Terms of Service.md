@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
-
-Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel](https://www.bild.de/politik/ausland-und-internationales/militaer-teilt-mit-israel-prueft-moeglichen-tod-vom-hamas-chef-sinwar-671109311f720348549aa2a6)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
