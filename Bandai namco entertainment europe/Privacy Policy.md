@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SWORD ART ONLINE Fractured Daydream gets its first DLC, out now!](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-gets-its-first-dlc-out-now)
-* [Elden Ring – Patch Notes Version 1.16](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-116)
+* [Dragon Ball DAIMA x DRAGON BALL Z: KAKAROT](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-daima-x-dragon-ball-z-kakarot)
+* [DAIMA Goku (Mini) Joins the DRAGON BALL XENOVERSE 2!](https://en.bandainamcoent.eu/dragon-ball/news/daima-goku-mini-joins-the-dragon-ball-xenoverse-2)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
