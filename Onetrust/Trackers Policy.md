@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [DSAR Product Demo with Data Privacy Group](https://www.onetrust.com/resources/dsar-product-demo-with-data-privacy-group-webinar/)
+* [Revisiting IAPP DPC: Top trends from IAPP's privacy conference in Brussels](https://www.onetrust.com/resources/revisiting-iapp-dpc-top-trends-from-iapps-privacy-conference-in-brussels-webinar/)
 * [Live Demo: Building a more resilient Third-Party Management program](https://www.onetrust.com/resources/live-demo-building-a-more-resilient-third-party-management-program/)
-* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
-* [Mastering GDPR consent: A marketer's guide to simplifying compliance](https://www.onetrust.com/resources/mastering-gdpr-consent-a-marketers-guide-to-simplifying-compliance-ebook/)
 
 ### Platform
 
