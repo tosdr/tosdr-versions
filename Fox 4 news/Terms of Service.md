@@ -54,7 +54,7 @@ Search site
 
 * [Links from On Air](https://www.fox4news.com/links)
 * [Birthdays](https://www.fox4news.com/good-day-birthdays)
-* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
+* [Recipes](https://www.fox4news.com/tag/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
@@ -431,7 +431,7 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 
 * [Links from On Air](https://www.fox4news.com/links)
 * [Birthdays](https://www.fox4news.com/good-day-birthdays)
-* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
+* [Recipes](https://www.fox4news.com/tag/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
