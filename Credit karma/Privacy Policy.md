@@ -126,10 +126,6 @@
 * [Contact Us](https://security.intuit.com/contact-us)
     
 
-Important Update: We have updated our privacy statement effective September 8, 2024. 
-
-**Important Update: We have updated our privacy statement effective September 8, 2024.** 
-
 Select your preferred language
 
 [English](https://www.intuit.com/privacy/statement/)
@@ -269,7 +265,7 @@ We, our service providers, and our business partners may automatically log perso
 **Cookies and similar technologies**
 ------------------------------------
 
-Intuit and our service providers may use commonly used tools such as cookies, web beacons, pixels, local shared objects and similar technologies (collectively “cookies”) to collect information about you (“**Cookie Information**”) so we can provide the experiences you request, recognize your visit, track your interactions, and improve your and other customers’ experiences. For example, we may use session-replay technologies, such as those provided by FullStory and Medallia, that employ software code to record users’ interactions with the Services in a manner that allows us to watch video replays of those user sessions. The replays include users’ clicks, mobile app touches, mouse movements, scrolls and keystrokes/key touches during those sessions. These replays help us diagnose usability problems and identify areas for improvement. You can learn more about FullStory at [https://www.fullstory.com/legal/privacy-policy](https://www.fullstory.com/legal/privacy-policy) and you can opt-out of session recording by FullStory at [](https://www.fullstory.com/optout/)[https://www.fullstory.com/optout/](https://www.intuit.com/privacy/statement/%5Bobject%20Object%5D). You can learn more about Medallia at [https://www.medallia.com/privacy-policy/](https://www.medallia.com/privacy-policy/).
+Intuit and our service providers may use commonly used tools such as cookies, web beacons, pixels, local shared objects and similar technologies (collectively “cookies”) to collect information about you (“**Cookie Information**”) so we can provide the experiences you request, recognize your visit, track your interactions, and improve your and other customers’ experiences. For example, we may use session-replay technologies, such as those provided by FullStory and Medallia, that employ software code to record users’ interactions with the Services in a manner that allows us to watch video replays of those user sessions. The replays include users’ clicks, mobile app touches, mouse movements, scrolls and keystrokes/key touches during those sessions. These replays help us diagnose usability problems and identify areas for improvement. You can learn more about FullStory at [https://www.fullstory.com/legal/privacy-policy](https://www.fullstory.com/legal/privacy-policy) and you can opt-out of session recording by FullStory at [](https://www.fullstory.com/optout/)[https://www.fullstory.com/optout/](https://www.intuit.com/privacy/statement/). You can learn more about Medallia at [https://www.medallia.com/privacy-policy/](https://www.medallia.com/privacy-policy/).
 
 You have control over some of the information we collect from Cookies and how we use it. Please see Your Personal Information Rights and Choices section for more information. For full details on how we use cookies and similar technologies please see our [Intuit Cookie Policy](https://security.intuit.com/intuit-cookie-policy). For full details on how we use cookies and similar technologies when you use or interact with our Mailchimp offerings, please also see our [Mailchimp Cookie Statement.](https://mailchimp.com/legal/cookies/)
 
