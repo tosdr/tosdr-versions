@@ -20,8 +20,6 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 [](https://www.listenlively.com/survey)
 
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
-
 Previous
 
 ![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/audiology-awareness-sale-2024-desktop.jpg)
@@ -84,13 +82,9 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 **Shop now**](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
