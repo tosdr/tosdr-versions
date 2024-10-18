@@ -353,6 +353,7 @@ Legal information![](/n/footer/icons/arrow-bottom.svg)
 * [Whistleblowing](https://www.lidl.co.uk/c/whistleblowing/s10022896)
 * [GSCOP Annual Compliance Report](https://www.lidl.co.uk/c/gscop-compliance-report/s10022916)
 * [Refund Policy](https://www.lidl.co.uk/c/refund-policy/s10022914)
+* [Product Recalls](https://www.lidl.co.uk/c/product-recalls/s10043891)
 
 ###### Newsletter Sign Up
 
