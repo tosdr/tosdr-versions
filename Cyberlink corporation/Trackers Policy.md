@@ -40,7 +40,7 @@ Product-specific details:**
 CyberLink Corporation General Privacy Policy and Cookie Policy
 ==============================================================
 
-**Last Update: September 2024. This CyberLink Corporation General Privacy Policy and Cookie Policy replace and supersede all prior versions.**
+**Last Update: October 2024. This CyberLink Corporation General Privacy Policy and Cookie Policy replace and supersede all prior versions.**
 
 When you use our services, you trust us with your information. This Privacy Policy is intended to help you understand your right to privacy.  
   
@@ -167,7 +167,7 @@ Once the periods in paragraphs (1), (2) and (3) above, each to the extent applic
 Third Party Services
 ====================
 
-When you use our services, you may have access to services provided by third-party service providers. For example, you may upload videos into YouTube via our Mobile App or Computer Software; or enable YouTube Live Streaming services upon usage of our Computer Software. These third-party service providers have separate and independent privacy policies and/or Terms of Service shown below:
+When you use our services, you may have access to services provided by third-party service providers. For example, you may upload videos into YouTube via our Mobile App or Computer Software; or enable YouTube Live Streaming services upon usage of our Computer Software. You agree to be bound by the separate and independent privacy policies and/or Terms of Service of these third party service providers shown below:
 
 * YouTube API Services Terms of Service ([https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms))
 * Google Privacy Policy ([https://policies.google.com/privacy](https://policies.google.com/privacy))
