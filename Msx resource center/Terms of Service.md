@@ -153,10 +153,10 @@ Latest reactions
 
 Latest forum posts
 
+* [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars "Robot Wars")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
 * [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
 * [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=1 "Arkos Tracker 3!")
-* [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars "Robot Wars")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=30 "A new MSX (3?) for 2022 ?")
 * [Recommendation for RGB acquisition card](https://www.msx.org/forum/msx-talk/general-discussion/recommendation-for-rgb-acquisition-card "Recommendation for RGB acquisition card")
 * [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips?page=1 "Aleste 2 tips?")
