@@ -438,6 +438,8 @@ We're here to help anytime.
 
 ### Stay updated!
 
+### Sign Me Up!
+
 © 2024 Savvy Smart and Deals Ltd, [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
 * PayPal
