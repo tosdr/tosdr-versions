@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
+> By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
 
-Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
+Donny ZhangVPInspur
 
-> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
+> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
 
-Peter KohlschmidtCTOMoxa
+Keith BergeltCEOOpen Invention Network
 
-> Linux is an integral part of the advanced system-on-chip (SoC) development process and is used as the development platform, as well as a target operating system for many systems that our customers design. Preserving the openness of Linux is critical to the continued advancement of next-generation SoCs in both embedded applications and consumer devices.  
+> Today, with open source software, we are quickly creating robust and long-lasting solutions for our customers. In addition to the technical implementation, we also take care that our customers do not worry about potential license violations.  
 
-Jim ReadyChief Technology Advisor Software & Embedded SystemsCadence Design Systems
+Andreas PfeifferHead of Customer Advice and MarketingGinzinger
 
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
 
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
-
-> Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
-
-Jeremy BennettFounder and Chief ExecutiveEmbecosm
-
-> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
-
-Richard BrownVP MarketingVIA Technologies
-
-> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
-
-Jens WiegandCTO / EVP Software & ElectronicsKontron
-
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
-
-Stephan DührManaging Director, Bareos GmbH & Co. KG
+Koichi TsukuiChief Technology Officer, Advantest
 
 > For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.  
 
 Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
 
-> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
+> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
 
-Peter SpoursDirector of IPTomTom
+Thomas Di GiacomoPresident of Engineering & InnovationSUSE
+
+> _At Amazon, we are constantly looking for ways to innovate on behalf of our customers by investing in systems and technologies that allow us to better serve and understand them. Linux and Open Source are essential to many of our customers and a key driver of innovation across Amazon. We are proud to support a broad range of Open Source projects, foundations, and partners, and we are committed to the long-term success and sustainability of open source as a whole. By joining OIN, we are continuing … [Read more](https://openinventionnetwork.com/testimonial/amazon/ "Complete testimonial by Nithya Ruff")_
+
+Nithya RuffDirector, Amazon Open Source Program Office
+
+> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://openinventionnetwork.com/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
+
+Jim ZemlinExecutive DirectorThe Linux Foundation
+
+> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
+
+Luke IbbetsonHead of Group R&DVodaphone
+
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+
+Roberto Di CosmoFounder & CEOSoftware Heritage
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
