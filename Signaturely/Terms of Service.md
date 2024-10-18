@@ -4,9 +4,7 @@ End of the Year Sale: Get up to 35% Off on all our Plans.
 
 [Save now](https://signaturely.com/pricing/)
 
-[![Signaturely Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2026'%3E%3C/svg%3E)
-
-![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
+[![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
 
 * [How it works](https://signaturely.com/how-electronic-signatures-work/)
 * [Pricing](https://signaturely.com/pricing/)
@@ -24,9 +22,7 @@ Menu
 
 [Try for Free](https://app.signaturely.com/signup)
 
-[![Signaturely Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2026'%3E%3C/svg%3E)
-
-![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
+[![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
 
 Menu
 
