@@ -2,6 +2,8 @@
 
 [Use my current location](#)
 
+Our hearts go out to those affected by the recent hurricanes and flooding.
+
 Website Terms of Use and Conditions
 
 TERMS OF USE AND CONDITIONS
