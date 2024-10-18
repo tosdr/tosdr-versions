@@ -4,7 +4,7 @@
 
 [text.skipToContent](#skip-to-content) [text.skipToNavigation](#skiptonavigation) 
 
-![Free Shipping to Your Home](https://dam.generac.com/ImConvServlet/imconv/ffa820944c9922377f72daa25d90e9271e7a5f48/original)
+![Free Shipping to Your Home](https://dam.generac.com/ImConvServlet/imconv/b4ef050951e1c58d70cac1446ee0a2f101fcacd9/original)
 
 * [Contact Us](https://www.drpower.com/pages/content/customer-support/contact-us)
 * [live chat](#)
