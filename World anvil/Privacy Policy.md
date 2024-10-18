@@ -58,8 +58,6 @@ Your privacy is important to us. This notice (privacy notice) applies to the per
 
 We take your privacy and security seriously at World Anvil, and take industry-approved measures to ensure your data is managed safely and securely. As such we encourage you to please take a few moments to read this Privacy Policy. By accessing the World Anvil Sites, you acknowledge that this Privacy Policy applies to the World Anvil online service.
 
-For the purposes of this privacy notice, the data controller is World Anvil LTD with its address at C/O Cruse & Burke, 73 Park Lane, Croydon, United Kingdom, CR0 1JG. We've also set out contact details towards the end of this notice.
-
 Data Collection
 ---------------
 
@@ -208,4 +206,4 @@ If you have questions about this Privacy Policy or our policies, please talk to 
 
 * * *
 
-by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.040 © 2017-2024 \[en\] | Anvil Time: **11:13**, Oct 18 2024
+by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.040 © 2017-2024 \[en\] | Anvil Time: **17:21**, Oct 18 2024
