@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
+    *  [![](https://media.king5.com/assets/KING/images/d7771a02-dd89-4c95-96f0-914879e07505/20241018T064501/d7771a02-dd89-4c95-96f0-914879e07505_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7771a02-dd89-4c95-96f0-914879e07505/20241018T064501/d7771a02-dd89-4c95-96f0-914879e07505_360x203.jpg)](https://www.king5.com/article/news/local/marysville-woman-110-years-old/281-347e8c3d-5efa-4837-bb5d-9e3540cca6b6)
         
-        #### [City of Tacoma stops glass recycling because of low demand](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
+        #### [Marysville woman turns 110 years old](https://www.king5.com/article/news/local/marysville-woman-110-years-old/281-347e8c3d-5efa-4837-bb5d-9e3540cca6b6)
         
-    *  [![](https://media.king5.com/assets/KING/images/77da0536-96ac-4665-a390-cd2b51aa94a5/20241018T010749/77da0536-96ac-4665-a390-cd2b51aa94a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/77da0536-96ac-4665-a390-cd2b51aa94a5/20241018T010749/77da0536-96ac-4665-a390-cd2b51aa94a5_360x203.jpg)](https://www.king5.com/article/news/local/bellingham/fentanyl-detecting-police-dogs-on-streets-western-washington/281-2ffe935a-1daa-4fad-b679-a73770fa8793)
+    *  [![](https://media.king5.com/assets/KING/images/7be21636-6725-4546-b096-8428b43ce020/20241018T003604/7be21636-6725-4546-b096-8428b43ce020_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7be21636-6725-4546-b096-8428b43ce020/20241018T003604/7be21636-6725-4546-b096-8428b43ce020_360x203.jpg)](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
-        #### [The newest weapon in fight against fentanyl has four legs and a snout](https://www.king5.com/article/news/local/bellingham/fentanyl-detecting-police-dogs-on-streets-western-washington/281-2ffe935a-1daa-4fad-b679-a73770fa8793)
+        #### [Navy aircraft crash site located east of Mount Rainier, condition of crew still unknown](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_360x203.jpg)](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
-        
-        #### [Environment Northwest: When The Earth Shakes](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
-        
-    *  [![](https://media.king5.com/assets/KING/images/c1f14933-7778-4608-8a52-df736f841cff/20241017T120622/c1f14933-7778-4608-8a52-df736f841cff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c1f14933-7778-4608-8a52-df736f841cff/20241017T120622/c1f14933-7778-4608-8a52-df736f841cff_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/e2e9d29b-4677-418d-9952-f0e3b4a321f0/20241018T031139/e2e9d29b-4677-418d-9952-f0e3b4a321f0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e2e9d29b-4677-418d-9952-f0e3b4a321f0/20241018T031139/e2e9d29b-4677-418d-9952-f0e3b4a321f0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
+        
+        #### [Wind Advisory in effect Friday afternoon through Saturday morning](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+48°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
