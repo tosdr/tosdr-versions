@@ -2,11 +2,11 @@
 
 Menü
 
-[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202410101051 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
+[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202410180903 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
 
 [](javascript:void(0);)
 
-[Pollenflug](https://www.wetter.com/gesundheit/pollenflug/)
+[Skigebiete](https://www.wetter.com/skigebiete/)
 
 [Newsletter](https://www.wetter.com/newsletter/)
 
@@ -206,6 +206,7 @@ Menü
     * Reisetipps ANZEIGE
         
     * [Tirol](https://www.wetter.com/reise/tirol/)
+    * [Zillertal Arena](https://www.wetter.com/reise/zillertal-arena/)
     * [Emilia Romagna](https://www.wetter.com/reise/emilia-romagna/)
     * [Cuneo und Haute-Provence](https://www.wetter.com/reise/cuneo/)
     * [Schatzkammer Thüringen](https://www.wetter.com/reise/schatzkammer-thueringen/)
@@ -1122,7 +1123,7 @@ Reichenaustraße 19a
 78467 Konstanz  
 [contact@wetter.com](mailto:contact@wetter.com)
 
-![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202410101051 "wetter.com")
+![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202410180903 "wetter.com")
 
 [Zurück](#) [Schließen ✕](#)
 
@@ -1140,10 +1141,10 @@ Mehr Informationen zu Werbung und Tracking findest du in unseren [Datenschutzhin
 
 Nutze wetter.com und viele weitere Websites ganz ohne Werbebanner, personalisiertes Tracking und Werbespots für nur 3,99€ / Monat.
 
- ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202410101051 "contentpass") Werbefrei für 3,99€ / Monat
+ ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202410180903 "contentpass") Werbefrei für 3,99€ / Monat
 
 Bereits contentpass-Mitglied?  
- [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202410101051 "contentpass") Hier einloggen](#).
+ [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202410180903 "contentpass") Hier einloggen](#).
 
 Wir nutzen ausschließlich Cookies und andere Technologien, die zur Bereitstellung unseres Angebotes unbedingt erforderlich sind. Details zum Abo findest du [hier](https://my.contentpass.net/) und in unseren [Datenschutzhinweisen (contentpass-Abo)](https://www.wetter.com/datenschutz/pay/).
 
