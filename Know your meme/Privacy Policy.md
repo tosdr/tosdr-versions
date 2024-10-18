@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/310/2024-halloween-meme-costumes.jpg "2024 Halloween Meme Costumes Guide")
+    
+    2024 Halloween Meme Costumes Guide](https://knowyourmeme.com/editorials/guides/2024-halloween-meme-costumes-guide)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/309/acc.jpg "What's The 'Ding Dong Eat It Up' Meme? The Viral Prank Video From YouTuber Fique Explained")
+    
+    What's The 'Ding Dong Eat It Up' Meme? The Viral Prank Video From YouTuber Fique Explained](https://knowyourmeme.com/editorials/guides/whats-the-ding-dong-eat-it-up-meme-the-viral-prank-video-from-youtuber-fique-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/308/typhlosion_explainer.jpg "The Weekly Meme Roundup: A Whole Bunch Of 'Pokémon' Jokes, Shaq Calls A Timeout And A KSI Rap Turned Copypasta")
+    
+    The Weekly Meme Roundup: A Whole Bunch Of 'Pokémon' Jokes, Shaq Calls A Timeout And A KSI Rap Turned Copypasta](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-a-whole-bunch-of-pokemon-jokes-shaq-calls-a-timeout-and-a-ksi-rap-turned-copypasta)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/307/where_are_the.jpg "Where Are They Now? How Justin Kuritzkes Went From Being The 'Potion Seller' Meme To Writing 'Challengers'")
     
     Where Are They Now? How Justin Kuritzkes Went From Being The 'Potion Seller' Meme To Writing 'Challengers'](https://knowyourmeme.com/editorials/guides/where-are-they-now-how-playwright-and-novelist-justin-kuritzkes-went-from-being-the-potion-seller-meme-to-writing-challengers)
     
-* [![Photoshop Blending Okarun From 'DanDaDan' And McLovin From 'Superbad' Becomes Meme In The DanDaDan Community](https://i.kym-cdn.com/featured_items/icons/wide/000/026/306/okarun_revised.jpg "Photoshop Blending Okarun From 'DanDaDan' And McLovin From 'Superbad' Becomes Meme In The DanDaDan Community")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/311/mwatch.jpg "Who Is TikToker 'Ambamelia' And Why Did She Tear Down Greek Flags At A restaurant? The Viral Israel Flag Mix-Up Explained")
     
-    Photoshop Blending Okarun From 'DanDaDan' And McLovin From 'Superbad' Becomes Meme In The DanDaDan Community](https://knowyourmeme.com/memes/okarun-mclovin-edits)
-    
-* [!['Gabriel Xuxu:' Brazilian Kid Gains Ironic Fandom On TikTok Chearing For Him To Win A Vegetable That He Hates In The Mini-Games He Plays With His Friends](https://i.kym-cdn.com/featured_items/icons/wide/000/026/305/Gabriel_Xuxu_cover.jpg "'Gabriel Xuxu:' Brazilian Kid Gains Ironic Fandom On TikTok Chearing For Him To Win A Vegetable That He Hates In The Mini-Games He Plays With His Friends")
-    
-    'Gabriel Xuxu:' Brazilian Kid Gains Ironic Fandom On TikTok Chearing For Him To Win A Vegetable That He Hates In The Mini-Games He Plays With His Friends](https://knowyourmeme.com/memes/people/gabriel-xuxu-nepo-baby)
-    
-* [![Knee Thing TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/304/kneething.jpg "Can't Believe We Got 'The Knee Thing' Two Years Ago (And Before GTA 6)")
-    
-    Can't Believe We Got 'The Knee Thing' Two Years Ago (And Before GTA 6)](https://knowyourmeme.com/memes/the-knee-thing)
-    
-* [![Frankie Valli, 90, Sparks Concern And Memes After Series Of Performances](https://i.kym-cdn.com/featured_items/icons/wide/000/026/303/88487495-0-image-m-46_1723568800149.jpeg "Frankie Valli, 90, Sparks Concern And Memes After Series Of Performances")
-    
-    Frankie Valli, 90, Sparks Concern And Memes After Series Of Performances](https://knowyourmeme.com/memes/frankie-valli-september-2024-performances)
+    Who Is TikToker 'Ambamelia' And Why Did She Tear Down Greek Flags At A restaurant? The Viral Israel Flag Mix-Up Explained](https://knowyourmeme.com/editorials/guides/who-is-tiktoker-ambamelia-and-why-did-she-tear-down-greek-flags-at-a-restaurant-the-viral-israel-flag-mix-up-explained)
     
 
 ##### Also Trending:
 
-[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Josh Seiter's Transgender Experiment Hoax](https://knowyourmeme.com/memes/events/josh-seiters-transgender-experiment-hoax "Josh Seiter's Transgender Experiment Hoax") [SFW Artists Posting OCs](https://knowyourmeme.com/memes/sfw-artists-posting-ocs "SFW Artists Posting OCs") [Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally") [Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks")
+[SFW / NSFW Artists Posting OCs](https://knowyourmeme.com/memes/sfw-artists-posting-about-ocs-vs-nsfw-artists-posting-about-ocs "SFW / NSFW Artists Posting OCs")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
