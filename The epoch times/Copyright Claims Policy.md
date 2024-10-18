@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Bret Baier Says He Made ‘A Mistake’ With Trump Clip in Harris Interview](https://www.theepochtimes.com/us/bret-baier-says-he-made-a-mistake-with-trump-clip-in-harris-interview-5743647)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Bret Baier Says He Made ‘A Mistake’ With Trump Clip in Harris Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Bret Baier Says He Made ‘A Mistake’ With Trump Clip in Harris Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742800-Harris-Fox-News-205x123.png.webp)](https://www.theepochtimes.com/us/bret-baier-says-he-made-a-mistake-with-trump-clip-in-harris-interview-5743647)
+* [DOE Awards $2 Billion for 38 Electric Grid Expansion, Resilience Projects Across 42 States](https://www.theepochtimes.com/us/doe-awards-2-billion-for-38-electric-grid-expansion-resilience-projects-across-42-states-5743274)
+    
+    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![DOE Awards $2 Billion for 38 Electric Grid Expansion, Resilience Projects Across 42 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DOE Awards $2 Billion for 38 Electric Grid Expansion, Resilience Projects Across 42 States](https://img.theepochtimes.com/assets/uploads/2024/05/19/id5653118-Severe_Weather_Texas_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/doe-awards-2-billion-for-38-electric-grid-expansion-resilience-projects-across-42-states-5743274)
+* [Foreign Holdings of US Debt Surge to Record High of $8.5 Trillion](https://www.theepochtimes.com/us/foreign-holdings-of-us-debt-surge-to-record-high-of-8-5-trillion-5743402)
+    
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Foreign Holdings of US Debt Surge to Record High of $8.5 Trillion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Foreign Holdings of US Debt Surge to Record High of $8.5 Trillion](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738583-Dollar-GettyImages-2150540506-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/foreign-holdings-of-us-debt-surge-to-record-high-of-8-5-trillion-5743402)
+* [Homeland Security Deports Chinese Illegal Immigrants on Charter Flight](https://www.theepochtimes.com/us/homeland-security-deports-chinese-illegal-immigrants-on-charter-flight-5743406)
+    
+    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Homeland Security Deports Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Homeland Security Deports Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684202-JPEG-image-4069-9E2B-98-0-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/homeland-security-deports-chinese-illegal-immigrants-on-charter-flight-5743406)
+* [Trump Attempted Assassination Suspect Ryan Routh Asks Judge to Recuse Herself From Case](https://www.theepochtimes.com/us/trump-attempted-assassination-suspect-ryan-routh-asks-judge-to-recuse-herself-from-case-5743339)
+    
+    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Trump Attempted Assassination Suspect Ryan Routh Asks Judge to Recuse Herself From Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Attempted Assassination Suspect Ryan Routh Asks Judge to Recuse Herself From Case](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730597-GettyImages-2171592164-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-attempted-assassination-suspect-ryan-routh-asks-judge-to-recuse-herself-from-case-5743339)
+* [Trump Thanks God, Calls for Unity Amid Witty Remarks at Al Smith Dinner](https://www.theepochtimes.com/us/trump-thanks-god-calls-for-unity-amid-witty-remarks-at-al-smith-dinner-5743214)
+    
+    3hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Thanks God, Calls for Unity Amid Witty Remarks at Al Smith Dinner](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Thanks God, Calls for Unity Amid Witty Remarks at Al Smith Dinner](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743465-DSC09724-alfred-smith-dinner_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-thanks-god-calls-for-unity-amid-witty-remarks-at-al-smith-dinner-5743214)
+* [One Direction ‘Devastated’ After Liam Payne’s Death, as Autopsy Reveals Extent of Injuries](https://www.theepochtimes.com/entertainment/one-direction-devastated-after-liam-paynes-death-as-autopsy-reveals-extent-of-injuries-5743491)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![One Direction ‘Devastated’ After Liam Payne’s Death, as Autopsy Reveals Extent of Injuries](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![One Direction ‘Devastated’ After Liam Payne’s Death, as Autopsy Reveals Extent of Injuries](https://img.theepochtimes.com/assets/uploads/2014/02/e43fe8b70eb34b074c0f6a70670004b0-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/one-direction-devastated-after-liam-paynes-death-as-autopsy-reveals-extent-of-injuries-5743491)
+* [Hezbollah Says It Will Escalate War With Israel After Death of Hamas Leader](https://www.theepochtimes.com/world/hezbollah-says-it-will-escalate-war-with-israel-after-death-of-hamas-leader-5743500)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Hezbollah Says It Will Escalate War With Israel After Death of Hamas Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hezbollah Says It Will Escalate War With Israel After Death of Hamas Leader](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743280-GettyImages-1251819212-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-says-it-will-escalate-war-with-israel-after-death-of-hamas-leader-5743500)
+* [IV Fluids: Wartime Powers Used to Restore North Carolina Medical Facility Damaged by Helene](https://www.theepochtimes.com/us/iv-fluids-wartime-powers-used-to-restore-north-carolina-medical-facility-damaged-by-helene-5742819)
+    
+    6hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![IV Fluids: Wartime Powers Used to Restore North Carolina Medical Facility Damaged by Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![IV Fluids: Wartime Powers Used to Restore North Carolina Medical Facility Damaged by Helene](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733461-Hurricane-Helene-AP24274607077324-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/iv-fluids-wartime-powers-used-to-restore-north-carolina-medical-facility-damaged-by-helene-5742819)
 * [China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://www.theepochtimes.com/china/china-to-cut-bank-reserve-ratio-again-amid-economic-slowdown-5743474)
     
-    NEW By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    7hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
     [![China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China to Cut Bank Reserve Ratio Again Amid Economic Slowdown](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741776-GettyImages-2160638464-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-to-cut-bank-reserve-ratio-again-amid-economic-slowdown-5743474)
-* [In South Africa, Influx of Chinese and Russian ‘Instruments of War’ Sparks Geopolitical Concerns](https://www.theepochtimes.com/world/in-south-africa-influx-of-chinese-and-russian-instruments-of-war-sparks-geopolitical-concerns-5742968)
-    
-    NEW By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
-    
-    [![In South Africa, Influx of Chinese and Russian ‘Instruments of War’ Sparks Geopolitical Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In South Africa, Influx of Chinese and Russian ‘Instruments of War’ Sparks Geopolitical Concerns](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743030-GettyImages-1222705435-205x123.jpg.webp)](https://www.theepochtimes.com/world/in-south-africa-influx-of-chinese-and-russian-instruments-of-war-sparks-geopolitical-concerns-5742968)
-* [Most Americans Support Cellphone Restrictions in Schools, But Not All-Day Bans: Poll](https://www.theepochtimes.com/us/most-americans-support-cellphone-restrictions-in-schools-but-not-all-day-bans-poll-5743008)
-    
-    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Most Americans Support Cellphone Restrictions in Schools, But Not All-Day Bans: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Most Americans Support Cellphone Restrictions in Schools, But Not All-Day Bans: Poll](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707290-GettyImages-2081068951KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/most-americans-support-cellphone-restrictions-in-schools-but-not-all-day-bans-poll-5743008)
-* [5 Contestants Reach Finals in NTD’s International Piano Competition](https://www.theepochtimes.com/bright/5-contestants-reach-finals-in-ntds-international-piano-competition-5743343)
-    
-    6hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
-    
-    [![5 Contestants Reach Finals in NTD’s International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Contestants Reach Finals in NTD’s International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743424-NTD-Piano-competition-Jean-Luc-Therrien-205x123.jpg.webp)](https://www.theepochtimes.com/bright/5-contestants-reach-finals-in-ntds-international-piano-competition-5743343)
-* [Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://www.theepochtimes.com/us/judge-denies-trump-request-to-delay-releasing-smiths-evidence-until-after-election-5743108)
-    
-    6hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Denies Trump Request to Delay Releasing Smith’s Evidence Until After Election](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569479-layout-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-trump-request-to-delay-releasing-smiths-evidence-until-after-election-5743108)
-* [Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://www.theepochtimes.com/article/day-in-photos-student-protest-drug-trafficking-operation-and-flooding-alert-5742941)
-    
-    7hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Student Protest, Drug Trafficking Operation, and Flooding Alert](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743257-GettyImages-2178148933-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-student-protest-drug-trafficking-operation-and-flooding-alert-5742941)
-* [Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://www.theepochtimes.com/world/biden-harris-other-us-leaders-cheer-death-of-hamas-leader-yahya-sinwar-5743211)
-    
-    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden, Harris, Other US Leaders Cheer Death of Hamas Leader Yahya Sinwar](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693861-Netanyahu-Biden-GettyImages-2162794101-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-other-us-leaders-cheer-death-of-hamas-leader-yahya-sinwar-5743211)
-* [Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://www.theepochtimes.com/health/key-updates-for-medicare-enrollees-and-what-you-need-to-know-for-2025-post-5743058)
-    
-    10hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Key Updates for Medicare Enrollees: What You Need to Know for 2025](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5503629-shutterstock_115761625-205x123.jpg.webp)](https://www.theepochtimes.com/health/key-updates-for-medicare-enrollees-and-what-you-need-to-know-for-2025-post-5743058)
-* [CCP Is Impersonating Americans to Influence 2024 Elections](https://www.theepochtimes.com/article/ccp-is-impersonating-americans-to-influence-2024-elections-5739796)
-    
-    10hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![CCP Is Impersonating Americans to Influence 2024 Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![CCP Is Impersonating Americans to Influence 2024 Elections](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743324-China-Fake-American-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/ccp-is-impersonating-americans-to-influence-2024-elections-5739796)
-* [Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://www.theepochtimes.com/business/manufacturing-weakness-deepens-with-bigger-than-expected-decline-in-industrial-output-5743110)
-    
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Manufacturing Weakness Deepens With Bigger-Than-Expected Decline in Industrial Output](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735884-GettyImages-1810386707-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/manufacturing-weakness-deepens-with-bigger-than-expected-decline-in-industrial-output-5743110)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
