@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=59501325)  
-Alliance Energy
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=75110696)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=152611315)  
-Wiselink Broadband Pty Ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=204194407)  
+AFS Electrical
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=155187481)  
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=177314825)  
+NEW BEGINNINGS DESIGNS
+
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=126346591)  
+CGHK Enterprises (PTY) LTD
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=193182752)  
 OrgChart Hosting Pty Ltd
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=50649001)  
-Well Hung Art
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=27330264)  
+SLOANE STAR MEAT MARKET
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=134469584)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=134197945)  
+Meyer Towing & Recovery
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=19474000)  
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=40342952)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=70035668)  
+Forgotten Goods (Pty) Ltd
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=31459845)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=18062531)  
+OXYAIDER (PTY) LTD
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=104747535)  
 Blue Bulls Rugby Coaches Association
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=94119668)  
-Wiselink Broadband Vryheid
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=55721110)  
-Dr V Naik Consult
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=28899500)  
-Kaylas Creations
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=83711428)  
-Kainos (Pty) Ltd
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=204616467)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=78322576)  
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=61894862)  
 Skinz Printing & Branding
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=72557754)  
-Electro-Heat
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=156441900)  
+M's Frozen Delights
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=33231770)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=faf164e5fbb791c09fb5dc89c4e21dc8d7324d91e0fd89fd1a80c6f4fd788d52&c=26959421)  
-Abandoned Vehicle and Truck Solutions
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=79790102)  
+Druce Digital
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
