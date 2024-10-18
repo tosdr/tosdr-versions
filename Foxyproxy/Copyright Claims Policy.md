@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-FoxyProxy worked well for me and was easy to setup for Chrome (which I then sent to my TV using Google Chromecast). Used it to watch new episodes of BBC's Sherlock.
+Great and prompt service. I'm extremely happy.
 
-Aneet Chachra
+Dan Rosendorf
