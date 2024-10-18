@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/mh17-leugens-en-bedrog/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/appelazijn-zooo-simpel-zooo-effectief/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -145,16 +145,6 @@ Inschrijven
 > George Orwell (1903-1950), journalist-auteur
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
-
-#### WantToKnow Aanbieding
-
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/2024-Flessen-nieuw-samen-goud-zilver-platina-Koper-magnesium-1-liter-scaled.jpg?fit=730%2C418&ssl=1)
-
-### [Stapelkorting van The Health Factory: onze meest voordelige aanbieding, speciaal voor het najaar!](https://www.wanttoknow.nl/aanbieding/eindejaarsaanbieding-the-health-factory-sla-heel-voordelig-in-voor-het-nieuwe-jaar/)
-
-[– Verlengd t/m 17 oktober! – Om het begin van de herfst én van het najaar te vieren, stelden wij met de goede mensen van The Health Factory een héle mooie aanbieding samen. Sla je slag: je voorraadje voor de donkere dagen, met 20% korting..! En.. een herfstcadeau er bovenop! Deze aanbieding is nu al onze scherpste van het jaar! Ontdek snel wat deze mooie deal voor jou betekent, als WantToKnow lezer! Kijk naar de effecten van nano-mineralen in je lichaam; die door het overmatig gebruik van kunstmest en bestrijdingsmiddelen, in combi met intensieve landbouw desastreuze gevolgen heeft, in vorm van tekorten aan micronutriënten (borium, ijzer, koper, mangaan, molybdeen, zink, selenium). Ook in AGF-producten (aardappelen, groenten en fruit) is deze afname bizar. Steeds meer mensen krijgen flinke tekorten aan vitamines en mineralen.; natuurlijk niet zonder gevolgen voor onze gezondheid! Samen met The Health Factory, de makers van bijzondere en zeer zuivere mineraalsupplementen, selecteerden we dus een aantal perfecte supplementsteuntjes in de rug. Lees snel verder over deze aanbieding en superkorting!! …](https://www.wanttoknow.nl/aanbieding/eindejaarsaanbieding-the-health-factory-sla-heel-voordelig-in-voor-het-nieuwe-jaar/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/eindejaarsaanbieding-the-health-factory-sla-heel-voordelig-in-voor-het-nieuwe-jaar/#pt-field-text-5)
 
 [![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
 
