@@ -542,15 +542,15 @@ Ingeschreven in het handelsregister van het kantongerecht Charlottenburg Berlijn
   
 Stand: 01.01.2024
 
-#### Deals, drops en trends
+### Deals, drops en trends
 
-#### Rechtstreeks in je e-mail
+Rechtstreeks in je e-mail
 
 Ontvang kortingen, nieuwe producten en inspiratie in onze nieuwsbrieven.
 
 Je e-mailadres
 
-Beheer je voorkeuren
+#### Beheer je voorkeuren
 
 Wat interesseert je het meest?
 
