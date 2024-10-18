@@ -80,8 +80,8 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 Close
 
@@ -144,8 +144,8 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 
 [Skip to content](#main)
 
