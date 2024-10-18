@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-17 Oct 2024
+18 Oct 2024
 
 * [Home
     
@@ -275,15 +275,6 @@ Dramatic increase in Ballykelly bug bites causing concern for locals
 [Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall")](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
-
-Liam Payne has died at the age of 31
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Girls mural on Badgers Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls mural on Badgers Bar")](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
 
 Derry Girls mural on Badgers Bar
@@ -293,19 +284,28 @@ Derry Girls mural on Badgers Bar
 [Derry pub reinstalls controversial awning three days after removal](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Yellow weather warning for Derry from the MET Office](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Yellow weather warning for Derry from the MET Office")](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
 [Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall")](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
+
+Liam Payne has died at the age of 31
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police search for owner of 'significant sum' of money found in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police search for owner of 'significant sum' of money found in Derry")](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
 
@@ -315,6 +315,15 @@ Police search for owner of 'significant sum' of money found in Derry
 
 [Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Dungiven man charged with series of waste management offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
 
@@ -331,15 +340,6 @@ Derry Crown Court
 
 [Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Peggy Mae Sweeney ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Peggy Mae Sweeney ")](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
-
-Peggy Mae Sweeney
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Fundraiser for Derry baby Peggy ahead of major surgery in London](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +517,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+
+PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
 
 PSNI
@@ -526,7 +535,7 @@ PSNI
 [Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit")](https://www.derrynow.com/news/local-news/1632879/halloween-hay-trail-is-fantastic-opportunity-to-get-into-the-halloween-spirit.html)
+[!['Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit](https://www.derrynow.com/resizer/165/93/true/2024_10_17/Hay_Trail_1-1729173207044.jpg--.jpg?1729173207584 "'Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit")](https://www.derrynow.com/news/local-news/1632879/halloween-hay-trail-is-fantastic-opportunity-to-get-into-the-halloween-spirit.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -557,13 +566,6 @@ Police search for owner of 'significant sum' of money found in Derry
 
 [Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/resizer/165/93/true/e680029b8801704723d9cd227ef70cbb.jpg--.jpg?1482417739000 "Yellow weather warning for Derry from the MET Office")](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
