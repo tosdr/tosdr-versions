@@ -31,15 +31,15 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
+* [![](https://s1.freebeacon.com/up/2024/10/Screenshot-2024-10-17-at-1.36.48 PM_736x514_736x514.png)
+    
+    America is Moving Right. But for How Long?](https://freebeacon.com/columns/america-is-moving-right-but-for-how-long/)
 * [![](https://s1.freebeacon.com/up/2024/10/Screenshot-2024-10-10-at-1.44.09 PM_736x407-2_736x514-2.png)
     
     How Harris Bombed Her Media Blitz](https://freebeacon.com/columns/how-harris-bombed-her-media-blitz/)
 * [![](https://s3.freebeacon.com/up/2024/10/jd-vance-and-tim-walz-face-off-in-vice-presidential-debate-in-new-york-3-scaled-e1727897640906.jpg)
     
     Harris Hits a Walz](https://freebeacon.com/columns/harris-hits-a-walz/)
-* [![](https://s3.freebeacon.com/up/2024/09/war-sparked-by-oct-7-attacks-enters-second-month-scaled-e1727377111774.jpg)
-    
-    America Must Side With Israel Against Hezbollah](https://freebeacon.com/columns/america-must-side-with-israel-against-hezbollah/)
 
  Search
 
