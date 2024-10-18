@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I enjoyed using the service ... I was still able to stream video quite comfortably on an ADSL2 connection.
+Thank you very much for your great support as always.
 
-Chris Campbell
+Vito Vanjak
