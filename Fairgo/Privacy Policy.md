@@ -1,4 +1,4 @@
-[Log In](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup)
+[Log In](https://cdk.fairgocasino.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgocasino.com/Lobby.aspx?SkinId=1&show=signup)
 
 [](https://www.fairgoplus.com/au)
 
@@ -71,8 +71,6 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Real Cash Pokies](https://www.fairgoplus.com/the-difference-between-real-cash-pokies-and-free-games "The difference between real cash pokies and free games")
 
-[Fair Go Bonuses](https://www.bonusfairgo.com/ "Fair Go Bonuses")
-
 [Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
 [Banking](https://www.fairgoplus.com/banking "banking")
@@ -87,21 +85,17 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [eZeeWallet](https://www.fairgoplus.com/ezeewallet-payment "eZeeWallet")
 
-[Fair Go info](https://fairgo.info/ "Fair Go info")
-
 [FAQ](https://www.fairgoplus.com/faq "FAQ")
 
 [Support](https://www.fairgoplus.com/support "support")
 
 [Terms and Conditions](https://www.fairgoplus.com/terms-conditions "terms and conditions")
 
-[Privacy Policy](https://www.fairgoplus.com/privacy-policy "privacy policy")
-
 [Responsible Gaming](https://www.fairgoplus.com/responsible-gambling "responsible gaming")
 
-[Twitter](https://x.com/FairGoCasino "Follow us on Twitter")
+[Privacy Policy](https://www.fairgoplus.com/privacy-policy "privacy policy")
 
-[10 Best Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "Follow us on Twitter")
+[Fair Go info](https://fairgo.info/ "Fair Go info")
 
 Copyright © 2024 FairGo. All rights reserved. You must be at least 18 years of age to play.
 
