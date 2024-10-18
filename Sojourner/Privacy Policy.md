@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f8fdd55b973f4d8856dc4a10ecb934ee
+dda1a41f31ad3b30021058e5912d0ae5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![20 mm by 15 mm flat oval forest agate beads](https://www.sojourner.biz/images/cache/stone/STN002.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
+[![15 mm by 10 mm faceted glass teardrop beads](https://www.sojourner.biz/images/cache/glass/GL0128.200.jpg)](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-faceted-glass-teardrop-beads.html "15 mm by 10 mm faceted glass teardrop beads")
 
-#### [20 mm by 15 mm flat oval forest agate beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
+#### [15 mm by 10 mm faceted glass teardrop beads](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-faceted-glass-teardrop-beads.html "15 mm by 10 mm faceted glass teardrop beads")
 
-$15.00
+$6.00
 
 ### Best Sellers
 
