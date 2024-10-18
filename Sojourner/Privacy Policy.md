@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-38a6b3df5a8f8948914b9d5a05b23dbd
+5f8f429f30cf247451afc4a50edbd9c0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/images/cache/stone/ON0007.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
+[![Violet clasp](https://www.sojourner.biz/images/cache/SKU0428variations.200.jpg)](https://www.sojourner.biz/clasps/glass/violet-clasp.html "Violet clasp")
 
-#### [4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
+#### [Violet clasp](https://www.sojourner.biz/clasps/glass/violet-clasp.html "Violet clasp")
 
-$26.00
+$29.00
 
 ### Best Sellers
 
@@ -191,10 +191,10 @@ $26.00
     $28.00
 6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
 10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
