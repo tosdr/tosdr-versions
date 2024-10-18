@@ -8,13 +8,13 @@ Home & Personal
 
 ![icon to toggle mobile navigation](/content/dam/adt7/global/navigation/menu_hamburger.svg)
 
-![Call icon](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)
+![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)
 
 [![ADT LOGO](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.bluebyadt.com/)
 
-[![customer icon](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)
+[![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)
 
- [![cart icon](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
+ [![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
 
 Home & Personal
 
@@ -71,9 +71,9 @@ Take Our Quiz](https://www.bluebyadt.com/quiz)
 * [Support](https://help.adt.com/s/)
 * 
 
-[![Call icon](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)](# "Call")
+[![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)](# "Call")
 
- [![customer icon](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)[![cart icon](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
+ [![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
 
 [Get a Free Quote](javascript:void(0); "Open Form")
 
