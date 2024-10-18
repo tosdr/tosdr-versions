@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Pitfalls of Cloud Sprawl and How to Avoid Them
+            ##### Recapping Raid Forums: The Place Where Data Was Sold to the Highest Bidder
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/pitfalls-of-cloud-sprawl-and-how-to-avoid-them)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/recapping-raid-forums-the-place-where-data-was-sold-to-the-highest-bidder)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Sam Bocetta](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David Balaban
+#### Sam Bocetta
 
-Oct 17, 2024
+Oct 18, 2024
 
-### [Pitfalls of Cloud Sprawl and How to Avoid Them](https://cybersecurity.att.com/blogs/security-essentials/pitfalls-of-cloud-sprawl-and-how-to-avoid-them)
+### [Recapping Raid Forums: The Place Where Data Was Sold to the Highest Bidder](https://cybersecurity.att.com/blogs/security-essentials/recapping-raid-forums-the-place-where-data-was-sold-to-the-highest-bidder)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
