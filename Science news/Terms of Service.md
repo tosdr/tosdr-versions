@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * * [Environment](https://www.sciencenews.org/topic/environment)
+            
+            ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")5 hours ago
+            
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
             
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")12 hours ago
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")18 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here are some stellar picks from Nikon’s top microscopy images of 2024](https://www.sciencenews.org/article/2024-nikon-small-world-photography)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")13 hours ago
-            
-        * [Plants](https://www.sciencenews.org/topic/plants)
-            
-            ### [Carnivorous plants eat faster with a fungal friend](https://www.sciencenews.org/article/carnivorous-plant-sundew-fungus-digest)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")October 16, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,23 +138,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * * [Environment](https://www.sciencenews.org/topic/environment)
+            
+            ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")5 hours ago
+            
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
             
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")12 hours ago
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")18 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [There’s a new term for attempting to own the wind: ventography](https://www.sciencenews.org/article/wind-ownership-ventography)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 10, 2024
-            
-        * [Earth](https://www.sciencenews.org/topic/earth)
-            
-            ### [What leads rivers to suddenly change course?](https://www.sciencenews.org/article/why-rivers-suddenly-change-course)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")October 10, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
