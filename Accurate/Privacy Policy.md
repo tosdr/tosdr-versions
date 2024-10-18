@@ -424,7 +424,7 @@ Should you wish to report a complaint or if you feel that Accurate has not addre
 * [twitter Link to Twitter](https://twitter.com/accuratebg)
 * [youtube Link to YouTube](https://www.youtube.com/@accuratebackground6512)
 
-© 2024 Accurate Background. All Rights Reserved  | [Privacy Policy](https://www.accurate.com/privacy-policy/) | [UK Modern Slavery Act Statement](https://www.accurate.com/uk-modern-slavery-act-statement/) | [Supplier Code of Conduct](https://www.accurate.com/wp-content/uploads/2023/09/AB-Supplier-Code-of-Conduct-October-2022.pdf) | [Code of Conduct and Ethics Policy](https://www.accurate.com/wp-content/uploads/2023/09/AB-Business-Conduct-and-Ethics-Policy-March-2023-v2.pdf)
+© 2024 Accurate Background. All Rights Reserved  | [Privacy Policy](https://www.accurate.com/privacy-policy/) | [UK Modern Slavery Act Statement](https://www.accurate.com/uk-modern-slavery-act-statement/) | [Supplier Code of Conduct](https://www.accurate.com/wp-content/uploads/2023/09/AB-Supplier-Code-of-Conduct-October-2022.pdf) | [Code of Conduct and Ethics Policy](https://www.accurate.com/global-business-code-of-conduct-and-ethics-policy-2024/)
 
 ×
 
