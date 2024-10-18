@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Venture](https://www.myabandonware.com/game/venture-7sg)
+* [Xenon](https://www.myabandonware.com/game/xenon-kp)
+* [Up Scope](https://www.myabandonware.com/game/up-scope-hhg)
 * [Wizard of Wor](https://www.myabandonware.com/game/wizard-of-wor-56h)
 * [Virtua Racing](https://www.myabandonware.com/game/virtua-racing-813)
-* [4-Get-It](https://www.myabandonware.com/game/4-get-it-6oj)
-* [P.T. Barnum's Acrobats!](https://www.myabandonware.com/game/p-t-barnum-s-acrobats-svj)
-* [Power Lords](https://www.myabandonware.com/game/power-lords-svi)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
