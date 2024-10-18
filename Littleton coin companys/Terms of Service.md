@@ -322,7 +322,7 @@ Shopping Services
 * [Shop by Catalog](https://www.littletoncoin.com/shop/shop-by-catalog)
 * [Respond to an Ad](https://www.littletoncoin.com/shop/respond-to-ad)
 * [Free Catalogs](https://www.littletoncoin.com/shop/Littleton-Coin-Catalogs)
-* [Custom Coins & Currency](https://littletoncoincustom.com/)
+* [Custom Coins & Currency](https://www.littletoncoin.com/shop/custom-coins-and-currency)
 * [Littleton Rewards](https://www.littletoncoin.com/shop/Littleton-Rewards)
 * [U.S. Coin Release Dates](https://www.littletoncoin.com/shop/Release-Schedules)
 * [Littleton's Virtual Albums](https://www.littletoncoin.com/shop/VirtualAlbums-About)
