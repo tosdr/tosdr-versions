@@ -45,8 +45,12 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: "sherlock (tv)" m/m NOT "sherlock holmes/john watson" 
+* Work Search  tip: lex m/m (mature OR explicit) 
     
+
+> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) We’ve reached **0** new members out of our goal of **4,500**
+
+[×](https://archiveofourown.org/tos?hide_banner=true&view_adult=true "hide banner")
 
 Terms of Service
 ----------------
