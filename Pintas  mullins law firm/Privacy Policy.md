@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
+[![What tests are done for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-tests-are-done-for-lung-cancer.jpg "What Tests Are Done For Lung Cancer?")](https://www.pintas.com/lung-cancer/what-tests-are-done-for-lung-cancer/ "What Tests Are Done For Lung Cancer?")
 
-[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
+[#### What Tests Are Done For Lung Cancer?](https://www.pintas.com/lung-cancer/what-tests-are-done-for-lung-cancer/)
 
-[![Is mesothelioma a type of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-mesothelioma-a-type-of-lung-cancer.jpg "Is Mesothelioma a Type of Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/ "Is Mesothelioma a Type of Lung Cancer?")
+[![When do you know malnutrition is a sign of nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer-scaled.jpg "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/ "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")
 
-[#### Is Mesothelioma a Type of Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/)
+[#### When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/)
 
-[![Can a ct scan tell if a lung nodule is cancerous?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous.jpg "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/ "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")
+[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
 
-[#### Can a CT Scan Tell If a Lung Nodule Is Cancerous?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/)
+[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
