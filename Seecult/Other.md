@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/arse-balkan/branko-tatin-sin.gif?itok=ou4p20sC)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/arse-balkan)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-monument-valley/usa-002.jpg?itok=tNO_vDjb)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-monument-valley-4)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/boban-mark.jpg?itok=gR5XiLyv)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/izlozba-afrika.jpg?itok=C30O_S0i)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Godišnje nagrade reditelja, u junu novi Balkanski festival režije](http://seecult.org/vest/godisnje-nagrade-reditelja-u-junu-novi-balkanski-festival-rezije)
 * [Kosheen slavi 25 godina u Dorćol Platzu](http://seecult.org/vest/kosheen-slavi-25-godina-u-dorcol-platzu)
 * [43\. Skopski džez festival](http://seecult.org/vest/43-skopski-dzez-festival)
 * [40\. Beogradski džez festival u slavu nasleđa](http://seecult.org/vest/40-beogradski-dzez-festival-u-slavu-nasleda)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [17\. Kondenz poziva na okupljanje](http://seecult.org/vest/17-kondenz-poziva-na-okupljanje)
 * [Naličje društva](http://seecult.org/vest/nalicje-drustva)
 * [Savremena Crvenkapa](http://seecult.org/vest/savremena-crvenkapa-0)
-* [Nepredvidiva prošlost budućnosti. O političkom potencijalu utopije](http://seecult.org/vest/nepredvidiva-proslost-buducnosti-o-politickom-potencijalu-utopije)
 
 * [Konkursi](#tab1_1)
 
