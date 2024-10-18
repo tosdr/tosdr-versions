@@ -556,61 +556,31 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Life is Strange: Double Exposure Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange_double_exposure_ultimate_edition_1_.jpg)   No 1. \-29%](https://www.cdkeys.com/pc/life-is-strange-double-exposure-ultimate-edition-pc-steam)
+1.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 1. \-30%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
     
-    **[Life is Strange: Double Exposure Ultimate Edition PC](https://www.cdkeys.com/pc/life-is-strange-double-exposure-ultimate-edition-pc-steam "Life is Strange: Double Exposure Ultimate Edition PC")**
+    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
     
-    Special Price $70.49 RRP $99.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![HITMAN 3 World of Assassination PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-02-02t091820.896_6.jpg)   No 2. \-68%](https://www.cdkeys.com/pc/hitman-3-pc-steam)
-    
-    **[HITMAN 3 World of Assassination PC](https://www.cdkeys.com/pc/hitman-3-pc-steam "HITMAN 3 World of Assassination PC ")**
-    
-    Special Price $21.29 RRP $66.49
+    Special Price $50.99 RRP $73.09
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 3. \-84%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
+2.    [![Dark Souls Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dark-souls-remastered-pc-buy-cheap-cdkeys_4_.jpg)   No 2. \-63%](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key)
     
-    **[Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one "Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC")**
+    **[Dark Souls Remastered PC](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key "Dark Souls Remastered PC")**
     
-    Special Price $10.59 RRP $66.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Age of Empires IV: Anniversary Edition PC (Windows 10)](https://cdn.cdkeys.com/245x340/media/catalog/product/a/g/age_of_empires_iv_windows_10_pc.jpg)   No 4. \-83%](https://www.cdkeys.com/pc/age-of-empires-iv-pc-windows-10)
-    
-    **[Age of Empires IV: Anniversary Edition PC (Windows 10)](https://www.cdkeys.com/pc/age-of-empires-iv-pc-windows-10 "Age of Empires IV: Anniversary Edition PC (Windows 10)")**
-    
-    Special Price $11.99 RRP $69.19
+    Special Price $17.29 RRP $46.49
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 5. \-60%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
+3.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 3. \-62%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
     
-    **[Warhammer 40,000: Rogue Trader PC](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam "Warhammer 40,000: Rogue Trader PC")**
+    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
     
-    Special Price $21.29 RRP $53.19
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![DRAGON BALL: Sparking! ZERO PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/p/sparking_zero_1.jpg)   No 6. \-11%](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na)
-    
-    **[DRAGON BALL: Sparking! ZERO PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na "DRAGON BALL: Sparking! ZERO PC (North America)")**
-    
-    Special Price $65.19 RRP $73.09
+    Special Price $25.29 RRP $66.49
     
     [Add to Wish List](# "Add to Wish List")
     
