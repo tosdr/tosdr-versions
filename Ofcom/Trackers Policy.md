@@ -133,6 +133,18 @@
 
 #### Latest news
 
+[![Anxious woman on phone](/siteassets/resources/images/-news-centre/thumbnail-images/phones/anxious-woman-on-phone.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom launches investigation into whether Tismi failed to prevent misuse of its phone numbers by scammers
+
+18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-launches-investigation-into-whether-tismi-failed-to-prevent-misuse-of-its-phone-numbers-by-scammers/)
+
+[![Woman on the phone on the beach (Hero) (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/misc/woman-on-the-phone-on-the-beach-hero-1336--560px.png?width=1920&height=1085&quality=80)
+
+### How do you protect yourself from surprise mobile charges on holiday?
+
+18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/How-do-you-protect-yourself-from-surprise-mobile-charges-on-holiday/)
+
 [![Countdown to a safer life online HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/countdown-to-a-safer-life-online/countdown-to-a-safer-life-online-hero-1336--560px.png?width=1920&height=1085&quality=80)
 
 ### Countdown to a safer life online
@@ -144,18 +156,6 @@
 ### Why we’re supporting Get Online Week
 
 16 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/why-were-supporting-get-online-week/)
-
-[![Channel 4 logo](/siteassets/resources/images/-news-centre/body-images/2024/new-ten-year-public-service-broadcast-licence-for-channel-4/c4-indent-web.jpg?width=1920&height=1085&quality=80)
-
-### New ten-year public service broadcast licence for Channel 4
-
-15 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-public-service-broadcast-licence-for-channel-4/)
-
-[![An external shot of Channel 4 headquarters](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/channel-42.jpg?width=1920&height=1085&quality=80)
-
-### Response to Channel 4 Corporation’s Statement of Media Content Policy 2023
-
-8 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/response-to-channel-4-corporations-statement-of-media-content-policy-2023/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
