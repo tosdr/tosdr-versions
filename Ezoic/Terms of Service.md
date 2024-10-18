@@ -4,21 +4,13 @@ Solutions
 
 [Ezoic Ads Platform ®
 
-AI-driven monetization technology](https://www.ezoic.com/ezoic-ads)[Services
+AI-driven monetization technology](https://www.ezoic.com/ezoic-ads)[![ez-ID](/_vercel/image?url=_astro%2Fezid-lg.CveDT77M.png&w=640&q=100)ez-ID Identity Platform
+
+Fully-integrate identity data into monetization](https://www.ezoic.com/features/ezid)[Services
 
 Expert services, implementation, and management](https://www.ezoic.com/levels)[ⓟ PREMIUM
 
-Brand campaigns sold and tailored to your audience](https://www.ezoic.com/premium)[End-to-End Identity Data Tools
-
-Fully-integrate identity data into monetization](https://www.ezoic.com/features/ezid)
-
-Explore More
-
-[Flexible Integration](https://www.ezoic.com/setup) [Big Data Analytics](https://www.ezoic.com/big-data-analytics) [Ad Mediation](https://www.ezoic.com/ad-mediation)
-
-Other Products
-
-[![Humix](/_vercel/image?url=_astro%2Fhumix.OyhyoiIO.png&w=16&q=100)Humix](https://www.ezoic.com/humix-network) [![Flickify](/_vercel/image?url=_astro%2Fflickify.BV34MOqW.png&w=16&q=100)flickify](https://flickify.com/) [![NicheIQ](/_vercel/image?url=_astro%2Fnicheiq.dYAUKetD.png&w=16&q=100)NicheIQ](https://www.ezoic.com/nicheiq) [![Writio](/_vercel/image?url=_astro%2Fwritiologo.D9EMvSIo.png&w=16&q=100)Writio](https://writio.com/)
+Brand campaigns sold and tailored to your audience](https://www.ezoic.com/premium)
 
 Resources
 
