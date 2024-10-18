@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=59913206)  
-MONSTER SECURITY SERVICES
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=202173590)  
+Quad Biking Cape Town
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=93839143)  
-Blue Bulls Rugby Coaches Association
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=67945175)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=93007753)  
-Qothiphango Mining
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=32930307)  
-Prosper Park
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=91462087)  
-Goju-Ryu Pretoria East
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=61447459)  
-Sarabi
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=107622473)  
-Norton Medical & Consult - Namibia
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=95685651)  
-webb it services
-
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=158325462)  
-FlipDesign - Renovation Contracting Firm
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=32634666)  
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=121599194)  
 Stories (Pty) Ltd t/a Storietyd
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=14981805)  
-Firstweb Hosting & Design
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=124198034)  
+Konsortium Operations (PTY) LTD
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=190268915)  
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=145388522)  
+AFS Electrical
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=8325171)  
+OptaServ
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=118286195)  
 Waterfinatics Swim School
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=125697846)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=133980049)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=133207123)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=184366884)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=5b6d9b8f243925980960e0cf8260b0e69bd6908dca60f61bb665e04e5dc4b379&c=48467576)  
-Website Café (PTY) LTD
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=110783396)  
+Immediate Health (pty)ltd
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=78851785)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=48436632)  
+Wiselink Broadband Pty Ltd
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=49350557)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=196052766)  
+Wiselink Broadband Vryheid
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=29230a621c1114bbb5d4a01a294375d2eb1ec6b2a31c0875f0f4308a0d61b676&c=20969195)  
+Roamfree Boerdery (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
