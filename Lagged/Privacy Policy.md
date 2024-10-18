@@ -207,7 +207,7 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://imgs2.dab3games.com/untitled-1-ft39.png) Animal Games419 games](https://lagged.com/en/animal "Animal Games")
+*  [![Animal Games](https://imgs2.dab3games.com/two-cats-duet-ft44.png) Animal Games419 games](https://lagged.com/en/animal "Animal Games")
 *  [![Arcade Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Arcade Games1,611 games](https://lagged.com/en/arcade "Arcade Games")
 *  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games410 games](https://lagged.com/en/car "Car Games")
 *  [![Football Games](https://imgs2.dab3games.com/super-bowl-test-ft1084.png) Football Games64 games](https://lagged.com/en/football "Football Games")
@@ -231,9 +231,9 @@ Games you might like
 
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
-[School Escape](https://lagged.com/en/g/school-escape) ![School Escape Game](https://imgs2.dab3games.com/school-escape2-ft45.png) new
-
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
+
+[School Escape](https://lagged.com/en/g/school-escape) ![School Escape Game](https://imgs2.dab3games.com/school-escape2-ft45.png) new
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
@@ -243,9 +243,9 @@ Games you might like
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
-[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
-
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
+
+[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
