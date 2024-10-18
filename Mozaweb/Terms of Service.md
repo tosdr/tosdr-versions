@@ -1,6 +1,6 @@
 Your cart is empty
 
-CHF CNY CZK EUR GBP JPY PLN USD HUF
+CHF CNY CZK EUR GBP JPY PLN RON RSD TRY USD HUF
 
 Quantity:  
 **0**
@@ -65,7 +65,7 @@ Search
     
     Your cart is empty
     
-    CHF CNY CZK EUR GBP JPY PLN USD HUF
+    CHF CNY CZK EUR GBP JPY PLN RON RSD TRY USD HUF
     
     Quantity:  
     **0**
@@ -131,7 +131,7 @@ Search
     
     Your cart is empty
     
-    CHF CNY CZK EUR GBP JPY PLN USD HUF
+    CHF CNY CZK EUR GBP JPY PLN RON RSD TRY USD HUF
     
     Quantity:  
     **0**
