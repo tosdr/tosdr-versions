@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[The cost of living crisis is over — so why aren’t we all celebrating?](https://independentaustralia.net/article-display/politics-display/the-cost-of-living-crisis-is-over--so-why-arent-we-all-celebrating,19068)
+[Dutton’s divisive agenda a threat to social cohesion](https://independentaustralia.net/article-display/politics-display/duttons-divisive-agenda-a-threat-to-social-cohesion,19081)
 
-[Coverage of Trump voters shows who media thinks “matters”](https://independentaustralia.net/article-display/coverage-of-trump-voters-shows-who-media-thinks-matters,19073)
+[Labor fights the trend as election day looms in Queensland](https://independentaustralia.net/article-display/labor-fights-the-trend-as-election-day-looms-in-queensland,19080)
 
-[Booming partner visa backlog will reduce migration opportunities for students](https://independentaustralia.net/article-display/booming-partner-visa-backlog-will-reduce-migration-opportunities-for-students,19072)
+[Coalition and Murdoch press hypocritical on Labor's asylum management](https://independentaustralia.net/article-display/coalition-and-murdoch-press-hypocritical-on-labors-asylum-management,19079)
 
 Privacy Policy
 
@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19083 "Permanent Link : Denying hungry kids and women’s rights with David Crisafulli et al")
+* [POEM: Queensland's choice](https://independentaustralia.net/article-display/poem-queenslands-choice,19086 "Permanent Link : POEM: Queensland's choice")
+* [Let's be honest about suicide prevention](https://independentaustralia.net/article-display/lets-be-honest-about-suicide-prevention,19085 "Permanent Link : Let's be honest about suicide prevention")
 * [Kid Laroi dazzles NRL grand final while 'horror' opera causes outrage](https://independentaustralia.net/article-display/kid-laroi-dazzles-nrl-grand-final-while-horror-opera-causes-outrage,19084 "Permanent Link : Kid Laroi dazzles NRL grand final while 'horror' opera causes outrage")
 * [CARTOONS: Dutton's dynamic opposition matches Albanese's popularity.](https://independentaustralia.net/article-display/cartoons-duttons-dynamic-opposition-matches-albaneses-popularity,19070 "Permanent Link : CARTOONS: Dutton's dynamic opposition matches Albanese's popularity.")
 * [Dutton’s divisive agenda a threat to social cohesion](https://independentaustralia.net/article-display/duttons-divisive-agenda-a-threat-to-social-cohesion,19081 "Permanent Link : Dutton’s divisive agenda a threat to social cohesion")
 * [EDITORIAL: Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/editorial-denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19082 "Permanent Link : EDITORIAL: Denying hungry kids and women’s rights with David Crisafulli et al")
-* [Labor fights the trend as election day looms in Queensland](https://independentaustralia.net/article-display/labor-fights-the-trend-as-election-day-looms-in-queensland,19080 "Permanent Link : Labor fights the trend as election day looms in Queensland")
-* [Coalition and Murdoch press hypocritical on Labor's asylum management](https://independentaustralia.net/article-display/coalition-and-murdoch-press-hypocritical-on-labors-asylum-management,19079 "Permanent Link : Coalition and Murdoch press hypocritical on Labor's asylum management")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
