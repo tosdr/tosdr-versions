@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
-[Actor Toshiyuki Nishida dies at 76](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
+[Chilean woman slammed over viral clip of pullups on torii shrine gate](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
 
-  [![Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428464.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.")](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
-
-[First Japanese national extradited to U.S. killed by Hawaii cellmate](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
-
-  [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
-
-[Michelin stars awarded to 170 Tokyo restaurants](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
-
-  [![The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428453.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.")](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
+  [![A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428451.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.")](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
 
 [JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
   [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+
+[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+  [![The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428487.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.")](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+[Robberies in Kanto region may be linked to 'dark' part-time jobs](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
+
+  [![Police discovered the body of a 75-year-old man in his home in Aoba Ward, Yokohama, on Wednesday and are investigating the case for any connections to a string of robberies in the Tokyo metropolitan area.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428424.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police discovered the body of a 75-year-old man in his home in Aoba Ward, Yokohama, on Wednesday and are investigating the case for any connections to a string of robberies in the Tokyo metropolitan area.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
 
 Editors' Picks
 --------------
@@ -162,29 +162,11 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
-
-[Actor Toshiyuki Nishida dies at 76](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428464.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Toshiyuki Nishida has been a mainstay in entertainment for decades, with an expansive career in film, TV, music and theater.")](https://www.japantimes.co.jp/culture/2024/10/17/entertainment-news/toshiyuki-nishida-obituary/ "Actor Toshiyuki Nishida dies at 76")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[First Japanese national extradited to U.S. killed by Hawaii cellmate](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
+[Chilean woman slammed over viral clip of pullups on torii shrine gate](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
 
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
-
-  [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Michelin stars awarded to 170 Tokyo restaurants](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
-
-By [Mike Fu](https://www.japantimes.co.jp/author/6008/mike-fu/ "Mike Fu")  
-
-  [![The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428453.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The earth tones and suave furnishings of Sezanne's dining room come courtesy of Hong Kong designer Andre Fu.")](https://www.japantimes.co.jp/life/2024/10/17/food-drink/michelin-rankings-2025-tokyo/ "Michelin stars awarded to 170 Tokyo restaurants")
+  [![A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428451.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.")](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -193,6 +175,20 @@ By [Mike Fu](https://www.japantimes.co.jp/author/6008/mike-fu/ "Mike Fu")
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+  [![The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428487.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.")](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Robberies in Kanto region may be linked to 'dark' part-time jobs](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Police discovered the body of a 75-year-old man in his home in Aoba Ward, Yokohama, on Wednesday and are investigating the case for any connections to a string of robberies in the Tokyo metropolitan area.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428424.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police discovered the body of a 75-year-old man in his home in Aoba Ward, Yokohama, on Wednesday and are investigating the case for any connections to a string of robberies in the Tokyo metropolitan area.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
 
 Podcast
 -------
@@ -213,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +253,17 @@ Latest News
 
 [Ukraine and South Korea warn of North Korean troops helping Russia](https://www.japantimes.co.jp/news/2024/10/18/asia-pacific/north-korea-troops-russia/ "Ukraine and South Korea warn of North Korean troops helping Russia")
 
-3 hours ago
+9 hours ago
 
 [Tokio Marine pauses sale of Southeast Asia life insurance business, sources say](https://www.japantimes.co.jp/business/2024/10/18/tokio-marine-sale-pause/ "Tokio Marine pauses sale of Southeast Asia life insurance business, sources say")
 
-4 hours ago
+10 hours ago
 
 [Election causing disruptions amid autumn sports day season](https://www.japantimes.co.jp/news/2024/10/18/japan/society/school-events-canceled-election/ "Election causing disruptions amid autumn sports day season")
 
-6 hours ago
-
 [Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-6 hours ago
-
 [In western Tokyo, national scandals rub up against local politics](https://www.japantimes.co.jp/news/2024/10/18/japan/politics/general-election-tokyo-24-race/ "In western Tokyo, national scandals rub up against local politics")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
