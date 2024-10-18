@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, October 17 2024
+Friday, October 18 2024
 
 Latest
 
-* [Where to preorder Amazon’s first color Kindle and purchase other new models](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
-* [Brazilian police arrested the hacker who stole everyone’s SSN](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 18](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
-* [DevSecOps teams are ramping up the use of AI tools, but they’ve got serious concerns — AI-generated code is causing major security headaches, rampant ‘alert fatigue’, and is slowing down development processes](https://digitpatrox.com/devsecops-teams-are-ramping-up-the-use-of-ai-tools-but-theyve-got-serious-concerns-ai-generated-code-is-causing-major-security-headaches-rampant-alert-fatigue-a/)
-* [Here’s how Cleary Gottlieb law firm uses genAI for pre-trial discovery and more – Computerworld](https://digitpatrox.com/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more-computerworld/)
-* [You Can Get This M1 MacBook Air on Sale for $515 Right Now](https://digitpatrox.com/you-can-get-this-m1-macbook-air-on-sale-for-515-right-now/)
-* [How to install Windows 11 on unsupported hardware](https://digitpatrox.com/how-to-install-windows-11-on-unsupported-hardware/)
-* [Talking Cars 456: Driving the Chevrolet Traverse](https://digitpatrox.com/talking-cars-456-driving-the-chevrolet-traverse/)
-* [5 Tools to Try Instead](https://digitpatrox.com/5-tools-to-try-instead/)
-* [AMD and Intel’s new x86 advisory group looks to tackle Arm, but will it succeed?](https://digitpatrox.com/amd-and-intels-new-x86-advisory-group-looks-to-tackle-arm-but-will-it-succeed/)
+* [Ransomware Attacks Growing More Dangerous, Complex](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
+* [NYT Connections today hints and answers — Friday, October 18 (#495)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
+* [Microsoft warns it lost some customer’s security logs for a month](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
+* [The best iPhones to buy in 2024](https://digitpatrox.com/the-best-iphones-to-buy-in-2024/)
+* [Demon Slayer: How Is Tanjiro Related to Yoriichi?](https://digitpatrox.com/demon-slayer-how-is-tanjiro-related-to-yoriichi/)
+* [How to watch Australian Survivor in the USA](https://digitpatrox.com/how-to-watch-australian-survivor-in-the-usa/)
+* [UiPath and SAP team up to streamline cloud migrations](https://digitpatrox.com/uipath-and-sap-team-up-to-streamline-cloud-migrations/)
+* [Run a business? Then you need to join this Apple service – Computerworld](https://digitpatrox.com/run-a-business-then-you-need-to-join-this-apple-service-computerworld/)
+* [My Favorite Amazon Deal of the Day: The Samsung Galaxy Ring](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-samsung-galaxy-ring/)
+* [What is The Ytmp3.cc virus and How Can You Remove it?](https://digitpatrox.com/what-is-the-ytmp3-cc-virus-and-how-can-you-remove-it/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/VXLByKoVmL_6CIJ_3PnjTrVJ4_o=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25679802/The_New_Kindle_Family.jpg)](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241017-microsoft-ransomware-attacks-grew-2024-.jpg)](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
     
-    [Where to preorder Amazon’s first color Kindle and purchase other new models](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
+    [Ransomware Attacks Growing More Dangerous, Complex](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
     
-    5 mins ago
+    3 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/sCmNW1WQui173vJSZ5jcDGRH8bQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg)](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
+* [![](https://cdn.mos.cms.futurecdn.net/wNvLvjTssKAz44xARheeHW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
     
-    [Brazilian police arrested the hacker who stole everyone’s SSN](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
+    [NYT Connections today hints and answers — Friday, October 18 (#495)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
     
-    6 mins ago
+    18 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg)](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for October 18](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
+    [Microsoft warns it lost some customer’s security logs for a month](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
     
-    21 mins ago
+    46 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/ocFArXc8Xs3XJZGFNijYG6-1200-80.jpg)](https://digitpatrox.com/devsecops-teams-are-ramping-up-the-use-of-ai-tools-but-theyve-got-serious-concerns-ai-generated-code-is-causing-major-security-headaches-rampant-alert-fatigue-a/)
+* [![](https://cdn.vox-cdn.com/thumbor/Ert0djYK8bso4_YTb8kG9d6eM58=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652775/247288_iPhone_Buying_Guides_2_CVirginia.jpg)](https://digitpatrox.com/the-best-iphones-to-buy-in-2024/)
     
-    [DevSecOps teams are ramping up the use of AI tools, but they’ve got serious concerns — AI-generated code is causing major security headaches, rampant ‘alert fatigue’, and is slowing down development processes](https://digitpatrox.com/devsecops-teams-are-ramping-up-the-use-of-ai-tools-but-theyve-got-serious-concerns-ai-generated-code-is-causing-major-security-headaches-rampant-alert-fatigue-a/)
+    [The best iPhones to buy in 2024](https://digitpatrox.com/the-best-iphones-to-buy-in-2024/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564813-0-95231400-1729182906-shutterstock_2345949869.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/tanjiro-yoriichi-demon-slayer.jpg)](https://digitpatrox.com/demon-slayer-how-is-tanjiro-related-to-yoriichi/)
     
-    [Here’s how Cleary Gottlieb law firm uses genAI for pre-trial discovery and more – Computerworld](https://digitpatrox.com/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more-computerworld/)
+    [Demon Slayer: How Is Tanjiro Related to Yoriichi?](https://digitpatrox.com/demon-slayer-how-is-tanjiro-related-to-yoriichi/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
+* [3 mins ago
     
-    ### Where to preorder Amazon’s first color Kindle and purchase other new models](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
-* [6 mins ago
+    ### Ransomware Attacks Growing More Dangerous, Complex](https://digitpatrox.com/ransomware-attacks-growing-more-dangerous-complex/)
+* [18 mins ago
     
-    ### Brazilian police arrested the hacker who stole everyone’s SSN](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
-* [21 mins ago
+    ### NYT Connections today hints and answers — Friday, October 18 (#495)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-18-495/)
+* [46 mins ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for October 18](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
+    ### Microsoft warns it lost some customer’s security logs for a month](https://digitpatrox.com/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [5 days ago
     
-    ### What’s Inside Microsoft’s Major Windows 11 Update?](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
-* [1 week ago
+    ### Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
+* [2 days ago
     
-    ### Too Many DIY Projects Unfinished? The Blackzero 3-In-1 Portable Tool Set Is Here to Help](https://digitpatrox.com/too-many-diy-projects-unfinished-the-blackzero-3-in-1-portable-tool-set-is-here-to-help/)
-* [1 week ago
+    ### Vendor Spotlight: CoSoSys](https://digitpatrox.com/vendor-spotlight-cososys/)
+* [5 days ago
     
-    ### California Bans 6 Food Dyes in School Foods](https://digitpatrox.com/california-bans-6-food-dyes-in-school-foods/)
+    ### 8 Stats That Explain Why Gen Z Prefers Video Games to Movies](https://digitpatrox.com/8-stats-that-explain-why-gen-z-prefers-video-games-to-movies/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to install Windows 11 on unsupported hardware](https://digitpatrox.com/how-to-install-windows-11-on-unsupported-hardware/)
+    ### UiPath and SAP team up to streamline cloud migrations](https://digitpatrox.com/uipath-and-sap-team-up-to-streamline-cloud-migrations/)
 * [3 hours ago
     
-    ### Talking Cars 456: Driving the Chevrolet Traverse](https://digitpatrox.com/talking-cars-456-driving-the-chevrolet-traverse/)
-* [3 hours ago
+    ### Run a business? Then you need to join this Apple service – Computerworld](https://digitpatrox.com/run-a-business-then-you-need-to-join-this-apple-service-computerworld/)
+* [4 hours ago
     
-    ### 5 Tools to Try Instead](https://digitpatrox.com/5-tools-to-try-instead/)
+    ### My Favorite Amazon Deal of the Day: The Samsung Galaxy Ring](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-samsung-galaxy-ring/)
 
 Most Viewed Topics
 
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
