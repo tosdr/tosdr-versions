@@ -143,6 +143,6 @@ If you are located outside of the United States, please note that the iMenuPro s
 
 These terms constitute the entire agreement between you and SoftCafe with respect to your access and use of iMenuPro, superseding any prior agreements between us (including any prior versions of these terms). The failure of SoftCafe to enforce or exercise any right or provision of these terms of service shall not constitute a waiver of that right or provision.
 
-![](https://cdn.imenupro.com/img/softcafe-logo.svg)Designed by SoftCafe in Maryland. All rights reserved. © 2022 SoftCafe, LLC.  [Company](https://imenupro.com/company) [Support](https://help.imenupro.com/) [Terms](https://imenupro.com/terms) [Privacy](https://imenupro.com/privacy)
+![](https://cdn.imenupro.com/img/softcafe-logo.svg)Designed by SoftCafe in Maryland. All rights reserved. © 2024 SoftCafe, LLC.  [Company](https://imenupro.com/company) [Support](https://help.imenupro.com/) [Terms](https://imenupro.com/terms) [Privacy](https://imenupro.com/privacy)
 
 "These go to 11." – Nigel Tufnel
