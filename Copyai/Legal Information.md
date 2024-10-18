@@ -1,6 +1,6 @@
-Discover how to create AI-powered GTM flywheels at our live event on Oct 17th
+Discover how to create AI-powered GTM flywheels
 
-[Register Now](https://www.copy.ai/webinars/how-to-create-an-ai-powered-gtm-flywheel?utm_source=marketing&utm_medium=desktop&utm_campaign=oct_17_webinar&utm_content=native_desktop_banner)
+[Watch Now](https://www.copy.ai/webinars/how-to-create-an-ai-powered-gtm-flywheel?utm_source=marketing&utm_medium=desktop&utm_campaign=oct_17_webinar&utm_content=native_desktop_banner)
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
