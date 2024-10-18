@@ -93,6 +93,7 @@ Manage Cookie Preferences Accept All Cookies
 * [Keep My Number](https://www.mtn.co.ug/terms-and-conditions/keep-my-number/)
 * [WakaNet Fiber](https://www.mtn.co.ug/terms-and-conditions/wakanet-fiber/)
 * [Tourist SIM Offers](https://www.mtn.co.ug/terms-and-conditions/tourist-sim-offers/)
+* [GagaMifi](https://www.mtn.co.ug/terms-and-conditions/gagamifi/)
 
 1\. THE AGREEMENT![1. THE AGREEMENT](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/svgs/accordion-icon.svg)
 
