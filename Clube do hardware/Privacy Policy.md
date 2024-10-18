@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![InvictoDS](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1074296-invictods/ "Ir ao perfil de InvictoDS")
-        
-        1
-        
-        [O Aura Sync é compatível com a placa-mãe ASUS Prime X370 Pro?](https://www.clubedohardware.com.br/forums/topic/1699986-o-aura-sync-%C3%A9-compat%C3%ADvel-com-a-placa-m%C3%A3e-asus-prime-x370-pro/?do=getNewComment "O Aura Sync é compatível com a placa-mãe ASUS Prime X370 Pro?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [InvictoDS](https://www.clubedohardware.com.br/profile/1074296-invictods/ "Ir ao perfil de InvictoDS")  
-        37 minutos atrás
-        
-    * [![kablle](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254682.thumb.png.59af4e2b4c89c86582d0706207cb925d.png)](https://www.clubedohardware.com.br/profile/1254682-kablle/ "Ir ao perfil de kablle")
-        
-        2
-        
-        [PC reiniciando em jogos](https://www.clubedohardware.com.br/forums/topic/1699985-pc-reiniciando-em-jogos/?do=getNewComment "PC reiniciando em jogos")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [kablle](https://www.clubedohardware.com.br/profile/1254682-kablle/ "Ir ao perfil de kablle")  
-        1 hora atrás
-        
-    * [![_Rodrigo_M](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2365c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ERM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254680-_rodrigo_m/ "Ir ao perfil de _Rodrigo_M")
+    * [![guilherme ramalho 1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/d33baf905ca57e7b4723e17f29fb9c9e.thumb.jpg.cf026effce407fce2981feb8885252b6.jpg)](https://www.clubedohardware.com.br/profile/1198452-guilherme-ramalho-1/ "Ir ao perfil de guilherme ramalho 1")
         
         0
         
-        [ASUS TUF Gaming A520M-PLUS Wifi é igual a PLUS II em desempenho?](https://www.clubedohardware.com.br/forums/topic/1699984-asus-tuf-gaming-a520m-plus-wifi-%C3%A9-igual-a-plus-ii-em-desempenho/?do=getNewComment "ASUS TUF Gaming A520M-PLUS Wifi é igual a PLUS II em desempenho?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [\_Rodrigo\_M](https://www.clubedohardware.com.br/profile/1254680-_rodrigo_m/ "Ir ao perfil de _Rodrigo_M")  
-        1 hora atrás
-        
-    * [![Rafael2860](https://www.clubedohardware.com.br/uploads/members/monthly_2021_05/bVsPiUg.thumb.jpg.64a924872bcaeaf0f45d90e7bac499dd.jpg)](https://www.clubedohardware.com.br/profile/871769-rafael2860/ "Ir ao perfil de Rafael2860")
-        
-        2
-        
-        [Fonte recomendada para Ryzen 7 5700x3d, GeForce RTX 4060ti e vários fans](https://www.clubedohardware.com.br/forums/topic/1699983-fonte-recomendada-para-ryzen-7-5700x3d-geforce-rtx-4060ti-e-v%C3%A1rios-fans/?do=getNewComment "Fonte recomendada para Ryzen 7 5700x3d, GeForce RTX 4060ti e vários fans")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Rafael2860](https://www.clubedohardware.com.br/profile/871769-rafael2860/ "Ir ao perfil de Rafael2860")  
-        2 horas atrás
-        
-    * [![Will01x](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254679.thumb.jpeg.f62a6f70a4b1bba77178964632e830a3.jpeg)](https://www.clubedohardware.com.br/profile/1254679-will01x/ "Ir ao perfil de Will01x")
-        
-        2
-        
-        [Qual placa comprar até R$ 1.000](https://www.clubedohardware.com.br/forums/topic/1699982-qual-placa-comprar-at%C3%A9-r-1000/?do=getNewComment "Qual placa comprar até R$ 1.000")
+        [GeForce RTX 4070 Super e RTX 4070 TI Super, tem muita diferença entre elas?](https://www.clubedohardware.com.br/forums/topic/1700008-geforce-rtx-4070-super-e-rtx-4070-ti-super-tem-muita-diferen%C3%A7a-entre-elas/?do=getNewComment "GeForce RTX 4070 Super e RTX 4070 TI Super, tem muita diferença entre elas?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Will01x](https://www.clubedohardware.com.br/profile/1254679-will01x/ "Ir ao perfil de Will01x")  
-        7 horas atrás
+        Por [guilherme ramalho 1](https://www.clubedohardware.com.br/profile/1198452-guilherme-ramalho-1/ "Ir ao perfil de guilherme ramalho 1")  
+        33 minutos atrás
         
-    * [![Márico](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254678.thumb.png.0cbf2a542726fd4c6c754aea3debbfea.png)](https://www.clubedohardware.com.br/profile/1254678-m%C3%A1rico/ "Ir ao perfil de Márico")
+    * [![david20mil](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254692.thumb.png.7da273adfa955f0e120068e8266289a5.png)](https://www.clubedohardware.com.br/profile/1254692-david20mil/ "Ir ao perfil de david20mil")
+        
+        0
+        
+        [fps abaixou após instalação de placa de vídeo!](https://www.clubedohardware.com.br/forums/topic/1700007-fps-abaixou-ap%C3%B3s-instala%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo/?do=getNewComment "fps abaixou após instalação de placa de vídeo!")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [david20mil](https://www.clubedohardware.com.br/profile/1254692-david20mil/ "Ir ao perfil de david20mil")  
+        39 minutos atrás
+        
+    * [![rodrigo2231](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b362c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254694-rodrigo2231/ "Ir ao perfil de rodrigo2231")
         
         1
         
-        [Processadores AMD ou Intel para Designer Gráfico?](https://www.clubedohardware.com.br/forums/topic/1699981-processadores-amd-ou-intel-para-designer-gr%C3%A1fico/?do=getNewComment "Processadores AMD ou  Intel para Designer Gráfico?")
+        [Recomendação de fonte para Core i5-12400f e GeForce RTX 3060](https://www.clubedohardware.com.br/forums/topic/1700006-recomenda%C3%A7%C3%A3o-de-fonte-para-core-i5-12400f-e-geforce-rtx-3060/?do=getNewComment "Recomendação de fonte para Core i5-12400f e GeForce RTX 3060")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Márico](https://www.clubedohardware.com.br/profile/1254678-m%C3%A1rico/ "Ir ao perfil de Márico")  
-        9 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [rodrigo2231](https://www.clubedohardware.com.br/profile/1254694-rodrigo2231/ "Ir ao perfil de rodrigo2231")  
+        46 minutos atrás
         
-    * [![alexandre games](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4bb%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254521-alexandre-games/ "Ir ao perfil de alexandre games")
+    * [![Kabalmal](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254690-kabalmal/ "Ir ao perfil de Kabalmal")
         
-        2
+        0
         
-        [Reduza a luz da tela](https://www.clubedohardware.com.br/forums/topic/1699980-reduza-a-luz-da-tela/?do=getNewComment "Reduza a luz da tela")
+        [Minha RX 580 8gb perde Vídeo depois de um tempo ligada](https://www.clubedohardware.com.br/forums/topic/1700005-minha-rx-580-8gb-perde-v%C3%ADdeo-depois-de-um-tempo-ligada/?do=getNewComment "Minha RX 580 8gb perde Vídeo depois de um tempo ligada")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Kabalmal](https://www.clubedohardware.com.br/profile/1254690-kabalmal/ "Ir ao perfil de Kabalmal")  
+        1 hora atrás
+        
+    * [![gandalfnho](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-282053.jpg)](https://www.clubedohardware.com.br/profile/282053-gandalfnho/ "Ir ao perfil de gandalfnho")
+        
+        3
+        
+        [Montar modem fibra ótica na parede - sugestões de como fazer](https://www.clubedohardware.com.br/forums/topic/1700004-montar-modem-fibra-%C3%B3tica-na-parede-sugest%C3%B5es-de-como-fazer/?do=getNewComment "Montar modem fibra ótica na parede - sugestões de como fazer")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [gandalfnho](https://www.clubedohardware.com.br/profile/282053-gandalfnho/ "Ir ao perfil de gandalfnho")  
+        1 hora atrás
+        
+    * [![Juizo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231409.thumb.jpeg.2270bcfb0966a1d4c2148d987541c334.jpeg)](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")
+        
+        0
+        
+        [Lenovo ideapad gaming 3i e seu preço "estranho"](https://www.clubedohardware.com.br/forums/topic/1700003-lenovo-ideapad-gaming-3i-e-seu-pre%C3%A7o-estranho/?do=getNewComment "Lenovo ideapad gaming 3i e seu preço "estranho"")
         
         [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [alexandre games](https://www.clubedohardware.com.br/profile/1254521-alexandre-games/ "Ir ao perfil de alexandre games")  
-        10 horas atrás
+        Por [Juizo](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")  
+        2 horas atrás
         
-    * [![Maka9](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/PORKY01.thumb.png.c929167c40f9b426de78c23ffd39097b.png)](https://www.clubedohardware.com.br/profile/1249397-maka9/ "Ir ao perfil de Maka9")
+    * [![Joao Vitor Coveiro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248916.thumb.jpeg.9353e2d009e430402282d30afc563e65.jpeg)](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")
         
         4
         
-        [Fonte boa para uma GTX 1660 Super e um Ryzen 3 2200g](https://www.clubedohardware.com.br/forums/topic/1699977-fonte-boa-para-uma-gtx-1660-super-e-um-ryzen-3-2200g/?do=getNewComment "Fonte boa para uma GTX 1660 Super e um Ryzen 3 2200g")
+        [perda de desempenho súbita](https://www.clubedohardware.com.br/forums/topic/1700002-perda-de-desempenho-s%C3%BAbita/?do=getNewComment "perda de desempenho súbita")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Maka9](https://www.clubedohardware.com.br/profile/1249397-maka9/ "Ir ao perfil de Maka9")  
-        10 horas atrás
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Joao Vitor Coveiro](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")  
+        2 horas atrás
         
-    * [![Batatinha_Triste](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/imported-photo-1026905.thumb.jpeg.5657c1588e8f4f4dd1f9650845324c7a.jpeg)](https://www.clubedohardware.com.br/profile/1026905-batatinha_triste/ "Ir ao perfil de Batatinha_Triste")
+    * [![Vini789](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254688.thumb.png.b7a5f73fba50716ae4f9a1bc8b593eb6.png)](https://www.clubedohardware.com.br/profile/1254688-vini789/ "Ir ao perfil de Vini789")
+        
+        0
+        
+        [win demorando muito para iniciar mesmo com ssd](https://www.clubedohardware.com.br/forums/topic/1700001-win-demorando-muito-para-iniciar-mesmo-com-ssd/?do=getNewComment "win demorando muito para iniciar mesmo com ssd")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Vini789](https://www.clubedohardware.com.br/profile/1254688-vini789/ "Ir ao perfil de Vini789")  
+        2 horas atrás
+        
+    * [![Weldson Junior](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249180.thumb.png.06d266c3e1405fab72b75fad32d74028.png)](https://www.clubedohardware.com.br/profile/1249180-weldson-junior/ "Ir ao perfil de Weldson Junior")
         
         1
         
-        [Radeon RX 7800XT, Ryzen 7 5700X3D e Corsair CX750 bom upgrade de R$5.200,00?](https://www.clubedohardware.com.br/forums/topic/1699974-radeon-rx-7800xt-ryzen-7-5700x3d-e-corsair-cx750-bom-upgrade-de-r520000/?do=getNewComment "Radeon RX 7800XT, Ryzen 7 5700X3D e Corsair CX750 bom upgrade de R$5.200,00?")
+        [Recomendação de processador com gráfico integrado](https://www.clubedohardware.com.br/forums/topic/1700000-recomenda%C3%A7%C3%A3o-de-processador-com-gr%C3%A1fico-integrado/?do=getNewComment "Recomendação de processador com gráfico integrado")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Batatinha\_Triste](https://www.clubedohardware.com.br/profile/1026905-batatinha_triste/ "Ir ao perfil de Batatinha_Triste")  
-        11 horas atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Weldson Junior](https://www.clubedohardware.com.br/profile/1249180-weldson-junior/ "Ir ao perfil de Weldson Junior")  
+        3 horas atrás
         
-    * [![Dyn_Fer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254277.thumb.png.6ece9a3afc5d2b720c4ed85d360e7ee4.png)](https://www.clubedohardware.com.br/profile/1254277-dyn_fer/ "Ir ao perfil de Dyn_Fer")
+    * [![Marcilio Dias](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c465%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251552-marcilio-dias/ "Ir ao perfil de Marcilio Dias")
         
-        1
+        2
         
-        [Tela azul no PC seguindo de Tela escura](https://www.clubedohardware.com.br/forums/topic/1699973-tela-azul-no-pc-seguindo-de-tela-escura/?do=getNewComment "Tela azul no PC seguindo de Tela escura")
+        [RX 7600 no preço, mas ansioso pela 6750xt.](https://www.clubedohardware.com.br/forums/topic/1699999-rx-7600-no-pre%C3%A7o-mas-ansioso-pela-6750xt/?do=getNewComment "RX 7600 no preço, mas ansioso pela 6750xt.")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Dyn\_Fer](https://www.clubedohardware.com.br/profile/1254277-dyn_fer/ "Ir ao perfil de Dyn_Fer")  
-        11 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Marcilio Dias](https://www.clubedohardware.com.br/profile/1251552-marcilio-dias/ "Ir ao perfil de Marcilio Dias")  
+        3 horas atrás
         
     
 
