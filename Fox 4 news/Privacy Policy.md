@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Charges dropped against disabled deaf man who was hit by Phoenix Police officers](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1)
+ [![5 arrested in South Dallas: Stolen guns, weed, meth, cocaine, mushrooms confiscated](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dpd-seizure-2.png?ve=1&tl=1)
 
- ![Charges dropped against disabled deaf man who was hit by Phoenix Police officers](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
+ ![5 arrested in South Dallas: Stolen guns, weed, meth, cocaine, mushrooms confiscated](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dpd-seizure-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/5-arrested-south-dallas-stolen-guns-weed-meth-cocaine-mushrooms-confiscated)
 
-### [Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
+### [5 arrested in South Dallas: Stolen guns, weed, meth, cocaine, mushrooms confiscated](https://www.fox4news.com/news/5-arrested-south-dallas-stolen-guns-weed-meth-cocaine-mushrooms-confiscated)
 
- [![Texas Supreme Court halts Robert Roberson's execution in 'shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
+ [![Hardware wholesaler True Value files for bankruptcy, plans sale to rival](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/true-value-sign.jpg?ve=1&tl=1)
 
- ![Texas Supreme Court halts Robert Roberson's execution in 'shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
+ ![Hardware wholesaler True Value files for bankruptcy, plans sale to rival](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/true-value-sign.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/true-value-bankrupt)
 
-### [Texas Supreme Court halts Robert Roberson's execution in 'shaken baby syndrome' case](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
+### [Hardware wholesaler True Value files for bankruptcy, plans sale to rival](https://www.fox4news.com/money/true-value-bankrupt)
 
- [![Thanksgiving and holiday travel trends in 2024: What you need to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-134002823.jpg?ve=1&tl=1)
+ [![Ted Cruz leads Colin Allred by 7 points, new poll shows](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/02/32/18/cruz-allred.jpg?ve=1&tl=1)
 
- ![Thanksgiving and holiday travel trends in 2024: What you need to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-134002823.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/thanksgiving-holiday-travel-trends-2024)
+ ![Ted Cruz leads Colin Allred by 7 points, new poll shows](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/02/32/18/592/333/cruz-allred.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ted-cruz-colin-allred-texas-senate-poll-october)
 
-### [Thanksgiving and holiday travel trends in 2024: What you need to know](https://www.fox4news.com/news/thanksgiving-holiday-travel-trends-2024)
+### [Ted Cruz leads Colin Allred by 7 points, new poll shows](https://www.fox4news.com/news/ted-cruz-colin-allred-texas-senate-poll-october)
 
- [![Hulu live crashes: Tens of thousands of users report outages during MLB NLCS](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/hulu.jpg?ve=1&tl=1)
+ [![What we know so far about Liam Payne's death](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-626297592.jpg?ve=1&tl=1)
 
- ![Hulu live crashes: Tens of thousands of users report outages during MLB NLCS](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/hulu.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hulu-live-crashes-tens-thousands-users-report-outages-during-mlb-nlcs)
+ ![What we know so far about Liam Payne's death](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-626297592.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/liam-payne-death-hotel-argentina-911-call-whats-known)
 
-### [Hulu live crashes: Tens of thousands of users report outages during MLB NLCS](https://www.fox4news.com/news/hulu-live-crashes-tens-thousands-users-report-outages-during-mlb-nlcs)
+### [What we know about former One Direction member Liam Payne’s death](https://www.fox4news.com/news/liam-payne-death-hotel-argentina-911-call-whats-known)
 
- [![Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/marq-williams.jpg?ve=1&tl=1)
+ [![When will leaves change color in North Texas?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-155703867.jpg?ve=1&tl=1)
 
- ![Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/marq-williams.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-robbery-trackdown-marq-williams)
+ ![When will leaves change color in North Texas?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-155703867.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-will-leaves-change-color-north-texas-fall)
 
-### [Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://www.fox4news.com/news/garland-robbery-trackdown-marq-williams)
+### [When will leaves change color in North Texas?](https://www.fox4news.com/news/when-will-leaves-change-color-north-texas-fall)
 
 ###### [News](https://www.fox4news.com/news)
 
