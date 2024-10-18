@@ -106,11 +106,7 @@ AllLive NowToday
     
     CSA T20 Challenge
     
-    [North West vs Titans](https://www.cricbuzz.com/live-cricket-scores/103548/nwest-vs-tit-24th-match-csa-t20-challenge "North West v Titans, 24th Match - Abandon")
-    
-    24th Match
-    
-* [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103539/lions-vs-wpr-23rd-match-csa-t20-challenge "Lions v Western Province, 23rd Match - WPR Won")
+    [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103539/lions-vs-wpr-23rd-match-csa-t20-challenge "Lions v Western Province, 23rd Match - WPR Won")
     
     23rd Match
     
@@ -162,6 +158,14 @@ AllLive NowToday
     
     Elite Group D
     
+* [Meghalaya vs Tripura](https://www.cricbuzz.com/live-cricket-scores/97320/mgly-vs-tri-elite-group-a-ranji-trophy "Meghalaya v Tripura, Elite Group A - Preview")
+    
+    Elite Group A
+    
+* [Punjab vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97378/pun-vs-mp-elite-group-c-ranji-trophy "Punjab v Madhya Pradesh, Elite Group C - Preview")
+    
+    Elite Group C
+    
 * [Mumbai vs Maharashtra](https://www.cricbuzz.com/live-cricket-scores/97311/mum-vs-mah-elite-group-a-ranji-trophy "Mumbai v Maharashtra, Elite Group A - Preview")
     
     Elite Group A
@@ -186,15 +190,11 @@ AllLive NowToday
     
     Elite Group C
     
-* [Puducherry vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97349/pdc-vs-vid-elite-group-b-ranji-trophy "Puducherry v Vidarbha, Elite Group B - Preview")
-    
-    Elite Group B
-    
 * [Railways vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/97403/rlys-vs-jhkd-elite-group-d-ranji-trophy "Railways v Jharkhand, Elite Group D - Preview")
     
     Elite Group D
     
-* [Uttarakhand vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97340/utk-vs-hyd-elite-group-b-ranji-trophy "Uttarakhand v Hyderabad, Elite Group B - Preview")
+* [Puducherry vs Vidarbha](https://www.cricbuzz.com/live-cricket-scores/97349/pdc-vs-vid-elite-group-b-ranji-trophy "Puducherry v Vidarbha, Elite Group B - Preview")
     
     Elite Group B
     
@@ -202,7 +202,7 @@ AllLive NowToday
     
     Elite Group D
     
-* [Himachal Pradesh vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97331/hp-vs-raj-elite-group-b-ranji-trophy "Himachal Pradesh v Rajasthan, Elite Group B - Preview")
+* [Uttarakhand vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97340/utk-vs-hyd-elite-group-b-ranji-trophy "Uttarakhand v Hyderabad, Elite Group B - Preview")
     
     Elite Group B
     
@@ -210,17 +210,13 @@ AllLive NowToday
     
     Elite Group D
     
-* [Gujarat vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97329/guj-vs-ap-elite-group-b-ranji-trophy "Gujarat v Andhra, Elite Group B - Upcoming")
+* [Himachal Pradesh vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97331/hp-vs-raj-elite-group-b-ranji-trophy "Himachal Pradesh v Rajasthan, Elite Group B - Preview")
     
     Elite Group B
     
-* [Meghalaya vs Tripura](https://www.cricbuzz.com/live-cricket-scores/97320/mgly-vs-tri-elite-group-a-ranji-trophy "Meghalaya v Tripura, Elite Group A - Preview")
+* [Gujarat vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97329/guj-vs-ap-elite-group-b-ranji-trophy "Gujarat v Andhra, Elite Group B - Upcoming")
     
-    Elite Group A
-    
-* [Punjab vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97378/pun-vs-mp-elite-group-c-ranji-trophy "Punjab v Madhya Pradesh, Elite Group C - Preview")
-    
-    Elite Group C
+    Elite Group B
     
 * Ranji Trophy Plate
     
@@ -235,6 +231,16 @@ AllLive NowToday
 * [Arunachal Pradesh vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98107/arnp-vs-miz-plate-ranji-trophy-plate "Arunachal Pradesh v Mizoram, Plate - Preview")
     
     Plate
+    
+* Sheffield Shield 2024-25
+    
+    [Victoria vs New South Wales](https://www.cricbuzz.com/live-cricket-scores/102855/vic-vs-nsw-4th-match-sheffield-shield-2024-25 "Victoria v New South Wales, 4th Match - Upcoming")
+    
+    4th Match
+    
+* [Queensland vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102864/ql-vs-saus-5th-match-sheffield-shield-2024-25 "Queensland v South Australia, 5th Match - Upcoming")
+    
+    5th Match
     
 * ACC Mens T20 Emerging Teams Asia Cup
     
@@ -253,6 +259,20 @@ AllLive NowToday
 * [India A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/107595/inda-vs-paka-4th-match-group-b-acc-mens-t20-emerging-teams-asia-cup "India A v Pakistan A, 4th Match, Group B - Upcoming")
     
     4th Match, Group B
+    
+* The Ford Trophy 2024-25
+    
+    [Central Districts vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107257/cd-vs-akl-3rd-match-the-ford-trophy-2024-25 "Central Districts v Auckland, 3rd Match - Upcoming")
+    
+    3rd Match
+    
+* [Wellington vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107251/wel-vs-cntbry-2nd-match-the-ford-trophy-2024-25 "Wellington v Canterbury, 2nd Match - Upcoming")
+    
+    2nd Match
+    
+* [Northern Knights vs Otago](https://www.cricbuzz.com/live-cricket-scores/107243/nk-vs-otg-1st-match-the-ford-trophy-2024-25 "Northern Knights v Otago, 1st Match - Upcoming")
+    
+    1st Match
     
 * WOMEN
     
@@ -609,41 +629,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132077/only-had-one-game-in-me-and-probably-took-the-wrong-risk-healy-on-foot-injury "Only had one game in me and probably took the wrong risk - Healy on foot injury")
+
+[Only had one game in me and probably took the wrong risk - Healy on foot injury](https://www.cricbuzz.com/cricket-news/132077/only-had-one-game-in-me-and-probably-took-the-wrong-risk-healy-on-foot-injury "Only had one game in me and probably took the wrong risk - Healy on foot injury")
+
+16m ago
+
   [](https://www.cricbuzz.com/cricket-news/132076/anneke-bosses-giant-killing-act-to-dethrone-australia "Anneke bosses giant-killing act to dethrone Australia")
 
 [Anneke bosses giant-killing act to dethrone Australia](https://www.cricbuzz.com/cricket-news/132076/anneke-bosses-giant-killing-act-to-dethrone-australia "Anneke bosses giant-killing act to dethrone Australia")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132075/kusal-mendis-kusal-perera-set-up-sri-lankas-series-victory "Kusal Mendis, Kusal Perera set up Sri Lanka's series victory")
 
 [Kusal Mendis, Kusal Perera set up Sri Lanka's series victory](https://www.cricbuzz.com/cricket-news/132075/kusal-mendis-kusal-perera-set-up-sri-lankas-series-victory "Kusal Mendis, Kusal Perera set up Sri Lanka's series victory")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132074/the-familiar-defiance-of-agha-salman "The familiar defiance of Agha Salman")
 
 [The familiar defiance of Agha Salman](https://www.cricbuzz.com/cricket-news/132074/the-familiar-defiance-of-agha-salman "The familiar defiance of Agha Salman")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132073/ghosh-vastrakar-and-sobhana-not-picked-for-new-zealand-odis "Ghosh, Vastrakar and Sobhana not picked for New Zealand ODIs")
 
 [Ghosh, Vastrakar and Sobhana not picked for New Zealand ODIs](https://www.cricbuzz.com/cricket-news/132073/ghosh-vastrakar-and-sobhana-not-picked-for-new-zealand-odis "Ghosh, Vastrakar and Sobhana not picked for New Zealand ODIs")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132072/we-wanted-to-be-relentless-matt-henry "We wanted to be relentless - Matt Henry")
 
 [We wanted to be relentless - Matt Henry](https://www.cricbuzz.com/cricket-news/132072/we-wanted-to-be-relentless-matt-henry "We wanted to be relentless - Matt Henry")
 
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132071/india-tripped-up-by-conditions-and-overheads "India misread conditions, trip up against stern examination")
-
-[India misread conditions, trip up against stern examination](https://www.cricbuzz.com/cricket-news/132071/india-tripped-up-by-conditions-and-overheads "India misread conditions, trip up against stern examination")
-
-4h ago
+10h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
