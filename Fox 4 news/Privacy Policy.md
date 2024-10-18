@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Charges dropped against disabled deaf man who was hit by Phoenix Police officers](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1)
+
+ ![Charges dropped against disabled deaf man who was hit by Phoenix Police officers](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
+
+### [Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
+
+ [![Texas Supreme Court halts Robert Roberson's execution in 'shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
+
+ ![Texas Supreme Court halts Robert Roberson's execution in 'shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
+
+### [Texas Supreme Court halts Robert Roberson's execution in 'shaken baby syndrome' case](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
+
+ [![Thanksgiving and holiday travel trends in 2024: What you need to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-134002823.jpg?ve=1&tl=1)
+
+ ![Thanksgiving and holiday travel trends in 2024: What you need to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-134002823.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/thanksgiving-holiday-travel-trends-2024)
+
+### [Thanksgiving and holiday travel trends in 2024: What you need to know](https://www.fox4news.com/news/thanksgiving-holiday-travel-trends-2024)
+
+ [![Hulu live crashes: Tens of thousands of users report outages during MLB NLCS](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/hulu.jpg?ve=1&tl=1)
+
+ ![Hulu live crashes: Tens of thousands of users report outages during MLB NLCS](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/hulu.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hulu-live-crashes-tens-thousands-users-report-outages-during-mlb-nlcs)
+
+### [Hulu live crashes: Tens of thousands of users report outages during MLB NLCS](https://www.fox4news.com/news/hulu-live-crashes-tens-thousands-users-report-outages-during-mlb-nlcs)
+
  [![Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/marq-williams.jpg?ve=1&tl=1)
 
  ![Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/marq-williams.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-robbery-trackdown-marq-williams)
 
 ### [Garland robbery suspect identified after being featured on FOX 4's Trackdown](https://www.fox4news.com/news/garland-robbery-trackdown-marq-williams)
-
- [![Hamas terror leader Yahya Sinwar killed in Gaza, Israeli official says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/yahya-sinwar.jpg?ve=1&tl=1)
-
- ![Hamas terror leader Yahya Sinwar killed in Gaza, Israeli official says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/yahya-sinwar.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hamas-terror-leader-yahya-sinwar-killed-gaza-israeli-official-says-2024-october)
-
-### [Hamas terror leader Yahya Sinwar killed in Gaza, Israeli official says](https://www.fox4news.com/news/hamas-terror-leader-yahya-sinwar-killed-gaza-israeli-official-says-2024-october)
-
- [![Texas appeals court clears way for execution in 'shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
-
- ![Texas appeals court clears way for execution in 'shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
-
-### [Texas appeals court clears way for execution in 'shaken baby syndrome' case](https://www.fox4news.com/news/robert-roberson-execution-updates-october-17)
-
- [![Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1)
-
- ![Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
-
-### [Charges dropped against disabled deaf man who was hit, tased by Phoenix Police officers](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
-
- [![DNA evidence connects suspect to 2008 murder in Grand Prairie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gardnerjerry-lee.jpg?ve=1&tl=1)
-
- ![DNA evidence connects suspect to 2008 murder in Grand Prairie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gardnerjerry-lee.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-raymond-hernandez-jerry-lee-gardner-dna)
-
-### [DNA evidence connects suspect to 2008 murder in Grand Prairie](https://www.fox4news.com/news/grand-prairie-raymond-hernandez-jerry-lee-gardner-dna)
 
 ###### [News](https://www.fox4news.com/news)
 
