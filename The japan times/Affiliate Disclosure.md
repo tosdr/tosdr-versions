@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 18, 2024](https://www.japantimes.co.jp/archive/2024/10/18/ "archive page")
+[October 19, 2024](https://www.japantimes.co.jp/archive/2024/10/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Ukraine and South Korea warn of North Korean troops helping Russia](https://www.japantimes.co.jp/news/2024/10/18/asia-pacific/north-korea-troops-russia/ "Ukraine and South Korea warn of North Korean troops helping Russia")
+
+3 hours ago
+
+[Tokio Marine pauses sale of Southeast Asia life insurance business, sources say](https://www.japantimes.co.jp/business/2024/10/18/tokio-marine-sale-pause/ "Tokio Marine pauses sale of Southeast Asia life insurance business, sources say")
+
+4 hours ago
+
 [Election causing disruptions amid autumn sports day season](https://www.japantimes.co.jp/news/2024/10/18/japan/society/school-events-canceled-election/ "Election causing disruptions amid autumn sports day season")
 
-15 mins ago
+6 hours ago
 
-[Australian man claiming language mix-up jailed over Shinjuku break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Shinjuku break-in")
+[Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-42 mins ago
+6 hours ago
 
 [In western Tokyo, national scandals rub up against local politics](https://www.japantimes.co.jp/news/2024/10/18/japan/politics/general-election-tokyo-24-race/ "In western Tokyo, national scandals rub up against local politics")
 
-1 hours ago
-
-[Mid- to long-term foreign residents in Japan hit record high](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
-
-1 hours ago
-
-[China's third-quarter GDP hits weakest pace since early 2023](https://www.japantimes.co.jp/business/2024/10/18/economy/china-economy-slowdown-third-quarter/ "China's third-quarter GDP hits weakest pace since early 2023")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
