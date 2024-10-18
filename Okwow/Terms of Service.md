@@ -106,7 +106,7 @@ These Terms of Use permit you to use the Site for your own personal, non-commerc
 
 ### OUR PRIVACY POLICY
 
-### Your privacy is important to us. We have developed a [Privacy Policy](https://scoredit.com/privacy) in order to inform you of how we collect and use information we obtain from you. All information we collect on the Site is subject to our Privacy Policy, and our Privacy Policy is incorporated into and is a part of these Terms of Use.
+### Your privacy is important to us. We have developed a [Privacy Policy](https://okwow.com/privacy) in order to inform you of how we collect and use information we obtain from you. All information we collect on the Site is subject to our Privacy Policy, and our Privacy Policy is incorporated into and is a part of these Terms of Use.
 
 ### **MOBILE SERVICES**
 
