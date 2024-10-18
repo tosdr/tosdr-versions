@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Donald Trump, on the left; Fani Willis, on the right](https://am21.mediaite.com/lc/cnt/uploads/2024/06/DT-FW-432x243.jpg)](https://lawandcrime.com/high-profile/clearly-alleged-the-underlying-facts-da-fani-willis-insists-trump-rico-trial-judge-erred-urges-appeals-court-to-act/)
+1. [![Steven Edward Riley Jr. and Ina Thea Kenoyer (Steven Edward Riley/Facebook)](https://am22.mediaite.com/lc/cnt/uploads/2024/05/Steven-Edward-Riley-Jr.-and-Ina-Thea-Kenoyer-Steven-Edward-RileyFacebook-432x243.jpg)](https://lawandcrime.com/crime/woman-who-fatally-spiked-boyfriends-sweet-tea-with-antifreeze-over-non-existent-30-million-inheritance-is-sentenced/)
     
-    ### ['Clearly alleged the underlying facts': DA Fani Willis insists Trump RICO trial judge 'erred,' urges appeals court to act](https://lawandcrime.com/high-profile/clearly-alleged-the-underlying-facts-da-fani-willis-insists-trump-rico-trial-judge-erred-urges-appeals-court-to-act/)
+    ### [Woman who fatally spiked boyfriend's sweet tea with antifreeze over non-existent $30 million inheritance is sentenced](https://lawandcrime.com/crime/woman-who-fatally-spiked-boyfriends-sweet-tea-with-antifreeze-over-non-existent-30-million-inheritance-is-sentenced/)
     
-2. [![Top inset: Sheila Wallace (Dignity Memorial). Bottom inset: DaJuan Evans (Cuyahoga County Sheriff's Department). Background: The park in Ohio where Wallace was killed (WKYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/ohiomurder-432x243.jpg)](https://lawandcrime.com/crime/man-who-murdered-an-innocent-grandmother-while-she-walked-her-dog-in-a-park-learns-his-fate/)
+2. [![Rudy Giuliani makes appearance at RNC.](https://am21.mediaite.com/lc/cnt/uploads/2024/07/AP24198792449520-432x243.jpg)](https://lawandcrime.com/high-profile/this-court-was-not-at-all-persuaded-judge-harshly-rubbishes-rudy-giuliani-for-imagined-claim-about-grand-jury-in-arizona-fake-electors-case-denies-all-further-relief/)
     
-    ### [Man who murdered an innocent grandmother while she walked her dog in a park learns his fate](https://lawandcrime.com/crime/man-who-murdered-an-innocent-grandmother-while-she-walked-her-dog-in-a-park-learns-his-fate/)
+    ### ['This court was not at all persuaded': Judge harshly rubbishes Rudy Giuliani for 'imagined' claim about grand jury in Arizona fake electors case, denies all further relief](https://lawandcrime.com/high-profile/this-court-was-not-at-all-persuaded-judge-harshly-rubbishes-rudy-giuliani-for-imagined-claim-about-grand-jury-in-arizona-fake-electors-case-denies-all-further-relief/)
     
-3. [![Inset: Vem Miller (News Nation). Background: Donald Trump speaking at his campaign rally in Coachella, California (Forbes).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-2-432x243.jpg)](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
+3. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
+    
+    ### ['No authority to legislate': Judge slaps down multiple new election rules put in place by Trump allies in Georgia as 'unconstitutional' administrative agency overreach](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
+    
+4. [![Inset: Vem Miller (News Nation). Background: Donald Trump speaking at his campaign rally in Coachella, California (Forbes).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-2-432x243.jpg)](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
     
     ### [Sheriff 'fabricated allegations' of third assassination attempt on Trump so he could seem 'heroic' in arresting 'staunch' Trump supporter: Lawsuit](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
     
-4. [![Sole Bros 513 burglary](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sole-Bros-513-burglary-432x243.jpg)](https://lawandcrime.com/crime/someone-knows-the-drunk-dude-thieves-steal-100-right-footed-shoes-from-store-causing-50k-in-damage-cops-say/)
+5. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/the-public-has-been-poisoned-trump-tries-one-more-time-to-stop-jack-smiths-jan-6-evidence-from-coming-out-ahead-of-2024-election/)
     
-    ### ['Someone knows the drunk dude': Thieves steal 100 right-footed shoes from store, causing $50K in damage, cops say](https://lawandcrime.com/crime/someone-knows-the-drunk-dude-thieves-steal-100-right-footed-shoes-from-store-causing-50k-in-damage-cops-say/)
-    
-5. [![Giovanni Aldama Garcia mugshot and Trooper](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Giovanni-Aldama-Garcia-mugshot-and-Trooper-432x243.jpg)](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
-    
-    ### [Owner tied 'trembling' dog to fence in rising waters of Hurricane Milton because he 'couldn’t find anyone to pick the dog up': Cops](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
+    ### ['The public has been poisoned': Trump tries one more time to stop Jack Smith's Jan. 6 evidence from coming out ahead of 2024 election](https://lawandcrime.com/high-profile/the-public-has-been-poisoned-trump-tries-one-more-time-to-stop-jack-smiths-jan-6-evidence-from-coming-out-ahead-of-2024-election/)
     
 
 [](http://eepurl.com/c89Jdb)
