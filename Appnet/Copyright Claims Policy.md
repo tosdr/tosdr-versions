@@ -76,12 +76,12 @@ Updated: April 22, 2023
 1\. DISCLAIMER.
 ---------------
 
-**escortfreelancers.com RESERVES THE RIGHT AT ALL TIMES TO DISCLOSE ANY INFORMATION AS escortfreelancers.com DEEMS NECESSARY TO SATISFY ANY APPLICABLE LAW, REGULATION, LEGAL PROCESS OR GOVERNMENTAL REQUEST, OR TO EDIT, REFUSE TO POST, REFUSE TO SHARE OR TO REMOVE ANY INFORMATION OR MATERIAL, IN WHOLE OR IN PART, IN escortfreelancers.com's SOLE DISCRETION.**
+**app.net RESERVES THE RIGHT AT ALL TIMES TO DISCLOSE ANY INFORMATION AS app.net DEEMS NECESSARY TO SATISFY ANY APPLICABLE LAW, REGULATION, LEGAL PROCESS OR GOVERNMENTAL REQUEST, OR TO EDIT, REFUSE TO POST, REFUSE TO SHARE OR TO REMOVE ANY INFORMATION OR MATERIAL, IN WHOLE OR IN PART, IN app.net's SOLE DISCRETION.**
 
-2\. USE OF escortfreelancers.com Listing Service
-------------------------------------------------
+2\. USE OF app.net Listing Service
+----------------------------------
 
-We do our absolute best to keep escortfreelancers.com service up and bug-free, but you use it at your own risk. You're responsible for any content you show, share or stream as a part of escortfreelancers.com service. You can't use escortfreelancers.com for anything that infringes on anyone's rights or intellectual property, generates spam, phishes, or is illegal. App.net reserves the right to terminate your access to any or all of the Services at any time, without notice, for any reason whatsoever. For more information on terms of use and conditions please read our [terms of use.](https://app.net/terms)
+We do our absolute best to keep app.net service up and bug-free, but you use it at your own risk. You're responsible for any content you show, share or stream as a part of app.net service. You can't use app.net for anything that infringes on anyone's rights or intellectual property, generates spam, phishes, or is illegal. App.net reserves the right to terminate your access to any or all of the Services at any time, without notice, for any reason whatsoever. For more information on terms of use and conditions please read our [terms of use.](https://app.net/terms)
 
 3\. COPYRIGHT POLICY
 --------------------
@@ -90,18 +90,18 @@ MobileSoft Technology, Inc respects the intellectual property rights of others a
 
 In case we receive proper Notification of Alleged Copyright Infringement, we agree that we will:
 
-(a) expeditiously (and in any event in no more than 48 hours) disable access to any URI publicly shared using escortfreelancers.com system for which we received a notice of claimed infringement, or as to which we otherwise have knowledge that it is infringing;
+(a) expeditiously (and in any event in no more than 48 hours) disable access to any URI publicly shared using app.net system for which we received a notice of claimed infringement, or as to which we otherwise have knowledge that it is infringing;
 
 (b) promptly (and in any event in no more than 48 hours) follow up with anyone who submits a notice of claimed infringement that does not include all of that information, but who provides us with contact information, to ask them to provide any missing information; and
 
-(c) promptly (and in any event in no more than 48 hours) terminate access to escortfreelancers.com Application for any Facebook Users who are found to be repeat infringers
+(c) promptly (and in any event in no more than 48 hours) terminate access to app.net Application for any Facebook Users who are found to be repeat infringers
 
 A. Notification of Alleged Copyright Infringement
 -------------------------------------------------
 
 If you believe that your own copyrighted work is accessible through any website or application provided by us in violation of your copyright, you may provide our Designated Agent with a written communication as set forth in the Digital Millennium Copyright Act ("DMCA"), 17 U.S.C. § 512(c)(3) that contains substantially the following
 
-1. Identify in sufficient detail the copyrighted work or intellectual property that you claim has been infringed so that we can locate the material. For example, "The copyrighted work is my content that appears at build.escortfreelancers.com." If multiple copyrighted works at a single online site are covered by your Notification, you may provide a representative list of such works at that site.
+1. Identify in sufficient detail the copyrighted work or intellectual property that you claim has been infringed so that we can locate the material. For example, "The copyrighted work is my content that appears at build.app.net." If multiple copyrighted works at a single online site are covered by your Notification, you may provide a representative list of such works at that site.
 2. Identify the URL or other specific location on the service or website provided by us that contains the material that you claim infringes your copyright described in Item 1 above. You must provide us with reasonably sufficient information to locate the alleged infringing material.
 3. Provide the electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 4. Include a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
