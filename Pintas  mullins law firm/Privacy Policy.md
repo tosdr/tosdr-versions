@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
+[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
 
-[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
+[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
 
-[![What is the treatment for bedsores?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-the-treatment-for-bedsores-scaled.jpg "What Is the Treatment for Bedsores?")](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/ "What Is the Treatment for Bedsores?")
+[![Is mesothelioma a type of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-mesothelioma-a-type-of-lung-cancer.jpg "Is Mesothelioma a Type of Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/ "Is Mesothelioma a Type of Lung Cancer?")
 
-[#### What Is the Treatment for Bedsores?](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/)
+[#### Is Mesothelioma a Type of Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/)
 
-[![What is the first day of living in a nursing home like?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-is-the-first-day-of-living-in-a-nursing-home-like.jpg "What Is the First Day of Living in a Nursing Home Like?")](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/ "What Is the First Day of Living in a Nursing Home Like?")
+[![Can a ct scan tell if a lung nodule is cancerous?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous.jpg "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/ "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")
 
-[#### What Is the First Day of Living in a Nursing Home Like?](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/)
+[#### Can a CT Scan Tell If a Lung Nodule Is Cancerous?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/)
 
 ### Injured?  
 Tell Us What Happened.
