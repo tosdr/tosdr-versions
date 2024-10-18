@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch Ultimate Green China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-Ultimate-400x240.jpg)
+        
+        Huawei to launch Watch Ultimate Green Edition on October 22 in China](https://www.huaweicentral.com/huawei-to-launch-watch-ultimate-green-edition-on-october-22-in-china/)
     * [![Huawei Watch GT 4 health features](https://www.huaweicentral.com/wp-content/uploads/2024/10/Health-Features-400x240.jpg)
         
         Huawei Watch GT 4 is receiving advanced health features](https://www.huaweicentral.com/huawei-watch-gt-4-is-receiving-advanced-health-features/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 4 September 2024 expanding](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-4-400x240.jpg)
         
         Huawei Watch GT 4 September 2024 update expanding to more global users](https://www.huaweicentral.com/huawei-watch-gt-4-september-2024-update-expanding-to-more-global-users/)
-    * [![Huawei Watch GT 5 Pro sale](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Gt-5-Pro-1-400x240.jpg)
-        
-        Huawei Watch GT 5 Pro wearable begins first sale](https://www.huaweicentral.com/huawei-watch-gt-5-pro-wearable-begins-first-sale/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
