@@ -187,7 +187,3 @@ X
 This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in the cookie policy. By closing this banner, scrolling this page, clicking a link or continuing to browse otherwise, you agree to our [Privacy Policy](https://www.educba.com/privacy-policy/?source=popup "Privacy Policy")
 
 OK
-
-     
-
-[🚀 Limited Time Offer! \- 🎁 ENROLL NOW](https://www.educba.com/all-in-one/)
