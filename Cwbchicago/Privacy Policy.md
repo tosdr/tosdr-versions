@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Desmond-White-326x245.jpg)](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
+
+West Loop
+
+### [2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
+
+[October 15, 2024 6:06 PM](https://cwbchicago.com/2024/10)
+
+Two armed men who tried to rob an off-duty corrections officer in the West Loop both fired shots at the victim before he returned fire, seriously wounding one of them, officials said Tuesday.[](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/P24-5-057-dickens-1-326x245.jpg)](https://cwbchicago.com/2024/10/burglary-crew-took-cash-jewels-and-a-safe-from-bucktown-homes-police-warn.html "Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn")
+
+Bucktown
+
+### [Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn](https://cwbchicago.com/2024/10/burglary-crew-took-cash-jewels-and-a-safe-from-bucktown-homes-police-warn.html "Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn")
+
+[October 15, 2024 8:03 AM](https://cwbchicago.com/2024/10)
+
+Chicago police have updated their warning about a burglary crew that’s targeting homes in Bucktown by releasing surveillance video and images of the suspects.[](https://cwbchicago.com/2024/10/burglary-crew-took-cash-jewels-and-a-safe-from-bucktown-homes-police-warn.html "Burglary crew took cash, jewels, and a safe from Bucktown homes, police warn")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Left-to-right-Terrell-Gordon-material-allegedly-seized-from-Stanley-Rounds-and-Rounds-326x245.jpg)](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [October 15, 2024 7:34 AM](https://cwbchicago.com/2024/10)
 
 The Cook County Sheriff’s Office has announced charges against two more inmates who allegedly arranged to bring drugs into the county jail. At least 44 people, both inmates and visitors, have been charged with having drugs or bringing drugs into the facility this year.[](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/4148-w-26th-326x245.jpg)](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
-
-Little Village
-
-### [Man dead, woman injured in Little Village restaurant shooting](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
-
-[October 15, 2024 6:29 AM](https://cwbchicago.com/2024/10)
-
-A man is dead and a woman injured after two gunmen opened fire on a late-night restaurant in Little Village, Chicago police said.[](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Kimberly-Hall-326x245.jpg)](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
-
-O'Hare
-
-### [British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
-
-[October 14, 2024 9:55 AM](https://cwbchicago.com/2024/10)
-
-A British woman allegedly caught carrying more than 90 pounds of cocaine in her luggage at O’Hare International Airport is “stupid,” but she’s not a drug smuggler, according to her father.[](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
 
 Search
 
