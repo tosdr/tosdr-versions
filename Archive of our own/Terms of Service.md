@@ -48,6 +48,10 @@ Remember Me
 * Work Search  tip: hetalia f/f sort:kudos 
     
 
+> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) We’ve reached **0** new members out of our goal of **4,500**
+
+[×](https://archiveofourown.org/tos?hide_banner=true&view_adult=true "hide banner")
+
 Terms of Service
 ----------------
 
