@@ -20,7 +20,7 @@ Open main menu
 
 [Breastfeeding & Pumping](https://www.medela.us/en-us/breastfeeding-pumping) [Surgical & Woundcare](https://www.medela.us/en-us/surgical-woundcare) [About Medela](https://www.medela.us/en-us/about-medela)
 
-[Products](https://www.medela.us/en-us/breastfeeding-pumping/products) [Articles](https://www.medela.us/en-us/breastfeeding-pumping/articles) [Medela Family](https://www.medela.us/en-us/breastfeeding-pumping/medela-family) [Services](https://www.medela.us/en-us/breastfeeding-pumping/services) [Lactation Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+[Products](https://www.medela.us/en-us/breastfeeding-pumping/products) [Articles](https://www.medela.us/en-us/breastfeeding-pumping/articles) [Medela Family](https://www.medela.us/en-us/breastfeeding-pumping/medela-family) [Services](https://www.medela.us/en-us/breastfeeding-pumping/services) [Hospital & Healthcare Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
 Country selection[to cart](https://breastfeedingsupply.com/)
 
@@ -84,7 +84,7 @@ Country selection[to cart](https://breastfeedingsupply.com/)
 
 [Customer service](https://www.medela.us/en-us/breastfeeding-pumping/services/customer-service) [Rent a breast pump](https://www.mybreastpumprental.com/) [Insurance supported products](https://www.medela.us/en-us/breastfeeding-pumping/services/insurance-breast-pump "Insurance supported products") [Warranty](https://www.medela.us/en-us/breastfeeding-pumping/services/warranty) [For Medela's distributors](https://www.medela.us/en-us/breastfeeding-pumping/services/for-distributors) [Symphony PLUS® Breast Pump Support](https://www.medela.us/en-us/breastfeeding-pumping/services/symphony-plus-breast-pump-support) [#MomsUnite4Milk](https://www.medela.us/en-us/breastfeeding-pumping/services/supporting-moms "#MomsUnite4Milk")
 
-[Lactation Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+[Hospital & Healthcare Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
 [Articles](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles) [Professional Education](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education) [Leading Lactation Insights](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/sign-up-for-newsletter) [Commitment to Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding) [Important Product Updates](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/important-product-updates)
 
@@ -254,8 +254,8 @@ Close menu
     * [For Medela's distributors](https://www.medela.us/en-us/breastfeeding-pumping/services/for-distributors)
     * [Symphony PLUS® Breast Pump Support](https://www.medela.us/en-us/breastfeeding-pumping/services/symphony-plus-breast-pump-support)
     * [#MomsUnite4Milk](https://www.medela.us/en-us/breastfeeding-pumping/services/supporting-moms "#MomsUnite4Milk")
-* [Lactation Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
-    * [Lactation Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+* [Hospital & Healthcare Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+    * [Hospital & Healthcare Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
     * [Articles](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles)
         * [Articles](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles)
         * [Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/breastfeeding)
