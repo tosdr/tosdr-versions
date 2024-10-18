@@ -491,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
@@ -594,7 +594,9 @@ Nachnahme
 
 Versender
 
-![DHL](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "DHL")
+![DHL Standard](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "DHL Standard")
+
+![DHL Express](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "DHL Express")
 
 EMP App
 
