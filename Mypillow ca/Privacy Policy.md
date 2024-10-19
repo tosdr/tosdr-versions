@@ -119,7 +119,7 @@ Apply
 
    [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
 
-   [](https://www.mypillow.ca/mypillow-2-0)
+   [](https://www.mypillow.ca/mypillow-2-pick-your-size)
 
 [SAVE up to 80% with promo code
 
