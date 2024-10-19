@@ -76,7 +76,7 @@ article1 day ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exis
 
 ### Hubble Captures a New View of Galaxy M90
 
-article8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article10 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -253,7 +253,7 @@ article 1 day ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
+article 10 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
 
 5 min read
 
@@ -269,7 +269,7 @@ article 1 day ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researche
 
 ### NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 
-article 4 hours ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
+article 7 hours ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
 
 3 min read
 
@@ -313,7 +313,7 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### LExSO
 
-article 22 mins ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+article 3 hours ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
@@ -335,7 +335,7 @@ article 1 day ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exi
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+article 10 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
 
 3 min read
 
@@ -351,25 +351,25 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+[![Four people in neon yellow vests welcome a man in a tan flight suit with a green backpack, standing on a gray tarmac. In the background, top left of the screen is an airplane engine.](https://www.nasa.gov/wp-content/uploads/2024/10/image002.jpg?w=1024)
+
+7 min read
+
+### S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
+
+article 1 hour ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
+article 10 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
 
 5 min read
 
 ### What is Air Quality?
 
-article 12 hours ago](https://www.nasa.gov/general/what-is-air-quality/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
-
-5 min read
-
-### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
-
-article 1 day ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)
+article 14 hours ago](https://www.nasa.gov/general/what-is-air-quality/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas
 
 ### NASA and Partners Scaling to New Heights 
 
-article 3 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+article 5 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
 4 min read
 
@@ -433,7 +433,7 @@ article 1 week ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)
 
 ### NASA and Partners Scaling to New Heights 
 
-article 3 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+article 5 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
 4 min read
 
@@ -445,7 +445,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-p
 
 ### Five Years Ago: First All Woman Spacewalk
 
-article 4 hours ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/)
+article 6 hours ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/)
 
 ### Highlights
 
