@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many”
+“ I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success”
 
-[Clay Shirky](http://en.wikipedia.org/wiki/Clay_Shirky)
+[Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla)
 
 [](https://www.adafruit.com/about)
 
