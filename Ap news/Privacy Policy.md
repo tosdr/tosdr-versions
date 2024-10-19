@@ -14,7 +14,7 @@ Menu
     
     * [Israel and Hamas signal resistance to ending Gaza war after Sinwar's death](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
     * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
-    * [Sinwar’s killing means much uncertainty for the war in Gaza but also possible opportunity](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
+    * [Israel unearths Hezbollah's web of tunnels in southern Lebanon](https://apnews.com/article/israel-hezbollah-ground-invasion-tunnels-2f22d95269bdf3b5fa1304816f2fee81)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
     * [Texas was about to execute Robert Roberson. Then a last-ditch tactic bought him more time](https://apnews.com/article/texas-execution-shaken-baby-syndrome-f6fd3474fe14cb9b0dd52629acea6bd7)
-    * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
+    * [Crews halt fast-moving brush fire that burned 2 Oakland homes, forced 500 evacuations](https://apnews.com/article/california-winds-power-shutoffs-diablo-0bb99ee4a062730bdbf9d50170a30053)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
-    * [Trump fights back after Harris questions whether he is 'exhausted'](https://apnews.com/article/trump-energy-exhausted-harris-election-9991a8973f6d22b8955d01cf0b169cb3)
-    * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
+    * [Judges punishing Jan. 6 rioters say they fear more political violence as Election Day nears](https://apnews.com/article/capitol-riot-judges-election-ebb54ab9badccfcb2b1bc2fa0de5bf21)
+    * [Together they've been in office more than 70 years. Now their races could help swing House control](https://apnews.com/article/election-2024-marcy-kaptur-ken-calvert-house-majority-c0eea997a88b46ce77dd7b68bdfa7002)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [The Temptations serenade Mets fans at NLCS as founder admits he roots for Dodgers](https://apnews.com/article/temptations-mets-lindor-my-girl-988432ca9642fb848720b69de05004ad)
-    * [Tony Bennett cites NIL and transfer portal era as reason he's suddenly retiring at Virginia](https://apnews.com/article/virginia-basketball-tony-bennett-retires-7151169d37e4fb6d8ed324671f24cb61)
-    * [Guardians starting Tanner Bibee in Game 5 against Yankees after short outing earlier in ALCS](https://apnews.com/article/tanner-bibee-guardians-mlb-playoffs-3bb96ca647b5eaa97df41d21c6650926)
+    * [Yankees get to Guardians closer Clase again, score 2 runs in 9th to win 8-6 and take 3-1 ALCS lead](https://apnews.com/article/yankees-guardians-score-mlb-alcs-a0ed26962ef02e767677aaa2b11350d3)
+    * [Alonso and Mets extend season again, beating Dodgers 12-6 to send NLCS back to LA for Game 6](https://apnews.com/article/mlb-playoffs-mets-dodgers-alonso-nlcs-c1c6974fff1448ee6f7c23f147816725)
+    * [Lynx force Game 5 of WNBA Finals on Carleton's free throws to beat Liberty 82-80](https://apnews.com/article/wnba-finals-liberty-lynx-score-a09c2f86b6172dfe2e158234d0dee1e9)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Rock & Roll Hall of Fame induction ceremony has a poignant vibe this year](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
     * [Jury paves the way for 2 Live Crew to retake control of records that changed hip-hop](https://apnews.com/article/2-live-crew-hip-hop-copyright-ruling-9315d65fd99be7bee20c9c361eb3af72)
     * [Liam Payne's father arrives in Buenos Aires days after the pop star's fatal hotel plunge](https://apnews.com/article/liam-payne-star-one-direction-music-death-05f277e10350fed23f181a2e1eddddac)
-    * [BRELAND went to Selma to find himself. His ‘Project 2024' is music based on what he saw and felt](https://apnews.com/article/breland-project-2024-country-music-interview-23d79513e45c182b1ac98b7e0b40a1e1)
     
 * [Business](https://apnews.com/business)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Black male teachers are a rarity in preschools. This pioneering program wants to change that](https://apnews.com/article/preschool-teacher-literacy-black-men-47ac93fa10f83d79e7031708851c2645)
     * [Palau’s vibrant Helen Reef is a magnet for poachers. These rangers keep it safe](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     * [Designers of the late Princess Diana's wedding dress settle dispute over drawings of the gown](https://apnews.com/article/britain-princess-diana-dress-dispute-drawings-1e041eb329fea4e5deaa2488daac989b)
-    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     
 * [Religion](https://apnews.com/religion)
     
@@ -294,11 +294,11 @@ Menu
     TOP STORIES
     
     * [Para Israel y Hamás, la guerra en Gaza no está cerca de terminar tras muerte de Sinwar](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Experta ONU: Libertad de expresión está más amenazada en Gaza que en ningún otro conflicto reciente](https://apnews.com/article/onu-libertad-expresion-ataques-periodistas-israel-palestinos-23eff5066500becc7bd94bac395aa418)
+    * [Harris y Trump van tras el voto árabe-estadounidense en Michigan](https://apnews.com/article/harris-trump-gaza-elecciones-ea57a05b9864aede88562e3784626b7f)
     * [Rusia devuelve cadáveres de 500 soldados a Ucrania; continúan ataques rusos con drones](https://apnews.com/article/rusia-ucrania-guerra-77e157dd118d4f5c73ee36e2a1f455da)
     * [Corea del Sur afirma que Norcorea ha enviado soldados para apoyar a Rusia en su guerra en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
-    * [Cuba sufre un apagón masivo tras desconexión total del sistema energético](https://apnews.com/world-news/general-news-873380328b80831c8cd6e187ed8e454e)
-    * [EEUU lo entrenó para combatir, pero luego se rebeló en su contra. Más como él hacen lo mismo](https://apnews.com/us-news/general-news-e688a442aa28315c044280c6b0e6cb8f)
-    * ["El Mayo" Zambada, líder del cártel de Sinaloa, comparece ante tribunal en EEUU](https://apnews.com/article/mayo-sinaloa-054ef6d38195323cefd7ea6c5d3e2d74)
+    * [Corea del Norte dice que halló los restos de un dron surcoreano en Pyongyang](https://apnews.com/article/corea-drones-27656f80711ac7ab6de5572238b10876)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -461,7 +461,7 @@ Submit Search
     
     * [Israel and Hamas signal resistance to ending Gaza war after Sinwar's death](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
     * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
-    * [Sinwar’s killing means much uncertainty for the war in Gaza but also possible opportunity](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
+    * [Israel unearths Hezbollah's web of tunnels in southern Lebanon](https://apnews.com/article/israel-hezbollah-ground-invasion-tunnels-2f22d95269bdf3b5fa1304816f2fee81)
     
     Newsletters
     
@@ -479,7 +479,7 @@ Submit Search
     
     * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
     * [Texas was about to execute Robert Roberson. Then a last-ditch tactic bought him more time](https://apnews.com/article/texas-execution-shaken-baby-syndrome-f6fd3474fe14cb9b0dd52629acea6bd7)
-    * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
+    * [Crews halt fast-moving brush fire that burned 2 Oakland homes, forced 500 evacuations](https://apnews.com/article/california-winds-power-shutoffs-diablo-0bb99ee4a062730bdbf9d50170a30053)
     
     Newsletters
     
@@ -532,8 +532,8 @@ Submit Search
     TOP STORIES
     
     * [Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
-    * [Trump fights back after Harris questions whether he is 'exhausted'](https://apnews.com/article/trump-energy-exhausted-harris-election-9991a8973f6d22b8955d01cf0b169cb3)
-    * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
+    * [Judges punishing Jan. 6 rioters say they fear more political violence as Election Day nears](https://apnews.com/article/capitol-riot-judges-election-ebb54ab9badccfcb2b1bc2fa0de5bf21)
+    * [Together they've been in office more than 70 years. Now their races could help swing House control](https://apnews.com/article/election-2024-marcy-kaptur-ken-calvert-house-majority-c0eea997a88b46ce77dd7b68bdfa7002)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The Temptations serenade Mets fans at NLCS as founder admits he roots for Dodgers](https://apnews.com/article/temptations-mets-lindor-my-girl-988432ca9642fb848720b69de05004ad)
-    * [Tony Bennett cites NIL and transfer portal era as reason he's suddenly retiring at Virginia](https://apnews.com/article/virginia-basketball-tony-bennett-retires-7151169d37e4fb6d8ed324671f24cb61)
-    * [Guardians starting Tanner Bibee in Game 5 against Yankees after short outing earlier in ALCS](https://apnews.com/article/tanner-bibee-guardians-mlb-playoffs-3bb96ca647b5eaa97df41d21c6650926)
+    * [Yankees get to Guardians closer Clase again, score 2 runs in 9th to win 8-6 and take 3-1 ALCS lead](https://apnews.com/article/yankees-guardians-score-mlb-alcs-a0ed26962ef02e767677aaa2b11350d3)
+    * [Alonso and Mets extend season again, beating Dodgers 12-6 to send NLCS back to LA for Game 6](https://apnews.com/article/mlb-playoffs-mets-dodgers-alonso-nlcs-c1c6974fff1448ee6f7c23f147816725)
+    * [Lynx force Game 5 of WNBA Finals on Carleton's free throws to beat Liberty 82-80](https://apnews.com/article/wnba-finals-liberty-lynx-score-a09c2f86b6172dfe2e158234d0dee1e9)
     
     Newsletters
     
@@ -590,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Rock & Roll Hall of Fame induction ceremony has a poignant vibe this year](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
     * [Jury paves the way for 2 Live Crew to retake control of records that changed hip-hop](https://apnews.com/article/2-live-crew-hip-hop-copyright-ruling-9315d65fd99be7bee20c9c361eb3af72)
     * [Liam Payne's father arrives in Buenos Aires days after the pop star's fatal hotel plunge](https://apnews.com/article/liam-payne-star-one-direction-music-death-05f277e10350fed23f181a2e1eddddac)
-    * [BRELAND went to Selma to find himself. His ‘Project 2024' is music based on what he saw and felt](https://apnews.com/article/breland-project-2024-country-music-interview-23d79513e45c182b1ac98b7e0b40a1e1)
     
 * [Business](https://apnews.com/business)
     
@@ -775,9 +775,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Black male teachers are a rarity in preschools. This pioneering program wants to change that](https://apnews.com/article/preschool-teacher-literacy-black-men-47ac93fa10f83d79e7031708851c2645)
     * [Palau’s vibrant Helen Reef is a magnet for poachers. These rangers keep it safe](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     * [Designers of the late Princess Diana's wedding dress settle dispute over drawings of the gown](https://apnews.com/article/britain-princess-diana-dress-dispute-drawings-1e041eb329fea4e5deaa2488daac989b)
-    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     
 * [Religion](https://apnews.com/religion)
     
@@ -800,11 +800,11 @@ Submit Search
     TOP STORIES
     
     * [Para Israel y Hamás, la guerra en Gaza no está cerca de terminar tras muerte de Sinwar](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Experta ONU: Libertad de expresión está más amenazada en Gaza que en ningún otro conflicto reciente](https://apnews.com/article/onu-libertad-expresion-ataques-periodistas-israel-palestinos-23eff5066500becc7bd94bac395aa418)
+    * [Harris y Trump van tras el voto árabe-estadounidense en Michigan](https://apnews.com/article/harris-trump-gaza-elecciones-ea57a05b9864aede88562e3784626b7f)
     * [Rusia devuelve cadáveres de 500 soldados a Ucrania; continúan ataques rusos con drones](https://apnews.com/article/rusia-ucrania-guerra-77e157dd118d4f5c73ee36e2a1f455da)
     * [Corea del Sur afirma que Norcorea ha enviado soldados para apoyar a Rusia en su guerra en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
-    * [Cuba sufre un apagón masivo tras desconexión total del sistema energético](https://apnews.com/world-news/general-news-873380328b80831c8cd6e187ed8e454e)
-    * [EEUU lo entrenó para combatir, pero luego se rebeló en su contra. Más como él hacen lo mismo](https://apnews.com/us-news/general-news-e688a442aa28315c044280c6b0e6cb8f)
-    * ["El Mayo" Zambada, líder del cártel de Sinaloa, comparece ante tribunal en EEUU](https://apnews.com/article/mayo-sinaloa-054ef6d38195323cefd7ea6c5d3e2d74)
+    * [Corea del Norte dice que halló los restos de un dron surcoreano en Pyongyang](https://apnews.com/article/corea-drones-27656f80711ac7ab6de5572238b10876)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
