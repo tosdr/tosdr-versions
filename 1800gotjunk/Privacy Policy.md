@@ -134,8 +134,6 @@ Sub Menu
 
 search
 
-Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
-
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -868,38 +866,6 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Pablo and David did a great job!
-
-Zifan Yang Seattle 12/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Timely, quick, efficient. Jeff, Kevin and one big truck took care of a years old mess that needed gone. Very much appreciated!
-
-Merris Hawk Seattle 12/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very pleased with job done. Helpful &friendly. Reasonable
-
-Debbie Besaw Austin 12/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-KD and Drew were so amazing! So helpful! They helped me clean out my garage that was just full. Thank goodness for these guys!
-
-Kayla Noller Wisconsin 12/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Justin and Jabray very professional and very courteous. Would definitely recommend service to others. Thanks so much. Great Job
 
 Adriane Guy Baltimore 12/10/2024
@@ -940,6 +906,78 @@ Remant Baltimore 12/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Pablo and David did a great job!
+
+Zifan Yang Seattle 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Timely, quick, efficient. Jeff, Kevin and one big truck took care of a years old mess that needed gone. Very much appreciated!
+
+Merris Hawk Seattle 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Very pleased with job done. Helpful &friendly. Reasonable
+
+Debbie Besaw Austin 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+KD and Drew were so amazing! So helpful! They helped me clean out my garage that was just full. Thank goodness for these guys!
+
+Kayla Noller Wisconsin 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Super fast. Great service. Would recommend. Caleb and August were amazing and very friendly!!!
+
+Jake Arneson Madison 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+TC and JOE were outstanding
+
+Jaye Wright Austin 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Excellent service!!
+
+Mike Vabic Cincinnati 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Connor and syl were great today
+
+Luis Rodezno LA Metro 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great experience with the team! They were efficient and cost effective. Thank you!!!!
+
+Mandar Chati Cincinnati 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 I just had the most amazing experience! Super easy scheduling and very friendly service. I will definitely use them again and again!
 
 Becky Feldman Baltimore 11/10/2024
@@ -967,46 +1005,6 @@ Barbara Shea Columbus 11/10/2024
 TC and JOE were outstanding
 
 Crystal Wales Austin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Alex and Dray were great. Respective of our home and the contents. I would use these guys again.
-
-Erv Bluemner Wisconsin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great job, Dray and Alex maxed out the truck capacity and were very timely. Would highly recommend!
-
-George Rolfs Wisconsin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Super fast. Great service. Would recommend. Caleb and August were amazing and very friendly!!!
-
-Jake Arneson Madison 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-TC and JOE were outstanding
-
-Jaye Wright Austin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Excellent service!!
-
-Mike Vabic Cincinnati 11/10/2024
 
 ### 
 
