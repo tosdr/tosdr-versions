@@ -1,6 +1,6 @@
 [skip to content](#main)
 
-Color has announced an expansion of its Virtual Cancer Clinic, designed to provide direct and proactive care from diagnosis to survivorship. [Read more about our clinic design.](https://www.color.com/blog/colors-virtual-cancer-clinic-building-a-modern-approach-to-managing-cancer)
+Color has announced an expansion of its Virtual Cancer Clinic, designed to provide direct and proactive care from diagnosis to survivorship. [Read the latest coverage from Fierce Healthcare.](https://www.fiercehealthcare.com/health-tech/color-health-builds-out-virtual-cancer-clinic-taking-aim-employer-health-plan-market)
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
