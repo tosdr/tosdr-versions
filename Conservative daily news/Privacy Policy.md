@@ -2,14 +2,14 @@ Saturday, October 19 2024
 
 Breaking News
 
+* [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+* [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
+* [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
+* [Up To $41 Billion In World Bank Climate Handouts Unaccounted For, New Report Finds](https://www.conservativedailynews.com/2024/10/up-to-41-billion-in-world-bank-climate-handouts-unaccounted-for-new-report-finds/)
 * [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
 * [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
 * [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
 * [Former Clinton Pollster Warns Of ‘Eroding’ Blue Wall For Harris After Failing To Connect In Fox Interview](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
-* [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
-* [Kamala Harris’ Refusal (and Inability) to Answer Questions](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
-* [Supreme Court Allows Biden-Harris EPA Power Plant Rule To Stay In Effect](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
-* [President Joe Biden’s Schedule for Thursday, October 17, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-17-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,36 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![New Mexico man sentenced to 60 years for enticement of minors following HSI investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/03/New-Mexico-man-sentenced-to-60-years-for-enticement-of-220x150.png)](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+    
+    [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+    
+    October 19, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Kamala-Harris.jpg)](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
+    
+    [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
+    
+    October 19, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Sad-girl.jpg)](https://www.conservativedailynews.com/2024/10/nyt-says-night-depression-is-a-thing-it-shouldnt-be/)
+    
+    [NYT Says Night Depression is a thing. It shouldn’t be](https://www.conservativedailynews.com/2024/10/nyt-says-night-depression-is-a-thing-it-shouldnt-be/)
+    
+    October 19, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5653-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
+    
+    [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
+    
+    October 19, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/World-Bank-220x150.jfif)](https://www.conservativedailynews.com/2024/10/up-to-41-billion-in-world-bank-climate-handouts-unaccounted-for-new-report-finds/)
+    
+    [Up To $41 Billion In World Bank Climate Handouts Unaccounted For, New Report Finds](https://www.conservativedailynews.com/2024/10/up-to-41-billion-in-world-bank-climate-handouts-unaccounted-for-new-report-finds/)
+    
+    October 19, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5652-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
     
     [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
@@ -143,36 +173,6 @@ Recent Posts
     [Why Can’t Kamala Answer a Simple Question?](https://www.conservativedailynews.com/2024/10/why-cant-kamala-answer-a-simple-question/)
     
     October 18, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
-    
-    [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
-    
-    October 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Kamala-Harris-Brett-Baier-illegal-immigration-Fox-News-220x150.jpg)](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
-    
-    [Former Clinton Pollster Warns Of ‘Eroding’ Blue Wall For Harris After Failing To Connect In Fox Interview](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
-    
-    October 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
-    
-    [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
-    
-    October 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/05-prop-kam-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
-    
-    [Kamala Harris’ Refusal (and Inability) to Answer Questions](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
-    
-    October 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-doj-lsuit-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/)
-    
-    [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/)
-    
-    October 17, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
