@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/osama-bin-laden-dood-2-mei-2011-911/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/producent-fema-camps-film-vermoordzelfmoord/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
