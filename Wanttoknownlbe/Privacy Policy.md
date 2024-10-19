@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/2-963-technische-experts-zien-echte-911-complot/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/bio-genocide-door-overheden-dan-ben-jij-het-doel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
