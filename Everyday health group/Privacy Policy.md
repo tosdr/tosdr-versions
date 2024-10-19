@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/cbt-and-meds-combo-for-ms-fatigue-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/younger-colorectal-cancer-patients-have-different-concerns-1440x810.jpg)
 
-Talk Therapy and Medication Both Reduce Multiple Sclerosis Fatigue](https://www.everydayhealth.com/neurological-disorders/talk-therapy-medication-reduce-multiple-sclerosis-fatigue/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Young Adults With Colon Cancer May Be Hit by More Aggressive Disease](https://www.everydayhealth.com/cancer/young-adults-with-colon-cancer-may-be-hit-by-more-aggressive-disease/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/breast-cancer-excess-body-fat-postmenopause-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/beans-change-to-diet-improve-nutrient-intake-health-1440x810.jpg)
 
-Excess Body Fat Strongly Linked to Hormone-Positive Breast Cancers](https://www.everydayhealth.com/cancer/excess-body-fat-linked-to-hormone-positive-breast-cancers/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Beans Are a Superfood, a New Analysis Confirms](https://www.everydayhealth.com/diet-nutrition/beans-are-a-superfood-new-analysis-confirms/) [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
