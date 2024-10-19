@@ -4,13 +4,13 @@ Rated 4.9 / 5 based on [723 reviews](https://www.trustpilot.com/review/www.safar
 
 Trustpilot
 
-World Travel Awards Nominee 2024
+Africa's Leading Safari Company 2024 – World Travel Awards
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
 [+1 (800) 854-1896](tel:+1(800)854-1896)
 
-[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94417ac4c3ae77682541_logo-cream.svg)](https://www.safari.com/)
+[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67135389be2521c91c01a1f7_winner_logo_variation.png)](https://www.safari.com/)
 
 __
 
@@ -227,6 +227,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 18, 2024
+
+> Cannot recommend enough
+
+> Cannot recommend enough! Contacted at 6pm night before and Dorothy was helpful friendly and managed to book a safari trip with transport for 6 people! She was contactable on the day too and very very helpful!
+
+Charlotte
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 17, 2024
 
 > Aquilia Safari trip
@@ -331,20 +343,6 @@ John Quigley
 
 IE
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 14, 2024
-
-> Safari
-
-> Keith was most pleasant and helpful. Planning a Safari can be overwhelming, Keith was insightful and patient. We look forward to sharing our experience upon our return from Africa. Thankyou 🐘
-
-customer
-
-,
-
-US
-
 VIP service
 
 Your own personal travel assistant
@@ -396,9 +394,9 @@ Contact a safari expert now
 
 #### Moments of Greatness  
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/664ccabd035a0696e62d82e3_africas-leading-safari-company-2024-nominee-shield-256.png)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67132f71d8a5e523112b09ce_africas-leading-safari-company-2024-winner-shield-256.png)
 
-#### Safari.com is a nominee for the World Travel Awards 2024, to vote for us [click here](https://www.worldtravelawards.com/vote-for-safaricom-africas-leading-safari-company-2024)  
+#### Voted **Africa's Leading Safari Company 2024** by the [World Travel Awards](https://www.worldtravelawards.com/award-africas-leading-safari-company-2024).  
 
 #### Watershed,  
 17 Dock Road,  
