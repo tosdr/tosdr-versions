@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Service Stiftung Warentest
 
