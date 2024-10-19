@@ -1,3 +1,7 @@
+[Booking.com: Save 15% or more. Finish your year with a mini break + 6% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/booking-com?store=booking-com&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
