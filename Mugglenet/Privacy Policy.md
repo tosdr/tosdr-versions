@@ -306,11 +306,11 @@ When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom
 
 ### Potter History
 
-February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
+May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
 
 ### Potter Quote
 
-“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
+“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
 
 [](#)
 
