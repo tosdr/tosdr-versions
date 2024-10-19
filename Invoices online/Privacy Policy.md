@@ -118,61 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=83992431)  
-Vplay Letsheng Mall
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=88648335)  
+Qothiphango Mining
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=148762900)  
-Oukraal Merino's
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=128759938)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=18679455)  
-FJW Security Cc
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=91939703)  
+KTEN PARTS
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=54228735)  
-AMS Ambu Medical Supplies
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=34731046)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=213186139)  
-M's Frozen Delights
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=144739904)  
+SR Travel Services
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=26549248)  
-FlipDesign - Renovation Contracting Firm
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=2455741)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=7290257)  
-Little Nutty Professors
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=206803547)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=146367153)  
-TurboFibre
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=185926456)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=66467173)  
-Goju-Ryu Pretoria East
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=85932357)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=172088232)  
-Highlands Auto Engineering
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=153369837)  
+West Coast Horse Trails
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=213241586)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=87352653)  
+Lindani Protection Services & Projects
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=158080103)  
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=138435233)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=114194131)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=181140980)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=97808974)  
 VIR Electrical (PTY) LTD
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=101379396)  
-MSPCloud (Pty) Ltd
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=14523553)  
-MONSTER SECURITY GUARDING
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=59098861e0d0fafb1f9398d615cac5e2fbe4fd2ff65300a610179e03cc195331&c=92035311)  
-Echo Recording Studio cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
