@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
+* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
     
-* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
+* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
     
-* [How to back up data files from Google Drive u ...](https://www.backup4all.com/how-to-back-up-data-files-from-google-drive-using-backup4all-kb.html)  
-    
-* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
+* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
     
 * [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
+    
+* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
     
 
 Choose language:
