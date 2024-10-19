@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tyrus-Walker-and-clip-326x245.jpg)](https://cwbchicago.com/2024/10/handcuffed-man-ran-from-cops-with-a-machine-gun-hidden-in-his-crotch-prosecutors-say.html "Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say")
-
-Chicago Lawn
-
-### [Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say](https://cwbchicago.com/2024/10/handcuffed-man-ran-from-cops-with-a-machine-gun-hidden-in-his-crotch-prosecutors-say.html "Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say")
-
-[October 16, 2024 6:31 AM](https://cwbchicago.com/2024/10)
-
-It’s not easy to run from the cops while handcuffed. It’s gotta be even harder when you have a machine gun stuffed in your crotch.[](https://cwbchicago.com/2024/10/handcuffed-man-ran-from-cops-with-a-machine-gun-hidden-in-his-crotch-prosecutors-say.html "Handcuffed man ran from cops with a machine gun hidden in his crotch, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Map-Oct-15-Chicago-326x245.jpg)](https://cwbchicago.com/2024/10/armed-robbery-crew-is-targeting-people-businesses-from-lincoln-park-to-east-garfield-park.html "Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Evalena-Flores--326x245.jpg)](https://cwbchicago.com/2024/10/cop-killers-mom-goes-awol-arrest-warrant-issued.html "Cop killer’s mom goes AWOL, arrest warrant issued")
 
 Citywide
 
-### [Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park](https://cwbchicago.com/2024/10/armed-robbery-crew-is-targeting-people-businesses-from-lincoln-park-to-east-garfield-park.html "Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park")
+### [Cop killer’s mom goes AWOL, arrest warrant issued](https://cwbchicago.com/2024/10/cop-killers-mom-goes-awol-arrest-warrant-issued.html "Cop killer’s mom goes AWOL, arrest warrant issued")
 
-[October 15, 2024 6:30 PM](https://cwbchicago.com/2024/10)
+[October 16, 2024 11:45 AM](https://cwbchicago.com/2024/10)
 
-An armed robbery crew is prowling the city, robbing businesses and people on the streets, Chicago police warned in a new community alert on Tuesday.[](https://cwbchicago.com/2024/10/armed-robbery-crew-is-targeting-people-businesses-from-lincoln-park-to-east-garfield-park.html "Armed robbery crew is targeting people, businesses from Lincoln Park to East Garfield Park")
+The mother of convicted cop killer Emonte Morgan is now the subject of an arrest warrant, court records show, after she stopped appearing in court for a case that started when she allegedly pushed cops who were guarding Morgan days after he killed Officer Ella French and gravely wounded her partner in August 2021.[](https://cwbchicago.com/2024/10/cop-killers-mom-goes-awol-arrest-warrant-issued.html "Cop killer’s mom goes AWOL, arrest warrant issued")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Desmond-White-326x245.jpg)](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/chicago-snatching-map-326x245.jpg)](https://cwbchicago.com/2024/10/cops-finally-warn-public-about-month-old-wave-of-jewelry-snatchings-downtown.html "Cops finally warn public about month-old wave of jewelry snatchings downtown")
 
-West Loop
+Loop
 
-### [2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
+### [Cops finally warn public about month-old wave of jewelry snatchings downtown](https://cwbchicago.com/2024/10/cops-finally-warn-public-about-month-old-wave-of-jewelry-snatchings-downtown.html "Cops finally warn public about month-old wave of jewelry snatchings downtown")
 
-[October 15, 2024 6:06 PM](https://cwbchicago.com/2024/10)
+[October 16, 2024 10:11 AM](https://cwbchicago.com/2024/10)
 
-Two armed men who tried to rob an off-duty corrections officer in the West Loop both fired shots at the victim before he returned fire, seriously wounding one of them, officials said Tuesday.[](https://cwbchicago.com/2024/10/2-robbers-shot-at-off-duty-officer-before-he-returned-fire-badly-injuring-1-in-the-west-loop-prosecutors-say.html "2 robbers shot at off-duty officer before he returned fire, badly injuring 1 in the West Loop, prosecutors say")
+It’s been a month since CWBChicago first reported that a string of jewelry snatchings and robberies had popped up, mainly in the downtown area. Today, after at least 13 incidents, Chicago police finally issued a community alert about the crimes.[](https://cwbchicago.com/2024/10/cops-finally-warn-public-about-month-old-wave-of-jewelry-snatchings-downtown.html "Cops finally warn public about month-old wave of jewelry snatchings downtown")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Marquis-Alexander-and-thieves-326x245.jpg)](https://cwbchicago.com/2024/10/burglar-stole-2-atms-while-on-parole-and-on-pretrial-release-for-another-burglary-prosecutors-say.html "Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say")
+
+Austin
+
+### [Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say](https://cwbchicago.com/2024/10/burglar-stole-2-atms-while-on-parole-and-on-pretrial-release-for-another-burglary-prosecutors-say.html "Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say")
+
+[October 16, 2024 7:30 AM](https://cwbchicago.com/2024/10)
+
+Prosecutors have charged a Chicago man with stealing ATMs from two businesses while on parole and on pretrial release for trying to burglarize another business in May.[](https://cwbchicago.com/2024/10/burglar-stole-2-atms-while-on-parole-and-on-pretrial-release-for-another-burglary-prosecutors-say.html "Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say")
 
 Search
 
