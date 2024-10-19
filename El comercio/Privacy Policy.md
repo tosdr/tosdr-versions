@@ -31,11 +31,918 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El Metro de Quito operará en horario extendido este sábado 19 y domingo 20 por festival
+=======================================================================================
+
+El Metro de Quito operará hasta la medianoche por Festival Gastronómico y Musical. Se espera más de 30 mil asistentes.
+----------------------------------------------------------------------------------------------------------------------
+
+![El Metro ofrecerá un horario extendido hasta la medianoche. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/Metro-Quito.jpg)
+
+Este sábado 19 y domingo 20 de octubre de 2024, el Metro de Quito ofrecerá un horario extendido hasta la medianoche. Este cambio se debe al Festival Gastronómico y Musical: Aventura Cerrando Ciclos, que se realizará en el Estadio Olímpico Atahualpa, en el norte del distrito metropolitano.
+
+Más noticias
+------------
+
+* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
+* [El Metro de Quito superó los 43 millones de viajes](https://www.elcomercio.com/actualidad/metro-de-quito-supero-43-millones-de-viajes-operacion.html "El Metro de Quito superó los 43 millones de viajes")
+
+Se espera que más de 30 mil personas asistan a este encuentro. Frente a una mayor demanda del servicio, el [Metro](https://metrodequito.gob.ec/ "https://metrodequito.gob.ec/") informó sobre la extensión del horario, con el fin de movilizar a los asistentes al finalizar los conciertos. La estación más cercana al Estadio es Iñaquito, ubicada en el bulevar de las avenidas Naciones Unidas y Japón.
+
+Para facilitar el acceso, se recomienda:
+
+* Tener activa la Cuenta Ciudad
+* Usar el QR en la aplicación móvil
+* La cédula vinculada o la Tarjeta Ciudad.
+
+Estas opciones ayudarán a minimizar los tiempos de espera y optimizar el viaje de los pasajeros.
+
+Este será el sexto evento en el que el Metro extiende sus horarios para trasladar a la ciudadanía. Normalmente, el Metro opera los sábados de 7:00 a 23:00 y los domingos y feriados de 7:00 a 22:00.
+
+En septiembre pasado, el Metro superó los 43 millones de viajes. El promedio diario fue de 142 073. Aunque ya se han registrado picos superiores a los 170 mil viajes en un día.
+
+Las cinco estaciones con mayor promedio de viajes diarios siguen siendo: Quitumbe, Labrador, Iñaquito, San Francisco y Recreo. El 47,5% de las personas que usan el Metro realizan al menos dos **viajes diarios**.
+
+Con la extensión de los horarios también se busca que los usuarios viajen más seguros, sobre todo en las noches que hay cortes de energía eléctrica diferenciados por sectores.  
+
+Las quebradas de Quito, el riesgo de las lluvias y la necesaria prevención
+==========================================================================
+
+Para el Inhami, las lluvias regresarán ligeramente el fin de semana del 19 y 20 de octubre. Debe haber un cambio en la relación de los quiteños con las quebradas.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El aluvión del 2022 dejó 28 muertos en La Comuna y La Gasca, dos barrios del Occidente de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/aluvion-la-gasca-1.jpg)
+
+En **Quito** se vive un momento de **transición del clima.** Después de 48 días de estiaje, con incendios que espantaron, llegaron las **lluvias**. El 2 de octubre del 2024, incluso, inundaron algunos barrios del sur de la ciudad. Ahora, nuevamente hay un clima seco, que despertó un nuevo flagelo en el **Ilaló**. Cuando ya venga la **temporada invernal**, la acumulación de aguas hace que se miren a las quebradas de Quito y se piense en la **necesaria prevención**.
+
+### Más noticias
+
+* [Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/nuevo-cierre-vehicular-quito-av-6-de-diciembre-desde-domingo-20-de-octubre.html "Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito")
+* [En Quito, el aumento de adultos mayores supera al de niños: ¿Desafío u oportunidad?](https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html "En Quito, el aumento de adultos mayores supera al de niños: ¿Desafío u oportunidad?")
+* [Calle Benalcázar se cerrará este fin de semana, en Quito](https://www.elcomercio.com/actualidad/quito/calle-benalcazar-se-cerrara-este-fin-de-semana-en-quito.html "Calle Benalcázar se cerrará este fin de semana, en Quito")
+
+El mal recuerdo con las quebradas de Quito
+------------------------------------------
+
+Aquel 2 de octubre, el río Capulí desbordó la **quebrada** de **Caupicho** y afectó barrios como **Solanda**, **Nueva Aurora** o la **Lucha de los Pobres**. El 10 de octubre, nuevamente se inundó la Lucha de los Pobres, como se puede comprobar en la siguiente imagen, en la que la colectora está al límite.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/caupicho-1-1024x768.jpg)
+
+Si bien no hubo víctimas mortales que lamentar, sí hubo daños materiales en estos barrios del sur de Quito. No se puede decir con los barrios que quedan al occidente, sobre todo los que están en las laderas del Pichincha.
+
+El 2022 y el 2024, hubo **aluviones** que mataron a 28 personas en el primero y una en el segundo. En el primero murieron 28 personas; en el segundo, una. Muchos se preguntaron qué se hizo en esos dos años y qué se ha hecho con las 101 quebradas en la ciudad de Quito.
+
+La prevención en un plan
+------------------------
+
+El **Municipio de Quito** ha informado que invierte **23,3 millones de dólares** en el Plan Lluvia para mitigar los riesgos del invierno. Hay **142 estructuras en las 101 quebradas**. De estas, **72 corresponden a 34 quebradas de las laderas del PIchincha**, sostiene **Ernesto Fonseca**, subgerente de la **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps).**
+
+Le **Epmpaps** no se encarga de las **quebradas de Quito,** pero sí de las obras que se han construido para el drenaje de las aguas y así mitigar los efectos de la **temporada invernal** que pueden afectar a la población. Y si bien la quebrada de Caupicho es una quebrada que preocupa, las alertas y los constantes monitoreos con tecnología se orientan fundamentalmente hacia las 34 quebradas del Pichincha.
+
+Entre enero y octubre de 2024, el Municipio se realizaron **210 limpiezas**, en las que se retiraron **58 317 metros cúblicos** de materiales retenidos en las estructuras de captación. Así se busca evitar que colapse el sistema de alcantarillado de **Quito** colapse. El **presupuesto** para la limpieza y el mejoramiento de las obras, según Fonseca, es de **1 500 000 dólares**.
+
+La prevención requiere más estudios
+-----------------------------------
+
+**Liliana Troncoso**, docente investigadora de la carrera de Geología en la **Universidad Central**, realizó un **estudio de investigación** sobre los **aluviones del Pichincha**. Afirma que las autoridades municipales sí han escuchado y tomado en cuenta los resultados de su trabajo. Sin embargo, los estudios deben mantenerse, y no solo en el caso de El Tejado, por el que ocurrieron los dos aluviones en La Gasca y La Comuna, que es al que ella se dedicó, sino también en todas las **quebradas de Quito** y tener un necesario **plan de prevención**[.](https://es.wikipedia.org/wiki/Universidad_Central_del_Ecuador "https://es.wikipedia.org/wiki/Universidad_Central_del_Ecuador")
+
+**Entre el aluvión del 2022 y el del 2024** hay diferencias importantes, “no por el fenómeno sino por el **comportamiento del fenómeno influenciado por decisiones que hacen los humanos** en el territorio”, dice **Troncoso**. Recuerda que en la zona de la cancha construyeron baños, que se constituyeron en una barrera y que en el 2024 cambiara la dirección del flujo, que se fue por un conjunto residencial por donde no debía, en principio.
+
+Troncoso añade que en los dos aluviones llegaron **bloques de dos o tres metros y de siete toneladas de peso**. “No se entiende claramente dónde está su origen, de dónde se deprendieron. Tampoco sabemos cómo llegaron al colector”. Otra duda es cómo influyeron en el comporamento del flujo.
+
+Cada **quebrada de Quito** es distinta, tanto por su ubicación como por el grado de inclinación que tiene. Las del **Occidente** tienen un pendiente mayor, casi como una resbaladera, lo que lo hace aún más riesgoso. Por eso, cada uno merece su propio estudio.
+
+Sin embargo, uno de los problemas mayores es la **relación que tienen los ciudadanos con las quebradas de Quito**. Si antes se creía que rellenarlo era una solución, ahora sabemos que no es así. Por eso, Troncoso dice que las **quebradas de Quito** se han convertido en el lugar a donde van a esconder lo que les molesta e incomoda. Y eso es algo que debe cambiar.
+
+Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito
+=========================================================================
+
+La hinchada del Deportivo Quito es una de las más fieles y apasionadas del fútbol ecuatoriano.
+----------------------------------------------------------------------------------------------
+
+![Luis Fernando Saritama en un partido con el Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-18T174932.485.jpg)
+
+El **Deportivo Quito** sigue soñando con regresar a la Serie B después de ocho años, y en la lucha por ese objetivo, la hinchada de la ‘**AKD**‘ juega un papel fundamental. Uno de los ídolos del club, Luis Fernando Saritama, ha resaltado la relevancia de los aficionados que alientan incansablemente al equipo.
+
+En el último partido del equipo capitalino, como local ante Santa Elena en los 32 avos del Torneo de Ascenso, más de **10 000 hinchas asistieron al estadio**, generando un ambiente que fue clave para la goleada 3-0. Esa victoria fue decisiva para que el Deportivo Quito ganara 1-2 en Samborondón, avanzando así a la siguiente fase y acercándose al ansiado ascenso.
+
+### Más noticias:
+
+* [Deportivo Quito vuelve a jugar en Machala a los 22 años](https://www.elcomercio.com/deportes/deportivo-quito-machala-ascenso-nacional-2.html "Deportivo Quito vuelve a jugar en Machala a los 22 años")
+* [Deportivo Quito recorre más de 1 000 kilómetros por su sueño](https://www.elcomercio.com/deportes/futbol/deportivo-quito-machala-ascenso-nacional.html "Deportivo Quito recorre más de 1 000 kilómetros por su sueño")
+* [Liga de Quito extraña al Deportivo Quito en Serie A](https://www.elcomercio.com/deportes/futbol/liga-de-quito-extrana-al-deportivo-quito-en-serie-a.html "Liga de Quito extraña al Deportivo Quito en Serie A")
+
+La importancia de la hinchada del Deportivo Quito
+-------------------------------------------------
+
+**Luis Fernando Saritama**, en una entrevista con _El Comercio_, destacó el papel vital que juega la hinchada en los partidos del Deportivo Quito. Señaló que, aunque al principio puede representar presión para los jugadores, el apoyo de los aficionados rápidamente se convierte en una fuente de motivación.
+
+“Los jugadores **sienten que están en un club diferente, en el sentido de recibir un apoyo incondicional** de la hinchada”, afirmó el ídolo capitalino.
+
+A pesar de que el equipo juega en la Segunda Categoría, Saritama subrayó que los aficionados del Quito no decepcionan y siempre están presentes, lo que demuestra la pasión inquebrantable por la ‘AKD’. “**Vestir la camiseta del Quito es una responsabilidad** que tiene sus ventajas”, agregó.
+
+El ascenso: un proceso paso a paso
+----------------------------------
+
+En cuanto al objetivo de ascender a la Serie B, Saritama destacó que no se trata de una prueba de velocidad, sino de un **proceso que debe trabajarse con paciencia**, comparándolo con una maratón.
+
+“Uno no puede pensar solo en el objetivo de ascender, aunque debe mantenerse como un sueño, pero es **algo que se trabaja paso a paso**“, comentó.
+
+Saritama también elogió al nuevo cuerpo técnico y expresó su optimismo por el camino que está siguiendo el Deportivo Quito. “El cuerpo técnico del profe Castro hizo un gran trabajo, y s**e ha dado el primer paso de cinco llaves**, que sin duda van a ser complicadas”, puntualizó.
+
+¿Cuándo juega el Deportivo Quito?
+---------------------------------
+
+**Deportivo Quito** y Cantera Orense son parte de los 32 equipos que aún siguen en carrera por conseguir uno de los dos cupos que otorga el Torneo de Ascenso Nacional para la Liga Pro Serie B de 2025.
+
+El partido de ida se jugará en el **Mini Estadio del Complejo Deportivo Euclides Palacios**, en Machala, el domingo **20 de octubre**, desde las 10:00. El partido de vuelta está previsto para el 27 de octubre, posiblemente en el Gonzalo Pozo o nuevamente en el estadio de Independiente del Valle.
+
+Pervis Estupiñán y el Brighton sorprenden en la Premier League
+==============================================================
+
+El Brighton, con presencia de Pervis Estupiñán, se impuso ante el Newcastle en la Premier League y está en la zona alta de la tabla.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Pervis Estupiñán en uno de los partidos del Brighton en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-36.jpg)
+
+El **Brighton** vive uno de sus mejores momentos en la Premier League y se ubica entre los cinco primeros de la tabla gracias a su último triunfo. Las ‘Gaviotas’ se impusieron ante el **Newcastle y Pervis Estupiñán** tuvo minutos en el cotejo.
+
+Después de haber disputado las eliminatorias hacia el Mundial de 2026 con la **Selección de Ecuador**, el lateral izquierdo retornó a su club en Inglaterra. Pese al buen desempeño en los cotejos internaciones, este no fue tomado en cuenta como titular en su retorno, aunque ingresó en la segunda mitad.
+
+### Más noticias:
+
+* [Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-un-nuevo-capitan-para-la-seleccion-de-ecuador.html "Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador")
+* [Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-clave-remontada-brighton-ante-tottenham.html "Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham")
+* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
+
+Para el choque, tanto la escuadra del ecuatoriano como las ‘hurracas’ llegaban con la misma cantidad de puntos (12) dentro de la **tabla de posiciones.** La victoria de uno podía catapultarlo hacia la zona alta de la primera mitad del torneo.
+
+La oportunidad que se le presentaba al **Brighton**, sin embargo, lucía desafiante en función de la plantilla de sus rivales y la localía de estos. Pese a ello, el entendimiento y sincronización colectiva que ya había mostrado la visita le sirvió para llevarse los tres puntos en un duelo apretado[.](https://es.wikipedia.org/wiki/Brighton_%26_Hove_Albion_Football_Club)
+
+Un gol solitario de Danny Welbeck le dio el triunfo al Brighton
+---------------------------------------------------------------
+
+Al primer tiempo del compromiso cayó el tanto que marcó las diferencias entre el Brighton y el **Newcastle** en la Premier League. Asimismo, la actuación del guardameta **Bart Verbruggen** fue clave para que los visitante sostengan el resultado.
+
+El tanto de las ‘Gaviotas’ llegó a los 35 minutos del cotejo gracias al delantero **Danny Welbeck**. Este recibió un pase de **Georgino Rutter** en un contragolpe que dejó mano a mano al delantero con el arquero rival.
+
+Después del primer gol y en lo que quedó de partido, el **Newcastle** se lanzó de manera ultraofensiva a buscar el empate. Aunque casi lo consigue en el cierre del choque, que contó con nueve minutos de adición debido a una lesión de **Welbeck**, el gol que anotó fue en posición adelantada.
+
+Pervis Estupiñán, fundamental para contener al rival del Brighton
+-----------------------------------------------------------------
+
+**Pervis Estupiñán** ingresó al minuto 72 con la intención de refrescar la posición de lateral izquierdo. Este sustituyó a **Rutter** en el carril izquierdo y se mantuvo hasta el fin del compromiso.
+
+El **tricolor** se mostró sólido en su andarivel y tuvo incidencia tanto en ataque como en defensa. Finalmente, consiguió colaborar en que su equipo mantenga el arco en cero.
+
+La producción de cocaína pura se disparó en Colombia
+====================================================
+
+De acuerdo con un informe de NN.UU., los cultivos de de coca aumentaron en un 10%.
+----------------------------------------------------------------------------------
+
+![Un cultivo de coca en la zona rural de El Tarra, norte de Santander (Colombia). Foto: Archivo EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/MUNDO_20241019_035528_0000.jpg)
+
+Colombia rompió el récord de producción de cocaína en 2023, al pasar de 1 738 toneladas métricas en 2022 a 2 664 toneladas métricas en el año en mención, lo que equivale a un incremento del 53 por ciento.
+
+Más noticias
+------------
+
+* [El Salvador incauta 1 551 kilos de cocaína en embarcación ecuatoriana](https://www.elcomercio.com/actualidad/mundo/el-salvador-incauta-1-551-kilos-de-cocaina-en-embarcacion-ecuatoriana.html "El Salvador incauta 1 551 kilos de cocaína en embarcación ecuatoriana")
+* [Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE](https://www.elcomercio.com/actualidad/ecuador/dato-plantaciones-coca-ecuador-estudio-estados-unidos.html "Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE")
+
+La cifra publicada por el diario El Tiempo es parte central del informe del Sistema Integrado de Monitoreo de Cultivos Ilícitos (Simci).
+
+En este documentose consta el conteo oficial tanto de cultivos de coca como de potencial producción de clorhidrato de cocaína.
+
+Según este análisis, durante 2023 **los narcocultivos se incrementaron en Colombia en un 10%, al pasar de 230 mil hectáreas a 253 mil.** Esta cifra coincide con el cálculo revelado por el ministro de Defensa, Iván Velásquez, en entrevista con El Tiempo.
+
+Las 2 664 toneladas de cocaína se habrían producido en las ‘cocinas’ de los narcos durante 2023. Esto pone a Colombia como el mayor productor de esta droga en el mundo. 
+
+El año pasado, también, se logró un récord en incautaciones: 746 toneladas, en un resultado que el presidente Gustavo Petro ha calificado como histórico.
+
+De hecho, [ONU](https://www.unodc.org/colombia/es/informe-de-monitoreo-de-territorios-con-presencia-de-cultivos-de-coca-2022.html) explica que la producción del alcaloide se concreta en la “**cocaína pura y se basa en el supuesto de que todas las hectáreas sembradas son cosechadas para producir cocaína”**. En el documento añade que “el dato no descuenta las 746 toneladas de cocaína (pureza desconocida) que fueron incautadas por las autoridades en 2023”.
+
+Estrategia de sustitución de coca sin mayores resultados
+--------------------------------------------------------
+
+El Gobierno anunció su cambio en la estrategia de lucha contra el narcotráfico. P**riorizó la sustitución voluntaria de matas de coca** (programa que tras dos años no arranca), sobre la erradicación forzada.
+
+El año pasado, por ejemplo, la meta de erradicación se fijó en 20 mil hectáreas (frente a las 2 300 000 detectadas). Este año se propuso erradicar 10 mil hectáreas, de las cuales a tres meses de finalizar el año, no va ni en cinco mil.
+
+En el cambio de la política de lucha contra las drogas se anunció las operaciones de interdicción (destrucción de laboratorios y la incautación de drogas). Según el Ministerio de Defensa **se incautaron 705 t de cocaína y 378 t de marihuana.**
+
+Colombia con 15 enclaves productivos
+------------------------------------
+
+En el informe Simci 2023 se indica que **la producción potencial de cocaína continua en sus récords históricos.** 
+
+Del lado de la oferta, Perú reportó en 2023 una ligera reducción del área sembrada con coca. Bolivia completó tres años con tendencia a la estabilidad (entre 2020 y 2022). 
+
+De Colombia, el documento advierte que a diferencia del incremento entre 2021 y 2022 que estuvo fuertemente concentrado en el departamento de Putumayo, en este periodo el crecimiento fue más generalizado.
+
+En 16 de los 19 departamentos con coca mostraron tendencia al incremento; Cauca y Nariño fueron los más afectados. 
+
+Cortes de luz en Cuenca para este sábado 19 de octubre
+======================================================
+
+En algunos barrios de Cuenca, los cortes de luz se aplican de corrido, mientras que en otros la suspensión se realiza en dos franjas horarias.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![La distribuidora de energía eléctrica Centrosur dio a conocer el cronograma de este sábado 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5-2.jpg)
+
+La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este sábado 19 de octubre de 2024. La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
+
+Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil este sábado 19 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-sabado-19-de-octubre.html "Cortes de luz en Guayaquil este sábado 19 de octubre")
+* [Cortes de luz en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-quito-sabado-19-de-octubre.html "Cortes de luz en Quito este sábado 19 de octubre")
+* [Cortes de agua en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-sabado-19-de-octubre.html "Cortes de agua en Quito este sábado 19 de octubre")
+
+Horarios de cortes de luz
+-------------------------
+
+El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
+
+En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
+
+Los horarios del cronograma en la ciudad austral se implementan en **13 jornadas**:
+
+* 00:00 a 06:00
+* 00:00 a 04:00 y de 11:00 a 16:00
+* 06:00 a 11:00 y de 14:00 a 18:00
+* 06:00 a 10:00 y de 14:00 a 18:00
+* 06:00 a 10:00 y de 18:00 a 22:00
+* 10:00 a 14:00 y de 18:00 a 22:00
+* 10:00 a 14:00 y de 17:00 a 21:00
+* 10:00 a 14:00 y de 20:00 a 00:00
+* 13:00 a 18:00 y de 21:00 a 00:00
+* 16:00 a 19:00
+* 18:00 a 21:00
+* 10:00 a 16:00
+
+La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/").
+
+Embalse de Mazar se recupera
+----------------------------
+
+La ministra de Energía y Minas (e), Inés Manzano, se pronunció este miércoles sobre el estado del **embalse de Mazar**.
+
+La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (**Celec**).
+
+En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en **2 116,68 metros** sobre el nivel del mar y, a las 15:00, subió a **2 116,88**.
+
+“Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimo (…) Estamos a **37 metros** de llegar a la [**cota máxima**](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)")”, dijo.
+
+Cortes de luz en Guayaquil para este sábado 19 de octubre
+=========================================================
+
+Los horarios de cortes de luz en Guayaquil se realizan en dos franjas horarias que contemplan 10 horas de suspensión.
+---------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz gestionados por CNEL se publican en sus redes sociales oficiales.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-4-2.jpg)
+
+El presidente **Daniel Noboa** anunció cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, la noche del jueves 17 de octubre de 2024. La empresa distribuidora Cnel publicó el cronograma para Guayaquil de este sábado 19 de octubre.
+
+### Más noticias
+
+* [Cortes de luz en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-quito-sabado-19-de-octubre.html "Cortes de luz en Quito este sábado 19 de octubre")
+* [Cortes de agua en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-sabado-19-de-octubre.html "Cortes de agua en Quito este sábado 19 de octubre")
+* [Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-reducidos-21-octubre-10-noviembre-ecuador.html "Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador")
+
+Reducción de cortes de luz
+--------------------------
+
+**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
+
+Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
+
+Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
+
+* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
+* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
+* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
+
+Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Horarios de cortes de luz en Guayaquil
+--------------------------------------
+
+La empresa distribuidora de energía eléctrica **CNEL** dio a conocer el cronograma de **cortes de luz** previstos para este **miércoles 9 de octubre.**
+
+Los cortes se aplicarán como siempre en **distintas franjas horarias**. Las de este miércoles arrancan a las 18:00, 19:00 y 20:00.
+
+Estos cortes del suministro eléctrico de la tarde y noche se aplicarán **durante dos horas** en la mayoría de caso, mientras que los programados para la **madrugada del jueves 10 de octubre s**erán de hasta cuatro horas.
+
+Aquí puedes consultar el **cronograma completo** de los [cortes de luz](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") en Guayaquil:
+
+Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania
+================================================================
+
+El Bayer Leverkusen de Piero Hincapié remontó y se impuso por 2-1 ante el Einchtrant Frankfurt en la Bundesliga.
+----------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié (centro) en el partido del Bayer Leverkusen ante el Frankfurt.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000147669-scaled.jpg)
+
+El Bayer Leverkusen de **Piero Hincapié** se impuso ante el Eintracht Frankfurt por 2-1 en la séptima fecha de la Bundesliga de Alemania. El equipo del ecuatoriano contó con él en el compromiso y remontó ante sus rivales.
+
+Aunque no está en lo más alto de la tabla, el **Leverkusen** tampoco está lejos de repetir lo conseguido en la campaña previa en la cual se coronó campeón de la liga de su país. Para el choque, la escuadra llegaba en la séptima posición, pero con un partido menos frente a seis de los cinco clubes que lo separaban, por lo que el triunfo lo puso en cuarto puesto con **14 puntos.**
+
+### Más noticias:
+
+* [Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/piero-hincapie-capitan-seleccion-ecuador.html "Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador")
+* [Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro](https://www.elcomercio.com/deportes/futbol/piero-hincapie-muerte-roberto-cabezas-tragico-siniestro.html "Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro")
+* [Bayer Leverkusen de Piero Hincapié tropezó en la Bundesliga](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-piero-hincapie-tropezo-en-bundesliga.html "Bayer Leverkusen de Piero Hincapié tropezó en la Bundesliga")
+
+A pesar de que no se encuentra entre los tres primeros después de ganar, el margen con los clubes que lo superan es estrecho. E**l Bayern Munich** -que también debe jugar un cotejo para igualarse- lo iguala en unidades y lo supera por gol diferencia, mientras que el **Friburgo** y el **RB Leipzig l**e llevan uno y tres puntos.
+
+Para la victoria ante el Frankfurt, Piero Hincapié recibió la confianza del **DT Xabi Alonso** desde el pitazo inicial. El defensa central, que se reincorporó a su club tras jugar las eliminatorias con la Tri, estuvo presente los 90 minutos de juego.
+
+El Leverkusen de Piero Hincapié tropezó al inicio
+-------------------------------------------------
+
+El cotejo del **Bayer Leverkusen** frente a las ‘águilas’ era crucial para ambos, pues son rivales directos debido a su pasar y ubicación en la **Bundesliga**. Ambos estaban obligados a ganar; el equipo de Hincapié para no alejarse de los líderes y sus rivales para ponerse segundos en la tabla.
+
+Con los ‘farmacéuticos’ como locales, el desarrollo del choque se dio, primordialmente, en el medio campo en los primeros minutos. Los dueños de casa consiguieron acercarse y tuvieron un penal a favor que lo desperdiciaron, ocasión que también la tuvo posteriormente el **Frankfurt** y no la desperdició.
+
+A los 16′, **Robert Andrich** tocó a un adversario en el área y, tras la intervención del VAR, se adjudicó el lanzamiento desde los 12 pazos. **Omar Marmoush**, máximo goleador de la Bundesliga, fue el encargado de ejecutarlo y acertó[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen "https://es.wikipedia.org/wiki/Bayer_Leverkusen")
+
+Una remontada firme de parte del Leverkusen
+-------------------------------------------
+
+Nueve minutos después de que su equipo encajara el primer gol, Robert Andrich encontró la redención y encaminó la remontada del **Bayer Leverkusen**. Tras una jugada hilvanada, el volante alemán mandó el balón al fondo de las redes rivales.
+
+El primer tiempo terminó con el empate de 1-1, sin embargo, en la segunda mitad la virtud de **Víctor Boniface** cambió el panorama. A los 71, este recibió el balón y puso el 2-1 definitivo que mantiene en pele a las ‘aspirinas’.
+
+Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito
+===============================================================================
+
+Los cierres en la Plaza. Argentina, Naciones Unidas y Eloy Alfaro ya están abiertos al flujo vehicular. La AMT asiste en las zonas cerradas.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los trabajos en la zona de la Plaza Argentina se terminaron antes de lo planificado.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-3-2.jpg)
+
+El **Municipio de Quito** realiza la intervención del **Carril Exclusivo de la Ecovía** para colocar nuevo hormigón en la av. 6 de Diciembre. El avance de la obra obliga a realizar el cierre de vías.
+
+### Más noticias
+
+* [Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito](https://www.elcomercio.com/actualidad/quito/domingo-20-de-octubre-puedes-deshacerte-de-tus-tereques-en-quito.html "Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito")
+* [Calle Benalcázar se cerrará este fin de semana, en Quito](https://www.elcomercio.com/actualidad/quito/calle-benalcazar-se-cerrara-este-fin-de-semana-en-quito.html "Calle Benalcázar se cerrará este fin de semana, en Quito")
+* [Cortes de luz en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-quito-sabado-19-de-octubre.html "Cortes de luz en Quito este sábado 19 de octubre")
+
+Cierre avanza a La Pradera
+--------------------------
+
+Los trabajos en la vía avanzan de norte a sur y llegaron al **sector de La Pradera**. Por ello, se programaron cierres viales durante 10 días.
+
+Desde las **19:00 del domingo 20 de octubre**, se cerrarán las transversales de la 6 de Diciembre y Whymper y De la República. El cierre se mantendrá hasta el 30 de octubre, según lo planeado.
+
+En estos nuevos cierres, **los cambios serán únicamente** sobre el cruce en sentido oriente-occidente y viceversa, debido a que los trabajos de hormigonado se realizan sobre los carriles centrales.
+
+Los **carriles laterales en ambos sentidos se mantendrán abiertos a la circulación** para las unidades de la Ecovía, el transporte público y los vehículos particulares.
+
+La Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) coordina con la Secretaría de Movilidad, Empresa de Pasajeros un plan operativo de que se implementará en este sector desde la noche del domingo 20.
+
+La **Agencia Metropolitana de Tránsito** (AMT) gestionará el flujo vehicular en los alrededores de estos cierres vehiculares desde las 06:00 hasta las 21:00.
+
+Vías alternas
+-------------
+
+Ante el cierre de la Whymper y De la República en la av. 6 de Diciembre, estas son las [rutas alternas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
+
+* Av. Eloy Alfaro
+* Av. Francisco de Orellana
+* Av. La Coruña
+
+Otros cierres ya se habilitaron
+-------------------------------
+
+El jueves 17 de octubre de 2024, **la circulación se reabrió** alrededor de la Plaza Argentina desde las 06:00, por la av. 6 de Diciembre. Esto fue tres días antes de lo planificado.
+
+La **Empresa de Pasajeros Quito** habilitará la parada San Martín de la Ecovía para asegurar la normalización del servicio de transporte público en ese [tramo de la ciudad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Además, la circulación se restableció en el cruce de la **6 de Diciembre y Naciones Unidas**, frente al **estadio Olímpico**. Así mismo, el cruce con la avenida **Eloy Alfaro**.
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Buenas noticias!  
+> ✅ Se habilita el acceso vial de la Plaza Argentina, 3 días antes de lo previsto.  
+>   
+> 👮🏽‍♀️ Seguimos trabajando por tu seguridad vial y una movilidad eficiente.  
+>   
+> 💪 Con compromiso [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mSgvyTTmue](https://t.co/mSgvyTTmue)
+> 
+> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846892971041423470?ref_src=twsrc%5Etfw)
+
+¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?
+===========================================================================
+
+Ecuador disputará su primera final del Sudamericano Sub-15
+----------------------------------------------------------
+
+![Edwin Quintero es una de las figuras de la Selección de Ecuador en el Sudamericano Sub-15.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-18T161321.684.jpg)
+
+La **Selección** **de** **Ecuador** está a las puertas de una nueva gesta histórica a nivel de selecciones, ya que tiene una oportunidad única de conseguir el **segundo título de su historia** y el primero en la categoría Sub-15, al haber clasificado a la final del torneo.
+
+La ‘Tri’ juvenil consiguió su boleto al partido por el título tras eliminar a Chile en las semifinales del **Sudamericano Sub-15**, que se está disputando en Santa Cruz, Bolivia. El conjunto ecuatoriano empató 3-3 en tiempo regular y se impuso en la tanda de penales.
+
+### Más noticias:
+
+* [Ecuador eliminó a Chile y clasificó a la final del sudamericano sub-15](https://www.elcomercio.com/deportes/futbol/ecuador-elimino-a-chile-y-clasifico-a-la-final-del-sudamericano-sub-15.html "Ecuador eliminó a Chile y clasificó a la final del sudamericano sub-15")
+* [Justin Lerma y Juan Angulo, las figuras del sub-15](https://www.elcomercio.com/deportes/futbol/justin-lerma-juan-angulo-sudamericano.html "Justin Lerma y Juan Angulo, las figuras del sub-15")
+* [Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15](https://www.elcomercio.com/deportes/leonardo-campana-seleccion-ecuador-sub-15.html "Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15")
+
+Este resultado marca la **mejor participación de Ecuador** en esta categoría, superando el tercer lugar obtenido en el Sudamericano Sub-15 de 2009, también celebrado en Bolivia. En aquella edición, jugadores como Junior Sornoza se destacaron.
+
+¿A qué hora juega Ecuador la final del Sudamericano Sub-15?
+-----------------------------------------------------------
+
+La final del Sudamericano Sub-15 enfrentará a **Ecuador contra Paraguay,** que llegó a esta instancia tras eliminar a una de las favoritas, Argentina, en la tanda de penales.
+
+El partido por el título **se jugará el sábado 19 de octubre a las 18:30** (hora Ecuador), en el Estadio Ramón Aguilera Costas, en Santa Cruz.
+
+Antes de la final, se disputará el partido por el tercer lugar entre Chile y **Argentina** a las 17:00.
+
+El camino de Ecuador a la final
+-------------------------------
+
+La ‘Tri’ juvenil **formó parte del Grupo B,** donde compitió contra **Argentina, Brasil**, Venezuela y Uruguay. Ecuador terminó en segundo lugar con cinco puntos, por detrás de la ‘Albiceleste’, logrando su clasificación a las semifinales.
+
+En la fase de grupos, Ecuador empató 1-1 con Uruguay, igualó 2-2 con Argentina, venció a Brasil 2-1 y cayó 0-4 ante Venezuela.
+
+En las semifinales, Ecuador superó a Chile en penales tras empatar 3-3, con goles de Edwin Quintero, Justin Lerma y **Juan Riquelme Angulo**. Desde los once pasos, el arquero Miguel Peralta se destacó al atajar dos remates, asegurando el pase a la final.
+
+Como dato adicional, Ecuador cuenta con el máximo goleador del torneo, Juan Riquelme Angulo, con cuatro goles, y **Justin Lerma**, quien ocupa la tercera posición en la tabla de goleadores con tres tantos.
+
+Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social
+========================================================================================
+
+El informe desglosa las diversas protecciones necesarias para el desarrollo y bienestar de niñas y mujeres.
+-----------------------------------------------------------------------------------------------------------
+
+![Imagen referencial sobre unas niñas.](https://www.elcomercio.com/wp-content/uploads/2024/10/ninas-pexels.jpg)
+
+**Dos mil millones** de **mujeres y niñas** carecen de acceso a cualquier forma de **protección social**, una brecha de género que cada vez se hace más grande en la **mayoría de las regiones del mundo,** de acuerdo con un informe de [ONU Mujeres](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html") publicado en vísperas de conmemorarse el **Día Internacional para la Erradicación de la Pobreza.**
+
+### Más noticias
+
+* [PepsiCo impulsa el empoderamiento de las mujeres productoras de papa](https://www.elcomercio.com/empresariales/pepsico-impulsa-empoderamiento-mujeres-productoras-papa.html "PepsiCo impulsa el empoderamiento de las mujeres productoras de papa")
+* [Dos binomios aún no están en firme para las elecciones 2025, ¿por qué?](https://www.elcomercio.com/elecciones/dos-binomios-aun-no-estan-en-firme-elecciones-2025.html "Dos binomios aún no están en firme para las elecciones 2025, ¿por qué?")
+* [Niña asesinó a sus hermanas menores y se lo confesó a su madre por mensaje de texto](https://www.elcomercio.com/actualidad/mundo/nina-asesino-a-sus-hermanas-menores-y-se-lo-confeso-a-su-madre-por-mensaje-de-texto.html "Niña asesinó a sus hermanas menores y se lo confesó a su madre por mensaje de texto")
+
+De acuerdo con el informe **‘Aprovechar la protección social para la igualdad de género, la resiliencia y la transformación**‘, aunque los **niveles de protección socia**l -el conjunto de políticas que incluyen dinero en efectivo, protección contra el **desempleo, pensiones y atención médica**– aumentaron desde el 2015, los avances recientes han beneficiado más a los hombres que a las mujeres.
+
+Bienestar de niñas y mujeres
+----------------------------
+
+El informe desglosa las **diversas protecciones** necesarias para el desarrollo y **bienestar de niñas y mujeres** y los problemas que enfrentan para tener acceso a ellas como beneficios por maternidad.
+
+A pesar de los avances, más del **63 % de las mujeres en todo el mundo todavía dan a luz s**in tener acceso a las prestaciones de maternidad.
+
+Apunta que casi el **10 % de las mujeres y niñas** vive en hogares en extrema pobreza, en comparación con poco más del 9 % de los hombres y los niños.
+
+Eso significa que hay **22 millones más de mujeres pobres** que de hombres, específicamente en África subsahariana y Asia central y meridional.
+
+Destaca que como resultado de la **pandemia y otras situaciones en los últimos año**s, el progreso en materia de **igualdad de género** y **erradicación de la pobreza** se estancó, y el logro de la Agenda 2030 para el Desarrollo Sostenible “parece cada vez más improbable”, detalla.
+
+Los conflictos y el **cambio climático** empeoran el panorama. Las mujeres y las niñas en contextos extremadamente frágiles tienen 7,7 veces más probabilidades de vivir en hogares con ingresos inferiores a la línea de pobreza de 2,15 dólares.
+
+En 2022, el número de mujeres y niñas que vivían en países afectados por conflictos alcanzó los 614 millones, un aumento del 50 % con respecto a 2017.
+
+Narrativas sobre los pobres
+---------------------------
+
+Pero los problemas no son exclusivos de países pobres, ya que incluso en el ‘primer mundo’ se dan situaciones de estigma contra la mujer. En **EE.UU. abundan las narrativas sobre los pobres** como “perezosos” o “dependientes”, en los que se califica a mujeres, en particular las negras y migrantes, como “reinas de la asistencia social”.
+
+Casos específicos de Latinoamérica
+----------------------------------
+
+En países como **Perú y Bolivia,** se apuntan otros problemas como los **centros de salud distantes** y los largos tiempos de espera y el **maltrato por parte del personal**, lo que empuja a las mujeres a renunciar a los servicios de salud materna.
+
+En Ecuador **algunas indígenas no cobraron** los beneficios de transferencias de efectivo porque los guardias privados de la institución financiera que distribuía los **fondos las maltrataban,** de acuerdo con el informe, que también destaca avances que se pusieron en marcha en materia de prestaciones sociales.
+
+Países como Mongolia ampliaron los beneficios de la **licencia de maternidad** al tiempo que ha reforzado la licencia de paternidad y en **México y Túnez** se han tomado medidas para incluir a los trabajadores domésticos en los sistemas de seguridad social.
+
+Iniciativas positivas
+---------------------
+
+El informe destaca algunas iniciativas positivas: de la **República Dominicana** destaca el programa de transferencia monetaria contra la pobreza, y de **Colombia,** e**l Sistema Distrital de Cuidados de Bogotá,** que tiene como objetivo **reconocer, redistribuir y reducir el trabajo** de cuidado no remunerado, principalmente realizado por mujeres.
+
+Asimismo, de Uruguay destaca el Monotribut, creado como parte de una reforma tributaria destinada a unificar las contribuciones a la seguridad social, entre otros.
+
+¿Quién es Diddy?
+================
+
+Estos siete datos sobre el rapero P. Diddy te asombrarán.
+---------------------------------------------------------
+
+![P. Diddy fue arrestado el 16 de septiembre de 2024. Foto: X @ElCopyMaster](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-7.jpg)
+
+El arresto de **P. Diddy** reavivó el interés en su vida, pasión y más… Los fans se preguntan cómo fue la **infancia del rapero**, dónde vivió, el **tiroteo con Jennifer Lopez** y otros escándalos.
+
+### Más noticias
+
+* [Juicio de Sean ‘Diddy’ Combs iniciará en 2025](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-juicio-trafico-sexual.html "Juicio de Sean ‘Diddy’ Combs iniciará en 2025 ")
+* [Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-demandas-abuso-sexual.html "Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan ")
+* **[10 claves sobre el escándalo de P. Diddy](https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html "https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html")**
+* **[P. Diddy quiere contar su historia](https://www.elcomercio.com/tendencias/p-diddy-quiere-contar-su-historia.html "https://www.elcomercio.com/tendencias/p-diddy-quiere-contar-su-historia.html")**
+
+A lo largo de los años, los medios han recogido las polémicas del artista de 54 años con lujo de detalles. A continuación repasamos rápidamente siete de sus múltiples polémicas.
+
+1\. Sus cambios de nombre
+-------------------------
+
+![Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-1024x683.jpg)
+
+Foto: Facebook
+
+**Sean Combs** es su nombre real, pero según la revista People a lo largo de su carrera, ha utilizado nombres como Puff Daddy, Niddy, Faun John, Puffy y, por supuesto, P. Diddy.
+
+Curiosamente, su primer apodo, sostiene el sitio Buscar Biografías, Puff Daddy, se lo dio su amigo Biggie.
+
+2\. La infancia de P. Diddy
+---------------------------
+
+![P. Diddy con una fotografía suya de niño. Foto: X @ElCopyMaster](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-6-1024x683.jpg)
+
+P. Diddy con una fotografía suya de niño. Foto: X @ElCopyMaster
+
+Según el sitio Busca Biografías, P. Diddy es hijo de Janice Smalls, una exmodelo, y Melvin Earl Combs, quien fue socio del conocido traficante Frank Lucas. A los 33 años, su padre fue asesinado a balazos.
+
+En redes sociales, dicen que el rapero creció creyendo que su padre había muerto en un accidente de tránsito, hasta que su madre le reveló la verdad. Se crió en el barrio de Mt. Vernon, Nueva York.
+
+3\. La conexión con el asesinato de [Tupac Shakur](https://es.wikipedia.org/wiki/Tupac_Shakur "https://es.wikipedia.org/wiki/Tupac_Shakur")
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Tupac Shakur y P. Diddy juntos. Foto: X de @ElCopyMaster](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-4-1024x683.jpg)
+
+Tupac Shakur y P. Diddy juntos. Foto: X de @ElCopyMaster
+
+Según un **[artículo](https://www.infobae.com/entretenimiento/2024/03/30/la-interminable-sospecha-sobre-sean-diddy-combs-como-orquestador-del-asesinato-de-tupac-shakur-en-1996/ "https://www.infobae.com/entretenimiento/2024/03/30/la-interminable-sospecha-sobre-sean-diddy-combs-como-orquestador-del-asesinato-de-tupac-shakur-en-1996/")** de Infobae de marzo de 2024, la sospecha interminable sobre Sean “Diddy” Combs como orquestador del asesinato de Tupac Shakur en 1996 sigue presente.
+
+Durante años, Puff Daddy (como era conocido entonces) y el rapero The Notorious B.I.G. han sido vinculados al caso por las constantes rivalidades entre las facciones del rap de las costas Este y Oeste.
+
+En 2023, nuevas revelaciones señalaron a Duane Keefe D Davis, quien afirmó que Combs le ofreció un millón de dólares para asesinar a Tupac. A pesar de estas acusaciones, Diddy siempre ha negado cualquier implicación.
+
+4\. Demandado por una chef
+--------------------------
+
+![P. Diddy. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-1-1024x683.jpg)
+
+P. Diddy. Foto: Facebook
+
+En mayo de 2017, **Cindy Ruela**, quien fue **chef personal del rapero**, demandó a Combs en el Tribunal Superior del Condado de Los Ángeles por acoso sexual y represalias, y la disputa se resolvió en febrero de 2019 por un monto que no fue revelado, dice el [Excelsior](https://www.excelsior.com.mx/funcion/mas-problemas-para-rapero-diddy-combs/1675628 "https://www.excelsior.com.mx/funcion/mas-problemas-para-rapero-diddy-combs/1675628"). Según las [5\. Una canción sobre el asesinato](http://<blockquote class="twitter-tweet"><p lang="es" dir="ltr">10 Datos Desconocidos sobre Sean Combs "P. Diddy" 💀<br><br>Hilo 📨<br><br>1- Su padre murió en un negocio de drogas que salió mal cuando él aún era un bebé <a href="https://t.co/IfQWJXKEtI">pic.twitter.com/IfQWJXKEtI</a></p>— Rafa Gonzalez (@ElCopyMaster) <a href="https://twitter.com/ElCopyMaster/status/1840088030851269085?ref_src=twsrc%5Etfw">September 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>” title=””>redes sociales</a>, la chef alegó que la obligaba a servirle comidas mientras tenía relaciones con otras personas y se paseaba desnudo frente a ella. </p>
+
+
+
+<h2 class=)
+
+[La **canción**](http://<blockquote class="twitter-tweet"><p lang="es" dir="ltr">10 Datos Desconocidos sobre Sean Combs "P. Diddy" 💀<br><br>Hilo 📨<br><br>1- Su padre murió en un negocio de drogas que salió mal cuando él aún era un bebé <a href="https://t.co/IfQWJXKEtI">pic.twitter.com/IfQWJXKEtI</a></p>— Rafa Gonzalez (@ElCopyMaster) <a href="https://twitter.com/ElCopyMaster/status/1840088030851269085?ref_src=twsrc%5Etfw">September 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>” title=””>redes sociales</a>, la chef alegó que la obligaba a servirle comidas mientras tenía relaciones con otras personas y se paseaba desnudo frente a ella. </p>
+
+
+
+<h2 class=) **[Who Shot Ya](https://youtu.be/U4Md8ZGtUN8?si=380gXwofsgZrc5XZ "https://youtu.be/U4Md8ZGtUN8?si=380gXwofsgZrc5XZ")? de** [**The Notorious B.I.G**.](https://es.wikipedia.org/wiki/The_Notorious_B.I.G. "https://es.wikipedia.org/wiki/The_Notorious_B.I.G."), lanzada tras el **tiroteo de Tupac** en 1994, también alimentó especulaciones sobre la participación de Combs. A pesar de las múltiples teorías, el caso sigue sin resolverse.
+
+6\. El tiroteo con Jennifer Lopez
+---------------------------------
+
+![P. Diddy y JLo cuando eran pareja en los años 2000. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-5-1024x683.jpg)
+
+P. Diddy y JLo cuando eran pareja en los años 2000. Foto: Pinterest
+
+En diciembre de 1999, la relación de **Jennifer Lopez y Sean ‘Diddy’ Combs** se vio envuelta en un escándalo tras un tiroteo en un club nocturno de Nueva York, conocido como el Club de la Ciudad de Nueva York.
+
+La pareja estaba presente en el club cuando estalló un tiroteo, resultando en múltiples disparos y una rápida evacuación del lugar.
+
+Durante el incidente, Diddy y Lopez fueron arrestados por posesión de armas, aunque ambos afirmaron que no estaban involucrados en el altercado. El tiroteo también involucró a un amigo de Diddy, el rapero Shine, quien fue acusado de disparar y posteriormente fue sentenciado a nueve años de prisión.
+
+7\. Tuvo un Doctorado honorario
+-------------------------------
+
+![P. Diddy. Foto: X @ElCopyMaster](https://www.elcomercio.com/wp-content/uploads/2024/10/diddy-El-comercio-2-1024x683.jpg)
+
+P. Diddy. Foto: X @ElCopyMaster
+
+Aunque nunca se graduó, P. Diddy recibió un **doctorado honorario de la Universidad de Howard** en 2014. Sin embargo, la universidad decidió [retirarle el título](https://www.infobae.com/entretenimiento/2024/06/08/la-universidad-de-howard-le-retiro-el-titulo-de-doctorado-honorario-a-sean-diddy-combs-tras-las-denuncias-de-abuso-y-violencia-de-genero/ "https://www.infobae.com/entretenimiento/2024/06/08/la-universidad-de-howard-le-retiro-el-titulo-de-doctorado-honorario-a-sean-diddy-combs-tras-las-denuncias-de-abuso-y-violencia-de-genero/") tras enterarse de los crímenes asociados a él recientemente en 2024.
+
+Padre de Liam Payne está en Buenos Aires para recoger a su hijo
+===============================================================
+
+La repatriación del cuerpo de Liam Payne podría tardar entre 10 y 15 días mientras se realizan las investigaciones pertinentes en Argentina
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![El padre Liam Payne visitó las ofrendas que dejaron las fans.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-2-2.jpg)
+
+El padre de **Liam Payne**, el exintegrante de One Direction que murió este miércoles tras caer desde el tercer piso de un hotel en Buenos Aires, **está en Argentina**. Geoff Payne viajó para gestionar la **repatriación del cuerpo** de su hijo, según confirmaron este viernes a EFE fuentes oficiales.
+
+### Más noticias
+
+* [Cortes de agua en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-sabado-19-de-octubre.html "Cortes de agua en Quito este sábado 19 de octubre")
+* [Cortes de luz en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-quito-sabado-19-de-octubre.html "Cortes de luz en Quito este sábado 19 de octubre")
+* [Liam Payne deja una herencia millonaria a su hijo](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-herencia-millonaria-hijo-bear.html "Liam Payne deja una herencia millonaria a su hijo")
+
+Padre de Liam está en Argentina
+-------------------------------
+
+**Geoff Payne** se reunió con el fiscal que investiga el hecho, **estuvo en la morgue** y pidió visitar la habitación del hotel desde **donde cayó el músico de 31 años**.
+
+Según indicaron las fuentes a EFE, la **repatriación del cuerpo de Payne al Reino Unido** puede tardar entre 10 y 15 días.
+
+El exintegrante de **One Direction** cayó desde el balcón de la habitación en la que se encontraba alojado en el **hotel Casa Sur,** en el barrio de Palermo. El suceso se dio a las 17:07 hora local (GMT 20:07) del miércoles 16 de octubre y falleció en el acto producto de la **gravedad de sus heridas.**
+
+Minutos antes, desde el hotel llamaron a la línea de **emergencias 911** para pedir ayuda por un huésped que se encontraba bajo los efectos de drogas y alcohol. Según el reporte, habría destrozado algunos objetos de la habitación.
+
+Al llegar los servicios de emergencias médicas de **Buenos Aires** y la policía local, Payne ya estaba muerto.
+
+Los resultados de la autopsia
+-----------------------------
+
+El informe preliminar de la **autopsia concluyó que la causa de muerte** fue “politraumatismo y hemorragia interna y externa”.
+
+Los forenses no han observado “lesiones que **permitan suponer la intervención** de terceras personas”.  
+La Fiscalía Nacional en lo Criminal, que investiga **el fallecimiento de Payne**, informó que “todo hace indicar que el músico se encontraba solo cuando ocurrió la caída. Y que atravesaba algún tipo de brote producto del abuso de sustancias.
+
+Además, la Fiscalía agregó que se recogieron **en la habitación del compositor** y guitarrista una serie de sustancias que acreditarían “una situación previa de consumo de alcohol y estupefacientes”.
+
+La Fiscalía presume además que, por la **posición en la que quedó el cuerpo** y las lesiones de la caída, Payne “no adoptó una postura reflejo para protegerse. Y que pudo haberse precipitado en un estado de semi o total [inconsciencia](https://es.wikipedia.org/wiki/Liam_Payne "https://es.wikipedia.org/wiki/Liam_Payne")“.
+
+Más de 100 asambleístas buscarían mantener sus curules en 2025
+==============================================================
+
+El escenario político ecuatoriano ya se prepara para las elecciones generales de febrero de 2025. Varios asambleístas buscarán la reelección.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Asambleístas discuten antes de la votación que no pudo designar al Primer Vicepresidente de la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/10/asamblea-1.jpg)
+
+El **escenario político ecuatoriano** ya se prepara para las elecciones generales de febrero de 2025. De acuerdo con los datos más recientes, más de **100 asambleístas** actuales tienen previsto inscribir sus candidaturas para intentar **permanecer en sus cargos**.
+
+### Más noticias
+
+* [Asamblea posesiona al nuevo Superintendente de Compañías](https://www.elcomercio.com/actualidad/politica/asamblea-posesiona-al-nuevo-superintendente-de-companias.html "Asamblea posesiona al nuevo Superintendente de Compañías")
+* [Pleno de la Asamblea tiene fecha para decidir juicio político contra Mónica Palencia](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-fecha-juicio-politico-monica-palencia.html "Pleno de la Asamblea tiene fecha para decidir juicio político contra Mónica Palencia")
+* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
+
+Estos legisladores, que representan **diversas fuerzas políticas**, buscan asegurar otros cuatro años en la Asamblea Nacional. El **Consejo Nacional Electoral (CNE)** convocará oficialmente a los comicios el próximo 12 de septiembre, y las inscripciones estuvieron abiertas hasta el 2 de octubre.
+
+Impacto en la Asamblea Nacional durante la campaña electoral
+------------------------------------------------------------
+
+La campaña electoral, que se llevará a cabo entre el **5 de enero y el 6 de febrero de 2025**, traerá importantes complicaciones para el **funcionamiento de la Asamblea**. Durante este periodo, la Asamblea será conformada en su **mayoría por suplentes**, ya que muchos de los titulares estarán ocupados con sus campañas.
+
+Esto generará problemas en la dirección de las **comisiones especializadas**, muchas de las cuales perderán temporalmente a sus líderes debido a las candidaturas.
+
+Además, el **Consejo de Administración Legislativa (CAL)** se verá afectado por la ausencia de seis de sus siete miembros. Estos legisladores también buscarán s**u reelección o participarán en otras contiendas**, lo que paralizará las actividades del CAL.
+
+Durante los **33 días de campaña**, este organismo no podrá reunirse ni tomar decisiones cruciales, lo que dejará en pausa importantes **procesos legislativos**.
+
+Principales problemas que podría afrontar la Asamblea
+-----------------------------------------------------
+
+Según el analista político **Pablo Rosales**, la Asamblea Nacional podría enfrentar varios desafíos importantes durante el periodo en que más de **100 legisladores titulares** soliciten licencia para participar en la campaña electoral.
+
+El primer problema sería la falta de continuidad en los trabajos legislativos, ya que los suplentes, aunque **constitucionalmente habilitados**, podrían carecer del mismo **nivel de experiencia y conocimiento** sobre los temas en debate.
+
+> [#TVLNoticias](https://twitter.com/hashtag/TVLNoticias?src=hash&ref_src=twsrc%5Etfw) | Con 102 votos a favor, el Pleno de la Asamblea Nacional aprobó la codificación de la Ley Orgánica de Educación Intercultural [#LOEI](https://twitter.com/hashtag/LOEI?src=hash&ref_src=twsrc%5Etfw), con el propósito de eliminar contradicciones entre normativas y facilitar su comprensión y aplicación por parte de la ciudadanía. [pic.twitter.com/AzDjY2G5Oa](https://t.co/AzDjY2G5Oa)
+> 
+> — TV Legislativa (@TvlEcuador) [October 16, 2024](https://twitter.com/TvlEcuador/status/1846678524574535957?ref_src=twsrc%5Etfw)
+
+Además, Rosales anticipa que los suplentes podrían enfrentar **presiones políticas** y estar más inclinados a actuar en función de **intereses partidistas o personales**, en lugar de mantener una línea institucional. Esto debilitaría la **independencia de la Asamblea** y aumentaría la posibilidad de que ciertos grupos políticos intenten aprovecharse de la situación para avanzar sus agendas de forma más agresiva.
+
+También es probable, según Rosales, que la falta de cohesión en las comisiones permanentes, debido a la salida temporal de sus miembros, cause un estancamiento en la **discusión de importantes** reformas.
+
+Tres puntos claves sobre los cambios en la Asamblea Nacional
+------------------------------------------------------------
+
+El analista político Daniel Crespo destacó tres aspectos clave que podrían influir en el actual escenario político del país, particularmente en la Asamblea Nacional.
+
+En primer lugar, señaló cómo la **salida de un alto número de asambleístas titulares** y la consecuente entrada de sus suplentes podría alterar **significativamente la proporción de fuerzas** dentro del legislativo. “Cuando hablamos de cien asambleístas, hablamos de un porcentaje alto, casi un **4/5 de la Asamblea** que se vería afectada”, puntualizó.
+
+En segundo lugar, Crespo mencionó que el contexto de gobernabilidad que prevalecía en el inicio del **periodo legislativo** ha cambiado notablemente. “El pacto entre ADN, PSC y RC para la distribución de dignidades y comisiones **ya no existe**“, explicó.
+
+> [#TVLNoticias](https://twitter.com/hashtag/TVLNoticias?src=hash&ref_src=twsrc%5Etfw) | Con 102 votos a favor, el Pleno de la Asamblea Nacional aprobó la codificación de la Ley Orgánica de Educación Intercultural [#LOEI](https://twitter.com/hashtag/LOEI?src=hash&ref_src=twsrc%5Etfw), con el propósito de eliminar contradicciones entre normativas y facilitar su comprensión y aplicación por parte de la ciudadanía. [pic.twitter.com/AzDjY2G5Oa](https://t.co/AzDjY2G5Oa)
+> 
+> — TV Legislativa (@TvlEcuador) [October 16, 2024](https://twitter.com/TvlEcuador/status/1846678524574535957?ref_src=twsrc%5Etfw)
+
+Según el analista, el distanciamiento entre e**l Gobierno y la Revolución Ciudadana** es evidente, lo que en su opinión marca una polarización que refleja el **ambiente electoral**.
+
+Finalmente, Crespo subrayó que la titularización de un **suplente no garantiza que este actúe de la misma manera que el asambleísta titular**. Explicó que esto ha ocurrido anteriormente y que “nada descarta que comportamientos distintos se repitan”, especialmente en un contexto donde se han observado **numerosas desafiliaciones**.
+
+Añadió que movimientos como Construye, que ingresó con una de las bancadas más fuertes, ha sido afectado por la salida de algunos de sus miembros, lo que genera una **dinámica compleja en la Asamblea**.
+
+¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?
+=======================================================================
+
+La Selección de Ecuador Femenina Sub-17 tendrá su segundo partido en el Mundial ante Nigeria y va por la clasificación.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Jasmym Valverde, delantera de la Selección de Ecuador Femenina Sub-17 celebra un gol en su debut en el Mundial.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-18T201014.208.jpg)
+
+La **Selección de Ecuador Femenina Sub-17** dejó una grata impresión en su debut en el Mundial de tal categoría. Tras haber iniciado su camino con un triunfo, el equipo que dirige Eduardo Moscoso se medirá ante Nigeria durante el sábado 19 de octubre del 2024 a las 15:00.
+
+El combinado ecuatoriano tendrá un duro reto y puede definir su clasificación hacia la siguiente ronda del campeonato. De cara al choque, la Tri femenina juvenil llega con una victoria de 2-0 ante **República Dominicana** y tres puntos que la ubican como segunda de su grupo.
+
+### Más noticias:
+
+* [Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15](https://www.elcomercio.com/deportes/leonardo-campana-seleccion-ecuador-sub-15.html "Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15")
+* [La Selección de Ecuador aporta al XI ideal de las eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-equipo-ideal-eliminatorias.html "La Selección de Ecuador aporta al XI ideal de las eliminatorias")
+* [Enner Valencia anima a la Selección de Ecuador Sub-15 antes de su final](https://www.elcomercio.com/deportes/seleccion-ecuador-sub-15-final-enner-valencia.html "Enner Valencia anima a la Selección de Ecuador Sub-15 antes de su final")
+
+El cotejo que disputará la escuadra ecuatoriana es fundamental en función del rival al que enfrenta. En su partido de estreno, **Nigeria** también se impuso, sin embargo, la escuadra africana lo hizo por goleada ante **Nueva Zelanda.**
+
+Después de su primer partido, el equipo tricolor tuvo dos días y medio para continuar sus entrenamientos. Tras el choque ante las **nigerianas**, el partido que jugará la Tri -ya clasificada o en busca de un cupo- será el martes 22 de octubre del 2024 contra las **neozelandesas**.
+
+Detalles del partido de la Selección de Ecuador Femenina Sub-17
+---------------------------------------------------------------
+
+**Partido**: Selección de Ecuador Femenina Sub-17 vs. Selección de Nigeria Sub-17
+
+**Fecha**: sábado 19 de octubre del 2024[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+**Hora**: 15:00.
+
+**Sede**: República Dominicana.
+
+El debut ecuatoriano en el Mundial Sub-17
+-----------------------------------------
+
+La Selección de Ecuador Femenina Sub-17 mostró una actitud ofensiva y determinante en su debut ante República Dominicana, lo que logró que se establezca en el campo rival. **Jasmym Valverde** destacó en la delantera y su esfuerzo fue clave para que Ecuador comenzara a tomar el control del juego.
+
+El primer gol llegó a los 14 minutos cuando **Valverde**, tras un rebote de la arquera rival, disparó y encontró el fondo de las redes. A los 29 minutos, Valverde volvió a aparecer y, tras recibir un pase aéreo, marcó el segundo gol para Ecuador.
+
+El cáncer de mama en hombres es una realidad poco conocida 
+===========================================================
+
+El cáncer de mama en hombres es raro, pero su diagnóstico tardío y mortalidad son preocupantes.
+-----------------------------------------------------------------------------------------------
+
+![El cáncer de mama masculino, que representa entre el 0,7% y 1% de los casos, suele diagnosticarse tarde. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cancer-de-mama-hombres.jpg)
+
+El **cáncer de mama en hombres** es **un tema poco conocido**, a pesar de que afecta a una porción significativa de la población masculina. Representa menos del 1% de todos los diagnósticos de cáncer en hombres, lo que contribuye a la **falta de concientización sobre esta enfermedad**.  
+
+### Más noticias
+
+* [Es importancia la detección temprana del cáncer de mama](https://www.elcomercio.com/tendencias/salud/cancer-mama-podcast-prevencion.html "https://www.elcomercio.com/tendencias/salud/cancer-mama-podcast-prevencion.html")
+* [¿Cómo identificar a tiempo el cáncer de mama?](https://www.elcomercio.com/tendencias/salud/como-identificar-tiempo-cancer-mama.html "https://www.elcomercio.com/tendencias/salud/como-identificar-tiempo-cancer-mama.html")
+
+**El cáncer de mama en hombres: poco frecuente** 
+-------------------------------------------------
+
+El **cáncer de mama masculino es raro**, con una incidencia estimada entre el 0,7% y el 1% de todos los cánceres en hombres, de acuerdo con revista [Scielo](http://scielo.sld.cu/scielo.php?pid=S1561-31942005000100008&script=sci_arttext "http://scielo.sld.cu/scielo.php?pid=S1561-31942005000100008&script=sci_arttext"). La mayoría de los casos **se diagnostican entre los 60 y 70 años.** Sin embargo, **el diagnóstico suele ser tardío** debido a la **falta de conocimiento sobre esta enfermedad** en la comunidad médica y entre los propios hombres. 
+
+**Características del cáncer de mama masculino** 
+-------------------------------------------------
+
+El **tipo más común de cáncer de mama en hombres es el carcinoma ductal infiltrante**, que representa aproximadamente el 90% de los casos, a decir de [Scielo](https://www.scielo.org.mx/scielo.php?pid=S1405-00992021000400248&script=sci_arttext "https://www.scielo.org.mx/scielo.php?pid=S1405-00992021000400248&script=sci_arttext").  
+
+Este tipo se desarrolla generalmente como **una masa indolora en la región retroareolar**. Los hombres también pueden **presentar ganglios linfáticos afectados**, lo que complica aún más el diagnóstico, de acuerdo con la [Universidad de Cuenca](https://publicaciones.ucuenca.edu.ec/ojs/index.php/medicina/article/view/3764 "https://publicaciones.ucuenca.edu.ec/ojs/index.php/medicina/article/view/3764"). 
+
+**Factores de riesgo** 
+-----------------------
+
+Los factores que **aumentan el riesgo de desarrollar cáncer de mama en hombres** incluyen: 
+
+* **Historia familiar:** Un **historial positivo** de cáncer de mama en familiares directos duplica el riesgo. 
+
+* **Edad avanzada:** La **media de edad al diagnóstico** es alrededor de 62 años, lo que es cinco a diez años antes que en las mujeres. 
+
+* **Condiciones genéticas:** Mutaciones en genes como **BRCA1 y BRCA2** aumentan significativamente el riesgo. 
+
+* **Exposición a estrógenos:** El uso de **terapia hormonal** o antecedentes de radiación en el mediastino también son factores relevantes. 
+
+**Síntomas y diagnóstico** 
+---------------------------
+
+Los **síntomas iniciales** pueden ser sutiles. Muchos hombres **presentan una masa o engrosamiento en la zona mamaria**, que puede ir acompañada de **cambios en la piel o secreción del pezón**. El diagnóstico se realiza principalmente mediante **mamografías y biopsias**, aunque estas pruebas pueden ser menos sensibles que en mujeres. 
+
+**Estadísticas preocupantes** 
+------------------------------
+
+Un estudio reciente indicó que l**os hombres tienen un índice de supervivencia a cinco años** del 77.6%, comparado con el 86.4% para las mujeres, según el [Instituto Nacional del Cáncer](https://www.cancer.gov/espanol/noticias/temas-y-relatos-blog/2019/hombres-seno-cancer-mas-mortalidad "https://www.cancer.gov/espanol/noticias/temas-y-relatos-blog/2019/hombres-seno-cancer-mas-mortalidad"). 
+
+Esta diferencia se atribuye a **diagnósticos tardíos y tratamiento insuficiente.** Los hombres son **menos propensos a recibir cuidados adecuados** debido a la **falta de concientización sobre esta enfermedad**. 
+
+**Tratamiento** 
+----------------
+
+El **tratamiento del cáncer de mama masculino** sigue protocolos similares a los utilizados para las mujeres. Incluye: 
+
+* **Cirugía:** La **mastectomía radical** es comúnmente necesaria, especialmente si hay **afectación del músculo pectoral**. 
+
+* **Quimioterapia:** Se utiliza dependiendo del **estadio del cáncer**. 
+
+* **Terapia hormonal:** En casos con **receptores hormonales positivos**, se puede administrar **tamoxifeno o terapia endocrina neoadyuvante**. 
+
+**Importancia del tratamiento temprano** 
+-----------------------------------------
+
+La **detección temprana es crucia**l para mejorar las **tasas de supervivencia**. Los estudios demuestran que un **diagnóstico precoz** puede llevar a mejores resultados clínicos y una mayor tasa de supervivencia. 
+
+Cortes de agua en Quito este sábado 19 de octubre
+=================================================
+
+La restitución del servicio de agua potable se hará de forma paulatina a partir del horario señalado en los cortes de agua en Quito
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![En los sectores altos de Quito deben abastecerse de agua ante la suspensión del servicio.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-1-2.jpg)
+
+La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
+
+### Más noticias
+
+* [Cortes de luz en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-quito-sabado-19-de-octubre.html "Cortes de luz en Quito este sábado 19 de octubre")
+* [Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito](https://www.elcomercio.com/actualidad/quito/domingo-20-de-octubre-puedes-deshacerte-de-tus-tereques-en-quito.html "Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito")
+* [Calle Benalcázar se cerrará este fin de semana, en Quito](https://www.elcomercio.com/actualidad/quito/calle-benalcazar-se-cerrara-este-fin-de-semana-en-quito.html "Calle Benalcázar se cerrará este fin de semana, en Quito")
+
+¿A qué se deben los cortes de agua?
+-----------------------------------
+
+La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló este viernes 18 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
+
+La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
+
+Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
+
+Barrios afectados en Quito de 08:00 a 14:00
+-------------------------------------------
+
+* **Parroquia Conocoto:** Montserrat, Valle Hermoso
+* **Parroquia La Ferroviaria:** Mirador de Puengasí, Forestal Alta, San Patricio de Puengasí
+* **Parroquia Puengasí:** Obrero Independiente 2, Bosque IESS, Valle de Puengasí, San Isidro
+
+De 08:00 a 13:00
+----------------
+
+* **Parroquia Conocoto:** San Cristóbal, San José de Conocoto Alto, El Rosario, Ontaneda Alta
+* **Parroquia La Argelia:** Aída León, San Carlos, Zona de Protección de La Argelia, Miravalle 2, San Bartolo Alto, Oriente Quiteño, Cumbres de Santa María
+* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Luis de Miravalle, Ferroviaria Alta, San Patricio de Puengasí, Forestal Alta, La Clemencia
+* **Parroquia Quitumbe:** San Blas II, Tambo El Inca, San Martín de Porres, El Mirador de Guajaló Alto, Zona de Protección Quitumbe, Valles del Sur, Ciudad Futura, Nuevos Horizontes del Sur.
+
+Zonas afectadas en Quito de 08:00 a 13:00
+-----------------------------------------
+
+* **Parroquia Clilibulo:** Yaguachi
+* **Parroquia La Libertad:** Josefina Enríquez, Cima de la Libertad, San José de la Libertad, Santa Lucía Baja, San Diego Alto, Los Ángeles, Santa Lucía Alta, Libertad Baja, La Colmena
+* **Parroquia Rumipamba:** Zona De Protección Rumipamba, Ninguilla
+* **Parroquia Belisario Quevedo:** Pambachupa, La Gasca, Zona de Protección B
+* **Parroquia El Condado:** Caminos a Libertad, Pisullí, Colinas del Norte, Jaime Roldós, San José Obrero, La Paz Cucho Hacienda. Zona de Protección Condado, Pueblo Nuevo, Campiña del Pichincha, San Enrique de Velazco, Mirador de Cotocollao, Santa Rosa de Singuna, El Rosal, Mirador del Noroccidente, Anita Lucía, Mena del Hierro, Jaime Roldós 2da etapa, El Condado, La Comuna, Rancho San Antonio Alto, Rancho Alto José Peralta, 15 de Julio.
+* **Parroquia Comité del Pueblo:** Comité del Pueblo, Cristianía, Puertas del Sol, Collaloma 9 de Julio
+* **Parroquia Kennedy:** Santa Lucía Alta
+* **Parroquia San Isidro del Inca:** El Carmen
+
+La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
+
+Puedes consultar la **programación completa de cortes de agua** en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/")
+
+> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable este 19 de octubre de 2024 👉 [https://t.co/Py4LaIiQ07](https://t.co/Py4LaIiQ07)  
+>   
+> Conoce si tu sector está afectado a través de:  
+>   
+> 📲Mensaje al WhatsApp 096… [pic.twitter.com/OkoufL6JnO](https://t.co/OkoufL6JnO)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 19, 2024](https://twitter.com/aguadequito/status/1847630797785944455?ref_src=twsrc%5Etfw)
+
+Dragonas IDV busca el tercer lugar de la Libertadores ante Boca Juniors
+=======================================================================
+
+Dragonas IDV buscará el tercer lugar de la Copa Libertadores femenina 2024. Las ecuatorianas juegan ante Boca Juniors.
+----------------------------------------------------------------------------------------------------------------------
+
+![Nayely Bolaños, goleadora del Dragonas IDV que jugará contra Boca Juniors por el tercer lugar de la Copa Libertadores femenina.](https://www.elcomercio.com/wp-content/uploads/2024/10/IDV.jpg)
+
+Las **Dragonas Independiente del Valle** se preparan para un emocionante enfrentamiento contra Boca Juniors este sábado 19 de octubre del 2024.
+
+Este partido representa una oportunidad histórica para el equipo **ecuatoriano** en la **Copa Libertadores** Femenina 2024, que se celebra en **Asunción**, Paraguay.
+
+El partido entre **Boca Juniors** e **IDV Dragona**s se jugará desde las 13:45 en la cancha de fútbol de la **Conmebol**.
+
+### Más noticias:
+
+* [Dragonas IDV debuta con un valioso empate en la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-idv-debuta-valioso-empate-libertadores-femenina.html "Dragonas IDV debuta con un valioso empate en la Libertadores Femenina")
+* [Dragonas disputarán el tercer lugar de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-final-copa-libertadores.html "Dragonas disputarán el tercer lugar de la Libertadores Femenina")
+* [Justin Lerma y Juan Angulo, las figuras del sub-15](https://www.elcomercio.com/deportes/futbol/justin-lerma-juan-angulo-sudamericano.html "Justin Lerma y Juan Angulo, las figuras del sub-15")
+
+Las **Dragonas** llegaron a esta instancia tras un intenso camino en el torneo, aunque recientemente se quedaron a un paso de la final al perder ante **Independiente Santa Fe** de **Colombia** en una emocionante tanda de penales en la Copa Libertadores.
+
+Después de empatar 1-1 en el tiempo reglamentario, las ecuatorianas no lograron convertir en los penales, fallando dos lanzamientos, mientras que sus rivales fueron impecables.
+
+Dragonas IDV se quedaron cerca
+------------------------------
+
+El encuentro del miércoles 16 de octubre comenzó con optimismo para las **Dragonas**, quienes se adelantaron rápidamente en el marcador gracias a un gol de la mediocampista argentina Claudia Elena Roldán.
+
+Sin embargo, **Santa Fe** logró igualar con un tanto de **María Camilla Reyes**, lo que llevó el partido a una definición desde el punto penal.
+
+A pesar de la decepción de no alcanzar la final contra **Corinthians**, el partido contra **Boca Juniors** representa una oportunidad para demostrar su calidad y competitividad en el escenario internacional.
+
+Las Dragonas, campeonas de la **Superliga Femenina**, llegan con la confianza de haber superado a Barcelona SC en la final nacional, y quieren dejar su huella en la Copa Libertadores.
+
+Con una sólida plantilla que incluye a goleadoras como **Nayely Bolaños**, el equipo busca aprovechar la ocasión para hacer historia y demostrar que el fútbol femenino ecuatoriano está en ascenso. La afición espera con ansias este duelo clave, que sin duda será un espectáculo digno de recordar.
+
 Cortes de luz en Quito este sábado 19 de octubre
 ================================================
 
-Los cortes de luz de este sábado se mantienen en 10 horas, divididos en dos franjas horarias. A partir del lunes, bajarán a 8 horas
------------------------------------------------------------------------------------------------------------------------------------
+Los cortes de luz de este sábado 19 se mantienen en 10 horas en Quito, divididos en dos franjas horarias. A partir del lunes, bajarán a 8 horas
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Los cortes de luz en Quito se aplican durante 10 horas este sábado 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-23.jpg)
 
@@ -62,8 +969,10 @@ Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarme
 
 Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
 
-Horarios de cortes de luz en Quito
-----------------------------------
+Horarios de cortes de luz en Quito este sábado
+----------------------------------------------
+
+Estas son las franjas horarias programadas y los sectores afectados en la capital:
 
 De 00:00 a 03:00 y de 14:00 a 20:00
 -----------------------------------
@@ -151,7 +1060,7 @@ En Quito, el aumento de adultos mayores supera al de niños: ¿Desafío u oportu
 La baja natalidad y el aumento de la esperanza de vida plantean desafíos para el sistema de pensiones y sanitario.
 ------------------------------------------------------------------------------------------------------------------
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo_20241019_024809_0000.jpg)
+![La esperanza de vida subió a 82 años en Pichincha, es la más alta del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo_20241019_024809_0000.jpg)
 
 Las risas, los juegos y el llanto de los niños se escuchan cada vez menos en los hogares de Pichincha y, principalmente, de su capital: Quito. En las últimas décadas, más hombres y mujeres han pospuesto la posibilidad de ser padres o simplemente cerraron la puerta a esa opción.
 
@@ -234,910 +1143,3 @@ De acuerdo con el censo de población del 2022, la población de 65 años en ade
 Los principales desafíos, añade- es que no hay ni un discurso que incluya la vejez, ni un entorno seguro ni un modelo de promoción de la salud para los adultos mayores. Hoy se promueve el empleo juvenil, pero ¿por qué dejar de lado la experiencia de los de 50 años en adelante y así mejorar su jubilación? ¿por qué no promover que la ciudad sea amigable con los ancianos, como lo ha hecho Uruguay?
 
 Campoverde plantea la necesidad de ver a la vejez como una oportunidad para mejorar el sistema de salud; para pensar en las necesidades de consumo de esta población creciente; de plantear soluciones para reducir los años de discapacidad al mínimo, con fin de que sean cada vez más funcionales.
-
-El Día Internacional del Cáncer de Mama es una fecha de suma importancia 
-=========================================================================
-
-El cáncer de mama representa una de las principales causas de mortalidad en mujeres en Ecuador.
------------------------------------------------------------------------------------------------
-
-![Desde 1991, el lazo rosa simboliza el "mes rosa" de concienciación sobre el cáncer de mama. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-Cancer-de-Mama-1.jpg)
-
-El 19 de octubre se conmemora el **Día Internacional del Cáncer de Mama.** Esta fecha es significativa porque el **cáncer de mama** es una de las enfermedades más frecuentes, especialmente entre mujeres.
-
-### Más noticias
-
-* [¿Cómo identificar a tiempo el cáncer de mama?](https://www.elcomercio.com/tendencias/salud/como-identificar-tiempo-cancer-mama.html "https://www.elcomercio.com/tendencias/salud/como-identificar-tiempo-cancer-mama.html")
-* [Es importancia la detección temprana del cáncer de mama](https://www.elcomercio.com/tendencias/salud/cancer-mama-podcast-prevencion.html "https://www.elcomercio.com/tendencias/salud/cancer-mama-podcast-prevencion.html")
-
-Cada año, en este día, **mujeres y organizaciones usan un lazo rosa** para recordar todo lo relacionado con esta enfermedad. 
-
-**Origen del Día Internacional del Cáncer de Mama** 
-----------------------------------------------------
-
-La efeméride, a decir del [Gobierno de Paraguay](https://correoparaguayo.gov.py/sitio/dia-internacional-del-cancer-de-mama-origen-significado-y-por-que-se-celebra-el-19-de-octubre/ "https://correoparaguayo.gov.py/sitio/dia-internacional-del-cancer-de-mama-origen-significado-y-por-que-se-celebra-el-19-de-octubre/"), fue establecida por la **Organización Mundial de la Salud** (OMS), que también designó **octubre como el mes de concienciación sobre el cáncer de mama**, conocido como el “mes rosa”. Desde 1991, el **lazo rosa** se ha convertido en un símbolo de esta jornada, ya que subraya la **importancia de la educación sobre esta enfermedad**. 
-
-**Mortalidad en Ecuador** 
---------------------------
-
-En Ecuador, el cáncer de mama es una de las **principales causas de mortalidad en mujeres**. Se reportaron **más de 900 casos en 2021** y aproximadamente **3 600 diagnósticos relacionados en 2024**, según SIME Sistemas Médicos.  
-
-El oncólogo **Rodrigo Castro** enfatiza la **importancia de la detección temprana**. Esta puede **mejorar el pronóstico y la tasa de supervivencia**, además de **reducir costos en tratamientos**.  
-
-**Factores de riesgo como la edad, antecedentes familiares y mutaciones genéticas** son críticos para comprender la incidencia de esta enfermedad. El 80% de los diagnósticos ocurren en mujeres mayores de 50 años, siguiendo con SIME.  
-
-**Clasificación y síntomas** 
------------------------------
-
-El **cáncer de mama** se clasifica en **varios tipos**: Luminal A, Luminal B, y HER2 positivo y negativo.  
-
-**Es crucial identificar el subtipo** para determinar el **tratamiento más adecuado** y aumentar las posibilidades de supervivencia.  
-
-Los **síntomas que deben alertar a las mujeres** incluyen bultos o cambios en el seno, y secreciones del pezón. Castro recalca que, aunque el cáncer de mama afecta principalmente a mujeres, **los hombres también pueden desarrollarlo**. Esto refuerza la necesidad de que **ambos géneros estén atentos a cualquier cambio en su cuerpo**. 
-
-**Mejoras en la investigación del cáncer de mama** 
----------------------------------------------------
-
-**Santiago Guerrero**, investigador principal del **Laboratorio de Ciencia de Datos Biomédicos** de la UIDE, señala una grave deficiencia en las investigaciones sobre cáncer de mama: la **falta de representación étnica en los estudios genómicos y ensayos clínicos**. La mayoría de los **datos genéticos** provienen de personas de **ascendencia europea**, lo que deja a comunidades marginadas sin acceso a los beneficios de estos avances. 
-
-**Impacto del origen étnico** 
-------------------------------
-
-Guerrero destaca que **el origen étnico influye en el desarrollo del cáncer**. Estudios muestran que las **mujeres hispanas y africanas** con cáncer de mama tienen **un mayor riesgo de mortalidad en comparación con sus contrapartes europeas**. También se ha observado que **los asiáticos responden mejor a ciertos tratamientos de cáncer de pulmón**.  
-
-Esto sugiere que **las diferencias genéticas y socioeconómicas juegan un papel crucial en estos resultados**. Estas disparidades resaltan la necesidad de comprender **cómo las variaciones genéticas** específicas afectan la respuesta al tratamiento. 
-
-Guerrero enfatiza la **urgencia de incorporar la diversidad étnica en la investigación oncológica**. Aboga por un enfoque que considere las bases genéticas del cáncer en estas poblaciones. Para avanzar en la oncología de precisión y **combatir la discriminación científica**, este tema debe ser prioritario en la agenda política del país. 
-
-**Cómo se puede prevenir el cáncer de mama** 
----------------------------------------------
-
-* **Realizar autoexámenes mamarios:** Conocer la forma y el tamaño normal de los senos ayuda a detectar cambios inusuales. 
-
-* **Realizar mamografías regularmente:** Programar exámenes mamográficos según las recomendaciones médicas permite detectar el cáncer en etapas tempranas. 
-
-* **Mantener un peso saludable:** Llevar una dieta balanceada y hacer ejercicio contribuye a prevenir la obesidad, un factor de riesgo. 
-
-* **Hacer ejercicio regularmente:** Realizar al menos 150 minutos de actividad física moderada cada semana reduce el riesgo de cáncer de mama. 
-
-* **Limitar el consumo de alcohol:** Restringir el consumo a no más de una bebida al día puede disminuir el riesgo. 
-
-* **No fumar:** Evitar el tabaco es fundamental para reducir el riesgo de cáncer de mama y mejorar la salud general. 
-
-* **Conocer el historial familiar:** Estar al tanto de antecedentes familiares ayuda a tomar decisiones informadas sobre monitoreo y pruebas. 
-
-La inteligencia artificial ganó dos premios Nobel en el 2024
-============================================================
-
-La importancia de que el país invierta en ciencia y tecnologías avanzadas para participar en los grandes descubrimientos futuros.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-El 2024 será recordado como el año en que la **inteligencia artificial** (IA) rompió barreras y se llevó dos de los **premios** más prestigiosos del mundo: el **Premio Nobel de Física y el Premio Nobel de Química.** Este acontecimiento ha marcado un hito muy importante en la historia de la **ciencia** y la **tecnología**, demostrando que los avances en IA no solo están transformando la manera en que interactuamos con el mundo, sino que también están revolucionando áreas fundamentales de la **investigación científica.**
-
-El [**Premio Nobel de Física 2024**](https://www.nobelprize.org/prizes/physics/2024/popular-information/) fue otorgado a John Hopfield y Geoffrey Hinton, pioneros en el desarrollo de **redes neuronales artificiales**. Una red **neuronal artificial** es un modelo computacional inspirado en la estructura del **cerebro humano**, compuesto por nodos interconectados que procesan información y aprenden a reconocer **patrones**. Este procesamiento lo hacen mediante el ajuste de sus **conexiones sinápticas** a partir de ejemplos. **Hopfield**, profesor de la Universidad de Princeton, introdujo en los años 80 un **modelo matemático**, llamado **red de Hopfield**, inspirado en la **física** estadística que permitió que las redes neuronales almacenen y reconozcan patrones, un concepto conocido como memoria asociativa​. **Hinton**, por su parte, profesor en la **Universidad de Toronto**, expandió el trabajo de Hopfield al desarrollar la **máquina de Boltzmann**, una red neuronal que se entrena mediante ejemplos en lugar de seguir **instrucciones precisas**, revolucionando así el campo del **aprendizaje automático** o _machine learning_. Su trabajo ha sido crucial para el avance del _deep learning_, tecnología que subyace a los actuales modelos de IA.
-
-Gracias al **trabajo pionero** de John Hopfield y Geoffrey Hinton, hoy contamos con **modelos avanzados** de IA que transforman múltiples industrias. Los modelos generativos como GPT, que usan redes neuronales y son utilizados en asistentes de texto como **ChatGPT**, son capaces de generar respuestas coherentes y creativas, [imitando la escritura humana y su capacidad de razonamiento](https://www.elcomercio.com/opinion/inteligencia-artificial-puede-razonar-marco-benalcazar-columnista.html). En la **generación de imágenes**, **herramientas** como **DALL·E** crean imágenes realistas a partir de **descripciones** en lenguaje natural, mientras que modelos como **Runway** permiten la creación y edición de videos con inteligencia artificial. Además, en el campo de la música, **plataformas** como **Suno** y **Udio** generan **composiciones musicales** originales en una variedad de estilos, expandiendo las posibilidades creativas en la industria del **entretenimiento**. En el **comercio digital**, **plataformas** como **Amazon** y **Netflix** utilizan redes neuronales para personalizar recomendaciones de **productos y contenidos**, mejorando así la **experiencia** del usuario y optimizando el negocio. En el campo del transporte, sistemas de **conducción autónoma** como los de **Tesla** dependen de estas redes para procesar en tiempo real las **imágenes** y **datos** de los sensores que guían los vehículos sin **intervención humana**.
-
-Por otro lado, el [**Premio Nobel de Química 2024**](https://www.nobelprize.org/prizes/chemistry/2024/popular-information/) fue compartido entre Demis Hassabis, John Jumper y David Baker. **Hassabis** y **Jumper**, de Google DeepMind, fueron reconocidos por su trabajo en **AlphaFold**, un algoritmo de IA que puede predecir la **estructura tridimensional** de casi cualquier proteína conocida, resolviendo un problema que había captado la atención de los científicos durante décadas​. Este avance ha permitido comprender mejor las **funciones** de las **proteínas**, lo cual tiene implicaciones directas en áreas como el **diseño de medicamentos y la biotecnología**. Por su parte, David **Baker**, de la Universidad de Washington, fue galardonado por su **innovador trabajo** en el **diseño de proteínas**, creando nuevas moléculas con **funciones específicas** que no existen en la naturaleza​. Su contribución clave fue el desarrollo del software **Rosetta**, un algoritmo que, usando IA, permite predecir y diseñar la **estructura tridimensional de proteínas** a partir de **secuencias de aminoácidos**. Este trabajo ha permitido diseñar proteínas completamente nuevas que cumplen **funciones específicas,** como enzimas para descomponer contaminantes o **proteínas terapéuticas.**
-
-Estos dos logros destacan cómo la IA está transformando disciplinas que tradicionalmente dependían del **trabajo manual** y de **experimentación lenta y costosa**. Además, estos logros también destacan la capacidad de esta **tecnología** para cruzar fronteras entre **disciplinas**. En ambos casos, los laureados han demostrado que la IA puede desentrañar los misterios más complejos del mundo natural, desde cómo funciona el **cerebro humano** hasta cómo las proteínas adquieren su forma o cómo diseñar **nuevas proteínas**. La convergencia de la Física, la Química y la IA es un testimonio de que estamos apenas en el inicio de lo que esta **tecnología** puede lograr.
-
-[En Ecuador, es fundamental que prestemos más atención a la IA](https://www.elcomercio.com/opinion/ecuador-zona-descenso-liga-junior-inteligencia-artificial-marco-benalcazar-columnista.html). Si bien estos **Premios Nobel** marcan un comienzo espectacular, lo que hemos visto hasta ahora es solo la punta del iceberg. La IA ya está transformando **sectores** clave, y su impacto no hará más que crecer. Por lo tanto, es hora de que, como país, [nos enfoquemos e invirtamos en el desarrollo de ciencia y **tecnologías avanzadas**](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html), para que también podamos formar parte de los próximos **grandes descubrimientos científicos**. No en vano, la IA es considerada como la catalizadora de la **cuarta revolución industrial**.
-
-La relevancia de comprender la inteligencia artificial en Ecuador
-=================================================================
-
-El WebCongress Ecuador 2024 ofrece una oportunidad única para que las empresas comprendan el impacto de la inteligencia artificial en sus sectores.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: Web congress sobre inteligencia artificial.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-4.jpg)
-
-La inteligencia artificial (IA) se ha convertido en un elemento esencial en la transformación digital de las sociedades contemporáneas. En Ecuador, la realización del **WebCongress 2024**, programado para el **22 y 23 de octubre en Quito**, representa una oportunidad crucial para que empresas locales y profesionales comprendan cómo la IA puede influir en sus operaciones y en el desarrollo del país. Este evento reunirá a expertos internacionales y marcas líderes que compartirán sus conocimientos sobre el uso de la inteligencia artificial en diversas industrias.
-
-> En un contexto de transformación y crisis, es fundamental entender cómo la IA puede ser una herramienta poderosa para enfrentar desafíos y fomentar el crecimiento.
-
-La **IA no solo se trata de tecnología avanzada**; es una herramienta que puede mejorar la eficiencia operativa, optimizar procesos y ofrecer soluciones innovadoras a problemas complejos. En un país como Ecuador, donde las empresas enfrentan retos significativos como la escasez de recursos y la necesidad de modernización, entender cómo implementar IA puede marcar una diferencia crucial.
-
-En tiempos de crisis, como los que ha enfrentado Ecuador debido a desastres naturales o crisis económicas, la IA puede desempeñar un papel fundamental. Por ejemplo, durante la pandemia de COVID-19, muchas empresas recurrieron a tecnologías basadas en IA para optimizar su logística y mejorar su atención al cliente. Herramientas como chatbots y análisis predictivos permitieron a las organizaciones adaptarse rápidamente a las nuevas demandas del mercado.
-
-A escala internacional, hemos visto cómo países como Estados Unidos han utilizado IA para gestionar crisis. Durante desastres naturales, sistemas de análisis predictivo han ayudado a anticipar necesidades logísticas y coordinar respuestas más efectivas. La experiencia de estos países puede servir como modelo para Ecuador, especialmente en términos de preparación ante emergencias.
-
-Para que Ecuador aproveche al máximo las oportunidades que ofrece la inteligencia artificial, es esencial invertir en capacitación continua. Las **instituciones educativas** deben actualizar sus currículos para incluir formación en habilidades digitales y analíticas. Además, las empresas deben fomentar una cultura organizacional que valore el aprendizaje continuo y la innovación.
-
-El éxito en la implementación de tecnologías avanzadas también depende de una colaboración efectiva entre el sector público y privado. El Estado ecuatoriano debe crear políticas que fomenten la investigación y desarrollo en IA, mientras que las empresas deben estar dispuestas a invertir en nuevas tecnologías.
-
-A medida que nos adentramos en una era cada vez más digitalizada, es crucial que Ecuador esté preparado para los cambios que trae consigo la inteligencia artificial. Se debe mejorar **el acceso a internet y tecnologías digitales** para permitir que más empresas adopten IA. Asimismo, se debe apoyar a _‘startups_‘ tecnológicas que se centren en soluciones basadas en IA y que puede impulsar la innovación local.
-
-Y, finalmente, asegurar que todos los sectores de la sociedad tengan acceso a los beneficios de la IA. Esto es esencial para evitar desigualdades.
-
-Cartas a Quito / 19 de octubre de 2024
-======================================
-
-La ordenanza verde azul y el Valle de Uravía (2)  A raíz de la aprobación de la ordenanza “verde-azul”, el 4 de julio del 2023, el valle de Uravía, ubicado en la parroquia de Checa, cuenta con un cuerpo legal que le protege en su integralidad, ya que dicha ordenanza regula las competencias para el \[…\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-La ordenanza verde azul y el Valle de Uravía (2) 
--------------------------------------------------
-
-A raíz de la aprobación de la ordenanza “verde-azul”, el 4 de julio del 2023, el valle de Uravía, ubicado en la parroquia de Checa, cuenta con un cuerpo legal que le protege en su integralidad, ya que dicha ordenanza regula las competencias para el cuidado de los ríos y quebradas de las cuencas hídricas que se encuentran en el Distrito Metropolitano de Quito (DMQ). 
-
-Esta ordenanza netamente ambientalista nació de la sentencia no. 2167-21-EP/22, dictada por la Corte Constitucional, en defensa de los derechos del río Monjas, puesto que, como reparación integral, dispuso al municipio capitalino que expida una ordenanza “verde-azul”, a fin de proteger y cubrir las necesidades de todas las microcuencas hidrográficas del DMQ, entre las cuales se encuentra incluida la del valle de Uravía. 
-
-Habiendo transcurrido más de un año de la aprobación de la ordenanza “verde-azul”, hasta el día de hoy no se la puede poner en práctica en su totalidad, porque ninguna de las nueve disposiciones transitorias que se dictaron, ha sido cumplida a cabalidad, dentro de los términos previstos en la ordenanza. 
-
-De todas formas, por cuanto los derechos y garantías establecidos en la Constitución y en los instrumentos internacionales de derechos humanos son de directa e inmediata aplicación, las infracciones graves que se encuentran “tipificadas” en la ordenanza “verde-azul” están en pleno vigor y, por tanto, se deben respetar por todas y todos – incluida la EPMAPS -, en especial, las siguientes prohibiciones: 
-
-– Realizar depósitos de escombros, en quebradas, taludes, riberas de ríos y sus áreas de protección.
-
-– Realizar depósitos o vertidos de sustancias químicas; todo tipo de residuos; desechos peligrosos o especiales, en quebradas, taludes, riberas de ríos, y sus áreas de protección 
-
-– Construir nuevas edificaciones sin separar las aguas residuales de las aguas pluviales, de acuerdo a la normativa metropolitana vigente 
-
-Adicional a eso, el art. 80 de la Ley Orgánica de Recursos Hídricos, Usos y Aprovechamiento del Agua, prohíbe el vertido directo o indirecto de aguas o productos residuales, aguas servidas, sin tratamiento y lixiviados susceptibles de contaminar las aguas del dominio hídrico público, que es precisamente, lo que está haciendo la EPMAPS en el río Uravía. 
-
-Pese a que la ordenanza “verde-azul” se encuentra en vigencia, la Empresa Pública Metropolitana de Agua Potable y Saneamiento (EPMAPS) – en vez de respetar la normativa ambiental -, es la primera entidad en violar dicha ordenanza, ya que continúa realizando los estudios para la construcción de una planta de tratamiento de aguas residuales (PTAR) sobre el río y la quebrada del valle de Uravía, parroquia de Checa. 
-
-Al actuar de esta forma, la EPMAPS está violando flagrantemente los derechos de la naturaleza y la Pachamama, la sentencia vinculante no. 2167-21-EP/22 de la Corte Constitucional y la ordenanza “verde-azul” en su totalidad, acción que debe ser sancionada drásticamente – incluso con la destitución de sus máximas autoridades -, conforme ordenan los arts. 71, 72, 73 y demás normas pertinentes, de la Constitución del 2008. 
-
-Alfonso López J. 
-
-Lasaña de berenjenas, deliciosa alternativa saludable
-=====================================================
-
-Fácil de preparar, perfecta para quienes buscan algo sabroso sin complicarse demasiado. ¡Comparte esta receta con tus amigos!
------------------------------------------------------------------------------------------------------------------------------
-
-![Si eres amante de la lasaña, ¡esta versión con berenjena te sorprenderá!](https://www.elcomercio.com/wp-content/uploads/2024/10/image-16.png)
-
-La **lasaña de berenjenas** es una **deliciosa** y **saludable** **alternativa** a la clásica **lasaña**, ideal para quienes buscan reducir el **consumo** de **carbohidratos** o simplemente disfrutar de una versión más ligera. En esta **receta**, las capas de berenjena asada sustituyen a la **pasta**, creando una **combinación perfecta** con el sabor del queso, la salsa de tomate y otros **ingredientes** frescos. Es una **opción nutritiva** y llena de sabor, perfecta para compartir en una **comida familiar** o como plato principal en una **cena** especial.
-
-**Ingredientes:**
-
-*  2 o 3 berenjenas grandes
-*  1 cebolla mediana
-*  2 dientes de ajo
-*  1 lata de tomate triturado de 800 gramos
-*  300 gramos de queso mozzarella
-*  300 gramos de queso ricotta
-*  Queso parmesano al gusto
-*  Sal
-*  Pimienta
-*  Orégano
-*  Aceite de oliva
-*  Lonchas de jamón (opcional para quienes no son vegetarianos)
-*  Hierbas italianas
-
-* * *
-
-> Lasaña de berenjenas, perfecta para quienes buscan una comida ligera, llena de sabor.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-1-3-1024x683.png)
-
-¿Sabías que la berenjena puede ser la estrella de tu próxima lasaña?
-
-Preparación
------------
-
-* **Lavar** las berenjenas y cortar en rodajas finas a lo largo, de aproximadamente 0.5 cm de grosor. **Colocar** en un colador, espolvorear con sal y dejar reposar unos 20-30 minutos para que suelten el exceso de agua. Luego, secar con papel de cocina.
-* **Precalentar** el horno a 200 °C (400 °F). Untar ligeramente las rodajas de berenjena con aceite de oliva y colocar en una bandeja para **hornear**. Asar las **berenjenas** durante 15-20 minutos, voltear a la mitad del tiempo, hasta que estén doradas y tiernas. Retirar y reservar.
-* **Añadir** en una **sartén** dos cucharadas de aceite de oliva, lleva a fuego medio, incorpora la **cebolla** y cocinar hasta que esté ligeramente transparente, luego añade los ajos y deja cocinar por 3 minutos.
-* **Incorporar el tomate triturado**, remover bien y añadir sal, pimienta y orégano al gusto. Si cuentas con otras hierbas como albahaca o perejil se recomienda añadir un poco para darle mayor gusto a la salsa. Cocinar a fuego medio bajo, r**emoviendo de forma frecuente hasta que la salsa haya espesado** y adquirido un color rojo intenso. Corregir la sal pimienta hasta que esté a tu gusto y retirar del fuego cuando esté lista.
-* Para **montar la lasaña**, en una fuente para horno, **colocar** una capa de salsa de tomate en el fondo. Luego, **colocar** una capa de rodajas de **berenjena** asada. Añadir una capa de ricotta o requesón, y un poco de mozzarella rallada, si no eres vegetariano coloca las lonchas de jamón. Repetir las capas (salsa, berenjena, ricotta, mozzarella) hasta que termines con todos los ingredientes. **Terminar** con una capa de salsa y **espolvorear** el queso parmesano por encima.
-* **Precalentar** el horno a 180 °C (350 °F) y **hornear** la lasaña de berenjenas durante 25-30 minutos, hasta que el queso esté dorado y burbujeante.
-* Dejar **reposar** la lasaña durante 10 minutos antes de **cortar** para que se asiente. Servir caliente y si puedes acompañar con **pan de ajo**.
-
-¡Buen provecho!
-
-La corrupción vuelve al debate
-==============================
-
-Lo rescatable de nuestro país fue librarnos de la izquierda populista que tiene afanes imperiales y vocación de eternidad.
---------------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-La **decisión** del **gobierno de Estados Unidos** de negar visas de entrada al expresidente Rafael Correa y al exvicepresidente Jorge Glas, por participar en **actos de corrupción**, ha puesto de nuevo en el debate el tema de la **corrupción**. La decisión constituye una fuerte **sanción moral**.
-
-La medida es resultado de una **investigación** cuidadosa de las autoridades con la participación de varios **organismos** y puede tener importantes consecuencias a **nivel nacional e internacional.** Ratifica la solidez de las **sentencias judiciales ecuatorianas** y cuestiona al **gobierno de México** convertido en refugio de acusados de **corrupción**; también puede provocar cambios en la posición del gobierno de **Bélgica** y de Interpol respecto del expresidente.
-
-Las razones que llevaron al **incremento** de la **corrupción** en la década de la **revolución ciudadana** hay que tenerlas presentes para evitar su repetición. El **control legislativo**, la manipulación del poder judicial, la **designación** de **corruptos** en los **órganos de control** y la embestida contra la prensa libre, fueron los instrumentos. El **talante autoritario** del gobierno alentó la **corrupción** y favoreció la **impunidad**.
-
-A los **ciudadanos**, por desgracia, ya nada les escandaliza, ni los millones robados, ni los saqueadores en altas esferas del poder, ni los **condenados** que dan **lecciones** de **moral**. La convicción de que todos los **políticos** roban diluye la **indignación** y la **censura** **social**.
-
-No solo los **políticos** son **corruptos**, también los abogados que medran en su entorno y gestionan **entramados** de **sociedades** para esconder el botín; también **empresas privadas** que aparecen, estafan y desaparecen; los **sindicatos** que se dan vida de potentados y los  **gremios** que no rinden cuentas a nadie.
-
-Lo rescatable de **nuestro país** fue librarnos de la **izquierda populista** que tiene afanes imperiales y vocación de **eternidad**. Los que quisieran librarse de la peste **populista** en México, Brasil, Colombia, Honduras, indagaban cuál fue el hechizo con que conseguimos ahuyentar a los **corruptos**.
-
-Computación cuántica, un nuevo horizonte de poder exponencial
-=============================================================
-
-A medida que la computación cuántica evoluciona, nos encontramos en el umbral de una nueva era tecnológica.
------------------------------------------------------------------------------------------------------------
-
-![Ernesto Kruger, columnista de EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Ernesto-Kruger.jpg)
-
-La **tecnología** ha avanzado de manera **vertiginosa** en las últimas **décadas**, revolucionando la manera en que vivimos, trabajamos y nos conectamos. Sin embargo, mientras que los **ordenadores clásicos** continúan mejorando y empujando los **límites de la computación tradicional**, existe una nueva frontera que promete transformar por completo nuestra **concepción** de lo posible: la **computación cuántica.**
-
-Este **campo emergente** ha capturado la atención de los **tecnólogos**, **científicos** y **empresarios**, no solo por su potencial, sino porque sus **aplicaciones** podrían tener un **impacto** trascendental en **áreas** tan diversas como la **salud**, la **inteligencia artificial,** la **seguridad** y la **ciencia de materiales**. En este artículo, explicaremos qué es la **computación cuántica**, cómo funciona de manera básica y qué se necesita para acceder a su poder.
-
-¿Qué es la Computación Cuántica?
---------------------------------
-
-En términos simples, la **computación cuántica** es una forma avanzada de **procesar información**. Para entenderla, primero es necesario compararla con los **ordenadores tradicionales**, que funcionan basándose en bits. Estos bits, como quizás sepas, son **unidades de información** que pueden tener solo dos valores: 0 o 1. Toda la información que los **computadores clásicos** manejan, desde la más básica hasta la más compleja, está **codificada** en **combinaciones** de estos dos valores.
-
-Por otro lado, la **computación cuántica** utiliza \*qubits, una evolución de los bits. La gran **diferencia** está en que, gracias a las **leyes de la mecánica cuántica** (la ciencia que describe el **comportamiento** de las partículas subatómicas), un qubit puede existir simultáneamente en ambos estados, 0 y 1, un fenómeno conocido como \*\***superposición**. Además, los qubits pueden estar entrelazados, lo que permite a varios qubits **compartir información** instantáneamente a través de un **fenómeno** llamado \*_entrelazamiento cuántico_.
-
-Para entenderlo simple, si tiras al aire una moneda, solo puede caer de dos maneras: cara o cruz. Esto es como un bit en los **ordenadores clásicos**, que solo puede ser 0 o 1 (como cara o cruz).
-
-Ahora, imagina que en lugar de tirarla al aire y que caiga en uno de los dos lados, puedes hacer que la moneda esté girando sin parar. Mientras está girando, no está **ni en cara ni en cruz**, ¡puede estar en ambos a la vez! Eso es más o menos lo que pasa con un qubit. En lugar de ser solo 0 o 1 como un bit normal, un qubit puede ser 0, 1, o ambos al mismo tiempo. A esto se le llama **superposición**.
-
-Otro ejemplo, piensa en un **laberinto**. Si fueras un **ordenador clásico** (que usa bits), tendrías que explorar cada camino del **laberinto** uno por uno, decidiendo si vas por el camino de la izquierda (0) o por el de la derecha (1). Esto te llevaría mucho tiempo.
-
-Pero si fueras un **ordenador cuántico** con qubits, podrías explorar todos los **caminos** al mismo tiempo gracias a la **superposición**. Esto significa que podrías encontrar la **salida** del **laberinto** mucho más rápido, ya que estás probando muchas opciones simultáneamente.
-
-Estas **propiedades** permiten que los **ordenadores cuánticos** procesen una **enorme cantidad** de **información simultáneamente**, abriendo la puerta a resolver **problemas** que los **ordenadores convencionales** tardarían millones de años en resolver.
-
-¿Qué aplicaciones tiene la computación cuántica hoy?
-----------------------------------------------------
-
-Aunque la **computación cuántica** aún está en fases de desarrollo, algunas **empresas** y **centros de investigación** están logrando **avances significativos**, ya que los **ordenadores cuánticos** tienen un poder disruptivo en varias industrias:
-
-1. **Ciencia de materiales**: La simulación de moléculas complejas es increíblemente difícil para los ordenadores clásicos debido a las **interacciones** cuánticas en los átomos. Sin embargo, los **ordenadores cuánticos** pueden simular estas **interacciones** con precisión, lo que permitiría diseñar nuevos materiales revolucionarios en sectores como la energía, la electrónica o la medicina.
-2. **Seguridad y criptografía**: Aunque la **computación cuántica** puede potencialmente descifrar algunos de los **métodos** de **encriptación** actuales, también está llevando al **desarrollo** de **criptografía** cuántica, que promete comunicaciones absolutamente seguras, invulnerables a la **piratería clásica**.
-3. **Optimización y logística**: Resolver problemas de optimización es una tarea computacionalmente exigente, ya que implica revisar miles o millones de **combinaciones** posibles. La **computación cuántica** podría mejorar la **logística** y la optimización de rutas, redes de transporte y la asignación eficiente de **recursos**.
-4. **Inteligencia artificial y machine learning**: Las **capacidades** de **procesamiento** exponencial de los **computadores cuánticos** pueden transformar el campo de la IA y el machine learning, permitiendo algoritmos más complejos y rápidos, desde la **clasificación** de datos hasta el **aprendizaje** profundo.
-5. **Desarrollo de software cuántico**: Otro aspecto clave es el software necesario para programar estos **ordenadores**. Las empresas están **desarrollando herramientas y lenguajes de programación** cuánticos, como _Qiskit_ (de IBM), para que los desarrolladores puedan comenzar a trabajar en la creación de **algoritmos cuánticos.**
-
-¿Qué se necesita para aprovechar esta tecnología?
--------------------------------------------------
-
-Adentrarse en la **computación cuántica** requiere más que solo acceso a la **tecnología**. Es necesario entender los **conceptos fundamentales** de la física cuántica y la **programación cuántica**.
-
-Afortunadamente, las **plataformas cuánticas en la nube** de varias empresas tecnológicas, como IBM, Google, y Microsoft, han creado **plataformas** que permiten a los usuarios **acceder** a la **computación cuántica** a través de la nube. Por ejemplo, IBM Quantum Experience ofrece un **acceso público gratuito** a sus **procesadores cuánticos** para experimentos sencillos. Empresas como D-Wave también proporcionan acceso a su tecnología cuántica con aplicaciones comerciales.
-
-Estas **plataformas** proporcionan también recursos educativos y tutoriales para principiantes.  
-Esto seguirá creciendo, pues, **empresas y universidade**s están invirtiendo fuertemente en formar equipos multidisciplinarios que combinan conocimiento en física, matemáticas, informática y otras áreas para aprovechar al máximo las **capacidades** de la **computación cuántica**.
-
-El futuro es ahora
-------------------
-
-A medida que la **computación cuántica evoluciona**, nos encontramos en el umbral de una nueva era **tecnológica**. Aunque aún estamos en las primeras **etapas de desarrollo**, el impacto potencial de esta **tecnología** es monumental. Desde resolver problemas científicos complejos hasta transformar sectores completos, el poder de la **computación cuántica** nos permite reimaginar lo que es posible.
-
-Para las empresas y los individuos que desean estar a la **vanguardia** de la **innovación**, entender la **computación cuántica** y sus aplicaciones es esencial. Aunque el camino hacia la adopción total de esta tecnología será largo, aquellos que comiencen a explorar y experimentar hoy tendrán una ventaja exponencial en el futuro.
-
-Es un futuro que ya está en marcha, y ser parte de él, comienza con un paso: **aprender y explorar el poder cuántico.**
-
-Hackeo nunca antes visto filtra detalles inéditos de Pokémon
-============================================================
-
-La desarrolladora de Pokémon, Game Freak, confirmó el ciberataque.
-------------------------------------------------------------------
-
-![La franquicia Pokémon fue lanzada originalmente en Japón el 27 de febrero de 1996](https://www.elcomercio.com/wp-content/uploads/2024/10/filtracion-pokemon.jpg)
-
-**Game Freak**, la reconocida desarrolladora de la franquicia **Pokémon**, fue víctima de un **hackeo sin precedentes** que resultó en una **filtración masiva de datos**.
-
-Este incidente, apodado **“Teraleak”** por la comunidad, ocurrió en **agosto de 2024**, pero fue difundido a mediados de **octubre**.
-
-### Más noticias
-
-* [Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos](https://www.elcomercio.com/games/cracks-cheats-videojuegos-malware-software.html "Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos ")
-* [Protege tu cuenta de WhatsApp del peligroso ‘spoofing’](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html "Protege tu cuenta de WhatsApp del peligroso ‘spoofing’ ")
-* [Guía para armar la PC Gamer ideal en 2024](https://www.elcomercio.com/tecnologia/pc-gamer-juegos-tecnologia.html "Guía para armar la PC Gamer ideal en 2024 ")
-
-Se conoce que la información filtrada alcanzó los **1.8 terabytes**, incluyendo datos personales de **2 606 empleados** actuales y anteriores.
-
-Detalles filtrados de Pokémon
------------------------------
-
-Game Freak confirmó que un **tercero no autorizado** accedió a sus servidores y sustrajo información confidencial.
-
-Aunque la compañía activó sus mecanismos de defensa, no pudo evitar la **fuga de datos**.
-
-Además de los datos personales de los empleados, se revelaron detalles sobre **proyectos futuros**, como el juego en desarrollo conocido como “**Pokémon Gaia**“, que corresponde a la décima generación.
-
-También se mencionan nombres en clave para otros proyectos, como “**Ounce**“, que podría ser la sucesora de la **Nintendo Switch**.
-
-La filtración incluye planes para una **secuela de “Detective Pikachu”** y una nueva serie de acción para **Netflix**, lo que sugiere una expansión significativa de la franquicia más allá de los videojuegos.
-
-Game Freak respondió tras el ataque
------------------------------------
-
-En un **comunicado oficial**, Game Freak se disculpó por las molestias causadas y aseguró que está contactando individualmente a los empleados afectados para ofrecerles apoyo.
-
-La empresa también ha tomado medidas para reforzar su **seguridad cibernética**, aunque no ha proporcionado detalles sobre el código fuente específico de los juegos que podrían haber sido comprometidos.
-
-Este ciberataque a Game Freak se suma a una serie de incidentes similares en la industria de los videojuegos, donde las **vulnerabilidades cibernéticas** están en aumento.
-
-La magnitud del ataque recuerda otros eventos relevantes como el “**Gigaleak**” de Nintendo, pero con un impacto más amplio debido a la cantidad y sensibilidad de los datos comprometidos.
-
-Este caso recuerda a lo que padeció Rockstar con el conocido juego **GTA 6**, a inicios de este año.
-
-Filtración genera especulaciones
---------------------------------
-
-Mientras tanto, la filtración generó una ola de **especulaciones y preocupaciones** entre los fanáticos a los videojuegos.
-
-Muchos se preguntan cómo este incidente afectará el futuro de la franquicia Pokémon y si habrá consecuencias legales para los responsables del ataque.
-
-Además, algunos archivos ya han comenzado a circular en foros y **redes sociales**, lo que pone en riesgo aún más la integridad de la información confidencial.
-
-A medida que Game Freak trabaja para mitigar las consecuencias del ataque y restaurar la confianza entre sus empleados y seguidores, el futuro inmediato de Pokémon parece estar lleno de **incertidumbres**.
-
-Cambios en cortes de luz llegan con nuevos horarios de clases
-=============================================================
-
-El Ministerio de Educación detalló los cambios que tendrán las jornadas escolares hasta el viernes 8 de noviembre.
-------------------------------------------------------------------------------------------------------------------
-
-![En el régimen Sierra-Amazonía, las clases empezaron oficialmente el 2 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/clases-luz.jpg)
-
-Los **cortes de luz** en Ecuador tienen nuevas disposiciones desde el gobierno de **Daniel Noboa**. Estos serán en dos franjas, pero bajaron a ocho horas diarias entre la semana del 21 al 27 de octubre de 2024.
-
-Esta medida, que se reducirá de forma paulatina hasta alcanzar las **cuatro horas** en la semana del 4 al 10 de noviembre, llevó a que el **Ministerio de Educación** ajuste los horarios de clases.
-
-### Más noticias
-
-* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
-* [Cortes de luz en Cuenca para este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-para-este-viernes-18-de-octubre.html "Cortes de luz en Cuenca para este viernes 18 de octubre")
-* [Cortes de luz en Guayaquil este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-viernes-18-octubre.html "Cortes de luz en Guayaquil este viernes 18 de octubre")
-
-La noche de este viernes 18 de octubre, la cartera de Estado detalló los **cambios** que tendrán las jornadas escolares durante las próximas tres semanas.
-
-![table visualization](https://public.flourish.studio/visualisation/19841235/thumbnail)
-
-Cambios en las jornadas de clases
----------------------------------
-
-En la **jornada matutina**, los horarios de clases **no sufrirán cambios**, el ingreso y la salida se realizará de manera habitual.
-
-Para quienes estudian en la **vespertina**, deberán comenzar con su jornada a la hora de costumbre, sin embargo, saldrán a las **18:00**
-
-Mientras que la **jornada nocturna** sí existirán **cambios considerables**.
-
-Jornada nocturna
-----------------
-
-**50 escuelas públicas** de ocho provincias regresarán a la **presencialidad**.
-
-Estas unidades fueron “**estratégicamente ubicadas**” al comprobarse que no se verán afectadas por los apagones programados, afirmó el Ministerio.
-
-Estas instituciones pertenecen a Napo, **Pichincha**, Azuay, Cañar, Morona Santiago, El Oro, Loja y **Guayas**.
-
-¿Qué pasará con las demás unidades educativas de la noche? En estos centros las clases se mantendrán bajo la **modalidad virtual** (no presencial), con el apoyo de recursos académicos y guías pedagógicas.
-
-Estos centros educativos se irán incorporando a la presencialidad de **forma progresiva**.
-
-Estas son las escuelas nocturnas que retoman las clases presenciales.
-
-### Juramento a la Bandera
-
-Sobre el Juramento a la Bandera pendiente en la jornada nocturna, la entidad recomendó lo siguiente:
-
-“Las escuelas y colegios de esta jornada pueden realizar el Juramento a la Bandera y reconocer a sus abanderados, portaestandartes y escoltas en horario vespertino o durante el fin de semana”, recomendó la entidad.
-
-Las instituciones **particulares, fiscomisionales y municipales** pueden decidir por su cuenta si sumarse a estas directrices o definir sus propias disposiciones, aclaró el Ministerio.
-
-> \[COMUNICADO\] Informamos a la ciudadanía los lineamientos sobre los horarios escolares para las siguientes tres semanas, con el fin de garantizar la continuidad del proyecto educativo. [pic.twitter.com/6aMCAJNCeX](https://t.co/6aMCAJNCeX)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 19, 2024](https://twitter.com/Educacion_Ec/status/1847480099571974605?ref_src=twsrc%5Etfw)
-
-Día Internacional de la Lucha contra el Cáncer de Mama llega con historias alentadoras
-======================================================================================
-
-Cada 19 de octubre se conmemora el Día Internacional de Lucha contra el Cáncer de Mama.
----------------------------------------------------------------------------------------
-
-![Este 19 de octubre se conmemora el Día Internacional de la Lucha contra el Cáncer de Mama.](https://www.elcomercio.com/wp-content/uploads/2024/10/mama.jpg)
-
-Este 19 de octubre se conmemora el **Día Internacional de la Lucha contra el Cáncer de Mama**. Se recuerda con retos, historias y acciones de prevención[.](https://es.wikipedia.org/wiki/C%C3%A1ncer_de_mama)
-
-El **cáncer de mama** es el tipo más frecuente en las mujeres a escala mundial. Este abre un camino de dolor, pero también de aprendizajes y nuevos comienzos.
-
-### Más noticias
-
-* [Día de la Menopausia, momento para hablar sobre salud femenina](https://www.elcomercio.com/tendencias/salud/dia-mundial-menopausia-salud-mujer-efemeride.html "Día de la Menopausia, momento para hablar sobre salud femenina ")
-* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
-* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
-
-Día de la Lucha contra el Cáncer de Mama
-----------------------------------------
-
-De acuerdo con datos de la **[Organización Panamericana de la Salud (OPS)](https://www.paho.org/es)**, entre las características que se asocian con un mayor riesgo de desarrollar cáncer de mama está la obesidad.
-
-Se suma el consumo de alcohol, **antecedentes familiares**, exposición a radiación, antecedentes reproductivos y hormonales y consumo de tabaco.
-
-Pero, no hay que perder de vista que cerca de la mitad de los casos se desarrollan en mujeres sin **factores de riesgo** identificados.
-
-Se presenta con mayor frecuencia como una masa indolora en la **mama**. De ahí, la importancia de que cuando las mujeres, al tacto, encuentren una masa, consulten a un profesional inmediatamente.
-
-Señales importantes
--------------------
-
-Ese tipo de **cáncer** puede presentarse de formas diversas y se requiere una revisión completa. Puede llegar con engrosamiento de la **mama**, alteración en el tamaño, la forma o la apariencia o la piel, como enrojecimiento, hoyuelos y picaduras.
-
-La detección temprana puede salvar vidas y dar paso a un tratamiento eficaz. Este puede implicar una cirugía con o sin **radiación** y medicamentos.
-
-Historias de vida
------------------
-
-**Pilar Echeverría**, de 67 años, experimentó cáncer de mama. El proceso empezó en 2022, luego de un examen de rutina, pues, su hermana también padeció la **enfermedad**.
-
-Tras una vida como **trabajadora social** en una clínica, ya jubilada, Echeverría recibió la noticia, luego de los exámenes respectivos.
-
-Aunque había un antecedente familiar, nunca creyó que le tocaría a ella. **“Siempre pensamos que estamos libres”**.
-
-Recuerda que escuchó a la radióloga que le realizaba el eco mamario decirle a una practicante, algo que la inquietó. Se trataba de un **tumor**.
-
-Ella, cuyo hijo tiene 37 años, volvió a casa con la incertidumbre de lo que vendría. El proceso fue doloroso, con tres biopsias en tres semanas. Pero no había **tiempo** que perder.
-
-El tratamiento
---------------
-
-Los costos de la quimioterapia eran abrumadores: **1 700 dólares** por cada sesión, y necesitaba entre ocho y 10. Así que empezó el peregrinaje para recibir atención a través del **Instituto Ecuatoriano de Seguridad Social (IESS)**, sin la premura esperada.
-
-Ella logró trasladarse de Quito a **Machala**, donde recibió el tratamiento, en Solca. Este paso requirió la derivación del **IESS**. Tiene presentes los días de ayuno y oraciones pidiendo por su salud.
-
-Una cirugía y **quimioterapia** estuvieron en el camino. En la octava sesión del segundo procedimiento perdió la sensibilidad en las manos y los pies.
-
-Le suspendieron los procedimientos y empezó el tratamiento con pastillas. Ella bajó **25 libras**, la boca le sabía a metal. Pero, repite, “estoy viva”. No deja que los dolores le impidan seguir activa, viajando, como ama.
-
-**“Aprendí que el ánimo es vital, y cada día es una nueva oportunidad para vivir plenamente”**, repite la mujer, abuela de dos nietas.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/cancer-1024x683.jpg)
-
-El listón rosa es uno de los símbolos del Día Internacional de la Lucha contra el Cáncer de Mama. Imagen: Freepik
-
-El optimismo sostiene
----------------------
-
-Una vida feliz y llena de gratitud. Así describe **Leticia Sabando**, de 54 años, a su presente, luego de atravesar un **cáncer de mama**.
-
-El camino no empezó con esa dolencia. A los 24 años, a la mujer le detectaron **cáncer de cuello uterino**. “Esta fue mi primer encuentro con esta cruel enfermedad”.
-
-10 años después, ella detectó un bulto en la mama izquierda y acudió al médico. Luego de la revisión y los exámenes respectivos, la noticia llegó: era **cáncer**.
-
-**Leticia Sabando** preguntó: “¿Cuánto tiempo me queda de vida?”. La respuesta fue la explicación del tratamiento, que incluyó una cirugía exitosa. Pero, el verdadero reto fue afrontar la quimioterapia.
-
-Las molestias estuvieron acompañadas de **incertidumbre**. Aun así, tomaba fuerzas para volver a trabajar. En ese entonces, era jefa regional de un área en una institución pública. Actualmente, se desempeña como **docente universitaria**.
-
-Ella optó por raparse, se compró una peluca y decidió que iba a disfrutar del cabello liso que siempre quiso. Pasaron los meses y el tratamiento dio resultado.
-
-Para Leticia, al inicio, el cáncer era sinónimo de muerte. No obstante, tiene presente la frase que le dijo al médico: **“A mí el cáncer no me va a matar, me moriré por una gripe, pero el cáncer no va a poder conmigo”**. Y así fue.
-
-El apoyo de la familia, la **atención** a tiempo y encontrar en el corazón la motivación le salvaron la vida. Sus tres hijas fueron su mayor motor.
-
-El cáncer en Ecuador
---------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-13-1024x683.jpg)
-
-El Ministerio de Salud realiza jornadas en distintos puntos de Ecuador. Foto: MSP
-
-De enero a septiembre de 2024, el **Hospital de Especialidades Eugenio Espejo** ha agendado 30 058 citas en el área de oncología, lo que representa un incremento del 9,12% en comparación con el mismo periodo de 2023.
-
-Según el **[Ministerio de Salud Pública](https://www.salud.gob.ec/)**, a pesar de los avances en tecnología y tratamientos, la realidad es que el cáncer sigue siendo un desafío creciente.
-
-La institución indica que, según datos de la **OPS,** se proyecta que los casos de cáncer en Ecuador aumentarán en un 59% para 2035, y las muertes relacionadas con esta enfermedad podrían crecer un 68%. En el caso del cáncer de mama, en el país, hay una incidencia del 25,4%.
-
-La Coordinación Zonal 9-Salud creó la Red Oncológica. La iniciativa surgió en el Hospital Eugenio Espejo con el objetivo de mejorar la accesibilidad y el tratamiento.
-
-El Ministerio de Salud cuenta con el **Plan Nacional de Lucha Contra el Cáncer**, con la integración de los servicios de la red pública. El llamado desde la institución es a acudir a un chequeo anual a partir de los 40 años.
-
-El proceso incluye una mamografía. En el **sistema público** se puede acceder de forma gratuita. Hay otros factores de riesgo: primer parto después de los 35 años y menopausia después de los 55.
-
-Investigaciones y pedidos
--------------------------
-
-**Santiago Guerrero**, investigador del Laboratorio de Ciencia de Datos Biomédicos de la Universidad Internacional del Ecuador, aborda otra arista en este **Día Internacional de la Lucha contra el Cáncer de Mama**: la falta de representación étnica en los estudios genómicos y en los ensayos clínicos.
-
-Según explica Guerrero, la mayoría de los datos genéticos provienen de personas de ascendencia europea, lo que deja a muchas **comunidades marginadas** sin los beneficios completos de los avances médicos.
-
-Los resultados
---------------
-
-En la última década, diversas **investigaciones** han confirmado que el origen étnico tiene un gran impacto en el desarrollo del **cáncer**.
-
-Por ejemplo, se ha demostrado que las mujeres hispanas o africanas con cáncer de mama tienen un mayor riesgo en comparación con aquellas de origen europeo.
-
-Desde el Laboratorio de Ciencia de Datos Biomédicos, dice Guerrero, han identificado que la investigación oncológica ha fallado en la inclusión étnica. La población hispana está representada en solo un **0,2 % de esos estudios**.
-
-Santiago Guerrero sostiene que es indispensable que este problema forme parte de la **agenda política** del país.
-
-La investigación **oncológica** debe fortalecerse con un enfoque étnico, y las bases genéticas del cáncer en las poblaciones deben ser profundamente estudiadas.
-
-Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador
-========================================================================================
-
-Los cronogramas contemplan los cortes de luz reducidos del 21 de octubre hasta el 10 de noviembre en Ecuador.
--------------------------------------------------------------------------------------------------------------
-
-![Los horarios de cortes de luz reducidos del 21 de octubre al 10 de noviembre fueron difundidos por el Ministerio de Energía y Minas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-reducidos.jpg)
-
-El **Ministerio de Energía y Minas** anunció los **nuevos horarios de los cortes de luz reducidos,** desde el **21 de octubre** hasta el **10 de noviembre** de 2024, en **Ecuador**[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Los cronogramas contemplan la reducción de cortes de luz a **ocho horas** la primera semana hasta **cuatro horas** en la tercera semana.
-
-### Más noticias:
-
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
-
-Nuevos horarios de cortes de luz reducidos para la semana del 21 de octubre en Ecuador
---------------------------------------------------------------------------------------
-
-El presidente **Daniel Noboa** señaló que el país ha enfrentado momentos extremadamente complejos en las últimas semanas.
-
-Se refirió a los esfuerzos en **negocios, familias y estudiantes** para realizar sus tareas diarias.
-
-En este contexto, dijo que es necesario dar respuestas definitivas a la **crisis energética**, no solo al momento actual.
-
-Anunció que los cortes de luz se mantendrán en **dos franjas horarias** y se **reducirán paulatinamente** para las **zonas residenciales**.
-
-La **semana del 21 de octubre** los cortes serán de **ocho horas**.
-
-Los cortes serán de **seis horas** para la **semana del 28 de octubre**.
-
-Para la **semana del 6 de noviembre** serán de **cuatro horas**.
-
-Para las **zonas industriales**, los horarios se mantendrán.
-
-En el siguiente **enlace** puede revisar los **horarios en su ciudad**, de las tres semanas, con ocho, seis y cuatro horas de cortes de luz: [https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/")
-
-> 📍¡IMPORTANTE!  
->   
-> Informamos sobre los racionamientos del servicio de energía eléctrica, a escala nacional, desde el 21 de octubre hasta el 10 de noviembre.  
->   
-> 🔸Conoce la programación en el siguiente enlace➡️ [https://t.co/wR8C8JMAWL](https://t.co/wR8C8JMAWL) [pic.twitter.com/YJr2sds9tv](https://t.co/YJr2sds9tv)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 19, 2024](https://twitter.com/RecNaturalesEC/status/1847476425978253439?ref_src=twsrc%5Etfw)
-
-Otras medidas anunciadas por el Gobierno fueron proyectos de **energía renovable** y transporte de **soluciones móviles** de energía en **aviones Hércules**.
-
-Además, cero impuestos a la comercialización de **generadores eléctricos**, entre otras acciones.
-
-Un incendio forestal se reportó en Ambato este viernes 18 de octubre
-====================================================================
-
-El ECU 911 coordinó la emergencia del incendio en Ambato con varios organismos de socorro.
-------------------------------------------------------------------------------------------
-
-![El incendio en Ambato es uno más de los que han ocurrido en estos días en esa ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-Ambato.jpg)
-
-Un incendio forestal se reportó en Ambato este viernes 18 de octubre de 2024.
-
-El ECU 911 coordinó con los organismos de socorro para sofocar las llamas.
-
-### Más noticias:
-
-* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
-* [Afectados por los incendios forestales tendrán un beneficio en la planilla del agua](https://www.elcomercio.com/actualidad/quito/afectados-incendios-forestales-planilla-agua.html "Afectados por los incendios forestales tendrán un beneficio en la planilla del agua")
-
-El incendio forestal en Ambato este viernes 18 de octubre
----------------------------------------------------------
-
-Un incendio forestal se registró en la quebrada que baja de Ambatillo, a 5km del centro del cantón Ambato, en Tungurahua.
-
-El ECU 911 señaló que las cámaras de videovigilancia monitorean el sector.
-
-Este organismo coordinó la asistencia del contingente del Cuerpo de Bomberos de Ambato.
-
-El hecho se produjo la tarde de este viernes 18 de octubre y alarmó a los ciudadanos de la capital tungurahuense.
-
-Los bomberos acudieron al sitio para controlar el flagelo.
-
-> [#ECU911Reporta](https://twitter.com/hashtag/ECU911Reporta?src=hash&ref_src=twsrc%5Etfw) | Incendio forestal en el sector Ambatillo, cantón [#Ambato](https://twitter.com/hashtag/Ambato?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Cámaras de [#VideovigilanciaECU911](https://twitter.com/hashtag/VideovigilanciaECU911?src=hash&ref_src=twsrc%5Etfw) monitorean el sector.  
->   
-> El [#ECU911](https://twitter.com/hashtag/ECU911?src=hash&ref_src=twsrc%5Etfw) coordinó la asistencia del contingente de [@cbambato](https://twitter.com/cbambato?ref_src=twsrc%5Etfw).  
->   
-> ➡️ Proteja las vías respiratorias y evite acercarse al área. [pic.twitter.com/gtFfiQwkHA](https://t.co/gtFfiQwkHA)
-> 
-> — Coordinación Zonal 3 ECU 911 Ambato (@ECU911Ambato) [October 18, 2024](https://twitter.com/ECU911Ambato/status/1847368356388897225?ref_src=twsrc%5Etfw)
-
-El 15 de octubre, el Cuerpo de Bomberos de Ambato acudió al llamado de emergencia de un incendio forestal en Ambatillo, sector “El Peral”.
-
-Medios locales reportaron varios incendios forestales este viernes al medio día, en los sectores de Ambatillo, Izamba y La Viñas.
-
-La temporada de verano, varias provincias de Ecuador se vieron afectadas por los incendios forestales.
-
-En ciudades como Quito y Cuenca, se logró aprehender a los sospechosos y ahora son procesados penalmente.
-
-Ministerio de Educación abrió vacantes para profesionales en consejería estudiantil
-===================================================================================
-
-La postulación para trabajar en los Departamentos de Consejería Estudiantil (DECE) estará disponible hasta el 20 de octubre.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Los profesionales deberán trabajar con casos de riesgos psicosociales en los estudiantes](https://www.elcomercio.com/wp-content/uploads/2024/10/vacante-dece.jpg)
-
-El **Ministerio de Educación** abrió **vacantes** para profesionales que quieran trabajar en los Departamentos de Consejería Estudiantil (**DECE**) de las unidades educativas fiscales en Ecuador.
-
-La convocatoria busca aumentar la cobertura de los DECE a nivel nacional, con el objetivo de identificar prevenir e intervenir en los **casos de riesgos psicosociales** de los estudiantes.
-
-### Más noticias
-
-* [La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares](https://www.elcomercio.com/actualidad/mundo/plataforma-estados-unidos-buscar-trabajo.html "La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares")
-* [¿Por qué es tan importante hablar sobre la salud mental en el trabajo?](https://www.elcomercio.com/tendencias/salud/dia-internacional-salud-mental-trabajo-efemeride.html "¿Por qué es tan importante hablar sobre la salud mental en el trabajo? ")
-* [La deserción escolar en Quito se debe a esta razón](https://www.elcomercio.com/actualidad/quito/desercion-escolar-quito-razon-educacion.html "La deserción escolar en Quito se debe a esta razón")
-
-Estos departamentos de consejería trabajan de forma directa con los alumnos, padres y profesores en **varias problemáticas**, como: inestabilidad emocional, conflictos interpersonales, violencia, consumo de sustancias, embarazo adolescente y vulneración de derechos.
-
-170 vacantes disponibles
-------------------------
-
-La convocatoria está destinada a **profesionales** en los campos de educación, ciencias sociales, salud y bienestar, cuyas carreras estén asociadas con psicología general, psicología educativa, psicología clínica, trabajo social y afines.
-
-En total estarán disponibles **170 vacantes** distribuidas en las nueve zonas educativas del país.
-
-Quienes deseen participar del proceso deberán inscribirse hasta el **domingo 20 de octubre** de 2024.
-
-El único requisito es contar con un **título de tercer nivel** técnico, tecnológico o universitario en las áreas mencionadas y que esté debidamente registrado en la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (**Senescyt**).
-
-¿Cómo inscribirse en la convocatoria?
--------------------------------------
-
-Para inscribirte en el proceso de selección de profesionales para los **DECE** deberás ingresar al portal web del Ministerio de Educación destinado para este plan piloto. Da clic **[aquí](https://academico.educarecuador.gob.ec/educaempleo/#/login "https://academico.educarecuador.gob.ec/educaempleo/#/login")** para dirigirte directamente al enlace.
-
-En esta página deberás **registrarte** e ingresar tu información personal.
-
-Luego, completa tu **hoja de vida** en el módulo de la izquierda; no olvides actualizar tus datos académicos y profesionales. Esta información es importante para el análisis de los **perfiles**.
-
-Finalmente, dirígete hacia ‘**Módulo de aplicación**‘ y selecciona la provincia y cantón en el que te gustaría trabajar.
-
-En esta opción puedes elegir hasta **cinco alternativas** de vacantes, siendo la uno la de prioridad más alta y la cinco la más baja.
-
-Una vez completes tu registro podrás descargar el **comprobante de aprobación**.
-
-Recuerda generar la **aceptación y declaración digital** que te pedirá el sistema. Si no lo haces tu postulación no quedará registrada.
-
-Criterio de selección de profesionales
---------------------------------------
-
-Cada aspirante será calificado sobre **50 puntos**, con la opción de extenderse hasta 60 a través de **bonificaciones**.
-
-Según la escala de calificaciones del Ministerio de Educación, los perfiles serán **ponderados** de la siguiente forma:
-
-* **Formación académica**: 40 puntos
-* **Experiencia laboral** profesional: 10 puntos
-* **Bonificaciones**: por residencia; por ser intérprete de lengua de señas; por haber obtenido su título en los dos años previos a la convocatoria; al elegir como lugar de trabajo alguna plaza en la Amazonía.
-
-El certificado de suficiencia de un **segundo idioma** no suma puntos para esta convocatoria.
-
-Los aspirantes que mantengan un vínculo de dependencia laboral con la cartera de Estado **no podrán participar** en el proceso, estoy incluye, a docentes.
-
-> 🔊El Ministerio de Educación convoca a la postulación para vacantes en los Departamentos de Consejería Estudiantil (DECE) de sostenimiento fiscal🧑‍🏫.  
->   
-> Luego de 8 años, se abre un nuevo proceso para vincular especialistas en psicología, trabajo social y afines, con el objetivo de… [pic.twitter.com/oPpAQANFWD](https://t.co/oPpAQANFWD)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 17, 2024](https://twitter.com/Educacion_Ec/status/1847063082721591794?ref_src=twsrc%5Etfw)
-
-Una vez que culmine la postulación, las Unidades Distritales de Talento Humano se encargarán de seleccionar a los candidatos **mejor calificados**, los cuales recibirán un **contrato ocasional**.
-
-El último proceso de vinculación de profesionales a los Departamentos de Consejería Estudiantil se realizó en **2016**.
-
-¿Quién fue Joyce Higgins de Ginatta, ‘la dama de la dolarización’?
-==================================================================
-
-La vida de Joyce Higgins de Ginatta estuvo marcada por el trabajo y el emprendimiento.
---------------------------------------------------------------------------------------
-
-![Joyce Higgins de Ginatta impulsó la dolarización en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Joyce-Higgins-de-Ginatta.jpg)
-
-Ecuador lamentó el fallecimiento de **Joyce Higgins de Ginatta**, ‘la dama de la **dolarización**‘, este jueves 17 de octubre de 2024.
-
-Joyce Higgins de Ginatta, de **origen estadounidense**, es reconocida en el mundo de los **negocios** como una mujer de temperamento fuerte y determinado.
-
-### Más noticias:
-
-* [Joyce Higgins de Ginatta falleció este jueves 17 de octubre](https://www.elcomercio.com/actualidad/ecuador/joyce-higgins-de-ginatta-fallecio.html "Joyce Higgins de Ginatta falleció este jueves 17 de octubre")
-* [Ecuador aún debe esperar para que se concrete el nuevo crédito del FMI](https://www.elcomercio.com/actualidad/negocios/ecuador-aun-debe-esperar-para-que-se-concrete-el-nuevo-credito-del-fmi.html "Ecuador aún debe esperar para que se concrete el  nuevo crédito del FMI")
-
-La vida de Joyce Higgins de Guinatta en Guayaquil
--------------------------------------------------
-
-Aunque nació en **Pensilvania**, en sus escritos, Joyece Higgins de Guinatta describía el cariño por Guayaquil, la ciudad que la vio crecer y desde la que se proyectó a todo Ecuador con sus ideas.
-
-“De aquella infancia en **Guayaquil** tengo memoria aún fresca de la Avenida Olmedo y Malecón. Me gustaba mirar la ciudad frente al río (…) Era muy colorido ver la prisa de los voceadores de periódicos y la venta de inmensas latas llenas de camarones”, señalaba.
-
-“El escenario era imponente por el río Guayas, surcado por lanchas. Muy cerca quedaba el Mercado Sur donde la actividad parecía interminable. Un ir y venir constante. Era el reflejo del **guayaquileño trabajador**. La imagen de una ciudad comercial”, relataba.
-
-Joyce Higgins de Ginatta, la empresa y la dolarización
-------------------------------------------------------
-
-En la introducción a su autobiografía, Joyce Higgins de Guinatta destacaba una vida marcada por el **trabajo y el emprendimiento**.
-
-Señalaba que los rasgos de su personalidad le permitieron **competir** en el mundo empresarial desde hace medio siglo.
-
-Así, su primer emprendimiento fue la comercialización de hierro y materiales de construcción con el nombre de **Ferconsa** (antes Mercantil Importadora Sucesores de Ginatta y Cía.).
-
-En 1989 creó **Ferrisariato**, que lo vendió después de ocho años.
-
-Fue presidenta de la **Cámara de la Pequeña y Mediana Industria del Guayas,** entre 1991 y 2001.
-
-Impulsó la marcha de los **crespones negros** en 1999, un símbolo de luto por la economía. Ella mandó a elaborar miles de crespones.
-
-Aunque la dolarización se implementó en el año 2000, ella se reconoce como la **mentalizadora** de la misma en Ecuador, años antes.
-
-En 2021, publicó el **libro** titulado ‘La Dama de la Dolarización’, en el que explicó el proceso del cambio de moneda en el país y las acciones tomadas para que esto suceda.
-
-En diciembre del 2018, se le otorgó la **Medalla Doctoral Honoris Causa** por ser pionera en la **propuesta de cambio de moneda** y ser una férrea defensora de los derechos ciudadanos.
-
-También fue ponente principal del foro por los **20 años de la dolarización en Ecuador** organizado por la Federación Interamericana Empresarial y recibió el premio **“Héroe de la Libertad”**, por el Instituto Ecuatoriano de Economía Política.
-
-“Mi lucha se basa en la ética, justicia y equidad. **En septiembre de 1998 propuse el sistema de dolarización** como alternativa para sacar al país de la **crisis económica que atravesaba**. Mi lucha aún continúa”, sentenció en su blog, en el que publicaba frecuentemente los eventos que llevaba a cabo, principalmente sobre finanzas.
-
-Sus últimos cargos y funciones fueron de consultora nacional e internacional y **presidenta de la Federación Interamericana Empresarial**.
-
-Además, fue directora del programa radial **Futuro en Acción**, que conducía junto a su hijo Giovanni.
-
-En Colombia crece indignación por el asesinato de una niña de 12 años
-=====================================================================
-
-Sofía Delgado salió de su vivienda, en el caserío Villagorgona, en el departamento del Valle del Cauca.
--------------------------------------------------------------------------------------------------------
-
-![Personas se reúnen en la casa en dónde vivía Sofía Delgado niña de 12 años asesinada.](https://www.elcomercio.com/wp-content/uploads/2024/10/nina-efe.jpg)
-
-La **indignación** en [Colombia](https://www.elcomercio.com/actualidad/mundo/gobierno-colombia-disidencias-farc-buscan-extender-cese-el-fuego.html "https://www.elcomercio.com/actualidad/mundo/gobierno-colombia-disidencias-farc-buscan-extender-cese-el-fuego.html") crece a medida en que se van conociendo más detalles sobre el brutal asesinato de la niña Sofía Delgado Zúñiga, de 12 años de edad. Su cuerpo fue encontrado en un campo de **caña de azúcar del municipio de Candelaria (suroeste)** 19 días después de su desaparición, reportada el pasado 29 de septiembre.
-
-### Más noticias
-
-* [Gobierno de Colombia y disidencias de FARC buscan extender cese el fuego](https://www.elcomercio.com/actualidad/mundo/gobierno-colombia-disidencias-farc-buscan-extender-cese-el-fuego.html "https://www.elcomercio.com/actualidad/mundo/gobierno-colombia-disidencias-farc-buscan-extender-cese-el-fuego.html")
-* [Petro critica en ONU a presidente argentino, Javier Milei, y su ‘Viva la libertad, carajo’](https://www.elcomercio.com/actualidad/mundo/petro-critica-en-onu-a-presidente-argentino-javier-milei-y-su-viva-la-libertad-carajo.html "Petro critica en ONU a presidente argentino, Javier Milei, y su ‘Viva la libertad, carajo’")
-* [Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio](https://www.elcomercio.com/actualidad/quito/hernan-mendoza-juicio-desaparicion-muerte.html "Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio")
-
-Por el crimen está acusado **Brayan Campo, de 32 años,** que luego de ser detenido como principal sospechoso, confesó a las autoridades el lugar en el que enterró el cuerpo de la niña luego de asesinarla en la veterinaria donde trabajaba. Además **vendía alimentos** para perros, gatos, pájaros, conejos y peces.
-
-Sofía Delgado salió de su vivienda, en el caserío Villagorgona, en el departamento del Valle del Cauca, el 29 de septiembre a **comprar champú para su mascota.**
-
-La niña salió a comprar
------------------------
-
-La niña nunca regresó a su hogar y desde ese día comenzó una **exhaustiva búsqueda** en la que unieron fuerzas las autoridades, la familia, amigos y conocidos, e incluso espontáneos.
-
-El cuerpo de la niña fue hallado el jueves y los restos trasladados al **Instituto Nacional de Medicina Legal** y Ciencias Forenses para establecer su plena identidad y hacer otros estudios que permitirán conocer más detalles sobre este atroz crimen.
-
-La investigación apunta a que Campo, que ya tenía otra acusación por violación sexual de otra menor, habría matado a la niña el mismo día en que la raptó, el 29 de septiembre, y la golpeó con un objeto pesado luego de encerrarla en el local comercial. Por este mismo **crimen fue detenida su esposa Evelyn Julieth Rodas Patiño.**
-
-Feminicidio agravado
---------------------
-
-El confeso asesino, que hoy fue imputado por **feminicidio agravado**, alteración de material probatorio y desaparición forzada, aseguró que ella no tenía nada que ver con lo que ocurrió y por falta de pruebas fue dejada en libertad, según medios locales.
-
-Todos los sectores de la sociedad colombiana rechazaron el crimen y plantean, incluso, reabrir el debate de cadena perpetua para **asesinos de niños y adolescentes.**
-
-“Las niñas y niños de nuestro país no merecen un mensaje de solidaridad por esta red social cuando sus derechos no son respetados ni protegidos. Los niños merecen que sus sueños no se sigan acabando. No podemos permitir más noticias como la de Sofía”, escribió hoy el presidente colombiano, Gustavo Petro, en su cuenta de X.
-
-No sería el primero
-
-El historial delictivo de **Campo indica que violó a otra niña en 2018**, pero fue dejado en libertad por vencimiento de términos en el proceso. Igualmente, las autoridades investigan las versiones de que el mismo día en que Campo secuestró y mató a **Sofía también intentó raptar a otra niña**, que logró escapar en un descuido del señalado asesino.
-
-La audiencia
-------------
-
-Aunque Campo confesó haber sepultado el cuerpo, al parecer las lluvias de los últimos días, la humedad del terreno y los **productos químicos** que se utilizan en la tierra para los cultivos de caña ayudaron a acelerar la descomposición de los tejidos blandos.
-
-Además los **restos óseos fueron desperdigados** por la acción de animales depredadores, lo que dificulta determinar las causas de la muerte de Sofía Delgado.
-
-Por otro lado, los forenses también enfrentar dificultades porque hallaron rastros de calcinación en los huesos.
-
-La audiencia de imputación de cargos avanza este viernes de manera privada por lo que hasta el momento no se sabe si Campo acepte o no los cargos.
-
-Mientras tanto la vivienda de la niña sigue siendo el lugar al que llegan decenas de personas a expresar su pesar y dejar flores y globos blancos en señal de dueño por la niña.
-
-Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico
-=======================================================================
-
-Segundo Castillo realizó un pedido a la afición de Barcelona SC para el Clásico del Astillero frente a Emelec en la Liga Pro.
------------------------------------------------------------------------------------------------------------------------------
-
-![Segundo Alejandro Castillo, DT de Barcelona SC, en una rueda de prensa previo al Clásico del Astillero.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000147316.jpg)
-
-**Barcelona SC** se enfrentará a Emelec en el Clásico del Astillero y aquel duelo marcará el tercer debut de **Segundo Alejandro Castillo** en el conjunto torero. El nuevo estratega del conjunto torero se refirió al partido y pidió el apoyo de los hinchas en su estreno.
-
-Después de la goleada propinada por El Nacional en la novena fecha de la Liga Pro, el ‘Ídolo’ y su antiguo entrenador rompieron su relación. El argentino **Ariel Holan** y el equipo separaron sus caminos y Castillo, quien era uno de sus asistentes, asumió las riendas del equipo.
-
-### Más noticias:
-
-* [¿Cuál es la diferencia de Barcelona SC y Emelec en el Clásico del Astillero?](https://www.elcomercio.com/deportes/historial-235-barcelona-emelec-clasico-astillero.html "¿Cuál es la diferencia de Barcelona SC y Emelec en el Clásico del Astillero?")
-* [Segundo Alejandro Castillo y sus números en Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-numeros-barcelona.html "Segundo Alejandro Castillo y sus números en Barcelona Sporting Club")
-* [Barcelona lucirá el logotipo de Coldplay en el Clásico](https://www.elcomercio.com/deportes/futbol/barcelona-camiseta-coldplay-clasico-madrid.html "Barcelona lucirá el logotipo de Coldplay en el Clásico")
-
-A partir de su posesión como máxima cabeza del cuerpo técnico, **Castillo** se puso manos a la obra para preparar el partido de **Barcelona SC** ante su máximo rival. Previo al cotejo, el exseleccionado ecuatoriano conversó con los medios de comunicación y se refirió al partido, a su nuevo rol y expectativas.
-
-El entrenador destacó la importancia del choque y sostuvo que **Emelec** es el único equipo ante el cual no pueden perder los toreros. De igual forma, el técnico sostuvo que tiene una gran responsabilidad y la concentración en el cotejo es máxima.
-
-Segundo Castillo y su solicitud con Barcelona SC
-------------------------------------------------
-
-Dentro de lo que mencionó **Castillo** antes del cotejo que medirá a su equipo ante los eléctricos, este se dirigió a los aficionados toreros. Allí, este resaltó la importancia del partido que jugarán y la valía de simpatizantes en este[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
-
-“**A la gente le pedimos que venga, que nos apoye y nos acompañe. Todos sufrimos cuando el equipo no gana, pero necesitamos ese aliento que nos viene bien para salir adelante**“, manifestó el técnico de la escuadra guayaquileña.
-
-Con respecto a la propuesta de su equipo y de los rivales, **Castillo** señaló que se centrará en que su elenco mantenga la **posesión de balón** y la asegure. Asimismo, espera que su elenco sea intenso y tenga creatividad en ataque.
-
-Una gran tarea para Castillo en el ‘Ídolo’
-------------------------------------------
-
-Para **Segundo Castillo**, su regreso al banquillo del equipo torero le representa una pesada encomienda. Pese a ello, este trabaja para estar a la altura del desafío.
-
-“**La responsabilidad de estar en Barcelona es grande, estamos preparados para afrontarla con compromiso. Después de lo vivido fecha a fecha sabemos lo que necesitamos**“, manifestó el estratega del ‘Ídolo’.
-
-Antes de sustituir a Ariel Holan, **Castillo** estuvo a cargo de manera interina en dos ocasiones. La primera fue en medio de la salida de Fabián Bustos y la llegada de Jorge Célico y la segunda, tras la salida de Célico y el arribo de Diego López.
-
-Sonsoles García presentó su renuncia al Ministerio de Producción
-================================================================
-
-El presidente Daniel Noboa asignó a Sonsoles García la cartera de Estado desde noviembre de 2023.
--------------------------------------------------------------------------------------------------
-
-![Sonsoles García lideraba el Ministerio de Producción en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/sonsoles.jpg)
-
-**Sonsoles García**, ministra de Producción, Comercio Exterior, Inversiones y Pesca, presentó la **renuncia** a su cargo este viernes 18 de octubre de 2024.
-
-La funcionaria se había despedido de los empresarios del país a través de un **mensaje** enviado a un grupo de WhatsApp, al medio día.
-
-### Más noticias
-
-* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
-* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
-* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
-
-Sin embargo, su decisión la hizo **pública** esta noche a través de su **red social** X.
-
-“Ha sido un honor para mí ser parte del equipo de trabajo del presidente Daniel Noboa. Fueron meses donde pude servir al país, sobre todo al sector productivo”, fue el mensaje que publicó.
-
-“Dejo este cargo por motivos personales, relacionados a la salud de mi padre. Agradezco su comprensión y buenos deseos”, explicó.
-
-> Ha sido un honor para mí ser parte del equipo de trabajo del Presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw). Fueron meses donde pude servir al país, sobre todo al sector productivo. Dejo este cargo por motivos personales, relacionados a la salud de mi padre. Agradezco su comprensión y buenos deseos.
-> 
-> — Sonsoles García (@SonsolesGOk) [October 18, 2024](https://twitter.com/SonsolesGOk/status/1847426871434367044?ref_src=twsrc%5Etfw)
-
-Sonsoles García lideró la cartera de Estado durante 11 meses, desde noviembre de 2023, cuando **Daniel Noboa** asumió la Presidencia de Ecuador.
-
-Antes de asumir el cargo ministerial, fue socia f**undadora de COMERxEC** y presidió la Comisión de Políticas de Comercio Exterior, Aduanas e Inversiones de ICC Ecuador. También ha ocupado diversos cargos en instituciones como la **Federación Ecuatoriana de Exportadores (Fedexpor)**.
-
-Además, ha sido miembro del think thank **Global Americans** y coordinadora de Comercio Exterior del Clúster del Cáñamo de la Cámara de Comercio de Quito.    
-Aportes:
-
-Durante su gestión, García impulsó **diversas iniciativas para incrementar las exportaciones ecuatorianas**, especialmente de productos no tradicionales y trabajó en la creación de un ambiente propicio para la inversión extranjera directa en el país. Además, se enfocó en **agilizar** los t**rámites aduaneros** y reducir los costos logísticos.
-
-Canadá advierte que los diplomáticos indios ‘están bajo aviso’ tras expulsar al embajador
-=========================================================================================
-
-El embajador Sanjay Kumar Verma, Ottawa expulsó a otros cinco diplomáticos por su relación con el asesinato de Hardeep Singh Nijjar.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![El primer ministro de Canadá, Justin Trudeau, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/justin-canada-efe.jpg)
-
-La ministra **de Asuntos Exteriores de Canadá, Mélanie Joly,** advirtió este viernes, 18 de octubre de 2024, que los [diplomáticos indios](https://www.elcomercio.com/actualidad/mundo/avion-air-india-aterriza-emergencia-en-canada-por-una-amenaza-de-bomba.html "https://www.elcomercio.com/actualidad/mundo/avion-air-india-aterriza-emergencia-en-canada-por-una-amenaza-de-bomba.html") **“están bajo aviso”** con la expulsión a principios de la semana del embajador de la India por su supuesta implicación en el asesinato de un disidente sij de nacionalidad canadiense.
-
-### Más noticias
-
-* [Un avión de Air India aterriza de emergencia en Canadá por una amenaza de bomba](https://www.elcomercio.com/actualidad/mundo/avion-air-india-aterriza-emergencia-en-canada-por-una-amenaza-de-bomba.html "https://www.elcomercio.com/actualidad/mundo/avion-air-india-aterriza-emergencia-en-canada-por-una-amenaza-de-bomba.html")
-* [Estos son los países con mejor calidad de vida](https://www.elcomercio.com/actualidad/mundo/paises-mejor-calidad-vida.html "https://www.elcomercio.com/actualidad/mundo/paises-mejor-calidad-vida.html")
-* [Fiscalía responde a Andersson Boscán y su esposa](https://www.elcomercio.com/actualidad/ecuador/anderson-boscan-fiscalia-esposa-respuesta.html "https://www.elcomercio.com/actualidad/ecuador/anderson-boscan-fiscalia-esposa-respuesta.html")
-
-Además del embajador **Sanjay Kumar Verma, Ottawa expulsó a otros cinco diplomáticos** por su relación con el asesinato de Hardeep Singh Nijjar en junio de 2023, así como con una campaña de violencia e intimidación contra los miembros de la comunidad sij en Canadá.
-
-“Claramente están bajo aviso. Seis (diplomáticos) ha sido expulsados, incluido el embajador en Ottawa. Otros desde Toronto y Vancouver. Claramente **no vamos a tolerar a ningún diplomático** que viole la Convención de Viena. Y evidentemente (no toleraremos) a ningún diplomático del país que sea que pone la vida de canadienses en riesgo”, declaró Joly.
-
-La ministra añadió que nunca antes ningún otro país había actuado “a ese nivel” en territorio canadiense para “**suprimir” disidentes aunque Rusia** lo ha hecho en Alemania y el Reino Unido, explicó.
-
-“Necesitamos mantenernos firmes”, concluyó.
-
-Medios canadienses publicaron en los últimos días que Ottawa podría expulsar más diplomáticos indios del país por su implicación en el homicidio.
-
-### Diplomáticos de la India
-
-La cadena de televisión Global dijo que fuentes de los servicios de seguridad canadienses calificaron a los diplomáticos expulsados de los **consulados indios de Toronto y Vancouve**r como agentes dedicados a “asesinatos, amenazas, incendios y extorsiones” en Canadá contra los partidarios de la creación en la región india de Punjab de un país independiente, Jalistán.
-
-El lunes, el primer ministro canadiense, Justin Trudeau, declaró que la India cometió un error “inaceptable” al matar a un canadiense en Canadá.
-
-“Nunca toleraremos la participación de un **gobierno extranjero** que amenaza y mata a ciudadanos canadienses en suelo canadiense, una violación profundamente inaceptable de la soberanía de Canadá y del derecho internacional”, afirmó.
