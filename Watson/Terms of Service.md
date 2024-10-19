@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)13°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)10°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
+* [Super League](https://www.watson.ch/fr/super-league/)
+* [Sion](https://www.watson.ch/fr/sion/)
+* [Bâle](https://www.watson.ch/fr/bale/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [maladie](https://www.watson.ch/fr/maladie/)
-* [nourriture](https://www.watson.ch/fr/nourriture/)
-* [Film](https://www.watson.ch/fr/film/)
+* [avion](https://www.watson.ch/fr/avion/)
+* [grève](https://www.watson.ch/fr/greve/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Santé](https://www.watson.ch/fr/sante/)
 * [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Médias](https://www.watson.ch/fr/medias/)
-* [Migrants](https://www.watson.ch/fr/migrants/)
-* [Films](https://www.watson.ch/fr/films/)
 * [Russie](https://www.watson.ch/fr/russie/)
+* [Tennis](https://www.watson.ch/fr/tennis/)
+* [Commentaire](https://www.watson.ch/fr/commentaire/)
+* [Argent](https://www.watson.ch/fr/argent/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [Lausanne](https://www.watson.ch/fr/lausanne/)
-* [tribunal](https://www.watson.ch/fr/tribunal/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [drone](https://www.watson.ch/fr/drone/)
+* [télé-travail](https://www.watson.ch/fr/tele-travail/)
+* [Servette FC](https://www.watson.ch/fr/servette-fc/)
+* [armes](https://www.watson.ch/fr/armes/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
