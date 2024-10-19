@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Left: Alajah Elizabeth Holmes (York County District Attorney's Office). Right: Amiya Paige (Etzweiler Funeral Home).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/yorkmurder-432x243.jpg)](https://lawandcrime.com/crime/i-got-something-for-you-b-woman-who-tried-to-shoot-half-sister-in-facebook-feud-and-murdered-teen-bystander-instead-gets-life/)
+1. [![Brianne Nicoletti (Bayfield County Sheriff’s Office)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Brianne-Nicoletti-Bayfield-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/in-her-mug-shot-shes-smiling-ive-never-seen-this-prosecutor-judge-stunned-by-remorseless-mom-who-starved-and-tortured-son-in-home-akin-to-concentration-camp/)
     
-    ### ['I got something for you b----': Woman who tried to shoot half-sister in Facebook feud and murdered teen bystander instead gets life](https://lawandcrime.com/crime/i-got-something-for-you-b-woman-who-tried-to-shoot-half-sister-in-facebook-feud-and-murdered-teen-bystander-instead-gets-life/)
+    ### ['In her mug shot, she's smiling. I've never seen this': Prosecutor, judge stunned by remorseless mom who starved and tortured son in home akin to 'concentration camp'](https://lawandcrime.com/crime/in-her-mug-shot-shes-smiling-ive-never-seen-this-prosecutor-judge-stunned-by-remorseless-mom-who-starved-and-tortured-son-in-home-akin-to-concentration-camp/)
     
-2. [![Michelle Goodman](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Michelle-Goodman-432x243.jpg)](https://lawandcrime.com/crime/youth-prison-security-guard-who-allegedly-wanted-to-be-filmed-having-sex-with-inmate-in-staff-bathroom-isnt-laughing-now/)
+2. [![Inset: Lisa Snyder (Berks County DA's Office). Background: Authorities at the home where Snyder hanged her two young children (WGAL).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/afd-432x243.jpg)](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
     
-    ### [Youth prison security guard who allegedly 'wanted to be filmed' having sex with inmate in staff bathroom isn't laughing now](https://lawandcrime.com/crime/youth-prison-security-guard-who-allegedly-wanted-to-be-filmed-having-sex-with-inmate-in-staff-bathroom-isnt-laughing-now/)
+    ### [Mom who hanged her 2 young kids in basement with dog leash, tried to blame 8-year-old, learns her fate](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
     
-3. [![Ryan Routh, Aileen Cannon, Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Routh-432x243.jpg)](https://lawandcrime.com/high-profile/ryan-routh-wants-judge-aileen-cannon-to-recuse-herself-from-case/)
+3. [![Inset, top to bottom: Uriha Faith Ridge and Alina Pascal (WAGA). Background: The woods where Alina froze to death (WSB).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/adfasdf-432x243.jpg)](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
     
-    ### [Trump assassination attempt suspect demands Judge Cannon's recusal, claims 'prospect' of Supreme Court 'promotion' could impact her](https://lawandcrime.com/high-profile/ryan-routh-wants-judge-aileen-cannon-to-recuse-herself-from-case/)
+    ### ['She froze to death': Mom dragged toddler into rainy woods in middle of winter and watched 7-year-old desperately try to save his sister](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
     
-4. [![Inset: Dr. David Diffine (KAIT). Background: Diffine's medical office where the alleged conduct took place (Google Maps).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-3-432x243.jpg)](https://lawandcrime.com/crime/family-practice-doctor-suspended-after-video-showed-him-performing-a-sexual-act-with-a-staff-member-in-front-of-employees-and-walking-throughout-the-clinic-naked/)
+4. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
     
-    ### [Family practice doctor suspended after video showed him 'performing a sexual act with a staff member' in front of employees and 'walking throughout the clinic naked'](https://lawandcrime.com/crime/family-practice-doctor-suspended-after-video-showed-him-performing-a-sexual-act-with-a-staff-member-in-front-of-employees-and-walking-throughout-the-clinic-naked/)
+    ### ['No authority to legislate': Judge slaps down multiple new election rules put in place by Trump allies in Georgia as 'unconstitutional' administrative agency overreach](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
     
-5. [![Background: Former President Donald Trump motions as he returns to the courtroom after a break in his civil business fraud trial at New York Supreme Court, Wednesday, Oct. 25, 2023, in New York. The judge in Donald Trump's civil fraud trial has fined the former president $10,000. The judge says Trump violated a limited gag order barring personal attacks on court staffers.(AP Photo/Seth Wenig)/ Inset left: Special Counsel Jack Smith, AP Photo/J. Scott Applewhite, File)/Inset right: U.S. District Judge Tanya Chutkan. (Administrative Office of the U.S. Courts via AP, File)](https://am23.mediaite.com/lc/cnt/uploads/2023/11/trump-jack-tanya-432x243.jpg)](https://lawandcrime.com/high-profile/trump-jan-6-judge-refuses-to-push-jack-smith-evidence-dump-past-the-election/)
+5. [![Jack Hancock (Louisville, Kentucky).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Jack-Hancock-432x243.jpg)](https://lawandcrime.com/crime/best-buy-geek-squad-discovered-child-pornography-on-customers-computer-when-he-sought-help-to-move-data-police-say/)
     
-    ### [Jan. 6 judge scoffs at 'oxymoronic' Trump 'proposition' that blocking Jack Smith's evidence dump will 'enhance' public's 'understanding'](https://lawandcrime.com/high-profile/trump-jan-6-judge-refuses-to-push-jack-smith-evidence-dump-past-the-election/)
+    ### [Best Buy Geek Squad discovered child pornography on customer's computer when he sought help to move data, police say](https://lawandcrime.com/crime/best-buy-geek-squad-discovered-child-pornography-on-customers-computer-when-he-sought-help-to-move-data-police-say/)
     
 
 [](http://eepurl.com/c89Jdb)
