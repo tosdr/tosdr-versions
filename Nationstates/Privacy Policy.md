@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [State Banquet, Rep. South Darolia(IC,… (21)](https://forum.nationstates.net/viewtopic.php?t=557087&f=4&view=unread#unread ""State Banquet, Rep. South Darolia(IC, Sign-Up Required)" (21 posts)")
-* [Guess The AN Ideology based on their… (1,989)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,989 posts)")
-* [The Seal and Logo Request Thread (8,595)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,595 posts)")
-* [Hot or Cold: BN/BU Edition (1,385)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,385 posts)")
-* [AI Art, Chatbots, and the morality of… (39)](https://forum.nationstates.net/viewtopic.php?t=557028&f=20&view=unread#unread ""AI Art, Chatbots, and the morality of their use." (39 posts)")
+* [Ukrainian War VII: Everything has a p… (7,398)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,398 posts)")
+* [Your favorite part of AN’s forum sig XI (2,701)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,701 posts)")
+* [How important is AN in F7 (733)](https://forum.nationstates.net/viewtopic.php?t=550373&f=25&view=unread#unread ""How important is AN in F7" (733 posts)")
+* [Come up with a funny rip off name for… (317)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (317 posts)")
 
 Advertisement
 
