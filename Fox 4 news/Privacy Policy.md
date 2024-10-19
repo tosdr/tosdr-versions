@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2 arrested in Rockwall murder after man shot, truck stolen](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/abygail-chaparro-32-and-terry-lacy-29.png?ve=1&tl=1)
+ [![Dallas County GOP chair lists complaints about voting machine test](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1)
 
- ![2 arrested in Rockwall murder after man shot, truck stolen](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/abygail-chaparro-32-and-terry-lacy-29.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-arrested-rockwall-murder-after-man-shot-truck-stolen)
+ ![Dallas County GOP chair lists complaints about voting machine test](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-gop-chair-lists-complaints-about-voting-machine-test)
 
-### [2 arrested in Rockwall murder after man shot, truck stolen](https://www.fox4news.com/news/2-arrested-rockwall-murder-after-man-shot-truck-stolen)
+### [Dallas County GOP chair lists complaints about voting machine test](https://www.fox4news.com/news/dallas-county-gop-chair-lists-complaints-about-voting-machine-test)
 
- [![Man sentenced for sexually assaulting preschool-aged children: 'I did what I did'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/GettyImages-1427321345.jpg?ve=1&tl=1)
+ [![North Texas mom raising awareness about life-threatening pregnancy condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-lori-medical-city-maternal-mortality-5p_00.01.56.48.jpg?ve=1&tl=1)
 
- ![Man sentenced for sexually assaulting preschool-aged children: 'I did what I did'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/592/333/GettyImages-1427321345.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-sentenced-sexually-assaulting-preschool-aged-children-i-did-what-i-did)
+ ![North Texas mom raising awareness about life-threatening pregnancy condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-lori-medical-city-maternal-mortality-5p_00.01.56.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-mom-warns-about-life-threatening-pregnancy-condition)
 
-### [Man sentenced for sexually assaulting preschool-aged children: 'I did what I did'](https://www.fox4news.com/news/man-sentenced-sexually-assaulting-preschool-aged-children-i-did-what-i-did)
+### [North Texas mom raising awareness about life-threatening pregnancy condition](https://www.fox4news.com/news/north-texas-mom-warns-about-life-threatening-pregnancy-condition)
 
- [![Dallas Wings fire coach Latricia Trammell after 2 seasons](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2154915105.jpg?ve=1&tl=1)
+ [![North Texas truck yards see an increase in thefts involving roofing shingles](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-ll-roof-shingle-thefts-630p_00.02.17.22.jpg?ve=1&tl=1)
 
- ![Dallas Wings fire coach Latricia Trammell after 2 seasons](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2154915105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-wings-fire-coach-latricia-trammell-after-2-seasons)
+ ![North Texas truck yards see an increase in thefts involving roofing shingles](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-ll-roof-shingle-thefts-630p_00.02.17.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-18-wheeler-roofing-shingle-thefts)
 
-### [Dallas Wings fire coach Latricia Trammell after 2 seasons](https://www.fox4news.com/news/dallas-wings-fire-coach-latricia-trammell-after-2-seasons)
+### [North Texas truck yards see an increase in thefts involving roofing shingles](https://www.fox4news.com/news/north-texas-18-wheeler-roofing-shingle-thefts)
 
- [![Where to Vote: Tarrant County early voting locations](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/GettyImages-1228929110.jpg?ve=1&tl=1)
+ [![Hurst single mom of 4 picked for home revitalization](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-hurst-community-revitalization-event-5p_00.00.53.10.jpg?ve=1&tl=1)
 
- ![Where to Vote: Tarrant County early voting locations](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/592/333/GettyImages-1228929110.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/tarrant-county-early-voting-locations)
+ ![Hurst single mom of 4 picked for home revitalization](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-hurst-community-revitalization-event-5p_00.00.53.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurst-single-mom-4-picked-home-revitalization)
 
-### [Tarrant County early voting locations](https://www.fox4news.com/election/tarrant-county-early-voting-locations)
+### [Hurst single mom of 4 picked for home revitalization](https://www.fox4news.com/news/hurst-single-mom-4-picked-home-revitalization)
 
- [![Macy's Thanksgiving parade will feature Minnie Mouse balloon for first time ever](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/minnie-mouse.jpg?ve=1&tl=1)
+ [![With execution halted, TX death row inmate Robert Roberson to address lawmakers in ‘shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1)
 
- ![Macy's Thanksgiving parade will feature Minnie Mouse balloon for first time ever](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/minnie-mouse.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/macys-thanksgiving-parade-minnie-mouse-balloon)
+ ![With execution halted, TX death row inmate Robert Roberson to address lawmakers in ‘shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/execution-halted-texas-death-row-inmate-robert-roberson-shaken-baby-syndrome-case)
 
-### [Macy's Thanksgiving parade will feature Minnie Mouse balloon for first time ever](https://www.fox4news.com/news/macys-thanksgiving-parade-minnie-mouse-balloon)
+### [With execution halted, TX death row inmate Robert Roberson to address lawmakers in ‘shaken baby syndrome' case](https://www.fox4news.com/news/execution-halted-texas-death-row-inmate-robert-roberson-shaken-baby-syndrome-case)
 
 ###### [News](https://www.fox4news.com/news)
 
