@@ -41,6 +41,10 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
+    [![How to Apply Cream Eyeshadow | 9 Tips & Tutorials | Cream eyeshadow may be the best kept makeup secret to make your eyes pop. They’re great for beginners because they’re easy to apply and offer rich pigmentation. And for advanced makeup artists, cream shadows layer beautifully, allowing you to create looks that range from a soft, subtle effect to dramatic, vibrant lids. You can apply them with a brush or sweep them on with your fingertips -- click for the best application hacks!](https://www.merakilane.com/wp-content/uploads/2024/10/2-1.png)](https://www.merakilane.com/how-to-apply-cream-eyeshadow-9-tips-tutorials/)
+    
+    ### [How to Apply Cream Eyeshadow: 9 Tips & Tutorials](https://www.merakilane.com/how-to-apply-cream-eyeshadow-9-tips-tutorials/)
+    
     [![14 Low Maintenance Hairstyles for Straight Hair | Straight hair is extremely versatile and looks good short, medium length, and long, both with a without bangs. But super straight, fine hair often looks dull and flat. In this post, we're sharing styling tips and products plus the best hairstyles and haircuts that will add volume and texture to your locks while still being low maintenance and easy to manage. Click for no fuss straight hairstyles for women in their 30s, 40s, 50s, and beyond!](https://www.merakilane.com/wp-content/uploads/2024/10/6-2.png)](https://www.merakilane.com/14-low-maintenance-hairstyles-for-straight-hair/)
     
     ### [14 Low Maintenance Hairstyles for Straight Hair](https://www.merakilane.com/14-low-maintenance-hairstyles-for-straight-hair/)
@@ -48,10 +52,6 @@ Main Menu
     [![How to Get the Pearl Skin Aesthetic Look: 6 Tips & Trends | Pearl skin is one of 2024’s most popular beauty trends, sweeping through TikTok and dominating this year’s runways. This beauty trend takes inspiration from pearls themselves, using luminous makeup to give the skin a pearly sheen. White, cream, champagnes, and rose-toned hues are all colours that work for this look, and we're sharing everything you need to master this makeup trend at home. Click for the details!](https://www.merakilane.com/wp-content/uploads/2024/10/8-1.png)](https://www.merakilane.com/how-to-get-the-pearl-skin-aesthetic-look-6-tips-trends/)
     
     ### [How to Get the Pearl Skin Aesthetic Look: 6 Tips & Trends](https://www.merakilane.com/how-to-get-the-pearl-skin-aesthetic-look-6-tips-trends/)
-    
-    [![9 Fashion and Beauty Trends that Are Making a Comeback | The 1990s are back with iconic trends like grunge outfits, bold hip-hop styles, and minimalist 1990s fashion for both men and women. From plaid skirts and chokers to platform shoes and bike shorts, these throwback looks are everywhere. Embrace 1990s outfits for a fresh take on classic styles, and explore how vintage aesthetics, clunky footwear, and nostalgic accessories are making their mark!](https://www.merakilane.com/wp-content/uploads/2024/10/1-copy-374.png)](https://www.merakilane.com/9-fashion-and-beauty-trends-that-are-making-a-comeback/)
-    
-    ### [9 Fashion and Beauty Trends That Are Making a Comeback](https://www.merakilane.com/9-fashion-and-beauty-trends-that-are-making-a-comeback/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![15 Heart Healthy Pistachio Butter Recipes Worth Trying | If you love creamy spreads, pistachio butter is a heart-healthy option that is rich in antioxidants, high in protein, and helps with blood sugar control. In this post, you'll learn how to make homemade pistachio butter, and we're also sharing our favorite pistachio butter recipes with a mix of sweet and savory spreads, dishes, and desserts (pistachio cookies are delish!) that are sure to satisfy your tastebuds.](https://www.merakilane.com/wp-content/uploads/2024/10/3-2.png)](https://www.merakilane.com/15-heart-healthy-pistachio-butter-recipes-worth-trying/)
+    
+    ### [15 Heart Healthy Pistachio Butter Recipes Worth Trying](https://www.merakilane.com/15-heart-healthy-pistachio-butter-recipes-worth-trying/)
+    
     [![10 Diet and Lifestyle Changes to Make in Your 40s | If you're in perimenopause (or fully in menopause!), weight loss and maintenance requires a different approach as your hormones change. Think: strength training over cardio, prioritizing nutrient-rich foods, nervous system work and stress management, and regular exercise for a healthy body and mind. Whether you’re focusing on fitness, nutrition, or your mental well-being, these tips will help you thrive as you age gracefully.](https://www.merakilane.com/wp-content/uploads/2024/10/7.png)](https://www.merakilane.com/10-diet-and-lifestyle-changes-to-make-in-your-40s/)
     
     ### [10 Diet and Lifestyle Changes to Make in Your 40s](https://www.merakilane.com/10-diet-and-lifestyle-changes-to-make-in-your-40s/)
@@ -74,10 +78,6 @@ Main Menu
     [![8 Dance Cardio Workouts You Can Do Anywhere | Get your heart rate up and burn calories with these fun dance cardio routines. Whether you’re at home, at the gym, or at the beach, these workouts offer a mix of beginner-friendly moves and high-intensity routines. Perfect for boosting cardiovascular health and endurance while also improving coordination, these full-body HIIT cardio workout videos will tighten and tone your body and help you lose weight while also having fun!](https://www.merakilane.com/wp-content/uploads/2024/09/1-5.png)](https://www.merakilane.com/8-dance-cardio-workouts-you-can-do-anywhere/)
     
     ### [8 Dance Cardio Workouts You Can Do Anywhere](https://www.merakilane.com/8-dance-cardio-workouts-you-can-do-anywhere/)
-    
-    [![How to Make Yourself a Priority: 7 Self-Love Tips & Ideas | If your busy schedule has you feeling burnt out, exhausted, and emotionally spent, this post is for you. Prioritizing self-care and self-love activities isn't selfish –– it helps you recharge so you can show up well for others. From setting boundaries to scheduling self-care activities, these tips will help you feel more balanced and fulfilled. From taking an everything shower, to journaling, to doing something artsy, click for inspo!](https://www.merakilane.com/wp-content/uploads/2024/09/1-4.png)](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
-    
-    ### [How to Make Yourself a Priority: 7 Self-Love Tips & Ideas](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![How to Wrap Odd-Shaped Gifts | 8 Tips & Tutorials | Whether you're preparing for Christmas, a child's birthday party, or another big milestone like a housewarming party, wedding, or baby shower, your gift wrapping skills are going to be put to the test. Not all gifts fit in boxes or gift bags, which means you need to find creative ways to wrap your presents! There are gift wrapping tricks and techniques that will save you lots of time and frustration, and we're sharing them all in this post!](https://www.merakilane.com/wp-content/uploads/2024/10/4-2.png)](https://www.merakilane.com/how-to-wrap-odd-shaped-gifts-8-tips-tutorials/)
+    
+    ### [How to Wrap Odd-Shaped Gifts: 8 Tips & Tutorials](https://www.merakilane.com/how-to-wrap-odd-shaped-gifts-8-tips-tutorials/)
+    
     [![11 DIY Poinsettia Centerpieces to Make with Your Kids | These bright red flowers are a classic symbol of Christmas, and they're perfect for making table decorations that will impress your guests. They make great DIY gifts kids can make for friends and family too! Poinsettias are surprisingly versatile, allowing you to incorporate them into different styles, from rustic to modern. Click to learn how to choose the best poinsettias, how to keep them fresh, plus 10 easy poinsettia crafts for kids!](https://www.merakilane.com/wp-content/uploads/2024/10/5-2.png)](https://www.merakilane.com/11-diy-poinsettia-centerpieces-to-make-with-your-kids/)
     
     ### [11 DIY Poinsettia Centerpieces to Make with Your Kids](https://www.merakilane.com/11-diy-poinsettia-centerpieces-to-make-with-your-kids/)
@@ -124,10 +128,6 @@ Main Menu
     [![6 Best Friendsgiving Theme Ideas for Adults | We often associate Thanksgiving with family dinners and get-togethers, but it can be a time to celebrate your best friends too! Friendsgiving is a way to express gratitude for the friendships in your life with food, drinks, and fun. Some keep it as a traditional Thanksgiving meal, but others like to mix it up by throwing a themed party with outfits (or costumes!), decorations, games, activities, and more. Click for 6 unique and creative ideas!](https://www.merakilane.com/wp-content/uploads/2024/10/7-2.png)](https://www.merakilane.com/10-best-friendsgiving-theme-ideas-for-teens/)
     
     ### [10 Best Friendsgiving Theme Ideas for Teens](https://www.merakilane.com/10-best-friendsgiving-theme-ideas-for-teens/)
-    
-    [![How to Help Your Teen Through a Breakup | Discover practical advice and motivational tips to help your teen move on after a breakup. Learn how to offer support and guidance that boosts confidence and positivity during this challenging time. Whether it’s sharing uplifting quotes, helping them focus on self-care, or offering advice to navigate emotions, these parenting tips and strategies will help your daughter or son heal and come out stronger on the other side of teen breakups.](https://www.merakilane.com/wp-content/uploads/2024/10/1.png)](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
-    
-    ### [How to Help Your Teen Through a Breakup: 9 Tips for Parents](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
