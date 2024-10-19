@@ -174,6 +174,34 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Красочная и аппетитная. ТЫКВА по-необычному (19)](https://www.russianfood.com/reading/?post_id=22746) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/700/sm_699526.jpg)](https://www.russianfood.com/reading/?post_id=22746)
+
+Тыква, жаренная с овощами и соевым соусом. Тыквенно-картофельные котлеты с манкой. Тыквенный заварной крем. Тыква с яйцами и соевым соусом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22746)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22746#comments) | 19.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Всё будет вкусно! Время СУПОВ (65)](https://www.russianfood.com/reading/?post_id=22745) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/645/sm_644271.jpg)](https://www.russianfood.com/reading/?post_id=22745)
+
+Сырный суп с курицей. Гороховый суп-пюре со сливками и сыром. Молочный суп с вермишелью и яйцами. Суп с фасолью, кукурузой и сладким перцем. Суп авголемоно с сельдереем.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22745)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22745#comments) | 19.10.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Просим к столу! Лучшие рецепты НА ВЫХОДНЫЕ №24-42](https://www.russianfood.com/reading/?post_id=22742) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/736/sm_735407.jpg)](https://www.russianfood.com/reading/?post_id=22742)
@@ -268,7 +296,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=173962#comments) | 17.10.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=173962#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -282,7 +310,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174187#comments) | 17.10.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174187#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +381,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174474#comments) | 17.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп-пюре из запечённой тыквы, сладкого перца и жареного лука](https://www.russianfood.com/recipes/recipe.php?rid=174448) |     |
-
-[![Фото к рецепту: Суп-пюре из запечённой тыквы, сладкого перца и жареного лука](//img1.russianfood.com/dycontent/images_upl/744/sm_743132.jpg "Фото к рецепту: Суп-пюре из запечённой тыквы, сладкого перца и жареного лука")](https://www.russianfood.com/recipes/recipe.php?rid=174448)
-
-За счёт запекания тыквы и перца суп получается вкуснее. Лук обжаривается с чесноком и пряностями, дополняет аромат блюда. Солоноватая брынза, добавленная при подаче, очень удачно и гармонично оттеняет сладость овощей.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174448)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174448#comments) | 17.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Овощной суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174427) |     |
-
-[![Фото к рецепту: Овощной суп с тыквой и сливками](//img1.russianfood.com/dycontent/images_upl/743/sm_742881.jpg "Фото к рецепту: Овощной суп с тыквой и сливками")](https://www.russianfood.com/recipes/recipe.php?rid=174427)
-
-Овощной суп с тыквой и сливками готовится быстро, просто и в одной кастрюле. Тыква придаёт яркую сладость, помидоры - цвет и кислинку, корень сельдерея - свой характерный вкус и аромат, а кабачки - нежную текстуру.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174427)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174427#comments) | 17.10.24 |     |
 
 |     |
 | --- |
@@ -471,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(95)
+(161)
