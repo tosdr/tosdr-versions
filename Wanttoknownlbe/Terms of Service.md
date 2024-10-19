@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/buitenaards-leven-en-ufos-grootse-menselijke-ontdekkingen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/een-nieuwe-aanklacht-van-fernand-haesbrouck/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -146,7 +146,7 @@ Inschrijven
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
-[![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
+[![BRES #348](https://www.wanttoknow.nl/wp-content/uploads/BRES-348-scaled.jpg)](https://bresmagazine.nl/publicaties/)
 
 #### WantToKnow Boekentip
 
