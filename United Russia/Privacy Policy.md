@@ -305,7 +305,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Родина](https://er.ru/activity/news?tags%5B0%5D=2682)
 
-Сегодня 14:58
+19.10.24
 
 [![«Единая Россия» завершила обучение руководителей региональных исполкомов](https://cdn.er.ru/media/news/October2024/hZEy8IAcQriRskuxMFpp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zavershila-obuchenie-rukovoditelej-regionalnyh-ispolkomov)
 
