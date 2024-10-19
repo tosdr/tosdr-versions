@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement")](https://www.derrynow.com/news/arts---entertainment/1633291/niall-horan-breaks-silence-on-liam-payne-s-death-in-heartbreaking-one-direction-statement.html)
-
-Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement](https://www.derrynow.com/news/arts---entertainment/1633291/niall-horan-breaks-silence-on-liam-payne-s-death-in-heartbreaking-one-direction-statement.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![End of an era as Derry's Jobby Crossan shop closes for final time](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "End of an era as Derry's Jobby Crossan shop closes for final time")](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
 
 Jobby Crossan shop has closed for the final time
@@ -302,13 +293,6 @@ Two young men injured and road closed after horror early morning crash in Galway
 [Two young men injured and road closed after horror early morning crash in Galway](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![widespread flooding across Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "widespread flooding across Derry")](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
 
 Widespread flooding across Derry
@@ -342,6 +326,24 @@ Mark Doran is the latest to turn down the role of Derry manager
 
 [Derry 'Chat Tea Train' celebrates one year with largest ever attendance](https://www.derrynow.com/news/local-news/1632977/derry-chat-tea-train-celebrates-one-year-with-largest-ever-attendance.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute")](https://www.derrynow.com/news/arts---entertainment/1633549/love-you-liam-mammy-mary-x-factor-s-mary-byrne-in-emotional-liam-payne-tribute.html)
+
+'Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+['Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute](https://www.derrynow.com/news/arts---entertainment/1633549/love-you-liam-mammy-mary-x-factor-s-mary-byrne-in-emotional-liam-payne-tribute.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Trusted courier' has been jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted courier' has been jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Trusted courier' has been jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
 
 Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ Sportsfile
@@ -530,7 +539,7 @@ Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ S
 [Derry City keep title hopes alive with victory in Dundalk](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
+[![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/resizer/165/93/true/2022_04_26/Untitled_design_-_2022-04-26T133706.560-1650977110783.jpg--.jpg?1650977112033 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
 
 Kelly was sentenced at Antrim Crown Court today.
 
@@ -563,13 +572,6 @@ Cheque presentation at Ratheane Care Home, Coleraine with Macklin Family, Candic
 
 [Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary](https://www.derrynow.com/news/home/1634076/ratheane-care-home-honours-memory-of-air-ambulance-patient-candice-during-35th-anniversary.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_18/1729268708339_0.jpg--.jpg?1729268708606 "Criminal barristers in NI to withdraw services in legal aid dispute")](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
