@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-207c98b67aebaa88bf16c9f02ef43ff6
+f7744aa7013052910978c88e031d2c99
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Ammonite beads](https://www.sojourner.biz/images/cache/stone/STN074.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/ammonite-beads.html "Ammonite beads")
+[![10 mm faceted rutilated quartz hexagon beads](https://www.sojourner.biz/images/cache/stone/STN065.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-faceted-rutilated-quartz-hexagon-beads.html "10 mm faceted rutilated quartz hexagon beads")
 
-#### [Ammonite beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/ammonite-beads.html "Ammonite beads")
+#### [10 mm faceted rutilated quartz hexagon beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-faceted-rutilated-quartz-hexagon-beads.html "10 mm faceted rutilated quartz hexagon beads")
 
-$56.00
+$21.00
 
 ### Best Sellers
 
