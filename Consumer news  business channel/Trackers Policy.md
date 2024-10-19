@@ -18,9 +18,10 @@ For the best experience, turn your mobile device portrait mode.
 * [HISTORY](https://www.nbcuniversal.com/history)
 * [Impact](https://www.nbcuniversal.com/impact) ![](/themes/custom/universal/src/img/icons/dropdown-arrow-down.svg)
     
-    * [DIVERSITY, EQUITY & INCLUSION](https://www.nbcuniversal.com/diversity-equity-inclusion)
-    * [ENVIRONMENT](https://www.nbcuniversal.com/environment)
-    * [SOCIAL IMPACT](https://www.nbcuniversal.com/csr)
+    * [DIVERSITY, EQUITY & INCLUSION](https://www.nbcuniversal.com/impact/diversity-equity-inclusion)
+    * [ENVIRONMENT](https://www.nbcuniversal.com/impact/environment)
+    * [SOCIAL IMPACT](https://www.nbcuniversal.com/impact/social-impact)
+    * [WORKFORCE DEVELOPMENT](https://www.nbcuniversal.com/impact/workforce)
 * [BRANDS](https://www.nbcuniversal.com/brands)
 * [NEWSROOM](https://www.nbcuniversal.com/newsroom)
 * [CAREERS](https://www.nbcunicareers.com/)
@@ -63,7 +64,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?brandA=Peacock&intake=Peacock "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
