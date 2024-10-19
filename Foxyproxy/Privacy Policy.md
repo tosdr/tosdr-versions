@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've shared your add-on with so many people, I should have shares in FoxyProxy! Congrats on the expansion and thanks for being such a fantastic service. Good luck for the future.
+I have really enjoyed my FoxyProxy experience.
 
-Daisy Tongy
+Adrian Dawson
