@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a5c5046c-debb-4d5a-aab1-de2822f81f54/20240515T211607/a5c5046c-debb-4d5a-aab1-de2822f81f54_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a5c5046c-debb-4d5a-aab1-de2822f81f54/20240515T211607/a5c5046c-debb-4d5a-aab1-de2822f81f54_360x203.jpg)](https://www.king5.com/article/news/politics/elections/washington-initiative-2124-general-election/281-9d7b6709-f8ac-433c-b03d-678e06168e20)
+    *  [![](https://media.king5.com/assets/KING/images/2ecbb87a-6f06-433f-b5e7-7e85c150624d/20241019T015418/2ecbb87a-6f06-433f-b5e7-7e85c150624d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2ecbb87a-6f06-433f-b5e7-7e85c150624d/20241019T015418/2ecbb87a-6f06-433f-b5e7-7e85c150624d_360x203.jpg)](https://www.king5.com/article/news/politics/elections/state-attorney-general-candidate-nick-brown-touts-experience/281-95913004-9576-4ca6-87e5-557001b10c8d)
         
-        #### [Initiative 2124 is on the general election ballot. Here's what it does](https://www.king5.com/article/news/politics/elections/washington-initiative-2124-general-election/281-9d7b6709-f8ac-433c-b03d-678e06168e20)
+        #### [State attorney general candidate Nick Brown touts experience, values](https://www.king5.com/article/news/politics/elections/state-attorney-general-candidate-nick-brown-touts-experience/281-95913004-9576-4ca6-87e5-557001b10c8d)
         
-    *  [![](https://media.king5.com/assets/KING/images/7502da9e-1c99-4819-9f11-b4a2e4acd300/20241018T003500/7502da9e-1c99-4819-9f11-b4a2e4acd300_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7502da9e-1c99-4819-9f11-b4a2e4acd300/20241018T003500/7502da9e-1c99-4819-9f11-b4a2e4acd300_360x203.jpg)](https://www.king5.com/article/news/local/state-using-cell-phone-data-make-highways-safer/281-efa71b9f-b501-4e39-81af-fcc2521edfde)
+    *  [![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_360x203.jpg)](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
         
-        #### [State using cell phone data to make Washington highways safer](https://www.king5.com/article/news/local/state-using-cell-phone-data-make-highways-safer/281-efa71b9f-b501-4e39-81af-fcc2521edfde)
+        #### [Here's why the Navy is not sharing the identities of 2 crew members aboard crashed jet](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0a6492c0-c99b-47e6-8cb7-44ff33610444/20241018T120610/0a6492c0-c99b-47e6-8cb7-44ff33610444_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0a6492c0-c99b-47e6-8cb7-44ff33610444/20241018T120610/0a6492c0-c99b-47e6-8cb7-44ff33610444_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/659603e7-ac65-492a-bd74-279487398f55/20241019T010732/659603e7-ac65-492a-bd74-279487398f55_16x9.jpg) ![](https://media.king5.com/assets/KING/images/659603e7-ac65-492a-bd74-279487398f55/20241019T010732/659603e7-ac65-492a-bd74-279487398f55_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
-        #### [Wind Advisory in effect Friday afternoon through Saturday morning](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
+        #### [Wind Advisory in effect through Saturday morning](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
