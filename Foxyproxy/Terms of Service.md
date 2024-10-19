@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have been with Foxy for many years and have always been delighted with your product and service.
+I really appreciate the excellent & prompt customer support that your company provides; many thanks again.
 
-Roy Buckley
+Louise Berry
