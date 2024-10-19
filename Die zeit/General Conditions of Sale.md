@@ -110,6 +110,8 @@ Anzeigen
     * Hell
     * Dunkel
 
+[**Eilmeldung** 15:22 Uhr Ines Schwerdtner und Jan van Aken als neue Linken-Vorsitzende gewählt](https://www.zeit.de/politik/deutschland/2024-10/ines-schwerdtner-und-jan-van-aken-als-neue-linken-vorsitzende-gewaehlt)
+
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
