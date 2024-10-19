@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Is U.S. democracy in decline? Here’s what the science says](https://www.sciencenews.org/article/united-states-democracy-decline-science)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")22 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 18, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
