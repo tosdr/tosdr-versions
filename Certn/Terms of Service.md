@@ -6064,11 +6064,11 @@ In addition to the new rights and procedures to help consumers deal with the eff
 California Credit Disclosure
 ----------------------------
 
-### Version 3.0
+### Version 5.0
 
-##### Effective October 9th 2024
+##### Effective October 18th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6706c52d41ec7e83aa41b266.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6712fa74ad934b50335b8702.pdf)
 
 * * *
 
@@ -6086,15 +6086,15 @@ California Credit Disclosure
 
 The Company intends to obtain a consumer credit report on you for the permissible purpose under California Labor Code 1024.5: \[
 
-\[{{1024\_5\_a\_1}}\] The job for which you are applying (or if current employee, already occupy) is a managerial position.
+\[ {{1024\_5\_a\_1}} \] The job for which you are applying (or if current employee, already occupy) is a managerial position.
 
-\[{{1024\_5\_a\_2}}\] The job for which you are applying (or if current employee, already occupy) is with the state Department of Justice.
+\[ {{1024\_5\_a\_2}} \] The job for which you are applying (or if current employee, already occupy) is with the state Department of Justice.
 
-\[{{1024\_5\_a\_3}}\] The job for which you are applying (or if current employee, already occupy) is a sworn peace officer or other law enforcement position.
+\[ {{1024\_5\_a\_3}} \] The job for which you are applying (or if current employee, already occupy) is a sworn peace officer or other law enforcement position.
 
-\[{{1024\_5\_a\_4}}\] The job for which you are applying (or if current employee, already occupy) is a position for which the information contained in the report is required by law to be disclosed or obtained.
+\[ {{1024\_5\_a\_4}} \] The job for which you are applying (or if current employee, already occupy) is a position for which the information contained in the report is required by law to be disclosed or obtained.
 
-\[{{1024\_5\_a\_5}}\] The job for which you are applying (or if current employee, already occupy) is a position that involves regular access, for any purpose other than the routine solicitation and processing of credit card applications in a retail establishment, to all of the following types of information of any one person:
+\[ {{1024\_5\_a\_5}} \] The job for which you are applying (or if current employee, already occupy) is a position that involves regular access, for any purpose other than the routine solicitation and processing of credit card applications in a retail establishment, to all of the following types of information of any one person:
 
 (A)Bank or credit card account information;
 
@@ -6102,7 +6102,7 @@ The Company intends to obtain a consumer credit report on you for the permissibl
 
 (C)Date of birth.
 
-\[{{1024\_5\_a\_6}}\] The job for which you are applying (or if current employee, already occupy) is a position in which you would be (any of the following):
+\[ {{1024\_5\_a\_6}} \] The job for which you are applying (or if current employee, already occupy) is a position in which you would be (any of the following):
 
 A named signatory on the bank or credit card account of the employer;
 
@@ -6110,9 +6110,11 @@ A named signatory on the bank or credit card account of the employer;
 
 (C)Authorized to enter into financial contracts on behalf of the employer.
 
-\[{{1024\_5\_a\_7}}\] The job for which you are applying (or if current employee, already occupy) is a position that involves access to confidential or proprietary information, including a formula, pattern, compilation, program, device, method, technique, process or trade secret that: (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who may obtain economic value from the disclosure or use of the information, and (ii) is the subject of an effort that is reasonable under the circumstances to maintain secrecy of the information.
+\[ {{1024\_5\_a\_7}} \] The job for which you are applying (or if current employee, already occupy) is a position that involves access to confidential or proprietary information, including a formula, pattern, compilation, program, device, method, technique, process or trade secret that: (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who may obtain economic value from the disclosure or use of the information, and (ii) is the subject of an effort that is reasonable under the circumstances to maintain secrecy of the information.
 
-\[{{1024\_5\_a\_8}} \] The job for which you are applying (or if current employee, already occupy) is a position that involves regular access during the workday to cash totaling Ten Thousand ($10,000) Dollars or more and which belongs to the employer, a customer or client.\]
+\[ {{1024\_5\_a\_8}} \] The job for which you are applying (or if current employee, already occupy) is a position that involves regular access during the workday to cash totaling Ten Thousand ($10,000) Dollars or more and which belongs to the employer, a customer or client (Depends what was ordered by the End User on the screening page).
+
+  
 
   
 
