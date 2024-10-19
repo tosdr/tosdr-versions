@@ -120,11 +120,11 @@ Perícia confirma que professora morreu após ingerir alimento contaminado com p
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
 
 Pessoas & Negócios
 
-Primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/b/csm_menino-2-anos-bahia-QI-reproducao-arquivo-pessoal_152e53af00.jpg)
+[![Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/8/csm_Pressao_Alta_-_Freepik_3_9ffe2ae767.jpg)
+
+Saúde
+
+Saúde
+
+Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos
+
+Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[![Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/b/csm_menino-2-anos-bahia-QI-reproducao-arquivo-pessoal_152e53af00.jpg)
 
 superdotado
 
@@ -206,15 +214,7 @@ superdotado
 
 Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI
 
-Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://www.tnh1.com.br/noticia/nid/menino-de-2-anos-da-bahia-e-o-brasileiro-mais-jovem-a-entrar-para-sociedade-internacional-de-alto-qi/ "Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI")[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
-
-em Rio Largo
-
-em Rio Largo
-
-Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento
-
-Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://www.tnh1.com.br/noticia/nid/menino-de-2-anos-da-bahia-e-o-brasileiro-mais-jovem-a-entrar-para-sociedade-internacional-de-alto-qi/ "Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
 
 quase 10 mil imagens
 
@@ -232,39 +232,39 @@ Mulheres denunciam dono de academia por assédio, estupro e violência psicológ
 
 Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")
 
-[![Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_Dinheiro_Agencia_Brasil_17113d0b9d.jpg)
+[![Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_csm_ozempic_fa13d14371_fffd996311.jpg)
 
-duas parcelas
+Fluxo sanguíneo
 
-duas parcelas
+Fluxo sanguíneo
 
-Veja as datas de pagamento do 13º salário de trabalhadores em 2024
+Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise
 
-Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://www.tnh1.com.br/noticia/nid/veja-as-datas-de-pagamento-do-13o-salario-de-trabalhadores-em-2024/ "Veja as datas de pagamento do 13º salário de trabalhadores em 2024")[![Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/1/csm_laboratorio-testes-HIV-agencia-brasil_c62328b444.jpg)
+Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise](https://www.tnh1.com.br/noticia/nid/medicamentos-como-ozempic-podem-ter-beneficios-para-o-cerebro-diz-analise/ "Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise")[![Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/0/csm_liam-payne-fortuna-reproducao-redes-sociais__1__0fe50fd480.jpg)
 
-órgãos infectados
+R$ 395 milhões
 
-órgãos infectados
+R$ 395 milhões
 
-Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP
+Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?
 
-Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP](https://www.tnh1.com.br/noticia/nid/laboratorio-do-rj-emitiu-dezenas-de-resultados-errados-para-hiv-aponta-mp/ "Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP")[![IML procura familiares de homem assassinado por amante em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_Moacir_da_Silva_-_foto_Divulgacao_Policia_Cientifica_2_40e56524b1.jpg)
+Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?](https://www.tnh1.com.br/noticia/nid/qual-e-a-fortuna-de-liam-payne-e-quem-herdara-os-bens-do-ex-one-direction/ "Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?")[![Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/c/csm_Michael_Jordan_-_foto_Marcelo_SoubhiaFolhapress_c00f785348.jpeg)
 
-Polícia
+James Jordan
 
-Polícia
+James Jordan
 
-IML procura familiares de homem assassinado por amante em Rio Largo
+Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos
 
-IML procura familiares de homem assassinado por amante em Rio Largo](https://www.tnh1.com.br/noticia/nid/iml-procura-familiares-de-homem-assassinado-por-amante-em-rio-largo/ "IML procura familiares de homem assassinado por amante em Rio Largo")[![Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_Apri__gio__Podemos___candidato_a_Prefeitura_de_Taboao_da_Serra_-_Foto_Reproducao_-_Instagram_9ab3a0c29e.jpg)
+Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos](https://www.tnh1.com.br/noticia/nid/caso-do-assassinato-do-pai-de-michael-jordan-tem-reviravolta-apos-quase-30-anos/ "Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos")[![Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/f/csm_Campeonato_Argentino_-_foto_AFA_67f935a082.jpg)
 
-Brasil
+Apertura
 
-Brasil
+Apertura
 
-Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros
+Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda
 
-Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-o-alagoano-prefeito-de-taboao-da-serra-que-foi-alvo-de-tiros/ "Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros")
+Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda](https://www.tnh1.com.br/noticia/nid/campeonato-argentino-anula-rebaixamento-e-estara-inchado-em-2025-entenda/ "Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
