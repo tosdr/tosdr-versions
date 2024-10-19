@@ -30,7 +30,11 @@
     * [Poulsbo](https://townandcountrymarkets.com/markets/poulsbo)
     * [Shoreline](https://townandcountrymarkets.com/markets/shoreline)
     
-* [Shop](https://townandcountrymarkets.com/shop-overview)
+* Shop
+    
+    * [Groceries](https://townandcountrymarkets.com/shop-overview)
+    * [Holiday Reservations](https://order.townandcountrymarkets.com/)
+    
 
 * [Store Locator](https://townandcountrymarkets.com/my-store/store-locator)
 * [My Favorites](https://townandcountrymarkets.com/shop#!/?filter=is_favorite)
