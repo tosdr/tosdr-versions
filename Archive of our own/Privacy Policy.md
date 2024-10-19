@@ -45,10 +45,10 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: "uchiha sasuke/uzumaki naruto" angst kudos>10 
+* Work Search  tip: katekyou "alternate universe" sort:>words 
     
 
-> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$121,209.48, and we’ve reached **3,247** new members out of our goal of **4,500**
+> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$140,540.96, and we’ve reached **3,782** new members out of our goal of **4,500**
 
 [×](https://archiveofourown.org/tos?hide_banner=true&view_adult=true "hide banner")
 
