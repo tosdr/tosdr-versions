@@ -50,31 +50,31 @@ Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
-
-quase 10 mil imagens
-
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
-
-EM MACEIÓ
-
-Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
+   [![Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/d/csm_com-apoio-do-governo-de-alagoas-praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf_5ad91ee449.jpg)
 
 Alagoas
 
-Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")   [!["É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_casal_josimar_e_taciana_feminicidio_sp_37c2ccc375.jpg)
+Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www.tnh1.com.br/noticia/nid/praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf/ "Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf")   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
+
+quase 10 mil imagens
+
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
+
+EM MACEIÓ
+
+Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
+
+Alagoas
+
+Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")   [!["É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/3/csm_casal_josimar_e_taciana_feminicidio_sp_37c2ccc375.jpg)
 
 Taciana Maria
 
-"É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://www.tnh1.com.br/noticia/nid/e-um-monstro-irma-de-alagoana-morta-por-companheiro-em-sp-revela-ultimo-contato-com-vitima/ ""É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
+"É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://www.tnh1.com.br/noticia/nid/e-um-monstro-irma-de-alagoana-morta-por-companheiro-em-sp-revela-ultimo-contato-com-vitima/ ""É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
 
 Operação Landinos
 
-Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")   [![Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_foragido-morto-troca-tiros-marechal_4d04254ec8.jpg)
-
-Marechal Deodoro
-
-Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://www.tnh1.com.br/noticia/nid/foragido-de-pernambuco-morre-apos-trocar-tiros-com-policiais-em-alagoas/ "Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas")
+Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https:
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_28ac57f71c.jpg)
+   [![Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/d/csm_viatura_f507565c1e.jpeg)
+
+Polícia
+
+Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prende-homem-acusado-de-estuprar-enteada-de-13-anos-em-pilar/ "Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar")   [![Polícia prende suspeitos e apreende maconha e cocaína em Palmeira dos Índios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_Apreensao_Drogas_Palmeira_f3f57bd64a.jpg)
+
+Interior
+
+Polícia prende suspeitos e apreende maconha e cocaína em Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeitos-e-apreende-maconha-e-cocaina-em-palmeira-dos-indios/ "Polícia prende suspeitos e apreende maconha e cocaína em Palmeira dos Índios")   [!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_28ac57f71c.jpg)
 
 Cidade Universitária
 
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")   [![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_6649d71011.jpg)
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")   [![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_6649d71011.jpg)
 
 No Jacintinho
 
-Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")   [![Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
+Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")   [![Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
 
 Violência
 
-Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-companheira-denuncia-lo-por-agressoes-e-injuria-em-rio-largo/ "Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo")   [![Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_csm_viatura_rotam_6b45d9697e_057ceec0aa.jpeg)
+Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-companheira-denuncia-lo-por-agressoes-e-injuria-em-rio-largo/ "Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo")   [![Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/2/csm_csm_viatura_rotam_6b45d9697e_057ceec0aa.jpeg)
 
 Na Levada
 
-Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://www.tnh1.com.br/noticia/nid/apos-denuncia-policia-encontra-5-kg-de-maconha-em-casa-do-trafico-na-vila-brejal/ "Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal")   [![Genro bebe, discute com sogro e tenta estrangulá-lo em Maceió; PM prende agressor](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
-
-No Clima Bom
-
-Genro bebe, discute com sogro e tenta estrangulá-lo em Maceió; PM prende agressor](https://www.tnh1.com.br/noticia/nid/genro-bebe-discute-com-sogro-e-tenta-estrangula-lo-em-maceio-pm-prende-agressor/ "Genro bebe, discute com sogro e tenta estrangulá-lo em Maceió; PM prende agressor")   [![Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_csm_gun-revolver-fire-firing-370202_18d01f626b_6ee8a66251.jpeg)
-
-Vítima socorrida
-
-Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://www.tnh1.com.br/noticia/nid/briga-por-causa-de-divida-de-r-150-acaba-em-tentativa-de-assassinato-a-tiros-em-maceio/ "Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió")
+Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://www.tnh1.com.br/noticia/nid/apos-denuncia-policia-encontra-5-kg-de-maconha-em-casa-do-trafico-na-vila-brejal/ "Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -124,11 +124,7 @@ Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros e
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,7 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_Pressao_Alta_-_Freepik_3_9ffe2ae767.jpg)
+[![Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/8/csm_Pressao_Alta_-_Freepik_3_9ffe2ae767.jpg)
 
 Saúde
 
@@ -210,7 +206,7 @@ Saúde
 
 Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos
 
-Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
 
 quase 10 mil imagens
 
@@ -218,15 +214,7 @@ quase 10 mil imagens
 
 "Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
-
-Polícia investiga
-
-Polícia investiga
-
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
-
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")[![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_72bcb6379e.png)
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_72bcb6379e.png)
 
 'Damares'
 
@@ -234,41 +222,49 @@ Mulheres denunciam dono de academia por assédio, estupro e violência psicológ
 
 Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas
 
-Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")
+Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
 
-[![Governador da Bahia decreta três dias de luto após massacre em escola](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/19/massacre_escola_bahia_foto_reproducao.png)
+Polícia investiga
 
-Mortes de alunos
+Polícia investiga
 
-Mortes de alunos
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
 
-Governador da Bahia decreta três dias de luto após massacre em escola
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")
 
-Governador da Bahia decreta três dias de luto após massacre em escola](https://www.tnh1.com.br/noticia/nid/governador-da-bahia-decreta-tres-dias-de-luto-apos-massacre-em-escola/ "Governador da Bahia decreta três dias de luto após massacre em escola")[![Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_csm_netanyahu_record_tv_18c04cfdca.jpg)
+[![Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_Menina_Baleada_Cabeca_Rio_2199de69c9.jpg)
 
-oriente médio
+Brasil
 
-oriente médio
+Brasil
 
-Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas
+Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense
 
-Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas](https://www.tnh1.com.br/noticia/nid/drone-e-lancado-contra-casa-de-netanyahu-no-norte-de-israel-acao-nao-deixa-vitimas/ "Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas")[![Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_aprigio_prefeito_taboao_divulgacao_152e998cfd.jpg)
+Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense](https://www.tnh1.com.br/noticia/nid/menina-de-3-anos-e-baleada-na-cabeca-em-tiroteio-na-baixada-fluminense/ "Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense")[![Próximo do retorno, Neymar chora e diz que não volta 'meia boca'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_Neymar_10946fddf8.jpg)
 
-busca reeleição
+Futebol Internacional
 
-busca reeleição
+Futebol Internacional
 
-Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra
+Próximo do retorno, Neymar chora e diz que não volta 'meia boca'
 
-Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra](https://www.tnh1.com.br/noticia/nid/policia-identifica-e-busca-suspeito-de-ataque-a-prefeito-alagoano-de-taboao-da-serra/ "Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
+Próximo do retorno, Neymar chora e diz que não volta 'meia boca'](https://www.tnh1.com.br/noticia/nid/proximo-do-retorno-neymar-chora-e-diz-que-nao-volta-meia-boca/ "Próximo do retorno, Neymar chora e diz que não volta 'meia boca'")[![Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/2/csm_Lance_Fla_Flu_76fcbe0691.jpg)
 
-Cidade Universitária
+Futebol Nacional
 
-Cidade Universitária
+Futebol Nacional
 
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
+Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time
 
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")
+Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time](https://www.tnh1.com.br/noticia/nid/video-flamengo-detona-arbitragem-e-divulga-video-com-supostos-erros-contra-o-time/ "Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time")[![Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/d/csm_viatura_c759d95695.jpeg)
+
+Polícia
+
+Polícia
+
+Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar
+
+Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prende-homem-acusado-de-estuprar-enteada-de-13-anos-em-pilar/ "Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
