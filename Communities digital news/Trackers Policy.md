@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala_rond-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-criminal-aliens-in-texas-1200x630.jpg)](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
 
-[DeSantis on Kamala: ‘Her whole candidacy is a fraud’](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
+[Authorities say group of 134 illegals, including Iranians, apprehended in Texas](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-cackling-1200x630.jpg)](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tyrus-1200x630.jpg)](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
 
-[Harris jeered pro-life protester who shouted ‘Jesus is Lord’: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
+[‘Gutfeld!’ regular interviews Trump, apologizes right off the bat: ‘I’ve been very critical about you…’](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bob-casey-1200x630.jpg)](https://americanwirenews.com/vulnerable-incumbent-dem-bucks-biden-moves-toward-the-middle-in-last-minute-pitch-to-voters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wallace-oleary-1200x630.jpg)](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
 
-[Vulnerable incumbent Dem bucks Biden, moves toward the middle in last-minute pitch to voters](https://americanwirenews.com/vulnerable-incumbent-dem-bucks-biden-moves-toward-the-middle-in-last-minute-pitch-to-voters/)
+[Chris Wallace asks ‘Mr. Wonderful’ if he’s ‘really that much of an a\*\*hole’](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nikki-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-reacts-to-pressure-to-deploy-nikki-haley-on-the-campaign-trail/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ninan-1200x630.jpg)](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
 
-[Trump reacts to pressure to deploy Nikki Haley on the campaign trail](https://americanwirenews.com/trump-reacts-to-pressure-to-deploy-nikki-haley-on-the-campaign-trail/)
+[CNN analyst: ‘I cannot find one Arab-American within my social circle’ who will vote Harris](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-speaking-with-dan-bongino-1200x630.jpg)](https://americanwirenews.com/trump-slams-j6-judge-over-doc-dump-weeks-before-election-day/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cbp-log-moving-1200x630.jpg)](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
 
-[Trump slams J6 judge over doc dump weeks before Election Day](https://americanwirenews.com/trump-slams-j6-judge-over-doc-dump-weeks-before-election-day/)
+[Govt. agencies ROASTED for pathetic hurricane cleanup video: ’14 people to move a 12 lb log 30 feet’](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dave-ramsey-1200x630.jpg)](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-muir-and-trump-1200x630.jpg)](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
 
-[Dave Ramsey laughs at threats to ‘cancel’ him over Trump vote: ‘That’s hard to do’](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+[‘Yet again, Trump was right’: ABC’s crime ‘fact-check’ aged like hot milk](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-springsteen-1200x630.jpg)](https://americanwirenews.com/sour-springsteen-whines-that-trump-is-swaying-to-music-thats-my-job/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_kamhead-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
 
-[Sour Springsteen whines that Trump is ‘swaying’ to music: ‘That’s my job’](https://americanwirenews.com/sour-springsteen-whines-that-trump-is-swaying-to-music-thats-my-job/)
+[Trump mocks Kamala for pushing ‘exhausted’ lie: ‘Doesn’t have the energy of a rabbit’](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-michigan-1200x630.jpg)](https://americanwirenews.com/trump-has-savage-reaction-to-death-of-hamas-leader-thats-sometimes-what-happens/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-maher-1200x630.jpg)](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
 
-[Trump has savage reaction to death of Hamas leader: ‘That’s sometimes what happens’](https://americanwirenews.com/trump-has-savage-reaction-to-death-of-hamas-leader-thats-sometimes-what-happens/)
+[Maher, Scarborough cry over TDS: ‘It’s not deranged to fear this!’](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wapojen-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djttiktox-1200-x-628-1200x630.jpg)
 
-### WaPo neocon pundit Jen Rubin uncorks completely unhinged take about Trump ‘Nazi’ rally](https://americanwirenews.com/wapo-neocon-pundit-jen-rubin-uncorks-completely-unhinged-take-about-trump-nazi-rally/)
+### Trump teams up with WWE legends to body slam Kamala: ‘Choose wisely, the nation depends on it’](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,19 +78,55 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ninan-220x180.jpg)](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lizzo-220x180.jpg)](https://americanwirenews.com/kamala-rolls-out-the-heavy-hitters-lizzo-campaigns-for-veep-in-detroit/)
 
-[CNN analyst: ‘I cannot find one Arab-American within my social circle’ who will vote Harris](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
+[Kamala rolls out the heavy hitters, Lizzo campaigns for veep in Detroit](https://americanwirenews.com/kamala-rolls-out-the-heavy-hitters-lizzo-campaigns-for-veep-in-detroit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dave-ramsey-220x180.jpg)](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+
+[Dave Ramsey laughs at threats to ‘cancel’ him over Trump vote: ‘That’s hard to do’](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-gscookies-1200-x-628-220x180.jpg)](https://americanwirenews.com/girl-scouts-mull-huge-dues-hike-amid-decline-in-membership/)
 
 [Girl Scouts mull huge dues hike amid decline in membership](https://americanwirenews.com/girl-scouts-mull-huge-dues-hike-amid-decline-in-membership/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-speaking-with-dan-bongino-220x180.jpg)](https://americanwirenews.com/trump-slams-j6-judge-over-doc-dump-weeks-before-election-day/)
+
+[Trump slams J6 judge over doc dump weeks before Election Day](https://americanwirenews.com/trump-slams-j6-judge-over-doc-dump-weeks-before-election-day/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-harris-border-220x180.jpg)](https://americanwirenews.com/ballooning-immigration-under-biden-harris-admin-a-problem-for-healthcare-providers-study/)
 
 [Ballooning immigration under Biden-Harris admin a problem for healthcare providers: Study](https://americanwirenews.com/ballooning-immigration-under-biden-harris-admin-a-problem-for-healthcare-providers-study/)
 
 (Official White House Photo by Lawrence Jackson)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-michigan-220x180.jpg)](https://americanwirenews.com/trump-has-savage-reaction-to-death-of-hamas-leader-thats-sometimes-what-happens/)
+
+[Trump has savage reaction to death of Hamas leader: ‘That’s sometimes what happens’](https://americanwirenews.com/trump-has-savage-reaction-to-death-of-hamas-leader-thats-sometimes-what-happens/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nikki-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-reacts-to-pressure-to-deploy-nikki-haley-on-the-campaign-trail/)
+
+[Trump reacts to pressure to deploy Nikki Haley on the campaign trail](https://americanwirenews.com/trump-reacts-to-pressure-to-deploy-nikki-haley-on-the-campaign-trail/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bob-casey-220x180.jpg)](https://americanwirenews.com/vulnerable-incumbent-dem-bucks-biden-moves-toward-the-middle-in-last-minute-pitch-to-voters/)
+
+[Vulnerable incumbent Dem bucks Biden, moves toward the middle in last-minute pitch to voters](https://americanwirenews.com/vulnerable-incumbent-dem-bucks-biden-moves-toward-the-middle-in-last-minute-pitch-to-voters/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-springsteen-220x180.jpg)](https://americanwirenews.com/sour-springsteen-whines-that-trump-is-swaying-to-music-thats-my-job/)
+
+[Sour Springsteen whines that Trump is ‘swaying’ to music: ‘That’s my job’](https://americanwirenews.com/sour-springsteen-whines-that-trump-is-swaying-to-music-thats-my-job/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-cackling-220x180.jpg)](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
+
+[Harris jeered pro-life protester who shouted ‘Jesus is Lord’: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala_rond-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
+
+[DeSantis on Kamala: ‘Her whole candidacy is a fraud’](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wapojen-1200-x-628-220x180.jpg)](https://americanwirenews.com/wapo-neocon-pundit-jen-rubin-uncorks-completely-unhinged-take-about-trump-nazi-rally/)
+
+[WaPo neocon pundit Jen Rubin uncorks completely unhinged take about Trump ‘Nazi’ rally](https://americanwirenews.com/wapo-neocon-pundit-jen-rubin-uncorks-completely-unhinged-take-about-trump-nazi-rally/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-deutsch-220x180.jpg)](https://americanwirenews.com/are-you-worried-youre-on-a-list-msnbc-ramps-up-the-rhetoric-as-kamala-implodes/)
 
@@ -139,42 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-pointing-220x180.jpg)](https://americanwirenews.com/you-lost-zero-fans-maxim-magazine-makes-unapologetic-presidential-endorsement/)
 
 [‘You lost zero fans’: Maxim Magazine makes unapologetic presidential endorsement](https://americanwirenews.com/you-lost-zero-fans-maxim-magazine-makes-unapologetic-presidential-endorsement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2021/10/SG-Mitch-McConnell-220x180.jpg)](https://americanwirenews.com/republican-attempts-to-find-mcconnell-replacement-lead-to-in-fighting-over-best-path-forward/)
-
-[Republican attempts to find McConnell replacement lead to in-fighting over best path forward](https://americanwirenews.com/republican-attempts-to-find-mcconnell-replacement-lead-to-in-fighting-over-best-path-forward/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-baierspecreport1-1200-x-628-220x180.jpg)](https://americanwirenews.com/bret-baier-says-he-made-a-mistake-during-kamala-interview/)
-
-[Bret Baier says he made a mistake during Kamala interview](https://americanwirenews.com/bret-baier-says-he-made-a-mistake-during-kamala-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-doug-emhoff-and-kamala-harris-220x180.jpg)](https://americanwirenews.com/famous-columnist-asks-why-one-question-that-would-expose-kamalas-fraudulent-campaign-is-being-avoided/)
-
-[Famous columnist asks why ONE question ‘that would expose Kamala’s fraudulent campaign’ is being avoided](https://americanwirenews.com/famous-columnist-asks-why-one-question-that-would-expose-kamalas-fraudulent-campaign-is-being-avoided/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gaffigan-220x180.jpg)](https://americanwirenews.com/trump-wasnt-the-only-one-who-took-a-shot-at-kamala-at-charity-dinner/)
-
-[Trump wasn’t the only one who took a shot at Kamala at charity dinner](https://americanwirenews.com/trump-wasnt-the-only-one-who-took-a-shot-at-kamala-at-charity-dinner/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-mitch-mcconnell-220x180.jpg)](https://americanwirenews.com/mcconnell-cried-on-j6-trashed-trump-cheered-biden-win-new-book-says/)
-
-[McConnell cried on J6, trashed Trump, cheered Biden win – new book says](https://americanwirenews.com/mcconnell-cried-on-j6-trashed-trump-cheered-biden-win-new-book-says/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walz-220x180.png)](https://americanwirenews.com/thats-bullsht-frustration-sinks-in-with-tampon-tims-foul-mouthed-trump-rant/)
-
-[‘That’s bullsh\*t!’ Frustration sinks in with ‘Tampon Tim’s’ foul-mouthed Trump rant](https://americanwirenews.com/thats-bullsht-frustration-sinks-in-with-tampon-tims-foul-mouthed-trump-rant/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-1-220x180.jpg)](https://americanwirenews.com/musk-campaigns-for-trump-in-vital-battleground-state/)
-
-[Musk campaigns for Trump in vital battleground state](https://americanwirenews.com/musk-campaigns-for-trump-in-vital-battleground-state/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chris-jake-wolf-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
-
-[Tapper, Blitzer denied raises at CNN, Wallace offered a pay cut in overhaul, report says](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rob-oneill-sg-sinwar-drone-220x180.jpg)](https://americanwirenews.com/drone-footage-released-of-hamas-leaders-last-moments-bin-laden-assassin-has-warning-for-joe-biden/)
-
-[Drone footage released of Hamas leader’s last moments, Bin-Laden assassin has warning for Joe Biden](https://americanwirenews.com/drone-footage-released-of-hamas-leaders-last-moments-bin-laden-assassin-has-warning-for-joe-biden/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
