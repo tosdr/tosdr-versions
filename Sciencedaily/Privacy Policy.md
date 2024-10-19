@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Neutron Stars Shrouded in Axions: Dark Matter?](https://www.sciencedaily.com/releases/2024/10/241018131244.htm)
+* [Butterfly Brains and Cognitive Innovation](https://www.sciencedaily.com/releases/2024/10/241018131224.htm)
+* [CO2 Emissions from Forest Fires Up 60%](https://www.sciencedaily.com/releases/2024/10/241017173155.htm)
+* ['Manliness' Impedes Forgiveness of Coworkers](https://www.sciencedaily.com/releases/2024/10/241017194604.htm)
+* [Concerning Levels of PFAS in Fish](https://www.sciencedaily.com/releases/2024/10/241017113858.htm)
 * [Breakthrough in Ultra-Clean Biofuel Tech](https://www.sciencedaily.com/releases/2024/10/241017113536.htm)
 * [People Sympathize With Bullied AI Bots](https://www.sciencedaily.com/releases/2024/10/241017113151.htm)
 * [MRNA Vaccine to Prevent and Treat C. Diff](https://www.sciencedaily.com/releases/2024/10/241017112707.htm)
 * [Drug Discovery Within the Patient](https://www.sciencedaily.com/releases/2024/10/241017112513.htm)
 * [Fastest Degrading Bioplastic in Seawater](https://www.sciencedaily.com/releases/2024/10/241017112500.htm)
-* [Quantum Research Breakthrough](https://www.sciencedaily.com/releases/2024/10/241017112355.htm)
-* [Converting CO2 Into Valuable Products](https://www.sciencedaily.com/releases/2024/10/241017112352.htm)
-* [Genes That Viruses 'Steal' from Ocean Microbes](https://www.sciencedaily.com/releases/2024/10/241017112343.htm)
-* [Electricity from Harnessing Vibrations](https://www.sciencedaily.com/releases/2024/10/241017112223.htm)
-* [Plankton Balloon to 6 Times Their Size to Travel](https://www.sciencedaily.com/releases/2024/10/241017112220.htm)
 
 Trending Topics
 ---------------
@@ -230,9 +230,9 @@ this week
 
 [Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
-[Vaccines](https://www.sciencedaily.com/news/health_medicine/vaccines/)
-
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -246,9 +246,9 @@ this week
 
 [Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
