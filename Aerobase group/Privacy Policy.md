@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Russia flaunts doomsday weapons to curb Western support for Ukraine](https://www.defensenews.com/global/europe/2024/10/19/russia-flaunts-doomsday-weapons-to-curb-western-support-for-ukraine/)  
+    10/19/24 10:00am  
+    
+    In this image taken from video released by Russian Defense Ministry Press Service in October 2022, a Yars intercontinental ballistic missile is test-fired as part of Russia's nuclear drills from a launch site in Plesetsk. (Russian Defense Ministry Press Service via AP)
+    
 * [No pilots, all cargo: Airbus tests loading of autonomous helicopter](https://www.defensenews.com/air/2024/10/16/no-pilots-all-cargo-airbus-tests-loading-of-autonomous-helicopter/)  
     10/16/24 01:00pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/15/24 11:32am  
     
     A Terminal High Altitude Area Defense (THAAD) missile defense system is displayed outside the White House in 2019. The U.S. is sending a THAAD, along with roughly 100 troops to operate it, to Israel. (Alex Brandon/AP)
-    
-* [US to send missile defense system and troops to Israel](https://www.defensenews.com/news/your-military/2024/10/14/us-to-send-missile-defense-system-and-troops-to-israel/)  
-    10/14/24 11:17am  
-    
-    Troops prepare to load a Terminal High Altitude Area Defense (THAAD) launching station onto a 4th Airlift Squadron C-17 Globemaster III at Fort Bliss, Texas, Feb. 23, 2019. The U.S. is sending a THAAD battery, along with the troops needed to operate it, to Israel. (Staff Sgt. Cory D. Payne/U.S. Air Force via AP)
     
 
 Recent parts by keyword  
