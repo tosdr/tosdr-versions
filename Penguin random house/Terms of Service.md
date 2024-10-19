@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    New Releases
+    How To Read More in 2024
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     33 Halloween Books for Little Pumpkins
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
