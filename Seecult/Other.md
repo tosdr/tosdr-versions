@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar/belef.jpg?itok=MZeDXv0p)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/quick-time-desktop-theatar)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-london/hyde-park-030.jpg?itok=ZO83QKmd)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-london)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/s-golubovic-single-eye.jpg?itok=y_XV4jiC)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pritt-parn-i-kresimir-zimonic.jpg?itok=vWurtJxC)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Upečatljiv početak 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-pocetak-43-skopskog-dzez-festivala)
+* [Performisima prvi put u Parizu](http://seecult.org/vest/performisima-prvi-put-u-parizu)
 * [60\. Oktobarski salon i ključna pitanja današnjice](http://seecult.org/vest/60-oktobarski-salon-i-kljucna-pitanja-danasnjice)
 * [Godišnje nagrade reditelja, u junu novi Balkanski festival režije](http://seecult.org/vest/godisnje-nagrade-reditelja-u-junu-novi-balkanski-festival-rezije)
 * [Kosheen slavi 25 godina u Dorćol Platzu](http://seecult.org/vest/kosheen-slavi-25-godina-u-dorcol-platzu)
@@ -430,11 +432,10 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [67\. Sajam knjiga u slavu slobode reči](http://seecult.org/vest/67-sajam-knjiga-u-slavu-slobode-reci)
 * [Završen Centar za interpretaciju kulturnog nasleđa Feliks Romulijane](http://seecult.org/vest/zavrsen-centar-za-interpretaciju-kulturnog-nasleda-feliks-romulijane)
 * [Milica Stojadinović Srpkinja pesnikinji Dragani Mladenović](http://seecult.org/vest/milica-stojadinovic-srpkinja-pesnikinji-dragani-mladenovic)
-* [17\. Kondenz poziva na okupljanje](http://seecult.org/vest/17-kondenz-poziva-na-okupljanje)
-* [Naličje društva](http://seecult.org/vest/nalicje-drustva)
 
 * [Konkursi](#tab1_1)
 
+* [Konkurs za izlaganje u Galeriji Kuće legata u 2025.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-kuce-legata-u-2025)
 * [Konkurs za predstavnika Srbije na 19. Bijenalu arhitekture u Veneciji 2025.](http://seecult.org/konkurs/konkurs-za-predstavnika-srbije-na-19-bijenalu-arhitekture-u-veneciji-2025)
 * [Konkurs za izlaganje u Galeriji SULUV u 2025. godini.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-suluv-u-2025-godini)
 * [Кonkurs za izlaganje u Centru za kulturu Nebojša Glogovac](http://seecult.org/konkurs/konkurs-za-izlaganje-u-centru-za-kulturu-nebojsa-glogovac)
@@ -442,7 +443,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Konkurs Galerije Meander za 2025.](http://seecult.org/konkurs/konkurs-galerije-meander-za-2025)
 * [Konkurs za 4. Međunarodno bijenale litografije](http://seecult.org/konkurs/konkurs-za-4-medunarodno-bijenale-litografije)
 * [Konkurs za volontere jubilarnog, 20. Filmskog festivala Slobodna zona](http://seecult.org/konkurs/konkurs-za-volontere-jubilarnog-20-filmskog-festivala-slobodna-zona)
-* [Produžen konkurs za otkup dela vizuelnih umetnosti - Slika grada](http://seecult.org/konkurs/produzen-konkurs-za-otkup-dela-vizuelnih-umetnosti-slika-grada)
 
 * [Kritika](#tab2_1)
 
