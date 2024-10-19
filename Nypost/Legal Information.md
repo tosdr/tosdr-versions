@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Exclusive
+
+[Fetterman sounds the alarm after Elon Musk endorses Trump, joins ex-prez for rallies: ‘A concern’](https://nypost.com/2024/10/19/us-news/fetterman-sounds-the-alarm-after-elon-musk-endorses-trump-joins-ex-prez-for-rallies-a-concern/)
+
 Privacy Notice Highlights
 =========================
 
