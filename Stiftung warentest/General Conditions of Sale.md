@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
 
 Service Stiftung Warentest
 
