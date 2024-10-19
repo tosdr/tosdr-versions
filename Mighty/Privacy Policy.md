@@ -4,7 +4,7 @@
 
 [Creators](https://www.mightyapp.com/become-a-creator)[Pricing](https://www.mightyapp.com/design/pricing)Download iOS appLog inGet started for free
 
-[Start designing](https://www.mightyapp.com/design)
+[Start designing](https://www.mightyapp.com/design)Watch video
 
 ![Logo](/logos/logo-icon.png)
 
@@ -56,6 +56,8 @@
 ##### Product
 
 * [Templates](https://www.mightyapp.com/design)
+    
+* [Playground v3](https://www.mightyapp.com/pg-v3)
     
 * [iOS App](https://apps.apple.com/us/app/playground-ai-art-generator/id6478421458)
     
