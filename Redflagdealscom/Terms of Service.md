@@ -195,7 +195,7 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
 
 [Toronto, ON](https://www.redflagdeals.com/in/?return_url=https%3A//www.redflagdeals.com/info/terms/)
 
-* ![](https://assets.rfdcontent.com/graphics/rfd/v33.36.315/icons/hot_deal_20.png) [Hot Deals](https://forums.redflagdeals.com/hot-deals-f9/)
+* ![](https://assets.rfdcontent.com/graphics/rfd/v33.36.315-hotfix/icons/hot_deal_20.png) [Hot Deals](https://forums.redflagdeals.com/hot-deals-f9/)
 * [Cell Phones](https://forums.redflagdeals.com/hot-deals-f9/?c=5121)
 * [Groceries](https://forums.redflagdeals.com/hot-deals-f9/?c=53)
 * [Costco](https://forums.redflagdeals.com/hot-deals-f9/?dealer_id=110)
