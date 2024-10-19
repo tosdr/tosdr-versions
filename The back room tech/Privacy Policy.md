@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2008-80x26.png)](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")[Mark’s Windows 2008 DNS Server Command Line Cheat Sheet](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/brocade-driver-search-80x32.png)](https://thebackroomtech.com/2018/09/03/upgrade-brocade-san-switch-firmware-step-by-step/ "Upgrade Brocade SAN Switch Firmware Step-by-Step")[Upgrade Brocade SAN Switch Firmware Step-by-Step](https://thebackroomtech.com/2018/09/03/upgrade-brocade-san-switch-firmware-step-by-step/ "Upgrade Brocade SAN Switch Firmware Step-by-Step")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2029'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/microsoft-azure-files-80x29.png)](https://thebackroomtech.com/2019/01/15/setting-up-a-microsoft-azure-files-file-share/ "Setting Up A Microsoft Azure Files File Share")[Setting Up A Microsoft Azure Files File Share](https://thebackroomtech.com/2019/01/15/setting-up-a-microsoft-azure-files-file-share/ "Setting Up A Microsoft Azure Files File Share")
+    ![](https://s11921.pcdn.co/wp-content/uploads/vm-avaliability-set-80x34.png)](https://thebackroomtech.com/2018/10/05/overview-of-azure-virtual-machine-availability-sets/ "Overview of Azure Virtual Machine Availability Sets")[Overview of Azure Virtual Machine Availability Sets](https://thebackroomtech.com/2018/10/05/overview-of-azure-virtual-machine-availability-sets/ "Overview of Azure Virtual Machine Availability Sets")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2022'%3E%3C/svg%3E)
     
     ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-80x22.png)](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")[Howto: Shut down or reboot a Windows 2008 Server Core System](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/10-select-an-existing-key-pair-linux-ec2-80x50.png)](https://thebackroomtech.com/2018/11/05/how-to-ssh-to-an-ec2-instance-from-mac/ "How to SSH to a Linux EC2 Instance from Mac")[How to SSH to a Linux EC2 Instance from Mac](https://thebackroomtech.com/2018/11/05/how-to-ssh-to-an-ec2-instance-from-mac/ "How to SSH to a Linux EC2 Instance from Mac")
 
 #### Our Publishing Family
 
