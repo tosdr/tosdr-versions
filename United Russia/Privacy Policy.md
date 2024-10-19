@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://cdn.er.ru/media/news/October2024/V6ezvMNqykgtTzkDkHfc-small.png)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
+
+[Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Родина](https://er.ru/activity/news?tags%5B0%5D=2682)
+
+Сегодня 14:58
+
 [![«Единая Россия» завершила обучение руководителей региональных исполкомов](https://cdn.er.ru/media/news/October2024/hZEy8IAcQriRskuxMFpp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zavershila-obuchenie-rukovoditelej-regionalnyh-ispolkomov)
 
 [«Единая Россия» завершила обучение руководителей региональных исполкомов](https://er.ru/activity/news/edinaya-rossiya-zavershila-obuchenie-rukovoditelej-regionalnyh-ispolkomov)
@@ -336,14 +344,6 @@
 [«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
 
 [#Тен](https://er.ru/activity/news?tags%5B0%5D=10707) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#БезопасныеДороги](https://er.ru/activity/news?tags%5B0%5D=1091227) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#пешеходныепереходы](https://er.ru/activity/news?tags%5B0%5D=110758) [#безопасностьнадороге](https://er.ru/activity/news?tags%5B0%5D=119360) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
-
-17.10.24
-
-[![Владимир Путин: В планах – ежегодно строить за счёт федеральной поддержки не менее 350 спортивных объектов](https://cdn.er.ru/media/news/October2024/s9DgE5CPTw1tAHTYlmTC-small.jpg)](https://er.ru/activity/news/vladimir-putin-v-planah-ezhegodno-stroit-za-schyot-federalnoj-podderzhki-ne-menee-350-sportivnyh-obektov)
-
-[Владимир Путин: В планах – ежегодно строить за счёт федеральной поддержки не менее 350 спортивных объектов](https://er.ru/activity/news/vladimir-putin-v-planah-ezhegodno-stroit-za-schyot-federalnoj-podderzhki-ne-menee-350-sportivnyh-obektov)
-
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#спортплощадки](https://er.ru/activity/news?tags%5B0%5D=5617) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#спортобъекты](https://er.ru/activity/news?tags%5B0%5D=2005) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637)
 
 17.10.24
 
