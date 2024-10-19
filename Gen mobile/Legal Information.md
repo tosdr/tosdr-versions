@@ -73,7 +73,7 @@ We collect the categories of personal information (as defined in the California 
 | --- | --- |
 | **Category of Personal Information Collected** | **Sold or Shared** |
 | Identifiers, including names, postal addresses, email addresses, online identifiers, IP addresses, account names, and other similar identifiers. | Yes |
-| Personal information categories listed in the [California Customer Records statute](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=), including names, postal addresses, telephone numbers, bank account numbers, credit/debit card numbers, and other financial information. | No  |
+| Personal information categories listed in the [California Customer Records statute](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.&part=4.&chapter=&article=), including bank account numbers, credit/debit card numbers, and other financial information. | No  |
 | Protected classification characteristics under [California law](https://www.senate.ca.gov/content/protected-classes), including sex/gender, marital status, and age (over 40). | No  |
 | Commercial information, including information regarding products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | Yes |
 | Internet or other electronic network activity information, including information regarding interactions with an internet website, application, or advertisement. | Yes |
