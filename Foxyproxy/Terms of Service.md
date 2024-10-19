@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-YOU are brilliant.
+I have been with Foxy for many years and have always been delighted with your product and service.
 
-Wolfgang Kannenberg
+Roy Buckley
