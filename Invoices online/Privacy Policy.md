@@ -128,50 +128,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=136329370)  
-AFS Electrical
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=100234920)  
+Xpress Designs
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=46042501)  
-Westside Car Audio CC
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=167679040)  
+All Trucking Solutions
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=38211765)  
-Mtunzini Group
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=147024996)  
+Gemini-IT Group
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=154331142)  
-Quad Biking Cape Town
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=97470190)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=12550190)  
-Blue Bulls Rugby Coaches Association
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=164669605)  
+FX ACCOUNTING
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=54703029)  
-CHARLIEX CONSTRUCTIONS
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=41570122)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=34428550)  
-Three Moons Emporium
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=171416606)  
+Karino Merinos ( PTY ) LTD
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=173665252)  
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=75782169)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=137338727)  
+FJW Security Cc
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=19589190)  
+KTEN PARTS
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=12940865)  
+Peter Salvage Pty Ltd
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=81550620)  
+NGB HOLDINGS PTY LTD
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=179371628)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=67351896)  
+Tantra Sound and Lightz
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=46b8d7324d8dfabf3ba0b5e8530eb69756f87443c6cc96b598c7d64f7529f69d&c=133294481)  
 OrgChart Hosting Pty Ltd
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=196258424)  
-Depot Diesel (Pty) Ltd
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=53286525)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=20914508)  
-Itroniq (Pty) Ltd
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=122852358)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=172392518)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=116152074)  
-Leef in Afrikaans
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=12045399)  
-Import Maaw
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
