@@ -352,11 +352,6 @@ Last updated: September 11, 2024
 * ![GDPR](https://cloudinary-res.cloudinary.com/image/upload/b_rgb:0C163B,c_scale,f_auto,q_auto,w_76,dpr_auto/v1563215041/website/seals/GDPR.png)
 * ![SOC](https://cloudinary-res.cloudinary.com/image/upload/b_rgb:0C163B,c_scale,f_auto,q_auto,w_76,dpr_auto/v1563215041/website/seals/21972-312_SOC_NonCPA.png)
 
-* ![Forbes Best Startup Employers 2020](https://cloudinary-res.cloudinary.com/image/upload/dpr_auto,c_scale,f_auto,q_auto,w_95/v1590418918/website/seals/Forbes_US_BESU2020_Siegel_Basic.eps)
-* ![MarTech Breakthrough Awards](https://res.cloudinary.com/cloudinary-marketing/image/upload/dpr_auto,c_scale,f_auto,q_auto,w_60/v1639749034/MarTech_Breakthrough_Awards_2021_Cloudinary_1.png)
-* ![Best Places to Work SVBJ 2021](https://res.cloudinary.com/cloudinary-marketing/image/upload/dpr_auto,c_scale,f_auto,q_auto,w_99/creative_staging/cloudinary_internal/Website/primary_navigation/2021-BPTW_Logo.png)
-* ![2020 The World's Best Cloud Companies](https://res.cloudinary.com/cloudinary-marketing/image/upload/dpr_auto,c_scale,f_auto,q_auto,w_63/v1601359190/creative_staging/cloudinary_internal/Website/primary_navigation/Cloud1002020.eps)
-
 * [Terms of Use](https://cloudinary.com/tou)
 * [Privacy Policy](https://cloudinary.com/privacy)
 * [DMCA Notice](https://cloudinary.com/dmca)
