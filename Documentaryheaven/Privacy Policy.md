@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Irish: Warriors of the Emerald Isle](/wp-content/thumbnails/6555-100x70.png?x53432)
+* [![Poison on the Platter](/wp-content/thumbnails/2313-100x70.jpg?x53432)
     
-    The Irish: Warriors of the Emerald Isle
+    Poison on the Platter
     
-    Discovery Channel documentary about Brian Boru and Ireland during the Viking Age.](https://documentaryheaven.com/the-irish-warriors-of-the-emerald-isle/ "The Irish: Warriors of the Emerald Isle")
-* [![What Plants Talk About](/wp-content/thumbnails/7474-100x70.jpg?x53432)
+    Poison on the Platter, is an eye-opening film, made by Mahesh Bhatt and Ajay Kanchan, illustrating how all of our lives are gonna be (adversely) affected by genetically modified foods. It is no more a](https://documentaryheaven.com/poison-on-the-platter/ "Poison on the Platter")
+* [![The 2nd Assassination of JFK](/wp-content/thumbnails/5999-100x70.jpg?x53432)
     
-    What Plants Talk About
+    The 2nd Assassination of JFK
     
-    This program integrates hard-core science with a light-hearted look at how plants behave, revealing a world where plants are as busy, responsive and complex as we are. From the stunning heights of the](https://documentaryheaven.com/what-plants-talk-about/ "What Plants Talk About")
-* [![Million Dollar Rooms](/wp-content/thumbnails/7178-100x70.jpg?x53432)
+    The film focuses on the historical and future significance of American manned space flight and the importance of the United States remaining on the forefront of space discovery. ‘The 2nd Assassination](https://documentaryheaven.com/the-2nd-assassination-of-jfk/ "The 2nd Assassination of JFK")
+* [![ISIS: The World’s Richest Terror Army](/wp-content/thumbnails/9923-100x70.jpg?x53432)
     
-    Million Dollar Rooms
+    ISIS: The World’s Richest Terror Army
     
-    Take a grand tour of spectacular spaces custom created for some of the world’s most lavish and distinctive homes. Million Dollar Rooms features the very best in high-end design and luxury living aroun](https://documentaryheaven.com/million-dollar-rooms/ "Million Dollar Rooms")
-* [![Bill Gates v Steve Jobs](/wp-content/thumbnails/5475-100x70.jpg?x53432)
+    A small army of fanatical Jihadists sieged 15,000 sq. miles of territory and shocked the world with it's violence and brutality. The so called Islamic State is a terror organisation, the likes of whic](https://documentaryheaven.com/isis-worlds-richest-terror-army/ "ISIS: The World’s Richest Terror Army")
+* [![The Money Masters](/wp-content/thumbnails/2185-100x70.jpg?x53432)
     
-    Bill Gates v Steve Jobs
+    The Money Masters
     
-    Bill Gates heads the biggest software, services and Internet technologies company in the world. Steve Jobs predicted the personal computer revolution and made it happen. So who is the most powerful in](https://documentaryheaven.com/bill-gates-v-steve-jobs/ "Bill Gates v Steve Jobs")
-* [![North Korea’s Nuclear Trump Card](/wp-content/thumbnails/13542-100x70.jpg?x53432)
+    THE MONEY MASTERS is a 3 1/2 hour non-fiction, historical documentary that traces the origins of the political power structure that rules our nation and the world today. The modern political power str](https://documentaryheaven.com/the-money-masters/ "The Money Masters")
+* [![Why Hate Junk Mail?](/wp-content/thumbnails/7508-100x70.jpg?x53432)
     
-    North Korea’s Nuclear Trump Card
+    Why Hate Junk Mail?
     
-    North Korea has just tested a nuclear bomb which is believed to be 10 times more powerful than the one used on Hiroshima. Kim Jong Un versus Donald Trump is the most dangerous stand off seen in decade](https://documentaryheaven.com/north-koreas-nuclear-trump-card/ "North Korea’s Nuclear Trump Card")
+    It invades our homes, dropping onto our doormats in its millions and costs the taxpayer a fortune to get rid of. It might be a menace in our mailbox but without junk mail, would our postal service sur](https://documentaryheaven.com/why-hate-junk-mail/ "Why Hate Junk Mail?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
