@@ -90,49 +90,6 @@ Terms and Conditions
 Sponsor
 -------
 
-Recent Posts
-------------
-
-[](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
-
-[directed by jazzhands (director)](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
-
-0 2 0
-
-October 19, 2024
-
-[](https://yiff-party.com/yiff/azusis-and-whiro-mythology-created-by-kuribon/)
-
-[azusis and whiro (mythology) created by kuribon](https://yiff-party.com/yiff/azusis-and-whiro-mythology-created-by-kuribon/)
-
-0 2 0
-
-October 19, 2024
-
-[](https://yiff-party.com/yiff/kayla-directed-by-av-10/)
-
-[kayla directed by av-10](https://yiff-party.com/yiff/kayla-directed-by-av-10/)
-
-0 2 0
-
-October 19, 2024
-
-[](https://yiff-party.com/yiff/game-freak-and-etc-created-by-gayoku-midara/)
-
-[game freak and etc created by gayoku midara](https://yiff-party.com/yiff/game-freak-and-etc-created-by-gayoku-midara/)
-
-0 3 0
-
-October 19, 2024
-
-[](https://yiff-party.com/yiff/kaiseka-and-karbon-created-by-seibear/)
-
-[kaiseka and karbon created by seibear](https://yiff-party.com/yiff/kaiseka-and-karbon-created-by-seibear/)
-
-0 5 0
-
-October 19, 2024
-
 Latest commented posts
 ----------------------
 
@@ -140,33 +97,33 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 552 1
+0 566 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-anotheranon-3/)
 
-[directed by jazzhands (director)](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
+[directed by anotheranon](https://yiff-party.com/yiff-ai-premium/directed-by-anotheranon-3/)
 
 0 2 0
 
-October 19, 2024
+October 20, 2024
 
-[](https://yiff-party.com/yiff/froja-helsdottir-created-by-feretta/)
+[](https://yiff-party.com/yiff-ai-premium/beastman-directed-by-hyperion/)
 
-[froja helsdottir created by feretta](https://yiff-party.com/yiff/froja-helsdottir-created-by-feretta/)
+[beastman directed by hyperion](https://yiff-party.com/yiff-ai-premium/beastman-directed-by-hyperion/)
 
-0 95 0
+0 69 0
 
-September 19, 2024
+September 20, 2024
 
-[](https://yiff-party.com/yiff/fan-character-created-by-ram-g-thunder/)
+[](https://yiff-party.com/yiff-gif/fox-mccloud-wolf-odonnell-and-zerosuit-fox-nintendo-and-etc-created-by-acstlu-and-cataliser2/)
 
-[fan character created by ram g thunder](https://yiff-party.com/yiff/fan-character-created-by-ram-g-thunder/)
+[fox mccloud, wolf o’donnell, and zerosuit fox (nintendo and etc) created by acstlu and cataliser2](https://yiff-party.com/yiff-gif/fox-mccloud-wolf-odonnell-and-zerosuit-fox-nintendo-and-etc-created-by-acstlu-and-cataliser2/)
 
-0 142 0
+0 118 0
 
-September 19, 2024
+September 20, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
