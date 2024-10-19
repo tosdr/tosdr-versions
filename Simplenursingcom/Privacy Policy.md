@@ -13,7 +13,7 @@
     * [For Nursing Instructors](https://simplenursing.com/for-nursing-instructors/ "For Nursing Instructors")
     * [TEAS](https://simplenursing.com/teas/ "TEAS")
 * [Pricing](https://simplenursing.com/pricing/ "Pricing")
-* [Contact Us](https://simplenursing.com/contact-us/ "Contact Us")
+* [Testimonials](https://simplenursing.com/testimonials/ "Testimonials")
 * [Log in](https://members.simplenursing.com/ "Log in")
 * [Join for Free](https://simplenursing.com/free-trial/ "Join for Free")
 
