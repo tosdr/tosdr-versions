@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Toothing!, Anime Sucks, and Eyes on Final Fantasy](https://www.somethingawful.com/weekend-web/toothing-anime-sucks/1/)
-* [So You Want to be a Tourist?](https://www.somethingawful.com/news/tourism/1/)
-* [Chuck Asay Cartoon Contest!](https://www.somethingawful.com/comedy-goldmine/asay-cartoons-parody/1/)
-* [What's Trump Holding?](https://www.somethingawful.com/photoshop-phriday/trump-thumbs-fingers/)
-* [No Limit Album Covers](https://www.somethingawful.com/photoshop-phriday/no-limit-albums/1/)
+* [1UP Video Game SWAT](https://www.somethingawful.com/fashion-swat/fashion-1up-revue/1/)
+* [Halloween SWAT](https://www.somethingawful.com/fashion-swat/halloween-swat/1/)
+* [Proposition 43](https://www.somethingawful.com/news/proposition-43/1/)
+* [Battlespace](https://www.somethingawful.com/movie-reviews/battlespace/1/)
+* [Watch out Joe Walsh. Paranoid Fantasy America is coming after you.](https://www.somethingawful.com/news/walsh-threatens-obama/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [The ROWBY Fan Club](https://www.somethingawful.com/awful-links/awful-link-3854/)
-* [Subj: MY MISSION IS CLEAR](https://www.somethingawful.com/news/roamin-dad-18/)
-* [The Modern Monster](https://www.somethingawful.com/news/the-modern-monster/)
-* [Knifedad Chat: Phil Elmore](https://www.somethingawful.com/news/street-senpai/)
-* [Robclarke.net](https://www.somethingawful.com/awful-links/awful-link-3494/)
+* [Hellgate](https://www.somethingawful.com/movie-reviews/hellgate/1/)
+* [Love and Kidnapping](https://www.somethingawful.com/news/love-and-kidnapping/)
+* [#SaveDerpy!](https://www.somethingawful.com/news/savederpy/)
+* [CARS: VANS (DEALS)](https://www.somethingawful.com/news/cars-vans-deals/)
+* [Science Fair SWAT](https://www.somethingawful.com/fashion-swat/science-fair-swat/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
