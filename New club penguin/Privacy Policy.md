@@ -2,7 +2,7 @@
 
 ![](/_next/image?url=%2Fnavbar%2Fbadge-icon.png&w=48&q=100)
 
-Privacy Page
+Privacy Policy
 
 Privacy Policy
 
@@ -46,11 +46,11 @@ If we are relying on your consent to process your personal information, you have
 
 Your California Privacy Rights
 
-This conditional clause of the NewCP Privacy Policy only applies to California residents.
+privacy.security.h6
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us via email at [\[email protected\]](https://newcp.net/cdn-cgi/l/email-protection).
 
-If you are under 18 years of age, reside in California, and have a registered account with NewCP, you have the right to request removal of unwanted data that you publicly post on the Application or Website. To request removal of such data, please contact us using the [\[email protected\]](https://newcp.net/cdn-cgi/l/email-protection) email, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on our website, but please be aware that the data may not be completely or comprehensively removed from our systems.
+If you are under 18 years of age, reside in California, and have a registered account with NewCP, you have the right to request removal of unwanted data that you publicly post on the Application or Website. To request removal of such data, please contact us using the [\[email protected\]](https://newcp.net/cdn-cgi/l/email-protection). email, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on our website, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
 Revisions
 
@@ -66,7 +66,7 @@ _Updated May 7th, 2023_
 
 [Blog](https://newcp.net/blog)[Support](https://newcp.net/help)[Privacy Policy](https://newcp.net/privacy)[Legal](https://newcp.net/legal)
 
-[𝕏](https://twitter.com/NewCPOfficial)[Discord](https://discord.gg/clubpenguin)[YouTube](https://www.youtube.com/@newcpofficial)[TikTok](https://www.tiktok.com/@officialnewcp)
+[𝕏](https://twitter.com/NewCPOfficial)[Discord](https://discord.gg/clubpenguin)[YouTube](https://www.youtube.com/@newcpofficial)[Bluesky](https://bsky.app/profile/newcp.net)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
