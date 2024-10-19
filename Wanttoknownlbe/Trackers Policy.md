@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/de-ongenuanceerde-domheid-van-klaas-dijkhof/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/osama-bin-laden-dood-2-mei-2011-911/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -94,7 +94,7 @@ Inschrijven
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
-[![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
+[![BRES #348](https://www.wanttoknow.nl/wp-content/uploads/BRES-348-scaled.jpg)](https://bresmagazine.nl/publicaties/)
 
 #### WantToKnow Boekentip
 
