@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![The Free Association](https://cdn.comedy.co.uk/images/library/misc/300x200/f/free_association.jpg "The Free Association")](https://www.comedy.co.uk/live/features/graham-dickson-on-ten-years-of-the-free-association/) Live
+
+[Graham Dickson on ten years of improv institution The Free Association](https://www.comedy.co.uk/live/features/graham-dickson-on-ten-years-of-the-free-association/)
+
 [![Charlie Vero-Martin](https://cdn.comedy.co.uk/images/library/people/300x200/c/charlie_vero_martin_green.jpg "Charlie Vero-Martin")](https://www.comedy.co.uk/live/fgwg/charlie-vero-martin/) Live
 
 [First Gig, Worst Gig: Charlie Vero-Martin](https://www.comedy.co.uk/live/fgwg/charlie-vero-martin/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Lachlan Werner](https://cdn.comedy.co.uk/images/library/people/300x200/l/lachlan_werner_bw.jpg "Lachlan Werner")](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/) Live
 
 [Lachlan Werner's top 10 spooky heroes](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/)
-
-[![Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/slingers_day2.jpg "Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television")](https://www.comedy.co.uk/quiz/328/) Quiz
-
-[British Comedy Quiz #328](https://www.comedy.co.uk/quiz/328/)
 
 #### Subscribe to our newsletters
 
@@ -193,7 +193,7 @@ Privacy settings
 
 * * *
 
-We live for comedy. [**Do you?**](https://www.comedy.co.uk/donate/)
+Love comedy? [**Support BCG**](https://www.comedy.co.uk/donate/)
 
 © British Comedy Guide
 
