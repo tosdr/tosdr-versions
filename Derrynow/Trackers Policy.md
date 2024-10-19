@@ -259,40 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![End of an era as Derry's Jobby Crossan shop closes for final time](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "End of an era as Derry's Jobby Crossan shop closes for final time")](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
-
-Jobby Crossan shop has closed for the final time
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings")](https://www.derrynow.com/news/weather/1633352/live-tracker-track-storm-ashley-as-it-barrels-towards-ireland-amid-warnings.html)
-
-LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings
-
-[Weather](https://www.derrynow.com/section/997/cookie-policy)
-
-[LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings](https://www.derrynow.com/news/weather/1633352/live-tracker-track-storm-ashley-as-it-barrels-towards-ireland-amid-warnings.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more")](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two young men injured and road closed after horror early morning crash in Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two young men injured and road closed after horror early morning crash in Galway")](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
-
-Two young men injured and road closed after horror early morning crash in Galway
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Two young men injured and road closed after horror early morning crash in Galway](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![widespread flooding across Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "widespread flooding across Derry")](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
 
 Widespread flooding across Derry
@@ -302,47 +268,73 @@ Widespread flooding across Derry
 [Widespread flooding across Derry](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
 --------------------------------------------------------------------------------------------------------------------------
 
-[![Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings")](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
+[![When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more")](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
 
-Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[Weather](https://www.derrynow.com/section/997/cookie-policy)
+[When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![PICTURES: Popular Donegal pub with five-bed accommodation in coastal town hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Popular Donegal pub with five-bed accommodation in coastal town hits the market")](https://www.derrynow.com/news/property/1634119/in-pictures-popular-donegal-pub-with-five-bed-accommodation-in-coastal-town-hits-the-market.html)
 
-[![A blow for Derry as another candidate for the manager role rules themselves out](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A blow for Derry as another candidate for the manager role rules themselves out")](https://www.derrynow.com/news/gaa/1633536/a-blow-for-derry-as-another-candidate-for-the-manager-role-rules-themselves-out.html)
+[Property](https://www.derrynow.com/section/1232/property)
 
-Mark Doran is the latest to turn down the role of Derry manager
+[IN PICTURES: Popular Donegal pub with five-bed accommodation in coastal town hits the market](https://www.derrynow.com/news/property/1634119/in-pictures-popular-donegal-pub-with-five-bed-accommodation-in-coastal-town-hits-the-market.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[A blow for Derry as another candidate for the manager role rules themselves out](https://www.derrynow.com/news/gaa/1633536/a-blow-for-derry-as-another-candidate-for-the-manager-role-rules-themselves-out.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry 'Chat Tea Train' celebrates one year with largest ever attendance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry 'Chat Tea Train' celebrates one year with largest ever attendance")](https://www.derrynow.com/news/local-news/1632977/derry-chat-tea-train-celebrates-one-year-with-largest-ever-attendance.html)
+[![28-year-old man charged with number of dangerous driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "28-year-old man charged with number of dangerous driving-related offences")](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry 'Chat Tea Train' celebrates one year with largest ever attendance](https://www.derrynow.com/news/local-news/1632977/derry-chat-tea-train-celebrates-one-year-with-largest-ever-attendance.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute")](https://www.derrynow.com/news/arts---entertainment/1633549/love-you-liam-mammy-mary-x-factor-s-mary-byrne-in-emotional-liam-payne-tribute.html)
+[![PICTURES: Exceptional family home with stunning views hits the market in Donegal for under €420k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Exceptional family home with stunning views hits the market in Donegal for under €420k")](https://www.derrynow.com/news/property/1634118/in-pictures-exceptional-family-home-with-stunning-views-hits-the-market-in-donegal-for-under-420k.html)
 
-'Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute
+[Property](https://www.derrynow.com/section/1232/property)
 
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+[IN PICTURES: Exceptional family home with stunning views hits the market in Donegal for under €420k](https://www.derrynow.com/news/property/1634118/in-pictures-exceptional-family-home-with-stunning-views-hits-the-market-in-donegal-for-under-420k.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-['Love you Liam, mammy Mary' - X Factor's Mary Byrne in emotional Liam Payne tribute](https://www.derrynow.com/news/arts---entertainment/1633549/love-you-liam-mammy-mary-x-factor-s-mary-byrne-in-emotional-liam-payne-tribute.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 
-[!['Trusted courier' has been jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Trusted courier' has been jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-Derry Crown Court
+[Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
+
+Kelly was sentenced at Antrim Crown Court today.
+
+[Home](https://www.derrynow.com/)
+
+[Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Criminal barristers in NI to withdraw services in legal aid dispute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Criminal barristers in NI to withdraw services in legal aid dispute")](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Trusted courier' has been jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1633590/trusted-courier-has-been-jailed-at-derry-crown-court.html)
+[Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
+
+Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City keep title hopes alive with victory in Dundalk](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Colmcille Ladies Choir charity concert at First Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Colmcille Ladies Choir charity concert at First Derry")](https://www.derrynow.com/news/local-news/1633847/colmcille-ladies-choir-charity-concert-at-first-derry.html)
+
+Côr Meibion Penybontfawr will perform at the Colmcille Ladies Choir Charity Concert at First Derry Presbyterian Church on Sunday, October 27.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Colmcille Ladies Choir charity concert at First Derry](https://www.derrynow.com/news/local-news/1633847/colmcille-ladies-choir-charity-concert-at-first-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -523,6 +515,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+
+The special engineering leaf busting train that travels across the Translink network
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Translink tackling leaf fall to minimise disruption to Derry trains](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -530,7 +531,7 @@ Advertise with Us
 [Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_18/2963793-1729283853211.jpg--.jpg?1729283854723 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
 
 Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ Sportsfile
 
@@ -563,15 +564,6 @@ Chair of Mid Ulster District Council, Councillor Eugene McConnell, launches the 
 
 [28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary](https://www.derrynow.com/resizer/165/93/true/2024_10_18/AA_1-1729266247941.jpg--.jpg?1729266248698 "Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary")](https://www.derrynow.com/news/home/1634076/ratheane-care-home-honours-memory-of-air-ambulance-patient-candice-during-35th-anniversary.html)
-
-Cheque presentation at Ratheane Care Home, Coleraine with Macklin Family, Candice’s Family and Katrina Hughes from Air Ambulance NI.
-
-[Home](https://www.derrynow.com/)
-
-[Ratheane Care Home honours memory of Air Ambulance patient Candice during 35th Anniversary](https://www.derrynow.com/news/home/1634076/ratheane-care-home-honours-memory-of-air-ambulance-patient-candice-during-35th-anniversary.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
