@@ -259,65 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![widespread flooding across Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "widespread flooding across Derry")](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
-
-Widespread flooding across Derry
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Widespread flooding across Derry](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
---------------------------------------------------------------------------------------------------------------------------
-
-[![When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more")](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Popular Donegal pub with five-bed accommodation in coastal town hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Popular Donegal pub with five-bed accommodation in coastal town hits the market")](https://www.derrynow.com/news/property/1634119/in-pictures-popular-donegal-pub-with-five-bed-accommodation-in-coastal-town-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[IN PICTURES: Popular Donegal pub with five-bed accommodation in coastal town hits the market](https://www.derrynow.com/news/property/1634119/in-pictures-popular-donegal-pub-with-five-bed-accommodation-in-coastal-town-hits-the-market.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![28-year-old man charged with number of dangerous driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "28-year-old man charged with number of dangerous driving-related offences")](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Exceptional family home with stunning views hits the market in Donegal for under €420k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Exceptional family home with stunning views hits the market in Donegal for under €420k")](https://www.derrynow.com/news/property/1634118/in-pictures-exceptional-family-home-with-stunning-views-hits-the-market-in-donegal-for-under-420k.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[IN PICTURES: Exceptional family home with stunning views hits the market in Donegal for under €420k](https://www.derrynow.com/news/property/1634118/in-pictures-exceptional-family-home-with-stunning-views-hits-the-market-in-donegal-for-under-420k.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
-
-Kelly was sentenced at Antrim Crown Court today.
-
-[Home](https://www.derrynow.com/)
-
-[Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Criminal barristers in NI to withdraw services in legal aid dispute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Criminal barristers in NI to withdraw services in legal aid dispute")](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
 
@@ -328,14 +275,56 @@ Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ S
 [Derry City keep title hopes alive with victory in Dundalk](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Colmcille Ladies Choir charity concert at First Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Colmcille Ladies Choir charity concert at First Derry")](https://www.derrynow.com/news/local-news/1633847/colmcille-ladies-choir-charity-concert-at-first-derry.html)
+[![Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange wind warning extended to more counties ahead of Storm Ashley’s arrival")](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
 
-Côr Meibion Penybontfawr will perform at the Colmcille Ladies Choir Charity Concert at First Derry Presbyterian Church on Sunday, October 27.
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+
+The special engineering leaf busting train that travels across the Translink network
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Colmcille Ladies Choir charity concert at First Derry](https://www.derrynow.com/news/local-news/1633847/colmcille-ladies-choir-charity-concert-at-first-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Translink tackling leaf fall to minimise disruption to Derry trains](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns")](https://www.derrynow.com/news/northern-ireland/1634316/danger-to-life-likely-in-storm-ashleys-80mph-winds-met-office-warns.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns](https://www.derrynow.com/news/northern-ireland/1634316/danger-to-life-likely-in-storm-ashleys-80mph-winds-met-office-warns.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man in critical condition after assault outside Co Antrim pub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in critical condition after assault outside Co Antrim pub")](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man in critical condition after assault outside Co Antrim pub](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Great South Run cancelled over safety concerns as Storm Ashley heads for UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Great South Run cancelled over safety concerns as Storm Ashley heads for UK")](https://www.derrynow.com/news/northern-ireland/1634520/great-south-run-cancelled-over-safety-concerns-as-storm-ashley-heads-for-uk.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Great South Run cancelled over safety concerns as Storm Ashley heads for UK](https://www.derrynow.com/news/northern-ireland/1634520/great-south-run-cancelled-over-safety-concerns-as-storm-ashley-heads-for-uk.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man suffers serious facial injuries in Lisburn assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man suffers serious facial injuries in Lisburn assault")](https://www.derrynow.com/news/northern-ireland/1634533/man-suffers-serious-facial-injuries-in-lisburn-assault.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man suffers serious facial injuries in Lisburn assault](https://www.derrynow.com/news/northern-ireland/1634533/man-suffers-serious-facial-injuries-in-lisburn-assault.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police start making arrests using new roadside drug testing kits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police start making arrests using new roadside drug testing kits")](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police start making arrests using new roadside drug testing kits](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
