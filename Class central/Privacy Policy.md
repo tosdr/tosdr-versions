@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. c
     
-2. cyber security
+2. computer science
     
-3. trading
+3. French
     
 
 Popular subjects
 ----------------
 
-1. [Cybersecurity
+1. [Communication Skills
     
-    16,039 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Microsoft Excel
+    4,065 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Data Analysis
     
-    1,717 courses](https://www.classcentral.com/subject/microsoft-excel)
-3. [Management & Leadership
+    8,353 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Digital Marketing
     
-    2,350 courses](https://www.classcentral.com/subject/management-and-leadership)
+    5,935 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Probability - The Science of Uncertainty and Data
+1. [Transport Systems: Global Issues and Future Innovations
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/probability-massachusetts-institute-of-technology-1496)
-2. [Excel: Fundamentos y herramientas
+    University of Leeds](https://www.classcentral.com/course/transport-systems-global-issues-and-future-innovations-12705)
+2. [Greek and Roman Mythology
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
-3. [English for the Workplace
+    University of Pennsylvania](https://www.classcentral.com/course/mythology-353)
+3. [The Science of Success: What Researchers Know that You Should Know
     
-    British Council](https://www.classcentral.com/course/workplace-english-6911)
+    University of Michigan](https://www.classcentral.com/course/success-8087)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
