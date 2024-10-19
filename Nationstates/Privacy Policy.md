@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Remember, Remember… (1,290)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (1,290 posts)")
-* [The Wasteland. | 2180 (12)](https://forum.nationstates.net/viewtopic.php?t=556826&f=31&view=unread#unread ""The Wasteland. | 2180" (12 posts)")
-* [The Solitary Throne \[OOC | Closed\] (877)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (877 posts)")
-* [CMFA Mandalanusa Cup 17 - Sign Up (Ma… (15)](https://forum.nationstates.net/viewtopic.php?t=556225&f=7&view=unread#unread ""CMFA Mandalanusa Cup 17 - Sign Up (Mandalanusa Only)" (15 posts)")
-* [UK Politics Thread: Conservative Lead… (11,631)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,631 posts)")
+* [State Banquet, Rep. South Darolia(IC,… (21)](https://forum.nationstates.net/viewtopic.php?t=557087&f=4&view=unread#unread ""State Banquet, Rep. South Darolia(IC, Sign-Up Required)" (21 posts)")
+* [Guess The AN Ideology based on their… (1,989)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,989 posts)")
+* [The Seal and Logo Request Thread (8,595)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,595 posts)")
+* [Hot or Cold: BN/BU Edition (1,385)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,385 posts)")
+* [AI Art, Chatbots, and the morality of… (39)](https://forum.nationstates.net/viewtopic.php?t=557028&f=20&view=unread#unread ""AI Art, Chatbots, and the morality of their use." (39 posts)")
 
 Advertisement
 
