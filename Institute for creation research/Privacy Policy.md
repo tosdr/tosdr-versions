@@ -96,63 +96,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Acts & Facts
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/living-life-well)
+[![](/i/articles/af/af2310-webcover.jpg)](https://www.icr.org/article/14303)
 
-[Living Life Well](https://www.icr.org/article/living-life-well/)
+[October 2023](https://www.icr.org/article/14303/)
 
-“In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto...
+...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thou-hast-rejected-knowledge)
+[![](/i/articles/af/af2303-webcover.jpeg)](https://www.icr.org/article/13913)
 
-[Thou Hast Rejected Knowledge](https://www.icr.org/article/thou-hast-rejected-knowledge/)
+[March-April 2023](https://www.icr.org/article/13913/)
 
-“My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/king-of-tyre)
+[![](/i/articles/af/af2305-webcover.jpg)](https://www.icr.org/article/14024)
 
-[King of Tyre](https://www.icr.org/article/king-of-tyre/)
+[May-June 2023](https://www.icr.org/article/14024/)
 
-“Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom,...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
-
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
-
-The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
-
-$9.99
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
-
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
-
-$9.99
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
