@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZxO2kAoAAVEAAABcNSA)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZxQKmAoAAVAAAABbSzY)
 
 Es noticia
 
@@ -7,10 +7,10 @@ Es noticia
 * [Tana Rivera](https://www.elmundo.es/loc/famosos/2024/10/19/6712591fe9cf4afe228b4575.html)
 * [Podemos](https://www.elmundo.es/espana/2024/10/19/6712ac3be9cf4a23428b4585.html)
 * [Alfonso Guerra](https://www.elmundo.es/cultura/2024/10/18/671285bdfdddfffd128b457f.html)
+* [Nadal Djokovic](https://www.elmundo.es/deportes/tenis/2024/10/19/6713f96ee4d4d810038b45a6.html)
 * [Claudio Giraldez](https://www.elmundo.es/deportes/futbol/2024/10/18/671277d0e4d4d8043c8b4588.html)
 * [Alcaraz Sinner](https://www.elmundo.es/como/2024/10/19/67122843e9cf4a10298b4573.html)
 * [Marcelo Muñoz](https://www.elmundo.es/economia/empresas/2024/10/18/67125884fdddff1d318b456e.html)
-* [Nadal Djokovic](https://www.elmundo.es/como/2024/10/19/671230d6e85ece45588b458c.html)
 * [Celta Real Madrid](https://www.elmundo.es/como/2024/10/19/671274ece4d4d896408b457e.html)
 * [Guardia Civil Valencia](https://www.elmundo.es/comunidad-valenciana/2024/10/19/67136b18e9cf4a23428b4593.html)
 * [Día cáncer mama](https://www.elmundo.es/como/2024/10/19/67128959e85ecef35b8b45b1.html)
