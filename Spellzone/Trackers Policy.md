@@ -162,11 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
+"I have just subscribed and look forward to continuing to use Spellzone. I have been really impressed with the program during the trial period and the students gave very positive feedback. Many thanks."
 
-**King's Leadership Academy, Warrington**
-
-[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
+**Teacher, International School, Geneva**
 
 ### Curriculum...
 
