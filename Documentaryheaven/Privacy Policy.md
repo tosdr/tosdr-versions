@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Poison on the Platter](/wp-content/thumbnails/2313-100x70.jpg?x53432)
+* [![Megaship – OOCL Atlanta](/wp-content/thumbnails/3422-100x70.jpg?x53432)
     
-    Poison on the Platter
+    Megaship – OOCL Atlanta
     
-    Poison on the Platter, is an eye-opening film, made by Mahesh Bhatt and Ajay Kanchan, illustrating how all of our lives are gonna be (adversely) affected by genetically modified foods. It is no more a](https://documentaryheaven.com/poison-on-the-platter/ "Poison on the Platter")
-* [![The 2nd Assassination of JFK](/wp-content/thumbnails/5999-100x70.jpg?x53432)
+    Climb aboard the cargo ship OOCL Atlanta as she journeys from Hong Kong to Singapore. How does a minimal crew keep this 1,000ft-long vessel afloat in treacherous seas?Join a voyage of discovery aboa](https://documentaryheaven.com/megaship-oocl-atlanta/ "Megaship – OOCL Atlanta")
+* [![Endgame: Blueprint for Global Enslavement](/wp-content/thumbnails/436-100x70.png?x53432)
     
-    The 2nd Assassination of JFK
+    Endgame: Blueprint for Global Enslavement
     
-    The film focuses on the historical and future significance of American manned space flight and the importance of the United States remaining on the forefront of space discovery. ‘The 2nd Assassination](https://documentaryheaven.com/the-2nd-assassination-of-jfk/ "The 2nd Assassination of JFK")
-* [![ISIS: The World’s Richest Terror Army](/wp-content/thumbnails/9923-100x70.jpg?x53432)
+    Alex Jones’ documentary Endgame charts the history of the elite blueprint for social domination and control, outlining the ultimate plans that those who consider themselves the anointed have for o](https://documentaryheaven.com/endgame-blueprint-for-global-enslavement/ "Endgame: Blueprint for Global Enslavement")
+* [![Cash for Kim](/wp-content/thumbnails/12305-100x70.jpg?x53432)
     
-    ISIS: The World’s Richest Terror Army
+    Cash for Kim
     
-    A small army of fanatical Jihadists sieged 15,000 sq. miles of territory and shocked the world with it's violence and brutality. The so called Islamic State is a terror organisation, the likes of whic](https://documentaryheaven.com/isis-worlds-richest-terror-army/ "ISIS: The World’s Richest Terror Army")
-* [![The Money Masters](/wp-content/thumbnails/2185-100x70.jpg?x53432)
+    In 2014 a welder working on a large shipyard located in Gdynia, Poland, died in an on-the-job accident. His death lead to an investigation which discovered that the victim was actually an immigrant fr](https://documentaryheaven.com/cash-for-kim/ "Cash for Kim")
+* [![(Preview) Drying For Freedom](/wp-content/thumbnails/3914-100x70.jpg?x53432)
     
-    The Money Masters
+    (Preview) Drying For Freedom
     
-    THE MONEY MASTERS is a 3 1/2 hour non-fiction, historical documentary that traces the origins of the political power structure that rules our nation and the world today. The modern political power str](https://documentaryheaven.com/the-money-masters/ "The Money Masters")
-* [![Why Hate Junk Mail?](/wp-content/thumbnails/7508-100x70.jpg?x53432)
+    Site: http://www.indiegogo.com/Drying-For-FreedomA conflict is raging in the US. Protests, political movements and murder have taken place in the name of an unlikely ideal; clotheslines.Tens](https://documentaryheaven.com/drying-for-freedom/ "(Preview) Drying For Freedom")
+* [![Interview With A Serial Killer](/wp-content/thumbnails/12611-100x70.png?x53432)
     
-    Why Hate Junk Mail?
+    Interview With A Serial Killer
     
-    It invades our homes, dropping onto our doormats in its millions and costs the taxpayer a fortune to get rid of. It might be a menace in our mailbox but without junk mail, would our postal service sur](https://documentaryheaven.com/why-hate-junk-mail/ "Why Hate Junk Mail?")
+    Serial killer Arthur Shawcross was born on June 6, 1945, and died on November 10, 2008 while serving a life sentence for the murder of 11 women. From his birthplace of Kittery, Maine, his family moved](https://documentaryheaven.com/interview-with-serial-killer/ "Interview With A Serial Killer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
