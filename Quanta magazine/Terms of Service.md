@@ -253,17 +253,17 @@ _By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
 
 _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
+[![A quantum bicyclist in front of a classical unicyclist](https://www.quantamagazine.org/wp-content/uploads/2024/10/QuantumMemory_crChanelleNibbelinkThumbnail.webp)](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
+
+[#### ‘Quantum Memory’ Proves Exponentially Powerful](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
+
+_By_ [Lakshmi Chandrasekaran](https://www.quantamagazine.org/authors/lakshmi-chandrasekaran)
+
 [![An illustration shows a cyanobacteria cell wearing a scarf, surrounded by snowflakes.](https://www.quantamagazine.org/wp-content/uploads/2024/10/BacterialWinter-crCarlosArrojo-Thumbnail.webp)](https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/)
 
 [#### Even a Single Bacterial Cell Can Sense the Seasons Changing](https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/)
 
 _By_ [Elizabeth Landau](https://www.quantamagazine.org/authors/landau_liz)
-
-[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
-
-[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 The Quanta Newsletter
 
