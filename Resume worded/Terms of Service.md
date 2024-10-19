@@ -331,7 +331,7 @@ Get to know us
 [For resume writers](https://resumeworded.com/resume-writers)  
 [Affiliates](https://resumeworded.com/affiliates)  
   
-[Coached, our mentorship newsletter](https://coached.com/)  
+[Coached, our newsletter](https://resumeworded.com/coached)  
 [Testimonials](https://resumeworded.com/testimonials)  
 [Privacy](https://resumeworded.com/privacy)  
 [Terms](https://resumeworded.com/terms)  
