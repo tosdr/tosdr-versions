@@ -1,8 +1,8 @@
-[Go to Content](#site-main) [Go to Navigation](#mobile-nav-home) [Go to Navigation](#main-nav-home) [Go to Site Search](#site-search-field) [Homepage](https://www.plannedparenthood.org/)
+  [Go to Content](#site-main)
 
 * [Español](https://www.plannedparenthood.org/es/condiciones-de-uso)
 
-[![Planned Parenthood](/static/assets/img/planned-parenthood-horizontal.svg "Back to home")](https://www.plannedparenthood.org/)
+[Planned Parenthood home](https://www.plannedparenthood.org/)
 
 * [Learn](https://www.plannedparenthood.org/learn)
     
@@ -58,9 +58,9 @@
      Find
     
 
-[Español](https://www.plannedparenthood.org/es/condiciones-de-uso) [Donate](https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?sourceid=1000063)
+[Donate](https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?sourceid=1000063)
 
-* [20170629\_mobile\_icons\_d05 Learn](#)
+* Learn
     
     * [Overview](https://www.plannedparenthood.org/learn)
     * [Blog](https://www.plannedparenthood.org/blog)
@@ -84,9 +84,7 @@
     * [Spot On](https://www.plannedparenthood.org/get-care/spot-on-period-tracker)
     * [Planned Parenthood Global](https://www.plannedparenthood.org/about-us/planned-parenthood-global)
     
-* [20170629\_mobile\_icons\_d05 Get Care](#)
-    
-    #### Get Care
+* Get Care
     
     * [Overview](https://www.plannedparenthood.org/get-care)
     * [Schedule an Appointment](https://www.plannedparenthood.org/health-center)
@@ -96,9 +94,7 @@
     * [Our Services](https://www.plannedparenthood.org/get-care/our-services)
     * [Health Insurance](https://www.plannedparenthood.org/get-care/health-insurance)
     
-* [20170629\_mobile\_icons\_d05 Get Involved](#)
-    
-    #### Get Involved
+* Get Involved
     
     * [Overview](https://www.plannedparenthood.org/get-involved)
     * [Donate](https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?sourceid=1000063)
@@ -109,12 +105,12 @@
     * [Shop](https://marketplace.plannedparenthood.org/)
     * [Planned Parenthood Global](https://www.plannedparenthood.org/about-us/planned-parenthood-global)
     
-* [Open Search Search](#)
-    
-    Search
+* Search
     
      Find
     
+
+ [![Language toggle icon](/static/assets/img/language.svg) Español](https://www.plannedparenthood.org/es/condiciones-de-uso)
 
 * [Home](https://www.plannedparenthood.org/)
 * [Back to Home](https://www.plannedparenthood.org/)
@@ -266,8 +262,6 @@ Phone: 1-800-430-4907
 7. T-Mobile is not liable for delayed or undelivered messages.
 8. All content is appropriate for ages 13 and older (T13+)
 
-[Back to top](#)
-
 Trusted care, every step of the way
 -----------------------------------
 
@@ -318,8 +312,6 @@ Planned Parenthood Federation of America, Inc. (PPFA) works to protect and expan
 * [Contact Us](https://www.plannedparenthood.org/about-us/contact-us)
 
 © 2024 Planned Parenthood Federation of America Inc.
-
-  
 
 [Español](https://www.plannedparenthood.org/es/condiciones-de-uso)
 
