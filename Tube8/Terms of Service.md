@@ -53,14 +53,14 @@ Accept all cookies Accept only essential cookies Save and close
 
 #### Trending Searches
 
-* [Hairy anal](https://www.tube8.com/porntags/hairy+anal/)
-* [Bbc dp](https://www.tube8.com/porntags/bbc+dp/)
-* [Doggy](https://www.tube8.com/porntags/doggy/)
-* [Real amateur](https://www.tube8.com/porntags/real+amateur/)
+* [Hot milf](https://www.tube8.com/porntags/hot+milf/)
+* [Friends](https://www.tube8.com/porntags/friends/)
 * [Hotel maid](https://www.tube8.com/porntags/hotel+maid/)
-* [Only fans](https://www.tube8.com/porntags/only+fans/)
+* [Missionary creampie](https://www.tube8.com/porntags/missionary+creampie/)
+* [Leah gotti](https://www.tube8.com/porntags/leah+gotti/)
+* [Thick asian](https://www.tube8.com/porntags/thick+asian/)
+* [China](https://www.tube8.com/porntags/china/)
 * [Lisa ann](https://www.tube8.com/porntags/lisa+ann/)
-* [Girl next door](https://www.tube8.com/porntags/girl+next+door/)
 * [Stacy cruz](https://www.tube8.com/porntags/stacy+cruz/)
 * [Cum swap](https://www.tube8.com/porntags/cum+swap/)
 
@@ -75,13 +75,25 @@ Accept all cookies Accept only essential cookies Save and close
 
 [More](https://www.tube8.com/pornstars/)
 
-[Liana
+[Frank Taylor
 
-Pornstar](https://www.tube8.com/pornstar/liana/)
+Pornstar](https://www.tube8.com/pornstar/frank-taylor/)
 
-[Simone Valentino
+[Austin Andrews
 
-Pornstar](https://www.tube8.com/pornstar/simone-valentino/)
+Pornstar](https://www.tube8.com/gay/pornstar/austin-andrews/)
+
+[Brittany Blaze
+
+Pornstar](https://www.tube8.com/pornstar/brittany-blaze/)
+
+[Chocolate
+
+Pornstar](https://www.tube8.com/pornstar/chocolate/)
+
+[Courtney Cummins
+
+Pornstar](https://www.tube8.com/pornstar/courtney-cummins/)
 
 #### All videos
 
