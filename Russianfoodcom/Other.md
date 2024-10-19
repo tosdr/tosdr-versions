@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -174,6 +174,20 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Дразнит нос, пленяет нас.) Лучшая ВЫПЕЧКА №24-42](https://www.russianfood.com/reading/?post_id=22747) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/737/sm_736001.jpg)](https://www.russianfood.com/reading/?post_id=22747)
+
+Слойка-кольцо с ветчиной, сыром и яйцом. Пряный хлеб из полужидкого теста. Гречневые палочки с сыром. Тыквенный кекс с кремом. Рулетики с томатным соусом. Тарт с тыквой и творогом. Пирог на топлёном молоке с орехами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22747)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22747#comments) | 19.10.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Красочная и аппетитная. ТЫКВА по-необычному (19)](https://www.russianfood.com/reading/?post_id=22746) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/700/sm_699526.jpg)](https://www.russianfood.com/reading/?post_id=22746)
@@ -268,7 +282,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174383#comments) | 17.10.24 |     |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174383#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -282,7 +296,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174313#comments) | 17.10.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174313#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -310,7 +324,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174187#comments) | 17.10.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174187#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -367,20 +381,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22735#comments) | 17.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Грибной суп с вермишелью](https://www.russianfood.com/recipes/recipe.php?rid=174474) |     |
-
-[![Фото к рецепту: Грибной суп с вермишелью](//img1.russianfood.com/dycontent/images_upl/744/sm_743469.jpg "Фото к рецепту: Грибной суп с вермишелью")](https://www.russianfood.com/recipes/recipe.php?rid=174474)
-
-Грибной суп с вермишелью - это быстро, сытно и максимально просто. Благодаря обжаренным шампиньонам, суп обладает ярким и насыщенным грибным ароматом. Традиционная зажарка отвечает за яркий аппетитный цвет, а нежная вермишель придает супу густоту и сытность.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174474)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174474#comments) | 17.10.24 |     |
 
 |     |
 | --- |
@@ -453,8 +453,8 @@
 
 |     |     |
 | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) |
-| [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) |
+| [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -471,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(161)
+(118)
