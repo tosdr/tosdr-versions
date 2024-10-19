@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/levenswater/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/2015-vs-en-chinese-wetenschappers-maken-coronavirus/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -160,7 +160,7 @@ Inschrijven
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
-[![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
+[![BRES #348](https://www.wanttoknow.nl/wp-content/uploads/BRES-348-scaled.jpg)](https://bresmagazine.nl/publicaties/)
 
 #### WantToKnow Boekentip
 
