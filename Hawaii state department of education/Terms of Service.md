@@ -258,9 +258,7 @@ Email:[doeinfo@k12.hi.us](mailto:doeinfo@k12.hi.us)
 
 [HIDOE Directory](https://iportal.k12.hi.us/phonedirectory)
 
-  [Facebook](https://www.facebook.com/HIDOE808) [Pinterest](http://www.pinterest.com/HIDOE808/)
-
-[Twitter](https://twitter.com/HIDOE808) [Vimeo](https://vimeo.com/hidoe)
+  [Facebook](https://www.facebook.com/HIDOE808) [Vimeo](https://vimeo.com/hidoe)
 
 [Instagram](https://www.instagram.com/hawaiipublicschools/)
 
