@@ -31,6 +31,621 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 19 de octubre de 2024
+======================================
+
+La ordenanza verde azul y el Valle de Uravía (2)  A raíz de la aprobación de la ordenanza “verde-azul”, el 4 de julio del 2023, el valle de Uravía, ubicado en la parroquia de Checa, cuenta con un cuerpo legal que le protege en su integralidad, ya que dicha ordenanza regula las competencias para el \[…\]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+La ordenanza verde azul y el Valle de Uravía (2) 
+-------------------------------------------------
+
+A raíz de la aprobación de la ordenanza “verde-azul”, el 4 de julio del 2023, el valle de Uravía, ubicado en la parroquia de Checa, cuenta con un cuerpo legal que le protege en su integralidad, ya que dicha ordenanza regula las competencias para el cuidado de los ríos y quebradas de las cuencas hídricas que se encuentran en el Distrito Metropolitano de Quito (DMQ). 
+
+Esta ordenanza netamente ambientalista nació de la sentencia no. 2167-21-EP/22, dictada por la Corte Constitucional, en defensa de los derechos del río Monjas, puesto que, como reparación integral, dispuso al municipio capitalino que expida una ordenanza “verde-azul”, a fin de proteger y cubrir las necesidades de todas las microcuencas hidrográficas del DMQ, entre las cuales se encuentra incluida la del valle de Uravía. 
+
+Habiendo transcurrido más de un año de la aprobación de la ordenanza “verde-azul”, hasta el día de hoy no se la puede poner en práctica en su totalidad, porque ninguna de las nueve disposiciones transitorias que se dictaron, ha sido cumplida a cabalidad, dentro de los términos previstos en la ordenanza. 
+
+De todas formas, por cuanto los derechos y garantías establecidos en la Constitución y en los instrumentos internacionales de derechos humanos son de directa e inmediata aplicación, las infracciones graves que se encuentran “tipificadas” en la ordenanza “verde-azul” están en pleno vigor y, por tanto, se deben respetar por todas y todos – incluida la EPMAPS -, en especial, las siguientes prohibiciones: 
+
+– Realizar depósitos de escombros, en quebradas, taludes, riberas de ríos y sus áreas de protección.
+
+– Realizar depósitos o vertidos de sustancias químicas; todo tipo de residuos; desechos peligrosos o especiales, en quebradas, taludes, riberas de ríos, y sus áreas de protección 
+
+– Construir nuevas edificaciones sin separar las aguas residuales de las aguas pluviales, de acuerdo a la normativa metropolitana vigente 
+
+Adicional a eso, el art. 80 de la Ley Orgánica de Recursos Hídricos, Usos y Aprovechamiento del Agua, prohíbe el vertido directo o indirecto de aguas o productos residuales, aguas servidas, sin tratamiento y lixiviados susceptibles de contaminar las aguas del dominio hídrico público, que es precisamente, lo que está haciendo la EPMAPS en el río Uravía. 
+
+Pese a que la ordenanza “verde-azul” se encuentra en vigencia, la Empresa Pública Metropolitana de Agua Potable y Saneamiento (EPMAPS) – en vez de respetar la normativa ambiental -, es la primera entidad en violar dicha ordenanza, ya que continúa realizando los estudios para la construcción de una planta de tratamiento de aguas residuales (PTAR) sobre el río y la quebrada del valle de Uravía, parroquia de Checa. 
+
+Al actuar de esta forma, la EPMAPS está violando flagrantemente los derechos de la naturaleza y la Pachamama, la sentencia vinculante no. 2167-21-EP/22 de la Corte Constitucional y la ordenanza “verde-azul” en su totalidad, acción que debe ser sancionada drásticamente – incluso con la destitución de sus máximas autoridades -, conforme ordenan los arts. 71, 72, 73 y demás normas pertinentes, de la Constitución del 2008. 
+
+Alfonso López J. 
+
+La inteligencia artificial ganó dos premios Nobel en el 2024
+============================================================
+
+La importancia de que el país invierta en ciencia y tecnologías avanzadas para participar en los grandes descubrimientos futuros.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+El 2024 será recordado como el año en que la **inteligencia artificial** (IA) rompió barreras y se llevó dos de los **premios** más prestigiosos del mundo: el **Premio Nobel de Física y el Premio Nobel de Química.** Este acontecimiento ha marcado un hito muy importante en la historia de la **ciencia** y la **tecnología**, demostrando que los avances en IA no solo están transformando la manera en que interactuamos con el mundo, sino que también están revolucionando áreas fundamentales de la **investigación científica.**
+
+El [**Premio Nobel de Física 2024**](https://www.nobelprize.org/prizes/physics/2024/popular-information/) fue otorgado a John Hopfield y Geoffrey Hinton, pioneros en el desarrollo de **redes neuronales artificiales**. Una red **neuronal artificial** es un modelo computacional inspirado en la estructura del **cerebro humano**, compuesto por nodos interconectados que procesan información y aprenden a reconocer **patrones**. Este procesamiento lo hacen mediante el ajuste de sus **conexiones sinápticas** a partir de ejemplos. **Hopfield**, profesor de la Universidad de Princeton, introdujo en los años 80 un **modelo matemático**, llamado **red de Hopfield**, inspirado en la **física** estadística que permitió que las redes neuronales almacenen y reconozcan patrones, un concepto conocido como memoria asociativa​. **Hinton**, por su parte, profesor en la **Universidad de Toronto**, expandió el trabajo de Hopfield al desarrollar la **máquina de Boltzmann**, una red neuronal que se entrena mediante ejemplos en lugar de seguir **instrucciones precisas**, revolucionando así el campo del **aprendizaje automático** o _machine learning_. Su trabajo ha sido crucial para el avance del _deep learning_, tecnología que subyace a los actuales modelos de IA.
+
+Gracias al **trabajo pionero** de John Hopfield y Geoffrey Hinton, hoy contamos con **modelos avanzados** de IA que transforman múltiples industrias. Los modelos generativos como GPT, que usan redes neuronales y son utilizados en asistentes de texto como **ChatGPT**, son capaces de generar respuestas coherentes y creativas, [imitando la escritura humana y su capacidad de razonamiento](https://www.elcomercio.com/opinion/inteligencia-artificial-puede-razonar-marco-benalcazar-columnista.html). En la **generación de imágenes**, **herramientas** como **DALL·E** crean imágenes realistas a partir de **descripciones** en lenguaje natural, mientras que modelos como **Runway** permiten la creación y edición de videos con inteligencia artificial. Además, en el campo de la música, **plataformas** como **Suno** y **Udio** generan **composiciones musicales** originales en una variedad de estilos, expandiendo las posibilidades creativas en la industria del **entretenimiento**. En el **comercio digital**, **plataformas** como **Amazon** y **Netflix** utilizan redes neuronales para personalizar recomendaciones de **productos y contenidos**, mejorando así la **experiencia** del usuario y optimizando el negocio. En el campo del transporte, sistemas de **conducción autónoma** como los de **Tesla** dependen de estas redes para procesar en tiempo real las **imágenes** y **datos** de los sensores que guían los vehículos sin **intervención humana**.
+
+Por otro lado, el [**Premio Nobel de Química 2024**](https://www.nobelprize.org/prizes/chemistry/2024/popular-information/) fue compartido entre Demis Hassabis, John Jumper y David Baker. **Hassabis** y **Jumper**, de Google DeepMind, fueron reconocidos por su trabajo en **AlphaFold**, un algoritmo de IA que puede predecir la **estructura tridimensional** de casi cualquier proteína conocida, resolviendo un problema que había captado la atención de los científicos durante décadas​. Este avance ha permitido comprender mejor las **funciones** de las **proteínas**, lo cual tiene implicaciones directas en áreas como el **diseño de medicamentos y la biotecnología**. Por su parte, David **Baker**, de la Universidad de Washington, fue galardonado por su **innovador trabajo** en el **diseño de proteínas**, creando nuevas moléculas con **funciones específicas** que no existen en la naturaleza​. Su contribución clave fue el desarrollo del software **Rosetta**, un algoritmo que, usando IA, permite predecir y diseñar la **estructura tridimensional de proteínas** a partir de **secuencias de aminoácidos**. Este trabajo ha permitido diseñar proteínas completamente nuevas que cumplen **funciones específicas,** como enzimas para descomponer contaminantes o **proteínas terapéuticas.**
+
+Estos dos logros destacan cómo la IA está transformando disciplinas que tradicionalmente dependían del **trabajo manual** y de **experimentación lenta y costosa**. Además, estos logros también destacan la capacidad de esta **tecnología** para cruzar fronteras entre **disciplinas**. En ambos casos, los laureados han demostrado que la IA puede desentrañar los misterios más complejos del mundo natural, desde cómo funciona el **cerebro humano** hasta cómo las proteínas adquieren su forma o cómo diseñar **nuevas proteínas**. La convergencia de la Física, la Química y la IA es un testimonio de que estamos apenas en el inicio de lo que esta **tecnología** puede lograr.
+
+[En Ecuador, es fundamental que prestemos más atención a la IA](https://www.elcomercio.com/opinion/ecuador-zona-descenso-liga-junior-inteligencia-artificial-marco-benalcazar-columnista.html). Si bien estos **Premios Nobel** marcan un comienzo espectacular, lo que hemos visto hasta ahora es solo la punta del iceberg. La IA ya está transformando **sectores** clave, y su impacto no hará más que crecer. Por lo tanto, es hora de que, como país, [nos enfoquemos e invirtamos en el desarrollo de ciencia y **tecnologías avanzadas**](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html), para que también podamos formar parte de los próximos **grandes descubrimientos científicos**. No en vano, la IA es considerada como la catalizadora de la **cuarta revolución industrial**.
+
+La corrupción vuelve al debate
+==============================
+
+Lo rescatable de nuestro país fue librarnos de la izquierda populista que tiene afanes imperiales y vocación de eternidad.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+La **decisión** del **gobierno de Estados Unidos** de negar visas de entrada al expresidente Rafael Correa y al exvicepresidente Jorge Glas, por participar en **actos de corrupción**, ha puesto de nuevo en el debate el tema de la **corrupción**. La decisión constituye una fuerte **sanción moral**.
+
+La medida es resultado de una **investigación** cuidadosa de las autoridades con la participación de varios **organismos** y puede tener importantes consecuencias a **nivel nacional e internacional.** Ratifica la solidez de las **sentencias judiciales ecuatorianas** y cuestiona al **gobierno de México** convertido en refugio de acusados de **corrupción**; también puede provocar cambios en la posición del gobierno de **Bélgica** y de Interpol respecto del expresidente.
+
+Las razones que llevaron al **incremento** de la **corrupción** en la década de la **revolución ciudadana** hay que tenerlas presentes para evitar su repetición. El **control legislativo**, la manipulación del poder judicial, la **designación** de **corruptos** en los **órganos de control** y la embestida contra la prensa libre, fueron los instrumentos. El **talante autoritario** del gobierno alentó la **corrupción** y favoreció la **impunidad**.
+
+A los **ciudadanos**, por desgracia, ya nada les escandaliza, ni los millones robados, ni los saqueadores en altas esferas del poder, ni los **condenados** que dan **lecciones** de **moral**. La convicción de que todos los **políticos** roban diluye la **indignación** y la **censura** **social**.
+
+No solo los **políticos** son **corruptos**, también los abogados que medran en su entorno y gestionan **entramados** de **sociedades** para esconder el botín; también **empresas privadas** que aparecen, estafan y desaparecen; los **sindicatos** que se dan vida de potentados y los  **gremios** que no rinden cuentas a nadie.
+
+Lo rescatable de **nuestro país** fue librarnos de la **izquierda populista** que tiene afanes imperiales y vocación de **eternidad**. Los que quisieran librarse de la peste **populista** en México, Brasil, Colombia, Honduras, indagaban cuál fue el hechizo con que conseguimos ahuyentar a los **corruptos**.
+
+La relevancia de comprender la inteligencia artificial en Ecuador
+=================================================================
+
+El WebCongress Ecuador 2024 ofrece una oportunidad única para que las empresas comprendan el impacto de la inteligencia artificial en sus sectores.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Web congress sobre inteligencia artificial.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-4.jpg)
+
+La inteligencia artificial (IA) se ha convertido en un elemento esencial en la transformación digital de las sociedades contemporáneas. En Ecuador, la realización del **WebCongress 2024**, programado para el **22 y 23 de octubre en Quito**, representa una oportunidad crucial para que empresas locales y profesionales comprendan cómo la IA puede influir en sus operaciones y en el desarrollo del país. Este evento reunirá a expertos internacionales y marcas líderes que compartirán sus conocimientos sobre el uso de la inteligencia artificial en diversas industrias.
+
+> En un contexto de transformación y crisis, es fundamental entender cómo la IA puede ser una herramienta poderosa para enfrentar desafíos y fomentar el crecimiento.
+
+La **IA no solo se trata de tecnología avanzada**; es una herramienta que puede mejorar la eficiencia operativa, optimizar procesos y ofrecer soluciones innovadoras a problemas complejos. En un país como Ecuador, donde las empresas enfrentan retos significativos como la escasez de recursos y la necesidad de modernización, entender cómo implementar IA puede marcar una diferencia crucial.
+
+En tiempos de crisis, como los que ha enfrentado Ecuador debido a desastres naturales o crisis económicas, la IA puede desempeñar un papel fundamental. Por ejemplo, durante la pandemia de COVID-19, muchas empresas recurrieron a tecnologías basadas en IA para optimizar su logística y mejorar su atención al cliente. Herramientas como chatbots y análisis predictivos permitieron a las organizaciones adaptarse rápidamente a las nuevas demandas del mercado.
+
+A escala internacional, hemos visto cómo países como Estados Unidos han utilizado IA para gestionar crisis. Durante desastres naturales, sistemas de análisis predictivo han ayudado a anticipar necesidades logísticas y coordinar respuestas más efectivas. La experiencia de estos países puede servir como modelo para Ecuador, especialmente en términos de preparación ante emergencias.
+
+Para que Ecuador aproveche al máximo las oportunidades que ofrece la inteligencia artificial, es esencial invertir en capacitación continua. Las **instituciones educativas** deben actualizar sus currículos para incluir formación en habilidades digitales y analíticas. Además, las empresas deben fomentar una cultura organizacional que valore el aprendizaje continuo y la innovación.
+
+El éxito en la implementación de tecnologías avanzadas también depende de una colaboración efectiva entre el sector público y privado. El Estado ecuatoriano debe crear políticas que fomenten la investigación y desarrollo en IA, mientras que las empresas deben estar dispuestas a invertir en nuevas tecnologías.
+
+A medida que nos adentramos en una era cada vez más digitalizada, es crucial que Ecuador esté preparado para los cambios que trae consigo la inteligencia artificial. Se debe mejorar **el acceso a internet y tecnologías digitales** para permitir que más empresas adopten IA. Asimismo, se debe apoyar a _‘startups_‘ tecnológicas que se centren en soluciones basadas en IA y que puede impulsar la innovación local.
+
+Y, finalmente, asegurar que todos los sectores de la sociedad tengan acceso a los beneficios de la IA. Esto es esencial para evitar desigualdades.
+
+Computación cuántica, un nuevo horizonte de poder exponencial
+=============================================================
+
+A medida que la computación cuántica evoluciona, nos encontramos en el umbral de una nueva era tecnológica.
+-----------------------------------------------------------------------------------------------------------
+
+![Ernesto Kruger, columnista de EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Ernesto-Kruger.jpg)
+
+La **tecnología** ha avanzado de manera **vertiginosa** en las últimas **décadas**, revolucionando la manera en que vivimos, trabajamos y nos conectamos. Sin embargo, mientras que los **ordenadores clásicos** continúan mejorando y empujando los **límites de la computación tradicional**, existe una nueva frontera que promete transformar por completo nuestra **concepción** de lo posible: la **computación cuántica.**
+
+Este **campo emergente** ha capturado la atención de los **tecnólogos**, **científicos** y **empresarios**, no solo por su potencial, sino porque sus **aplicaciones** podrían tener un **impacto** trascendental en **áreas** tan diversas como la **salud**, la **inteligencia artificial,** la **seguridad** y la **ciencia de materiales**. En este artículo, explicaremos qué es la **computación cuántica**, cómo funciona de manera básica y qué se necesita para acceder a su poder.
+
+¿Qué es la Computación Cuántica?
+--------------------------------
+
+En términos simples, la **computación cuántica** es una forma avanzada de **procesar información**. Para entenderla, primero es necesario compararla con los **ordenadores tradicionales**, que funcionan basándose en bits. Estos bits, como quizás sepas, son **unidades de información** que pueden tener solo dos valores: 0 o 1. Toda la información que los **computadores clásicos** manejan, desde la más básica hasta la más compleja, está **codificada** en **combinaciones** de estos dos valores.
+
+Por otro lado, la **computación cuántica** utiliza \*qubits, una evolución de los bits. La gran **diferencia** está en que, gracias a las **leyes de la mecánica cuántica** (la ciencia que describe el **comportamiento** de las partículas subatómicas), un qubit puede existir simultáneamente en ambos estados, 0 y 1, un fenómeno conocido como \*\***superposición**. Además, los qubits pueden estar entrelazados, lo que permite a varios qubits **compartir información** instantáneamente a través de un **fenómeno** llamado \*_entrelazamiento cuántico_.
+
+Para entenderlo simple, si tiras al aire una moneda, solo puede caer de dos maneras: cara o cruz. Esto es como un bit en los **ordenadores clásicos**, que solo puede ser 0 o 1 (como cara o cruz).
+
+Ahora, imagina que en lugar de tirarla al aire y que caiga en uno de los dos lados, puedes hacer que la moneda esté girando sin parar. Mientras está girando, no está **ni en cara ni en cruz**, ¡puede estar en ambos a la vez! Eso es más o menos lo que pasa con un qubit. En lugar de ser solo 0 o 1 como un bit normal, un qubit puede ser 0, 1, o ambos al mismo tiempo. A esto se le llama **superposición**.
+
+Otro ejemplo, piensa en un **laberinto**. Si fueras un **ordenador clásico** (que usa bits), tendrías que explorar cada camino del **laberinto** uno por uno, decidiendo si vas por el camino de la izquierda (0) o por el de la derecha (1). Esto te llevaría mucho tiempo.
+
+Pero si fueras un **ordenador cuántico** con qubits, podrías explorar todos los **caminos** al mismo tiempo gracias a la **superposición**. Esto significa que podrías encontrar la **salida** del **laberinto** mucho más rápido, ya que estás probando muchas opciones simultáneamente.
+
+Estas **propiedades** permiten que los **ordenadores cuánticos** procesen una **enorme cantidad** de **información simultáneamente**, abriendo la puerta a resolver **problemas** que los **ordenadores convencionales** tardarían millones de años en resolver.
+
+¿Qué aplicaciones tiene la computación cuántica hoy?
+----------------------------------------------------
+
+Aunque la **computación cuántica** aún está en fases de desarrollo, algunas **empresas** y **centros de investigación** están logrando **avances significativos**, ya que los **ordenadores cuánticos** tienen un poder disruptivo en varias industrias:
+
+1. **Ciencia de materiales**: La simulación de moléculas complejas es increíblemente difícil para los ordenadores clásicos debido a las **interacciones** cuánticas en los átomos. Sin embargo, los **ordenadores cuánticos** pueden simular estas **interacciones** con precisión, lo que permitiría diseñar nuevos materiales revolucionarios en sectores como la energía, la electrónica o la medicina.
+2. **Seguridad y criptografía**: Aunque la **computación cuántica** puede potencialmente descifrar algunos de los **métodos** de **encriptación** actuales, también está llevando al **desarrollo** de **criptografía** cuántica, que promete comunicaciones absolutamente seguras, invulnerables a la **piratería clásica**.
+3. **Optimización y logística**: Resolver problemas de optimización es una tarea computacionalmente exigente, ya que implica revisar miles o millones de **combinaciones** posibles. La **computación cuántica** podría mejorar la **logística** y la optimización de rutas, redes de transporte y la asignación eficiente de **recursos**.
+4. **Inteligencia artificial y machine learning**: Las **capacidades** de **procesamiento** exponencial de los **computadores cuánticos** pueden transformar el campo de la IA y el machine learning, permitiendo algoritmos más complejos y rápidos, desde la **clasificación** de datos hasta el **aprendizaje** profundo.
+5. **Desarrollo de software cuántico**: Otro aspecto clave es el software necesario para programar estos **ordenadores**. Las empresas están **desarrollando herramientas y lenguajes de programación** cuánticos, como _Qiskit_ (de IBM), para que los desarrolladores puedan comenzar a trabajar en la creación de **algoritmos cuánticos.**
+
+¿Qué se necesita para aprovechar esta tecnología?
+-------------------------------------------------
+
+Adentrarse en la **computación cuántica** requiere más que solo acceso a la **tecnología**. Es necesario entender los **conceptos fundamentales** de la física cuántica y la **programación cuántica**.
+
+Afortunadamente, las **plataformas cuánticas en la nube** de varias empresas tecnológicas, como IBM, Google, y Microsoft, han creado **plataformas** que permiten a los usuarios **acceder** a la **computación cuántica** a través de la nube. Por ejemplo, IBM Quantum Experience ofrece un **acceso público gratuito** a sus **procesadores cuánticos** para experimentos sencillos. Empresas como D-Wave también proporcionan acceso a su tecnología cuántica con aplicaciones comerciales.
+
+Estas **plataformas** proporcionan también recursos educativos y tutoriales para principiantes.  
+Esto seguirá creciendo, pues, **empresas y universidade**s están invirtiendo fuertemente en formar equipos multidisciplinarios que combinan conocimiento en física, matemáticas, informática y otras áreas para aprovechar al máximo las **capacidades** de la **computación cuántica**.
+
+El futuro es ahora
+------------------
+
+A medida que la **computación cuántica evoluciona**, nos encontramos en el umbral de una nueva era **tecnológica**. Aunque aún estamos en las primeras **etapas de desarrollo**, el impacto potencial de esta **tecnología** es monumental. Desde resolver problemas científicos complejos hasta transformar sectores completos, el poder de la **computación cuántica** nos permite reimaginar lo que es posible.
+
+Para las empresas y los individuos que desean estar a la **vanguardia** de la **innovación**, entender la **computación cuántica** y sus aplicaciones es esencial. Aunque el camino hacia la adopción total de esta tecnología será largo, aquellos que comiencen a explorar y experimentar hoy tendrán una ventaja exponencial en el futuro.
+
+Es un futuro que ya está en marcha, y ser parte de él, comienza con un paso: **aprender y explorar el poder cuántico.**
+
+Lasaña de berenjenas, deliciosa alternativa saludable
+=====================================================
+
+Fácil de preparar, perfecta para quienes buscan algo sabroso sin complicarse demasiado. ¡Comparte esta receta con tus amigos!
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Si eres amante de la lasaña, ¡esta versión con berenjena te sorprenderá!](https://www.elcomercio.com/wp-content/uploads/2024/10/image-16.png)
+
+La **lasaña de berenjenas** es una **deliciosa** y **saludable** **alternativa** a la clásica **lasaña**, ideal para quienes buscan reducir el **consumo** de **carbohidratos** o simplemente disfrutar de una versión más ligera. En esta **receta**, las capas de berenjena asada sustituyen a la **pasta**, creando una **combinación perfecta** con el sabor del queso, la salsa de tomate y otros **ingredientes** frescos. Es una **opción nutritiva** y llena de sabor, perfecta para compartir en una **comida familiar** o como plato principal en una **cena** especial.
+
+**Ingredientes:**
+
+*  2 o 3 berenjenas grandes
+*  1 cebolla mediana
+*  2 dientes de ajo
+*  1 lata de tomate triturado de 800 gramos
+*  300 gramos de queso mozzarella
+*  300 gramos de queso ricotta
+*  Queso parmesano al gusto
+*  Sal
+*  Pimienta
+*  Orégano
+*  Aceite de oliva
+*  Lonchas de jamón (opcional para quienes no son vegetarianos)
+*  Hierbas italianas
+
+* * *
+
+> Lasaña de berenjenas, perfecta para quienes buscan una comida ligera, llena de sabor.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-1-3-1024x683.png)
+
+¿Sabías que la berenjena puede ser la estrella de tu próxima lasaña?
+
+Preparación
+-----------
+
+* **Lavar** las berenjenas y cortar en rodajas finas a lo largo, de aproximadamente 0.5 cm de grosor. **Colocar** en un colador, espolvorear con sal y dejar reposar unos 20-30 minutos para que suelten el exceso de agua. Luego, secar con papel de cocina.
+* **Precalentar** el horno a 200 °C (400 °F). Untar ligeramente las rodajas de berenjena con aceite de oliva y colocar en una bandeja para **hornear**. Asar las **berenjenas** durante 15-20 minutos, voltear a la mitad del tiempo, hasta que estén doradas y tiernas. Retirar y reservar.
+* **Añadir** en una **sartén** dos cucharadas de aceite de oliva, lleva a fuego medio, incorpora la **cebolla** y cocinar hasta que esté ligeramente transparente, luego añade los ajos y deja cocinar por 3 minutos.
+* **Incorporar el tomate triturado**, remover bien y añadir sal, pimienta y orégano al gusto. Si cuentas con otras hierbas como albahaca o perejil se recomienda añadir un poco para darle mayor gusto a la salsa. Cocinar a fuego medio bajo, r**emoviendo de forma frecuente hasta que la salsa haya espesado** y adquirido un color rojo intenso. Corregir la sal pimienta hasta que esté a tu gusto y retirar del fuego cuando esté lista.
+* Para **montar la lasaña**, en una fuente para horno, **colocar** una capa de salsa de tomate en el fondo. Luego, **colocar** una capa de rodajas de **berenjena** asada. Añadir una capa de ricotta o requesón, y un poco de mozzarella rallada, si no eres vegetariano coloca las lonchas de jamón. Repetir las capas (salsa, berenjena, ricotta, mozzarella) hasta que termines con todos los ingredientes. **Terminar** con una capa de salsa y **espolvorear** el queso parmesano por encima.
+* **Precalentar** el horno a 180 °C (350 °F) y **hornear** la lasaña de berenjenas durante 25-30 minutos, hasta que el queso esté dorado y burbujeante.
+* Dejar **reposar** la lasaña durante 10 minutos antes de **cortar** para que se asiente. Servir caliente y si puedes acompañar con **pan de ajo**.
+
+¡Buen provecho!
+
+Hackeo nunca antes visto filtra detalles inéditos de Pokémon
+============================================================
+
+La desarrolladora de Pokémon, Game Freak, confirmó el ciberataque.
+------------------------------------------------------------------
+
+![La franquicia Pokémon fue lanzada originalmente en Japón el 27 de febrero de 1996](https://www.elcomercio.com/wp-content/uploads/2024/10/filtracion-pokemon.jpg)
+
+**Game Freak**, la reconocida desarrolladora de la franquicia **Pokémon**, fue víctima de un **hackeo sin precedentes** que resultó en una **filtración masiva de datos**.
+
+Este incidente, apodado **“Teraleak”** por la comunidad, ocurrió en **agosto de 2024**, pero fue difundido a mediados de **octubre**.
+
+### Más noticias
+
+* [Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos](https://www.elcomercio.com/games/cracks-cheats-videojuegos-malware-software.html "Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos ")
+* [Protege tu cuenta de WhatsApp del peligroso ‘spoofing’](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html "Protege tu cuenta de WhatsApp del peligroso ‘spoofing’ ")
+* [Guía para armar la PC Gamer ideal en 2024](https://www.elcomercio.com/tecnologia/pc-gamer-juegos-tecnologia.html "Guía para armar la PC Gamer ideal en 2024 ")
+
+Se conoce que la información filtrada alcanzó los **1.8 terabytes**, incluyendo datos personales de **2 606 empleados** actuales y anteriores.
+
+Detalles filtrados de Pokémon
+-----------------------------
+
+Game Freak confirmó que un **tercero no autorizado** accedió a sus servidores y sustrajo información confidencial.
+
+Aunque la compañía activó sus mecanismos de defensa, no pudo evitar la **fuga de datos**.
+
+Además de los datos personales de los empleados, se revelaron detalles sobre **proyectos futuros**, como el juego en desarrollo conocido como “**Pokémon Gaia**“, que corresponde a la décima generación.
+
+También se mencionan nombres en clave para otros proyectos, como “**Ounce**“, que podría ser la sucesora de la **Nintendo Switch**.
+
+La filtración incluye planes para una **secuela de “Detective Pikachu”** y una nueva serie de acción para **Netflix**, lo que sugiere una expansión significativa de la franquicia más allá de los videojuegos.
+
+Game Freak respondió tras el ataque
+-----------------------------------
+
+En un **comunicado oficial**, Game Freak se disculpó por las molestias causadas y aseguró que está contactando individualmente a los empleados afectados para ofrecerles apoyo.
+
+La empresa también ha tomado medidas para reforzar su **seguridad cibernética**, aunque no ha proporcionado detalles sobre el código fuente específico de los juegos que podrían haber sido comprometidos.
+
+Este ciberataque a Game Freak se suma a una serie de incidentes similares en la industria de los videojuegos, donde las **vulnerabilidades cibernéticas** están en aumento.
+
+La magnitud del ataque recuerda otros eventos relevantes como el “**Gigaleak**” de Nintendo, pero con un impacto más amplio debido a la cantidad y sensibilidad de los datos comprometidos.
+
+Este caso recuerda a lo que padeció Rockstar con el conocido juego **GTA 6**, a inicios de este año.
+
+Filtración genera especulaciones
+--------------------------------
+
+Mientras tanto, la filtración generó una ola de **especulaciones y preocupaciones** entre los fanáticos a los videojuegos.
+
+Muchos se preguntan cómo este incidente afectará el futuro de la franquicia Pokémon y si habrá consecuencias legales para los responsables del ataque.
+
+Además, algunos archivos ya han comenzado a circular en foros y **redes sociales**, lo que pone en riesgo aún más la integridad de la información confidencial.
+
+A medida que Game Freak trabaja para mitigar las consecuencias del ataque y restaurar la confianza entre sus empleados y seguidores, el futuro inmediato de Pokémon parece estar lleno de **incertidumbres**.
+
+Cambios en cortes de luz llegan con nuevos horarios de clases
+=============================================================
+
+El Ministerio de Educación detalló los cambios que tendrán las jornadas escolares hasta el viernes 8 de noviembre.
+------------------------------------------------------------------------------------------------------------------
+
+![En el régimen Sierra-Amazonía, las clases empezaron oficialmente el 2 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/clases-luz.jpg)
+
+Los **cortes de luz** en Ecuador tienen nuevas disposiciones desde el gobierno de **Daniel Noboa**. Estos serán en dos franjas, pero bajaron a ocho horas diarias entre la semana del 21 al 27 de octubre de 2024.
+
+Esta medida, que se reducirá de forma paulatina hasta alcanzar las **cuatro horas** en la semana del 4 al 10 de noviembre, llevó a que el **Ministerio de Educación** ajuste los horarios de clases.
+
+### Más noticias
+
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+* [Cortes de luz en Cuenca para este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-para-este-viernes-18-de-octubre.html "Cortes de luz en Cuenca para este viernes 18 de octubre")
+* [Cortes de luz en Guayaquil este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-viernes-18-octubre.html "Cortes de luz en Guayaquil este viernes 18 de octubre")
+
+La noche de este viernes 18 de octubre, la cartera de Estado detalló los **cambios** que tendrán las jornadas escolares durante las próximas tres semanas.
+
+![table visualization](https://public.flourish.studio/visualisation/19841235/thumbnail)
+
+Cambios en las jornadas de clases
+---------------------------------
+
+En la **jornada matutina**, los horarios de clases **no sufrirán cambios**, el ingreso y la salida se realizará de manera habitual.
+
+Para quienes estudian en la **vespertina**, deberán comenzar con su jornada a la hora de costumbre, sin embargo, saldrán a las **18:00**
+
+Mientras que la **jornada nocturna** sí existirán **cambios considerables**.
+
+Jornada nocturna
+----------------
+
+**50 escuelas públicas** de ocho provincias regresarán a la **presencialidad**.
+
+Estas unidades fueron “**estratégicamente ubicadas**” al comprobarse que no se verán afectadas por los apagones programados, afirmó el Ministerio.
+
+Estas instituciones pertenecen a Napo, **Pichincha**, Azuay, Cañar, Morona Santiago, El Oro, Loja y **Guayas**.
+
+¿Qué pasará con las demás unidades educativas de la noche? En estos centros las clases se mantendrán bajo la **modalidad virtual** (no presencial), con el apoyo de recursos académicos y guías pedagógicas.
+
+Estos centros educativos se irán incorporando a la presencialidad de **forma progresiva**.
+
+Estas son las escuelas nocturnas que retoman las clases presenciales.
+
+### Juramento a la Bandera
+
+Sobre el Juramento a la Bandera pendiente en la jornada nocturna, la entidad recomendó lo siguiente:
+
+“Las escuelas y colegios de esta jornada pueden realizar el Juramento a la Bandera y reconocer a sus abanderados, portaestandartes y escoltas en horario vespertino o durante el fin de semana”, recomendó la entidad.
+
+Las instituciones **particulares, fiscomisionales y municipales** pueden decidir por su cuenta si sumarse a estas directrices o definir sus propias disposiciones, aclaró el Ministerio.
+
+> \[COMUNICADO\] Informamos a la ciudadanía los lineamientos sobre los horarios escolares para las siguientes tres semanas, con el fin de garantizar la continuidad del proyecto educativo. [pic.twitter.com/6aMCAJNCeX](https://t.co/6aMCAJNCeX)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 19, 2024](https://twitter.com/Educacion_Ec/status/1847480099571974605?ref_src=twsrc%5Etfw)
+
+Día Internacional de la Lucha contra el Cáncer de Mama llega con historias alentadoras
+======================================================================================
+
+Cada 19 de octubre se conmemora el Día Internacional de Lucha contra el Cáncer de Mama.
+---------------------------------------------------------------------------------------
+
+![Este 19 de octubre se conmemora el Día Internacional de la Lucha contra el Cáncer de Mama.](https://www.elcomercio.com/wp-content/uploads/2024/10/mama.jpg)
+
+Este 19 de octubre se conmemora el **Día Internacional de la Lucha contra el Cáncer de Mama**. Se recuerda con retos, historias y acciones de prevención[.](https://es.wikipedia.org/wiki/C%C3%A1ncer_de_mama)
+
+El **cáncer de mama** es el tipo más frecuente en las mujeres a escala mundial. Este abre un camino de dolor, pero también de aprendizajes y nuevos comienzos.
+
+### Más noticias
+
+* [Día de la Menopausia, momento para hablar sobre salud femenina](https://www.elcomercio.com/tendencias/salud/dia-mundial-menopausia-salud-mujer-efemeride.html "Día de la Menopausia, momento para hablar sobre salud femenina ")
+* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
+* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
+
+Día de la Lucha contra el Cáncer de Mama
+----------------------------------------
+
+De acuerdo con datos de la **[Organización Panamericana de la Salud (OPS)](https://www.paho.org/es)**, entre las características que se asocian con un mayor riesgo de desarrollar cáncer de mama está la obesidad.
+
+Se suma el consumo de alcohol, **antecedentes familiares**, exposición a radiación, antecedentes reproductivos y hormonales y consumo de tabaco.
+
+Pero, no hay que perder de vista que cerca de la mitad de los casos se desarrollan en mujeres sin **factores de riesgo** identificados.
+
+Se presenta con mayor frecuencia como una masa indolora en la **mama**. De ahí, la importancia de que cuando las mujeres, al tacto, encuentren una masa, consulten a un profesional inmediatamente.
+
+Señales importantes
+-------------------
+
+Ese tipo de **cáncer** puede presentarse de formas diversas y se requiere una revisión completa. Puede llegar con engrosamiento de la **mama**, alteración en el tamaño, la forma o la apariencia o la piel, como enrojecimiento, hoyuelos y picaduras.
+
+La detección temprana puede salvar vidas y dar paso a un tratamiento eficaz. Este puede implicar una cirugía con o sin **radiación** y medicamentos.
+
+Historias de vida
+-----------------
+
+**Pilar Echeverría**, de 67 años, experimentó cáncer de mama. El proceso empezó en 2022, luego de un examen de rutina, pues, su hermana también padeció la **enfermedad**.
+
+Tras una vida como **trabajadora social** en una clínica, ya jubilada, Echeverría recibió la noticia, luego de los exámenes respectivos.
+
+Aunque había un antecedente familiar, nunca creyó que le tocaría a ella. **“Siempre pensamos que estamos libres”**.
+
+Recuerda que escuchó a la radióloga que le realizaba el eco mamario decirle a una practicante, algo que la inquietó. Se trataba de un **tumor**.
+
+Ella, cuyo hijo tiene 37 años, volvió a casa con la incertidumbre de lo que vendría. El proceso fue doloroso, con tres biopsias en tres semanas. Pero no había **tiempo** que perder.
+
+El tratamiento
+--------------
+
+Los costos de la quimioterapia eran abrumadores: **1 700 dólares** por cada sesión, y necesitaba entre ocho y 10. Así que empezó el peregrinaje para recibir atención a través del **Instituto Ecuatoriano de Seguridad Social (IESS)**, sin la premura esperada.
+
+Ella logró trasladarse de Quito a **Machala**, donde recibió el tratamiento, en Solca. Este paso requirió la derivación del **IESS**. Tiene presentes los días de ayuno y oraciones pidiendo por su salud.
+
+Una cirugía y **quimioterapia** estuvieron en el camino. En la octava sesión del segundo procedimiento perdió la sensibilidad en las manos y los pies.
+
+Le suspendieron los procedimientos y empezó el tratamiento con pastillas. Ella bajó **25 libras**, la boca le sabía a metal. Pero, repite, “estoy viva”. No deja que los dolores le impidan seguir activa, viajando, como ama.
+
+**“Aprendí que el ánimo es vital, y cada día es una nueva oportunidad para vivir plenamente”**, repite la mujer, abuela de dos nietas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/cancer-1024x683.jpg)
+
+El listón rosa es uno de los símbolos del Día Internacional de la Lucha contra el Cáncer de Mama. Imagen: Freepik
+
+El optimismo sostiene
+---------------------
+
+Una vida feliz y llena de gratitud. Así describe **Leticia Sabando**, de 54 años, a su presente, luego de atravesar un **cáncer de mama**.
+
+El camino no empezó con esa dolencia. A los 24 años, a la mujer le detectaron **cáncer de cuello uterino**. “Esta fue mi primer encuentro con esta cruel enfermedad”.
+
+10 años después, ella detectó un bulto en la mama izquierda y acudió al médico. Luego de la revisión y los exámenes respectivos, la noticia llegó: era **cáncer**.
+
+**Leticia Sabando** preguntó: “¿Cuánto tiempo me queda de vida?”. La respuesta fue la explicación del tratamiento, que incluyó una cirugía exitosa. Pero, el verdadero reto fue afrontar la quimioterapia.
+
+Las molestias estuvieron acompañadas de **incertidumbre**. Aun así, tomaba fuerzas para volver a trabajar. En ese entonces, era jefa regional de un área en una institución pública. Actualmente, se desempeña como **docente universitaria**.
+
+Ella optó por raparse, se compró una peluca y decidió que iba a disfrutar del cabello liso que siempre quiso. Pasaron los meses y el tratamiento dio resultado.
+
+Para Leticia, al inicio, el cáncer era sinónimo de muerte. No obstante, tiene presente la frase que le dijo al médico: **“A mí el cáncer no me va a matar, me moriré por una gripe, pero el cáncer no va a poder conmigo”**. Y así fue.
+
+El apoyo de la familia, la **atención** a tiempo y encontrar en el corazón la motivación le salvaron la vida. Sus tres hijas fueron su mayor motor.
+
+El cáncer en Ecuador
+--------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-13-1024x683.jpg)
+
+El Ministerio de Salud realiza jornadas en distintos puntos de Ecuador. Foto: MSP
+
+De enero a septiembre de 2024, el **Hospital de Especialidades Eugenio Espejo** ha agendado 30 058 citas en el área de oncología, lo que representa un incremento del 9,12% en comparación con el mismo periodo de 2023.
+
+Según el **[Ministerio de Salud Pública](https://www.salud.gob.ec/)**, a pesar de los avances en tecnología y tratamientos, la realidad es que el cáncer sigue siendo un desafío creciente.
+
+La institución indica que, según datos de la **OPS,** se proyecta que los casos de cáncer en Ecuador aumentarán en un 59% para 2035, y las muertes relacionadas con esta enfermedad podrían crecer un 68%. En el caso del cáncer de mama, en el país, hay una incidencia del 25,4%.
+
+La Coordinación Zonal 9-Salud creó la Red Oncológica. La iniciativa surgió en el Hospital Eugenio Espejo con el objetivo de mejorar la accesibilidad y el tratamiento.
+
+El Ministerio de Salud cuenta con el **Plan Nacional de Lucha Contra el Cáncer**, con la integración de los servicios de la red pública. El llamado desde la institución es a acudir a un chequeo anual a partir de los 40 años.
+
+El proceso incluye una mamografía. En el **sistema público** se puede acceder de forma gratuita. Hay otros factores de riesgo: primer parto después de los 35 años y menopausia después de los 55.
+
+Investigaciones y pedidos
+-------------------------
+
+**Santiago Guerrero**, investigador del Laboratorio de Ciencia de Datos Biomédicos de la Universidad Internacional del Ecuador, aborda otra arista en este **Día Internacional de la Lucha contra el Cáncer de Mama**: la falta de representación étnica en los estudios genómicos y en los ensayos clínicos.
+
+Según explica Guerrero, la mayoría de los datos genéticos provienen de personas de ascendencia europea, lo que deja a muchas **comunidades marginadas** sin los beneficios completos de los avances médicos.
+
+Los resultados
+--------------
+
+En la última década, diversas **investigaciones** han confirmado que el origen étnico tiene un gran impacto en el desarrollo del **cáncer**.
+
+Por ejemplo, se ha demostrado que las mujeres hispanas o africanas con cáncer de mama tienen un mayor riesgo en comparación con aquellas de origen europeo.
+
+Desde el Laboratorio de Ciencia de Datos Biomédicos, dice Guerrero, han identificado que la investigación oncológica ha fallado en la inclusión étnica. La población hispana está representada en solo un **0,2 % de esos estudios**.
+
+Santiago Guerrero sostiene que es indispensable que este problema forme parte de la **agenda política** del país.
+
+La investigación **oncológica** debe fortalecerse con un enfoque étnico, y las bases genéticas del cáncer en las poblaciones deben ser profundamente estudiadas.
+
+Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador
+========================================================================================
+
+Los cronogramas contemplan los cortes de luz reducidos del 21 de octubre hasta el 10 de noviembre en Ecuador.
+-------------------------------------------------------------------------------------------------------------
+
+![Los horarios de cortes de luz reducidos del 21 de octubre al 10 de noviembre fueron difundidos por el Ministerio de Energía y Minas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-reducidos.jpg)
+
+El **Ministerio de Energía y Minas** anunció los **nuevos horarios de los cortes de luz reducidos,** desde el **21 de octubre** hasta el **10 de noviembre** de 2024, en **Ecuador**[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Los cronogramas contemplan la reducción de cortes de luz a **ocho horas** la primera semana hasta **cuatro horas** en la tercera semana.
+
+### Más noticias:
+
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
+
+Nuevos horarios de cortes de luz reducidos para la semana del 21 de octubre en Ecuador
+--------------------------------------------------------------------------------------
+
+El presidente **Daniel Noboa** señaló que el país ha enfrentado momentos extremadamente complejos en las últimas semanas.
+
+Se refirió a los esfuerzos en **negocios, familias y estudiantes** para realizar sus tareas diarias.
+
+En este contexto, dijo que es necesario dar respuestas definitivas a la **crisis energética**, no solo al momento actual.
+
+Anunció que los cortes de luz se mantendrán en **dos franjas horarias** y se **reducirán paulatinamente** para las **zonas residenciales**.
+
+La **semana del 21 de octubre** los cortes serán de **ocho horas**.
+
+Los cortes serán de **seis horas** para la **semana del 28 de octubre**.
+
+Para la **semana del 6 de noviembre** serán de **cuatro horas**.
+
+Para las **zonas industriales**, los horarios se mantendrán.
+
+En el siguiente **enlace** puede revisar los **horarios en su ciudad**, de las tres semanas, con ocho, seis y cuatro horas de cortes de luz: [https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/")
+
+> 📍¡IMPORTANTE!  
+>   
+> Informamos sobre los racionamientos del servicio de energía eléctrica, a escala nacional, desde el 21 de octubre hasta el 10 de noviembre.  
+>   
+> 🔸Conoce la programación en el siguiente enlace➡️ [https://t.co/wR8C8JMAWL](https://t.co/wR8C8JMAWL) [pic.twitter.com/YJr2sds9tv](https://t.co/YJr2sds9tv)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 19, 2024](https://twitter.com/RecNaturalesEC/status/1847476425978253439?ref_src=twsrc%5Etfw)
+
+Otras medidas anunciadas por el Gobierno fueron proyectos de **energía renovable** y transporte de **soluciones móviles** de energía en **aviones Hércules**.
+
+Además, cero impuestos a la comercialización de **generadores eléctricos**, entre otras acciones.
+
+Un incendio forestal se reportó en Ambato este viernes 18 de octubre
+====================================================================
+
+El ECU 911 coordinó la emergencia del incendio en Ambato con varios organismos de socorro.
+------------------------------------------------------------------------------------------
+
+![El incendio en Ambato es uno más de los que han ocurrido en estos días en esa ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-Ambato.jpg)
+
+Un incendio forestal se reportó en Ambato este viernes 18 de octubre de 2024.
+
+El ECU 911 coordinó con los organismos de socorro para sofocar las llamas.
+
+### Más noticias:
+
+* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
+* [Afectados por los incendios forestales tendrán un beneficio en la planilla del agua](https://www.elcomercio.com/actualidad/quito/afectados-incendios-forestales-planilla-agua.html "Afectados por los incendios forestales tendrán un beneficio en la planilla del agua")
+
+El incendio forestal en Ambato este viernes 18 de octubre
+---------------------------------------------------------
+
+Un incendio forestal se registró en la quebrada que baja de Ambatillo, a 5km del centro del cantón Ambato, en Tungurahua.
+
+El ECU 911 señaló que las cámaras de videovigilancia monitorean el sector.
+
+Este organismo coordinó la asistencia del contingente del Cuerpo de Bomberos de Ambato.
+
+El hecho se produjo la tarde de este viernes 18 de octubre y alarmó a los ciudadanos de la capital tungurahuense.
+
+Los bomberos acudieron al sitio para controlar el flagelo.
+
+> [#ECU911Reporta](https://twitter.com/hashtag/ECU911Reporta?src=hash&ref_src=twsrc%5Etfw) | Incendio forestal en el sector Ambatillo, cantón [#Ambato](https://twitter.com/hashtag/Ambato?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Cámaras de [#VideovigilanciaECU911](https://twitter.com/hashtag/VideovigilanciaECU911?src=hash&ref_src=twsrc%5Etfw) monitorean el sector.  
+>   
+> El [#ECU911](https://twitter.com/hashtag/ECU911?src=hash&ref_src=twsrc%5Etfw) coordinó la asistencia del contingente de [@cbambato](https://twitter.com/cbambato?ref_src=twsrc%5Etfw).  
+>   
+> ➡️ Proteja las vías respiratorias y evite acercarse al área. [pic.twitter.com/gtFfiQwkHA](https://t.co/gtFfiQwkHA)
+> 
+> — Coordinación Zonal 3 ECU 911 Ambato (@ECU911Ambato) [October 18, 2024](https://twitter.com/ECU911Ambato/status/1847368356388897225?ref_src=twsrc%5Etfw)
+
+El 15 de octubre, el Cuerpo de Bomberos de Ambato acudió al llamado de emergencia de un incendio forestal en Ambatillo, sector “El Peral”.
+
+Medios locales reportaron varios incendios forestales este viernes al medio día, en los sectores de Ambatillo, Izamba y La Viñas.
+
+La temporada de verano, varias provincias de Ecuador se vieron afectadas por los incendios forestales.
+
+En ciudades como Quito y Cuenca, se logró aprehender a los sospechosos y ahora son procesados penalmente.
+
+Ministerio de Educación abrió vacantes para profesionales en consejería estudiantil
+===================================================================================
+
+La postulación para trabajar en los Departamentos de Consejería Estudiantil (DECE) estará disponible hasta el 20 de octubre.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Los profesionales deberán trabajar con casos de riesgos psicosociales en los estudiantes](https://www.elcomercio.com/wp-content/uploads/2024/10/vacante-dece.jpg)
+
+El **Ministerio de Educación** abrió **vacantes** para profesionales que quieran trabajar en los Departamentos de Consejería Estudiantil (**DECE**) de las unidades educativas fiscales en Ecuador.
+
+La convocatoria busca aumentar la cobertura de los DECE a nivel nacional, con el objetivo de identificar prevenir e intervenir en los **casos de riesgos psicosociales** de los estudiantes.
+
+### Más noticias
+
+* [La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares](https://www.elcomercio.com/actualidad/mundo/plataforma-estados-unidos-buscar-trabajo.html "La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares")
+* [¿Por qué es tan importante hablar sobre la salud mental en el trabajo?](https://www.elcomercio.com/tendencias/salud/dia-internacional-salud-mental-trabajo-efemeride.html "¿Por qué es tan importante hablar sobre la salud mental en el trabajo? ")
+* [La deserción escolar en Quito se debe a esta razón](https://www.elcomercio.com/actualidad/quito/desercion-escolar-quito-razon-educacion.html "La deserción escolar en Quito se debe a esta razón")
+
+Estos departamentos de consejería trabajan de forma directa con los alumnos, padres y profesores en **varias problemáticas**, como: inestabilidad emocional, conflictos interpersonales, violencia, consumo de sustancias, embarazo adolescente y vulneración de derechos.
+
+170 vacantes disponibles
+------------------------
+
+La convocatoria está destinada a **profesionales** en los campos de educación, ciencias sociales, salud y bienestar, cuyas carreras estén asociadas con psicología general, psicología educativa, psicología clínica, trabajo social y afines.
+
+En total estarán disponibles **170 vacantes** distribuidas en las nueve zonas educativas del país.
+
+Quienes deseen participar del proceso deberán inscribirse hasta el **domingo 20 de octubre** de 2024.
+
+El único requisito es contar con un **título de tercer nivel** técnico, tecnológico o universitario en las áreas mencionadas y que esté debidamente registrado en la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (**Senescyt**).
+
+¿Cómo inscribirse en la convocatoria?
+-------------------------------------
+
+Para inscribirte en el proceso de selección de profesionales para los **DECE** deberás ingresar al portal web del Ministerio de Educación destinado para este plan piloto. Da clic **[aquí](https://academico.educarecuador.gob.ec/educaempleo/#/login "https://academico.educarecuador.gob.ec/educaempleo/#/login")** para dirigirte directamente al enlace.
+
+En esta página deberás **registrarte** e ingresar tu información personal.
+
+Luego, completa tu **hoja de vida** en el módulo de la izquierda; no olvides actualizar tus datos académicos y profesionales. Esta información es importante para el análisis de los **perfiles**.
+
+Finalmente, dirígete hacia ‘**Módulo de aplicación**‘ y selecciona la provincia y cantón en el que te gustaría trabajar.
+
+En esta opción puedes elegir hasta **cinco alternativas** de vacantes, siendo la uno la de prioridad más alta y la cinco la más baja.
+
+Una vez completes tu registro podrás descargar el **comprobante de aprobación**.
+
+Recuerda generar la **aceptación y declaración digital** que te pedirá el sistema. Si no lo haces tu postulación no quedará registrada.
+
+Criterio de selección de profesionales
+--------------------------------------
+
+Cada aspirante será calificado sobre **50 puntos**, con la opción de extenderse hasta 60 a través de **bonificaciones**.
+
+Según la escala de calificaciones del Ministerio de Educación, los perfiles serán **ponderados** de la siguiente forma:
+
+* **Formación académica**: 40 puntos
+* **Experiencia laboral** profesional: 10 puntos
+* **Bonificaciones**: por residencia; por ser intérprete de lengua de señas; por haber obtenido su título en los dos años previos a la convocatoria; al elegir como lugar de trabajo alguna plaza en la Amazonía.
+
+El certificado de suficiencia de un **segundo idioma** no suma puntos para esta convocatoria.
+
+Los aspirantes que mantengan un vínculo de dependencia laboral con la cartera de Estado **no podrán participar** en el proceso, estoy incluye, a docentes.
+
+> 🔊El Ministerio de Educación convoca a la postulación para vacantes en los Departamentos de Consejería Estudiantil (DECE) de sostenimiento fiscal🧑‍🏫.  
+>   
+> Luego de 8 años, se abre un nuevo proceso para vincular especialistas en psicología, trabajo social y afines, con el objetivo de… [pic.twitter.com/oPpAQANFWD](https://t.co/oPpAQANFWD)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 17, 2024](https://twitter.com/Educacion_Ec/status/1847063082721591794?ref_src=twsrc%5Etfw)
+
+Una vez que culmine la postulación, las Unidades Distritales de Talento Humano se encargarán de seleccionar a los candidatos **mejor calificados**, los cuales recibirán un **contrato ocasional**.
+
+El último proceso de vinculación de profesionales a los Departamentos de Consejería Estudiantil se realizó en **2016**.
+
 ¿Quién fue Joyce Higgins de Ginatta, ‘la dama de la dolarización’?
 ==================================================================
 
@@ -388,593 +1003,3 @@ Funciones dañinas
 El objetivo, indica el comunicado, es que TikTok “cambie sus funciones dañinas” y deje de usar “tácticas de explotación” infantiles, y **además exige imponer multas**, incluyendo la devolución de las ganancias “fraudulentas” y el pago de indemnizaciones a los usuarios perjudicados.
 
 En la demanda, además, se acusa a TikTok de mentir al decir que opera de manera independiente a su matriz china, Bytedance, y que no está **sujeta a influencia del Gobierno chino.**
-
-Cortes de luz en Cuenca este sábado 19 de octubre
-=================================================
-
-Los cortes de luz en Cuenca este sábado 19 de octubre son de hasta 10 horas.
-----------------------------------------------------------------------------
-
-![Los cortes de luz en Cuenca este sábado 19 de octubre irán desde una franja horaria.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-1.jpg)
-
-Los **cortes de luz** en **Cuenca** este **sábado 19 de octubre** son de una y dos franjas horarias, dependiendo del sector.
-
-**Centrosur** emitió los horarios de suspensión del servicio de energía eléctrica para Cuenca y otras ciudades del Austro, este sábado.
-
-### Más noticias:
-
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
-
-Horarios de los cortes de luz en Cuenca el sábado 19 de octubre
----------------------------------------------------------------
-
-La noche del jueves 17 de octubre, el presidente **Daniel Noboa** señaló que el país ha enfrentado momentos extremadamente complejos en las últimas semanas.
-
-Se refirió a los esfuerzos en **negocios, familias y estudiantes** para realizar sus tareas diarias, con los cortes de luz vigentes.
-
-En este contexto, dijo que es necesario dar respuestas definitivas a la **crisis energética**, no solo al momento actual.
-
-Anunció que los cortes de luz se mantendrán en **dos franjas horarias y se reducirán paulatinamente** para las zonas residenciales, desde la próxima semana, por tres semanas.
-
-Mientras se aplican las nuevas medidas de cortes de luz con una reducción paulatina en el sector residencial, las empresas eléctricas continúan con la **programación habitual**.
-
-En Cuenca, **Centrosur** mantiene los cortes de luz de hasta diez horas y hasta en tres franjas horarias, dependiendo del sector.
-
-Las eléctricas del país recuerdan a sus usuarios que, debido a la mejora de las **condiciones hidrológicas**, los cortes de energía pueden reducirse dentro del período de corte programado.
-
-A continuación, los **cortes de luz en Cuenca y otras ciudades del Austro para este sábado 19 de octubre de 2024**:
-
-En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción
-=====================================================================================
-
-Ecuador contará con más herramientas para el monitoreo de los volcanes en proceso de erupción.
-----------------------------------------------------------------------------------------------
-
-![El embajador de Estados Unidos en Ecuador, Arthur Brown (der.), entregó el equipamiento para el monitores de los volcanes al director del Instituto Geofísico, Mario Ruiz, (izq.).](https://www.elcomercio.com/wp-content/uploads/2024/10/geofisico-equipos.jpg)
-
-Ecuador se equipa con más instrumentos de nueva generación tecnológica para monitorear el **comportamiento y erupción de los volcanes.**
-
-El programa **Usaid, de Estados Unidos**, donó equipos al **Instituto Geofísico** de la Escuela Politécnica Nacional, para mejorar el monitoreo volcánico.
-
-### Más noticias
-
-* [Ingreso al volcán El Altar cerrará durante cinco días](https://www.elcomercio.com/actualidad/ecuador/ingreso-volcan-altar-cerrado-dias.html "Ingreso al volcán El Altar cerrará durante cinco días")
-* [Volcán Sangay sorprende con emisiones este 3 de agosto de 2024](https://www.elcomercio.com/actualidad/volcan-sangay-sorprende-con-emisiones-este-3-de-agosto-de-2024.html "https://www.elcomercio.com/actualidad/volcan-sangay-sorprende-con-emisiones-este-3-de-agosto-de-2024.html")
-* [Volcán Tungurahua, 18 años de su más grande erupción](https://www.elcomercio.com/actualidad/ecuador/volcan-tungurahua-18-anos-de-su-erupcion-mas-grande.html "https://www.elcomercio.com/actualidad/ecuador/volcan-tungurahua-18-anos-de-su-erupcion-mas-grande.html")
-
-La entrega de los instrumentos se realizó este viernes 18 de octubre de 2024 en las instalaciones del Instituto Geofísico.
-
-**Mario Ruiz, director del Instituto Geofísico**, explicó que los equipos se instalarán en los volcanes **Guagua Pichincha, Cotopaxi, Reventador y Sangay.**
-
-Esa instrumentación permitirá conocer con exactitud de pocos milímetros si el volcán se hincha, una señal de que hay ingreso del material volcánico, comentó Ruiz durante la entrega de la donación.
-
-Una parte de esos equipos se pondrán en los volcanes **Cotopaxi, Guagua Pichincha y Reventador.** Mientras que en el **Sangay** se colocarán sensores de infrasonido, para tener una mejor detección de las explosiones. “Se va a tener una mayor exactitud de los movimientos volcánicos”, dijo Ruiz.
-
-La donación de Estados Unidos para los volcanes
------------------------------------------------
-
-El **embajador de Estados Unidos en Ecuador, Arthur Brown**, comentó que su país está comprometido con Ecuador para hacer prevención con alertas tempranas para salvar a las comunidades de las erupciones.
-
-La inversión en los equipos donados asciende a más de **100 000 dólares**, según el embajador Brown.
-
-Además del equipamiento, Estados Unidos contribuye con la formación especializada de los geólogos ecuatorianos.  “Vamos a continuar con nuestra colaboración”, prometió el Embajador. 
-
-Los equipos donados son de fabricación estadounidense y belga, por empresas que usan una nueva generación tecnológica[.](https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador "https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador")
-
-En este evento también estuvieron **la canciller Gabriela Sommerfield**, el **secretario de Riesgos, Jorge Carrillo**, y el **rector de la Politécnica, Tarquino Sánchez.**
-
-Delincuente fue abatido tras persecución y balacera en Guayas
-=============================================================
-
-La Policía detuvo a otros dos sospechosos en medio del enfrentamiento que ocurrió en la vía El Triunfo - Bucay.
----------------------------------------------------------------------------------------------------------------
-
-![El parabrisas del patrullero policial quedó con la huella de uno de los tiros realizado por los sospechosos](https://www.elcomercio.com/wp-content/uploads/2024/10/balaceraa.jpg)
-
-La Policía Nacional **abatió a un delincuente** tras una persecución y balacera que se produjo en la vía que une a El Triunfo con Bucay, en la provincia de **Guayas**.
-
-Este hecho se registró el jueves 17 de octubre de 2024.
-
-### Más noticias
-
-* [Policía detuvo a falsos trabajadores de CNEL en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-falsos-trabajadores-cnel-guayaquil.html "Policía detuvo a falsos trabajadores de CNEL en Guayaquil")
-* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
-* [Policía encontró droga oculta en insólito lugar](https://www.elcomercio.com/actualidad/quito/policia-droga-oculta-canes-quito.html "Policía encontró droga oculta en insólito lugar")
-
-Una unidad de gendarmes realizaba un **patrullaje preventivo** por el sector cuando se percató que una camioneta y un camión tenían características similares a dos vehículos que estaban reportados como robados.
-
-Al ordenar a los desconocidos que se detengan, estos no obedecieron la indicación y trataron de darse a la **fuga**.
-
-Delincuente fue abatido en medio de una persecución
----------------------------------------------------
-
-La persecución de varios minutos **se intensificó** cuando los ocupantes de la camioneta blanca **dispararon** en varias ocasiones contra los policías.
-
-Metros más adelante, a la altura del redondel Los Micos, los uniformados hicieron **uso legítimo de la fuerza** y se defendieron con sus armas de dotación.
-
-La Policía logró detener al vehículo y capturar a los desconocidos.
-
-Uno de los individuos resultó **herido** como resultado de la balacera. El hombre fue trasladado hacia una casa de salud cercana, sin embargo, **se confirmó su fallecimiento** luego de unas horas.
-
-El hombre abatido tenía antecedentes por robo.
-
-Conductor del camión huyó
--------------------------
-
-Los dos aprehendidos identificados como **Henry Duval J. F.**, de 39 años y **José Gabriel M. M.**, de 25, fueron puestos a órdenes de las autoridades competentes.
-
-Los dos sospechosos también registraban antecedentes, pero por el delito de **porte y tenencia de armas**.
-
-El conductor del camión dejó abandonado el vehículo pesado en otro lugar y **huyó**.
-
-Entre los indicios recuperados en la operación policial están el camión y la camioneta, ambos **vehículos robados**, dos armas de fuego y tres alimentadoras.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
->   
-> UN DELINCUENTE ABATIDO Y DOS APREHENDIDOS EN EL TRIUNFO  
->   
-> Tras la ejecución de patrullajes preventivos en el sector de [#ElTriunfo](https://twitter.com/hashtag/ElTriunfo?src=hash&ref_src=twsrc%5Etfw)–[#Bucay](https://twitter.com/hashtag/Bucay?src=hash&ref_src=twsrc%5Etfw), servidores policiales identificaron un vehículo y un camión en el que se movilizarían presuntos implicados en el robo a camiones,… [pic.twitter.com/BvbLylb2JI](https://t.co/BvbLylb2JI)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 18, 2024](https://twitter.com/PoliciaEcuador/status/1847386772323660211?ref_src=twsrc%5Etfw)
-
-¿Qué colores combinan con vino tinto?
-=====================================
-
-Es un color en tendencia que arrasa. ¿Qué tonos le van bien?
-------------------------------------------------------------
-
-![El burdeos, burgundy o vino es un color bastante fácil de combinar. Foto: Internet](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo26.jpg)
-
-El **vino tinto** es uno de esos **colores** que nunca pasa de **moda**. Este tono profundo y elegante está tomando protagonismo en la temporada, ya sea en ropa, carteras, calzado o accesorios.
-
-En Ecuador, muchas tiendas han incorporado los vino tinto en sus colecciones, y no es para menos. Es un color versátil que da un aire cómodo y moderno.
-
-### Más noticias
-
-* **[¿Qué colores combinan con rojo?](https://www.elcomercio.com/afull/colores-combinan-rojo.html "https://www.elcomercio.com/afull/colores-combinan-rojo.html")**
-* **[El estilo workwear transitó de la fábrica a la pasarela](https://www.elcomercio.com/afull/estilo-workwear-moda-outfits-ropa.html "https://www.elcomercio.com/afull/estilo-workwear-moda-outfits-ropa.html")**
-
-Además, combina de maravilla con una variedad de tonos. Aquí te mostramos los colores que mejor van con el vino tinto y por qué son una apuesta segura.
-
-11 ideas para usar el color vino tinto n tus outfits
-----------------------------------------------------
-
-1\. Vino tinto con blanco para un _look_ fresco y clásico
----------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo29-1024x683.jpg)
-
-El blanco suaviza la intensidad del vino tinto y crea un contraste elegante y atemporal. Juntos, forman un _look_ limpio y equilibrado, ideal para eventos formales o casuales. Esta combinación es especialmente adecuada en temporadas de frío, cuando se busca un estilo más refinado.
-
-2\. Vino tinto con negro, un clásico indiscutible
--------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo28-1024x683.jpg)
-
-El negro es uno de los mejores aliados del vino tinto. Estos dos tonos crean un efecto visual fuerte, ideal para quienes buscan un _look_ cómodo y moderno. Además, el vino tinto aportan calidez y evita que el negro resulte demasiado serio o monótono.
-
-3\. Vino tinto con _beige_ para lucir suave y cálido
-----------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo27-1024x683.jpg)
-
-El _beige_ es una opción neutra que le da al vino tinto una sensación de ligereza. Esta combinación es perfecta para ocasiones en las que se busca un _look_ relajado pero elegante. El _beige_ equilibra la riqueza del vino tinto.
-
-4\. ¿Combina el vino tinto con gris?
-------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-8-1024x683.jpg)
-
-Sí, el gris, especialmente en tonos claros, es otro color que combina de maravilla con el vino tinto. Ambos colores tienen un aire sobrio y elegante, y juntos forman una mezcla moderna. El gris rebaja la intensidad del vino tinto, haciéndolo ideal para un _look_ contemporáneo. Mira esta combinación de traje gris con corbata vino tinto, por ejemplo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-2-1024x683.jpg)
-
-5\. Vino tinto con dorado, el toque de glamour que necesitas
-------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-9-1024x683.jpg)
-
-Si buscas un _look_ más llamativo y festivo, el dorado es el compañero perfecto para el vino tinto. El brillo del dorado resalta sobre el tono profundo del vino tinto, creando una combinación lujosa que resulta ideal para la noche o eventos especiales. Funciona tanto para ropa como para maquillaje, por ejemplo, en tu manicura.
-
-6\. Vino tinto y azul marino, una combinacion clásica
------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-7-1024x683.jpg)
-
-El azul marino aporta un toque clásico y sofisticado al vino tinto. Este dúo es perfecto para eventos formales o para quienes buscan salir de los colores neutros sin perder la elegancia. El azul marino y el vino tinto es ideal para ropa de oficina o conjuntos más estructurados.
-
-7\. ¿Por qué combina el vino tinto con mostaza?
------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-6-1024x683.jpg)
-
-Si quieres algo más audaz, la mostaza es la opción. Estos colores, al ser cálidos, crean un contraste atractivo que no pasa desapercibido. Esta combinación es ideal para quienes buscan un _look_ moderno y lleno de energía.
-
-8\. Vino tinto con verde oscuro, una combinación temida, pero válida
---------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-10-1024x683.jpg)
-
-El verde oscuro, como el esmeralda o el oliva, crea una mezcla rica y sofisticada con el vino tinto. Este dúo evoca la naturaleza y es perfecto para _looks_ otoñales o invernales. El verde le aporta frescura y profundidad a la intensidad del vino tinto.
-
-9\. Estampado de lunares
-------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-1024x683.jpg)
-
-El vino tinto combina a la perfección con estampados de lunares, especialmente en blanco y negro. Esta mezcla añade un aire divertido y _vintage_, ideal para faldas, blusas o vestidos. El estampado le da un giro inesperado a la elegancia del vino tinto.
-
-10\. Estampado de leopardo
---------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-1-1024x683.jpg)
-
-El vino tinto y el estampado de leopardo forman una combinación arriesgada pero muy chic. Este dúo es ideal para quienes buscan destacar con un estilo audaz y con personalidad. Puedes combinar una chaqueta vino tinto con un bolso o zapatos de leopardo para un estilo moderno y atrevido.
-
-11\. Colores contiguos en la rueda del color
---------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-3-1024x683.jpg)
-
-El vino tinto queda muy bien con colores que están contiguos en la rueda del color, como los tonos púrpuras y rojos. Estas combinaciones crean armonía, ya que pertenecen a la misma familia de colores. Perfecto para estilo monocromáticos con variaciones de intensidad que añaden profundidad y sofisticación.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/color-burdeos-El-comercio-4-1024x683.jpg)
-
-Caso Metástasis ya tiene fecha de juicio
-========================================
-
-La audiencia del caso Metástasis se realizará en el salón auditorio del octavo piso de la Corte Nacional de Justicia.
----------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-met.jpg)
-
-El tribunal integrado por **Marco Rodríguez, Pablo Loayza y Mercedes Caicedo (ponente)** fijó para el 21 de octubre, a las 08:30, el juzgamiento de **30 procesados por presunta delincuencia organizada**.
-
-### Más noticias
-
-* [Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía](https://www.elcomercio.com/actualidad/seguridad/asi-operaba-red-leandro-norero-caso-metastasis-segun-fiscalia.html "Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía")
-* [Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-30-vinculados-podrian-enfrentar-sentencias.html "Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias")
-* [Caso Metástasis, defensa de acusados señala vacíos en la investigación](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-acusados-senalan-vacios-investigacion.html "Caso Metástasis, defensa de acusados señala vacíos en la investigación")
-
-La audiencia se realizará en el salón auditorio del **octavo piso de la Corte Nacional de Justicia**, en la avenida Amazonas y Unión Nacional de Periodistas, en Quito.
-
-Detalles del proceso judicial
------------------------------
-
-La **audiencia será oral, pública y contradictoria**, con la opción de comparecer de manera telemática mediante la **plataforma Zoom**. La invitación establece que los procesados deberán asistir, salvo que se justifique su ausencia.
-
-Se notificó a las autoridades correspondientes para **coordinar la seguridad y el traslado de los involucrados** desde los centros de **privación de libertad**.
-
-Las defensas deberán estar preparadas para sustentar su intervención, mientras que la **Secretaría de la Sala** tiene la tarea de informar el desarrollo del proceso a través de comunicación disponible al público.
-
-30 personas fueron llamadas a juicio por el caso Metástasis
------------------------------------------------------------
-
-El 7 de octubre de 2023, el **juez Manuel Cabrera** acogió la solicitud de la Fiscalía General y llamó a juicio a **30 de los 37 procesados**. Esto por su presunta participación en el delito de delincuencia organizada, según lo establecido en la audiencia preparatoria de juicio.
-
-De acuerdo con la Fiscalía, existen suficientes indicios que **vinculan a los procesados con las actividades ilícitas** investigadas. Lo que les obliga a enfrentar el juicio para esclarecer su situación jurídica.
-
-Entre los acusados se encuentran **cuatro personas a quienes la Fiscalía señala como los presuntos líderes de una organización criminal**. Además, se han identificado colaboradores que habrían contribuido a la operación de esta red delictiva.
-
-La investigación que destapó la red criminal del **caso Metástasis** comenzó a raíz del asesinato de Leandro Norero en el **Centro de Privación de Libertad de Cotopax**i.
-
-Según la Fiscalía, Norero lideraba una organización desde prisión, cuyo objetivo principal era asegurar **privilegios para él y su familia**, además de evadir la justicia en un proceso por **lavado de activos**. Entre los colaboradores mencionados durante la audiencia se incluyen **jueces, fiscales, policías, guías penitenciarios y abogados**.
-
-Deportivo Quito vuelve a jugar en Machala a los 22 años
-=======================================================
-
-Deportivo Quito jugó por última vez en la Serie A del futbol ecuatoriano en el 2015. Luego empezó su descenso.
---------------------------------------------------------------------------------------------------------------
-
-![Cristian Carnero con el Deportivo Quito en el 2002.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_machala_1.jpg)
-
-**Deportivo Quito** cuenta las horas para jugar los dieciseisavos de final del Torneo de Ascenso Nacional, torneo que es regentado por la Federación Ecuatoriana de Fútbol (FEF).
-
-El domingo 20 de octubre de 2024, desde las 10:00, el **Deportivo Quito jugará contra Cantera Orense** en el Mini estadio del Complejo Deportivo Euclides Palacios en Machala, que está dentro de la infraestructura que levanta Orense en el sur del país.
-
-### Más noticias:
-
-* [El Manta, muy cerca de regresar a la Serie A de Ecuador](https://www.elcomercio.com/deportes/futbol/manta-muy-cerca-de-regresar-a-la-serie-a-de-ecuador.html "El Manta, muy cerca de regresar a la Serie A de Ecuador")
-* [El Nacional tiene como gran objetivo ganar la Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-objetivo-copa-ecuador.html "El Nacional tiene como gran objetivo ganar la Copa Ecuador")
-* [Lionel Messi gana un nuevo premio basado en su figura](https://www.elcomercio.com/deportes/lionel-messi-trofeo-premio-marca.html "Lionel Messi gana un nuevo premio basado en su figura")
-
-El Quito emprendió su viaje a Machala la noche del jueves 17 de octubre vía terrestre. El trayecto entre la capital ecuatoriana y la **‘Capital Bananera del Mundo’ es de 538 kilómetros**, según la aplicación de Google Maps.
-
-Orense y el Quito quedaron emparejados en la zona derecha del cuadro. El que gane esta llave se medirá en los octavos de final al vencedor del cruce entre Toreros FC (Guayas) y Santa Elena Sumpa (Santa Elena).
-
-En el mismo lado del cuadro están equipos como Liga de Portoviejo (Manabí), Daquilema FC (Chimborazo), **Naranaja Mekánica (Guayas) y Huaquillas (El Oro)**, potenciales rivales en los cuartos de final.
-
-El partido de este domingo marca el regreso de la **‘AKD’ a Machala luego de casi 22 años** para jugar un partido de un torneo nacional.
-
-Su último antecedente se remonta al domingo 17 de noviembre de 2002, en el hexagonal final de la Liguilla del campeonato que, por esos días, era organizado por la FEF.
-
-El Quito en Machala
--------------------
-
-La tarde de ese domingo al 9 de Mayo llegaron más de 16 000 personas para ver el **encuentro entre Barcelona Sporting Club**, castigado para no jugar en el Monumental, y el Deportivo Quito.
-
-Los canarios fueron superiores y golearon 4-1 en la quinta fecha del hexagonal final con tantos de los ecuatorianos **Ángel Escobar y Orfilio Mercado, el colombiano Eudalio Arriaga y el argentino Cristhian Chaparro**.
-
-El Quito perdió la oportunidad de adelantarse en el marcador en los primeros minutos del juego por intermedio de Cristian Carnero. El argentino, goleador de ese torneo con 26 tantos, falló un penal.
-
-Finalmente, logró el **0-1 por intermedio de Jhonny Baldeón**, que aprovechó un pase largo de Marlon Ayoví para ganarle en velocidad a los defensas toreros y vencer a José Francisco Cevallos.
-
-En la tabla acumulada el **Deportivo Quito quedó en primer lugar con 62 puntos**, pero en la Liguilla final no sostuvo su rendimiento y quedó en el quinto puesto.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Universidad Católica desperdicia la chance de incomodar a los líderes de Liga Pro
-=================================================================================
-
-El Cumbayá le amargó la tarde a Universidad Católica en el inicio de la fecha 10 de la Liga Pro y los camarattas perdieron una chance de oro.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Melvin Díaz (izq.) del Cumbayá disputa un balón con Daykol Romero (der.) de Universidad Católica en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-18T162136.936.jpg)
-
-**Cumbayá y Universidad Católica** se midieron en el inicio de la décima fecha de la segunda etapa de la Liga Pro. La escuadra celeste tenía la oportunidad de poner presión a los candidatos a ganar la ronda, pero no consiguió vencer a uno de los clubes que pelean por mantener la categoría.
-
-Este viernes 18 de octubre del 2024, a las 14:30, el **conjunto camaratta** se enfrentó a los del valle en Latacunga debido a que en el Olímpico de Atahualpa de Quito se llevará a cabo un espectáculo musical. Para aquel choque, el Cumbayá hizo de local, mientras que el ‘Trencito Azul’ hizo de visitante y jugó con su uniforme alterno.
-
-### Más noticias:
-
-* [Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15](https://www.elcomercio.com/deportes/leonardo-campana-seleccion-ecuador-sub-15.html "Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15")
-* [La Selección de Ecuador aporta al XI ideal de las eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-equipo-ideal-eliminatorias.html "La Selección de Ecuador aporta al XI ideal de las eliminatorias")
-* [Enner Valencia anima a la Selección de Ecuador Sub-15 antes de su final](https://www.elcomercio.com/deportes/seleccion-ecuador-sub-15-final-enner-valencia.html "Enner Valencia anima a la Selección de Ecuador Sub-15 antes de su final")
-
-Para el choque, la Universidad Católica llegó en el tercer puesto de la tabla de posiciones de la segunda etapa con **16 puntos**. Por su parte, la escuadra rival arribó en la **última posición** de la ronda con tan solo cuatro puntos[.](https://en.wikipedia.org/wiki/Ecuadorian_Serie_A "https://en.wikipedia.org/wiki/Ecuadorian_Serie_A")
-
-El cotejo entre el plantel universitario y el conjunto blanquiverde no solo tenía un alta incidencia a nivel de la vigente etapa, sino dentro de la tabla acumulada. Cumbayá estaba, y se mantuvo, **penúltimo** en aquel escalafón; la Católica, que tampoco dejó el **cuarto lugar**, pelea por ingresar a la Copa Libertadores.
-
-Universidad Católica pegó primero, pero no sostuvo el resultado
----------------------------------------------------------------
-
-Los celestes se pusieron por delante en el compromiso en los primeros instantes. Antes de que se cumplan cinco minutos del inicio del cotejo, la escuadra visitante celebró el tanto inaugural gracias a **Ismael Díaz**.
-
-El delantero panameño recibió un pase aéreo que rompió la línea defensiva. Díaz se escabullo en medio de los centrales y, de primera, sacó un remate al costado que venció a **Alexis Lemos** y a su floja salida para achicar al espacio.
-
-Pese a que se puso por delante desde el principio del choque, el Cumbayá supo reaccionar antes de que acaben los primeros minutos iniciales. A los 37′, **Jorge Almagro** anotó un tanto similar al de sus rivales. El volante recibió un pase bombeado y ganó el mano a mano ante el golero **Rafael Romero**.
-
-¿Cómo continuará la fecha 10 de la Liga Pro?
---------------------------------------------
-
-Los siguientes compromisos de la fecha 10 de la **Liga Pro** continuarán durante el mismo viernes 18, sábado 19, domingo 20 de octubre. En total se llevarán a cabo siete compromisos más.
-
-Los **próximos choques** serán entre Orense vs. Libertad, Mushuc Runa vs. Deportivo Cuenca, Técnico Universitario vs. Liga de Quito, Independiente del Valle vs. Imbabura, Aucas vs. Macará, Delfín vs. El Nacional y Barcelona vs. Emelec.
-
-Universitarios bolivianos reciben clases en la calle
-====================================================
-
-Universitarios y docentes sacaron sillas y pizarrones a las calles aledañas a la Universidad Autónoma Gabriel René Moreno.
---------------------------------------------------------------------------------------------------------------------------
-
-![Estudiantes de la Universidad Autónoma Gabriel René Moreno toman clase en un parque como protestas por falta de presupuesto para la universidad este viernes, en Santa Cruz (Bolivia).](https://www.elcomercio.com/wp-content/uploads/2024/10/Bolivia-protestas-.jpg)
-
-Estudiantes de la **universidad pública de Santa Cruz**, la mayor región de [Bolivia](https://www.elcomercio.com/actualidad/mundo/bolivia-tregua-mantienen-cuarto-dia-bloqueos-carreteras.html "https://www.elcomercio.com/actualidad/mundo/bolivia-tregua-mantienen-cuarto-dia-bloqueos-carreteras.html"), recibieron clases este viernes en las calles para exigir al Gobierno de **Luis Arce** un presupuesto “justo” para garantizar el funcionamiento de esa institución.
-
-### Más noticias
-
-* [En Bolivia no hay tregua y mantienen por cuarto día bloqueos de carreteras](https://www.elcomercio.com/actualidad/mundo/bolivia-tregua-mantienen-cuarto-dia-bloqueos-carreteras.html "En Bolivia no hay tregua y mantienen por cuarto día bloqueos de carreteras")
-* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
-* [Fiscalía de Bolivia pide que se considere activar alerta migratoria contra Evo Morales](https://www.elcomercio.com/actualidad/mundo/fiscalia-bolivia-pide-considere-activar-alerta-migratoria-contra-evo-morales.html "Fiscalía de Bolivia pide que se considere activar alerta migratoria contra Evo Morales")
-
-**Universitarios y docente**s sacaron sillas y pizarrones a las calles aledañas a la **Universidad Autónoma Gabriel René Moreno** (Uagrm) en la ciudad de Santa Cruz, capital de la **región homónima**, en protesta porque el Gobierno **no atendió un requerimiento de brindarles más presupuesto** para cubrir el déficit que tienen en esta gestión.
-
-Las 12 facultades de esta universidad pública cumplieron la **medida de protesta** en lugares como el Segundo Anillo, la **plaza del Estudiante o el Cristo Redentor**, una estatua emblemática de la capital regional, y también hubo **protestas similares** en las unidades académicas en los municipios de Montero, Yapacaní, Camiri y El Torno.
-
-El vicerrector de la Uagrm, Reinerio Vargas, explicó a los medios que la **medida fue dispuesta por un comité de movilización** integrado por las federaciones de universitarios y docentes y el sindicato de trabajadores de la institución.
-
-“La universidad no va a permitir que un Gobierno tan nefasto que quemó la Amazonía queme también el futuro de estos jóvenes”, sostuvo Vargas, en **alusión a los millones de hectáreas** de bosques y pastizales afectados este año por los incendios forestales en Bolivia.
-
-El vicerrector comentó que la universidad tiene un déficit acumulado de unos **220 millones de bolivianos,** equivalentes a unos 31,6 millones de dólares, y que requieren al menos 90 millones de bolivianos adicionales (12,9 millones de dólares) para cerrar la gestión 2024 e iniciar la 2025 con un saldo negativo menor.
-
-Docentes dan clases sin ganar dinero
-------------------------------------
-
-Según Vargas, hay “muchos **docentes” que están dando clases sin ganar dinero** y alertó que “no dar presupuesto significa el cierre de la Gabriel (René Moreno)”.
-
-La universidad estatal de **Santa Cruz tiene actualmente 120000 alumnos en la capital regional** y en seis provincias de ese departamento, que es el más poblado y considerado el motor económico de Bolivia.
-
-En las dos últimas décadas, las universidades estatales y los gobiernos subnacionales recibieron más recursos fiscales porque los ingresos del país también eran mayores debido a la venta del gas natural a Brasil y Argentina.
-
-El gas natural fue el producto estrella de exportación de Bolivia y el **sustento de su crecimiento económico**, pero en los últimos años se advirtió una disminución en la producción y los ingresos, lo que también repercutió en la **menor asignación** de recursos para gobernaciones regionales, alcaldías y universidades públicas. 
-
-¿Cremas para la piel actúan mejor durante el sueño?
-===================================================
-
-Las cremas de noche son efectivas para la regeneración de la piel.
-------------------------------------------------------------------
-
-![Dormir favorece la absorción de las cremas y tiene un mayor efecto sobre nuestra piel.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2-5.jpg)
-
-Qué es lo que hacen las **cremas** para la **piel** durante la noche. Las recomendaciones más importantes para el cuidado de la piel muestran que hay una relación especial entre beneficio y horas de **sueño**[.](https://es.wikipedia.org/wiki/Crema_(cosm%C3%A9tica) "https://es.wikipedia.org/wiki/Crema_(cosm%C3%A9tica)")
-
-### Más noticias
-
-* [Inamhi advierte sobre incremento de temperaturas en Ecuador](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-sobre-incremento-de-temperaturas-en-ecuador.html "Inamhi advierte sobre incremento de  temperaturas en Ecuador")
-* [La vitamina que ayuda a prevenir la calvicie](https://www.elcomercio.com/tendencias/salud/vitamina-calvicie.html "La vitamina que ayuda a prevenir la calvicie")
-* [La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento](https://www.elcomercio.com/tendencias/salud/quinua-alimento-envejecimiento-nutricion.html "La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento ")
-
-Cremas para la piel y su aplicación en la noche
------------------------------------------------
-
-Todas las **células de nuestro cuerpo** tienen integrado su propio reloj, que es controlado por una pequeña área de nuestro **cerebro**, dando lugar a lo que conocemos como ritmos circadianos.
-
-Estudiando estos ritmos, se ha demostrado que las **células** de la **piel** (fibroblastos, melanocitos y queratinocitos) actúan de forma coordinada y tienen una **tasa de regeneración** y reparación más alta durante la noche: “Las **cremas de noche** suelen llevar muchos activos reparadores que facilitan esta función, pero es importante que la **piel** esté perfectamente **limpia** cuando la aplicamos, ya retirados los restos de **maquillaje** e impurezas”.
-
-Así actúan las **cremas de noche** mientras dormimos.
------------------------------------------------------
-
-Por varias razones, las cremas son más indicadas por la noche que a primera hora de la mañana o durante cualquier otra del día, cuando se protege de la polución, **cambios de temperatura** o los **rayos solares**.
-
-Cuando nos acostamos, se encuentra más receptiva y se hace más permeable, además de segregar una cantidad de grasa mayor que la mantiene **hidratada** por más tiempo.
-
-Renovación y regeneración de la piel durante el sueño
------------------------------------------------------
-
-Conviene también **masajear** la zona con las yemas de los **dedos** mediante un **masaje circular** y drenante en el momento de colocarla sobre mejillas, cuello, frente u óvalo facial” – según explica a la Agencia Europa Press Filip Van, cofundador de la firma cosmética natural Di Oleo, que señala además el área de los ojos, como una de las **zonas** más importantes a tratar.
-
-“Es la **zona** donde más claramente apreciamos el paso de los años y la que tiene su **piel** más fina, y, por tanto, más delicada”. Lo que le sucede a nuestra piel cuando estamos durmiendo Una **buena noche** de descanso y **sueño** reparador es imprescindible para no estar **cansados** a la mañana siguiente, algo fundamental cuando se trata también de la **salud de la piel**, ya que las **células cutáneas** se regeneran durante la noche, renovándose más rápidamente y con mayores **tasas de flujo sanguíneo** y permeabilidad.
-
-Beneficios de una buena crema de noche
---------------------------------------
-
-Durante el sueño es cuando las **células** necesitan una mayor cantidad de **nutrientes**, razón de más para aplicar una buena **crema de noche** y así aprovechar el sistema de **reparación innato** de nuestra piel, momento en que se obtiene un **mayor impacto** y beneficio de los ingredientes **antienvejecimiento.**
-
-“En la noche se favorece la producción de **colágeno natural** y perdemos la **humedad** por la **falta de producción** de sebo (aceite natural), por lo que una crema rica en humectantes y aplicada en la noche, le devolverá esa **humedad** a la piel.
-
-Además, también cambia la temperatura, cuando dormimos el **cutis** incrementa unos grados y su pH se hace más ácido, factores que hacen que la tez esté ligeramente más seca” – según contó a la Agencia Europa Press Esperanza Sáenz, responsable de imagen de Nezeni Cosmetics.
-
-Cómo elegir la mejor crema de noche
------------------------------------
-
-Ni las mejores tienen que ser las más caras, ni tampoco las que mejor **fragancia** tengan o más ingredientes, porque en este último caso, lo importante es cuáles sean estos más que el número.
-
-“Debemos fijarnos en **ingredientes** como por ejemplo el **ácido hialurónico**, la sangre de drago, la betaína o la **vitamina** **E**, por supuesto también, que estas cremas estén libres de parabenos, aceites minerales, **siliconas** o **sulfatos**. Y aunque nunca es tarde para usarlas, lo más recomendable es empezar ya en la veintena, cuando el proceso de **envejecimiento** comienza y la **producción** de **colágeno** empieza a disminuir” – aconseja Esperanza Sáenz.
-
-Cortes de luz en Guayaquil este sábado 19 de octubre
-====================================================
-
-Los cortes de luz en Guayaquil para el sábado 19 de octubre son en hasta tres franjas horarias.
------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este sábado 19 de octubre se realizan hasta en tres franjas horarias.](https://www.elcomercio.com/wp-content/uploads/2024/04/velajueves.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **sábado 19 de octubre** son de hasta diez horas y tres franjas horarias.
-
-**CNEL** difundió los horarios de los cortes en la urbe porteña por **sectores**.
-
-### Más noticias:
-
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
-
-La noche del jueves 17 de octubre, el presidente **Daniel Noboa** señaló que el país ha enfrentado momentos extremadamente complejos en las últimas semanas.
-
-Se refirió a los esfuerzos en **negocios, familias y estudiantes** para realizar sus tareas diarias, con los cortes de luz vigentes.
-
-En este contexto, dijo que es necesario dar respuestas definitivas a la **crisis energética**, no solo al momento actual.
-
-Anunció que los cortes de luz se mantendrán en **dos franjas horarias y se reducirán paulatinamente** para las zonas residenciales, desde la próxima semana, por tres semanas.
-
-Así, la **semana del 21 de octubre**, los cortes serán de ocho horas; los cortes serán de seis horas para la **semana del 28 de octubre**; y, para la **semana del 6 de noviembre**, serán de cuatro horas.
-
-Para las **zonas industriales,** los horarios van a mantenerse.
-
-Cortes de luz en Guayaquil el sábado 19 de octubre
---------------------------------------------------
-
-  
-Mientras se aplican las nuevas medidas de cortes de luz con una reducción paulatina en el sector residencial, las empresas eléctricas continúan con la **programación habitual.**
-
-En Guayaquil, CNEL mantiene los cortes de luz de **hasta diez horas y hasta en tres franjas horarias**, dependiendo del sector.
-
-Las eléctricas del país recuerdan a sus usuarios que, debido a la mejora de las **condiciones hidrológicas**, los cortes de energía pueden reducirse dentro del período de corte programado.
-
-A continuación, los **cortes de luz en Guayaquil para este sábado 19 de octubre de 2024**:
-
-  
-
-Cristiano Ronaldo vuelve a marcar y lidera al Al Nassr hacia la victoria
-========================================================================
-
-Cristiano Ronaldo está en la búsqueda de ser el primer futbolista con 1000 goles en su carrera.
------------------------------------------------------------------------------------------------
-
-![Cristiano Ronaldo celebrando su gol con el Al Nassr.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-18T164232.952.jpg)
-
-A sus 39 años, **Cristiano Ronaldo** sigue en un gran momento goleador. El portugués anotó por cuarta jornada consecutiva en la Saudi Pro League, siendo el protagonista en la victoria del Al Nassr por 2-1 ante el Al Shabab, este viernes 18 de octubre.
-
-Los tantos de Aymeric Laporte y Cristiano Ronaldo, que elevó la **cifra goleadora de su carrera a 907** tantos, 73 con su actual club, mantienen al conjunto del italiano Stefano Pioli en la caza por el liderato del Al Hilal, que ganó su partido frente el Al Feiha y alargó su pleno de victorias en esta séptima fecha.
-
-### Más noticias:
-
-* [Cristiano Ronaldo es el futbolista mejor pagado en 2024](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-es-el-futbolista-mejor-pagado-en-2024.html "Cristiano Ronaldo es el futbolista mejor pagado en 2024")
-* [Liam Payne compartió con Cristiano Ronaldo en el Real Madrid](https://www.elcomercio.com/deportes/futbol/liam-payne-compartio-con-cristiano-ronaldo-en-el-real-madrid.html "Liam Payne compartió con Cristiano Ronaldo en el Real Madrid")
-* [Cristiano Ronaldo dedicó su gol 904 a su padre fallecido](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-dedicatoria-gol-papa.html "Cristiano Ronaldo dedicó su gol 904 a su padre fallecido")
-
-Cristiano Ronaldo, el líder en Arabia Saudita
----------------------------------------------
-
-El final del duelo del Al Nassr fue una locura. Pasó de todo. **Equilibrado el marcador**, fue el internacional español Aymeric Laporte el que aprovechó un balón suelto dentro del área, tras un saque de esquina, para ejecutar una estupenda volea y batir por primera vez al meta coreano Seung Gyu Kim. Hizo otro el cuadro visitante, anotado por **Sadio Mané** en el 83, pero el VAR lo invalidó por fuera de juego.
-
-En el 90, el Al Shabab empató gracias a un autogol de Ali Al Hassan, pero una falta dentro del área de Rober Renan en el minuto 95 fue sancionada como penalti. **No falló Cristiano Ronaldo,** que puso por delante al Al Nassr, que después se quedó con diez por la expulsión de Mohamed Simakan por una entrada sobre Nader Al Sharari.
-
-Fue el **penalti que daba la posibilidad a los locales de empatar.** Pero ejecutó Abderrazak Hamdallah que, en la última jugada del partido, estrelló la pelota en el poste. El Al Shabab perdió.
-
-> CRISTIANO AL RESCATE ✅⚽️  
-> Por medio de un penal a los 97min Cristiano Ronaldo le da la victoria a su equipo Al Nassr🇸🇦.  
->   
-> 🔥Lleva 907 goles. [pic.twitter.com/79xlkqYJhq](https://t.co/79xlkqYJhq)
-> 
-> — Elias Bavera (@eliasbavera1) [October 18, 2024](https://twitter.com/eliasbavera1/status/1847381102643892549?ref_src=twsrc%5Etfw)
-
-¿Cómo está la Saudi Pro League?
--------------------------------
-
-Previamente, el **Al Hilal alargó su pleno de victorias** al ganar con solvencia al Al Feiha. El cuadro de Juan Jesús venció por 3-0 con los goles de Marcos Leonardo, con asistencia de Renan Lodi a los cinco minutos, y los de Salem Al Dawsari, pasada la hora del choque, tras recibir un balón de Joao Cancelo, y de Mohammed Al Qahtani, a nueve del final, a pase de Malcom.
-
-El campeón lidera con autoridad la competición saudí. En siete jornadas acumula veintiún puntos, cuatro más que el **Al Nassr de Cristiano Ronaldo** y seis por delante del Al Ittihad de Karim Benzema, que aún no ha disputado su encuentro de la semana, ante el Al Qadisiya de Michel González.
-
-Verónica Abad suma dos denuncias por violencia política de género
-=================================================================
-
-Gobierno de Daniel Noboa presenta nuevo recurso contra Verónica Abad.
----------------------------------------------------------------------
-
-![Verónica Abad y Daniel Noboa durante una ceremonia en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/10/veronica-daniel-noboa.jpg)
-
-La vicepresidenta **Verónica Abad** recibe una denuncia de la canciller **Gabriela Sommerfeld**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)[](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-La denuncia es por violencia política de género. Hay dos procesos: uno sobre violencia política y otro es un sumario administrativo.
-
-### Más noticias
-
-* [Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veronica-abad-cronologia-enfrentamiento-denuncia-elecciones-2025.html "Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes")
-* [Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo](https://www.elcomercio.com/actualidad/politica/jueza-accion-proteccion-veronica-abad-ministerio-trabajo.html "Jueza se pronunció sobre acción de protección de Verónica Abad contra el Ministerio del Trabajo")
-* [Verónica Abad bajo sumario administrativo por presunto incumplimiento](https://www.elcomercio.com/actualidad/politica/veronica-abad-bajo-investigacion-sumario-administrativo.html "Verónica Abad bajo sumario administrativo por presunto incumplimiento")
-
-Verónica Abad y una nueva denuncia por violencia
-------------------------------------------------
-
-La **Canciller** presentó la denuncia este jueves, 17 de octubre de 2024. La causa está en el despacho del juez electoral, Guillermo Ortega Caicedo.
-
-**Sommerfeld** tiene dos días para ampliar y aclarar la denuncia dirigida a la dupla de Daniel Noboa, con quien se presentó a las elecciones anticipadas de 2023.
-
-Verónica Abad también presentó denuncia
----------------------------------------
-
-Verónica Abad también recurrió a la figura de violencia política de género e interpuso la denuncia contra **Daniel Noboa, Gabriela Sommerfeld**, Esteban Torres y Diana Jácome. Esta última, a su vez, le devolvió el recurso.
-
-La **Vicepresidenta**, quien está en Turquía, también enfrentará una audiencia por sumario administrativo. Esta será el 7 de noviembre. La causa: no haber acatado el traslado de Israel a Turquía en un tiempo definido.
-
-Conflictos entre Abad y Noboa
------------------------------
-
-**Verónica Abad** acusó al presidente de hostigamiento y maltrato. Según ella, es víctima de decretos inconstitucionales y una campaña de persecución política.
-
-La Vicepresidenta, además, estuvo señalada en el **caso Nene**, en el que la Fiscalía investiga presuntos actos de corrupción en el sector público.
-
-El Pleno de la Asamblea definió la autorización de juicio penal por el delito de concusión contra la Vicepresidenta de la República, el 14 de junio, en modalidad virtual. No dio paso.
-
-Otros procesos
---------------
-
-El 17 de junio, el **Tribunal Contencioso Electoral (TCE)** archivó la denuncia presentada en contra de la Vicepresidenta por presunta infracción electoral grave.
-
-En un escrito firmado por el juez del TCE, **Fernando Muñoz**, se dispuso el archivo de esa causa, en primera instancia.
-
-A paso seguido, el 20 de junio, la Procuraduría General del Estado decidió no emitir una respuesta sobre la licencia que **Daniel Noboa** debe tomar para participar en la **campaña electoral 2025**.
-
-La Procuraduría mencionó que carece de competencia y no puede intervenir en las atribuciones del **Consejo Nacional Electoral (CNE)**.
-
-El Código de la Democracia y Daniel Noboa
------------------------------------------
-
-**Daniel Noboa** va por la reelección en los comicios 2025. El Código de la Democracia establece que él debe pedir una licencia para la campaña. Esta será del 5 de enero al 6 de febrero de 2025. Es decir, Verónica Abad deberá asumir el mandato.
-
-El Código de la Democracia establece que los dignatarios de elección popular podrán reelegirse por una sola vez, consecutiva o no, para el mismo cargo.
-
-* Las autoridades de **elección popular** que se postulen para un cargo diferente deberán renunciar al que desempeñan antes de presentar la solicitud de inscripción de su candidatura.
-* Los dignatarios que opten por la reelección inmediata al mismo cargo deberán hacer uso de licencia sin remuneración desde el inicio de la campaña electoral. Este es el caso de **Daniel Noboa**.
