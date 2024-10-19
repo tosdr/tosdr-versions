@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/orgaandonatie-hersendood-is-misleiding/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/buitenaards-leven-en-ufos-grootse-menselijke-ontdekkingen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
