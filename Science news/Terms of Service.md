@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Is U.S. democracy in decline? Here’s what the science says](https://www.sciencenews.org/article/united-states-democracy-decline-science)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")6 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")11 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [50 years ago, chronic pain mystified scientists](https://www.sciencenews.org/article/50-years-ago-chronic-pain-update)
             
-            By [Aina Abell](https://www.sciencenews.org/author/aina-abell "Posts by Aina Abell")8 hours ago
+            By [Aina Abell](https://www.sciencenews.org/author/aina-abell "Posts by Aina Abell")13 hours ago
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")16 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")22 hours ago
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")16 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")22 hours ago
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
