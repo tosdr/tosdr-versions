@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KREM/images/b8edee53-a71b-4288-84b4-287679d190fc/20240531T211648/b8edee53-a71b-4288-84b4-287679d190fc_16x9.jpg) ![](https://media.tegna-media.com/assets/KREM/images/b8edee53-a71b-4288-84b4-287679d190fc/20240531T211648/b8edee53-a71b-4288-84b4-287679d190fc_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-local-gas-tax-street-improvement-utility-fee/526-c1d7ce74-f39c-495e-bb97-9b8c5a14b652)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_360x203.jpg)](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
         
-        #### [City of Rock Island implements new street improvement utility fee, eliminates local gas tax](https://www.wqad.com/article/news/local/rock-island-local-gas-tax-street-improvement-utility-fee/526-c1d7ce74-f39c-495e-bb97-9b8c5a14b652)
+        #### [QC nonprofit faces setbacks after lumber theft](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e408e63f-1bdb-450d-94b8-1f8f637cd037/20241018T203823/e408e63f-1bdb-450d-94b8-1f8f637cd037_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e408e63f-1bdb-450d-94b8-1f8f637cd037/20241018T203823/e408e63f-1bdb-450d-94b8-1f8f637cd037_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fulton-police-searching-fugitive-pursuit/526-2fef9b9c-d8eb-4899-8bd5-79482021b926)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d409de34-9446-4adb-a087-1f051b5918ee/20241018T220624/d409de34-9446-4adb-a087-1f051b5918ee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d409de34-9446-4adb-a087-1f051b5918ee/20241018T220624/d409de34-9446-4adb-a087-1f051b5918ee_360x203.jpg)](https://www.wqad.com/article/news/local/united-way-school-increase-student-support/526-2669529e-9914-4d11-ae20-5e0598fbff20)
         
-        #### [Fulton police searching for fugitive after pursuit](https://www.wqad.com/article/news/local/public-safety/fulton-police-searching-fugitive-pursuit/526-2fef9b9c-d8eb-4899-8bd5-79482021b926)
+        #### [United Way Quad Cities working to increase student support](https://www.wqad.com/article/news/local/united-way-school-increase-student-support/526-2669529e-9914-4d11-ae20-5e0598fbff20)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8de8540a-24b2-4f03-aaf0-2aa44bda36c8/20241018T120845/8de8540a-24b2-4f03-aaf0-2aa44bda36c8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8de8540a-24b2-4f03-aaf0-2aa44bda36c8/20241018T120845/8de8540a-24b2-4f03-aaf0-2aa44bda36c8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2ac809f0-2228-4520-ad6f-4c7e819da178/20241018T220619/2ac809f0-2228-4520-ad6f-4c7e819da178_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2ac809f0-2228-4520-ad6f-4c7e819da178/20241018T220619/2ac809f0-2228-4520-ad6f-4c7e819da178_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Great warmth for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-67°
+48°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
