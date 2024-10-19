@@ -190,14 +190,14 @@
 
 Subscribe
 
-[#### Weight Management](https://www.healthline.com/weight-management)
+[#### Sexual Health](https://www.healthline.com/sexual-health)
 
-* [Nutrition](https://www.healthline.com/weight-management/nutrition)
-* [Fitness](https://www.healthline.com/weight-management/fitness)
-* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
-* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
-* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
-* [Apps](https://www.healthline.com/weight-management/apps-products)
+* [Birth control](https://www.healthline.com/sexual-health/birth-control)
+* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
+* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
+* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
+* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
+* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
 
 Ad & Sponsorship Policy
 =======================
