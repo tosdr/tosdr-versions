@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen
-
-Medienberichte: Terror-Drohnen sollten Netanjahus Haus treffen](https://www.bild.de/politik/israel-terror-drohnen-aus-libanon-sollte-netanjahus-haus-treffen-6713548ba0e636753eda54a6)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
