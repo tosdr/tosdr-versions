@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can copd be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-copd-be-caused-by-asbestos.jpg "Can COPD Be Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/ "Can COPD Be Caused By Asbestos?")
+[![Signs of sexual abuse: were you a victim within the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Signs of Sexual Abuse: Were You a Victim within the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-do-i-know-if-i-was-a-victim-of-sexual-abuse-by-the-mormon-church/ "Signs of Sexual Abuse: Were You a Victim within the Mormon Church?")
 
-[#### Can COPD Be Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/)
+[#### Signs of Sexual Abuse: Were You a Victim within the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-do-i-know-if-i-was-a-victim-of-sexual-abuse-by-the-mormon-church/)
 
-[![New mexico lung cancer lawyer](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-new-mexico-scaled.jpg "New Mexico Lung Cancer Lawyer")](https://www.pintas.com/lung-cancer-lawyer/new-mexico/ "New Mexico Lung Cancer Lawyer")
+[![How long can you live with stage 4 cancer without treatment?](https://www.pintas.com/wp-content/uploads/2020/11/how-long-can-you-live-with-stage-4-cancer-without-treatment.jpg "How Long Can You Live with Stage 4 Cancer without Treatment?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/ "How Long Can You Live with Stage 4 Cancer without Treatment?")
 
-[#### New Mexico Lung Cancer Lawyer](https://www.pintas.com/lung-cancer-lawyer/new-mexico/)
+[#### How Long Can You Live with Stage 4 Cancer without Treatment?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/)
 
-[![Does gold bond powder contain asbestos?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-does-gold-bond-powder-contain-asbestos-scaled.jpg "Does Gold Bond Powder Contain Asbestos?")](https://www.pintas.com/talcum-powder/does-gold-bond-powder-contain-asbestos/ "Does Gold Bond Powder Contain Asbestos?")
+[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
 
-[#### Does Gold Bond Powder Contain Asbestos?](https://www.pintas.com/talcum-powder/does-gold-bond-powder-contain-asbestos/)
+[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
