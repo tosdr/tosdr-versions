@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the average mesothelioma settlement?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-mesothelioma-settlement.jpg "What Is the Average Mesothelioma Settlement?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement "What Is the Average Mesothelioma Settlement?")
+[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
 
-[#### What Is the Average Mesothelioma Settlement?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement)
+[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
 
-[![Can you sue for a car accident if you are not hurt?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-can-you-sue-for-a-car-accident-if-you-are-not-hurt.jpg "Can You Sue For a Car Accident If You Are Not Hurt?")](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/ "Can You Sue For a Car Accident If You Are Not Hurt?")
+[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
 
-[#### Can You Sue For a Car Accident If You Are Not Hurt?](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/)
+[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
 
-[![What qualifies as pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-what-qualifies-as-pain-and-suffering.jpg "What Qualifies As Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/ "What Qualifies As Pain and Suffering?")
+[![What is utah hb90 law?](https://www.pintas.com/wp-content/uploads/2023/04/general-photo-300x200.jpg "What Is Utah HB90 Law?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/ "What Is Utah HB90 Law?")
 
-[#### What Qualifies As Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/)
+[#### What Is Utah HB90 Law?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
