@@ -18,9 +18,10 @@ For the best experience, turn your mobile device portrait mode.
 * [HISTORY](https://www.nbcuniversal.com/history)
 * [Impact](https://www.nbcuniversal.com/impact) ![](/themes/custom/universal/src/img/icons/dropdown-arrow-down.svg)
     
-    * [DIVERSITY, EQUITY & INCLUSION](https://www.nbcuniversal.com/diversity-equity-inclusion)
-    * [ENVIRONMENT](https://www.nbcuniversal.com/environment)
-    * [SOCIAL IMPACT](https://www.nbcuniversal.com/csr)
+    * [DIVERSITY, EQUITY & INCLUSION](https://www.nbcuniversal.com/impact/diversity-equity-inclusion)
+    * [ENVIRONMENT](https://www.nbcuniversal.com/impact/environment)
+    * [SOCIAL IMPACT](https://www.nbcuniversal.com/impact/social-impact)
+    * [WORKFORCE DEVELOPMENT](https://www.nbcuniversal.com/impact/workforce)
 * [BRANDS](https://www.nbcuniversal.com/brands)
 * [NEWSROOM](https://www.nbcuniversal.com/newsroom)
 * [CAREERS](https://www.nbcunicareers.com/)
