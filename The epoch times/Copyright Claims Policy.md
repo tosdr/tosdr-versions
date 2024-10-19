@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://www.theepochtimes.com/us/as-early-voting-kicks-off-in-nevada-nonpartisan-voters-hold-the-key-5743430)
+    
+    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://img.theepochtimes.com/assets/uploads/2019/04/18/Las-Vegas-1057350054-205x123.jpg.webp)](https://www.theepochtimes.com/us/as-early-voting-kicks-off-in-nevada-nonpartisan-voters-hold-the-key-5743430)
+* [Nantucket Residents Rattled by Arrest of 5 Illegal Immigrants for Violent Sex Crimes](https://www.theepochtimes.com/us/nantucket-residents-rattled-by-arrest-of-5-illegal-immigrants-for-violent-sex-crimes-5741819)
+    
+    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    
+    [![Nantucket Residents Rattled by Arrest of 5 Illegal Immigrants  for Violent Sex Crimes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Nantucket Residents Rattled by Arrest of 5 Illegal Immigrants  for Violent Sex Crimes](https://img.theepochtimes.com/assets/uploads/2022/12/22/914-Venezuelan-marthas-vinyard-LYNXMPEI8E06Y_USA-IMMIGRATION-FLORIDA-205x123.jpg.webp)](https://www.theepochtimes.com/us/nantucket-residents-rattled-by-arrest-of-5-illegal-immigrants-for-violent-sex-crimes-5741819)
+* [Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://www.theepochtimes.com/us/some-states-ready-to-respond-in-case-hurricane-hits-us-on-election-day-5741648)
+    
+    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738747-GettyImages-1227902406KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-states-ready-to-respond-in-case-hurricane-hits-us-on-election-day-5741648)
+* [Landlocked European Nations Face Gas Woes Amid Growing Pressure on Russia](https://www.theepochtimes.com/world/landlocked-european-nations-face-gas-woes-amid-growing-pressure-on-russia-5738207)
+    
+    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Landlocked European Nations Face Gas Woes Amid Growing Pressure on Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Landlocked European Nations Face Gas Woes Amid Growing Pressure on Russia](https://img.theepochtimes.com/assets/uploads/2023/02/03/GettyImages-1443860743-205x123.jpg.webp)](https://www.theepochtimes.com/world/landlocked-european-nations-face-gas-woes-amid-growing-pressure-on-russia-5738207)
+* [Massachusetts Gov. Council Candidates Weigh In on Judge Appointments](https://www.theepochtimes.com/us/massachusetts-gov-council-candidates-weigh-in-on-judge-appointments-5743123)
+    
+    NEW By [Mary Lou Lang](https://www.theepochtimes.com/author/mary-lou-lang)
+    
+    [![Massachusetts Gov. Council Candidates Weigh In on Judge Appointments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Massachusetts Gov. Council Candidates Weigh In on Judge Appointments](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636544-IMG_5950-205x123.jpeg.webp)](https://www.theepochtimes.com/us/massachusetts-gov-council-candidates-weigh-in-on-judge-appointments-5743123)
+* [High Turnover in Xi’s Political Faction Signals Heightened Infighting in Beijing, Experts Say](https://www.theepochtimes.com/china/high-turnover-in-xis-political-faction-signals-heightened-infighting-in-beijing-experts-say-5743217)
+    
+    NEW By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao)
+    
+    [![High Turnover in Xi’s Political Faction Signals Heightened Infighting in Beijing, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![High Turnover in Xi’s Political Faction Signals Heightened Infighting in Beijing, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743220-GettyImages-142652511-205x123.jpg.webp)](https://www.theepochtimes.com/china/high-turnover-in-xis-political-faction-signals-heightened-infighting-in-beijing-experts-say-5743217)
+* [NTD’s 7th International Piano Competition Awaits Winners’ Announcement](https://www.theepochtimes.com/bright/ntds-7th-international-piano-competition-awaits-winners-announcement-5744024)
+    
+    2hr By [Flora Hua](https://www.theepochtimes.com/author/flora-hua)
+    
+    [![NTD’s 7th International Piano Competition Awaits Winners’ Announcement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NTD’s 7th International Piano Competition Awaits Winners’ Announcement](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744025-Ching-Yi-Lin-NTD-piano-competition-205x123.jpg.webp)](https://www.theepochtimes.com/bright/ntds-7th-international-piano-competition-awaits-winners-announcement-5744024)
+* [Trump, Harris Intensify Michigan Push With Rally Blitz](https://www.theepochtimes.com/us/trump-harris-intensify-michigan-push-with-rally-blitz-5744018)
+    
+    6hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    
+    [![Trump, Harris Intensify Michigan Push With Rally Blitz](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump, Harris Intensify Michigan Push With Rally Blitz](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744049-Trump-Harris-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-intensify-michigan-push-with-rally-blitz-5744018)
 * [Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://www.theepochtimes.com/us/trump-says-hell-meet-with-rupert-murdoch-ask-him-to-nix-negative-political-ads-5743164)
     
-    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    9hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719009-EpochImages-5955281775-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-hell-meet-with-rupert-murdoch-ask-him-to-nix-negative-political-ads-5743164)
 * [Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-in-scheme-to-illegally-export-us-semiconductor-technology-to-china-5743796)
     
-    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    10hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695816-07292024-DSC09128-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-in-scheme-to-illegally-export-us-semiconductor-technology-to-china-5743796)
-* [Georgia Early Voting Surpasses 1 Million](https://www.theepochtimes.com/us/georgia-early-voting-surpasses-1-million-5743780)
-    
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Georgia Early Voting Surpasses 1 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Early Voting Surpasses 1 Million](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742928-Georgia-Vote-2_JF_10142024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-early-voting-surpasses-1-million-5743780)
-* [Google’s Court-Ordered App Store Overhaul Temporarily Paused](https://www.theepochtimes.com/us/googles-court-ordered-app-store-overhaul-temporarily-paused-5743806)
-    
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Google’s Court-Ordered App Store Overhaul Temporarily Paused](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Google’s Court-Ordered App Store Overhaul Temporarily Paused](https://img.theepochtimes.com/assets/uploads/2024/10/id5735160-1.tagreuters.com2024binary_LYNXMPEK9302H-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/googles-court-ordered-app-store-overhaul-temporarily-paused-5743806)
-* [RNC Chairman Says GOP Is Focusing on Low Propensity Voters](https://www.theepochtimes.com/us/rnc-chairman-says-gop-is-focusing-on-low-propensity-voters-5743855)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![RNC Chairman Says GOP Is Focusing on Low Propensity Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![RNC Chairman Says GOP Is Focusing on Low Propensity Voters](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743765-GettyImages-2178247386-205x123.jpg.webp)](https://www.theepochtimes.com/us/rnc-chairman-says-gop-is-focusing-on-low-propensity-voters-5743855)
-* [Study Links Autism to the Y Chromosome](https://www.theepochtimes.com/health/male-chromosome-could-help-explain-higher-autism-rates-in-boys-research-shows-5743751)
-    
-    6hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
-    
-    [![Study Links Autism to the Y Chromosome](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Study Links Autism to the Y Chromosome](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743960-shutterstock_714325090_y_chromosome_autism_male_sex_chromosome-205x123.jpg.webp)](https://www.theepochtimes.com/health/male-chromosome-could-help-explain-higher-autism-rates-in-boys-research-shows-5743751)
-* [Feds Investigating Tesla’s Self-Driving System](https://www.theepochtimes.com/business/feds-investigating-teslas-self-driving-system-5743786)
-    
-    6hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Feds Investigating Tesla’s Self-Driving System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Feds Investigating Tesla’s Self-Driving System](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689461-GettyImages-1434797485-Tesla-factoryKO-205x123.jpg.webp)](https://www.theepochtimes.com/business/feds-investigating-teslas-self-driving-system-5743786)
-* [Day in Photos: National Strike Day, Voting Queue, and Imperial Visit](https://www.theepochtimes.com/article/day-in-photos-national-strike-day-voting-queue-and-imperial-visit-5743607)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: National Strike Day, Voting Queue, and Imperial Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: National Strike Day, Voting Queue, and Imperial Visit](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743901-Lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-national-strike-day-voting-queue-and-imperial-visit-5743607)
-* [Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://www.theepochtimes.com/business/majority-of-americans-feel-worse-off-now-than-4-years-ago-gallup-5743697)
-    
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684758-GettyImages-2157164982-205x123.jpg.webp)](https://www.theepochtimes.com/business/majority-of-americans-feel-worse-off-now-than-4-years-ago-gallup-5743697)
-* [Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://www.theepochtimes.com/tech/heres-how-to-protect-yourself-from-new-scams-targeting-gmail-users-5743783)
-    
-    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741301-gmail-shutterstock_1303813597-205x123.jpg.webp)](https://www.theepochtimes.com/tech/heres-how-to-protect-yourself-from-new-scams-targeting-gmail-users-5743783)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
