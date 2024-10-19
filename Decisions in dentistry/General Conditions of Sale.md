@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In a landmark decision, the Pennsylvania Supreme C ![In a landmark decision, the Pennsylvania Supreme Court has ruled that a dentist is not entitled to insurance coverage for losses caused by the COVID-19 shutdown without physical damage to the property. The court emphasized that insurance policies require a physical alteration to the property to trigger coverage, rejecting the argument that loss of use alone qualifies. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBRJ9qgtQ84/) 
+
 [EARN 2 CEUs: Oral Manifestations of Commonly Used ![EARN 2 CEUs: Oral Manifestations of Commonly Used Chemical Substances⁠
 Understanding the oral health implications of substance use and abuse is crucial for dentists to provide comprehensive care and support for affected patients. By Edward Ruvins, DDS, MS, MBA, MSF, MSAC, Katie Brydon, LCSW, LAC, MAC, EMDR-c, Mark Stein, DDS, MD and Susanna Kayserman, DDS](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBOlJ0XNVbY/) 
 
@@ -168,18 +175,6 @@ Understanding the oral health implications of substance use and abuse is crucial
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBEY2g_TNkY/) 
-
-[Decisions in Dentistry recently reported on the AD ![Decisions in Dentistry recently reported on the ADA’s opposition to dental therapy. Allen Hindin, DDS, MPH, a retired dentist in Connecticut who worked with underserved communities throughout his career, offered the following comment:⁠
-⁠
-“Wouldn't it be interesting to see what the Federal Trade Commission might have to say, about the most recent effort to misinform America about safety and effectiveness of dental therapists over the past century worldwide and almost 20 years nationally? Health profession or frightened guild?”⁠
-⁠
-What do you think?⁠
-⁠
-Click the link in bio for full article.⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBBtMJZzyPD/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
