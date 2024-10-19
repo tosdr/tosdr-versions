@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111188-a-silent-prayer-2024-10-18)
+     [](https://patriotpost.us/memes/111190-young-patriots-2024-10-19)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -130,8 +130,6 @@ Last Updated: November 15, 2011.
 *      [Michael Barone Are Minorities Voting Increasingly Like Normies?](https://patriotpost.us/opinion/111203-are-minorities-voting-increasingly-like-normies-2024-10-18)
 *      [Josh Hammer The Collapse of Kamala Harris](https://patriotpost.us/opinion/111201-the-collapse-of-kamala-harris-2024-10-18)
 *      [David Harsanyi Why Can’t Kamala Answer a Simple Question?](https://patriotpost.us/opinion/111199-why-cant-kamala-answer-a-simple-question-2024-10-18)
-*      [Mark Alexander Profiles of Valor: CPL Tibor Rubin (USA)](https://patriotpost.us/alexander/111177-profiles-of-valor-cpl-tibor-rubin-usa-2024-10-18)
-*      [The Babylon Bee Harris Complains She Was Not Informed the Interview Would Include Questions](https://patriotpost.us/opinion/111209-harris-complains-she-was-not-informed-the-interview-would-include-questions-2024-10-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -145,11 +143,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
 
- 
-
-Shop Now](https://patriotpostshop.com/)
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
