@@ -146,13 +146,17 @@ copyright@patpat.com
 
 #### Subscribe and Unlock 15% Off Now!
 
-Subscribe to our newsletter and receive a 15% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
+Subscribe to our newsletter or text and receive a 15% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
+
+JOIN
+
++1 Australia +61 United Kingdom +44 United States +1 Canada +1 Austria +43 Bahrain +973 Belgium +32 Bulgaria +359 Chile +56 Croatia +385 Cyprus +357 Czech Republic +420 Denmark +45 El Salvador +503 Estonia +372 Finland +358 France +33 Germany +49 Greece +30 Hong Kong +852 Hungary +36 Iceland +354 India +91 Indonesia +62 Iraq +964 Ireland +353 Israel +972 Italy +39 Japan +81 Jordan +962 Kuwait +965 Latvia +371 Lithuania +370 Luxembourg +352 Malaysia +60 Malta +356 Mexico +52 Netherlands +31 New Zealand +64 Norway +47 Oman +968 Pakistan +92 Peru +51 Philippines +63 Poland +48 Portugal +351 Qatar +974 Romania +40 Saudi Arabia +966 Serbia +381 Singapore +65 Slovakia +421 Slovenia +386 Spain +34 Sweden +46 Switzerland +41 Taiwan +886 Thailand +66 Turkey +90 United Arab Emirates +971
 
 JOIN
 
 % OFF
 
-Thanks for subscribing! You will receive an email with your discount code shortly!
+Thank for subscribing! You will receive an email with your discount code shortly!
 
 SHOP NOW
 
