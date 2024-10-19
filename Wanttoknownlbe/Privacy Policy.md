@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/2015-vs-en-chinese-wetenschappers-maken-coronavirus/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/2-963-technische-experts-zien-echte-911-complot/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
