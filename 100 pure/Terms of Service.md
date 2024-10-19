@@ -272,7 +272,7 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-386 reviews (386)
+388 reviews (388)
 
 $26.00
 
