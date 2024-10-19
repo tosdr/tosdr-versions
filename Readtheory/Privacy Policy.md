@@ -264,21 +264,24 @@ Last updated: February 26, 2024
 
 * [How it Works](https://readtheory.org/wp-content/uploads/2022/03/Animation-41.mp4)
 * [Resources Hub](https://readtheory.org/resources-hub/)
-* [Schools & Districts](https://readtheory.org/districts-and-schools/)
-* [ReadTheory for ESL](https://readtheory.org/english-language-learners/)
 * [Pricing](https://readtheory.org/app/pricing/teacher)
-* [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
-* [Case Studies](https://readtheory.org/case-study/)
+* [Certified Educator](https://readtheory.org/certified-educator/)
 * [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
 
 ### Inside ReadTheory
 
-* [Science of Reading](https://readtheory.org/science-of-reading/)
-* [Wall of Love](https://readtheory.org/teacher-love/)
 * [About Us](https://readtheory.org/about-us/)
-* [Certified Educator](https://readtheory.org/certified-educator/)
 * [Meet our Writers](https://readtheory.org/meet-our-writers/)
 * [Contact Us](https://readtheory.org/app/contact)
+
+### For Schools & Districts
+
+* [Schools & Districts Overview](https://readtheory.org/districts-and-schools/)
+* [Science of Reading](https://readtheory.org/science-of-reading/)
+* [Efficacy Studies](https://readtheory.org/efficacy-studies/)
+* [Case Studies](https://readtheory.org/case-study/)
+* [Wall of Love](https://readtheory.org/teacher-love/)
+* [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
 
 ### Lesson Plans
 
@@ -324,19 +327,20 @@ Last updated: February 26, 2024
 * Get Started
     * [How it Works](https://readtheory.org/wp-content/uploads/2022/03/Animation-41.mp4)
     * [Resources Hub](https://readtheory.org/resources-hub/)
-    * [Schools & Districts](https://readtheory.org/districts-and-schools/)
     * [Pricing](https://readtheory.org/app/pricing/teacher)
-    * [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
-    * [Case Studies](https://readtheory.org/case-study/)
+    * [Certified Educator](https://readtheory.org/certified-educator/)
     * [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
-    * [Wall of Love](https://readtheory.org/teacher-love/)
 * Inside ReadTheory
     * [About Us](https://readtheory.org/about-us/)
-    * [Certified Educator](https://readtheory.org/certified-educator/)
-    * [ReadTheory History OLD](https://readtheory.org/?page_id=3368)
-    * [Meet our Team](https://readtheory.org/meet-our-staff/)
     * [Meet our Writers](https://readtheory.org/meet-our-writers/)
     * [Contact Us](https://readtheory.org/app/contact)
+* For Schools & Districts
+    * [Schools & Districts Overview](https://readtheory.org/districts-and-schools/)
+    * [Science of Reading](https://readtheory.org/science-of-reading/)
+    * [Efficacy Studies](https://readtheory.org/efficacy-studies/)
+    * [Case Studies](https://readtheory.org/case-study/)
+    * [Wall of Love](https://readtheory.org/teacher-love/)
+    * [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
 * [Lesson Plans](https://readtheory.org/lesson-plans/)
     * [Central Idea](https://readtheory.org/lesson-plans/central-idea/)
     * [Characterization](https://readtheory.org/lesson-plans/characterization/)
@@ -362,7 +366,8 @@ Last updated: February 26, 2024
     * [Adult (ABE)](https://readtheory.org/reading-comprehension-worksheets/adult-abe/)
     * [ESL](https://readtheory.org/reading-comprehension-worksheets/esl/)
     * [Special Education](https://readtheory.org/reading-comprehension-worksheets/sped/)
-* [State Assessments](#)
+    * [AI Worksheet Builder](https://readtheory.org/teacher-worksheets/)
+* State Assessments
     * [ELA Assessments](https://readtheory.org/state-test-prep/)
     * [AZ AASA](https://readtheory.org/online-aasa-practice-arizona/)
     * [CA CAASPP](https://readtheory.org/test-prep-california/)
