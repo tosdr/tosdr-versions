@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)             
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)           
 
-          
+            
 
 [Skip to content](#MainContent)
 
@@ -146,7 +146,7 @@ Our Products
 
 ### [Goat Milk Powder | Pure & Natural | 200g](https://aadvikfoods.com/products/goat-milk-powder)
 
-₹ 1,299.00₹ 1,262.00
+₹ 1,299.00₹ 779.00
 
 Buy Now
 
