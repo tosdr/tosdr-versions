@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, October 18 2024
+Saturday, October 19 2024
 
 Latest
 
-* [How to get Discord Nitro cheaper with a VPN](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
-* [Huawei Cloud: enabling business and industry growth](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
-* [Download our OneDrive for Windows Cheat Sheet](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
-* [These Three Apps Can Help You Remotely Access Your Computer](https://digitpatrox.com/these-three-apps-can-help-you-remotely-access-your-computer/)
-* [Ellsworth Cooperative Creamery notifies victims of data breach claimed by BlackSuit ransomware gang](https://digitpatrox.com/ellsworth-cooperative-creamery-notifies-victims-of-data-breach-claimed-by-blacksuit-ransomware-gang/)
-* [15 Best TVs of 2024, Tested by Our Experts](https://digitpatrox.com/15-best-tvs-of-2024-tested-by-our-experts/)
-* [Don’t Have Hours to Read Terms of Service? Here’s How to Cut Down the Time](https://digitpatrox.com/dont-have-hours-to-read-terms-of-service-heres-how-to-cut-down-the-time/)
-* [The blind spots: five critical mistakes cybersecurity channel leaders must avoid](https://digitpatrox.com/the-blind-spots-five-critical-mistakes-cybersecurity-channel-leaders-must-avoid/)
-* [Get Lifetime 1TB of Cloud Storage for Just $120](https://digitpatrox.com/get-lifetime-1tb-of-cloud-storage-for-just-120/)
-* [What is the Big Fig mattress for heavy people and should you buy one?](https://digitpatrox.com/what-is-the-big-fig-mattress-for-heavy-people-and-should-you-buy-one/)
+* [Today’s Wordle Answer and Hints (October 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
+* [Want to call yourself a real tech company? Mark Zuckerberg says get a technical CEO](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
+* [Augmented reality screens are a feature, not a product – Computerworld](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
+* [Your Halloween Party Needs a Scary Charcuterie Board](https://digitpatrox.com/your-halloween-party-needs-a-scary-charcuterie-board/)
+* [How to tell if your Facebook has been hacked](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
+* [Windows 11 build 27729, 26120.2130, 22635.4371 push new features to testers](https://digitpatrox.com/windows-11-build-27729-26120-2130-22635-4371-push-new-features-to-testers/)
+* [Are Sweet Potatoes Good for You?](https://digitpatrox.com/are-sweet-potatoes-good-for-you/)
+* [Plex Library Looking Thin? Load It Up With Public Domain Movies](https://digitpatrox.com/plex-library-looking-thin-load-it-up-with-public-domain-movies/)
+* [In an age of RTO hardliners, Spotify’s stance on remote work is a breath of fresh air](https://digitpatrox.com/in-an-age-of-rto-hardliners-spotifys-stance-on-remote-work-is-a-breath-of-fresh-air/)
+* [Features, Prices, Pros and Cons](https://digitpatrox.com/features-prices-pros-and-cons/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-get-Discord-Nitro-cheaper-with-a-VPN.jpg)](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
     
-    [How to get Discord Nitro cheaper with a VPN](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
+    [Today’s Wordle Answer and Hints (October 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
     
-    6 mins ago
+    13 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/kkSxF7avnLVjrNeHRABpSa-1200-80.jpg)](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
+* [![](https://cdn.mos.cms.futurecdn.net/GdsxfxRnbxSSmNbk2CYSVD-1200-80.jpg)](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
     
-    [Huawei Cloud: enabling business and industry growth](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
+    [Want to call yourself a real tech company? Mark Zuckerberg says get a technical CEO](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
     
-    28 mins ago
+    2 hours ago
     
-* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/09/default_image1726683479.2135.png)](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564762-0-84553900-1729245741-augmented_reality_ar_virtual_reality_vr_enterprise_virtual_display_thinkstock_889345408-100749853-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
     
-    [Download our OneDrive for Windows Cheat Sheet](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
+    [Augmented reality screens are a feature, not a product – Computerworld](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
     
-    50 mins ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JAFPBQ0ZX65T6MQSKFD8ZFTR/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/these-three-apps-can-help-you-remotely-access-your-computer/)
+* [![](https://lifehacker.com/imagery/articles/01JAGM653VVCHY2Y3XXWAPM58B/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/your-halloween-party-needs-a-scary-charcuterie-board/)
     
-    [These Three Apps Can Help You Remotely Access Your Computer](https://digitpatrox.com/these-three-apps-can-help-you-remotely-access-your-computer/)
+    [Your Halloween Party Needs a Scary Charcuterie Board](https://digitpatrox.com/your-halloween-party-needs-a-scary-charcuterie-board/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Ransomware-gang-claims-it-breached-Tennessee-school-district-copy.jpg)](https://digitpatrox.com/ellsworth-cooperative-creamery-notifies-victims-of-data-breach-claimed-by-blacksuit-ransomware-gang/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-tell-if-your-Facebook-has-been-hacked.jpg)](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
     
-    [Ellsworth Cooperative Creamery notifies victims of data breach claimed by BlackSuit ransomware gang](https://digitpatrox.com/ellsworth-cooperative-creamery-notifies-victims-of-data-breach-claimed-by-blacksuit-ransomware-gang/)
+    [How to tell if your Facebook has been hacked](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 mins ago
+* [13 mins ago
     
-    ### How to get Discord Nitro cheaper with a VPN](https://digitpatrox.com/how-to-get-discord-nitro-cheaper-with-a-vpn/)
-* [28 mins ago
+    ### Today’s Wordle Answer and Hints (October 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
+* [2 hours ago
     
-    ### Huawei Cloud: enabling business and industry growth](https://digitpatrox.com/huawei-cloud-enabling-business-and-industry-growth/)
-* [50 mins ago
+    ### Want to call yourself a real tech company? Mark Zuckerberg says get a technical CEO](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
+* [2 hours ago
     
-    ### Download our OneDrive for Windows Cheat Sheet](https://digitpatrox.com/download-our-onedrive-for-windows-cheat-sheet/)
+    ### Augmented reality screens are a feature, not a product – Computerworld](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
 
 Most Popular Topics
 
-* [August 17, 2024
+* [August 30, 2024
     
-    ### Wordle Answer for Today, August 17, 2024](https://digitpatrox.com/wordle-answer-for-today-august-17-2024/)
-* [4 days ago
+    ### August rundown: Who’s afraid of remote work?](https://digitpatrox.com/august-rundown-whos-afraid-of-remote-work/)
+* [September 1, 2024
     
-    ### Don’t Miss out on These 5 Underrated Music Streaming Services](https://digitpatrox.com/dont-miss-out-on-these-5-underrated-music-streaming-services/)
-* [2 weeks ago
+    ### Will Microsoft’s big roll of the AI dice pay off? – Computerworld](https://digitpatrox.com/will-microsofts-big-roll-of-the-ai-dice-pay-off-computerworld/)
+* [August 27, 2024
     
-    ### Is there any future for the IT helpdesk? AI and automation could render it ‘redundant’ within three years](https://digitpatrox.com/is-there-any-future-for-the-it-helpdesk-ai-and-automation-could-render-it-redundant-within-three-years/)
+    ### Slack Rolls Out New Automation Features](https://digitpatrox.com/slack-rolls-out-new-automation-features/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Don’t Have Hours to Read Terms of Service? Here’s How to Cut Down the Time](https://digitpatrox.com/dont-have-hours-to-read-terms-of-service-heres-how-to-cut-down-the-time/)
 * [3 hours ago
     
-    ### The blind spots: five critical mistakes cybersecurity channel leaders must avoid](https://digitpatrox.com/the-blind-spots-five-critical-mistakes-cybersecurity-channel-leaders-must-avoid/)
+    ### Are Sweet Potatoes Good for You?](https://digitpatrox.com/are-sweet-potatoes-good-for-you/)
 * [3 hours ago
     
-    ### Get Lifetime 1TB of Cloud Storage for Just $120](https://digitpatrox.com/get-lifetime-1tb-of-cloud-storage-for-just-120/)
+    ### Plex Library Looking Thin? Load It Up With Public Domain Movies](https://digitpatrox.com/plex-library-looking-thin-load-it-up-with-public-domain-movies/)
+* [4 hours ago
+    
+    ### In an age of RTO hardliners, Spotify’s stance on remote work is a breath of fresh air](https://digitpatrox.com/in-an-age-of-rto-hardliners-spotifys-stance-on-remote-work-is-a-breath-of-fresh-air/)
 
 Most Viewed Topics
 
-* [August 28, 2024
+* [August 12, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
