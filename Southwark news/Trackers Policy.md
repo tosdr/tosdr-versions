@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
+    ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
     [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
     
     ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
@@ -51,10 +55,6 @@
     Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
     ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
-    
-    ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
+    ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
     [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
     
     ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
@@ -132,10 +136,6 @@ View All Result
     Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
     ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
-    
-    ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -233,6 +233,12 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 ### Featured Articles
 
+[![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+
+### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+
+[18th October 2024](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+
 [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-120x86.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
 
 ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
@@ -263,12 +269,6 @@ Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lo
 ### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
 
 [17th October 2024](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-
-[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-[17th October 2024](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
 
 ### USEFUL PAGES
 
