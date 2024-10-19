@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Anri van der Linde
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=88648335)  
-Qothiphango Mining
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=179973468)  
+Firstweb Hosting & Design
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=128759938)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=193294877)  
+Stevens Consulting
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=91939703)  
-KTEN PARTS
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=132230011)  
+#DiGi3 Marketing & Design
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=34731046)  
-Digifax Pty) Ltd t/a Findfish
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=137642246)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=144739904)  
-SR Travel Services
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=201195046)  
+Lizzy Pop PTY(Ltd)
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=2455741)  
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=102524781)  
+Redlum Group (Pty) Ltd
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=3622185)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=144693363)  
+Goju Ryu Karate Centre
+
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=90099646)  
+VA AND M DEBT-AID (PTY) LTD
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=207603678)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=206803547)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=96522638)  
+J.M. HUMAN RESOURCES
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=185926456)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=96291786)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=85932357)  
-MOSELA GROUP Pty(ltd)
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=201831758)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=153369837)  
-West Coast Horse Trails
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=32262233)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=87352653)  
-Lindani Protection Services & Projects
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=138435233)  
-ELLIE'S CLEANING CHICKS
-
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=114194131)  
-Safe Train Mokgethwa (PTY) Ltd
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=181140980)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=5697aac2819bcdfcc92f1bab14b4342402837eca823a6922f88ef36318676436&c=97808974)  
-VIR Electrical (PTY) LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=b14d50a719bbb450ea91126703d9327f4b12434c4830e1a80ba09104078ad759&c=113161025)  
+Lion Software Develepment
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
