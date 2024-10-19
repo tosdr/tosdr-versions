@@ -4,7 +4,7 @@
     
     Form
     
-    [Booking Form](https://www.powr.io/booking-form-website-app?utm_source=app-dropdown)[Contact Form](https://www.powr.io/contact-form-website-app?utm_source=app-dropdown)[Custom Order Form](https://www.powr.io/custom-order-form-website-app?utm_source=app-dropdown)[Donation Form](https://www.powr.io/donation-form-website-app?utm_source=app-dropdown)[Ebook Download Form](https://www.powr.io/ebook-download-form-website-app?utm_source=app-dropdown)[Event Registration Form](https://www.powr.io/event-registration-form-website-app?utm_source=app-dropdown)[File Download Form](https://www.powr.io/file-download-form-website-app?utm_source=app-dropdown)[Form Builder](https://www.powr.io/form-builder-website-app?utm_source=app-dropdown)[Fundraising Form](https://www.powr.io/fundraising-form-website-app?utm_source=app-dropdown)[Invoice Form](https://www.powr.io/invoice-form-website-app?utm_source=app-dropdown)[Membership Form](https://www.powr.io/membership-form-website-app?utm_source=app-dropdown)[Order Form](https://www.powr.io/order-form-website-app?utm_source=app-dropdown)[Sponsorship Form](https://www.powr.io/sponsorship-form-website-app?utm_source=app-dropdown)[Subscription Signup Form](https://www.powr.io/subscription-signup-form-website-app?utm_source=app-dropdown)[Feedback Survey](https://www.powr.io/survey-website-app?utm_source=app-dropdown)[Wholesale Form](https://www.powr.io/wholesale-form-website-app?utm_source=app-dropdown)
+    [Booking Form](https://www.powr.io/booking-form-website-app?utm_source=app-dropdown)[Contact Form](https://www.powr.io/contact-form-website-app?utm_source=app-dropdown)[Custom Order Form](https://www.powr.io/custom-order-form-website-app?utm_source=app-dropdown)[Donation Form](https://www.powr.io/donation-form-website-app?utm_source=app-dropdown)[Ebook Download Form](https://www.powr.io/ebook-download-form-website-app?utm_source=app-dropdown)[Event Registration Form](https://www.powr.io/event-registration-form-website-app?utm_source=app-dropdown)[File Download Form](https://www.powr.io/file-download-form-website-app?utm_source=app-dropdown)[Form Builder](https://www.powr.io/form-builder-website-app?utm_source=app-dropdown)[Fundraising Form](https://www.powr.io/fundraising-form-website-app?utm_source=app-dropdown)[Invoice Form](https://www.powr.io/invoice-form-website-app?utm_source=app-dropdown)[Membership Form](https://www.powr.io/membership-form-website-app?utm_source=app-dropdown)[Order Form](https://www.powr.io/order-form-website-app?utm_source=app-dropdown)[Sponsorship Form](https://www.powr.io/sponsorship-form-website-app?utm_source=app-dropdown)[Subscription Signup Form](https://www.powr.io/subscription-signup-form-website-app?utm_source=app-dropdown)[Feedback Survey](https://www.powr.io/survey-website-app?utm_source=app-dropdown)[Wholesale Form](https://www.powr.io/wholesale-form-website-app?utm_source=app-dropdown)[Secure Form](https://www.powr.io/secure-form-website-app?utm_source=app-dropdown)[HIPAA Form](https://www.powr.io/hipaa-form-website-app?utm_source=app-dropdown)
     
     Popup
     
@@ -12,7 +12,7 @@
     
     Galleries
     
-    [Event Gallery](https://www.powr.io/event-gallery-website-app?utm_source=app-dropdown)[Flickr Gallery](https://www.powr.io/flickr-gallery-website-app?utm_source=app-dropdown)[Media Gallery](https://www.powr.io/media-gallery-website-app?utm_source=app-dropdown)[Photo Gallery](https://www.powr.io/photo-gallery-website-app?utm_source=app-dropdown)[Video Gallery](https://www.powr.io/video-gallery-website-app?utm_source=app-dropdown)[Vimeo Gallery](https://www.powr.io/vimeo-gallery-website-app?utm_source=app-dropdown)[YouTube Gallery](https://www.powr.io/youtube-gallery-website-app?utm_source=app-dropdown)[X (Twitter) Feed](https://www.powr.io/twitter-feed-website-app?utm_source=app-dropdown)
+    [Event Gallery](https://www.powr.io/event-gallery-website-app?utm_source=app-dropdown)[Flickr Gallery](https://www.powr.io/flickr-gallery-website-app?utm_source=app-dropdown)[Media Gallery](https://www.powr.io/media-gallery-website-app?utm_source=app-dropdown)[Photo Gallery](https://www.powr.io/photo-gallery-website-app?utm_source=app-dropdown)[Video Gallery](https://www.powr.io/video-gallery-website-app?utm_source=app-dropdown)[Vimeo Gallery](https://www.powr.io/vimeo-gallery-website-app?utm_source=app-dropdown)[YouTube Gallery](https://www.powr.io/youtube-gallery-website-app?utm_source=app-dropdown)
     
     Support
     
@@ -20,7 +20,7 @@
     
     Payments
     
-    [PayPal Button](https://www.powr.io/paypal-button-website-app?utm_source=app-dropdown)[Stripe Button](https://www.powr.io/stripe-button-website-app?utm_source=app-dropdown)
+    [PayPal Button](https://www.powr.io/paypal-button-website-app?utm_source=app-dropdown)[Stripe Button](https://www.powr.io/stripe-button-website-app?utm_source=app-dropdown)[E-commerce](https://www.powr.io/ecommerce-website-app?utm_source=app-dropdown)
     
     Timers
     
@@ -32,7 +32,7 @@
     
     Social
     
-    [Facebook Feed](https://www.powr.io/facebook-feed-website-app?utm_source=app-dropdown)[Instagram Feed](https://www.powr.io/instagram-feed-website-app?utm_source=app-dropdown)[Pinterest Feed](https://www.powr.io/pinterest-feed-website-app?utm_source=app-dropdown)[RSS Feed](https://www.powr.io/rss-feed-website-app?utm_source=app-dropdown)[Social Feed](https://www.powr.io/social-feed-website-app?utm_source=app-dropdown)[X (Twitter) Feed](https://www.powr.io/twitter-feed-website-app?utm_source=app-dropdown)
+    [Facebook Feed](https://www.powr.io/facebook-feed-website-app?utm_source=app-dropdown)[Instagram Feed](https://www.powr.io/instagram-feed-website-app?utm_source=app-dropdown)[Pinterest Feed](https://www.powr.io/pinterest-feed-website-app?utm_source=app-dropdown)[RSS Feed](https://www.powr.io/rss-feed-website-app?utm_source=app-dropdown)[Social Feed](https://www.powr.io/social-feed-website-app?utm_source=app-dropdown)[Link-in-Bio](https://www.powr.io/linqinbio-website-app?utm_source=app-dropdown)
     
     Sliders
     
@@ -589,7 +589,7 @@ Featured Blog post
 
 Online commerce is an integral part of the overall retail business.Read More
 
-Posted by on 2024-10-07](https://blog.powr.io/converting-cross-border-shoppers-during-black-friday-cyber-monday)
+Posted by on 2024-10-18](https://blog.powr.io/converting-cross-border-shoppers-during-black-friday-cyber-monday)
 
 [![POWR One: Website Plugins Suite - 60+ plugins all-in-one to personalize your website. No code. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=415884&theme=light)](https://www.producthunt.com/posts/powr-one-website-plugins-suite?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-powr-one-website-plugins-suite)
 
