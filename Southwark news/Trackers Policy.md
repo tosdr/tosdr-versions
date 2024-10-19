@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-360x180.png)](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+    
+    ### [BMX Star Kye Whyte pays visit to pupils at Bermondsey school](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+    
+    [![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+    
+    ### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+    
+    [![Image: PublicDomainPictures](https://southwarknews.co.uk/wp-content/uploads/2021/11/fireworks-1758-e1636019844197.jpg)](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+    
+    ### [First batch for New Year’s Eve Fireworks have gone on sale](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/unnamed-360x180.png)](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
+    
+    ### [Affordable Art Fair in Battersea Park this weekend](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
+    
+    [![Miatta Fahnbulleh will replace Harriet Harman as Labour's candidate for the upcoming general election](https://southwarknews.co.uk/wp-content/uploads/2024/05/front_cover_picture_-scaled-e1717173075135-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
+    
+    ### [‘Our government will make big reforms for renters’, says Peckham MP](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
+    
     [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
     
     ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
@@ -34,27 +54,6 @@
     [![Croydon Magistrates Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-16-10-2024-at-13.52-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
     
     ### [Camberwell landlord and letting agent ordered to pay over £3,000 for unlicensed property](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
-    
-    [![Sheila Hancock (credit: Neil Spence)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sheila-Hancock_High-Res_Credit-Neil-Spence-10-2-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
-    
-    ### [Dame Sheila Hancock to host ‘An Evening With’ in Dulwich for hospice](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
-    
-    [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-360x180.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-    
-    ### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-    
-    [![Canada Dock boardwalk (British Land)](https://southwarknews.co.uk/wp-content/uploads/2024/10/20240913-67-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-    
-    ### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-    
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-    
-    ### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-    
-    [![CGI of new Nine Elms primary school.
-    Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-    
-    ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-360x180.png)](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+    
+    ### [BMX Star Kye Whyte pays visit to pupils at Bermondsey school](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+    
+    [![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+    
+    ### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+    
+    [![Image: PublicDomainPictures](https://southwarknews.co.uk/wp-content/uploads/2021/11/fireworks-1758-e1636019844197.jpg)](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+    
+    ### [First batch for New Year’s Eve Fireworks have gone on sale](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/unnamed-360x180.png)](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
+    
+    ### [Affordable Art Fair in Battersea Park this weekend](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
+    
+    [![Miatta Fahnbulleh will replace Harriet Harman as Labour's candidate for the upcoming general election](https://southwarknews.co.uk/wp-content/uploads/2024/05/front_cover_picture_-scaled-e1717173075135-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
+    
+    ### [‘Our government will make big reforms for renters’, says Peckham MP](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
+    
     [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
     
     ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
@@ -115,27 +134,6 @@ View All Result
     [![Croydon Magistrates Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-16-10-2024-at-13.52-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
     
     ### [Camberwell landlord and letting agent ordered to pay over £3,000 for unlicensed property](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
-    
-    [![Sheila Hancock (credit: Neil Spence)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sheila-Hancock_High-Res_Credit-Neil-Spence-10-2-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
-    
-    ### [Dame Sheila Hancock to host ‘An Evening With’ in Dulwich for hospice](https://southwarknews.co.uk/area/dulwich/dame-sheila-hancock-to-host-an-evening-with-in-dulwich-for-hospice/)
-    
-    [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-360x180.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-    
-    ### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-    
-    [![Canada Dock boardwalk (British Land)](https://southwarknews.co.uk/wp-content/uploads/2024/10/20240913-67-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-    
-    ### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-    
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-    
-    ### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-    
-    [![CGI of new Nine Elms primary school.
-    Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-    
-    ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -193,17 +191,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
-[![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-120x86.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-
-### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-
-[12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-120x86.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
 ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
 [18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+
+[![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-120x86.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
+### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
+[12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
 
 [![CGI of new Nine Elms primary school.
 Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
@@ -233,6 +231,24 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-120x86.png)](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+
+### [BMX Star Kye Whyte pays visit to pupils at Bermondsey school](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+
+[19th October 2024](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
+
+[![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+
+### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+
+[19th October 2024](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+
+[![Image: PublicDomainPictures](https://southwarknews.co.uk/wp-content/uploads/2021/11/fireworks-1758-e1636019844197.jpg)](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+
+### [First batch for New Year’s Eve Fireworks have gone on sale](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+
+[19th October 2024](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
+
 [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
 
 ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
@@ -250,25 +266,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
 [18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
-
-[![London mayor Sadiq Khan at a primary school. 
-Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-120x86.jpg)](https://southwarknews.co.uk/area/london/mayor-launches-1m-toolkit-for-primary-school-children-to-combat-online-misogyny/)
-
-### [Mayor launches £1m toolkit for primary school children to combat online misogyny](https://southwarknews.co.uk/area/london/mayor-launches-1m-toolkit-for-primary-school-children-to-combat-online-misogyny/)
-
-[18th October 2024](https://southwarknews.co.uk/area/london/mayor-launches-1m-toolkit-for-primary-school-children-to-combat-online-misogyny/)
-
-[![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-120x86.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-
-### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-
-[17th October 2024](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
-
-[![Canada Dock boardwalk (British Land)](https://southwarknews.co.uk/wp-content/uploads/2024/10/20240913-67-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-
-### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-
-[17th October 2024](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
 
 ### USEFUL PAGES
 
