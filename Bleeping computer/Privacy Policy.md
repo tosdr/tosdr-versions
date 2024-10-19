@@ -36,6 +36,9 @@
         
         Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
     
+    * [![Cisco takes DevHub portal offline after hacker publishes stolen data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
     * [![ESET partner breached to send data wipers to Israeli orgs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ESET partner breached to send data wipers to Israeli orgs](https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
@@ -45,9 +48,6 @@
     * [![Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
-    * [![How to leverage $200 million FCC program boosting K-12 cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        How to leverage $200 million FCC program boosting K-12 cybersecurity](https://www.bleepingcomputer.com/news/security/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
