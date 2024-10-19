@@ -68,16 +68,6 @@ FOX SCORES
     | NZL | 402 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
-* [Men's Test
-    
-    PAK won by 152 runs
-    
-    |     |     |
-    | --- | --- |
-    | PAK | 366 & 221 |
-    | ENG | 291 & 144 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Women's T20 WC
     
     NZL won by 8 runs
@@ -90,12 +80,10 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250202)
 * [Women's T20
     
-    19/10 10:00 AEST
-    
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | ADE | –   |
+    | BRI | 9 /160 |
+    | ADE | 7 /104 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250201)
 * [Women's T20
@@ -122,16 +110,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240301)
 * AFL
     
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | POR | 7.5.47 |
-    | STK | 5.2.32 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240802)
 * [AFL Women's
     
     19/10 13:05 AEST
@@ -162,6 +140,16 @@ FOX SCORES
     | RIC | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240805)
+* [AFL Women's
+    
+    19/10 19:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WCE | –   |
+    | FRE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240806)
 * Motorsport
     
 * [Formula 1
@@ -258,28 +246,98 @@ FOX SCORES
     | SYD | –   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250104)
+* [Premier League
+    
+    19/10 22:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TOT | –   |
+    | WHU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250804)
+* [Premier League
+    
+    20/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SOU | –   |
+    | LEI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250810)
+* [Premier League
+    
+    20/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NEW | –   |
+    | BHA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250803)
+* [Premier League
+    
+    20/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MUN | –   |
+    | BRE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250802)
+* [Premier League
+    
+    20/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FUL | –   |
+    | AVL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250806)
+* [Premier League
+    
+    20/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IPS | –   |
+    | EVE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250809)
+* [Premier League
+    
+    20/10 3:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BOU | –   |
+    | ARS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250808)
 * Baseball
     
 * [MLB
     
-    19/10 8:08 AEST
+    Bottom 5th Innings
     
     |     |     |
     | --- | --- |
-    | NYM | –   |
-    | LAD | –   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002AB903)
-* [MLB
-    
-    19/10 11:08 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CLE | –   |
-    | NYY | –   |
+    | CLE | 2   |
+    | NYY | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020025C142)
+* [MLB
+    
+    Final
+    
+    |     |     |
+    | --- | --- |
+    | NYM | 12  |
+    | LAD | 6   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002AB903)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -936,12 +994,16 @@ FOX SCORES
 
 * [NFL](https://www.foxsports.com.au/video/other-sports/nfl)
 * [Other Sports](https://www.foxsports.com.au/video/other-sports/other-sports)
-* [Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
+* Baseball
 * [WWE](https://www.foxsports.com.au/video/other-sports/wwe)
 * [Netball](https://www.foxsports.com.au/video/other-sports/netball)
 * [Horse Racing](https://www.foxsports.com.au/video/other-sports/horse-racing)
 * Olympics
 * [Americas Cup](https://www.foxsports.com.au/video/other-sports/americas-cup)
+
+[Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
+
+* [MLB](https://www.foxsports.com.au/video/other-sports/baseball/mlb)
 
 [Olympics](https://www.foxsports.com.au/video/other-sports/olympics)
 
