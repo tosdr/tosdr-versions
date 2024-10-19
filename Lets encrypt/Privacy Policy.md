@@ -19,33 +19,33 @@
     * [Contact](https://letsencrypt.org/contact/)
     * [Blog](https://letsencrypt.org/blog/)
 * [Languages ![](/images/language-icon128px-black.png)](#) 
-    * [Dansk](https://letsencrypt.org/da/privacy/)
     * [✓ English](https://letsencrypt.org/privacy/)
-    * [Čeština](https://letsencrypt.org/cs/privacy/)
-    * [简体中文](https://letsencrypt.org/zh-cn/privacy/)
-    * [Русский](https://letsencrypt.org/ru/privacy/)
-    * [עברית](https://letsencrypt.org/he/privacy/)
     * [Català](https://letsencrypt.org/ca/privacy/)
-    * [Greek](https://letsencrypt.org/el/privacy/)
-    * [Polish](https://letsencrypt.org/pl/privacy/)
-    * [Tamil](https://letsencrypt.org/ta/privacy/)
-    * [Thai](https://letsencrypt.org/th/privacy/)
-    * [Türkçe](https://letsencrypt.org/tr/privacy/)
+    * [Čeština](https://letsencrypt.org/cs/privacy/)
+    * [Dansk](https://letsencrypt.org/da/privacy/)
     * [Deutsch](https://letsencrypt.org/de/privacy/)
+    * [Greek](https://letsencrypt.org/el/privacy/)
     * [Español](https://letsencrypt.org/es/privacy/)
     * [Suomi](https://letsencrypt.org/fi/privacy/)
     * [Français](https://letsencrypt.org/fr/privacy/)
+    * [עברית](https://letsencrypt.org/he/privacy/)
     * [Hungarian](https://letsencrypt.org/hu/privacy/)
     * [Bahasa Indonesia](https://letsencrypt.org/id/privacy/)
     * [Italiano](https://letsencrypt.org/it/privacy/)
     * [日本語](https://letsencrypt.org/ja/privacy/)
     * [한국어](https://letsencrypt.org/ko/privacy/)
+    * [Polish](https://letsencrypt.org/pl/privacy/)
     * [Português do Brasil](https://letsencrypt.org/pt-br/privacy/)
+    * [Русский](https://letsencrypt.org/ru/privacy/)
     * [සිංහල](https://letsencrypt.org/si/privacy/)
     * [Srpski](https://letsencrypt.org/sr/privacy/)
     * [Svenska](https://letsencrypt.org/sv/privacy/)
+    * [Tamil](https://letsencrypt.org/ta/privacy/)
+    * [Thai](https://letsencrypt.org/th/privacy/)
+    * [Türkçe](https://letsencrypt.org/tr/privacy/)
     * [Українська](https://letsencrypt.org/uk/%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/)
     * [Tiếng Việt](https://letsencrypt.org/vi/privacy/)
+    * [简体中文](https://letsencrypt.org/zh-cn/privacy/)
     * [繁體中文](https://letsencrypt.org/zh-tw/privacy/)
 
 * [Documentation](https://letsencrypt.org/docs/)
@@ -67,33 +67,33 @@
     * [Contact](https://letsencrypt.org/contact/)
     * [Blog](https://letsencrypt.org/blog/)
 * [Languages ![](/images/language-icon128px-black.png)](#) 
-    * [Dansk](https://letsencrypt.org/da/privacy/)
     * [✓ English](https://letsencrypt.org/privacy/)
-    * [Čeština](https://letsencrypt.org/cs/privacy/)
-    * [简体中文](https://letsencrypt.org/zh-cn/privacy/)
-    * [Русский](https://letsencrypt.org/ru/privacy/)
-    * [עברית](https://letsencrypt.org/he/privacy/)
     * [Català](https://letsencrypt.org/ca/privacy/)
-    * [Greek](https://letsencrypt.org/el/privacy/)
-    * [Polish](https://letsencrypt.org/pl/privacy/)
-    * [Tamil](https://letsencrypt.org/ta/privacy/)
-    * [Thai](https://letsencrypt.org/th/privacy/)
-    * [Türkçe](https://letsencrypt.org/tr/privacy/)
+    * [Čeština](https://letsencrypt.org/cs/privacy/)
+    * [Dansk](https://letsencrypt.org/da/privacy/)
     * [Deutsch](https://letsencrypt.org/de/privacy/)
+    * [Greek](https://letsencrypt.org/el/privacy/)
     * [Español](https://letsencrypt.org/es/privacy/)
     * [Suomi](https://letsencrypt.org/fi/privacy/)
     * [Français](https://letsencrypt.org/fr/privacy/)
+    * [עברית](https://letsencrypt.org/he/privacy/)
     * [Hungarian](https://letsencrypt.org/hu/privacy/)
     * [Bahasa Indonesia](https://letsencrypt.org/id/privacy/)
     * [Italiano](https://letsencrypt.org/it/privacy/)
     * [日本語](https://letsencrypt.org/ja/privacy/)
     * [한국어](https://letsencrypt.org/ko/privacy/)
+    * [Polish](https://letsencrypt.org/pl/privacy/)
     * [Português do Brasil](https://letsencrypt.org/pt-br/privacy/)
+    * [Русский](https://letsencrypt.org/ru/privacy/)
     * [සිංහල](https://letsencrypt.org/si/privacy/)
     * [Srpski](https://letsencrypt.org/sr/privacy/)
     * [Svenska](https://letsencrypt.org/sv/privacy/)
+    * [Tamil](https://letsencrypt.org/ta/privacy/)
+    * [Thai](https://letsencrypt.org/th/privacy/)
+    * [Türkçe](https://letsencrypt.org/tr/privacy/)
     * [Українська](https://letsencrypt.org/uk/%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/)
     * [Tiếng Việt](https://letsencrypt.org/vi/privacy/)
+    * [简体中文](https://letsencrypt.org/zh-cn/privacy/)
     * [繁體中文](https://letsencrypt.org/zh-tw/privacy/)
 
 Privacy Policy
@@ -102,15 +102,9 @@ Privacy Policy
 Privacy Policy
 ==============
 
-[Se på Dansk](https://letsencrypt.org/da/privacy/)
-
 [Zobraz v angličtině](https://letsencrypt.org/cs/privacy/)
 
-[阅读简体中文页面](https://letsencrypt.org/zh-cn/privacy/)
-
-[Просмотреть на русском](https://letsencrypt.org/ru/privacy/)
-
-[לעבור לעברית](https://letsencrypt.org/he/privacy/)
+[Se på Dansk](https://letsencrypt.org/da/privacy/)
 
 [Auf Deutsch ansehen](https://letsencrypt.org/de/privacy/)
 
@@ -120,13 +114,19 @@ Privacy Policy
 
 [Voir en Français](https://letsencrypt.org/fr/privacy/)
 
+[לעבור לעברית](https://letsencrypt.org/he/privacy/)
+
 [Visualizza in italiano](https://letsencrypt.org/it/privacy/)
 
 [한국어로 보기](https://letsencrypt.org/ko/privacy/)
 
 [Ver em Português (do brasil)](https://letsencrypt.org/pt-br/privacy/)
 
+[Просмотреть на русском](https://letsencrypt.org/ru/privacy/)
+
 [Переглянути українською](https://letsencrypt.org/uk/%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/)
+
+[阅读简体中文页面](https://letsencrypt.org/zh-cn/privacy/)
 
 Last updated: Jun 28, 2024
 
@@ -233,15 +233,9 @@ Individuals located in the European Economic Area (EEA) have certain rights in r
 
 For more information, or to report a privacy issue, please contact: [privacy@abetterinternet.org](mailto:privacy@abetterinternet.org).
 
-[Se på Dansk](https://letsencrypt.org/da/privacy/)
-
 [Zobraz v angličtině](https://letsencrypt.org/cs/privacy/)
 
-[阅读简体中文页面](https://letsencrypt.org/zh-cn/privacy/)
-
-[Просмотреть на русском](https://letsencrypt.org/ru/privacy/)
-
-[לעבור לעברית](https://letsencrypt.org/he/privacy/)
+[Se på Dansk](https://letsencrypt.org/da/privacy/)
 
 [Auf Deutsch ansehen](https://letsencrypt.org/de/privacy/)
 
@@ -251,13 +245,19 @@ For more information, or to report a privacy issue, please contact: [privacy@abe
 
 [Voir en Français](https://letsencrypt.org/fr/privacy/)
 
+[לעבור לעברית](https://letsencrypt.org/he/privacy/)
+
 [Visualizza in italiano](https://letsencrypt.org/it/privacy/)
 
 [한국어로 보기](https://letsencrypt.org/ko/privacy/)
 
 [Ver em Português (do brasil)](https://letsencrypt.org/pt-br/privacy/)
 
+[Просмотреть на русском](https://letsencrypt.org/ru/privacy/)
+
 [Переглянути українською](https://letsencrypt.org/uk/%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/)
+
+[阅读简体中文页面](https://letsencrypt.org/zh-cn/privacy/)
 
 Last updated: Jun 28, 2024
 
