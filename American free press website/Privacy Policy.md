@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ October 19, 2024 \] Racist Violence on Campus Ignored National News](https://americanfreepress.net/racist-violence-campus-ignored/ "Racist Violence on Campus Ignored")
 * [\[ October 19, 2024 \] Congress Tackles Online Safety, Privacy Issues for Kids Subscriber Only](https://americanfreepress.net/congress-tackles-online-safety-privacy-issues-for-kids/ "Congress Tackles Online Safety, Privacy Issues for Kids")
 * [\[ October 18, 2024 \] Strengthening the NWO at the UN Subscriber Only](https://americanfreepress.net/strengthening-the-nwo-at-the-un/ "Strengthening the NWO at the UN")
 * [\[ October 18, 2024 \] Longshoremen’s Strike Sparks Debate Over the Future Use of Automation National News](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/ "Longshoremen’s Strike Sparks Debate Over the Future Use of Automation")
 * [\[ October 18, 2024 \] Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement National News](https://americanfreepress.net/big-business-tech-media-banks-give-kamala-glowing-endorsement/ "Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement")
-* [\[ October 17, 2024 \] Issue 41 & 42 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-41-42-news-you-may-have-missed-2/ "Issue 41 & 42 News You May Have Missed")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,11 +268,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Getting Tough on Border Security One Key to Solving Fentanyl Crisis](https://americanfreepress.net/getting-tough-on-border-security-one-key-to-solving-fentanyl-crisis/)
+* [Racist Violence on Campus Ignored](https://americanfreepress.net/racist-violence-campus-ignored/)
 * [Congress Tackles Online Safety, Privacy Issues for Kids](https://americanfreepress.net/congress-tackles-online-safety-privacy-issues-for-kids/)
 * [Strengthening the NWO at the UN](https://americanfreepress.net/strengthening-the-nwo-at-the-un/)
 * [Longshoremen’s Strike Sparks Debate Over the Future Use of Automation](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/)
-* [Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement](https://americanfreepress.net/big-business-tech-media-banks-give-kamala-glowing-endorsement/)
-* [Issue 41 & 42 News You May Have Missed](https://americanfreepress.net/issue-41-42-news-you-may-have-missed-2/)
 
 ###### Recent Comments
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1964099066)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=156528117)
