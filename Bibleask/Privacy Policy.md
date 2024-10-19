@@ -4,19 +4,23 @@
 
 ![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png "BibleAsk")](https://bibleask.org/ "BibleAsk")
 
-[![BibleAsk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2070'%3E%3C/svg%3E)
-
-![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png)](https://bibleask.org/ "BibleAsk")
-
 Menu
 
-* [Topics](https://bibleask.org/topics/)
-* [LIVE](https://bibleask.org/live/)
+* [Questions by Topic](https://bibleask.org/topics/)
+    * [Bible](https://bibleask.org/category/bible/)
+    * [Church](https://bibleask.org/category/church/)
+    * [God](https://bibleask.org/category/god/)
+    * [Jesus](https://bibleask.org/category/jesus/)
+    * [Miscellaneous](https://bibleask.org/category/miscellaneous/)
+    * [Personal](https://bibleask.org/category/personal/)
+    * [Prophecy](https://bibleask.org/category/prophecy/)
+    * [Relationships](https://bibleask.org/category/relationships/)
+    * [Salvation](https://bibleask.org/category/salvation/)
+    * [Verses](https://bibleask.org/category/verses/)
+    * [(see all)](https://bibleask.org/topics/)
 * [Bible](https://bible.bibleask.org/)
+* [LIVE](https://bibleask.org/live/)
 * [Donate](https://donate.bibleask.org/)
-    * [By Project](https://donate.bibleask.org/projects/)
-    * [Shop](https://donate.bibleask.org/shop/)
-    * [Dashboard](https://donate.bibleask.org/donor-dashboard/)
 
 Search
 
