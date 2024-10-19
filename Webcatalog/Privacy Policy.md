@@ -1,6 +1,6 @@
 [WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps/)
 
-[Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Categories](https://webcatalog.io/en/categories/)
+[Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Categories](https://webcatalog.io/en/categories/)[Download](https://desktop.webcatalog.io/)
 
 Sign inAppearance
 
