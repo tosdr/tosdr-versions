@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e2ec9c85e54ac81172b5fef46d29a246
+911df34ffca76f73b29cb671701cc969
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm dark peacock oval pearls](https://sojourner.biz/images/cache/pearls/PE0111.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-dark-peacock-oval-pearls.html "8 mm dark peacock oval pearls")
+[![Oval turquoise fern clasp](https://sojourner.biz/images/cache/SKU0111front.200.jpg)](https://sojourner.biz/clasps/glass/oval-turquoise-fern-clasp.html "Oval turquoise fern clasp")
 
-#### [8 mm dark peacock oval pearls](https://sojourner.biz/beads/pearls/8-mm-dark-peacock-oval-pearls.html "8 mm dark peacock oval pearls")
+#### [Oval turquoise fern clasp](https://sojourner.biz/clasps/glass/oval-turquoise-fern-clasp.html "Oval turquoise fern clasp")
 
-$45.00
+$13.50
 
 ### Best Sellers
 
@@ -162,14 +162,14 @@ $45.00
     $28.00
 6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
-    $10.00
+10. [Gray pearl toggle clasp](https://sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
+    $28.00
 
 [Top](#)
 
