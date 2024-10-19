@@ -6,15 +6,15 @@
 
 Days
 
-14
+09
 
 Hours
 
-55
+00
 
 Minutes
 
-40
+00
 
 Seconds
 
