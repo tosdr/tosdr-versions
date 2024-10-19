@@ -190,7 +190,7 @@ Last Name
 
 Email
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
