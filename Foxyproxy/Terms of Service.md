@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Kensie was fantastic in the way I was dealt with. I really appreciate Kensie's help--even with questions that were stupid! Please make sure Kensie is rewarded for their excellent customer service skills.
+YOU are brilliant.
 
-Rachael Totten
+Wolfgang Kannenberg
