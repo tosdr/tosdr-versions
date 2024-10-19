@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Matthew Continetti America Is Moving Right. But for How Long?](https://patriotpost.us/opinion/111211-america-is-moving-right-but-for-how-long-2024-10-19)
 *      [Mark Alexander Memo to Harris: Violent Crime Did NOT Decline](https://patriotpost.us/alexander/111195-memo-to-harris-violent-crime-did-not-decline-2024-10-18)
 *      [Hans von Spakovsky Why Are Criminal Illegal Aliens Allowed to Roam U.S. Freely?](https://patriotpost.us/opinion/111208-why-are-criminal-illegal-aliens-allowed-to-roam-us-freely-2024-10-18)
 *      [Michael Reagan Kamala Shows America How Much She Hates Trump](https://patriotpost.us/opinion/111207-kamala-shows-america-how-much-she-hates-trump-2024-10-18)
@@ -129,7 +130,6 @@ Last Updated: November 15, 2011.
 *      [Gary Bauer Baier vs. Harris](https://patriotpost.us/opinion/111205-baier-vs-harris-2024-10-18)
 *      [Michael Barone Are Minorities Voting Increasingly Like Normies?](https://patriotpost.us/opinion/111203-are-minorities-voting-increasingly-like-normies-2024-10-18)
 *      [Josh Hammer The Collapse of Kamala Harris](https://patriotpost.us/opinion/111201-the-collapse-of-kamala-harris-2024-10-18)
-*      [David Harsanyi Why Can’t Kamala Answer a Simple Question?](https://patriotpost.us/opinion/111199-why-cant-kamala-answer-a-simple-question-2024-10-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
