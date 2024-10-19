@@ -31,6 +31,327 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Quito este sábado 19 de octubre
+================================================
+
+Los cortes de luz de este sábado se mantienen en 10 horas, divididos en dos franjas horarias. A partir del lunes, bajarán a 8 horas
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito se aplican durante 10 horas este sábado 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-23.jpg)
+
+El presidente **Daniel Noboa** anunció cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, la noche del jueves 17 de octubre de 2024. La Empresa Eléctrica Quito publicó el cronograma.
+
+### Más noticias
+
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+* [Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito](https://www.elcomercio.com/actualidad/quito/domingo-20-de-octubre-puedes-deshacerte-de-tus-tereques-en-quito.html "Este domingo 20 de octubre puedes deshacerte de tus ‘tereques’, en Quito")
+* [Calle Benalcázar se cerrará este fin de semana, en Quito](https://www.elcomercio.com/actualidad/quito/calle-benalcazar-se-cerrara-este-fin-de-semana-en-quito.html "Calle Benalcázar se cerrará este fin de semana, en Quito")
+
+Reducción de cortes de luz
+--------------------------
+
+**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
+
+Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
+
+Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
+
+* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
+* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
+* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
+
+Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Horarios de cortes de luz en Quito
+----------------------------------
+
+De 00:00 a 03:00 y de 14:00 a 20:00
+-----------------------------------
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+
+De 06:00 a 11:00 y de 16:00 a 21:00
+-----------------------------------
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Epiclachima
+
+Desde las 07:00 hasta las 13:00 y de 20:00 a 24:00
+--------------------------------------------------
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+Cortes de luz de 09:00 a 14:00 y de 19:00 a 24:00
+-------------------------------------------------
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+Desde las 00:00 hasta las 06:00 y de 12:00 a 16:00
+--------------------------------------------------
+
+* Barrio Nuevo
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* El Quinche
+
+De 01:00 a 06:00 y de 14:00 a 19:00
+-----------------------------------
+
+* Olímpico
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Pomasqui
+* Eugenio Espejo
+
+De 06:00 a 12:00 y de 20:00 a 24:00
+-----------------------------------
+
+* Luluncoto
+* Chilibulo
+* San Roque
+* Río Coca
+* Andalucía
+* Cotocollao
+* Conocoto
+* Alangasí
+* Santa Rosa
+* Inga Bajo
+
+> [#EEQInforma](https://twitter.com/hashtag/EEQInforma?src=hash&ref_src=twsrc%5Etfw) | Compartimos el cronograma de cortes del servicio eléctrico, con los horarios y sectores, previstos del 21 de octubre al 10 de noviembre de 2024.  
+>   
+> Revise la programación en el siguiente link:  
+>   
+> 🔗 [https://t.co/9oWo90SWWJ](https://t.co/9oWo90SWWJ) [pic.twitter.com/Z7PwMGyXk5](https://t.co/Z7PwMGyXk5)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [October 19, 2024](https://twitter.com/ElectricaQuito/status/1847479433969500305?ref_src=twsrc%5Etfw)
+
+En Quito, el aumento de adultos mayores supera al de niños: ¿Desafío u oportunidad?
+===================================================================================
+
+La baja natalidad y el aumento de la esperanza de vida plantean desafíos para el sistema de pensiones y sanitario.
+------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo_20241019_024809_0000.jpg)
+
+Las risas, los juegos y el llanto de los niños se escuchan cada vez menos en los hogares de Pichincha y, principalmente, de su capital: Quito. En las últimas décadas, más hombres y mujeres han pospuesto la posibilidad de ser padres o simplemente cerraron la puerta a esa opción.
+
+Hoy, Pichincha presenta una relación de 53 adultos mayores por cada 100 niños, posicionándose en el cuarto lugar del índice de envejecimiento a nivel nacional, solo detrás de Chimborazo, Bolívar y Carchi.
+
+Más noticias
+------------
+
+* [La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento](https://www.elcomercio.com/tendencias/salud/quinua-alimento-envejecimiento-nutricion.html "La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento ")
+* [El consumo de los hogares en Ecuador cae; estas son las implicaciones en la economía](https://www.elcomercio.com/actualidad/negocios/el-consumo-de-los-hogares-en-ecuador-cae-estas-son-las-implicaciones-en-la-economia.html "El consumo de los hogares en Ecuador cae; estas son las implicaciones en la economía")
+
+![visualization](https://public.flourish.studio/story/2660327/thumbnail)
+
+Para 2035, se proyecta que esta relación ascenderá a 111/100, colocándola en el primer lugar del ranking. Este fenómeno es más evidente en el distrito metropolitano, que concentra el 87% de la población.
+
+Esta tendencia, además, se confirma al analizar qué tanto creció el número de niños de cero a 14 años, entre 2001 y 2022. Los datos del censo de población muestran que apenas fue de 8,7%, en 15 años. En el caso de las personas de 65 años en adelante, en cambio, aumentó 106,5%.
+
+Esto también en otro indicador: la relación de dependencia infantil, la cual se define como la proporción entre el grupo de 0 a 14 años y los adultos en edad de trabajar (de 15 a 64 años). Actualmente es menor al 50%, que se tenía en el 2010 y al 55%, que se registró en el 2001.
+
+La tasa de natalidad más baja de Ecuador
+----------------------------------------
+
+La nueva dinámica demográfica está relacionada con una caída en la tasa de natalidad. Actualmente es la más baja del Ecuador: 10 nacidos vivos por cada mil habitantes.
+
+En contraste, Orellana y Napo presentan el doble: 22 y 20, respectivamente. El declive en el número de nacimientos se acentuó desde 2019. En cuatro años pasó de 46 121 a 34 177. Esto significa un promedio de casi 3 000 bebés menos por año.
+
+![visualization](https://public.flourish.studio/story/2660330/thumbnail)
+
+Menos hijos y hogares más pequeños
+----------------------------------
+
+Si de forma global hay menos nacimientos significa que cada mujer en edad fértil está teniendo menos hijos o ninguno. La tasa de fecundidad que muestra el promedio de hijos por mujer ha caído de forma considerable. Hasta hace 20 años era común que un hogar tenga un promedio de tres hijos, pero con el transcurso del tiempo bajó a dos. Hoy Pichincha cayó a una tasa de 1,3 hijos.
+
+Está por debajo del promedio nacional de 1,79 y por debajo del nivel de reemplazo necesario para mantener la población estable o que no decrezca. Para esto se requiere 2,1 hijos por mujer.
+
+Esto conduce a que hay más hogares unipersonales o parejas sin hijos. De hecho el último censo del 2022 refleja que en el distrito metropolitano un significativo 18% de hogares es de una persona. Los de cinco o más miembros representan el 16%.
+
+![visualization](https://public.flourish.studio/story/2660336/thumbnail)
+
+**¿Por qué no quieren tener hijos?**
+------------------------------------
+
+La creciente tendencia a posponer o evitar la paternidad refleja un cambio generacional más amplio, que responde a factores económicos, profesionales, ambientales, personales y filosóficos. 
+
+**Leonardo Enríquez**, de 24 años y profesional en biotecnología, expone tres razones para no ser padre: la primera es el costo elevado de criar hijos.
+
+La realidad económica en Quito ha hecho que muchos vean la paternidad como un desafío financiero difícil de asumir. En el II trimestre de 2024, la mediana del ingreso mensual de la población ocupada fue de 498,7 dólares. A junio, la tasa de desempleo en la ciudad fue la más alta: 8,8%.
+
+Leonardo también menciona que su prioridad es su desarrollo profesional y académico. “Mis prioridades han sido siempre mis estudios, mi desarrollo profesional y hoy mi trabajo”. A este aspecto se suma su interés en volver a mudarse y viajar, actividades que considera limitantes si tuviera un hijo.
+
+**Pablo Ayala**, emprendedor de 49 años, es parte de otra generación y sigue esta misma línea. “Nunca he sentido el instinto de ser padre. Respeto mucho a quienes han decidido serlo, pero no es algo que esté en mis sueños”. Prioriza su realización personal y la llegada de un hijo podría frustrar ese proceso.
+
+También cree que traer más niños al mundo “es un desatino ecológico”. Este enfoque coincide con una creciente preocupación global sobre la sobrepoblación y su impacto en el planeta.
+
+Pablo critica los nuevos términos como “perrijos” o “gatijos” que se usan al no tener hijos. “Siempre me han gustado los animales y no estoy tratando de suplir a un hijo al tener animales”, aclara. Leonardo menciona que tener una mascota es lo más cercano que él y su pareja contemplarían en este momento.
+
+Baja fecundidad: ¿un problema o una oportunidad?
+------------------------------------------------
+
+Para el **Fondo** **de Población de las Naciones Unidas** (Unfpa) no es un problema en sí, pero su persistencia puede llevar al envejecimiento de la población y al crecimiento demográfico negativo.
+
+Esto plantea dos preocupaciones sobre la sostenibilidad de los sistemas de seguridad social y la financiación del cuidado de personas mayores, debido a la reducción de la población en edad de trabajar.
+
+Sin embargo, la baja fecundidad puede también ser vista positivamente, al aliviar la carga familiar y promover la equidad de género. A pesar de los posibles beneficios, un [informe de Unfpa](https://lac.unfpa.org/sites/default/files/pub-pdf/Baja%20fecundidad%20en%20ALC%20-%20version%20web%20espa%C3%B1ol.pdf?__cf_chl_tk=9AKabolEO7XXaMenIBBXAEBwFk61CVf24pSmpu8F42E-1729088078-1.0.1.1-.eguwvZMKnkh2uExArlZ3AM789AV_kFurta7C5NZFuU "https://lac.unfpa.org/sites/default/files/pub-pdf/Baja%20fecundidad%20en%20ALC%20-%20version%20web%20espa%C3%B1ol.pdf?__cf_chl_tk=9AKabolEO7XXaMenIBBXAEBwFk61CVf24pSmpu8F42E-1729088078-1.0.1.1-.eguwvZMKnkh2uExArlZ3AM789AV_kFurta7C5NZFuU") considera crucial que las sociedades consideren sus impactos en la vida social y en el mercado laboral.
+
+Urgen nuevas reglas para el sistema de pensiones
+------------------------------------------------
+
+Frente a los cambios demográficos y el aumento de la esperanza de vida, a nivel mundial surge la necesidad de ajustar las reglas de los sistemas de pensiones. En Ecuador, esta necesidad es urgente.
+
+En Pichincha, donde la **esperanza de vida** promedio alcanza los **82 años**, principalmente gracias a la longevidad de las mujeres, el sistema de pensiones enfrenta un desafío significativo. Esto implica que las reservas del sistema deben extenderse por más tiempo para garantizar el pago de pensiones vitalicias.
+
+Uno de los factores que más presiona al sistema es la desaceleración del crecimiento en el número de afiliados, que no se incrementa al mismo ritmo que la cantidad de jubilados. Este desbalance genera un déficit creciente en la financiación del sistema, que exige soluciones.
+
+Desafíos para el sistema sanitario
+----------------------------------
+
+De acuerdo con el censo de población del 2022, la población de 65 años en adelante de Pichincha representa el 9,6%. Este porcentaje, según explica **Evelyn Campoverde**, presidenta de la **Sociedad Ecuatoriana de Geriatría**, significa que ya está en una transición demográfica. Entonces “nos preparamos para una sociedad con mayor necesidad de atención especializada de la vejez”.
+
+Los principales desafíos, añade- es que no hay ni un discurso que incluya la vejez, ni un entorno seguro ni un modelo de promoción de la salud para los adultos mayores. Hoy se promueve el empleo juvenil, pero ¿por qué dejar de lado la experiencia de los de 50 años en adelante y así mejorar su jubilación? ¿por qué no promover que la ciudad sea amigable con los ancianos, como lo ha hecho Uruguay?
+
+Campoverde plantea la necesidad de ver a la vejez como una oportunidad para mejorar el sistema de salud; para pensar en las necesidades de consumo de esta población creciente; de plantear soluciones para reducir los años de discapacidad al mínimo, con fin de que sean cada vez más funcionales.
+
+El Día Internacional del Cáncer de Mama es una fecha de suma importancia 
+=========================================================================
+
+El cáncer de mama representa una de las principales causas de mortalidad en mujeres en Ecuador.
+-----------------------------------------------------------------------------------------------
+
+![Desde 1991, el lazo rosa simboliza el "mes rosa" de concienciación sobre el cáncer de mama. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-Cancer-de-Mama-1.jpg)
+
+El 19 de octubre se conmemora el **Día Internacional del Cáncer de Mama.** Esta fecha es significativa porque el **cáncer de mama** es una de las enfermedades más frecuentes, especialmente entre mujeres.
+
+### Más noticias
+
+* [¿Cómo identificar a tiempo el cáncer de mama?](https://www.elcomercio.com/tendencias/salud/como-identificar-tiempo-cancer-mama.html "https://www.elcomercio.com/tendencias/salud/como-identificar-tiempo-cancer-mama.html")
+* [Es importancia la detección temprana del cáncer de mama](https://www.elcomercio.com/tendencias/salud/cancer-mama-podcast-prevencion.html "https://www.elcomercio.com/tendencias/salud/cancer-mama-podcast-prevencion.html")
+
+Cada año, en este día, **mujeres y organizaciones usan un lazo rosa** para recordar todo lo relacionado con esta enfermedad. 
+
+**Origen del Día Internacional del Cáncer de Mama** 
+----------------------------------------------------
+
+La efeméride, a decir del [Gobierno de Paraguay](https://correoparaguayo.gov.py/sitio/dia-internacional-del-cancer-de-mama-origen-significado-y-por-que-se-celebra-el-19-de-octubre/ "https://correoparaguayo.gov.py/sitio/dia-internacional-del-cancer-de-mama-origen-significado-y-por-que-se-celebra-el-19-de-octubre/"), fue establecida por la **Organización Mundial de la Salud** (OMS), que también designó **octubre como el mes de concienciación sobre el cáncer de mama**, conocido como el “mes rosa”. Desde 1991, el **lazo rosa** se ha convertido en un símbolo de esta jornada, ya que subraya la **importancia de la educación sobre esta enfermedad**. 
+
+**Mortalidad en Ecuador** 
+--------------------------
+
+En Ecuador, el cáncer de mama es una de las **principales causas de mortalidad en mujeres**. Se reportaron **más de 900 casos en 2021** y aproximadamente **3 600 diagnósticos relacionados en 2024**, según SIME Sistemas Médicos.  
+
+El oncólogo **Rodrigo Castro** enfatiza la **importancia de la detección temprana**. Esta puede **mejorar el pronóstico y la tasa de supervivencia**, además de **reducir costos en tratamientos**.  
+
+**Factores de riesgo como la edad, antecedentes familiares y mutaciones genéticas** son críticos para comprender la incidencia de esta enfermedad. El 80% de los diagnósticos ocurren en mujeres mayores de 50 años, siguiendo con SIME.  
+
+**Clasificación y síntomas** 
+-----------------------------
+
+El **cáncer de mama** se clasifica en **varios tipos**: Luminal A, Luminal B, y HER2 positivo y negativo.  
+
+**Es crucial identificar el subtipo** para determinar el **tratamiento más adecuado** y aumentar las posibilidades de supervivencia.  
+
+Los **síntomas que deben alertar a las mujeres** incluyen bultos o cambios en el seno, y secreciones del pezón. Castro recalca que, aunque el cáncer de mama afecta principalmente a mujeres, **los hombres también pueden desarrollarlo**. Esto refuerza la necesidad de que **ambos géneros estén atentos a cualquier cambio en su cuerpo**. 
+
+**Mejoras en la investigación del cáncer de mama** 
+---------------------------------------------------
+
+**Santiago Guerrero**, investigador principal del **Laboratorio de Ciencia de Datos Biomédicos** de la UIDE, señala una grave deficiencia en las investigaciones sobre cáncer de mama: la **falta de representación étnica en los estudios genómicos y ensayos clínicos**. La mayoría de los **datos genéticos** provienen de personas de **ascendencia europea**, lo que deja a comunidades marginadas sin acceso a los beneficios de estos avances. 
+
+**Impacto del origen étnico** 
+------------------------------
+
+Guerrero destaca que **el origen étnico influye en el desarrollo del cáncer**. Estudios muestran que las **mujeres hispanas y africanas** con cáncer de mama tienen **un mayor riesgo de mortalidad en comparación con sus contrapartes europeas**. También se ha observado que **los asiáticos responden mejor a ciertos tratamientos de cáncer de pulmón**.  
+
+Esto sugiere que **las diferencias genéticas y socioeconómicas juegan un papel crucial en estos resultados**. Estas disparidades resaltan la necesidad de comprender **cómo las variaciones genéticas** específicas afectan la respuesta al tratamiento. 
+
+Guerrero enfatiza la **urgencia de incorporar la diversidad étnica en la investigación oncológica**. Aboga por un enfoque que considere las bases genéticas del cáncer en estas poblaciones. Para avanzar en la oncología de precisión y **combatir la discriminación científica**, este tema debe ser prioritario en la agenda política del país. 
+
+**Cómo se puede prevenir el cáncer de mama** 
+---------------------------------------------
+
+* **Realizar autoexámenes mamarios:** Conocer la forma y el tamaño normal de los senos ayuda a detectar cambios inusuales. 
+
+* **Realizar mamografías regularmente:** Programar exámenes mamográficos según las recomendaciones médicas permite detectar el cáncer en etapas tempranas. 
+
+* **Mantener un peso saludable:** Llevar una dieta balanceada y hacer ejercicio contribuye a prevenir la obesidad, un factor de riesgo. 
+
+* **Hacer ejercicio regularmente:** Realizar al menos 150 minutos de actividad física moderada cada semana reduce el riesgo de cáncer de mama. 
+
+* **Limitar el consumo de alcohol:** Restringir el consumo a no más de una bebida al día puede disminuir el riesgo. 
+
+* **No fumar:** Evitar el tabaco es fundamental para reducir el riesgo de cáncer de mama y mejorar la salud general. 
+
+* **Conocer el historial familiar:** Estar al tanto de antecedentes familiares ayuda a tomar decisiones informadas sobre monitoreo y pruebas. 
+
+La inteligencia artificial ganó dos premios Nobel en el 2024
+============================================================
+
+La importancia de que el país invierta en ciencia y tecnologías avanzadas para participar en los grandes descubrimientos futuros.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+El 2024 será recordado como el año en que la **inteligencia artificial** (IA) rompió barreras y se llevó dos de los **premios** más prestigiosos del mundo: el **Premio Nobel de Física y el Premio Nobel de Química.** Este acontecimiento ha marcado un hito muy importante en la historia de la **ciencia** y la **tecnología**, demostrando que los avances en IA no solo están transformando la manera en que interactuamos con el mundo, sino que también están revolucionando áreas fundamentales de la **investigación científica.**
+
+El [**Premio Nobel de Física 2024**](https://www.nobelprize.org/prizes/physics/2024/popular-information/) fue otorgado a John Hopfield y Geoffrey Hinton, pioneros en el desarrollo de **redes neuronales artificiales**. Una red **neuronal artificial** es un modelo computacional inspirado en la estructura del **cerebro humano**, compuesto por nodos interconectados que procesan información y aprenden a reconocer **patrones**. Este procesamiento lo hacen mediante el ajuste de sus **conexiones sinápticas** a partir de ejemplos. **Hopfield**, profesor de la Universidad de Princeton, introdujo en los años 80 un **modelo matemático**, llamado **red de Hopfield**, inspirado en la **física** estadística que permitió que las redes neuronales almacenen y reconozcan patrones, un concepto conocido como memoria asociativa​. **Hinton**, por su parte, profesor en la **Universidad de Toronto**, expandió el trabajo de Hopfield al desarrollar la **máquina de Boltzmann**, una red neuronal que se entrena mediante ejemplos en lugar de seguir **instrucciones precisas**, revolucionando así el campo del **aprendizaje automático** o _machine learning_. Su trabajo ha sido crucial para el avance del _deep learning_, tecnología que subyace a los actuales modelos de IA.
+
+Gracias al **trabajo pionero** de John Hopfield y Geoffrey Hinton, hoy contamos con **modelos avanzados** de IA que transforman múltiples industrias. Los modelos generativos como GPT, que usan redes neuronales y son utilizados en asistentes de texto como **ChatGPT**, son capaces de generar respuestas coherentes y creativas, [imitando la escritura humana y su capacidad de razonamiento](https://www.elcomercio.com/opinion/inteligencia-artificial-puede-razonar-marco-benalcazar-columnista.html). En la **generación de imágenes**, **herramientas** como **DALL·E** crean imágenes realistas a partir de **descripciones** en lenguaje natural, mientras que modelos como **Runway** permiten la creación y edición de videos con inteligencia artificial. Además, en el campo de la música, **plataformas** como **Suno** y **Udio** generan **composiciones musicales** originales en una variedad de estilos, expandiendo las posibilidades creativas en la industria del **entretenimiento**. En el **comercio digital**, **plataformas** como **Amazon** y **Netflix** utilizan redes neuronales para personalizar recomendaciones de **productos y contenidos**, mejorando así la **experiencia** del usuario y optimizando el negocio. En el campo del transporte, sistemas de **conducción autónoma** como los de **Tesla** dependen de estas redes para procesar en tiempo real las **imágenes** y **datos** de los sensores que guían los vehículos sin **intervención humana**.
+
+Por otro lado, el [**Premio Nobel de Química 2024**](https://www.nobelprize.org/prizes/chemistry/2024/popular-information/) fue compartido entre Demis Hassabis, John Jumper y David Baker. **Hassabis** y **Jumper**, de Google DeepMind, fueron reconocidos por su trabajo en **AlphaFold**, un algoritmo de IA que puede predecir la **estructura tridimensional** de casi cualquier proteína conocida, resolviendo un problema que había captado la atención de los científicos durante décadas​. Este avance ha permitido comprender mejor las **funciones** de las **proteínas**, lo cual tiene implicaciones directas en áreas como el **diseño de medicamentos y la biotecnología**. Por su parte, David **Baker**, de la Universidad de Washington, fue galardonado por su **innovador trabajo** en el **diseño de proteínas**, creando nuevas moléculas con **funciones específicas** que no existen en la naturaleza​. Su contribución clave fue el desarrollo del software **Rosetta**, un algoritmo que, usando IA, permite predecir y diseñar la **estructura tridimensional de proteínas** a partir de **secuencias de aminoácidos**. Este trabajo ha permitido diseñar proteínas completamente nuevas que cumplen **funciones específicas,** como enzimas para descomponer contaminantes o **proteínas terapéuticas.**
+
+Estos dos logros destacan cómo la IA está transformando disciplinas que tradicionalmente dependían del **trabajo manual** y de **experimentación lenta y costosa**. Además, estos logros también destacan la capacidad de esta **tecnología** para cruzar fronteras entre **disciplinas**. En ambos casos, los laureados han demostrado que la IA puede desentrañar los misterios más complejos del mundo natural, desde cómo funciona el **cerebro humano** hasta cómo las proteínas adquieren su forma o cómo diseñar **nuevas proteínas**. La convergencia de la Física, la Química y la IA es un testimonio de que estamos apenas en el inicio de lo que esta **tecnología** puede lograr.
+
+[En Ecuador, es fundamental que prestemos más atención a la IA](https://www.elcomercio.com/opinion/ecuador-zona-descenso-liga-junior-inteligencia-artificial-marco-benalcazar-columnista.html). Si bien estos **Premios Nobel** marcan un comienzo espectacular, lo que hemos visto hasta ahora es solo la punta del iceberg. La IA ya está transformando **sectores** clave, y su impacto no hará más que crecer. Por lo tanto, es hora de que, como país, [nos enfoquemos e invirtamos en el desarrollo de ciencia y **tecnologías avanzadas**](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html), para que también podamos formar parte de los próximos **grandes descubrimientos científicos**. No en vano, la IA es considerada como la catalizadora de la **cuarta revolución industrial**.
+
+La relevancia de comprender la inteligencia artificial en Ecuador
+=================================================================
+
+El WebCongress Ecuador 2024 ofrece una oportunidad única para que las empresas comprendan el impacto de la inteligencia artificial en sus sectores.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Web congress sobre inteligencia artificial.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-4.jpg)
+
+La inteligencia artificial (IA) se ha convertido en un elemento esencial en la transformación digital de las sociedades contemporáneas. En Ecuador, la realización del **WebCongress 2024**, programado para el **22 y 23 de octubre en Quito**, representa una oportunidad crucial para que empresas locales y profesionales comprendan cómo la IA puede influir en sus operaciones y en el desarrollo del país. Este evento reunirá a expertos internacionales y marcas líderes que compartirán sus conocimientos sobre el uso de la inteligencia artificial en diversas industrias.
+
+> En un contexto de transformación y crisis, es fundamental entender cómo la IA puede ser una herramienta poderosa para enfrentar desafíos y fomentar el crecimiento.
+
+La **IA no solo se trata de tecnología avanzada**; es una herramienta que puede mejorar la eficiencia operativa, optimizar procesos y ofrecer soluciones innovadoras a problemas complejos. En un país como Ecuador, donde las empresas enfrentan retos significativos como la escasez de recursos y la necesidad de modernización, entender cómo implementar IA puede marcar una diferencia crucial.
+
+En tiempos de crisis, como los que ha enfrentado Ecuador debido a desastres naturales o crisis económicas, la IA puede desempeñar un papel fundamental. Por ejemplo, durante la pandemia de COVID-19, muchas empresas recurrieron a tecnologías basadas en IA para optimizar su logística y mejorar su atención al cliente. Herramientas como chatbots y análisis predictivos permitieron a las organizaciones adaptarse rápidamente a las nuevas demandas del mercado.
+
+A escala internacional, hemos visto cómo países como Estados Unidos han utilizado IA para gestionar crisis. Durante desastres naturales, sistemas de análisis predictivo han ayudado a anticipar necesidades logísticas y coordinar respuestas más efectivas. La experiencia de estos países puede servir como modelo para Ecuador, especialmente en términos de preparación ante emergencias.
+
+Para que Ecuador aproveche al máximo las oportunidades que ofrece la inteligencia artificial, es esencial invertir en capacitación continua. Las **instituciones educativas** deben actualizar sus currículos para incluir formación en habilidades digitales y analíticas. Además, las empresas deben fomentar una cultura organizacional que valore el aprendizaje continuo y la innovación.
+
+El éxito en la implementación de tecnologías avanzadas también depende de una colaboración efectiva entre el sector público y privado. El Estado ecuatoriano debe crear políticas que fomenten la investigación y desarrollo en IA, mientras que las empresas deben estar dispuestas a invertir en nuevas tecnologías.
+
+A medida que nos adentramos en una era cada vez más digitalizada, es crucial que Ecuador esté preparado para los cambios que trae consigo la inteligencia artificial. Se debe mejorar **el acceso a internet y tecnologías digitales** para permitir que más empresas adopten IA. Asimismo, se debe apoyar a _‘startups_‘ tecnológicas que se centren en soluciones basadas en IA y que puede impulsar la innovación local.
+
+Y, finalmente, asegurar que todos los sectores de la sociedad tengan acceso a los beneficios de la IA. Esto es esencial para evitar desigualdades.
+
 Cartas a Quito / 19 de octubre de 2024
 ======================================
 
@@ -64,25 +385,52 @@ Al actuar de esta forma, la EPMAPS está violando flagrantemente los derechos de
 
 Alfonso López J. 
 
-La inteligencia artificial ganó dos premios Nobel en el 2024
-============================================================
+Lasaña de berenjenas, deliciosa alternativa saludable
+=====================================================
 
-La importancia de que el país invierta en ciencia y tecnologías avanzadas para participar en los grandes descubrimientos futuros.
----------------------------------------------------------------------------------------------------------------------------------
+Fácil de preparar, perfecta para quienes buscan algo sabroso sin complicarse demasiado. ¡Comparte esta receta con tus amigos!
+-----------------------------------------------------------------------------------------------------------------------------
 
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+![Si eres amante de la lasaña, ¡esta versión con berenjena te sorprenderá!](https://www.elcomercio.com/wp-content/uploads/2024/10/image-16.png)
 
-El 2024 será recordado como el año en que la **inteligencia artificial** (IA) rompió barreras y se llevó dos de los **premios** más prestigiosos del mundo: el **Premio Nobel de Física y el Premio Nobel de Química.** Este acontecimiento ha marcado un hito muy importante en la historia de la **ciencia** y la **tecnología**, demostrando que los avances en IA no solo están transformando la manera en que interactuamos con el mundo, sino que también están revolucionando áreas fundamentales de la **investigación científica.**
+La **lasaña de berenjenas** es una **deliciosa** y **saludable** **alternativa** a la clásica **lasaña**, ideal para quienes buscan reducir el **consumo** de **carbohidratos** o simplemente disfrutar de una versión más ligera. En esta **receta**, las capas de berenjena asada sustituyen a la **pasta**, creando una **combinación perfecta** con el sabor del queso, la salsa de tomate y otros **ingredientes** frescos. Es una **opción nutritiva** y llena de sabor, perfecta para compartir en una **comida familiar** o como plato principal en una **cena** especial.
 
-El [**Premio Nobel de Física 2024**](https://www.nobelprize.org/prizes/physics/2024/popular-information/) fue otorgado a John Hopfield y Geoffrey Hinton, pioneros en el desarrollo de **redes neuronales artificiales**. Una red **neuronal artificial** es un modelo computacional inspirado en la estructura del **cerebro humano**, compuesto por nodos interconectados que procesan información y aprenden a reconocer **patrones**. Este procesamiento lo hacen mediante el ajuste de sus **conexiones sinápticas** a partir de ejemplos. **Hopfield**, profesor de la Universidad de Princeton, introdujo en los años 80 un **modelo matemático**, llamado **red de Hopfield**, inspirado en la **física** estadística que permitió que las redes neuronales almacenen y reconozcan patrones, un concepto conocido como memoria asociativa​. **Hinton**, por su parte, profesor en la **Universidad de Toronto**, expandió el trabajo de Hopfield al desarrollar la **máquina de Boltzmann**, una red neuronal que se entrena mediante ejemplos en lugar de seguir **instrucciones precisas**, revolucionando así el campo del **aprendizaje automático** o _machine learning_. Su trabajo ha sido crucial para el avance del _deep learning_, tecnología que subyace a los actuales modelos de IA.
+**Ingredientes:**
 
-Gracias al **trabajo pionero** de John Hopfield y Geoffrey Hinton, hoy contamos con **modelos avanzados** de IA que transforman múltiples industrias. Los modelos generativos como GPT, que usan redes neuronales y son utilizados en asistentes de texto como **ChatGPT**, son capaces de generar respuestas coherentes y creativas, [imitando la escritura humana y su capacidad de razonamiento](https://www.elcomercio.com/opinion/inteligencia-artificial-puede-razonar-marco-benalcazar-columnista.html). En la **generación de imágenes**, **herramientas** como **DALL·E** crean imágenes realistas a partir de **descripciones** en lenguaje natural, mientras que modelos como **Runway** permiten la creación y edición de videos con inteligencia artificial. Además, en el campo de la música, **plataformas** como **Suno** y **Udio** generan **composiciones musicales** originales en una variedad de estilos, expandiendo las posibilidades creativas en la industria del **entretenimiento**. En el **comercio digital**, **plataformas** como **Amazon** y **Netflix** utilizan redes neuronales para personalizar recomendaciones de **productos y contenidos**, mejorando así la **experiencia** del usuario y optimizando el negocio. En el campo del transporte, sistemas de **conducción autónoma** como los de **Tesla** dependen de estas redes para procesar en tiempo real las **imágenes** y **datos** de los sensores que guían los vehículos sin **intervención humana**.
+*  2 o 3 berenjenas grandes
+*  1 cebolla mediana
+*  2 dientes de ajo
+*  1 lata de tomate triturado de 800 gramos
+*  300 gramos de queso mozzarella
+*  300 gramos de queso ricotta
+*  Queso parmesano al gusto
+*  Sal
+*  Pimienta
+*  Orégano
+*  Aceite de oliva
+*  Lonchas de jamón (opcional para quienes no son vegetarianos)
+*  Hierbas italianas
 
-Por otro lado, el [**Premio Nobel de Química 2024**](https://www.nobelprize.org/prizes/chemistry/2024/popular-information/) fue compartido entre Demis Hassabis, John Jumper y David Baker. **Hassabis** y **Jumper**, de Google DeepMind, fueron reconocidos por su trabajo en **AlphaFold**, un algoritmo de IA que puede predecir la **estructura tridimensional** de casi cualquier proteína conocida, resolviendo un problema que había captado la atención de los científicos durante décadas​. Este avance ha permitido comprender mejor las **funciones** de las **proteínas**, lo cual tiene implicaciones directas en áreas como el **diseño de medicamentos y la biotecnología**. Por su parte, David **Baker**, de la Universidad de Washington, fue galardonado por su **innovador trabajo** en el **diseño de proteínas**, creando nuevas moléculas con **funciones específicas** que no existen en la naturaleza​. Su contribución clave fue el desarrollo del software **Rosetta**, un algoritmo que, usando IA, permite predecir y diseñar la **estructura tridimensional de proteínas** a partir de **secuencias de aminoácidos**. Este trabajo ha permitido diseñar proteínas completamente nuevas que cumplen **funciones específicas,** como enzimas para descomponer contaminantes o **proteínas terapéuticas.**
+* * *
 
-Estos dos logros destacan cómo la IA está transformando disciplinas que tradicionalmente dependían del **trabajo manual** y de **experimentación lenta y costosa**. Además, estos logros también destacan la capacidad de esta **tecnología** para cruzar fronteras entre **disciplinas**. En ambos casos, los laureados han demostrado que la IA puede desentrañar los misterios más complejos del mundo natural, desde cómo funciona el **cerebro humano** hasta cómo las proteínas adquieren su forma o cómo diseñar **nuevas proteínas**. La convergencia de la Física, la Química y la IA es un testimonio de que estamos apenas en el inicio de lo que esta **tecnología** puede lograr.
+> Lasaña de berenjenas, perfecta para quienes buscan una comida ligera, llena de sabor.
 
-[En Ecuador, es fundamental que prestemos más atención a la IA](https://www.elcomercio.com/opinion/ecuador-zona-descenso-liga-junior-inteligencia-artificial-marco-benalcazar-columnista.html). Si bien estos **Premios Nobel** marcan un comienzo espectacular, lo que hemos visto hasta ahora es solo la punta del iceberg. La IA ya está transformando **sectores** clave, y su impacto no hará más que crecer. Por lo tanto, es hora de que, como país, [nos enfoquemos e invirtamos en el desarrollo de ciencia y **tecnologías avanzadas**](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html), para que también podamos formar parte de los próximos **grandes descubrimientos científicos**. No en vano, la IA es considerada como la catalizadora de la **cuarta revolución industrial**.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-1-3-1024x683.png)
+
+¿Sabías que la berenjena puede ser la estrella de tu próxima lasaña?
+
+Preparación
+-----------
+
+* **Lavar** las berenjenas y cortar en rodajas finas a lo largo, de aproximadamente 0.5 cm de grosor. **Colocar** en un colador, espolvorear con sal y dejar reposar unos 20-30 minutos para que suelten el exceso de agua. Luego, secar con papel de cocina.
+* **Precalentar** el horno a 200 °C (400 °F). Untar ligeramente las rodajas de berenjena con aceite de oliva y colocar en una bandeja para **hornear**. Asar las **berenjenas** durante 15-20 minutos, voltear a la mitad del tiempo, hasta que estén doradas y tiernas. Retirar y reservar.
+* **Añadir** en una **sartén** dos cucharadas de aceite de oliva, lleva a fuego medio, incorpora la **cebolla** y cocinar hasta que esté ligeramente transparente, luego añade los ajos y deja cocinar por 3 minutos.
+* **Incorporar el tomate triturado**, remover bien y añadir sal, pimienta y orégano al gusto. Si cuentas con otras hierbas como albahaca o perejil se recomienda añadir un poco para darle mayor gusto a la salsa. Cocinar a fuego medio bajo, r**emoviendo de forma frecuente hasta que la salsa haya espesado** y adquirido un color rojo intenso. Corregir la sal pimienta hasta que esté a tu gusto y retirar del fuego cuando esté lista.
+* Para **montar la lasaña**, en una fuente para horno, **colocar** una capa de salsa de tomate en el fondo. Luego, **colocar** una capa de rodajas de **berenjena** asada. Añadir una capa de ricotta o requesón, y un poco de mozzarella rallada, si no eres vegetariano coloca las lonchas de jamón. Repetir las capas (salsa, berenjena, ricotta, mozzarella) hasta que termines con todos los ingredientes. **Terminar** con una capa de salsa y **espolvorear** el queso parmesano por encima.
+* **Precalentar** el horno a 180 °C (350 °F) y **hornear** la lasaña de berenjenas durante 25-30 minutos, hasta que el queso esté dorado y burbujeante.
+* Dejar **reposar** la lasaña durante 10 minutos antes de **cortar** para que se asiente. Servir caliente y si puedes acompañar con **pan de ajo**.
+
+¡Buen provecho!
 
 La corrupción vuelve al debate
 ==============================
@@ -103,32 +451,6 @@ A los **ciudadanos**, por desgracia, ya nada les escandaliza, ni los millones ro
 No solo los **políticos** son **corruptos**, también los abogados que medran en su entorno y gestionan **entramados** de **sociedades** para esconder el botín; también **empresas privadas** que aparecen, estafan y desaparecen; los **sindicatos** que se dan vida de potentados y los  **gremios** que no rinden cuentas a nadie.
 
 Lo rescatable de **nuestro país** fue librarnos de la **izquierda populista** que tiene afanes imperiales y vocación de **eternidad**. Los que quisieran librarse de la peste **populista** en México, Brasil, Colombia, Honduras, indagaban cuál fue el hechizo con que conseguimos ahuyentar a los **corruptos**.
-
-La relevancia de comprender la inteligencia artificial en Ecuador
-=================================================================
-
-El WebCongress Ecuador 2024 ofrece una oportunidad única para que las empresas comprendan el impacto de la inteligencia artificial en sus sectores.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: Web congress sobre inteligencia artificial.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-4.jpg)
-
-La inteligencia artificial (IA) se ha convertido en un elemento esencial en la transformación digital de las sociedades contemporáneas. En Ecuador, la realización del **WebCongress 2024**, programado para el **22 y 23 de octubre en Quito**, representa una oportunidad crucial para que empresas locales y profesionales comprendan cómo la IA puede influir en sus operaciones y en el desarrollo del país. Este evento reunirá a expertos internacionales y marcas líderes que compartirán sus conocimientos sobre el uso de la inteligencia artificial en diversas industrias.
-
-> En un contexto de transformación y crisis, es fundamental entender cómo la IA puede ser una herramienta poderosa para enfrentar desafíos y fomentar el crecimiento.
-
-La **IA no solo se trata de tecnología avanzada**; es una herramienta que puede mejorar la eficiencia operativa, optimizar procesos y ofrecer soluciones innovadoras a problemas complejos. En un país como Ecuador, donde las empresas enfrentan retos significativos como la escasez de recursos y la necesidad de modernización, entender cómo implementar IA puede marcar una diferencia crucial.
-
-En tiempos de crisis, como los que ha enfrentado Ecuador debido a desastres naturales o crisis económicas, la IA puede desempeñar un papel fundamental. Por ejemplo, durante la pandemia de COVID-19, muchas empresas recurrieron a tecnologías basadas en IA para optimizar su logística y mejorar su atención al cliente. Herramientas como chatbots y análisis predictivos permitieron a las organizaciones adaptarse rápidamente a las nuevas demandas del mercado.
-
-A escala internacional, hemos visto cómo países como Estados Unidos han utilizado IA para gestionar crisis. Durante desastres naturales, sistemas de análisis predictivo han ayudado a anticipar necesidades logísticas y coordinar respuestas más efectivas. La experiencia de estos países puede servir como modelo para Ecuador, especialmente en términos de preparación ante emergencias.
-
-Para que Ecuador aproveche al máximo las oportunidades que ofrece la inteligencia artificial, es esencial invertir en capacitación continua. Las **instituciones educativas** deben actualizar sus currículos para incluir formación en habilidades digitales y analíticas. Además, las empresas deben fomentar una cultura organizacional que valore el aprendizaje continuo y la innovación.
-
-El éxito en la implementación de tecnologías avanzadas también depende de una colaboración efectiva entre el sector público y privado. El Estado ecuatoriano debe crear políticas que fomenten la investigación y desarrollo en IA, mientras que las empresas deben estar dispuestas a invertir en nuevas tecnologías.
-
-A medida que nos adentramos en una era cada vez más digitalizada, es crucial que Ecuador esté preparado para los cambios que trae consigo la inteligencia artificial. Se debe mejorar **el acceso a internet y tecnologías digitales** para permitir que más empresas adopten IA. Asimismo, se debe apoyar a _‘startups_‘ tecnológicas que se centren en soluciones basadas en IA y que puede impulsar la innovación local.
-
-Y, finalmente, asegurar que todos los sectores de la sociedad tengan acceso a los beneficios de la IA. Esto es esencial para evitar desigualdades.
 
 Computación cuántica, un nuevo horizonte de poder exponencial
 =============================================================
@@ -188,53 +510,6 @@ A medida que la **computación cuántica evoluciona**, nos encontramos en el umb
 Para las empresas y los individuos que desean estar a la **vanguardia** de la **innovación**, entender la **computación cuántica** y sus aplicaciones es esencial. Aunque el camino hacia la adopción total de esta tecnología será largo, aquellos que comiencen a explorar y experimentar hoy tendrán una ventaja exponencial en el futuro.
 
 Es un futuro que ya está en marcha, y ser parte de él, comienza con un paso: **aprender y explorar el poder cuántico.**
-
-Lasaña de berenjenas, deliciosa alternativa saludable
-=====================================================
-
-Fácil de preparar, perfecta para quienes buscan algo sabroso sin complicarse demasiado. ¡Comparte esta receta con tus amigos!
------------------------------------------------------------------------------------------------------------------------------
-
-![Si eres amante de la lasaña, ¡esta versión con berenjena te sorprenderá!](https://www.elcomercio.com/wp-content/uploads/2024/10/image-16.png)
-
-La **lasaña de berenjenas** es una **deliciosa** y **saludable** **alternativa** a la clásica **lasaña**, ideal para quienes buscan reducir el **consumo** de **carbohidratos** o simplemente disfrutar de una versión más ligera. En esta **receta**, las capas de berenjena asada sustituyen a la **pasta**, creando una **combinación perfecta** con el sabor del queso, la salsa de tomate y otros **ingredientes** frescos. Es una **opción nutritiva** y llena de sabor, perfecta para compartir en una **comida familiar** o como plato principal en una **cena** especial.
-
-**Ingredientes:**
-
-*  2 o 3 berenjenas grandes
-*  1 cebolla mediana
-*  2 dientes de ajo
-*  1 lata de tomate triturado de 800 gramos
-*  300 gramos de queso mozzarella
-*  300 gramos de queso ricotta
-*  Queso parmesano al gusto
-*  Sal
-*  Pimienta
-*  Orégano
-*  Aceite de oliva
-*  Lonchas de jamón (opcional para quienes no son vegetarianos)
-*  Hierbas italianas
-
-* * *
-
-> Lasaña de berenjenas, perfecta para quienes buscan una comida ligera, llena de sabor.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-1-3-1024x683.png)
-
-¿Sabías que la berenjena puede ser la estrella de tu próxima lasaña?
-
-Preparación
------------
-
-* **Lavar** las berenjenas y cortar en rodajas finas a lo largo, de aproximadamente 0.5 cm de grosor. **Colocar** en un colador, espolvorear con sal y dejar reposar unos 20-30 minutos para que suelten el exceso de agua. Luego, secar con papel de cocina.
-* **Precalentar** el horno a 200 °C (400 °F). Untar ligeramente las rodajas de berenjena con aceite de oliva y colocar en una bandeja para **hornear**. Asar las **berenjenas** durante 15-20 minutos, voltear a la mitad del tiempo, hasta que estén doradas y tiernas. Retirar y reservar.
-* **Añadir** en una **sartén** dos cucharadas de aceite de oliva, lleva a fuego medio, incorpora la **cebolla** y cocinar hasta que esté ligeramente transparente, luego añade los ajos y deja cocinar por 3 minutos.
-* **Incorporar el tomate triturado**, remover bien y añadir sal, pimienta y orégano al gusto. Si cuentas con otras hierbas como albahaca o perejil se recomienda añadir un poco para darle mayor gusto a la salsa. Cocinar a fuego medio bajo, r**emoviendo de forma frecuente hasta que la salsa haya espesado** y adquirido un color rojo intenso. Corregir la sal pimienta hasta que esté a tu gusto y retirar del fuego cuando esté lista.
-* Para **montar la lasaña**, en una fuente para horno, **colocar** una capa de salsa de tomate en el fondo. Luego, **colocar** una capa de rodajas de **berenjena** asada. Añadir una capa de ricotta o requesón, y un poco de mozzarella rallada, si no eres vegetariano coloca las lonchas de jamón. Repetir las capas (salsa, berenjena, ricotta, mozzarella) hasta que termines con todos los ingredientes. **Terminar** con una capa de salsa y **espolvorear** el queso parmesano por encima.
-* **Precalentar** el horno a 180 °C (350 °F) y **hornear** la lasaña de berenjenas durante 25-30 minutos, hasta que el queso esté dorado y burbujeante.
-* Dejar **reposar** la lasaña durante 10 minutos antes de **cortar** para que se asiente. Servir caliente y si puedes acompañar con **pan de ajo**.
-
-¡Buen provecho!
 
 Hackeo nunca antes visto filtra detalles inéditos de Pokémon
 ============================================================
@@ -866,140 +1141,3 @@ La cadena de televisión Global dijo que fuentes de los servicios de seguridad c
 El lunes, el primer ministro canadiense, Justin Trudeau, declaró que la India cometió un error “inaceptable” al matar a un canadiense en Canadá.
 
 “Nunca toleraremos la participación de un **gobierno extranjero** que amenaza y mata a ciudadanos canadienses en suelo canadiense, una violación profundamente inaceptable de la soberanía de Canadá y del derecho internacional”, afirmó.
-
-Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’
-==============================================================
-
-Novia de Liam Payne compartió un texto en una historia de Instagram.
---------------------------------------------------------------------
-
-![Liam Payne mantenía una relación sentimental con una modelo estadounidense. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo189.jpg)
-
-La noticia del fallecimiento de **Liam Payne**, exintegrante de la famosa banda **One Direction**, conmocionó a sus seguidores y seres queridos.
-
-El cantante británico, de 31 años, perdió la vida tras caer del tercer piso de un hotel en Buenos Aires el pasado miércoles.
-
-### **Más noticias:**
-
-* [Exintegrantes de One Direction comparten fotos conmovedoras junto a Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-deceso-fotos-amigos-one-direction.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-deceso-fotos-amigos-one-direction.html")
-* [Liam Payne deja una herencia millonaria a su hijo](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-herencia-millonaria-hijo-bear.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-herencia-millonaria-hijo-bear.html")
-* [Los exintegrantes de One Direction rompieron el silencio y hablaron de Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-devastados-dolor.html")
-
-**Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’**
-------------------------------------------------------------------
-
-La **influencer estadounidense Kate Cassidy**, actual pareja de **Payne**, compartió sus sentimientos en Instagram, describiéndose como “completamente perdida” tras la tragedia.
-
-En su publicación, **Cassidy** se refirió a Payne como su “ángel” y expresó su amor incondicional hacia él. “Continuaré queriéndote el resto de mi vida”, escribió, agradeciendo también el apoyo y las muestras de cariño recibidas tras su muerte.
-
-La influencer pidió a sus seguidores privacidad mientras asimila esta profunda pérdida.
-
-**Novia de Liam Payne estuvo en Argentina**
--------------------------------------------
-
-Cassidy viajó a Argentina junto a **Payne**, y algunas de las últimas fotografías del cantante en redes sociales atestiguan su presencia en el país.
-
-Sin embargo, regresó a **Estados Unidos** dos días antes del fatal accidente. Este hecho generó especulaciones sobre las circunstancias que rodearon su muerte.
-
-> [View this post on Instagram](https://www.instagram.com/p/Cwh4W5wKnB9/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Kate Cassidy (@kateecass)](https://www.instagram.com/p/Cwh4W5wKnB9/?utm_source=ig_embed&utm_campaign=loading)
-
-La Fiscalía argentina calificó el caso como “muerte dudosa” e inició una investigación. Las primeras hipótesis indican que **Payne** estaba solo en el momento de la caída y que su deceso podría estar relacionado con el abuso de sustancias.
-
-Un informe preliminar de autopsia señala que la causa de muerte fue “politraumatismo, hemorragia interna y externa”. Los forenses no encontraron evidencias de la intervención de terceros.
-
-Exjugadora del Fulham denunció los abusos sexuales de Al Fayed
-==============================================================
-
-La jugadora irlandesa denunció los múltiples abusos que recibió por parte del dueño del equipo.
------------------------------------------------------------------------------------------------
-
-![Foto referencial de mujeres futbolistas.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-18T183013.974.jpg)
-
-La exfutbolista **Ronnie Gibbons**, quien fue capitana del Fulham en los primeros años de 2000, ha denunciado haber sido víctima de abusos sexuales por parte de **Mohamed Al Fayed, el expropietario del club** y de los conocidos grandes almacenes Harrods.
-
-Al Fayed, fallecido en 2023, ha **sido acusado por más de cuarenta mujeres de agresiones sexuales** entre 1979 y 2013, a través del documental de la cadena BBC “Al Fayed: Un depredador en Harrods”.
-
-### Más noticias:
-
-* [Dragonas disputarán el tercer lugar de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-final-copa-libertadores.html "Dragonas disputarán el tercer lugar de la Libertadores Femenina")
-* [Alisha Lehmann critica diferencia salarial entre el fútbol femenino y masculino](https://www.elcomercio.com/deportes/futbol/alisha-lehmann-salario-douglas-luiz.html "Alisha Lehmann critica diferencia salarial entre el fútbol femenino y masculino")
-* [Hallan muerto en Grecia al futbolista George Baldock](https://www.elcomercio.com/deportes/futbol/hallan-muerto-en-grecia-al-futbolista-george-baldock.html "Hallan muerto en Grecia al futbolista George Baldock")
-
-El Fulham, equipo del que Al Fayed fue dueño entre 1997 y 2013, **no había estado implicado en los abusos del empresario hasta que Gibbons,** en una entrevista con el medio “The Athletic”, ha desvelado las dos veces en las que fue atacada.
-
-Recibió abusos mientras jugaba en el Fulham
--------------------------------------------
-
-Gibbons, que por entonces tenía 20 años y era capitana del Fulham, recibió dos llamadas para que fuera a la oficina de Al Fayed en el centro de Londres, donde el empresario la “besó, agarró y manoseó” en contra de su voluntad.
-
-“Era rubia, delgada, **me llamaban la David Beckham del fútbol femenino** en los medios. Todo el mundo sabía que a Al Fayed le gustaban las mujeres y las chicas rubias”, dijo Gibbons, que recuerda que la primera vez que Al Fayed le convocó le dijeron que en la sala iban a estar los hijos del empresario.
-
-“Me llevaron a su oficina y no sé si la puerta se cerró automáticamente o alguien la cerró, pero llegué y solo estaba él. Sus hijos no estaban. No había nadie y ya pensé que era muy raro. Entonces **me cogió y me intentó besar.** Con sus brazos agarraba los míos y no le podía empujar. Era una situación de control, de decirme ‘te estoy dominando’, relató la jugadora.
-
-“Me siguió agarrando y trató de tirar de mí y besarme en la boca. Me moví para que solo pudiera besarme en la mejilla. Llevaba la camiseta del **Fulham** e instantáneamente noté el sudor en mi espalda. Era muy incómodo. Me quedé congelada”, relató.
-
-Gibbons **denunció que el empresario intentó que se sentara en sus piernas** y que no paró de incomodarla con preguntas personales sobre su familia, su novio y su casa, además de ofrecerse a comprarle cosas.
-
-Al Fayed, que trató de besarla de nuevo varias veces, le dio un sobre con dinero y le mandó regalos a su casa.
-
-El abuso no paró
-----------------
-
-“Me **sentí afortunada porque me pude ir sin enfadarle** y sin tener que vivir algo peor. Me sentí muy muy incómoda, muy intimidada y como si hubiera mucha responsabilidad en mis hombros”, explicó.
-
-La exjugadora recuerda que recibió llamadas de Al Fayed en los meses posteriores y que la volvieron a convocar en sus oficinas, donde sufrió otro ataque que incluyó besos, preguntas de carácter sexual y tocamientos. Cuando trató de marcharse, el empresario la agarró con fuerza.
-
-**Gibbons** tuvo que volver una tercera vez para hacer una entrevista para el club, la cual recuerda como una “mierda” por las cosas que contaba el empresario de cómo había ayudado al fútbol femenino.
-
-“Estaba ahí hablando de lo genial que es este tío porque ha hecho un equipo de fútbol profesional. Y **eran todo mentiras de mierda**“, dijo.
-
-Después de eso, Gibbons no volvió nunca más a sus oficinas, pero tuvo que evitar al empresario en las fiestas de Navidad, donde él le perseguía y ella trataba de no estar sola.
-
-La exfutbolista perdió la capitanía en 2001 y sintió que necesitaba contar esta historia cuando vio que Gaute Haugenes, el entrenador contratado ese año, dijo en BBC que en el Fulham **trataron de proteger a las jugadoras** porque sabían cómo era Al Fayed.
-
-“No tiene sentido. Gaute no fue el entrenador la primera campaña, cuando tuve esas reuniones con Al Fayed, pero definitivamente tenía que saber que Al Fayed quería algo conmigo”, explicó. 
-
-14 estados de EE.UU. demandan a TikTok por ser dañina para la salud mental infantil
-===================================================================================
-
-Los fiscales, tanto demócratas como republicanos, acudieron a los tribunales de sus respectivas jurisdicciones.
----------------------------------------------------------------------------------------------------------------
-
-![Vista de la aplicación TikTok en la pantalla de un teléfono móvil, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Tik-tok-efe.jpg)
-
-Son 14 fiscales estatales de Estados Unidos quienes demandaron a la red social china de vídeos TikTok por ser **dañina para la salud mental infantil** y la acusaron de usar un sistema de contenidos adictivo para lucrarse con los usuarios más jóvenes.
-
-### Más noticias
-
-* [La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares](https://www.elcomercio.com/actualidad/mundo/plataforma-estados-unidos-buscar-trabajo.html "La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares")
-* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
-* [Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE](https://www.elcomercio.com/actualidad/ecuador/dato-plantaciones-coca-ecuador-estudio-estados-unidos.html "Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE")
-
-Los fiscales, tanto demócratas como republicanos, acudieron a los tribunales de sus respectivas jurisdicciones y argumentaron que TikTok está **violando las leyes de protección de los consumidores** y engañando al público al declarar que su plataforma es segura para los menores.
-
-Redes adictivas para niños
---------------------------
-
-El año pasado, una coalición más amplia, que sumó entonces a 41 fiscales, demandó por motivos similares a Meta, la propietaria de las **redes Instagram, Whatsapp y Facebook,** argumentando que son adictivas para los niños y adolescentes, y que perjudica su salud mental.
-
-La fiscal general de Nueva York, Letitia James, señaló en un comunicado que en todo el país “gente joven murió o quedado gravemente herida haciendo **retos peligrosos de TikTok** y muchos más se sienten más tristes, ansiosos y deprimidos por las funciones adictivas de TikTok”.
-
-Entre las funciones adictivas que denuncian los fiscales están “autoplay”, que reproduce automáticamente vídeos y “manipula a los usuarios a pasar más tiempo compulsivamente” en TikTok, o contenidos temporales que “incitan” a conectarse o perder una oportunidad de interactuar.
-
-Filtros que bajan la autoestima
--------------------------------
-
-Señalan también los **“filtros de belleza”** que pueden bajar la autoestima, especialmente de las menores, y citan estudios según los cuales el 50 % no se ven lindas sin editar sus rostros y el 77 % dicen que intentan cambiar u ocultar alguna parte de su cuerpo con esa función.
-
-En la nota, el fiscal de California, Rob Bonta, agregó que su investigación de TikTok revela que la red “cultiva la adicción a las redes sociales para impulsar los beneficios corporativos” y se dirige a los niños porque “sabe que no tienen las defensas o la capacidad para crear límites sanos”.
-
-Aparte de eso, la demanda asegura que TikTok está violando las leyes de protección de datos de los menores al recabar y **monetizar datos de menores de 13 años**, y cita estimaciones de investigadores de que “el 35 % de los ingresos por publicidad de TikTok en EE.UU. se deriva de niños y adolescentes”.
-
-Funciones dañinas
------------------
-
-El objetivo, indica el comunicado, es que TikTok “cambie sus funciones dañinas” y deje de usar “tácticas de explotación” infantiles, y **además exige imponer multas**, incluyendo la devolución de las ganancias “fraudulentas” y el pago de indemnizaciones a los usuarios perjudicados.
-
-En la demanda, además, se acusa a TikTok de mentir al decir que opera de manera independiente a su matriz china, Bytedance, y que no está **sujeta a influencia del Gobierno chino.**
