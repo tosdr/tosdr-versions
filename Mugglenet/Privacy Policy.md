@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
+“Dumbledore” is an early modern English word for “bumblebee.”
 
 ### Potter History
 
-May 14-16, 2010 – StarKid performs A Very Potter Sequel at the University of Michigan.
+September 7, 2012 – The Harry Potter Wizard’s Collection, the most comprehensive Blu-ray and DVD set yet, is released.
 
 ### Potter Quote
 
-“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
+“You know, New York is considerably more interesting than I’d expected.”
 
 [](#)
 
