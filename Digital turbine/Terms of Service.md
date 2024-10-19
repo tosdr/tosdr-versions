@@ -14,7 +14,7 @@
 
 [Company](https://www.digitalturbine.com/about)
 
-[About](https://www.digitalturbine.com/about)[Careers](https://www.digitalturbine.com/careers)[Investors](https://ir.digitalturbine.com/)
+[About](https://www.digitalturbine.com/about)[Careers](https://www.digitalturbine.com/careers)[Investors](https://ir.digitalturbine.com/)[Trust Center](https://digitalturbine.com/trust-center)
 
 [Resources](https://www.digitalturbine.com/all-resources)
 
