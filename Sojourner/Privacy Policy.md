@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e2cc0bba0b9087c837964196408fa776
+207c98b67aebaa88bf16c9f02ef43ff6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![13 mm white coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0174.200.jpg)](https://www.sojourner.biz/beads/pearls/13-mm-white-coin-pearls.html "13 mm white coin pearls")
+[![Ammonite beads](https://www.sojourner.biz/images/cache/stone/STN074.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/ammonite-beads.html "Ammonite beads")
 
-#### [13 mm white coin pearls](https://www.sojourner.biz/beads/pearls/13-mm-white-coin-pearls.html "13 mm white coin pearls")
+#### [Ammonite beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/ammonite-beads.html "Ammonite beads")
 
-$25.00
+$56.00
 
 ### Best Sellers
 
