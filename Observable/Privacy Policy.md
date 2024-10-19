@@ -16,7 +16,7 @@ Sign inSign up
 
 [Observable](https://observablehq.com/@observablehq)
 
-Use data to think, together.
+The end-to-end solution for building and hosting better data apps, dashboards, and reports.
 
 [Workspace](https://observablehq.com/)
 
