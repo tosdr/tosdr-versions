@@ -164,11 +164,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Install Green Monster Kodi Build on Any Device](https://www.firesticktricks.com/green-monster-kodi-build.html)
-* [How to Install Smokin Kodi Build on Any Device (Super Easy Steps)](https://www.firesticktricks.com/smokin-kodi-build.html)
-* [How to Install & Use Very Local on FireStick Easily](https://www.firesticktricks.com/very-local-on-firestick.html)
-* [How to Install Barstool Sports on FireStick for All-in-one Streaming](https://www.firesticktricks.com/barstool-sports-on-firestick.html)
-* [How to Install and Use TD Ameritrade Network on FireStick](https://www.firesticktricks.com/td-ameritrade-network-on-firestick.html)
+* [How to Install TVOne Kodi Addon for Live TV](https://www.firesticktricks.com/tvone-kodi-addon.html)
+* [How to Install Seren Kodi Addon (Real Debrid & Package Provider)](https://www.firesticktricks.com/seren-kodi-addon.html)
+* [How to Install Purely Wrestling Kodi Addon on Any Device](https://www.firesticktricks.com/purely-wrestling-kodi-addon.html)
+* [Court Upholds 11-Year Sentence for Flawless IPTV Mastermind](https://www.firesticktricks.com/11-year-sentence-flawless-iptv.html)
+* [How to Install Shadow Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/shadow-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
