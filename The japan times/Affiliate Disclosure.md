@@ -135,6 +135,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
+[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+  [![The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428487.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.")](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+[Mid- to long-term foreign residents in Japan hit record high](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
+
+  [![Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428581.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.")](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
+
 [Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
   [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
@@ -142,14 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Shohei Ohtani making major impact on viewership numbers during MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
 
   [![Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428562.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.")](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
-
-[Chilean woman slammed over viral clip of pullups on torii shrine gate](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
-
-  [![A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428451.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.")](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
-
-[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
-
-  [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
 Editors' Picks
 --------------
@@ -161,6 +161,20 @@ Editors' Picks
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
   [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+  [![The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428487.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.")](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Mid- to long-term foreign residents in Japan hit record high](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428581.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.")](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -177,20 +191,6 @@ By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Hima
 By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
 
   [![Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428562.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.")](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Chilean woman slammed over viral clip of pullups on torii shrine gate](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
-
-  [![A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428451.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A torii gate in Tokyo. A Chilean gymnast has apologized after receiving criticism for posting a video of herself doing pullups on a torii gate.")](https://www.japantimes.co.jp/news/2024/10/17/japan/chilean-woman-torii-shrine/ "Chilean woman slammed over viral clip of pullups on torii shrine gate")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
 Podcast
 -------
@@ -255,23 +255,23 @@ Latest News
 
 [No Cabinet ministers visit Yasukuni Shrine during fall festival](https://www.japantimes.co.jp/news/2024/10/19/japan/yasukuni-no-cabinet-members/ "No Cabinet ministers visit Yasukuni Shrine during fall festival")
 
-3 hours ago
+8 hours ago
 
 [Cuba's electrical grid collapses again; entire country without power](https://www.japantimes.co.jp/news/2024/10/19/world/cuba-power-outage/ "Cuba's electrical grid collapses again; entire country without power")
 
-3 hours ago
+9 hours ago
 
 [Japan's land ministry eyes bill to prevent overpriced condo repairs](https://www.japantimes.co.jp/news/2024/10/19/japan/condo-repair-rules/ "Japan's land ministry eyes bill to prevent overpriced condo repairs")
 
-4 hours ago
+10 hours ago
 
 [Man arrested after throwing apparent firebombs at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/19/japan/crime-legal/ldp-prime-ministers-office-attack/ "Man arrested after throwing apparent firebombs at LDP headquarters")
 
-4 hours ago
+10 hours ago
 
 [Sinwar's death clouds path to freeing Israeli hostages](https://www.japantimes.co.jp/news/2024/10/19/world/sinwar-death-muddy-hostage-release/ "Sinwar's death clouds path to freeing Israeli hostages")
 
-6 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
