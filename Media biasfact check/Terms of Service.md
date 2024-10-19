@@ -73,11 +73,11 @@
 
 MBFC News
 
-* [October 10, 2024 | MBFC’s Daily Vetted Fact Checks for 10/10/2024](https://mediabiasfactcheck.com/2024/10/10/mbfcs-daily-vetted-fact-checks-for-10-10-2024/ "MBFC’s Daily Vetted Fact Checks for 10/10/2024")
-* [October 9, 2024 | (Media News) DOJ Targets Google’s Monopoly with Proposed Breakup and Data-Sharing Remedies](https://mediabiasfactcheck.com/2024/10/09/media-news-doj-targets-googles-monopoly-with-proposed-breakup-and-data-sharing-remedies/ "(Media News) DOJ Targets Google’s Monopoly with Proposed Breakup and Data-Sharing Remedies")
-* [October 9, 2024 | MBFC’s Daily Vetted Fact Checks for 10/09/2024 (FEMA-Helene Edition)](https://mediabiasfactcheck.com/2024/10/09/mbfcs-daily-vetted-fact-checks-for-10-09-2024-fema-helene-edition/ "MBFC’s Daily Vetted Fact Checks for 10/09/2024 (FEMA-Helene Edition)")
-* [October 8, 2024 | FEMA Head Warns of Misinformation Impact on Hurricane Response Efforts](https://mediabiasfactcheck.com/2024/10/08/fema-head-warns-of-misinformation-impact-on-hurricane-response-efforts/ "FEMA Head Warns of Misinformation Impact on Hurricane Response Efforts")
-* [October 8, 2024 | MBFC’s Daily Vetted Fact Checks for 10/08/2024](https://mediabiasfactcheck.com/2024/10/08/mbfcs-daily-vetted-fact-checks-for-10-08-2024/ "MBFC’s Daily Vetted Fact Checks for 10/08/2024")
+* [October 19, 2024 | MBFC’s Daily Vetted Fact Checks for 10/19/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/10/19/mbfcs-daily-vetted-fact-checks-for-10-19-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 10/19/2024 (Weekend Edition)")
+* [October 18, 2024 | MBFC’s Daily Vetted Fact Checks for 10/18/2024](https://mediabiasfactcheck.com/2024/10/18/mbfcs-daily-vetted-fact-checks-for-10-18-2024/ "MBFC’s Daily Vetted Fact Checks for 10/18/2024")
+* [October 17, 2024 | MBFC’s Daily Vetted Fact Checks for 10/17/2024](https://mediabiasfactcheck.com/2024/10/17/mbfcs-daily-vetted-fact-checks-for-10-17-2024/ "MBFC’s Daily Vetted Fact Checks for 10/17/2024")
+* [October 16, 2024 | (Media News) NC GOP Candidate Mark Robinson Sues CNN for Defamation Over Porn Site Forum Claims](https://mediabiasfactcheck.com/2024/10/16/media-news-nc-gop-candidate-mark-robinson-sues-cnn-for-defamation-over-porn-site-forum-claims/ "(Media News) NC GOP Candidate Mark Robinson Sues CNN for Defamation Over Porn Site Forum Claims")
+* [October 16, 2024 | MBFC’s Daily Vetted Fact Checks for 10/16/2024](https://mediabiasfactcheck.com/2024/10/16/mbfcs-daily-vetted-fact-checks-for-10-16-2024/ "MBFC’s Daily Vetted Fact Checks for 10/16/2024")
 
 Search for:  
 
@@ -153,74 +153,74 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [The Imaginative Conservative – Bias and Credibility](https://mediabiasfactcheck.com/the-imaginative-conservative-bias-and-credibility/)
+* [Mitchell Research – Bias and Credibility](https://mediabiasfactcheck.com/mitchell-research-bias-and-credibility/)
     
-    October 10, 2024
+    October 18, 2024
     
-* [Center for Renewing America – Bias and Credibility](https://mediabiasfactcheck.com/center-for-renewing-america-bias-and-credibility/)
+* [MovieGuide – Bias and Credibility](https://mediabiasfactcheck.com/movieguide-bias-and-credibility/)
     
-    October 10, 2024
+    October 18, 2024
     
-* [Marist Poll – Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
+* [WGVU – NPR – Grand Rapids – Bias and Credibility](https://mediabiasfactcheck.com/wgvu-npr-grand-rapids-bias/)
     
-    October 10, 2024
+    October 18, 2024
     
-* [SRF (Schweizer Radio und Fernsehen) – Bias and Credibility](https://mediabiasfactcheck.com/srf-schweizer-radio-und-fernsehen-bias/)
+* [Institute for Strategic Dialogue (ISD) – Bias and Credibility](https://mediabiasfactcheck.com/institute-for-strategic-dialogue-isd-bias-and-credibility/)
     
-    October 10, 2024
+    October 18, 2024
     
-* [Lancashire Post – Bias and Credibility](https://mediabiasfactcheck.com/lancashire-post-bias/)
+* [Annual Review of Neuroscience – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-neuroscience-bias/)
     
-    October 10, 2024
+    October 18, 2024
     
-* [Free Enterprise Institute (FEI) – Bias and Credibility](https://mediabiasfactcheck.com/free-enterprise-institute-fei-bias-and-credibility/)
+* [Bucks County Beacon – Bias and Credibility](https://mediabiasfactcheck.com/bucks-county-beacon-bias-and-credibility/)
     
-    October 9, 2024
+    October 17, 2024
     
-* [Sports Business Journal (SBJ) – Bias and Credibility](https://mediabiasfactcheck.com/sports-business-journal-sbj-bias-and-credibility/)
+* [That Park Place – Bias and Credibility](https://mediabiasfactcheck.com/that-park-place-bias-and-credibility/)
     
-    October 9, 2024
+    October 17, 2024
     
-* [Corrosion and Materials Degradation Journal – Bias and Credibililty](https://mediabiasfactcheck.com/corrosion-and-materials-degradation-journal-bias/)
+* [Ballarat Courier – Bias and Credibility](https://mediabiasfactcheck.com/ballarat-courier-bias/)
     
-    October 9, 2024
+    October 17, 2024
     
 
 #### Recently Updated Pages
 
-* [MSNBC – Bias and Credibility](https://mediabiasfactcheck.com/msnbc/ "View MSNBC – Bias and Credibility") - October 10, 2024
+* [Just The News – Bias and Credibility](https://mediabiasfactcheck.com/just-the-news/ "View Just The News – Bias and Credibility") - October 18, 2024
     
-* [Reuters – Bias and Credibility](https://mediabiasfactcheck.com/reuters/ "View Reuters – Bias and Credibility") - October 10, 2024
+* [Sky News UK – Bias and Credibility](https://mediabiasfactcheck.com/sky-news/ "View Sky News UK – Bias and Credibility") - October 18, 2024
     
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - October 10, 2024
+* [News and News – Bias and Credibility](https://mediabiasfactcheck.com/news-and-news/ "View News and News – Bias and Credibility") - October 18, 2024
     
-* [SurveyUSA – Bias and Credibility](https://mediabiasfactcheck.com/surveyusa-bias-and-credibility/ "View SurveyUSA – Bias and Credibility") - October 10, 2024
+* [Raw Story – Bias and Credibility](https://mediabiasfactcheck.com/raw-story/ "View Raw Story – Bias and Credibility") - October 18, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 10, 2024
+* [Reason – Bias and Credibility](https://mediabiasfactcheck.com/reason/ "View Reason – Bias and Credibility") - October 18, 2024
     
-* [Suffolk Polling – Bias and Credibility](https://mediabiasfactcheck.com/suffolk-polling-bias-and-credibility/ "View Suffolk Polling – Bias and Credibility") - October 10, 2024
+* [Daily Caller – Bias and Credibility](https://mediabiasfactcheck.com/daily-caller/ "View Daily Caller – Bias and Credibility") - October 18, 2024
     
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - October 10, 2024
+* [Scripps News (Newsy) – Bias and Credibility](https://mediabiasfactcheck.com/newsy/ "View Scripps News (Newsy) – Bias and Credibility") - October 18, 2024
     
-* [The Imaginative Conservative – Bias and Credibility](https://mediabiasfactcheck.com/the-imaginative-conservative-bias-and-credibility/ "View The Imaginative Conservative – Bias and Credibility") - October 10, 2024
+* [Snopes – Bias and Credibility](https://mediabiasfactcheck.com/snopes-bias-credibility/ "View Snopes – Bias and Credibility") - October 18, 2024
     
-* [Quinnipiac Poll – Bias and Credibility](https://mediabiasfactcheck.com/quinnipiac-poll-bias-and-credibility/ "View Quinnipiac Poll – Bias and Credibility") - October 10, 2024
+* [Big Village Polling – Bias and Credibility](https://mediabiasfactcheck.com/big-village-polling-bias-and-credibility/ "View Big Village Polling – Bias and Credibility") - October 18, 2024
     
-* [Associated Press (AP News) – Bias and Credibility](https://mediabiasfactcheck.com/associated-press/ "View Associated Press (AP News) – Bias and Credibility") - October 10, 2024
+* [CBC News (Canadian Broadcasting) – Bias and Credibility](https://mediabiasfactcheck.com/cbc-news-canadian-broadcasting/ "View CBC News (Canadian Broadcasting) – Bias and Credibility") - October 18, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [InsiderAdvantage - Bias and Credibility](https://mediabiasfactcheck.com/insideradvantage-bias-and-credibility/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
+* [Real Clear Politics - Bias and Credibility](https://mediabiasfactcheck.com/real-clear-politics/)
+* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
+* [MBFC's Daily Vetted Fact Checks for 10/18/2024](https://mediabiasfactcheck.com/2024/10/18/mbfcs-daily-vetted-fact-checks-for-10-18-2024/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
