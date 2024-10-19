@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-911df34ffca76f73b29cb671701cc969
+2ef8681c18915cbc5fb4ab4e4e40129c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Oval turquoise fern clasp](https://sojourner.biz/images/cache/SKU0111front.200.jpg)](https://sojourner.biz/clasps/glass/oval-turquoise-fern-clasp.html "Oval turquoise fern clasp")
+[![3 mm hemp twine](https://sojourner.biz/images/cache/TT0062large.200.jpg)](https://sojourner.biz/tabletop/3-mm-hemp-twine.html "3 mm hemp twine")
 
-#### [Oval turquoise fern clasp](https://sojourner.biz/clasps/glass/oval-turquoise-fern-clasp.html "Oval turquoise fern clasp")
+#### [3 mm hemp twine](https://sojourner.biz/tabletop/3-mm-hemp-twine.html "3 mm hemp twine")
 
-$13.50
+$15.00
 
 ### Best Sellers
 
