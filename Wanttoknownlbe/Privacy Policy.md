@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/hoe-je-de-wereld-wel-stuurt-met-je-euros/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/levenswater/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
