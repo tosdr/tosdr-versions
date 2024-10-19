@@ -18,7 +18,7 @@ Toggle Main Nav
 * [Investors](https://investors.frontdoorhome.com/)
 * [Careers](https://frontdoor.jobs/)
 
-Privacy Policy
+[Home](https://www.frontdoorhome.com/) / Privacy Policy
 
 Privacy Policy
 ==============
