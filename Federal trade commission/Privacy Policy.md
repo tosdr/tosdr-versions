@@ -230,11 +230,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct18
+    Oct21
     
-    ### [Second Federal Trade Commission Conference on Marketing and Public Policy](https://www.ftc.gov/news-events/events/2024/10/second-federal-trade-commission-conference-marketing-public-policy)
+    ### [Final Prehearing Conference Before Administrative Law Judge Jay L. Himes, In the Matter of H&R Block, Inc. et al., Docket 9427 - October 21, 2024](https://www.ftc.gov/news-events/events/2024/10/prehearing-conference-administrative-law-judge-jay-l-himes-matter-hr-block-inc-et-al-docket-9427-October-21-2024)
     
-    Friday, October 18, 2024 | 8:00AM - 6:00PM
+    Monday, October 21, 2024 | 10:00AM - 5:30PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
