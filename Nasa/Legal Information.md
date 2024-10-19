@@ -269,7 +269,7 @@ article 2 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-research
 
 ### NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 
-article 24 hours ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
+article 1 day ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
 
 3 min read
 
@@ -313,7 +313,7 @@ article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### LExSO
 
-article 19 hours ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+article 1 day ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
@@ -357,7 +357,7 @@ article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
 
-article 18 hours ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 1 day ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
@@ -369,7 +369,7 @@ article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-ne
 
 ### What is Air Quality?
 
-article 1 day ago](https://www.nasa.gov/general/what-is-air-quality/)
+article 2 days ago](https://www.nasa.gov/general/what-is-air-quality/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 1 day ago](https://www.nasa.gov/general/what-is-air-quality/)
 
 ### NASA and Partners Scaling to New Heights 
 
-article 22 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
 4 min read
 
@@ -433,7 +433,7 @@ article 2 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/
 
 ### NASA and Partners Scaling to New Heights 
 
-article 22 hours ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
 4 min read
 
@@ -445,7 +445,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-p
 
 ### Five Years Ago: First All Woman Spacewalk
 
-article 23 hours ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/)
+article 1 day ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/)
 
 ### Highlights
 
