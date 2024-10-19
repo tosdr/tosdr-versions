@@ -144,7 +144,7 @@ CHOOSE Size
 
 ### [Deep Hydration Sheet Mask](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
 
-374 reviews (374)
+375 reviews (375)
 
 $7.00
 
