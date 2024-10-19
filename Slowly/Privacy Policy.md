@@ -24,6 +24,6 @@ Loading...
 
 [Terms of Service](https://slowly.app/terms/)     [Privacy Policy](https://slowly.app/privacy/)     [Cookies](#)
 
-[](https://www.facebook.com/slowlyapp/ "facebook")  [](https://www.instagram.com/slowlyapp/ "instagram")  [](https://x.com/slowlyapp "twitter")  [](https://medium.com/slowlyapp/ "pinterest") [](https://www.pinterest.com/slowlyapp/ "pinterest")
+[](https://www.facebook.com/slowlyapp/ "facebook")  [](https://www.instagram.com/slowlyapp/ "instagram")  [](https://x.com/slowlyapp "twitter")  [](https://medium.com/slowlyapp/ "pinterest")  [](https://www.pinterest.com/slowlyapp/ "pinterest") [](https://www.tiktok.com/@slowly.app "pinterest")
 
-[](https://www.facebook.com/slowlyapp/ "facebook")  [](https://www.instagram.com/slowlyapp/ "instagram")  [](https://x.com/slowlyapp "twitter")  [](https://medium.com/slowlyapp/ "pinterest") [](https://www.pinterest.com/slowlyapp/ "pinterest")
+[](https://www.facebook.com/slowlyapp/ "facebook")  [](https://www.instagram.com/slowlyapp/ "instagram")  [](https://x.com/slowlyapp "twitter")  [](https://medium.com/slowlyapp/ "pinterest")  [](https://www.pinterest.com/slowlyapp/ "pinterest") [](https://www.tiktok.com/@slowly.app "pinterest")
