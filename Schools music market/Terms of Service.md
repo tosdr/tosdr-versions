@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/garageband-reference-guide/)
+ [](https://schoolsmusicmarket.com/product/classroom-decor-music-labels-pack/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/ukulele-chords-minamilist-boho-series-display-poster/)
+ [](https://schoolsmusicmarket.com/product/a-christmas-medley-band-score/)
 
 ###### Browse By Year/Grade
 
