@@ -19,13 +19,17 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
+    ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
     [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
     
     ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
     
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-360x180.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
     
-    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning by Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
     
     [![Croydon Magistrates Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-16-10-2024-at-13.52-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
     
@@ -51,10 +55,6 @@
     Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
     ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
-    
-    ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,13 +100,17 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
+    ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+    
     [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
     
     ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
     
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-360x180.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
     
-    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning by Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
     
     [![Croydon Magistrates Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-16-10-2024-at-13.52-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-landlord-and-letting-agent-ordered-to-pay-over-3000-for-unlicensed-property/)
     
@@ -132,10 +136,6 @@ View All Result
     Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
     ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
-    
-    ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -203,11 +203,11 @@ Terms of Use
 
 [12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
 
-[![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-120x86.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
-### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
-[15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+[18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
 [![CGI of new Nine Elms primary school.
 Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
@@ -215,6 +215,12 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
 [17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+
+[![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+[15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 [![A map of the proposed Bakerloo Line extension to Lewisham. 
 Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-120x86.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
@@ -229,13 +235,13 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 [15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
 
-[![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
-
-### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
-
-[15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
-
 ### Featured Articles
+
+[![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+
+### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
+
+[18th October 2024](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
 
 [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-120x86.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
 
@@ -245,7 +251,7 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-120x86.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
-### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning by Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
+### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
 [18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
@@ -267,12 +273,6 @@ Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lo
 ### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
 
 [17th October 2024](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
-
-[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-[17th October 2024](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
 
 ### USEFUL PAGES
 
