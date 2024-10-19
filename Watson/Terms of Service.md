@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)10°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [People](https://www.watson.ch/fr/people/)
-* [Ski](https://www.watson.ch/fr/ski/)
-* [voiture](https://www.watson.ch/fr/voiture/)
-* [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Cuba](https://www.watson.ch/fr/cuba/)
 * [Vaud](https://www.watson.ch/fr/vaud/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Agriculture](https://www.watson.ch/fr/agriculture/)
+* [Italie](https://www.watson.ch/fr/italie/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [Corée du Nord](https://www.watson.ch/fr/coree-du-nord/)
 * [Féminisme](https://www.watson.ch/fr/feminisme/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [électricité](https://www.watson.ch/fr/electricite/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Italie](https://www.watson.ch/fr/italie/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Russie](https://www.watson.ch/fr/russie/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [Cuba](https://www.watson.ch/fr/cuba/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Ski](https://www.watson.ch/fr/ski/)
+* [People](https://www.watson.ch/fr/people/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
