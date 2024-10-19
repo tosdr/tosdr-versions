@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2ecbb87a-6f06-433f-b5e7-7e85c150624d/20241019T015418/2ecbb87a-6f06-433f-b5e7-7e85c150624d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2ecbb87a-6f06-433f-b5e7-7e85c150624d/20241019T015418/2ecbb87a-6f06-433f-b5e7-7e85c150624d_360x203.jpg)](https://www.king5.com/article/news/politics/elections/state-attorney-general-candidate-nick-brown-touts-experience/281-95913004-9576-4ca6-87e5-557001b10c8d)
+    *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
-        #### [State attorney general candidate Nick Brown touts experience, values](https://www.king5.com/article/news/politics/elections/state-attorney-general-candidate-nick-brown-touts-experience/281-95913004-9576-4ca6-87e5-557001b10c8d)
+        #### [Wind Advisory in effect through Saturday morning](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
-    *  [![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_360x203.jpg)](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
+    *  [![](https://media.king5.com/assets/KING/images/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7/20241016T145723/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7/20241016T145723/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-police-pull-man-away-oncoming-train/281-f0d1fa13-2aee-493f-840b-413739084b28)
         
-        #### [Here's why the Navy is not sharing the identities of 2 crew members aboard crashed jet](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
+        #### [Man rescued from train tracks by Seattle police officers seconds before being hit](https://www.king5.com/article/news/local/seattle/seattle-police-pull-man-away-oncoming-train/281-f0d1fa13-2aee-493f-840b-413739084b28)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-54°
+55°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
