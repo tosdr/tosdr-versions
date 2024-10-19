@@ -1,6 +1,6 @@
 ![](https://secure.intelligentdatawisdom.com/788945.png)              
 
-![](https://supplierlink.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
+![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
 
@@ -1777,7 +1777,7 @@ Follow us
 
 * [![Facebook](/assets/bms/us/en-us/icons/Facebook.svg "Facebook")](http://www.facebook.com/BristolMyersSquibb "Facebook")
 * [![Instagram](/assets/bms/us/en-us/icons/Instagram.svg "Instagram")](https://www.instagram.com/bristolmyerssquibb "Instagram")
-* [![Twitter](/assets/bms/us/en-us/icons/Twitter.svg "Twitter")](http://twitter.com/BMSNEWS "Twitter")
+* [![X](/assets/bms/us/en-us/icons/Twitter.svg "X")](http://twitter.com/BMSNEWS "X")
 * [![LinkedIn](/assets/bms/us/en-us/icons/Linkedin.svg "LinkedIn")](http://www.linkedin.com/company/bristol-myers-squibb "LinkedIn")
 * [![YouTube](/assets/bms/us/en-us/icons/YouTube.svg "YouTube")](http://www.youtube.com/bristolmyerssquibb "YouTube")
 
