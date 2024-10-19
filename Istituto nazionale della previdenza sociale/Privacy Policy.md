@@ -961,7 +961,14 @@ it
             * [Rendiconti provinciali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2023/rendiconti-provinciali-2023.html)
             * [Rendiconti regionali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2023/rendiconti-regionali-2023.html)
             
-        * [Rendiconto sociale 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2022.html)
+        * [Rendiconto sociale 2022](#)
+            
+            Rendiconto sociale 2022
+            
+            * [Esplora Rendiconto sociale 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2022.html)
+            * [Rendiconti provinciali 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2022/rendiconti-provinciali-2022.html)
+            * [Rendiconti regionali 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2022/rendiconti-regionali-2022.html)
+            
         * [Rendiconto Sociale 2017-2021 e Relazione fine mandato](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2017-2021-e-relazione-fine-mandato.html)
         * [Pre Rendiconto sociale 2020](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/pre-rendiconto-sociale-2020.html)
         * [Rendiconto sociale 2019](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2019.html)
