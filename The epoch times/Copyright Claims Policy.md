@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://www.theepochtimes.com/us/trump-says-hell-meet-with-rupert-murdoch-ask-him-to-nix-negative-political-ads-5743164)
+    
+    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719009-EpochImages-5955281775-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-hell-meet-with-rupert-murdoch-ask-him-to-nix-negative-political-ads-5743164)
+* [Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-in-scheme-to-illegally-export-us-semiconductor-technology-to-china-5743796)
+    
+    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695816-07292024-DSC09128-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-in-scheme-to-illegally-export-us-semiconductor-technology-to-china-5743796)
+* [Georgia Early Voting Surpasses 1 Million](https://www.theepochtimes.com/us/georgia-early-voting-surpasses-1-million-5743780)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Georgia Early Voting Surpasses 1 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Early Voting Surpasses 1 Million](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742928-Georgia-Vote-2_JF_10142024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-early-voting-surpasses-1-million-5743780)
+* [Google’s Court-Ordered App Store Overhaul Temporarily Paused](https://www.theepochtimes.com/us/googles-court-ordered-app-store-overhaul-temporarily-paused-5743806)
+    
+    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Google’s Court-Ordered App Store Overhaul Temporarily Paused](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Google’s Court-Ordered App Store Overhaul Temporarily Paused](https://img.theepochtimes.com/assets/uploads/2024/10/id5735160-1.tagreuters.com2024binary_LYNXMPEK9302H-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/googles-court-ordered-app-store-overhaul-temporarily-paused-5743806)
+* [RNC Chairman Says GOP Is Focusing on Low Propensity Voters](https://www.theepochtimes.com/us/rnc-chairman-says-gop-is-focusing-on-low-propensity-voters-5743855)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![RNC Chairman Says GOP Is Focusing on Low Propensity Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![RNC Chairman Says GOP Is Focusing on Low Propensity Voters](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743765-GettyImages-2178247386-205x123.jpg.webp)](https://www.theepochtimes.com/us/rnc-chairman-says-gop-is-focusing-on-low-propensity-voters-5743855)
+* [Study Links Autism to the Y Chromosome](https://www.theepochtimes.com/health/male-chromosome-could-help-explain-higher-autism-rates-in-boys-research-shows-5743751)
+    
+    6hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    
+    [![Study Links Autism to the Y Chromosome](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Study Links Autism to the Y Chromosome](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743960-shutterstock_714325090_y_chromosome_autism_male_sex_chromosome-205x123.jpg.webp)](https://www.theepochtimes.com/health/male-chromosome-could-help-explain-higher-autism-rates-in-boys-research-shows-5743751)
+* [Feds Investigating Tesla’s Self-Driving System](https://www.theepochtimes.com/business/feds-investigating-teslas-self-driving-system-5743786)
+    
+    6hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Feds Investigating Tesla’s Self-Driving System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Feds Investigating Tesla’s Self-Driving System](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689461-GettyImages-1434797485-Tesla-factoryKO-205x123.jpg.webp)](https://www.theepochtimes.com/business/feds-investigating-teslas-self-driving-system-5743786)
+* [Day in Photos: National Strike Day, Voting Queue, and Imperial Visit](https://www.theepochtimes.com/article/day-in-photos-national-strike-day-voting-queue-and-imperial-visit-5743607)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: National Strike Day, Voting Queue, and Imperial Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: National Strike Day, Voting Queue, and Imperial Visit](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743901-Lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-national-strike-day-voting-queue-and-imperial-visit-5743607)
 * [Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://www.theepochtimes.com/business/majority-of-americans-feel-worse-off-now-than-4-years-ago-gallup-5743697)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Majority of Americans Feel Worse Off Now Than 4 Years Ago: Gallup](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684758-GettyImages-2157164982-205x123.jpg.webp)](https://www.theepochtimes.com/business/majority-of-americans-feel-worse-off-now-than-4-years-ago-gallup-5743697)
 * [Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://www.theepochtimes.com/tech/heres-how-to-protect-yourself-from-new-scams-targeting-gmail-users-5743783)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Here’s How to Protect Yourself From New Scams Targeting Gmail Users](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741301-gmail-shutterstock_1303813597-205x123.jpg.webp)](https://www.theepochtimes.com/tech/heres-how-to-protect-yourself-from-new-scams-targeting-gmail-users-5743783)
-* [DOJ Announces It Will Monitor Voting in Ohio County Over ‘Intimidation’ Concerns](https://www.theepochtimes.com/us/doj-announces-it-will-monitor-voting-in-ohio-county-over-intimidation-concerns-5743733)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![DOJ Announces It Will Monitor Voting in Ohio County Over ‘Intimidation’ Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Announces It Will Monitor Voting in Ohio County Over ‘Intimidation’ Concerns](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705176-08122024-DSC00315-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-announces-it-will-monitor-voting-in-ohio-county-over-intimidation-concerns-5743733)
-* [Harris Campaign, Podcast Host Spar Over Claim Trump ‘Abruptly’ Ended Interview Early](https://www.theepochtimes.com/us/harris-campaign-podcast-host-spar-over-claim-trump-abruptly-ended-interview-early-5743757)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Harris Campaign, Podcast Host Spar Over Claim Trump ‘Abruptly’ Ended Interview Early](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Campaign, Podcast Host Spar Over Claim Trump ‘Abruptly’ Ended Interview Early](https://img.theepochtimes.com/assets/uploads/2021/10/29/GettyImages-1052717298-1200x777-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaign-podcast-host-spar-over-claim-trump-abruptly-ended-interview-early-5743757)
-* [Weight Loss Drug May Help Combat Opioid Crisis, Research Suggests](https://www.theepochtimes.com/health/weight-loss-drug-may-help-combat-opioid-crisis-research-suggests-5743723)
-    
-    2hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
-    
-    [![Weight Loss Drug May Help Combat Opioid Crisis, Research Suggests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Weight Loss Drug May Help Combat Opioid Crisis, Research Suggests](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558662-Ozempic-1482908413-1200x859-e1687553633840-205x123.jpg.webp)](https://www.theepochtimes.com/health/weight-loss-drug-may-help-combat-opioid-crisis-research-suggests-5743723)
-* [A Look at the Various Legal Issues Surrounding the 2024 Election](https://www.theepochtimes.com/article/legal-issues-ahead-of-the-2024-election-5742382)
-    
-    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![A Look at the Various Legal Issues Surrounding the 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![A Look at the Various Legal Issues Surrounding the 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743778-Court-Election-Challenges-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/legal-issues-ahead-of-the-2024-election-5742382)
-* [Tax Underreporting, High-Income Earners’ Non-Compliance Among Major Issues Facing IRS in 2025](https://www.theepochtimes.com/us/tax-underreporting-high-income-earners-non-compliance-among-major-issues-facing-irs-in-2025-post-5743719)
-    
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Tax Underreporting, High-Income Earners’ Non-Compliance Among Major Issues Facing IRS in 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tax Underreporting, High-Income Earners’ Non-Compliance Among Major Issues Facing IRS in 2025](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695185-10162023-DSC07619-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/tax-underreporting-high-income-earners-non-compliance-among-major-issues-facing-irs-in-2025-post-5743719)
-* [Doctors Free to Perform Emergency Abortions in Tennessee: Judges](https://www.theepochtimes.com/us/doctors-free-to-perform-emergency-abortions-in-tennessee-judges-5743728)
-    
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Doctors Free to Perform Emergency Abortions in Tennessee: Judges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Doctors Free to Perform Emergency Abortions in Tennessee: Judges](https://img.theepochtimes.com/assets/uploads/2024/04/09/id5625517-justice-getty-stock-photo-court-room-courtroom-1200x720-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctors-free-to-perform-emergency-abortions-in-tennessee-judges-5743728)
-* [RNC Appeals Georgia Judge’s Ruling That Invalidates 7 Election Rules](https://www.theepochtimes.com/us/republican-national-committee-appeals-georgia-judges-ruling-that-invalidates-7-election-rules-5743693)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![RNC Appeals Georgia Judge’s Ruling That Invalidates 7 Election Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![RNC Appeals Georgia Judge’s Ruling That Invalidates 7 Election Rules](https://img.theepochtimes.com/assets/uploads/2023/04/14/id5195100-absentee-ballots-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-national-committee-appeals-georgia-judges-ruling-that-invalidates-7-election-rules-5743693)
-* [16 Indicted for Alleged Drug Trafficking and Murders Spanning North America](https://www.theepochtimes.com/us/16-indicted-for-alleged-drug-trafficking-and-murders-spanning-north-america-5743569)
-    
-    3hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![16 Indicted for Alleged Drug Trafficking and Murders Spanning North America](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![16 Indicted for Alleged Drug Trafficking and Murders Spanning North America](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743813-CP173350511KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/16-indicted-for-alleged-drug-trafficking-and-murders-spanning-north-america-5743569)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
