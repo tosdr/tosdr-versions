@@ -221,7 +221,7 @@ Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 1 other person
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1729320250) [LinkedIn](#_xfUid-1-1729320250) [Reddit](#_xfUid-1-1729320250) [Pinterest](#_xfUid-1-1729320250) [Tumblr](#_xfUid-1-1729320250) [WhatsApp](#_xfUid-1-1729320250) [Email](#_xfUid-1-1729320250) [Share](#_xfUid-1-1729320250) [Link](#_xfUid-1-1729320250)
+[X (Twitter)](#_xfUid-1-1729341864) [LinkedIn](#_xfUid-1-1729341864) [Reddit](#_xfUid-1-1729341864) [Pinterest](#_xfUid-1-1729341864) [Tumblr](#_xfUid-1-1729341864) [WhatsApp](#_xfUid-1-1729341864) [Email](#_xfUid-1-1729341864) [Share](#_xfUid-1-1729341864) [Link](#_xfUid-1-1729341864)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -246,7 +246,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1729320250%2Cc49bd442ee820771eba3b9a56a1d5fc8) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1729320250%2Cc49bd442ee820771eba3b9a56a1d5fc8)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1729341864%2C9d65578dfb1a4574ab6a8e4e31febc5d) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1729341864%2C9d65578dfb1a4574ab6a8e4e31febc5d)
     
     * Essential cookies
     
