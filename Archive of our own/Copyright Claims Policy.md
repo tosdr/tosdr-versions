@@ -45,10 +45,10 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: austen words:10000-50000 sort:title 
+* Work Search  tip: buffy gen teen AND "no archive warnings apply" 
     
 
-> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$99,204.29, and we’ve reached **2,661** new members out of our goal of **4,500**
+> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$121,209.48, and we’ve reached **3,247** new members out of our goal of **4,500**
 
 [×](https://archiveofourown.org/dmca?hide_banner=true&view_adult=true "hide banner")
 
