@@ -16,7 +16,9 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -166,6 +168,9 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 ### Enjoy 3 years of convenient follow-up care
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
+
+**Need more information?**  
+Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
 
 [Get started](https://www.listenlively.com/survey)
 
@@ -323,7 +328,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
