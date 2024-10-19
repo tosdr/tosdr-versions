@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Fernando-Guzman-2015-326x245.jpg)](https://cwbchicago.com/2024/10/man-fired-shot-at-chicago-cop-before-officer-returned-fire-striking-him-in-the-head-prosecutors-say.html "Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say")
+
+Brighton Park
+
+### [Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say](https://cwbchicago.com/2024/10/man-fired-shot-at-chicago-cop-before-officer-returned-fire-striking-him-in-the-head-prosecutors-say.html "Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say")
+
+[October 16, 2024 7:25 PM](https://cwbchicago.com/2024/10)
+
+New details have emerged about a police shooting that left a man injured inside a Brighton Park bar over the weekend. The information comes as prosecutors charge the man, 36-year-old Fernando Guzman, with attempted murder and other felonies, saying he fired a gun at Chicago cops before an officer returned fire, striking him in the head.[](https://cwbchicago.com/2024/10/man-fired-shot-at-chicago-cop-before-officer-returned-fire-striking-him-in-the-head-prosecutors-say.html "Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Evalena-Flores--326x245.jpg)](https://cwbchicago.com/2024/10/cop-killers-mom-goes-awol-arrest-warrant-issued.html "Cop killer’s mom goes AWOL, arrest warrant issued")
 
 Citywide
@@ -262,16 +272,6 @@ Loop
 [October 16, 2024 10:11 AM](https://cwbchicago.com/2024/10)
 
 It’s been a month since CWBChicago first reported that a string of jewelry snatchings and robberies had popped up, mainly in the downtown area. Today, after at least 13 incidents, Chicago police finally issued a community alert about the crimes.[](https://cwbchicago.com/2024/10/cops-finally-warn-public-about-month-old-wave-of-jewelry-snatchings-downtown.html "Cops finally warn public about month-old wave of jewelry snatchings downtown")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Marquis-Alexander-and-thieves-326x245.jpg)](https://cwbchicago.com/2024/10/burglar-stole-2-atms-while-on-parole-and-on-pretrial-release-for-another-burglary-prosecutors-say.html "Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say")
-
-Austin
-
-### [Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say](https://cwbchicago.com/2024/10/burglar-stole-2-atms-while-on-parole-and-on-pretrial-release-for-another-burglary-prosecutors-say.html "Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say")
-
-[October 16, 2024 7:30 AM](https://cwbchicago.com/2024/10)
-
-Prosecutors have charged a Chicago man with stealing ATMs from two businesses while on parole and on pretrial release for trying to burglarize another business in May.[](https://cwbchicago.com/2024/10/burglar-stole-2-atms-while-on-parole-and-on-pretrial-release-for-another-burglary-prosecutors-say.html "Burglar stole 2 ATMs while on parole and on pretrial release for another burglary, prosecutors say")
 
 Search
 
