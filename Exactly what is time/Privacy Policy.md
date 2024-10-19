@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Time Management](https://www.exactlywhatistime.com/other-aspects-of-time/time-management/) [Clocks](https://www.exactlywhatistime.com/measurement-of-time/clocks/) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Temporal Illusions](https://www.exactlywhatistime.com/psychology-of-time/temporal-illusions/) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Ageing](https://www.exactlywhatistime.com/other-aspects-of-time/ageing/)
+[Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/) [Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Ancient Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/ancient-philosophy/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Time And The Big Bang](https://www.exactlywhatistime.com/physics-of-time/time-and-the-big-bang/) [Time Travel](https://www.exactlywhatistime.com/physics-of-time/time-travel/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Chronophobia](https://www.exactlywhatistime.com/psychology-of-time/chronophobia/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
