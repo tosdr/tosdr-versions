@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![lifestyle image of raspberry pi 5 bumper.](https://cdn-shop.adafruit.com/230x173/6056-03.jpg)[Protective Silicone Bumper for Raspberry Pi 5
+    
+    $3.00](https://www.adafruit.com/product/6056)
+    
     ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
     
     $10.95](https://www.adafruit.com/product/6062)
@@ -86,10 +90,6 @@ Search
     ![Angled shot of 2 meter long black woven USB-C cable.](https://cdn-shop.adafruit.com/230x173/6029-02.jpg)[USB C to USB C Cable w/ 100W Watt Display - 2 meter Black Woven
     
     $17.95](https://www.adafruit.com/product/6029)
-    
-    ![Angled Shot of the Engineer Professional Silicone-Tip Solder Sucker.](https://cdn-shop.adafruit.com/230x173/1597-03.jpg)[Engineer Professional Silicone-Tip Solder Sucker
-    
-    $19.50](https://www.adafruit.com/product/1597)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There are a few people out there who really enjoy hacking things...”
+“ I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success”
 
-[Helen Greiner](http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0)
+[Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla)
 
 [](https://www.adafruit.com/about)
 
