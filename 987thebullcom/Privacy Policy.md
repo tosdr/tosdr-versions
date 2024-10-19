@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>5:39pm |
-| This Is ItScotty Mccreery<br><br>5:35pm |
-| Tucson Too LateJordan Davis<br><br>5:32pm |
-| Must Be Doin Somethin RightBilly Currington<br><br>5:22pm |
-| Pink SkiesZach Bryan<br><br>5:19pm |
+| This Is My DirtJustin Moore<br><br>11:39pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:35pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:32pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>11:29pm |
+| The Good OnesGabby Barrett<br><br>11:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
+Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Top 40 • Eastern
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
