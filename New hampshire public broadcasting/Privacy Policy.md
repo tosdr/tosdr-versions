@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Sheri Says: Culinary Uses for Crab Meat** | The Key Ingredient](https://video.nhpbs.org/video/culinary-uses-for-crab-meat-kkyjei?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Counting the Vote with Margaret Hoover** | The State We're In](https://video.nhpbs.org/video/counting-the-vote-with-margaret-hoover-vof32e?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Last Supper** | PBS Presents](https://video.nhpbs.org/video/the-last-supper-0qypza?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-17-2024-pbs-news-hour-full-episode-1729137601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Why Don't Humans Hibernate?** | Be Smart](https://video.nhpbs.org/video/why-dont-humans-hibernate-0qtkjd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**NYT Journalist Discusses the Killing of Hamas Leader Yahya Sinwar** | Amanpour and Company](https://video.nhpbs.org/video/nyt-journalist-discusses-the-killing-of-hamas-leader-yahya-sinwar-k685ag?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Land of Gold Preview** | Great Performances](https://video.nhpbs.org/video/land-of-gold-preview-rf77pv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What happened to the once lush, now desert-like Colorado River Delta?** | Overview](https://video.nhpbs.org/video/what-happened-to-the-once-lush-now-desert-like-colorado-river-delta-bruvka?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Remembering the Fallen Soldiers of the Simpsonville Massacre** | Secrets of the Dead](https://video.nhpbs.org/video/remembering-the-fallen-soldiers-of-the-simpsonville-massacre-ddxxjw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**E5 Medicine Cabinet, Chimney Crown** | Ask This Old House](https://video.nhpbs.org/video/e5-medicine-cabinet-chimney-crown-ask-this-old-house-FirXn6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"American Voices 2024" - Preview** | FRONTLINE](https://video.nhpbs.org/video/american-voices-2024-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Solar System: Wandering Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-wandering-worlds-preview-mqkkut?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Josh Shapiro** | Firing Line](https://video.nhpbs.org/video/josh-shapiro-i6femp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Joy of Burning a Good Gift** | Indie Alaska](https://video.nhpbs.org/video/the-joy-of-burning-a-good-gift-2lje34?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**TTC Extra: Project 2025** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-project-2025-iwnoaf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**NH Journal: The 1986 Senate Primary** | New Hampshire's Political Legacy](https://video.nhpbs.org/video/nh-journal-the-1986-senate-primary-aajzpd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 18, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-18-2024-pbs-news-hour-full-episode-1729224001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How History Ignored Women in Baseball** | In the Margins](https://video.nhpbs.org/video/how-history-ignored-women-in-baseball-7yzddt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
