@@ -1,6 +1,6 @@
 top of page
 
-[![Glui_Logo_50px.png](https://static.wixstatic.com/media/8dd289_d89e85f60a114fb9a6d0cc0de6a1be83~mv2.png/v1/fill/w_148,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Glui_Logo_50px.png)](https://www.glui.io/)
+[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_148,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
 
 * Solutions
     
