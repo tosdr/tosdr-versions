@@ -13,7 +13,7 @@
     
 * About
     
-    [Why Us](https://www.fullcontact.com/why-us/)[Team](https://www.fullcontact.com/our-team/)[Identity Graph](https://www.fullcontact.com/identity-graph/)[Careers](https://www.fullcontact.com/careers/)[Privacy](https://www.fullcontact.com/privacy/)
+    [Why Us](https://www.fullcontact.com/why-us/)[Identity Graph](https://www.fullcontact.com/identity-graph/)[Careers](https://www.fullcontact.com/careers/)[Privacy](https://www.fullcontact.com/privacy/)
     
 * [Login](https://platform.fullcontact.com/login/)
 * [Let's Talk](https://www.fullcontact.com/contact/)
@@ -37,7 +37,7 @@
     
 * About
     
-    [Why Us](https://www.fullcontact.com/why-us/)[Team](https://www.fullcontact.com/our-team/)[Identity Graph](https://www.fullcontact.com/identity-graph/)[Careers](https://www.fullcontact.com/careers/)[Privacy](https://www.fullcontact.com/privacy/)
+    [Why Us](https://www.fullcontact.com/why-us/)[Identity Graph](https://www.fullcontact.com/identity-graph/)[Careers](https://www.fullcontact.com/careers/)[Privacy](https://www.fullcontact.com/privacy/)
     
 * [Login](https://platform.fullcontact.com/login/)
 * [Let's Talk](https://www.fullcontact.com/contact/)
@@ -137,7 +137,6 @@ Denver, Colorado 80202-2523
 * [Support](https://support.fullcontact.com/portal/home)
 * [In the News](https://www.fullcontact.com/news/)
 * [Careers](https://www.fullcontact.com/careers/)
-* [Our Team](https://www.fullcontact.com/our-team/)
 * [Resources](https://www.fullcontact.com/resources/)
 * [Contact Us](https://www.fullcontact.com/contact/)
 * [FAQ](https://www.fullcontact.com/faq/)
