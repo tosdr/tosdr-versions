@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Thought You Should KnowMorgan Wallen<br><br>11:39am |
-| Sounds Like The RadioZach Top<br><br>11:35am |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>11:33am |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:29am |
-| Boot Scootin' BoogieBrooks And Dunn<br><br>11:26am |
+| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>5:39pm |
+| This Is ItScotty Mccreery<br><br>5:35pm |
+| Tucson Too LateJordan Davis<br><br>5:32pm |
+| Must Be Doin Somethin RightBilly Currington<br><br>5:22pm |
+| Pink SkiesZach Bryan<br><br>5:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
+Spanish • Western
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Spanish • Western
+Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
