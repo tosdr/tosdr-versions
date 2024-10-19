@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Simon Cowell breaks his silence on Liam Payne's death: 'I feel empty'](https://nypost.com/2024/10/18/entertainment/simon-cowell-breaks-silence-on-liam-paynes-death-feel-empty/)
-
 Privacy Notice Highlights
 =========================
 
