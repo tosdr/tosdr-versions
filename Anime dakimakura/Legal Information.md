@@ -224,7 +224,7 @@ Language
 
 english
 
-*  [![](/pagespeed_static/1.JiBnMqyl6S.gif) English](https://www.animedakimakura.com/privacy.html?language=en)
+*  [![](includes/languages/english/images/icon.gif) English](https://www.animedakimakura.com/privacy.html?language=en)
 * [_close_Close](#)
 
 0
@@ -249,7 +249,7 @@ english
     
     english
     
-    *  [![](/pagespeed_static/1.JiBnMqyl6S.gif) English](https://www.animedakimakura.com/privacy.html?language=en)
+    *  [![](includes/languages/english/images/icon.gif) English](https://www.animedakimakura.com/privacy.html?language=en)
     * [_close_Close](#)
     
 
@@ -510,7 +510,7 @@ Privacy Notice
 
 ### About Us
 
-![logo](/pagespeed_static/1.JiBnMqyl6S.gif)
+![logo](includes/templates/marcus/images/uploads/logo_1714803233.png)
 
 * Anime Dakimakura Shop could put your favorite characters onto a life sized pillow so you can carry it around and hug them when you want. (▰˘◡˘▰) We want to create and sell stuff that would appeal to the thousands of anime lovers out there! ^‿^
 * _email_ **Email:** [\[email protected\]](https://www.animedakimakura.com/cdn-cgi/l/email-protection)
@@ -540,7 +540,7 @@ Privacy Notice
 
 Copyright © 2024 Anime Dakimakura.
 
-![Payment](/pagespeed_static/1.JiBnMqyl6S.gif)
+![Payment](includes/templates/marcus/images/uploads/payment_1501671528.png)
 
 Navigation 
 
