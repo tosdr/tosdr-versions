@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Steel Talons](https://www.myabandonware.com/game/steel-talons-82m)
-* [Spot](https://www.myabandonware.com/game/spot-10o)
-* [Super Breakout](https://www.myabandonware.com/game/super-breakout-a8i)
-* [S.T.U.N. Runner](https://www.myabandonware.com/game/s-t-u-n-runner-10w)
-* [Strike Zone Baseball](https://www.myabandonware.com/game/strike-zone-baseball-q5)
+* [Matchmaker! / Logix! / Buzzword!](https://www.myabandonware.com/game/matchmaker-logix-buzzword-swc)
+* [Loony Balloon](https://www.myabandonware.com/game/loony-balloon-swb)
+* [Armored Encounter! / Sub Chase!](https://www.myabandonware.com/game/armored-encounter-sub-chase-swa)
+* [AMOK!](https://www.myabandonware.com/game/amok-sw9)
+* [Alpine Skiing!](https://www.myabandonware.com/game/alpine-skiing-sw8)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Digital Pinball: Last Gladiators Ver.9.7](https://www.myabandonware.com/game/digital-pinball-last-gladiators-ver-9-7-nck)
-* [Monkey Nuts](https://www.myabandonware.com/game/monkey-nuts-q52)
-* [4 Most Big Hits](https://www.myabandonware.com/game/4-most-big-hits-knd)
+* [Muzzy: Learn French the Fun Way](https://www.myabandonware.com/game/muzzy-learn-french-the-fun-way-pl2)
+* [Baseball Mogul 2003](https://www.myabandonware.com/game/baseball-mogul-2003-hx9)
+* [Zoo Animals](https://www.myabandonware.com/game/zoo-animals-o8n)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
