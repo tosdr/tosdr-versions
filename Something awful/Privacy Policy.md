@@ -205,21 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Paintings of Light (Part 2)](https://www.somethingawful.com/photoshop-phriday/paintings-light-part-2/1/)
-* [Clips4Sale!](https://www.somethingawful.com/photoshop-phriday/amateur-porn-descriptions/)
-* [April 13, 2009](https://www.somethingawful.com/forum-fridays/ff04-13-09/1/)
-* [A Brief Misadventure as a Woodcutting Author](https://www.somethingawful.com/news/wood-cutting-mishap/1/)
-* [An Embarrassing Amount Of Neural Image Mashups!](https://www.somethingawful.com/photoshop-phriday/ostagram-deepart-sequel/)
+* [Toothing!, Anime Sucks, and Eyes on Final Fantasy](https://www.somethingawful.com/weekend-web/toothing-anime-sucks/1/)
+* [So You Want to be a Tourist?](https://www.somethingawful.com/news/tourism/1/)
+* [Chuck Asay Cartoon Contest!](https://www.somethingawful.com/comedy-goldmine/asay-cartoons-parody/1/)
+* [What's Trump Holding?](https://www.somethingawful.com/photoshop-phriday/trump-thumbs-fingers/)
+* [No Limit Album Covers](https://www.somethingawful.com/photoshop-phriday/no-limit-albums/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [Hello my betas.](http://forums.somethingawful.com/showthread.php?threadid=4073047 "Hello my betas.")
+
 ### Random Articles
 
-* [Sexual Double Bill!](https://www.somethingawful.com/comedy-goldmine/alright-orgasm-computer/)
-* [On Parodies](https://www.somethingawful.com/daily-dirt/on-parodies/1/)
-* [Marylen's Costumes](https://www.somethingawful.com/awful-links/awful-link-1786/)
-* [Sneezefurs (Thanks, Burnin Yinky!)](https://www.somethingawful.com/awful-links/sneeze-furry-fetish/)
-* [Dirt for the Dirt God!](https://www.somethingawful.com/daily-dirt/dirt-for-dirt/)
+* [The ROWBY Fan Club](https://www.somethingawful.com/awful-links/awful-link-3854/)
+* [Subj: MY MISSION IS CLEAR](https://www.somethingawful.com/news/roamin-dad-18/)
+* [The Modern Monster](https://www.somethingawful.com/news/the-modern-monster/)
+* [Knifedad Chat: Phil Elmore](https://www.somethingawful.com/news/street-senpai/)
+* [Robclarke.net](https://www.somethingawful.com/awful-links/awful-link-3494/)
 
 [Random!](https://www.somethingawful.com/random/)
 
