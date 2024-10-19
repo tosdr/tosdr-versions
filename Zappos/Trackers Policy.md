@@ -1,7 +1,5 @@
 [Skip to main content](#main)
 
-VIPs earn 1,500 points with a Brooks, Converse, or HOKA purchase. [Join VIP & Shop](https://www.zappos.com/c/vip-dash)
-
 Top Boots & Sneakers for Fall 2024. [Shop Our Favorites](https://www.zappos.com/c/fall-footwear-picks-for-2024)
 
 Keep Those Feet Warm & Cozy. [Shop Fuzzy Crocs](https://www.zappos.com/c/crocs-fuzzy-edition-2024)
