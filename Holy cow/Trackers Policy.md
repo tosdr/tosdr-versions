@@ -136,13 +136,19 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
+[So excited to be recognised by the amazing Spider- ![So excited to be recognised by the amazing Spider-Man Andrew Garfield and @florencepugh as their go-to Indian spot! Thank you for making Holy Cow takeaway a favourite!
+.
+@infatuation_london 
+#HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![So excited to be recognised by the amazing Spider-Man Andrew Garfield and @florencepugh as their go-to Indian spot! Thank you for making Holy Cow takeaway a favourite!
+.
+@infatuation_london 
+#HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBTMt8Bi2s6/) 
+
 [Holy Cow’s dishes are more than food—they’re ![Holy Cow’s dishes are more than food—they’re culinary masterpieces designed to delight.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Holy Cow’s dishes are more than food—they’re culinary masterpieces designed to delight.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBQ1WDqIJWv/) 
-
-[Craving something exquisite? Order Holy Cow and le ![Craving something exquisite? Order Holy Cow and let us bring the culinary magic to your door!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Craving something exquisite? Order Holy Cow and let us bring the culinary magic to your door!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBLrwdNoc8x/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
