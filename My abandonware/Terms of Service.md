@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Matchmaker! / Logix! / Buzzword!](https://www.myabandonware.com/game/matchmaker-logix-buzzword-swc)
-* [Loony Balloon](https://www.myabandonware.com/game/loony-balloon-swb)
-* [Armored Encounter! / Sub Chase!](https://www.myabandonware.com/game/armored-encounter-sub-chase-swa)
-* [AMOK!](https://www.myabandonware.com/game/amok-sw9)
-* [Alpine Skiing!](https://www.myabandonware.com/game/alpine-skiing-sw8)
+* [Speed Buggy](https://www.myabandonware.com/game/speed-buggy-6az)
+* [Pachinko!](https://www.myabandonware.com/game/pachinko-swm)
+* [Bowling! / Basketball!](https://www.myabandonware.com/game/bowling-basketball-swl)
+* [Out of This World! / Helicopter Rescue!](https://www.myabandonware.com/game/out-of-this-world-helicopter-rescue-swk)
+* [Blockout! / Breakdown!](https://www.myabandonware.com/game/blockout-breakdown-swj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
