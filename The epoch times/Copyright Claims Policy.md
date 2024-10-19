@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://www.theepochtimes.com/us/report-reveals-iowa-school-shooter-likely-showed-warning-signs-before-attack-5744039)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558342-Iowa-shooting-AP24004539877061-205x123.jpeg.webp)](https://www.theepochtimes.com/us/report-reveals-iowa-school-shooter-likely-showed-warning-signs-before-attack-5744039)
+* [Federal Judge Rejects GOP Lawsuit Alleging Nevada Voter Roll Mismanagement](https://www.theepochtimes.com/us/federal-judge-rejects-gop-lawsuit-alleging-nevada-voter-roll-mismanagement-5743895)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Federal Judge Rejects GOP Lawsuit Alleging Nevada Voter Roll Mismanagement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Judge Rejects GOP Lawsuit Alleging Nevada Voter Roll Mismanagement](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667459-02062024-DSC06852-vote-sign-Nevada-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-rejects-gop-lawsuit-alleging-nevada-voter-roll-mismanagement-5743895)
+* [Three States Renew Lawsuit Against FDA Over Abortion Pill Regulations](https://www.theepochtimes.com/us/three-states-renew-lawsuit-against-fda-over-abortion-pill-regulations-5743302)
+    
+    5hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Three States Renew Lawsuit Against FDA Over Abortion Pill Regulations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Three States Renew Lawsuit Against FDA Over Abortion Pill Regulations](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689126-AP24177122483350-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/three-states-renew-lawsuit-against-fda-over-abortion-pill-regulations-5743302)
 * [As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://www.theepochtimes.com/us/as-early-voting-kicks-off-in-nevada-nonpartisan-voters-hold-the-key-5743430)
     
-    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://img.theepochtimes.com/assets/uploads/2019/04/18/Las-Vegas-1057350054-205x123.jpg.webp)](https://www.theepochtimes.com/us/as-early-voting-kicks-off-in-nevada-nonpartisan-voters-hold-the-key-5743430)
 * [Nantucket Residents Rattled by Arrest of 5 Illegal Immigrants for Violent Sex Crimes](https://www.theepochtimes.com/us/nantucket-residents-rattled-by-arrest-of-5-illegal-immigrants-for-violent-sex-crimes-5741819)
     
-    NEW By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
     [![Nantucket Residents Rattled by Arrest of 5 Illegal Immigrants  for Violent Sex Crimes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Nantucket Residents Rattled by Arrest of 5 Illegal Immigrants  for Violent Sex Crimes](https://img.theepochtimes.com/assets/uploads/2022/12/22/914-Venezuelan-marthas-vinyard-LYNXMPEI8E06Y_USA-IMMIGRATION-FLORIDA-205x123.jpg.webp)](https://www.theepochtimes.com/us/nantucket-residents-rattled-by-arrest-of-5-illegal-immigrants-for-violent-sex-crimes-5741819)
-* [Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://www.theepochtimes.com/us/some-states-ready-to-respond-in-case-hurricane-hits-us-on-election-day-5741648)
-    
-    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738747-GettyImages-1227902406KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-states-ready-to-respond-in-case-hurricane-hits-us-on-election-day-5741648)
 * [Landlocked European Nations Face Gas Woes Amid Growing Pressure on Russia](https://www.theepochtimes.com/world/landlocked-european-nations-face-gas-woes-amid-growing-pressure-on-russia-5738207)
     
-    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    7hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
     [![Landlocked European Nations Face Gas Woes Amid Growing Pressure on Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Landlocked European Nations Face Gas Woes Amid Growing Pressure on Russia](https://img.theepochtimes.com/assets/uploads/2023/02/03/GettyImages-1443860743-205x123.jpg.webp)](https://www.theepochtimes.com/world/landlocked-european-nations-face-gas-woes-amid-growing-pressure-on-russia-5738207)
+* [Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://www.theepochtimes.com/us/some-states-ready-to-respond-in-case-hurricane-hits-us-on-election-day-5741648)
+    
+    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Some States Are Ready to Respond in Case Hurricane Hits US on Election Day](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738747-GettyImages-1227902406KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-states-ready-to-respond-in-case-hurricane-hits-us-on-election-day-5741648)
 * [Massachusetts Gov. Council Candidates Weigh In on Judge Appointments](https://www.theepochtimes.com/us/massachusetts-gov-council-candidates-weigh-in-on-judge-appointments-5743123)
     
-    NEW By [Mary Lou Lang](https://www.theepochtimes.com/author/mary-lou-lang)
+    7hr By [Mary Lou Lang](https://www.theepochtimes.com/author/mary-lou-lang)
     
     [![Massachusetts Gov. Council Candidates Weigh In on Judge Appointments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Massachusetts Gov. Council Candidates Weigh In on Judge Appointments](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636544-IMG_5950-205x123.jpeg.webp)](https://www.theepochtimes.com/us/massachusetts-gov-council-candidates-weigh-in-on-judge-appointments-5743123)
 * [High Turnover in Xi’s Political Faction Signals Heightened Infighting in Beijing, Experts Say](https://www.theepochtimes.com/china/high-turnover-in-xis-political-faction-signals-heightened-infighting-in-beijing-experts-say-5743217)
     
-    NEW By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao)
+    7hr By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao)
     
     [![High Turnover in Xi’s Political Faction Signals Heightened Infighting in Beijing, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![High Turnover in Xi’s Political Faction Signals Heightened Infighting in Beijing, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743220-GettyImages-142652511-205x123.jpg.webp)](https://www.theepochtimes.com/china/high-turnover-in-xis-political-faction-signals-heightened-infighting-in-beijing-experts-say-5743217)
 * [NTD’s 7th International Piano Competition Awaits Winners’ Announcement](https://www.theepochtimes.com/bright/ntds-7th-international-piano-competition-awaits-winners-announcement-5744024)
     
-    2hr By [Flora Hua](https://www.theepochtimes.com/author/flora-hua)
+    8hr By [Flora Hua](https://www.theepochtimes.com/author/flora-hua)
     
     [![NTD’s 7th International Piano Competition Awaits Winners’ Announcement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NTD’s 7th International Piano Competition Awaits Winners’ Announcement](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744025-Ching-Yi-Lin-NTD-piano-competition-205x123.jpg.webp)](https://www.theepochtimes.com/bright/ntds-7th-international-piano-competition-awaits-winners-announcement-5744024)
-* [Trump, Harris Intensify Michigan Push With Rally Blitz](https://www.theepochtimes.com/us/trump-harris-intensify-michigan-push-with-rally-blitz-5744018)
-    
-    6hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![Trump, Harris Intensify Michigan Push With Rally Blitz](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump, Harris Intensify Michigan Push With Rally Blitz](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744049-Trump-Harris-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-intensify-michigan-push-with-rally-blitz-5744018)
-* [Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://www.theepochtimes.com/us/trump-says-hell-meet-with-rupert-murdoch-ask-him-to-nix-negative-political-ads-5743164)
-    
-    9hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Says He’ll Meet With Rupert Murdoch, Ask Him to Nix Negative Political Ads](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719009-EpochImages-5955281775-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-hell-meet-with-rupert-murdoch-ask-him-to-nix-negative-political-ads-5743164)
-* [Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-in-scheme-to-illegally-export-us-semiconductor-technology-to-china-5743796)
-    
-    10hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Chinese National Pleads Guilty in Scheme to Illegally Export US Semiconductor Technology to China](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695816-07292024-DSC09128-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-in-scheme-to-illegally-export-us-semiconductor-technology-to-china-5743796)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
