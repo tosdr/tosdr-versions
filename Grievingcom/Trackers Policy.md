@@ -123,7 +123,7 @@ This cookie stores a transaction key for a guest member, it is used to identify 
 
   
 
-### Optional Cookies[](https://forums.grieving.com/index.php?app=core&module=system&controller=cookies&do=cookieConsentToggle&ref=aHR0cHM6Ly9mb3J1bXMuZ3JpZXZpbmcuY29tL2Nvb2tpZXMv&status=1&csrfKey=b2c6b59cdf38132332c41874678840e4)
+### Optional Cookies[](https://forums.grieving.com/index.php?app=core&module=system&controller=cookies&do=cookieConsentToggle&ref=aHR0cHM6Ly9mb3J1bXMuZ3JpZXZpbmcuY29tL2Nvb2tpZXMv&status=1&csrfKey=eb5e241efdc3a1ed46db213af4883eb9)
 
 These cookies are not required, but can be enabled to enhance your browsing experience.
 
