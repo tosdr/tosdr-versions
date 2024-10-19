@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
 
 Service Stiftung Warentest
 
