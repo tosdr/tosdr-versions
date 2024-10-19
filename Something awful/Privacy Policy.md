@@ -205,21 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Swap Tots with Olds!](https://www.somethingawful.com/photoshop-phriday/babyfaced-old-people/1/)
-* [Milo & Otis + PHOTOSHOP!](https://www.somethingawful.com/photoshop-phriday/milo-otis-betamax/1/)
-* [Album Movies 2](https://www.somethingawful.com/photoshop-phriday/music-album-movies2/1/)
-* [Remove One Lettr! (Part 3 of 3)](https://www.somethingawful.com/photoshop-phriday/remove-letter-part3/1/)
-* [Call of Cthulhu "Mansions of Madness" - Scenario Two (1990)](https://www.somethingawful.com/dungeons-and-dragons/mansions-madness-plantation/1/)
+* [Paintings of Light (Part 2)](https://www.somethingawful.com/photoshop-phriday/paintings-light-part-2/1/)
+* [Clips4Sale!](https://www.somethingawful.com/photoshop-phriday/amateur-porn-descriptions/)
+* [April 13, 2009](https://www.somethingawful.com/forum-fridays/ff04-13-09/1/)
+* [A Brief Misadventure as a Woodcutting Author](https://www.somethingawful.com/news/wood-cutting-mishap/1/)
+* [An Embarrassing Amount Of Neural Image Mashups!](https://www.somethingawful.com/photoshop-phriday/ostagram-deepart-sequel/)
 
 ### Popular Threads
 
 ### Random Articles
 
-* [January 26, 2009](https://www.somethingawful.com/forum-fridays/ff01-26-09/1/)
-* [February 16, 2010](https://www.somethingawful.com/forum-fridays/ff02-16-10/)
-* [Terrible God Damn Comic Book Movies: Days of Future Past](https://www.somethingawful.com/news/future-comicbook-movies/1/)
-* [This Year in Professional Horse Diving](https://www.somethingawful.com/news/horse-diving-news/)
-* [Understanding Healthcare FOR KIDS!](https://www.somethingawful.com/news/kid-healthcare/1/)
+* [Sexual Double Bill!](https://www.somethingawful.com/comedy-goldmine/alright-orgasm-computer/)
+* [On Parodies](https://www.somethingawful.com/daily-dirt/on-parodies/1/)
+* [Marylen's Costumes](https://www.somethingawful.com/awful-links/awful-link-1786/)
+* [Sneezefurs (Thanks, Burnin Yinky!)](https://www.somethingawful.com/awful-links/sneeze-furry-fetish/)
+* [Dirt for the Dirt God!](https://www.somethingawful.com/daily-dirt/dirt-for-dirt/)
 
 [Random!](https://www.somethingawful.com/random/)
 
