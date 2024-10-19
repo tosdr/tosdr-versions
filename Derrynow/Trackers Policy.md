@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-18 Oct 2024
+19 Oct 2024
 
 * [Home
     
@@ -268,15 +268,6 @@ Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction 
 [Niall Horan breaks silence on Liam Payne's death in heartbreaking One Direction statement](https://www.derrynow.com/news/arts---entertainment/1633291/niall-horan-breaks-silence-on-liam-payne-s-death-in-heartbreaking-one-direction-statement.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry")](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
-
-PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![End of an era as Derry's Jobby Crossan shop closes for final time](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "End of an era as Derry's Jobby Crossan shop closes for final time")](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
 
 Jobby Crossan shop has closed for the final time
@@ -285,13 +276,6 @@ Jobby Crossan shop has closed for the final time
 
 [End of an era as Derry's Jobby Crossan shop closes for final time](https://www.derrynow.com/news/local-news/1633674/end-of-an-era-as-derry-s-jobby-crossan-shop-closes-for-final-time.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more")](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings")](https://www.derrynow.com/news/weather/1633352/live-tracker-track-storm-ashley-as-it-barrels-towards-ireland-amid-warnings.html)
 
@@ -302,12 +286,12 @@ LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings
 [LIVE TRACKER: Track Storm Ashley as it barrels towards Ireland amid warnings](https://www.derrynow.com/news/weather/1633352/live-tracker-track-storm-ashley-as-it-barrels-towards-ireland-amid-warnings.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
+[![When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more")](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[When and where to watch GAA's inter-provincial trial games | TV, tickets, teams and more](https://www.derrynow.com/news/gaa/1633647/when-and-where-to-watch-gaa-s-inter-provincial-trial-games-tv-tickets-teams-and-more.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two young men injured and road closed after horror early morning crash in Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two young men injured and road closed after horror early morning crash in Galway")](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
 
@@ -318,14 +302,12 @@ Two young men injured and road closed after horror early morning crash in Galway
 [Two young men injured and road closed after horror early morning crash in Galway](https://www.derrynow.com/news/national-news/1633322/two-young-men-injured-and-road-closed-after-horror-early-morning-crash-in-galway.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings")](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
 
-Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Weather](https://www.derrynow.com/section/997/cookie-policy)
-
-[Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, October 18 2024](https://www.derrynow.com/news/deaths/1632829/derry-death-notices-friday-october-18-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![widespread flooding across Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "widespread flooding across Derry")](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
 
@@ -336,14 +318,30 @@ Widespread flooding across Derry
 [Widespread flooding across Derry](https://www.derrynow.com/news/derry-news/1633939/widespread-flooding-across-derry.html)
 --------------------------------------------------------------------------------------------------------------------------
 
-[![Mystery solved as US President's Air Force One plane spotted flying over Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mystery solved as US President's Air Force One plane spotted flying over Ireland")](https://www.derrynow.com/news/national-news/1633305/mystery-solved-as-us-president-s-air-force-one-plane-spotted-flying-over-ireland.html)
+[![Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings")](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
 
-Air Force One Stock Image PIC: Pixabay
+Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Weather](https://www.derrynow.com/section/997/cookie-policy)
 
-[Mystery solved as US President's Air Force One plane spotted flying over Ireland](https://www.derrynow.com/news/national-news/1633305/mystery-solved-as-us-president-s-air-force-one-plane-spotted-flying-over-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Met Éireann confirms Storm Ashley to hit Ireland amid STATUS ORANGE warnings](https://www.derrynow.com/news/weather/1633328/met-eireann-confirms-storm-ashley-to-hit-ireland-amid-status-orange-warnings.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![A blow for Derry as another candidate for the manager role rules themselves out](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A blow for Derry as another candidate for the manager role rules themselves out")](https://www.derrynow.com/news/gaa/1633536/a-blow-for-derry-as-another-candidate-for-the-manager-role-rules-themselves-out.html)
+
+Mark Doran is the latest to turn down the role of Derry manager
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[A blow for Derry as another candidate for the manager role rules themselves out](https://www.derrynow.com/news/gaa/1633536/a-blow-for-derry-as-another-candidate-for-the-manager-role-rules-themselves-out.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry 'Chat Tea Train' celebrates one year with largest ever attendance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry 'Chat Tea Train' celebrates one year with largest ever attendance")](https://www.derrynow.com/news/local-news/1632977/derry-chat-tea-train-celebrates-one-year-with-largest-ever-attendance.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry 'Chat Tea Train' celebrates one year with largest ever attendance](https://www.derrynow.com/news/local-news/1632977/derry-chat-tea-train-celebrates-one-year-with-largest-ever-attendance.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,6 +521,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
+
+Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City keep title hopes alive with victory in Dundalk](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
 
 Kelly was sentenced at Antrim Crown Court today.
@@ -532,7 +539,7 @@ Kelly was sentenced at Antrim Crown Court today.
 [Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week")](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
+[![Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](https://www.derrynow.com/resizer/165/93/true/2024_10_18/_L4A8346-1729264488506.jpg--.jpg?1729264490901 "Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week")](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
 
 Chair of Mid Ulster District Council, Councillor Eugene McConnell, launches the 2024 Mid Ulster Enterprise Week with guest speakers.
 
@@ -563,15 +570,6 @@ Cheque presentation at Ratheane Care Home, Coleraine with Macklin Family, Candic
 
 [Criminal barristers in NI to withdraw services in legal aid dispute](https://www.derrynow.com/news/local-news/1634158/criminal-barristers-in-ni-to-withdraw-services-in-legal-aid-dispute.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Causeway Council relaunches its Neighbourhood Health Improvement Programme](https://www.derrynow.com/resizer/165/93/true/2024_10_18/CCGBC_1510_NHIP_1-1729261385917.jpg--.jpg?1729261387782 "Causeway Council relaunches its Neighbourhood Health Improvement Programme")](https://www.derrynow.com/news/home/1633864/causeway-council-relaunches-its-neighbourhood-health-improvement-programme.html)
-
-Pictured are (l-r) Jonathan McFadden, Sports Development Manager CC&G, Stephanie Scott, Neighbourhood Renewal Coordinator, Patti Thornton, Western Trust NHIP and Gareth Scott, Health Improvement.
-
-[Home](https://www.derrynow.com/)
-
-[Causeway Council relaunches its Neighbourhood Health Improvement Programme](https://www.derrynow.com/news/home/1633864/causeway-council-relaunches-its-neighbourhood-health-improvement-programme.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
