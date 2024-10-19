@@ -302,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
+The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
 
 ### Potter History
 
-May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
+July 25, 2006 – The paperback edition of Harry Potter and the Half-Blood Prince is released in the United States.
 
 ### Potter Quote
 
-“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
+“Alas! Ear wax!”
 
 [](#)
 
