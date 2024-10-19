@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19083 "Permanent Link : Denying hungry kids and women’s rights with David Crisafulli et al")
+* [Howzat! — Braithwaite bowled out](https://independentaustralia.net/article-display/howzat-braithwaite-bowled-out,18955 "Permanent Link : Howzat! — Braithwaite bowled out ") 
+* [Stop asking me who to dob to about Nazis](https://independentaustralia.net/article-display/stop-asking-me-who-to-dob-to-about-nazis,19087 "Permanent Link : Stop asking me who to dob to about Nazis")
 * [POEM: Queensland's choice](https://independentaustralia.net/article-display/poem-queenslands-choice,19086 "Permanent Link : POEM: Queensland's choice")
 * [Let's be honest about suicide prevention](https://independentaustralia.net/article-display/lets-be-honest-about-suicide-prevention,19085 "Permanent Link : Let's be honest about suicide prevention")
 * [Kid Laroi dazzles NRL grand final while 'horror' opera causes outrage](https://independentaustralia.net/article-display/kid-laroi-dazzles-nrl-grand-final-while-horror-opera-causes-outrage,19084 "Permanent Link : Kid Laroi dazzles NRL grand final while 'horror' opera causes outrage")
 * [CARTOONS: Dutton's dynamic opposition matches Albanese's popularity.](https://independentaustralia.net/article-display/cartoons-duttons-dynamic-opposition-matches-albaneses-popularity,19070 "Permanent Link : CARTOONS: Dutton's dynamic opposition matches Albanese's popularity.")
-* [Dutton’s divisive agenda a threat to social cohesion](https://independentaustralia.net/article-display/duttons-divisive-agenda-a-threat-to-social-cohesion,19081 "Permanent Link : Dutton’s divisive agenda a threat to social cohesion")
-* [EDITORIAL: Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/editorial-denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19082 "Permanent Link : EDITORIAL: Denying hungry kids and women’s rights with David Crisafulli et al")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
