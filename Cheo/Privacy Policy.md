@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Boy in wheelchair and father smiling at each other](/en/rotatingimages/defaultInterior/Banner-8.jpg)
+![A child with a cochlear implant, holding a teddy bear](/en/rotatingimages/defaultInterior/Banner-19.jpeg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
