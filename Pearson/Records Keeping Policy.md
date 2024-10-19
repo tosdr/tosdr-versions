@@ -1,5 +1,7 @@
      
 
+Several of our digital platforms will be unavailable on Saturday, October 19, from 1 AM to 9 AM Eastern US time. Please contact our [customer service team](https://support.pearson.com/getsupport/s/contactsupport) if you need any assistance.
+
 * [For School](https://www.pearson.com/en-gb/schools.html)
 * [For College & University](https://www.pearson.com/en-gb/higher-education.html)
 * [For Work](https://www.pearson.com/en-gb/work.html)
