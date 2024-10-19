@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Mounika and Aditya ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Swati and Aditya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Mounika and Aditya ](https://image.wedmegood.com/resized/250X/uploads/images/1a069736caf845d68d4e5fb759af85b9realwedding/WN_MA_R1_150.jpg?crop=382,453,1619,911)
+![Swati and Aditya](https://image.wedmegood.com/resized/250X/uploads/images/04112bd48a184cbb931ace7bb6298467realwedding/W6Large.jpeg?crop=55,525,794,446)
 
-Mounika and Aditya (Jaipur)](https://www.wedmegood.com/real_wedding/detail/mounika-and-aditya-jaipur-cross-culture-wedding-4406)
+Swati and Aditya (Kerala)](https://www.wedmegood.com/real_wedding/detail/swati-and-aditya-kerala-malayali-wedding-4410)
 
-[![Prathima and Smaran](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Dinah and Adil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Prathima and Smaran](https://image.wedmegood.com/resized/250X/uploads/images/d9e362cb939b4a309c6e2b9517b74985realwedding/IMG_1596.jpg?crop=274,999,1629,916)
+![Dinah and Adil](https://image.wedmegood.com/resized/250X/uploads/images/ffec5c735ad24a639cbc0f3cd0bef9c4realwedding/Theweddingartist-1288.JPG?crop=207,450,1626,914)
 
-Prathima and Smaran (Bangalore)](https://www.wedmegood.com/real_wedding/detail/prathima-and-smaran-bangalore-wedding-4404)
+Dinah and Adil (Ooty)](https://www.wedmegood.com/real_wedding/detail/dinah-and-adil-ooty-christian-wedding-4409)
 
 Browse by Category
 
