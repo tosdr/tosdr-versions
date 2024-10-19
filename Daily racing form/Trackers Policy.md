@@ -85,7 +85,7 @@ DRF.com News Search
  Horse/Trainer/Jockey name
 
 * Horse Racing Events
-    * [Breeders' Cup](https://drf.com/bc)
+    * [Breeders' Cup](https://www.drf.com/breeders-cup)
     * [Road to the Derby](https://www.drf.com/derby-watch)
     * [Hong Kong](https://www.drf.com/horse-racing-tracks/hong-kong-racing)
     * [More](https://www.drf.com/race-entries)
