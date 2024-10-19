@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2ac809f0-2228-4520-ad6f-4c7e819da178/20241018T220619/2ac809f0-2228-4520-ad6f-4c7e819da178_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2ac809f0-2228-4520-ad6f-4c7e819da178/20241018T220619/2ac809f0-2228-4520-ad6f-4c7e819da178_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4/20241019T115505/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4/20241019T115505/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Great warmth for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-43°
+65°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
