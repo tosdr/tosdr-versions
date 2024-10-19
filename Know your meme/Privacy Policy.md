@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[SFW / NSFW Artists Posting OCs](https://knowyourmeme.com/memes/sfw-artists-posting-about-ocs-vs-nsfw-artists-posting-about-ocs "SFW / NSFW Artists Posting OCs") [Cynthia Erivo Wicked Poster Controversy](https://knowyourmeme.com/memes/events/cynthia-erivos-wicked-poster-controversy "Cynthia Erivo Wicked Poster Controversy") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy")
+[Cynthia Erivo Wicked Poster Controversy](https://knowyourmeme.com/memes/events/cynthia-erivos-wicked-poster-controversy "Cynthia Erivo Wicked Poster Controversy") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy")
 
 Privacy Policy
 ==============
