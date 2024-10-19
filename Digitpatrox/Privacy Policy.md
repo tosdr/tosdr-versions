@@ -20,16 +20,16 @@ Saturday, October 19 2024
 
 Latest
 
-* [Today’s Wordle Answer and Hints (October 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
-* [Want to call yourself a real tech company? Mark Zuckerberg says get a technical CEO](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
-* [Augmented reality screens are a feature, not a product – Computerworld](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
-* [Your Halloween Party Needs a Scary Charcuterie Board](https://digitpatrox.com/your-halloween-party-needs-a-scary-charcuterie-board/)
-* [How to tell if your Facebook has been hacked](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
-* [Windows 11 build 27729, 26120.2130, 22635.4371 push new features to testers](https://digitpatrox.com/windows-11-build-27729-26120-2130-22635-4371-push-new-features-to-testers/)
-* [Are Sweet Potatoes Good for You?](https://digitpatrox.com/are-sweet-potatoes-good-for-you/)
-* [Plex Library Looking Thin? Load It Up With Public Domain Movies](https://digitpatrox.com/plex-library-looking-thin-load-it-up-with-public-domain-movies/)
-* [In an age of RTO hardliners, Spotify’s stance on remote work is a breath of fresh air](https://digitpatrox.com/in-an-age-of-rto-hardliners-spotifys-stance-on-remote-work-is-a-breath-of-fresh-air/)
-* [Features, Prices, Pros and Cons](https://digitpatrox.com/features-prices-pros-and-cons/)
+* [My parents are the opposite of tech-savvy — these are the smart home gadgets that won them over](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
+* [Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
+* [Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
+* [Anime Vanguards Cursed Showdown Update Arrives This Weekend with JJK Units](https://digitpatrox.com/anime-vanguards-cursed-showdown-update-arrives-this-weekend-with-jjk-units/)
+* [Software developers are spending more time every week fixing security issues – and it’s costing companies a fortune](https://digitpatrox.com/software-developers-are-spending-more-time-every-week-fixing-security-issues-and-its-costing-companies-a-fortune/)
+* [Apple Pay made wallets digital, and it’s only the beginning – Computerworld](https://digitpatrox.com/apple-pay-made-wallets-digital-and-its-only-the-beginning-computerworld/)
+* [How to Stop X From Giving Away Your Data to Train AIs](https://digitpatrox.com/how-to-stop-x-from-giving-away-your-data-to-train-ais/)
+* [2025 Nissan Murano Preview – Consumer Reports](https://digitpatrox.com/2025-nissan-murano-preview-consumer-reports/)
+* [WEEKNUM vs. ISOWEEKNUM: What's The Difference in Excel?](https://digitpatrox.com/weeknum-vs-isoweeknum-whats-the-difference-in-excel/)
+* [UK jobseekers could be using AI to beef up CVs, lie on applications, and complete skills tests – here’s why you really shouldn’t do that](https://digitpatrox.com/uk-jobseekers-could-be-using-ai-to-beef-up-cvs-lie-on-applications-and-complete-skills-tests-heres-why-you-really-shouldnt-do-that/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/yRFiHJLrXN7bzjc26GexRF-1200-80.jpg)](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
     
-    [Today’s Wordle Answer and Hints (October 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
+    [My parents are the opposite of tech-savvy — these are the smart home gadgets that won them over](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
     
-    13 mins ago
+    14 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/GdsxfxRnbxSSmNbk2CYSVD-1200-80.jpg)](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/18/nidec.jpg)](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
     
-    [Want to call yourself a real tech company? Mark Zuckerberg says get a technical CEO](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
+    [Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
     
-    2 hours ago
+    42 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564762-0-84553900-1729245741-augmented_reality_ar_virtual_reality_vr_enterprise_virtual_display_thinkstock_889345408-100749853-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/w3kUzmNMXbN0INiHa9qj3sANY9o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24533927/STK149_AI_Writing.jpg)](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
     
-    [Augmented reality screens are a feature, not a product – Computerworld](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
+    [Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
     
-    2 hours ago
+    59 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JAGM653VVCHY2Y3XXWAPM58B/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/your-halloween-party-needs-a-scary-charcuterie-board/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Anime-Vanguards-Cursed-Showdown-update-1-cover.jpg)](https://digitpatrox.com/anime-vanguards-cursed-showdown-update-arrives-this-weekend-with-jjk-units/)
     
-    [Your Halloween Party Needs a Scary Charcuterie Board](https://digitpatrox.com/your-halloween-party-needs-a-scary-charcuterie-board/)
+    [Anime Vanguards Cursed Showdown Update Arrives This Weekend with JJK Units](https://digitpatrox.com/anime-vanguards-cursed-showdown-update-arrives-this-weekend-with-jjk-units/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-tell-if-your-Facebook-has-been-hacked.jpg)](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
+* [![](https://cdn.mos.cms.futurecdn.net/m8LD3ENwxn3C9qP6jjPzb3-1200-80.jpg)](https://digitpatrox.com/software-developers-are-spending-more-time-every-week-fixing-security-issues-and-its-costing-companies-a-fortune/)
     
-    [How to tell if your Facebook has been hacked](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
+    [Software developers are spending more time every week fixing security issues – and it’s costing companies a fortune](https://digitpatrox.com/software-developers-are-spending-more-time-every-week-fixing-security-issues-and-its-costing-companies-a-fortune/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 mins ago
+* [14 mins ago
     
-    ### Today’s Wordle Answer and Hints (October 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-19-2024/)
-* [2 hours ago
+    ### My parents are the opposite of tech-savvy — these are the smart home gadgets that won them over](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
+* [42 mins ago
     
-    ### Want to call yourself a real tech company? Mark Zuckerberg says get a technical CEO](https://digitpatrox.com/want-to-call-yourself-a-real-tech-company-mark-zuckerberg-says-get-a-technical-ceo/)
-* [2 hours ago
+    ### Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
+* [59 mins ago
     
-    ### Augmented reality screens are a feature, not a product – Computerworld](https://digitpatrox.com/augmented-reality-screens-are-a-feature-not-a-product-computerworld/)
+    ### Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
 
 Most Popular Topics
 
-* [August 30, 2024
+* [September 15, 2024
     
-    ### August rundown: Who’s afraid of remote work?](https://digitpatrox.com/august-rundown-whos-afraid-of-remote-work/)
+    ### There’s a surprising reason why your yard could be attracting mosquitoes — according to the experts](https://digitpatrox.com/theres-a-surprising-reason-why-your-yard-could-be-attracting-mosquitoes-according-to-the-experts/)
+* [August 14, 2024
+    
+    ### Hands on With the Google Pixel 9 Series, 9 Pro Fold, Watch 3, and Buds Pro 2](https://digitpatrox.com/hands-on-with-the-google-pixel-9-series-9-pro-fold-watch-3-and-buds-pro-2/)
 * [September 1, 2024
     
-    ### Will Microsoft’s big roll of the AI dice pay off? – Computerworld](https://digitpatrox.com/will-microsofts-big-roll-of-the-ai-dice-pay-off-computerworld/)
-* [August 27, 2024
-    
-    ### Slack Rolls Out New Automation Features](https://digitpatrox.com/slack-rolls-out-new-automation-features/)
+    ### Learn How to Use AI for Your Business](https://digitpatrox.com/learn-how-to-use-ai-for-your-business/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Are Sweet Potatoes Good for You?](https://digitpatrox.com/are-sweet-potatoes-good-for-you/)
-* [3 hours ago
-    
-    ### Plex Library Looking Thin? Load It Up With Public Domain Movies](https://digitpatrox.com/plex-library-looking-thin-load-it-up-with-public-domain-movies/)
+    ### How to Stop X From Giving Away Your Data to Train AIs](https://digitpatrox.com/how-to-stop-x-from-giving-away-your-data-to-train-ais/)
 * [4 hours ago
     
-    ### In an age of RTO hardliners, Spotify’s stance on remote work is a breath of fresh air](https://digitpatrox.com/in-an-age-of-rto-hardliners-spotifys-stance-on-remote-work-is-a-breath-of-fresh-air/)
+    ### 2025 Nissan Murano Preview – Consumer Reports](https://digitpatrox.com/2025-nissan-murano-preview-consumer-reports/)
+* [4 hours ago
+    
+    ### WEEKNUM vs. ISOWEEKNUM: What's The Difference in Excel?](https://digitpatrox.com/weeknum-vs-isoweeknum-whats-the-difference-in-excel/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 28, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
