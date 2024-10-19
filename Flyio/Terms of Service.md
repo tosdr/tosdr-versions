@@ -2,6 +2,8 @@
 
 [Fly App performance optimization](https://fly.io/) [Docs](https://fly.io/docs/)
 
+[**Need a Logo?** View Our Brand Assets](https://fly.io/docs/about/brand/)
+
 Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https://fly.io/docs/)
 
 [Pricing](https://fly.io/pricing/) [Support](https://fly.io/docs/about/support/)
