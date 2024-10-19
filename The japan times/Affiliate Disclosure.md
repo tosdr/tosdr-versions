@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,19 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ukraine and South Korea warn of North Korean troops helping Russia](https://www.japantimes.co.jp/news/2024/10/18/asia-pacific/north-korea-troops-russia/ "Ukraine and South Korea warn of North Korean troops helping Russia")
+[Drone maker DJI sues Pentagon over Chinese military listing](https://www.japantimes.co.jp/news/2024/10/19/asia-pacific/crime-legal/dji-china-drones-pentagon-lawsuit/ "Drone maker DJI sues Pentagon over Chinese military listing")
 
-9 hours ago
+42 mins ago
 
-[Tokio Marine pauses sale of Southeast Asia life insurance business, sources say](https://www.japantimes.co.jp/business/2024/10/18/tokio-marine-sale-pause/ "Tokio Marine pauses sale of Southeast Asia life insurance business, sources say")
+[Pyongyang says recovered remains of South Korean drone](https://www.japantimes.co.jp/news/2024/10/19/asia-pacific/north-korea-south-korea-drone/ "Pyongyang says recovered remains of South Korean drone")
 
-10 hours ago
+52 mins ago
 
-[Election causing disruptions amid autumn sports day season](https://www.japantimes.co.jp/news/2024/10/18/japan/society/school-events-canceled-election/ "Election causing disruptions amid autumn sports day season")
+[U.S. budget deficit tops $1.8 trillion in fiscal 2024, third-largest on record](https://www.japantimes.co.jp/business/2024/10/19/economy/us-budget-deficit/ "U.S. budget deficit tops $1.8 trillion in fiscal 2024, third-largest on record")
 
-[Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
+1 hours ago
 
-[In western Tokyo, national scandals rub up against local politics](https://www.japantimes.co.jp/news/2024/10/18/japan/politics/general-election-tokyo-24-race/ "In western Tokyo, national scandals rub up against local politics")
+[U.S. cities seek to 'Trump-proof' inequality action ahead of election](https://www.japantimes.co.jp/news/2024/10/19/world/politics/trump-proof-cities-inequality/ "U.S. cities seek to 'Trump-proof' inequality action ahead of election")
+
+1 hours ago
+
+[Ruling and opposition parties vow redoubled regional revitalization efforts](https://www.japantimes.co.jp/news/2024/10/19/japan/politics/2024-lower-house-election-regional-revitalization/ "Ruling and opposition parties vow redoubled regional revitalization efforts")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
