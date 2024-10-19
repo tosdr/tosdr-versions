@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Megaship – OOCL Atlanta](/wp-content/thumbnails/3422-100x70.jpg?x53432)
+* [![The French Revolution: Tearing Up History](/wp-content/thumbnails/8831)
     
-    Megaship – OOCL Atlanta
+    The French Revolution: Tearing Up History
     
-    Climb aboard the cargo ship OOCL Atlanta as she journeys from Hong Kong to Singapore. How does a minimal crew keep this 1,000ft-long vessel afloat in treacherous seas?Join a voyage of discovery aboa](https://documentaryheaven.com/megaship-oocl-atlanta/ "Megaship – OOCL Atlanta")
-* [![Endgame: Blueprint for Global Enslavement](/wp-content/thumbnails/436-100x70.png?x53432)
+    A journey through the dramatic and destructive years of the French Revolution, telling its history in a way not seen before - through the extraordinary story of its art. Our guide through this turbule](https://documentaryheaven.com/french-revolution-tearing-up-history/ "The French Revolution: Tearing Up History")
+* [![When You’re Strange](/wp-content/thumbnails/4033-100x70.jpg?x53432)
     
-    Endgame: Blueprint for Global Enslavement
+    When You’re Strange
     
-    Alex Jones’ documentary Endgame charts the history of the elite blueprint for social domination and control, outlining the ultimate plans that those who consider themselves the anointed have for o](https://documentaryheaven.com/endgame-blueprint-for-global-enslavement/ "Endgame: Blueprint for Global Enslavement")
-* [![Cash for Kim](/wp-content/thumbnails/12305-100x70.jpg?x53432)
+    When You’re Strange uncovers historic and previously unseen footage of the illustrious rock quartet and provides new insight into the revolutionary impact of its music and legacy. Directed by award-wi](https://documentaryheaven.com/when-you%e2%80%99re-strange/ "When You’re Strange")
+* [![Dominion](/wp-content/thumbnails/14316-100x70.jpg?x53432)
     
-    Cash for Kim
+    Dominion
     
-    In 2014 a welder working on a large shipyard located in Gdynia, Poland, died in an on-the-job accident. His death lead to an investigation which discovered that the victim was actually an immigrant fr](https://documentaryheaven.com/cash-for-kim/ "Cash for Kim")
-* [![(Preview) Drying For Freedom](/wp-content/thumbnails/3914-100x70.jpg?x53432)
+    Domination is a feature-length film brought to you by the producer of Earthlings and just like Earthlings it too is narrated by Joaquin Phoenix. Filmed in Austrailia the documentary combines footage f](https://documentaryheaven.com/dominion/ "Dominion")
+* [![The Ape That Took Over The World](/wp-content/thumbnails/1023-100x70.jpg?x53432)
     
-    (Preview) Drying For Freedom
+    The Ape That Took Over The World
     
-    Site: http://www.indiegogo.com/Drying-For-FreedomA conflict is raging in the US. Protests, political movements and murder have taken place in the name of an unlikely ideal; clotheslines.Tens](https://documentaryheaven.com/drying-for-freedom/ "(Preview) Drying For Freedom")
-* [![Interview With A Serial Killer](/wp-content/thumbnails/12611-100x70.png?x53432)
+    In 2001, scientists announced an amazing discovery: the oldest skull of a human ancestor ever found. The 3½ million year old fossil was remarkably complete, and unlike any previous fossil find. Its di](https://documentaryheaven.com/the-ape-that-took-over-the-world/ "The Ape That Took Over The World")
+* [![Bouncers](/wp-content/thumbnails/6344-100x70.jpg?x53432)
     
-    Interview With A Serial Killer
+    Bouncers
     
-    Serial killer Arthur Shawcross was born on June 6, 1945, and died on November 10, 2008 while serving a life sentence for the murder of 11 women. From his birthplace of Kittery, Maine, his family moved](https://documentaryheaven.com/interview-with-serial-killer/ "Interview With A Serial Killer")
+    A bouncer (also known as a doorman, door supervisor or cooler) is an informal term for a type of security guard employed at venues such as bars, nightclubs or concerts to provide security, check legal](https://documentaryheaven.com/bouncers/ "Bouncers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
