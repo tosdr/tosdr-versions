@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Drone targeted house of Israeli prime minister, as IDF bombards Gaza](https://www.csmonitor.com/World/Middle-East/2024/1019/hezbollah-drone-attack-benjanmin-netanyahu-house-israel "Drone targeted house of Israeli prime minister, as IDF bombards Gaza")
+
 [### Canada-India relations are at a new low. Why China could be the winner.](https://www.csmonitor.com/World/Americas/2024/1018/India-Canada-Trudeau-China-repression-Sikh "Canada-India relations are at a new low. Why China could be the winner.")
 
 [### Last-minute Texas Supreme Court halts execution of man in shaken baby case](https://www.csmonitor.com/USA/2024/1018/Execution-halted-Texas-murder-shaken-baby-syndrome "Last-minute Texas Supreme Court halts execution of man in shaken baby case")
-
-[### South Korea says North Korea is sending troops to Russia. Is that true?](https://www.csmonitor.com/World/Asia-Pacific/2024/1018/north-korea-russia-ukraine-war-troop-deployment "South Korea says North Korea is sending troops to Russia. Is that true?")
 
 * * *
 
