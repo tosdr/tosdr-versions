@@ -123,44 +123,44 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
+    
+    The Next Great Extinction Event
+    
+    Extinct, the very word is chilling it means that a species no longer survives in this world. Already there have been five great extinction events in the history of our planet. What if the next specie...](https://documentaryheaven.com/next-great-extinction-event/ "The Next Great Extinction Event")
 * [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
     
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
-* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
-    
-    Very Young Girls
-    
-    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
 
 ###### Throwback Documentaries
 
-* [![The French Revolution: Tearing Up History](/wp-content/thumbnails/8831)
+* [![End of Nations: EU Takeover and The Lisbon Treaty](/wp-content/thumbnails/2002-100x70.jpg?x53432)
     
-    The French Revolution: Tearing Up History
+    End of Nations: EU Takeover and The Lisbon Treaty
     
-    A journey through the dramatic and destructive years of the French Revolution, telling its history in a way not seen before - through the extraordinary story of its art. Our guide through this turbule](https://documentaryheaven.com/french-revolution-tearing-up-history/ "The French Revolution: Tearing Up History")
-* [![When You’re Strange](/wp-content/thumbnails/4033-100x70.jpg?x53432)
+    We set out to make a video about the pros and cons of the Lisbon Treaty and found out to our horror the lies, manipulations and deceit behind the EU. From MEPs, legal experts and EU researches the tru](https://documentaryheaven.com/end-of-nations-%e2%80%93-eu-takeover-and-the-lisbon-treaty/ "End of Nations: EU Takeover and The Lisbon Treaty")
+* [![Gettysburg](/wp-content/thumbnails/10202-100x70.jpg?x53432)
     
-    When You’re Strange
+    Gettysburg
     
-    When You’re Strange uncovers historic and previously unseen footage of the illustrious rock quartet and provides new insight into the revolutionary impact of its music and legacy. Directed by award-wi](https://documentaryheaven.com/when-you%e2%80%99re-strange/ "When You’re Strange")
-* [![Dominion](/wp-content/thumbnails/14316-100x70.jpg?x53432)
+    July of 1863 saw one of the most devastating battles of the American Civil War take place in and around the town of Gettysburg, Pennsylvania. Comprising of Union and Confederate forces the battle of G](https://documentaryheaven.com/gettysburg/ "Gettysburg")
+* [![The Bomber](/wp-content/thumbnails/14598-100x70.jpg?x53432)
     
-    Dominion
+    The Bomber
     
-    Domination is a feature-length film brought to you by the producer of Earthlings and just like Earthlings it too is narrated by Joaquin Phoenix. Filmed in Austrailia the documentary combines footage f](https://documentaryheaven.com/dominion/ "Dominion")
-* [![The Ape That Took Over The World](/wp-content/thumbnails/1023-100x70.jpg?x53432)
+    Every day, millions of packages are delivered through the mail in the United States but for 19 days, a bomber held the city of Austin, Texas, hostage. He had residents terrified due to the unpredictab](https://documentaryheaven.com/the-bomber/ "The Bomber")
+* [![The War Business](/wp-content/thumbnails/13771-100x70.jpg?x53432)
     
-    The Ape That Took Over The World
+    The War Business
     
-    In 2001, scientists announced an amazing discovery: the oldest skull of a human ancestor ever found. The 3½ million year old fossil was remarkably complete, and unlike any previous fossil find. Its di](https://documentaryheaven.com/the-ape-that-took-over-the-world/ "The Ape That Took Over The World")
-* [![Bouncers](/wp-content/thumbnails/6344-100x70.jpg?x53432)
+    The War Business is a film by Mark Stucke which deals with the practice of private armies or mercenaries hired by governments and multinational companies. These are typically companies](https://documentaryheaven.com/war-business/ "The War Business")
+* [![Hollywood and The War Machine](/wp-content/thumbnails/4636-100x70.jpg?x53432)
     
-    Bouncers
+    Hollywood and The War Machine
     
-    A bouncer (also known as a doorman, door supervisor or cooler) is an informal term for a type of security guard employed at venues such as bars, nightclubs or concerts to provide security, check legal](https://documentaryheaven.com/bouncers/ "Bouncers")
+    Empire examines the symbiotic relationship between the movie industry and the military-industrial complex.War is hell, but for Hollywood it has been a Godsend, providing the perfect dramatic setti](https://documentaryheaven.com/hollywood-and-the-war-machine/ "Hollywood and The War Machine")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
