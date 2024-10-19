@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Henry Venter
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=204774666)  
-van Schaik rentals
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=115989141)  
+Know Informatics
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=156002361)  
-Cooper Power South Africa (Pty) LTD
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=191439415)  
+Goju-Ryu Pretoria East
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=101986765)  
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=212251063)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=33123028)  
+MONSTER SECURITY SERVICES
+
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=127149092)  
+Karino Merinos ( PTY ) LTD
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=23619761)  
+National Elite Security Services (PTY) LTD
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=158298469)  
+SMART GUY PCS (PTY) LTD
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=43846970)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=200963626)  
+Mountain Lion Properties
+
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=214099055)  
+CHARLIEX CONSTRUCTIONS
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=154214369)  
 Bloem Rugby Academy PTY (Ltd)
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=169022817)  
-Network Grey (Pty) Ltd
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=181187072)  
+Sarabi
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=112363548)  
-Iurus Inc
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=32664944)  
+Kaylas Creations
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=149698572)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=88189863)  
+Lily Fern & Co
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=61275307)  
-Wiselink Broadband Dundee
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=73381786)  
-PROGRAPHIX PTY LTD
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=204434538)  
-Imhoff Equestrian Centre
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=173391777)  
-Peter Salvage Pty Ltd
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=75439451)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=38488447)  
-Import Maaw
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=58932828)  
-SA Security Brokerz (Pty) Ltd
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=187799878)  
-Salvage Genie
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=65635027)  
-Little Nutty Professors
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=171238607)  
+Brand's Fountains Deco and Events Coordinatoin
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
