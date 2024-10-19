@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Liam Payne’s girlfriend, Kate Cassidy, breaks her silence after One Direction singer’s death](https://pagesix.com/2024/10/18/celebrity-news/liam-paynes-girlfriend-kate-cassidy-speaks-out-on-former-one-direction-singers-death/)
-
 Terms Of Use
 ============
 
