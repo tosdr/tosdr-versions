@@ -685,7 +685,3 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
-
-                                                 
-
-https://bi.im-g.pl/im/35/da/1d/z31302709ii,olaf-scholz-i-donald-tusk.jpg
