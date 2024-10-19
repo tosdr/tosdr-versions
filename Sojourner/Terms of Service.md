@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2ef8681c18915cbc5fb4ab4e4e40129c
+79b42def7778e64ec4ab0bff95473682
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![3 mm hemp twine](https://sojourner.biz/images/cache/TT0062large.200.jpg)](https://sojourner.biz/tabletop/3-mm-hemp-twine.html "3 mm hemp twine")
+[![Blue and white polka dot clasp](https://sojourner.biz/images/cache/SKU0078front.200.jpg)](https://sojourner.biz/clasps/glass/blue-and-white-polka-dot-clasp.html "Blue and white polka dot clasp")
 
-#### [3 mm hemp twine](https://sojourner.biz/tabletop/3-mm-hemp-twine.html "3 mm hemp twine")
+#### [Blue and white polka dot clasp](https://sojourner.biz/clasps/glass/blue-and-white-polka-dot-clasp.html "Blue and white polka dot clasp")
 
-$15.00
+$31.00
 
 ### Best Sellers
 
