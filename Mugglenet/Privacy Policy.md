@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (10) September 2024  (30) August 
 
 ### October 2024
 
-#### Fri, Oct 18
-
-Toby Regbo's birthday
-
-Recurs yearly
-
-Young Albus Dumbledore
-
 #### Sat, Oct 19
 
 Sir Michael Gambon's birthday RIP
@@ -310,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Dumbledore” is an early modern English word for “bumblebee.”
+When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
 
 ### Potter History
 
-September 7, 2012 – The Harry Potter Wizard’s Collection, the most comprehensive Blu-ray and DVD set yet, is released.
+February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
 
 ### Potter Quote
 
-“You know, New York is considerably more interesting than I’d expected.”
+“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
 
 [](#)
 
