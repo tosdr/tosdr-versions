@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [“Happy’s Place” Casts Actress Elizabeth Alderfer...](https://classiccountrymusic.com/happys-place-casts-actress-elizabeth-alderfer-to-play-rebas-daughter/)
-* [Randy Travis Surprises Crowd With Tear-Jerking...](https://classiccountrymusic.com/randy-travis-surprises-crowd-with-tear-jerking-amazing-grace-performance/)
-* [1972: Loretta Lynn Became The First...](https://classiccountrymusic.com/1972-loretta-lynn-became-the-first-woman-to-win-cma-entertainer-of-the-year/)
+* [Unreleased George Jones Songs Set to...](https://classiccountrymusic.com/unreleased-george-jones-songs-set-to-appear-in-new-album-the-lost-nashville-sessions/)
+* [Three Of Toby Keith’s Most Iconic...](https://classiccountrymusic.com/three-of-toby-keiths-most-iconic-songs-receive-new-platinum-certifications/)
+* [Alan Jackson Shares How He Spent...](https://classiccountrymusic.com/alan-jackson-shares-how-he-spent-his-66th-birthday/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
