@@ -251,7 +251,7 @@ FR
         
         [SkinCeuticals Canada
         
-        2% Cash Back](https://www.rakuten.ca/skinceuticals)[Clearly
+        10% Cash Back](https://www.rakuten.ca/skinceuticals)[Clearly
         
         12% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
