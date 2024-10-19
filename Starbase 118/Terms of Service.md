@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
+
+### [Poll of the Month:  Monster Mash](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
+
+Genkos Adea October 19, 2024
+
+As we inch ever closer to the festival of Hallowe’en, our thoughts naturally turn to the creepy, the kooky, the mysterious and/or the spooky (sorry,
+
+[Read More »](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
 
 ### [Lattice Alliance siege of DS33 broken after 20 hours, USS Excalibur’s arrival turns the tide](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
@@ -377,18 +389,6 @@ otterhooligan October 17, 2024
 Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/busy-oe-bees/)
-
-### [Busy OE-Bees](https://www.starbase118.net/2024/busy-oe-bees/)
-
-Federation News Service October 16, 2024
-
-VARIOUS PORTS, GAMMA QUADRANT – Crew seeks rest and recovery, finds trouble, opportunities
-
-[Read More »](https://www.starbase118.net/2024/busy-oe-bees/)
 
 Ready to get started?
 ---------------------
