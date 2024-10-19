@@ -278,5 +278,3 @@ In the event that we decline to take action on a request to exercise one of your
 
 * The [Colorado Attorney General](https://complaints.coag.gov/s/?varCFT=2) 
 * The [Oregon Attorney General](https://justice.oregon.gov/consumercomplaints/OnlineComplaints/OnlineComplaintForm/en)
-
-[Back to top](#)
