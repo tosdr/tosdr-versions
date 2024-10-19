@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Georgia passes 1 million early voting mark](https://www.ajc.com/politics/election/georgia-passes-1-million-vote-mark/KNMH3BTAJNELXJW7SYVZPZ34CU/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
