@@ -124,6 +124,12 @@ The sale, exchange, provision of public access, or disclosure of any information
 News
 ----
 
+* 19-10-2024
+    
+    [Outline, a new type of subscription](https://1vpns.com/news/id/194)
+
+* * *
+
 * 21-08-2024
     
     [The website is moving to a new hosting](https://1vpns.com/news/id/192)
@@ -145,12 +151,6 @@ News
 * 29-04-2024
     
     [New location: Cyprus](https://1vpns.com/news/id/184)
-
-* * *
-
-* 12-04-2024
-    
-    [Isle of Man](https://1vpns.com/news/id/182)
 
 * * *
 
