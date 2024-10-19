@@ -190,18 +190,19 @@
 
 Subscribe
 
-[#### Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* [What to Eat](https://www.healthline.com/type-2-diabetes/what-to-eat)
-* [Medications](https://www.healthline.com/type-2-diabetes/medications)
-* [Essentials](https://www.healthline.com/type-2-diabetes/essentials)
-* [Perspectives](https://www.healthline.com/type-2-diabetes/perspectives)
-* [Mental Health](https://www.healthline.com/type-2-diabetes/mental-health-and-type-2-diabetes)
-* [Life with T2D](https://www.healthline.com/type-2-diabetes/lifestyle)
-* [Newsletter](https://www.healthline.com/newsletter-signup/type-2-diabetes)
-* [Community](https://www.bezzyt2d.com/)
-* [Lessons](https://www.healthline.com/app/type-2-diabetes?utm_source=t2dnav)
-* [Español](https://www.healthline.com/type-2-diabetes/diabetes-tipo-2)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Terms of Use
 ============
