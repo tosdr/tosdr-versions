@@ -137,7 +137,7 @@
 
 ### Ofcom launches investigation into whether Tismi failed to prevent misuse of its phone numbers by scammers
 
-18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-launches-investigation-into-whether-tismi-failed-to-prevent-misuse-of-its-phone-numbers-by-scammers/)
+18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-launches-investigation-into-whether-tismi-failed-to-prevent-misuse-of-its-phone-numbers-by-scammers/?language=en)
 
 [![Woman on the phone on the beach (Hero) (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/misc/woman-on-the-phone-on-the-beach-hero-1336--560px.png?width=1920&height=1085&quality=80)
 
