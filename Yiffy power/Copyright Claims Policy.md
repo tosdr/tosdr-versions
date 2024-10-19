@@ -71,43 +71,43 @@ Sponsor
 Recent Posts
 ------------
 
-[](https://yiff-party.com/yiff/jean-and-steve-xbox-game-studios-and-etc-created-by-tenkoles/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
 
-[jean and steve (xbox game studios and etc) created by tenkoles](https://yiff-party.com/yiff/jean-and-steve-xbox-game-studios-and-etc-created-by-tenkoles/)
+[directed by jazzhands (director)](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
 
 0 2 0
 
 October 19, 2024
 
-[](https://yiff-party.com/yiff/stella-created-by-stelladraco/)
+[](https://yiff-party.com/yiff/azusis-and-whiro-mythology-created-by-kuribon/)
 
-[stella created by stelladraco](https://yiff-party.com/yiff/stella-created-by-stelladraco/)
+[azusis and whiro (mythology) created by kuribon](https://yiff-party.com/yiff/azusis-and-whiro-mythology-created-by-kuribon/)
+
+0 2 0
+
+October 19, 2024
+
+[](https://yiff-party.com/yiff/kayla-directed-by-av-10/)
+
+[kayla directed by av-10](https://yiff-party.com/yiff/kayla-directed-by-av-10/)
+
+0 2 0
+
+October 19, 2024
+
+[](https://yiff-party.com/yiff/game-freak-and-etc-created-by-gayoku-midara/)
+
+[game freak and etc created by gayoku midara](https://yiff-party.com/yiff/game-freak-and-etc-created-by-gayoku-midara/)
 
 0 3 0
 
 October 19, 2024
 
-[](https://yiff-party.com/yiff/calvin-mcmurray-and-ivy-pepper-lackadaisy-created-by-s1m/)
+[](https://yiff-party.com/yiff/kaiseka-and-karbon-created-by-seibear/)
 
-[calvin mcmurray and ivy pepper (lackadaisy) created by s1m](https://yiff-party.com/yiff/calvin-mcmurray-and-ivy-pepper-lackadaisy-created-by-s1m/)
+[kaiseka and karbon created by seibear](https://yiff-party.com/yiff/kaiseka-and-karbon-created-by-seibear/)
 
 0 5 0
-
-October 19, 2024
-
-[](https://yiff-party.com/yiff-ai-premium/jack-and-legoshi-directed-by-ascar-5/)
-
-[jack and legoshi directed by ascar](https://yiff-party.com/yiff-ai-premium/jack-and-legoshi-directed-by-ascar-5/)
-
-0 6 0
-
-October 19, 2024
-
-[](https://yiff-party.com/yiff/comettail-and-limberworngside-wings-of-fire-and-etc-created-by-worngside/)
-
-[comettail and limber(worngside) (wings of fire and etc) created by worngside](https://yiff-party.com/yiff/comettail-and-limberworngside-wings-of-fire-and-etc-created-by-worngside/)
-
-0 7 0
 
 October 19, 2024
 
@@ -118,31 +118,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 539 1
+0 552 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/jean-and-steve-xbox-game-studios-and-etc-created-by-tenkoles/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
 
-[jean and steve (xbox game studios and etc) created by tenkoles](https://yiff-party.com/yiff/jean-and-steve-xbox-game-studios-and-etc-created-by-tenkoles/)
+[directed by jazzhands (director)](https://yiff-party.com/yiff-ai-premium/directed-by-jazzhands-director-3/)
 
 0 2 0
 
 October 19, 2024
 
-[](https://yiff-party.com/yiff/bandit-heeler-bluey-series-created-by-jumpy-jackal/)
+[](https://yiff-party.com/yiff/froja-helsdottir-created-by-feretta/)
 
-[bandit heeler (bluey (series)) created by jumpy jackal](https://yiff-party.com/yiff/bandit-heeler-bluey-series-created-by-jumpy-jackal/)
+[froja helsdottir created by feretta](https://yiff-party.com/yiff/froja-helsdottir-created-by-feretta/)
 
-0 145 0
+0 95 0
 
 September 19, 2024
 
-[](https://yiff-party.com/yiff-gif/shiori-created-by-anormalzombie/)
+[](https://yiff-party.com/yiff/fan-character-created-by-ram-g-thunder/)
 
-[shiori created by anormalzombie](https://yiff-party.com/yiff-gif/shiori-created-by-anormalzombie/)
+[fan character created by ram g thunder](https://yiff-party.com/yiff/fan-character-created-by-ram-g-thunder/)
 
-0 146 0
+0 142 0
 
 September 19, 2024
 
