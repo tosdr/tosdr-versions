@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   81,006.61
+##### SENSEX   81,224.75
 
- -494.75
++ 218.14
 
-##### NIFTY   24,749.85
+##### NIFTY   24,854.05
 
- -221.45
++ 104.20
 
-##### CRUDEOIL   5,903.00
+##### CRUDEOIL   5,867.00
 
- -20.00
++ 12.00
 
-##### GOLD   77,111.00
+##### GOLD   77,750.00
 
-+ 4.00
++ 1.00
 
-##### SILVER   91,778.00
+##### SILVER   95,470.00
 
-+ 34.00
++ 68.00
 
-##### SENSEX   81,006.61
+##### SENSEX   81,224.75
 
- -494.75
++ 218.14
 
-##### NIFTY   24,749.85
+##### NIFTY   24,854.05
 
- -221.45
++ 104.20
 
-##### NIFTY   24,749.85
+##### NIFTY   24,854.05
 
- -221.45
++ 104.20
 
-##### CRUDEOIL   5,903.00
+##### CRUDEOIL   5,867.00
 
- -20.00
++ 12.00
 
-##### CRUDEOIL   5,903.00
+##### CRUDEOIL   5,867.00
 
- -20.00
++ 12.00
 
-##### GOLD   77,111.00
+##### GOLD   77,750.00
 
-+ 4.00
++ 1.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -705,9 +705,9 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-9-october-2024/article68732474.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/stock-market-live-updates-stock-to-buy-today-tech-mahindra-16996/article68765030.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Anil Ambani Reliance Power Shares](https://www.thehindubusinessline.com/markets/stock-markets/anil-ambani-rpower-stocks-reliance-power-share-price-live-updates-today-27-sep-2024/article68684636.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Wipro Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/wipro-stocks-today-wipro-share-price-live-updates-18-oct-2024/article68767754.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Group Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-adani-enterprises-adani-energy-adani-power-adani-green-energy-share-price-live-updates-13-sept-2024/article68637228.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ratan Tata Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/ratan-tata-group-stocks-tcs-tata-motors-tata-power-tata-steel-titan-tata-technologies-tata-communications-share-price-live-updates-11-oct-2024/article68739247.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
@@ -729,7 +729,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on Group sites
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) India Vs Bangladesh Test Live Score](https://sportstar.thehindu.com/cricket/india-vs-bangladesh-live-score-2nd-test-match-updates-ind-v-ban-kanpur-scorecard-weather-highlights-streaming-info/article68685482.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) India Vs New Zealand Live Score](https://sportstar.thehindu.com/cricket/ind-nz-live-score-day-3-1st-test-bangalore-weather-updates-india-vs-new-zealand-scorecard-highlights-streaming-info/article68767579.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Explore Frontline Packages](https://frontline.thehindu.com/packages/?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Cricket News](https://sportstar.thehindu.com/cricket/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/)
