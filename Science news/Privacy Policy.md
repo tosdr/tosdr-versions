@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Is U.S. democracy in decline? Here’s what the science says](https://www.sciencenews.org/article/united-states-democracy-decline-science)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")18 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")22 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [50 years ago, chronic pain mystified scientists](https://www.sciencenews.org/article/50-years-ago-chronic-pain-update)
             
-            By [Aina Abell](https://www.sciencenews.org/author/aina-abell "Posts by Aina Abell")20 hours ago
+            By [Aina Abell](https://www.sciencenews.org/author/aina-abell "Posts by Aina Abell")October 18, 2024
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
