@@ -14,7 +14,7 @@
 * [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
-* [Math Games](https://peaksel.com/category/math-games/)
+* [Math Games](http://peaksel.com/category/math-games/)
 * [Escape Games](https://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
@@ -34,7 +34,7 @@
 * [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
-* [Math Games](https://peaksel.com/category/math-games/)
+* [Math Games](http://peaksel.com/category/math-games/)
 * [Escape Games](https://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
@@ -363,7 +363,7 @@ If a parent or guardian of a child under the age of 13 becomes aware that his/he
 * [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
-* [Math Games](https://peaksel.com/category/math-games/)
+* [Math Games](http://peaksel.com/category/math-games/)
 * [Escape Games](https://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
