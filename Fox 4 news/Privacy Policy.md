@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Burglary ringleader whose been deported twice sentenced to 37 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-collin-co-burglary-ringleader-sentenced-9p_00.00.14.28.jpg?ve=1&tl=1)
+
+ ![Burglary ringleader whose been deported twice sentenced to 37 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-collin-co-burglary-ringleader-sentenced-9p_00.00.14.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sergio-cardenas-salinas-burglary-ringleader-sentenced)
+
+### [Burglary ringleader whose been deported twice sentenced to 37 years](https://www.fox4news.com/news/sergio-cardenas-salinas-burglary-ringleader-sentenced)
+
+ [![Komen Race for the Cure will draw thousands in pink to Plano](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/8296tz-komen-walk-tomorrow_00.00.04.00.jpg?ve=1&tl=1)
+
+ ![Komen Race for the Cure will draw thousands in pink to Plano](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/8296tz-komen-walk-tomorrow_00.00.04.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-komen-dallas-north-texas-race-cure)
+
+### [Komen Race for the Cure will draw thousands in pink to Plano](https://www.fox4news.com/news/2024-komen-dallas-north-texas-race-cure)
+
  [![Dallas County GOP chair lists complaints about voting machine test](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1)
 
  ![Dallas County GOP chair lists complaints about voting machine test](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-gop-chair-lists-complaints-about-voting-machine-test)
 
 ### [Dallas County GOP chair lists complaints about voting machine test](https://www.fox4news.com/news/dallas-county-gop-chair-lists-complaints-about-voting-machine-test)
 
+ [![Girl Scouts may raise yearly dues by 240% amid declining membership](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/girl-scouts-of-america.jpg?ve=1&tl=1)
+
+ ![Girl Scouts may raise yearly dues by 240% amid declining membership](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/girl-scouts-of-america.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/girl-scouts-may-raise-yearly-dues-240-amid-declining-membership)
+
+### [Girl Scouts may raise yearly dues by 240% amid declining membership](https://www.fox4news.com/news/girl-scouts-may-raise-yearly-dues-240-amid-declining-membership)
+
  [![North Texas mom raising awareness about life-threatening pregnancy condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-lori-medical-city-maternal-mortality-5p_00.01.56.48.jpg?ve=1&tl=1)
 
  ![North Texas mom raising awareness about life-threatening pregnancy condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-lori-medical-city-maternal-mortality-5p_00.01.56.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-mom-warns-about-life-threatening-pregnancy-condition)
 
 ### [North Texas mom raising awareness about life-threatening pregnancy condition](https://www.fox4news.com/news/north-texas-mom-warns-about-life-threatening-pregnancy-condition)
-
- [![North Texas truck yards see an increase in thefts involving roofing shingles](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-ll-roof-shingle-thefts-630p_00.02.17.22.jpg?ve=1&tl=1)
-
- ![North Texas truck yards see an increase in thefts involving roofing shingles](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-ll-roof-shingle-thefts-630p_00.02.17.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-18-wheeler-roofing-shingle-thefts)
-
-### [North Texas truck yards see an increase in thefts involving roofing shingles](https://www.fox4news.com/news/north-texas-18-wheeler-roofing-shingle-thefts)
-
- [![Hurst single mom of 4 picked for home revitalization](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-hurst-community-revitalization-event-5p_00.00.53.10.jpg?ve=1&tl=1)
-
- ![Hurst single mom of 4 picked for home revitalization](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-hurst-community-revitalization-event-5p_00.00.53.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurst-single-mom-4-picked-home-revitalization)
-
-### [Hurst single mom of 4 picked for home revitalization](https://www.fox4news.com/news/hurst-single-mom-4-picked-home-revitalization)
-
- [![With execution halted, TX death row inmate Robert Roberson to address lawmakers in ‘shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1)
-
- ![With execution halted, TX death row inmate Robert Roberson to address lawmakers in ‘shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/execution-halted-texas-death-row-inmate-robert-roberson-shaken-baby-syndrome-case)
-
-### [With execution halted, TX death row inmate Robert Roberson to address lawmakers in ‘shaken baby syndrome' case](https://www.fox4news.com/news/execution-halted-texas-death-row-inmate-robert-roberson-shaken-baby-syndrome-case)
 
 ###### [News](https://www.fox4news.com/news)
 
