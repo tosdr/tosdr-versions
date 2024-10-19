@@ -288,10 +288,9 @@ Mega Menu
     
     **Military & Veterans**
     
-    * [Army ROTC](https://www.odu.edu/armyrotc)
-    * [Navy ROTC](https://www.odu.edu/nrotc)
-    * [Veterans Services](https://www.odu.edu/military/veterans-services)
-    * [Military Partnerships](https://www.odu.edu/partnerships/military)
+    * [Military Connection Center](https://ww1.odu.edu/military-connection)
+    * [Army ROTC](https://ww1.odu.edu/armyrotc)
+    * [Navy ROTC](https://ww1.odu.edu/nrotc)
     
 * [About ODU](https://ww1.odu.edu/about)
     
@@ -306,7 +305,7 @@ Mega Menu
     **Leadership**
     
     * [Office of the President](https://ww1.odu.edu/president)
-    * [Administration & Organization](https://ww1.odu.edu/about/orgchart)
+    * [Administration & Organization](https://ww1.odu.edu/president/senior-leadership-team)
     * [Strategic Planning & Initiatives](https://ww1.odu.edu/strategicplan)
     
     **News & Events**
