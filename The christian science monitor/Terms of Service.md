@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 17, 2024
+October 18, 2024
 
-Stories of now, stories of us
+The good that’s all around, if we look for it
 
-News becomes less abstract when it’s grounded in humanity. Plenty of media outlets have figured that out. For the Monitor, it’s an organizing principle. Our coverage routinely involves smart uses of our lens.For Gaza’s residents, now absorbing news of another Hamas leader’s death, the devastating conflict now deepens empathy for the Lebanese under fire to their north (watch for our report soon). Among Jewish residents in France, solidarity girds a refusal to live in fear of those who fuel antisemitism. In countries from Canada to Australia, governments work to foster an understanding that skilled immigrants are essential to social welfare.These are stories of shared values. They’re stories of us.
+We usually talk about our own stories in this space, and appropriately so. But today, I stumbled upon this podcast as I was scanning the Morning Dispatch newsletter: “Country Over Self.” The synopsis says, “Country Over Self and Country Over Party have always been cornerstones of the American Presidency.”Sometimes, it can seem that seeking mutual humanity and our higher natures can be a lonely place in today’s media landscape. But it’s not. The podcast was a welcome reminder to look for the good all around. It’s out there to be found.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Canada-India relations are at a new low. Why China could be the winner.](https://www.csmonitor.com/World/Americas/2024/1018/India-Canada-Trudeau-China-repression-Sikh "Canada-India relations are at a new low. Why China could be the winner.")
+
 [### Last-minute Texas Supreme Court halts execution of man in shaken baby case](https://www.csmonitor.com/USA/2024/1018/Execution-halted-Texas-murder-shaken-baby-syndrome "Last-minute Texas Supreme Court halts execution of man in shaken baby case")
 
 [### South Korea says North Korea is sending troops to Russia. Is that true?](https://www.csmonitor.com/World/Asia-Pacific/2024/1018/north-korea-russia-ukraine-war-troop-deployment "South Korea says North Korea is sending troops to Russia. Is that true?")
-
-[### Hamas leader, Israel’s ‘most wanted,’ is dead. What happens to war in Gaza?](https://www.csmonitor.com/World/Middle-East/2024/1017/israel-hamas-gaza-yahya-sinwar-dead "Hamas leader, Israel’s ‘most wanted,’ is dead. What happens to war in Gaza?")
 
 * * *
 
