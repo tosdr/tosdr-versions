@@ -24,7 +24,7 @@ For the best experience, turn your mobile device portrait mode.
     * [WORKFORCE DEVELOPMENT](https://www.nbcuniversal.com/impact/workforce)
 * [BRANDS](https://www.nbcuniversal.com/brands)
 * [NEWSROOM](https://www.nbcuniversal.com/newsroom)
-* [CAREERS](https://www.nbcunicareers.com/)
+* [CAREERS](https://www.nbcuniversal.com/careers)
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/) [Search](https://www.nbcuniversal.com/search)
 
@@ -64,7 +64,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/95 "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
