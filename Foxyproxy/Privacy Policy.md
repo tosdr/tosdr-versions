@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Instant fix - speeds now back to 4x what they were. Excellent!
+Thanks for the quick responses btw. You guys are always great.
 
-Jim Graham
+Neil Lupton
