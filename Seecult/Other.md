@@ -213,6 +213,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -224,16 +234,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-monument-valley/usa-002.jpg?itok=tNO_vDjb)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-monument-valley-4)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/fotografije-nyc/mark.jpg?itok=sJXGqFow)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/fotografije-nyc)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/izlozba-afrika.jpg?itok=C30O_S0i)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/cvasiv.jpg?itok=OqwgbgzG)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [60\. Oktobarski salon i ključna pitanja današnjice](http://seecult.org/vest/60-oktobarski-salon-i-kljucna-pitanja-danasnjice)
 * [Godišnje nagrade reditelja, u junu novi Balkanski festival režije](http://seecult.org/vest/godisnje-nagrade-reditelja-u-junu-novi-balkanski-festival-rezije)
 * [Kosheen slavi 25 godina u Dorćol Platzu](http://seecult.org/vest/kosheen-slavi-25-godina-u-dorcol-platzu)
 * [43\. Skopski džez festival](http://seecult.org/vest/43-skopski-dzez-festival)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Milica Stojadinović Srpkinja pesnikinji Dragani Mladenović](http://seecult.org/vest/milica-stojadinovic-srpkinja-pesnikinji-dragani-mladenovic)
 * [17\. Kondenz poziva na okupljanje](http://seecult.org/vest/17-kondenz-poziva-na-okupljanje)
 * [Naličje društva](http://seecult.org/vest/nalicje-drustva)
-* [Savremena Crvenkapa](http://seecult.org/vest/savremena-crvenkapa-0)
 
 * [Konkursi](#tab1_1)
 
