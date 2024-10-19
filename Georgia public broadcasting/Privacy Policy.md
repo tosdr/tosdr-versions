@@ -265,8 +265,8 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [Hurricane Milton Latest](https://www.gpb.org/emergency-preparedness)
-* [WATCH: GPB - ALL ARTS LIVE](https://www.allarts.org/)
+* [High School Football Scores](https://www.gpb.org/sports/football/matchups)
+* [Explore GPB Passport](https://www.gpb.org/explore)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
  [![Listen Live](/themes/custom/ga_forest/assets/images/icons/interaction/listen/listen.svg) Listen Live](https://player.streamguys.com/gpb/sgplayer3/index.php)[![Watch Live](/themes/custom/ga_forest/assets/images/icons/interaction/play/play--white.svg) Watch Live](https://www.gpb.org/television/live)
@@ -274,6 +274,20 @@ Don't Miss:
   [![GPB Passport icon](/themes/custom/ga_forest/assets/images/icons/passport/passport--blue-bright.svg) ![GPB Passport icon](/themes/custom/ga_forest/assets/images/icons/passport/passport--black.svg)Passport](https://www.gpb.org/passport "GPB Passport")
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+WATCH LIVE | North Cobb at Cherokee - Kickoff At 7:30 P.M.
+----------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/10/18/north-cobb-at-cherokee)
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
+
+WATCH LIVE | Web Game Of The Week: Lakeside Dekalb at Decatur - Kickoff at 7:30 P.M.
+------------------------------------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/10/18/lakeside-dekalb-at-decatur)
 
 Messages
 --------
