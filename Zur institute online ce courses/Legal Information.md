@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Virtual EMDR Certificate Training Part 2 / Live 15 CE credit hours trainingMore Info](https://www.zurinstitute.com/webinars/virtual-emdr-certificate-training-part-2-2/)
+[Navigating Moral Distress for Healthcare Workers / Each session 1 Live CE credit hour webinarMore Info](https://www.zurinstitute.com/webinars/navigating-moral-distress-healthcare-workers/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
