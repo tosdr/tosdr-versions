@@ -138,24 +138,24 @@ Save settings
 
 ### Featured Articles
 
+[![Deal With Rumors](https://www.wikihow.com/images/thumb/f/fc/Deal-With-Rumors-Step-10-Version-2.jpg/-crop-126-120-126px-Deal-With-Rumors-Step-10-Version-2.jpg)
+
+How to  
+Deal With Rumors](https://www.wikihow.com/Deal-With-Rumors)
+
+[![Ask for a Fade Haircut](https://www.wikihow.com/images/thumb/5/56/Ask-for-a-Fade-Haircut-Step-11.jpg/-crop-126-120-126px-Ask-for-a-Fade-Haircut-Step-11.jpg)
+
+How to  
+Get a Fade that Complements Your Style, Hair Type & More](https://www.wikihow.com/Ask-for-a-Fade-Haircut)
+
+[![Start a Business As a Teenager](https://www.wikihow.com/images/thumb/4/4f/Start-a-Business-As-a-Teenager-Step-12-Version-2.jpg/-crop-126-120-126px-Start-a-Business-As-a-Teenager-Step-12-Version-2.jpg)
+
+How to  
+Start a Business As a Teenager](https://www.wikihow.com/Start-a-Business-As-a-Teenager)
+
 [![What Animal Am I](https://www.wikihow.com/images/thumb/b/ba/What_animal_are_you_quiz.png/-crop-126-120-126px-What_animal_are_you_quiz.png)
 
 What Animal Am I Quiz](https://www.wikihow.com/What-Animal-Am-I)
-
-[![Be Less Impulsive](https://www.wikihow.com/images/thumb/0/0f/Be-Less-Impulsive-Step-17-Version-3.jpg/-crop-126-120-126px-Be-Less-Impulsive-Step-17-Version-3.jpg)
-
-How to  
-Be Less Impulsive](https://www.wikihow.com/Be-Less-Impulsive)
-
-[![Feel Confident](https://www.wikihow.com/images/thumb/0/02/Feel-Confident-Step-17-Version-2.jpg/-crop-126-120-126px-Feel-Confident-Step-17-Version-2.jpg)
-
-How to  
-Feel Confident](https://www.wikihow.com/Feel-Confident)
-
-[![Schedule Your Day](https://www.wikihow.com/images/thumb/b/be/Schedule-Your-Day-Step-14-Version-4.jpg/-crop-126-120-126px-Schedule-Your-Day-Step-14-Version-4.jpg)
-
-How to  
-Schedule Your Day: Examples, Tips & More](https://www.wikihow.com/Schedule-Your-Day)
 
   
 
@@ -198,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-145
+137
