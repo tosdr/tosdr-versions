@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_154428210_menu)
+ [Compartilhar](#elShareItem_1695947290_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1917755834_menu)
+ [Compartilhar](#elShareItem_90624017_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,15 +365,65 @@ Mais opções...
 
 * ### Últimos tópicos
     
+    * [![IVinix](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249147.thumb.jpeg.6f13de283b139066a7200a1498731a07.jpeg)](https://www.clubedohardware.com.br/profile/1249147-ivinix/ "Ir ao perfil de IVinix")
+        
+        0
+        
+        [Pc demora entre 5 a 10 minutos para desligar.](https://www.clubedohardware.com.br/forums/topic/1700040-pc-demora-entre-5-a-10-minutos-para-desligar/?do=getNewComment "Pc demora entre 5 a 10 minutos para desligar.")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [IVinix](https://www.clubedohardware.com.br/profile/1249147-ivinix/ "Ir ao perfil de IVinix")  
+        1 hora atrás
+        
+    * [![Vitorfjs50](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254713.thumb.png.41a1e784e6cebd9d99d00bc02dc7f7cf.png)](https://www.clubedohardware.com.br/profile/1254713-vitorfjs50/ "Ir ao perfil de Vitorfjs50")
+        
+        0
+        
+        [Erro directx Warzone (COD)](https://www.clubedohardware.com.br/forums/topic/1700039-erro-directx-warzone-cod/?do=getNewComment "Erro directx Warzone (COD)")
+        
+        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
+        Por [Vitorfjs50](https://www.clubedohardware.com.br/profile/1254713-vitorfjs50/ "Ir ao perfil de Vitorfjs50")  
+        3 horas atrás
+        
+    * [![GilbertoM12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1217563.thumb.png.6cb3627604375d3552d2bf0d8815fa34.png)](https://www.clubedohardware.com.br/profile/1217563-gilbertom12/ "Ir ao perfil de GilbertoM12")
+        
+        0
+        
+        [placa de Vídeo integrada ou placa de Vídeo fraca](https://www.clubedohardware.com.br/forums/topic/1700038-placa-de-v%C3%ADdeo-integrada-ou-placa-de-v%C3%ADdeo-fraca/?do=getNewComment "placa de Vídeo integrada ou placa de Vídeo fraca")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [GilbertoM12](https://www.clubedohardware.com.br/profile/1217563-gilbertom12/ "Ir ao perfil de GilbertoM12")  
+        3 horas atrás
+        
+    * [![andersonxc](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236b62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1107461-andersonxc/ "Ir ao perfil de andersonxc")
+        
+        0
+        
+        [Corsair VS400 suporta Ryzen 5 5600g + 3060 12gb (chinesa SJS)](https://www.clubedohardware.com.br/forums/topic/1700037-corsair-vs400-suporta-ryzen-5-5600g-3060-12gb-chinesa-sjs/?do=getNewComment "Corsair VS400 suporta Ryzen 5 5600g + 3060 12gb (chinesa SJS)")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [andersonxc](https://www.clubedohardware.com.br/profile/1107461-andersonxc/ "Ir ao perfil de andersonxc")  
+        3 horas atrás
+        
+    * [![Gudy2022](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46287%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")
+        
+        5
+        
+        [Como ligar o RGB das fans do WC? WC Rise mode 240mm](https://www.clubedohardware.com.br/forums/topic/1700036-como-ligar-o-rgb-das-fans-do-wc-wc-rise-mode-240mm/?do=getNewComment "Como ligar o RGB das fans do WC? WC Rise mode 240mm")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Gudy2022](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")  
+        4 horas atrás
+        
     * [![Dorettoz](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1076800.thumb.png.d692f0dfcf180b792da05a0df43abe65.png)](https://www.clubedohardware.com.br/profile/1076800-dorettoz/ "Ir ao perfil de Dorettoz")
         
-        1
+        2
         
         [Baixo uso da GPU em Valorant com RTX 4060 e FPS entre 130-150](https://www.clubedohardware.com.br/forums/topic/1700035-baixo-uso-da-gpu-em-valorant-com-rtx-4060-e-fps-entre-130-150/?do=getNewComment "Baixo uso da GPU em Valorant com RTX 4060 e FPS entre 130-150")
         
         [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
         Por [Dorettoz](https://www.clubedohardware.com.br/profile/1076800-dorettoz/ "Ir ao perfil de Dorettoz")  
-        12 minutos atrás
+        6 horas atrás
         
     * [![Karuara](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245240.thumb.jpeg.9835202a96bfbfcb89dbe7a06d855025.jpeg)](https://www.clubedohardware.com.br/profile/1245240-karuara/ "Ir ao perfil de Karuara")
         
@@ -383,27 +433,27 @@ Mais opções...
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [Karuara](https://www.clubedohardware.com.br/profile/1245240-karuara/ "Ir ao perfil de Karuara")  
-        13 minutos atrás
+        6 horas atrás
         
     * [![henryw](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47362%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254709-henryw/ "Ir ao perfil de henryw")
         
-        0
+        5
         
         [Upgrade estaria bom? Trocariam algo?](https://www.clubedohardware.com.br/forums/topic/1700033-upgrade-estaria-bom-trocariam-algo/?do=getNewComment "Upgrade estaria bom? Trocariam algo?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [henryw](https://www.clubedohardware.com.br/profile/1254709-henryw/ "Ir ao perfil de henryw")  
-        20 minutos atrás
+        6 horas atrás
         
     * [![Leonardo Fiad](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ELF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253756-leonardo-fiad/ "Ir ao perfil de Leonardo Fiad")
         
-        0
+        4
         
         [PC para jogos e trabalhar com Dados e IA](https://www.clubedohardware.com.br/forums/topic/1700032-pc-para-jogos-e-trabalhar-com-dados-e-ia/?do=getNewComment "PC para jogos e trabalhar com Dados e IA")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [Leonardo Fiad](https://www.clubedohardware.com.br/profile/1253756-leonardo-fiad/ "Ir ao perfil de Leonardo Fiad")  
-        31 minutos atrás
+        6 horas atrás
         
     * [![ab.storck](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254708.thumb.jpeg.c6742d31b53906df50f18fc429bcb897.jpeg)](https://www.clubedohardware.com.br/profile/1254708-abstorck/ "Ir ao perfil de ab.storck")
         
@@ -413,57 +463,7 @@ Mais opções...
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
         Por [ab.storck](https://www.clubedohardware.com.br/profile/1254708-abstorck/ "Ir ao perfil de ab.storck")  
-        50 minutos atrás
-        
-    * [![parentti](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254707.thumb.png.6c8a028a88cb9c928a370bb4132e1429.png)](https://www.clubedohardware.com.br/profile/1254707-parentti/ "Ir ao perfil de parentti")
-        
-        2
-        
-        [placa-mãe barata para i5 12400F e rx 580](https://www.clubedohardware.com.br/forums/topic/1700030-placa-m%C3%A3e-barata-para-i5-12400f-e-rx-580/?do=getNewComment "placa-mãe barata para i5 12400F e rx 580")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [parentti](https://www.clubedohardware.com.br/profile/1254707-parentti/ "Ir ao perfil de parentti")  
-        1 hora atrás
-        
-    * [![DonCorleone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/wp12091224-bills-dbz-wallpapers.thumb.jpg.2ccd1da8fdf7283a5d11f9a32f811d46.jpg)](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")
-        
-        5
-        
-        [Qual fonte pra essa config?](https://www.clubedohardware.com.br/forums/topic/1700029-qual-fonte-pra-essa-config/?do=getNewComment "Qual fonte pra essa config?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [DonCorleone](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")  
-        1 hora atrás
-        
-    * [![João Vitor de Souza Neto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251917.thumb.png.a659dd00e4e1c12e82d679c79bee6e76.png)](https://www.clubedohardware.com.br/profile/1251917-jo%C3%A3o-vitor-de-souza-neto/ "Ir ao perfil de João Vitor de Souza Neto")
-        
-        1
-        
-        [Tela preta ao atualizar para o 11](https://www.clubedohardware.com.br/forums/topic/1700028-tela-preta-ao-atualizar-para-o-11/?do=getNewComment "Tela preta ao atualizar para o 11")
-        
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [João Vitor de Souza Neto](https://www.clubedohardware.com.br/profile/1251917-jo%C3%A3o-vitor-de-souza-neto/ "Ir ao perfil de João Vitor de Souza Neto")  
-        2 horas atrás
-        
-    * [![ryan_santos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254706.thumb.png.acbfbcef16bea239d9de455a7d03223d.png)](https://www.clubedohardware.com.br/profile/1254706-ryan_santos/ "Ir ao perfil de ryan_santos")
-        
-        3
-        
-        VisualG [Não consigo compreender o que está de errado](https://www.clubedohardware.com.br/forums/topic/1700027-n%C3%A3o-consigo-compreender-o-que-est%C3%A1-de-errado/?do=getNewComment "Não consigo compreender o que está de errado")
-        
-        [Programação - iniciantes](https://www.clubedohardware.com.br/forums/forum/181-programa%C3%A7%C3%A3o-iniciantes/ "Programação - iniciantes")  
-        Por [ryan\_santos](https://www.clubedohardware.com.br/profile/1254706-ryan_santos/ "Ir ao perfil de ryan_santos")  
-        2 horas atrás
-        
-    * [![MarcosWCA](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254705.thumb.jpeg.3dd6abaf472020af133ba4e8c04b4da1.jpeg)](https://www.clubedohardware.com.br/profile/1254705-marcoswca/ "Ir ao perfil de MarcosWCA")
-        
-        2
-        
-        [Qual placa-mãe até R$400,00 para Core i7 7700 e GeForce GT 740?](https://www.clubedohardware.com.br/forums/topic/1700026-qual-placa-m%C3%A3e-at%C3%A9-r40000-para-core-i7-7700-e-geforce-gt-740/?do=getNewComment "Qual placa-mãe até R$400,00 para Core i7 7700 e GeForce GT 740?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [MarcosWCA](https://www.clubedohardware.com.br/profile/1254705-marcoswca/ "Ir ao perfil de MarcosWCA")  
-        2 horas atrás
+        6 horas atrás
         
     
 
