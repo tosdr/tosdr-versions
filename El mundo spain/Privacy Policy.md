@@ -1,9 +1,9 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZxMNtQoAAVAAAABbDpU)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZxNijQoAAVEAAABcjQE)
 
 Es noticia
 
 * [Pedro Sánchez](https://www.elmundo.es/espana/2024/10/18/67124768fdddffbb6a8b45d9.html)
-* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/10/18/6711f7286a486e491f38c2bb-directo.html)
+* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/10/19/67134bc16a486e491f3fc4ed-directo.html?intcmp=livefeed&catlivefeed=Directo)
 * [Víctor de la Serna](https://www.elmundo.es/papel/2024/10/18/671245f1e4d4d8b73e8b457c.html)
 * [PNV](https://www.elmundo.es/pais-vasco/2024/10/18/671219c321efa0461a8b45bd.html)
 * [Juez Peinado](https://www.elmundo.es/espana/2024/10/18/67128975fc6c83b60f8b45ba.html)
