@@ -63,7 +63,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/93?brandA=Owned_Stations&intake=Telemundo_Nuevo_Mexico "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
