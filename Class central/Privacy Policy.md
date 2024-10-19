@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. psychology
     
-2. computer science
+2. sql
     
-3. flutter
+3. machine learning
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Cybersecurity
     
-    4,064 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Machine Learning
+    16,039 courses](https://www.classcentral.com/subject/cybersecurity)
+2. [Microsoft Excel
     
-    14,862 courses](https://www.classcentral.com/subject/machine-learning)
-3. [Artificial Intelligence
+    1,717 courses](https://www.classcentral.com/subject/microsoft-excel)
+3. [Management & Leadership
     
-    12,176 courses](https://www.classcentral.com/subject/ai)
+    2,350 courses](https://www.classcentral.com/subject/management-and-leadership)
 
 Popular courses
 ---------------
 
-1. [Astronomy: Exploring Time and Space
+1. [Probability - The Science of Uncertainty and Data
     
-    University of Arizona](https://www.classcentral.com/course/astro-3007)
-2. [Psychology of Personal Growth
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/probability-massachusetts-institute-of-technology-1496)
+2. [Excel: Fundamentos y herramientas
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
-3. [Six Sigma Part 1: Define and Measure
+    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
+3. [English for the Workplace
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/six-sigma-technische-universitat-munchen-six-sigm-8450)
+    British Council](https://www.classcentral.com/course/workplace-english-6911)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
