@@ -41,70 +41,70 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    ========================================================================================================================================================
-    
-    Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-* *  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [5 Celebs Who Have Opened Up About Having Miscarriages](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-        
-        While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-        
-    *  [![Ariana Grande in pink](https://www.women.com/img/gallery/5-glinda-coded-outfits-ariana-grande-has-worn-promoting-wicked/intro-1729004293.jpg)](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [5 Glinda-Coded Outfits Ariana Grande Has Worn Promoting Wicked](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-        
-        When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-        
-
-More Stories
-------------
-
-*  [![Ariana Grande](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [Love Lessons We've Learned From Ariana Grande](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-    
-    Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-    
-*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+*  [![](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
     
     [Politics](https://www.women.com/category/politics/)
     
     [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    =======================================================================================================================================================================================
     
     Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
     
     By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+* *  [![](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+        
+        [Wellness](https://www.women.com/category/wellness/)
+        
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        
+        ### [Love Lessons We've Learned From Ariana Grande](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+        
+        Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+        
+    *  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        
+        ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        
+        Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        
+
+More Stories
+------------
+
+*  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [5 Celebs Who Have Opened Up About Having Miscarriages](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+    
+    While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+    
+*  [![Ariana Grande in pink](https://www.women.com/img/gallery/5-glinda-coded-outfits-ariana-grande-has-worn-promoting-wicked/intro-1729004293.jpg)](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Glinda-Coded Outfits Ariana Grande Has Worn Promoting Wicked](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
+    
+    When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
     
 *  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
     
