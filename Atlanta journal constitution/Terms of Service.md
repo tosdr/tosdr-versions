@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Nation’s longest-serving sheriff, elected in Georgia in 1972, has died](https://www.ajc.com/news/georgia-news/cullen-talton-was-re-elected-in-middle-georgias-houston-county-12-times/KS5O5RQI6JH45HBIQJTC5DO2WI/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
