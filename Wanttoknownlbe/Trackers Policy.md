@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/onze-agenda-is-jouw-agenda/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/de-ongenuanceerde-domheid-van-klaas-dijkhof/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
