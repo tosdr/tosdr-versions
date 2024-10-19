@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
+[![What is the average mesothelioma settlement?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-mesothelioma-settlement.jpg "What Is the Average Mesothelioma Settlement?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement "What Is the Average Mesothelioma Settlement?")
 
-[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
+[#### What Is the Average Mesothelioma Settlement?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement)
 
-[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
+[![Can you sue for a car accident if you are not hurt?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-can-you-sue-for-a-car-accident-if-you-are-not-hurt.jpg "Can You Sue For a Car Accident If You Are Not Hurt?")](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/ "Can You Sue For a Car Accident If You Are Not Hurt?")
 
-[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
+[#### Can You Sue For a Car Accident If You Are Not Hurt?](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/)
 
-[![What is the first day of living in a nursing home like?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-is-the-first-day-of-living-in-a-nursing-home-like.jpg "What Is the First Day of Living in a Nursing Home Like?")](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/ "What Is the First Day of Living in a Nursing Home Like?")
+[![What qualifies as pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-what-qualifies-as-pain-and-suffering.jpg "What Qualifies As Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/ "What Qualifies As Pain and Suffering?")
 
-[#### What Is the First Day of Living in a Nursing Home Like?](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/)
+[#### What Qualifies As Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/)
 
 ### Injured?  
 Tell Us What Happened.
