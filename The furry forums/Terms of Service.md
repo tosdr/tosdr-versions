@@ -17,7 +17,7 @@ Login with username, password and session length
 News:
 -----
 
-Make sure you're familiar with the forum rules. You can [find them here](https://www.thefurryforum.com/forums/index.php?page=rules).
+All forum announcements and updates are posted [here](https://www.thefurryforum.com/forums/index.php?board=17.0)!
 
   
   
