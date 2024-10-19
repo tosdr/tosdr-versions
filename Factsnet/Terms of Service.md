@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Enterprise Solutions ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/25-facts-about-enterprise-solutions/)
+[![25 Facts About War Fiction ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/25-facts-about-war-fiction/)
 
-General
+Entertainment
 
-18 Oct 2024
+19 Oct 2024
 
-[25 Facts About Enterprise Solutions](https://facts.net/general/25-facts-about-enterprise-solutions/)
+[25 Facts About War Fiction](https://facts.net/lifestyle/entertainment/25-facts-about-war-fiction/)
 
-[![25 Facts About Heart Tumor Of The Adult ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-heart-tumor-of-the-adult/)
+[![35 Facts About Victorian Slums ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-victorian-slums/)
 
-Health Science
+Society & Social Sciences
 
-18 Oct 2024
+19 Oct 2024
 
-[25 Facts About Heart Tumor Of The Adult](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-heart-tumor-of-the-adult/)
+[35 Facts About Victorian Slums](https://facts.net/society-and-social-sciences/35-facts-about-victorian-slums/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
