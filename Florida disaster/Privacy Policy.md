@@ -5,7 +5,6 @@
 * [Contact Us](https://www.floridadisaster.org/contact-us/)
 * [Alert Florida](https://apps.floridadisaster.org/alertflorida)
 * [Emergency Information](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
-* [State EOC](https://www.floridadisaster.org/SERT/)
 * [Site Index](https://www.floridadisaster.org/site-index/)
 
 [Search](#collapseSearch)
@@ -186,7 +185,6 @@ Search
 * [Contact Us](https://www.floridadisaster.org/contact-us/)
 * [Alert Florida](https://apps.floridadisaster.org/alertflorida)
 * [Emergency Information](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
-* [State EOC](https://www.floridadisaster.org/SERT/)
 * [Site Index](https://www.floridadisaster.org/site-index/)
 
  ![](/Content/images/icon-menu.png) MENU
