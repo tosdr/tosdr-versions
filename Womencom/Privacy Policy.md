@@ -66,22 +66,46 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
         
-    *  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    *  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        ### [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
         
-        Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
+        The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyle's she's rocked so well over the years.
         
-        By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
         
 
 More Stories
 ------------
 
+*  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middletons-biggest-makeup-mistakes-of-all-time/intro-1729179483.jpg)](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [Kate Middleton's Biggest Makeup Mistakes Of All Time](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+    
+    No one aces their glam every time, but it's tough when you're one of the most photographed women in the world.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+    
+*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    
+    Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    
 *  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
     
     [Wellness](https://www.women.com/category/wellness/)
@@ -381,30 +405,6 @@ More Stories
     After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
     
     By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
-    
-*  [![Brittany Mahomes on the red carpet](https://www.women.com/img/gallery/5-brittany-mahomes-outfits-that-totally-missed-the-mark/intro-1727737133.jpg)](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Brittany Mahomes Outfits That Totally Missed The Mark](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
-    
-    Though Brittany Mahomes is known for sporting some great outfits on Game Day, there have been several occasions where her fashion choices raised some eyebrows.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
-    
-*  [![Katie Holmes](https://www.women.com/img/gallery/5-celebrities-were-begging-to-read-memoirs-from/intro-1727887189.jpg)](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [5 Celebrities We're Begging To Write Memoirs](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
-    
-    While some celebrities are itching to find a good ghostwriter, others prefer to stay mum. And it's those celebs we'd love to read memoirs from.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1678533/celebrities-begging-read-memoirs-from/)
     
 
 Back
