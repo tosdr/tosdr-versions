@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Signs of sexual abuse: were you a victim within the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Signs of Sexual Abuse: Were You a Victim within the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-do-i-know-if-i-was-a-victim-of-sexual-abuse-by-the-mormon-church/ "Signs of Sexual Abuse: Were You a Victim within the Mormon Church?")
+[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
 
-[#### Signs of Sexual Abuse: Were You a Victim within the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-do-i-know-if-i-was-a-victim-of-sexual-abuse-by-the-mormon-church/)
+[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
 
-[![How long can you live with stage 4 cancer without treatment?](https://www.pintas.com/wp-content/uploads/2020/11/how-long-can-you-live-with-stage-4-cancer-without-treatment.jpg "How Long Can You Live with Stage 4 Cancer without Treatment?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/ "How Long Can You Live with Stage 4 Cancer without Treatment?")
+[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
 
-[#### How Long Can You Live with Stage 4 Cancer without Treatment?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/)
+[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
 
-[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
+[![What is the first day of living in a nursing home like?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-is-the-first-day-of-living-in-a-nursing-home-like.jpg "What Is the First Day of Living in a Nursing Home Like?")](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/ "What Is the First Day of Living in a Nursing Home Like?")
 
-[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
+[#### What Is the First Day of Living in a Nursing Home Like?](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
