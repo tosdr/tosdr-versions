@@ -20,16 +20,16 @@ Saturday, October 19 2024
 
 Latest
 
-* [My parents are the opposite of tech-savvy — these are the smart home gadgets that won them over](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
-* [Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
-* [Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
-* [Anime Vanguards Cursed Showdown Update Arrives This Weekend with JJK Units](https://digitpatrox.com/anime-vanguards-cursed-showdown-update-arrives-this-weekend-with-jjk-units/)
-* [Software developers are spending more time every week fixing security issues – and it’s costing companies a fortune](https://digitpatrox.com/software-developers-are-spending-more-time-every-week-fixing-security-issues-and-its-costing-companies-a-fortune/)
-* [Apple Pay made wallets digital, and it’s only the beginning – Computerworld](https://digitpatrox.com/apple-pay-made-wallets-digital-and-its-only-the-beginning-computerworld/)
-* [How to Stop X From Giving Away Your Data to Train AIs](https://digitpatrox.com/how-to-stop-x-from-giving-away-your-data-to-train-ais/)
-* [2025 Nissan Murano Preview – Consumer Reports](https://digitpatrox.com/2025-nissan-murano-preview-consumer-reports/)
-* [WEEKNUM vs. ISOWEEKNUM: What's The Difference in Excel?](https://digitpatrox.com/weeknum-vs-isoweeknum-whats-the-difference-in-excel/)
-* [UK jobseekers could be using AI to beef up CVs, lie on applications, and complete skills tests – here’s why you really shouldn’t do that](https://digitpatrox.com/uk-jobseekers-could-be-using-ai-to-beef-up-cvs-lie-on-applications-and-complete-skills-tests-heres-why-you-really-shouldnt-do-that/)
+* [Advance Your Career with These Data Science Skills](https://digitpatrox.com/advance-your-career-with-these-data-science-skills/)
+* [5 best Hulu movies you need to watch this Halloween](https://digitpatrox.com/5-best-hulu-movies-you-need-to-watch-this-halloween/)
+* [How to leverage $200 million FCC program boosting K-12 cybersecurity](https://digitpatrox.com/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
+* [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://digitpatrox.com/dji-sues-the-us-department-of-defense-for-labeling-it-a-chinese-military-company/)
+* [Anime Defenders Codes (October 2024)](https://digitpatrox.com/anime-defenders-codes-october-2024/)
+* [7 Android 15 features you can bring to any phone today – Computerworld](https://digitpatrox.com/7-android-15-features-you-can-bring-to-any-phone-today-computerworld/)
+* [The Samsung Freestyle 2 Gaming Projector Is $200 Off Right Now](https://digitpatrox.com/the-samsung-freestyle-2-gaming-projector-is-200-off-right-now/)
+* [How to Make Your Venmo Information Private](https://digitpatrox.com/how-to-make-your-venmo-information-private/)
+* [The Best GoPros of 2024](https://digitpatrox.com/the-best-gopros-of-2024/)
+* [Feeling safe with that complicated password? Think again, security experts say – complexity affects memorability and fosters unsafe practices](https://digitpatrox.com/feeling-safe-with-that-complicated-password-think-again-security-experts-say-complexity-affects-memorability-and-fosters-unsafe-practices/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/yRFiHJLrXN7bzjc26GexRF-1200-80.jpg)](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tra_20241016-the-advanced-data-science-bundle.jpg)](https://digitpatrox.com/advance-your-career-with-these-data-science-skills/)
     
-    [My parents are the opposite of tech-savvy — these are the smart home gadgets that won them over](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
+    [Advance Your Career with These Data Science Skills](https://digitpatrox.com/advance-your-career-with-these-data-science-skills/)
     
-    14 mins ago
+    56 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/18/nidec.jpg)](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
+* [![](https://cdn.mos.cms.futurecdn.net/NzrC8AbqnVGX79foj4RAmg-1200-80.jpg)](https://digitpatrox.com/5-best-hulu-movies-you-need-to-watch-this-halloween/)
     
-    [Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
-    
-    42 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/w3kUzmNMXbN0INiHa9qj3sANY9o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24533927/STK149_AI_Writing.jpg)](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
-    
-    [Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
-    
-    59 mins ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/10/Anime-Vanguards-Cursed-Showdown-update-1-cover.jpg)](https://digitpatrox.com/anime-vanguards-cursed-showdown-update-arrives-this-weekend-with-jjk-units/)
-    
-    [Anime Vanguards Cursed Showdown Update Arrives This Weekend with JJK Units](https://digitpatrox.com/anime-vanguards-cursed-showdown-update-arrives-this-weekend-with-jjk-units/)
+    [5 best Hulu movies you need to watch this Halloween](https://digitpatrox.com/5-best-hulu-movies-you-need-to-watch-this-halloween/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/m8LD3ENwxn3C9qP6jjPzb3-1200-80.jpg)](https://digitpatrox.com/software-developers-are-spending-more-time-every-week-fixing-security-issues-and-its-costing-companies-a-fortune/)
+* [![](https://www.bleepstatic.com/content/posts/2024/10/17/glowing-red-apple.png)](https://digitpatrox.com/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
     
-    [Software developers are spending more time every week fixing security issues – and it’s costing companies a fortune](https://digitpatrox.com/software-developers-are-spending-more-time-every-week-fixing-security-issues-and-its-costing-companies-a-fortune/)
+    [How to leverage $200 million FCC program boosting K-12 cybersecurity](https://digitpatrox.com/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
     
-    3 hours ago
+    2 hours ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/3jWyUi0eLLwaR0liGcH_X7Juz8Y=/0x0:5326x3551/1200x628/filters:focal(3632x1958:3633x1959)/cdn.vox-cdn.com/uploads/chorus_asset/file/24608113/Mavic_3_Pro_RC_Pro_lifestyle_2.jpg)](https://digitpatrox.com/dji-sues-the-us-department-of-defense-for-labeling-it-a-chinese-military-company/)
+    
+    [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://digitpatrox.com/dji-sues-the-us-department-of-defense-for-labeling-it-a-chinese-military-company/)
+    
+    2 hours ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/06/Anime-Defenders-cover.jpg)](https://digitpatrox.com/anime-defenders-codes-october-2024/)
+    
+    [Anime Defenders Codes (October 2024)](https://digitpatrox.com/anime-defenders-codes-october-2024/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 mins ago
+* [56 mins ago
     
-    ### My parents are the opposite of tech-savvy — these are the smart home gadgets that won them over](https://digitpatrox.com/my-parents-are-the-opposite-of-tech-savvy-these-are-the-smart-home-gadgets-that-won-them-over/)
-* [42 mins ago
+    ### Advance Your Career with These Data Science Skills](https://digitpatrox.com/advance-your-career-with-these-data-science-skills/)
+* [1 hour ago
     
-    ### Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
-* [59 mins ago
+    ### 5 best Hulu movies you need to watch this Halloween](https://digitpatrox.com/5-best-hulu-movies-you-need-to-watch-this-halloween/)
+* [2 hours ago
     
-    ### Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
+    ### How to leverage $200 million FCC program boosting K-12 cybersecurity](https://digitpatrox.com/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
 
 Most Popular Topics
 
-* [September 15, 2024
+* [August 27, 2024
     
-    ### There’s a surprising reason why your yard could be attracting mosquitoes — according to the experts](https://digitpatrox.com/theres-a-surprising-reason-why-your-yard-could-be-attracting-mosquitoes-according-to-the-experts/)
-* [August 14, 2024
+    ### Slack Rolls Out New Automation Features](https://digitpatrox.com/slack-rolls-out-new-automation-features/)
+* [September 11, 2024
     
-    ### Hands on With the Google Pixel 9 Series, 9 Pro Fold, Watch 3, and Buds Pro 2](https://digitpatrox.com/hands-on-with-the-google-pixel-9-series-9-pro-fold-watch-3-and-buds-pro-2/)
-* [September 1, 2024
+    ### How iOS 18 can help you at work](https://digitpatrox.com/how-ios-18-can-help-you-at-work/)
+* [August 19, 2024
     
-    ### Learn How to Use AI for Your Business](https://digitpatrox.com/learn-how-to-use-ai-for-your-business/)
+    ### The New Jewish Home notifies 100K+ people of data breach that compromised SSNs, payment cards, and medical info](https://digitpatrox.com/the-new-jewish-home-notifies-100k-people-of-data-breach-that-compromised-ssns-payment-cards-and-medical-info/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### How to Stop X From Giving Away Your Data to Train AIs](https://digitpatrox.com/how-to-stop-x-from-giving-away-your-data-to-train-ais/)
 * [4 hours ago
     
-    ### 2025 Nissan Murano Preview – Consumer Reports](https://digitpatrox.com/2025-nissan-murano-preview-consumer-reports/)
-* [4 hours ago
+    ### The Samsung Freestyle 2 Gaming Projector Is $200 Off Right Now](https://digitpatrox.com/the-samsung-freestyle-2-gaming-projector-is-200-off-right-now/)
+* [5 hours ago
     
-    ### WEEKNUM vs. ISOWEEKNUM: What's The Difference in Excel?](https://digitpatrox.com/weeknum-vs-isoweeknum-whats-the-difference-in-excel/)
+    ### How to Make Your Venmo Information Private](https://digitpatrox.com/how-to-make-your-venmo-information-private/)
+* [5 hours ago
+    
+    ### The Best GoPros of 2024](https://digitpatrox.com/the-best-gopros-of-2024/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
