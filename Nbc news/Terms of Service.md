@@ -24,7 +24,7 @@ For the best experience, turn your mobile device portrait mode.
     * [WORKFORCE DEVELOPMENT](https://www.nbcuniversal.com/impact/workforce)
 * [BRANDS](https://www.nbcnews.com/brands)
 * [NEWSROOM](https://www.nbcnews.com/newsroom)
-* [CAREERS](https://www.nbcunicareers.com/)
+* [CAREERS](https://www.nbcnews.com/careers)
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/) [Search](https://www.nbcnews.com/search)
 
