@@ -1,4 +1,4 @@
-be\_ixf;ym\_202410 d\_18; ct\_50
+be\_ixf;ym\_202410 d\_19; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -171,9 +171,9 @@ be\_ixf;ym\_202410 d\_18; ct\_50
             
             Blog: Security Essentials
             
-            ##### Recapping Raid Forums: The Place Where Data Was Sold to the Highest Bidder
+            ##### Celebrating Internet Day: The Tech Trifecta Shaping Our Digital Future
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/recapping-raid-forums-the-place-where-data-was-sold-to-the-highest-bidder)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/celebrating-internet-day-the-tech-trifecta-shaping-our-digital-future)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Sam Bocetta](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Adithya Bharath](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Sam Bocetta
+#### Adithya Bharath
 
-Oct 18, 2024
+Oct 19, 2024
 
-### [Recapping Raid Forums: The Place Where Data Was Sold to the Highest Bidder](https://cybersecurity.att.com/blogs/security-essentials/recapping-raid-forums-the-place-where-data-was-sold-to-the-highest-bidder)
+### [Celebrating Internet Day: The Tech Trifecta Shaping Our Digital Future](https://cybersecurity.att.com/blogs/security-essentials/celebrating-internet-day-the-tech-trifecta-shaping-our-digital-future)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
