@@ -207,7 +207,7 @@ Sign up to receive weekly roundups of the latest news and trends with IoT Connec
 
 Email Address(Required)
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
