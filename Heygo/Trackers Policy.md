@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 of the world’s most diverse and beautiful countries](https://media.restless.co.uk/uploads/2024/10/the-worlds-most-diverse-and-beautiful-countries-768x512.jpg)](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
+
+### [10 of the world’s most diverse and beautiful countries](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
+
+[Read More »](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
+
 [![From Arctic to Equator - 11 amazing adventures for every season](https://media.restless.co.uk/uploads/2024/10/from-arctic-to-equator-11-amazing-adventures-for-every-season-768x287.jpg)](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
 
 ### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
@@ -570,12 +576,6 @@ New in travel
 ### [Exploring Italy’s hidden gems – 6 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
 
 [Read More »](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
-
-[![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 Popular travel guides
 ---------------------
