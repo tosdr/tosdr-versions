@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 19, 2024](https://www.japantimes.co.jp/archive/2024/10/19/ "archive page")
+[October 20, 2024](https://www.japantimes.co.jp/archive/2024/10/20/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan shifting back to nuclear to ditch coal and power AI](https://www.japantimes.co.jp/news/2024/10/19/japan/japan-nuclear-energy-ai/ "Japan shifting back to nuclear to ditch coal and power AI")
-
-2 hours ago
-
-[Judge seconded to FSA probed over insider trading suspicions](https://www.japantimes.co.jp/news/2024/10/19/japan/crime-legal/judge-fsa-insider-trading/ "Judge seconded to FSA probed over insider trading suspicions")
+[No Cabinet ministers visit Yasukuni Shrine during fall festival](https://www.japantimes.co.jp/news/2024/10/19/japan/yasukuni-no-cabinet-members/ "No Cabinet ministers visit Yasukuni Shrine during fall festival")
 
 3 hours ago
 
-[Foreign workers trapped and terrified amid conflict in Lebanon](https://www.japantimes.co.jp/news/2024/10/19/world/lebanon-immigrants-trapped/ "Foreign workers trapped and terrified amid conflict in Lebanon")
+[Cuba's electrical grid collapses again; entire country without power](https://www.japantimes.co.jp/news/2024/10/19/world/cuba-power-outage/ "Cuba's electrical grid collapses again; entire country without power")
 
 3 hours ago
 
-[In Modi's Delhi, Indian Muslims segregate to seek security](https://www.japantimes.co.jp/news/2024/10/19/asia-pacific/society/modi-india-muslims-segregation/ "In Modi's Delhi, Indian Muslims segregate to seek security")
+[Japan's land ministry eyes bill to prevent overpriced condo repairs](https://www.japantimes.co.jp/news/2024/10/19/japan/condo-repair-rules/ "Japan's land ministry eyes bill to prevent overpriced condo repairs")
 
-3 hours ago
+4 hours ago
 
-[Warned by police, some of Canada's Sikhs feel threatened by India](https://www.japantimes.co.jp/news/2024/10/19/asia-pacific/politics/canada-sikh-threatened-by-india/ "Warned by police, some of Canada's Sikhs feel threatened by India")
+[Man arrested after throwing apparent firebombs at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/19/japan/crime-legal/ldp-prime-ministers-office-attack/ "Man arrested after throwing apparent firebombs at LDP headquarters")
 
-3 hours ago
+4 hours ago
+
+[Sinwar's death clouds path to freeing Israeli hostages](https://www.japantimes.co.jp/news/2024/10/19/world/sinwar-death-muddy-hostage-release/ "Sinwar's death clouds path to freeing Israeli hostages")
+
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
