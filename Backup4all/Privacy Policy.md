@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
+* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
     
-* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
+* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
     
-* [How to restore a backup from Amazon S3](https://www.backup4all.com/how-to-restore-a-backup-from-amazon-s3-kb.html)  
+* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
     
-* [How to backup your data to Backblaze](https://www.backup4all.com/how-to-backup-your-data-to-backblaze-kb.html)  
+* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
     
-* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
+* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
     
 
 Choose language:
