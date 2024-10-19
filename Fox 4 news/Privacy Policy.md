@@ -54,7 +54,7 @@ Search site
 
 * [Links from On Air](https://www.fox4news.com/links)
 * [Birthdays](https://www.fox4news.com/good-day-birthdays)
-* [Recipes](https://www.fox4news.com/tag/good-day-recipes)
+* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Burglary ringleader whose been deported twice sentenced to 37 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-collin-co-burglary-ringleader-sentenced-9p_00.00.14.28.jpg?ve=1&tl=1)
+ [![Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/oscar3.jpg?ve=1&tl=1)
 
- ![Burglary ringleader whose been deported twice sentenced to 37 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-collin-co-burglary-ringleader-sentenced-9p_00.00.14.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sergio-cardenas-salinas-burglary-ringleader-sentenced)
+ ![Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/oscar3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/oscar-strengthens-hurricane-southwest-atlantic-watches-warnings-expand-bahamas-cuba)
 
-### [Burglary ringleader whose been deported twice sentenced to 37 years](https://www.fox4news.com/news/sergio-cardenas-salinas-burglary-ringleader-sentenced)
+### [Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://www.fox4news.com/weather/oscar-strengthens-hurricane-southwest-atlantic-watches-warnings-expand-bahamas-cuba)
 
- [![Komen Race for the Cure will draw thousands in pink to Plano](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/8296tz-komen-walk-tomorrow_00.00.04.00.jpg?ve=1&tl=1)
+ [![American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2031347923-scaled.jpg?ve=1&tl=1)
 
- ![Komen Race for the Cure will draw thousands in pink to Plano](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/8296tz-komen-walk-tomorrow_00.00.04.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-komen-dallas-north-texas-race-cure)
+ ![American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2031347923-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-cessna-close-call-austin-texas-faa)
 
-### [Komen Race for the Cure will draw thousands in pink to Plano](https://www.fox4news.com/news/2024-komen-dallas-north-texas-race-cure)
+### [American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://www.fox4news.com/news/american-airlines-cessna-close-call-austin-texas-faa)
 
- [![Dallas County GOP chair lists complaints about voting machine test](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1)
+ [![A growing share of Gen Z adults don't think they'll retire: only 20% are saving for it](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1910392539-scaled.jpg?ve=1&tl=1)
 
- ![Dallas County GOP chair lists complaints about voting machine test](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-gop-chair-lists-complaints-about-voting-machine-test)
+ ![A growing share of Gen Z adults don't think they'll retire: only 20% are saving for it](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1910392539-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gen-z-adults-dont-think-theyll-retire)
 
-### [Dallas County GOP chair lists complaints about voting machine test](https://www.fox4news.com/news/dallas-county-gop-chair-lists-complaints-about-voting-machine-test)
+### [A growing share of Gen Z adults don't think they'll retire: only 20% are saving for it](https://www.fox4news.com/news/gen-z-adults-dont-think-theyll-retire)
 
- [![Girl Scouts may raise yearly dues by 240% amid declining membership](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/girl-scouts-of-america.jpg?ve=1&tl=1)
+ [![Alabama woman arrested, son kicked off cruise ship after alleged assault on older passenger](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/kelli-lyn-ryan-miami-dade-corrections.jpg?ve=1&tl=1)
 
- ![Girl Scouts may raise yearly dues by 240% amid declining membership](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/girl-scouts-of-america.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/girl-scouts-may-raise-yearly-dues-240-amid-declining-membership)
+ ![Alabama woman arrested, son kicked off cruise ship after alleged assault on older passenger](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/kelli-lyn-ryan-miami-dade-corrections.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kelli-lyn-rian-alabama-cruise-ship-arrest)
 
-### [Girl Scouts may raise yearly dues by 240% amid declining membership](https://www.fox4news.com/news/girl-scouts-may-raise-yearly-dues-240-amid-declining-membership)
+### [Alabama woman arrested, son kicked off cruise ship after alleged assault on older passenger](https://www.fox4news.com/news/kelli-lyn-rian-alabama-cruise-ship-arrest)
 
- [![North Texas mom raising awareness about life-threatening pregnancy condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-lori-medical-city-maternal-mortality-5p_00.01.56.48.jpg?ve=1&tl=1)
+ [!['Lieutenant Dan' who vowed to ride out Florida hurricanes on his boat arrested in Tampa](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gettyimages-2177627035-scaled.jpg?ve=1&tl=1)
 
- ![North Texas mom raising awareness about life-threatening pregnancy condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-lori-medical-city-maternal-mortality-5p_00.01.56.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-mom-warns-about-life-threatening-pregnancy-condition)
+ !['Lieutenant Dan' who vowed to ride out Florida hurricanes on his boat arrested in Tampa](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177627035-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-who-vowed-ride-out-florida-hurricanes-his-boat-is-arrested-tampa)
 
-### [North Texas mom raising awareness about life-threatening pregnancy condition](https://www.fox4news.com/news/north-texas-mom-warns-about-life-threatening-pregnancy-condition)
+### ['Lieutenant Dan' who vowed to ride out Florida hurricanes on his boat arrested in Tampa](https://www.fox4news.com/news/man-who-vowed-ride-out-florida-hurricanes-his-boat-is-arrested-tampa)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -469,7 +469,7 @@ Please note that, in some instances, we may decline to honor your request where,
 
 * [Links from On Air](https://www.fox4news.com/links)
 * [Birthdays](https://www.fox4news.com/good-day-birthdays)
-* [Recipes](https://www.fox4news.com/tag/good-day-recipes)
+* [Recipes](https://www.fox4news.com/tag/good-day/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
