@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
+    *  [![](https://media.king5.com/assets/KING/images/bea2d812-490d-4390-90a8-2dcd1ba48b1d/20241019T192618/bea2d812-490d-4390-90a8-2dcd1ba48b1d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bea2d812-490d-4390-90a8-2dcd1ba48b1d/20241019T192618/bea2d812-490d-4390-90a8-2dcd1ba48b1d_360x203.jpg)](https://www.king5.com/article/entertainment/events/seattle-catrinas-festival-celebrate-da-de-los-muertos/281-5684a2f6-85c5-41c5-b7e6-4e6557800386)
         
-        #### [Wind Advisory in effect through Saturday morning](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
+        #### [Seattle Catrinas Festival invites everyone to celebrate Día de los Muertos](https://www.king5.com/article/entertainment/events/seattle-catrinas-festival-celebrate-da-de-los-muertos/281-5684a2f6-85c5-41c5-b7e6-4e6557800386)
         
-    *  [![](https://media.king5.com/assets/KING/images/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7/20241016T145723/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7/20241016T145723/62fc7b40-c554-41b0-b5e8-e8bcf08c45a7_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-police-pull-man-away-oncoming-train/281-f0d1fa13-2aee-493f-840b-413739084b28)
+    *  [![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_360x203.jpg)](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
         
-        #### [Man rescued from train tracks by Seattle police officers seconds before being hit](https://www.king5.com/article/news/local/seattle/seattle-police-pull-man-away-oncoming-train/281-f0d1fa13-2aee-493f-840b-413739084b28)
+        #### [Former KING 5 anchor Michelle Li, Very Asian Foundation host Bellevue community event](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/659603e7-ac65-492a-bd74-279487398f55/20241019T010732/659603e7-ac65-492a-bd74-279487398f55_16x9.jpg) ![](https://media.king5.com/assets/KING/images/659603e7-ac65-492a-bd74-279487398f55/20241019T010732/659603e7-ac65-492a-bd74-279487398f55_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c4c76a28-8050-4b3d-b428-4777f7f7c42b/20241019T152227/c4c76a28-8050-4b3d-b428-4777f7f7c42b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4c76a28-8050-4b3d-b428-4777f7f7c42b/20241019T152227/c4c76a28-8050-4b3d-b428-4777f7f7c42b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+65°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
