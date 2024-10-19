@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZW vs WIW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94696/nzw-vs-wiw-2nd-semi-final-icc-womens-t20-world-cup-2024 "New Zealand Women v West Indies Women, 2nd Semi Final - NZW Won")[IND vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Stumps")[PAK vs ENG - PAK Won](https://www.cricbuzz.com/live-cricket-scores/101043/pak-vs-eng-2nd-test-england-tour-of-pakistan-2024 "Pakistan v England, 2nd Test - PAK Won")[BRHW vs ADSW - Preview](https://www.cricbuzz.com/live-cricket-scores/104068/brhw-vs-adsw-1st-semi-final-t20-spring-challenge-2024 "Brisbane Heat Women v Adelaide Strikers Women, 1st Semi-Final - Preview")[AUSW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94687/ausw-vs-rsaw-1st-semi-final-icc-womens-t20-world-cup-2024 "Australia Women v South Africa Women, 1st Semi Final - RSAW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZW vs WIW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94696/nzw-vs-wiw-2nd-semi-final-icc-womens-t20-world-cup-2024 "New Zealand Women v West Indies Women, 2nd Semi Final - NZW Won")[IND vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Stumps")[PAK vs ENG - PAK Won](https://www.cricbuzz.com/live-cricket-scores/101043/pak-vs-eng-2nd-test-england-tour-of-pakistan-2024 "Pakistan v England, 2nd Test - PAK Won")[BRHW vs ADSW - Live](https://www.cricbuzz.com/live-cricket-scores/104068/brhw-vs-adsw-1st-semi-final-t20-spring-challenge-2024 "Brisbane Heat Women v Adelaide Strikers Women, 1st Semi-Final - Live")[AUSW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94687/ausw-vs-rsaw-1st-semi-final-icc-womens-t20-world-cup-2024 "Australia Women v South Africa Women, 1st Semi Final - RSAW Won")
 
 AllLive NowToday
 
@@ -104,6 +104,10 @@ AllLive NowToday
     
     2nd T20I
     
+* [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/108529/usa-vs-nep-3rd-t20i-nepal-tour-of-united-states-of-america-2024 "United States of America v Nepal, 3rd T20I - Upcoming")
+    
+    3rd T20I
+    
 * ICC Mens T20 World Cup Sub Regional Africa Qualifier Group B, 2024
     
     [Gambia vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/108441/gm-vs-rwa-1st-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Gambia v Rwanda, 1st Match - Upcoming")
@@ -134,19 +138,7 @@ AllLive NowToday
     
     CSA T20 Challenge
     
-    [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103539/lions-vs-wpr-23rd-match-csa-t20-challenge "Lions v Western Province, 23rd Match - WPR Won")
-    
-    23rd Match
-    
-* [Knights vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103530/kng-vs-dol-22nd-match-csa-t20-challenge "Knights v Dolphins, 22nd Match - DOL Won")
-    
-    22nd Match
-    
-* [Boland vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103528/bol-vs-war-21st-match-csa-t20-challenge "Boland v Warriors, 21st Match - BOL Won")
-    
-    21st Match
-    
-* [Western Province vs Knights](https://www.cricbuzz.com/live-cricket-scores/103555/wpr-vs-kng-25th-match-csa-t20-challenge "Western Province v Knights, 25th Match - Upcoming")
+    [Western Province vs Knights](https://www.cricbuzz.com/live-cricket-scores/103555/wpr-vs-kng-25th-match-csa-t20-challenge "Western Province v Knights, 25th Match - Upcoming")
     
     25th Match
     
@@ -187,14 +179,6 @@ AllLive NowToday
 * [Bengal vs Bihar](https://www.cricbuzz.com/live-cricket-scores/97367/ben-vs-bih-elite-group-c-ranji-trophy "Bengal v Bihar, Elite Group C - Delay")
     
     Elite Group C
-    
-* [Vidarbha vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97349/vid-vs-pdc-elite-group-b-ranji-trophy "Vidarbha v Puducherry, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Jharkhand vs Railways](https://www.cricbuzz.com/live-cricket-scores/97403/jhkd-vs-rlys-elite-group-d-ranji-trophy "Jharkhand v Railways, Elite Group D - Stumps")
-    
-    Elite Group D
     
 * [Uttarakhand vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97340/utk-vs-hyd-elite-group-b-ranji-trophy "Uttarakhand v Hyderabad, Elite Group B - Stumps")
     
@@ -239,6 +223,14 @@ AllLive NowToday
 * [Kerala vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97358/ker-vs-kar-elite-group-c-ranji-trophy "Kerala v Karnataka, Elite Group C - Stumps")
     
     Elite Group C
+    
+* [Vidarbha vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97349/vid-vs-pdc-elite-group-b-ranji-trophy "Vidarbha v Puducherry, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Jharkhand vs Railways](https://www.cricbuzz.com/live-cricket-scores/97403/jhkd-vs-rlys-elite-group-d-ranji-trophy "Jharkhand v Railways, Elite Group D - Stumps")
+    
+    Elite Group D
     
 * Ranji Trophy Plate
     
@@ -334,7 +326,7 @@ AllLive NowToday
     
     18th Match
     
-* [Brisbane Heat Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/104068/brhw-vs-adsw-1st-semi-final-t20-spring-challenge "Brisbane Heat Women v Adelaide Strikers Women, 1st Semi-Final - Preview")
+* [Brisbane Heat Women vs Adelaide Strikers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/104068/brhw-vs-adsw-1st-semi-final-t20-spring-challenge "Brisbane Heat Women v Adelaide Strikers Women, 1st Semi-Final - Live")
     
     1st Semi-Final
     
@@ -667,37 +659,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [NZ overcome Dottin's all round heroics to reach third World Cup Final](https://www.cricbuzz.com/cricket-news/132097/nz-overcome-dottins-all-round-heroics-to-reach-third-world-cup-final "NZ overcome Dottin's all round heroics to reach third World Cup Final ")
 
-50m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132096/when-south-africa-out-australianed-the-aussies "When South Africa out-Australianed the Aussies")
 
 [When South Africa out-Australianed the Aussies](https://www.cricbuzz.com/cricket-news/132096/when-south-africa-out-australianed-the-aussies "When South Africa out-Australianed the Aussies")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132095/dipendra-singh-airee-pioneers-nepal-to-victory "Dipendra Singh Airee pioneers Nepal to victory over USA ")
 
 [Dipendra Singh Airee pioneers Nepal to victory over USA](https://www.cricbuzz.com/cricket-news/132095/dipendra-singh-airee-pioneers-nepal-to-victory "Dipendra Singh Airee pioneers Nepal to victory over USA ")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132094/rachin-ravindra-century-india-v-new-zealand-chinnaswamy-bengaluru-test-cricket "Ravindra's wristy knock adds new chapter to his Bengaluru story")
 
 [Ravindra's wristy knock adds new chapter to his Bengaluru story](https://www.cricbuzz.com/cricket-news/132094/rachin-ravindra-century-india-v-new-zealand-chinnaswamy-bengaluru-test-cricket "Ravindra's wristy knock adds new chapter to his Bengaluru story")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132093/ranji-highlights-sai-sudharsan-slams-double-ton "Ranji Highlights: Sai Sudharsan slams double ton")
 
 [Ranji Highlights: Sai Sudharsan slams double ton](https://www.cricbuzz.com/cricket-news/132093/ranji-highlights-sai-sudharsan-slams-double-ton "Ranji Highlights: Sai Sudharsan slams double ton")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132092/hathurusingha-lodges-his-dismissal-as-head-coach-premeditated "Hathurusingha dismisses BCB's allegations as 'premeditated'")
 
 [Hathurusingha dismisses BCB's allegations as 'premeditated'](https://www.cricbuzz.com/cricket-news/132092/hathurusingha-lodges-his-dismissal-as-head-coach-premeditated "Hathurusingha dismisses BCB's allegations as 'premeditated'")
 
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
