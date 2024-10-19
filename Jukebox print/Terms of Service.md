@@ -224,6 +224,7 @@ EUR
     * [Mini Boxes](https://www.jukeboxprint.com/mini-boxes)
     * [Wrapping Paper](https://www.jukeboxprint.com/wrapping-paper)
     * [Tissue Paper](https://www.jukeboxprint.com/tissue-paper)
+    * [Canvas Prints](https://www.jukeboxprint.com/canvas-prints)
     
     Information[#### Custom Coasters](https://www.jukeboxprint.com/custom-coasters)[Both functional and valuable, custom coasters are a great way to promote your brand while protecting any surface. The perfect addition to any network event or conference and an excellent staple for any bar or restaurant.](https://www.jukeboxprint.com/custom-coasters)
     
@@ -266,6 +267,8 @@ EUR
     Information[#### Custom Wrapping Paper](https://www.jukeboxprint.com/wrapping-paper)[Take your gift-giving to the next level with custom wrapping paper! Perfect for the holiday season, this affordable and versatile gift-wrapping option will leave a lasting impression.](https://www.jukeboxprint.com/wrapping-paper)
     
     Information[#### Custom Printed Tissue Paper](https://www.jukeboxprint.com/tissue-paper)[Premium custom printed tissue paper: luxurious, semi-translucent designs in three sizes. Ideal for branding & product stuffing.](https://www.jukeboxprint.com/tissue-paper)
+    
+    Information[#### Canvas Prints](https://www.jukeboxprint.com/canvas-prints)[Create custom canvas prints with fast turnaround and outstanding quality. Vibrant, long-lasting prints on durable wooden frames—perfect for decorating or gifting.](https://www.jukeboxprint.com/canvas-prints)
     
 * [Invitations & Stationery](#)
 * * [Greeting Cards](https://www.jukeboxprint.com/greeting-cards)
