@@ -720,6 +720,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Partners with CILEX to Enhance Access to Legal Education](https://www.futurelearn.com/info/press/futurelearn-partners-with-cilex-to-enhance-access-to-legal-education)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the leading social learning platform, is excited to announce its strategic content partnership with …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![mature student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1479512006-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/diphe-guide)
     
     [The complete guide to a diploma of higher education (DipHE)](https://www.futurelearn.com/info/blog/diphe-guide)
@@ -746,15 +753,6 @@ Powered By
     Curious about COP29? Explore all there is to know about the 29th annual Conference of …
     
     Category: [Current Issues](https://www.futurelearn.com/info/blog/current-issues), [Environment](https://www.futurelearn.com/info/what-is/environment-what-is), [General](https://www.futurelearn.com/info/blog/general)
-    
-* [![public health student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-94-1-150x150.png)](https://www.futurelearn.com/info/blog/what-can-you-do-with-a-public-health-masters-degree)
-    
-    [What can you do with a Public Health Master’s Degree?](https://www.futurelearn.com/info/blog/what-can-you-do-with-a-public-health-masters-degree)
-    --------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Discover everything you need to know about public health master's degrees and the career opportunities …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [Healthcare & Medicine](https://www.futurelearn.com/info/healthcare-medicine)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
