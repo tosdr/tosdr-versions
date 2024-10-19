@@ -12,17 +12,15 @@ Search
 
 [**DONATE**](https://donate.bibleask.org/) [♥](https://donate.bibleask.org/)
 
-Questions by Topic
+Menu
 
-* [Bible](https://bibleask.org/category/bible/)
-* [Church](https://bibleask.org/category/church/)
-* [God](https://bibleask.org/category/god/)
-* [Jesus](https://bibleask.org/category/jesus/)
-* [Prophecy](https://bibleask.org/category/prophecy/)
-* [Personal](https://bibleask.org/category/personal/)
-* [Salvation](https://bibleask.org/category/salvation/)
-* [Verses](https://bibleask.org/category/verses/)
-* [(see all)](https://bibleask.org/topics/)
+* [Home](https://bibleask.org/)
+* [Questions by Topic](https://bibleask.org/topics/)
+* [Q&A Podcast](https://bibleask.org/live/)
+* [Apps](https://bibleask.org/apps/)
+* [Ask Alpha (AI)](https://bibleask.org/alpha/)
+* [Bible (KJV, ASV)](https://bible.bibleask.org/)
+* [Subscribe](https://bibleask.org/subscribe/)
 
 [Home](https://bibleask.org/)
 
