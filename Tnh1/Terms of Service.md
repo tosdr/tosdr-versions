@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Câmera flagra criminosos furtando moto guardada em estacionamento ](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/18/furto_motocicleta.png)
-
-Polícia
-
-Câmera flagra criminosos furtando moto guardada em estacionamento](https://www.tnh1.com.br/noticia/nid/camera-flagra-criminosos-furtando-moto-guardada-em-estacionamento/ "Câmera flagra criminosos furtando moto guardada em estacionamento ")    [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
-
-Veja programação
-
-3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
+   [![Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/9/csm_capa-pajugamer_d288ae4f79.jpg)
 
 Maceió
 
-Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
+Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-2024-confira-o-que-vai-rolar-neste-sabado-no-maceio-shopping/ "Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping")   [![Câmera flagra criminosos furtando moto guardada em estacionamento ](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/18/furto_motocicleta.png)
+
+Polícia
+
+Câmera flagra criminosos furtando moto guardada em estacionamento](https://www.tnh1.com.br/noticia/nid/camera-flagra-criminosos-furtando-moto-guardada-em-estacionamento/ "Câmera flagra criminosos furtando moto guardada em estacionamento ")    [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
+
+Veja programação
+
+3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
+
+Maceió
+
+Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
 
 barro duro
 
-Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
+Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
 
 Operação Firewall
 
-Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
-
-Veja vídeo
-
-Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")
+Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -206,15 +206,7 @@ Saúde
 
 Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos
 
-Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[![Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/b/csm_menino-2-anos-bahia-QI-reproducao-arquivo-pessoal_152e53af00.jpg)
-
-superdotado
-
-superdotado
-
-Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI
-
-Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://www.tnh1.com.br/noticia/nid/menino-de-2-anos-da-bahia-e-o-brasileiro-mais-jovem-a-entrar-para-sociedade-internacional-de-alto-qi/ "Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
 
 quase 10 mil imagens
 
@@ -222,7 +214,7 @@ quase 10 mil imagens
 
 "Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
 
 Polícia investiga
 
@@ -230,7 +222,15 @@ Polícia investiga
 
 Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
 
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")[![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_72bcb6379e.png)
+
+'Damares'
+
+'Damares'
+
+Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas
+
+Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")
 
 [![Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_csm_ozempic_fa13d14371_fffd996311.jpg)
 
