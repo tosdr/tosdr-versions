@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/9/csm_capa-pajugamer_d288ae4f79.jpg)
+   [![Maceió ganha novas áreas de espera em semáforos para motociclistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_semaforo_motociclistas_ascom_dmtt_41c9659a9c.jpeg)
+
+Motobox
+
+Maceió ganha novas áreas de espera em semáforos para motociclistas](https://www.tnh1.com.br/noticia/nid/maceio-ganha-novas-areas-de-espera-em-semaforos-para-motociclistas/ "Maceió ganha novas áreas de espera em semáforos para motociclistas")   [![Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/9/csm_capa-pajugamer_d288ae4f79.jpg)
 
 Maceió
 
-Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-2024-confira-o-que-vai-rolar-neste-sabado-no-maceio-shopping/ "Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping")   [![Câmera flagra criminosos furtando moto guardada em estacionamento ](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/18/furto_motocicleta.png)
+Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-2024-confira-o-que-vai-rolar-neste-sabado-no-maceio-shopping/ "Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping")   [![Câmera flagra criminosos furtando moto guardada em estacionamento ](https://tnh1-cdn3.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/18/furto_motocicleta.png)
 
 Polícia
 
-Câmera flagra criminosos furtando moto guardada em estacionamento](https://www.tnh1.com.br/noticia/nid/camera-flagra-criminosos-furtando-moto-guardada-em-estacionamento/ "Câmera flagra criminosos furtando moto guardada em estacionamento ")    [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
+Câmera flagra criminosos furtando moto guardada em estacionamento](https://www.tnh1.com.br/noticia/nid/camera-flagra-criminosos-furtando-moto-guardada-em-estacionamento/ "Câmera flagra criminosos furtando moto guardada em estacionamento ")    [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
 
 Veja programação
 
-3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
+3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
 
 Maceió
 
-Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
+Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
 
 barro duro
 
-Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
-
-Operação Firewall
-
-Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")
+Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https:
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![IML procura familiares de homem assassinado por amante em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_Moacir_da_Silva_-_foto_Divulgacao_Policia_Cientifica_2_e5e1224cb0.jpg)
+   [!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_28ac57f71c.jpg)
 
-Polícia
+Cidade Universitária
 
-IML procura familiares de homem assassinado por amante em Rio Largo](https://www.tnh1.com.br/noticia/nid/iml-procura-familiares-de-homem-assassinado-por-amante-em-rio-largo/ "IML procura familiares de homem assassinado por amante em Rio Largo")   [![Um dia após sair da cadeia, homem volta a ser preso por furtar lojas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/8/csm_homem-preso-Jatiuca-furtos-cortesia_d25a74c8cc.png)
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")   [![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_6649d71011.jpg)
 
-Veja vídeo
+No Jacintinho
 
-Um dia após sair da cadeia, homem volta a ser preso por furtar lojas em Maceió](https://www.tnh1.com.br/noticia/nid/um-dia-apos-sair-da-cadeia-homem-volta-a-ser-preso-por-furtar-lojas-em-maceio/ "Um dia após sair da cadeia, homem volta a ser preso por furtar lojas em Maceió")   [![Operacão Game Over: Polícia Civil encerra investigação contra influenciadores digitais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_csm_Carros_apreendidos_Jogo_do_Tigrinho_-_foto_PCAL_a8e2e220d4_afbc5b41c4.jpeg)
+Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")   [![Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
 
-Polícia
+Violência
 
-Operacão Game Over: Polícia Civil encerra investigação contra influenciadores digitais](https://www.tnh1.com.br/noticia/nid/operacao-game-over-policia-civil-encerra-investigacao-contra-influenciadores-digitais/ "Operacão Game Over: Polícia Civil encerra investigação contra influenciadores digitais")   [![Quatro meses depois: veja o que se sabe sobre a morte de blogueiro de política em Junqueiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_adriano_farias_arquivo_pessoal_15c4a2d4a9.png)
+Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-companheira-denuncia-lo-por-agressoes-e-injuria-em-rio-largo/ "Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo")   [![Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_csm_viatura_rotam_6b45d9697e_057ceec0aa.jpeg)
 
-morto a tiros
+Na Levada
 
-Quatro meses depois: veja o que se sabe sobre a morte de blogueiro de política em Junqueiro](https://www.tnh1.com.br/noticia/nid/quatro-meses-depois-veja-o-que-se-sabe-sobre-a-morte-de-blogueiro-de-politica-em-junqueiro/ "Quatro meses depois: veja o que se sabe sobre a morte de blogueiro de política em Junqueiro")   [![Veja as pistas que levaram à prisão de companheiro de professora morta com coxinha envenenada ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_Caso_Joyse_-_coletiva_-_delegado_Romulo_Andrade_-_foto_Reproducao_TV_Pajucara_78e8bab311.jpg)
+Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://www.tnh1.com.br/noticia/nid/apos-denuncia-policia-encontra-5-kg-de-maconha-em-casa-do-trafico-na-vila-brejal/ "Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal")   [![Genro bebe, discute com sogro e tenta estrangulá-lo em Maceió; PM prende agressor](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
 
-passo a passo
+No Clima Bom
 
-Veja as pistas que levaram à prisão de companheiro de professora morta com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/veja-as-pistas-que-levaram-a-prisao-de-companheiro-de-professora-morta-com-coxinha-envenenada/ "Veja as pistas que levaram à prisão de companheiro de professora morta com coxinha envenenada ")   [![Perícia confirma que professora morreu após ingerir alimento contaminado com praguicida ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_ba21091880.jpeg)
+Genro bebe, discute com sogro e tenta estrangulá-lo em Maceió; PM prende agressor](https://www.tnh1.com.br/noticia/nid/genro-bebe-discute-com-sogro-e-tenta-estrangula-lo-em-maceio-pm-prende-agressor/ "Genro bebe, discute com sogro e tenta estrangulá-lo em Maceió; PM prende agressor")   [![Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_csm_gun-revolver-fire-firing-370202_18d01f626b_6ee8a66251.jpeg)
 
-caso joyce
+Vítima socorrida
 
-Perícia confirma que professora morreu após ingerir alimento contaminado com praguicida](https://www.tnh1.com.br/noticia/nid/pericia-confirma-que-professora-morreu-apos-ingerir-alimento-contaminado-com-praguicida/ "Perícia confirma que professora morreu após ingerir alimento contaminado com praguicida ")
+Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://www.tnh1.com.br/noticia/nid/briga-por-causa-de-divida-de-r-150-acaba-em-tentativa-de-assassinato-a-tiros-em-maceio/ "Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -124,7 +124,11 @@ Perícia confirma que professora morreu após ingerir alimento contaminado com p
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
+
+Pessoas & Negócios
+
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/8/csm_Pressao_Alta_-_Freepik_3_9ffe2ae767.jpg)
+[![Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_Pressao_Alta_-_Freepik_3_9ffe2ae767.jpg)
 
 Saúde
 
@@ -206,7 +210,7 @@ Saúde
 
 Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos
 
-Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
 
 quase 10 mil imagens
 
@@ -214,7 +218,7 @@ quase 10 mil imagens
 
 "Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
 
 Polícia investiga
 
@@ -222,7 +226,7 @@ Polícia investiga
 
 Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
 
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")[![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_72bcb6379e.png)
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")[![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_72bcb6379e.png)
 
 'Damares'
 
@@ -232,39 +236,39 @@ Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no inte
 
 Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")
 
-[![Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_csm_ozempic_fa13d14371_fffd996311.jpg)
+[![Governador da Bahia decreta três dias de luto após massacre em escola](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/19/massacre_escola_bahia_foto_reproducao.png)
 
-Fluxo sanguíneo
+Mortes de alunos
 
-Fluxo sanguíneo
+Mortes de alunos
 
-Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise
+Governador da Bahia decreta três dias de luto após massacre em escola
 
-Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise](https://www.tnh1.com.br/noticia/nid/medicamentos-como-ozempic-podem-ter-beneficios-para-o-cerebro-diz-analise/ "Medicamentos como Ozempic podem ter benefícios para o cérebro, diz análise")[![Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/0/csm_liam-payne-fortuna-reproducao-redes-sociais__1__0fe50fd480.jpg)
+Governador da Bahia decreta três dias de luto após massacre em escola](https://www.tnh1.com.br/noticia/nid/governador-da-bahia-decreta-tres-dias-de-luto-apos-massacre-em-escola/ "Governador da Bahia decreta três dias de luto após massacre em escola")[![Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_csm_netanyahu_record_tv_18c04cfdca.jpg)
 
-R$ 395 milhões
+oriente médio
 
-R$ 395 milhões
+oriente médio
 
-Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?
+Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas
 
-Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?](https://www.tnh1.com.br/noticia/nid/qual-e-a-fortuna-de-liam-payne-e-quem-herdara-os-bens-do-ex-one-direction/ "Qual é a fortuna de Liam Payne e quem herdará os bens do ex-One Direction?")[![Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/c/csm_Michael_Jordan_-_foto_Marcelo_SoubhiaFolhapress_c00f785348.jpeg)
+Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas](https://www.tnh1.com.br/noticia/nid/drone-e-lancado-contra-casa-de-netanyahu-no-norte-de-israel-acao-nao-deixa-vitimas/ "Drone é lançado contra casa de Netanyahu no norte de Israel; ação não deixa vítimas")[![Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_aprigio_prefeito_taboao_divulgacao_152e998cfd.jpg)
 
-James Jordan
+busca reeleição
 
-James Jordan
+busca reeleição
 
-Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos
+Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra
 
-Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos](https://www.tnh1.com.br/noticia/nid/caso-do-assassinato-do-pai-de-michael-jordan-tem-reviravolta-apos-quase-30-anos/ "Caso do assassinato do pai de Michael Jordan tem reviravolta após quase 30 anos")[![Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/f/csm_Campeonato_Argentino_-_foto_AFA_67f935a082.jpg)
+Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra](https://www.tnh1.com.br/noticia/nid/policia-identifica-e-busca-suspeito-de-ataque-a-prefeito-alagoano-de-taboao-da-serra/ "Polícia identifica e busca suspeito de ataque a prefeito alagoano de Taboão da Serra")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
 
-Apertura
+Cidade Universitária
 
-Apertura
+Cidade Universitária
 
-Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
 
-Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda](https://www.tnh1.com.br/noticia/nid/campeonato-argentino-anula-rebaixamento-e-estara-inchado-em-2025-entenda/ "Campeonato Argentino anula rebaixamento e estará 'inchado' em 2025; entenda")
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
