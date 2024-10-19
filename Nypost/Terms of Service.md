@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### Breaking News
 
-[Fetterman sounds the alarm after Elon Musk endorses Trump, joins ex-prez for rallies: ‘A concern’](https://nypost.com/2024/10/19/us-news/fetterman-sounds-the-alarm-after-elon-musk-endorses-trump-joins-ex-prez-for-rallies-a-concern/)
+[Drone strikes Netanyahu’s home in Israel while IDF continues operations in Gaza, Lebanon: ‘Nothing will deter us’](https://nypost.com/2024/10/19/world-news/israel-prime-minister-benjamin-netanyahus-caesarea-home-target-of-drone-strike/)
 
 Terms Of Use
 ============
