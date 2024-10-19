@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/een-nieuwe-aanklacht-van-fernand-haesbrouck/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/vingertop-groeit-in-4-weken-weer-aan/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
