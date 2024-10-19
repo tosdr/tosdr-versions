@@ -2,19 +2,19 @@
 
 ![](/_next/image?url=%2Fnavbar%2Fbadge-icon.png&w=48&q=100)
 
-Legal Page
+Legal
 
 Legal Disclaimer
 
 Welcome to New Club Penguin (“newcp.net”, “NewCP”, “we”, “our”, “us”, or the “Site”). NewCP is an independent fan-made recreation of Disney’s Club Penguin. newcp.net is not affiliated with Disney, Disney Interactive, or New Horizon Interactive. It is imperative to establish what you can expect from NewCP and define your relationship with us. Please review these terms of service before using the Site. The terms in this document are divided into emboldened section headings, for example:
 
-[Your Privacy](#), which describes any property rights - whether that property belongs to you, NewCP, or others.
+[Your Privacy](#your_privacy), which describes any property rights - whether that property belongs to you, NewCP, or others.
 
-[Services and Accounts](#), which establishes the terms and conditions for using any NewCP services.
+[Services and Accounts](#services), which establishes the terms and conditions for using any NewCP services.
 
-[Content In Our Services](#), which establishes any form of content we use to develop our services, and which content we legally establish ownership over.
+[Content In Our Services](#content), which establishes any form of content we use to develop our services, and which content we legally establish ownership over.
 
-[Limitation and Liability](#), which describes procedures to handle problems or disagreements you might have, and what to expect when someone violates these terms.
+[Limitation and Liability](#liability), which describes procedures to handle problems or disagreements you might have, and what to expect when someone violates these terms.
 
 These terms of conditions are a legally binding agreement between you (“user”, “member”) and New Club Penguin. They apply to our software applications and internet services (collectively, “Website” or “Applications”). Herein this binding agreement are the terms and conditions of your use of the New Club Penguin website and any of its services. By utilizing our Website and Applications, you affirm your agreement to these terms.
 
@@ -32,7 +32,9 @@ Users certify responsibility for all actions incurred in connection with their a
 
 Content In Our Services
 
-New Club Penguin is an independent remake. Disney, Disney Interactive, or New Horizon Interactive is not responsible for and does not endorse the content hosted on this Site. While we endeavor to maintain the accuracy of information contained on this page, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the page or the information, products, services, or related graphics contained on the page for any purpose. Therefore, any reliance you place on such information is strictly at your own risk. Any attempt to reproduce, replicate, display, alter, modify, or transmit the information contained here in this Site is directly in violation these Terms of Service. Before attempting to reproduce Content such as graphic designs, shockwave files, or written content, one shall obtain written permission from New Club Penguin.
+New Club Penguin is an independent remake. Disney, Disney Interactive, or New Horizon Interactive is not responsible for and does not endorse the content hosted on this Site. While we endeavor to maintain the accuracy of information contained on this page, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the page or the information, products, services, or related graphics contained on the page for any purpose. Therefore, any reliance you place on such information is strictly at your own risk.
+
+Any attempt to reproduce, replicate, display, alter, modify, or transmit the information contained here in this Site is directly in violation these Terms of Service. Before attempting to reproduce Content such as graphic designs, shockwave files, or written content, one shall obtain written permission from New Club Penguin.
 
 Limitation and Liability
 
@@ -58,7 +60,7 @@ _Updated May 7th, 2023_
 
 [Blog](https://newcp.net/blog)[Support](https://newcp.net/help)[Privacy Policy](https://newcp.net/privacy)[Legal](https://newcp.net/legal)
 
-[𝕏](https://twitter.com/NewCPOfficial)[Discord](https://discord.gg/clubpenguin)[YouTube](https://www.youtube.com/@newcpofficial)[TikTok](https://www.tiktok.com/@officialnewcp)
+[𝕏](https://twitter.com/NewCPOfficial)[Discord](https://discord.gg/clubpenguin)[YouTube](https://www.youtube.com/@newcpofficial)[Bluesky](https://bsky.app/profile/newcp.net)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
