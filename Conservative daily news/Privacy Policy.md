@@ -1,4 +1,4 @@
-Friday, October 18 2024
+Saturday, October 19 2024
 
 Breaking News
 
@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [10 Best Home Defense Rifles](https://www.thegunpage.com/10-best-home-defense-rifles/10611301)
+* [POTD: German Soldier With HP47 Anti-Drone Gun](https://www.thegunpage.com/potd-german-soldier-with-hp47-anti-drone-gun/10611302)
+* [TFB Podcast Roundup 151: The October 18th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-151-the-october-18th-roundup/10611303)
+* [What Would You Do? A Father’s Worst Nightmare](https://www.thegunpage.com/what-would-you-do-a-fathers-worst-nightmare/10611297)
 * [Kamala in a Nutshell: SAF Video Features Her Most Damning Anti-Gun Rhetoric](https://www.thegunpage.com/kamala-in-a-nutshell-saf-video-features-her-most-damning-anti-gun-rhetoric/10611295)
 * [PSA Releases the Soviet Arms AKS-74U “Krinkov” In 300BLK](https://www.thegunpage.com/psa-releases-the-soviet-arms-aks-74u-krinkov-in-300blk-2/10611293)
 * [Smith & Wesson M&P4 Rifles Now Available for Military & LE](https://www.thegunpage.com/smith-wesson-mp4-rifles-now-available-for-military-le/10611294)
 * [Gun Registry Lessons From New Zealand](https://www.thegunpage.com/gun-registry-lessons-from-new-zealand/10611290)
 * [The ARC Bulks Up: Hornady's New .338 ARC](https://www.thegunpage.com/the-arc-bulks-up-hornadys-new-338-arc/10611288)
 * [Shooting By North Dakota Teacher Ruled Self-Defense](https://www.thegunpage.com/shooting-by-north-dakota-teacher-ruled-self-defense/10611287)
-* [Franklin Armory Introduces The G-S193 Binary Trigger For The Glock 19](https://www.thegunpage.com/franklin-armory-introduces-the-g-s193-binary-trigger-for-the-glock-19/10611289)
-* [AR-15 for Home Defense: Why It Should Be Your Go-To Choice](https://www.thegunpage.com/ar-15-for-home-defense-why-it-should-be-your-go-to-choice/10611282)
-* [TFB 1,000 Round Review: PSA Sabre 15 (Duty Grade Or Don't-y Grade?)](https://www.thegunpage.com/tfb-1000-round-review-psa-sabre-15-duty-grade-or-dont-y-grade/10611277)
-* [POTD: Sandstorm by Daniel Defense](https://www.thegunpage.com/potd-sandstorm-by-daniel-defense/10611278)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/#comment-782744)
+* KayCee on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782742)
 * Catboss on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782737)
 * Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
 * charles wilkins on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782729)
@@ -235,8 +237,6 @@ Recent Comments
 * charles wilkins on [Team Kamala](https://www.conservativedailynews.com/2024/10/team-kamala/#comment-782723)
 * Bill on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782720)
 * charles wilkins on [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/#comment-782712)
-* Stan on [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/#comment-782707)
-* charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
 
 [Close](#)
 
