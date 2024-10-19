@@ -36,18 +36,18 @@
         
         Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
     
+    * [![Google Scholar has a 'verified email' for Sir Isaac Newton](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Google Scholar has a 'verified email' for Sir Isaac Newton](https://www.bleepingcomputer.com/news/security/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
+    * [![Get started in an infosec career with this essential training deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get started in an infosec career with this essential training deal](https://www.bleepingcomputer.com/offer/deals/get-started-in-an-infosec-career-with-this-essential-training-deal/)
     * [![Cisco takes DevHub portal offline after hacker publishes stolen data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
     * [![ESET partner breached to send data wipers to Israeli orgs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ESET partner breached to send data wipers to Israeli orgs](https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
-    * [![Tech giant Nidec confirms data breach following ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Tech giant Nidec confirms data breach following ransomware attack](https://www.bleepingcomputer.com/news/security/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
-    * [![Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
