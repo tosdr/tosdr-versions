@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/vingertop-groeit-in-4-weken-weer-aan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/eu-de-rontgen-bodyscanners-gaan-in-de-ban/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
