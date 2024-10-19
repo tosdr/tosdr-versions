@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -338,7 +338,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173769#comments) | 17.10.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173769#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -366,7 +366,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22737#comments) | 17.10.24 |     |
+|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22737#comments) | 17.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -453,8 +453,8 @@
 
 |     |     |
 | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) |
-| [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) | [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) |
+| [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -471,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(118)
+(91)
