@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Come check out what's behind the curtain.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Besides foreign tourists, Kyoto historically welcomes tons of schoolchildren on multi-day field trips from all over Japan. Until recently, as overtourism is making many schools search for somewhere else to send the kids](https://www.fark.com/goto/13433166) ( [soranews24.com](https://www.fark.com/goto/13433166) ) » [(6 comments)](https://www.fark.com/comments/13433166/Besides-foreign-tourists-Kyoto-historically-welcomes-tons-of-schoolchildren-on-multi-day-field-trips-from-all-over-Japan-Until-recently-as-overtourism-is-making-many-schools-search-for-somewhere-else-to-send-kids) |
-| [Discussion](https://www.fark.com/discussion/) | [Tonight on Smackdown: Can Roman and Jimmy find help to battle Solo's crew? Does the WWE play Kevin Owen's video? Who will Los Garzas face & will there be breakaway pants involved? Plus the debut of....well tune in at 8 PM ET on USA to find out](https://www.fark.com/goto/13432860) ( [pwinsider.com](https://www.fark.com/goto/13432860) ) » [(67 comments)](https://www.fark.com/comments/13432860/Tonight-on-Smackdown-Can-Roman-Jimmy-find-help-to-battle-Solos-crew-Does-WWE-play-Kevin-Owens-video-Who-will-Los-Garzas-face-will-there-be-breakaway-pants-involved-Plus-debut-ofwell-tune-in-at-8-PM-ET-on-USA-to-find-out) |
-| [Sports](https://www.fark.com/sports/) | [Smokin' (and drinkin') Jay Cutler?](https://www.fark.com/goto/13433006) ( [people.com](https://www.fark.com/goto/13433006) ) » [(6 comments)](https://www.fark.com/comments/13433006/Smokin-drinkin-Jay-Cutler) |
-| [Business](https://www.fark.com/business/) | [Bloomberg were 100% sure that Biden was taking US into a recession. Now its Biden's turn to gloat](https://www.fark.com/goto/13432978) ( [dailykos.com](https://www.fark.com/goto/13432978) ) » [(6 comments)](https://www.fark.com/comments/13432978/Bloomberg-were-100-sure-that-Biden-was-taking-US-into-a-recession-Now-its-Bidens-turn-to-gloat) |
-| [STEM](https://www.fark.com/stem/) | [Focus. Get down to the real nitty-gritty. Ask yourself "Why am I here?" as well as "Well, how did I get here?"](https://www.fark.com/goto/13432748) ( [theguardian.com](https://www.fark.com/goto/13432748) ) » [(7 comments)](https://www.fark.com/comments/13432748/Focus-Get-down-to-real-nitty-gritty-Ask-yourself-Why-am-I-here-as-well-as-Well-how-did-I-get-here) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["Here Comes Honey Boo Boo" star Pumpkin has found love two months after filing for divorce from husband of six years](https://www.fark.com/goto/13433038) ( [eonline.com](https://www.fark.com/goto/13433038) ) » [(6 comments)](https://www.fark.com/comments/13433038/Here-Comes-Honey-Boo-Boo-star-Pumpkin-has-found-love-two-months-after-filing-for-divorce-from-husband-of-six-years) |
-| [Fandom](https://www.fark.com/fandom/) | [We haven't had a Star Citizen thread in a while, so](https://www.fark.com/goto/13433124) ( [insider-gaming.com](https://www.fark.com/goto/13433124) ) » [(4 comments)](https://www.fark.com/comments/13433124/We-havent-had-a-Star-Citizen-thread-in-a-while-so) |
-| [D'awww](https://www.fark.com/dawww/) | [Bitey McBiteface?](https://www.fark.com/goto/13432606) ( [ktvz.com](https://www.fark.com/goto/13432606) ) » [(19 comments)](https://www.fark.com/comments/13432606/Bitey-McBiteface) |
-| [Food](https://www.fark.com/food/) | [Michael's bridge diner. Featuring two grannies and bears that need their nails trimmed and more scary stuff on the walls inside. Great food, they do well on Yelp](https://www.fark.com/goto/13433020) ( [youtube.com](https://www.fark.com/goto/13433020) ) » [(0 comments)](https://www.fark.com/comments/13433020/Michaels-bridge-diner-Featuring-two-grannies-bears-that-need-their-nails-trimmed-more-scary-stuff-on-walls-inside-Great-food-they-do-well-on-Yelp) |
-| [Politics](https://www.fark.com/politics/) | [DonOld wants to know why Lincoln didn't stop the Civil War from happening](https://www.fark.com/goto/13433164) ( [vanityfair.com](https://www.fark.com/goto/13433164) ) » [(22 comments)](https://www.fark.com/comments/13433164/DonOld-wants-to-know-why-Lincoln-didnt-stop-Civil-War-from-happening) |
+| [Main](https://www.fark.com/) | [Big Tobacco is about to get smoked](https://www.fark.com/goto/13432622) ( [cbc.ca](https://www.fark.com/goto/13432622) ) » [(17 comments)](https://www.fark.com/comments/13432622/Big-Tobacco-is-about-to-get-smoked) |
+| [Discussion](https://www.fark.com/discussion/) | [Tonight on Smackdown: Can Roman and Jimmy find help to battle Solo's crew? Does the WWE play Kevin Owen's video? Who will Los Garzas face & will there be breakaway pants involved? Plus the debut of....well tune in at 8 PM ET on USA to find out](https://www.fark.com/goto/13432860) ( [pwinsider.com](https://www.fark.com/goto/13432860) ) » [(81 comments)](https://www.fark.com/comments/13432860/Tonight-on-Smackdown-Can-Roman-Jimmy-find-help-to-battle-Solos-crew-Does-WWE-play-Kevin-Owens-video-Who-will-Los-Garzas-face-will-there-be-breakaway-pants-involved-Plus-debut-ofwell-tune-in-at-8-PM-ET-on-USA-to-find-out) |
+| [Sports](https://www.fark.com/sports/) | [Tony Bennett's swan song. Finally retires. Well, duh. He should. He's been dead for over a year now](https://www.fark.com/goto/13433286) ( [espn.com](https://www.fark.com/goto/13433286) ) » [(2 comments)](https://www.fark.com/comments/13433286/Tony-Bennetts-swan-song-Finally-retires-Well-duh-He-should-Hes-been-dead-for-over-a-year-now) |
+| [Business](https://www.fark.com/business/) | [This is not an ad for dashcams](https://www.fark.com/goto/13433098) ( [jalopnik.com](https://www.fark.com/goto/13433098) ) » [(3 comments)](https://www.fark.com/comments/13433098/This-is-not-an-ad-for-dashcams) |
+| [STEM](https://www.fark.com/stem/) | [Scientific paper prescribing stronger standards of rigor is retracted for lacking rigor](https://www.fark.com/goto/13433182) ( [nature.com](https://www.fark.com/goto/13433182) ) » [(0 comments)](https://www.fark.com/comments/13433182/Scientific-paper-prescribing-stronger-standards-of-rigor-is-retracted-for-lacking-rigor) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Shakira pushes back the U.S. dates of her tour. Fark: Demand is turning it from arena to stadium tour](https://www.fark.com/goto/13433262) ( [remezcla.com](https://www.fark.com/goto/13433262) ) » [(10 comments)](https://www.fark.com/comments/13433262/Shakira-pushes-back-US-dates-of-her-tour-Fark-Demand-is-turning-it-from-arena-to-stadium-tour) |
+| [Fandom](https://www.fark.com/fandom/) | [In the summer of 2024, an entertainment project that cost an approximated $400 million is thought to have made back only $1 million, representing a flop that dwarfs the likes of Joker: Folie à Deux](https://www.fark.com/goto/13433238) ( [kotaku.com](https://www.fark.com/goto/13433238) ) » [(30 comments)](https://www.fark.com/comments/13433238/In-summer-of-2024-an-entertainment-project-that-cost-an-approximated-$400-million-is-thought-to-have-made-back-only-$1-million-representing-a-flop-that-dwarfs-likes-of-Joker-Folie-Deux) |
+| [D'awww](https://www.fark.com/dawww/) | [Brown Chicken Brown Cow](https://www.fark.com/goto/13433224) ( [youtube.com](https://www.fark.com/goto/13433224) ) » [(3 comments)](https://www.fark.com/comments/13433224/Brown-Chicken-Brown-Cow) |
+| [Food](https://www.fark.com/food/) | [We burn the heathens](https://www.fark.com/goto/13433242) ( [youtube.com](https://www.fark.com/goto/13433242) ) » [(8 comments)](https://www.fark.com/comments/13433242/We-burn-heathens) |
+| [Politics](https://www.fark.com/politics/) | [Fani Willis attorney to Gym Jordan: I feel you should be aware that some asshole is signing your name to stupid letters](https://www.fark.com/goto/13433204) ( [newsweek.com](https://www.fark.com/goto/13433204) ) » [(12 comments)](https://www.fark.com/comments/13433204/Fani-Willis-attorney-to-Gym-Jordan-I-feel-you-should-be-aware-that-some-asshole-is-signing-your-name-to-stupid-letters) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 18 2024 21:43:29  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 19 2024 03:43:43  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
