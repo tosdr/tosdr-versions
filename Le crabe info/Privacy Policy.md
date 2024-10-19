@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 181 utilisateurs actifs
+##### 602 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Microsoft bloque la mise à jour 24H2 pour certains joueurs](https://lecrabeinfo.net/microsoft-bloque-la-mise-a-jour-24h2-pour-certains-joueurs.html)
 * [Réparer les icônes de Windows (réinitialiser le cache des icônes)](https://lecrabeinfo.net/reparer-les-icones-de-windows-reinitialiser-le-cache-des-icones.html)
 * [Souris par abonnement : Logitech renonce à son idée de "souris éternelle" (pour le moment)](https://lecrabeinfo.net/souris-par-abonnement-logitech-renonce-a-son-idee-de-souris-eternelle-pour-le-moment.html)
-* [Windows 11 24H2 provoque des écrans bleus (BSOD) avec les SSD Western Digital](https://lecrabeinfo.net/windows-11-24h2-provoque-des-ecrans-bleus-bsod-avec-les-ssd-western-digital.html)
 
 ### Tendance
 
@@ -153,8 +153,8 @@ Chargement en cours
 ### Statistiques
 
 * 67 759 membres
-* 926 articles
-* 26 750 commentaires
+* 927 articles
+* 26 751 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
