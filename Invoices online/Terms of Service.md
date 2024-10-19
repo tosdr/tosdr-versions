@@ -35,16 +35,15 @@ Remember me
     
 * [Pricing](https://www.invoicesonline.co.za/pricing "Pricing")
     
-    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_silver_100_100.png 1x)Silver10Docs per Month1UserLimited to R 20,000  
-    turnover pmR 99](https://www.invoicesonline.co.za/pricing)
+    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_gold_100_100.png 1x)Gold300Documents3UsersEmail SupportR 179](https://www.invoicesonline.co.za/pricing)
     
-    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_gold_100_100.png 1x)Gold300Docs per Month3UsersEmail SupportR 179](https://www.invoicesonline.co.za/pricing)
+    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_platinum_100_100.png 1x)Platinum1,000Documents6UsersEmail & Phone SupportR 299](https://www.invoicesonline.co.za/pricing)
     
-    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_platinum_100_100.png 1x)Platinum1,000Docs per Month6UsersEmail & Phone SupportR 299](https://www.invoicesonline.co.za/pricing)
+    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_diamond_100_100.png 1x)Diamond2,000Documents11UsersPriority SupportR 599](https://www.invoicesonline.co.za/pricing)
     
-    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_diamond_100_100.png 1x)Diamond2,000Docs per Month11UsersPriority SupportR 599](https://www.invoicesonline.co.za/pricing)
+    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_custom_100_100.png 1x)Custom∞Docs∞UsersPriority SupportR 599 +](https://www.invoicesonline.co.za/pricing)
     
-    [![](https://www.invoicesonline.co.za/templates/images_sbms/badge_custom_100_100.png 1x)Custom∞Docs per Month∞UsersPriority SupportR 599 +](https://www.invoicesonline.co.za/pricing)
+    Documents are that quantity of each type per month.
     
     [View Full Pricing Details](https://www.invoicesonline.co.za/pricing)  [Sign Up Now  
     It's free and takes just 30 seconds](https://www.invoicesonline.co.za/your-businesses/add-business)
@@ -197,56 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Hugo van Sittert
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=182584484)  
-MONSTER CONNECT (PTY) LTD
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=204774666)  
+van Schaik rentals
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=64407461)  
-OrgChart Hosting Pty Ltd
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=156002361)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=160926205)  
-Lion Software Develepment
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=101986765)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=63505029)  
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=169022817)  
+Network Grey (Pty) Ltd
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=100213659)  
-WIP Digital Solutions
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=112363548)  
+Iurus Inc
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=166163226)  
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=149698572)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=61275307)  
+Wiselink Broadband Dundee
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=73381786)  
+PROGRAPHIX PTY LTD
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=204434538)  
+Imhoff Equestrian Centre
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=173391777)  
+Peter Salvage Pty Ltd
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=75439451)  
+Digifax Pty) Ltd t/a Findfish
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=38488447)  
 Import Maaw
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=214339356)  
-LEO DEVELOPMENT GROUP
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=162794171)  
-Cape Adventure Zone
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=134935264)  
-West Coast Horse Trails
-
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=168949411)  
-Secunda Signs T/A Local Print and Signs
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=45132802)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=1239790)  
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=58932828)  
 SA Security Brokerz (Pty) Ltd
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=27506481)  
-Meyer Towing & Recovery
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=187799878)  
+Salvage Genie
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=151174925)  
-Leef in Afrikaans
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=14fc1687f68076545f53725ec4303ddd8828c39dd6f2af5ab85e8e44b9b894c6&c=128127180)  
-VerdanTech Pty Ltd
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=080d8248fc670bd35fba145c20cfd6b75a8c9db645b68c31a791f20dc1ba2793&c=65635027)  
+Little Nutty Professors
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
