@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/mrd-bajic/zeleni-zrak/le-rayon-vert/06a-zeleni-zrak-mrdjan-bajic.jpg?itok=zVE5R_Xc)](http://seecult.org/galerija/galerija-umetnika/mrdan-bajic/zeleni-zrak-le-rayon-vert)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90/vertikalnibeg.jpg?itok=0MjC-wXR)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mera-stvari.jpg?itok=7Yq4ypzA)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/muzika-dvorova.jpg?itok=oKgwDw_e)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
