@@ -259,11 +259,11 @@ _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
 _By_ [Lakshmi Chandrasekaran](https://www.quantamagazine.org/authors/lakshmi-chandrasekaran)
 
-[![An illustration shows a cyanobacteria cell wearing a scarf, surrounded by snowflakes.](https://www.quantamagazine.org/wp-content/uploads/2024/10/BacterialWinter-crCarlosArrojo-Thumbnail.webp)](https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/)
+[![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 
-[#### Even a Single Bacterial Cell Can Sense the Seasons Changing](https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/)
+[#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 
-_By_ [Elizabeth Landau](https://www.quantamagazine.org/authors/landau_liz)
+_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
 The Quanta Newsletter
 
