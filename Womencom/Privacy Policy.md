@@ -41,70 +41,58 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+*  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
     
-    [Politics](https://www.women.com/category/politics/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    =======================================================================================================================================================================================
+    [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+    ===========================================================================================================================
     
-    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+    The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyle's she's rocked so well over the years.
     
-    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
     
-* *  [![](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [Love Lessons We've Learned From Ariana Grande](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-        
-        Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-        
-    *  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+* *  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middletons-biggest-makeup-mistakes-of-all-time/intro-1729179483.jpg)](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
         
-        ### [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+        ### [Kate Middleton's Biggest Makeup Mistakes Of All Time](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
         
-        The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyle's she's rocked so well over the years.
+        No one aces their glam every time, but it's tough when you're one of the most photographed women in the world.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+        By Bernadette Roe [Read More](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+        
+    *  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        
+        ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+        
+        Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
         
 
 More Stories
 ------------
 
-*  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middletons-biggest-makeup-mistakes-of-all-time/intro-1729179483.jpg)](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+*  [![Ariana Grande](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    ### [Kate Middleton's Biggest Makeup Mistakes Of All Time](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+    ### [Love Lessons We've Learned From Ariana Grande](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
     
-    No one aces their glam every time, but it's tough when you're one of the most photographed women in the world.
+    Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
     
-    By Bernadette Roe [Read More](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
-    
-*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-    Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
     
 *  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
     
@@ -129,6 +117,18 @@ More Stories
     When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
     
     By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
+    
+*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
     
 *  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
     
