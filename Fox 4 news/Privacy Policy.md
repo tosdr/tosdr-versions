@@ -402,9 +402,9 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gardnerjerry-lee.jpg?ve=1&tl=1)
+ [![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cold-case.jpg?ve=1&tl=1)
 
- ![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gardnerjerry-lee.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
+ ![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cold-case.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
 
 ### [Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
 
