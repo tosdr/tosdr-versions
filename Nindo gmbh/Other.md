@@ -6,18 +6,26 @@
 
 Suche
 
+[Login](https://nindo.de/sign-in)[Registrieren](https://nindo.de/sign-up)
+
+impressum
+=========
+
 Kontakt
 -------
 
-[Übersicht](https://nindo.de/impressum)[Statistiken](https://nindo.de/impressum/stats)[Demografie](https://nindo.de/impressum/demography)[Netzwerk](https://nindo.de/impressum/network)[Botting](https://nindo.de/impressum/botting)[Brandsafety](https://nindo.de/impressum/brandsafety)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
+Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
+
+Iimpressum
+
+[Statistiken](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Kanäle](https://nindo.de/impressum)[Netzwerk](https://nindo.de/impressum/network)[Demografie](https://nindo.de/impressum/demography/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Botting](https://nindo.de/impressum/botting/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Brandsafety](https://nindo.de/impressum/brandsafety)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
 
 Kanalübersicht
 --------------
 
 | Kanal | Impact | Engagement | Follower |
 | --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
+| [tiktok](https://www.tiktok.com/@impressum)[impressum](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba) |     |     | 3   |
 
 * Plattform
 * [Instagram](https://nindo.de/features/instagram)
@@ -63,26 +71,3 @@ Kanalübersicht
 © Nindo GmbH[Impressum](https://nindo.de/imprint)[Privacy Policy](https://nindo.de/privacy)[Terms Of Service](https://nindo.de/terms)
 
 [](https://www.linkedin.com/company/nindopro)[](https://www.xing.com/pages/nindo)[](https://www.instagram.com/nindo.de/)[](https://www.youtube.com/channel/UC1W96tENk9fz6ODZfEF42tA)[](https://www.tiktok.com/@nindo.de)
-
-Synchronisation läuft
-
-Iimpressum
-
-[Übersicht](https://nindo.de/impressum)[Statistiken](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Demografie](https://nindo.de/impressum/demography/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Netzwerk](https://nindo.de/impressum/network)[Botting](https://nindo.de/impressum/botting/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Brandsafety](https://nindo.de/impressum/brandsafety)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
-
-impressum
-=========
-
-Kontakt
--------
-
-Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
-
-Kanalübersicht
---------------
-
-| Kanal | Impact | Engagement | Follower |
-| --- | --- | --- | --- |
-| [tiktok](https://www.tiktok.com/@impressum)[impressum](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba) |     |     |     |
-
-3
