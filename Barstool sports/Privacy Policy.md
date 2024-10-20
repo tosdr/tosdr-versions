@@ -142,8 +142,8 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
+* [New York Baseball Collection](https://store.barstoolsports.com/collections/new-york)
 * [Stella Blue Coffee Winter Flavors](https://stellabluecoffee.com/)
-* [Baseball Collection](https://store.barstoolsports.com/collections/baseball)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
 * [Pardon My Cheesesteak](https://pardonmycheesesteak.com/)
