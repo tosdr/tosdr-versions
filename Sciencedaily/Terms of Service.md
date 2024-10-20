@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Why Do We Love Carbs? Pre-Neanderthal DNA](https://www.sciencedaily.com/releases/2024/10/241017172950.htm)
 * [Neutron Stars Shrouded in Axions: Dark Matter?](https://www.sciencedaily.com/releases/2024/10/241018131244.htm)
 * [Butterfly Brains and Cognitive Innovation](https://www.sciencedaily.com/releases/2024/10/241018131224.htm)
 * [CO2 Emissions from Forest Fires Up 60%](https://www.sciencedaily.com/releases/2024/10/241017173155.htm)
@@ -238,7 +239,6 @@ this hour
 * [People Sympathize With Bullied AI Bots](https://www.sciencedaily.com/releases/2024/10/241017113151.htm)
 * [MRNA Vaccine to Prevent and Treat C. Diff](https://www.sciencedaily.com/releases/2024/10/241017112707.htm)
 * [Drug Discovery Within the Patient](https://www.sciencedaily.com/releases/2024/10/241017112513.htm)
-* [Fastest Degrading Bioplastic in Seawater](https://www.sciencedaily.com/releases/2024/10/241017112500.htm)
 
 Trending Topics
 ---------------
