@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Denies Motion to Disqualify Administrative Law Judge in H&R Block Case](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-denies-motion-disqualify-administrative-law-judge-hr-block-case)
+    ### [FTC Issues Annual Report to Congress on Agency’s Actions to Protect Older Adults](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults)
     
     October 18, 2024
     
