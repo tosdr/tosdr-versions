@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZxRfNgoAAVEAAABcnOY)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZxSzawoAAVEAAABc@EI)
 
 Es noticia
 
@@ -19,7 +19,7 @@ Es noticia
 * [Manifestación Madrid](https://www.elmundo.es/madrid/2024/10/19/67122ef021efa05c248b45a2.html)
 * [Precio luz](https://www.elmundo.es/como/2024/10/19/67126b11fc6c8328398b459a.html)
 * [Incapacidad permanente](https://www.elmundo.es/economia/2024/10/18/67115540fdddffd7528b459c.html)
-* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/10/19/67134bc16a486e491f3fc4ed-directo.html?intcmp=livefeed&catlivefeed=Directo)
+* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/10/20/6714991d6a486e491f468d56-directo.html?intcmp=livefeed&catlivefeed=Directo)
 * [Cambio hora](https://www.elmundo.es/como/2024/10/18/671210aa21efa05b248b45a0.html)
 * [Festivos Madrid 2024](https://www.elmundo.es/como/2024/03/25/66014a62e9cf4aea7a8b4576.html)
 * [Calendario Lunar 2024](https://www.elmundo.es/como/2024/09/16/66e808acfc6c838c038b4588.html)
