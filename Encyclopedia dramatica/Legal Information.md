@@ -13,6 +13,9 @@
 * [ED Bookmarklet](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica/Bookmarklet "Encyclopedia Dramatica/Bookmarklet")
 * [Donate Bitcoin](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:Donate "Encyclopedia Dramatica:Donate")
 
+**Registration has been disabled and the moderation extension has been turned off.**  
+**Contact an admin on [Discord](https://discord.gg/77MDdGYATd) or [EDF](https://forums.edramatica.com/) if you want an account. Also fuck bots.**
+
 Encyclopedia Dramatica:General Disclaimer
 =========================================
 
@@ -118,7 +121,6 @@ Navigation menu
 
 ### Personal tools
 
-* [Create account](https://encyclopediadramatica.wiki/index.php?title=Special:CreateAccount&returnto=Encyclopedia+Dramatica%3AGeneral+Disclaimer "You are encouraged to create an account and log in; however, it is not mandatory")
 * [Log in](https://encyclopediadramatica.wiki/index.php?title=Special:UserLogin&returnto=Encyclopedia+Dramatica%3AGeneral+Disclaimer "You are encouraged to log in; however, it is not mandatory [o]")
 
 ### Namespaces
