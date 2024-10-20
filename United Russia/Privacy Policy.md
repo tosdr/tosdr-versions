@@ -303,17 +303,17 @@
 
 [В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784)
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
 
-Сегодня 16:19
+20.10.24
 
 [![«Единая Россия», МГЕР и Всероссийская федерация самбо провели Всероссийский турнир по самбо](https://cdn.er.ru/media/news/October2024/aBj8oYAO8IlActLNEEze-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-proveli-vserossijskij-turnir-po-sambo)
 
 [«Единая Россия», МГЕР и Всероссийская федерация самбо провели Всероссийский турнир по самбо](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-proveli-vserossijskij-turnir-po-sambo)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Елисеев](https://er.ru/activity/news?tags%5B0%5D=25667) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Елисеев](https://er.ru/activity/news?tags%5B0%5D=25667) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 14:53
+20.10.24
 
 [![Владимир Якушев: Самбо – не просто вид спорта, а система воспитания личности](https://cdn.er.ru/media/news/October2024/4EDY9F8Z1N0JIhJ6BIR5-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-sambo-ne-prosto-vid-sporta-a-sistema-vospitaniya-lichnosti)
 
@@ -321,7 +321,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#видеообращение](https://er.ru/activity/news?tags%5B0%5D=29741) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255)
 
-Сегодня 14:49
+20.10.24
 
 [![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://cdn.er.ru/media/news/October2024/V6ezvMNqykgtTzkDkHfc-small.png)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
 
