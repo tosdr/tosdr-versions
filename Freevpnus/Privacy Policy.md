@@ -1,6 +1,6 @@
 Your IP: 159.223.154.84 - Unknown · ISP: Unknown · Your Status: Unknown
 
-[FreeVPN](https://freevpn.us/)
+ [![FreeVPN Logo](/assets/img/logo.png) FreeVPN](https://freevpn.us/)
 
 * [Home](https://freevpn.us/)
 * [Services](#)
@@ -118,7 +118,7 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 The following is our total achievement so far.
 
-52.626 250 today
+52.675 263 today
 
 User registered
 
@@ -126,16 +126,18 @@ User registered
 
 Premium User
 
-11.234
+11.161
 
 Active account
 
-1.892.067 1.232 today
+1.892.323 1.285 today
 
 Account created
 
+[![FreeVPN Logo](/assets/img/logo.png)
+
 FreeVPN
--------
+-------](https://freevpn.us/)
 
 Since 2016, FreeVPN.us has been dedicated to offering a free VPN service with the mission of promoting "Freedom of the Internet." Our goal is to give users unrestricted access to all online content through a reliable and secure connection.
 
@@ -186,4 +188,4 @@ All Transactions are 100% Safe and Secure!
 
 2016 - 2024 © [Roosterkid](https://roosterkid.com/) x FreeVPN.us made with in
 
-page loaded in 0.010 seconds
+page loaded in 0.020 seconds
