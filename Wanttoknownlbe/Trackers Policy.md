@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/zijn-vaccins-een-verzinsel-en-een-groot-gevaar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/opstand-egypte-voert-de-vs-de-regie-egypte-pas-op/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
