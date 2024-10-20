@@ -275,8 +275,8 @@ Phone:  847-698-1631
 [![Orthopaedic Trauma Association](/themes/_custom/sdd8/static-assets/img/ota-logo-reverse-vertical.svg)](https://ota.org/ "Home")
 
 Orthopaedic Trauma Association  
-[9400 W. Higgins Road, Suite 305  
-Rosemont, IL 60018-4975](https://www.google.com/maps/place/9400+W+Higgins+Rd+%23305,+Rosemont,+IL+60018)
+1515 E Woodfield Rd, Suite 880  
+Schaumburg, IL 60173
 
 Phone: [(847) 698-1631](tel:+18476981631)  
 E-mail: [OTA@ota.org](mailto:ota@ota.org)
