@@ -48,7 +48,7 @@ Remember Me
 * Work Search  tip: arthur merlin words>1000 sort:hits 
     
 
-> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$187,073.17, and we’ve surpassed our goal of **4,500** new members, with over **5,158** new members so far!
+> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$196,812.06, and we’ve surpassed our goal of **4,500** new members, with over **5,459** new members so far!
 
 [×](https://archiveofourown.org/dmca?hide_banner=true&view_adult=true "hide banner")
 
