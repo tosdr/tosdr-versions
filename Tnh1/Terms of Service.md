@@ -82,31 +82,31 @@ Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organi
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/d/csm_viatura_f507565c1e.jpeg)
+   [![Homem é preso por desacato após arremessar cadeira em policiais no Benedito Bentes ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/c/csm_csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_8918dc42e2_75465e892b.jpeg)
 
 Polícia
 
-Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prende-homem-acusado-de-estuprar-enteada-de-13-anos-em-pilar/ "Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar")   [![Polícia prende suspeitos e apreende maconha e cocaína em Palmeira dos Índios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_Apreensao_Drogas_Palmeira_f3f57bd64a.jpg)
+Homem é preso por desacato após arremessar cadeira em policiais no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-desacato-apos-arremessar-cadeira-em-policiais-no-benedito-bentes/ "Homem é preso por desacato após arremessar cadeira em policiais no Benedito Bentes ")   [![Dono de ferro velho é preso por receptação após comprar ar-condicionado furtado de ONG](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/7/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_91b3ef2eb8.jpg)
 
-Interior
+NA PONTA GROSSA
 
-Polícia prende suspeitos e apreende maconha e cocaína em Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeitos-e-apreende-maconha-e-cocaina-em-palmeira-dos-indios/ "Polícia prende suspeitos e apreende maconha e cocaína em Palmeira dos Índios")   [!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_28ac57f71c.jpg)
+Dono de ferro velho é preso por receptação após comprar ar-condicionado furtado de ONG](https://www.tnh1.com.br/noticia/nid/dono-de-ferro-velho-e-preso-por-receptacao-apos-comprar-ar-condicionado-furtado-de-ong/ "Dono de ferro velho é preso por receptação após comprar ar-condicionado furtado de ONG")   [![Polícia Científica revela novos indícios em caso de vigilante morto por amante em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/e/csm_policia-cientifica-revela-novos-indicios-em-caso-de-vigilante-morto-em-rio-largo_5953e15112.jpeg)
 
-Cidade Universitária
+49 anos
 
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")   [![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_6649d71011.jpg)
+Polícia Científica revela novos indícios em caso de vigilante morto por amante em Rio Largo](https://www.tnh1.com.br/noticia/nid/policia-cientifica-revela-novos-indicios-em-caso-de-vigilante-morto-por-amante-em-rio-largo/ "Polícia Científica revela novos indícios em caso de vigilante morto por amante em Rio Largo")   [![Briga entre mulheres em feira livre termina com uma delas morta a facadas, em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_Central_de_Delegacia_de_Arapiraca_aafd068a7a.jpg)
 
-No Jacintinho
+No Agreste
 
-Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")   [![Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
-
-Violência
-
-Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-companheira-denuncia-lo-por-agressoes-e-injuria-em-rio-largo/ "Homem é preso após companheira denunciá-lo por agressões e injúria em Rio Largo")   [![Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/2/csm_csm_viatura_rotam_6b45d9697e_057ceec0aa.jpeg)
+Briga entre mulheres em feira livre termina com uma delas morta a facadas, em Arapiraca](https://www.tnh1.com.br/noticia/nid/briga-entre-mulheres-em-feira-livre-termina-com-uma-delas-morta-a-facadas-em-arapiraca/ "Briga entre mulheres em feira livre termina com uma delas morta a facadas, em Arapiraca")   [![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
 
 Na Levada
 
-Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal](https://www.tnh1.com.br/noticia/nid/apos-denuncia-policia-encontra-5-kg-de-maconha-em-casa-do-trafico-na-vila-brejal/ "Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila Brejal")
+Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")   [![Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/d/csm_viatura_f507565c1e.jpeg)
+
+Polícia
+
+Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prende-homem-acusado-de-estuprar-enteada-de-13-anos-em-pilar/ "Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -124,7 +124,11 @@ Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
+
+Pessoas & Negócios
+
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
+[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
 
 Brasil
 
@@ -206,7 +210,7 @@ Brasil
 
 Bet de Deolane tem pedido de liberação negado pela Justiça
 
-Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
+Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
 
 Cidade Universitária
 
@@ -214,7 +218,15 @@ Cidade Universitária
 
 "Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
 
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")[![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_34158a5d4d.jpg)
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
+
+Tesouro escondido
+
+Tesouro escondido
+
+Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda
+
+Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_34158a5d4d.jpg)
 
 No Jacintinho
 
@@ -222,49 +234,41 @@ No Jacintinho
 
 Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió
 
-Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")[![Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/b/csm_csm_gun-revolver-fire-firing-370202_18d01f626b_1e79b2f5dd.jpeg)
+Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")
 
-Vítima socorrida
+[![Família nada mais de um quilômetro para se salvar após naufrágio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/d/csm_1_lancha_afundou_e_familia_nadou_para_se_salvar_em_meio_a_chuva_mg-40827514_79a59c7b44.jpg)
 
-Vítima socorrida
+EM MG
 
-Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió
+EM MG
 
-Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://www.tnh1.com.br/noticia/nid/briga-por-causa-de-divida-de-r-150-acaba-em-tentativa-de-assassinato-a-tiros-em-maceio/ "Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió")
+Família nada mais de um quilômetro para se salvar após naufrágio
 
-[![Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_Milicianos_Muzema_06458934fd.jpg)
+Família nada mais de um quilômetro para se salvar após naufrágio](https://www.tnh1.com.br/noticia/nid/familia-nada-mais-de-um-quilometro-para-se-salvar-apos-naufragio/ "Família nada mais de um quilômetro para se salvar após naufrágio")[![Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/5/csm_medico-morre-acidente-sp_1300cd85dc.jpg)
 
-Brasil
+EM SP
 
-Brasil
+EM SP
 
-Homens armados com fuzis circulam na Muzema, zona oeste do Rio
+Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW
 
-Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://www.tnh1.com.br/noticia/nid/homens-armados-com-fuzis-circulam-na-muzema-zona-oeste-do-rio/ "Homens armados com fuzis circulam na Muzema, zona oeste do Rio")[![Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
+Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW](https://www.tnh1.com.br/noticia/nid/medico-de-27-anos-morre-e-namorada-fica-em-estado-grave-em-acidente-com-bmw/ "Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW")[![Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/e/csm_guilherme-arana-reproducao-redes-sociais_f67ac08663.jpg)
 
-Mundo
+Futebol Nacional
 
-Mundo
+Futebol Nacional
 
-Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'
+Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil
 
-Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://www.tnh1.com.br/noticia/nid/ex-one-direction-adia-turne-apos-morte-de-liam-payne-perda-desoladora/ "Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'")[![“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/1/csm_libanese_base_aerea_35_0ed3f12312.jpg)
+Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil](https://www.tnh1.com.br/noticia/nid/roger-x-lucio-entenda-a-fala-polemica-de-arana-do-galo-apos-vaga-na-final-da-copa-do-brasil/ "Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
 
-Mundo
+Mercado de Trabalho
 
-Mundo
+Mercado de Trabalho
 
-“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil
+Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos
 
-“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://www.tnh1.com.br/noticia/nid/nao-da-para-viver-no-libano-diz-homem-que-trouxe-familia-ao-brasil/ "“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil")[![Mesmo com chuva fraca, São Paulo registra falta de luz em bairros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_paulista_chuva_07_619b97821b.jpg)
-
-Brasil
-
-Brasil
-
-Mesmo com chuva fraca, São Paulo registra falta de luz em bairros
-
-Mesmo com chuva fraca, São Paulo registra falta de luz em bairros](https://www.tnh1.com.br/noticia/nid/mesmo-com-chuva-fraca-sao-paulo-registra-falta-de-luz-em-bairros/ "Mesmo com chuva fraca, São Paulo registra falta de luz em bairros")
+Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
