@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
+* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
     
-* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
+* [How to backup your data to Dropbox](https://www.backup4all.com/how-to-backup-your-data-to-dropbox-kb.html)  
     
-* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
+* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
     
-* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
+* [How to get a daily report with all backup exe ...](https://www.backup4all.com/how-to-get-a-daily-report-with-all-backup-executions-kb.html)  
     
-* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
+* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
     
 
 Choose language:
