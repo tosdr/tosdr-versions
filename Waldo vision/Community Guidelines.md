@@ -1,162 +1,65 @@
-[Skip to Content](#article)
+[Skip to content](#content "Skip to content")
 
-Toggle sidebar
+[![Waldo Logo](https://waldointelligence.com/wp-content/uploads/2024/05/cropped-wv_logonew_leqitside-128x128.png)](https://waldointelligence.com/)
 
-[Waldo Vision Docs
-=================](https://docs.waldo.vision/)
+[Waldo Intelligence](https://waldointelligence.com/)
 
-SearchPress / to search
+* [What is Waldo Intelligence](https://waldointelligence.com/)
+* [Contact Us](https://waldointelligence.com/contact-us/)
 
-* Welcome
-    -------
-    
-    * [Introduction](https://docs.waldo.vision/en/introduction)
-    * [FAQ](https://docs.waldo.vision/en/faq)
-    
-* Contributing
-    ------------
-    
-    * [Getting Started](https://docs.waldo.vision/en/getting-started)
-    * [Working in the Monorepo](https://docs.waldo.vision/en/working-in-monorepo)
-    
-* Legal
-    -----
-    
-    * [Legal](https://docs.waldo.vision/legal)
-    * [Code of Conduct](https://docs.waldo.vision/legal/code-of-conduct)
-    * [Cookie Policy](https://docs.waldo.vision/legal/cookie-policy)
-    * [Privacy Policy](https://docs.waldo.vision/legal/privacy-policy)
-    * [Terms of Service](https://docs.waldo.vision/legal/terms-of-service)
-    
+[![Waldo Logo](https://waldointelligence.com/wp-content/uploads/2024/05/cropped-wv_logonew_leqitside-128x128.png)](https://waldointelligence.com/)
 
-Code of Conduct
-===============
+[Waldo Intelligence](https://waldointelligence.com/)
 
-On this page
-------------
+Main Menu
 
-* [Our Pledge](#our-pledge)
-* [Our Standards](#our-standards)
-* [Enforcement Responsibilities](#enforcement-responsibilities)
-* [Scope](#scope)
-* [Enforcement](#enforcement)
-* [Enforcement Guidelines](#enforcement-guidelines)
-* [1\. Correction](#1-correction)
-* [2\. Warning](#2-warning)
-* [3\. Temporary Ban](#3-temporary-ban)
-* [4\. Permanent Ban](#4-permanent-ban)
-* [Attribution](#attribution)
+* [Contact Page](https://waldointelligence.com/contact-us/)
+* [What is Waldo Intelligence](https://waldointelligence.com/)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+****Train protective machine learning models and integrate them into your game’s backend****
 
-Our Pledge
-----------
+![](https://waldointelligence.com/wp-content/uploads/2024/05/waldo_hub_overview-2-1024x782.png)
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+AI on Your Side
+---------------
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+Waldo can adapt to any game environment, predicting anomalous behaviors and pinpointing cheats with high accuracy using advanced models that analyze and classify gameplay data. It requires minimal supervision, allowing far more early-stage developers to ensure fair play, and protect their projects’ future
 
-Our Standards
--------------
+* * *
 
-Examples of behavior that contributes to a positive environment for our community include:
+Use Cases
+---------
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+* * *
 
-Examples of unacceptable behavior include:
+Detection
+---------
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+Detect unwanted behavior and identify bad actors that are ruining the experience for your community
 
-Enforcement Responsibilities
-----------------------------
+Classification
+--------------
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+Improve game balance and target future updates by identifying and labeling common user behaviors
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+* * *
 
-Scope
------
+Next Level Intelligence In Your Game
+------------------------------------
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+![](https://waldointelligence.com/wp-content/uploads/2024/05/pytorch_logo_icon_169823-2.png)
 
-Enforcement
------------
+![](https://waldointelligence.com/wp-content/uploads/2024/05/API-icon.png)
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at \[INSERT CONTACT METHOD\]. All complaints will be reviewed and investigated promptly and fairly.
+Train machine learning models from your backend, fine-tuned on your own data. Pick a state-of-the-art **PyTorch** model architecture, upload your dataset, and train on our hardware. After training is complete, deploy your model and integrate it into your backend
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+[Waldo\_Hub\_Whitepaper](https://waldointelligence.com/wp-content/uploads/2024/06/Waldo_Hub_Whitepaper.pdf)[Download](https://waldointelligence.com/wp-content/uploads/2024/06/Waldo_Hub_Whitepaper.pdf)
 
-Enforcement Guidelines
-----------------------
+Want to learn more? Schedule a conversation with our team.
+----------------------------------------------------------
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+[Contact Us](https://waldointelligence.com/contact-us/)
 
-### 1\. Correction
+Copyright © 2024 Waldo Intelligence | Powered by [Astra WordPress Theme](https://wpastra.com/)
 
-**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
-
-### 2\. Warning
-
-**Community Impact**: A violation through a single incident or series of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
-
-### 3\. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
-
-### 4\. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within the community.
-
-Attribution
------------
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code\_of\_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
-
-Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity).
-
-For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
-
-More
-----
-
-* [Edit this page](https://github.com/waldo-vision/waldo/tree/master/docs/src/pages/legal/code-of-conduct.md)
-* [Join our community](https://waldo.vision/chat)
-
-On this page
-------------
-
-* [Our Pledge](#our-pledge)
-* [Our Standards](#our-standards)
-* [Enforcement Responsibilities](#enforcement-responsibilities)
-* [Scope](#scope)
-* [Enforcement](#enforcement)
-* [Enforcement Guidelines](#enforcement-guidelines)
-* [1\. Correction](#1-correction)
-* [2\. Warning](#2-warning)
-* [3\. Temporary Ban](#3-temporary-ban)
-* [4\. Permanent Ban](#4-permanent-ban)
-* [Attribution](#attribution)
-
-More
-----
-
-* [Edit this page](https://github.com/waldo-vision/waldo/tree/master/docs/src/pages/legal/code-of-conduct.md)
-* [Join our community](https://waldo.vision/chat)
-
-* [![Contributor tsundDEV](https://avatars.githubusercontent.com/u/83928834 "Contributor tsundDEV")](https://github.com/tsundDEV)
+Scroll to Top
