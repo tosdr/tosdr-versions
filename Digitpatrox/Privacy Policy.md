@@ -20,16 +20,16 @@ Sunday, October 20 2024
 
 Latest
 
+* [Amazon’s early Black Friday sales on Carhartt start now — 11 deals on jackets, work boots, and more from $7](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
+* [Severe flaws in E2EE cloud storage platforms used by millions](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+* [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
+* [Alien: Romulus will get a limited-edition VHS release](https://digitpatrox.com/alien-romulus-will-get-a-limited-edition-vhs-release/)
+* [Honkai Star Rail 2.6 Maintenance: Start and End Time](https://digitpatrox.com/honkai-star-rail-2-6-maintenance-start-and-end-time/)
+* [These Halloween Contacts Can Cause Eye Infections](https://digitpatrox.com/these-halloween-contacts-can-cause-eye-infections/)
+* [Should You Top Off Your Car’s Gas Tank?](https://digitpatrox.com/should-you-top-off-your-cars-gas-tank/)
+* [The Best Robot Vacuums of 2024](https://digitpatrox.com/the-best-robot-vacuums-of-2024/)
 * [Antidepressants used to help me sleep, now I rely on these 3 things instead](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
 * [iPad Mini and Kindle Colorsoft are reading gadgets worth upgrading for](https://digitpatrox.com/ipad-mini-and-kindle-colorsoft-are-reading-gadgets-worth-upgrading-for/)
-* [Top 5 Light Cones for Rappa in Honkai Star Rail](https://digitpatrox.com/top-5-light-cones-for-rappa-in-honkai-star-rail/)
-* [The Right Way to Vacuum, According to a Dyson Designer](https://digitpatrox.com/the-right-way-to-vacuum-according-to-a-dyson-designer/)
-* [We've Tested Hundreds of Washing Machines. Here are 15 of the Best Washers You Can Buy Right Now.](https://digitpatrox.com/weve-tested-hundreds-of-washing-machines-here-are-15-of-the-best-washers-you-can-buy-right-now/)
-* [Today’s NYT Connections Hints and Answer for October 20 (#497)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-20-497/)
-* [Samsung’s and Roku’s TV remotes are the best in the industry — so why haven’t others followed suit?](https://digitpatrox.com/samsungs-and-rokus-tv-remotes-are-the-best-in-the-industry-so-why-havent-others-followed-suit/)
-* [iFixit’s Meta Quest 3S teardown reveals a Quest 2 ‘hiding inside’](https://digitpatrox.com/ifixits-meta-quest-3s-teardown-reveals-a-quest-2-hiding-inside/)
-* [Casio’s AI-Powered Robot Pet Wants to Be Your New Best Friend](https://digitpatrox.com/casios-ai-powered-robot-pet-wants-to-be-your-new-best-friend/)
-* [How to Customize or Disable the Camera Control Button on an iPhone 16](https://digitpatrox.com/how-to-customize-or-disable-the-camera-control-button-on-an-iphone-16/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/BFgYpp5RUDb5fZq5JsrARa-1200-80.png)](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
+* [![](https://cdn.mos.cms.futurecdn.net/jVNRCzis9Cuz67XkAC4WYN-1200-80.jpg)](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
     
-    [Antidepressants used to help me sleep, now I rely on these 3 things instead](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
-    
-    9 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/I7wN3NF5n-tqDg8ABfSX7YHOaRM=/0x0:2760x1839/1200x628/filters:focal(1380x920:1381x921)/cdn.vox-cdn.com/uploads/chorus_asset/file/25686798/installer__4_.png)](https://digitpatrox.com/ipad-mini-and-kindle-colorsoft-are-reading-gadgets-worth-upgrading-for/)
-    
-    [iPad Mini and Kindle Colorsoft are reading gadgets worth upgrading for](https://digitpatrox.com/ipad-mini-and-kindle-colorsoft-are-reading-gadgets-worth-upgrading-for/)
-    
-    54 mins ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/10/Rappa-Best-Light-Cones-Honkai-Star-Rail.jpg)](https://digitpatrox.com/top-5-light-cones-for-rappa-in-honkai-star-rail/)
-    
-    [Top 5 Light Cones for Rappa in Honkai Star Rail](https://digitpatrox.com/top-5-light-cones-for-rappa-in-honkai-star-rail/)
+    [Amazon’s early Black Friday sales on Carhartt start now — 11 deals on jackets, work boots, and more from $7](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
     
     1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01JADKEJV6W5Y3HSCS1AR2D6KA/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-right-way-to-vacuum-according-to-a-dyson-designer/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/01/17/cloud.jpg)](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
     
-    [The Right Way to Vacuum, According to a Dyson Designer](https://digitpatrox.com/the-right-way-to-vacuum-according-to-a-dyson-designer/)
+    [Severe flaws in E2EE cloud storage platforms used by millions](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1622041875/prod/content/dam/CRO-Images-2021/Appliances/05May/CR-Appliances-InlineHero-Best-Washers-of-2021-0521)](https://digitpatrox.com/weve-tested-hundreds-of-washing-machines-here-are-15-of-the-best-washers-you-can-buy-right-now/)
+* [![](https://cdn.vox-cdn.com/thumbor/QhpqwwFW4VSWfH3Ipykjjmr-Vp8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952316/HT016_macOS_00010.jpg)](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
     
-    [We've Tested Hundreds of Washing Machines. Here are 15 of the Best Washers You Can Buy Right Now.](https://digitpatrox.com/weve-tested-hundreds-of-washing-machines-here-are-15-of-the-best-washers-you-can-buy-right-now/)
+    [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
     
-    4 hours ago
+    2 hours ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/6i9DkJBlL6JmcZSXoFkoF1bnxCE=/0x0:1300x730/1200x628/filters:focal(650x365:651x366)/cdn.vox-cdn.com/uploads/chorus_asset/file/25689729/g_alienromulus_3216_5_3d7ca4d9.jpeg)](https://digitpatrox.com/alien-romulus-will-get-a-limited-edition-vhs-release/)
+    
+    [Alien: Romulus will get a limited-edition VHS release](https://digitpatrox.com/alien-romulus-will-get-a-limited-edition-vhs-release/)
+    
+    2 hours ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/10/HSR-2.6-Maintenance-time.png?w=1024)](https://digitpatrox.com/honkai-star-rail-2-6-maintenance-start-and-end-time/)
+    
+    [Honkai Star Rail 2.6 Maintenance: Start and End Time](https://digitpatrox.com/honkai-star-rail-2-6-maintenance-start-and-end-time/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 mins ago
-    
-    ### Antidepressants used to help me sleep, now I rely on these 3 things instead](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
-* [54 mins ago
-    
-    ### iPad Mini and Kindle Colorsoft are reading gadgets worth upgrading for](https://digitpatrox.com/ipad-mini-and-kindle-colorsoft-are-reading-gadgets-worth-upgrading-for/)
 * [1 hour ago
     
-    ### Top 5 Light Cones for Rappa in Honkai Star Rail](https://digitpatrox.com/top-5-light-cones-for-rappa-in-honkai-star-rail/)
+    ### Amazon’s early Black Friday sales on Carhartt start now — 11 deals on jackets, work boots, and more from $7](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
+* [2 hours ago
+    
+    ### Severe flaws in E2EE cloud storage platforms used by millions](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+* [2 hours ago
+    
+    ### Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
 
 Most Popular Topics
 
-* [September 4, 2024
+* [August 21, 2024
     
-    ### Rubrik partners with Cisco to bolster cyber resilience](https://digitpatrox.com/rubrik-partners-with-cisco-to-bolster-cyber-resilience/)
-* [3 weeks ago
+    ### Save 50% on Paramount+ with This Hidden Deal](https://digitpatrox.com/save-50-on-paramount-with-this-hidden-deal/)
+* [2 days ago
     
-    ### AI Surge Could Trigger Global Chip Shortage by 2026](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
+    ### How to sell cyber security without the FUD](https://digitpatrox.com/how-to-sell-cyber-security-without-the-fud/)
 * [2 weeks ago
     
-    ### Regulatory fines could be the tip of the iceberg for enterprises as data breach lawsuits expected to surge in 2025](https://digitpatrox.com/regulatory-fines-could-be-the-tip-of-the-iceberg-for-enterprises-as-data-breach-lawsuits-expected-to-surge-in-2025/)
+    ### Chevy’s cheapest Silverado EV now starts at $57,095](https://digitpatrox.com/chevys-cheapest-silverado-ev-now-starts-at-57095/)
 
 Last Modified Topics
 
 * [5 hours ago
     
-    ### Samsung’s and Roku’s TV remotes are the best in the industry — so why haven’t others followed suit?](https://digitpatrox.com/samsungs-and-rokus-tv-remotes-are-the-best-in-the-industry-so-why-havent-others-followed-suit/)
+    ### Should You Top Off Your Car’s Gas Tank?](https://digitpatrox.com/should-you-top-off-your-cars-gas-tank/)
+* [5 hours ago
+    
+    ### The Best Robot Vacuums of 2024](https://digitpatrox.com/the-best-robot-vacuums-of-2024/)
 * [6 hours ago
     
-    ### iFixit’s Meta Quest 3S teardown reveals a Quest 2 ‘hiding inside’](https://digitpatrox.com/ifixits-meta-quest-3s-teardown-reveals-a-quest-2-hiding-inside/)
-* [6 hours ago
-    
-    ### Casio’s AI-Powered Robot Pet Wants to Be Your New Best Friend](https://digitpatrox.com/casios-ai-powered-robot-pet-wants-to-be-your-new-best-friend/)
+    ### Antidepressants used to help me sleep, now I rely on these 3 things instead](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
 
 Most Viewed Topics
 
