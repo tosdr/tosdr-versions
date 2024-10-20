@@ -95,17 +95,17 @@ If you have any questions or concerns regarding our privacy policy please email 
 
 ### [SMITE 2 (Early Access)](https://www.freesteamkeys.com/smite-2-early-access/)
 
- [![](https://steamcdn-a.akamaihd.net/steam/apps/1104330/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Founders’ Fortune](https://www.freesteamkeys.com/founders-fortune/)
-
-### [Founders’ Fortune](https://www.freesteamkeys.com/founders-fortune/)
-
  [![](https://www.freesteamkeys.com/random.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
 
 ### [Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
+
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/1104330/header.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Founders’ Fortune](https://www.freesteamkeys.com/founders-fortune/)
+
+### [Founders’ Fortune](https://www.freesteamkeys.com/founders-fortune/)
 
  [![](https://www.freesteamkeys.com/random.jpg)
 
