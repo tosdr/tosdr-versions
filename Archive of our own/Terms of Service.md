@@ -48,7 +48,7 @@ Remember Me
 * Work Search  tip: austen words:10000-50000 sort:title 
     
 
-> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$165,394.83, and we’ve surpassed our goal of **4,500** new members, with over **4,591** new members so far!
+> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$178,082.42, and we’ve surpassed our goal of **4,500** new members, with over **4,930** new members so far!
 
 [×](https://archiveofourown.org/tos?hide_banner=true&view_adult=true "hide banner")
 
