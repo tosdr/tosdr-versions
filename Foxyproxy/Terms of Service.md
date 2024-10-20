@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-In general, most of the time I found the service to be satisfactory and have renewed the service for a year.
+Thank you, team. You guys are amazing :)
 
-Henry Harvey
+Nab Ahmed
