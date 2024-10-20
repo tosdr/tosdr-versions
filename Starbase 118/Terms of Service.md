@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/rr-on-ring-42/)
+
+### [R&R on Ring 42](https://www.starbase118.net/2024/rr-on-ring-42/)
+
+Federation News Service October 20, 2024
+
+DENALI STATION – The crew enjoy some hard earned R&R during shore leave after their escape from an alternate universe. After the challenges of the
+
+[Read More »](https://www.starbase118.net/2024/rr-on-ring-42/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
 
 ### [Poll of the Month:  Monster Mash](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
@@ -377,18 +389,6 @@ Federation News Service October 18, 2024
 Deep Space Thirty-Three – Lengthy siege of the lone Starfleet outpost is finally over, the USS Excalibur’s timely arrival forced the Lattice Alliance to retreat;
 
 [Read More »](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
-
-### [Award Winner – Esa Kiax – USS Astraeus – Prestigious Service Medallion – Operations](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
-
-otterhooligan October 17, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
 
 Ready to get started?
 ---------------------
