@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=188098476)  
-Lily Fern & Co
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=57087686)  
+Baby Toddles Infant Care
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=107765468)  
-Turnkey Innovations
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=170179898)  
+Oak Tree Immigration
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=149697410)  
-Van Der Merwe Olieverspreiders
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=2118608)  
+Network Grey (Pty) Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=136149548)  
-RADIO TYGERBERG 104FM NPC
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=207462481)  
+OptaServ
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=145687546)  
-SR Travel Services
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=139292524)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=149037320)  
-Oukraal Merino's
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=207675989)  
+Iurus Inc
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=10230730)  
-Goju-Ryu Pretoria East
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=146449228)  
+Immediate Health (pty)ltd
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=39976502)  
-ARCHITEK PTY LTD
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=112095881)  
+West Coast Horse Trails
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=56783974)  
-TRACKFORCE (Pty) Ltd
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=117226900)  
+Karino Merinos ( PTY ) LTD
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=56590970)  
-CLEVER STUDENTS
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=1564256)  
+Hydroworld T/A Milliqua
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=166072785)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=104908109)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=121086539)  
-Nogana Events and Decor
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=68185891)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=135313422)  
-Druce Digital
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=135692485)  
+Bchange Online CC
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=90177501)  
-LEO DEVELOPMENT GROUP
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=82731767)  
+Skinz Printing & Branding
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=202151114)  
-Entidee Enterprise PTY (ltd)
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=48621674)  
+AFS Electrical
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
