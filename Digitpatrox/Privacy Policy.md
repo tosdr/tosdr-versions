@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Saturday, October 19 2024
+Sunday, October 20 2024
 
 Latest
 
+* [The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
+* [How to Check for Viruses on Windows 11](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
+* [Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
+* [Here’s How I Made Ubuntu Look Like macOS](https://digitpatrox.com/heres-how-i-made-ubuntu-look-like-macos/)
+* [Black Friday just came early with Nintendo’s big Halloween sale — here’s 11 Switch game deals I’d buy now](https://digitpatrox.com/black-friday-just-came-early-with-nintendos-big-halloween-sale-heres-11-switch-game-deals-id-buy-now/)
+* [Google Scholar has a ‘verified email’ for Sir Isaac Newton](https://digitpatrox.com/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
+* [Ford tells some EV customers to stop using its Tesla Supercharger adapter](https://digitpatrox.com/ford-tells-some-ev-customers-to-stop-using-its-tesla-supercharger-adapter/)
+* [Dress to Impress: How to Complete Lana Lore Quest in DTI Halloween Update](https://digitpatrox.com/dress-to-impress-how-to-complete-lana-lore-quest-in-dti-halloween-update/)
+* [Best Antivirus for Social Media Protection in 2024](https://digitpatrox.com/best-antivirus-for-social-media-protection-in-2024/)
 * [How to Tell If a Real Estate Listing Is Based on Reality](https://digitpatrox.com/how-to-tell-if-a-real-estate-listing-is-based-on-reality/)
-* [Best free antivirus for families in 2024](https://digitpatrox.com/best-free-antivirus-for-families-in-2024/)
-* [Most Reliable Appliance Brands – Consumer Reports](https://digitpatrox.com/most-reliable-appliance-brands-consumer-reports/)
-* [The Best iPhone SE Cases of 2024](https://digitpatrox.com/the-best-iphone-se-cases-of-2024/)
-* [5 Call Queue Management Tips to Survive Peak Hour Traffic](https://digitpatrox.com/5-call-queue-management-tips-to-survive-peak-hour-traffic/)
-* [Amazon’s early Black Friday deals are up to 65% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-black-friday-deals-are-up-to-65-off-heres-my-favorite-power-banks-and-chargers/)
-* [Microsoft creates fake Azure tenants to pull phishers into honeypots](https://digitpatrox.com/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
-* [Stoke Voltaics’ portable electric cookware review](https://digitpatrox.com/stoke-voltaics-portable-electric-cookware-review/)
-* [Realme TechLife Studio H1 Review: Good Start, Needs Polish](https://digitpatrox.com/realme-techlife-studio-h1-review-good-start-needs-polish/)
-* [What Is Y2Mate? and How to Remove the Y2Mate Virus](https://digitpatrox.com/what-is-y2mate-and-how-to-remove-the-y2mate-virus/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JAG84RG56E7N9P51AWX4PVGB/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-tell-if-a-real-estate-listing-is-based-on-reality/)
+* [![](https://lifehacker.com/imagery/articles/01JA632HY8RSFTHGTEFQYZN2DA/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
     
-    [How to Tell If a Real Estate Listing Is Based on Reality](https://digitpatrox.com/how-to-tell-if-a-real-estate-listing-is-based-on-reality/)
+    [The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
     
-    21 mins ago
+    42 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Best-free-antivirus-for-families.jpg)](https://digitpatrox.com/best-free-antivirus-for-families-in-2024/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-check-for-viruses-on-Windows-11.jpg)](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
     
-    [Best free antivirus for families in 2024](https://digitpatrox.com/best-free-antivirus-for-families-in-2024/)
+    [How to Check for Viruses on Windows 11](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
     
-    30 mins ago
+    51 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1560882457/prod/content/dam/CRO%20Images%202019/Magazine/09September/CR-Magazine-Inlinehero-reliability-most%20reliable-August-2019-0619)](https://digitpatrox.com/most-reliable-appliance-brands-consumer-reports/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1709561629/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Quietest-Midsized-SUVs-0224)](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
     
-    [Most Reliable Appliance Brands – Consumer Reports](https://digitpatrox.com/most-reliable-appliance-brands-consumer-reports/)
+    [Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
     
-    52 mins ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/52645074285_417f7f6996_o.jpg)](https://digitpatrox.com/the-best-iphone-se-cases-of-2024/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-laptop-with-the-macos-dock-and-a-linux-wallpaper-featuring-tux-holding-the-apple-logo.jpg)](https://digitpatrox.com/heres-how-i-made-ubuntu-look-like-macos/)
     
-    [The Best iPhone SE Cases of 2024](https://digitpatrox.com/the-best-iphone-se-cases-of-2024/)
+    [Here’s How I Made Ubuntu Look Like macOS](https://digitpatrox.com/heres-how-i-made-ubuntu-look-like-macos/)
     
-    55 mins ago
+    1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/call-queue-management-envato.jpg)](https://digitpatrox.com/5-call-queue-management-tips-to-survive-peak-hour-traffic/)
+* [![](https://cdn.mos.cms.futurecdn.net/dwvS7cbMLeoAdzxS7Bx7VT-1200-80.jpg)](https://digitpatrox.com/black-friday-just-came-early-with-nintendos-big-halloween-sale-heres-11-switch-game-deals-id-buy-now/)
     
-    [5 Call Queue Management Tips to Survive Peak Hour Traffic](https://digitpatrox.com/5-call-queue-management-tips-to-survive-peak-hour-traffic/)
+    [Black Friday just came early with Nintendo’s big Halloween sale — here’s 11 Switch game deals I’d buy now](https://digitpatrox.com/black-friday-just-came-early-with-nintendos-big-halloween-sale-heres-11-switch-game-deals-id-buy-now/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [21 mins ago
+* [42 mins ago
     
-    ### How to Tell If a Real Estate Listing Is Based on Reality](https://digitpatrox.com/how-to-tell-if-a-real-estate-listing-is-based-on-reality/)
-* [30 mins ago
+    ### The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
+* [51 mins ago
     
-    ### Best free antivirus for families in 2024](https://digitpatrox.com/best-free-antivirus-for-families-in-2024/)
-* [52 mins ago
+    ### How to Check for Viruses on Windows 11](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
+* [1 hour ago
     
-    ### Most Reliable Appliance Brands – Consumer Reports](https://digitpatrox.com/most-reliable-appliance-brands-consumer-reports/)
+    ### Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
 
 Most Popular Topics
 
-* [August 31, 2024
+* [August 24, 2024
     
-    ### Foods You Can & Can’t Put Down a Garbage Disposal](https://digitpatrox.com/foods-you-can-cant-put-down-a-garbage-disposal/)
-* [August 23, 2024
-    
-    ### NYT Connections Today: Hints and Answers for August 24, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-24-2024/)
+    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
 * [2 weeks ago
     
-    ### A Bank of America outage showed customers blanked-out account balances](https://digitpatrox.com/a-bank-of-america-outage-showed-customers-blanked-out-account-balances/)
+    ### Comcast and Truist Bank customers caught up in FBCS data breach](https://digitpatrox.com/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
+* [3 weeks ago
+    
+    ### Razer leans into haptics with a new gaming cushion and vibrating headphones](https://digitpatrox.com/razer-leans-into-haptics-with-a-new-gaming-cushion-and-vibrating-headphones/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Microsoft creates fake Azure tenants to pull phishers into honeypots](https://digitpatrox.com/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
+    ### Ford tells some EV customers to stop using its Tesla Supercharger adapter](https://digitpatrox.com/ford-tells-some-ev-customers-to-stop-using-its-tesla-supercharger-adapter/)
 * [3 hours ago
     
-    ### Stoke Voltaics’ portable electric cookware review](https://digitpatrox.com/stoke-voltaics-portable-electric-cookware-review/)
-* [3 hours ago
+    ### Dress to Impress: How to Complete Lana Lore Quest in DTI Halloween Update](https://digitpatrox.com/dress-to-impress-how-to-complete-lana-lore-quest-in-dti-halloween-update/)
+* [5 hours ago
     
-    ### Realme TechLife Studio H1 Review: Good Start, Needs Polish](https://digitpatrox.com/realme-techlife-studio-h1-review-good-start-needs-polish/)
+    ### Best Antivirus for Social Media Protection in 2024](https://digitpatrox.com/best-antivirus-for-social-media-protection-in-2024/)
 
 Most Viewed Topics
 
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
