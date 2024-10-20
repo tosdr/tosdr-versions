@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Computer Golf!](https://www.myabandonware.com/game/computer-golf-sww)
-* [Comando Noturno!](https://www.myabandonware.com/game/comando-noturno-swv)
-* [Popeye](https://www.myabandonware.com/game/popeye-swu)
-* [Clay Pigeon!](https://www.myabandonware.com/game/clay-pigeon-swt)
-* [Chinese Logic](https://www.myabandonware.com/game/chinese-logic-sws)
+* [Shanghai](https://www.myabandonware.com/game/shanghai-8u)
+* [Connect 4](https://www.myabandonware.com/game/connect-4-sx9)
+* [CoffeeBreak Card Games](https://www.myabandonware.com/game/coffeebreak-card-games-sx8)
+* [Chu Liu Xiang Chuan Qi Xue Hai Piao Xiang](https://www.myabandonware.com/game/chu-liu-xiang-chuan-qi-xue-hai-piao-xiang-sx7)
+* [Astatin](https://www.myabandonware.com/game/astatin-sx5)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
