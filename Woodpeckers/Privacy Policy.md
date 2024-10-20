@@ -150,6 +150,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1727885091/fro
         * [Counter Bore/Sink](https://www.woodpeck.com/routing/ultra-shear-router-bits/counter-bore-sink.html)
         * [Cove Nose](https://www.woodpeck.com/routing/ultra-shear-router-bits/cove-nose.html)
         * [Engraving Profile](https://www.woodpeck.com/routing/ultra-shear-router-bits/engraving-profile.html)
+        * [Finger Grip Groove Round](https://www.woodpeck.com/routing/ultra-shear-router-bits/finger-grip-groove-round.html)
         * [Flush Trim](https://www.woodpeck.com/routing/ultra-shear-router-bits/spiral-flush-trim.html)
         * [For Domino Tenons](https://www.woodpeck.com/routing/ultra-shear-router-bits/for-domino-tenons.html)
         * [For Multi-Router](https://www.woodpeck.com/routing/ultra-shear-router-bits/bits-for-multi-router.html)
