@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. marketing
     
-2. project management
+2. javascript
     
-3. French
+3. trading
     
 
 Popular subjects
