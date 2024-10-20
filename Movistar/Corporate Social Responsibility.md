@@ -213,7 +213,7 @@ miMovistar: Fibra, móvil y TV
 * [Movistar Plus](https://www.movistar.es/tv/movistar-plus/ "Movistar Plus")
 * [Contratar Netflix](https://www.movistar.es/tv/netflix/ "Contratar Netflix")
 
-Packs con Internet
+Fibra óptica
 
 * [Ofertas fibra](https://www.movistar.es/fibra-optica/ "Ofertas fibra")
 * [Fibra 300 Mb](https://www.movistar.es/fibra-optica/fibra-300mb/ "Fibra 300 Mb")
