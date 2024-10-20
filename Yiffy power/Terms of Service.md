@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 566 1
+0 581 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-anotheranon-3/)
+[](https://yiff-party.com/yiff/mythology-created-by-kolemus/)
 
-[directed by anotheranon](https://yiff-party.com/yiff-ai-premium/directed-by-anotheranon-3/)
+[mythology created by kolemus](https://yiff-party.com/yiff/mythology-created-by-kolemus/)
 
-0 2 0
+0 1 0
 
 October 20, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/beastman-directed-by-hyperion/)
+[](https://yiff-party.com/yiff/ivy-deadlock-and-etc-created-by-welwraith/)
 
-[beastman directed by hyperion](https://yiff-party.com/yiff-ai-premium/beastman-directed-by-hyperion/)
+[ivy (deadlock and etc) created by welwraith](https://yiff-party.com/yiff/ivy-deadlock-and-etc-created-by-welwraith/)
 
-0 69 0
+0 121 0
 
 September 20, 2024
 
-[](https://yiff-party.com/yiff-gif/fox-mccloud-wolf-odonnell-and-zerosuit-fox-nintendo-and-etc-created-by-acstlu-and-cataliser2/)
+[](https://yiff-party.com/yiff/falco-lombardi-fox-mccloud-and-wolf-odonnell-nintendo-and-etc-created-by-unsavoryimpcat/)
 
-[fox mccloud, wolf o’donnell, and zerosuit fox (nintendo and etc) created by acstlu and cataliser2](https://yiff-party.com/yiff-gif/fox-mccloud-wolf-odonnell-and-zerosuit-fox-nintendo-and-etc-created-by-acstlu-and-cataliser2/)
+[falco lombardi, fox mccloud, and wolf o’donnell (nintendo and etc) created by unsavoryimpcat](https://yiff-party.com/yiff/falco-lombardi-fox-mccloud-and-wolf-odonnell-nintendo-and-etc-created-by-unsavoryimpcat/)
 
-0 118 0
+0 134 0
 
 September 20, 2024
 
