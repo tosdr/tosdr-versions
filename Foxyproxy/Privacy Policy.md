@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Only positive comments. Have renewed my subscription. Found the service very reliable, quick and responsive.
+The service worked well, and I appreciated the secure connection.
 
-Eleanor Fisher
+James Eckett
