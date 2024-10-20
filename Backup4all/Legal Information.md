@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
+* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
     
-* [How to backup to OneDrive using Backup4all](https://www.backup4all.com/how-to-backup-to-skydrive-using-backup4all-kb.html)  
+* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
     
-* [Network deployment strategy for Backup4all](https://www.backup4all.com/network-deployment-strategy-for-backup4all-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
-* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
+* [How to backup from cloud using Backup4all](https://www.backup4all.com/how-to-backup-from-cloud-using-backup4all-kb.html)  
     
-* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
+* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
     
 
 Choose language:
