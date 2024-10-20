@@ -13,8 +13,6 @@
 * [About](https://navient.com/about/)
     * [Our People](https://navient.com/about/our-people/)
     * [Our Story](https://navient.com/about/our-story/)
-    * [Highlights & Insights](https://navient.com/about/highlights-and-insights/)
-    * [Success Stories](https://navient.com/about/success-stories/)
     * [Trust & Security](https://navient.com/about/trust-and-security/)
 * [Business Processing](https://navient.com/business-processing/)
 * [Education Financing](https://navient.com/education-financing/)
@@ -24,14 +22,6 @@
     * [Governance](https://navient.com/social-responsibility/governance/)
     * [Supplier Diversity](https://navient.com/social-responsibility/supplier-diversity/)
 * [Loan Servicing](https://navient.com/loan-servicing/)
-    * [Servicing Transition](https://navient.com/loan-servicing/mohela/)
-    * [Federal Student Loans](https://navient.com/loan-servicing/federal-student-loans/)
-    * [Private Student Loans](https://navient.com/loan-servicing/private-student-loans/)
-    * [Help Center](https://navient.com/loan-servicing/help-center/)
-    * [How To Read Your Statement](https://navient.com/loan-servicing/how-to-read-your-statement/)
-    * [About Payments](https://navient.com/loan-servicing/about-payments/)
-    * [Taxes, Interest, & Credit](https://navient.com/loan-servicing/taxes-interest-and-credit/)
-    * [Military Benefits](https://navient.com/loan-servicing/military-benefits/)
 * Search
     
     [](#)
@@ -54,7 +44,7 @@ If you have found security problems with our website, they can be submitted here
 
 [Navient's Online Consumer Information Privacy Policy](https://navient.com/navient-online-consumer-information-privacy-policy/)
 
-This policy applies to all visitors to our website, describing our practices concerning the collection and use of information gathered from or about our online visitors and registered users.
+This policy applies to all visitors to our website, describing our practices concerning the collection and use of information gathered from or about our online visitors.
 
 [Privacy Notice (Navient and Earnest)](https://navient.com/privacy-notice/)
 
@@ -62,27 +52,17 @@ This policy applies to customers and applicants who have obtained a Navient or E
 
 [California Privacy Policy](https://navient.com/california-privacy-policy/)
 
-California law provides California residents with additional rights regarding the collection and use of their personal information. This policy supplements our Online Consumer Information Privacy Policy and provides information about how California residents can exercise these additional rights.
+California law provides California residents with additional rights regarding the collection and use of their personal information. This policy supplements the privacy documents above and provides information about how California residents can exercise these additional rights.
 
 ![Navient logo](https://images.navient.com/navient/web/navient-logo-white-lg.png)
 
-[![facebook](https://images.navient.com/Navient/web/facebook-wsvg.svg)](https://www.facebook.com/Navient)
-
-[![LinkedIn](https://images.navient.com/Navient/web/linkedin-w.svg)](https://www.linkedin.com/company/navient)
-
-[![Medium](https://images.navient.com/Navient/web/medium-w.svg)](https://medium.com/@Navient)
-
-[![YouTube](https://images.navient.com/Navient/web/youtube-w.svg)](https://www.youtube.com/user/navientsocial)
+[![LinkedIn](https://images.navient.com/navient/web/linkedin-logo-white.png)](https://www.linkedin.com/company/navient)
 
 [**About**](https://navient.com/about/)
 
 [Our People](https://navient.com/about/our-people/)
 
 [Our Story](https://navient.com/about/our-story/)
-
-[Highlights & Insights](https://navient.com/about/highlights-and-insights/)
-
-[Success Stories](https://navient.com/about/success-stories/)
 
 [Trust & Security](https://navient.com/about/trust-and-security/)
 
@@ -101,22 +81,6 @@ California law provides California residents with additional rights regarding th
 [Supplier Diversity](https://navient.com/social-responsibility/supplier-diversity/)
 
 [**Loan Servicing**](https://navient.com/loan-servicing/)
-
-[Servicing Transition](https://navient.com/loan-servicing/mohela/)
-
-[Federal Student Loans](https://navient.com/loan-servicing/federal-student-loans/)
-
-[Private Student Loans](https://navient.com/loan-servicing/private-student-loans/)
-
-[Help Center](https://navient.com/loan-servicing/help-center/)
-
-[How To Read Your Statement](https://navient.com/loan-servicing/how-to-read-your-statement/)
-
-[About Payments](https://navient.com/loan-servicing/about-payments/)
-
-[Taxes, Interest, & Credit](https://navient.com/loan-servicing/taxes-interest-and-credit/)
-
-[Military Benefits](https://navient.com/loan-servicing/military-benefits/)
 
 [**News**](https://news.navient.com/)
 
