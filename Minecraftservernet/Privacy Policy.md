@@ -29,15 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![ValexiumAU](plugins/MineCraft/icons/25x25xValexiumAU_1655744810.png.pagespeed.ic._wwafz0K45.jpg)
+[Buildix with multiple games servivel,bedwars](https://minecraft-server.net/details/Buildix/ "Buildix with multiple games servivel,bedwars ")[![Old_World_SMP](plugins/MineCraft/icons/25x25xOld_World_SMP_1729410894.png.pagespeed.ic.7swEvR7OF7.png)
 
-Valexium](https://minecraft-server.net/details/ValexiumAU/ "Valexium")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1726669577.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+OLD WORLD SMP](https://minecraft-server.net/details/Old_World_SMP/ "OLD WORLD SMP")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")[![CoinsMC](plugins/MineCraft/icons/25x25xCoinsMC_1729388809.png.pagespeed.ic.6JDN38fruZ.png)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-CoinsMC](https://minecraft-server.net/details/CoinsMC/ "CoinsMC")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief") [CliveOverflow SMP](https://minecraft-server.net/details/CLineNebulousSMP/ "CliveOverflow SMP")
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06105 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06215 - Created by [Debaucus](https://debauc.us/)
