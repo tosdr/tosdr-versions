@@ -2,14 +2,14 @@ Sunday, October 20 2024
 
 Breaking News
 
+* [Jewish Support For Harris Lowest Of Any Dem Candidate Since Reagan Era, New Poll Shows](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
+* [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
+* [Lizzo Tells Swing State Voters To Support Kamala So That ‘Whole Country Will Be Like Detroit’](https://www.conservativedailynews.com/2024/10/lizzo-tells-swing-state-voters-to-support-kamala-so-that-whole-country-will-be-like-detroit/)
+* [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/)
 * [Unstable And Unfit Are Her Latest Barbs But Is It Projection](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
 * [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
 * [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
 * [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
-* [Up To $41 Billion In World Bank Climate Handouts Unaccounted For, New Report Finds](https://www.conservativedailynews.com/2024/10/up-to-41-billion-in-world-bank-climate-handouts-unaccounted-for-new-report-finds/)
-* [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
-* [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
-* [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,53 +126,53 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5655-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
     
-    [Unstable And Unfit Are Her Latest Barbs But Is It Projection](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
+    [Jewish Support For Harris Lowest Of Any Dem Candidate Since Reagan Era, New Poll Shows](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
     
     October 20, 2024
     
-* [![New Mexico man sentenced to 60 years for enticement of minors following HSI investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/03/New-Mexico-man-sentenced-to-60-years-for-enticement-of-220x150.png)](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
     
-    [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+    [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
     
-    October 19, 2024
+    October 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Kamala-Harris.jpg)](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-2-220x150.png)](https://www.conservativedailynews.com/2024/10/lizzo-tells-swing-state-voters-to-support-kamala-so-that-whole-country-will-be-like-detroit/)
     
-    [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
+    [Lizzo Tells Swing State Voters To Support Kamala So That ‘Whole Country Will Be Like Detroit’](https://www.conservativedailynews.com/2024/10/lizzo-tells-swing-state-voters-to-support-kamala-so-that-whole-country-will-be-like-detroit/)
     
-    October 19, 2024
+    October 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Sad-girl.jpg)](https://www.conservativedailynews.com/2024/10/nyt-says-night-depression-is-a-thing-it-shouldnt-be/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/our-nightmare-3/)
     
-    [NYT Says Night Depression is a thing. It shouldn’t be](https://www.conservativedailynews.com/2024/10/nyt-says-night-depression-is-a-thing-it-shouldnt-be/)
+    [Our Nightmare](https://www.conservativedailynews.com/2024/10/our-nightmare-3/)
     
-    October 19, 2024
+    October 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5653-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/welcome-to-hell-2/)
     
-    [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
+    [Welcome to Hell](https://www.conservativedailynews.com/2024/10/welcome-to-hell-2/)
     
-    October 19, 2024
+    October 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/World-Bank-220x150.jfif)](https://www.conservativedailynews.com/2024/10/up-to-41-billion-in-world-bank-climate-handouts-unaccounted-for-new-report-finds/)
+* [![national Debt deficit spending](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz101824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/unsustainable/)
     
-    [Up To $41 Billion In World Bank Climate Handouts Unaccounted For, New Report Finds](https://www.conservativedailynews.com/2024/10/up-to-41-billion-in-world-bank-climate-handouts-unaccounted-for-new-report-finds/)
+    [Unsustainable](https://www.conservativedailynews.com/2024/10/unsustainable/)
     
-    October 19, 2024
+    October 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5652-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/2020-02-11T011157Z_622246339_RC21YE9U3011_RTRMADP_3_USA-ELECTION-BIDEN-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/)
     
-    [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
+    [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/)
     
-    October 18, 2024
+    October 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
+* [![Tim Walz tampon Tim shotgun](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-walz-loaded-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/elmer-fraud/)
     
-    [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
+    [Elmer Fraud](https://www.conservativedailynews.com/2024/10/elmer-fraud/)
     
-    October 18, 2024
+    October 20, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
+* Stanley Warner on [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/#comment-782764)
+* charles wilkins on [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/#comment-782763)
 * Stanley Warner on [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/#comment-782744)
 * KayCee on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782742)
 * Catboss on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782737)
 * Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
 * charles wilkins on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782729)
 * Stanley Warner on [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/#comment-782725)
-* charles wilkins on [Team Kamala](https://www.conservativedailynews.com/2024/10/team-kamala/#comment-782723)
-* Bill on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782720)
-* charles wilkins on [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/#comment-782712)
 
 [Close](#)
 
