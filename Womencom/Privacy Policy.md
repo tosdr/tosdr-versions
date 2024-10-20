@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+*  [![Miley Cyrus smiling](https://www.women.com/img/gallery/celebs-who-took-a-stunning-leap-from-long-to-short-hair/intro-1729283248.jpg)](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
-    ===========================================================================================================================
+    [Celebs Who Took A Stunning Leap From Long To Short Hair](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
+    ===========================================================================================================================================
     
-    The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyle's she's rocked so well over the years.
+    It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+    By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
-* *  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middletons-biggest-makeup-mistakes-of-all-time/intro-1729179483.jpg)](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
+* *  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+        
+        The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyle's she's rocked so well over the years.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
+        
+    *  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middletons-biggest-makeup-mistakes-of-all-time/intro-1729179483.jpg)](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -66,22 +78,22 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
         
-    *  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-        
-        Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-        
 
 More Stories
 ------------
 
+*  [![Sam Taylor-Johnson and Aaron Taylor-Johnson](https://www.women.com/img/gallery/there-are-so-many-red-flags-in-sam-and-aaron-taylor-johnsons-relationship/intro-1729291144.jpg)](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [There Are So Many Red Flags In Sam And Aaron Taylor-Johnson's Relationship](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+    
+    Sam and Aaron Taylor-Johnson have long raised eyebrows because of their age gap. However, there are more red flags in the relationship than the age difference.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+    
 *  [![Ariana Grande](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
     
     [Wellness](https://www.women.com/category/wellness/)
@@ -93,6 +105,18 @@ More Stories
     Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
     
     By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
+    
+*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+    
+    Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
     
 *  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
     
@@ -381,30 +405,6 @@ More Stories
     While some of Angelina Jolie's tattoos are obvious, some are far more nuanced, and others are completely private.
     
     By Amanda Chatel [Read More](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
-    
-*  [![florence pugh](https://www.women.com/img/gallery/florence-pughs-edgiest-hair-looks-from-blond-to-buzzed/intro-1727809894.jpg)](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Florence Pugh's Edgiest Hair Looks From Blond To Buzzed](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
-    
-    Florence Pugh's edgy hair looks have set more than one trend. Over the years, she's rocked unconventional colors, short crops, and even a full buzz cut.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
-    
-*  [![Jennifer Lopez](https://www.women.com/img/gallery/5-relationship-red-flags-weve-learned-to-avoid-thanks-to-jennifer-lopez/intro-1727973168.jpg)](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
-    
-    ### [5 Relationship Red Flags We've Learned To Avoid Thanks To Jennifer Lopez](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
-    
-    After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
     
 
 Back
