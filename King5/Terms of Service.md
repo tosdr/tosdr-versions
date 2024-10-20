@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
+    *  [![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_360x203.jpg)](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
         
-        #### [Cinco Cosas: La huelga de Boeing, las elecciones, y artista Víctor Melendez diseñó una camiseta de Seattle Kraken](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
+        #### [Here's why the Navy is not sharing the identities of 2 crew members aboard crashed jet](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
         
-    *  [![](https://media.king5.com/assets/KING/images/73431c93-e80e-41bc-be26-447181eea153/20240831T003905/73431c93-e80e-41bc-be26-447181eea153_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73431c93-e80e-41bc-be26-447181eea153/20240831T003905/73431c93-e80e-41bc-be26-447181eea153_360x203.jpg)](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
+    *  [![](https://media.king5.com/assets/KING/images/f860f1d1-7028-44df-84da-307cf7517e03/20241019T040818/f860f1d1-7028-44df-84da-307cf7517e03_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f860f1d1-7028-44df-84da-307cf7517e03/20241019T040818/f860f1d1-7028-44df-84da-307cf7517e03_360x203.jpg)](https://www.king5.com/article/news/local/navy-declares-2-missing-crew-members-crashed-jet-deceased/281-a83540a2-7f8b-44d9-bdbc-762b43076679)
         
-        #### [Rail issue delays Sound Transit light rail trains between Lynnwood and Seattle](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
+        #### [Navy declares 2 missing crew members of crashed jet deceased](https://www.king5.com/article/news/local/navy-declares-2-missing-crew-members-crashed-jet-deceased/281-a83540a2-7f8b-44d9-bdbc-762b43076679)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/46cc1e06-8758-4362-aee2-fa8bf0c27506/20241020T032624/46cc1e06-8758-4362-aee2-fa8bf0c27506_16x9.jpg) ![](https://media.king5.com/assets/KING/images/46cc1e06-8758-4362-aee2-fa8bf0c27506/20241020T032624/46cc1e06-8758-4362-aee2-fa8bf0c27506_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f2f11ed1-340c-49fc-99cf-8cf60f707cfb/20241020T150915/f2f11ed1-340c-49fc-99cf-8cf60f707cfb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2f11ed1-340c-49fc-99cf-8cf60f707cfb/20241020T150915/f2f11ed1-340c-49fc-99cf-8cf60f707cfb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-61°
+66°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
