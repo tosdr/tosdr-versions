@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-354084b5d2c602c05f1fb2a2d4091006
+f906242663cced3ecdbe104393e9295d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![EB28 bead](https://www.sojourner.biz/images/cache/EB28lbl.200.jpg)](https://www.sojourner.biz/beads/metal/eb28-bead.html "EB28 bead")
+[![Hand-made copper bell, 2 inch](https://www.sojourner.biz/images/cache/TT0008nmb3.200.jpg)](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
 
-#### [EB28 bead](https://www.sojourner.biz/beads/metal/eb28-bead.html "EB28 bead")
+#### [Hand-made copper bell, 2 inch](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
 
-$7.10
+$5.00
 
 ### Best Sellers
 
