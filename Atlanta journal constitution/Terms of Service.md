@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Atlanta United gets all the results, advances to MLS playoffs](https://www.ajc.com/sports/atlanta-united/atlanta-united-gets-all-the-results-advances-to-mls-playoffs/IA4B6G7CMRGM7NGIBMG67YA544/)
+[Breaking: No. 5 Georgia Bulldogs take down No. 1 Texas](https://www.ajc.com/sports/georgia-bulldogs/no-5-georgia-bulldogs-take-down-no-1-texas/ZWHTM7PJOZD27OP7K2AOSC7774/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
