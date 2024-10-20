@@ -1,4 +1,4 @@
-[Log In](https://cdk.fairgocasino.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgocasino.com/Lobby.aspx?SkinId=1&show=signup)
+[Log In](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup)
 
 [](https://www.fairgoplus.com/au)
 
