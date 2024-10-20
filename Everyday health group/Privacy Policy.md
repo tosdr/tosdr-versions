@@ -4,7 +4,7 @@ Menu
 
 NewslettersSearch
 
-[Health Topics A-Z](https://www.everydayhealth.com/conditions/)
+[Health Conditions A-Z](https://www.everydayhealth.com/conditions/)
 
 [Wellness & Self-Care](https://www.everydayhealth.com/wellness/)
 
@@ -22,7 +22,7 @@ NewslettersSearch
 
 ![ ](https://images.everydayhealth.com/images/site-images/01-health-conditions-a-z.png?sfvrsn=909a1558_1)
 
-Health Topics A-Z
+Health Conditions A-Z
 
 Find helpful content on common health and medical conditions.
 
