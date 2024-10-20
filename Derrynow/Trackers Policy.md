@@ -259,14 +259,28 @@ Advertise with Us
 
 Most Popular
 
-[![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
 
-The special engineering leaf busting train that travels across the Translink network
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 20 2024](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (56) arrested in Eglinton having failed a roadside drug test](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) arrested in Eglinton having failed a roadside drug test")](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Translink tackling leaf fall to minimise disruption to Derry trains](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
+
+The Swatragh team celebrates an historic victory. Pic by Sideline Photography
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Swatragh end Slaughtneil dominance to win first Senior Camogie title in 19 years!](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange wind warning extended to more counties ahead of Storm Ashley’s arrival")](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
 
@@ -298,40 +312,28 @@ Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
 [Paul Quinn’s mother appeals for justice on 17th anniversary of murder](https://www.derrynow.com/news/northern-ireland/1634834/paul-quinns-mother-appeals-for-justice-on-17th-anniversary-of-murder.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Friends embrace Derry’s legendary Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
+
+Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man in critical condition after assault outside Co Antrim pub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in critical condition after assault outside Co Antrim pub")](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Man in critical condition after assault outside Co Antrim pub](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police start making arrests using new roadside drug testing kits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police start making arrests using new roadside drug testing kits")](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police start making arrests using new roadside drug testing kits](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Great South Run cancelled over safety concerns as Storm Ashley heads for UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Great South Run cancelled over safety concerns as Storm Ashley heads for UK")](https://www.derrynow.com/news/northern-ireland/1634520/great-south-run-cancelled-over-safety-concerns-as-storm-ashley-heads-for-uk.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Great South Run cancelled over safety concerns as Storm Ashley heads for UK](https://www.derrynow.com/news/northern-ireland/1634520/great-south-run-cancelled-over-safety-concerns-as-storm-ashley-heads-for-uk.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man suffers serious facial injuries in Lisburn assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man suffers serious facial injuries in Lisburn assault")](https://www.derrynow.com/news/northern-ireland/1634533/man-suffers-serious-facial-injuries-in-lisburn-assault.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man suffers serious facial injuries in Lisburn assault](https://www.derrynow.com/news/northern-ireland/1634533/man-suffers-serious-facial-injuries-in-lisburn-assault.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 20 2024](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,55 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
+[![Ballinascreen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen")](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 20 2024](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
-
-Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
+Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic by Tom Heaney, nwpresspics
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Injury time drama at the Brandywell as 'Stute defeat Ballinamallard](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ballinascreen hold off Lavey fightback to lift Junior title](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Translink tackling leaf fall to minimise disruption to trains](https://www.derrynow.com/resizer/165/93/true/2024_10_18/Leaf_Busting_train-1729248068426.jpg--.jpg?1729248068481 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+[![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
 
-The special engineering leaf busting train that travels across the Translink network
+Derry-born Methodist minister, Rev. Harold Good
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Translink tackling leaf fall to minimise disruption to Derry trains](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
+[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_20/1729427101813_0.jpg--.jpg?1729427102211 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
+[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_18/2963793-1729283853211.jpg--.jpg?1729283854723 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
+[![Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_19/1729355724540_0.jpg--.jpg?1729355724716 "Man (56) arrested in Eglinton having failed a roadside drug test")](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
 
-Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ Sportsfile
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/resizer/165/93/true/2024_10_17/received_1093403028318582-1729172788499_1729172804.jpeg--.jpeg?1729172804442 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
+
+Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Swatragh](https://www.derrynow.com/resizer/165/93/true/2024_10_20/Slaughtneil_V_Swatragh_0202-1729415860010.JPG--.JPG?1729415861811 "Swatragh")](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
+
+The Swatragh team celebrates an historic victory. Pic by Sideline Photography
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry City keep title hopes alive with victory in Dundalk](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/resizer/165/93/true/2022_04_26/Untitled_design_-_2022-04-26T133706.560-1650977110783.jpg--.jpg?1650977112033 "Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand")](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
-
-Kelly was sentenced at Antrim Crown Court today.
-
-[Home](https://www.derrynow.com/)
-
-[Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Swatragh end Slaughtneil dominance to win first Senior Camogie title in 19 years!](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
