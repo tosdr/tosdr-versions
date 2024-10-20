@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/opstand-egypte-voert-de-vs-de-regie-egypte-pas-op/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/wef-schwab/kabinet-rutte-bevestiging-juridische-afspraken-met-wef/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
