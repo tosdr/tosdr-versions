@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New request
-
-[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/request/je-ne-danserai-plus-jamais)
-
-French → English
-
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
-
-New translation
-
-[Chatmonchy - ツマサキ (Tsumasaki)](https://lyricstranslate.com/en/chatmonchy-tsumasaki-transliteration)
-
-Japanese → Transliteration
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
 New song
 
-[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/johnny-hallyday-je-ne-danserai-plus-jamai-lyrics)
-
-French
-
-[![Joshua Woods 3](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1583491-1688246744.png)](https://lyricstranslate.com/en/translator/joshua-woods-3 "Joshua Woods 3")
-
-New song
-
-[SATOMI' - Beautiful Life](https://lyricstranslate.com/en/satomi-beautiful-life-lyrics)
-
-Japanese
-
-[![D_000](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1330100-1653491284.jpg)](https://lyricstranslate.com/en/translator/d000 "D_000")
-
-New request
-
-[Zaz - Éblouie par la nuit](https://lyricstranslate.com/en/request/%C3%A9blouie-par-la-nuit-8)
-
-French → IPA
-
-[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
-
-New song
-
-[Kate Earl - All that glitters](https://lyricstranslate.com/en/kate-earl-all-glitters-lyrics)
+[Delegation - Put a little love on me](https://lyricstranslate.com/en/delegation-put-little-love-me-lyrics)
 
 English
 
-[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
-
-New request
-
-[Kate Earl - All that glitters](https://lyricstranslate.com/en/request/all-glitters-1)
-
-English → Russian
-
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+[![ravi.shahenshah](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1171260.jpg)](https://lyricstranslate.com/en/translator/ravishahenshah "ravi.shahenshah")
 
 New translation
 
-[Chatmonchy - プラズマ (Plasma)](https://lyricstranslate.com/en/chatmonchy-plasma-transliteration)
+[BlackSea4ever - Headache](https://lyricstranslate.com/en/blacksea4ever-headache-spanish)
 
-Japanese → Transliteration
+English → Spanish
+
+[![Stanisław332](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633632-1729351423.png)](https://lyricstranslate.com/en/translator/stanis%C5%82aw332 "Stanisław332")
+
+New song
+
+[Krasnaya Zelen' - Ах ты сука и блядзь](https://lyricstranslate.com/en/krasnaya-zelen-akh-ty-suka-i-bliadz-lyrics)
+
+Belarusian (Trasianka)
+
+[![Stanisław332](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633632-1729351423.png)](https://lyricstranslate.com/en/translator/stanis%C5%82aw332 "Stanisław332")
+
+New translation
+
+[Krasnaya Zelen' - Ах ты сука и блядзь (Akh ty suka и bliadz')](https://lyricstranslate.com/en/krasnaya-zelen-akh-ty-suka-i-bliadz-english)
+
+Belarusian (Trasianka) → English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Daniele Serra - Bocciol di rose](https://lyricstranslate.com/en/daniele-serra-bocciol-di-rose-english)
+
+Italian → English
+
+[![Freigeist](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1249237-1553665246.jpg)](https://lyricstranslate.com/en/translator/freigeist "Freigeist")
+
+New translation
+
+[10cc - Rubber Bullets](https://lyricstranslate.com/en/10cc-rubber-bullets-german)
+
+English → German
+
+[![WinterWindMusic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633429-1729213425.png)](https://lyricstranslate.com/en/translator/winterwindmusic "WinterWindMusic")
+
+New comment
+
+Original is a Hebrew poem written by Haim Gouri ...  [more](https://lyricstranslate.com/en/comment/1170951#comment-1170951)
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New song
+
+[Daniele Serra - Bocciol di rose](https://lyricstranslate.com/en/daniele-serra-bocciol-di-rose-lyrics)
+
+Italian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
