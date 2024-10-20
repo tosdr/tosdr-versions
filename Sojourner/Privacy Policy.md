@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-27fe44632be4bbd6122b7e71b3111312
+d0bb20a0ecbe1e7ba6be72673a24f08a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Turquoise and silver bicone beads](https://www.sojourner.biz/images/cache/glass/GL0136.200.jpg)](https://www.sojourner.biz/beads/glass/turquoise-and-silver-bicone-beads.html "Turquoise and silver bicone beads")
+[![Flat apatite faceted chunks](https://www.sojourner.biz/images/cache/stone/APT004.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/apatite/flat-apatite-faceted-chunks.html "Flat apatite faceted chunks")
 
-#### [Turquoise and silver bicone beads](https://www.sojourner.biz/beads/glass/turquoise-and-silver-bicone-beads.html "Turquoise and silver bicone beads")
+#### [Flat apatite faceted chunks](https://www.sojourner.biz/beads/stone-a-l/apatite/flat-apatite-faceted-chunks.html "Flat apatite faceted chunks")
 
-$15.00
+$45.00
 
 ### Best Sellers
 
