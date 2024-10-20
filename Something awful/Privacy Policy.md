@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Add Something!](https://www.somethingawful.com/photoshop-phriday/add-something/1/)
-* [Make porn safe for work V2: work from home edition](https://www.somethingawful.com/photoshop-phriday/make-porn-sfwv2/)
-* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
-* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
-* [Duke Nukem's Message To The Ladies](https://www.somethingawful.com/flash-tub/duke-nukem-dating/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [UPN to Enter 'Reality Programming' Network Competition](https://www.somethingawful.com/feature-articles/upn-enter-reality/)
+* [2009 WTF, D&D!? Role Playing Fine Arts Contest Winners](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-contest/1/)
+* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
+* [Chuck Asay Cartoon Contest!](https://www.somethingawful.com/comedy-goldmine/asay-cartoons-parody/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Small Things u Treasure in Life](http://forums.somethingawful.com/showthread.php?threadid=4073090 "Small Things u Treasure in Life")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [It's 2065 and you are still posting in GBS](http://forums.somethingawful.com/showthread.php?threadid=4073129 "It's 2065 and you are still posting in GBS")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I guess Asmonbald is finished?](http://forums.somethingawful.com/showthread.php?threadid=4073073 "I guess Asmonbald is finished?")
 * ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Ghosts that have haunted you.](http://forums.somethingawful.com/showthread.php?threadid=4073108 "Ghosts that have haunted you.")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Small Things u Treasure in Life](http://forums.somethingawful.com/showthread.php?threadid=4073090 "Small Things u Treasure in Life")
 
 ### Random Articles
 
-* [Chronicle; Journey 2: The Mysterious Island; Big Miracle; The Woman in Black](https://www.somethingawful.com/current-movie-reviews/chronicle-journey-2/1/)
-* [Reading Time: The Master of Makeup](https://www.somethingawful.com/news/readingtime-dick-tracy/1/)
-* [Call of Cthulhu "Mansions of Madness" - Scenario Three (1990)](https://www.somethingawful.com/dungeons-and-dragons/mansions-madness-cthulhu/1/)
-* [Kart Rider and Hatemail!](https://www.somethingawful.com/mmo-roulette/kartonline/1/)
-* [reasoms donald trump ams best for america](https://www.somethingawful.com/news/donald-trump-amazing/)
+* [Internet Home Repair Series: Finishing a Basement](https://www.somethingawful.com/news/internet-home-repair/)
+* [Collaborative dirt!](https://www.somethingawful.com/daily-dirt/collaborative-dirt/)
+* [Phelps-Chartered](https://www.somethingawful.com/awful-links/awful-link-3862/)
+* [The Time I Took Drugs With Gay Devil-Worshipping Bikers](https://www.somethingawful.com/news/drugs-bikers-jesus/)
+* [libertyeditions.com](https://www.somethingawful.com/awful-links/alod_liberty%20editions_deux/)
 
 [Random!](https://www.somethingawful.com/random/)
 
