@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-50585754a237a22739e45610c69bb661
+670f68e96e1e39c5e9d71a5e108c9ac6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![White leaf hook clasp](https://sojourner.biz/images/cache/SKU0136front.200.jpg)](https://sojourner.biz/clasps/hooks/white-leaf-hook-clasp.html "White leaf hook clasp")
+[![12 mm vintage Czech glass heart beads](https://sojourner.biz/images/cache/glass/GL0081.200.jpg)](https://sojourner.biz/beads/glass/12-mm-vintage-czech-glass-heart-beads.html "12 mm vintage Czech glass heart beads")
 
-#### [White leaf hook clasp](https://sojourner.biz/clasps/hooks/white-leaf-hook-clasp.html "White leaf hook clasp")
+#### [12 mm vintage Czech glass heart beads](https://sojourner.biz/beads/glass/12-mm-vintage-czech-glass-heart-beads.html "12 mm vintage Czech glass heart beads")
 
-$25.00
+$5.00
 
 ### Best Sellers
 
@@ -160,16 +160,16 @@ $25.00
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
+6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
-    $10.00
+10. [Turquoise bar toggle clasp](https://sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
+    $13.50
 
 [Top](#)
 
