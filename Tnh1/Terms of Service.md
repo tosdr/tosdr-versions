@@ -124,11 +124,7 @@ Após denúncia, polícia encontra 5 kg de maconha em "casa do tráfico" na Vila
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_Dinheiro_Agencia_Brasil_17113d0b9d.jpg)
-
-duas parcelas
-
-duas parcelas
-
-Veja as datas de pagamento do 13º salário de trabalhadores em 2024
-
-Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://www.tnh1.com.br/noticia/nid/veja-as-datas-de-pagamento-do-13o-salario-de-trabalhadores-em-2024/ "Veja as datas de pagamento do 13º salário de trabalhadores em 2024")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
-
-Cidade Universitária
-
-Cidade Universitária
-
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
-
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
+[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
 
 Brasil
 
@@ -226,7 +206,15 @@ Brasil
 
 Bet de Deolane tem pedido de liberação negado pela Justiça
 
-Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_34158a5d4d.jpg)
+Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
+
+Cidade Universitária
+
+Cidade Universitária
+
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
+
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")[![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_34158a5d4d.jpg)
 
 No Jacintinho
 
@@ -234,9 +222,17 @@ No Jacintinho
 
 Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió
 
-Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")
+Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")[![Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/b/csm_csm_gun-revolver-fire-firing-370202_18d01f626b_1e79b2f5dd.jpeg)
 
-[![Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_Milicianos_Muzema_06458934fd.jpg)
+Vítima socorrida
+
+Vítima socorrida
+
+Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió
+
+Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió](https://www.tnh1.com.br/noticia/nid/briga-por-causa-de-divida-de-r-150-acaba-em-tentativa-de-assassinato-a-tiros-em-maceio/ "Briga por causa de dívida de R$ 150 acaba em tentativa de assassinato a tiros em Maceió")
+
+[![Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_Milicianos_Muzema_06458934fd.jpg)
 
 Brasil
 
@@ -244,7 +240,7 @@ Brasil
 
 Homens armados com fuzis circulam na Muzema, zona oeste do Rio
 
-Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://www.tnh1.com.br/noticia/nid/homens-armados-com-fuzis-circulam-na-muzema-zona-oeste-do-rio/ "Homens armados com fuzis circulam na Muzema, zona oeste do Rio")[![Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
+Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://www.tnh1.com.br/noticia/nid/homens-armados-com-fuzis-circulam-na-muzema-zona-oeste-do-rio/ "Homens armados com fuzis circulam na Muzema, zona oeste do Rio")[![Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
 
 Mundo
 
@@ -252,7 +248,7 @@ Mundo
 
 Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'
 
-Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://www.tnh1.com.br/noticia/nid/ex-one-direction-adia-turne-apos-morte-de-liam-payne-perda-desoladora/ "Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'")[![“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_libanese_base_aerea_35_0ed3f12312.jpg)
+Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://www.tnh1.com.br/noticia/nid/ex-one-direction-adia-turne-apos-morte-de-liam-payne-perda-desoladora/ "Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'")[![“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/1/csm_libanese_base_aerea_35_0ed3f12312.jpg)
 
 Mundo
 
@@ -260,7 +256,7 @@ Mundo
 
 “Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil
 
-“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://www.tnh1.com.br/noticia/nid/nao-da-para-viver-no-libano-diz-homem-que-trouxe-familia-ao-brasil/ "“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil")[![Mesmo com chuva fraca, São Paulo registra falta de luz em bairros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_paulista_chuva_07_619b97821b.jpg)
+“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://www.tnh1.com.br/noticia/nid/nao-da-para-viver-no-libano-diz-homem-que-trouxe-familia-ao-brasil/ "“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil")[![Mesmo com chuva fraca, São Paulo registra falta de luz em bairros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_paulista_chuva_07_619b97821b.jpg)
 
 Brasil
 
