@@ -282,19 +282,21 @@ The Swatragh team celebrates an historic victory. Pic by Sideline Photography
 [Swatragh end Slaughtneil dominance to win first Senior Camogie title in 19 years!](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange wind warning extended to more counties ahead of Storm Ashley’s arrival")](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
+[![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpresspics
 
-[Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns")](https://www.derrynow.com/news/northern-ireland/1634316/danger-to-life-likely-in-storm-ashleys-80mph-winds-met-office-warns.html)
+[Swatragh stun Kevin Lynch's to take Intermediate Hurling title!](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 
-[Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns](https://www.derrynow.com/news/northern-ireland/1634316/danger-to-life-likely-in-storm-ashleys-80mph-winds-met-office-warns.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
 
@@ -312,13 +314,6 @@ Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
 [Paul Quinn’s mother appeals for justice on 17th anniversary of murder](https://www.derrynow.com/news/northern-ireland/1634834/paul-quinns-mother-appeals-for-justice-on-17th-anniversary-of-murder.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Friends embrace Derry’s legendary Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
 
 Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
@@ -328,12 +323,23 @@ Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Hallow
 [Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man in critical condition after assault outside Co Antrim pub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in critical condition after assault outside Co Antrim pub")](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
+[![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Derry-born Methodist minister, Rev. Harold Good
 
-[Man in critical condition after assault outside Co Antrim pub](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballinascreen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen")](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
+
+Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ballinascreen hold off Lavey fightback to lift Junior title](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,7 +519,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Ballinascreen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen")](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
+[![MacD on Music: Everyday I’m Shuffling](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Everyday I’m Shuffling")](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: Everyday I’m Shuffling](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
+---------------------------------------------------------------------------------------------------------------------------------
+
+[![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
+
+Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Swatragh stun Kevin Lynch's to take Intermediate Hurling title!](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballinascreen](https://www.derrynow.com/resizer/165/93/true/2024_10_20/8M8A5107-1729429297536.jpg--.jpg?1729429297932 "Ballinascreen")](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
 
 Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic by Tom Heaney, nwpresspics
 
@@ -522,7 +544,7 @@ Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic 
 [Ballinascreen hold off Lavey fightback to lift Junior title](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
+[![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/resizer/165/93/true/2024_10_18/Harold_Good_book_cover-1729246709909_1729247080.jpg--.jpg?1729247080617 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
 
 Derry-born Methodist minister, Rev. Harold Good
 
@@ -544,24 +566,6 @@ Derry-born Methodist minister, Rev. Harold Good
 
 [Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/resizer/165/93/true/2024_10_17/received_1093403028318582-1729172788499_1729172804.jpeg--.jpeg?1729172804442 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
-
-Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Swatragh](https://www.derrynow.com/resizer/165/93/true/2024_10_20/Slaughtneil_V_Swatragh_0202-1729415860010.JPG--.JPG?1729415861811 "Swatragh")](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
-
-The Swatragh team celebrates an historic victory. Pic by Sideline Photography
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Swatragh end Slaughtneil dominance to win first Senior Camogie title in 19 years!](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
