@@ -1,24 +1,24 @@
 [](#)
 
-* [Forum Index](https://www.romancescam.com/forum/index.php?sid=30fed84d0bc1d8c34d43ccba04731566)
+* [Forum Index](https://www.romancescam.com/forum/index.php?sid=3126d8a76460ac212b07457708688ae1)
 * [Home](https://scamdigger.com/ "Scamdigger Home")
-* [FAQ](https://www.romancescam.com/forum/app.php/help/faq?sid=30fed84d0bc1d8c34d43ccba04731566 "Frequently Asked Questions")
-* [Rules](https://www.romancescam.com/forum/app.php/rules?sid=30fed84d0bc1d8c34d43ccba04731566 "View the Rules of this Board")
-* [Scam Info](https://www.romancescam.com/forum/app.php/scaminfo?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Search](https://www.romancescam.com/forum/app.php/search?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Contact us](https://www.romancescam.com/forum/app.php/contactadmin?sid=30fed84d0bc1d8c34d43ccba04731566)
+* [FAQ](https://www.romancescam.com/forum/app.php/help/faq?sid=3126d8a76460ac212b07457708688ae1 "Frequently Asked Questions")
+* [Rules](https://www.romancescam.com/forum/app.php/rules?sid=3126d8a76460ac212b07457708688ae1 "View the Rules of this Board")
+* [Scam Info](https://www.romancescam.com/forum/app.php/scaminfo?sid=3126d8a76460ac212b07457708688ae1)
+* [Search](https://www.romancescam.com/forum/app.php/search?sid=3126d8a76460ac212b07457708688ae1)
+* [Contact us](https://www.romancescam.com/forum/app.php/contactadmin?sid=3126d8a76460ac212b07457708688ae1)
 
-* [Login](https://www.romancescam.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dregister&sid=30fed84d0bc1d8c34d43ccba04731566 "Login")
+* [Login](https://www.romancescam.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dregister&sid=3126d8a76460ac212b07457708688ae1 "Login")
 * [](#)
 
 * [Home](https://scamdigger.com/ "Scamdigger Home")
-* [FAQ](https://www.romancescam.com/forum/app.php/help/faq?sid=30fed84d0bc1d8c34d43ccba04731566 "Frequently Asked Questions")
-* [Rules](https://www.romancescam.com/forum/app.php/rules?sid=30fed84d0bc1d8c34d43ccba04731566 "View the Rules of this Board")
-* [Scam Info](https://www.romancescam.com/forum/app.php/scaminfo?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Search](https://www.romancescam.com/forum/app.php/search?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Contact us](https://www.romancescam.com/forum/app.php/contactadmin?sid=30fed84d0bc1d8c34d43ccba04731566)
+* [FAQ](https://www.romancescam.com/forum/app.php/help/faq?sid=3126d8a76460ac212b07457708688ae1 "Frequently Asked Questions")
+* [Rules](https://www.romancescam.com/forum/app.php/rules?sid=3126d8a76460ac212b07457708688ae1 "View the Rules of this Board")
+* [Scam Info](https://www.romancescam.com/forum/app.php/scaminfo?sid=3126d8a76460ac212b07457708688ae1)
+* [Search](https://www.romancescam.com/forum/app.php/search?sid=3126d8a76460ac212b07457708688ae1)
+* [Contact us](https://www.romancescam.com/forum/app.php/contactadmin?sid=3126d8a76460ac212b07457708688ae1)
 
-[ScamDigger Forum](https://www.romancescam.com/forum/index.php?sid=30fed84d0bc1d8c34d43ccba04731566 "Forum Index")
+[ScamDigger Forum](https://www.romancescam.com/forum/index.php?sid=3126d8a76460ac212b07457708688ae1 "Forum Index")
 ==================================================================================================================
 
 #### Please report romance scams and dating scams here. We accept reports on Russian scammers and Nigerian scammers.
@@ -28,7 +28,7 @@ Disclaimer regarding pictures posted on the board: please understand that you ar
   
 [\*\* Reverse Phone Number Lookup](https://www.dpbolvw.net/click-101138131-15354851)![](https://www.ftjcfx.com/image-101138131-15354851) [\*\* Reverse Email Search](https://www.anrdoezrs.net/click-101138131-15354852)![](https://www.lduhtrp.net/image-101138131-15354852) [\*\* Reverse Address Lookup](https://www.kqzyfj.com/click-101138131-15354844)![](https://www.lduhtrp.net/image-101138131-15354844) [\*\* Reverse Username Search](https://www.anrdoezrs.net/click-101138131-15354850)![](https://www.lduhtrp.net/image-101138131-15354850)
 
-* [Forum Index](https://www.romancescam.com/forum/index.php?sid=30fed84d0bc1d8c34d43ccba04731566)
+* [Forum Index](https://www.romancescam.com/forum/index.php?sid=3126d8a76460ac212b07457708688ae1)
 
 Language:Arabic - العربيةDanskNederlands (Informeel)EnglishFrançaisDeutsch (Sie)ItalianoPolskiPortuguêsРусскийEspañolSvenskaNorsk (bokmål) 
 
@@ -43,17 +43,17 @@ You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threate
 
      
 
-* [Forum Index](https://www.romancescam.com/forum/index.php?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Cookie Policy](https://www.romancescam.com/forum/app.php/cookie-policy?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Contact us](https://www.romancescam.com/forum/app.php/contactadmin?sid=30fed84d0bc1d8c34d43ccba04731566)
-* [Delete cookies](https://www.romancescam.com/forum/ucp.php?mode=delete_cookies&sid=30fed84d0bc1d8c34d43ccba04731566)
+* [Forum Index](https://www.romancescam.com/forum/index.php?sid=3126d8a76460ac212b07457708688ae1)
+* [Cookie Policy](https://www.romancescam.com/forum/app.php/cookie-policy?sid=3126d8a76460ac212b07457708688ae1)
+* [Contact us](https://www.romancescam.com/forum/app.php/contactadmin?sid=3126d8a76460ac212b07457708688ae1)
+* [Delete cookies](https://www.romancescam.com/forum/ucp.php?mode=delete_cookies&sid=3126d8a76460ac212b07457708688ae1)
 * All times are UTC
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
 Style we\_universal created by [INVENTEA](https://inventea.com/ "phpBB styles, HTML5 & CSS3 templates") | [nextgen](https://nextgen.gt/ "phpBB styles")
 
-[Privacy](https://www.romancescam.com/forum/ucp.php?mode=privacy&sid=30fed84d0bc1d8c34d43ccba04731566 "Privacy") | [Terms](https://www.romancescam.com/forum/ucp.php?mode=terms&sid=30fed84d0bc1d8c34d43ccba04731566 "Terms")
+[Privacy](https://www.romancescam.com/forum/ucp.php?mode=privacy&sid=3126d8a76460ac212b07457708688ae1 "Privacy") | [Terms](https://www.romancescam.com/forum/ucp.php?mode=terms&sid=3126d8a76460ac212b07457708688ae1 "Terms")
 
 [](#)
 
