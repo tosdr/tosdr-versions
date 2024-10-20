@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I have seen further it is by standing on the shoulders of giants”
+“ Rather than being suffocated by the terrible things that are happening... wonder might stimulate the curiosity we need to work through those problems”
 
-[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
+[Anna L. Tsing](https://artreview.com/anna-l-tsing-on-creating-wonder-in-the-midst-of-dread/)
 
 [](https://www.adafruit.com/about)
 
