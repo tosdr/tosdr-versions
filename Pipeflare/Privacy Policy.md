@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 8 , 3 5 6
+1 , 0 6 8 , 3 9 2
 
 * [Play](#)
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729414971) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729436950) to resend activation email.
 
 OK
 
@@ -296,7 +296,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729414971) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729436950) to resend activation email.
 
 OK
 
@@ -1161,7 +1161,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 290000
+x 285000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1190,7 +1190,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 475000
+x 465000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1226,7 +1226,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 290000
+x 285000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1255,7 +1255,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 475000
+x 465000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1558,6 +1558,8 @@ JOIN OUR COMMUNITY
 * [![Facebook Logo](https://statics.pipeflare.io/assets/logo/facebook2.svg)](https://www.facebook.com/pipeflare/)
 
 * [![Instagram Logo](https://statics.pipeflare.io/assets/logo/insta2.svg)](https://www.instagram.com/pipeflareio/)
+
+* [![Telegram Logo](https://statics.pipeflare.io/assets/logo/telegram.png)](https://t.me/Pipeflareofficialannouncements)
 
 * [![Youtube Logo](https://statics.pipeflare.io/assets/logo/youtube2.svg)](https://www.youtube.com/channel/UCyXQV_9rXI-llshXI0_zO_w?sub_confirmation=1)
 
