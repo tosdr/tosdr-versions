@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+    
+    ### [Could Southwark Lib Dems ever run the council again and what would their leader Victor Chamberlain do?](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+    
+    ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
     
     ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
@@ -46,14 +54,6 @@
     [![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
     
     ### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-    
-    [![Image: PublicDomainPictures](https://southwarknews.co.uk/wp-content/uploads/2021/11/fireworks-1758-e1636019844197.jpg)](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
-    
-    ### [First batch for New Year’s Eve Fireworks have gone on sale](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/unnamed-360x180.png)](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
-    
-    ### [Affordable Art Fair in Battersea Park this weekend](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+    
+    ### [Could Southwark Lib Dems ever run the council again and what would their leader Victor Chamberlain do?](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+    
+    ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
     
     ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
@@ -126,14 +134,6 @@ View All Result
     [![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
     
     ### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-    
-    [![Image: PublicDomainPictures](https://southwarknews.co.uk/wp-content/uploads/2021/11/fireworks-1758-e1636019844197.jpg)](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
-    
-    ### [First batch for New Year’s Eve Fireworks have gone on sale](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/unnamed-360x180.png)](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
-    
-    ### [Affordable Art Fair in Battersea Park this weekend](https://southwarknews.co.uk/news/affordable-art-fair-in-battersea-park-this-weekend/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -235,6 +235,18 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 ### Featured Articles
 
+[![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+
+### [Could Southwark Lib Dems ever run the council again and what would their leader Victor Chamberlain do?](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+
+[20th October 2024](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+
+### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+
+[20th October 2024](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
 
 ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
@@ -258,18 +270,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [BMX Star Kye Whyte pays visit to pupils at Bermondsey school](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
 
 [19th October 2024](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
-
-[![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-[19th October 2024](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-[![Image: PublicDomainPictures](https://southwarknews.co.uk/wp-content/uploads/2021/11/fireworks-1758-e1636019844197.jpg)](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
-
-### [First batch for New Year’s Eve Fireworks have gone on sale](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
-
-[19th October 2024](https://southwarknews.co.uk/area/london/first-batch-for-new-years-eve-fireworks-have-gone-on-sale/)
 
 ### USEFUL PAGES
 
