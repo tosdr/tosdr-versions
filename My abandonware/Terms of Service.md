@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Space Panic](https://www.myabandonware.com/game/space-panic-7s8)
-* [Space Invaders '91](https://www.myabandonware.com/game/space-invaders-91-844)
-* [Sonic the Hedgehog 2](https://www.myabandonware.com/game/sonic-the-hedgehog-2-840)
-* [Speed Buggy](https://www.myabandonware.com/game/speed-buggy-6az)
-* [Pachinko!](https://www.myabandonware.com/game/pachinko-swm)
+* [Computer Golf!](https://www.myabandonware.com/game/computer-golf-sww)
+* [Comando Noturno!](https://www.myabandonware.com/game/comando-noturno-swv)
+* [Popeye](https://www.myabandonware.com/game/popeye-swu)
+* [Clay Pigeon!](https://www.myabandonware.com/game/clay-pigeon-swt)
+* [Chinese Logic](https://www.myabandonware.com/game/chinese-logic-sws)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Muzzy: Learn French the Fun Way](https://www.myabandonware.com/game/muzzy-learn-french-the-fun-way-pl2)
-* [Baseball Mogul 2003](https://www.myabandonware.com/game/baseball-mogul-2003-hx9)
-* [Zoo Animals](https://www.myabandonware.com/game/zoo-animals-o8n)
+* [HardBall III: Big League Ballpark Disk](https://www.myabandonware.com/game/hardball-iii-big-league-ballpark-disk-bsi)
+* [Creature Create](https://www.myabandonware.com/game/creature-create-msy)
+* [Schwarzschild WING2](https://www.myabandonware.com/game/schwarzschild-wing2-ds7)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
