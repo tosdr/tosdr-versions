@@ -188,11 +188,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**E5 Medicine Cabinet, Chimney Crown** | Ask This Old House](https://video.nhpbs.org/video/e5-medicine-cabinet-chimney-crown-ask-this-old-house-FirXn6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"American Voices 2024" - Preview** | FRONTLINE](https://video.nhpbs.org/video/american-voices-2024-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Wandering Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-wandering-worlds-preview-mqkkut?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Josh Shapiro** | Firing Line](https://video.nhpbs.org/video/josh-shapiro-i6femp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Joy of Burning a Good Gift** | Indie Alaska](https://video.nhpbs.org/video/the-joy-of-burning-a-good-gift-2lje34?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Harris, Trump test closing arguments in battleground states** | Washington Week with The Atlantic](https://video.nhpbs.org/video/harris-trump-test-closing-arguments-in-battleground-states-hk1ezf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**TTC Extra: Project 2025** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-project-2025-iwnoaf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**NH Journal: The 1986 Senate Primary** | New Hampshire's Political Legacy](https://video.nhpbs.org/video/nh-journal-the-1986-senate-primary-aajzpd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Josh Shapiro** | Firing Line](https://video.nhpbs.org/video/josh-shapiro-i6femp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Joy of Burning a Good Gift** | Indie Alaska](https://video.nhpbs.org/video/the-joy-of-burning-a-good-gift-2lje34?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How History Ignored Women in Baseball** | In the Margins](https://video.nhpbs.org/video/how-history-ignored-women-in-baseball-7yzddt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
