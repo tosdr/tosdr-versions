@@ -1,4 +1,4 @@
-Saturday, October 19 2024
+Sunday, October 20 2024
 
 Breaking News
 
@@ -109,19 +109,19 @@ Support CDN!
 
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.74%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.75%
 
+* [![New Mexico man sentenced to 60 years for enticement of minors following HSI investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/03/New-Mexico-man-sentenced-to-60-years-for-enticement-of-220x150.png)](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+    
+    [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
+    
+    October 19, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Kamala-Harris-Brett-Baier-illegal-immigration-Fox-News-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
     
     [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
     
     October 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/Connecticut-electric-bus-battery-fire-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
-    
-    [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
-    
-    October 16, 2024
     
 
 Recent Posts
