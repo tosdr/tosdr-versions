@@ -36,6 +36,8 @@ Reader contributions keep LyrArc open for everyone
 
 #### Top Stories
 
+[Closing days Harris vs Trump 2024](https://www.lyrarc.com/all-topics?search_text=closing+days+Harris+vs+Trump+campaign+2024&top_story=Closing+days+Harris+vs+Trump+2024)
+
 [The Harris Trump Debate September 2024](https://www.lyrarc.com/all-topics?search_text=Harris+Trump+debate&top_story=The+Harris+Trump+Debate+September+2024)
 
 [Kamala Harris Campaign for President](https://www.lyrarc.com/all-topics?search_text=Harris+Campaign+for+US+President%2C++Harris-Walz+campaign+2024%2C+Harris+campaign+2024&top_story=Kamala+Harris+Campaign+for+President)
@@ -53,8 +55,6 @@ Reader contributions keep LyrArc open for everyone
 [Biden visit to Israel](https://www.lyrarc.com/all-topics?search_text=Biden+visit+to+Israel%2C+Hamas+attack+on+Israel&top_story=Biden+visit+to+Israel)
 
 [China's economy and debt super burden](https://www.lyrarc.com/all-topics?search_text=China+economy+2023%2C+China+economic+growth+2023%2C+China+debt%2C+China+Evergrande%2C+China+Country+Garden&top_story=China%27s+economy+and+debt+super+burden)
-
-[Trump series of Indictments](https://www.lyrarc.com/all-topics?search_text=Trump+classified+document+indictment%2C+Trump+indictment%2C++Trump+Georgia+indictment&top_story=Trump+series+of+Indictments)
 
 #### MRA
 
@@ -431,6 +431,8 @@ Reader contributions keep LyrArc open for everyone
 
 #### Top Stories
 
+[Closing days Harris vs Trump 2024](https://www.lyrarc.com/all-topics?search_text=closing+days+Harris+vs+Trump+campaign+2024&top_story=Closing+days+Harris+vs+Trump+2024)
+
 [The Harris Trump Debate September 2024](https://www.lyrarc.com/all-topics?search_text=Harris+Trump+debate&top_story=The+Harris+Trump+Debate+September+2024)
 
 [Kamala Harris Campaign for President](https://www.lyrarc.com/all-topics?search_text=Harris+Campaign+for+US+President%2C++Harris-Walz+campaign+2024%2C+Harris+campaign+2024&top_story=Kamala+Harris+Campaign+for+President)
@@ -448,8 +450,6 @@ Reader contributions keep LyrArc open for everyone
 [Biden visit to Israel](https://www.lyrarc.com/all-topics?search_text=Biden+visit+to+Israel%2C+Hamas+attack+on+Israel&top_story=Biden+visit+to+Israel)
 
 [China's economy and debt super burden](https://www.lyrarc.com/all-topics?search_text=China+economy+2023%2C+China+economic+growth+2023%2C+China+debt%2C+China+Evergrande%2C+China+Country+Garden&top_story=China%27s+economy+and+debt+super+burden)
-
-[Trump series of Indictments](https://www.lyrarc.com/all-topics?search_text=Trump+classified+document+indictment%2C+Trump+indictment%2C++Trump+Georgia+indictment&top_story=Trump+series+of+Indictments)
 
 * * *
 
