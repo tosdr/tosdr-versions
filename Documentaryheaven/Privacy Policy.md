@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Technology: World War 2.0](/wp-content/thumbnails/2569-100x70.jpg?x53432)
+* [![Inside Rolls Royce](/wp-content/thumbnails/14526-100x70.jpg?x53432)
     
-    Technology: World War 2.0
+    Inside Rolls Royce
     
-    Josh Davis of Wired magazine investigates an internet botnet attack of Estonia’s banks and newspapers. Wired Science reports on cardiac surgery performed by a “robo-doc”. Adam Rogers explores the di](https://documentaryheaven.com/technology-world-war-2-0/ "Technology: World War 2.0")
-* [![Curiosity: Mission To Mars](/wp-content/thumbnails/6726-100x70.jpg?x53432)
+    As one of the oldest and most famous brands in the world Rolls Royce have been providing luxury motor cars to the super rich for over a century. The cars themselves are a true symbol of status and jus](https://documentaryheaven.com/inside-rolls-royce/ "Inside Rolls Royce")
+* [![The Spy in the IRA](/wp-content/thumbnails/13532-100x70.jpg?x53432)
     
-    Curiosity: Mission To Mars
+    The Spy in the IRA
     
-    Horizon goes behind the scenes at NASA as they countdown to the landing of a 2.5 billion-dollar rover on the surface of Mars. In six days time, the nuclear-powered vehicle - the size of a car - will b](https://documentaryheaven.com/curiosity-mission-to-mars/ "Curiosity: Mission To Mars")
-* [![Deir Yassin Remembered](/wp-content/thumbnails/2211-100x70.jpg?x53432)
+    In the Northern Irish conflict spying was a very dangerous game, through recordings obtained by Panorama the IRA's chief interrogator explains how he extracted information from informers before they w](https://documentaryheaven.com/spy-ira/ "The Spy in the IRA")
+* [![Marijuana Country: The Cannabis Boom](/wp-content/thumbnails/9837-100x70.jpg?x53432)
     
-    Deir Yassin Remembered
+    Marijuana Country: The Cannabis Boom
     
-    Early in the morning of April 9, 1948, commandos of the Irgun (headed by Menachem Begin) and the Stern Gang attacked Deir Yassin, a village with about 750 Palestinian residents. The village lay outsid](https://documentaryheaven.com/deir-yassin-remembered/ "Deir Yassin Remembered")
-* [![The Dream Team](/wp-content/thumbnails/9247-100x70.jpg?x53432)
+    More than a year has past since Colorado became the first state in the United States to legalise the sale of recreational Marijuana, but sometimes the line between whats legal and what isn't is still](https://documentaryheaven.com/marijuana-country-cannabis-boom/ "Marijuana Country: The Cannabis Boom")
+* [![The Genius of Photography](/wp-content/thumbnails/6352-100x70.jpg?x53432)
     
-    The Dream Team
+    The Genius of Photography
     
-    To celebrate the 20th anniversary of the 1992 American Olympic team, The Dream Team, which to this day is considered one of the greatest sporting teams ever assembled, NBA TV created this documentary](https://documentaryheaven.com/dream-team/ "The Dream Team")
-* [![The Miracle of Bali: Night](/wp-content/thumbnails/4184-100x70.jpg?x53432)
+    Uncover the story of the invention and history of photography.Uncover the story of the invention of photography and the way in which it became an integral part of the modern world, including the r](https://documentaryheaven.com/the-genius-of-photography/ "The Genius of Photography")
+* [![Nukes In Space](/wp-content/thumbnails/58-100x70.png?x53432)
     
-    The Miracle of Bali: Night
+    Nukes In Space
     
-    Episode 2. NightThis episode covers the animistic rituals and festivals of Bali, officially Hindu, but with origins in ancient ceremonials practised long before Hinduism came to the island. It opens](https://documentaryheaven.com/the-miracle-of-bali-night/ "The Miracle of Bali: Night")
+    The problems encountered in the America's cold war rocketry program is dramatically illustrated with a film montage of U.S. missiles spectacularly blowing up on their launch pads. After the Soviets la](https://documentaryheaven.com/nukes-in-space/ "Nukes In Space")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
