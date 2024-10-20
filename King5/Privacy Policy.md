@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bea2d812-490d-4390-90a8-2dcd1ba48b1d/20241019T192618/bea2d812-490d-4390-90a8-2dcd1ba48b1d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bea2d812-490d-4390-90a8-2dcd1ba48b1d/20241019T192618/bea2d812-490d-4390-90a8-2dcd1ba48b1d_360x203.jpg)](https://www.king5.com/article/entertainment/events/seattle-catrinas-festival-celebrate-da-de-los-muertos/281-5684a2f6-85c5-41c5-b7e6-4e6557800386)
+    *  [![](https://media.king5.com/assets/KING/images/73431c93-e80e-41bc-be26-447181eea153/20240831T003905/73431c93-e80e-41bc-be26-447181eea153_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73431c93-e80e-41bc-be26-447181eea153/20240831T003905/73431c93-e80e-41bc-be26-447181eea153_360x203.jpg)](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
         
-        #### [Seattle Catrinas Festival invites everyone to celebrate Día de los Muertos](https://www.king5.com/article/entertainment/events/seattle-catrinas-festival-celebrate-da-de-los-muertos/281-5684a2f6-85c5-41c5-b7e6-4e6557800386)
+        #### [Rail issue delays Sound Transit light rail trains between Lynnwood and Seattle](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
         
-    *  [![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_360x203.jpg)](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
+    *  [![](https://media.king5.com/assets/KING/images/dd629d90-b85e-4f56-89f3-f3d062326d1a/dd629d90-b85e-4f56-89f3-f3d062326d1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dd629d90-b85e-4f56-89f3-f3d062326d1a/dd629d90-b85e-4f56-89f3-f3d062326d1a_360x203.jpg)](https://www.king5.com/article/news/local/1-dead-3-injured-crash-near-arlington/281-ed65e1be-369e-4c83-aef9-f29cab8954af)
         
-        #### [Former KING 5 anchor Michelle Li, Very Asian Foundation host Bellevue community event](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
+        #### [1 person dies in 3-vehicle crash near Arlington](https://www.king5.com/article/news/local/1-dead-3-injured-crash-near-arlington/281-ed65e1be-369e-4c83-aef9-f29cab8954af)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c4c76a28-8050-4b3d-b428-4777f7f7c42b/20241019T152227/c4c76a28-8050-4b3d-b428-4777f7f7c42b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4c76a28-8050-4b3d-b428-4777f7f7c42b/20241019T152227/c4c76a28-8050-4b3d-b428-4777f7f7c42b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
-        #### [Wind Advisory in effect through Saturday morning](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
+        #### [Wind Advisory in effect on Sunday for coastal areas](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
+        
+    *  [![](https://media.king5.com/assets/CCT/images/dc909d4d-44a1-4983-bf32-77d0461e0f74/20241019T184448/dc909d4d-44a1-4983-bf32-77d0461e0f74_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/dc909d4d-44a1-4983-bf32-77d0461e0f74/20241019T184448/dc909d4d-44a1-4983-bf32-77d0461e0f74_360x203.jpg)](https://www.king5.com/article/news/nation-world/hurricane-oscar-path/507-2b678df1-10ab-4ab6-a430-727d8f27b6b2)
+        
+        #### [Hurricane Oscar forms off the coast of the Bahamas](https://www.king5.com/article/news/nation-world/hurricane-oscar-path/507-2b678df1-10ab-4ab6-a430-727d8f27b6b2)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-65°
+62°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
