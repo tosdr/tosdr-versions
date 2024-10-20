@@ -205,26 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [UPN to Enter 'Reality Programming' Network Competition](https://www.somethingawful.com/feature-articles/upn-enter-reality/)
-* [2009 WTF, D&D!? Role Playing Fine Arts Contest Winners](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-contest/1/)
-* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
-* [Chuck Asay Cartoon Contest!](https://www.somethingawful.com/comedy-goldmine/asay-cartoons-parody/1/)
+* [Rejected Beers!](https://www.somethingawful.com/photoshop-phriday/rejected-beers/1/)
+* [AwfulVision: Handi-Capable!](https://www.somethingawful.com/awfulvision/wheelchair-weezer-cheeseburger/1/)
+* [Be Careful with Your PlayStation Move!](https://www.somethingawful.com/photoshop-phriday/playstation-move-safety/1/)
+* [Fun with Garbage Trucks](https://www.somethingawful.com/comedy-goldmine/fun-garbage-trucks/1/)
+* [The Flushlight shines!](https://www.somethingawful.com/awfulvision/flushlight-mario-comedy/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Small Things u Treasure in Life](http://forums.somethingawful.com/showthread.php?threadid=4073090 "Small Things u Treasure in Life")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [It's 2065 and you are still posting in GBS](http://forums.somethingawful.com/showthread.php?threadid=4073129 "It's 2065 and you are still posting in GBS")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I guess Asmonbald is finished?](http://forums.somethingawful.com/showthread.php?threadid=4073073 "I guess Asmonbald is finished?")
 * ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Ghosts that have haunted you.](http://forums.somethingawful.com/showthread.php?threadid=4073108 "Ghosts that have haunted you.")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [It's 2065 and you are still posting in GBS](http://forums.somethingawful.com/showthread.php?threadid=4073129 "It's 2065 and you are still posting in GBS")
 
 ### Random Articles
 
-* [Internet Home Repair Series: Finishing a Basement](https://www.somethingawful.com/news/internet-home-repair/)
-* [Collaborative dirt!](https://www.somethingawful.com/daily-dirt/collaborative-dirt/)
-* [Phelps-Chartered](https://www.somethingawful.com/awful-links/awful-link-3862/)
-* [The Time I Took Drugs With Gay Devil-Worshipping Bikers](https://www.somethingawful.com/news/drugs-bikers-jesus/)
-* [libertyeditions.com](https://www.somethingawful.com/awful-links/alod_liberty%20editions_deux/)
+* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
+* [The World's Most Sarcastic Hero Visits An Item Shop](https://www.somethingawful.com/video-game-article/sarcastic-hero-shop/)
+* [Staff Reporter and the Invisible Asteroid Invasion](https://www.somethingawful.com/news/staff-reporter-invisible/)
+* [Skullduggery](https://www.somethingawful.com/movie-reviews/skullduggery/1/)
+* [Legend of the Billstalker](https://www.somethingawful.com/news/bill-watterson-stalker/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
