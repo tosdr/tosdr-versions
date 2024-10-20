@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://cdn.er.ru/media/news/October2024/sMNuOEsmqGdlXRu8gu6s-small.JPG)](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
+
+[В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784)
+
+Сегодня 16:19
+
+[![«Единая Россия», МГЕР и Всероссийская федерация самбо провели Всероссийский турнир по самбо](https://cdn.er.ru/media/news/October2024/aBj8oYAO8IlActLNEEze-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-proveli-vserossijskij-turnir-po-sambo)
+
+[«Единая Россия», МГЕР и Всероссийская федерация самбо провели Всероссийский турнир по самбо](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-proveli-vserossijskij-turnir-po-sambo)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Елисеев](https://er.ru/activity/news?tags%5B0%5D=25667) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676)
+
+Сегодня 14:53
+
+[![Владимир Якушев: Самбо – не просто вид спорта, а система воспитания личности](https://cdn.er.ru/media/news/October2024/4EDY9F8Z1N0JIhJ6BIR5-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-sambo-ne-prosto-vid-sporta-a-sistema-vospitaniya-lichnosti)
+
+[Владимир Якушев: Самбо – не просто вид спорта, а система воспитания личности](https://er.ru/activity/news/vladimir-yakushev-sambo-ne-prosto-vid-sporta-a-sistema-vospitaniya-lichnosti)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#видеообращение](https://er.ru/activity/news?tags%5B0%5D=29741) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255)
+
+Сегодня 14:49
+
 [![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://cdn.er.ru/media/news/October2024/V6ezvMNqykgtTzkDkHfc-small.png)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
 
 [Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
@@ -322,30 +346,6 @@
 [#Орлова](https://er.ru/activity/news?tags%5B0%5D=918) [#Сатеев](https://er.ru/activity/news?tags%5B0%5D=119210) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833)
 
 18.10.24
-
-[![«Единая Россия»: Более миллиона человек посетили первую в России передвижную выставку трофейной техники НАТО «Сила V правде – гордость и победа»](https://cdn.er.ru/media/news/October2024/IdKGBCHgqFE3cWUmozUs-small.png)](https://er.ru/activity/news/edinaya-rossiya-bolee-milliona-chelovek-posetili-pervuyu-v-rossii-peredvizhnuyu-vystavku-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda)
-
-[«Единая Россия»: Более миллиона человек посетили первую в России передвижную выставку трофейной техники НАТО «Сила V правде – гордость и победа»](https://er.ru/activity/news/edinaya-rossiya-bolee-milliona-chelovek-posetili-pervuyu-v-rossii-peredvizhnuyu-vystavku-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda)
-
-[#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286)
-
-18.10.24
-
-[![В Тюмени при поддержке «Единой России» стартовал Межрегиональный форум «Моя семья – моя крепость»](https://cdn.er.ru/media/news/October2024/rYHBg8l4KkFvOiIXpxm8-small.jfif)](https://er.ru/activity/news/v-tyumeni-pri-podderzhke-edinoj-rossii-startoval-mezhregionalnyj-forum-moya-semya-moya-krepost)
-
-[В Тюмени при поддержке «Единой России» стартовал Межрегиональный форум «Моя семья – моя крепость»](https://er.ru/activity/news/v-tyumeni-pri-podderzhke-edinoj-rossii-startoval-mezhregionalnyj-forum-moya-semya-moya-krepost)
-
-[#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#Коченов](https://er.ru/activity/news?tags%5B0%5D=1095283) [#Салмин](https://er.ru/activity/news?tags%5B0%5D=13104) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#ОтцыРоссии](https://er.ru/activity/news?tags%5B0%5D=1095808) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньОтца](https://er.ru/activity/news?tags%5B0%5D=1092263)
-
-18.10.24
-
-[![«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://cdn.er.ru/media/news/October2024/UjueGdt0PTXBqzXJ1JcE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
-
-[«Единая Россия» распространит уральский проект «Дом-школа-дом» на все регионы](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-uralskij-proekt-dom-shkola-dom-na-vse-regiony)
-
-[#Тен](https://er.ru/activity/news?tags%5B0%5D=10707) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#БезопасныеДороги](https://er.ru/activity/news?tags%5B0%5D=1091227) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#пешеходныепереходы](https://er.ru/activity/news?tags%5B0%5D=110758) [#безопасностьнадороге](https://er.ru/activity/news?tags%5B0%5D=119360) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
-
-17.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
