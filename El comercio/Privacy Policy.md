@@ -31,6 +31,67 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cinco chefs destacan la importancia de su profesión en el Día del Chef 
+=======================================================================
+
+El 20 de octubre es el Día Internacional del Chef, una celebración que honra a los maestros culinarios.
+-------------------------------------------------------------------------------------------------------
+
+![El Día Internacional del Chef fue instaurado en 2004 por la Asociación Mundial Culinaria. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef.jpg)
+
+El 20 de octubre se celebra el **Día Internacional del Chef**, una fecha que **rinde homenaje a los maestros de la cocina** en todo el mundo.  
+
+Más noticias
+------------
+
+* [Ecuatoriano finalista en competencia mundial de chefs](https://www.elcomercio.com/tendencias/gastronomia/luis-estrella-gastronomia-san-pellegrino-young-chef-academy.html "https://www.elcomercio.com/tendencias/gastronomia/luis-estrella-gastronomia-san-pellegrino-young-chef-academy.html")
+* [Cordero al páramo: Un viaje gastronómico en Inés](https://www.elcomercio.com/videos/cordero-al-paramo-un-viaje-gastronomico-en-ines.html "https://www.elcomercio.com/videos/cordero-al-paramo-un-viaje-gastronomico-en-ines.html")
+
+Este día, instaurado en 2004 por la **Asociación Mundial Culinaria**, busca reconocer el **arduo trabajo y la dedicación** de quienes crean experiencias gastronómicas memorables. La celebración abarca más de 100 países, y promueve no solo la gastronomía, sino también la **educación sobre alimentación saludable**. 
+
+**El Día del Chef para cinco profesionales** 
+---------------------------------------------
+
+### **Carlos Gallardo (director de Zero Lab by Uniandes)** 
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-2-1024x683.jpg)
+
+Foto: Cortesía.
+
+El chef **Carlos Gallardo**, con 30 años en la **gastronomía ecuatoriana**, destaca que ser chef requiere humildad, sacrificio y dedicación constante. Para quienes sueñan con esta carrera, aconseja comenzar desde las bases, estudiar técnicas y cultura culinaria, y trabajar incansablemente. Actualmente, **dirige Zero Lab by Uniandes en Quito y Sabor Latino en Nueva York**, y su legado incluye múltiples reconocimientos nacionales e internacionales. 
+
+### **Edwin Antamba Anrango (propietario del restaurante SantoLocro en Lloa)** 
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-1-1024x683.jpg)
+
+Foto: Cortesía.
+
+**Edwin Antamba Anrango** es un chef ecuatoriano, **docente en la UIDE**, con un **Máster en Gastronomía** y múltiples reconocimientos. Para este chef, la **carrera de gastronomía** destaca por su enfoque en la formación integral, al combinar técnicas culinarias con **innovación y emprendimiento**. Esta disciplina no solo permite explorar la **rica gastronomía ecuatoriana**, sino que también abre puertas a una amplia variedad de oportunidades laborales en un sector en crecimiento. 
+
+### **Luis Estrella (finalista de San Pellegrino Young Chef Academy)** 
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-3-1024x683.jpg)
+
+Foto: Cortesía.
+
+**Luis Estrella**, chef ecuatoriano en Malta, se ha destacado en la **alta cocina**. Formado en la **Universidad San Francisco de Quito** y con experiencia en restaurantes como **Disfrutar en Barcelona**, ha influido significativamente en la **gastronomía ecuatoriana**. Su carrera subraya la **importancia de la gastronomía** como una vía para la innovación culinaria y la proyección internacional de la cultura. 
+
+### **Francesco Almeida (propietario del restaurante La Parrilla Típica Quiteña)** 
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-4-1024x683.jpg)
+
+Foto: Cortesía.
+
+Para el **chef Francesco Almeida**, la niñez y adolescencia estuvieron marcadas por los aromas de los guisos de su madre, Lolita, que despertaron su interés por la cocina. Posteriormente, decidió **estudiar gastronomía en Italia**, donde se formó como **chef internacional** y comenzó a trabajar en diversos establecimientos de prestigio. Para Almeida, la **gastronomía**, vista como un arte, permite fusionar sabores y culturas, convirtiendo la cocina en una experiencia multisensorial que fortalece las conexiones sociales. 
+
+### **Andrea Ávila (propietaria de Sweet Vintage)** 
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-5-1024x683.jpg)
+
+Foto: Cortesía.
+
+Andrea Ávila, de 38 años, estudió en la Universidad de Especialidades Turísticas. Tras impartir clases de bartender y etiqueta, trabajó en restaurantes, especializándose luego en catering y pastelería, lo que la llevó a lanzar su marca Sweet Vintage hace más de 7 años. Este emprendimiento se centra en la elaboración de postres caseros con un enfoque tradicional, y ha evolucionado para incluir productos saludables. La motivación detrás de su trabajo es la perfección en cada detalle, impulsada por su pasión por la gastronomía y el apoyo de su familia, especialmente su hijo. 
+
 Embajadas, no elegibles & corruptos
 ===================================
 
@@ -909,33 +970,3 @@ Dragonas sintió el golpe y no logró recuperarse del primer gol de Boca Juniors
 Tras un jugada hilvanada entre las xeneizes, la futbolista recibió el balón en el borde del área y sacó un remate esquinado. Una vez más, **Andrea Vera** no consiguió bloquear el remate y se puso el 2-0 en el marcador.
 
 Aunque Dragonas parecía descontar en la primera mitad, el **VAR** se lo impidió. Tras la revisión se determinó que todo estaba en fuera de juego. En el segundo tiempo, el partido se ceó y, aunque no recibió goles, las **ecuatorianas** tampoco pudo tener llegadas claras.
-
-Esto se conoce del nuevo ministro de la Producción de Ecuador
-=============================================================
-
-El nuevo ministro Luis Alberto Jaramillo tiene experiencia en el sector industrial.
------------------------------------------------------------------------------------
-
-![Luis Alberto Jaramillo y el presidente Daniel Noboa, cuando fue designado titular de Senae. Foto: Senae](https://www.elcomercio.com/wp-content/uploads/2024/10/Jaramillo-y-Noboa.png)
-
-El presidente de Ecuador, Daniel Noboa, nombró a Luis Alberto Jaramillo Granja como el nuevo Ministro de Producción, Comercio Exterior, Inversiones y Pesca.
-
-Más noticias
-------------
-
-* [Sonsoles García presentó su renuncia al Ministerio de Producción](https://www.elcomercio.com/actualidad/politica/sonsoles-garcia-renuncia-ministerio-produccion.html "Sonsoles García presentó su renuncia al Ministerio de Producción")
-* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
-
-Este cambio se da tras la salida de **María Sonsoles García León** al cargo. Su renuncia fue presentada este **18 de octubre de 2024**.
-
-Jaramillo es ingeniero industrial y de sistemas, según el registro que consta en el Senescyt. Antes de esta designación se desempeñaba como director general del Servicio Nacional de Aduana del Ecuador (SENAE), desde el 23 de abril de este año.
-
-Ha trabajado como director de empresas grandes como la Industria Cartonera Ecuatoriana, que forma parte del **Grupo Noboa**. También en el Grupo Papelesa, como gerente. Estuvo en la presidencia de la empresa Toward y en la gerencia de Durabox, entre otras firmas.
-
-Actualmente consta en la Superintendencia de Compañías (Supercias) como presidente de dos compañías: Unipack, de comercio al por mayor y de Foligno, relacionada con bienes inmuebles. De esta última también es accionista, al igual que de Pilsen, cuyo objeto es la industrialización y comercialización de lácteos. Estas empresas están ubicadas en Guayaquil.
-
-En la Senescyt tiene registrado un título universitario del **Instituto Tecnológico de Massachusets (MIT)**. En su cuenta de Linkedin dice que tiene otro título de magíster de la **Escuela Superior Politécnica del Litoral**, pero este no está registrado en Senescyt.
-
-Este cambio de ministro de la [Producción](https://www.produccion.gob.ec/ "https://www.produccion.gob.ec/") se da en un momento sensible que vive el sector empresarial e industrial, debido a los cortes de luz. Actualmente se corta la energía por 10 horas en horarios diferenciados. Esta medida se extenderá a las próximas tres semanas.
-
-El presidente, Daniel Noboa designó a **Iván Fernando Rosero Rodríguez** para que reemplace a Jaramillo en la Senae. Pero será director general encargado.
