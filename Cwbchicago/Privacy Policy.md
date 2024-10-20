@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Gold-Coast-Old-Town-Chicago-inc-map-326x245.jpg)](https://cwbchicago.com/2024/10/gunmen-abduct-and-rob-2-men-within-minutes-in-old-town-suspects-detained.html "Gunmen abduct and rob 2 men within minutes in Old Town; suspects detained")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Asdrubal-Brito-Marcano-and-Javier-Marique-Olivo-326x245.jpg)](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
 
-Old Town
+Archer Heights
 
-### [Gunmen abduct and rob 2 men within minutes in Old Town; suspects detained](https://cwbchicago.com/2024/10/gunmen-abduct-and-rob-2-men-within-minutes-in-old-town-suspects-detained.html "Gunmen abduct and rob 2 men within minutes in Old Town; suspects detained")
+### [2 more migrants charged in $19K Ulta Beauty heist](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
 
-[October 17, 2024 9:45 AM](https://cwbchicago.com/2024/10)
+[October 18, 2024 7:29 AM](https://cwbchicago.com/2024/10)
 
-Armed men abducted and robbed two people in separate incidents in Old Town on Wednesday afternoon, according to Chicago police reports. Two suspects are in custody.[](https://cwbchicago.com/2024/10/gunmen-abduct-and-rob-2-men-within-minutes-in-old-town-suspects-detained.html "Gunmen abduct and rob 2 men within minutes in Old Town; suspects detained")
+Two more migrants have been charged with participating in a $19,000 smash-and-grab shoplifting raid on an Ulta Beauty store last month. Incredibly, one of them has already been arrested for stealing perfume from another store.[](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Herman-Johnson-326x245.jpg)](https://cwbchicago.com/2024/10/man-tried-to-rob-2-mag-mile-banks-in-15-minutes-cops-say.html "Man tried to rob 2 Mag Mile banks in 15 minutes, cops say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/JOSHUA-CERVANTES-2023-326x245.jpg)](https://cwbchicago.com/2024/10/man-who-got-shot-with-his-own-gun-outside-west-town-bar-is-charged-with-illegally-possessing-the-firearm.html "Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm")
 
-Magnificent Mile
+West Town
 
-### [Man tried to rob 2 Mag Mile banks in 15 minutes, cops say](https://cwbchicago.com/2024/10/man-tried-to-rob-2-mag-mile-banks-in-15-minutes-cops-say.html "Man tried to rob 2 Mag Mile banks in 15 minutes, cops say")
+### [Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm](https://cwbchicago.com/2024/10/man-who-got-shot-with-his-own-gun-outside-west-town-bar-is-charged-with-illegally-possessing-the-firearm.html "Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm")
 
-[October 16, 2024 7:50 PM](https://cwbchicago.com/2024/10)
+[October 17, 2024 7:37 PM](https://cwbchicago.com/2024/10)
 
-An Uptown man who unsuccessfully tried to rob a bank on the Magnificent Mile walked across the street and unsuccessfully tried to rob another bank, prosecutors say.[](https://cwbchicago.com/2024/10/man-tried-to-rob-2-mag-mile-banks-in-15-minutes-cops-say.html "Man tried to rob 2 Mag Mile banks in 15 minutes, cops say")
+An Evergreen Park man who allegedly lost control of his firearm during a fight outside a West Town bar earlier this month has a couple of problems. First, the guy who gained control of Joshua Cervantes’ firearm shot Cervantes with it. Second, prosecutors are now charging Cervantes with illegally possessing the gun in the first place.[](https://cwbchicago.com/2024/10/man-who-got-shot-with-his-own-gun-outside-west-town-bar-is-charged-with-illegally-possessing-the-firearm.html "Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Fernando-Guzman-2015-326x245.jpg)](https://cwbchicago.com/2024/10/man-fired-shot-at-chicago-cop-before-officer-returned-fire-striking-him-in-the-head-prosecutors-say.html "Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tyrone-Kirkman-326x245.jpg)](https://cwbchicago.com/2024/10/carjacking-of-uber-driver-fails-after-thief-cant-figure-out-how-to-start-her-tesla.html "Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla")
 
-Brighton Park
+Austin
 
-### [Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say](https://cwbchicago.com/2024/10/man-fired-shot-at-chicago-cop-before-officer-returned-fire-striking-him-in-the-head-prosecutors-say.html "Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say")
+### [Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla](https://cwbchicago.com/2024/10/carjacking-of-uber-driver-fails-after-thief-cant-figure-out-how-to-start-her-tesla.html "Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla")
 
-[October 16, 2024 7:25 PM](https://cwbchicago.com/2024/10)
+[October 17, 2024 3:24 PM](https://cwbchicago.com/2024/10)
 
-New details have emerged about a police shooting that left a man injured inside a Brighton Park bar over the weekend. The information comes as prosecutors charge the man, 36-year-old Fernando Guzman, with attempted murder and other felonies, saying he fired a gun at Chicago cops before an officer returned fire, striking him in the head.[](https://cwbchicago.com/2024/10/man-fired-shot-at-chicago-cop-before-officer-returned-fire-striking-him-in-the-head-prosecutors-say.html "Man fired shot at Chicago cop before officer returned fire, striking him in the head, prosecutors say")
+Prosecutors say a 20-year-old man on probation for a gun violation attacked, robbed, and tried to carjack an Uber driver over the summer, but the hijacking failed because he couldn’t figure out how to start her Tesla.[](https://cwbchicago.com/2024/10/carjacking-of-uber-driver-fails-after-thief-cant-figure-out-how-to-start-her-tesla.html "Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla")
 
 Search
 
@@ -352,6 +352,7 @@ Thank you.
 * [Morgan Park](https://cwbchicago.com/category/morgan-park)
 * [Near North](https://cwbchicago.com/category/near-north)
 * [Near West Side](https://cwbchicago.com/category/near-west-side)
+* [New City](https://cwbchicago.com/category/new-city)
 * [North Center](https://cwbchicago.com/category/north-center)
 * [North Lawndale](https://cwbchicago.com/category/north-lawndale)
 * [Norwood park](https://cwbchicago.com/category/norwood-park)
