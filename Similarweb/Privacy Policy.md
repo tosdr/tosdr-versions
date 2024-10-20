@@ -46,15 +46,15 @@ Rankings
 
 [Data-as-a-Service![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241015.master.a5e13a8/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
+![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
 
 Power your business with digital insights at scaleLearn more](https://www.similarweb.com/corp/daas/)[Advisory Services![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241015.master.a5e13a8/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
+![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
 
 Get data driven answers to your business’s most strategic questionsRead more](https://www.similarweb.com/corp/advisory-services/)[Data Licensing![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241015.master.a5e13a8/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
+![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
 
 Data LicensingLearn More](https://www.similarweb.com/corp/oem-data/)
 
@@ -76,7 +76,7 @@ Customers
 
 [Discover the brands shaping ecommerce![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241015.master.a5e13a8/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
+![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
 
 From athleisure to quiet luxury, discover which brands are shaping 2024 and the consumer trends and strategies driving their success.Download now](https://www.similarweb.com/corp/research/market-research/state-of-ecommerce/)
 
@@ -102,7 +102,7 @@ Company
 
 [Discover the brands shaping ecommerce![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241015.master.a5e13a8/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
+![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
 
 From athleisure to quiet luxury, discover which brands are shaping 2024 and the consumer trends and strategies driving their success.Download now](https://www.similarweb.com/corp/research/market-research/state-of-ecommerce/)
 
@@ -383,8 +383,6 @@ Follow us on:
 * [](https://www.instagram.com/similarwebinsights/ "Instagram")
 * [](https://mp.weixin.qq.com/s/dP9RRhIGCvDpdFh8hCKuww "Wechat")
 
-\-
-
 [6 E 32nd St, New York, NY 10016, 8 Floor](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
 
 [Get our free extension](https://chromewebstore.google.com/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
@@ -434,7 +432,7 @@ Follow us on:
 * About us
     
     * [Company](https://www.similarweb.com/corp/about/)
-    * [Partners](https://www.similarweb.com/corp/referral-partner-program/)
+    * [Partners](https://www.similarweb.com/corp/partner-with-similarweb/)
     * [Customers](https://www.similarweb.com/corp/clients/)
     * [Leadership](https://www.similarweb.com/corp/leadership/)
     * [Acquisitions](https://www.similarweb.com/corp/about/acquisitions/)
@@ -443,13 +441,12 @@ Follow us on:
     * [Engineering](https://medium.com/similarweb-engineering)
     * [Pricing](https://www.similarweb.com/corp/pricing/)
     * [Investor Relations](https://ir.similarweb.com/)
+    * [Media Data Access](https://www.similarweb.com/corp/about/press-data/)
     
 
 Our OfficesSee all Similarweb offices
 
 * Givatayim, Israel
-    
-    \-
     
     [Derech Yitzhak Rabin 33,  
     Givatayim, 5348303, Israel](https://goo.gl/maps/fCrvmzJo54qjBnrU9)
@@ -458,23 +455,17 @@ Our OfficesSee all Similarweb offices
     
 * Burlington, US
     
-    \-
-    
     [52 3rd Ave, Burlington, MA 01803, USA](https://maps.app.goo.gl/sF9xYEBRsEYmRh5K8)
     
     [Open map](https://maps.app.goo.gl/sF9xYEBRsEYmRh5K8)
     
 * New York, US
     
-    \-
-    
     [6 E 32nd St, New York, NY 10016, 8 Floor](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
     
     [Open map](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
     
 * Sao Paulo, Brazil
-    
-    \-
     
     [Rua Jaceru, 225 - Vila Gertrudes,  
     São Paulo, Brazil,  
@@ -484,15 +475,11 @@ Our OfficesSee all Similarweb offices
     
 * Florianópolis, Brazil
     
-    \-
-    
     [Rod. Admar Gonzaga, 440 Itacorubi - Florianópolis / SC 88034-000 - Brasil](https://goo.gl/maps/X9Z1MNwFPNfaYkPB9)
     
     [Open map](https://goo.gl/maps/X9Z1MNwFPNfaYkPB9)
     
 * Chile
-    
-    \-
     
     [Av Vitacura 2736,Las Condes, Región Metropolitana, Chile Floor 4](https://maps.app.goo.gl/gdWs3reDEp1W1yT86)
     
@@ -500,23 +487,17 @@ Our OfficesSee all Similarweb offices
     
 * Prague, Czech Republic
     
-    \-
-    
     [Boudníkova 2538/13, 180 00 Praha 8, Dock in Five](https://maps.app.goo.gl/XzsKwHsnhdeoShGU9)
     
     [Open map](https://maps.app.goo.gl/XzsKwHsnhdeoShGU9)
     
 * Paris, France
     
-    \-
-    
     [33 rue Lafayette, 75009 Paris](https://goo.gl/maps/eywGe8yBUpG2)
     
     [Open map](https://goo.gl/maps/eywGe8yBUpG2)
     
 * Munich, Germany
-    
-    \-
     
     [SimilarWeb, Office 01-111, C/O WeWork, Neuturmstrasse 5, BY, 80331  
     Munich](https://www.google.com/maps/place/WeWork+-+Altstadt-Lehel+-+Private+B%C3%BCrofl%C3%A4chen+und+Coworking/@48.1381045,11.5809333,15z/data=!4m6!3m5!1s0x479e756d836d0329:0x57c2b4f7a0fe9290!8m2!3d48.1381045!4d11.5809333!16s%2Fg%2F11f62wjwgn)
@@ -525,23 +506,17 @@ Our OfficesSee all Similarweb offices
     
 * Tokyo, JP
     
-    \-
-    
     [Otemachi Building 2F, 1-6-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004](https://goo.gl/maps/nJEUW65nmMn3YiXBA)
     
     [Open map](https://goo.gl/maps/nJEUW65nmMn3YiXBA)
     
 * Singapore
     
-    \-
-    
     [Asia Square Tower 2, 12 Marina View, #11-01, Singapore 018961](https://maps.app.goo.gl/ApPArjL7yfhvfdw98)
     
     [Open map](https://maps.app.goo.gl/ApPArjL7yfhvfdw98)
     
 * London, UK
-    
-    \-
     
     [145 City Road- 8th Floor, London EC1V 1AZ](https://maps.app.goo.gl/J74WuxH9CTMRihZr6)
     
