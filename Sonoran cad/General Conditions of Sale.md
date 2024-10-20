@@ -586,6 +586,12 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-M4pGN81fb4R6zFhodcu)
 
+On this page
+
+Was this helpful?
+
+[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/refund-and-purchase-policy.md)
+
 Refund and Purchase Policy
 ==========================
 
@@ -604,9 +610,3 @@ Our [Refund and Purchase Policy](https://sonoransoftware.com/assets/files/intern
 [PreviousPrivacy Policy](https://info.sonorancad.com/other/policy/privacy-policy)[NextDiscord Bot](https://info.sonorancad.com/other/policy/discord-bot)
 
 Last updated 2 years ago
-
-On this page
-
-Was this helpful?
-
-[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/refund-and-purchase-policy.md)
