@@ -179,7 +179,9 @@ Bring Your Text to Life With Our Voice Solutions
         
         Latviešu valoda](https://www.readspeaker.com/lv/)
 
-![ReadSpeaker's logo](https://www.readspeaker.com/wp-content/themes/hoyaspeech/assets/dist/img/logo-no-safezone-white.svg?width=279&height=38&aspect_ratio=279:38)
+![ReadSpeaker's logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20279%2038'%3E%3C/svg%3E)
+
+![ReadSpeaker's logo](https://assets-www.readspeaker.com/themes/hoyaspeech/assets/dist/img/logo-no-safezone-white.svg?width=279&height=38&aspect_ratio=279:38)
 
 Company
 
@@ -189,7 +191,7 @@ Company
 * [Contact Us](https://www.readspeaker.com/contact/)
 * [ISO/IEC 27001:2013 Compliance](https://www.readspeaker.com/wp-content/uploads/2023/10/Certificate_0117314_ENG_ReadSpeaker-AB.pdf)
 * [ReadSpeaker Accessibility Statement](https://www.readspeaker.com/accessibility-statement/)
-* [Statement of Accessibility WCAG 2.1 and WCAG 2.2](https://www.readspeaker.com/wp-content/uploads/2023/10/ReadSpeaker-webReader-3.8-WCAG-2.2-AA-Compliance-Statement.pdf)
+* [Statement of Accessibility WCAG 2.2](https://docs.readspeaker.com/assets/webreader/wcag/LATEST_VERSION)
 * [Privacy Policy](https://www.readspeaker.com/privacy-policy/)
 * [Cookie Policy](https://www.readspeaker.com/cookie-policy/)
 * [Search on ReadSpeaker.com ...](#searchModal)
@@ -210,17 +212,29 @@ Solutions
 
 * [TTS Languages and Voices](https://www.readspeaker.com/languages-voices/)
 
-[![WCAG Ilunion Logo](https://assets-www.readspeaker.com/uploads/wcag-ilunion-21-footer.jpg?width=120&height=120&quality=85&format=webp)](https://www.readspeaker.com/wcag-doc/)
+[![WCAG Ilunion Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
 
-[![WCAG W3C Logo](https://assets-www.readspeaker.com/uploads/2023/10/W3C-logo-white.svg?width=120&height=120&quality=85&format=webp)](https://www.readspeaker.com/accessibility-statement/)
+![WCAG Ilunion Logo](https://assets-www.readspeaker.com/uploads/wcag-ilunion-21-footer.jpg?width=120&height=120&quality=85&format=webp)](https://www.readspeaker.com/wcag-doc/)
 
-[![Ace Ed Awards Winner Logo](https://assets-www.readspeaker.com/uploads/2024/10/2023-EIE-winner.png?width=120&height=120&quality=100&format=webp)](https://www.ace-ed.org/2023-excellence-in-equity-awards-industry-winners/)
+[![WCAG W3C Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
 
-[![ISO 27001:2013 Certification](https://assets-www.readspeaker.com/uploads/2023/10/iso-27001-2013.png?width=120&height=120&quality=100&format=webp)](https://www.readspeaker.com/wp-content/uploads/2023/10/Certificate_0117314_ENG_ReadSpeaker-AB.pdf)
+![WCAG W3C Logo](https://assets-www.readspeaker.com/uploads/2023/10/W3C-logo-white.svg?width=120&height=120&quality=85&format=webp)](https://www.readspeaker.com/accessibility-statement/)
+
+[![Ace Ed Awards Winner Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
+
+![Ace Ed Awards Winner Logo](https://assets-www.readspeaker.com/uploads/2024/10/2023-EIE-winner.png?width=120&height=120&quality=100&format=webp)](https://www.ace-ed.org/2023-excellence-in-equity-awards-industry-winners/)
+
+[![ISO 27001:2013 Certification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
+
+![ISO 27001:2013 Certification](https://assets-www.readspeaker.com/uploads/2023/10/iso-27001-2013.png?width=120&height=120&quality=100&format=webp)](https://www.readspeaker.com/wp-content/uploads/2023/10/Certificate_0117314_ENG_ReadSpeaker-AB.pdf)
+
+![G2 Award](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
 
 ![G2 Award](https://assets-www.readspeaker.com/uploads/2023/05/g2-footer.svg?width=120&height=120&quality=85&format=webp)
 
-[![Stevie Award](https://assets-www.readspeaker.com/uploads/2023/05/stevie-footer-white.png?width=120&height=120&quality=100&format=webp)](http://www.stevieawards.com/ABA)
+[![Stevie Award](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
+
+![Stevie Award](https://assets-www.readspeaker.com/uploads/2023/05/stevie-footer-white.png?width=120&height=120&quality=100&format=webp)](http://www.stevieawards.com/ABA)
 
 [![eLearning Africa](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
 
