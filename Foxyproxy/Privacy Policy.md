@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It is superb...the service has enormously enriched my viewing and use of the TV medium
+Only positive comments. Have renewed my subscription. Found the service very reliable, quick and responsive.
 
-Terence Christopher
+Eleanor Fisher
