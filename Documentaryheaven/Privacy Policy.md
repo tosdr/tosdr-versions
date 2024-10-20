@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![End of Nations: EU Takeover and The Lisbon Treaty](/wp-content/thumbnails/2002-100x70.jpg?x53432)
+* [![Australia’s Front Line](/wp-content/thumbnails/6862-100x70.png?x53432)
     
-    End of Nations: EU Takeover and The Lisbon Treaty
+    Australia’s Front Line
     
-    We set out to make a video about the pros and cons of the Lisbon Treaty and found out to our horror the lies, manipulations and deceit behind the EU. From MEPs, legal experts and EU researches the tru](https://documentaryheaven.com/end-of-nations-%e2%80%93-eu-takeover-and-the-lisbon-treaty/ "End of Nations: EU Takeover and The Lisbon Treaty")
-* [![Gettysburg](/wp-content/thumbnails/10202-100x70.jpg?x53432)
+    Taking viewers behind-the-scenes of Australia’s Immigration, Customs and Quarantine departments.](https://documentaryheaven.com/australias-front-line/ "Australia’s Front Line")
+* [![The Truth about Street Weapons](/wp-content/thumbnails/6847-100x70.jpg?x53432)
     
-    Gettysburg
+    The Truth about Street Weapons
     
-    July of 1863 saw one of the most devastating battles of the American Civil War take place in and around the town of Gettysburg, Pennsylvania. Comprising of Union and Confederate forces the battle of G](https://documentaryheaven.com/gettysburg/ "Gettysburg")
-* [![The Bomber](/wp-content/thumbnails/14598-100x70.jpg?x53432)
+    2008 has seen a staggering number of teenage gang and knife attacks on Britain's streets with a death toll comparable to that of our troops fighting in Afghanistan and Iraq.Dr Tunje Lasoye, Head o](https://documentaryheaven.com/the-truth-about-street-weapons/ "The Truth about Street Weapons")
+* [![The Truth of Troy](/wp-content/thumbnails/7655-100x70.jpg?x53432)
     
-    The Bomber
+    The Truth of Troy
     
-    Every day, millions of packages are delivered through the mail in the United States but for 19 days, a bomber held the city of Austin, Texas, hostage. He had residents terrified due to the unpredictab](https://documentaryheaven.com/the-bomber/ "The Bomber")
-* [![The War Business](/wp-content/thumbnails/13771-100x70.jpg?x53432)
+    It’s one of the greatest stories ever told. The legend of Helen of Troy has enchanted audiences for the last three thousand years. In May this year a Hollywood film staring Brad Pitt and Orlando Bloom](https://documentaryheaven.com/truth-of-troy/ "The Truth of Troy")
+* [![Life Inside The Colony](/wp-content/thumbnails/7904-100x70.jpg?x53432)
     
-    The War Business
+    Life Inside The Colony
     
-    The War Business is a film by Mark Stucke which deals with the practice of private armies or mercenaries hired by governments and multinational companies. These are typically companies](https://documentaryheaven.com/war-business/ "The War Business")
-* [![Hollywood and The War Machine](/wp-content/thumbnails/4636-100x70.jpg?x53432)
+    Ant colonies are one of the wonders of nature - complex, organised and mysterious. This programme reveals the secret, underground world of the ant colony in a way that's never been seen before. At its](https://documentaryheaven.com/life-inside-colony/ "Life Inside The Colony")
+* [![Heroin: Addicted to the Devil](/wp-content/thumbnails/8158-100x70.jpg?x53432)
     
-    Hollywood and The War Machine
+    Heroin: Addicted to the Devil
     
-    Empire examines the symbiotic relationship between the movie industry and the military-industrial complex.War is hell, but for Hollywood it has been a Godsend, providing the perfect dramatic setti](https://documentaryheaven.com/hollywood-and-the-war-machine/ "Hollywood and The War Machine")
+    Heroin is an opioid drug that is synthesized from morphine, a naturally occurring substance extracted from the seed pod of the Asian opium poppy plant. Heroin usually appears as a white or brown powde](https://documentaryheaven.com/heroin-addicted-to-the-devil/ "Heroin: Addicted to the Devil")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
