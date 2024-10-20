@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=178014157)  
-SMART GUY PCS (PTY) LTD
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=99284656)  
+Tiny Cuddles Photography
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=107106946)  
-J.M. HUMAN RESOURCES
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=2632222)  
-Baby Toddles Infant Care
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=88370340)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=4649956)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=111971421)  
-kidoscabbie
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=126806935)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=209004779)  
-Nogana Events and Decor
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=203494538)  
-Kara Medical (Pty) Ltd
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=137438826)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=135285540)  
-Lemba Truck Stop
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=134109025)  
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=50733682)  
 FJW Security Cc
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=179056707)  
-Eruca (PTY)Ltd
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=44396308)  
+Well Hung Art
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=80020970)  
-KTEN PARTS
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=69607736)  
+Enhle Oarabile Kea
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=68095019)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=57720782)  
+CBR Verwe/Paints
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=193151080)  
+Chiron Medical Solutions
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=63532878)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=177288018)  
+NWET Pty LTD
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=88863391)  
+One2b
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=28026351)  
+Westside Car Audio CC
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=142662866)  
+NGB HOLDINGS PTY LTD
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=175059626)  
+Firstweb Hosting & Design
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=106532328)  
+Baby Toddles Infant Care
+
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=112366504)  
+Kara Medical (Pty) Ltd
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=189829038)  
+van Schaik rentals
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
