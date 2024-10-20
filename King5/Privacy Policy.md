@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
+        
+        #### [Cinco Cosas: La huelga de Boeing, las elecciones, y artista Víctor Melendez diseñó una camiseta de Seattle Kraken](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
+        
     *  [![](https://media.king5.com/assets/KING/images/73431c93-e80e-41bc-be26-447181eea153/20240831T003905/73431c93-e80e-41bc-be26-447181eea153_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73431c93-e80e-41bc-be26-447181eea153/20240831T003905/73431c93-e80e-41bc-be26-447181eea153_360x203.jpg)](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
         
         #### [Rail issue delays Sound Transit light rail trains between Lynnwood and Seattle](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
-        
-    *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
-        
-        #### [Wind Advisory in effect on Sunday for coastal areas](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-62°
+61°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
