@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Will TS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254145.thumb.png.623be55c9cc50866f0c2fb524178b658.png)](https://www.clubedohardware.com.br/profile/1254145-will-ts/ "Ir ao perfil de Will TS")
+    * [![Tony_Stark](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626ac4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ETS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1208159-tony_stark/ "Ir ao perfil de Tony_Stark")
         
         0
         
-        [Perda de vídeo - Tentando diagnosticar](https://www.clubedohardware.com.br/forums/topic/1700070-perda-de-v%C3%ADdeo-tentando-diagnosticar/?do=getNewComment "Perda de vídeo - Tentando diagnosticar")
+        [cs2 dando tela preta durante partida](https://www.clubedohardware.com.br/forums/topic/1700105-cs2-dando-tela-preta-durante-partida/?do=getNewComment "cs2 dando tela preta durante partida")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Will TS](https://www.clubedohardware.com.br/profile/1254145-will-ts/ "Ir ao perfil de Will TS")  
-        28 minutos atrás
+        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
+        Por [Tony\_Stark](https://www.clubedohardware.com.br/profile/1208159-tony_stark/ "Ir ao perfil de Tony_Stark")  
+        33 minutos atrás
         
-    * [![EstêvãoDP](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239062c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1137511-est%C3%AAv%C3%A3odp/ "Ir ao perfil de EstêvãoDP")
+    * [![Gleidson_ECV](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/modelosde-imagens-de-perfil-para-jogos-4wynmnuv0662je84(1).thumb.jpg.4706d28c066f9a2fe808b0ca16867a07.jpg)](https://www.clubedohardware.com.br/profile/1246292-gleidson_ecv/ "Ir ao perfil de Gleidson_ECV")
         
         0
         
-        [Celular com falhas na rede 5GHz](https://www.clubedohardware.com.br/forums/topic/1700069-celular-com-falhas-na-rede-5ghz/?do=getNewComment "Celular com falhas na rede 5GHz")
+        [Qual placa-mãe escolher pra este setup?](https://www.clubedohardware.com.br/forums/topic/1700104-qual-placa-m%C3%A3e-escolher-pra-este-setup/?do=getNewComment "Qual placa-mãe escolher pra este setup?")
         
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [EstêvãoDP](https://www.clubedohardware.com.br/profile/1137511-est%C3%AAv%C3%A3odp/ "Ir ao perfil de EstêvãoDP")  
-        31 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Gleidson\_ECV](https://www.clubedohardware.com.br/profile/1246292-gleidson_ecv/ "Ir ao perfil de Gleidson_ECV")  
+        38 minutos atrás
         
-    * [![yasmimxdxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242097.thumb.png.fedabc98eb64eb2492fe93247a0f4fab.png)](https://www.clubedohardware.com.br/profile/1242097-yasmimxdxd/ "Ir ao perfil de yasmimxdxd")
+    * [![Richardson Lyrio](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-782408.jpg)](https://www.clubedohardware.com.br/profile/782408-richardson-lyrio/ "Ir ao perfil de Richardson Lyrio")
         
-        1
+        0
         
-        [dvd roda no pc mas não no aparelho de dvd da televisão](https://www.clubedohardware.com.br/forums/topic/1700068-dvd-roda-no-pc-mas-n%C3%A3o-no-aparelho-de-dvd-da-televis%C3%A3o/?do=getNewComment "dvd roda no pc mas não no aparelho de dvd da televisão")
+        [Indicação de cooler pra Ryzen 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1700103-indica%C3%A7%C3%A3o-de-cooler-pra-ryzen-7-5700x3d/?do=getNewComment "Indicação de cooler pra Ryzen 7 5700x3d")
         
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [yasmimxdxd](https://www.clubedohardware.com.br/profile/1242097-yasmimxdxd/ "Ir ao perfil de yasmimxdxd")  
-        46 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Richardson Lyrio](https://www.clubedohardware.com.br/profile/782408-richardson-lyrio/ "Ir ao perfil de Richardson Lyrio")  
+        43 minutos atrás
         
-    * [![Anthonny Lopes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254736.thumb.jpeg.4ede554d66d4ece4f9cb42b27a58d7ad.jpeg)](https://www.clubedohardware.com.br/profile/1254736-anthonny-lopes/ "Ir ao perfil de Anthonny Lopes")
+    * [![lly fox](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233380.thumb.jpeg.2fa30ad852998b2893d82d86188b28a0.jpeg)](https://www.clubedohardware.com.br/profile/1233380-lly-fox/ "Ir ao perfil de lly fox")
+        
+        0
+        
+        [uso acento agudo em teclado tkl americano](https://www.clubedohardware.com.br/forums/topic/1700102-uso-acento-agudo-em-teclado-tkl-americano/?do=getNewComment "uso acento agudo em teclado tkl americano")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [lly fox](https://www.clubedohardware.com.br/profile/1233380-lly-fox/ "Ir ao perfil de lly fox")  
+        50 minutos atrás
+        
+    * [![RtisuMaru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1233943.thumb.png.389cd822e8293a02802ba6b3b8722e13.png)](https://www.clubedohardware.com.br/profile/1233943-rtisumaru/ "Ir ao perfil de RtisuMaru")
+        
+        0
+        
+        [Core i7-8700 funcionaria com uma Gigabyte H310M-S2P 2.0? Ou é melhor outro?](https://www.clubedohardware.com.br/forums/topic/1700101-core-i7-8700-funcionaria-com-uma-gigabyte-h310m-s2p-20-ou-%C3%A9-melhor-outro/?do=getNewComment "Core i7-8700 funcionaria com uma Gigabyte H310M-S2P 2.0? Ou é melhor outro?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [RtisuMaru](https://www.clubedohardware.com.br/profile/1233943-rtisumaru/ "Ir ao perfil de RtisuMaru")  
+        59 minutos atrás
+        
+    * [![ab.storck](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254708.thumb.jpeg.c6742d31b53906df50f18fc429bcb897.jpeg)](https://www.clubedohardware.com.br/profile/1254708-abstorck/ "Ir ao perfil de ab.storck")
         
         2
         
-        [Como remover esse cooler?](https://www.clubedohardware.com.br/forums/topic/1700067-como-remover-esse-cooler/?do=getNewComment "Como remover esse cooler?")
+        [Fonte para Ryzen 5 4600G](https://www.clubedohardware.com.br/forums/topic/1700100-fonte-para-ryzen-5-4600g/?do=getNewComment "Fonte para Ryzen 5 4600G")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Anthonny Lopes](https://www.clubedohardware.com.br/profile/1254736-anthonny-lopes/ "Ir ao perfil de Anthonny Lopes")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [ab.storck](https://www.clubedohardware.com.br/profile/1254708-abstorck/ "Ir ao perfil de ab.storck")  
         1 hora atrás
         
-    * [![yasmimxdxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242097.thumb.png.fedabc98eb64eb2492fe93247a0f4fab.png)](https://www.clubedohardware.com.br/profile/1242097-yasmimxdxd/ "Ir ao perfil de yasmimxdxd")
+    * [![Bruno_Sena](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1109123.thumb.jpeg.44c667ecf3c530a178a206fe76355c0b.jpeg)](https://www.clubedohardware.com.br/profile/1109123-bruno_sena/ "Ir ao perfil de Bruno_Sena")
         
         0
         
-        [dvd roda no pc mas não no aparelho de dvd da televisão](https://www.clubedohardware.com.br/forums/topic/1700066-dvd-roda-no-pc-mas-n%C3%A3o-no-aparelho-de-dvd-da-televis%C3%A3o/?do=getNewComment "dvd roda no pc mas não no aparelho de dvd da televisão")
+        [Recomendação de SSD SATA 1 TB somente para armazenamento de jogos](https://www.clubedohardware.com.br/forums/topic/1700099-recomenda%C3%A7%C3%A3o-de-ssd-sata-1-tb-somente-para-armazenamento-de-jogos/?do=getNewComment "Recomendação de SSD SATA 1 TB somente para armazenamento de jogos")
         
-        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
-        Por [yasmimxdxd](https://www.clubedohardware.com.br/profile/1242097-yasmimxdxd/ "Ir ao perfil de yasmimxdxd")  
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Bruno\_Sena](https://www.clubedohardware.com.br/profile/1109123-bruno_sena/ "Ir ao perfil de Bruno_Sena")  
         1 hora atrás
         
-    * [![JohnLennon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/JohnLennon.thumb.jpg.f445159820ace16e69afd1a24698155c.jpg)](https://www.clubedohardware.com.br/profile/1130537-johnlennon/ "Ir ao perfil de JohnLennon")
+    * [![guilherme Perego](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249747.thumb.jpeg.eb9c02d02b92e37e2c9c53bdb9fe4529.jpeg)](https://www.clubedohardware.com.br/profile/1249747-guilherme-perego/ "Ir ao perfil de guilherme Perego")
         
-        0
+        1
         
-        [BIOS update para Avell G1000 ?](https://www.clubedohardware.com.br/forums/topic/1700065-bios-update-para-avell-g1000/?do=getNewComment "BIOS update para Avell G1000 ?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [JohnLennon](https://www.clubedohardware.com.br/profile/1130537-johnlennon/ "Ir ao perfil de JohnLennon")  
-        1 hora atrás
-        
-    * [![Ragnar roch](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1176985.thumb.png.e1be9c716df7b43496a826ba7ca6f691.png)](https://www.clubedohardware.com.br/profile/1176985-ragnar-roch/ "Ir ao perfil de Ragnar roch")
-        
-        0
-        
-        [Não consigo ligar placa-mãe](https://www.clubedohardware.com.br/forums/topic/1700064-n%C3%A3o-consigo-ligar-placa-m%C3%A3e/?do=getNewComment "Não consigo ligar placa-mãe")
+        [Atualizando BIOS da placa-mãe A320M-HD R4.0](https://www.clubedohardware.com.br/forums/topic/1700098-atualizando-bios-da-placa-m%C3%A3e-a320m-hd-r40/?do=getNewComment "Atualizando BIOS da placa-mãe A320M-HD R4.0")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Ragnar roch](https://www.clubedohardware.com.br/profile/1176985-ragnar-roch/ "Ir ao perfil de Ragnar roch")  
+        Por [guilherme Perego](https://www.clubedohardware.com.br/profile/1249747-guilherme-perego/ "Ir ao perfil de guilherme Perego")  
         1 hora atrás
         
-    * [![Deann](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/images.thumb.jpeg.012ea18fd3e1eee1b218e97312109fb6.jpeg)](https://www.clubedohardware.com.br/profile/1227724-deann/ "Ir ao perfil de Deann")
+    * [![IHateBlackPeople1945](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/png-clipart-wewelsburg-black-sun-symbol-sun-cross-nazism-symbol-miscellaneous-symmetry.thumb.png.6489c6893f316d0067ae261342e24c5c.png)](https://www.clubedohardware.com.br/profile/1254754-ihateblackpeople1945/ "Ir ao perfil de IHateBlackPeople1945")
         
         0
         
-        [PC Gamer - A partir da linha Ryzen 5 5000 com vídeo integrado](https://www.clubedohardware.com.br/forums/topic/1700063-pc-gamer-a-partir-da-linha-ryzen-5-5000-com-v%C3%ADdeo-integrado/?do=getNewComment "PC Gamer - A partir da linha Ryzen 5 5000 com vídeo integrado")
+        [Perda de garantia do G920](https://www.clubedohardware.com.br/forums/topic/1700096-perda-de-garantia-do-g920/?do=getNewComment "Perda de garantia do G920")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Deann](https://www.clubedohardware.com.br/profile/1227724-deann/ "Ir ao perfil de Deann")  
+        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
+        Por [IHateBlackPeople1945](https://www.clubedohardware.com.br/profile/1254754-ihateblackpeople1945/ "Ir ao perfil de IHateBlackPeople1945")  
         1 hora atrás
         
-    * [![Stadszis](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253339.thumb.jpeg.6e826a89da647ab5659ae4bc878f5f08.jpeg)](https://www.clubedohardware.com.br/profile/1253339-stadszis/ "Ir ao perfil de Stadszis")
+    * [![KromaTL](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1218637.thumb.png.10b3c885fe101f86a3de9311cfb17763.png)](https://www.clubedohardware.com.br/profile/1218637-kromatl/ "Ir ao perfil de KromaTL")
         
         0
         
-        [Corsair H100 RGB e AuraSync](https://www.clubedohardware.com.br/forums/topic/1700062-corsair-h100-rgb-e-aurasync/?do=getNewComment "Corsair H100 RGB e AuraSync")
+        [Erro na transmissão de tela Discord](https://www.clubedohardware.com.br/forums/topic/1700089-erro-na-transmiss%C3%A3o-de-tela-discord/?do=getNewComment "Erro na transmissão de tela Discord")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Stadszis](https://www.clubedohardware.com.br/profile/1253339-stadszis/ "Ir ao perfil de Stadszis")  
-        2 horas atrás
-        
-    * [![BrunoDNO](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1181151.thumb.png.705b66c4bb21f7cf9c6e91ce6ad7e802.png)](https://www.clubedohardware.com.br/profile/1181151-brunodno/ "Ir ao perfil de BrunoDNO")
-        
-        3
-        
-        [Sugestão de upgrade de placa de vídeo ate 2000,00](https://www.clubedohardware.com.br/forums/topic/1700061-sugest%C3%A3o-de-upgrade-de-placa-de-v%C3%ADdeo-ate-200000/?do=getNewComment "Sugestão de upgrade de placa de vídeo ate 2000,00")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [BrunoDNO](https://www.clubedohardware.com.br/profile/1181151-brunodno/ "Ir ao perfil de BrunoDNO")  
+        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
+        Por [KromaTL](https://www.clubedohardware.com.br/profile/1218637-kromatl/ "Ir ao perfil de KromaTL")  
         2 horas atrás
         
     
