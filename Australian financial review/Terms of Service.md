@@ -320,29 +320,32 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3027%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8726ecfad2e596c4658f956c093f8ea9451e8935)](https://www.afr.com/life-and-luxury/fashion-and-style/wes-anderson-art-organic-tableware-and-the-closest-shave-20240930-p5kemz)
+[![
+Bawah Indonesia](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1850668ee2ef3401964fde132fbd2a7ce3a2dff6)](https://www.afr.com/life-and-luxury/travel/travel-insider-the-latest-deals-for-dream-holidays-20241016-p5kit5)
 
-### [Wes Anderson art, organic tableware and the closest shave](https://www.afr.com/life-and-luxury/fashion-and-style/wes-anderson-art-organic-tableware-and-the-closest-shave-20240930-p5kemz)
+### [Travel insider: the latest deals for dream holidays](https://www.afr.com/life-and-luxury/travel/travel-insider-the-latest-deals-for-dream-holidays-20241016-p5kit5)
 
-* Eugenie Kelly
+* 55 mins ago
+* Life & Leisure
 
-* ### [How do I know my resale handbag is the real deal?](https://www.afr.com/life-and-luxury/fashion-and-style/how-do-i-know-my-resale-handbag-is-the-real-deal-20240920-p5kc8a)
+* ### [For those on the list, Melbourne Cup dining is first across the line](https://www.afr.com/life-and-luxury/food-and-wine/for-those-on-the-list-melbourne-cup-dining-is-first-across-the-line-20241015-p5kihv)
     
-* ### [This World War II cognac could be yours for a ‘mere’ $1299 a bottle](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
+* ### [How the wellness revolution is transforming luxury property](https://www.afr.com/life-and-luxury/health-and-wellness/how-the-wellness-revolution-is-transforming-luxury-property-20240903-p5k7n9)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The 50 most valuable pubs in Australia. ](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0cb3c663de93d89831c82f16255691ff42560fa2)](https://www.afr.com/property/commercial/revealed-australia-s-50-most-valuable-pubs-20240904-p5k7qm)
+[![“I thought it would be a great learning exercise,” Oscar Ledlin says of his first project, when he was 21. It nearly sent him broke.](https://static.ffx.io/images/$zoom_0.2285%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_182%2C$y_205/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9a0618e68848f6486c2bc7fb8e5e1088f394b810)](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
 
-### [Revealed: Australia’s 50 most valuable pubs](https://www.afr.com/property/commercial/revealed-australia-s-50-most-valuable-pubs-20240904-p5k7qm)
+### [The latest way to make money – building warehouses for influencers](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
 
+* 25 mins ago
 * Larry Schlesinger
 
-* ### [Richard Pratt’s love child free to sue family for slice of the fortune](https://www.afr.com/companies/manufacturing/richard-pratt-s-love-child-free-to-sue-family-for-slice-of-the-fortune-20241016-p5kinx)
+* ### [Why this Young Rich Lister swears by a daily ice bath and sauna](https://www.afr.com/wealth/people/why-this-young-rich-lister-swears-by-a-daily-ice-bath-and-sauna-20241006-p5kg4v)
     
-* ### [Young Rich Lister matches major labels with $10m for local music](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
+* ### [How Scott O’Neill became the commercial property king](https://www.afr.com/young-rich/how-scott-o-neill-became-the-commercial-property-king-20240927-p5kdyx)
     
 
 [The Australian Financial Review](https://www.afr.com/)
