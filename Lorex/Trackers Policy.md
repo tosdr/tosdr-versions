@@ -115,7 +115,7 @@ triangle borderless
     
     * [Deals](https://www.lorex.com/pages/promotions)
     * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Big Savings on Security](https://www.lorex.com/pages/promotions)
+    * [Halloween Sale](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -230,7 +230,7 @@ arrow left Back
 
 Clear close
 
-All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesCloud SubscriptionConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Protection PlanExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRNVR Security SystemPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
+All categories arrow bottom All categoriesAccessoriesAnalog Security CamerasAnalog Security SystemCablesCloud SubscriptionConnectorsConverterDoorbell AccessoriesDoorbellsExtend Protection PlanExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVR Security SystemPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
 
 search search loader
 
@@ -551,7 +551,7 @@ Your cart is empty
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
     
-    [Big Savings on Security](https://www.lorex.com/pages/promotions)
+    [Halloween Sale](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
