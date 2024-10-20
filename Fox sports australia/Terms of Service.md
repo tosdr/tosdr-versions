@@ -16,16 +16,6 @@ FOX SCORES
 
 * NRL
     
-* [Women's PC
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | TON | 16  |
-    | SAM | 30  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240102)
 * [Men's PC
     
     Complete
@@ -60,16 +50,16 @@ FOX SCORES
     | NZL | 402 & 0 /0 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
-* [Women's T20
+* [Women's T20 WC
     
-    No Result
+    21/10 1:00 AEST
     
     |     |     |
     | --- | --- |
-    | HOB | 7 /166 |
-    | MELS |     |
+    | RSA | –   |
+    | NZL | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250202)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250301)
 * [Women's T20
     
     20/10 14:30 AEST
@@ -82,22 +72,18 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250301)
 * [Sheffield Shield
     
-    20/10 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | VIC | –   |
-    | NSW | –   |
+    | VIC | 1 /63 |
+    | NSW |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250104)
 * [Sheffield Shield
     
-    20/10 11:00 AEST
-    
     |     |     |
     | --- | --- |
-    | QLD | –   |
-    | SA  | –   |
+    | QLD |     |
+    | SA  | 0 /43 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250105)
 * [Sheffield Shield
@@ -112,26 +98,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250106)
 * AFL
     
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | MEL | 8.3.51 |
-    | RIC | 5.8.38 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240805)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | WCE | 1.6.12 |
-    | FRE | 5.5.35 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240806)
 * [AFL Women's
     
     20/10 13:05 AEST
@@ -192,16 +158,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | NZB | 89  |
-    | PER | 85  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050003/play-by-play)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | CAI | 75  |
     | ILL | 87  |
     
@@ -228,26 +184,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050006)
 * Football
     
-* [A-League M
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AFC | 2   |
-    | BRI | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250102)
-* [A-League M
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NEW | 0   |
-    | MCY | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250103)
 * [A-League M
     
     Full Time
@@ -348,16 +284,36 @@ FOX SCORES
     | ARS | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250808)
+* [Premier League
+    
+    21/10 0:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WOL | –   |
+    | MCI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250807)
+* [Premier League
+    
+    21/10 2:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LIV | –   |
+    | CHE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250801)
 * Baseball
     
 * [MLB
     
-    20/10 11:08 AEST
+    Bottom 5th Innings
     
     |     |     |
     | --- | --- |
-    | CLE | –   |
-    | NYY | –   |
+    | CLE | 2   |
+    | NYY | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020022689F)
 
@@ -967,7 +923,6 @@ FOX SCORES
 * [Women's AFL](https://www.foxsports.com.au/video/afl/womens-afl)
 * [Press Conferences](https://www.foxsports.com.au/video/afl/press-conferences)
 * [Buddy 300](https://www.foxsports.com.au/video/afl/buddy-300)
-* [AFL Tonight](https://www.foxsports.com.au/video/afl/afl-tonight)
 * [AFL 360](https://www.foxsports.com.au/video/afl/afl-360)
 * [On the Couch](https://www.foxsports.com.au/video/afl/on-the-couch)
 * [Bounce](https://www.foxsports.com.au/video/afl/bounce)
@@ -995,6 +950,7 @@ FOX SCORES
 
 [Football](https://www.foxsports.com.au/video/football)
 
+* [EPL](https://www.foxsports.com.au/video/football/epl)
 * [A-League](https://www.foxsports.com.au/video/football/a-league)
 * [Women's World Cup](https://www.foxsports.com.au/video/football/womens-world-cup)
 * [Asian Cup](https://www.foxsports.com.au/video/football/asian-cup)
