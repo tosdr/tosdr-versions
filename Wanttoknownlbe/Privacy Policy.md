@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-grote-julian-assange-political-show/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/aanklacht-tegen-wetenschappelijk-journalist-rozendaal/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
