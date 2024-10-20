@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Cpl. Martin Reid Hasler, Retired](https://cdn.returningveterans.org/images/honor/Poppy.jpeg)  
+![Daniel Methvin](https://cdn.returningveterans.org/images/honor/Daniel_Methvin_Stott_donor.jpg)  
 
-**In Honor of Cpl. Martin Reid Hasler, Retired**  
-United States Marine Corps  
-Submitted by Danielle Fragnito](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Daniel Methvin**  
+United States Army  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/19/24 - 2:15:28  
+Printed 10/19/24 - 8:14:18  
 © 2024 Returning Veterans Project
