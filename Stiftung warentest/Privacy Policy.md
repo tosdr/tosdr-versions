@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Einweggeschirr: Papp­teller oft mit Schad­stoffen belastet](https://www.test.de/Einweggeschirr-Pappteller-oft-mit-Schadstoffen-belastet-6123560-0/ "Einweggeschirr - Pappteller oft mit Schadstoffen belastet")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
 
 Service Stiftung Warentest
 
