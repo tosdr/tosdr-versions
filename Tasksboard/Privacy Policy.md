@@ -10,7 +10,7 @@ TasksBoard - Privacy Policy
 
 NOTICE
 
-* We do not store your data (tasks, calendar events, or drive files). It stays on Google’s servers. Granting us access to your data does not allow us to access your data offline. We only use this access to display them on the app [https://tasksboard.com](https://www.google.com/url?q=https://tasksboard.app&sa=D&source=editors&ust=1729443090461517&usg=AOvVaw2Qb-qhJz7E1PxtQGNt6b5c) and make actions on your behalf such as adding, updating, moving or deleting a task. All the actions performed come from you.
+* We do not store your data (tasks, calendar events, or drive files). It stays on Google’s servers. Granting us access to your data does not allow us to access your data offline. We only use this access to display them on the app [https://tasksboard.com](https://www.google.com/url?q=https://tasksboard.app&sa=D&source=editors&ust=1729464877175204&usg=AOvVaw0GW09DvxzaOwo7hyRsdReI) and make actions on your behalf such as adding, updating, moving or deleting a task. All the actions performed come from you.
 * The only information we store from your Google account is your name, last name, profile picture and e-mail.
 * We do not share your data with any third party.
 
