@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success”
+“ We understand human mental processes only slightly better than a fish understands swimming”
 
-[Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla)
+[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
 
 [](https://www.adafruit.com/about)
 
