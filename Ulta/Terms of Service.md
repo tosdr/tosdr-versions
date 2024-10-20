@@ -275,13 +275,13 @@ Free standard shipping on any $35 purchase
         * [Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/holiday-hydration-set-pimprod2047300?sku=2630224)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/beekman-1802-x-wicked-i-look-good-in-green-milky-mud-mask-pimprod2047900?sku=2629713)
         
-        DIME
+        Beekman 1802
         
-        New & exclusive! The Holiday Hydration Set
+        New & exclusive! I Look Good in Green Milky Mud Mask
         
-        [Shop now](https://www.ulta.com/p/holiday-hydration-set-pimprod2047300?sku=2630224)
+        [Shop now](https://www.ulta.com/p/beekman-1802-x-wicked-i-look-good-in-green-milky-mud-mask-pimprod2047900?sku=2629713)
         
     * Hair Care
         
