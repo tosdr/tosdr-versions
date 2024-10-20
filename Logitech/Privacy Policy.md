@@ -11,7 +11,6 @@ Our Brands
 *  [![ASTRO](/content/dam/logitech/en/nav/brand-logos/astro-grey.svg) ![ASTRO](/content/dam/logitech/en/nav/brand-logos/astro.svg)](https://www.astrogaming.com/en-us)
 *  [![Streamlabs](/content/dam/logitech/en/nav/brand-logos/streamlabs-grey.svg) ![Streamlabs](/content/dam/logitech/en/nav/brand-logos/streamlabs.svg)](https://streamlabs.com/)
 *  [![Ultimate Ears](/content/dam/logitech/en/nav/brand-logos/ultimate-ears-grey.svg) ![Ultimate Ears](/content/dam/logitech/en/nav/brand-logos/ultimate-ears.svg)](https://www.ultimateears.com/en-us)
-*  [![Jaybird](/content/dam/logitech/en/nav/brand-logos/jaybird-grey.svg) ![Jaybird](/content/dam/logitech/en/nav/brand-logos/jaybird.svg)](https://www.jaybirdsport.com/en-us)
 *  [![Mevo](/content/dam/logitech/en/nav/brand-logos/mevo-grey.svg) ![Mevo](/content/dam/logitech/en/nav/brand-logos/mevo.svg)](https://www.mevo.com/en-US)
 
 Free standard shipping on orders over $29.00
