@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,7 +149,6 @@
 Сейчас читают
 
 * [Дрожжевой рулет с клюквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=173058)
-* [Макароны с баклажанами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174231)
 
 |     |
 | --- |
@@ -171,6 +170,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Ленивая подборка. ГОЛУБЦЫ по-необычному (17)](https://www.russianfood.com/reading/?post_id=22749) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/427/sm_426599.jpg)](https://www.russianfood.com/reading/?post_id=22749)
+
+Ленивые голубцы с ячневой крупой. Ленивые голубцы с куриным фаршем и тыквой. Ленивые голубцы с квашеной капустой. Ленивые голубцы с куриным фаршем, рисом и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22749)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22749#comments) | 20.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -198,7 +211,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22747#comments) | 19.10.24 |     |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22747#comments) | 19.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22738#comments) | 17.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Яркие и домашние. Лучшие СУПЫ №24-42](https://www.russianfood.com/reading/?post_id=22737) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/744/sm_743036.jpg)](https://www.russianfood.com/reading/?post_id=22737)
-
-Суп из куриной печени с цветной капустой и перцем. Грибной суп с вермишелью. Суп-пюре из запечённой тыквы и сладкого перца. Суп с тыквой и сливками. Овощной суп с рисом и сельдереем. Куриный суп с вермишелью и брокколи. Суп с белыми грибами и помидорами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22737)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22737#comments) | 17.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -471,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(107)
+(283)
