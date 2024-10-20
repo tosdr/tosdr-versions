@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (10) September 2024  (30) August 
 
 ### October 2024
 
-#### Sat, Oct 19
-
-Sir Michael Gambon's birthday RIP
-
-Recurs yearly
-
-Albus Dumbledore (PoA-DH2)
-
 #### Sun, Oct 20
 
 Dan Fogler's birthday
@@ -292,6 +284,14 @@ Angelina Johnson's birthday
 
 Recurs yearly
 
+#### Sat, Oct 26
+
+Nick Shirm's birthday (Zacharias Smith)
+
+Recurs yearly
+
+Zacharias Smith
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -302,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Grangers and Potters were originally supposed to be neighbors in Godric’s Hollow.
+There are ten different species of dragons in the magical world of Harry Potter.
 
 ### Potter History
 
-November 7, 2010 – The official Harry Potter website announces that Alexandre Desplat will return to compose the music for Harry Potter and the Deathly Hallows – Part 2.
+March 7, 2006 – The Harry Potter and the Goblet of Fire DVD is released in the United States and Canada.
 
 ### Potter Quote
 
-“Draco, Draco, you are not a killer.”
+“But you’re Muggles! We must have a drink! What’s that you’ve got there? Oh, you’re changing Muggle money. Molly, look!”
 
 [](#)
 
