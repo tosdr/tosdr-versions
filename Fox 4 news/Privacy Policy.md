@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cold-case.jpg?ve=1&tl=1)
+ [![Morgan Wallen expands country music empire, launches Sand in My Boots festival](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2173837646.jpg?ve=1&tl=1)
 
- ![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cold-case.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
+ ![Morgan Wallen expands country music empire, launches Sand in My Boots festival](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2173837646.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/morgan-wallen-expands-country-music-empire-launches-sand-my-boots-festival)
 
-### [Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
+### [Morgan Wallen expands country music empire, launches Sand in My Boots festival](https://www.fox4news.com/news/morgan-wallen-expands-country-music-empire-launches-sand-my-boots-festival)
 
- [![One killed in suspected drunk driving crash in Grand Prairie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/garciahector.jpg?ve=1&tl=1)
+ [![Watch: Trump works at McDonald's during Pennsylvania visit](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179814659-a.jpg?ve=1&tl=1)
 
- ![One killed in suspected drunk driving crash in Grand Prairie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/garciahector.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/one-killed-suspected-drunk-driving-crash-grand-prairie)
+ ![Watch: Trump works at McDonald's during Pennsylvania visit](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179814659-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-works-mcdonalds-pennsylvania)
 
-### [One killed in suspected drunk driving crash in Grand Prairie](https://www.fox4news.com/news/one-killed-suspected-drunk-driving-crash-grand-prairie)
+### [Watch: Trump works at McDonald's during Pennsylvania visit](https://www.fox4news.com/news/trump-works-mcdonalds-pennsylvania)
 
- [![MLB expansion to Austin | Texas: The Issue Is](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/mlb-cover.jpg?ve=1&tl=1)
+ [![Texas’ junk science law is getting another look over Robert Roberson’s case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1)
 
- ![MLB expansion to Austin | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/mlb-cover.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mlb-expansion-austin-texas-issue-is)
+ ![Texas’ junk science law is getting another look over Robert Roberson’s case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-junk-science-law-is-getting-another-look-over-robert-robersons-case)
 
-### [MLB expansion to Austin | Texas: The Issue Is](https://www.fox4news.com/sports/mlb-expansion-austin-texas-issue-is)
+### [Texas’ junk science law is getting another look over Robert Roberson’s case](https://www.fox4news.com/news/texas-junk-science-law-is-getting-another-look-over-robert-robersons-case)
 
- [![Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/oscar3.jpg?ve=1&tl=1)
+ [![Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178709817.jpg?ve=1&tl=1)
 
- ![Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/oscar3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/oscar-strengthens-hurricane-southwest-atlantic-watches-warnings-expand-bahamas-cuba)
+ ![Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178709817.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-apologizes-georgia-players-staff-sec-game-officials-after-fans-throw-trash-field)
 
-### [Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://www.fox4news.com/weather/oscar-strengthens-hurricane-southwest-atlantic-watches-warnings-expand-bahamas-cuba)
+### [Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://www.fox4news.com/sports/texas-apologizes-georgia-players-staff-sec-game-officials-after-fans-throw-trash-field)
 
- [![American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2031347923-scaled.jpg?ve=1&tl=1)
+ [![No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2179670696.jpg?ve=1&tl=1)
 
- ![American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2031347923-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-cessna-close-call-austin-texas-faa)
+ ![No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179670696.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-5-georgia-knocks-off-no-1-texas-30-15-etienne-running-3-tds)
 
-### [American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://www.fox4news.com/news/american-airlines-cessna-close-call-austin-texas-faa)
+### [No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://www.fox4news.com/sports/no-5-georgia-knocks-off-no-1-texas-30-15-etienne-running-3-tds)
 
 ###### [News](https://www.fox4news.com/news)
 
