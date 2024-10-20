@@ -490,27 +490,15 @@ Join our mailing list to stay updated on news and releases.
 
 By subscribing, you agree to our Privacy Policy and consent to receive updates from us.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2093%20121'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/users-love-us.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
@@ -521,51 +509,27 @@ By subscribing, you agree to our Privacy Policy and consent to receive updates f
 * [Cookie Settings](https://choozle.com/opt-out)
 * [Data Processing Agreement](https://choozle.com/data-processing-agreement/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/users-love-us.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20638%20619'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_cion__1.png)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203328%203328'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon2.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20769%201000'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__3.png)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20770%201000'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon_4.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20231%20300'%3E%3C/svg%3E)
-
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__5.png)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__6.png)
 
