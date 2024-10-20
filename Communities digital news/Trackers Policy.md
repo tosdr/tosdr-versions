@@ -26,29 +26,29 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-criminal-aliens-in-texas-1200x630.jpg)](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-liz-kamala-1-split-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/liz-cheney-to-join-kamala-in-late-appeal-to-gullible-suburban-swing-voters/)
 
-[Authorities say group of 134 illegals, including Iranians, apprehended in Texas](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+[Liz Cheney to join Kamala in late appeal to gullible suburban swing voters](https://americanwirenews.com/liz-cheney-to-join-kamala-in-late-appeal-to-gullible-suburban-swing-voters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tyrus-1200x630.jpg)](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-cuban-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-unloads-on-mark-cuban-calls-him-a-total-loser-with-a-lousy-golf-game/)
 
-[‘Gutfeld!’ regular interviews Trump, apologizes right off the bat: ‘I’ve been very critical about you…’](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
+[Trump unloads on Mark Cuban, calls him a ‘total loser’ with a lousy golf game](https://americanwirenews.com/trump-unloads-on-mark-cuban-calls-him-a-total-loser-with-a-lousy-golf-game/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wallace-oleary-1200x630.jpg)](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-musk-ironman2-1200x630.jpg)](https://americanwirenews.com/fetterman-sounding-alarm-about-elon-musk-again-likens-him-to-marvel-comics-hero/)
 
-[Chris Wallace asks ‘Mr. Wonderful’ if he’s ‘really that much of an a\*\*hole’](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
+[Fetterman fretting again over Elon Musk, likens him to Marvel Comics hero](https://americanwirenews.com/fetterman-sounding-alarm-about-elon-musk-again-likens-him-to-marvel-comics-hero/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ninan-1200x630.jpg)](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
 
 [CNN analyst: ‘I cannot find one Arab-American within my social circle’ who will vote Harris](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cbp-log-moving-1200x630.jpg)](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalalacrosse-1200-x-628-1200x630.jpg)](https://americanwirenews.com/dem-nominee-mocks-rallygoer-singing-out-for-jesus-oh-you-guys-are-at-the-wrong-rally/)
 
-[Govt. agencies ROASTED for pathetic hurricane cleanup video: ’14 people to move a 12 lb log 30 feet’](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
+[Kamala mocks rallygoer singing out for Jesus: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/dem-nominee-mocks-rallygoer-singing-out-for-jesus-oh-you-guys-are-at-the-wrong-rally/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-muir-and-trump-1200x630.jpg)](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-dreher-1200x630.jpg)](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
 
-[‘Yet again, Trump was right’: ABC’s crime ‘fact-check’ aged like hot milk](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
+[Elon Musk gifting $1M per day to lucky battleground state voters who signs petition](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_kamhead-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
 
@@ -77,6 +77,14 @@ Search for:
 ### [Arnold Ventures under fire for weakening IP and patents](https://americanwirenews.com/arnold-ventures-under-fire-for-weakening-ip-and-patents/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam-lizzo-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
+
+[Lizzo agrees with Trump in bizarre sales pitch, says Kamala will make all of America like Detroit](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-steel-220x180.jpg)](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
+
+[Trump channels Reagan in PA, gets custom hard hat AND backing of steelworkers](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lizzo-220x180.jpg)](https://americanwirenews.com/kamala-rolls-out-the-heavy-hitters-lizzo-campaigns-for-veep-in-detroit/)
 
@@ -167,14 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-polk-sheriff-press-conference-220x180.jpg)](https://americanwirenews.com/fla-sheriff-slams-biden-harris-admin-for-aiding-and-abetting-human-trafficking-details-sex-trafficking-sting/)
 
 [Fla. sheriff slams Biden-Harris admin for ‘aiding and abetting human trafficking’, details sex trafficking sting](https://americanwirenews.com/fla-sheriff-slams-biden-harris-admin-for-aiding-and-abetting-human-trafficking-details-sex-trafficking-sting/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-fox-friends-220x180.jpg)](https://americanwirenews.com/trump-hints-at-who-helped-write-jokes-for-his-epic-speech-at-al-smith-dinner-i-shouldnt-say-that-but/)
-
-[Trump hints at who helped write jokes for his epic speech at Al Smith dinner: ‘I shouldn’t say that, but…’](https://americanwirenews.com/trump-hints-at-who-helped-write-jokes-for-his-epic-speech-at-al-smith-dinner-i-shouldnt-say-that-but/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-pointing-220x180.jpg)](https://americanwirenews.com/you-lost-zero-fans-maxim-magazine-makes-unapologetic-presidential-endorsement/)
-
-[‘You lost zero fans’: Maxim Magazine makes unapologetic presidential endorsement](https://americanwirenews.com/you-lost-zero-fans-maxim-magazine-makes-unapologetic-presidential-endorsement/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
