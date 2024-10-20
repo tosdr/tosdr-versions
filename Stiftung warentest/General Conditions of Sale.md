@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Service Stiftung Warentest
 
