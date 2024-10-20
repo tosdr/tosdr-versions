@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
+[![How early can you detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-early-can-you-detect-mesothelioma-1-scaled.jpg "How Early Can You Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-you-detect-mesothelioma/ "How Early Can You Detect Mesothelioma?")
 
-[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
+[#### How Early Can You Detect Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-you-detect-mesothelioma/)
 
-[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/ "What Are the 3 Stages of Sepsis?")
 
-[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
+[#### What Are the 3 Stages of Sepsis?](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/)
 
-[![What is utah hb90 law?](https://www.pintas.com/wp-content/uploads/2023/04/general-photo-300x200.jpg "What Is Utah HB90 Law?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/ "What Is Utah HB90 Law?")
+[![Is there a cure for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-mesothelioma-lawyer-is-there-a-cure-for-mesothelioma.jpg "Is There a Cure for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/ "Is There a Cure for Mesothelioma?")
 
-[#### What Is Utah HB90 Law?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/)
+[#### Is There a Cure for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
