@@ -6,15 +6,15 @@
 
 Days
 
-21
+14
 
 Hours
 
-00
+54
 
 Minutes
 
-44
+24
 
 Seconds
 
