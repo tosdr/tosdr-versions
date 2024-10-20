@@ -20,10 +20,10 @@ Menu
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
     
-    * [Accessibility](https://bigbluebutton.org/accessibility/)
     * [Integrations](https://bigbluebutton.org/integrations/)
     * [Support](https://bigbluebutton.org/support/)
     * [Hosting](https://bigbluebutton.org/hosting/)
+    * [Accessibility](https://bigbluebutton.org/accessibility/)
 * [Resources](#)
     
     * [Events](https://bigbluebutton.org/events/)
@@ -40,10 +40,10 @@ Menu
     * [Features](https://bigbluebutton.org/features/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
-    * [Accessibility](https://bigbluebutton.org/?page_id=216)
-    * [Integrations](https://bigbluebutton.org/integrations/)
+    * [LMS Integrations](https://bigbluebutton.org/integrations/)
     * [Support](https://bigbluebutton.org/support/)
     * [Hosting](https://bigbluebutton.org/hosting/)
+    * [Accessibility](https://bigbluebutton.org/accessibility/)
 
 Menu
 
@@ -52,10 +52,10 @@ Menu
     * [Features](https://bigbluebutton.org/features/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
-    * [Accessibility](https://bigbluebutton.org/?page_id=216)
-    * [Integrations](https://bigbluebutton.org/integrations/)
+    * [LMS Integrations](https://bigbluebutton.org/integrations/)
     * [Support](https://bigbluebutton.org/support/)
     * [Hosting](https://bigbluebutton.org/hosting/)
+    * [Accessibility](https://bigbluebutton.org/accessibility/)
 
 [![](https://bigbluebutton.org/wp-content/uploads/2021/01/BigBlueButton_icon.svg.png)](https://bigbluebutton.org/)
 
