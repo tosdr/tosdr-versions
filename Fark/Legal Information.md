@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this approaching storm](https://www.fark.com/goto/13430738) ( [live.staticflickr.com](https://www.fark.com/goto/13430738) ) » [(15 comments)](https://www.fark.com/comments/13430738/Photoshop-this-approaching-storm) |
-| [Discussion](https://www.fark.com/discussion/) | [The Yankees are one game away from the World Series. The Guardians want to keep that dream alive. Game 5 features Carlos Rodon versus Tanner Bibee and gametime is at 8:08 PM ET on TBS. What moment will stand out as epic in this game?](https://www.fark.com/goto/13433350) ( [espn.com](https://www.fark.com/goto/13433350) ) » [(19 comments)](https://www.fark.com/comments/13433350/The-Yankees-are-one-game-away-from-World-Series-The-Guardians-want-to-keep-that-dream-alive-Game-5-features-Carlos-Rodon-versus-Tanner-Bibee-gametime-is-at-808-PM-ET-on-TBS-What-moment-will-stand-out-as-epic-in-this-game) |
-| [Sports](https://www.fark.com/sports/) | [The Yankees are one game away from the World Series. The Guardians want to keep that dream alive. Game 5 features Carlos Rodon versus Tanner Bibee and gametime is at 8:08 PM ET on TBS. What moment will stand out as epic in this game?](https://www.fark.com/goto/13433350) ( [espn.com](https://www.fark.com/goto/13433350) ) » [(19 comments)](https://www.fark.com/comments/13433350/The-Yankees-are-one-game-away-from-World-Series-The-Guardians-want-to-keep-that-dream-alive-Game-5-features-Carlos-Rodon-versus-Tanner-Bibee-gametime-is-at-808-PM-ET-on-TBS-What-moment-will-stand-out-as-epic-in-this-game) |
-| [Business](https://www.fark.com/business/) | [Please limit your farewell hugs to 3 minutes](https://www.fark.com/goto/13433634) ( [edition.cnn.com](https://www.fark.com/goto/13433634) ) » [(26 comments)](https://www.fark.com/comments/13433634/Please-limit-your-farewell-hugs-to-3-minutes) |
-| [STEM](https://www.fark.com/stem/) | [ULA and SpaceX just bid on eight military launches. Guess who won all eight?](https://www.fark.com/goto/13433660) ( [arstechnica.com](https://www.fark.com/goto/13433660) ) » [(11 comments)](https://www.fark.com/comments/13433660/ULA-SpaceX-just-bid-on-eight-military-launches-Guess-who-won-all-eight) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Svengoolie double feature. House of Wax (1953) and Labyrinth starting at 8:00 pm eastern](https://www.fark.com/goto/13433818) ( [metv.com](https://www.fark.com/goto/13433818) ) » [(27 comments)](https://www.fark.com/comments/13433818/Svengoolie-double-feature-House-of-Wax-1953-Labyrinth-starting-at-800-pm-eastern) |
-| [Fandom](https://www.fark.com/fandom/) | [Don't mock me because I'm pale, male and stale. I can operate a lathe and you can't](https://www.fark.com/goto/13433678) ( [dailymail.co.uk](https://www.fark.com/goto/13433678) ) » [(8 comments)](https://www.fark.com/comments/13433678/Dont-mock-me-because-Im-pale-male-stale-I-can-operate-a-lathe-you-cant) |
-| [D'awww](https://www.fark.com/dawww/) | [Never feed them after midnight](https://www.fark.com/goto/13433664) ( [theguardian.com](https://www.fark.com/goto/13433664) ) » [(11 comments)](https://www.fark.com/comments/13433664/Never-feed-them-after-midnight) |
-| [Food](https://www.fark.com/food/) | [We burn the heathens](https://www.fark.com/goto/13433242) ( [youtube.com](https://www.fark.com/goto/13433242) ) » [(48 comments)](https://www.fark.com/comments/13433242/We-burn-heathens) |
-| [Politics](https://www.fark.com/politics/) | [After working without a contract for over a year, enjoy your 1.3% raise postal delivery monkeys. At least you get air conditioning in your trucks to go with your bread and gruel](https://www.fark.com/goto/13433652) ( [cbsnews.com](https://www.fark.com/goto/13433652) ) » [(48 comments)](https://www.fark.com/comments/13433652/After-working-without-a-contract-for-over-a-year-enjoy-your-13-raise-postal-delivery-monkeys-At-least-you-get-air-conditioning-in-your-trucks-to-go-with-your-bread-gruel) |
+| [Main](https://www.fark.com/) | [Everyone calm down. It's not like anyone died](https://www.fark.com/goto/13433980) ( [news.sky.com](https://www.fark.com/goto/13433980) ) » [(5 comments)](https://www.fark.com/comments/13433980/Everyone-calm-down-Its-not-like-anyone-died) |
+| [Discussion](https://www.fark.com/discussion/) | [Restaurant promos, coffee, movie theaters, and rich people crap not made by Gucci are all on the Fark Weird News Quiz, October 11-17 AI Review Edition](https://www.fark.com/goto/13434078) ( [fark.com](https://www.fark.com/goto/13434078) ) » [(7 comments)](https://www.fark.com/comments/13434078/Restaurant-promos-coffee-movie-theaters-rich-people-crap-not-made-by-Gucci-are-all-on-Fark-Weird-News-Quiz-October-11-17-AI-Review-Edition) |
+| [Sports](https://www.fark.com/sports/) | [Six-time Olympic gold medal-winning cyclist Sir Chris Hoy, 48, will be running his last race. Again, fark cancer](https://www.fark.com/goto/13433900) ( [bbc.com](https://www.fark.com/goto/13433900) ) » [(2 comments)](https://www.fark.com/comments/13433900/Six-time-Olympic-gold-medal-winning-cyclist-Sir-Chris-Hoy-48-will-be-running-his-last-race-Again-fark-cancer) |
+| [Business](https://www.fark.com/business/) | [Looks like the Apple Vision Pro has found some fans: surgical teams performing minimally invasive surgery](https://www.fark.com/goto/13433892) ( [time.com](https://www.fark.com/goto/13433892) ) » [(1 comment)](https://www.fark.com/comments/13433892/Looks-like-Apple-Vision-Pro-has-found-some-fans-surgical-teams-performing-minimally-invasive-surgery) |
+| [STEM](https://www.fark.com/stem/) | [Meet the rangers who protect one of the most remote and biologically diverse reefs. Isolated? Low supplies? Rising sea levels? Sure. But you can't beat the fishing](https://www.fark.com/goto/13433680) ( [apnews.com](https://www.fark.com/goto/13433680) ) » [(0 comments)](https://www.fark.com/comments/13433680/Meet-rangers-who-protect-one-of-most-remote-biologically-diverse-reefs-Isolated-Low-supplies-Rising-sea-levels-Sure-But-you-cant-beat-fishing) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Kevin Costner doesn't think the hurricane survivors suffered enough](https://www.fark.com/goto/13433808) ( [ktla.com](https://www.fark.com/goto/13433808) ) » [(2 comments)](https://www.fark.com/comments/13433808/Kevin-Costner-doesnt-think-hurricane-survivors-suffered-enough) |
+| [Fandom](https://www.fark.com/fandom/) | [Now you can smurf all your smurfing fantasies thanks to the Smurfs tabletop RPG](https://www.fark.com/goto/13434026) ( [pcgamer.com](https://www.fark.com/goto/13434026) ) » [(2 comments)](https://www.fark.com/comments/13434026/Now-you-can-smurf-all-your-smurfing-fantasies-thanks-to-Smurfs-tabletop-RPG) |
+| [D'awww](https://www.fark.com/dawww/) | [Not every dog passes obedience school, but some fail more spectacularly than others](https://www.fark.com/goto/13433754) ( [upworthy.com](https://www.fark.com/goto/13433754) ) » [(5 comments)](https://www.fark.com/comments/13433754/Not-every-dog-passes-obedience-school-but-some-fail-more-spectacularly-than-others) |
+| [Food](https://www.fark.com/food/) | ["Al Roker's Sweet Potato Poon, a delicious dish with a side of mystery" - So that's how he lost all that weight](https://www.fark.com/goto/13434032) ( [nydailynews.com](https://www.fark.com/goto/13434032) ) » [(0 comments)](https://www.fark.com/comments/13434032/Al-Rokers-Sweet-Potato-Poon-a-delicious-dish-with-a-side-of-mystery-So-thats-how-he-lost-all-that-weight) |
+| [Politics](https://www.fark.com/politics/) | ["Harris and Trump prefer influencers and podcasters to mainstream media" wonders journalist who clearly isn't aware of the deterioration of US mainstream media](https://www.fark.com/goto/13433850) ( [lemonde.fr](https://www.fark.com/goto/13433850) ) » [(5 comments)](https://www.fark.com/comments/13433850/Harris-Trump-prefer-influencers-podcasters-to-mainstream-media-wonders-journalist-who-clearly-isnt-aware-of-deterioration-of-US-mainstream-media) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 19 2024 21:42:18  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 20 2024 02:42:48  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
