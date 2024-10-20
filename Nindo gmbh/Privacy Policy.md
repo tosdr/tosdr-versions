@@ -6,18 +6,26 @@
 
 Suche
 
+[Login](https://nindo.de/sign-in)[Registrieren](https://nindo.de/sign-up)
+
+Datenschutz
+===========
+
 Kontakt
 -------
 
-[Übersicht](https://nindo.de/datenschutz)[Statistiken](https://nindo.de/datenschutz/stats)[Demografie](https://nindo.de/datenschutz/demography)[Netzwerk](https://nindo.de/datenschutz/network)[Botting](https://nindo.de/datenschutz/botting)[Brandsafety](https://nindo.de/datenschutz/brandsafety)[Inhalte](https://nindo.de/datenschutz/content)[Branded Content](https://nindo.de/datenschutz/branded-content)
+Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
+
+DDatenschutz
+
+[Statistiken](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d)[Kanäle](https://nindo.de/datenschutz)[Netzwerk](https://nindo.de/datenschutz/network)[Demografie](https://nindo.de/datenschutz/demography/8ea0e790c6e89435bab21f9a427b0209458c939d)[Botting](https://nindo.de/datenschutz/botting/8ea0e790c6e89435bab21f9a427b0209458c939d)[Brandsafety](https://nindo.de/datenschutz/brandsafety)[Inhalte](https://nindo.de/datenschutz/content)[Branded Content](https://nindo.de/datenschutz/branded-content)
 
 Kanalübersicht
 --------------
 
 | Kanal | Impact | Engagement | Follower |
 | --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
+| [twitch](https://www.twitch.tv/datenschutz)[Datenschutz](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d) |     |     | 35  |
 
 * Plattform
 * [Instagram](https://nindo.de/features/instagram)
@@ -63,26 +71,3 @@ Kanalübersicht
 © Nindo GmbH[Impressum](https://nindo.de/imprint)[Privacy Policy](https://nindo.de/privacy)[Terms Of Service](https://nindo.de/terms)
 
 [](https://www.linkedin.com/company/nindopro)[](https://www.xing.com/pages/nindo)[](https://www.instagram.com/nindo.de/)[](https://www.youtube.com/channel/UC1W96tENk9fz6ODZfEF42tA)[](https://www.tiktok.com/@nindo.de)
-
-Synchronisation läuft
-
-DDatenschutz
-
-[Übersicht](https://nindo.de/datenschutz)[Statistiken](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d)[Demografie](https://nindo.de/datenschutz/demography/8ea0e790c6e89435bab21f9a427b0209458c939d)[Netzwerk](https://nindo.de/datenschutz/network)[Botting](https://nindo.de/datenschutz/botting/8ea0e790c6e89435bab21f9a427b0209458c939d)[Brandsafety](https://nindo.de/datenschutz/brandsafety)[Inhalte](https://nindo.de/datenschutz/content)[Branded Content](https://nindo.de/datenschutz/branded-content)
-
-Datenschutz
-===========
-
-Kontakt
--------
-
-Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
-
-Kanalübersicht
---------------
-
-| Kanal | Impact | Engagement | Follower |
-| --- | --- | --- | --- |
-| [twitch](https://www.twitch.tv/datenschutz)[Datenschutz](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d) |     |     |     |
-
-35
