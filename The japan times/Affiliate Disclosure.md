@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+
+  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+
 [Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
   [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
@@ -147,12 +151,16 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-[Shohei Ohtani making major impact on viewership numbers during MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
-
-  [![Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428562.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.")](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
-
 Editors' Picks
 --------------
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+
+By [Tan Pin Yen](https://www.japantimes.co.jp/author/5641/tan-pin-yen/ "Tan Pin Yen")  
+
+  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -183,14 +191,6 @@ By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Franci
 By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
   [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Shohei Ohtani making major impact on viewership numbers during MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
-
-By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
-
-  [![Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428562.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani rounds the bases after hitting a solo home run against the Mets in Game 4 of the NLCS in New York on Thursday.")](https://www.japantimes.co.jp/sports/2024/10/18/baseball/mlb/ohtani-playoff-tv-ratings/ "Shohei Ohtani making major impact on viewership numbers during MLB playoffs")
 
 Podcast
 -------
@@ -253,23 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+[More details emerge about suspect in attack at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/japan-ldp-headquarters-pmo-attack/ "More details emerge about suspect in attack at LDP headquarters")
 
-46 mins ago
+1 hours ago
 
-[U.S. prosecutors see rising threat of AI-generated child sex abuse imagery](https://www.japantimes.co.jp/news/2024/10/20/world/crime-legal/us-prosecutors-child-porn-ai/ "U.S. prosecutors see rising threat of AI-generated child sex abuse imagery")
+[New rules drive Japanese trucking sector to the brink](https://www.japantimes.co.jp/news/2024/10/20/japan/society/2024-problem-trucking-sector/ "New rules drive Japanese trucking sector to the brink")
 
 2 hours ago
 
-[Japan and U.S. defense chiefs voice 'sense of crisis' amid China military moves](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-us-defense-chiefs-meeting/ "Japan and U.S. defense chiefs voice 'sense of crisis' amid China military moves")
+[G7 defense chiefs voice concern over Chinese military drills around Taiwan](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-g7-defense-chiefs/ "G7 defense chiefs voice concern over Chinese military drills around Taiwan")
 
 3 hours ago
 
-[Netanyahu says Iran-backed Hezbollah tried to kill him](https://www.japantimes.co.jp/news/2024/10/20/world/netanyahu-hezbollah-assassination-attempt/ "Netanyahu says Iran-backed Hezbollah tried to kill him")
+[Fuji Soft sticks with KKR despite higher takeover offer from Bain](https://www.japantimes.co.jp/business/2024/10/20/companies/fuji-soft-sticks-kkr/ "Fuji Soft sticks with KKR despite higher takeover offer from Bain")
 
-3 hours ago
+4 hours ago
 
-[No Cabinet ministers visit Yasukuni Shrine during fall festival](https://www.japantimes.co.jp/news/2024/10/19/japan/yasukuni-no-cabinet-members/ "No Cabinet ministers visit Yasukuni Shrine during fall festival")
+[Masami Oka named first head of fighter jet international body](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/oka-fighter-jet-international-body/ "Masami Oka named first head of fighter jet international body")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
