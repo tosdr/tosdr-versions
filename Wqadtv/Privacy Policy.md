@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-shooting-modern-woodmen-park-two-injured/526-bd58ea80-c4eb-49da-8677-b310bc215f44)
+        
+        #### [2 people shot in Davenport while driving vehicle](https://www.wqad.com/article/news/crime/davenport-shooting-modern-woodmen-park-two-injured/526-bd58ea80-c4eb-49da-8677-b310bc215f44)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_360x203.jpg)](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
         
         #### [QC nonprofit faces setbacks after lumber theft](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d409de34-9446-4adb-a087-1f051b5918ee/20241018T220624/d409de34-9446-4adb-a087-1f051b5918ee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d409de34-9446-4adb-a087-1f051b5918ee/20241018T220624/d409de34-9446-4adb-a087-1f051b5918ee_360x203.jpg)](https://www.wqad.com/article/news/local/united-way-school-increase-student-support/526-2669529e-9914-4d11-ae20-5e0598fbff20)
-        
-        #### [United Way Quad Cities working to increase student support](https://www.wqad.com/article/news/local/united-way-school-increase-student-support/526-2669529e-9914-4d11-ae20-5e0598fbff20)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4/20241019T115505/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4/20241019T115505/9c08ec9b-fe58-4fd4-9f80-e4d5a681b6e4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/60cf8574-7b32-40ba-b7cd-7c7a7a235acb/20241019T230824/60cf8574-7b32-40ba-b7cd-7c7a7a235acb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/60cf8574-7b32-40ba-b7cd-7c7a7a235acb/20241019T230824/60cf8574-7b32-40ba-b7cd-7c7a7a235acb_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Great warmth for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Pleasant warm weather ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_360x203.jpg)](https://www.wqad.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
+    *  [![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
         
-        #### [La Niña could soon arrive. Here's what that means for winter weather](https://www.wqad.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
+        #### [Family of Tennessee employee who died in Hurricane Helene flooding files wrongful death lawsuit](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-71°
+55°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
