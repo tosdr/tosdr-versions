@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Jannie Schutte - myFinance-Online.co.za
+Henry Venter
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=99284656)  
-Tiny Cuddles Photography
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=55180555)  
+Blue Sky Solar Services
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=50733682)  
-FJW Security Cc
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=143232063)  
+Redlum Group (Pty) Ltd
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=44396308)  
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=102262877)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=48266601)  
+Alliance Energy
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=200805162)  
+Lily Fern & Co
+
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=60959242)  
+Secunda Signs T/A Local Print and Signs
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=85662224)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=151438525)  
+Dr V Naik Consult
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=32494588)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=50285916)  
+Kaylas Creations
+
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=175824410)  
+High Point Marketing CC t/a Leads For Africa
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=167516940)  
+Sarabi
+
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=86561841)  
 Well Hung Art
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=69607736)  
-Enhle Oarabile Kea
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=48504659)  
+Tagline Brands
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=57720782)  
-CBR Verwe/Paints
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=193151080)  
-Chiron Medical Solutions
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=63532878)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=177288018)  
-NWET Pty LTD
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=88863391)  
-One2b
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=28026351)  
-Westside Car Audio CC
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=142662866)  
-NGB HOLDINGS PTY LTD
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=175059626)  
-Firstweb Hosting & Design
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=106532328)  
-Baby Toddles Infant Care
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=112366504)  
-Kara Medical (Pty) Ltd
-
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=0d453034c2529072927331d7901e6f87e61581a61aa1dd841f6a1b6514037197&c=189829038)  
-van Schaik rentals
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=c2eb1cafd9926f1ab1e80b7d876f067df4822429c5d056fde5abdd4e1a1853ad&c=6600269)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
