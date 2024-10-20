@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/waarom-niet-altijd-in-liefde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/de-vaccinatie-kruistocht-van-frank-ruesink/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
