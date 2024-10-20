@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Henry Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=115989141)  
-Know Informatics
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=191439415)  
-Goju-Ryu Pretoria East
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=212251063)  
-Stories (Pty) Ltd t/a Storietyd
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=33123028)  
-MONSTER SECURITY SERVICES
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=127149092)  
-Karino Merinos ( PTY ) LTD
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=23619761)  
-National Elite Security Services (PTY) LTD
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=158298469)  
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=178014157)  
 SMART GUY PCS (PTY) LTD
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=43846970)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=107106946)  
+J.M. HUMAN RESOURCES
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=200963626)  
-Mountain Lion Properties
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=2632222)  
+Baby Toddles Infant Care
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=214099055)  
-CHARLIEX CONSTRUCTIONS
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=88370340)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=154214369)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=4649956)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=181187072)  
-Sarabi
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=111971421)  
+kidoscabbie
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=32664944)  
-Kaylas Creations
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=126806935)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=88189863)  
-Lily Fern & Co
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=209004779)  
+Nogana Events and Decor
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=a425146819fea624c978db679e3680471792798ccf408df0e7909e12c978d9bf&c=171238607)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=203494538)  
+Kara Medical (Pty) Ltd
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=137438826)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=135285540)  
+Lemba Truck Stop
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=134109025)  
+FJW Security Cc
+
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=179056707)  
+Eruca (PTY)Ltd
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=80020970)  
+KTEN PARTS
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=6e802270f24e02ab61fced2a5c05685ac2105be3802ed4984b4ced9656c3c252&c=68095019)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
