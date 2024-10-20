@@ -44,37 +44,37 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [Chaturbate Accounts with Tokens](https://pastebin.com/nn4ceMXu)
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/398BMGTH)
     
     JavaScript | 2 sec ago | 0.09 KB
     
-* [⭐ giftcards for free by Pastebin Team](https://pastebin.com/RMZkSNb4)
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/ahgXimc3)
     
-    JavaScript | 3 sec ago | 0.08 KB
+    JavaScript | 3 sec ago | 0.09 KB
     
-* [Brazzers accounts](https://pastebin.com/3WLqvxgv)
+* [Amazon Gift cards LEAKED](https://pastebin.com/ZyQeaZ5n)
     
-    JavaScript | 4 sec ago | 0.09 KB
+    JavaScript | 3 sec ago | 0.09 KB
     
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/M6QyqQBs)
+* [Binance Accounts Leaked](https://pastebin.com/5x12UbtW)
     
-    JavaScript | 4 sec ago | 0.09 KB
+    JavaScript | 5 sec ago | 0.09 KB
     
-* [Binance Account hack GKEU](https://pastebin.com/hbZ5qdQm)
+* [Leaked by Zak](https://pastebin.com/TxN3fXJi)
     
-    JavaScript | 5 sec ago | 0.11 KB
+    JavaScript | 5 sec ago | 0.09 KB
     
-* [⭐Binance Account hack PK92](https://pastebin.com/gMxHXRX4)
+* [Binance Accounts Leaked](https://pastebin.com/CkKCNDwi)
     
-    JavaScript | 5 sec ago | 0.11 KB
+    JavaScript | 5 sec ago | 0.09 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/EaAp5BqQ)
-    
-    JavaScript | 7 sec ago | 0.09 KB
-    
-* [Binance Accounts Leaked](https://pastebin.com/fSauE1Ud)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/U2iF69hk)
     
     JavaScript | 8 sec ago | 0.09 KB
+    
+* [Chaturbate Accounts with Tokens](https://pastebin.com/BeEmjBBB)
+    
+    JavaScript | 10 sec ago | 0.09 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
