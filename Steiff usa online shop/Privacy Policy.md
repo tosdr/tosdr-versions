@@ -1,4 +1,4 @@
-[![To the Steiff homepage](/assets/logos/logo-bear.svg)](https://www.steiffusa.com/en-us)
+[![To the Steiff homepage](/assets/logos/logo-bear.svg)](https://www.steiffusa.com/)
 
 My Steiff
 
@@ -6,71 +6,140 @@ Wishlist
 
 Shopping cart
 
-* [Stuffed Animals & Baby Gifts](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts)
+* [Stuffed animals & toys](https://www.steiffusa.com/en-us/i/stuffed-animals-toys)
     
-    * [Teddy bears](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/teddy-bears)
+    * [Teddy bears](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/teddy-bears)
         
-        * [Teddy bears for babies](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/teddy-bears/teddy-bears-for-babies)
-        * [Teddy bears for kids](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/teddy-bears/teddy-bears-for-kids)
+        * [Teddy bears for babies](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/teddy-bears/teddy-bears-for-babies)
+        * [Teddy bears for kids](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/teddy-bears/teddy-bears-for-kids)
         
-    * [Stuffed animals](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/stuffed-animals)
+    * [Stuffed animals](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/stuffed-animals)
         
-        * [Stuffed animals for babies](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/stuffed-animals/stuffed-animals-for-babies)
+        * [Stuffed animals for babies](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/stuffed-animals/stuffed-animals-for-babies)
             
-        * [Stuffed animals for children](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/stuffed-animals/stuffed-animals-for-children)
+        * [Stuffed animals for children](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/stuffed-animals/stuffed-animals-for-children)
             
-        * [Popular Animals](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/stuffed-animals/popular-animals)
+        * [Popular Animals](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/stuffed-animals/popular-animals)
             
         
-    * [Toys for babies](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-babies)
+    * [Toys for babies](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-babies)
         
-        * [Grip Toys & Rattles](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-babies/grip-toys-rattles)
-        * [Security Blankets](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-babies/security-blankets)
-        * [Musical Pull Toys](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-babies/musical-pull-toys)
+        * [Grip toys and rattles](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-babies/grip-toys-and-rattles)
+        * [Comforter](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-babies/comforter)
+        * [Musical boxes](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-babies/musical-boxes)
+        * [Wooden toys](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-babies/wooden-toys)
         
-    * [Toys for children](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children)
+    * [Toys for children](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-children)
         
-        * [Riding animals](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/riding-animals)
-        * [Mini Cuddlies](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/mini-cuddlies)
-        * [Gentle Giants](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/gentle-giants)
+        * [Balance bikes](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-children/balance-bikes)
+        * [Riding animals](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-children/riding-animals)
+        * [Mini cuddlys](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-children/mini-cuddlys)
+        * [Gentle Giants](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/toys-for-children/gentle-giants)
         
-    * [Plush Collections](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/plush-collections)
+    * [Theme worlds](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/theme-worlds)
         
-        * [Disney](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/plush-collections/disney)
-        * [Friends under $50](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/plush-collections/friends-under-50)
-        * [Suitcase Animals](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/plush-collections/suitcase-animals)
-        * [Plush Sale](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/plush-collections/plush-sale)
+        * [Disney](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/theme-worlds/disney)
+        * [Friends](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/theme-worlds/friends)
+        * [City Bears](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/theme-worlds/city-bears)
+        * [Plush Sale](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/theme-worlds/special)
         
-    * [0 Gift Ideas](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas)
+    * [0 Gift Ideas](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/gift-ideas)
         
-        * [Birthday Gifts](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/birthday-gifts)
-        * [Good Luck Gifts](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/good-luck-gifts)
-        * [Plush Keyrings](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/plush-keyrings)
-        * [Baby Gifts under $50](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/baby-gifts-under-50)
+        * [Birth and Christening](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/gift-ideas/birth-and-christening)
+        * [Birthday](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/gift-ideas/birthday)
+        * [Lucky charms](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/gift-ideas/lucky-charms)
+        * [Keyfobs](https://www.steiffusa.com/en-us/i/stuffed-animals-toys/gift-ideas/keyfobs)
         
     
-* [Collector´s Showcase](https://www.steiffusa.com/en-us/collector-s-showcase)
+* [Baby- & Kids fashion](https://www.steiffusa.com/en-us/i/baby-kids-fashion)
     
-    * [Seasonal Collections](https://www.steiffusa.com/en-us/collector-s-showcase/seasonal-collections)
+    * [Baby girls (size 50-86)](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86)
         
-        * [2024 Editions](https://www.steiffusa.com/en-us/collector-s-showcase/seasonal-collections/2024-editions)
-        * [Last Chance Sale](https://www.steiffusa.com/en-us/collector-s-showcase/seasonal-collections/last-chance-sale)
+        * [Sweat Jackets & Sweatshirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/sweat-jackets-sweatshirts)
+        * [Bodies, rompers & combinations](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/bodies-rompers-combinations)
+        * [Crawling blankets & sleeping bags](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/crawling-blankets-sleeping-bags)
+        * [Long and short sleeve T-shirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/long-and-short-sleeve-t-shirts)
+        * [Hats & scarves & neckerchief](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/hats-scarves-neckerchief)
+        * [Snow clothing](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/snow-clothing)
+        * [Pants & Jeans](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86/pants-jeans)
         
-    * [Teddy Bears](https://www.steiffusa.com/en-us/collector-s-showcase/teddy-bears)
+        [more](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-girls-size-50-86)
         
-        * [Limited Editions](https://www.steiffusa.com/en-us/collector-s-showcase/teddy-bears/limited-editions)
-        * [Classic Collection](https://www.steiffusa.com/en-us/collector-s-showcase/teddy-bears/classic-collection)
+    * [Baby boys (size 50-86)](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86)
         
-    * [Collectible Animals](https://www.steiffusa.com/en-us/collector-s-showcase/collectible-animals)
+        * [Sweat Jackets & Sweatshirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/sweat-jackets-sweatshirts)
+        * [Bodies, rompers & combinations](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/bodies-rompers-combinations)
+        * [Crawling blankets & sleeping bags](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/crawling-blankets-sleeping-bags)
+        * [Long and short sleeve T-shirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/long-and-short-sleeve-t-shirts)
+        * [Hats & scarves & neckerchief](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/hats-scarves-neckerchief)
+        * [Snow clothing](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/snow-clothing)
+        * [Pants & Jeans](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86/pants-jeans)
         
-        * [Limited Edition Animals](https://www.steiffusa.com/en-us/collector-s-showcase/collectible-animals/limited-edition-animals)
-        * [Classic Collection](https://www.steiffusa.com/en-us/collector-s-showcase/collectible-animals/classic-collection)
-        * [Studio Animals](https://www.steiffusa.com/en-us/collector-s-showcase/collectible-animals/studio-animals)
+        [more](https://www.steiffusa.com/en-us/i/baby-kids-fashion/baby-boys-size-50-86)
         
-    * [Licensed Collaborations](https://www.steiffusa.com/en-us/collector-s-showcase/licensed-collaborations)
+    * [Child girls (size 92-128)](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128)
         
-        * [Disney](https://www.steiffusa.com/en-us/collector-s-showcase/licensed-collaborations/disney)
-        * [Swarovski](https://www.steiffusa.com/en-us/collector-s-showcase/licensed-collaborations/swarovski)
+        * [Sweat Jackets & Sweatshirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/sweat-jackets-sweatshirts)
+        * [Jackets & Coats](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/jackets-coats)
+        * [Long and short sleeve T-shirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/long-and-short-sleeve-t-shirts)
+        * [Dresses & Skirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/dresses-skirts)
+        * [Pants & Jeans](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/pants-jeans)
+        * [Sweater & Knitwear](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/sweater-knitwear)
+        * [Hats & Scarves](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128/hats-scarves)
+        
+        [more](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-girls-size-92-128)
+        
+    * [Child boys (size 92-128)](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128)
+        
+        * [Sweat Jackets & Sweatshirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/sweat-jackets-sweatshirts)
+        * [Jackets & Coats](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/jackets-coats)
+        * [Long and short sleeve T-shirts](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/long-and-short-sleeve-t-shirts)
+        * [Pants & Jeans](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/pants-jeans)
+        * [Sweater & Knitwear](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/sweater-knitwear)
+        * [Hats & Scarves](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/hats-scarves)
+        * [Socks & Tights](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128/socks-tights)
+        
+        [more](https://www.steiffusa.com/en-us/i/baby-kids-fashion/child-boys-size-92-128)
+        
+    * [Autumn Winter Collection](https://www.steiffusa.com/en-us/i/baby-kids-fashion/autumn-winter-collection)
+        
+        * [Baby girls](https://www.steiffusa.com/en-us/i/baby-kids-fashion/autumn-winter-collection/baby-girls)
+        * [Baby boys](https://www.steiffusa.com/en-us/i/baby-kids-fashion/autumn-winter-collection/baby-boys)
+        * [Children girls](https://www.steiffusa.com/en-us/i/baby-kids-fashion/autumn-winter-collection/children-girls)
+        * [Children boys](https://www.steiffusa.com/en-us/i/baby-kids-fashion/autumn-winter-collection/children-boys)
+        
+    * [SALE](https://www.steiffusa.com/en-us/i/baby-kids-fashion/sale)
+        
+        * [Baby girls](https://www.steiffusa.com/en-us/i/baby-kids-fashion/sale/baby-girls)
+        * [Baby boys](https://www.steiffusa.com/en-us/i/baby-kids-fashion/sale/baby-boys)
+        * [Children girls](https://www.steiffusa.com/en-us/i/baby-kids-fashion/sale/children-girls)
+        * [Children boys](https://www.steiffusa.com/en-us/i/baby-kids-fashion/sale/children-boys)
+        
+    
+* [Exclusive world of collectors](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors)
+    
+    * [New items](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/new-items)
+        
+        * [Limited edition](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/new-items/limited-edition)
+        * [Classic Collection](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/new-items/classic-collection)
+        
+    * [Teddy bears](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/teddy-bears)
+        
+        * [Limited edition](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/teddy-bears/limited-edition)
+        * [Classic Collection](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/teddy-bears/classic-collection)
+        
+    * [Animals](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/animals)
+        
+        * [Limited edition](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/animals/limited-edition)
+        * [Classic Collection](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/animals/classic-collection)
+        * [Studio Pets](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/animals/studio-pets)
+        
+    * [Cooperations](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/cooperations)
+        
+        * [Disney](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/cooperations/disney)
+        * [Swarovski](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/cooperations/swarovski)
+        
+    * [Collector´s Special](https://www.steiffusa.com/en-us/i/exclusive-world-of-collectors/collector-s-special)
         
     
 * [The World of Steiff](https://corporate.steiff.com/en/)
@@ -207,8 +276,8 @@ Company
 
 * [Company History](https://corporate.steiff.com/en/company/history/)
 * [Steiff Craftmanship](https://corporate.steiff.com/en/company/manufacture/)
-* [Become a Retailer](https://www.steiffusa.com/en-us/i/become-a-steiff-retailer)
-* [Steiff Club](https://www.steiffusa.com/en-us/i/steiff-club-usa)
+* [Become a Retailer](https://www.steiffusa.com/i/become-a-steiff-retailer)
+* [Steiff Club](https://www.steiffusa.com/i/steiff-club-usa)
 
 Popular Categories
 
@@ -219,18 +288,18 @@ Popular Categories
 
 Contact & Legal
 
-* [Contact Us](https://www.steiffusa.com/en-us/i/contact-usa)
-* [Shipping & Returns](https://www.steiffusa.com/en-us/i/shipping-information-us)
-* [Terms of Use](https://www.steiffusa.com/en-us/i/gtc)
-* [Privacy Notice](https://www.steiffusa.com/en-us/i/online-policy)
-* [Privacy Notice for CA Residents](https://www.steiffusa.com/en-us/i/privacy-notice-for-california-residents)
-* [Online Policy](https://www.steiffusa.com/en-us/i/online-policy)
+* [Contact Us](https://www.steiffusa.com/i/contact-usa)
+* [Shipping & Returns](https://www.steiffusa.com/i/shipping-information-us)
+* [Terms of Use](https://www.steiffusa.com/i/gtc)
+* [Privacy Notice](https://www.steiffusa.com/i/online-policy)
+* [Privacy Notice for CA Residents](https://www.steiffusa.com/i/privacy-notice-for-california-residents)
+* [Online Policy](https://www.steiffusa.com/i/online-policy)
 
 Shipping partner
 
 Pay with:
 
-[![To the Steiff homepage](/assets/logos/logo-bear.svg)](https://www.steiffusa.com/en-us)
+[![To the Steiff homepage](/assets/logos/logo-bear.svg)](https://www.steiffusa.com/)
 
 © 2024 Steiff North America Online Shop
 
