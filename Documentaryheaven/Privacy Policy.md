@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Australia’s Front Line](/wp-content/thumbnails/6862-100x70.png?x53432)
+* [![Technology: World War 2.0](/wp-content/thumbnails/2569-100x70.jpg?x53432)
     
-    Australia’s Front Line
+    Technology: World War 2.0
     
-    Taking viewers behind-the-scenes of Australia’s Immigration, Customs and Quarantine departments.](https://documentaryheaven.com/australias-front-line/ "Australia’s Front Line")
-* [![The Truth about Street Weapons](/wp-content/thumbnails/6847-100x70.jpg?x53432)
+    Josh Davis of Wired magazine investigates an internet botnet attack of Estonia’s banks and newspapers. Wired Science reports on cardiac surgery performed by a “robo-doc”. Adam Rogers explores the di](https://documentaryheaven.com/technology-world-war-2-0/ "Technology: World War 2.0")
+* [![Curiosity: Mission To Mars](/wp-content/thumbnails/6726-100x70.jpg?x53432)
     
-    The Truth about Street Weapons
+    Curiosity: Mission To Mars
     
-    2008 has seen a staggering number of teenage gang and knife attacks on Britain's streets with a death toll comparable to that of our troops fighting in Afghanistan and Iraq.Dr Tunje Lasoye, Head o](https://documentaryheaven.com/the-truth-about-street-weapons/ "The Truth about Street Weapons")
-* [![The Truth of Troy](/wp-content/thumbnails/7655-100x70.jpg?x53432)
+    Horizon goes behind the scenes at NASA as they countdown to the landing of a 2.5 billion-dollar rover on the surface of Mars. In six days time, the nuclear-powered vehicle - the size of a car - will b](https://documentaryheaven.com/curiosity-mission-to-mars/ "Curiosity: Mission To Mars")
+* [![Deir Yassin Remembered](/wp-content/thumbnails/2211-100x70.jpg?x53432)
     
-    The Truth of Troy
+    Deir Yassin Remembered
     
-    It’s one of the greatest stories ever told. The legend of Helen of Troy has enchanted audiences for the last three thousand years. In May this year a Hollywood film staring Brad Pitt and Orlando Bloom](https://documentaryheaven.com/truth-of-troy/ "The Truth of Troy")
-* [![Life Inside The Colony](/wp-content/thumbnails/7904-100x70.jpg?x53432)
+    Early in the morning of April 9, 1948, commandos of the Irgun (headed by Menachem Begin) and the Stern Gang attacked Deir Yassin, a village with about 750 Palestinian residents. The village lay outsid](https://documentaryheaven.com/deir-yassin-remembered/ "Deir Yassin Remembered")
+* [![The Dream Team](/wp-content/thumbnails/9247-100x70.jpg?x53432)
     
-    Life Inside The Colony
+    The Dream Team
     
-    Ant colonies are one of the wonders of nature - complex, organised and mysterious. This programme reveals the secret, underground world of the ant colony in a way that's never been seen before. At its](https://documentaryheaven.com/life-inside-colony/ "Life Inside The Colony")
-* [![Heroin: Addicted to the Devil](/wp-content/thumbnails/8158-100x70.jpg?x53432)
+    To celebrate the 20th anniversary of the 1992 American Olympic team, The Dream Team, which to this day is considered one of the greatest sporting teams ever assembled, NBA TV created this documentary](https://documentaryheaven.com/dream-team/ "The Dream Team")
+* [![The Miracle of Bali: Night](/wp-content/thumbnails/4184-100x70.jpg?x53432)
     
-    Heroin: Addicted to the Devil
+    The Miracle of Bali: Night
     
-    Heroin is an opioid drug that is synthesized from morphine, a naturally occurring substance extracted from the seed pod of the Asian opium poppy plant. Heroin usually appears as a white or brown powde](https://documentaryheaven.com/heroin-addicted-to-the-devil/ "Heroin: Addicted to the Devil")
+    Episode 2. NightThis episode covers the animistic rituals and festivals of Bali, officially Hindu, but with origins in ancient ceremonials practised long before Hinduism came to the island. It opens](https://documentaryheaven.com/the-miracle-of-bali-night/ "The Miracle of Bali: Night")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
