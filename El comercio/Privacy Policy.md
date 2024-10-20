@@ -31,17 +31,295 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Embajadas, no elegibles & corruptos
+===================================
+
+EE. UU. negó la entrada a Correa, Glas y sus familias por corrupción, ligada a la condena de Carlos Pólit.
+----------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+La reciente decisión del **Departamento** de **Estado** de los **Estados Unidos**, expresada a través de su **Embajada en el Ecuador,** en el sentido de que, no son elegibles para ingresar a dicho país,  Correa y Glas, así como sus **respectivas familias**, no debe interpretarse como **retiro de las visas,** sino más bien, como una meditada, sustentada e **importante decisión** mediante la cual los **Estados Unidos** se anticipa públicamente en expresar e informar su negativa de conceder visa a las personas aludidas. Las razones  de tal **decisión**, es por estar relacionados ambos **mandatarios** con graves asuntos de **corrupción** durante el **desempeño** en sus funciones.
+
+Dicha soberana **decisión** de estado, es sin duda una vergonzante **sanción moral** ante el mundo, la misma que probablemente tendría que ver con la reciente sentencia en contra del **ex Contralor Carlos Pólit**, sentenciado por el delito de **lavado de activos** en USA, utilizando para el efecto los dineros sucios obtenidos por coimas durante los gobiernos de Correa, condena dada en **corte norteamericana**, ajena al cacareado Lawfare del revolucionario **socialismo siglo XXI**, con lo cual se derrumba dicha teoría, aplastada por la verdad y por la **historia**.
+
+No debemos descartar la posibilidad en el sentido de que, a cambio de alguna **bondad judicial**,  Pólit haya llegado a un **acuerdo de cooperación** con la justicia norteamericana y, por ende, haya realizado **declaraciones** que involucren seriamente a Correa y a Glas. De igual manera, la extensión de esta suerte de **sanción pública,** se haría extensiva a sus familiares, quizás  en razón de que uno de los implicados en el **lavado de activos**, sería uno de los hijos del condenado Pólit. Es decir, lo dado es un claro y certero mensaje del **gobierno estadounidense,** en el sentido de que, dichos **personajes** no son bienvenidos, que en su país no están abiertas las puertas para **corruptos**, ni para **potenciales actividades** que pudieran realizar familiares de aquellos.
+
+USA ya se ha pronunciado en el pasado con actos similares, por ejemplo, con el retiro de la visa al expresidente de Colombia E. Samper por sus **relaciones con el narcotráfico;**  el retiro de la visa a los expresidentes y allegados, tanto de Guatemala  Alejandro Giammattei como  del Paraguay Horacio Cartes, incluso a Abdalá Bucaram (pese a no tener **sentencia condenatoria**) al considerarlo  no elegible para ingresar; y, a Verónica Abad, actual vicepresidenta, con el retiro de la visa, según fuentes periodísticas. Cabe indicarse que tanto Giammattei cuanto Cartes tienen **tendencia política de derecha**, lo cual deja claro que no se trata de una **retaliación ideológica**, sino de un  frontal ataque a los actos de **corrupción de las altas esferas políticas.**
+
+Lo dado, en buena hora, da un espaldarazo importante a la **situación del Ecuador** en el concierto internacional frente al ingreso de la Embajada de México en Quito el viernes 5 de abril, dejando muy mal parados frente al mundo, a **Correa**  y al gobierno mexicano del expresidente AMLO. Adicionalmente, más allá de la sanción moral, la razón del **gobierno estadounidense** no deja duda de los actos de corrupción de los implicados; y, por ende, deriva por interpretación extensiva el considerar el carácter de guarida a la **embajada mexicana** ocupada en su momento por un **delincuente** sentenciado. Sin perjuicio, de la **situación incómoda** en la que deja dicha **decisión**, en lo internacional, a **Bélgica** y  a la Interpol que se ha negado a **activar la difusión roja** y por ende a  ejecutar la **captura internacional** en contra de Correa;  y, en lo local, a algunos **ecuatorianos** que se pronunciaron en contra del ingreso, no por apoyar a Correa, pese a que de alguna manera se alinearon a su tesis del asalto, enredándose estos  en los formalismos y **protocolos diplomáticos**, sin entender ni llegar a ver la esencia de la situación, esto es, la recta intención de no permitir la potencial fuga y por ende **impunidad** de un sentenciado por **corrupción** y **prófugo** a la época, alojado en la embajada de dicho país, a fin de abusando y mal utilizando la **institución** del asilo político y solapado por AMLO, pretendía evadir flagrantemente la **justicia ecuatoriana**.
+
+Que esto sirva de **reflexión** para muchos.
+
+Quito, la capital de los solteros
+=================================
+
+En Quito, 42,5% de la población se identifica como soltera. La búsqueda de autonomía y desarrollo personal marca una nueva era.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Los solteros priorizan sus estudios y su desarrollo profesional. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Solteros.jpeg)
+
+Quito se convierte en la capital de los solteros. Más personas priorizan su autonomía y desarrollo personal. También posponen el matrimonio u optan por la unión libre sin hijos.
+
+El censo de 2022 revela que el 42,5% de la población se identifica como soltera. Este porcentaje supera al 34% de casados y al 11,9% de personas unidas.
+
+Más noticias
+------------
+
+* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
+
+La cifra es aún mayor en la zona urbana, donde los solteros alcanzan el 43,3%. Además, Quito presenta una proporción más alta de solteros que Guayaquil.
+
+Rodrigo Vega, de 40 años y licenciado en comunicación, trabaja en una empresa de eventos. “No tengo planes de casarme. Disfruto de mi estilo de vida. Puedo viajar y disfrutar de mi tiempo. Tener hijos es una gran responsabilidad. No deseo depender de nadie ni que alguien dependa de mí”. Rodrigo se siente feliz sin hijos y no ve la paternidad como una necesidad. Aunque no está cerrado al matrimonio.
+
+El aumento de matrimonios en Quito es moderado. Entre 2013 y 2023, las nupcias crecieron un 4,8%. La edad promedio para casarse ha aumentado considerablemente. En 1997, los hombres se casaban a los 27 y las mujeres a los 24. Para 2022, estas cifras subieron a 35 y 32 años, respectivamente.
+
+Shirley Vallejo, funcionaria pública de 30 años, comenta: “No tengo un deseo fuerte de tener hijos. Disfruto de mi autonomía. Viví en el extranjero y estoy abierta a nuevas oportunidades laborales”. Ella prefiere enfocarse en su desarrollo personal, incluyendo un futuro doctorado.
+
+Las dinámicas familiares han cambiado
+-------------------------------------
+
+La composición familiar ha cambiado. El último [censo](https://www.censoecuador.gob.ec/resultados-censo/ "https://www.censoecuador.gob.ec/resultados-censo/") reportó 155 513 hogares unipersonales, representando el 18% del total. La mayoría de estos hogares son de hombres (54%).
+
+Shady Heredia, veterinaria y activista por los derechos de los animales de 35 años, vive con su novio y no planean casarse ni tener hijos. “Creemos que no nos genera ningún beneficio. Desde los 17 años dije que no veía mi futuro con hijos; quería estudiar, trabajar y viajar”. Esta idea con el paso del tiempo se ha reforzado. Aunque ha tenido discusiones familiares, afirma que “no se puede tomar esta decisión de forma irresponsable o por presiones”.
+
+Shady señala que para tener un hijo hay que tener condiciones económicas y de salud que deben estar armonizadas. Su preocupación por el planeta también influye en su decisión: “Es problemático traer más vidas por las condiciones que necesitan. Prefiero perpetuar lo que puedo dar a las siguientes generaciones para que tengan una vida digna, sin preocupaciones por crisis de sequías e inundaciones”.
+
+El factor económico incide
+--------------------------
+
+La inestabilidad económica incide en las decisiones de permanecer o no soltero. Muchos jóvenes posponen el matrimonio y la formación de una familia debido a ingresos insuficientes.
+
+La tasa de subempleo, en Quito, se ubicó en 15%, mientras que la del desempleo es de 8,8%, en el segundo trimestre de este 2024.
+
+Uno de los rubros que se prioriza antes de casarse es el gasto de la vivienda. Según Marcus Da Fonseca, gerente de Marketing de Plusvalía, el costo de los alquileres en Quito tiene un incremento del 3,2% este año. Un departamento de dos habitaciones cuesta, en promedio, 508 dólares, mientras que uno de tres alcanza los 698 dólares mensuales.
+
+Cumbayá es la parroquia más cara, con un alquiler medio de 680 dólares al mes. Aunque los precios de venta han disminuido en un 1% este año, el costo por metro cuadrado se sitúa en 1 198 dólares, el mínimo histórico desde 2017, que registra Plusvalía.
+
+Un departamento de dos habitaciones tiene un valor promedio de 91 095 dólares y uno de tres habitaciones vale 120 362 dólares.
+
+La capital de los solteros refleja una transformación en las prioridades de su población, donde la búsqueda de autonomía y estabilidad se antepone a las tradiciones familiares.
+
+Cartas a Quito / 20 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este domingo 20 de octubre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Monopolios y competencia desleal en el mercado ecuatoriano.
+-----------------------------------------------------------
+
+En Ecuador, los monopolios y la competencia desleal constituyen barreras económicas y equitativas. Cuando unas pocas empresas dominan el mercado, esto repercute negativamente en la innovación, y los consumidores se quedan atrapados en una situación poco esperanzadora, ya que tienen productos caros y escasas opciones. Las pequeñas tiendas tienen problemas para entrar y competir. Esta situación provoca que estas pequeñas tiendas no puedan crecer y crear nuevos puestos de trabajo. Por lo tanto, es importante tener normas más robustas en Ecuador con el fin de conseguir una competencia justa, dicho de otra manera: asegurar que todas las empresas tengan la oportunidad de crecer y competir sin ser explotadas. Necesitamos un entorno de trabajo más justo en el que no usen métodos sucios para ganar a la competencia como bajar los precios demasiado o hacer supuestos descuentos en áreas específicas de comida.
+
+Valentina Mikaela Barahona Mora
+
+Los “No. 1” son iguales como todo su partido  
+----------------------------------------------
+
+Más-menos: ateos, engañadores, narcisistas, hedonistas, corruptos, mafiosos, fascistas, narcos, guerrilleros, montoneros, tiranos, criminales, títulos falsos, tecnócratas, ambicionan dinero y poder, millonarios-capitalistas robándole a sus Pueblos, etc. “Lula con la perla de que la narco-criminal-torturadora-fraudulenta Madurozuela no es una dictadura”. Lula llegó con fraude, prohibido denunciarlo porque van presos en Brasilzuela. Cipayos de China, Rusia, Irán… y la Europa Zurda: J. L. R. Zapatero, Sheinbaum con fraude (AMLO metió mano en el “INE” en 2023), Fidel, Raúl, Correa, Glas, Patiño, Borja, Polit, Zelaya, Xiomara, Diaz-Canel, Chávez, Maduro, Diosdado, Padrino, Saab, Ortega, Dilma, Insulza, Evo, Arce, Petro (Constitucionalmente, examinan dineros turbios en su campaña, ¿cómo son intocables acusa un golpe de Estado?), Boric, Castillo…, la excepción es Mujica, pero la riega con su apoyo ciego a los panas corruptos y criminales. El Maduro Light Sánchez, luego del informe de la Unidad Central Operativa (UCO), se sabe que lo llaman el “No. 1”, que destapa la corrupción de gobierno, partido, familia y ¿Madurozuela con Delcy y más de 40 maletas con oro para el reparto en España y Europa, salida de EGU sin reconocerlo, amnistía a separatistas con el silencio cómplice de la “UE”, etc.? Todos aprietan, amenazan y controlan la justicia, medios, partidos, fiscalía, policía…, para la impunidad y seguir en el poder. ¿Biden y zurdos no aprobarían USD 100M por la cabeza de Maduro, porque les vende petróleo y pactaron fiasco de Doha y Barbados? ¿Aprovecho para denunciar los “6” atentados de los regres locales y del mundo, más fraude contra **“EE. UU.”** en la persona de Trump?: T. M. Crooks, R. W. Routh, V. Miller, paquistaní vinculado con Irán, falla en su avión y el FBI alerta de posible atentado el “5N”. ¿Guerra en Europa, M. Oriente, las Coreas, Taiwán, etc.?
+
+Juan Carlos Cobo Rueda
+
+Miro su cruz y me pregunta ¿quién soy?
+--------------------------------------
+
+Desde mi niñez me aseguraron  que un ángel se le apareció a una virgen llamada María para anunciarle que había sido escogida para que de ella nazca el Hijo de Dios que salvaría al mundo. Que esta inmaculada concepción fue aceptada humildemente por María y su esposo José para ponerse al servicio de Su plan de  salvación  por intermedio de su Hijo encarnado, llamado Jesús. Me contaron que el niño vivió su niñez al cuidado de esa pareja santa y luego acompañado de Su madre, hasta que disidió manifestarse ante Sus hermanos judíos y los que no lo eran. Que fue en busca de personas de distinto oficio  a pedirles que Le acompañaran en su cometido de enseñar  el amor a Su Padre Dios y Sus prójimos y que para eso debían ser humildes como Él y ponerse como Él a su  servicio. Y lo hizo hablando de Su Padre, enseñándoles a orar, contestando con parábolas las inquietudes de los Suyos y de los que no Le aceptaban, haciendo prodigios para no solo aliviar los cuerpos, sino principalmente las almas. Me reiteraron que los que Le seguían eran muchos y creían en Él y que esto no les gustaba ni les convenía a los líderes judíos que Le combatían y Le perseguían y que estos al final se acercaron a un poder político cobarde y pidieron Su muerte y que este miedo también lo sintieron Sus más íntimos amigos a quienes había preguntado ¿Quién Soy yo? Los únicos que Lo acompañaron a Su muerte en cruz fueron Su madre, el apóstol Juan y Maria Magdalena, Su discípula y que antes de Su último suspiro pidió a Su Padre que perdonara a los que Le hicieron mal y a los que Le olvidaron y que todo lo que Su Padre le había  pedido, se cumplía.
+
+Y cada vez que miro Su Cruz, me pregunta ¿Quién Soy Yo? Yo, afirmo que Jesús es mi Dios y Salvador, que resucitó y volvió al seno del Padre Dios y del Espíritu Santo, y que Él es, el  camino, la verdad y la vida de todos.  Creo que dependo totalmente de Su misericordia y que  todo lo que me han enseñado es cierto.
+
+Alfredo Gallegos Chiriboga
+
+Turismo a las conquistas
+========================
+
+La pobreza en Latinoamérica, vinculada al saqueo colonial y la corrupción actual
+--------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Demando que Luis Beltrán Pantoja Calvo, **alcalde de la Ciudad Imperial**: Cuzco, antigua capital del Imperio Inca, pida perdón al **presidente de Ecuador** por la **conquista** y **destrucción** de nuestras **culturas ancestrales**, que ejecutaron sus ejércitos genocidas contra los pueblos de nuestra nación, hace 600 años. Por el **etnocidio brutal**, por la **imposición** violenta del **idioma quichua** y la destrucción de nuestros lenguajes nativos, habiendo sobrevivido apenas 2 en la Costa: el Awapít y Tsa´fiqui; y 11 en la Amazonía donde las huestes imperialistas no pudieron ingresar.
+
+También exijo que se retiren de **sitios públicos** los monumentos a Atahualpa: último “emperador” inca y elimínenos la expresión “Pachamama” que representa el dominio cultural y espiritual de los **invasores** sobre las **generaciones ecuatorianas** actuales que hablan este **idioma extranjero**.
+
+También reclamo que se eliminen los **nombres geográficos bautizados** con vocablos de los **conquistadores** y se ponga una placa en la **laguna de Yaguarcocha**, en protesta por la masacre de 40.000 de los nuestros, degollados por los **invasores** del sur.
+
+Entiendo al compañero Manuel López Obrador, expresidente de México, a quien los reyes de España no le pidieron perdón, por la **colonización** de hace 500 años que terminó con **imperios locales** que devoraban los **cadáveres** de sus víctimas. Y que terrible que la primera biblia en idioma náhuatl se tradujo en el siglo XVI cuando más del 50 por ciento de la **población de la América hispana** era indígena y fue reducida al actual 7%, a partir de que se constituyeron las **actuales repúblicas,** siendo los libertadores los que prohibieron los **idiomas nativos** y masacraron a todos quienes fueron fieles a la **nueva España**.
+
+También entiendo que la **actual pobreza** de todas nuestras naciones es por culpa de las 200 toneladas de oro que se llevaron los españoles en los 3 siglos que gobernaron y que hoy equivaldrían a 12 000 millones de dólares, la misma cantidad que en **Ecuador**, el gobierno de su amigo Rafael Correa, gastó en apenas aplanar un terreno para una **refinería** que nunca se construyó.
+
+Comprendo que la **pobreza heredada**, ha hecho que durante los últimos 200 años nos hundamos en una corrupción galopante de la **clase política**, de todos los actuales gobiernos que han sido permeados por el **narcotráfico**, la **minería ilegal** y la **trata de personas**, que no existirían si no nos hubiesen invadido hace 500 años.
+
+Finalmente, doy la razón a la actual presidente de México: Claudia Sheinbaum y para la próxima posesión de un **presidente ecuatoriano**, en nombre de la ¡Dignidad de la Patria! No se invitará al alcalde de Cuzco.  
+
+¿Quito planifica sus riesgos? Esto dicen expertos y la autoridad
+================================================================
+
+Quito es una ciudad propensa a riesgos según dicen los expertos. El Municipio afirma que tiene varios planes de contingencia para atender las emergencias.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Quito se vio afectada por las lluvias y los incendios.](https://www.elcomercio.com/wp-content/uploads/2024/10/Riesgos-en-Quito.jpg)
+
+**Quito** enfrenta múltiples **riesgos** debido a su **geografía**, la acción **humana** y el **cambio** **climático**. En solo una semana se registraron 12 **incendios forestales**, el más grave en **Guápulo**, donde se afectaron varias viviendas[.](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_riesgos "https://es.wikipedia.org/wiki/Gestión_de_riesgos")
+
+Más noticias
+------------
+
+* [Taxista que provocó incendio forestal en Quito recibió medidas cautelares](https://www.elcomercio.com/actualidad/quito/taxista-formulacion-cargos-incendios-forestales-quito.html "Taxista que provocó incendio forestal en Quito recibió medidas cautelares")
+* [Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal](https://www.elcomercio.com/actualidad/quito/vecinos-bolanos-quito-levantan-tres-semanas-incendio.html "Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal")
+* [¿Es suficiente con reaccionar ante una emergencia en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/reaccionar-ante-emergencia-ecuador.html "¿Es suficiente con reaccionar ante una emergencia en Ecuador?")
+
+A inicios de octubre, las lluvias provocaron el **desbordamiento** de un río en el sur de la ciudad, lo que reveló la vulnerabilidad de la infraestructura.
+
+**Cristian** **Rivera**, experto en **riesgos**, señala que la **geografía y topografía de Quito** la hacen propensa a incendios, deslaves, erupciones volcánicas y siniestros de tránsito.
+
+Incendios forestales: la amenaza del verano
+-------------------------------------------
+
+Cada año, **Quito** enfrenta incendios forestales por la vegetación seca durante la sequía. En la última semana de septiembre se registraron 12, siendo el de **Guápulo** el más grave.
+
+**Rivera** explica que la **topografía montañosa** dificulta el acceso de los **bomberos** y que los vientos y la vegetación seca aceleran el **fuego**. Las quemas de basura agravan la situación. El **Cuerpo de Bomberos** realiza campañas de concientización, pero se necesita mayor inversión en prevención y respuesta.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendio-forestal-Guapulo-1024x683.jpg)
+
+El incendio de Guápulo dejó varias casas afectadas. Foto: Diego Pallero / EL COMERCIO.
+
+Deslaves: un riesgo real con las lluvias
+----------------------------------------
+
+Con las lluvias, los deslaves son una **amenaza**. Zonas afectadas por **incendios** y la **deforestación** aumentan el riesgo. **Rivera** advierte que los asentamientos en quebradas empeoran las **consecuencias**.
+
+Un ejemplo es el **desbordamiento** de un río en el sur y el deslave de 2021 en **La Comuna.** Aunque el **Municipio** limpia quebradas para mitigar el riesgo, estos esfuerzos no son suficientes.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Deslaves-en-Quito-1024x683.jpg)
+
+Personal del Municipio de Quito limpia la huella del desbordamiento de un río en el sur de la ciudad. Foto: Julio Estrella / EL COMERCIO. 
+
+Erupciones volcánicas: una amenaza constante
+--------------------------------------------
+
+**Quito** está rodeada por volcanes activos como el **Pichincha** y el **Cotopaxi**. Aunque el **Cotopaxi** ha mostrado actividad, la ciudad debe prepararse para una posible **erupción**. La caída de ceniza afectaría la **salud y el tráfico aéreo.**
+
+Los **planes de evacuación** y la información a la población son cruciales, pero **Rivera** señala que las campañas deben ser más efectivas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Cotopaxi--1024x683.jpg)
+
+La actividad del volcán Cotopaxi es monitoreado constantemente por el Instituto Geofísico. Foto: IG. 
+
+Siniestros de tránsito: un problema constante
+---------------------------------------------
+
+Además de los riesgos naturales, Quito sufre por los **siniestros de tránsito**. El aumento del parque automotor y la imprudencia generan muchos **siniestros**. El mal estado de las vías y la falta de señalización agravan el problema.
+
+El cabildo, en colaboración con **Bloomberg**, realiza **controles de velocidad**. Sin embargo, los accidentes siguen siendo frecuentes, lo que requiere más **educación vial y control.**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Siniestro-de-transito-1024x683.jpg)
+
+Los siniestros de tránsito ocurren con regularidad en Quito. Foto: X. 
+
+Un fuerte sismo: el mayor riesgo para Quito
+-------------------------------------------
+
+Patricia Carrillo, directora de Gestión de Riesgos de Quito, señaló a EL COMERCIO que el mayor peligro que enfrenta la ciudad es un **sismo de gran magnitud**. A diferencia de un movimiento en masa o una inundación, un sismo es altamente destructivo y causa un daño considerable en cuestión de segundos.
+
+Carrillo explicó que, dependiendo del área afectada, un **sismo** de gran magnitud puede causar más daño que un año de lluvias intensas.
+
+Rivera dice que un fuerte sismo superficial en hora pico sería falta para la ciudad. Aunque hay lugares de la ciudad que son más vulnerables, como en el **Centro Histórico de Quito**, o en Solanda, donde hay un historial de debilitamiento del suelo por el paso del Metro.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/SIsmo-en-Quito-1024x683.jpg)
+
+Un sismo de magnitud 4.2 ocurrió en Quito el 23 de noviembre de 2021. Foto: Archivo / EL COMERCIO. 
+
+¿Quito trabaja en la prevención de riesgos?
+-------------------------------------------
+
+Cristopher Velasco, experto en riesgos, destaca la importancia de integrar la **gestión de riesgos** en la **planificación** **urbana**.
+
+Señala que es crucial trabajar en la **percepción del riesgo** de la ciudadanía para desarrollar programas más efectivos.
+
+Recalca que los riesgos no se solucionan solo con **simulacros**, sino con **planificación territorial**. Es necesario optimizar recursos y articular la reducción de riesgos con el desarrollo.
+
+Finalmente, subraya que la **gestión de riesgos** debe enfocarse en la **prevención** y **preparación**, generando evidencia para **decisiones anticipadas** y promoviendo una mejor conducta social.
+
+Patricia Carrillo, directora de **Gestión de Riesgos** de Quito, afirma que el **Municipio** tiene varios planes de **contingencia**, pero reconoce que hace falta una **política pública de prevención.** Actualmente, trabajan en la creación de esta con base en la normativa existente.
+
+Cómo trabaja el Municipio ante una emergencia
+---------------------------------------------
+
+El **Plan Metropolitano de Respuesta** incluye protocolos para enfrentar incidentes, emergencias y desastres. Según la magnitud de la emergencia, como ocurrió con el incendio de **Guápulo**, se activa el **COE** **Cantonal** para determinar si se necesita apoyo del **Gobierno Nacional.**
+
+**Patricia** **Carrillo** explicó que Quito se construyó de manera desorganizada, sin considerar los riesgos. Existen casas cerca de laderas, zonas propensas a incendios forestales y deslaves. Además, muchas vías son angostas y carecen de veredas.
+
+Históricamente, la población construía cerca de ríos, ya que estos representaban vida, sin considerar los **riesgos**. Esto ha generado **asentamientos desordenados** y problemas de **planificación territorial**.
+
+En cuanto a las vías estrechas, el **Cuerpo de Bomberos** ha realizado estudios y cuenta con vehículos especializados para atender **emergencias** en estas áreas. Además, la Agencia Metropolitana de Tránsito (**AMT**) coordina el cierre de vías para facilitar el paso de **vehículos de emergencia.**
+
+En cuanto a la prevención, se busca que la **población** reconozca los **riesgos** y aprenda a **protegerse**. De esta manera, se espera reducir el número de víctimas y mejorar la respuesta ante **emergencias**.
+
+Esto, porque es imposible controlar el comportamiento de la **naturaleza**, pero con los trabajos de prevención se pueden **reducir los daños.**
+
+A Quito le hace falta aplicar los planes de prevención
+------------------------------------------------------
+
+Cristopher Velasco mencionó que **Quito** cuenta con varios planes de contingencia, pero el problema radica en que han sido elaborados por consultorías, lo que impide que las autoridades conozcan completamente los procesos.
+
+Aclara que no es un problema que una **consultoría** realice los planes, siempre que los técnicos del **Municipio** sepan cómo ejecutarlos. Además, subraya que estos planes deben alinearse con los ordenamientos municipales, en especial con el Plan de Uso y Gestión del Suelo (**PUGS**) de Quito, para asegurar su integración con el ordenamiento territorial.
+
+Cree que el **Municipio** piensa más en la respuesta que en la **prevención**, esto porque la ordenanza de **Gestión de Riesgos** es reactiva.
+
+Lo que se debe reconocer, según Velasco, es que **Quito** tiene una buena capacidad de **reacción**, tanto en **personal**, **tecnología** y **economía**.
+
+Christian Rivera dice que **Quito** cuenta con algunos planes de **prevención** que están en diferentes entidades del **Municipio**, pero que con las nuevas administraciones no se han actualizado.
+
+Lo que tiene que hacer el Municipio es actualizarlos y ejecutarlos, afirma el experto en riesgos.
+
+Lionel Messi y Leonardo Campana estarán en el Mundial de Clubes
+===============================================================
+
+El Inter de Miami de Leonardo Campana y Lionel Messi estará en el Mundial de Clubes de 2025 por invitación del país organizador.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Leonardo Campana celebrando con Lionel Messi luego de anotar un golazo en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/messi-campana.png)
+
+El presidente de la FIFA, **Gianni Infantino**, anunció este sábado que el Inter Miami de Lionel Messi participará en el Mundial de Clubes de 2025.
+
+Infantino acudió este sábado al Chase Stadium del **Inter Miami**, que este sábado goleó por 6-2 a New England Revolution.
+
+### Más noticias:
+
+* [Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15](https://www.elcomercio.com/deportes/leonardo-campana-seleccion-ecuador-sub-15.html "Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15")
+* [Leonardo Campana sueña con ser artista](https://www.elcomercio.com/deportes/futbol/leonardo-campana-suena-con-ser-artista.html "Leonardo Campana sueña con ser artista")
+* [Kamala Harris hará campaña junto a Barack y Michelle Obama en estados clave](https://www.elcomercio.com/actualidad/mundo/kamala-harris-hara-campana-junto-barack-michelle-obama-estados-clave.html "Kamala Harris hará campaña junto a Barack y Michelle Obama en estados clave")
+
+“**Debido a esta asombrosa actuación en este año, merecen estar y estarán en el Mundial de Clubes de 2025**“, dijo Infantino a la afición de Inter Miami.
+
+El presidente de la FIFA también detalló que el **Inter Miami** jugará el partido inaugural de este nuevo torneo en el Hard Rock Stadium de la ciudad de Florida.
+
+El equipo que dirige **Gerardo Martino** ya había conquistado de forma matemática a comienzos de octubre el MLS Supporters’ Shield, que premia al mejor equipo de la temporada regular en la MLS.
+
+¿Cuándo jugarán Messi y Campana el Mundial de Clubes?
+-----------------------------------------------------
+
+El **Mundial de Clubes** ampliado de la FIFA, que se estrenará en el verano de 2025, tenía una plaza en el aire que correspondía por invitación a Estados Unidos, el país organizador.
+
+La FIFA eligió al Inter Miami tras una excepcional temporada con 20 goles y 16 asistencias de Messi en solo 19 partidos y otros 20 tantos del delantero uruguayo **Luis Suárez**.
+
+Con el boleto para el Inter Miami que correspondía al país anfitrión, solo queda por saber el último equipo para el Mundial de Clubes, que será el ganador de la **Copa Libertadores** de 2024.
+
+La primera edición del nuevo **Mundial de Clubes** de la FIFA se jugará del 15 de junio al 13 de julio de 2025 con la participación de 32 equipos procedentes de los cinco continentes. En total se jugarán 63 partidos en 12 sedes diferentes. 
+
 La Selección de Ecuador queda subcampeona del Sudamericano Sub-15
 =================================================================
 
-La Selección de Ecuador se mide a Paraguay busca el título en la final del Sudamericano Sub-15 en Bolivia.
-----------------------------------------------------------------------------------------------------------
+La Selección de Ecuador se midió a Paraguay en busca del título del Sudamericano Sub-15 y perdió por penales.
+-------------------------------------------------------------------------------------------------------------
 
 ![La Selección de Ecuador en el partido final del Sudamericano Sub-15 ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000147955.jpg)
 
-La **Selección de Ecuador** se enfrenta a Paraguay en el Sudamericano Sub-15 con el objetivo de conseguir un triunfo histórico. A partir de las 18:30 de este sábado 19 de octubre del 2024, el equipo juvenil busca levantar el título del torneo.
+La **Selección de Ecuador** se enfrentó a Paraguay en el Sudamericano Sub-15 con el objetivo de conseguir un triunfo histórico. A partir de las 18:30 de este sábado 19 de octubre del 2024, el equipo juvenil buscó levantar el título del torneo, pero cayó en penales.
 
-Después de una agónica clasificación en las semifinales, el elenco que dirige Juan Carlos Burbano busca convertirse en el segundo equipo nacional en la historia en conseguir un trofeo oficial. Antes, la Tri Sub-20 lo hizo en el 2019.
+Después de una agónica clasificación en las semifinales, el elenco que dirige **Juan Carlos Burbano** buscaba convertirse en el segundo equipo nacional en la historia en conseguir un trofeo oficial. Antes, la Tri Sub-20 lo hizo en el 2019.
 
 ### Más noticias:
 
@@ -49,9 +327,9 @@ Después de una agónica clasificación en las semifinales, el elenco que dirige
 * [¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?](https://www.elcomercio.com/deportes/futbol/a-que-hora-juega-la-seleccion-de-ecuador-la-final-del-sudamericano-sub-15.html "¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?")
 * [¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?](https://www.elcomercio.com/deportes/hora-ecuador-nigeria-mundial-sub-17.html "¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?")
 
-En su cotejo previo, la Selección de Ecuador Sub-15 pasó a la final gracias a la definición por penales, en la que se impuso por 4-2. Durante el tiempo reglamentario del compromiso, la escuadra igualó por un marcador de 3-3.
+En su cotejo previo, la **Selección de Ecuador Sub-15** pasó a la final gracias a la definición por penales, en la que se impuso por 4-2. Durante el tiempo reglamentario del compromiso, la escuadra igualó por un marcador de 3-3.
 
-Para el último partido, la escuadra llegó con un grupo consolidado de futbolistas y figuras como Riquelme Angulo y Justin Lerma. Asimismo, tan solo había caído en una oportunidad, frente a Venezuela en fase de grupos.
+Para el último partido, la escuadra llegó con un grupo consolidado de futbolistas y figuras como Riquelme **Angulo y Justin Lerma**. Asimismo, tan solo había caído en una oportunidad, frente a Venezuela en fase de grupos.
 
 Chances divididas para la Selección de Ecuador Sub-15 y Paraguay
 ----------------------------------------------------------------
@@ -124,6 +402,50 @@ A continuación, **los horarios de cortes de luz en la capital, establecidos por
 
   
 
+Jóvenes de Nueva Prosperina representarán a Ecuador en el Mundial de Robótica
+=============================================================================
+
+Un grupo de jóvenes competirá en el Mundial de Robótica con sus prototipos.
+---------------------------------------------------------------------------
+
+![Jóvenes trabajan en un prototipo de robot, en la ciudadela Nueva Prosperina, en Guayaquil. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Ninas.jpg)
+
+Desde Nueva Prosperina, uno de los sectores más peligrosos de Guayaquil, un grupo de jóvenes se prepara para el Mundial de Robótica. Ellos diseñaron y programaron sus propios prototipos. Este logro destaca en un barrio marcado por la violencia de bandas criminales.
+
+Más noticias
+------------
+
+* [Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños](https://www.elcomercio.com/deportes/futbol/marlon-chito-vera-futbol-ninos-guayaquil.html "Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños")
+* [Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social](https://www.elcomercio.com/actualidad/mundo/dos-mil-millones-mujeres-ninas-mundo-tienen-ninguna-proteccion-social.html "Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social")
+
+Valeria Sancán, una de las participantes, recuerda cómo su hermano mayor representó a Ecuador en un mundial hace siete años. Eso la inspiró a seguir sus pasos. Ahora, a sus 15 años, ya no sueña con ser chef. Su meta es programar y desarrollar prototipos en el campo de la informática y la robótica. “Esto demuestra que podemos dar lo mejor de nosotras”, afirma Valeria.
+
+Un viaje hacia el futuro
+------------------------
+
+En noviembre, Valeria y otras dos jóvenes, junto a tres adolescentes viajarán a Turquía para participar en las Olimpiadas Mundiales de Robótica. Este viaje es posible gracias al programa Innova de la organización Hogar de Cristo. Desde hace diez años, esta organización trabaja para reducir la brecha digital en este sector de Guayaquil.
+
+Valeria expresa su emoción: “Me siento nerviosa y feliz. Nunca pensé que me elegirían para esto”. Su madre, Soledad Vera, observa cómo su rendimiento escolar ha mejorado desde que Valeria ingresó al programa. “Ahora sobresale en sus clases”, asegura.
+
+Modelos a seguir
+----------------
+
+Andrea Quito, la más joven del equipo a sus 14 años, también se siente motivada. Antes quería ser doctora, pero ahora su interés se centra en la tecnología. “Hay más oportunidades en este campo”, comenta. Andrea busca ser una guía para otras niñas. “Me hace feliz poder darles consejos sobre lo que pueden lograr”, añade.
+
+Gandhy Sánchez, coordinador de Innova, destaca que este equipo participa en competencias desde 2015. Al inicio, la mayoría eran niños, pero el porcentaje de niñas ha aumentado. Actualmente, 90 niñas y 124 niños forman parte del programa.
+
+Superando barreras en un entorno violento
+-----------------------------------------
+
+Un estudio de la [Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/es "https://www.espol.edu.ec/es") revela que solo el 19 % de las mujeres ecuatorianas trabaja en ingeniería y áreas relacionadas. La situación es aún más complicada para las niñas de hogares de bajos ingresos. En Nueva Prosperina, las oportunidades se reducen.
+
+Este sector también enfrenta una alarmante tasa de violencia. En 2023, Nueva Prosperina reportó 114 muertes violentas por cada 100 mil habitantes. A pesar de este contexto, el programa Hogar de Cristo ofrece un espacio seguro y educativo. “Las niñas vienen y encuentran un lugar donde aprender habilidades”, concluye Sánchez.
+
+Un futuro esperanzador
+----------------------
+
+Las historias de Valeria y Andrea reflejan la lucha y la esperanza en medio de la adversidad. Estas niñas no solo compiten en robótica. Representan un cambio en la percepción de las oportunidades para las mujeres en tecnología en Ecuador. Su camino inspira a muchas a seguir sus sueños, sin importar su entorno.
+
 Cuándo y cómo ver la lluvia de meteoros Oriónidas 
 ==================================================
 
@@ -178,50 +500,6 @@ La **lluvia de meteoros Oriónidas** es un evento celestial fascinante que ofrec
 Aunque las condiciones en 2024 pueden no ser ideales debido a la luz lunar, sigue siendo un **fenómeno digno de observar**.  
 
 Con preparación y paciencia, los entusiastas pueden disfrutar de este espectáculo astronómico y compartir sus experiencias con otros. 
-
-Jóvenes de Nueva Prosperina representarán a Ecuador en el Mundial de Robótica
-=============================================================================
-
-Un grupo de jóvenes competirá en el Mundial de Robótica con sus prototipos.
----------------------------------------------------------------------------
-
-![Jóvenes trabajan en un prototipo de robot, en la ciudadela Nueva Prosperina, en Guayaquil. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Ninas.jpg)
-
-Desde Nueva Prosperina, uno de los sectores más peligrosos de Guayaquil, un grupo de jóvenes se prepara para el Mundial de Robótica. Ellos diseñaron y programaron sus propios prototipos. Este logro destaca en un barrio marcado por la violencia de bandas criminales.
-
-Más noticias
-------------
-
-* [Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños](https://www.elcomercio.com/deportes/futbol/marlon-chito-vera-futbol-ninos-guayaquil.html "Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños")
-* [Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social](https://www.elcomercio.com/actualidad/mundo/dos-mil-millones-mujeres-ninas-mundo-tienen-ninguna-proteccion-social.html "Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social")
-
-Valeria Sancán, una de las participantes, recuerda cómo su hermano mayor representó a Ecuador en un mundial hace siete años. Eso la inspiró a seguir sus pasos. Ahora, a sus 15 años, ya no sueña con ser chef. Su meta es programar y desarrollar prototipos en el campo de la informática y la robótica. “Esto demuestra que podemos dar lo mejor de nosotras”, afirma Valeria.
-
-Un viaje hacia el futuro
-------------------------
-
-En noviembre, Valeria y otras dos jóvenes, junto a tres adolescentes viajarán a Turquía para participar en las Olimpiadas Mundiales de Robótica. Este viaje es posible gracias al programa Innova de la organización Hogar de Cristo. Desde hace diez años, esta organización trabaja para reducir la brecha digital en este sector de Guayaquil.
-
-Valeria expresa su emoción: “Me siento nerviosa y feliz. Nunca pensé que me elegirían para esto”. Su madre, Soledad Vera, observa cómo su rendimiento escolar ha mejorado desde que Valeria ingresó al programa. “Ahora sobresale en sus clases”, asegura.
-
-Modelos a seguir
-----------------
-
-Andrea Quito, la más joven del equipo a sus 14 años, también se siente motivada. Antes quería ser doctora, pero ahora su interés se centra en la tecnología. “Hay más oportunidades en este campo”, comenta. Andrea busca ser una guía para otras niñas. “Me hace feliz poder darles consejos sobre lo que pueden lograr”, añade.
-
-Gandhy Sánchez, coordinador de Innova, destaca que este equipo participa en competencias desde 2015. Al inicio, la mayoría eran niños, pero el porcentaje de niñas ha aumentado. Actualmente, 90 niñas y 124 niños forman parte del programa.
-
-Superando barreras en un entorno violento
------------------------------------------
-
-Un estudio de la [Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/es "https://www.espol.edu.ec/es") revela que solo el 19 % de las mujeres ecuatorianas trabaja en ingeniería y áreas relacionadas. La situación es aún más complicada para las niñas de hogares de bajos ingresos. En Nueva Prosperina, las oportunidades se reducen.
-
-Este sector también enfrenta una alarmante tasa de violencia. En 2023, Nueva Prosperina reportó 114 muertes violentas por cada 100 mil habitantes. A pesar de este contexto, el programa Hogar de Cristo ofrece un espacio seguro y educativo. “Las niñas vienen y encuentran un lugar donde aprender habilidades”, concluye Sánchez.
-
-Un futuro esperanzador
-----------------------
-
-Las historias de Valeria y Andrea reflejan la lucha y la esperanza en medio de la adversidad. Estas niñas no solo compiten en robótica. Representan un cambio en la percepción de las oportunidades para las mujeres en tecnología en Ecuador. Su camino inspira a muchas a seguir sus sueños, sin importar su entorno.
 
 El Instituto Geofísico reportó sobre la actividad del volcán El Reventador
 ==========================================================================
@@ -660,269 +938,4 @@ En la Senescyt tiene registrado un título universitario del **Instituto Tecnol
 
 Este cambio de ministro de la [Producción](https://www.produccion.gob.ec/ "https://www.produccion.gob.ec/") se da en un momento sensible que vive el sector empresarial e industrial, debido a los cortes de luz. Actualmente se corta la energía por 10 horas en horarios diferenciados. Esta medida se extenderá a las próximas tres semanas.
 
-El presidente, Daniel Noboa designó a **Iván Fernando Rosero Rodríguez** para que reemplace a Jaramillo en la Senae. Pero será director general encargado.  
-
-El Metro de Quito operará en horario extendido este sábado 19 y domingo 20 por festival
-=======================================================================================
-
-El Metro de Quito operará hasta la medianoche por Festival Gastronómico y Musical. Se espera más de 30 mil asistentes.
-----------------------------------------------------------------------------------------------------------------------
-
-![El Metro ofrecerá un horario extendido hasta la medianoche. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/Metro-Quito.jpg)
-
-Este sábado 19 y domingo 20 de octubre de 2024, el Metro de Quito ofrecerá un horario extendido hasta la medianoche. Este cambio se debe al Festival Gastronómico y Musical: Aventura Cerrando Ciclos, que se realizará en el Estadio Olímpico Atahualpa, en el norte del distrito metropolitano.
-
-Más noticias
-------------
-
-* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
-* [El Metro de Quito superó los 43 millones de viajes](https://www.elcomercio.com/actualidad/metro-de-quito-supero-43-millones-de-viajes-operacion.html "El Metro de Quito superó los 43 millones de viajes")
-
-Se espera que más de 30 mil personas asistan a este encuentro. Frente a una mayor demanda del servicio, el [Metro](https://metrodequito.gob.ec/ "https://metrodequito.gob.ec/") informó sobre la extensión del horario, con el fin de movilizar a los asistentes al finalizar los conciertos. La estación más cercana al Estadio es Iñaquito, ubicada en el bulevar de las avenidas Naciones Unidas y Japón.
-
-Para facilitar el acceso, se recomienda:
-
-* Tener activa la Cuenta Ciudad
-* Usar el QR en la aplicación móvil
-* La cédula vinculada o la Tarjeta Ciudad.
-
-Estas opciones ayudarán a minimizar los tiempos de espera y optimizar el viaje de los pasajeros.
-
-Este será el sexto evento en el que el Metro extiende sus horarios para trasladar a la ciudadanía. Normalmente, el Metro opera los sábados de 7:00 a 23:00 y los domingos y feriados de 7:00 a 22:00.
-
-En septiembre pasado, el Metro superó los 43 millones de viajes. El promedio diario fue de 142 073. Aunque ya se han registrado picos superiores a los 170 mil viajes en un día.
-
-Las cinco estaciones con mayor promedio de viajes diarios siguen siendo: Quitumbe, Labrador, Iñaquito, San Francisco y Recreo. El 47,5% de las personas que usan el Metro realizan al menos dos **viajes diarios**.
-
-Con la extensión de los horarios también se busca que los usuarios viajen más seguros, sobre todo en las noches que hay cortes de energía eléctrica diferenciados por sectores.  
-
-Las quebradas de Quito, el riesgo de las lluvias y la necesaria prevención
-==========================================================================
-
-Para el Inhami, las lluvias regresarán ligeramente el fin de semana del 19 y 20 de octubre. Debe haber un cambio en la relación de los quiteños con las quebradas.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El aluvión del 2022 dejó 28 muertos en La Comuna y La Gasca, dos barrios del Occidente de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/aluvion-la-gasca-1.jpg)
-
-En **Quito** se vive un momento de **transición del clima.** Después de 48 días de estiaje, con incendios que espantaron, llegaron las **lluvias**. El 2 de octubre del 2024, incluso, inundaron algunos barrios del sur de la ciudad. Ahora, nuevamente hay un clima seco, que despertó un nuevo flagelo en el **Ilaló**. Cuando ya venga la **temporada invernal**, la acumulación de aguas hace que se miren a las quebradas de Quito y se piense en la **necesaria prevención**.
-
-### Más noticias
-
-* [Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/nuevo-cierre-vehicular-quito-av-6-de-diciembre-desde-domingo-20-de-octubre.html "Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito")
-* [En Quito, el aumento de adultos mayores supera al de niños: ¿Desafío u oportunidad?](https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html "En Quito, el aumento de adultos mayores supera al de niños: ¿Desafío u oportunidad?")
-* [Calle Benalcázar se cerrará este fin de semana, en Quito](https://www.elcomercio.com/actualidad/quito/calle-benalcazar-se-cerrara-este-fin-de-semana-en-quito.html "Calle Benalcázar se cerrará este fin de semana, en Quito")
-
-El mal recuerdo con las quebradas de Quito
-------------------------------------------
-
-Aquel 2 de octubre, el río Capulí desbordó la **quebrada** de **Caupicho** y afectó barrios como **Solanda**, **Nueva Aurora** o la **Lucha de los Pobres**. El 10 de octubre, nuevamente se inundó la Lucha de los Pobres, como se puede comprobar en la siguiente imagen, en la que la colectora está al límite.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/caupicho-1-1024x768.jpg)
-
-Si bien no hubo víctimas mortales que lamentar, sí hubo daños materiales en estos barrios del sur de Quito. No se puede decir con los barrios que quedan al occidente, sobre todo los que están en las laderas del Pichincha.
-
-El 2022 y el 2024, hubo **aluviones** que mataron a 28 personas en el primero y una en el segundo. En el primero murieron 28 personas; en el segundo, una. Muchos se preguntaron qué se hizo en esos dos años y qué se ha hecho con las 101 quebradas en la ciudad de Quito.
-
-La prevención en un plan
-------------------------
-
-El **Municipio de Quito** ha informado que invierte **23,3 millones de dólares** en el Plan Lluvia para mitigar los riesgos del invierno. Hay **142 estructuras en las 101 quebradas**. De estas, **72 corresponden a 34 quebradas de las laderas del PIchincha**, sostiene **Ernesto Fonseca**, subgerente de la **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps).**
-
-Le **Epmpaps** no se encarga de las **quebradas de Quito,** pero sí de las obras que se han construido para el drenaje de las aguas y así mitigar los efectos de la **temporada invernal** que pueden afectar a la población. Y si bien la quebrada de Caupicho es una quebrada que preocupa, las alertas y los constantes monitoreos con tecnología se orientan fundamentalmente hacia las 34 quebradas del Pichincha.
-
-Entre enero y octubre de 2024, el Municipio se realizaron **210 limpiezas**, en las que se retiraron **58 317 metros cúblicos** de materiales retenidos en las estructuras de captación. Así se busca evitar que colapse el sistema de alcantarillado de **Quito** colapse. El **presupuesto** para la limpieza y el mejoramiento de las obras, según Fonseca, es de **1 500 000 dólares**.
-
-La prevención requiere más estudios
------------------------------------
-
-**Liliana Troncoso**, docente investigadora de la carrera de Geología en la **Universidad Central**, realizó un **estudio de investigación** sobre los **aluviones del Pichincha**. Afirma que las autoridades municipales sí han escuchado y tomado en cuenta los resultados de su trabajo. Sin embargo, los estudios deben mantenerse, y no solo en el caso de El Tejado, por el que ocurrieron los dos aluviones en La Gasca y La Comuna, que es al que ella se dedicó, sino también en todas las **quebradas de Quito** y tener un necesario **plan de prevención**[.](https://es.wikipedia.org/wiki/Universidad_Central_del_Ecuador "https://es.wikipedia.org/wiki/Universidad_Central_del_Ecuador")
-
-**Entre el aluvión del 2022 y el del 2024** hay diferencias importantes, “no por el fenómeno sino por el **comportamiento del fenómeno influenciado por decisiones que hacen los humanos** en el territorio”, dice **Troncoso**. Recuerda que en la zona de la cancha construyeron baños, que se constituyeron en una barrera y que en el 2024 cambiara la dirección del flujo, que se fue por un conjunto residencial por donde no debía, en principio.
-
-Troncoso añade que en los dos aluviones llegaron **bloques de dos o tres metros y de siete toneladas de peso**. “No se entiende claramente dónde está su origen, de dónde se deprendieron. Tampoco sabemos cómo llegaron al colector”. Otra duda es cómo influyeron en el comporamento del flujo.
-
-Cada **quebrada de Quito** es distinta, tanto por su ubicación como por el grado de inclinación que tiene. Las del **Occidente** tienen un pendiente mayor, casi como una resbaladera, lo que lo hace aún más riesgoso. Por eso, cada uno merece su propio estudio.
-
-Sin embargo, uno de los problemas mayores es la **relación que tienen los ciudadanos con las quebradas de Quito**. Si antes se creía que rellenarlo era una solución, ahora sabemos que no es así. Por eso, Troncoso dice que las **quebradas de Quito** se han convertido en el lugar a donde van a esconder lo que les molesta e incomoda. Y eso es algo que debe cambiar.
-
-Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito
-=========================================================================
-
-La hinchada del Deportivo Quito es una de las más fieles y apasionadas del fútbol ecuatoriano.
-----------------------------------------------------------------------------------------------
-
-![Luis Fernando Saritama en un partido con el Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-18T174932.485.jpg)
-
-El **Deportivo Quito** sigue soñando con regresar a la Serie B después de ocho años, y en la lucha por ese objetivo, la hinchada de la ‘**AKD**‘ juega un papel fundamental. Uno de los ídolos del club, Luis Fernando Saritama, ha resaltado la relevancia de los aficionados que alientan incansablemente al equipo.
-
-En el último partido del equipo capitalino, como local ante Santa Elena en los 32 avos del Torneo de Ascenso, más de **10 000 hinchas asistieron al estadio**, generando un ambiente que fue clave para la goleada 3-0. Esa victoria fue decisiva para que el Deportivo Quito ganara 1-2 en Samborondón, avanzando así a la siguiente fase y acercándose al ansiado ascenso.
-
-### Más noticias:
-
-* [Deportivo Quito vuelve a jugar en Machala a los 22 años](https://www.elcomercio.com/deportes/deportivo-quito-machala-ascenso-nacional-2.html "Deportivo Quito vuelve a jugar en Machala a los 22 años")
-* [Deportivo Quito recorre más de 1 000 kilómetros por su sueño](https://www.elcomercio.com/deportes/futbol/deportivo-quito-machala-ascenso-nacional.html "Deportivo Quito recorre más de 1 000 kilómetros por su sueño")
-* [Liga de Quito extraña al Deportivo Quito en Serie A](https://www.elcomercio.com/deportes/futbol/liga-de-quito-extrana-al-deportivo-quito-en-serie-a.html "Liga de Quito extraña al Deportivo Quito en Serie A")
-
-La importancia de la hinchada del Deportivo Quito
--------------------------------------------------
-
-**Luis Fernando Saritama**, en una entrevista con _El Comercio_, destacó el papel vital que juega la hinchada en los partidos del Deportivo Quito. Señaló que, aunque al principio puede representar presión para los jugadores, el apoyo de los aficionados rápidamente se convierte en una fuente de motivación.
-
-“Los jugadores **sienten que están en un club diferente, en el sentido de recibir un apoyo incondicional** de la hinchada”, afirmó el ídolo capitalino.
-
-A pesar de que el equipo juega en la Segunda Categoría, Saritama subrayó que los aficionados del Quito no decepcionan y siempre están presentes, lo que demuestra la pasión inquebrantable por la ‘AKD’. “**Vestir la camiseta del Quito es una responsabilidad** que tiene sus ventajas”, agregó.
-
-El ascenso: un proceso paso a paso
-----------------------------------
-
-En cuanto al objetivo de ascender a la Serie B, Saritama destacó que no se trata de una prueba de velocidad, sino de un **proceso que debe trabajarse con paciencia**, comparándolo con una maratón.
-
-“Uno no puede pensar solo en el objetivo de ascender, aunque debe mantenerse como un sueño, pero es **algo que se trabaja paso a paso**“, comentó.
-
-Saritama también elogió al nuevo cuerpo técnico y expresó su optimismo por el camino que está siguiendo el Deportivo Quito. “El cuerpo técnico del profe Castro hizo un gran trabajo, y s**e ha dado el primer paso de cinco llaves**, que sin duda van a ser complicadas”, puntualizó.
-
-¿Cuándo juega el Deportivo Quito?
----------------------------------
-
-**Deportivo Quito** y Cantera Orense son parte de los 32 equipos que aún siguen en carrera por conseguir uno de los dos cupos que otorga el Torneo de Ascenso Nacional para la Liga Pro Serie B de 2025.
-
-El partido de ida se jugará en el **Mini Estadio del Complejo Deportivo Euclides Palacios**, en Machala, el domingo **20 de octubre**, desde las 10:00. El partido de vuelta está previsto para el 27 de octubre, posiblemente en el Gonzalo Pozo o nuevamente en el estadio de Independiente del Valle.
-
-Pervis Estupiñán y el Brighton sorprenden en la Premier League
-==============================================================
-
-El Brighton, con presencia de Pervis Estupiñán, se impuso ante el Newcastle en la Premier League y está en la zona alta de la tabla.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán en uno de los partidos del Brighton en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-36.jpg)
-
-El **Brighton** vive uno de sus mejores momentos en la Premier League y se ubica entre los cinco primeros de la tabla gracias a su último triunfo. Las ‘Gaviotas’ se impusieron ante el **Newcastle y Pervis Estupiñán** tuvo minutos en el cotejo.
-
-Después de haber disputado las eliminatorias hacia el Mundial de 2026 con la **Selección de Ecuador**, el lateral izquierdo retornó a su club en Inglaterra. Pese al buen desempeño en los cotejos internaciones, este no fue tomado en cuenta como titular en su retorno, aunque ingresó en la segunda mitad.
-
-### Más noticias:
-
-* [Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-un-nuevo-capitan-para-la-seleccion-de-ecuador.html "Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador")
-* [Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-clave-remontada-brighton-ante-tottenham.html "Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham")
-* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
-
-Para el choque, tanto la escuadra del ecuatoriano como las ‘hurracas’ llegaban con la misma cantidad de puntos (12) dentro de la **tabla de posiciones.** La victoria de uno podía catapultarlo hacia la zona alta de la primera mitad del torneo.
-
-La oportunidad que se le presentaba al **Brighton**, sin embargo, lucía desafiante en función de la plantilla de sus rivales y la localía de estos. Pese a ello, el entendimiento y sincronización colectiva que ya había mostrado la visita le sirvió para llevarse los tres puntos en un duelo apretado[.](https://es.wikipedia.org/wiki/Brighton_%26_Hove_Albion_Football_Club)
-
-Un gol solitario de Danny Welbeck le dio el triunfo al Brighton
----------------------------------------------------------------
-
-Al primer tiempo del compromiso cayó el tanto que marcó las diferencias entre el Brighton y el **Newcastle** en la Premier League. Asimismo, la actuación del guardameta **Bart Verbruggen** fue clave para que los visitante sostengan el resultado.
-
-El tanto de las ‘Gaviotas’ llegó a los 35 minutos del cotejo gracias al delantero **Danny Welbeck**. Este recibió un pase de **Georgino Rutter** en un contragolpe que dejó mano a mano al delantero con el arquero rival.
-
-Después del primer gol y en lo que quedó de partido, el **Newcastle** se lanzó de manera ultraofensiva a buscar el empate. Aunque casi lo consigue en el cierre del choque, que contó con nueve minutos de adición debido a una lesión de **Welbeck**, el gol que anotó fue en posición adelantada.
-
-Pervis Estupiñán, fundamental para contener al rival del Brighton
------------------------------------------------------------------
-
-**Pervis Estupiñán** ingresó al minuto 72 con la intención de refrescar la posición de lateral izquierdo. Este sustituyó a **Rutter** en el carril izquierdo y se mantuvo hasta el fin del compromiso.
-
-El **tricolor** se mostró sólido en su andarivel y tuvo incidencia tanto en ataque como en defensa. Finalmente, consiguió colaborar en que su equipo mantenga el arco en cero.
-
-La producción de cocaína pura se disparó en Colombia
-====================================================
-
-De acuerdo con un informe de NN.UU., los cultivos de de coca aumentaron en un 10%.
-----------------------------------------------------------------------------------
-
-![Un cultivo de coca en la zona rural de El Tarra, norte de Santander (Colombia). Foto: Archivo EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/MUNDO_20241019_035528_0000.jpg)
-
-Colombia rompió el récord de producción de cocaína en 2023, al pasar de 1 738 toneladas métricas en 2022 a 2 664 toneladas métricas en el año en mención, lo que equivale a un incremento del 53 por ciento.
-
-Más noticias
-------------
-
-* [El Salvador incauta 1 551 kilos de cocaína en embarcación ecuatoriana](https://www.elcomercio.com/actualidad/mundo/el-salvador-incauta-1-551-kilos-de-cocaina-en-embarcacion-ecuatoriana.html "El Salvador incauta 1 551 kilos de cocaína en embarcación ecuatoriana")
-* [Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE](https://www.elcomercio.com/actualidad/ecuador/dato-plantaciones-coca-ecuador-estudio-estados-unidos.html "Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE")
-
-La cifra publicada por el diario El Tiempo es parte central del informe del Sistema Integrado de Monitoreo de Cultivos Ilícitos (Simci).
-
-En este documentose consta el conteo oficial tanto de cultivos de coca como de potencial producción de clorhidrato de cocaína.
-
-Según este análisis, durante 2023 **los narcocultivos se incrementaron en Colombia en un 10%, al pasar de 230 mil hectáreas a 253 mil.** Esta cifra coincide con el cálculo revelado por el ministro de Defensa, Iván Velásquez, en entrevista con El Tiempo.
-
-Las 2 664 toneladas de cocaína se habrían producido en las ‘cocinas’ de los narcos durante 2023. Esto pone a Colombia como el mayor productor de esta droga en el mundo. 
-
-El año pasado, también, se logró un récord en incautaciones: 746 toneladas, en un resultado que el presidente Gustavo Petro ha calificado como histórico.
-
-De hecho, [ONU](https://www.unodc.org/colombia/es/informe-de-monitoreo-de-territorios-con-presencia-de-cultivos-de-coca-2022.html) explica que la producción del alcaloide se concreta en la “**cocaína pura y se basa en el supuesto de que todas las hectáreas sembradas son cosechadas para producir cocaína”**. En el documento añade que “el dato no descuenta las 746 toneladas de cocaína (pureza desconocida) que fueron incautadas por las autoridades en 2023”.
-
-Estrategia de sustitución de coca sin mayores resultados
---------------------------------------------------------
-
-El Gobierno anunció su cambio en la estrategia de lucha contra el narcotráfico. P**riorizó la sustitución voluntaria de matas de coca** (programa que tras dos años no arranca), sobre la erradicación forzada.
-
-El año pasado, por ejemplo, la meta de erradicación se fijó en 20 mil hectáreas (frente a las 2 300 000 detectadas). Este año se propuso erradicar 10 mil hectáreas, de las cuales a tres meses de finalizar el año, no va ni en cinco mil.
-
-En el cambio de la política de lucha contra las drogas se anunció las operaciones de interdicción (destrucción de laboratorios y la incautación de drogas). Según el Ministerio de Defensa **se incautaron 705 t de cocaína y 378 t de marihuana.**
-
-Colombia con 15 enclaves productivos
-------------------------------------
-
-En el informe Simci 2023 se indica que **la producción potencial de cocaína continua en sus récords históricos.** 
-
-Del lado de la oferta, Perú reportó en 2023 una ligera reducción del área sembrada con coca. Bolivia completó tres años con tendencia a la estabilidad (entre 2020 y 2022). 
-
-De Colombia, el documento advierte que a diferencia del incremento entre 2021 y 2022 que estuvo fuertemente concentrado en el departamento de Putumayo, en este periodo el crecimiento fue más generalizado.
-
-En 16 de los 19 departamentos con coca mostraron tendencia al incremento; Cauca y Nariño fueron los más afectados. 
-
-Cortes de luz en Cuenca para este sábado 19 de octubre
-======================================================
-
-En algunos barrios de Cuenca, los cortes de luz se aplican de corrido, mientras que en otros la suspensión se realiza en dos franjas horarias.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![La distribuidora de energía eléctrica Centrosur dio a conocer el cronograma de este sábado 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5-2.jpg)
-
-La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este sábado 19 de octubre de 2024. La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
-
-Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil este sábado 19 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-sabado-19-de-octubre.html "Cortes de luz en Guayaquil este sábado 19 de octubre")
-* [Cortes de luz en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-quito-sabado-19-de-octubre.html "Cortes de luz en Quito este sábado 19 de octubre")
-* [Cortes de agua en Quito este sábado 19 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-sabado-19-de-octubre.html "Cortes de agua en Quito este sábado 19 de octubre")
-
-Horarios de cortes de luz
--------------------------
-
-El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
-
-En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
-
-Los horarios del cronograma en la ciudad austral se implementan en **13 jornadas**:
-
-* 00:00 a 06:00
-* 00:00 a 04:00 y de 11:00 a 16:00
-* 06:00 a 11:00 y de 14:00 a 18:00
-* 06:00 a 10:00 y de 14:00 a 18:00
-* 06:00 a 10:00 y de 18:00 a 22:00
-* 10:00 a 14:00 y de 18:00 a 22:00
-* 10:00 a 14:00 y de 17:00 a 21:00
-* 10:00 a 14:00 y de 20:00 a 00:00
-* 13:00 a 18:00 y de 21:00 a 00:00
-* 16:00 a 19:00
-* 18:00 a 21:00
-* 10:00 a 16:00
-
-La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/").
-
-Embalse de Mazar se recupera
-----------------------------
-
-La ministra de Energía y Minas (e), Inés Manzano, se pronunció este miércoles sobre el estado del **embalse de Mazar**.
-
-La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (**Celec**).
-
-En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en **2 116,68 metros** sobre el nivel del mar y, a las 15:00, subió a **2 116,88**.
-
-“Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimo (…) Estamos a **37 metros** de llegar a la [**cota máxima**](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)")”, dijo.
+El presidente, Daniel Noboa designó a **Iván Fernando Rosero Rodríguez** para que reemplace a Jaramillo en la Senae. Pero será director general encargado.
