@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel and Hamas signal resistance to ending Gaza war after Sinwar's death](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
-    * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
-    * [Israel unearths Hezbollah's web of tunnels in southern Lebanon](https://apnews.com/article/israel-hezbollah-ground-invasion-tunnels-2f22d95269bdf3b5fa1304816f2fee81)
+    * [A drone targets the Israeli prime minister's house during new barrages with Hezbollah](https://apnews.com/article/israel-hamas-war-news-10-18-2024-c49911f11a40b7d81b21bc8568ecfe11)
+    * [Ukraine’s ‘victory plan’ receives mixed reactions from Western allies](https://apnews.com/article/victory-plan-ukraine-russia-war-zelenskyy-1a66e6b1655fcaa421526ad174e618bd)
+    * [France vows support for Ukraine's plan to end Russian invasion](https://apnews.com/article/russia-ukraine-war-france-pows-22dbb9037a98c3185ca3a0e3470e074a)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
-    * [Texas was about to execute Robert Roberson. Then a last-ditch tactic bought him more time](https://apnews.com/article/texas-execution-shaken-baby-syndrome-f6fd3474fe14cb9b0dd52629acea6bd7)
-    * [Crews halt fast-moving brush fire that burned 2 Oakland homes, forced 500 evacuations](https://apnews.com/article/california-winds-power-shutoffs-diablo-0bb99ee4a062730bdbf9d50170a30053)
+    * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
+    * [Hurricane Oscar forms off the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
+    * [At least 7 dead after ferry dock gangway collapses on Georgia's Sapelo Island](https://apnews.com/article/ferry-dock-collapse-deaths-sapelo-island-georgia-66ea381cb0f9fd697fc51fc7aa853038)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
-    * [Trump delivers a pointed and at times bitter speech at Al Smith charity dinner](https://apnews.com/article/trump-al-smith-comedy-fundraiser-219b815c343e4fb017541f4f39597c39)
-    * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
+    * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
+    * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
+    * [Two Texas cities represent the divide between those who vote and those who could, but often don't](https://apnews.com/article/texas-voting-gap-demographics-republicans-democrats-4757833c15266ac793ed61c50292b653)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
+    * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
     * [Judges punishing Jan. 6 rioters say they fear more political violence as Election Day nears](https://apnews.com/article/capitol-riot-judges-election-ebb54ab9badccfcb2b1bc2fa0de5bf21)
-    * [Together they've been in office more than 70 years. Now their races could help swing House control](https://apnews.com/article/election-2024-marcy-kaptur-ken-calvert-house-majority-c0eea997a88b46ce77dd7b68bdfa7002)
+    * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Yankees get to Guardians closer Clase again, score 2 runs in 9th to win 8-6 and take 3-1 ALCS lead](https://apnews.com/article/yankees-guardians-score-mlb-alcs-a0ed26962ef02e767677aaa2b11350d3)
-    * [Alonso and Mets extend season again, beating Dodgers 12-6 to send NLCS back to LA for Game 6](https://apnews.com/article/mlb-playoffs-mets-dodgers-alonso-nlcs-c1c6974fff1448ee6f7c23f147816725)
-    * [Lynx force Game 5 of WNBA Finals on Carleton's free throws to beat Liberty 82-80](https://apnews.com/article/wnba-finals-liberty-lynx-score-a09c2f86b6172dfe2e158234d0dee1e9)
+    * [Texas TD against Georgia 2 plays after interception 1st wiped out by penalty and trash on field](https://apnews.com/article/texas-georgia-penalty-reversed-32fb9184858ef6068e81c8c24d8bfbc3)
+    * [Brady Cook, hobbled by an injury, rallies No. 19 Mizzou to a 21-17 win over Auburn](https://apnews.com/article/auburn-missouri-football-score-c6428f82abc0caa63b5ee8314124851e)
+    * [No. 16 Indiana routs Nebraska 56-7 to stay unbeaten; Rourke injures hand and misses 2nd half](https://apnews.com/article/indiana-hoosiers-nebraska-cornhuskers-big-ten-3b3657737e0db25d492c70983c1f19ab)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Rock & Roll Hall of Fame induction ceremony has a poignant vibe this year](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
-    * [Jury paves the way for 2 Live Crew to retake control of records that changed hip-hop](https://apnews.com/article/2-live-crew-hip-hop-copyright-ruling-9315d65fd99be7bee20c9c361eb3af72)
-    * [Liam Payne's father arrives in Buenos Aires days after the pop star's fatal hotel plunge](https://apnews.com/article/liam-payne-star-one-direction-music-death-05f277e10350fed23f181a2e1eddddac)
+    * [Cher, Foreigner, Mary J. Blige, Dionne Warwick inducted into Rock & Roll Hall of Fame](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
+    * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
+    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Wealthier Americans are driving retail spending and powering US economy](https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af)
-    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
-    * [CVS Health CEO Lynch steps down as national chain struggles to right its path](https://apnews.com/article/cvs-health-ceo-lynch-joyner-56ad4f6c4fed7a293b841f7037bd71a8)
+    * [Boeing is making a new offer to the union in hopes of ending a strike now in its second month](https://apnews.com/article/boeing-strike-contract-offer-pay-increase-e86e43bcbbf3e140e89d33c901766554)
+    * [Mail carriers reach tentative contract with USPS that includes pay raises and air-conditioned trucks](https://apnews.com/article/mail-carriers-letter-postal-service-contract-deal-4bf95f2b165cd2b24c66fd08345e5303)
+    * [CVS workers strike at 7 Southern California stores for better pay and health care](https://apnews.com/article/cvs-strike-southern-california-union-9d391fdd6a5590330832c137c2b3c36a)
     
 * [Science](https://apnews.com/science)
     
@@ -162,7 +162,7 @@ Menu
     * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
-    * [Greek man convicted of causing disturbance by entering neighbors' properties to smell their shoes](https://apnews.com/article/greece-court-smelling-shoes-conviction-thessaloniki-ec071292e0c413f7adc4b848642e1f5c)
+    * [Funeral home in Poland apologizes after a corpse falls out of a hearse in traffic](https://apnews.com/article/poland-hearse-corpse-apology-21d29f1ddd883fe0bfc2ae278b89be6d)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -234,7 +234,7 @@ Menu
     
     TOP STORIES
     
-    * [Palau’s vibrant Helen Reef is a magnet for poachers. These rangers keep it safe](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
+    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
     * [Biden administration races to shell out billions for clean energy as election nears](https://apnews.com/article/clean-energy-offshore-wind-election-biden-trump-harris-4a6d561ff06841504b6713ed48c920f1)
     
@@ -247,7 +247,7 @@ Menu
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
     * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [Texas sues doctor and accuses her of violating ban on gender-affirming care](https://apnews.com/article/gender-affirming-care-doctor-lawsuit-texas-bb2a24b0c981819a11c7a4386c72eb6c)
+    * [With brain injuries a growing problem, the US military tests how to protect troops from blasts](https://apnews.com/article/military-blasts-traumatic-brain-injuries-pressure-explosive-5b56b826ef633094f23c8c0d3274fd67)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Here's how to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
     * [Judge delays order in antitrust case requiring Google to open up its app store](https://apnews.com/article/google-antitrust-play-store-android-smartphones-4f0433854187f3d16e5c36923733be44)
-    * [Elon Musk holds his first solo event in support of Trump in the Philadelphia suburbs](https://apnews.com/article/elon-musk-america-pac-donald-trump-344f1ecc9770c4e394fceb7bbbe2b237)
-    * [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
+    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     * [Black male teachers are a rarity in preschools. This pioneering program wants to change that](https://apnews.com/article/preschool-teacher-literacy-black-men-47ac93fa10f83d79e7031708851c2645)
-    * [Palau’s vibrant Helen Reef is a magnet for poachers. These rangers keep it safe](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
-    * [Designers of the late Princess Diana's wedding dress settle dispute over drawings of the gown](https://apnews.com/article/britain-princess-diana-dress-dispute-drawings-1e041eb329fea4e5deaa2488daac989b)
+    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [What's a 'Jezebel spirit'? Some Christians use the term to paint Kamala Harris with a demonic brush](https://apnews.com/article/jezebel-spirit-kamala-harris-christian-nationalismv21-0a513c9e549a57a33f864341556d1b7a)
-    * [What to know about the Los Angeles Catholic Church's $880M settlement with sexual abuse victims](https://apnews.com/article/los-angeles-church-sexual-abuse-settlement-8d04f5c8da061462f04be59b73cc3e92)
-    * [Oklahoma parents and teachers sue to stop top education official's classroom Bible mandate](https://apnews.com/article/oklahoma-bible-mandate-schools-lawsuit-c5c09efa5332db1ab16f7ff2da7be0b8)
+    * [Children greet King Charles III and Queen Camilla outside a Sydney church](https://apnews.com/article/sydney-church-king-charles-royals-visit-australia-8f0ac202a948d450bbcfe3532e915536)
+    * [Faith-based environmental groups take on fossil fuels as 'a sacred duty'](https://apnews.com/article/faith-environmental-groups-fossil-fuels-activism-4af463772879e6854bedd635013846c7)
+    * [In Helene's and Milton's wake, faith-based disaster relief groups prepare for the long haul](https://apnews.com/article/hurricane-helene-milton-faith-disaster-relief-north-carolina-e8e7e3e44ff9be6b0508b9623bd1eb25)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Para Israel y Hamás, la guerra en Gaza no está cerca de terminar tras muerte de Sinwar](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Un dron apunta a la vivienda de Netanyahu y ataques en Gaza causan más de 50 muertos](https://apnews.com/article/israel-hamas-guerra-862708b477738e80b6dd52280d16d88e)
+    * [Francia promete apoyar el plan de Ucrania para poner fin a la invasión rusa](https://apnews.com/article/rusia-ucrania-guerra-francia-presos-9cae87171f4bb2f2b89b96eb203bc068)
+    * [AP EXPLICA: Qué saber sobre la falla eléctrica que sumió a Cuba en la oscuridad](https://apnews.com/article/cuba-apagon-electricidad-9bcfd64c4c49e3cfcf76cdd29a9a3303)
     * [Experta ONU: Libertad de expresión está más amenazada en Gaza que en ningún otro conflicto reciente](https://apnews.com/article/onu-libertad-expresion-ataques-periodistas-israel-palestinos-23eff5066500becc7bd94bac395aa418)
-    * [Harris y Trump van tras el voto árabe-estadounidense en Michigan](https://apnews.com/article/harris-trump-gaza-elecciones-ea57a05b9864aede88562e3784626b7f)
-    * [Rusia devuelve cadáveres de 500 soldados a Ucrania; continúan ataques rusos con drones](https://apnews.com/article/rusia-ucrania-guerra-77e157dd118d4f5c73ee36e2a1f455da)
-    * [Corea del Sur afirma que Norcorea ha enviado soldados para apoyar a Rusia en su guerra en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
-    * [Corea del Norte dice que halló los restos de un dron surcoreano en Pyongyang](https://apnews.com/article/corea-drones-27656f80711ac7ab6de5572238b10876)
+    * [Liberan a periodista guatemalteco José Rubén Zamora tras 2 años de prisión sin condena](https://apnews.com/article/guatemala-periodista-zamora-242b86fc14be1a18e54b6a181b7110c3)
+    * [Prevén inundaciones moderadas por desbordamiento de presa glaciar en capital de Alaska](https://apnews.com/article/alaska-glaciar-inundacion-clima-11070a6b08e0d54756159348b4b00f3e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,9 +459,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel and Hamas signal resistance to ending Gaza war after Sinwar's death](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
-    * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
-    * [Israel unearths Hezbollah's web of tunnels in southern Lebanon](https://apnews.com/article/israel-hezbollah-ground-invasion-tunnels-2f22d95269bdf3b5fa1304816f2fee81)
+    * [A drone targets the Israeli prime minister's house during new barrages with Hezbollah](https://apnews.com/article/israel-hamas-war-news-10-18-2024-c49911f11a40b7d81b21bc8568ecfe11)
+    * [Ukraine’s ‘victory plan’ receives mixed reactions from Western allies](https://apnews.com/article/victory-plan-ukraine-russia-war-zelenskyy-1a66e6b1655fcaa421526ad174e618bd)
+    * [France vows support for Ukraine's plan to end Russian invasion](https://apnews.com/article/russia-ukraine-war-france-pows-22dbb9037a98c3185ca3a0e3470e074a)
     
     Newsletters
     
@@ -477,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
-    * [One of the largest solar projects in the US opens in Texas, backed by Google](https://apnews.com/article/solar-google-texas-data-centers-c36f18607fed2d54bd02acbd3b903b0a)
-    * [Texas was about to execute Robert Roberson. Then a last-ditch tactic bought him more time](https://apnews.com/article/texas-execution-shaken-baby-syndrome-f6fd3474fe14cb9b0dd52629acea6bd7)
-    * [Crews halt fast-moving brush fire that burned 2 Oakland homes, forced 500 evacuations](https://apnews.com/article/california-winds-power-shutoffs-diablo-0bb99ee4a062730bdbf9d50170a30053)
+    * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
+    * [Hurricane Oscar forms off the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
+    * [At least 7 dead after ferry dock gangway collapses on Georgia's Sapelo Island](https://apnews.com/article/ferry-dock-collapse-deaths-sapelo-island-georgia-66ea381cb0f9fd697fc51fc7aa853038)
     
     Newsletters
     
@@ -506,9 +506,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
-    * [Trump delivers a pointed and at times bitter speech at Al Smith charity dinner](https://apnews.com/article/trump-al-smith-comedy-fundraiser-219b815c343e4fb017541f4f39597c39)
-    * [Asian American evangelicals' theology is conservative. But that doesn't mean they vote that way](https://apnews.com/article/election-2024-asian-american-evangelicals-voters-9d40ec99fbb51c56f5f08a23ab6cda9e)
+    * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
+    * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
+    * [Two Texas cities represent the divide between those who vote and those who could, but often don't](https://apnews.com/article/texas-voting-gap-demographics-republicans-democrats-4757833c15266ac793ed61c50292b653)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
+    * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
     * [Judges punishing Jan. 6 rioters say they fear more political violence as Election Day nears](https://apnews.com/article/capitol-riot-judges-election-ebb54ab9badccfcb2b1bc2fa0de5bf21)
-    * [Together they've been in office more than 70 years. Now their races could help swing House control](https://apnews.com/article/election-2024-marcy-kaptur-ken-calvert-house-majority-c0eea997a88b46ce77dd7b68bdfa7002)
+    * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Yankees get to Guardians closer Clase again, score 2 runs in 9th to win 8-6 and take 3-1 ALCS lead](https://apnews.com/article/yankees-guardians-score-mlb-alcs-a0ed26962ef02e767677aaa2b11350d3)
-    * [Alonso and Mets extend season again, beating Dodgers 12-6 to send NLCS back to LA for Game 6](https://apnews.com/article/mlb-playoffs-mets-dodgers-alonso-nlcs-c1c6974fff1448ee6f7c23f147816725)
-    * [Lynx force Game 5 of WNBA Finals on Carleton's free throws to beat Liberty 82-80](https://apnews.com/article/wnba-finals-liberty-lynx-score-a09c2f86b6172dfe2e158234d0dee1e9)
+    * [Texas TD against Georgia 2 plays after interception 1st wiped out by penalty and trash on field](https://apnews.com/article/texas-georgia-penalty-reversed-32fb9184858ef6068e81c8c24d8bfbc3)
+    * [Brady Cook, hobbled by an injury, rallies No. 19 Mizzou to a 21-17 win over Auburn](https://apnews.com/article/auburn-missouri-football-score-c6428f82abc0caa63b5ee8314124851e)
+    * [No. 16 Indiana routs Nebraska 56-7 to stay unbeaten; Rourke injures hand and misses 2nd half](https://apnews.com/article/indiana-hoosiers-nebraska-cornhuskers-big-ten-3b3657737e0db25d492c70983c1f19ab)
     
     Newsletters
     
@@ -590,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Rock & Roll Hall of Fame induction ceremony has a poignant vibe this year](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
-    * [Jury paves the way for 2 Live Crew to retake control of records that changed hip-hop](https://apnews.com/article/2-live-crew-hip-hop-copyright-ruling-9315d65fd99be7bee20c9c361eb3af72)
-    * [Liam Payne's father arrives in Buenos Aires days after the pop star's fatal hotel plunge](https://apnews.com/article/liam-payne-star-one-direction-music-death-05f277e10350fed23f181a2e1eddddac)
+    * [Cher, Foreigner, Mary J. Blige, Dionne Warwick inducted into Rock & Roll Hall of Fame](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
+    * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
+    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     
 * [Business](https://apnews.com/business)
     
@@ -606,9 +606,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Wealthier Americans are driving retail spending and powering US economy](https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af)
-    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
-    * [CVS Health CEO Lynch steps down as national chain struggles to right its path](https://apnews.com/article/cvs-health-ceo-lynch-joyner-56ad4f6c4fed7a293b841f7037bd71a8)
+    * [Boeing is making a new offer to the union in hopes of ending a strike now in its second month](https://apnews.com/article/boeing-strike-contract-offer-pay-increase-e86e43bcbbf3e140e89d33c901766554)
+    * [Mail carriers reach tentative contract with USPS that includes pay raises and air-conditioned trucks](https://apnews.com/article/mail-carriers-letter-postal-service-contract-deal-4bf95f2b165cd2b24c66fd08345e5303)
+    * [CVS workers strike at 7 Southern California stores for better pay and health care](https://apnews.com/article/cvs-strike-southern-california-union-9d391fdd6a5590330832c137c2b3c36a)
     
 * [Science](https://apnews.com/science)
     
@@ -648,7 +648,7 @@ Submit Search
     * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
-    * [Greek man convicted of causing disturbance by entering neighbors' properties to smell their shoes](https://apnews.com/article/greece-court-smelling-shoes-conviction-thessaloniki-ec071292e0c413f7adc4b848642e1f5c)
+    * [Funeral home in Poland apologizes after a corpse falls out of a hearse in traffic](https://apnews.com/article/poland-hearse-corpse-apology-21d29f1ddd883fe0bfc2ae278b89be6d)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -729,7 +729,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Palau’s vibrant Helen Reef is a magnet for poachers. These rangers keep it safe](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
+    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
     * [Biden administration races to shell out billions for clean energy as election nears](https://apnews.com/article/clean-energy-offshore-wind-election-biden-trump-harris-4a6d561ff06841504b6713ed48c920f1)
     
@@ -742,7 +742,7 @@ Submit Search
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
     * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [Texas sues doctor and accuses her of violating ban on gender-affirming care](https://apnews.com/article/gender-affirming-care-doctor-lawsuit-texas-bb2a24b0c981819a11c7a4386c72eb6c)
+    * [With brain injuries a growing problem, the US military tests how to protect troops from blasts](https://apnews.com/article/military-blasts-traumatic-brain-injuries-pressure-explosive-5b56b826ef633094f23c8c0d3274fd67)
     
 * [Tech](https://apnews.com/technology)
     
@@ -755,9 +755,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Here's how to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
     * [Judge delays order in antitrust case requiring Google to open up its app store](https://apnews.com/article/google-antitrust-play-store-android-smartphones-4f0433854187f3d16e5c36923733be44)
-    * [Elon Musk holds his first solo event in support of Trump in the Philadelphia suburbs](https://apnews.com/article/elon-musk-america-pac-donald-trump-344f1ecc9770c4e394fceb7bbbe2b237)
-    * [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
+    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -775,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
+    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     * [Black male teachers are a rarity in preschools. This pioneering program wants to change that](https://apnews.com/article/preschool-teacher-literacy-black-men-47ac93fa10f83d79e7031708851c2645)
-    * [Palau’s vibrant Helen Reef is a magnet for poachers. These rangers keep it safe](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
-    * [Designers of the late Princess Diana's wedding dress settle dispute over drawings of the gown](https://apnews.com/article/britain-princess-diana-dress-dispute-drawings-1e041eb329fea4e5deaa2488daac989b)
+    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [What's a 'Jezebel spirit'? Some Christians use the term to paint Kamala Harris with a demonic brush](https://apnews.com/article/jezebel-spirit-kamala-harris-christian-nationalismv21-0a513c9e549a57a33f864341556d1b7a)
-    * [What to know about the Los Angeles Catholic Church's $880M settlement with sexual abuse victims](https://apnews.com/article/los-angeles-church-sexual-abuse-settlement-8d04f5c8da061462f04be59b73cc3e92)
-    * [Oklahoma parents and teachers sue to stop top education official's classroom Bible mandate](https://apnews.com/article/oklahoma-bible-mandate-schools-lawsuit-c5c09efa5332db1ab16f7ff2da7be0b8)
+    * [Children greet King Charles III and Queen Camilla outside a Sydney church](https://apnews.com/article/sydney-church-king-charles-royals-visit-australia-8f0ac202a948d450bbcfe3532e915536)
+    * [Faith-based environmental groups take on fossil fuels as 'a sacred duty'](https://apnews.com/article/faith-environmental-groups-fossil-fuels-activism-4af463772879e6854bedd635013846c7)
+    * [In Helene's and Milton's wake, faith-based disaster relief groups prepare for the long haul](https://apnews.com/article/hurricane-helene-milton-faith-disaster-relief-north-carolina-e8e7e3e44ff9be6b0508b9623bd1eb25)
     
     Newsletters
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Para Israel y Hamás, la guerra en Gaza no está cerca de terminar tras muerte de Sinwar](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Un dron apunta a la vivienda de Netanyahu y ataques en Gaza causan más de 50 muertos](https://apnews.com/article/israel-hamas-guerra-862708b477738e80b6dd52280d16d88e)
+    * [Francia promete apoyar el plan de Ucrania para poner fin a la invasión rusa](https://apnews.com/article/rusia-ucrania-guerra-francia-presos-9cae87171f4bb2f2b89b96eb203bc068)
+    * [AP EXPLICA: Qué saber sobre la falla eléctrica que sumió a Cuba en la oscuridad](https://apnews.com/article/cuba-apagon-electricidad-9bcfd64c4c49e3cfcf76cdd29a9a3303)
     * [Experta ONU: Libertad de expresión está más amenazada en Gaza que en ningún otro conflicto reciente](https://apnews.com/article/onu-libertad-expresion-ataques-periodistas-israel-palestinos-23eff5066500becc7bd94bac395aa418)
-    * [Harris y Trump van tras el voto árabe-estadounidense en Michigan](https://apnews.com/article/harris-trump-gaza-elecciones-ea57a05b9864aede88562e3784626b7f)
-    * [Rusia devuelve cadáveres de 500 soldados a Ucrania; continúan ataques rusos con drones](https://apnews.com/article/rusia-ucrania-guerra-77e157dd118d4f5c73ee36e2a1f455da)
-    * [Corea del Sur afirma que Norcorea ha enviado soldados para apoyar a Rusia en su guerra en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
-    * [Corea del Norte dice que halló los restos de un dron surcoreano en Pyongyang](https://apnews.com/article/corea-drones-27656f80711ac7ab6de5572238b10876)
+    * [Liberan a periodista guatemalteco José Rubén Zamora tras 2 años de prisión sin condena](https://apnews.com/article/guatemala-periodista-zamora-242b86fc14be1a18e54b6a181b7110c3)
+    * [Prevén inundaciones moderadas por desbordamiento de presa glaciar en capital de Alaska](https://apnews.com/article/alaska-glaciar-inundacion-clima-11070a6b08e0d54756159348b4b00f3e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
