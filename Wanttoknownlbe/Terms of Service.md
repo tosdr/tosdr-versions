@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/eu-de-rontgen-bodyscanners-gaan-in-de-ban/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/voedsel/hoe-gevaarlijk-is-jouw-drinkfles/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
