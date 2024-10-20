@@ -1,15 +1,15 @@
 ![](https://www.facebook.com/tr?id=1185306584902150&ev=PageView&noscript=1)          
 
-[slug.com](https://slug.com/) [slug.com](https://slug.com/)
+[idw.community](https://slug.com/) [idw.community](https://slug.com/)
 
 * [Post](https://slug.com/share/post)
-* [Browse](https://slug.com/discuss)
+* [Browse](https://slug.com/group/announcements)
     
-    [Posts](https://slug.com/discuss)
+    [Posts](https://slug.com/group/announcements)
     
 * [Learn](https://slug.com/about)
     
-    [About Us](https://slug.com/about) [FAQ](https://slug.com/faq) [Contact](https://slug.com/contact)
+    [About Us](https://slug.com/about) [FAQ](https://slug.com/faq) [Learn about the IDW](https://slug.com/idw) [Contact](https://slug.com/contact)
     
 
 * Log into your IDW.community account
@@ -21,7 +21,7 @@
     [Login with Facebook](https://slug.com/social-auth?provider=facebook) [Login with Google](https://slug.com/social-auth?provider=google)
     
     [Login](https://slug.com/login)
-* [Sign Up](https://slug.com/register)
+* [Archive](https://slug.com/group/announcements)
 
 Privacy Policy
 ==============
@@ -74,12 +74,12 @@ Email This Page to a Friend/Invite Friends Services
 The terms applicable to the Email This Profile to a Friend or Invite Friends services apply to your use of that service. Without limiting the foregoing, you may not use the service to send spam.
 
 * Copyright © 2024 IDW.community - All rights reserved.
-* [About](https://slug.com/about)
-* [Terms](https://slug.com/terms)
-* [Privacy](https://slug.com/privacy)
-* [Contact](https://slug.com/contact)
-* [FAQ](https://slug.com/faq)
+* [About](https://idw.community/about)
+* [Terms](https://idw.community/terms)
+* [Privacy](https://idw.community/privacy)
+* [Contact](https://idw.community/contact)
+* [FAQ](https://idw.community/faq)
 
-* IDW.community - the non-profit community that permits fact-based discussions of all topics.
+* IDW.community is a community for fans of the Intellectual Dark Web! We're non-commercial, fan-operated, and independent of any public figure.
 
 [](javascript:void(0);)
