@@ -11,6 +11,18 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
+![image](/rfilescms/Teaser/RET/pandasecurity_teaser_back_to_security_desktop.webp)
+
+A malware attack occurs every second.
+
+Take advantage of this limited-time offer and renew your protection.
+
+: :
+
+\-60%
+
+**Renew now**
+
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
