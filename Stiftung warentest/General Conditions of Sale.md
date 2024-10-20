@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Service Stiftung Warentest
 
