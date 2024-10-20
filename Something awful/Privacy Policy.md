@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Unfortunate Last Words](https://www.somethingawful.com/news/last-words-moments/)
-* [Photoshop Life](https://www.somethingawful.com/comedy-goldmine/photoshop-life/1/)
-* [CueTube!](https://www.somethingawful.com/comedy-goldmine/cue-youtube-bitchen/1/)
-* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
-* [Yahoo Answers Part I](https://www.somethingawful.com/weekend-web/yahoo-answers-part1/1/)
+* [Variety Pack #23: JJ Abrams Star Wars! OH NO!!](https://www.somethingawful.com/photoshop-phriday/abrams-starwars/1/)
+* [Advertisements of the Christ](https://www.somethingawful.com/photoshop-phriday/advertisements-christ/1/)
+* [MY WEBSITE IS DOWN ---- WHY?????](https://www.somethingawful.com/news/gross-tos-violation/1/)
+* [Variety Pack #8: Dick Cheney's Adventures; Truth in Advertising!](https://www.somethingawful.com/photoshop-phriday/variety-pack-8/1/)
+* [One Last Question](https://www.somethingawful.com/news/one-last-question/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Small Things u Treasure in Life](http://forums.somethingawful.com/showthread.php?threadid=4073090 "Small Things u Treasure in Life")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I guess Asmonbald is finished?](http://forums.somethingawful.com/showthread.php?threadid=4073073 "I guess Asmonbald is finished?")
+* ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Ghosts that have haunted you.](http://forums.somethingawful.com/showthread.php?threadid=4073108 "Ghosts that have haunted you.")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Small Things u Treasure in Life](http://forums.somethingawful.com/showthread.php?threadid=4073090 "Small Things u Treasure in Life")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [Hello my betas.](http://forums.somethingawful.com/showthread.php?threadid=4073047 "Hello my betas.")
 
 ### Random Articles
 
-* [WE'RE GETTING MARRIED BITCHES!!!](https://www.somethingawful.com/levi-johnston/levi-bristol-engaged/1/)
-* [REAMS OF DOGS](https://www.somethingawful.com/news/dog-classifieds15/)
-* [November 24, 2008](https://www.somethingawful.com/forum-fridays/ff11-24-08/1/)
-* [Your Band is Great!](https://www.somethingawful.com/garbage-day/your-band-great/1/)
-* [Dekadens' Vore & Furry Realms](https://www.somethingawful.com/awful-links/awful-link-1593/)
+* [Superheroes in the Bible!](https://www.somethingawful.com/photoshop-phriday/bible-superheroes/1/)
+* [HeunaBina86's Xanga site](https://www.somethingawful.com/awful-links/awful-link-1297/)
+* [D.A.R.E.](https://www.somethingawful.com/feature-articles/dare/1/)
+* [Zack Meets Internet People](https://www.somethingawful.com/news/zack-meets-internet/)
+* [TV Party Tonight](https://www.somethingawful.com/news/tv-party-tonight/)
 
 [Random!](https://www.somethingawful.com/random/)
 
