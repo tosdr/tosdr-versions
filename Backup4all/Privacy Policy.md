@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
+* [Backup the Favorites folder](https://www.backup4all.com/backup-the-favorites-folder-kb.html)  
     
-* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
+* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
     
-* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
+* [How to backup Outlook Express emails](https://www.backup4all.com/how-to-backup-outlook-express-emails-and-settings-kb.html)  
     
-* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
+* [How to backup your data to Verizon](https://www.backup4all.com/how-to-backup-your-data-to-verizon-kb.html)  
     
-* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
+* [How to back up data files from Polycloud usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-polycloud-using-backup4all-kb.html)  
     
 
 Choose language:
