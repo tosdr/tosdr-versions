@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/60cf8574-7b32-40ba-b7cd-7c7a7a235acb/20241019T230824/60cf8574-7b32-40ba-b7cd-7c7a7a235acb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/60cf8574-7b32-40ba-b7cd-7c7a7a235acb/20241019T230824/60cf8574-7b32-40ba-b7cd-7c7a7a235acb_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/537a34a5-a6d4-4f26-a35c-09d0cf427005/20241020T121041/537a34a5-a6d4-4f26-a35c-09d0cf427005_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/537a34a5-a6d4-4f26-a35c-09d0cf427005/20241020T121041/537a34a5-a6d4-4f26-a35c-09d0cf427005_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Pleasant warm weather ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Very warm next couple days](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+72°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
