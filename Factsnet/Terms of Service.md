@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About War Fiction ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/25-facts-about-war-fiction/)
+[![30 Facts About Renal Hepatic Pancreatic Dysplasia Dandy Walker Cyst ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-renal-hepatic-pancreatic-dysplasia-dandy-walker-cyst/)
 
-Entertainment
+Health Science
 
-19 Oct 2024
+20 Oct 2024
 
-[25 Facts About War Fiction](https://facts.net/lifestyle/entertainment/25-facts-about-war-fiction/)
+[30 Facts About Renal Hepatic Pancreatic Dysplasia Dandy Walker Cyst](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-renal-hepatic-pancreatic-dysplasia-dandy-walker-cyst/)
 
-[![35 Facts About Victorian Slums ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-victorian-slums/)
+[![25 Facts About Artistic Representations ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/25-facts-about-artistic-representations/)
 
-Society & Social Sciences
+Culture & The Arts
 
-19 Oct 2024
+20 Oct 2024
 
-[35 Facts About Victorian Slums](https://facts.net/society-and-social-sciences/35-facts-about-victorian-slums/)
+[25 Facts About Artistic Representations](https://facts.net/culture-and-the-arts/25-facts-about-artistic-representations/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
