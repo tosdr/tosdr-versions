@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Dnevnik/Diary, Raša Todosijević, 54. Bijenale, Venecija](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/izlozba-svetlost-i-tama-simbola/dnevnik.jpg?itok=5P90VjRP)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-30)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2005/2006/13-g.jpg?itok=GsvRDAJd)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20052006)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/16-rodjendan-pozorisnog-kluba-zeleno-zvono-zrenjanin-20707/zvono4.jpg?itok=u9ZbM7p8)](http://seecult.org/galerija/foto-galerija/foto-arhiva/16-rodjendan-pozorisnog-kluba-zeleno-zvono-zrenjanin-20707)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/breaking-step/adam-codsko-m-staza-2.jpg?itok=IU-3HSHR)](http://seecult.org/galerija/foto-galerija/foto-arhiva/breaking-step)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,7 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
-* [Upečatljiv početak 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-pocetak-43-skopskog-dzez-festivala)
+* [Upečatljiv program 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-program-43-skopskog-dzez-festivala)
 * [Performisima prvi put u Parizu](http://seecult.org/vest/performisima-prvi-put-u-parizu)
 * [60\. Oktobarski salon i ključna pitanja današnjice](http://seecult.org/vest/60-oktobarski-salon-i-kljucna-pitanja-danasnjice)
 * [Godišnje nagrade reditelja, u junu novi Balkanski festival režije](http://seecult.org/vest/godisnje-nagrade-reditelja-u-junu-novi-balkanski-festival-rezije)
