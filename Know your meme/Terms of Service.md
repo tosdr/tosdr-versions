@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/310/2024-halloween-meme-costumes.jpg "2024 Halloween Meme Costumes Guide")
+* [!["The Game Was Rigged From the Start"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/328/maxresdefault.jpg "'The Game Was Rigged From The Start' Appeared In 'Fallout: New Vegas' 14 Years Ago Today")
     
-    2024 Halloween Meme Costumes Guide](https://knowyourmeme.com/editorials/guides/2024-halloween-meme-costumes-guide)
+    'The Game Was Rigged From The Start' Appeared In 'Fallout: New Vegas' 14 Years Ago Today](https://knowyourmeme.com/memes/the-game-was-rigged-from-the-start)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/309/acc.jpg "What's The 'Ding Dong Eat It Up' Meme? The Viral Prank Video From YouTuber Fique Explained")
+* [!['Skamtebord' Is The Catch-all Term For Funny One-word Replies Online](https://i.kym-cdn.com/featured_items/icons/wide/000/026/327/Screen_Shot_2021-06-17_at_3.01.45_PM.png "It's The Anniversary Of 'Skamtebord,' The First 'Texting Celebrities' Meme ")
     
-    What's The 'Ding Dong Eat It Up' Meme? The Viral Prank Video From YouTuber Fique Explained](https://knowyourmeme.com/editorials/guides/whats-the-ding-dong-eat-it-up-meme-the-viral-prank-video-from-youtuber-fique-explained)
+    It's The Anniversary Of 'Skamtebord,' The First 'Texting Celebrities' Meme](https://knowyourmeme.com/memes/skamtebord)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/308/typhlosion_explainer.jpg "The Weekly Meme Roundup: A Whole Bunch Of 'Pokémon' Jokes, Shaq Calls A Timeout And A KSI Rap Turned Copypasta")
+* [!['Damn Nobody Want U FR' Becomes Wildly Diverse Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/326/imsayinglikecover.jpg "It's Been Six Years Since This Brazilian Comic Was First Posted To The Internet")
     
-    The Weekly Meme Roundup: A Whole Bunch Of 'Pokémon' Jokes, Shaq Calls A Timeout And A KSI Rap Turned Copypasta](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-a-whole-bunch-of-pokemon-jokes-shaq-calls-a-timeout-and-a-ksi-rap-turned-copypasta)
+    It's Been Six Years Since This Brazilian Comic Was First Posted To The Internet](https://knowyourmeme.com/memes/get-a-girlfriend-son-damn-nobody-want-u-fr%F0%9F%98%AD%F0%9F%98%AD)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/307/where_are_the.jpg "Where Are They Now? How Justin Kuritzkes Went From Being The 'Potion Seller' Meme To Writing 'Challengers'")
+* [![Truth Terminal](https://i.kym-cdn.com/featured_items/icons/wide/000/026/325/truth-terminal.jpg "An Independent AI Has Officially Become A Millionaire")
     
-    Where Are They Now? How Justin Kuritzkes Went From Being The 'Potion Seller' Meme To Writing 'Challengers'](https://knowyourmeme.com/editorials/guides/where-are-they-now-how-playwright-and-novelist-justin-kuritzkes-went-from-being-the-potion-seller-meme-to-writing-challengers)
+    An Independent AI Has Officially Become A Millionaire](https://knowyourmeme.com/memes/sites/truth-terminal#millionaire-status)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/311/mwatch.jpg "Who Is TikToker 'Ambamelia' And Why Did She Tear Down Greek Flags At A restaurant? The Viral Israel Flag Mix-Up Explained")
+* [![#IHateMyBF refers to a TikTok trend that grew popular in September 2024, where women joked about how much they dislike their boyfriends. #IHateMyBF TikToks often revolve around women sharing their petty squabbles with their partners, and joking about how irritating their find his actions. The TikToks are supposedly inspired by a viral 2023 tweet by @sk1tguru that reads, "that phase where you slowly start hating your girlfriend is crazy😭"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/324/i_hate_my_bf.jpg "TikTokers Are Going All In On The #IHateMyBF Trend")
     
-    Who Is TikToker 'Ambamelia' And Why Did She Tear Down Greek Flags At A restaurant? The Viral Israel Flag Mix-Up Explained](https://knowyourmeme.com/editorials/guides/who-is-tiktoker-ambamelia-and-why-did-she-tear-down-greek-flags-at-a-restaurant-the-viral-israel-flag-mix-up-explained)
+    TikTokers Are Going All In On The #IHateMyBF Trend](https://knowyourmeme.com/memes/ihatemybf)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Lunchly Mold Controversy](https://knowyourmeme.com/memes/events/lunchly-mold-controversy "Lunchly Mold Controversy") [Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") [I'm Gonna Have Sexual Thoughts About That](https://knowyourmeme.com/memes/im-gonna-have-sexual-thoughts-about-that "I'm Gonna Have Sexual Thoughts About That")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
