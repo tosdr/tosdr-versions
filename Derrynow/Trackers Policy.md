@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
 
 The special engineering leaf busting train that travels across the Translink network
@@ -332,6 +325,13 @@ Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
 
 [Man suffers serious facial injuries in Lisburn assault](https://www.derrynow.com/news/northern-ireland/1634533/man-suffers-serious-facial-injuries-in-lisburn-assault.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 20 2024](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +511,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 20 2024](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
 
 Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
@@ -520,7 +527,7 @@ Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
 [Injury time drama at the Brandywell as 'Stute defeat Ballinamallard](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
+[![Translink tackling leaf fall to minimise disruption to trains](https://www.derrynow.com/resizer/165/93/true/2024_10_18/Leaf_Busting_train-1729248068426.jpg--.jpg?1729248068481 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
 
 The special engineering leaf busting train that travels across the Translink network
 
@@ -553,15 +560,6 @@ Kelly was sentenced at Antrim Crown Court today.
 
 [Suspended sentence for County Derry man convicted of cyber-crime related offences against multi-international sports brand](https://www.derrynow.com/news/home/1634166/suspended-sentence-for-county-derry-man-convicted-of-cyber-crime-related-offences-against-multi-international-sports-brand.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](https://www.derrynow.com/resizer/165/93/true/2024_10_18/_L4A8346-1729264488506.jpg--.jpg?1729264490901 "Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week")](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
-
-Chair of Mid Ulster District Council, Councillor Eugene McConnell, launches the 2024 Mid Ulster Enterprise Week with guest speakers.
-
-[Home](https://www.derrynow.com/)
-
-[Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
