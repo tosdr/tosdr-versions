@@ -4,6 +4,10 @@
 
 Help Center](https://www.eventbrite.com/help/en-us/)
 
+We're performing routine site maintenance on October 21 at 12:15am PT. Eventbrite will be unavailable for approximately 15 minutes.
+
+[Go to status updates](https://www.eventbritestatus.com/)
+
 [Terms and policies](https://www.eventbrite.com/help/en-us/topics/terms-and-policies/)
 
 [Help Center](https://www.eventbrite.com/help/en-us/)
