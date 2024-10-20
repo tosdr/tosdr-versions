@@ -6,7 +6,7 @@
 
 Days
 
-09
+03
 
 Hours
 
@@ -14,7 +14,7 @@ Hours
 
 Minutes
 
-00
+32
 
 Seconds
 
