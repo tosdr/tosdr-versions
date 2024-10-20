@@ -31,30 +31,30 @@ Privacy Policy
 * [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
-* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
 * [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
 * [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
+* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
 * [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
-* [![نگاهی به وضعیت و مطالبات کارگران تعمیر و نگهداری خط و ابنیه فنی راه‌آهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![نگاهی به وضعیت و مطالبات کارگران تعمیر و نگهداری خط و ابنیه فنی راه‌آهن](https://karkhane.org/app/uploads/2021/04/negahi-be-vaziyat-e-kargaran-e-abniye-fanni-rahahan-95x65.jpg)](https://karkhane.org/2574/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%88-%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%b1%d8%a7%d9%87%d8%a2%d9%87%d9%86-%d8%aa%d8%b1%d8%a7%d9%88%d8%b1/)[نگاهی به وضعیت و مطالبات کارگران تعمیر و نگهداری خط و ابنیه فنی راه‌آهن](https://karkhane.org/2574/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%88-%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%b1%d8%a7%d9%87%d8%a2%d9%87%d9%86-%d8%aa%d8%b1%d8%a7%d9%88%d8%b1/)
-* [![بیانیه‌ی «کمیته گالیسیا در حمایت از دونباس»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](https://karkhane.org/app/uploads/2020/07/tajamo-e-moalemān-majles-ordibehešt-1399-95x65.jpg)](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)[اعتراضات معلمان غیررسمی در سال ۱۳۹۹: دهها هزار معلم در بلاتکلیفی](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![بیانیه‌ی «کمیته گالیسیا در حمایت از دونباس»](https://karkhane.org/app/uploads/2022/09/galego-donbass-cgad-95x65.jpg)](https://karkhane.org/4143/%d8%a8%db%8c%d8%a7%d9%86%db%8c%d9%87%db%8c-%da%a9%d9%85%db%8c%d8%aa%d9%87-%da%af%d8%a7%d9%84%db%8c%d8%b3%db%8c%d8%a7-%d8%af%d8%b1-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%af/)[بیانیه‌ی «کمیته گالیسیا در حمایت از دونباس»](https://karkhane.org/4143/%d8%a8%db%8c%d8%a7%d9%86%db%8c%d9%87%db%8c-%da%a9%d9%85%db%8c%d8%aa%d9%87-%da%af%d8%a7%d9%84%db%8c%d8%b3%db%8c%d8%a7-%d8%af%d8%b1-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%af/)
+    ![](https://karkhane.org/app/uploads/2024/08/construction-worker-95x65.jpg)](https://karkhane.org/5811/a-report-of-a-construction-site/)[گزارشی از یک کارگاه ساختمانی بزرگ](https://karkhane.org/5811/a-report-of-a-construction-site/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
