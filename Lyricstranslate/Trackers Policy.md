@@ -137,69 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Joshua Woods 3](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1583491-1688246744.png)](https://lyricstranslate.com/en/translator/joshua-woods-3 "Joshua Woods 3")
+[![kota](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1079598-1693300988.jpg)](https://lyricstranslate.com/en/translator/kota "kota")
 
 New translation
 
-[SATOMI' - Beautiful Life](https://lyricstranslate.com/en/satomi-beautiful-life-transliteration)
+[Saburō Kitajima - 比叡の風 (Hiei no kaze)](https://lyricstranslate.com/en/saburo-kitajima-hiei-no-kaze-english)
 
-Japanese → Transliteration
+Japanese → English
 
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New request
-
-[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/request/je-ne-danserai-plus-jamais)
-
-French → English
-
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Chatmonchy - ツマサキ (Tsumasaki)](https://lyricstranslate.com/en/chatmonchy-tsumasaki-transliteration)
+[Daniele Serra - Adua](https://lyricstranslate.com/en/daniele-serra-adua-spanish)
 
-Japanese → Transliteration
+Italian → Spanish
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Daniele Serra - Adua](https://lyricstranslate.com/en/daniele-serra-adua-english)
+
+Italian → English
+
+[![Annifer85](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1540185-1654595130.jpg)](https://lyricstranslate.com/en/translator/annifer85 "Annifer85")
+
+New transcription request
+
+[Rosi - Manefesti](https://lyricstranslate.com/en/rosi-manefesti)
+
+Finnish
+
+[![TranslatingForFun](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1631958-1727948833.jpg)](https://lyricstranslate.com/en/translator/translatingforfun "TranslatingForFun")
+
+New translation
+
+[Carpathian Forest - All My Friends Are Dead](https://lyricstranslate.com/en/carpathian-forest-all-my-friends-are-dead-italian)
+
+English → Italian
 
 [![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
-New song
+New translation
 
-[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/johnny-hallyday-je-ne-danserai-plus-jamai-lyrics)
+[Big Joe Turner - Teenage Letter](https://lyricstranslate.com/en/big-joe-turner-teenage-letter-french)
 
-French
+English → French
 
-[![Joshua Woods 3](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1583491-1688246744.png)](https://lyricstranslate.com/en/translator/joshua-woods-3 "Joshua Woods 3")
-
-New song
-
-[SATOMI' - Beautiful Life](https://lyricstranslate.com/en/satomi-beautiful-life-lyrics)
-
-Japanese
-
-[![D_000](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1330100-1653491284.jpg)](https://lyricstranslate.com/en/translator/d000 "D_000")
-
-New request
-
-[Zaz - Éblouie par la nuit](https://lyricstranslate.com/en/request/%C3%A9blouie-par-la-nuit-8)
-
-French → IPA
-
-[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New song
 
-[Kate Earl - All that glitters](https://lyricstranslate.com/en/kate-earl-all-glitters-lyrics)
+[Daniele Serra - Adua](https://lyricstranslate.com/en/daniele-serra-adua-lyrics)
 
-English
+Italian
 
-[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
+[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
 
-New request
+New translation
 
-[Kate Earl - All that glitters](https://lyricstranslate.com/en/request/all-glitters-1)
+[Henri Tachan - Inventaire](https://lyricstranslate.com/en/henri-tachan-inventaire-italian)
 
-English → Russian
+French → Italian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
