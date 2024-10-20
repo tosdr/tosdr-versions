@@ -31,6 +31,752 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Una balacera en el estadio de la Liga de Cangahua, en La Roldós, deja otra víctima
+==================================================================================
+
+Los moradores del sector de La Roldós nuevamente viven una jornada de terror. Apenas, el miércoles 16 de octubre de 2024 ocurrió una balacera en la que murió una joven. Ahora un nuevo incidente impacta a otra familia de esta zona del norte de Quito. Más noticias Este domingo 20 de octubre, un hombre ingresó \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![En medio de un partido de fútbol se dio una balacera en el estadio de la Liga de Cangahua, en La Roldós. Foto: Captura](https://www.elcomercio.com/wp-content/uploads/2024/10/balacera-roldos-ouito_720.jpg)
+
+Los moradores del sector de La Roldós nuevamente viven una jornada de terror. Apenas, el miércoles 16 de octubre de 2024 ocurrió una balacera en la que murió una joven. Ahora un nuevo incidente impacta a otra familia de esta zona del norte de Quito.
+
+Más noticias
+------------
+
+* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
+* [Nuevo ataque armado se produjo en el sur de Quito](https://www.elcomercio.com/actualidad/quito/nuevo-ataque-armado-sur-de-quito.html "Nuevo ataque armado se produjo en el sur de Quito")
+
+Este domingo 20 de octubre, un hombre ingresó en moto a la cancha del estadio de la Liga de Cangahua, ubicado en la Rumihurco y N-85, en la entrada a La Roldós. Una vez adentro propinó seis disparos por la espalda a un joven de 24 años, que esperaba que se acabe un partido para entrar a jugar.
+
+Así cuenta una morada, que prefiere la reserva por miedo a represalias. Tras el hecho la gente no logró reaccionar a tiempo para detener al hombre. Asustados se agacharon al piso y algunos lanzaron botellas.
+
+Tras dejarlo inconsciente, agrega- salió del estadio y tampoco pudieron identificarlo, debido al casco que llevaba puesto. Minutos después llegó la [Policía](https://www.policia.gob.ec/ "https://www.policia.gob.ec/") y Criminalística.
+
+Según la moradora, el joven atacado no logró sobrevivir al impacto de las balas. Las autoridades todavía no confirman el estado de salud del joven atacado.
+
+En este sector, los vecinos se quejan con voz baja de que el nivel de inseguridad que viven se debe a ocho bandas armadas que se han tomado el territorio.
+
+Esto ha provocado temor a organizarse y velar por su seguridad, debido a las amenazas que reciben por parte de los miembros de estas bandas delincuenciales.
+
+La Roldós es uno de los barrios del norte de [Quito](https://www.elcomercio.com/actualidad/quito/en-quito-cuatro-distritos-concentran-73-de-los-crimenes-violentos-cuales-son.html "https://www.elcomercio.com/actualidad/quito/en-quito-cuatro-distritos-concentran-73-de-los-crimenes-violentos-cuales-son.html") que pertenece al segundo distrito más con alto nivel de violencia por delincuencia común con armas de fuego. Entres las víctimas de este años están adolescentes y jóvenes veinteañeros.
+
+  
+
+Reforma a la Ley Orgánica de Comunicación tienen estas modificaciones
+=====================================================================
+
+Daniel Noboa emitió el Decreto Ejecutivo 421 el pasado 14 de octubre de 2024 donde reforma el Reglamento de Ley Orgánica de Comunicación.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial sobre periodistas y medios de comunicación.](https://www.elcomercio.com/wp-content/uploads/2024/10/medios-com.jpg)
+
+**Daniel Noboa** emitió el **Decreto Ejecutivo 421** el pasado 14 de octubre de 2024, en el que se plantean diversas modificaciones al **Reglamento General de la Ley Orgánica de Comunicación (LOC)**[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
+
+### Más noticias
+
+* [Daniel Noboa emitió un veto total y un decreto sobre incendios](https://www.elcomercio.com/actualidad/politica/daniel-noboa-emitio-veto-total-decreto-incendios.html "Daniel Noboa emitió un veto total y un decreto sobre incendios")
+* [Daniel Noboa pone plazo para la adjudicación de frecuencias del espectro radioeléctrico](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-plazo-adjudicacion-frecuencias.html "Daniel Noboa pone plazo para la adjudicación de frecuencias del espectro radioeléctrico")
+* [Daniel Noboa oficializó la gratuidad de las planillas de luz a través de decreto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-oficializo-gratuidad-planillas-luz-decreto.html "Daniel Noboa oficializó la gratuidad de las planillas de luz a través de decreto")
+
+El decreto introduce disposiciones a los **medios de comunicación** como a la regulación de las **concesiones de frecuencias** para servicios de **radiodifusión y televisión**.
+
+Disposiciones transitorias
+--------------------------
+
+El Decreto establece que en un plazo de **60 días**, a partir de su publicación en el **Registro Oficial**, el **Consejo de Desarrollo y Promoción de la Información y Comunicación** debe actualizar y codificar todos los manuales, protocolos y directrices.
+
+Estos documentos deberán **adecuarse a los estándares** internacionales para garantizar la libertad de pensamiento y expresión.
+
+Asimismo, se instruye a la **Agencia de Regulación y Control de las Telecomunicaciones (Arcotel)** a convocar a un Proceso Público Competitivo y Equitativo para la adjudicación de **frecuencias del espectro** **radioeléctrico**, observando las disposiciones de la Constitución de la República y la Ley Orgánica de Comunicación.
+
+Cambios en la normativa de concesiones de frecuencias
+-----------------------------------------------------
+
+El Decreto prohíbe que los **medios de comunicación social** de carácter nacional pertenezcan a organizaciones o **compañías extranjeras domiciliadas fuera del Ecuador**, ni a ciudadanos extranjeros que no residan de manera **regular en el país**.
+
+Además, establece que una misma **persona natural o jurídica no podrá adjudicarse** más de una concesión de **frecuencia de radio en AM, FM**, o televisión en todo el **territorio nacional**.
+
+> 🚨[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | A través del Decreto 421, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) dispuso reformar el Reglamento General de la Ley Orgánica de Comunicación. [pic.twitter.com/DaJysAdVa0](https://t.co/DaJysAdVa0)
+> 
+> — NotiMundo (@notimundoec) [October 15, 2024](https://twitter.com/notimundoec/status/1846035644860056062?ref_src=twsrc%5Etfw)
+
+El Decreto también prevé inhabilitaciones específicas para la **adjudicación de frecuencias**. Por ejemplo, se incluyen personas que tengan relaciones de **parentesco con concesionarios de frecuencias** de hasta el cuarto grado de consanguinidad o segundo de afinidad, así como quienes se encuentren en mora con instituciones del sector público.
+
+Prohibiciones en la publicidad y transmisión de señales
+-------------------------------------------------------
+
+Una de las medidas destacadas es la prohibición de transmitir publicidad engañosa y propaganda de productos como **cigarrillos, bebidas alcohólicas y otras sustancias sujetas a fiscalización**. Se establece un límite para la publicidad de bebidas alcohólicas, la cual no deberá superar el 5% del grado alcohólico.
+
+Por otro lado, el Decreto también regula la transmisión de **canales de señal abierta**. Los operadores de servicios de **audio y video por suscripción** estarán obligados a retransmitir canales de televisión abierta. Esto siempre que se cuente con la autorización expresa de los titulares de los **derechos sobre los contenidos**.
+
+Modificaciones a artículos claves de la Ley Orgánica de Comunicación
+--------------------------------------------------------------------
+
+Entre las reformas más relevantes que introduce el **Decreto Ejecutivo** está la sustitución del artículo 2 de la **Ley Orgánica de Comunicación**. En esta se define el ámbito de aplicación de la normativa, ampliando su carácter obligatorio para el Estado, personas y medios de comunicación social.
+
+El artículo 3 también ha sido modificado, regulando la participación de **capital extranjero en los medios de comunicación**. Se establece que los extranjeros que deseen ser accionistas de medios nacionales deberán residir de manera permanente en Ecuador, de acuerdo con la ley.
+
+Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool
+==============================================================
+
+Moises Caicedo fue capitán del Chelsea y asistió en uno de los goles a pesar de la derrota ante Liverpool.
+----------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo en el partido del Chelsea y Liverpool en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-38-1.jpg)
+
+El **Liverpool** se sostuvo en el liderato de la Premier League tras superar al Chelsea de **Moisés Caicedo** (2-1), derrotado por el ‘efecto Curtis Jones’, agitador clave de un partido en el que evitó un tanto de Cole Palmer, provocó un penalti que transformó **Mohamed Salah** y marcó el gol de la victoria con el que su equipo sumó tres puntos clave en la pelea por el título.
+
+Jones estuvo presente en casi todas las acciones importantes del choque. Sus aportaciones fueron decisivas para impulsar al Liverpool, que contestó a la victoria sobre la bocina del **Manchester City** en el estadio del Wolves (1-2).
+
+### Más noticias:
+
+* [¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-de-moises-caicedo-contra-el-liverpool.html "¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?")
+* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
+* [Moisés Caicedo, un mentor para Óscar Zambrano](https://www.elcomercio.com/deportes/futbol/moises-caicedo-mentor-oscar-zambrano-seleccion-ecuador.html "Moisés Caicedo, un mentor para Óscar Zambrano")
+
+Los tres puntos que consiguieron los hombres dirigidos por **Pep Guardiola** obligaban a los ‘Reds’ a sumar una victoria para mantenerse en la primera plaza; y la derrota del Arsenal este sábado en su visita al Bournemouth (2-0) daba una opción al **Chelsea** de escalar hasta la tercera posición. Por eso, el duelo entre dos de los ‘Big Six’ del torneo tenía cierta trascendencia pese a estar todavía en la octava jornada del torneo.
+
+Y, aunque los puntos se quedaron en Anfield, el Liverpool tuvo que sudar la gota gorda para acabar con la resistencia de un equipo que llegó a la cita en un gran estado de forma, tal vez en su mejor momento en mucho tiempo, con **Enzo Maresca y Cole Palmer** en plena efervescencia.
+
+Ambos fueron elegidos mejor entrenador y mejor jugador del mes de septiembre, respectivamente y el cuadro londinense acumulaba siete encuentros oficiales sin perder, con victorias contundentes en estadios como el del **Wolves** (2-6) o el **West Ham** (0-3).
+
+Algo ha cambiado en un equipo deprimido la temporada pasada pero con ilusiones renovadas en la actual. Su eficacia goleadora, **16 tantos** en la Premier League, contrastaba con la seguridad defensiva del Liverpool, que sólo ha encajado un par de goles en los primeros compases de la Liga.
+
+El Liverpool llegaba bien ante el Chelsea de Moisés Caicedo
+-----------------------------------------------------------
+
+El técnico Arne Slot tiene motivos para estar satisfecho y por eso confió en casi todas las piezas que triunfaron la pasada jornada. Apenas hizo dos cambios: en el lateral izquierdo entró Andy Robertson por **Kostas Tsimikas y Dominik Szoboszlai** desplazó a Alexis Mac Allister en el centro del campo.
+
+Maresca pudo dar galones a su capitán, **Reece James**, que apareció por primera vez en una alineación desde agosto, cuando fue titular en un amistoso ante el Real Madrid.Recuperado de su lesión, dejó el lateral derecho para formar parte de una línea de tres centrales con Noni Madueke de lateral largo por un lado y Malo Gusto, con **Marc Cucurella** sancionado, apareció por el otro. En el centro del campo sorprendió con Roméo Lavia, que sentó en el banquillo a Enzo Fernández.
+
+El belga agradó en su **segunda titularidad** del curso. No es tan buen distribuidor como el argentino, pero tiene gestos de centrocampista valiente. Acelera bien hacia arriba y es un buen conductor para salir en pocos segundos rompiendo líneas.
+
+Lo demostró en la primera parte, en la que fue de lo más potable de su equipo con Cole Palmer desaparecido. La estrella del **Chelsea** apenas dio tres pases hacia delante y sólo dispuso de un par de opciones: un disparo al borde del descanso que rozó el larguero y otro intentó que interceptó Curtis Jones.
+
+Precisamente, fue Jones quien se erigió como el gran protagonista del Liverpool. No sólo rescató a su equipo jugándose el pellejo para evitar un posible tanto de Palmer, sino que también provocó el único gol del acto inicial, obra de **Mohamed Salah** desde el punto de penalti. Fue derribado dentro del área por Levi Colwill y el egipcio, con un zurdazo seco y preciso, no falló desde los once metros.
+
+Moisés Caicedo, imperial con el Chelsea pese a la derrota
+---------------------------------------------------------
+
+> ¡CON ASISTENCIA DE MOI!  
+>   
+> Chelsea empata el partido ante Liverpool, con un gol de Nico Jackson, tras un gran pase de 🇪🇨 Moisés Caicedo. Luego de la revisión de VAR se convalidó el tanto.  
+>   
+> ▶️ Más 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [#PremierLeague](https://twitter.com/hashtag/PremierLeague?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/D3wWddV6Np](https://t.co/D3wWddV6Np)
+> 
+> — ESPN Ecuador (@ESPNEcuador) [October 20, 2024](https://twitter.com/ESPNEcuador/status/1848043925010842040?ref_src=twsrc%5Etfw)
+
+Anfield no se divirtió en exceso con su equipo, pero aplaudió su sobrada solvencia. No sufrió apenas, por lo menos durante los 45 minutos iniciales, en los que además pudo aumentar su renta con un tanto anulado a **Cody Gakpo** por fuera de juego previo de Salah y con otra acción de Jones, que rozó otro penalti tras caer dentro del área derribado por Robert Sánchez. El árbitro, John Brooks, señaló la pena máxima, pero desde el VAR fue avisado para corregir su decisión.
+
+El 1-0, a lo mejor excesivo para el **Liverpool**, lo anuló el Chelsea nada más salir de los vestuarios. Nico Jackson, que en la primera parte ya estrelló un disparo contra el palo tras asociarse con **Moisés Caicedo**, volvió entenderse con el ecuatoriano para empatar el duelo en un mano a mano frente a **Caoimhín Kelleher**. El ex del Villarreal celebró a lo grande su tanto, pero su alegría apenas duró tres minutos, los que tardó en aparecer de nuevo Jones para rematar a la red un centro de Salah.
+
+El canterano del **Liverpool** acumulaba 25 encuentros de Premier League sin marcar. En concreto, desde el 1 de enero de 2024, cuando celebró un gol ante el **Newcastle**. No es un hombre muy dado a marcar (16 tantos en 6 temporadas), pero apareció cuando su equipo más lo necesitaba. Salvó un gol de Palmer, provocó un penalti y dio en la diana con el gol de la victoria.
+
+El **Chelsea**, con poco más de media hora por delante para retener un punto, fue incapaz de generar ocasiones. Y **Jones**, sustituido al final y ovacionado por Anfield, se llevó toda la gloria con una actuación sobresaliente.
+
+Alineaciones del Chelsea y el Liverpool
+---------------------------------------
+
+2.- **Liverpool**: Kelleher; Alexander-Arnold (Joe Gómez, min. 81), Konaté, Van Dijk, Robertson; Jones (Mac Allister, min. 81), Gravenberch, Szoboszlai; Salah, Diogo Jota (Darwin Núñez, min. 30) y Gakpo (Luis Díaz, min. 66).
+
+1.- **Chelsea**; Robert Sánchez; Madueke, James (Veiga, min. 53), Adarabioyo (Badiashile, min. 53), Colwill, Gusto; Caicedo, Lavia (Enzo Fernández, min 53), Sancho (Neto, min. 46); Palmer y Nico Jackson.  
+Goles: 1-0, min. 29: Salah, de penalti; 1-1, min. 48: Nico Jackson; 2-1, min. 51: Jones.
+
+Emotivo mensaje de la hermana de Liam Payne: ‘Lamento no haber podido salvarte’
+===============================================================================
+
+Ruth Gibbins recordó en redes sociales al excantante de One Direction. Su novia, la madre de su hijo también postearon mensajes.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Liam Payne junto con su hermana. Foto tomada de la cuenta de ella en IG](https://www.elcomercio.com/wp-content/uploads/2024/10/Liam.jpg)
+
+La comunidad musical internacional se encuentra de luto tras la muerte del cantante Liam Payne, ex miembro de la banda **One Direction**, ocurrida el pasado miércoles en Buenos Aires. Payne, de 31 años, falleció tras caer desde el balcón de un tercer piso de un hotel, en el barrio de Palermo.
+
+Más noticias
+------------
+
+* [Padre de Liam Payne está en Buenos Aires para recoger a su hijo](https://www.elcomercio.com/tendencias/padre-de-liam-payne-esta-en-buenos-aires-para-recoger-a-su-hijo.html "Padre de Liam Payne está en Buenos Aires para recoger a su hijo")
+* [Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’](https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html "Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’")
+
+La hermana del artista, **Ruth Gibbins**, compartió un emotivo homenaje en **Instagram**, acompañado de una serie de fotografías familiares. También escribieron mensajes la madre de su hijo, su novio, sus amigos de One Direction, entre otros.
+
+La publicación de su hermana ofrece una mirada íntima a la vida del músico y la estrecha relación que mantenían, reseñó el portal Infobae.
+
+“**No creo que esto esté pasando**”, comenzó en su extensa publicación. “**Liam es mi mejor amigo**, nadie podía hacerme reír tanto como él, haciendo sus imitaciones siempre me hacía reír y le encantaba ver cuánta risa podía provocar”.
+
+“Aprendí a conducir finalmente durante las semanas de shows en vivo de _**The X Factor**_ porque no podía soportar la idea de no poder llegar a él. Solía conducir regularmente para tomar el té con él después de terminar mi trabajo, solo para estar juntos”, relató en el post.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBTWNERuM6I/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Ruth Gibbins (@roo0990)](https://www.instagram.com/p/DBTWNERuM6I/?utm_source=ig_embed&utm_campaign=loading)
+
+Gibbins también habló sobre la pasión de Liam por la música y su amor por **One Direction**: “Liam amaba a 1D, amaba a sus hermanos y hablábamos mucho de ello. Simplemente reproducía canción tras canción que habían sido grabadas pero nunca utilizadas y nos sentábamos a tener un mini concierto de 1D”.
+
+> “Liam, mi cerebro está luchando por comprender lo que está pasando y no entiendo a dónde te has ido”. “No siento que este mundo fuera lo suficientemente bueno o amable contigo, y bastante a menudo en los últimos años, has tenido que esforzarte mucho para superar todo lo que se dirigía hacia ti”.
+
+La hermana de **Liam Payne** finalizó su tributo con una disculpa y una promesa. “Gracias por cambiar mi vida, gracias por los increíbles recuerdos, gracias por ser el mejor hermano y amigo que jamás tendré. Cuidaremos de Bear y él siempre sabrá lo increíble que es su padre y cuánto lo idolatras. **Lamento no haber podido salvarte**. Te amo… cómo te extraña mi corazón”, finalizó.
+
+El mensaje de la madre de su hijo Bear
+--------------------------------------
+
+**La expareja de Payne y madre de su hijo Bear**, la cantante **Cheryl Cole**, también expresó su dolor en un comunicado público.
+
+“Mientras trato de navegar por este evento devastador y atravieso mi propio dolor en este momento indescriptiblemente doloroso, me gustaría recordar amablemente a todos que hemos perdido a un ser humano”, escribió.
+
+“Liam no era solo una estrella del pop y una celebridad, **era un hijo, un hermano, un tío, un querido amigo y el padre de nuestro hijo de siete años**”, añadió.
+
+Otros mensajes de su novia y sus amigos
+---------------------------------------
+
+**Kate Cassidy**, la novia actual de Liam, compartió un mensaje en Instagram expresando su tristeza y afirmando que amará a su “ángel” por el resto de su vida. “**He estado completamente perdida**”, escribió, añadiendo que “nada se siente real”.
+
+Los ex compañeros de banda de **Liam Payne** en **One Direction** –**Harry Styles**, **Niall Horan**, **Louis Tomlinson** y **Zayn Malik**– emitieron un comunicado conjunto expresando su devastación por la pérdida.
+
+“En su momento, y cuando todos puedan, habrá más que decir”, afirmaron. “Por ahora, **tomaremos un tiempo para llorar y procesar la pérdida de nuestro hermano**, a quien amábamos profundamente”.
+
+En Bolivia se impulsa el primer ‘Huerto Smart’
+==============================================
+
+La idea fue gestada mediante una alianza entre Movimiento Propacha y la empresa desarrolladora de tecnología Cruz Verde La Paz.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![La meta es llegar al centenar de huertos inteligentes en escuelas, hogares de ancianos u orfanatos.](https://www.elcomercio.com/wp-content/uploads/2024/10/produccion-sostenible-bolivia.jpg)
+
+**Lechugas, albahaca** y **apio**, entre otros, son parte de la producción sostenible del primer ‘Huerto Smart Educativo’ de Bolivia. Es un proyecto creado por jóvenes que une el **cultivo hidropónico** con la tecnología y educación para contribuir a la **seguridad alimentaria local** y aportar a la adaptación al cambio climático.
+
+### Más noticias
+
+* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
+* [Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia](https://www.elcomercio.com/actualidad/mundo/bloqueos-carreteras-edefensa-evo-morales-concentran-centro-bolivia.html "Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia")
+* [Premio Nobel de Literatura 2024 es para la surcoreana Han Kang](https://www.elcomercio.com/actualidad/mundo/premio-nobel-de-literatura-2024-es-para-surcoreana-han-kang.html "Premio Nobel de Literatura 2024 es para la surcoreana Han Kang")
+
+La idea fue gestada mediante una **alianza entre la organización Movimiento Propacha** y la empresa desarrolladora de tecnología Cruz Verde La Paz Srl., ambas integradas por jóvenes menores de 33 años, dijo Guillermo Mallea, director ejecutivo de la primera entidad.
+
+La unión entre ambos “permitió hacer un modelo que busca **transformar a las unidades** educativas en centros de producción con muy buenos resultados”, señaló.
+
+Los jóvenes se postularon en 2022 al **Fondo de Iniciativas Ciudadanas** (FIC) del Fondo Mundial para la Naturaleza (WWF en inglés), consiguiendo el apoyo para instalar un primer prototipo del huerto en el colegio Felipe II en La Paz.
+
+En 2023 fueron reconocidos entre las **50 mejores ideas de soluciones climáticas** lideradas por jóvenes en el mundo, dentro de la iniciativa Youth4Climate que impulsan el Programa de Naciones Unidas para el Desarrollo (PNUD) y el Gobierno de Italia.
+
+A esa convocatoria se presentaron **1 100 propuestas de 63 países,** y los ganadores recibieron financiación que, en el caso de los bolivianos, les permitió montar un **segundo huerto en el colegio Hugo Dávila**, también en La Paz, e inaugurar próximamente el tercero en el barrio periurbano de Callapa.
+
+También fue importante el apoyo de la Alcaldía de La Paz, uno de sus “aliados estratégicos” junto al PNUD.
+
+Huerto 2.0
+----------
+
+El último piso de uno de los bloques del colegio Hugo Dávila acoge a**l ‘Huerto Smart 2.0’**, con una capacidad para producir unas 1 500 plantas, **entre grandes y “bebés”**, con la intervención de 350 escolares de 12 y 13 años, indicó Mallea.
+
+El invernadero tiene un área para mezclar los nutrientes que se echarán al agua para el riego de las plantas y otra de empaque.
+
+Los espacios mayores se usan para **germinar las semillas** y para el desarrollo de las plantas con el método de la hidroponía, el cultivo sin suelo en una estructura que contiene el agua fortificada.
+
+Tecnologías desarrolladas por Cruz Verde
+----------------------------------------
+
+El huerto incluye tecnologías desarrolladas por Cruz Verde, como el ‘Cerebelum’, “un cerebro inteligente que puede conectar un invernadero y todas las máquinas a una **aplicación para ser controlado**” remotamente, explicó Félix Angulo, el gerente general de la empresa.
+
+Con esta tecnología es posible controlar desde un teléfono móvil las luces del **germinador, los ventiladores y las bombas de agua**, por lo que sólo se requiere una visita semanal para revisar que todo esté en orden.
+
+Esta versión del ‘Cerebelum’ también permite “sugerir **ciertos horarios** para que se repitan cada día y conseguir una producción exitosa”, y una segunda que está en desarrollo tendrá **“sensores y otro tipo de alarmas”** para prevenir pérdidas o fugas de agua, y “monitorear en tiempo real la producción”, agregó.
+
+También está el ‘Baby Plant’, un **germinador de cuatro pisos** capaz de hacer brotar “en menos de un metro cuadrado más de mil plantas a la vez”.
+
+Más objetivos
+-------------
+
+Los escolares visitan el huerto una vez por semana y tuvieron su primera **cosecha hace unos días.** La venta de los productos permite la autosostenibilidad del proyecto, pues con lo recaudado se reinicia el ciclo de producción.
+
+Mallea destacó que se apunta a **ofrecer alimentos “de una mejor calidad,** con una mejor inocuidad y al alcance de los padres”, que son los compradores, con el fin también de disminuir la dependencia alimentaria de La Paz.
+
+La meta es llegar a**l centenar de huertos inteligentes en escuelas, hogares de ancianos u orfanatos**, entre otros, para “duplicar la cantidad de alimentos que se producen actualmente en el municipio”, indicó.
+
+Transformar agricultura boliviana
+---------------------------------
+
+Angulo resaltó que también se busca transformar la **agricultura boliviana**, que actualmente tiene rezagos tecnológicos.
+
+“Dar estos saltos con el apoyo del internet y de instituciones nos permite hacer llegar tecnología de una manera más veloz a **nuestra población**. No tener que esperar 10 años a que estas tecnologías bajen de precio, sino desarrollarlas nosotros mismos desde aquí con las piezas que están a nuestro alcance”, afirmó. 
+
+Detienen a policía con un auto robado este domingo 20 de octubre, en Manta
+==========================================================================
+
+El policía detenido pertenecería a las filas del Servicio Urbano del Distrito Manta. Fue trasladado a la Unidad de Vigilancia Comunitaria
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Un policía fue detenido por circular en un auto reportado como robado.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5-3.jpg)
+
+Este **domingo 20 de octubre de 2024**, en redes sociales circularon videos sobre la detención de un policía detenido en Manta en posesión de **un vehículo reportado como robado**.
+
+### Más noticias
+
+* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
+* [Cortes de luz en Quito para este domingo 20 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-domingo-20-de-octubre-horarios.html "Cortes de luz en Quito para este domingo 20 de octubre")
+* [Cortes de luz en Guayaquil este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-domingo-20-de-octubre.html "Cortes de luz en Guayaquil este domingo 20 de octubre")
+
+La detención del policía
+------------------------
+
+En el video, se puede ver que **uniformados detuvieron a un policía**, a quien primero desarmaron y requisaron. También le pidieron sus identificaciones policiales. El policía entregó, además, más de 130 dólares en efectivo.
+
+Posteriormente**, los uniformados lo esposaron y lo llevaron a la patrulla**.
+
+Se trataría del cabo segundo Rody V., quien circulaba en **un auto Toyota Fortuner** este domingo en Manta. Cuando los uniformados revisaron la placa, constataron que se trataba de un v**ehículo reportado** como robado.
+
+Los policías le comunicaron sus derechos y le comunicaron su derecho a comunicarse con un familiar, antes de la detención. Miembros de la Policía Judicial constataron los hechos.
+
+La denuncia la habrían puesto unos **adultos mayores en Milagro,** provincia del Guayas.
+
+El policía estaría implicado en más delitos
+-------------------------------------------
+
+La Policía investiga la presunta **participación del cabo en otros dos delitos**, como falsificación de [documentos](https://es.wikipedia.org/wiki/Manta_(Ecuador) "https://es.wikipedia.org/wiki/Manta_(Ecuador)"). El detenido pertenece a las filas de Servicio Urbano del Distrito Manta,
+
+Esta detención se habría dado en medio de un **operativo** que los uniformados realizaban en la vía Circunvalación este domingo. El vehículo tiene los vidrios polarizados y circulaba sin placas.
+
+Los efectivos policiales trasladaron al cabo segundo hasta la **Unidad de Vigilancia Comunitaria,** donde permanecerá detenido hasta que se dé la audiencia de calificación de flagrancia.
+
+Usuarios en las redes sociales se mostraron indignados por la revelación de este hecho. También puesto que el policía portaba su uniforme al momento de la detención.
+
+> Terrible!!  
+> Un policía fue detenido cuando circulaba en un Toyota Fortuner que estaba reportado como robado.  
+> También era investigado en el 2023 por delincuencia organizada y difusión de información restringida. [pic.twitter.com/CeFOFkqahZ](https://t.co/CeFOFkqahZ)
+> 
+> — Emergencias Ec (@EmergenciasEc) [October 20, 2024](https://twitter.com/EmergenciasEc/status/1848055389331632639?ref_src=twsrc%5Etfw)
+
+Deportivo Quito iguala con Cantera Orense en dieciseisavos de Segunda
+=====================================================================
+
+El Deportivo Quito jugó su partido de ida de dieciseisavos de final de la Segunda Categoría ante Cantera Orense.
+----------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Quito celebran uno de sus goles ante Cantera Orense en Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000148354.jpg)
+
+El **Deportivo Quito** continúa en su camino y sueño de ascender a la Serie B del fútbol ecuatoriano y disputa los dieciseisavos de final de la fase nacional de Segunda Categoría. En el partido de ida de la llave, el equipo capitalino igualó con Cantera Orense y definirán el pase a octavos en la revancha,
+
+Tras un viaje terrestre de más de 500 kilómetros, la ‘AKD’ llegó desde Quito hacia Machala para disputar el compromiso ante la escuadra filial de **Orense**. A las 10:00 de este domingo 20 de octubre del 2024, el balón rodó en el complejo del equipo del litoral.
+
+### Más noticias:
+
+* [Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/luis-saritama-resalta-el-papel-crucial-de-la-hinchada-del-deportivo-quito.html "Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito")
+* [Deportivo Quito vuelve a jugar en Machala a los 22 años](https://www.elcomercio.com/deportes/futbol/deportivo-quito-machala-ascenso-nacional-2.html "Deportivo Quito vuelve a jugar en Machala a los 22 años")
+* [Deportivo Quito recorre más de 1 000 kilómetros por su sueño](https://www.elcomercio.com/deportes/futbol/deportivo-quito-machala-ascenso-nacional.html "Deportivo Quito recorre más de 1 000 kilómetros por su sueño")
+
+De cara al choque ante los chullas, los orenses realizaron fichajes de experimentados jugadores como **Koob Hurtado y Holger Matamoros**. Asimismo, el equipo local llegó como uno de los mejores en cuanto a números y goles durante la campaña.
+
+En el caso de Deportivo Quito, el elenco ha mantenido la plantilla que conformó desde su inclusión en la fase nacional, a pesar de que a nivel provincial ni siquiera superó la primera fase. Entre las figuras del equipo del DT **Carlos Castro**, que había superado la fase previa al derrotar a Santa Elena FC, se encontraban nombres como el de **Iker Morante o Luis Celi.**
+
+Deportivo Quito se adelantó primero en el marcador ante Cantera Orense
+----------------------------------------------------------------------
+
+El choque entre las escuadras se mostró parejo y centrado en la media cancha. Ambos clubes consiguieron asentarse en el cotejo rápidamente y tuvieron paciencia para elucubrar sus jugadas y desarrollar **propuestas ofensivas**.
+
+Antes. delos 10 minutos, sin embargo, el Deportivo Quito encontró el gol desde la pelota parada. Tras un tiro de esquina de **Marvin Cortez** desde el costado izquierdo, **Luis Celi** puso el primero tras un cabezazo que picó en el área y superó al guardameta de Cantera Orense[.](https://es.wikipedia.org/wiki/Sociedad_Deportivo_Quito)
+
+El plantel de **Carlos Castro** consiguió mantener la ventaja hasta el final del primero tiempo del compromiso. Pese a ello, para la segunda mitad, el local reaccionó y generó más de una dificultad en la zaga visitante.
+
+Cantera Orense aumentó el ritmo y el Deportivo Quito no se sostuvo
+------------------------------------------------------------------
+
+Durante la etapa de complemento, **Cantera Orense** consiguió su empate casi de la misma forma que el Quito logró el gol durante la mitad inicial. El tanto que llegó para los locales fue similar en cuanto a tiempos y a la manera en que se produjo.
+
+El equipo de casa anotó a ocho minutos de que se iniciasen los segundos 45 minutos y también desde un tiro de esquina. Tras un envío desde el costado izquierdo, y en mismo arco de la primera anotación, **Walter Rodríguez** envió el balón al fondo de las redes con un cabezazo.
+
+Una vez que los orenses consiguieron el empate, estos también pudieron hacerse con la ventaja, sin embargo, errores propios se los impidieron. Tras la igualdad de 1-1, los clubes definirán la serie el domingo 27 de octubre del 2024 en el **Estadio Gonzalo Pozo Ripalda**.
+
+La obsesión de Diddy por los príncipes William y Harry
+======================================================
+
+Sean Diddy guardaba fotografías enmarcadas de la realeza británica. Sus invitaciones no fueron aceptadas.
+---------------------------------------------------------------------------------------------------------
+
+![Los príncipes William y Harry no pudieron despedirse de su abuela, la reina Isabel II. Foto: Internet](https://www.elcomercio.com/wp-content/uploads/2022/09/principes-ec.jpg)
+
+En septiembre a Sean ‘Diddy’ Combs lo arrestaron y acusaron de asociación ilícita, tráfico sexual y transporte para ejercer la prostitución. 
+
+En los documentos legales se detalla que los actos ilícitos se cometían durante sus fiestas, incluidas las ‘Freak Offs’. Estas son descritas como “espectáculos sexuales elaborados y producidos”, según ‘Us Weekly’.
+
+Más noticias
+------------
+
+* [¿Quién es Diddy?](https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html "¿Quién es Diddy?")
+* [Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-demandas-abuso-sexual.html "Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan ")
+
+Cuando la policía realizó un allanamiento en su mansión se confiscaron diversos productos que solían estar en dichas celebraciones. Entre ellos “narcóticos, más de 1.000 botellas de aceite para bebé y lubricantes”, se explicó en la acusación.
+
+Adicionalmente, se encontraron fotografías en las que se deja ver que diversas celebridades hicieron parte de estas fiestas. Algunos de ellos tienen que declarar en los juicios en contra del rapero y compositor estadounidense.
+
+La obsesión de Diddy con los príncipes William y Harry
+------------------------------------------------------
+
+En conversación con el medio BBC News, Rob Shutter, expublicista del cantante reveló que Diddy era un gran admirador de los príncipes del Reino Unido: Guillermo y Harry. En diferentes ocasiones los invitó a sus fiestas.
+
+Shutter expresó que el compositor le habría hecho llamar a las altezas por “más de 10 veces” para que asistieran a su evento. Pero la realeza nunca aceptó sus invitaciones a pesar de que Combs “se ofreció a cubrir sus viajes, alojamiento e incluso pagar su seguridad”.
+
+Diddy estaba obsesionado con el príncipe Harry y el príncipe William. Él se considera un rey, por lo que tiene todo el sentido que le gustaría tener dos príncipes en su séquito”. Sin embargo, los príncipes “nunca aceptaron, nunca fueron parte de su mundo”, comentó el expublicista del rapero.
+
+Lo que más impactó en el relato de Rob Shutter es que Sean Diddy Combs, es que la expresión “obsesión” no era para menos. Guardaba “fotografías enmarcadas” que mantenía en su apartamento en Nueva York.
+
+También, comentó que Sean Diddy realmente nunca tuvo “vida privada”. Esto se debe a que su enfoque principal era construir su propio imperio y dejar su legado: “Fue todo trabajo. Quería convertirse en la persona más famosa del mundo y, curiosamente, ahora lo es”.
+
+Aunque se encuentra bajo arresto en el Centro de Detención Metropolitano de Brooklyn.
+
+Incendio consume el 60% del barco pesquero Jostin en el Puerto de Manta
+=======================================================================
+
+Los Bomberos de Manta acudieron al sitio para contener el fuego y evitar que otros barcos se afecten.
+-----------------------------------------------------------------------------------------------------
+
+![Un barco artesanal se quemó en la mañana de este domingo 20 de octubre del 2024. Foto: Bomberos de Manta](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-43.jpg)
+
+A las 06:57, los Bomberos de Manta recibieron la alerta de que una embarcación pesquera denominada Jostin se estaba incendiando en el Puerto de esta localidad manabita.
+
+Más noticias
+------------
+
+* [Un incendio forestal se reportó en Ambato este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/incendio-ambato-viernes-18-octubre.html "Un incendio forestal se reportó en Ambato este viernes 18 de octubre")
+* [El Nacional brindó un reconocimiento a los bomberos tras incendios](https://www.elcomercio.com/deportes/el-nacional-reconocimiento-bomberos-incendio.html "El Nacional brindó un reconocimiento a los bomberos tras incendios")
+
+En la noche de este sábado, el barco de tipo artesanal había llegado cargado de pesca y lo dejaron en el Puerto junto a otras embarcaciones.
+
+El flagelo empieza a visibilizarse en las cubiertas del barco en la mañana de este domingo 20 de octubre del 2024. Julio Roca, comandante de los [Bomberos de Manta](https://bomberosmanta.gob.ec/), confirmó el incidente.
+
+Para controlar este incendio tuvieron que primero remolcar a la embarcación junto con el personal de la Capitanía del Puerto. De esta manera se resguardó al resto de barcos, que se encuentran en el sitio.
+
+![Una vez acoderado el barco en el muelle, los bomberos terminaron del liquidar el incendio. Foto: Bomberos de Manta ](https://www.elcomercio.com/wp-content/uploads/2024/10/Barco-2-1024x768.jpg)
+
+Una vez acoderado en el muelle, los bomberos terminaron del liquidar el flagelo. Foto: Bomberos de Manta
+
+Roca considera que un 60% del barco quedó afectado, principalmente, las cubiertas de mando y de pesca. Entre unas 400 a 500 toneladas de pesca se perdieron en este incendio.
+
+Una vez que la embarcación quedó acoderada en el muelle, los bomberos pudieron completar sus labores y liquidar el incendio por completo. Todo este proceso tomó varias horas.
+
+Según, el comandante no había ningún responsable ni propietario del barco, mientras realizaban su trabajo. Tampoco se conoce cuál fue el origen de este incendio.
+
+Esta no es la primera vez que ocurre este tipo de eventos en el Puerto manabita. En este caso, no se registraron personas heridas. Se espera conocer en los próximos días qué fue lo que ocurrió durante la noche y madrugada de este domingo en Jostin, el barco pesquero.
+
+Cortes de luz en Quito para este domingo 20 de octubre
+======================================================
+
+Los cortes de luz de este domingo 20 se mantienen en 10 horas en Quito, divididos en dos franjas horarias. A partir del lunes, bajarán a 8 horas
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El personal de la EEQ instaló un transformador en la subestación de Tababela.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-4-3.jpg)
+
+El presidente **Daniel Noboa** anunció cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, estos empiezan el lunes 21 de octubre de 2024. La **Empresa Eléctrica Quito** publicó el cronograma.
+
+### Más noticias
+
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+* [Cortes de luz en Cuenca este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-domingo-20-de-octubre.html "Cortes de luz en Cuenca este domingo 20 de octubre")
+* [Cortes de luz en Guayaquil este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-domingo-20-de-octubre.html "Cortes de luz en Guayaquil este domingo 20 de octubre")
+
+Reducción de cortes de luz
+--------------------------
+
+**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
+
+Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
+
+Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
+
+* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
+* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
+* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
+
+Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Horarios de cortes de luz en Quito este sábado
+----------------------------------------------
+
+Estas son las franjas horarias programadas y los sectores afectados en la capital:
+
+De 00:00 a 03:00 y de 13:00 a 19:00
+-----------------------------------
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+
+De 06:00 a 10:00 y de 16:00 a 21:00
+-----------------------------------
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Epiclachima
+
+Desde las 09:00 hasta las 12:00 y de 18:00 a 24:00
+--------------------------------------------------
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+Cortes de luz de 10:00 a 13:00 y de 19:00 a 24:00
+-------------------------------------------------
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+Desde las 00:00 hasta las 06:00 y de 12:00 a 16:00
+--------------------------------------------------
+
+* Barrio Nuevo
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* El Quinche
+
+De 00:00 a 06:00 y de 14:00 a 18:00
+-----------------------------------
+
+* Olímpico
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Pomasqui
+* Eugenio Espejo
+
+De 07:00 a 09:00 y de 18:00 a 24:00
+-----------------------------------
+
+* Luluncoto
+* Chilibulo
+* San Roque
+* Río Coca
+* Andalucía
+* Cotocollao
+* Conocoto
+* Alangasí
+* Santa Rosa
+* Inga Bajo
+
+> 🚨 [#EEQInforma](https://twitter.com/hashtag/EEQInforma?src=hash&ref_src=twsrc%5Etfw) | Compartimos la programación de cortes del servicio de energía eléctrica prevista desde el lunes 14 al domingo 20 de octubre del 2024.  
+>   
+> Los horarios y sectores en el siguiente link:  
+>   
+> ➡️ PDF[https://t.co/qoAaeLeVAv](https://t.co/qoAaeLeVAv)[#EEQSiempreJuntoATi](https://twitter.com/hashtag/EEQSiempreJuntoATi?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LHtOdq7Kxs](https://t.co/LHtOdq7Kxs)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [October 12, 2024](https://twitter.com/ElectricaQuito/status/1845251177002172456?ref_src=twsrc%5Etfw)
+
+¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?
+=====================================================================
+
+El Clásico del Astillero 235 se llevará a cabo entre Barcelona SC y Emelec en el Estadio Monumental por la fecha 10 de la Liga Pro.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Barcelona SC y Emelec en su último enfrentamiento en el Clásico del Astillero.](https://www.elcomercio.com/wp-content/uploads/2024/05/g-47.jpg)
+
+La reanudación de la Liga Pro trajo consigo uno de los partidos más importantes en la historia del campeonato ecuatoriano. Este domingo 20 de octubre a las 17:30 se disputará el Clásico del Astillero entre **Barcelona SC y Emelec**.
+
+Después de la paralización del torneo nacional debido a las eliminatorias sudamericanas y la participación de la **Selección de Ecuador**, la fecha 10 del torneo liguero se llevó a cabo. El choque entre toreros y eléctricos será el último de la jornada y el que dejará la tabla definida.
+
+### Más noticias:
+
+* [Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-emelec-clasico-astillero.html "Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico")
+* [Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años](https://www.elcomercio.com/deportes/futbol/damian-diaz-goles-emelec-clasico.html "Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años")
+* [Los Clásicos del Astillero más decisivos del Siglo XXI](https://www.elcomercio.com/deportes/clasico-astillero-barcelona-emelec-partidos-historicos.html "Los Clásicos del Astillero más decisivos del Siglo XXI")
+
+Para el compromiso, ambos clubes llegan alejados de los líderes en la segunda etapa: **Barcelona** en la segunda mitad de la tabla y **Emelec** en los últimos lugares. Los primeros se encuentran en la novena posición con **13 puntos**, mientras que los segundos son antepenúltimos con siete.
+
+A nivel de la tabla acumulada, el ‘Ídolo’ lucha por un cupo hacia la **Copa Libertadores**, mientras que el ‘Bombillo’ también espera llegar a la **Copa Sudamericana**. En aquella clasificación, los amarillos están terceros con 44 y los azules, novenos con 32[.](https://es.wikipedia.org/wiki/Barcelona_Sporting_Club)
+
+De cara al compromiso, que se jugará en el Estadio Monumental de Guayaquil, el plantel torero estrenará un nuevo DT, mientras que sus rivales irán con **Leonel Álvarez** en la zona técnica. Los canarios verán el tercer debut en su club de Segundo Alejandro Castillo, quien asumió las riendas del equipo tras la salida de **Ariel Holan**.
+
+Detalles del partido
+--------------------
+
+**Fecha**: 20 de octubre del 2024.
+
+**Partido**: Barcelona SC vs. Emelec
+
+**Hora**: 17:30.
+
+**Estadio**: Monumental de Guayaquil
+
+El Clásico del Astillero 235 entre Barcelona SC y Emelec
+--------------------------------------------------------
+
+**Barcelona SC y Emelec** disputarán el partido 235 entre sí en su historia en campeonatos nacionales. A partir del 20 de diciembre de 1963, los clubes han construido la leyenda del Clásico del Astillero en los torneos ligueros del país.
+
+Dentro de los enfrentamientos sí hay una diferencia, pero esta no es marcada. El Ídolo se impone con al contar con **74 victorias** a favor, mientras que el ‘Bombillo’ cuenta con **72**. La cantidad de empates entre ambas escuadras es de 88 duelos.
+
+Cortes de luz en Cuenca este domingo 20 de octubre
+==================================================
+
+En algunos barrios de Cuenca, los cortes de luz se aplican de corrido, mientras que en otros se realizan en dos partes.
+-----------------------------------------------------------------------------------------------------------------------
+
+![La empresa Centrosur realiza el mantenimiento y colocación de postes.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-3-3.jpg)
+
+La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este domingo 20 de octubre de 2024. La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
+
+Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
+
+### Más noticias
+
+* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
+* [Cortes de luz en Guayaquil este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-domingo-20-de-octubre.html "Cortes de luz en Guayaquil este domingo 20 de octubre")
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+
+Horarios de cortes de luz
+-------------------------
+
+El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
+
+En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
+
+Los horarios del cronograma en la ciudad austral se implementan en **13 jornadas**:
+
+* 00:00 a 06:00
+* 00:00 a 04:00 y de 11:00 a 16:00
+* 02:00 a 06:00 0y de 15:00 a 19:00
+* 06:00 a 11:00 y de 14:00 a 18:00
+* 06:00 a 10:00 y de 14:00 a 18:00
+* 06:00 a 10:00 y de 18:00 a 22:00
+* 10:00 a 14:00 y de 18:00 a 22:00
+* 10:00 a 14:00 y de 17:00 a 21:00
+* 10:00 a 14:00 y de 20:00 a 00:00
+* 13:00 a 18:00 y de 21:00 a 00:00
+* 16:00 a 19:00
+* 18:00 a 21:00
+* 10:00 a 16:00
+
+La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://nest.centrosur.gob.ec/programacion-cortes/assets/pdfs/Cortes-19-al-20-octubre-2024.pdf "https://nest.centrosur.gob.ec/programacion-cortes/assets/pdfs/Cortes-19-al-20-octubre-2024.pdf").
+
+> 📍 Importante  
+>   
+> 🗓️ Conoce los horarios y sectores de suspensiones programadas del servicio eléctrico⚡para la semana del lunes 14 al domingo 20 de octubre de 2024.  
+>   
+> Revisa la información completa por día, en el siguiente link [https://t.co/rSyIcAkiFb](https://t.co/rSyIcAkiFb) [pic.twitter.com/bLA16sng7x](https://t.co/bLA16sng7x)
+> 
+> — Centrosur (@centrosurec) [October 12, 2024](https://twitter.com/centrosurec/status/1845251541734748404?ref_src=twsrc%5Etfw)
+
+Reducción de cortes de luz
+--------------------------
+
+**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
+
+Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
+
+Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
+
+* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
+* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
+* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
+
+Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Cortes de luz en Guayaquil este domingo 20 de octubre
+=====================================================
+
+Los horarios de cortes de luz en Guayaquil se realizan en dos franjas horarias que contemplan entre ocho y 10 horas de suspensión.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Personal de CNEL realiza el mantenimiento en las subestaciones de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-2-3.jpg)
+
+El presidente **Daniel Noboa** anunció cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, la noche del jueves 17 de octubre de 2024. La empresa distribuidora Cnel publicó el cronograma para Guayaquil de este domingo 20 de octubre.
+
+### Más noticias
+
+* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
+
+Reducción de cortes de luz
+--------------------------
+
+**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
+
+Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
+
+Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
+
+* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
+* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
+* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
+
+Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Horarios de cortes de luz en Guayaquil
+--------------------------------------
+
+La empresa distribuidora de energía eléctrica **CNEL** dio a conocer el cronograma de **cortes de luz** previstos para este **domingo 20 de octubre.**
+
+Los cortes se aplicarán como siempre en **distintas franjas horarias**. Las de este domingo arrancaron a las 00:00 y se mantendrán a lo largo del día.
+
+Estos cortes del suministro eléctrico de la mañana, tarde y noche se aplicarán **durante** ocho y 10 horas distribuidas, por lo general, en dos franjas horarias.
+
+Aquí puedes consultar el **cronograma completo** de los [cortes de luz](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") en Guayaquil:
+
+> 🚨 ACTUALIZACIÓN  
+>   
+> Conoce los horarios de suspensión del servicio de energía eléctrica para el periodo del 14 hasta el 20 de octubre.  
+>   
+> Horarios por Unidades de Negocio aquí:  
+>   
+> Bolívar: [https://t.co/Y7QGLXY3yB](https://t.co/Y7QGLXY3yB)  
+> El Oro: [https://t.co/YuwxwyuvNX](https://t.co/YuwxwyuvNX)  
+> Esmeraldas: [https://t.co/mVlr2SMJhE](https://t.co/mVlr2SMJhE)… [pic.twitter.com/SoiR8vSo4G](https://t.co/SoiR8vSo4G)
+> 
+> — CNEL EP (@CNEL\_EP) [October 13, 2024](https://twitter.com/CNEL_EP/status/1845312993397264557?ref_src=twsrc%5Etfw)
+
+Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil
+======================================================================
+
+El vehículo de Jimmy Jairala recibió entre 9 y 10 tiros muy cerca de las ventanas. Una persona resultó herida y trasladada a una casa de salud.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El auto del exprefecto Jairala recibió entre 9 y 10 tiros.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-1-3.jpg)
+
+**Jimmy Jairala,** candidato a la Presidencia de Ecuador, **denunció** la madrugada de este domingo 20 de octubre de 2024 sobre un ataque armado que sufrió **el auto en el que iba su hijo**.
+
+### Más noticias
+
+* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
+* [Señales de la inseguridad se plasman en espacios de Ecuador](https://www.elcomercio.com/actualidad/seguridad/senales-inseguridad-espacios-publicos-otros-puntos.html "Señales de la inseguridad se plasman en espacios de Ecuador")
+* [Policía detuvo a falsos trabajadores de CNEL en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-falsos-trabajadores-cnel-guayaquil.html "Policía detuvo a falsos trabajadores de CNEL en Guayaquil")
+
+El ataque que sufrió Jairala
+----------------------------
+
+Jairala comunicó en videos compartidos en sus redes sociales que uno de sus vehículos fue atacado a tiros a la altura de la **Ciudadela Río Guayas** en Samborondón. El hecho violento se habría registrado alrededor de las 02:00 de este domingo 20.
+
+En el vehículo viajaban su hijo, la novia y amigos; además, el **conductor era Cipriano Quiñónez**, quien les brinda seguridad. El auto recibió entre 9 y 10 tiros, varios de ellos hirieron al conductor.
+
+El grupo de amigos salía de **un concierto en el Centro de Convenciones** y no habrían ingerido alcohol, añadió Jairala. Luego del ataque se resguardaron en la garita de la ciudadela.
+
+El exprefecto **se mostró preocupado** por la situación. El conductor fue llevado a una casa de salud, donde recibe atención médica.
+
+Jairala pide se investiguen los móviles del ataque
+--------------------------------------------------
+
+La Policía **acudió a la emergencia** y realiza las pericias [correspondientes](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") para investigar el hecho. El exdiputado pidió que se investiguen los motivos del hecho.
+
+Jairala subió varios videos en los que **mostró las condiciones en las que quedó el vehículo**, con orificios causados por las balas en la carrocería y sangre en el sitio del conductor.
+
+Además, recalcó su preocupación **ante la inseguridad que atraviesa Ecuador** y mostró su alivio frente al hecho de que su hijo y sus amigos salieron ilesos.
+
+Añadió que espera que nadie insinúe que se trató de un autoatentado. Señaló que no es su intención hacer un escándalo con este hecho pero que debe registrarlo.
+
+Jairala acudirá a poner la denuncia formal para que la Policía realice las investigaciones de rigor.
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) Acaban de balear mi vehículo (aproximadamente 2h00) en el que viajaba mi hijo Diego, su novia y amigos. El chofer que da seguridad está herido y fue trasladado a un Hospital. [pic.twitter.com/8bS44UOC4L](https://t.co/8bS44UOC4L)
+> 
+> — Jimmy Jairala (@jimmyjairala) [October 20, 2024](https://twitter.com/jimmyjairala/status/1847920899766296840?ref_src=twsrc%5Etfw)
+
 Cinco chefs destacan la importancia de su profesión en el Día del Chef 
 =======================================================================
 
@@ -91,26 +837,6 @@ Para el **chef Francesco Almeida**, la niñez y adolescencia estuvieron marcadas
 Foto: Cortesía.
 
 Andrea Ávila, de 38 años, estudió en la Universidad de Especialidades Turísticas. Tras impartir clases de bartender y etiqueta, trabajó en restaurantes, especializándose luego en catering y pastelería, lo que la llevó a lanzar su marca Sweet Vintage hace más de 7 años. Este emprendimiento se centra en la elaboración de postres caseros con un enfoque tradicional, y ha evolucionado para incluir productos saludables. La motivación detrás de su trabajo es la perfección en cada detalle, impulsada por su pasión por la gastronomía y el apoyo de su familia, especialmente su hijo. 
-
-Embajadas, no elegibles & corruptos
-===================================
-
-EE. UU. negó la entrada a Correa, Glas y sus familias por corrupción, ligada a la condena de Carlos Pólit.
-----------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-La reciente decisión del **Departamento** de **Estado** de los **Estados Unidos**, expresada a través de su **Embajada en el Ecuador,** en el sentido de que, no son elegibles para ingresar a dicho país,  Correa y Glas, así como sus **respectivas familias**, no debe interpretarse como **retiro de las visas,** sino más bien, como una meditada, sustentada e **importante decisión** mediante la cual los **Estados Unidos** se anticipa públicamente en expresar e informar su negativa de conceder visa a las personas aludidas. Las razones  de tal **decisión**, es por estar relacionados ambos **mandatarios** con graves asuntos de **corrupción** durante el **desempeño** en sus funciones.
-
-Dicha soberana **decisión** de estado, es sin duda una vergonzante **sanción moral** ante el mundo, la misma que probablemente tendría que ver con la reciente sentencia en contra del **ex Contralor Carlos Pólit**, sentenciado por el delito de **lavado de activos** en USA, utilizando para el efecto los dineros sucios obtenidos por coimas durante los gobiernos de Correa, condena dada en **corte norteamericana**, ajena al cacareado Lawfare del revolucionario **socialismo siglo XXI**, con lo cual se derrumba dicha teoría, aplastada por la verdad y por la **historia**.
-
-No debemos descartar la posibilidad en el sentido de que, a cambio de alguna **bondad judicial**,  Pólit haya llegado a un **acuerdo de cooperación** con la justicia norteamericana y, por ende, haya realizado **declaraciones** que involucren seriamente a Correa y a Glas. De igual manera, la extensión de esta suerte de **sanción pública,** se haría extensiva a sus familiares, quizás  en razón de que uno de los implicados en el **lavado de activos**, sería uno de los hijos del condenado Pólit. Es decir, lo dado es un claro y certero mensaje del **gobierno estadounidense,** en el sentido de que, dichos **personajes** no son bienvenidos, que en su país no están abiertas las puertas para **corruptos**, ni para **potenciales actividades** que pudieran realizar familiares de aquellos.
-
-USA ya se ha pronunciado en el pasado con actos similares, por ejemplo, con el retiro de la visa al expresidente de Colombia E. Samper por sus **relaciones con el narcotráfico;**  el retiro de la visa a los expresidentes y allegados, tanto de Guatemala  Alejandro Giammattei como  del Paraguay Horacio Cartes, incluso a Abdalá Bucaram (pese a no tener **sentencia condenatoria**) al considerarlo  no elegible para ingresar; y, a Verónica Abad, actual vicepresidenta, con el retiro de la visa, según fuentes periodísticas. Cabe indicarse que tanto Giammattei cuanto Cartes tienen **tendencia política de derecha**, lo cual deja claro que no se trata de una **retaliación ideológica**, sino de un  frontal ataque a los actos de **corrupción de las altas esferas políticas.**
-
-Lo dado, en buena hora, da un espaldarazo importante a la **situación del Ecuador** en el concierto internacional frente al ingreso de la Embajada de México en Quito el viernes 5 de abril, dejando muy mal parados frente al mundo, a **Correa**  y al gobierno mexicano del expresidente AMLO. Adicionalmente, más allá de la sanción moral, la razón del **gobierno estadounidense** no deja duda de los actos de corrupción de los implicados; y, por ende, deriva por interpretación extensiva el considerar el carácter de guarida a la **embajada mexicana** ocupada en su momento por un **delincuente** sentenciado. Sin perjuicio, de la **situación incómoda** en la que deja dicha **decisión**, en lo internacional, a **Bélgica** y  a la Interpol que se ha negado a **activar la difusión roja** y por ende a  ejecutar la **captura internacional** en contra de Correa;  y, en lo local, a algunos **ecuatorianos** que se pronunciaron en contra del ingreso, no por apoyar a Correa, pese a que de alguna manera se alinearon a su tesis del asalto, enredándose estos  en los formalismos y **protocolos diplomáticos**, sin entender ni llegar a ver la esencia de la situación, esto es, la recta intención de no permitir la potencial fuga y por ende **impunidad** de un sentenciado por **corrupción** y **prófugo** a la época, alojado en la embajada de dicho país, a fin de abusando y mal utilizando la **institución** del asilo político y solapado por AMLO, pretendía evadir flagrantemente la **justicia ecuatoriana**.
-
-Que esto sirva de **reflexión** para muchos.
 
 Quito, la capital de los solteros
 =================================
@@ -191,6 +917,26 @@ Desde mi niñez me aseguraron  que un ángel se le apareció a una virgen llama
 Y cada vez que miro Su Cruz, me pregunta ¿Quién Soy Yo? Yo, afirmo que Jesús es mi Dios y Salvador, que resucitó y volvió al seno del Padre Dios y del Espíritu Santo, y que Él es, el  camino, la verdad y la vida de todos.  Creo que dependo totalmente de Su misericordia y que  todo lo que me han enseñado es cierto.
 
 Alfredo Gallegos Chiriboga
+
+Embajadas, no elegibles & corruptos
+===================================
+
+EE. UU. negó la entrada a Correa, Glas y sus familias por corrupción, ligada a la condena de Carlos Pólit.
+----------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+La reciente decisión del **Departamento** de **Estado** de los **Estados Unidos**, expresada a través de su **Embajada en el Ecuador,** en el sentido de que, no son elegibles para ingresar a dicho país,  Correa y Glas, así como sus **respectivas familias**, no debe interpretarse como **retiro de las visas,** sino más bien, como una meditada, sustentada e **importante decisión** mediante la cual los **Estados Unidos** se anticipa públicamente en expresar e informar su negativa de conceder visa a las personas aludidas. Las razones  de tal **decisión**, es por estar relacionados ambos **mandatarios** con graves asuntos de **corrupción** durante el **desempeño** en sus funciones.
+
+Dicha soberana **decisión** de estado, es sin duda una vergonzante **sanción moral** ante el mundo, la misma que probablemente tendría que ver con la reciente sentencia en contra del **ex Contralor Carlos Pólit**, sentenciado por el delito de **lavado de activos** en USA, utilizando para el efecto los dineros sucios obtenidos por coimas durante los gobiernos de Correa, condena dada en **corte norteamericana**, ajena al cacareado Lawfare del revolucionario **socialismo siglo XXI**, con lo cual se derrumba dicha teoría, aplastada por la verdad y por la **historia**.
+
+No debemos descartar la posibilidad en el sentido de que, a cambio de alguna **bondad judicial**,  Pólit haya llegado a un **acuerdo de cooperación** con la justicia norteamericana y, por ende, haya realizado **declaraciones** que involucren seriamente a Correa y a Glas. De igual manera, la extensión de esta suerte de **sanción pública,** se haría extensiva a sus familiares, quizás  en razón de que uno de los implicados en el **lavado de activos**, sería uno de los hijos del condenado Pólit. Es decir, lo dado es un claro y certero mensaje del **gobierno estadounidense,** en el sentido de que, dichos **personajes** no son bienvenidos, que en su país no están abiertas las puertas para **corruptos**, ni para **potenciales actividades** que pudieran realizar familiares de aquellos.
+
+USA ya se ha pronunciado en el pasado con actos similares, por ejemplo, con el retiro de la visa al expresidente de Colombia E. Samper por sus **relaciones con el narcotráfico;**  el retiro de la visa a los expresidentes y allegados, tanto de Guatemala  Alejandro Giammattei como  del Paraguay Horacio Cartes, incluso a Abdalá Bucaram (pese a no tener **sentencia condenatoria**) al considerarlo  no elegible para ingresar; y, a Verónica Abad, actual vicepresidenta, con el retiro de la visa, según fuentes periodísticas. Cabe indicarse que tanto Giammattei cuanto Cartes tienen **tendencia política de derecha**, lo cual deja claro que no se trata de una **retaliación ideológica**, sino de un  frontal ataque a los actos de **corrupción de las altas esferas políticas.**
+
+Lo dado, en buena hora, da un espaldarazo importante a la **situación del Ecuador** en el concierto internacional frente al ingreso de la Embajada de México en Quito el viernes 5 de abril, dejando muy mal parados frente al mundo, a **Correa**  y al gobierno mexicano del expresidente AMLO. Adicionalmente, más allá de la sanción moral, la razón del **gobierno estadounidense** no deja duda de los actos de corrupción de los implicados; y, por ende, deriva por interpretación extensiva el considerar el carácter de guarida a la **embajada mexicana** ocupada en su momento por un **delincuente** sentenciado. Sin perjuicio, de la **situación incómoda** en la que deja dicha **decisión**, en lo internacional, a **Bélgica** y  a la Interpol que se ha negado a **activar la difusión roja** y por ende a  ejecutar la **captura internacional** en contra de Correa;  y, en lo local, a algunos **ecuatorianos** que se pronunciaron en contra del ingreso, no por apoyar a Correa, pese a que de alguna manera se alinearon a su tesis del asalto, enredándose estos  en los formalismos y **protocolos diplomáticos**, sin entender ni llegar a ver la esencia de la situación, esto es, la recta intención de no permitir la potencial fuga y por ende **impunidad** de un sentenciado por **corrupción** y **prófugo** a la época, alojado en la embajada de dicho país, a fin de abusando y mal utilizando la **institución** del asilo político y solapado por AMLO, pretendía evadir flagrantemente la **justicia ecuatoriana**.
+
+Que esto sirva de **reflexión** para muchos.
 
 Turismo a las conquistas
 ========================
@@ -334,639 +1080,3 @@ Lo que se debe reconocer, según Velasco, es que **Quito** tiene una buena capac
 Christian Rivera dice que **Quito** cuenta con algunos planes de **prevención** que están en diferentes entidades del **Municipio**, pero que con las nuevas administraciones no se han actualizado.
 
 Lo que tiene que hacer el Municipio es actualizarlos y ejecutarlos, afirma el experto en riesgos.
-
-Lionel Messi y Leonardo Campana estarán en el Mundial de Clubes
-===============================================================
-
-El Inter de Miami de Leonardo Campana y Lionel Messi estará en el Mundial de Clubes de 2025 por invitación del país organizador.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana celebrando con Lionel Messi luego de anotar un golazo en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/messi-campana.png)
-
-El presidente de la FIFA, **Gianni Infantino**, anunció este sábado que el Inter Miami de Lionel Messi participará en el Mundial de Clubes de 2025.
-
-Infantino acudió este sábado al Chase Stadium del **Inter Miami**, que este sábado goleó por 6-2 a New England Revolution.
-
-### Más noticias:
-
-* [Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15](https://www.elcomercio.com/deportes/leonardo-campana-seleccion-ecuador-sub-15.html "Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15")
-* [Leonardo Campana sueña con ser artista](https://www.elcomercio.com/deportes/futbol/leonardo-campana-suena-con-ser-artista.html "Leonardo Campana sueña con ser artista")
-* [Kamala Harris hará campaña junto a Barack y Michelle Obama en estados clave](https://www.elcomercio.com/actualidad/mundo/kamala-harris-hara-campana-junto-barack-michelle-obama-estados-clave.html "Kamala Harris hará campaña junto a Barack y Michelle Obama en estados clave")
-
-“**Debido a esta asombrosa actuación en este año, merecen estar y estarán en el Mundial de Clubes de 2025**“, dijo Infantino a la afición de Inter Miami.
-
-El presidente de la FIFA también detalló que el **Inter Miami** jugará el partido inaugural de este nuevo torneo en el Hard Rock Stadium de la ciudad de Florida.
-
-El equipo que dirige **Gerardo Martino** ya había conquistado de forma matemática a comienzos de octubre el MLS Supporters’ Shield, que premia al mejor equipo de la temporada regular en la MLS.
-
-¿Cuándo jugarán Messi y Campana el Mundial de Clubes?
------------------------------------------------------
-
-El **Mundial de Clubes** ampliado de la FIFA, que se estrenará en el verano de 2025, tenía una plaza en el aire que correspondía por invitación a Estados Unidos, el país organizador.
-
-La FIFA eligió al Inter Miami tras una excepcional temporada con 20 goles y 16 asistencias de Messi en solo 19 partidos y otros 20 tantos del delantero uruguayo **Luis Suárez**.
-
-Con el boleto para el Inter Miami que correspondía al país anfitrión, solo queda por saber el último equipo para el Mundial de Clubes, que será el ganador de la **Copa Libertadores** de 2024.
-
-La primera edición del nuevo **Mundial de Clubes** de la FIFA se jugará del 15 de junio al 13 de julio de 2025 con la participación de 32 equipos procedentes de los cinco continentes. En total se jugarán 63 partidos en 12 sedes diferentes. 
-
-La Selección de Ecuador queda subcampeona del Sudamericano Sub-15
-=================================================================
-
-La Selección de Ecuador se midió a Paraguay en busca del título del Sudamericano Sub-15 y perdió por penales.
--------------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador en el partido final del Sudamericano Sub-15 ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000147955.jpg)
-
-La **Selección de Ecuador** se enfrentó a Paraguay en el Sudamericano Sub-15 con el objetivo de conseguir un triunfo histórico. A partir de las 18:30 de este sábado 19 de octubre del 2024, el equipo juvenil buscó levantar el título del torneo, pero cayó en penales.
-
-Después de una agónica clasificación en las semifinales, el elenco que dirige **Juan Carlos Burbano** buscaba convertirse en el segundo equipo nacional en la historia en conseguir un trofeo oficial. Antes, la Tri Sub-20 lo hizo en el 2019.
-
-### Más noticias:
-
-* [La Selección de Ecuador Femenina Sub-17 cae goleada por Nigeria en el Mundial](https://www.elcomercio.com/deportes/partido-seleccion-ecuador-femenina-sub-17-nigeria-mundia-vivo.html "La Selección de Ecuador Femenina Sub-17 cae goleada por Nigeria en el Mundial")
-* [¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?](https://www.elcomercio.com/deportes/futbol/a-que-hora-juega-la-seleccion-de-ecuador-la-final-del-sudamericano-sub-15.html "¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?")
-* [¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?](https://www.elcomercio.com/deportes/hora-ecuador-nigeria-mundial-sub-17.html "¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?")
-
-En su cotejo previo, la **Selección de Ecuador Sub-15** pasó a la final gracias a la definición por penales, en la que se impuso por 4-2. Durante el tiempo reglamentario del compromiso, la escuadra igualó por un marcador de 3-3.
-
-Para el último partido, la escuadra llegó con un grupo consolidado de futbolistas y figuras como Riquelme **Angulo y Justin Lerma**. Asimismo, tan solo había caído en una oportunidad, frente a Venezuela en fase de grupos.
-
-Chances divididas para la Selección de Ecuador Sub-15 y Paraguay
-----------------------------------------------------------------
-
-La **Selección de Ecuador Sub-15 y Paraguay** dejaron claras sus intenciones de levantar el título y, lejos de tener recaudos en los minutos iniciales, ambos empezaron con un tira y jala por ver quién se ponía primero por delante. De tal manera, el juego se volvió frenético y los 45 minutos dejaron un entretenido vaivén entre las escuadras.
-
-El combinado de **Juan Carlos Burbano** tuvo chances con Angulo, pero el máximo goleador del Sudamericano no pudo convertir. Las mayores virtudes estuvieron en la banda Izquierda, sector desde el que mayores jugadas se gestaron.
-
-Tanto la ‘Tri’ como la ‘Albirroja’ estrellaron remates en el travesaño, uno cada selección. Asimismo, la figura de los arqueros, sobretodo de **Miguel Peralta** en Ecuador, fue fundamental para que el empate se mantenga.
-
-La intensidad del partido bajó en el segundo tiempo
----------------------------------------------------
-
-Al igual que en la primera etapa del compromiso, el ritmo de juego que impusieron las selecciones en la segunda fue directamente proporcional. El cotejo vio un descenso en cuanto a la intensidad de ambos equipos, así como un **aumento de los errores** en estos.
-
-Las llegadas de la **Selección de Ecuador y de Paraguay** no fueron de mayor peligrosidad. Salvo por lanzamientos en los cuales los arqueros cometieron errores, insuficientes para perjudicar a su equipos, no hubo grandes oportunidades.
-
-En el cierre del segundo tiempo, **Malcom da Costa** estuvo a punto de poner el 1-0 para la Tri. Tras un carrusel y dejar atrás a tres rivales, el volante sacó un remate de fuera del área que fue bloqueado por el guardameta rival.
-
-La Selección de Ecuador Sub-15 y Paraguay definieron en penales
----------------------------------------------------------------
-
-Paraguay: o-o-o-o-x
-
-Ecuador: o-o-o-x-x
-
-Cortes de luz en Quito este domingo 20 de octubre
-=================================================
-
-Los cortes de luz en Quito son en hasta dos cargas horarias este domingo 20 de octubre.
----------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito son establecidos por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-Quito-20-octubre.jpg)
-
-Los **cortes de luz** en **Quito** para este **domingo 20 de octubre de 2024** se mantienen con hasta 10 horas de duración.
-
-Este es el último día con esta carga horaria; desde el lunes 21 de octubre, los cortes serán de hasta **ocho horas**, en todo el país, por una semana.
-
-### Más noticias:
-
-* [Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-reducidos-21-octubre-10-noviembre-ecuador.html "Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador")
-* [Cambios en cortes de luz llegan con nuevos horarios de clases](https://www.elcomercio.com/actualidad/ecuador/cambios-cortes-luz-llegan-nuevos-horarios-clases.html "Cambios en cortes de luz llegan con nuevos horarios de clases")
-
-Horarios de los cortes de luz en Quito este domingo 20 de octubre
------------------------------------------------------------------
-
-El **Ministerio de Energía y Minas** anunció los nuevos horarios de los cortes de luz reducidos, desde el 21 de octubre hasta el 10 de noviembre de 2024, en Ecuador.
-
-Los cronogramas contemplan la reducción de cortes de luz a **ocho horas** la primera semana hasta cuatro horas en la tercera semana.
-
-El presidente **Daniel Noboa** señaló que el país ha enfrentado momentos extremadamente complejos en las últimas semanas.
-
-Se refirió a los esfuerzos en **negocios, familias y estudiantes** para realizar sus tareas diarias.
-
-En este contexto, dijo que es necesario dar respuestas definitivas a la **crisis energética**, no solo al momento actual.
-
-Anunció que los cortes de luz se mantendrán en **dos franjas horarias** y se **reducirán paulatinamente** para las **zonas residenciales**.
-
-La **semana del 21 de octubre** los cortes serán de ocho horas.
-
-Los cortes serán de seis horas para la **semana del 28 de octubre**.
-
-Para la **semana del 6 de noviembre** serán de cuatro horas.
-
-Para las **zonas industriales**, los horarios se mantendrán.
-
-Mientras tanto, los horarios para Quito y todo el país, **este domingo**, **se mantienen con hasta 10 horas de duración.**
-
-A continuación, **los horarios de cortes de luz en la capital, establecidos por la Empresa Eléctrica Quito, para este domingo 20 de octubre**:
-
-  
-
-Jóvenes de Nueva Prosperina representarán a Ecuador en el Mundial de Robótica
-=============================================================================
-
-Un grupo de jóvenes competirá en el Mundial de Robótica con sus prototipos.
----------------------------------------------------------------------------
-
-![Jóvenes trabajan en un prototipo de robot, en la ciudadela Nueva Prosperina, en Guayaquil. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Ninas.jpg)
-
-Desde Nueva Prosperina, uno de los sectores más peligrosos de Guayaquil, un grupo de jóvenes se prepara para el Mundial de Robótica. Ellos diseñaron y programaron sus propios prototipos. Este logro destaca en un barrio marcado por la violencia de bandas criminales.
-
-Más noticias
-------------
-
-* [Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños](https://www.elcomercio.com/deportes/futbol/marlon-chito-vera-futbol-ninos-guayaquil.html "Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños")
-* [Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social](https://www.elcomercio.com/actualidad/mundo/dos-mil-millones-mujeres-ninas-mundo-tienen-ninguna-proteccion-social.html "Dos mil millones de mujeres y niñas de todo el mundo no tienen ninguna protección social")
-
-Valeria Sancán, una de las participantes, recuerda cómo su hermano mayor representó a Ecuador en un mundial hace siete años. Eso la inspiró a seguir sus pasos. Ahora, a sus 15 años, ya no sueña con ser chef. Su meta es programar y desarrollar prototipos en el campo de la informática y la robótica. “Esto demuestra que podemos dar lo mejor de nosotras”, afirma Valeria.
-
-Un viaje hacia el futuro
-------------------------
-
-En noviembre, Valeria y otras dos jóvenes, junto a tres adolescentes viajarán a Turquía para participar en las Olimpiadas Mundiales de Robótica. Este viaje es posible gracias al programa Innova de la organización Hogar de Cristo. Desde hace diez años, esta organización trabaja para reducir la brecha digital en este sector de Guayaquil.
-
-Valeria expresa su emoción: “Me siento nerviosa y feliz. Nunca pensé que me elegirían para esto”. Su madre, Soledad Vera, observa cómo su rendimiento escolar ha mejorado desde que Valeria ingresó al programa. “Ahora sobresale en sus clases”, asegura.
-
-Modelos a seguir
-----------------
-
-Andrea Quito, la más joven del equipo a sus 14 años, también se siente motivada. Antes quería ser doctora, pero ahora su interés se centra en la tecnología. “Hay más oportunidades en este campo”, comenta. Andrea busca ser una guía para otras niñas. “Me hace feliz poder darles consejos sobre lo que pueden lograr”, añade.
-
-Gandhy Sánchez, coordinador de Innova, destaca que este equipo participa en competencias desde 2015. Al inicio, la mayoría eran niños, pero el porcentaje de niñas ha aumentado. Actualmente, 90 niñas y 124 niños forman parte del programa.
-
-Superando barreras en un entorno violento
------------------------------------------
-
-Un estudio de la [Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/es "https://www.espol.edu.ec/es") revela que solo el 19 % de las mujeres ecuatorianas trabaja en ingeniería y áreas relacionadas. La situación es aún más complicada para las niñas de hogares de bajos ingresos. En Nueva Prosperina, las oportunidades se reducen.
-
-Este sector también enfrenta una alarmante tasa de violencia. En 2023, Nueva Prosperina reportó 114 muertes violentas por cada 100 mil habitantes. A pesar de este contexto, el programa Hogar de Cristo ofrece un espacio seguro y educativo. “Las niñas vienen y encuentran un lugar donde aprender habilidades”, concluye Sánchez.
-
-Un futuro esperanzador
-----------------------
-
-Las historias de Valeria y Andrea reflejan la lucha y la esperanza en medio de la adversidad. Estas niñas no solo compiten en robótica. Representan un cambio en la percepción de las oportunidades para las mujeres en tecnología en Ecuador. Su camino inspira a muchas a seguir sus sueños, sin importar su entorno.
-
-Cuándo y cómo ver la lluvia de meteoros Oriónidas 
-==================================================
-
-Las Oriónidas, una espectacular lluvia de meteoros originada por los restos del cometa Halley.
-----------------------------------------------------------------------------------------------
-
-![Las Oriónidas, uno de los fenómenos astronómicos más bellos del año. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvia-de-meteoros-Orionidas.jpg)
-
-La **lluvia de meteoros Oriónidas** es uno de los **fenómenos astronómicos** más bellos de este año. Este evento anual se produce cuando **la Tierra atraviesa los restos del cometa Halley**, lo que genera un espectáculo visual impresionante en el cielo nocturno.  
-
-### Más noticias
-
-* [¿Qué es la Luna Llena del Cazador que se podrá ver mañana en Ecuador?](https://www.elcomercio.com/tendencias/ciencia/luna-llena-cazador-astronomia-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/luna-llena-cazador-astronomia-ecuador.html")
-* [El cometa Tsuchinshan nos lleva de regreso al origen del Sistema Solar](https://www.elcomercio.com/tendencias/ciencia/cometa-tsuchinshan-astronomia-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/cometa-tsuchinshan-astronomia-ecuador.html") 
-
-Este año, las **Oriónidas** tendrán su máxima actividad entre **la noche del 20 y la madrugada del 21 de octubre**. Durante este periodo, se pueden observar hasta **20 meteoros por hora** en condiciones ideales. 
-
-**¿Qué son las Oriónidas?** 
-----------------------------
-
-**Las Oriónidas son una lluvia de meteoros** que se origina a partir de los **escombros dejados por el cometa Halley**.  
-
-Este cometa, conocido por su aparición cada 76 años, deja tras de sí una **estela de partículas** que, al ingresar en la atmósfera terrestre a velocidades que pueden alcanzar hasta 66 kilómetros por segundo, producen **destellos brillantes en el cielo**, de acuerdo con [Starwalk](https://starwalk.space/es/news/orionid-meteor-shower-how-and-when-to-see#:~:text=Las%20Ori%C3%B3nidas%20se%20consideran%20una,alrededor%20del%2021%20de%20octubre. "https://starwalk.space/es/news/orionid-meteor-shower-how-and-when-to-see#:~:text=Las%20Ori%C3%B3nidas%20se%20consideran%20una,alrededor%20del%2021%20de%20octubre."). 
-
-Este fenómeno es especialmente notable debido a la **rapidez con la que se mueven los meteoros**, lo que hace que sean difíciles de observar si no se está atento 
-
-**Fechas y visibilidad** 
--------------------------
-
-De acuerdo con [El Confidencial](https://www.elconfidencial.com/tecnologia/ciencia/2024-10-04/lluvia-estrellas-orionidas-2024-fechas-1qrt_3976170/ "https://www.elconfidencial.com/tecnologia/ciencia/2024-10-04/lluvia-estrellas-orionidas-2024-fechas-1qrt_3976170/"), en 2024, si bien las **Oriónidas han estado presentes** desde el 2 de octubre hasta el 7 de noviembre, el **pico de actividad** se prevé para la madrugada del 21 de octubre, cuando se espera ver hasta **20 meteoros por hora**.  
-
-Sin embargo, este año **la visibilidad puede verse afectada por la presencia de una Luna iluminada al 83%**, lo que dificultará un poco la observación. Para **maximizar las posibilidades de avistamiento**, se recomienda **alejarse de las áreas urbanas** y buscar lugares con **baja contaminación lumínica**. 
-
-**Dónde observar las Oriónidas** 
----------------------------------
-
-El **punto radiante** de esta lluvia se encuentra en la **constelación de Orión**, cerca de la brillante **estrella Betelgeuse**.  
-
-Aunque los **meteoros** parecen originarse desde este punto, pueden aparecer en cualquier parte del cielo. **Los mejores momentos para observar son entre la medianoche y el amanecer del día pico.** Para aquellos interesados en la astronomía, **aplicaciones como Star Walk 2 y Sky Tonight** pueden ser útiles para localizar el radiante y planificar las observaciones. 
-
-**Recomendaciones para disfrutar del espectáculo** 
----------------------------------------------------
-
-* **Elige un lugar oscuro:** Busca áreas alejadas de las luces urbanas. 
-
-* **Sé paciente:** La observación puede requerir tiempo; permite que tus ojos se adapten a la oscuridad. 
-
-* **Consulta aplicaciones astronómicas:** Utiliza herramientas digitales para mejorar tu experiencia. 
-
-La **lluvia de meteoros Oriónidas** es un evento celestial fascinante que ofrece una oportunidad única para disfrutar del cielo nocturno.  
-
-Aunque las condiciones en 2024 pueden no ser ideales debido a la luz lunar, sigue siendo un **fenómeno digno de observar**.  
-
-Con preparación y paciencia, los entusiastas pueden disfrutar de este espectáculo astronómico y compartir sus experiencias con otros. 
-
-El Instituto Geofísico reportó sobre la actividad del volcán El Reventador
-==========================================================================
-
-El informe sobre el volcán El Reventador se basa en el monitoreo de una cámara de vigilancia, desde las 17:01, de este sábado.
-------------------------------------------------------------------------------------------------------------------------------
-
-![El IG-EPN reportó sobre la actividad de El Reventador este sábado 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/volcan-Reventador.jpg)
-
-El **Instituto Geofísico** de la Escuela Politécnica Nacional (IG-EPN) reportó sobre la actividad del **volcán El Reventador**, la tarde de este sábado 19 de octubre de 2024[.](https://es.wikipedia.org/wiki/Reventador)
-
-El informe se basa en el monitoreo de una **cámara de vigilancia**, desde las 17:01, de hoy.
-
-### Más noticias:
-
-* [En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción](https://www.elcomercio.com/actualidad/ecuador/segundos-sabra-volcanes-hinchan-proceso-erupcion.html "En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción")
-* [Ingreso al volcán El Altar cerrará durante cinco días](https://www.elcomercio.com/actualidad/ecuador/ingreso-volcan-altar-cerrado-dias.html "Ingreso al volcán El Altar cerrará durante cinco días")
-
-Actividad del volcán El Reventador, reportada por el IG
--------------------------------------------------------
-
-El Reventador es una montaña ubicada, aproximadamente, 90 km **al este de Quito** y es, en la actualidad, **uno de los tres volcanes en erupción** del Ecuador.
-
-Geográficamente, forma una fila de volcanes junto con el Pan de Azúcar, el Sumaco y los Conos de Puyo, los cuales están todos ubicados en la **zona Sub-Andina** del Ecuador.
-
-Su **cono** tiene una forma alargada hacia el este, con pendientes de hasta 34º.
-
-Previo a la **erupción del 3 de noviembre de 2002**, la altura del cono era de 3 560 metros sobre el nivel del mar.
-
-Luego de la erupción, la parte superior del cono fue destruida, reduciéndose a 3 450 metros sobre el nivel del mar.
-
-Desde entonces, **se ha vuelto a construir** el cono gracias a la efusión de al menos 26 flujos de lava y al momento se estima que alcanza una altura de 3 600 metros sobre el nivel del mar.
-
-La tarde de este sábado 19 de octubre, el IG-EPN informó sobre la **actividad** de este volcán.
-
-Mediante el monitoreo de la **cámara de vigilancia** LAVCAM, desde las 17:01, se observó el descenso de una corriente de densidad piroclástica (**flujo piroclástico**).
-
-Esta corriente alcanzó los 800 metros bajo el nivel del cráter, por el **flanco sur-oriental** del volcán.
-
-La **actividad histórica** de este volcán es poco conocida debido a su remota ubicación, su inaccesibilidad y a las persistentes malas condiciones climáticas que impiden observaciones visuales directas.
-
-Sin embargo, se estima que el volcán ha tenido **al menos 16 erupciones** entre 1541 y la actualidad, según los estudios del IG-EPN.
-
-Inicio de la erupción actual en el volcán El Reventador
--------------------------------------------------------
-
-La erupción actual inició en 2002 con una **fase bastante explosiva** que alcanzó un índice de explosividad volcánica de 4.
-
-La caída de **ceniza** tuvo una afectación regional significativa, llegando a medir entre 1 y 2 mm de ceniza acumulada en Quito.
-
-Adicionalmente, se generaron flujos piroclásticos que afectaron **la carretera y los oleoductos** ubicados en la zona.
-
-Desde entonces, el volcán ha permanecido con una **actividad de tipo más efusivo**, generando flujos de lava y algunos periodos explosivos de magnitud moderada que generan columnas de explosión de 1 a 2 km de altura, relata el IG-EPN.
-
-Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia
-===================================================================================
-
-El estiaje en un río de Cuenca se confirma, mientras en un sector de la ciudad hubo un poco de lluvia con granizo.
-------------------------------------------------------------------------------------------------------------------
-
-![Un río en Cuenca con estiaje, según Etapa.](https://www.elcomercio.com/wp-content/uploads/2024/10/rio-Cuenca-estiaje.jpg)
-
-Un **río** de **Cuenca** nuevamente entra en situación de estiaje; mientras, en una **parroquia rural** de la ciudad austral se reportó lluvia con granizo.
-
-La situación de los **ríos de Cuenca** se complica, a los 99 días de **sequía** hidrológica.
-
-### Más noticias:
-
-* [¿Cuántos días debe llover en Cuenca para superar la sequía?](https://www.elcomercio.com/actualidad/ecuador/cuantos-dias-llover-cuenca-superar-sequia.html "¿Cuántos días debe llover en Cuenca para superar la sequía?")
-* [¿Qué pasó con Mazar con las lluvias registradas en Cuenca?](https://www.elcomercio.com/actualidad/negocios/mazar-lluvias-registradas-cuenca.html "¿Qué pasó con Mazar con las lluvias registradas en Cuenca?")
-
-Un río en estiaje y lluvia en un sector de Cuenca
--------------------------------------------------
-
-En **2023,** Cuenca tuvo 118 sin precipitaciones; en este 2024, la capital de Azuay está a 19 días de igualar ese número.
-
-En Cuenca, se cumplen 99 días de **sequía hidrológica**, este sábado 19 de octubre.
-
-Etapa, informa que los caudales de los ríos de Cuenca: **Tomebamba, Yanuncay, Tarqui y Machángara** continúan descendiendo y existe poca probabilidad de lluvias.
-
-Además, desde hoy, la Empresa reportó que el río **Tomebamba** entra nuevamente en estiaje.
-
-Esto, mientras cayó lluvia con granizo la tarde de este sábado en **Chiquintad**, una parroquia rural de Cuenca.
-
-El resto de la ciudad continúa con **días soleados**, sin lluvia y altas temperaturas.
-
-La lluvia en las **cuencas altas**, donde nacen los ríos, aún son mínimas.
-
-Días atrás, el **coordinador de la Red Hidrometereológica de Etapa**, **Rigoberto Guerrero**, informó a EL COMERCIO que se requiere de, al menos, 10 ó 15 días de lluvia continuos para que el suelo pueda mojarse, saturarse y producir escorrentía. Es decir, que el agua llegue a los cauces de los ríos.
-
-“Si la lluvia o llovizna ocurre como el pasado fin de semana en Cuenca, no generará un gran aporte. Desde entonces no ha llovido y este lunes hay alta radiación que evaporó esa **humedad**”, dijo Guerrero.
-
-Ese comportamiento ocasiona que el aumento del **caudal** de los ríos sea momentáneo y se registre un **descenso rápido**.
-
-Cuba en alerta ante el eventual impacto del huracán Oscar
-=========================================================
-
-Cuba emite alerta por el huracán Oscar, previsto para impactar la región este del país.
----------------------------------------------------------------------------------------
-
-![Oscar estaba situado a unos 175 kilómetros al norte de Puerto Plata, en República Dominicana y a 390 kilómetros al este-nordeste de Punta de Maisí, al extremo este de Cuba. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-42.jpg)
-
-El Estado Mayor de la Defensa Civil de Cuba declaró alerta este sábado 19 de octubre de 2024 por el huracán Oscar, que se aproxima a la región este del país. Se espera que el impacto ocurra a partir del domingo. Este fenómeno meteorológico, clasificado como categoría 1, representa un riesgo considerable, especialmente para la zona noreste de Cuba.
-
-Condiciones climáticas peligrosas
----------------------------------
-
-La Defensa Civil advirtió sobre la posibilidad de lluvias intensas, marejadas y vientos fuertes. En este sentido, el organismo instó a incrementar la vigilancia y ajustar los planes de reducción de riesgos. Se hizo hincapié en la importancia de prestar atención a las localidades más vulnerables.
-
-La población debe mantenerse informada. La Defensa Civil y el [Instituto de Meteorología (Insmet)](http://www.insmet.cu/ "http://www.insmet.cu/") proporcionarán actualizaciones. Se recomienda seguir las indicaciones para garantizar la seguridad.
-
-Pronósticos del Instituto de Meteorología
------------------------------------------
-
-Los meteorólogos anticipan lluvias, tormentas eléctricas y vientos intensos a medida que avance el huracán. Según el último informe del Insmet, los vientos máximos del huracán Oscar alcanzaron los 130 kilómetros por hora, con rachas superiores. La presión mínima del fenómeno se situó en 989 hectopascales y se desplaza hacia el oeste a una velocidad de 19 kilómetros por hora.
-
-Oscar se encuentra a 175 kilómetros al norte de Puerto Plata, en República Dominicana, y a 390 kilómetros al este-nordeste de Punta de Maisí, en Cuba.
-
-Temporada de huracanes
-----------------------
-
-Los expertos cubanos habían pronosticado una temporada “moderada” de huracanes para este año. Sin embargo, la situación ha superado las expectativas con la formación de 17 tormentas tropicales, incluyendo seis huracanes.
-
-La última gran amenaza que enfrentó Cuba fue el huracán Irma en 2017, que dejó diez muertos y pérdidas materiales de 13.185 millones de dólares.
-
-Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro
-================================================================
-
-Liga de Quito se impuso a Técnico Universitario en la fecha 10 de la segunda etapa de la Liga Pro y dedico su triunfo a un jugador.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Lisandro Alzugaray, delantero de Liga de Quito, celebra un gol ante Técnico Universitario en Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241019133233-fbl-liga-pro-tecnico-liga-scaled.jpg)
-
-**Liga de Quito** se enfrentó a Técnico Universitario por la décima fecha de la segunda etapa de la Liga Pro y sigue en lo más alto de la ronda. El equipo azucena venció por un marcador de 2-1 al conjunto ambateño como visitante.
-
-Con la baja de **Marco Angulo** en su escuadra debido a su hospitalización y el recuerdo de su siniestro de tránsito aún fresco, el elenco universitario saltó a la cancha del **Estadio Bellavista**. Pese al golpe que representó en el conjunto aquel suceso, esta se mantuvo concentrada y dedicó el cotejo al afectado futbolista[.](https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito)
-
-### Más noticias:
-
-* [‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito](https://www.elcomercio.com/deportes/futbol/liga-quito-liderato-ligapro-vitamina-sanchez.html "‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito")
-* [Liga de Quito está afectada por la situación de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-afectado-por-la-situacion-de-marco-angulo.html "Liga de Quito está afectada por la situación de Marco Angulo")
-* [Liga de Quito extraña al Deportivo Quito en Serie A](https://www.elcomercio.com/deportes/futbol/liga-de-quito-extrana-al-deportivo-quito-en-serie-a.html "Liga de Quito extraña al Deportivo Quito en Serie A")
-
-Al momento en que saltó a la cancha, la escuadra azucena lo hizo con una pancarta que fue sostenida tanto por sus jugadores titulares como suplentes. Esta llevaba grabada la frase “**Va por ti, Marco**“, junto con el escudo de **Liga de Quito**.
-
-La situación de **Marco Angulo**, sin embargo, no era el único motivo que tenía la ‘U’ para vencer. El equipo llegó como líder de la Liga Pro y, para no depender de otros resultados y mantener el puesto, era necesario que sume tres puntos.
-
-Liga de Quito espero para ponerse en ventaja ante Técnico Universitario
------------------------------------------------------------------------
-
-**Liga de Quito y Técnico Universitario** mostraron un partido equilibrado y cerrado entre sí durante el primer tiempo. Aunque parecía que tal etapa terminaría con un empate entre ambas escuadras, un gol en el cierra de esta cambió el panorama.
-
-A los 41′, **Lisandro Alzugaray** apareció para poner el tanto inaugural del compromiso. El delantero argentino sacó un remate que fue imposible de contener para el golero Walter Chávez.
-
-El segundo tiempo, sin embargo, tuvo momentos que cambiaron bruscamente el desarrollo del compromiso, pero que no afectaron la victoria de los albos. La etapa complementaria estuvo marcada por una **expulsión** y más goles.
-
-Álex Arce sentenció el partido para Liga con uno menos
-------------------------------------------------------
-
-Liga de Quito le hizo frente a la adversidad en el segundo tiempo debido a una tarjeta roja en su equipo. El lateral **Daniel de la Cruz** fue expulsado del terreno de juego a los 58 minutos, pero aquello no significó un resurgir del ‘Rodillo Rojo’.
-
-Con uno menos en la cancha, los albos encontraron el segundo gol del cotejo a los 65′. **Álex Arce** apareció con un cabezazo para poner el 2-0 transitorio y darle la tranquilidad al plantel de Ponceano.
-
-T**écnico Universitario** no consiguió volver a meterse en el partido sino hasta los último minutos. A los 83′, **Diego Armas** puso el descuento para los locales.
-
-Andrew Garfield comparte su tristeza en Plaza Sésamo ¿Qué pasó en su vida?
-==========================================================================
-
-Andrew Garfield, estrella de Hollywood, hizo un emotivo segmento de Plaza Sésamo. Su mensaje toca corazones.
-------------------------------------------------------------------------------------------------------------
-
-![Andrew Garfield recuerda a su madre en una conmovedora charla con Elmo. Foto de la cuenta de Elmo en X](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-40.jpg)
-
-El programa infantil Plaza Sésamo lanzó un segmento especial en su canal de YouTube con el actor Andrew Garfield. Famoso por su papel como Spider-Man, Garfield llevó la conversación a un nivel emocional profundo. En lugar de centrarse solo en su carrera cinematográfica, el actor habló sobre la pérdida de su madre y lo que significa extrañar a alguien querido.
-
-Más noticias
-------------
-
-* [Andrew Garfield reveló que estuvo sin sexo ni comida para preparar su papel como sacerdote](https://www.elcomercio.com/tendencias/entretenimiento/andrew-garfield-sin-sexo-comida-preparar-papel-sacerdote.html)
-* [Padre de Liam Payne está en Buenos Aires para recoger a su hijo](https://www.elcomercio.com/tendencias/padre-de-liam-payne-esta-en-buenos-aires-para-recoger-a-su-hijo.html "Padre de Liam Payne está en Buenos Aires para recoger a su hijo")
-
-Elmo, el icónico personaje del programa, inició la conversación preguntando cómo se sentía Garfield. Esta simple pregunta abrió la puerta para que el actor expresara sus emociones. “Estaba pensando en mi mamá hoy. Sabes, ella murió hace poco y la extraño mucho”, dijo Garfield con un tono melancólico.
-
-La tristeza como un regalo
---------------------------
-
-Garfield no evitó el tema del duelo. Al contrario, explicó a Elmo que sentir tristeza por la pérdida no es algo negativo. “Está bien extrañar a alguien. La tristeza es un regalo, algo hermoso de sentir. Significa que amas a esa persona”, afirmó. Su perspectiva resonó profundamente con muchos espectadores, mostrando que la tristeza puede ser parte del amor y del recuerdo.
-
-El momento se tornó aún más emotivo cuando Andrew compartió recuerdos familiares. Reveló que Elmo era el personaje favorito de su madre en Plaza Sésamo. Esta conexión personal enriqueció la conversación y la hizo aún más especial.
-
-La vida de Andrew Garfield
---------------------------
-
-Lynn Garfield, la madre de Andrew, falleció en 2019 tras luchar contra el cáncer de páncreas. Desde entonces, el actor ha hablado abiertamente sobre su duelo. Este enfoque ha ayudado a otros a sentirse menos solos en sus propios procesos de pérdida.
-
-Andrew Garfield nació el 20 de agosto de 1983 en Los Ángeles. A los tres años, su familia se mudó a Inglaterra. Creció en Surrey y asistió a la City of London Freemen’s School. Su carrera comenzó en el teatro, donde ganó premios por su actuación. En 2007, tuvo un papel en la película Leones por Corderos y ganó el BAFTA al mejor actor por su papel en Boy A.
-
-Un mensaje que trasciende
--------------------------
-
-La aparición de Andrew Garfield en Plaza Sésamo no solo entretuvo a los más jóvenes, sino que también ofreció un mensaje poderoso sobre el amor y la pérdida. Su honestidad y vulnerabilidad invitan a los espectadores a reflexionar sobre sus propias experiencias. En un mundo donde la tristeza a menudo se evita, Garfield la celebra como un recordatorio del amor que hemos compartido.
-
-Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley
-=====================================================================================================================
-
-El proyecto de Ley de Cuidados Paliativos, que beneficia a enfermos graves o terminales, va al Ejecutivo para que lo apruebe u objete.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![El proyecto de Ley de Cuidados intensivos busca mejorar y ampliar la atención en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ley-cuidados-intensivos-Ecuador.jpg)
-
-Los **cuidados paliativos** para personas con **enfermedades graves o terminales** están en un **proyecto de Ley** que irá al Ejecutivo para que lo apruebe u objete.
-
-Esta iniciativa, que busca **ampliar y mejorar el acceso** a cuidados paliativos en el Ecuador, fue aprobada en el **Pleno de la Asamblea** por unanimidad, con 114 votos a favor.
-
-### Más noticias:
-
-* [Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?](https://www.elcomercio.com/actualidad/ecuador/asamblea-aprobo-proyecto-de-ley-de-cuidados-paliativos-a-quienes-beneficia.html "Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?")
-* [Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-reducidos-21-octubre-10-noviembre-ecuador.html "Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador")
-
-La realidad de los cuidados paliativos en Ecuador y la necesidad de una ley
----------------------------------------------------------------------------
-
-En los informes para primero y segundo debate, el proyecto de Ley Orgánica de Cuidados Paliativos recoge algunas **cifras** que dan cuenta de la realidad de los mismos en Ecuador.
-
-Según datos del **Plan Nacional de Cuidados Paliativos**, durante, 2010 en Ecuador hubo 21 992 defunciones, el 36% requerían cuidados paliativos (16% portaban enfermedades oncológicas y 20% no oncológicas).
-
-Durante el año 2019, del total de defunciones reportadas por el **Instituto Nacional de Estadística y Censos  
-(INEC)**, el 67% (12 216), portaban una condición o enfermedades que requería cuidado paliativo.
-
-GLOBOCAN, en 2020, reporta que el **riesgo de padecer cáncer** en el Ecuador antes de los 75 años es de 15,2% y a nivel mundial la media es de 7,3%.
-
-El diagnóstico oncológico en nuestro país se identifica en etapas avanzadas, de acuerdo con los datos reportados por el registro nacional de tumores de la Sociedad de Lucha contra el Cáncer (**Solca**), en Quito.
-
-En el periodo que va de 2011 a 2015, el 18,7% fue diagnosticado en un estadio III y el 22,1% en un  
-**estadio IV**.
-
-Esto refleja que el 41% de estas personas podría requerir la atención y acompañamiento de un **equipo de cuidados paliativos.**
-
-En Ecuador, de acuerdo con el reporte del atlas de Cuidados Paliativos, existe **limitación de acceso de opioides.**
-
-De acuerdo con los datos de sufrimiento en salud reportados por la comisión **Lancet**, en Ecuador 4,85 personas por 1000 habitantes presentan **sufrimiento grave** causado por una condición aguda o crónica que requiere asistencia paliativa.
-
-### Más cifras de cuidados paliativos
-
-“La accesibilidad hacia Cuidados Paliativos en nuestro país es **insuficiente**, la inequidad en su atención es evidente”, señala el informe para segundo debate del proyecto de Ley.
-
-En el Ecuador se registra el 3,5% de **cobertura** en cuidados Paliativos.
-
-De acuerdo con los datos reportados por el **Atlas de Cuidados Paliativos de Latinoamérica**, durante el año 2020, se reportaron 78 equipos que brindan Cuidados Paliativos en el país.
-
-Esto corresponde a 4,6 recursos asistenciales por millón de habitantes y solo se reporta un equipo que brinda atención a **población pediátrica** con necesidades paliativas.
-
-“Es primordial promover la instauración de equipos o servicios de Cuidados Paliativos, con el propósito de cubrir todas las necesidades a nivel nacional y que más pacientes con necesidades paliativas accedan a una **atención humanizada** y de alta calidad”, señala el proyecto.
-
-### Regulación
-
-En Ecuador, en el año 2012, se introdujo el **Modelo de Atención Integral** MAIS-FC.
-
-Este documento estableció un marco para el **Sistema Nacional de Salud**, en donde ya incorporaba a los cuidados paliativos, representando un avance significativo en la atención médica hacia pacientes con enfermedades graves o terminales.
-
-En 2022, se promulgó la **Política Nacional de Cuidados Paliativos 2022-2026**, para abordar las necesidades físicas, emocionales y espirituales, tanto de los pacientes como de sus familias, en consonancia con las  
-normativas existentes.
-
-### Educación
-
-Por otro lado, la instauración de la enseñanza de Cuidados Paliativos en el sistema de educación  
-superior reporta **grandes brechas** aún por resolver.
-
-Solo **cuatro de 22 universidades** en el Ecuador imparten la materia en su programa formal educativo.
-
-Una de nueve universidades en el campo de **trabajo social**; no se describe en el campo de psicología.
-
-Los beneficios y mejoras que plantea el proyecto de Ley de Cuidados Paliativos
-------------------------------------------------------------------------------
-
-Con **21 artículos,** el proyecto de Ley Orgánica de Cuidados Paliativos aprobado por la Asamblea plantea varios beneficios y mejoras.
-
-El proyecto está dirigido a las personas que padecen **enfermedades avanzada, progresiva, incurable, de síntomas múltiples, intensos y cambiantes, y a sus familiares**.
-
-La Constitución ya señala a la atención en salud como un derecho.
-
-El proyecto recalca sobre el derecho de las personas que sufren enfermedades en etapa terminal al acceso gratuito para **aliviar el sufrimiento y controlar los síntomas**.
-
-El documento busca cubrir todas las aristas que se derivan de los cuidados paliativos, procurando una **atención tanto física como psicológica**.
-
-Y contemplando todos los **aspectos sociales y espirituales** asociados con la enfermedad.
-
-Bajo este concepto de integralidad, el proyecto crea un sistema de cuidados paliativos integrado por los **centros de salud públicos y privados**.
-
-Este incluye **unidades de atención hospitalaria, consultorios para casos ambulatorios y atención domiciliaria.**
-
-La ley otorga a los pacientes que padecen estas enfermedades el **derecho a decidir de forma anticipada no ser reanimado o realizar esfuerzos terapéuticos innecesarios**.
-
-Respecto a la educación en cuidados paliativos, la propuesta contempla un artículo para **becas, estudios en el extranjero y homologación de títulos extranjeros**.
-
-La Selección de Ecuador Femenina Sub-17 cae goleada por Nigeria en el Mundial
-=============================================================================
-
-La Selección de Ecuador Femenina Sub-17 cayó ante Nigeria, pero aún puede clasificar a cuartos de final de Mundial.
--------------------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador Femenina Sub-17 antes de su partido frente a Nigeria en el Mundial.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000147902.jpg)
-
-La **Selección de Ecuador Femenina Sub-17** disputó su segundo encuentro en el Mundial, programado para este sábado 19 de octubre de 2024, ante Nigeria a las 15:00. Después de un debut exitoso en el Mundial, el equipo dirigido por Eduardo Moscoso cayó por una goleada de 4-0.
-
-Ecuador llegó con la moral alta y en la segunda plaza de su grupo con tres puntos. En el primer partido, la escuadra tricolor logró hacerse con una sólida victoria de **2-0** ante República Dominicana, país anfitrión del torneo.
-
-### Más noticias:
-
-* [¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?](https://www.elcomercio.com/deportes/futbol/a-que-hora-juega-la-seleccion-de-ecuador-la-final-del-sudamericano-sub-15.html "¿A qué hora juega la Selección de Ecuador la final del Sudamericano Sub-15?")
-* [Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15](https://www.elcomercio.com/deportes/leonardo-campana-seleccion-ecuador-sub-15.html "Leonardo Campana envió un mensaje a la Selección de Ecuador Sub-15")
-* [La Selección de Ecuador aporta al XI ideal de las eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-equipo-ideal-eliminatorias.html "La Selección de Ecuador aporta al XI ideal de las eliminatorias")
-
-La actitud ofensiva que mostró en su primer partido, especialmente el destacado desempeño de **Jasmym Valverde** en la delantera, ilusionaba. El equipo ecuatoriano se había hecho con la victoria gracias a un doblete de la delantera, quien puso los dos goles en los 45 minutos iniciales del cotejo.
-
-Nigeria, sin embargo, también comenzó su participación de manera contundente al lograr una goleada de 4-1 ante **Nueva Zelanda**. De tal manera, la escuadra africana -al igual que la de la mitad del mundo-también buscaba asegurar su clasificación a la siguiente ronda[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador)
-
-La Selección de Ecuador Femenina Sub-17 cayó en el primer tiempo
-----------------------------------------------------------------
-
-El partido le costó a la **Selección de Ecuador** y aquello se vio desde la primera etapa del compromiso. El plantel de Moscoso no conseguía pasar el medio campo y, de a poco, Nigeria ganaba terreno en el campo de la Tri.
-
-Los intentos por encontrar a **Jasmym Valverde** fueron erráticas y los pelotazos que se intentaba para generar transiciones no eran acertados. A nivel defensivo, la Tri resistía, pero la constancia de sus rivales rompió cerrojo.
-
-A los 28 minutos, tras un penal, **Shakirat Moshood** puso el primer tanto para Nigeria. Con aquel marcador finalizaría el primer tiempo, sin embargo, en la segunda etapa caerían más tantos.
-
-Goleada sobre la Tri de parte de Nigeria
-----------------------------------------
-
-El segundo tiempo sirvió para que **Nigeria** demuestre su solidez y marque una visible diferencia con respecto a las ecuatorianas. En los últimos 45 minutos del partido, el plantel africano marcó dos tantos más.
-
-**Harmony Chidi** puso el segundo gol a los 53 minutos del compromiso y, tras ello, la Tri tampoco tuvo reacción. A los 65′ cayó el tercer tanto a favor de las nigerianas, quienes sellaron la goleada de la mano de **Peace Effiong**.
-
-Con el compromiso sellado, las ‘Águilas Verdes’ se dedicaron a mantener el resultado y el partido se equilibró, pero de todas maneras hubo un gol más de parte de **Moshood**. Tras la derrota, la Tri juvenil femenina definirá su clasificación ante **Nueva Zelanda** en el último partido de grupos.
-
-Alineación de la Selección de Ecuador Femenina Sub-17
------------------------------------------------------
-
-**Selección de Ecuador Femenina Sub-17:** María Rodríguez (arquera); Noemi Camacho, Nataly Andrade, Maite Zambrano (defensas); Fiorella Pico, Evelyn Burgos, Mary Guerra, Caprice Chiuchiolo (volantes); Jasmym Valverde, Emily Delgado (delanteras).
-
-Asamblea debate este domingo 20 proyecto urgente para impulsar energías renovables
-==================================================================================
-
-La Asamblea Nacional tratará proyecto para enfrentar la crisis eléctrica y fomentar la iniciativa privada en el sector.
------------------------------------------------------------------------------------------------------------------------
-
-![La empresa petrolera cuenta con cuatro fuentes para generación eléctrica: hidroeléctrica, gas, crudo y diésel. Foto: Petroecuador.](https://www.elcomercio.com/wp-content/uploads/2023/05/Petroecuador-genera-el-552-de-energia-electrica-para-aperar-en-la-Amazonia.jpg)
-
-Este domingo 20 de octubre, a las 09:00, la Asamblea Nacional instalará la sesión plenaria 972. El objetivo: debatir un proyecto urgente que promueve la iniciativa privada en energías renovables. Esta medida busca mitigar la crisis eléctrica y ofrecer soluciones a mediano y largo plazo.
-
-Más noticias
-------------
-
-* [Quito amplía su capacidad de generación de energía limpia](https://www.elcomercio.com/actualidad/negocios/quito-amplia-su-capacidad-de-generacion-de-energia-limpia.html "Quito amplía su capacidad de generación de energía limpia")
-* [El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar](https://www.elcomercio.com/videos/el-colegio-aleman-de-quito-logra-la-suficiencia-energetica-con-proyecto-solar.html "El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar")
-
-La presidenta de la Asamblea, Viviana Veloz, convocó esta sesión de forma virtual. Después del debate, el proyecto regresará a la Comisión de Desarrollo Económico para un segundo informe.
-
-El proyecto, impulsado por el Ejecutivo, facilita la generación de electricidad a partir de diversas fuentes renovables. Además, optimiza el uso de energía en los sectores público y privado. Así, se garantiza un suministro de energía estable y accesible en todo el país.
-
-Una de las medidas clave incluye la instalación de sistemas de autoabastecimiento. Esto busca incentivar al sector privado, especialmente en el ámbito comercial e industrial. La idea es aliviar la carga estatal en la generación eléctrica.
-
-El proyecto permite a la iniciativa privada desarrollar proyectos que no estén en el [Plan Maestro de Electricidad (PME)](https://www.recursosyenergia.gob.ec/plan-maestro-de-electricidad/ "https://www.recursosyenergia.gob.ec/plan-maestro-de-electricidad/"). Estos proyectos deben respetar límites de 100 MW para energías renovables no convencionales y 50 MW para energías de transición. La autorización del ministerio correspondiente será necesaria, y evaluará la viabilidad técnica y económica.
-
-El ministerio de Energía y Minas también debe incluir cláusulas de estabilidad jurídica en todos los contratos. Estas cláusulas aseguran que las condiciones legales permanezcan inalterables durante la vigencia del contrato.
-
-Con este proyecto, la Asamblea busca impulsar un cambio significativo en la matriz energética del país. Este esfuerzo promueve un futuro más sostenible y menos dependiente de combustibles fósiles.
-
-Actualmente hay cortes de energía eléctrica hasta por 10 horas en horarios diferenciados.
-
-Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores
-========================================================================
-
-Dragonas IDV cayó ante Boca Juniors en el partido por el tercer lugar de la Copa Libertadores femenina y finalizó en cuarto lugar.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Dragonas IDV durante su participación en la Copa Libertadores Femenina de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000147857-scaled.jpg)
-
-**Dragonas IDV** cayó ante **Boca Juniors** en la Copa Libertadores Femenina, pero se fue con una participación histórica para su club y Ecuador. El conjunto de Sangolquí disputó el partido por el tercer lugar en el certamen y es cuarta en América.
-
-Con un marcador de 2-0 en contra, el equipo ecuatoriano finalizó su participación en el evento internacional al cual se clasificó como campeona de **Ecuador**. En la fase de grupos, el equipo finalizó en el **segundo puesto** de su grupo hacia las semifinales[.](https://es.wikipedia.org/wiki/Independiente_del_Valle_Femenino "https://es.wikipedia.org/wiki/Independiente_del_Valle_Femenino")
-
-### Más noticias:
-
-* [Dragonas IDV busca el tercer lugar de la Libertadores ante Boca Juniors](https://www.elcomercio.com/deportes/futbol/dragonas-idv-boca-juniors-femenino-partido.html "Dragonas IDV busca el tercer lugar de la Libertadores ante Boca Juniors")
-* [Dragonas disputarán el tercer lugar de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-final-copa-libertadores.html "Dragonas disputarán el tercer lugar de la Libertadores Femenina")
-* [¿Cuándo juegan Dragonas las semifinales de la Libertadores?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina-2.html "¿Cuándo juegan Dragonas las semifinales de la Libertadores?")
-
-La clasificación hacia la penúltima ronda del torneo, de por sí, ya fue histórica. Antes de Dragonas IDV, el único equipo que había alcanzado tal fase fue el **Deportivo Quito** durante la temporada 2010, sin embargo, aquello fue el punto máximo del cuadro azul y grana.
-
-En las semifinales, las rayadas chocaron ante **Independiente Santa Fe** de Colombia e igualaron por un marcador de 1-1. En la definición por penales, el cuadro bogotano se impuso por un marcador de 4-2 a las monarcas de Ecuador.
-
-Boca Juniors ahogó a Dragonas IDV con premura en Copa Libertadores
-------------------------------------------------------------------
-
-Tras saltar al terreno de juego, Boca Juniors lució como la escuadra más aplomada en el terreno de juego. Mediante una presión alta, el conjunto argentino replegó a las ecuatorianas e impidió que tengan cómodas salidas y puedan encontrar a **Nayeli Bolaños**, su máxima referente.
-
-A los 14 minutos llegó el primer gol de las xeneizes, el cual condicionó al plantel negriazul -que vistió de rosa- para el resto del compromiso. Producto del bloque alto que propuso el cuadro argentino, este recuperó la pelota al borde del área tras un error de las **Dragonas**.
-
-Emily Arias intentó una salida desde su cancha y, al momento en el que intentó regatear a una rival, perdió el balón. Apenas recuperó la pelota, **Kishi Núñez** sacó un remate a colocar que venció a la guardameta Andrea Vera.
-
-Boca amplió la ventaja y las Dragonas no lograron descontar
------------------------------------------------------------
-
-Dragonas sintió el golpe y no logró recuperarse del primer gol de Boca Juniors. Las argentinas mantuvieron el asedio y consiguieron ampliar la ventaja a los 24 minutos gracias a la volante **Vanina Preininger.**
-
-Tras un jugada hilvanada entre las xeneizes, la futbolista recibió el balón en el borde del área y sacó un remate esquinado. Una vez más, **Andrea Vera** no consiguió bloquear el remate y se puso el 2-0 en el marcador.
-
-Aunque Dragonas parecía descontar en la primera mitad, el **VAR** se lo impidió. Tras la revisión se determinó que todo estaba en fuera de juego. En el segundo tiempo, el partido se ceó y, aunque no recibió goles, las **ecuatorianas** tampoco pudo tener llegadas claras.
