@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/stuur-licht-en-liefde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/een-noorse-spiraal-n-russische-ufo-en-het-eindrapport-openheid/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
