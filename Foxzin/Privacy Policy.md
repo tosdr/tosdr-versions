@@ -184,9 +184,9 @@ Popular Games
 
 [![Sneak Out 3D](https://img.gamedistribution.com/55ff6d345dae466b9584e5422dc64c58-512x384.jpeg)](https://foxzin.com/game/sneak-out-3d)
 
-[![Giant Rush!](https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg)](https://foxzin.com/game/giant-rush!)
-
 [![Waterpark Slide Race](https://img.gamedistribution.com/ae8989a5126b45d4942b181036c370ae-512x512.jpeg)](https://foxzin.com/game/waterpark-slide-race)
+
+[![Giant Rush!](https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg)](https://foxzin.com/game/giant-rush!)
 
 [![Ugi Bugi](https://img.gamedistribution.com/69659b2aa30341aa80e7dd5ec58db8cb-512x384.jpeg)](https://foxzin.com/game/ugi-bugi)
 
