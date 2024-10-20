@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 20, 2024](https://www.japantimes.co.jp/archive/2024/10/20/ "archive page")
+[October 21, 2024](https://www.japantimes.co.jp/archive/2024/10/21/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,66 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428487.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.")](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Mid- to long-term foreign residents in Japan hit record high](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428581.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.")](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-  [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 Editors' Picks
 --------------
 
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-By [Tan Pin Yen](https://www.japantimes.co.jp/author/5641/tan-pin-yen/ "Tan Pin Yen")  
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
 
-  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+By F.D. Flam  
 
-  [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
-
-  [![The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428487.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The average fee to send $200 from Japan is the highest among G7 countries at 6.94%, according to World Bank data for the first quarter of 2024.")](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Mid- to long-term foreign residents in Japan hit record high](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428581.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo's Haneda Airport on Oct. 7. The number of Japanese nationals who traveled abroad in the first half of this year totaled 5.8 million, a 60.4% increase from the same period in 2023.")](https://www.japantimes.co.jp/news/2024/10/18/japan/society/foreign-residents-figures/ "Mid- to long-term foreign residents in Japan hit record high")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[More details emerge about suspect in attack at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/japan-ldp-headquarters-pmo-attack/ "More details emerge about suspect in attack at LDP headquarters")
-
-1 hours ago
-
-[New rules drive Japanese trucking sector to the brink](https://www.japantimes.co.jp/news/2024/10/20/japan/society/2024-problem-trucking-sector/ "New rules drive Japanese trucking sector to the brink")
-
-2 hours ago
-
-[G7 defense chiefs voice concern over Chinese military drills around Taiwan](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-g7-defense-chiefs/ "G7 defense chiefs voice concern over Chinese military drills around Taiwan")
+[Ruling camp likely to win Lower House majority: polls](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-likely-to-win-lower-house/ "Ruling camp likely to win Lower House majority: polls")
 
 3 hours ago
 
+[More details emerge about suspect in attack at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/japan-ldp-headquarters-pmo-attack/ "More details emerge about suspect in attack at LDP headquarters")
+
+7 hours ago
+
+[New rules drive Japanese trucking sector to the brink](https://www.japantimes.co.jp/news/2024/10/20/japan/society/2024-problem-trucking-sector/ "New rules drive Japanese trucking sector to the brink")
+
+8 hours ago
+
+[G7 defense chiefs voice concern over Chinese military drills around Taiwan](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-g7-defense-chiefs/ "G7 defense chiefs voice concern over Chinese military drills around Taiwan")
+
+9 hours ago
+
 [Fuji Soft sticks with KKR despite higher takeover offer from Bain](https://www.japantimes.co.jp/business/2024/10/20/companies/fuji-soft-sticks-kkr/ "Fuji Soft sticks with KKR despite higher takeover offer from Bain")
 
-4 hours ago
-
-[Masami Oka named first head of fighter jet international body](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/oka-fighter-jet-international-body/ "Masami Oka named first head of fighter jet international body")
-
-4 hours ago
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
