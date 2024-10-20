@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We understand human mental processes only slightly better than a fish understands swimming”
+“ If I have seen further it is by standing on the shoulders of giants”
 
-[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
+[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
 
 [](https://www.adafruit.com/about)
 
