@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gardnerjerry-lee.jpg?ve=1&tl=1)
+
+ ![Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gardnerjerry-lee.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
+
+### [Cold case cracked: DNA evidence links suspect to 2008 Grand Prairie murder](https://www.fox4news.com/news/grand-prairie-cold-case-dna-evidence-2008-murder)
+
+ [![One killed in suspected drunk driving crash in Grand Prairie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/garciahector.jpg?ve=1&tl=1)
+
+ ![One killed in suspected drunk driving crash in Grand Prairie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/garciahector.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/one-killed-suspected-drunk-driving-crash-grand-prairie)
+
+### [One killed in suspected drunk driving crash in Grand Prairie](https://www.fox4news.com/news/one-killed-suspected-drunk-driving-crash-grand-prairie)
+
+ [![MLB expansion to Austin | Texas: The Issue Is](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/mlb-cover.jpg?ve=1&tl=1)
+
+ ![MLB expansion to Austin | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/mlb-cover.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mlb-expansion-austin-texas-issue-is)
+
+### [MLB expansion to Austin | Texas: The Issue Is](https://www.fox4news.com/sports/mlb-expansion-austin-texas-issue-is)
+
  [![Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/oscar3.jpg?ve=1&tl=1)
 
  ![Oscar strengthens into a hurricane in southwest Atlantic as watches, warnings expand for Bahamas, Cuba](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/oscar3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/oscar-strengthens-hurricane-southwest-atlantic-watches-warnings-expand-bahamas-cuba)
@@ -413,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2031347923-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-cessna-close-call-austin-texas-faa)
 
 ### [American Airlines jet nearly collides with Cessna in mid-air close call: FAA](https://www.fox4news.com/news/american-airlines-cessna-close-call-austin-texas-faa)
-
- [![A growing share of Gen Z adults don't think they'll retire: only 20% are saving for it](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1910392539-scaled.jpg?ve=1&tl=1)
-
- ![A growing share of Gen Z adults don't think they'll retire: only 20% are saving for it](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1910392539-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gen-z-adults-dont-think-theyll-retire)
-
-### [A growing share of Gen Z adults don't think they'll retire: only 20% are saving for it](https://www.fox4news.com/news/gen-z-adults-dont-think-theyll-retire)
-
- [![Alabama woman arrested, son kicked off cruise ship after alleged assault on older passenger](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/kelli-lyn-ryan-miami-dade-corrections.jpg?ve=1&tl=1)
-
- ![Alabama woman arrested, son kicked off cruise ship after alleged assault on older passenger](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/kelli-lyn-ryan-miami-dade-corrections.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kelli-lyn-rian-alabama-cruise-ship-arrest)
-
-### [Alabama woman arrested, son kicked off cruise ship after alleged assault on older passenger](https://www.fox4news.com/news/kelli-lyn-rian-alabama-cruise-ship-arrest)
-
- [!['Lieutenant Dan' who vowed to ride out Florida hurricanes on his boat arrested in Tampa](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gettyimages-2177627035-scaled.jpg?ve=1&tl=1)
-
- !['Lieutenant Dan' who vowed to ride out Florida hurricanes on his boat arrested in Tampa](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177627035-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-who-vowed-ride-out-florida-hurricanes-his-boat-is-arrested-tampa)
-
-### ['Lieutenant Dan' who vowed to ride out Florida hurricanes on his boat arrested in Tampa](https://www.fox4news.com/news/man-who-vowed-ride-out-florida-hurricanes-his-boat-is-arrested-tampa)
 
 ###### [News](https://www.fox4news.com/news)
 
