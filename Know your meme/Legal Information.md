@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Cynthia Erivo Wicked Poster Controversy](https://knowyourmeme.com/memes/events/cynthia-erivos-wicked-poster-controversy "Cynthia Erivo Wicked Poster Controversy")
+[Derp](https://knowyourmeme.com/memes/derp)
 
 Copyright Infringement Notice
 =============================
