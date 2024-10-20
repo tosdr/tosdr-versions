@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have really enjoyed my FoxyProxy experience.
+You always respond so quickly and I have always been very pleased with you
 
-Adrian Dawson
+Jacqueline Stephen
