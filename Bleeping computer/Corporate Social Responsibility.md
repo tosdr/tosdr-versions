@@ -36,6 +36,9 @@
         
         Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
     
+    * [![Ditch the subscriptions—this Koofr cloud storage deal is only $120 for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ditch the subscriptions—this Koofr cloud storage deal is only $120 for life](https://www.bleepingcomputer.com/offer/deals/ditch-the-subscriptions-this-koofr-cloud-storage-deal-is-only-120-for-life/)
     * [![Microsoft creates fake Azure tenants to pull phishers into honeypots](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
@@ -45,9 +48,6 @@
     * [![Get started in an infosec career with this essential training deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get started in an infosec career with this essential training deal](https://www.bleepingcomputer.com/offer/deals/get-started-in-an-infosec-career-with-this-essential-training-deal/)
-    * [![Cisco takes DevHub portal offline after hacker publishes stolen data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -304,12 +304,12 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Google Meet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Fake Google Meet conference errors push infostealing malware](https://www.bleepingcomputer.com/news/security/fake-google-meet-conference-errors-push-infostealing-malware/)
 * [![Microsoft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
+* [![Google Meet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Fake Google Meet conference errors push infostealing malware](https://www.bleepingcomputer.com/news/security/fake-google-meet-conference-errors-push-infostealing-malware/)
 * [![SEC Securities and Exchanges Commission](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     FBI arrest Alabama man suspected of hacking SEC's X account](https://www.bleepingcomputer.com/news/security/fbi-arrest-alabama-man-suspected-of-hacking-secs-x-account/)
