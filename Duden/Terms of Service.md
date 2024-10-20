@@ -183,8 +183,6 @@
 
 [Über die Duden-Sprachberatung](https://www.duden.de/ueber_duden/sprachberatung)
 
-[Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024)
-
 Allgemeine Geschäftsbedingungen
 ===============================
 
