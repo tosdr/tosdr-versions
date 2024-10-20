@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Silencer Saturday #351: The DIY De Lisle](https://www.thegunpage.com/silencer-saturday-351-the-diy-de-lisle/10611316)
+* [Savage Arms Announces 21 Sharp Rimfire Rifle Offerings](https://www.thegunpage.com/savage-arms-announces-21-sharp-rimfire-rifle-offerings/10611312)
 * [Pro-Trump Yard Sign Leads To Harassment And Shots Fired In Las Vegas](https://www.thegunpage.com/pro-trump-yard-sign-leads-to-harassment-and-shots-fired-in-las-vegas/10611308)
+* [All About Pinal County 4-H Shooting Sports](https://www.thegunpage.com/all-about-pinal-county-4-h-shooting-sports/10611311)
 * [Team Federal’s Varick Beise Wins 2024 Memorial 3-Gun Competition](https://www.thegunpage.com/team-federals-varick-beise-wins-2024-memorial-3-gun-competition/10611310)
 * [10 Best Home Defense Rifles](https://www.thegunpage.com/10-best-home-defense-rifles/10611301)
 * [POTD: German Soldier With HP47 Anti-Drone Gun](https://www.thegunpage.com/potd-german-soldier-with-hp47-anti-drone-gun/10611302)
 * [TFB Podcast Roundup 151: The October 18th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-151-the-october-18th-roundup/10611303)
 * [What Would You Do? A Father’s Worst Nightmare](https://www.thegunpage.com/what-would-you-do-a-fathers-worst-nightmare/10611297)
-* [Kamala in a Nutshell: SAF Video Features Her Most Damning Anti-Gun Rhetoric](https://www.thegunpage.com/kamala-in-a-nutshell-saf-video-features-her-most-damning-anti-gun-rhetoric/10611295)
 * [PSA Releases the Soviet Arms AKS-74U “Krinkov” In 300BLK](https://www.thegunpage.com/psa-releases-the-soviet-arms-aks-74u-krinkov-in-300blk-2/10611293)
-* [Smith & Wesson M&P4 Rifles Now Available for Military & LE](https://www.thegunpage.com/smith-wesson-mp4-rifles-now-available-for-military-le/10611294)
-* [Gun Registry Lessons From New Zealand](https://www.thegunpage.com/gun-registry-lessons-from-new-zealand/10611290)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
