@@ -206,65 +206,65 @@ Saúde
 
 Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos
 
-Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos](https://www.tnh1.com.br/noticia/nid/hipertensao-por-que-a-pressao-12-por-8-passou-a-ser-considerada-alta-por-medicos/ "Hipertensão: por que a pressão '12 por 8' passou a ser considerada alta por médicos")[![Mãe encontra filho de 11 anos morto boiando em piscina de plástico ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_guilherme_piscina_0e30a7a8ee.png)
 
-quase 10 mil imagens
+em rio largo
 
-quase 10 mil imagens
+em rio largo
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas
+Mãe encontra filho de 11 anos morto boiando em piscina de plástico
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_72bcb6379e.png)
+Mãe encontra filho de 11 anos morto boiando em piscina de plástico](https://www.tnh1.com.br/noticia/nid/mae-encontra-filho-de-11-anos-morto-boiando-em-piscina-de-plastico/ "Mãe encontra filho de 11 anos morto boiando em piscina de plástico ")[![Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_Dinheiro_Agencia_Brasil_17113d0b9d.jpg)
 
-'Damares'
+duas parcelas
 
-'Damares'
+duas parcelas
 
-Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas
+Veja as datas de pagamento do 13º salário de trabalhadores em 2024
 
-Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
+Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://www.tnh1.com.br/noticia/nid/veja-as-datas-de-pagamento-do-13o-salario-de-trabalhadores-em-2024/ "Veja as datas de pagamento do 13º salário de trabalhadores em 2024")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
 
-Polícia investiga
+Cidade Universitária
 
-Polícia investiga
+Cidade Universitária
 
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
 
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")
+"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")
 
-[![Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_Menina_Baleada_Cabeca_Rio_2199de69c9.jpg)
+[![Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_Milicianos_Muzema_06458934fd.jpg)
+
+Brasil
+
+Brasil
+
+Homens armados com fuzis circulam na Muzema, zona oeste do Rio
+
+Homens armados com fuzis circulam na Muzema, zona oeste do Rio](https://www.tnh1.com.br/noticia/nid/homens-armados-com-fuzis-circulam-na-muzema-zona-oeste-do-rio/ "Homens armados com fuzis circulam na Muzema, zona oeste do Rio")[![Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
+
+Mundo
+
+Mundo
+
+Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'
+
+Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'](https://www.tnh1.com.br/noticia/nid/ex-one-direction-adia-turne-apos-morte-de-liam-payne-perda-desoladora/ "Ex-One Direction adia turnê após morte de Liam Payne: 'Perda desoladora'")[![“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/1/csm_libanese_base_aerea_35_0ed3f12312.jpg)
+
+Mundo
+
+Mundo
+
+“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil
+
+“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil](https://www.tnh1.com.br/noticia/nid/nao-da-para-viver-no-libano-diz-homem-que-trouxe-familia-ao-brasil/ "“Não dá para viver no Líbano”, diz homem que trouxe família ao Brasil")[![Mesmo com chuva fraca, São Paulo registra falta de luz em bairros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_paulista_chuva_07_619b97821b.jpg)
 
 Brasil
 
 Brasil
 
-Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense
+Mesmo com chuva fraca, São Paulo registra falta de luz em bairros
 
-Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense](https://www.tnh1.com.br/noticia/nid/menina-de-3-anos-e-baleada-na-cabeca-em-tiroteio-na-baixada-fluminense/ "Menina de 3 anos é baleada na cabeça em tiroteio na Baixada Fluminense")[![Próximo do retorno, Neymar chora e diz que não volta 'meia boca'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_Neymar_10946fddf8.jpg)
-
-Futebol Internacional
-
-Futebol Internacional
-
-Próximo do retorno, Neymar chora e diz que não volta 'meia boca'
-
-Próximo do retorno, Neymar chora e diz que não volta 'meia boca'](https://www.tnh1.com.br/noticia/nid/proximo-do-retorno-neymar-chora-e-diz-que-nao-volta-meia-boca/ "Próximo do retorno, Neymar chora e diz que não volta 'meia boca'")[![Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/2/csm_Lance_Fla_Flu_76fcbe0691.jpg)
-
-Futebol Nacional
-
-Futebol Nacional
-
-Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time
-
-Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time](https://www.tnh1.com.br/noticia/nid/video-flamengo-detona-arbitragem-e-divulga-video-com-supostos-erros-contra-o-time/ "Vídeo: Flamengo detona arbitragem e divulga vídeo com supostos erros contra o time")[![Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/d/csm_viatura_c759d95695.jpeg)
-
-Polícia
-
-Polícia
-
-Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar
-
-Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prende-homem-acusado-de-estuprar-enteada-de-13-anos-em-pilar/ "Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar")
+Mesmo com chuva fraca, São Paulo registra falta de luz em bairros](https://www.tnh1.com.br/noticia/nid/mesmo-com-chuva-fraca-sao-paulo-registra-falta-de-luz-em-bairros/ "Mesmo com chuva fraca, São Paulo registra falta de luz em bairros")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
