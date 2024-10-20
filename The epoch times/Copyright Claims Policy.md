@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Key Georgia Election Beset by Rival Claims of Russian, Western Interference](https://www.theepochtimes.com/world/key-georgia-election-beset-by-rival-claims-of-russian-western-interference-5743660)
+    
+    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Key Georgia Election Beset by Rival Claims of Russian, Western Interference](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Key Georgia Election Beset by Rival Claims of Russian, Western Interference](https://img.theepochtimes.com/assets/uploads/2024/05/15/id5650502-2024-05-02T122610Z_1_LYNXMPEK410JG_RTROPTP_4_GEORGIA-POLITICS-PROTESTS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/key-georgia-election-beset-by-rival-claims-of-russian-western-interference-5743660)
 * [Baldwin, Hovde Debate in Close Wisconsin US Senate Race](https://www.theepochtimes.com/us/baldwin-hovde-debate-in-close-wisconsin-us-senate-race-5744094)
     
-    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    7hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Baldwin, Hovde Debate in Close Wisconsin US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Baldwin, Hovde Debate in Close Wisconsin US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744402-Baldwin-Hovde-205x123.jpg.webp)](https://www.theepochtimes.com/us/baldwin-hovde-debate-in-close-wisconsin-us-senate-race-5744094)
 * [Day in Photos: G7 Summit Protest, Train Derailment, and Fallen Cyclist](https://www.theepochtimes.com/article/day-in-photos-g7-summit-protest-train-derailment-and-fallen-cyclist-5744097)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: G7 Summit Protest, Train Derailment, and Fallen Cyclist](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: G7 Summit Protest, Train Derailment, and Fallen Cyclist](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744339-GettyImages-2178601421-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-g7-summit-protest-train-derailment-and-fallen-cyclist-5744097)
 * [Winners Announced in NTD’s 7th International Piano Competition](https://www.theepochtimes.com/bright/winners-announced-in-ntds-7th-international-piano-competition-5744257)
     
-    7hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    13hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
     
     [![Winners Announced in NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Winners Announced in NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744367-NTD-piano-competition-winners-205x123.jpg.webp)](https://www.theepochtimes.com/bright/winners-announced-in-ntds-7th-international-piano-competition-5744257)
 * [Netanyahu Says Hezbollah Tried to Assassinate Him, Vows ‘Heavy Price’](https://www.theepochtimes.com/world/netanyahu-says-hezbollah-tried-to-assassinate-him-vows-heavy-price-5744165)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Netanyahu Says Hezbollah Tried to Assassinate Him, Vows ‘Heavy Price’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Netanyahu Says Hezbollah Tried to Assassinate Him, Vows ‘Heavy Price’](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732212-CP173202814-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-says-hezbollah-tried-to-assassinate-him-vows-heavy-price-5744165)
 * [The Millennia-Old Herb That Makes Dishes Both Digestible and Delicious](https://www.theepochtimes.com/health/cumin-the-millennia-old-herb-that-makes-dishes-both-digestible-and-delicious-5728807)
     
-    8hr By [Sheridan Genrich](https://www.theepochtimes.com/expert/sheridan-genrich)
+    14hr By [Sheridan Genrich](https://www.theepochtimes.com/expert/sheridan-genrich)
     
     [![The Millennia-Old Herb That Makes Dishes Both Digestible and Delicious](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The Millennia-Old Herb That Makes Dishes Both Digestible and Delicious](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744267-shutterstock_1918023254-205x123.jpg.webp)](https://www.theepochtimes.com/health/cumin-the-millennia-old-herb-that-makes-dishes-both-digestible-and-delicious-5728807)
 * [In Omaha, Democrats and Republicans Compete for Pivotal Electoral Vote](https://www.theepochtimes.com/article/in-omaha-democrats-and-republicans-compete-for-pivotal-electoral-vote-5737130)
     
-    9hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    15hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
     [![In Omaha, Democrats and Republicans Compete for Pivotal Electoral Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Omaha, Democrats and Republicans Compete for Pivotal Electoral Vote](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744414-Omaha-voting-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-omaha-democrats-and-republicans-compete-for-pivotal-electoral-vote-5737130)
 * [Boeing, Union Reach Tentative Deal to End Strike](https://www.theepochtimes.com/business/boeing-union-reach-tentative-deal-to-end-strike-ratification-vote-pending-5744155)
     
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    17hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Boeing, Union Reach Tentative Deal to End Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Boeing, Union Reach Tentative Deal to End Strike](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744381-Boeing-strike-GettyImages-2177902713-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-union-reach-tentative-deal-to-end-strike-ratification-vote-pending-5744155)
 * [Elon Musk Pushes Voter Registrations in Pennsylvania, Offers $100 to Each New Signup](https://www.theepochtimes.com/us/elon-musk-pushes-voter-registrations-in-pennsylvania-offers-100-to-each-new-signup-5744030)
     
-    11hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [William Huang](https://www.theepochtimes.com/author/william-huang)
+    17hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [William Huang](https://www.theepochtimes.com/author/william-huang)
     
     [![Elon Musk Pushes Voter Registrations in Pennsylvania, Offers $100 to Each New Signup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Elon Musk Pushes Voter Registrations in Pennsylvania, Offers $100 to Each New Signup](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744031-GettyImages-2179459042-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-pushes-voter-registrations-in-pennsylvania-offers-100-to-each-new-signup-5744030)
 * [Economy Top of Mind for Most North Carolina Early Voters](https://www.theepochtimes.com/us/economy-top-of-mind-for-most-north-carolina-early-voters-5744023)
     
-    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    17hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Economy Top of Mind for Most North Carolina Early Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Economy Top of Mind for Most North Carolina Early Voters](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744163-GettyImages-2178247386-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/economy-top-of-mind-for-most-north-carolina-early-voters-5744023)
-* [Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://www.theepochtimes.com/us/report-reveals-iowa-school-shooter-likely-showed-warning-signs-before-attack-5744039)
-    
-    12hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744359-Iowa-shooting-AP24004539877061-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/report-reveals-iowa-school-shooter-likely-showed-warning-signs-before-attack-5744039)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
