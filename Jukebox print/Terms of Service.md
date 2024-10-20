@@ -160,7 +160,7 @@ EUR
     
     Information[#### Premium Matte Business Cards](https://www.jukeboxprint.com/matte-business-cards)[Elevate your brand with our 18pt matte business cards—sleek design meets functionality. Perfect for modern professionals and creatives. Ready in 3 days!](https://www.jukeboxprint.com/matte-business-cards)
     
-    Information[#### Semi Gloss Business Cards](https://www.jukeboxprint.com/semi-gloss-business-cards)[Our Semi Gloss coating is one of the most popular and versatile options available. It adds shine to make the colors in your design stand out, ideal for photographs or vibrant patterns on your Business Cards. More subtle than Super Gloss, and more vibrant than Matte, Semi Gloss is the perfect balance of the two, offering the best of both worlds.](https://www.jukeboxprint.com/semi-gloss-business-cards)
+    Information[#### Semi Gloss Business Cards](https://www.jukeboxprint.com/semi-gloss-business-cards)[Our classic business cards are simple, 16pt with Semi Gloss, perfect for photos and any design.](https://www.jukeboxprint.com/semi-gloss-business-cards)
     
     Information[#### Super Gloss Business Cards](https://www.jukeboxprint.com/super-gloss-business-cards)[Our Super Gloss Business Cards have an impressive shine which enhances colors and produces a high-end professional finish. It is the perfect coating for illustrations and photographs, as it creates an eye-catching, vibrant result.](https://www.jukeboxprint.com/super-gloss-business-cards)
     
