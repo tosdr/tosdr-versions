@@ -302,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
+The Grangers and Potters were originally supposed to be neighbors in Godric’s Hollow.
 
 ### Potter History
 
-July 25, 2006 – The paperback edition of Harry Potter and the Half-Blood Prince is released in the United States.
+November 7, 2010 – The official Harry Potter website announces that Alexandre Desplat will return to compose the music for Harry Potter and the Deathly Hallows – Part 2.
 
 ### Potter Quote
 
-“Alas! Ear wax!”
+“Draco, Draco, you are not a killer.”
 
 [](#)
 
