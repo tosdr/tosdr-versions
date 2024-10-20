@@ -55,11 +55,10 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
-* [Kamala Interview Disaster](https://www.breitbart.com/tag/plagiarism/)
+* [️‍Trump Epic Interview ️‍](https://www.breitbart.com/tag/exclusive-2024-elections/)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
+* [Sinwar Dead](https://www.breitbart.com/tag/israel/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
-* [Diddy](https://www.breitbart.com/tag/diddy/)
 
 Terms of Use
 ============
