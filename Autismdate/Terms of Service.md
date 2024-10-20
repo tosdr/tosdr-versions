@@ -8,7 +8,7 @@ English
 
  [![](./_frameworks/main/impact/images/icon_btn_ios.png) iOS App](https://itunes.apple.com/us/app/autism-date/id1202617288?l=nl&ls=1&mt=8 "iOS App")  [![](./_frameworks/main/impact/images/icon_btn_android.png) Android App](https://play.google.com/store/apps/details?id=com.autismdate.com.app "Android App")
 
-![](./_files/logo/main_impact.png?v=1682462872) 
+![](./_files/logo/main_impact.png?v=1729365556) 
 
 AutismDate is a dating platform for everyone on the autism spectrum.  
 Start looking for a nice friendship or to find your love!
@@ -51,7 +51,7 @@ Forgot password?
 
 or
 
-*  [](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=769da939103438641d53535f257a476b&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+*  [](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=d5cc500fe39f271d44bd02d84c9bec79&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
 Forgot password?
 
