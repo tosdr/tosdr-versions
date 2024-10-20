@@ -239,9 +239,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[School Escape](https://lagged.com/en/g/school-escape) ![School Escape Game](https://imgs2.dab3games.com/school-escape2-ft45.png)
-
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
+
+[School Escape](https://lagged.com/en/g/school-escape) ![School Escape Game](https://imgs2.dab3games.com/school-escape2-ft45.png)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
