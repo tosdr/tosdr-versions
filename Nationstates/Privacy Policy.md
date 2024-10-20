@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (7,398)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,398 posts)")
-* [Your favorite part of AN’s forum sig XI (2,701)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,701 posts)")
-* [How important is AN in F7 (733)](https://forum.nationstates.net/viewtopic.php?t=550373&f=25&view=unread#unread ""How important is AN in F7" (733 posts)")
-* [Come up with a funny rip off name for… (317)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (317 posts)")
+* [Would You Rather Chill with AU or AAU? (47)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (47 posts)")
+* [Which of the 2 ANs is most likely to… (5,304)](https://forum.nationstates.net/viewtopic.php?t=532491&f=25&view=unread#unread ""Which of the 2 ANs is most likely to be YN's enemy?" (5,304 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (1,338)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (1,338 posts)")
+* [What do you think of when you see the… (9,161)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,161 posts)")
+* [Based on the flag, what language(s) d… (11,761)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,761 posts)")
 
 Advertisement
 
