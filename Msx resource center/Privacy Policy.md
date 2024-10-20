@@ -151,8 +151,10 @@ Latest reactions
 Latest forum posts
 
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx "The Matrix digital rain on MSX")
-* [RoboPlay - Multi format music player in Fusion-C](https://www.msx.org/forum/msx-talk/graphics-and-music/roboplay-multi-format-music-player-in-fusion-c?page=25 "RoboPlay - Multi format music player in Fusion-C")
+* [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
+* [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=4 "Carnivore2+ announcements")
+* [RoboPlay - Multi format music player in Fusion-C](https://www.msx.org/forum/msx-talk/graphics-and-music/roboplay-multi-format-music-player-in-fusion-c?page=25 "RoboPlay - Multi format music player in Fusion-C")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
@@ -161,13 +163,12 @@ Latest forum posts
 * [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=2 "Arkos Tracker 3!")
 * [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=4 "CVBasic: New BASIC compiler for MSX")
 * [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars?page=1 "Robot Wars")
-* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
-* [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
@@ -180,7 +181,6 @@ News headlines
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
-* [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
