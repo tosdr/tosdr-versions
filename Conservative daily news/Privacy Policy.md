@@ -2,6 +2,7 @@ Sunday, October 20 2024
 
 Breaking News
 
+* [Unstable And Unfit Are Her Latest Barbs But Is It Projection](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
 * [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
 * [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
 * [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
@@ -9,7 +10,6 @@ Breaking News
 * [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
 * [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
 * [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
-* [Former Clinton Pollster Warns Of ‘Eroding’ Blue Wall For Harris After Failing To Connect In Fox Interview](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5655-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
+    
+    [Unstable And Unfit Are Her Latest Barbs But Is It Projection](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
+    
+    October 20, 2024
+    
 * [![New Mexico man sentenced to 60 years for enticement of minors following HSI investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/03/New-Mexico-man-sentenced-to-60-years-for-enticement-of-220x150.png)](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
     
     [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
@@ -165,12 +171,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
     
     [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
-    
-    October 18, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/10/why-cant-kamala-answer-a-simple-question/)
-    
-    [Why Can’t Kamala Answer a Simple Question?](https://www.conservativedailynews.com/2024/10/why-cant-kamala-answer-a-simple-question/)
     
     October 18, 2024
     
