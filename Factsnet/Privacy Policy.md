@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Tomaculous Neuropathy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2293%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-tomaculous-neuropathy/)
+[![25 Facts About European Paintings ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/visual-arts/25-facts-about-european-paintings/)
+
+Visual Arts
+
+20 Oct 2024
+
+[25 Facts About European Paintings](https://facts.net/culture-and-the-arts/visual-arts/25-facts-about-european-paintings/)
+
+[![50 Facts About Ectopia Cordis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-ectopia-cordis/)
 
 Health Science
 
-19 Oct 2024
+20 Oct 2024
 
-[30 Facts About Tomaculous Neuropathy](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-tomaculous-neuropathy/)
-
-[![40 Facts About Chinese Silver ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-chinese-silver/)
-
-Earth Sciences
-
-19 Oct 2024
-
-[40 Facts About Chinese Silver](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-chinese-silver/)
+[50 Facts About Ectopia Cordis](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-ectopia-cordis/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
