@@ -10,6 +10,8 @@ top of page
 
 Log In
 
+NOTICE: Our Terms of Service has recently been updated. View Terms [here.](https://www.blazeapp.net/terms-of-service)
+
 Privacy Policy
 ==============
 
@@ -75,7 +77,7 @@ Effective Date: March 18, 2024
 
 ![Screenshot 2024-01-13 at 6_edited.jpg](https://static.wixstatic.com/media/0a8e45_856d84efe5314fdd9ef32716c0c65a55~mv2.jpg/v1/fill/w_127,h_62,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_edited.jpg)
 
-The Flame of Social Media. Powered by WIX. 
+The Flame of Social Media. Powered by WIX.
 
 ###### [Terms of Service](https://www.blazeapp.net/terms-of-service)
 
