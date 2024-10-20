@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Johan Botha - Brand Xplosion
+Henry Venter
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=180334223)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=188098476)  
+Lily Fern & Co
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=209318931)  
-Prosper Park
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=107765468)  
+Turnkey Innovations
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=25216233)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=149697410)  
+Van Der Merwe Olieverspreiders
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=108430951)  
-Imhoff Equestrian Centre
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=136149548)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=99623432)  
-Glass and Allied Industries
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=145687546)  
+SR Travel Services
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=128661071)  
-ARCHITEK PTY LTD
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=197485914)  
-Multi CNC Solutions CC
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=196864826)  
-NWET Pty LTD
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=188720931)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=153378224)  
-BD Maintenance
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=103205574)  
-Bchange Online CC
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=159254502)  
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=149037320)  
 Oukraal Merino's
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=34902453)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=10230730)  
+Goju-Ryu Pretoria East
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=134664694)  
-Depot Diesel (Pty) Ltd
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=39976502)  
+ARCHITEK PTY LTD
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=6b3960d722da24fee70f126f2e48acb321881aa9ffd52ad9d98a3e9f593563c6&c=36271731)  
-Goju Ryu Karate Centre
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=56783974)  
+TRACKFORCE (Pty) Ltd
+
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=56590970)  
+CLEVER STUDENTS
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=166072785)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=121086539)  
+Nogana Events and Decor
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=135313422)  
+Druce Digital
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=90177501)  
+LEO DEVELOPMENT GROUP
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d8d0ab5498025bf4605b38f5ad96246eb90becf20361e74c6e4511f56348c17b&c=202151114)  
+Entidee Enterprise PTY (ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
