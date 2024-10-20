@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b79ff4158d785786fba1234b3d156258
+13ea6cc9851de3f8c07fd32e1a9a5110
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Hand-made dark orange glass beads](https://sojourner.biz/images/cache/glass/VB0023.200.jpg)](https://sojourner.biz/beads/glass/hand-made-dark-orange-glass-beads.html "Hand-made dark orange glass beads")
+[![Tiny dark topaz clasp](https://sojourner.biz/images/cache/SKU0350front.200.jpg)](https://sojourner.biz/clasps/glass/tiny-dark-topaz-clasp.html "Tiny dark topaz clasp")
 
-#### [Hand-made dark orange glass beads](https://sojourner.biz/beads/glass/hand-made-dark-orange-glass-beads.html "Hand-made dark orange glass beads")
+#### [Tiny dark topaz clasp](https://sojourner.biz/clasps/glass/tiny-dark-topaz-clasp.html "Tiny dark topaz clasp")
 
-$4.00
+$15.00
 
 ### Best Sellers
 
