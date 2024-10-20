@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Gloucester Grove leaseholders are urging Southwark Council to get a grip on the estate's heating anomales](https://southwarknews.co.uk/wp-content/uploads/2024/07/Gloucester-Grove-leaseholders-are-urging-Southwark-Council-to-get-a-grip-on-the-estates-heating-anomales-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
+    
+    ### [Could Southwark’s district heating crisis shape the course of national energy policy?](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/athena-kugblenu-360x180.jpg)](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
+    
+    ### [Our pick of the best things to do in South London](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
+    
+    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
+    
+    ### [‘I’m pushing for breakfast clubs at all primary schools,’ says MP Helen Hayes](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
+    
     [![CGI image of West Site](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-image-of-West-Site-360x180.jpg)](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
     
     ### [Building of more than 500 new homes in Elephant and Castle one step closer](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
@@ -42,18 +54,6 @@
     [![Miatta Fahnbulleh will replace Harriet Harman as Labour's candidate for the upcoming general election](https://southwarknews.co.uk/wp-content/uploads/2024/05/front_cover_picture_-scaled-e1717173075135-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
     
     ### [‘Our government will make big reforms for renters’, says Peckham MP](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
-    
-    [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
-    
-    ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
-    
-    [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
-    
-    ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-360x180.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
-    
-    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Gloucester Grove leaseholders are urging Southwark Council to get a grip on the estate's heating anomales](https://southwarknews.co.uk/wp-content/uploads/2024/07/Gloucester-Grove-leaseholders-are-urging-Southwark-Council-to-get-a-grip-on-the-estates-heating-anomales-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
+    
+    ### [Could Southwark’s district heating crisis shape the course of national energy policy?](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/athena-kugblenu-360x180.jpg)](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
+    
+    ### [Our pick of the best things to do in South London](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
+    
+    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
+    
+    ### [‘I’m pushing for breakfast clubs at all primary schools,’ says MP Helen Hayes](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
+    
     [![CGI image of West Site](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-image-of-West-Site-360x180.jpg)](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
     
     ### [Building of more than 500 new homes in Elephant and Castle one step closer](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
@@ -122,18 +134,6 @@ View All Result
     [![Miatta Fahnbulleh will replace Harriet Harman as Labour's candidate for the upcoming general election](https://southwarknews.co.uk/wp-content/uploads/2024/05/front_cover_picture_-scaled-e1717173075135-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
     
     ### [‘Our government will make big reforms for renters’, says Peckham MP](https://southwarknews.co.uk/area/peckham/our-government-will-make-big-reforms-for-renters-says-peckham-mp/)
-    
-    [![Bermondsey station (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-18-10-2024-at-17.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
-    
-    ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
-    
-    [![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-360x180.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
-    
-    ### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-360x180.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
-    
-    ### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -197,18 +197,18 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
+[![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+
+### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+
+[19th October 2024](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
+
 [![CGI of new Nine Elms primary school.
 Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
 ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
 [17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-
-[![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-[19th October 2024](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
 
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
@@ -230,6 +230,12 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 [15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
 
 ### Featured Articles
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/athena-kugblenu-120x86.jpg)](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
+
+### [Our pick of the best things to do in South London](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
+
+[20th October 2024](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
 
 [![CGI image of West Site](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-image-of-West-Site-120x86.jpg)](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
 
@@ -260,12 +266,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Man arrested on suspicion of assault at Bermondsey station](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
 
 [18th October 2024](https://southwarknews.co.uk/area/bermondsey/man-arrested-on-suspicion-of-assault-at-bermondsey-station/)
-
-[![Jacqueline John says she's afraid to go outside since the incident.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2788-120x86.jpg)](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
-
-### [Woman ‘attacked while walking dog’ slams ‘useless’ police investigation](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
-
-[18th October 2024](https://southwarknews.co.uk/area/peckham/woman-attacked-while-walking-dog-slams-useless-police-investigation/)
 
 ### USEFUL PAGES
 
