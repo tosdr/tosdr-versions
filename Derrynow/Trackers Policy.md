@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-19 Oct 2024
+20 Oct 2024
 
 * [Home
     
@@ -266,22 +266,6 @@ Most Popular
 [Derry Death Notices - Saturday, October 19 2024](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
-
-Derry City players celebrate the opening goal at Dundalk. Pics by Ben McShane/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City keep title hopes alive with victory in Dundalk](https://www.derrynow.com/news/derry-sport/1634270/derry-city-keep-title-hopes-alive-with-victory-in-dundalk.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange wind warning extended to more counties ahead of Storm Ashley’s arrival")](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
 
 The special engineering leaf busting train that travels across the Translink network
@@ -291,6 +275,13 @@ The special engineering leaf busting train that travels across the Translink net
 [Translink tackling leaf fall to minimise disruption to Derry trains](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange wind warning extended to more counties ahead of Storm Ashley’s arrival")](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Orange wind warning extended to more counties ahead of Storm Ashley’s arrival](https://www.derrynow.com/news/northern-ireland/1634424/orange-wind-warning-extended-to-more-counties-ahead-of-storm-ashleys-arrival.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns")](https://www.derrynow.com/news/northern-ireland/1634316/danger-to-life-likely-in-storm-ashleys-80mph-winds-met-office-warns.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
@@ -298,12 +289,35 @@ The special engineering leaf busting train that travels across the Translink net
 [Danger to life ‘likely’ in Storm Ashley’s 80mph winds, Met Office warns](https://www.derrynow.com/news/northern-ireland/1634316/danger-to-life-likely-in-storm-ashleys-80mph-winds-met-office-warns.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
+
+Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Injury time drama at the Brandywell as 'Stute defeat Ballinamallard](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Paul Quinn’s mother appeals for justice on 17th anniversary of murder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Quinn’s mother appeals for justice on 17th anniversary of murder")](https://www.derrynow.com/news/northern-ireland/1634834/paul-quinns-mother-appeals-for-justice-on-17th-anniversary-of-murder.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Paul Quinn’s mother appeals for justice on 17th anniversary of murder](https://www.derrynow.com/news/northern-ireland/1634834/paul-quinns-mother-appeals-for-justice-on-17th-anniversary-of-murder.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man in critical condition after assault outside Co Antrim pub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in critical condition after assault outside Co Antrim pub")](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Man in critical condition after assault outside Co Antrim pub](https://www.derrynow.com/news/northern-ireland/1634519/man-in-critical-condition-after-assault-outside-co-antrim-pub.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police start making arrests using new roadside drug testing kits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police start making arrests using new roadside drug testing kits")](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police start making arrests using new roadside drug testing kits](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Great South Run cancelled over safety concerns as Storm Ashley heads for UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Great South Run cancelled over safety concerns as Storm Ashley heads for UK")](https://www.derrynow.com/news/northern-ireland/1634520/great-south-run-cancelled-over-safety-concerns-as-storm-ashley-heads-for-uk.html)
 
@@ -318,13 +332,6 @@ The special engineering leaf busting train that travels across the Translink net
 
 [Man suffers serious facial injuries in Lisburn assault](https://www.derrynow.com/news/northern-ireland/1634533/man-suffers-serious-facial-injuries-in-lisburn-assault.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police start making arrests using new roadside drug testing kits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police start making arrests using new roadside drug testing kits")](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police start making arrests using new roadside drug testing kits](https://www.derrynow.com/news/northern-ireland/1634622/police-start-making-arrests-using-new-roadside-drug-testing-kits.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -504,6 +511,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
+
+Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Injury time drama at the Brandywell as 'Stute defeat Ballinamallard](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Translink tackling leaf fall to minimise disruption to trains](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink tackling leaf fall to minimise disruption to trains")](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
 
 The special engineering leaf busting train that travels across the Translink network
@@ -513,7 +529,7 @@ The special engineering leaf busting train that travels across the Translink net
 [Translink tackling leaf fall to minimise disruption to Derry trains](https://www.derrynow.com/news/local-news/1633542/translink-tackling-leaf-fall-to-minimise-disruption-to-derry-trains.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1633814/derry-death-notices-saturday-october-19-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
@@ -545,13 +561,6 @@ Chair of Mid Ulster District Council, Councillor Eugene McConnell, launches the 
 [Home](https://www.derrynow.com/)
 
 [Mid Ulster businesses learn to 'Create, Connect, Inspire’ this Enterprise Week](https://www.derrynow.com/news/home/1633995/mid-ulster-businesses-learn-to-create-connect-inspire-this-enterprise-week.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/resizer/165/93/true/2024_10_18/6-1729275618315.jpg--.jpg?1729275621349 "28-year-old man charged with number of dangerous driving-related offences")](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[28-year-old man charged with number of dangerous driving-related offences](https://www.derrynow.com/news/local-news/1634204/28-year-old-man-charged-with-number-of-dangerous-driving-related-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
