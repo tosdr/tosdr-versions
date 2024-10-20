@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Gunpowder And LeadMiranda Lambert<br><br>4:55am |
-| Tucson Too LateJordan Davis<br><br>4:53am |
-| One Bad HabitTim Mcgraw<br><br>4:49am |
-| You ProofMorgan Wallen<br><br>4:47am |
-| Not TodayMitchell Tenpenny<br><br>4:44am |
+| Somethin Bout A TruckKip Moore<br><br>11:38am |
+| Fast CarLuke Combs<br><br>11:34am |
+| Am I OkMegan Moroney<br><br>11:30am |
+| Backseat DriverKane Brown<br><br>11:26am |
+| A Bar Song (Tipsy)Shaboozey<br><br>11:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Spanish • Western
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
