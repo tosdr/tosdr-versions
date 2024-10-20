@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZxUIoQoAAVAAAABbnbQ)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZxVdcwoAAVAAAABbHwE)
 
 Es noticia
 
@@ -6,10 +6,10 @@ Es noticia
 * [Podemos y sumar presionan](https://www.elmundo.es/espana/2024/10/20/6713fed7fc6c83493f8b4571.html)
 * [Descarrilamiento Madrid](https://www.elmundo.es/economia/2024/10/19/671421d121efa0f9508b457b.html)
 * [Quilla de Red Bull](https://www.elmundo.es/deportes/formula-1/2024/10/19/6713d10ae4d4d8b73e8b459c.html)
-* [Vivienda](https://www.elmundo.es/comunidad-valenciana/2024/10/19/6713fe80e4d4d8043c8b45aa.html)
+* [GP Américas](https://www.elmundo.es/deportes/formula-1/2024/10/20/05_0501_20241020_19_1-directo.html)
 * [Nadal Djokovic](https://www.elmundo.es/deportes/tenis/2024/10/19/6713f96ee4d4d810038b45a6.html)
 * [Tiroteo Misisipi](https://www.elmundo.es/internacional/2024/10/20/671440e9fc6c8352068b4574.html)
-* [Santería](https://www.elmundo.es/madrid/2024/10/19/6713d4bafdddffe1958b45a3.html)
+* [Barcelona - Sevilla](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/barcelona-sevilla/2024/10/20/01_0101_20241020_178_179-directo.html)
 * [Epilepsia](https://www.elmundo.es/ciencia-y-salud/salud/2024/10/20/67138fdbe9cf4af5798b45ab.html)
 * [Junqueras](https://www.elmundo.es/cataluna/2024/10/20/6713c8e3e9cf4a365a8b459e.html)
 * [Copa América](https://www.elmundo.es/deportes/2024/10/19/6713be64e85ecebf758b456e.html)
