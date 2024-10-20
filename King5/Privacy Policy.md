@@ -34,9 +34,9 @@ Navigation
         
         #### [Rail issue delays Sound Transit light rail trains between Lynnwood and Seattle](https://www.king5.com/article/news/local/mechanical-issue-service-delays-disruption-sound-transit-trains/281-4ec94b41-6c06-4c5c-bfa9-a708ecc2707c)
         
-    *  [![](https://media.king5.com/assets/KING/images/dd629d90-b85e-4f56-89f3-f3d062326d1a/dd629d90-b85e-4f56-89f3-f3d062326d1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dd629d90-b85e-4f56-89f3-f3d062326d1a/dd629d90-b85e-4f56-89f3-f3d062326d1a_360x203.jpg)](https://www.king5.com/article/news/local/1-dead-3-injured-crash-near-arlington/281-ed65e1be-369e-4c83-aef9-f29cab8954af)
+    *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
-        #### [1 person dies in 3-vehicle crash near Arlington](https://www.king5.com/article/news/local/1-dead-3-injured-crash-near-arlington/281-ed65e1be-369e-4c83-aef9-f29cab8954af)
+        #### [Wind Advisory in effect on Sunday for coastal areas](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/46cc1e06-8758-4362-aee2-fa8bf0c27506/20241020T032624/46cc1e06-8758-4362-aee2-fa8bf0c27506_16x9.jpg) ![](https://media.king5.com/assets/KING/images/46cc1e06-8758-4362-aee2-fa8bf0c27506/20241020T032624/46cc1e06-8758-4362-aee2-fa8bf0c27506_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_16x9.jpg) ![](https://media.king5.com/assets/KING/images/15d68b6e-1671-47d6-9273-9d815e174286/20240604T151110/15d68b6e-1671-47d6-9273-9d815e174286_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
         
         #### [Wind Advisory in effect on Sunday for coastal areas](https://www.king5.com/article/weather/wind-advisory-effect-friday-afternoon-through-saturday-morning/281-d1706b63-8952-43b3-b22e-1fc5140a2ef1)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/dc909d4d-44a1-4983-bf32-77d0461e0f74/20241019T184448/dc909d4d-44a1-4983-bf32-77d0461e0f74_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/dc909d4d-44a1-4983-bf32-77d0461e0f74/20241019T184448/dc909d4d-44a1-4983-bf32-77d0461e0f74_360x203.jpg)](https://www.king5.com/article/news/nation-world/hurricane-oscar-path/507-2b678df1-10ab-4ab6-a430-727d8f27b6b2)
-        
-        #### [Hurricane Oscar forms off the coast of the Bahamas](https://www.king5.com/article/news/nation-world/hurricane-oscar-path/507-2b678df1-10ab-4ab6-a430-727d8f27b6b2)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 62°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
