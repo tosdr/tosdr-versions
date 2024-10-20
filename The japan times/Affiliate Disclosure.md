@@ -253,25 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+
+46 mins ago
+
+[U.S. prosecutors see rising threat of AI-generated child sex abuse imagery](https://www.japantimes.co.jp/news/2024/10/20/world/crime-legal/us-prosecutors-child-porn-ai/ "U.S. prosecutors see rising threat of AI-generated child sex abuse imagery")
+
+2 hours ago
+
+[Japan and U.S. defense chiefs voice 'sense of crisis' amid China military moves](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-us-defense-chiefs-meeting/ "Japan and U.S. defense chiefs voice 'sense of crisis' amid China military moves")
+
+3 hours ago
+
+[Netanyahu says Iran-backed Hezbollah tried to kill him](https://www.japantimes.co.jp/news/2024/10/20/world/netanyahu-hezbollah-assassination-attempt/ "Netanyahu says Iran-backed Hezbollah tried to kill him")
+
+3 hours ago
+
 [No Cabinet ministers visit Yasukuni Shrine during fall festival](https://www.japantimes.co.jp/news/2024/10/19/japan/yasukuni-no-cabinet-members/ "No Cabinet ministers visit Yasukuni Shrine during fall festival")
-
-8 hours ago
-
-[Cuba's electrical grid collapses again; entire country without power](https://www.japantimes.co.jp/news/2024/10/19/world/cuba-power-outage/ "Cuba's electrical grid collapses again; entire country without power")
-
-9 hours ago
-
-[Japan's land ministry eyes bill to prevent overpriced condo repairs](https://www.japantimes.co.jp/news/2024/10/19/japan/condo-repair-rules/ "Japan's land ministry eyes bill to prevent overpriced condo repairs")
-
-10 hours ago
-
-[Man arrested after throwing apparent firebombs at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/19/japan/crime-legal/ldp-prime-ministers-office-attack/ "Man arrested after throwing apparent firebombs at LDP headquarters")
-
-10 hours ago
-
-[Sinwar's death clouds path to freeing Israeli hostages](https://www.japantimes.co.jp/news/2024/10/19/world/sinwar-death-muddy-hostage-release/ "Sinwar's death clouds path to freeing Israeli hostages")
-
-11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
