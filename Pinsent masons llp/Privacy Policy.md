@@ -985,36 +985,36 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
-* [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
-* [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings)
-* [Accessibility](https://www.pinsentmasons.com/legal-notices/accessibility)
-* [Careers](https://www.pinsentmasons.com/careers)
-* [Modern Slavery](https://www.pinsentmasons.com/legal-notices/modern-slavery)
+* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
+* [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
+* [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
+* [Accessibility](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
+* [Careers](https://www.pinsentmasons.com/en-gb/careers)
+* [Modern Slavery](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
 
 ### We have over 27 offices across 4 continents
 
 ![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=045c074fac11430daa17b706aa5d540d&hash=5FF54396C1D1C58C956BBE00BF48A792)
 
-[Find your nearest office](https://www.pinsentmasons.com/office-finder)
+[Find your nearest office](https://www.pinsentmasons.com/en-gb/office-finder)
 
 2024 Copyright Pinsent Masons LLP
 
