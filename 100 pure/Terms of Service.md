@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2398 reviews (2398)
+2399 reviews (2400)
 
 $28.00 $28.00
 
@@ -158,7 +158,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-2023 reviews (2023)
+2024 reviews (2024)
 
 $27.00 $27.00
 
