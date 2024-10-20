@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Drone strikes Netanyahu’s home in Israel while IDF continues operations in Gaza, Lebanon: ‘Nothing will deter us’](https://nypost.com/2024/10/19/world-news/israel-prime-minister-benjamin-netanyahus-caesarea-home-target-of-drone-strike/)
+[7 dead, multiple people rushed to hospital after tragic Georgia ferry dock collapse](https://nypost.com/2024/10/19/us-news/7-dead-multiple-people-rushed-to-hospital-after-tragic-georgia-ferry-dock-collapse/)
 
 Privacy Notice Highlights
 =========================
