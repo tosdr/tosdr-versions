@@ -131,68 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[The yen pays the price for a timid Bank of Japan](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428279.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.")](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Tan Pin Yen](https://www.japantimes.co.jp/author/5641/tan-pin-yen/ "Tan Pin Yen")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
 [COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[The yen pays the price for a timid Bank of Japan](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
 
-By F.D. Flam  
+By [Daniel Moss](https://www.japantimes.co.jp/author/428/daniel-moss/ "Daniel Moss")  
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Claire Jiao](https://www.japantimes.co.jp/author/1909/claire-jiao/ "Claire Jiao")  
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428279.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.")](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +257,15 @@ Latest News
 
 [Ruling camp likely to win Lower House majority: polls](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-likely-to-win-lower-house/ "Ruling camp likely to win Lower House majority: polls")
 
-3 hours ago
+9 hours ago
 
 [More details emerge about suspect in attack at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/japan-ldp-headquarters-pmo-attack/ "More details emerge about suspect in attack at LDP headquarters")
 
-7 hours ago
-
 [New rules drive Japanese trucking sector to the brink](https://www.japantimes.co.jp/news/2024/10/20/japan/society/2024-problem-trucking-sector/ "New rules drive Japanese trucking sector to the brink")
-
-8 hours ago
 
 [G7 defense chiefs voice concern over Chinese military drills around Taiwan](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-g7-defense-chiefs/ "G7 defense chiefs voice concern over Chinese military drills around Taiwan")
 
-9 hours ago
-
 [Fuji Soft sticks with KKR despite higher takeover offer from Bain](https://www.japantimes.co.jp/business/2024/10/20/companies/fuji-soft-sticks-kkr/ "Fuji Soft sticks with KKR despite higher takeover offer from Bain")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
