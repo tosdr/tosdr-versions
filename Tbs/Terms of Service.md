@@ -12,7 +12,6 @@ Toggle navigation
     * [The Big Bang Theory](https://www.tbs.com/shows/the-big-bang-theory)
     * [Friends](https://www.tbs.com/shows/friends)
     * [Impractical Jokers](https://www.tbs.com/shows/impractical-jokers)
-    * [MLB Postseason on tbs](https://www.tbs.com/mlb-on-tbs)
     * [Young Sheldon](https://www.tbs.com/shows/young-sheldon-tbs)
     * [MORE](https://www.tbs.com/shows)
 * [Movies ![arrow](/themes/custom/ten_theme/images/arrow-icon-down.png)](#) 
