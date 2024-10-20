@@ -20,16 +20,16 @@ Sunday, October 20 2024
 
 Latest
 
+* [Casio’s AI-Powered Robot Pet Wants to Be Your New Best Friend](https://digitpatrox.com/casios-ai-powered-robot-pet-wants-to-be-your-new-best-friend/)
+* [How to Customize or Disable the Camera Control Button on an iPhone 16](https://digitpatrox.com/how-to-customize-or-disable-the-camera-control-button-on-an-iphone-16/)
+* [Nuna Swiv Stroller Review – Consumer Reports](https://digitpatrox.com/nuna-swiv-stroller-review-consumer-reports/)
+* [The Best Galaxy S24 FE Cases of 2024](https://digitpatrox.com/the-best-galaxy-s24-fe-cases-of-2024/)
+* [NYT Connections today hints and answers — Sunday, October 20 (#497)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-october-20-497/)
+* [BianLian ransomware claims attack on Boston Children’s Health Physicians](https://digitpatrox.com/bianlian-ransomware-claims-attack-on-boston-childrens-health-physicians/)
+* [Why is ‘Adam Driver Megalopolis’ blocked in Instagram searches?](https://digitpatrox.com/why-is-adam-driver-megalopolis-blocked-in-instagram-searches/)
+* [NYT Connections Today: Hints and Answers for October 20, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-20-2024/)
 * [The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
 * [How to Check for Viruses on Windows 11](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
-* [Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
-* [Here’s How I Made Ubuntu Look Like macOS](https://digitpatrox.com/heres-how-i-made-ubuntu-look-like-macos/)
-* [Black Friday just came early with Nintendo’s big Halloween sale — here’s 11 Switch game deals I’d buy now](https://digitpatrox.com/black-friday-just-came-early-with-nintendos-big-halloween-sale-heres-11-switch-game-deals-id-buy-now/)
-* [Google Scholar has a ‘verified email’ for Sir Isaac Newton](https://digitpatrox.com/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
-* [Ford tells some EV customers to stop using its Tesla Supercharger adapter](https://digitpatrox.com/ford-tells-some-ev-customers-to-stop-using-its-tesla-supercharger-adapter/)
-* [Dress to Impress: How to Complete Lana Lore Quest in DTI Halloween Update](https://digitpatrox.com/dress-to-impress-how-to-complete-lana-lore-quest-in-dti-halloween-update/)
-* [Best Antivirus for Social Media Protection in 2024](https://digitpatrox.com/best-antivirus-for-social-media-protection-in-2024/)
-* [How to Tell If a Real Estate Listing Is Based on Reality](https://digitpatrox.com/how-to-tell-if-a-real-estate-listing-is-based-on-reality/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JA632HY8RSFTHGTEFQYZN2DA/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Casio-Moflin-Robot-Dog.jpg?w=1250&quality=75)](https://digitpatrox.com/casios-ai-powered-robot-pet-wants-to-be-your-new-best-friend/)
     
-    [The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
+    [Casio’s AI-Powered Robot Pet Wants to Be Your New Best Friend](https://digitpatrox.com/casios-ai-powered-robot-pet-wants-to-be-your-new-best-friend/)
     
-    42 mins ago
+    2 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-check-for-viruses-on-Windows-11.jpg)](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
+* [![](https://lifehacker.com/imagery/articles/01JAG3P61XJHYVMG9MDZTDY1RW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-customize-or-disable-the-camera-control-button-on-an-iphone-16/)
     
-    [How to Check for Viruses on Windows 11](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
-    
-    51 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1709561629/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Quietest-Midsized-SUVs-0224)](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
-    
-    [Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-laptop-with-the-macos-dock-and-a-linux-wallpaper-featuring-tux-holding-the-apple-logo.jpg)](https://digitpatrox.com/heres-how-i-made-ubuntu-look-like-macos/)
-    
-    [Here’s How I Made Ubuntu Look Like macOS](https://digitpatrox.com/heres-how-i-made-ubuntu-look-like-macos/)
-    
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/dwvS7cbMLeoAdzxS7Bx7VT-1200-80.jpg)](https://digitpatrox.com/black-friday-just-came-early-with-nintendos-big-halloween-sale-heres-11-switch-game-deals-id-buy-now/)
-    
-    [Black Friday just came early with Nintendo’s big Halloween sale — here’s 11 Switch game deals I’d buy now](https://digitpatrox.com/black-friday-just-came-early-with-nintendos-big-halloween-sale-heres-11-switch-game-deals-id-buy-now/)
+    [How to Customize or Disable the Camera Control Button on an iPhone 16](https://digitpatrox.com/how-to-customize-or-disable-the-camera-control-button-on-an-iphone-16/)
     
     2 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729000615/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Nuna-Swiv-9-24-v2)](https://digitpatrox.com/nuna-swiv-stroller-review-consumer-reports/)
+    
+    [Nuna Swiv Stroller Review – Consumer Reports](https://digitpatrox.com/nuna-swiv-stroller-review-consumer-reports/)
+    
+    3 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/54022481127_d8927d26f9_o.jpg)](https://digitpatrox.com/the-best-galaxy-s24-fe-cases-of-2024/)
+    
+    [The Best Galaxy S24 FE Cases of 2024](https://digitpatrox.com/the-best-galaxy-s24-fe-cases-of-2024/)
+    
+    3 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/GPc572YotvfLXGxckqpudW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-october-20-497/)
+    
+    [NYT Connections today hints and answers — Sunday, October 20 (#497)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-october-20-497/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [42 mins ago
+* [2 mins ago
     
-    ### The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
-* [51 mins ago
+    ### Casio’s AI-Powered Robot Pet Wants to Be Your New Best Friend](https://digitpatrox.com/casios-ai-powered-robot-pet-wants-to-be-your-new-best-friend/)
+* [2 hours ago
     
-    ### How to Check for Viruses on Windows 11](https://digitpatrox.com/how-to-check-for-viruses-on-windows-11/)
-* [1 hour ago
+    ### How to Customize or Disable the Camera Control Button on an iPhone 16](https://digitpatrox.com/how-to-customize-or-disable-the-camera-control-button-on-an-iphone-16/)
+* [3 hours ago
     
-    ### Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
+    ### Nuna Swiv Stroller Review – Consumer Reports](https://digitpatrox.com/nuna-swiv-stroller-review-consumer-reports/)
 
 Most Popular Topics
 
-* [August 24, 2024
+* [4 weeks ago
     
-    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
-* [2 weeks ago
+    ### 9 Best Mattresses of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/9-best-mattresses-of-2024-lab-tested-and-reviewed/)
+* [4 weeks ago
     
-    ### Comcast and Truist Bank customers caught up in FBCS data breach](https://digitpatrox.com/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
-* [3 weeks ago
+    ### AI could be taken over by a few multinationals, warns UN](https://digitpatrox.com/ai-could-be-taken-over-by-a-few-multinationals-warns-un/)
+* [6 days ago
     
-    ### Razer leans into haptics with a new gaming cushion and vibrating headphones](https://digitpatrox.com/razer-leans-into-haptics-with-a-new-gaming-cushion-and-vibrating-headphones/)
+    ### My Vision For The Perfect Headset](https://digitpatrox.com/my-vision-for-the-perfect-headset/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Ford tells some EV customers to stop using its Tesla Supercharger adapter](https://digitpatrox.com/ford-tells-some-ev-customers-to-stop-using-its-tesla-supercharger-adapter/)
-* [3 hours ago
-    
-    ### Dress to Impress: How to Complete Lana Lore Quest in DTI Halloween Update](https://digitpatrox.com/dress-to-impress-how-to-complete-lana-lore-quest-in-dti-halloween-update/)
 * [5 hours ago
     
-    ### Best Antivirus for Social Media Protection in 2024](https://digitpatrox.com/best-antivirus-for-social-media-protection-in-2024/)
+    ### Why is ‘Adam Driver Megalopolis’ blocked in Instagram searches?](https://digitpatrox.com/why-is-adam-driver-megalopolis-blocked-in-instagram-searches/)
+* [5 hours ago
+    
+    ### NYT Connections Today: Hints and Answers for October 20, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-20-2024/)
+* [7 hours ago
+    
+    ### The Goriest Horror Movies Streaming Right Now](https://digitpatrox.com/the-goriest-horror-movies-streaming-right-now/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
