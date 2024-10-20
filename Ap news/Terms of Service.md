@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [A drone targets the Israeli prime minister's house during new barrages with Hezbollah](https://apnews.com/article/israel-hamas-war-news-10-18-2024-c49911f11a40b7d81b21bc8568ecfe11)
+    * [Israeli strikes on northern Gaza leave at least 87 dead or missing, Palestinian officials say](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
     * [Ukraine’s ‘victory plan’ receives mixed reactions from Western allies](https://apnews.com/article/victory-plan-ukraine-russia-war-zelenskyy-1a66e6b1655fcaa421526ad174e618bd)
-    * [France vows support for Ukraine's plan to end Russian invasion](https://apnews.com/article/russia-ukraine-war-france-pows-22dbb9037a98c3185ca3a0e3470e074a)
+    * [Indonesia swears in ex-general Prabowo Subianto as president](https://apnews.com/article/indonesia-new-president-prabowo-subianto-sworn-44f1cb606ab8aa825b20b7f154ba9721)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
-    * [Hurricane Oscar forms off the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
     * [At least 7 dead after ferry dock gangway collapses on Georgia's Sapelo Island](https://apnews.com/article/ferry-dock-collapse-deaths-sapelo-island-georgia-66ea381cb0f9fd697fc51fc7aa853038)
+    * [Voters in Arizona and Nebraska will face competing ballot measures. What happens if they both pass?](https://apnews.com/article/conflicting-ballot-measures-abortion-arizona-nebraska-8d749d2e843c7089adbfbe9cacb7ace6)
     
     Newsletters
     
@@ -53,8 +53,8 @@ Menu
     TOP STORIES
     
     * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
-    * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
-    * [Two Texas cities represent the divide between those who vote and those who could, but often don't](https://apnews.com/article/texas-voting-gap-demographics-republicans-democrats-4757833c15266ac793ed61c50292b653)
+    * [Trump kicks off a Pennsylvania rally by talking about Arnold Palmer's genitalia](https://apnews.com/article/trump-arnold-palmer-closing-arguments-latrobe-pennsylvania-2bea9620c523e531a55259200215284e)
+    * [In New York, a constitutional amendment provides election fodder for the left and the right](https://apnews.com/article/new-york-sex-gender-discrimination-constitution-lgbtq-a0c6080761df2e341cd7a4be7ce5e761)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Republicans and Democrats are both preparing for long legal battles over the 2024 election results](https://apnews.com/article/election-2024-harris-trump-legal-challenges-563936d90d83de456e704de7d03b5063)
+    * [Harris is attending church in Georgia and encouraging Black congregants to vote](https://apnews.com/article/harris-election-2024-trump-church-georgia-voting-91f92ede412f87f10851544c9ba637b7)
     * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
-    * [Judges punishing Jan. 6 rioters say they fear more political violence as Election Day nears](https://apnews.com/article/capitol-riot-judges-election-ebb54ab9badccfcb2b1bc2fa0de5bf21)
-    * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Juan Soto's 3-run homer in 10th sends Yankees past Guardians 5-2 and into World Series for 41st time](https://apnews.com/article/yankees-guardians-mlb-playoffs-14996d2b9c28869202e8651f52f3e330)
+    * [No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://apnews.com/article/georgia-texas-score-6fa78bb172ca85ce554d09e4d9906a6d)
     * [Texas TD against Georgia 2 plays after interception 1st wiped out by penalty and trash on field](https://apnews.com/article/texas-georgia-penalty-reversed-32fb9184858ef6068e81c8c24d8bfbc3)
-    * [Brady Cook, hobbled by an injury, rallies No. 19 Mizzou to a 21-17 win over Auburn](https://apnews.com/article/auburn-missouri-football-score-c6428f82abc0caa63b5ee8314124851e)
-    * [No. 16 Indiana routs Nebraska 56-7 to stay unbeaten; Rourke injures hand and misses 2nd half](https://apnews.com/article/indiana-hoosiers-nebraska-cornhuskers-big-ten-3b3657737e0db25d492c70983c1f19ab)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Cher, Foreigner, Mary J. Blige, Dionne Warwick inducted into Rock & Roll Hall of Fame](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
+    * [Alec Baldwin returns to 'Saturday Night Live' to spoof Bret Baier interview with Kamala Harris](https://apnews.com/article/saturday-night-live-alec-baldwin-1387058826fc3d2d50bdba52eb68314c)
+    * [Rock & Roll Hall of Fame turns up starpower to induct Cher, Foreigner, Mary J. Blige, Ozzy and more](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
     * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
-    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     
 * [Business](https://apnews.com/business)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Learning about God from dogs, Orthodox monks breed and train canines in upstate New York monastery](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
+    * [From showgirl feathers to shimmering chandeliers, casino kitsch finds new life](https://apnews.com/article/las-vegas-casinos-tropicana-mirage-artifacts-955677275c676a629bd303dc17c0e61f)
     * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
-    * [Black male teachers are a rarity in preschools. This pioneering program wants to change that](https://apnews.com/article/preschool-teacher-literacy-black-men-47ac93fa10f83d79e7031708851c2645)
-    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Learning about God from dogs, Orthodox monks breed and train canines in upstate New York monastery](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
+    * [Harris is attending church in Georgia and encouraging Black congregants to vote](https://apnews.com/article/harris-election-2024-trump-church-georgia-voting-91f92ede412f87f10851544c9ba637b7)
     * [Children greet King Charles III and Queen Camilla outside a Sydney church](https://apnews.com/article/sydney-church-king-charles-royals-visit-australia-8f0ac202a948d450bbcfe3532e915536)
-    * [Faith-based environmental groups take on fossil fuels as 'a sacred duty'](https://apnews.com/article/faith-environmental-groups-fossil-fuels-activism-4af463772879e6854bedd635013846c7)
-    * [In Helene's and Milton's wake, faith-based disaster relief groups prepare for the long haul](https://apnews.com/article/hurricane-helene-milton-faith-disaster-relief-north-carolina-e8e7e3e44ff9be6b0508b9623bd1eb25)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Un dron apunta a la vivienda de Netanyahu y ataques en Gaza causan más de 50 muertos](https://apnews.com/article/israel-hamas-guerra-862708b477738e80b6dd52280d16d88e)
-    * [Francia promete apoyar el plan de Ucrania para poner fin a la invasión rusa](https://apnews.com/article/rusia-ucrania-guerra-francia-presos-9cae87171f4bb2f2b89b96eb203bc068)
+    * [Bombardeo israelí en Gaza deja al menos 87 muertos o desaparecidos](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
+    * [Rusia derriba más de 100 drones ucranianos sobre su territorio](https://apnews.com/article/rusia-ucrania-guerra-2c4294e9de76cd6505a1bdc36f523b30)
     * [AP EXPLICA: Qué saber sobre la falla eléctrica que sumió a Cuba en la oscuridad](https://apnews.com/article/cuba-apagon-electricidad-9bcfd64c4c49e3cfcf76cdd29a9a3303)
-    * [Experta ONU: Libertad de expresión está más amenazada en Gaza que en ningún otro conflicto reciente](https://apnews.com/article/onu-libertad-expresion-ataques-periodistas-israel-palestinos-23eff5066500becc7bd94bac395aa418)
-    * [Liberan a periodista guatemalteco José Rubén Zamora tras 2 años de prisión sin condena](https://apnews.com/article/guatemala-periodista-zamora-242b86fc14be1a18e54b6a181b7110c3)
-    * [Prevén inundaciones moderadas por desbordamiento de presa glaciar en capital de Alaska](https://apnews.com/article/alaska-glaciar-inundacion-clima-11070a6b08e0d54756159348b4b00f3e)
+    * [EEUU investiga divulgación de documentos clasificados sobre planes de Israel para atacar a Irán](https://apnews.com/article/israel-investigacion-iran-0ff4f8e37995a314f590fa284f0d0577)
+    * [La querida emperatriz emérita de Japón, Michiko, cumple 90 años](https://apnews.com/article/japon-akihito-michiko-emperador-emperatriz-4fe438ed8634639ef377dd53ccd56b7d)
+    * [Alemania: Arrestan a sospechoso de planear ataque a la embajada israelí en Berlín](https://apnews.com/article/alemania-extremismo-embajada-israeli-35ad8c3c274d5debfee7d0ba1e2b711e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,9 +459,9 @@ Submit Search
     
     TOP STORIES
     
-    * [A drone targets the Israeli prime minister's house during new barrages with Hezbollah](https://apnews.com/article/israel-hamas-war-news-10-18-2024-c49911f11a40b7d81b21bc8568ecfe11)
+    * [Israeli strikes on northern Gaza leave at least 87 dead or missing, Palestinian officials say](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
     * [Ukraine’s ‘victory plan’ receives mixed reactions from Western allies](https://apnews.com/article/victory-plan-ukraine-russia-war-zelenskyy-1a66e6b1655fcaa421526ad174e618bd)
-    * [France vows support for Ukraine's plan to end Russian invasion](https://apnews.com/article/russia-ukraine-war-france-pows-22dbb9037a98c3185ca3a0e3470e074a)
+    * [Indonesia swears in ex-general Prabowo Subianto as president](https://apnews.com/article/indonesia-new-president-prabowo-subianto-sworn-44f1cb606ab8aa825b20b7f154ba9721)
     
     Newsletters
     
@@ -478,8 +478,8 @@ Submit Search
     TOP STORIES
     
     * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
-    * [Hurricane Oscar forms off the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
     * [At least 7 dead after ferry dock gangway collapses on Georgia's Sapelo Island](https://apnews.com/article/ferry-dock-collapse-deaths-sapelo-island-georgia-66ea381cb0f9fd697fc51fc7aa853038)
+    * [Voters in Arizona and Nebraska will face competing ballot measures. What happens if they both pass?](https://apnews.com/article/conflicting-ballot-measures-abortion-arizona-nebraska-8d749d2e843c7089adbfbe9cacb7ace6)
     
     Newsletters
     
@@ -507,8 +507,8 @@ Submit Search
     TOP STORIES
     
     * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
-    * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
-    * [Two Texas cities represent the divide between those who vote and those who could, but often don't](https://apnews.com/article/texas-voting-gap-demographics-republicans-democrats-4757833c15266ac793ed61c50292b653)
+    * [Trump kicks off a Pennsylvania rally by talking about Arnold Palmer's genitalia](https://apnews.com/article/trump-arnold-palmer-closing-arguments-latrobe-pennsylvania-2bea9620c523e531a55259200215284e)
+    * [In New York, a constitutional amendment provides election fodder for the left and the right](https://apnews.com/article/new-york-sex-gender-discrimination-constitution-lgbtq-a0c6080761df2e341cd7a4be7ce5e761)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Republicans and Democrats are both preparing for long legal battles over the 2024 election results](https://apnews.com/article/election-2024-harris-trump-legal-challenges-563936d90d83de456e704de7d03b5063)
+    * [Harris is attending church in Georgia and encouraging Black congregants to vote](https://apnews.com/article/harris-election-2024-trump-church-georgia-voting-91f92ede412f87f10851544c9ba637b7)
     * [American despair: In Arizona, high home prices and limited prospects shape voters' presidential pick](https://apnews.com/article/arizona-high-home-prices-economy-presidential-election-b7ccfbbbf90849834316e8c9dd164c03)
-    * [Judges punishing Jan. 6 rioters say they fear more political violence as Election Day nears](https://apnews.com/article/capitol-riot-judges-election-ebb54ab9badccfcb2b1bc2fa0de5bf21)
-    * [Harris says Trump is 'cruel' as she spotlights abortion restrictions in Georgia during early voting](https://apnews.com/article/harris-lizzo-usher-michigan-georgia-early-voting-bce7d9172df6a83cf40a35e00ddb1604)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Juan Soto's 3-run homer in 10th sends Yankees past Guardians 5-2 and into World Series for 41st time](https://apnews.com/article/yankees-guardians-mlb-playoffs-14996d2b9c28869202e8651f52f3e330)
+    * [No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://apnews.com/article/georgia-texas-score-6fa78bb172ca85ce554d09e4d9906a6d)
     * [Texas TD against Georgia 2 plays after interception 1st wiped out by penalty and trash on field](https://apnews.com/article/texas-georgia-penalty-reversed-32fb9184858ef6068e81c8c24d8bfbc3)
-    * [Brady Cook, hobbled by an injury, rallies No. 19 Mizzou to a 21-17 win over Auburn](https://apnews.com/article/auburn-missouri-football-score-c6428f82abc0caa63b5ee8314124851e)
-    * [No. 16 Indiana routs Nebraska 56-7 to stay unbeaten; Rourke injures hand and misses 2nd half](https://apnews.com/article/indiana-hoosiers-nebraska-cornhuskers-big-ten-3b3657737e0db25d492c70983c1f19ab)
     
     Newsletters
     
@@ -590,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Cher, Foreigner, Mary J. Blige, Dionne Warwick inducted into Rock & Roll Hall of Fame](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
+    * [Alec Baldwin returns to 'Saturday Night Live' to spoof Bret Baier interview with Kamala Harris](https://apnews.com/article/saturday-night-live-alec-baldwin-1387058826fc3d2d50bdba52eb68314c)
+    * [Rock & Roll Hall of Fame turns up starpower to induct Cher, Foreigner, Mary J. Blige, Ozzy and more](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
     * [Singer Zayn postpones US tour after the death of his former bandmate Liam Payne](https://apnews.com/article/liam-payne-death-zayn-postpones-tour-a4d63e3c777f80c99a4a77c30ba19bc8)
-    * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
     
 * [Business](https://apnews.com/business)
     
@@ -775,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Learning about God from dogs, Orthodox monks breed and train canines in upstate New York monastery](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
+    * [From showgirl feathers to shimmering chandeliers, casino kitsch finds new life](https://apnews.com/article/las-vegas-casinos-tropicana-mirage-artifacts-955677275c676a629bd303dc17c0e61f)
     * [It's time to start planning a Halloween movie marathon. Here's what AP had to say about 10 classics](https://apnews.com/article/horror-movies-classics-halloween-reviews-d34a00e37dd42d32302369abde4c7883)
-    * [Black male teachers are a rarity in preschools. This pioneering program wants to change that](https://apnews.com/article/preschool-teacher-literacy-black-men-47ac93fa10f83d79e7031708851c2645)
-    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Learning about God from dogs, Orthodox monks breed and train canines in upstate New York monastery](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
+    * [Harris is attending church in Georgia and encouraging Black congregants to vote](https://apnews.com/article/harris-election-2024-trump-church-georgia-voting-91f92ede412f87f10851544c9ba637b7)
     * [Children greet King Charles III and Queen Camilla outside a Sydney church](https://apnews.com/article/sydney-church-king-charles-royals-visit-australia-8f0ac202a948d450bbcfe3532e915536)
-    * [Faith-based environmental groups take on fossil fuels as 'a sacred duty'](https://apnews.com/article/faith-environmental-groups-fossil-fuels-activism-4af463772879e6854bedd635013846c7)
-    * [In Helene's and Milton's wake, faith-based disaster relief groups prepare for the long haul](https://apnews.com/article/hurricane-helene-milton-faith-disaster-relief-north-carolina-e8e7e3e44ff9be6b0508b9623bd1eb25)
     
     Newsletters
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Un dron apunta a la vivienda de Netanyahu y ataques en Gaza causan más de 50 muertos](https://apnews.com/article/israel-hamas-guerra-862708b477738e80b6dd52280d16d88e)
-    * [Francia promete apoyar el plan de Ucrania para poner fin a la invasión rusa](https://apnews.com/article/rusia-ucrania-guerra-francia-presos-9cae87171f4bb2f2b89b96eb203bc068)
+    * [Bombardeo israelí en Gaza deja al menos 87 muertos o desaparecidos](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
+    * [Rusia derriba más de 100 drones ucranianos sobre su territorio](https://apnews.com/article/rusia-ucrania-guerra-2c4294e9de76cd6505a1bdc36f523b30)
     * [AP EXPLICA: Qué saber sobre la falla eléctrica que sumió a Cuba en la oscuridad](https://apnews.com/article/cuba-apagon-electricidad-9bcfd64c4c49e3cfcf76cdd29a9a3303)
-    * [Experta ONU: Libertad de expresión está más amenazada en Gaza que en ningún otro conflicto reciente](https://apnews.com/article/onu-libertad-expresion-ataques-periodistas-israel-palestinos-23eff5066500becc7bd94bac395aa418)
-    * [Liberan a periodista guatemalteco José Rubén Zamora tras 2 años de prisión sin condena](https://apnews.com/article/guatemala-periodista-zamora-242b86fc14be1a18e54b6a181b7110c3)
-    * [Prevén inundaciones moderadas por desbordamiento de presa glaciar en capital de Alaska](https://apnews.com/article/alaska-glaciar-inundacion-clima-11070a6b08e0d54756159348b4b00f3e)
+    * [EEUU investiga divulgación de documentos clasificados sobre planes de Israel para atacar a Irán](https://apnews.com/article/israel-investigacion-iran-0ff4f8e37995a314f590fa284f0d0577)
+    * [La querida emperatriz emérita de Japón, Michiko, cumple 90 años](https://apnews.com/article/japon-akihito-michiko-emperador-emperatriz-4fe438ed8634639ef377dd53ccd56b7d)
+    * [Alemania: Arrestan a sospechoso de planear ataque a la embajada israelí en Berlín](https://apnews.com/article/alemania-extremismo-embajada-israeli-35ad8c3c274d5debfee7d0ba1e2b711e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
