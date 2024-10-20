@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Nation’s longest-serving sheriff, elected in Georgia in 1972, has died](https://www.ajc.com/news/georgia-news/cullen-talton-was-re-elected-in-middle-georgias-houston-county-12-times/KS5O5RQI6JH45HBIQJTC5DO2WI/)
+[Breaking: Atlanta United gets all the results, advances to MLS playoffs](https://www.ajc.com/sports/atlanta-united/atlanta-united-gets-all-the-results-advances-to-mls-playoffs/IA4B6G7CMRGM7NGIBMG67YA544/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
