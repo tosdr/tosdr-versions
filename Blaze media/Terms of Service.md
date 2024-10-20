@@ -68,7 +68,7 @@ MENU
 
 MENU
 
-[Blaze Media](https://www.theblaze.com/)MENU
+[Blaze Media](https://www.theblaze.com/) MENU
 
 [Blaze Media](https://www.theblaze.com/)
 
