@@ -222,9 +222,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, October 19, 2024**
+**Sunday, October 20, 2024**
 
-**...Relatively Dry and Pleasant Conditions Continue Statewide As High Pressure Remains In Place...Isolated to Widely Scattered Showers with Embedded Thunderstorms Along East Coast and Keys Thanks to Onshore Winds...Breezy Northeastery Winds Along the Peninsula and Keys With Gusts Up to 20-30 MPH...Sensitive Wildfire Conditions Possible Along Panhandle As Dry Air Lowers Relative Humidity Values Near Critical Thresholds...Minor to Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Warnings and Advisories In Effect...****Lingering** **King Tides and Elevated Surf to Bring Minor to Moderate Coastal Flooding Along the East Coast and Keys; Coastal Flood Advisories and Statements in Effect...High Risk for Rip Currents Along Florida Panhandle and East Coast...Widespread Riverine Flooding Continues Throughout West-Central, Central, and Northeast Florida and St. Johns River...Tropical Storm Nadine Moving Westward Towards The Coast of Belize...Invest 94L Near the Southeastern Bahamas Could Develop Into a Tropical Depression or Tropical Storm Later Today (90% Chance of Development)...**
+**...High Pressure Continues to Domiante Statewide...Isolated Showers Moving Onshore Along East Coast; Will Remain Light and Brief...Senstive to Locally Elevated Wildfire Conditions Across Panhandle and Big Bend With Near or Below Critical Relative Humidity Values...Breezy Winds Developing Across Peninsula Throughout the Day; Wind Gusts of 15-25 MPH...High Temperatures in the Upper 70s to Middle 80s Statewide...Minor to Moderate Coastal Flooding Persists Along East Coast and Tidal St. Johns River Due to King Tides and Onshore Winds; Coastal Flood Warning Continues for Tidal St. Johns...Moderate to Major Riverine Flooding Continues Along Withlacoochee, Cypress Creek and St. Johns River...National Hurricane Center (NHC) Continues to Monitor Two (2) Named Systems in the Atlantic Basin; Neither Pose Direct Threat to Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
