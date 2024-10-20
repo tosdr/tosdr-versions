@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/bio-genocide-door-overheden-dan-ben-jij-het-doel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/ingo-swann/slot-aards-groepsdenken-en-universeel-bewustzijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
