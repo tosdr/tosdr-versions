@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP-Leaderboard_Brown.png)](https://www.expatexchange.com/partnerdirect/100/71641-DESKTOP-leader-leaderad-vrs-B-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr1.jpg)](https://www.expatexchange.com/partnerdirect/182/52984-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Brown.png)](https://www.expatexchange.com/partnerdirect/100/71641-MOBILE-leader-leaderad-vrs-B-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-1.jpg)](https://www.expatexchange.com/partnerdirect/182/52984-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/54786-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/59329-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[SJB Global](https://www.expatexchange.com/partnerdirect/182/54786-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[GeoBlue](https://www.expatexchange.com/partnerdirect/76/59329-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
-[Learn More](https://www.expatexchange.com/partnerdirect/182/54786-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Learn More")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/59329-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
-[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/54786-MOBILE-cbar-vrs-A-hicontent-Global-62)[SJB Global](https://www.expatexchange.com/partnerdirect/182/54786-MOBILE-cbar-vrs-A-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/59329-MOBILE-cbar-vrs-A-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/59329-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
-[Learn More](https://www.expatexchange.com/partnerdirect/182/54786-MOBILE-cbar-vrs-A-hicontent-Global-62 "Learn More")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/59329-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
