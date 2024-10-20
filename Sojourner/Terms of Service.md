@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-13ea6cc9851de3f8c07fd32e1a9a5110
+a77b7085a6e44cc19cb609eec12af7a4
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Tiny dark topaz clasp](https://sojourner.biz/images/cache/SKU0350front.200.jpg)](https://sojourner.biz/clasps/glass/tiny-dark-topaz-clasp.html "Tiny dark topaz clasp")
+[![White bird's nest pendant clasp](https://sojourner.biz/images/cache/SKU0262-1Pfront.200.jpg)](https://sojourner.biz/clasps/pendant-clasps/white-bird-s-nest-pendant-clasp.html "White bird's nest pendant clasp")
 
-#### [Tiny dark topaz clasp](https://sojourner.biz/clasps/glass/tiny-dark-topaz-clasp.html "Tiny dark topaz clasp")
+#### [White bird's nest pendant clasp](https://sojourner.biz/clasps/pendant-clasps/white-bird-s-nest-pendant-clasp.html "White bird's nest pendant clasp")
 
-$15.00
+$24.00
 
 ### Best Sellers
 
