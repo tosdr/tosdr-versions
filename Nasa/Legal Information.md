@@ -385,7 +385,7 @@ article 2 days ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-t
 
 ### NASA Pilots Add Perspective to Research
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 3 min read
 
@@ -401,7 +401,7 @@ article 6 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### The View from Space Keeps Getting Better  
 
-article 3 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
@@ -439,7 +439,7 @@ article 2 days ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-t
 
 ### NASA Pilots Add Perspective to Research
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![NASA astronaut Kathryn C. Thornton on her second spacewalk on STS-61](https://www.nasa.gov/wp-content/uploads/2024/10/women-eva-4-thornton-eva-2-sts-61-eva-2-dec-1993-sts061-77-016.jpg?w=1022)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![NASA astronaut Kathryn C. Thornton on her second spacewalk on STS-61](https://www.nasa.gov/wp-content/uploads/2024/10/women-eva-4-thornton-eva-2-sts-61-eva-2-dec-1993-sts061-77-016.jpg?w=1022)
 
 12 min read
 
@@ -461,7 +461,7 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrif
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
 
 2 min read
 
