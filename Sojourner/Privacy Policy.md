@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f906242663cced3ecdbe104393e9295d
+27fe44632be4bbd6122b7e71b3111312
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Hand-made copper bell, 2 inch](https://www.sojourner.biz/images/cache/TT0008nmb3.200.jpg)](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
+[![Turquoise and silver bicone beads](https://www.sojourner.biz/images/cache/glass/GL0136.200.jpg)](https://www.sojourner.biz/beads/glass/turquoise-and-silver-bicone-beads.html "Turquoise and silver bicone beads")
 
-#### [Hand-made copper bell, 2 inch](https://www.sojourner.biz/musical-instruments/hand-made-copper-bell-2-inch.html "Hand-made copper bell, 2 inch")
+#### [Turquoise and silver bicone beads](https://www.sojourner.biz/beads/glass/turquoise-and-silver-bicone-beads.html "Turquoise and silver bicone beads")
 
-$5.00
+$15.00
 
 ### Best Sellers
 
