@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/ingo-swann/slot-aards-groepsdenken-en-universeel-bewustzijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/ufos-vanuit-vliegtuigen-gefilmd/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
