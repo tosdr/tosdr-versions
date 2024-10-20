@@ -153,6 +153,7 @@ Latest reactions
 
 Latest forum posts
 
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=3 "Carnivore2+ announcements")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
