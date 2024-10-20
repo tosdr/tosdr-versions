@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -171,6 +171,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Магия домашних угощений. Лучшие СЛАДОСТИ №24-42](https://www.russianfood.com/reading/?post_id=22748) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742880.jpg)](https://www.russianfood.com/reading/?post_id=22748)
+
+Кекс с грушей, бананом, халвой и шоколадом. Муссовый шоколадно-творожный торт. Мармелад из фруктового пюре. Муссовый творожно-йогуртовый торт. Молочно-кофейное желе. Шоколадно-творожный пирог с персиковым желе. Клафути с голубикой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22748)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22748#comments) | 20.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +382,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22737#comments) | 17.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Идеальные сочетания! Время САЛАТОВ (147)](https://www.russianfood.com/reading/?post_id=22735) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/687/sm_686885.jpg)](https://www.russianfood.com/reading/?post_id=22735)
-
-Салат из краснокочанной капусты. Салат с овощами, фетой и орехами. Мясной винегрет. Салат с куриной печенью и хурмой. Салат с тунцом, рисом и помидорами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22735)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22735#comments) | 17.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -451,10 +451,10 @@
 
 Новые рецепты:
 
-|     |     |
-| --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743374.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174531) |
-| [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) | [Крошка-картошка с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174531) |
+|     |
+| --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743356.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174529) |
+| [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -471,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(91)
+(107)
