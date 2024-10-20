@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Spread the news! Juan Soto sends Yankees to World Series with epic blast](https://nypost.com/2024/10/19/sports/juan-soto-sends-yankees-to-world-series-with-all-time-classic-homer/)
-
 Privacy Notice Highlights
 =========================
 
