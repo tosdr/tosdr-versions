@@ -113,21 +113,21 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Brianne Nicoletti (Bayfield County Sheriff’s Office)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Brianne-Nicoletti-Bayfield-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/in-her-mug-shot-shes-smiling-ive-never-seen-this-prosecutor-judge-stunned-by-remorseless-mom-who-starved-and-tortured-son-in-home-akin-to-concentration-camp/)
+1. [![Top inset: LaDonna Williams (GoFundMe). Bottom inset: Nathaniel Slade (Jacksonville County Sheriff). Background: the home where Williams' body was found (WTLV/WJXX).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/flamurdedr-432x243.jpg)](https://lawandcrime.com/crime/she-was-disrespecting-me-man-who-stabbed-ex-boss-buried-her-trash-can-and-slept-with-her-body-outside-bedroom-window-learns-fate/)
     
-    ### ['In her mug shot, she's smiling. I've never seen this': Prosecutor, judge stunned by remorseless mom who starved and tortured son in home akin to 'concentration camp'](https://lawandcrime.com/crime/in-her-mug-shot-shes-smiling-ive-never-seen-this-prosecutor-judge-stunned-by-remorseless-mom-who-starved-and-tortured-son-in-home-akin-to-concentration-camp/)
+    ### ['She was disrespecting me': Man who stabbed ex-boss, buried her in trash can and slept with her body outside bedroom window learns fate](https://lawandcrime.com/crime/she-was-disrespecting-me-man-who-stabbed-ex-boss-buried-her-trash-can-and-slept-with-her-body-outside-bedroom-window-learns-fate/)
     
 2. [![Inset: Lisa Snyder (Berks County DA's Office). Background: Authorities at the home where Snyder hanged her two young children (WGAL).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/afd-432x243.jpg)](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
     
     ### [Mom who hanged her 2 young kids in basement with dog leash, tried to blame 8-year-old, learns her fate](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
     
-3. [![Inset, top to bottom: Uriha Faith Ridge and Alina Pascal (WAGA). Background: The woods where Alina froze to death (WSB).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/adfasdf-432x243.jpg)](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
+3. [![Lola Karabaeva appears inset against an image of the house she lived and died in.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Lola-Karabaeva-432x243.jpg)](https://lawandcrime.com/crime/woman-found-wrapped-in-plastic-and-duct-tape-may-have-been-killed-over-dead-son-police/)
+    
+    ### [Woman found wrapped in plastic and duct tape may have been killed over dead son: Police](https://lawandcrime.com/crime/woman-found-wrapped-in-plastic-and-duct-tape-may-have-been-killed-over-dead-son-police/)
+    
+4. [![Inset, top to bottom: Uriha Faith Ridge and Alina Pascal (WAGA). Background: The woods where Alina froze to death (WSB).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/adfasdf-432x243.jpg)](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
     
     ### ['She froze to death': Mom dragged toddler into rainy woods in middle of winter and watched 7-year-old desperately try to save his sister](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
-    
-4. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
-    
-    ### ['No authority to legislate': Judge slaps down multiple new election rules put in place by Trump allies in Georgia as 'unconstitutional' administrative agency overreach](https://lawandcrime.com/high-profile/no-authority-to-legislate-judge-slaps-down-multiple-new-election-rules-put-in-place-by-trump-allies-in-georgia-as-unconstitutional-administrative-agency-overreach/)
     
 5. [![Jack Hancock (Louisville, Kentucky).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Jack-Hancock-432x243.jpg)](https://lawandcrime.com/crime/best-buy-geek-squad-discovered-child-pornography-on-customers-computer-when-he-sought-help-to-move-data-police-say/)
     
