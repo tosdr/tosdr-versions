@@ -50,17 +50,17 @@ Search for:
 
 [Elon Musk gifting $1M per day to lucky battleground state voters who signs petition](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_kamhead-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-stadium-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-to-attend-snf-game-hometown-steelers-ramp-up-security-in-matchup-with-ny-jets/)
 
-[Trump mocks Kamala for pushing ‘exhausted’ lie: ‘Doesn’t have the energy of a rabbit’](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
+[Trump to attend SNF game, hometown Steelers ramp up security in matchup with NY Jets](https://americanwirenews.com/trump-to-attend-snf-game-hometown-steelers-ramp-up-security-in-matchup-with-ny-jets/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-maher-1200x630.jpg)](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam-lizzo-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
 
-[Maher, Scarborough cry over TDS: ‘It’s not deranged to fear this!’](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
+[Lizzo agrees with Trump in bizarre sales pitch, says Kamala will make all of America like Detroit](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djttiktox-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tapper-johnson-1200x630.jpg)
 
-### Trump teams up with WWE legends to body slam Kamala: ‘Choose wisely, the nation depends on it’](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
+### CNN’s Jake Tapper in denial despite fixation on golf legend’s penis: ‘I don’t want to be talking about this’](https://americanwirenews.com/cnns-jake-tapper-in-denial-despite-fixation-on-golf-legends-penis-i-dont-want-to-be-talking-about-this/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,9 +78,31 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam-lizzo-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-commanders-220x180.jpg)](https://americanwirenews.com/nfl-team-nixes-restoration-of-redskins-nickname-not-something-were-able-to-do/)
 
-[Lizzo agrees with Trump in bizarre sales pitch, says Kamala will make all of America like Detroit](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
+[NFL team nixes restoration of ‘Redskins’ nickname: ‘Not something we’re able to do’](https://americanwirenews.com/nfl-team-nixes-restoration-of-redskins-nickname-not-something-were-able-to-do/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pxbaydrone-sg-llynch-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
+
+[Chinese drone company repped by former Obama AG Loretta Lynch sues Pentagon](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-trump-burgers-220x180.jpg)](https://americanwirenews.com/she-lied-trump-explains-why-he-will-pull-shift-at-mcdonalds-says-he-will-do-everything/)
+
+[‘She lied’: Trump explains why he will pull shift at McDonald’s, says he will ‘do everything’](https://americanwirenews.com/she-lied-trump-explains-why-he-will-pull-shift-at-mcdonalds-says-he-will-do-everything/)
+
+(Official White House Photo by Joyce N. Boghosian)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-4-220x180.png)](https://americanwirenews.com/its-just-vile-kamala-harris-jokingly-tells-rallygoers-if-jimmy-carter-can-vote-they-can-too/)
+
+[‘It’s just vile’: Kamala Harris jokingly tells rallygoers if Jimmy Carter can vote they can too](https://americanwirenews.com/its-just-vile-kamala-harris-jokingly-tells-rallygoers-if-jimmy-carter-can-vote-they-can-too/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-abrown1-220x180.jpg)](https://americanwirenews.com/former-nfl-star-endorses-trump-mocks-tampon-tim/)
+
+[Former NFL star endorses Trump, mocks ‘Tampon Tim’](https://americanwirenews.com/former-nfl-star-endorses-trump-mocks-tampon-tim/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-heckler-220x180.jpg)](https://americanwirenews.com/its-real-kamala-sounds-off-after-protester-claims-israel-is-committing-genocide/)
+
+[‘It’s real’: Kamala sounds off after protester claims Israel is committing ‘genocide’](https://americanwirenews.com/its-real-kamala-sounds-off-after-protester-claims-israel-is-committing-genocide/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-steel-220x180.jpg)](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
 
@@ -155,26 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-bongino-220x180.jpg)](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
 
 [‘More RECEIPTS for you f\*\*ksticks’: Bongino goes ballistic on unrepentant liars at Kamala HQ](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-mark-cuban-2-220x180.jpg)](https://americanwirenews.com/mark-cuban-blames-social-media-for-trumps-gangsta-image-as-meltdown-continues/)
-
-[Mark Cuban blames social media for Trump’s ‘gangsta’ image as meltdown continues](https://americanwirenews.com/mark-cuban-blames-social-media-for-trumps-gangsta-image-as-meltdown-continues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sheriff-t.k.-waters-220x180.jpg)](https://americanwirenews.com/trump-supporting-florida-sheriff-targeted-with-racist-banner-flown-over-downtown-jacksonville/)
-
-[Trump-supporting Florida sheriff targeted with racist banner flown over downtown Jacksonville](https://americanwirenews.com/trump-supporting-florida-sheriff-targeted-with-racist-banner-flown-over-downtown-jacksonville/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pixabay-bible-study-220x180.jpg)](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
-
-[Oklahoma superintendent’s response to lawsuit over school Bibles is straight fire: ‘I will never back down’](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-ff-viewer-220x180.jpg)](https://americanwirenews.com/trump-keeps-the-comedy-going-cracks-up-fox-friends-with-hilarious-response-to-childs-question/)
-
-[Trump cracks up Fox & Friends with hilarious response to child’s question: ‘I love cows…’](https://americanwirenews.com/trump-keeps-the-comedy-going-cracks-up-fox-friends-with-hilarious-response-to-childs-question/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-polk-sheriff-press-conference-220x180.jpg)](https://americanwirenews.com/fla-sheriff-slams-biden-harris-admin-for-aiding-and-abetting-human-trafficking-details-sex-trafficking-sting/)
-
-[Fla. sheriff slams Biden-Harris admin for ‘aiding and abetting human trafficking’, details sex trafficking sting](https://americanwirenews.com/fla-sheriff-slams-biden-harris-admin-for-aiding-and-abetting-human-trafficking-details-sex-trafficking-sting/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
