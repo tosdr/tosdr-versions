@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you, team. You guys are amazing :)
+Really appreciate your teams quick responses the last few days to help solve.
 
-Nab Ahmed
+Cheryl Douratsos
