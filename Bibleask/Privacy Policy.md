@@ -22,8 +22,6 @@ Menu
 * [Bible (KJV, ASV)](https://bible.bibleask.org/)
 * [Subscribe](https://bibleask.org/subscribe/)
 
-[Home](https://bibleask.org/)
-
 Privacy
 =======
 
