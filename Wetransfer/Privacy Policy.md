@@ -2,29 +2,29 @@
 
 [](https://wetransfer.com/ "WeTransfer.com")
 
-Features
+Funktionen
 
-[Share your files](https://wetransfer.com/explore/file-sharing)[Protect your files](https://wetransfer.com/explore/data-security)[Customize your page](https://wetransfer.com/explore/branding)[Give & get feedback](https://wetransfer.com/explore/portals-reviews)[Collaborate with your team](https://wetransfer.com/explore/teams)[Get paid for your work](https://wetransfer.com/explore/sell-files-get-paid)[Distribute your content](https://wetransfer.com/explore/distribution)[Create moodboards](https://wetransfer.com/explore/collect)[Get benefits & perks](https://wetransfer.com/explore/subscriber-benefits)
+[Deine Dateien teilen](https://wetransfer.com/explore/file-sharing)[Schütze deine Dateien](https://wetransfer.com/explore/data-security)[Deine Seite individuell gestalten](https://wetransfer.com/explore/branding)[Feedback geben und erhalten](https://wetransfer.com/explore/portals-reviews)[Mit deinem Team zusammenarbeiten](https://wetransfer.com/explore/teams)[Lass dich für deine Arbeit bezahlen](https://wetransfer.com/explore/sell-files-get-paid)[Deine Inhalte verteilen](https://wetransfer.com/explore/distribution)[Moodboards erstellen](https://wetransfer.com/explore/collect)[Vorteile und Vergünstigungen erhalten](https://wetransfer.com/explore/subscriber-benefits)
 
-[Pricing](https://wetransfer.com/pricing?trk=NAV_pricing)Use cases
+[Preise](https://wetransfer.com/pricing?trk=NAV_pricing)Anwendungsfälle
 
-[For photographers](https://wetransfer.com/explore/photographers)[For videographers](https://wetransfer.com/explore/videographers)[For designers & illustrators](https://wetransfer.com/explore/designers-illustrators)[For students](https://wetransfer.com/explore/for-students)
+[Für Fotografinnen und Fotografen](https://wetransfer.com/explore/photographers)[Für Videografen](https://wetransfer.com/explore/videographers)[Für Designer und Illustratoren](https://wetransfer.com/explore/designers-illustrators)[Für Studierende](https://wetransfer.com/explore/for-students)
 
-Resources
+Ressourcen
 
-About us
+Über uns
 
-[Company](https://wetransfer.com/explore)[Careers](https://wetransfer.com/explore/careers)[Culture](https://wetransfer.com/explore/culture)[Leadership](https://wetransfer.com/explore/corporate/leadership)[Corporate social responsibility](https://wetransfer.com/explore/csr)[Awards](https://wetransfer.com/explore/corporate/awards)[Newsroom](https://wetransfer.com/blog/newsroom/)
+[Unternehmen](https://wetransfer.com/explore)[Jobs](https://wetransfer.com/explore/careers)[Kultur](https://wetransfer.com/explore/culture)[Führungsqualitäten](https://wetransfer.com/explore/corporate/leadership)[Soziale Unternehmensverantwortung](https://wetransfer.com/explore/csr)[Auszeichnungen](https://wetransfer.com/explore/corporate/awards)[Nachrichten](https://wetransfer.com/blog/newsroom/)
 
 Advertising
 
-[Advertise with us](https://wetransfer.com/explore/advertising)[Responsible practices](https://wetransfer.com/explore/advertising/responsible)[Ad policies](https://wetransfer.com/explore/advertising/policies)
+[Mit uns werben](https://wetransfer.com/explore/advertising)[Verantwortungsbewusste Praktiken](https://wetransfer.com/explore/advertising/responsible)[Richtlinien für Werbung](https://wetransfer.com/explore/advertising/policies)
 
-More
+weitere
 
-[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Help](https://help.wetransfer.com/hc/en-us)
+[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Hilfe](https://help.wetransfer.com/hc/en-us)
 
-[Log in](https://wetransfer.com/log-in)[Sign up](https://wetransfer.com/pricing?trk=WT202005_signup)
+[Anmelden](https://wetransfer.com/log-in)[Jetzt registrieren](https://wetransfer.com/pricing?trk=WT202005_signup)
 
 * [Terms of Service](https://wetransfer.com/explore/legal/terms)
 * [Privacy & Cookie Statement](https://wetransfer.com/explore/legal/privacy)
