@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![What are the main causes of dog bites?](https://www.pintas.com/wp-content/uploads/2023/06/Dog-with-owner-002-300x200.jpeg "What Are the Main Causes of Dog Bites?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/what-are-the-main-causes-of-dog-bites/ "What Are the Main Causes of Dog Bites?")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### What Are the Main Causes of Dog Bites?](https://www.pintas.com/practice-areas/dog-bite-lawyer/what-are-the-main-causes-of-dog-bites/)
 
-[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
+[![Do you always lose weight with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-do-you-always-lose-weight-with-lung-cancer.jpg "Do You Always Lose Weight with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/ "Do You Always Lose Weight with Lung Cancer?")
 
-[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
+[#### Do You Always Lose Weight with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/)
 
-[![What are signs of sepsis in the elderly?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-signs-of-sepsis-in-the-elderly-scaled-1.jpg "What Are Signs of Sepsis in the Elderly?")](https://www.pintas.com/faq/what-are-signs-of-sepsis-in-the-elderly/ "What Are Signs of Sepsis in the Elderly?")
+[![What causes bruises on older adults?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-causes-bruises-on-older-adults-scaled.jpg "What Causes Bruises on Older Adults?")](https://www.pintas.com/faq/what-causes-bruises-on-older-adults/ "What Causes Bruises on Older Adults?")
 
-[#### What Are Signs of Sepsis in the Elderly?](https://www.pintas.com/faq/what-are-signs-of-sepsis-in-the-elderly/)
+[#### What Causes Bruises on Older Adults?](https://www.pintas.com/faq/what-causes-bruises-on-older-adults/)
 
 ### Injured?  
 Tell Us What Happened.
