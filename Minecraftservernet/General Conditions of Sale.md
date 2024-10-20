@@ -29,15 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[Buildix with multiple games servivel,bedwars](https://minecraft-server.net/details/Buildix/ "Buildix with multiple games servivel,bedwars ")[![Old_World_SMP](plugins/MineCraft/icons/25x25xOld_World_SMP_1729410894.png.pagespeed.ic.7swEvR7OF7.png)
+[Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-OLD WORLD SMP](https://minecraft-server.net/details/Old_World_SMP/ "OLD WORLD SMP")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1727505642.png.pagespeed.ic.bKePTc9CBi.png)
 
-Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
+Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")[![OblivionPrison](plugins/MineCraft/icons/25x25xOblivionPrison_1716869247.png.pagespeed.ic.FbvFd6IVCa.jpg)
 
-Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+Oblivion Prison](https://minecraft-server.net/details/OblivionPrison/ "Oblivion Prison")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06323 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06391 - Created by [Debaucus](https://debauc.us/)
