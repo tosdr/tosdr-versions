@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[7 dead, multiple people rushed to hospital after tragic Georgia ferry dock collapse](https://nypost.com/2024/10/19/us-news/7-dead-multiple-people-rushed-to-hospital-after-tragic-georgia-ferry-dock-collapse/)
-
 Terms Of Use
 ============
 
