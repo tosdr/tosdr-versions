@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Baldwin, Hovde Debate in Close Wisconsin US Senate Race](https://www.theepochtimes.com/us/baldwin-hovde-debate-in-close-wisconsin-us-senate-race-5744094)
+    
+    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Baldwin, Hovde Debate in Close Wisconsin US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Baldwin, Hovde Debate in Close Wisconsin US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744402-Baldwin-Hovde-205x123.jpg.webp)](https://www.theepochtimes.com/us/baldwin-hovde-debate-in-close-wisconsin-us-senate-race-5744094)
+* [Day in Photos: G7 Summit Protest, Train Derailment, and Fallen Cyclist](https://www.theepochtimes.com/article/day-in-photos-g7-summit-protest-train-derailment-and-fallen-cyclist-5744097)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: G7 Summit Protest, Train Derailment, and Fallen Cyclist](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: G7 Summit Protest, Train Derailment, and Fallen Cyclist](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744339-GettyImages-2178601421-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-g7-summit-protest-train-derailment-and-fallen-cyclist-5744097)
 * [Winners Announced in NTD’s 7th International Piano Competition](https://www.theepochtimes.com/bright/winners-announced-in-ntds-7th-international-piano-competition-5744257)
     
-    NEW By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    7hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
     
     [![Winners Announced in NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Winners Announced in NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744367-NTD-piano-competition-winners-205x123.jpg.webp)](https://www.theepochtimes.com/bright/winners-announced-in-ntds-7th-international-piano-competition-5744257)
 * [Netanyahu Says Hezbollah Tried to Assassinate Him, Vows ‘Heavy Price’](https://www.theepochtimes.com/world/netanyahu-says-hezbollah-tried-to-assassinate-him-vows-heavy-price-5744165)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Netanyahu Says Hezbollah Tried to Assassinate Him, Vows ‘Heavy Price’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Netanyahu Says Hezbollah Tried to Assassinate Him, Vows ‘Heavy Price’](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732212-CP173202814-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-says-hezbollah-tried-to-assassinate-him-vows-heavy-price-5744165)
 * [The Millennia-Old Herb That Makes Dishes Both Digestible and Delicious](https://www.theepochtimes.com/health/cumin-the-millennia-old-herb-that-makes-dishes-both-digestible-and-delicious-5728807)
     
-    2hr By [Sheridan Genrich](https://www.theepochtimes.com/expert/sheridan-genrich)
+    8hr By [Sheridan Genrich](https://www.theepochtimes.com/expert/sheridan-genrich)
     
     [![The Millennia-Old Herb That Makes Dishes Both Digestible and Delicious](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The Millennia-Old Herb That Makes Dishes Both Digestible and Delicious](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744267-shutterstock_1918023254-205x123.jpg.webp)](https://www.theepochtimes.com/health/cumin-the-millennia-old-herb-that-makes-dishes-both-digestible-and-delicious-5728807)
-* [Boeing, Union Reach Tentative Deal to End Strike, Ratification Vote Pending](https://www.theepochtimes.com/business/boeing-union-reach-tentative-deal-to-end-strike-ratification-vote-pending-5744155)
+* [In Omaha, Democrats and Republicans Compete for Pivotal Electoral Vote](https://www.theepochtimes.com/article/in-omaha-democrats-and-republicans-compete-for-pivotal-electoral-vote-5737130)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Boeing, Union Reach Tentative Deal to End Strike, Ratification Vote Pending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![In Omaha, Democrats and Republicans Compete for Pivotal Electoral Vote](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Boeing, Union Reach Tentative Deal to End Strike, Ratification Vote Pending](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744334-1.tagreuters.com2024binary_LYNXMPEK9D0CH-FILEDIMAGE-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-union-reach-tentative-deal-to-end-strike-ratification-vote-pending-5744155)
+    ![In Omaha, Democrats and Republicans Compete for Pivotal Electoral Vote](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744414-Omaha-voting-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-omaha-democrats-and-republicans-compete-for-pivotal-electoral-vote-5737130)
+* [Boeing, Union Reach Tentative Deal to End Strike](https://www.theepochtimes.com/business/boeing-union-reach-tentative-deal-to-end-strike-ratification-vote-pending-5744155)
+    
+    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Boeing, Union Reach Tentative Deal to End Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Boeing, Union Reach Tentative Deal to End Strike](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744381-Boeing-strike-GettyImages-2177902713-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-union-reach-tentative-deal-to-end-strike-ratification-vote-pending-5744155)
 * [Elon Musk Pushes Voter Registrations in Pennsylvania, Offers $100 to Each New Signup](https://www.theepochtimes.com/us/elon-musk-pushes-voter-registrations-in-pennsylvania-offers-100-to-each-new-signup-5744030)
     
-    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [William Huang](https://www.theepochtimes.com/author/william-huang)
+    11hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [William Huang](https://www.theepochtimes.com/author/william-huang)
     
     [![Elon Musk Pushes Voter Registrations in Pennsylvania, Offers $100 to Each New Signup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Elon Musk Pushes Voter Registrations in Pennsylvania, Offers $100 to Each New Signup](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744031-GettyImages-2179459042-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-pushes-voter-registrations-in-pennsylvania-offers-100-to-each-new-signup-5744030)
 * [Economy Top of Mind for Most North Carolina Early Voters](https://www.theepochtimes.com/us/economy-top-of-mind-for-most-north-carolina-early-voters-5744023)
     
-    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Economy Top of Mind for Most North Carolina Early Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Economy Top of Mind for Most North Carolina Early Voters](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744163-GettyImages-2178247386-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/economy-top-of-mind-for-most-north-carolina-early-voters-5744023)
 * [Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://www.theepochtimes.com/us/report-reveals-iowa-school-shooter-likely-showed-warning-signs-before-attack-5744039)
     
-    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    12hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Report Reveals Iowa School Shooter Likely Showed ‘Warning Signs’ Before Attack](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744359-Iowa-shooting-AP24004539877061-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/report-reveals-iowa-school-shooter-likely-showed-warning-signs-before-attack-5744039)
-* [Federal Judge Rejects GOP Lawsuit Alleging Nevada Voter Roll Mismanagement](https://www.theepochtimes.com/us/federal-judge-rejects-gop-lawsuit-alleging-nevada-voter-roll-mismanagement-5743895)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Federal Judge Rejects GOP Lawsuit Alleging Nevada Voter Roll Mismanagement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Rejects GOP Lawsuit Alleging Nevada Voter Roll Mismanagement](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667459-02062024-DSC06852-vote-sign-Nevada-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-rejects-gop-lawsuit-alleging-nevada-voter-roll-mismanagement-5743895)
-* [Three States Renew Lawsuit Against FDA Over Abortion Pill Regulations](https://www.theepochtimes.com/us/three-states-renew-lawsuit-against-fda-over-abortion-pill-regulations-5743302)
-    
-    11hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Three States Renew Lawsuit Against FDA Over Abortion Pill Regulations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Three States Renew Lawsuit Against FDA Over Abortion Pill Regulations](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689126-AP24177122483350-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/three-states-renew-lawsuit-against-fda-over-abortion-pill-regulations-5743302)
-* [As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://www.theepochtimes.com/us/as-early-voting-kicks-off-in-nevada-nonpartisan-voters-hold-the-key-5743430)
-    
-    13hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![As Early Voting Kicks Off in Nevada, Nonpartisan Voters Hold the Key](https://img.theepochtimes.com/assets/uploads/2019/04/18/Las-Vegas-1057350054-205x123.jpg.webp)](https://www.theepochtimes.com/us/as-early-voting-kicks-off-in-nevada-nonpartisan-voters-hold-the-key-5743430)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
