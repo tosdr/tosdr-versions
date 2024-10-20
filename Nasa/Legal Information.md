@@ -341,7 +341,7 @@ article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### NASA’s Hubble Sees a Stellar Volcano
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+article 4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
