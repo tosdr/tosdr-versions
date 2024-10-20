@@ -323,11 +323,11 @@ Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert]
 
 [Okt.
 
-17-19
+24-26
 
 Event
 
-BAUHAUS Dresden-Nickern: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-17-bauhaus-dresden-nickern)
+BAUHAUS Fuldabrück: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-24-bauhaus-fuldabrueck)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/datenschutz-app)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/data-protection-app)
