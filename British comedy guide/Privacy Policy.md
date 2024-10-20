@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Image shows left to right: Derek Nimmo, Bill Maynard](https://cdn.comedy.co.uk/images/library/misc/300x200/d/derek_nimmo_bill_maynard.jpg "Image shows left to right: Derek Nimmo, Bill Maynard")](https://www.comedy.co.uk/features/comedy_chronicles/stage-fight/) Features
+
+[Comedy Chronicles: Stage Fight - When comics fall out in plain sight](https://www.comedy.co.uk/features/comedy_chronicles/stage-fight/)
+
 [![The Free Association](https://cdn.comedy.co.uk/images/library/misc/300x200/f/free_association.jpg "The Free Association")](https://www.comedy.co.uk/live/features/graham-dickson-on-ten-years-of-the-free-association/) Live
 
 [Graham Dickson on ten years of improv institution The Free Association](https://www.comedy.co.uk/live/features/graham-dickson-on-ten-years-of-the-free-association/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Alan Resnick](https://cdn.comedy.co.uk/images/library/people/300x200/a/alan_resnick.jpg "Alan Resnick")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/) Live
 
 [Alan Resnick / Major Entertainer / Neil Hamburger - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/)
-
-[![Lachlan Werner](https://cdn.comedy.co.uk/images/library/people/300x200/l/lachlan_werner_bw.jpg "Lachlan Werner")](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/) Live
-
-[Lachlan Werner's top 10 spooky heroes](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/)
 
 #### Subscribe to our newsletters
 
