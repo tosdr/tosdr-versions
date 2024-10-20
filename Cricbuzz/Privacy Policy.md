@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs NZ - Complete](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Complete")[RSAW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/94703/rsaw-vs-nzw-final-icc-womens-t20-world-cup-2024 "South Africa Women v New Zealand Women, Final - Preview")[SL vs WI - Preview](https://www.cricbuzz.com/live-cricket-scores/108265/sl-vs-wi-1st-odi-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 1st ODI - Preview")[BRHW vs HBHW - HBHW Won](https://www.cricbuzz.com/live-cricket-scores/104079/brhw-vs-hbhw-final-t20-spring-challenge-2024 "Brisbane Heat Women v Hobart Hurricanes Women, Final - HBHW Won")[NEP vs USA - NEP Won](https://www.cricbuzz.com/live-cricket-scores/108523/nep-vs-usa-2nd-t20i-nepal-tour-of-united-states-of-america-2024 "Nepal v United States of America, 2nd T20I - NEP Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSAW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/94703/rsaw-vs-nzw-final-icc-womens-t20-world-cup-2024 "South Africa Women v New Zealand Women, Final - Preview")[WI vs SL - Break](https://www.cricbuzz.com/live-cricket-scores/108265/wi-vs-sl-1st-odi-west-indies-tour-of-sri-lanka-2024 "West Indies v Sri Lanka, 1st ODI - Break")[IND vs NZ - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - NZ Won")[BAN vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/108417/ban-vs-rsa-1st-test-south-africa-tour-of-bangladesh-2024 "Bangladesh v South Africa, 1st Test - Preview")[USA vs NEP - Preview](https://www.cricbuzz.com/live-cricket-scores/108529/usa-vs-nep-3rd-t20i-nepal-tour-of-united-states-of-america-2024 "United States of America v Nepal, 3rd T20I - Preview")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     New Zealand v India 2024
     
-    [India vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-v-india-2024 "India v New Zealand, 1st Test - Complete")
+    [India vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-v-india-2024 "India v New Zealand, 1st Test - NZ Won")
     
     1st Test
     
@@ -74,7 +74,7 @@ AllLive NowToday
     
 * Sri Lanka v West Indies, 2024
     
-    [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108265/sl-vs-wi-1st-odi-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 1st ODI - Preview")
+    [West Indies vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108265/wi-vs-sl-1st-odi-sri-lanka-v-west-indies-2024 "West Indies v Sri Lanka, 1st ODI - Break")
     
     1st ODI
     
@@ -94,17 +94,21 @@ AllLive NowToday
     
     2nd Match
     
-* [Maldives vs Bhutan  LIVE](https://www.cricbuzz.com/live-cricket-scores/108305/mdv-vs-btn-3rd-match-quadrangular-t20i-series-in-bhutan-2024 "Maldives v Bhutan, 3rd Match - Live")
+* [Maldives vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108305/mdv-vs-btn-3rd-match-quadrangular-t20i-series-in-bhutan-2024 "Maldives v Bhutan, 3rd Match - BTN Won")
     
     3rd Match
     
-* [Thailand vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/108313/thai-vs-idn-4th-match-quadrangular-t20i-series-in-bhutan-2024 "Thailand v Indonesia, 4th Match - Upcoming")
+* [Indonesia vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108313/idn-vs-thai-4th-match-quadrangular-t20i-series-in-bhutan-2024 "Indonesia v Thailand, 4th Match - THAI Won")
     
     4th Match
     
 * [Thailand vs Maldives](https://www.cricbuzz.com/live-cricket-scores/108321/thai-vs-mdv-5th-match-quadrangular-t20i-series-in-bhutan-2024 "Thailand v Maldives, 5th Match - Upcoming")
     
     5th Match
+    
+* [Bhutan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/108323/btn-vs-idn-6th-match-quadrangular-t20i-series-in-bhutan-2024 "Bhutan v Indonesia, 6th Match - Upcoming")
+    
+    6th Match
     
 * Nepal tour of United States of America 2024
     
@@ -130,21 +134,29 @@ AllLive NowToday
     
     2nd Match
     
-* [Gambia vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108459/gm-vs-sey-5th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Gambia v Seychelles, 5th Match - Upcoming")
+* [Gambia vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108459/gm-vs-sey-5th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Gambia v Seychelles, 5th Match - Abandon")
     
     5th Match
     
-* [Mozambique vs Zimbabwe  LIVE](https://www.cricbuzz.com/live-cricket-scores/108457/moz-vs-zim-4th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Mozambique v Zimbabwe, 4th Match - Live")
+* [Mozambique vs Zimbabwe](https://www.cricbuzz.com/live-cricket-scores/108457/moz-vs-zim-4th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Mozambique v Zimbabwe, 4th Match - ZIM Won")
     
     4th Match
     
-* [Kenya vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/108465/ken-vs-rwa-6th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Kenya v Rwanda, 6th Match - Upcoming")
+* [Rwanda vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108465/rwa-vs-ken-6th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Rwanda v Kenya, 6th Match - Ings Break")
     
     6th Match
     
 * [Mozambique vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108473/moz-vs-sey-7th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Mozambique v Seychelles, 7th Match - Upcoming")
     
     7th Match
+    
+* [Zimbabwe vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/108483/zim-vs-rwa-9th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Rwanda, 9th Match - Upcoming")
+    
+    9th Match
+    
+* [Kenya vs Gambia](https://www.cricbuzz.com/live-cricket-scores/108481/ken-vs-gm-8th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Kenya v Gambia, 8th Match - Upcoming")
+    
+    8th Match
     
 * T20 LEAGUE
     
@@ -168,89 +180,89 @@ AllLive NowToday
     
 * CSA T20 Knock Out Competition
     
-    [Eastern Storm vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105274/estorm-vs-tusks-final-csa-t20-knock-out-competition "Eastern Storm v Tuskers, Final - Upcoming")
+    [Eastern Storm vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105274/estorm-vs-tusks-final-reserve-day-csa-t20-knock-out-competition "Eastern Storm v Tuskers, Final (Reserve day) - Toss")
     
-    Final
+    Final (Reserve day)
     
 * DOMESTIC
     
     Ranji Trophy
     
-    [Tripura vs Meghalaya  LIVE](https://www.cricbuzz.com/live-cricket-scores/97320/tri-vs-mgly-elite-group-a-ranji-trophy "Tripura v Meghalaya, Elite Group A - Live")
+    [Tripura vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/97320/tri-vs-mgly-elite-group-a-ranji-trophy "Tripura v Meghalaya, Elite Group A - Stumps")
     
     Elite Group A
     
-* [Assam vs Chandigarh  LIVE](https://www.cricbuzz.com/live-cricket-scores/97387/asm-vs-cdg-elite-group-d-ranji-trophy "Assam v Chandigarh, Elite Group D - Live")
+* [Assam vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97387/asm-vs-cdg-elite-group-d-ranji-trophy "Assam v Chandigarh, Elite Group D - Stumps")
     
     Elite Group D
     
-* [Bengal vs Bihar](https://www.cricbuzz.com/live-cricket-scores/97367/ben-vs-bih-elite-group-c-ranji-trophy "Bengal v Bihar, Elite Group C - Delay")
+* [Bengal vs Bihar](https://www.cricbuzz.com/live-cricket-scores/97367/ben-vs-bih-elite-group-c-ranji-trophy "Bengal v Bihar, Elite Group C - Stumps")
     
     Elite Group C
     
-* [Maharashtra vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97311/mah-vs-mum-elite-group-a-ranji-trophy "Maharashtra v Mumbai, Elite Group A - Lunch")
+* [Punjab vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97378/pun-vs-mp-elite-group-c-ranji-trophy "Punjab v Madhya Pradesh, Elite Group C - Stumps")
+    
+    Elite Group C
+    
+* [Haryana vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97369/har-vs-up-elite-group-c-ranji-trophy "Haryana v Uttar Pradesh, Elite Group C - Stumps")
+    
+    Elite Group C
+    
+* [Maharashtra vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97311/mah-vs-mum-elite-group-a-ranji-trophy "Maharashtra v Mumbai, Elite Group A - Stumps")
     
     Elite Group A
     
-* [Haryana vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97369/har-vs-up-elite-group-c-ranji-trophy "Haryana v Uttar Pradesh, Elite Group C - Lunch")
-    
-    Elite Group C
-    
-* [Jammu and Kashmir vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97302/jk-vs-odsa-elite-group-a-ranji-trophy "Jammu and Kashmir v Odisha, Elite Group A - Lunch")
+* [Jammu and Kashmir vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97302/jk-vs-odsa-elite-group-a-ranji-trophy "Jammu and Kashmir v Odisha, Elite Group A - Stumps")
     
     Elite Group A
     
-* [Baroda vs Services  LIVE](https://www.cricbuzz.com/live-cricket-scores/97295/brd-vs-ser-elite-group-a-ranji-trophy "Baroda v Services, Elite Group A - Live")
+* [Kerala vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97358/ker-vs-kar-elite-group-c-ranji-trophy "Kerala v Karnataka, Elite Group C - Stumps")
+    
+    Elite Group C
+    
+* [Baroda vs Services](https://www.cricbuzz.com/live-cricket-scores/97295/brd-vs-ser-elite-group-a-ranji-trophy "Baroda v Services, Elite Group A - Stumps")
     
     Elite Group A
     
-* [Kerala vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97358/ker-vs-kar-elite-group-c-ranji-trophy "Kerala v Karnataka, Elite Group C - Break")
-    
-    Elite Group C
-    
-* [Vidarbha vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97349/vid-vs-pdc-elite-group-b-ranji-trophy "Vidarbha v Puducherry, Elite Group B - Lunch")
+* [Vidarbha vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97349/vid-vs-pdc-elite-group-b-ranji-trophy "Vidarbha v Puducherry, Elite Group B - Stumps")
     
     Elite Group B
     
-* [Jharkhand vs Railways](https://www.cricbuzz.com/live-cricket-scores/97403/jhkd-vs-rlys-elite-group-d-ranji-trophy "Jharkhand v Railways, Elite Group D - Lunch")
+* [Jharkhand vs Railways](https://www.cricbuzz.com/live-cricket-scores/97403/jhkd-vs-rlys-elite-group-d-ranji-trophy "Jharkhand v Railways, Elite Group D - Stumps")
     
     Elite Group D
     
-* [Uttarakhand vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97340/utk-vs-hyd-elite-group-b-ranji-trophy "Uttarakhand v Hyderabad, Elite Group B - Lunch")
+* [Uttarakhand vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97340/utk-vs-hyd-elite-group-b-ranji-trophy "Uttarakhand v Hyderabad, Elite Group B - Stumps")
     
     Elite Group B
     
-* [Tamil Nadu vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97396/tn-vs-del-elite-group-d-ranji-trophy "Tamil Nadu v Delhi, Elite Group D - Lunch")
+* [Tamil Nadu vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97396/tn-vs-del-elite-group-d-ranji-trophy "Tamil Nadu v Delhi, Elite Group D - Stumps")
     
     Elite Group D
     
-* [Rajasthan vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/97331/raj-vs-hp-elite-group-b-ranji-trophy "Rajasthan v Himachal Pradesh, Elite Group B - Lunch")
+* [Rajasthan vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/97331/raj-vs-hp-elite-group-b-ranji-trophy "Rajasthan v Himachal Pradesh, Elite Group B - RAJ Won")
     
     Elite Group B
     
-* [Chhattisgarh vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97392/cg-vs-saur-elite-group-d-ranji-trophy "Chhattisgarh v Saurashtra, Elite Group D - Lunch")
+* [Chhattisgarh vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97392/cg-vs-saur-elite-group-d-ranji-trophy "Chhattisgarh v Saurashtra, Elite Group D - Stumps")
     
     Elite Group D
     
-* [Gujarat vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97329/guj-vs-ap-elite-group-b-ranji-trophy "Gujarat v Andhra, Elite Group B - Lunch")
+* [Gujarat vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97329/guj-vs-ap-elite-group-b-ranji-trophy "Gujarat v Andhra, Elite Group B - Stumps")
     
     Elite Group B
-    
-* [Punjab vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97378/pun-vs-mp-elite-group-c-ranji-trophy "Punjab v Madhya Pradesh, Elite Group C - Lunch")
-    
-    Elite Group C
     
 * Ranji Trophy Plate
     
-    [Sikkim vs Goa  LIVE](https://www.cricbuzz.com/live-cricket-scores/98112/skm-vs-goa-plate-ranji-trophy-plate "Sikkim v Goa, Plate - Live")
+    [Sikkim vs Goa](https://www.cricbuzz.com/live-cricket-scores/98112/skm-vs-goa-plate-ranji-trophy-plate "Sikkim v Goa, Plate - GOA Won")
     
     Plate
     
-* [Nagaland vs Manipur  LIVE](https://www.cricbuzz.com/live-cricket-scores/98114/ngl-vs-mnp-plate-ranji-trophy-plate "Nagaland v Manipur, Plate - Live")
+* [Nagaland vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98114/ngl-vs-mnp-plate-ranji-trophy-plate "Nagaland v Manipur, Plate - Stumps")
     
     Plate
     
-* [Mizoram vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98107/miz-vs-arnp-plate-ranji-trophy-plate "Mizoram v Arunachal Pradesh, Plate - Lunch")
+* [Mizoram vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98107/miz-vs-arnp-plate-ranji-trophy-plate "Mizoram v Arunachal Pradesh, Plate - Stumps")
     
     Plate
     
@@ -260,21 +272,17 @@ AllLive NowToday
     
     4th Match
     
-* [South Australia vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102864/saus-vs-ql-5th-match-sheffield-shield-2024-25 "South Australia v Queensland, 5th Match - Live")
+* [South Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102864/saus-vs-ql-5th-match-sheffield-shield-2024-25 "South Australia v Queensland, 5th Match - Stumps")
     
     5th Match
     
-* [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102871/tas-vs-wa-6th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 6th Match - Tea")
+* [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102871/tas-vs-wa-6th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 6th Match - Stumps")
     
     6th Match
     
 * ACC Mens T20 Emerging Teams Asia Cup
     
-    [Hong Kong vs Bangladesh A](https://www.cricbuzz.com/live-cricket-scores/107579/hk-vs-bana-1st-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Hong Kong v Bangladesh A, 1st Match, Group A - BANA Won")
-    
-    1st Match, Group A
-    
-* [Afghanistan A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/107585/afga-vs-sla-2nd-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Afghanistan A v Sri Lanka A, 2nd Match, Group A - AFGA Won")
+    [Afghanistan A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/107585/afga-vs-sla-2nd-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Afghanistan A v Sri Lanka A, 2nd Match, Group A - AFGA Won")
     
     2nd Match, Group A
     
@@ -286,11 +294,11 @@ AllLive NowToday
     
     4th Match, Group B
     
-* [Sri Lanka A vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/107601/sla-vs-hk-5th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Hong Kong, 5th Match, Group A - Preview")
+* [Sri Lanka A vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/107601/sla-vs-hk-5th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Hong Kong, 5th Match, Group A - SLA Won")
     
     5th Match, Group A
     
-* [Bangladesh A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107609/bana-vs-afga-6th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Bangladesh A v Afghanistan A, 6th Match, Group A - Upcoming")
+* [Bangladesh A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107609/bana-vs-afga-6th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Bangladesh A v Afghanistan A, 6th Match, Group A - Toss")
     
     6th Match, Group A
     
@@ -301,6 +309,10 @@ AllLive NowToday
 * [India A vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/107617/inda-vs-uae-8th-match-group-b-acc-mens-t20-emerging-teams-asia-cup "India A v United Arab Emirates, 8th Match, Group B - Upcoming")
     
     8th Match, Group B
+    
+* [Afghanistan A vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/107625/afga-vs-hk-9th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Afghanistan A v Hong Kong, 9th Match, Group A - Upcoming")
+    
+    9th Match, Group A
     
 * The Ford Trophy 2024-25
     
@@ -344,7 +356,7 @@ AllLive NowToday
     
 * USA Women tour of Zimbabwe, 2024
     
-    [Zimbabwe Women vs United States of America Women](https://www.cricbuzz.com/live-cricket-scores/108697/zimw-vs-usaw-2nd-odi-usa-women-tour-of-zimbabwe-2024 "Zimbabwe Women v United States of America Women, 2nd ODI - Toss")
+    [United States of America Women vs Zimbabwe Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/108697/usaw-vs-zimw-2nd-odi-usa-women-tour-of-zimbabwe-2024 "United States of America Women v Zimbabwe Women, 2nd ODI - Live")
     
     2nd ODI
     
@@ -655,41 +667,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132113/how-pakistan-orchestrated-the-multan-miracle "How Pakistan orchestrated the Multan miracle")
+  [](https://www.cricbuzz.com/cricket-news/132122/washington-sundar-added-to-india-squad-for-remaining-nz-tests "Washington Sundar added to India squad for remaining NZ Tests")
 
-[How Pakistan orchestrated the Multan miracle](https://www.cricbuzz.com/cricket-news/132113/how-pakistan-orchestrated-the-multan-miracle "How Pakistan orchestrated the Multan miracle")
+[Washington Sundar added to India squad for remaining NZ Tests](https://www.cricbuzz.com/cricket-news/132122/washington-sundar-added-to-india-squad-for-remaining-nz-tests "Washington Sundar added to India squad for remaining NZ Tests")
 
-14h ago
+18m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132112/washington-sundar-scores-152-as-tamil-nadu-cross-600-mark "Washington Sundar scores 152 as Tamil Nadu cross 600-mark")
+  [](https://www.cricbuzz.com/cricket-news/132121/aiden-markram-quietly-confident-of-dealing-with-spin-challenge-in-bangladesh "Aiden Markram quietly confident of dealing with 'spin challenge' in Bangladesh")
 
-[Washington Sundar scores 152 as Tamil Nadu cross 600-mark](https://www.cricbuzz.com/cricket-news/132112/washington-sundar-scores-152-as-tamil-nadu-cross-600-mark "Washington Sundar scores 152 as Tamil Nadu cross 600-mark")
+[Aiden Markram quietly confident of dealing with 'spin challenge' in Bangladesh](https://www.cricbuzz.com/cricket-news/132121/aiden-markram-quietly-confident-of-dealing-with-spin-challenge-in-bangladesh "Aiden Markram quietly confident of dealing with 'spin challenge' in Bangladesh")
 
-14h ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132111/shreyas-iyer-relieved-to-be-in-good-space-with-fitness-after-injury-struggles "Shreyas Iyer relieved to be in 'good space' with fitness after injury struggles")
+  [](https://www.cricbuzz.com/cricket-news/132120/ban-vs-sa-preview "Spin, security, and no Shakib as Bangladesh, SA gear up for Mirpur")
 
-[Shreyas Iyer relieved to be in 'good space' with fitness after injury struggles](https://www.cricbuzz.com/cricket-news/132111/shreyas-iyer-relieved-to-be-in-good-space-with-fitness-after-injury-struggles "Shreyas Iyer relieved to be in 'good space' with fitness after injury struggles")
+[Spin, security, and no Shakib as Bangladesh, SA gear up for Mirpur](https://www.cricbuzz.com/cricket-news/132120/ban-vs-sa-preview "Spin, security, and no Shakib as Bangladesh, SA gear up for Mirpur")
 
-16h ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132110/new-zealand-and-south-africa-look-to-etch-their-names-in-the-history-books "New Zealand and South Africa look to etch their names into the history books ")
+  [](https://www.cricbuzz.com/cricket-news/132119/the-way-ravindra-calmed-the-dressing-room-is-exciting-latham "The way Ravindra calmed the dressing room is exciting - Latham")
 
-[New Zealand and South Africa look to etch their names into the history books](https://www.cricbuzz.com/cricket-news/132110/new-zealand-and-south-africa-look-to-etch-their-names-in-the-history-books "New Zealand and South Africa look to etch their names into the history books ")
+[The way Ravindra calmed the dressing room is exciting - Latham](https://www.cricbuzz.com/cricket-news/132119/the-way-ravindra-calmed-the-dressing-room-is-exciting-latham "The way Ravindra calmed the dressing room is exciting - Latham")
 
-16h ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132109/learning-from-southee-and-henry-has-been-massive-orourke-on-early-test-success "'Learning from Southee and Henry massive' - O'Rourke on early Test success")
+  [](https://www.cricbuzz.com/cricket-news/132118/india-new-zealand-bengaluru-test-cricket-46-all-out-home-loss-ashwin-rohit-rachin-orourke "Tables turn in Bengaluru as New Zealand leave India with much to think")
 
-['Learning from Southee and Henry massive' - O'Rourke on early Test success](https://www.cricbuzz.com/cricket-news/132109/learning-from-southee-and-henry-has-been-massive-orourke-on-early-test-success "'Learning from Southee and Henry massive' - O'Rourke on early Test success")
+[Tables turn in Bengaluru as New Zealand leave India with much to think](https://www.cricbuzz.com/cricket-news/132118/india-new-zealand-bengaluru-test-cricket-46-all-out-home-loss-ashwin-rohit-rachin-orourke "Tables turn in Bengaluru as New Zealand leave India with much to think")
 
-16h ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132108/when-sarfaraz-khan-turned-deficit-into-opportunity-with-a-majestic-150 "When Sarfaraz Khan turned deficit into opportunity with a majestic 150")
+  [](https://www.cricbuzz.com/cricket-news/132117/stats-new-zealand-register-only-their-third-win-in-india "Stats: New Zealand register only their third Test win in India")
 
-[When Sarfaraz Khan turned deficit into opportunity with a majestic 150](https://www.cricbuzz.com/cricket-news/132108/when-sarfaraz-khan-turned-deficit-into-opportunity-with-a-majestic-150 "When Sarfaraz Khan turned deficit into opportunity with a majestic 150")
+[Stats: New Zealand register only their third Test win in India](https://www.cricbuzz.com/cricket-news/132117/stats-new-zealand-register-only-their-third-win-in-india "Stats: New Zealand register only their third Test win in India")
 
-16h ago
+2h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
