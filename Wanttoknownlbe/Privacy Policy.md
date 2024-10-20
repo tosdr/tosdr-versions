@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/ufos-vanuit-vliegtuigen-gefilmd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-grote-julian-assange-political-show/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -197,6 +197,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
+
+##### **Senjutsu** reacts on:
+
+##### De sluiers worden opgelicht..!
+
+[Blijkbaar is de "redder" Trump nog steeds het oogappeltje va…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626342)
+
+![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
+
+##### **Senjutsu** reacts on:
+
+##### Wat is er met ons bloed aan de hand?
+
+[Gelukkig is er voor ieder probleem een oplossing. EDTA verni…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626341)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -437,22 +453,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is tijd..??
 
 [Inderdaad Adriaan. Honderd procent mee eens. Dankzij wanttok…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626311)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### Het landverraad van Rutte: ‘WEF RULES’…!!
-
-[ja het is en vies zooitje bijelkaar. Ik kom niet zo vaak mee…](https://www.wanttoknow.nl/politiek/wef-schwab/het-landverraad-van-rutte-wef-rules/comment-page-1/#comment-626310)
-
-![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
-
-##### **Adriaan W** reacts on:
-
-##### Wat is tijd..??
-
-[Werkelijk een prachtig artikel, zoals alle voorgaande artike…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626307)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
