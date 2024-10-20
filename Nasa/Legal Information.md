@@ -76,7 +76,7 @@ article2 days ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exi
 
 ### Hubble Captures a New View of Galaxy M90
 
-article1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -253,7 +253,7 @@ article 2 days ago](https://science.nasa.gov/centers-and-facilities/goddard/nasa
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
 
 5 min read
 
@@ -335,7 +335,7 @@ article 2 days ago](https://www.nasa.gov/solar-system/planets/mars/could-life-ex
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
 
 3 min read
 
@@ -363,7 +363,7 @@ article 1 day ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-e
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
 
 5 min read
 
@@ -391,7 +391,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-p
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 5 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
+article 6 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
 
 ### Highlights
 
@@ -461,7 +461,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrif
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
+article 7 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
 
 2 min read
 
