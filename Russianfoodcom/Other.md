@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,7 @@
 
 Сейчас читают
 
+* [Запечённый картофель с мясным соусом и кабачками](https://www.russianfood.com/recipes/recipe.php?rid=174291)
 * [Дрожжевой рулет с клюквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=173058)
 
 |     |
@@ -170,6 +171,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Сделаем вкусно своими руками! Лучшие видео рецепты (43)](https://www.russianfood.com/reading/?post_id=22750) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739785.jpg)](https://www.russianfood.com/reading/?post_id=22750)
+
+Картофельные зразы с грибами. Гречаники с тыквой. Салат с жареными огурцами. Постный яблочный пирог. Песочное печенье с лимонным курдом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22750)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие видео рецепты](https://www.russianfood.com/blogs/?id=394188) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22750#comments) | 20.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -197,7 +212,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22748#comments) | 20.10.24 |     |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22748#comments) | 20.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -289,7 +304,7 @@
 
 [![Фото к рецепту: Галета с грушей](//img1.russianfood.com/dycontent/images_upl/744/sm_743130.jpg "Фото к рецепту: Галета с грушей")](https://www.russianfood.com/recipes/recipe.php?rid=174316)
 
-Хрустящее тесто и нежная сочная начинка из спелых груш - отличное сочетание. Тесто для галеты с грушей готовится несложно. Перед выпеканием ломтики груши и тесто смазываются смесью из яйца, сметаны, сахара и молотой корицы.
+Хрустящее тесто и нежная сочная начинка из спелых груш - отличное сочетание. Тесто для галеты замешивается из сливочного масла, муки и желтка, без добавления сахара. Перед выпеканием ломтики груши и тесто смазываются смесью из яйца, сметаны, сахара и молотой корицы, в результате чего галета получается румяной и ароматной.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174316)  
 
@@ -331,7 +346,7 @@
 
 [![Фото к рецепту: Салат с маринованными огурцами, сыром и сухариками](//img1.russianfood.com/dycontent/images_upl/735/sm_734378.jpg "Фото к рецепту: Салат с маринованными огурцами, сыром и сухариками")](https://www.russianfood.com/recipes/recipe.php?rid=173962)
 
-Быстрый, вкусный, элементарный в приготовлении салат с маринованными огурцами, сыром и яйцами. Домашние сухарики для салата, приготовленные с добавлением чеснока, придают блюду аппетитный аромат.
+Быстрый, вкусный, элементарный в приготовлении салат с маринованными огурцами, сыром и яйцами. Домашние сухарики для салата, приготовленные с добавлением чеснока, придают блюду аппетитный аромат. Для заправки используется майонез.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173962)  
 
@@ -366,20 +381,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173769#comments) | 17.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Готовить просто, есть вкусно!) Лучшие рецепты для начинающих №24-42](https://www.russianfood.com/reading/?post_id=22738) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/544/sm_543586.jpg)](https://www.russianfood.com/reading/?post_id=22738)
-
-Цветная капуста со сладким перцем, сыром и яйцами. Фасоль с овощами в томатно-сметанном соусе. Куриные котлеты с морковью и зеленью. Рулетики из лаваша с фаршем. Котлеты из цветной капусты.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22738)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22738#comments) | 17.10.24 |     |
 
 |     |
 | --- |
@@ -470,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(283)
+(158)
