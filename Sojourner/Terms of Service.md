@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a77b7085a6e44cc19cb609eec12af7a4
+50585754a237a22739e45610c69bb661
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![White bird's nest pendant clasp](https://sojourner.biz/images/cache/SKU0262-1Pfront.200.jpg)](https://sojourner.biz/clasps/pendant-clasps/white-bird-s-nest-pendant-clasp.html "White bird's nest pendant clasp")
+[![White leaf hook clasp](https://sojourner.biz/images/cache/SKU0136front.200.jpg)](https://sojourner.biz/clasps/hooks/white-leaf-hook-clasp.html "White leaf hook clasp")
 
-#### [White bird's nest pendant clasp](https://sojourner.biz/clasps/pendant-clasps/white-bird-s-nest-pendant-clasp.html "White bird's nest pendant clasp")
+#### [White leaf hook clasp](https://sojourner.biz/clasps/hooks/white-leaf-hook-clasp.html "White leaf hook clasp")
 
-$24.00
+$25.00
 
 ### Best Sellers
 
