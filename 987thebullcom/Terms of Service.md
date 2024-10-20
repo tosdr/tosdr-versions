@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Cold As YouLuke Combs<br><br>6:55pm |
-| Bigger HousesDan Shay<br><br>6:51pm |
-| You ProofMorgan Wallen<br><br>6:49pm |
-| AustinDasha<br><br>6:46pm |
-| All-American GirlCarrie Underwood<br><br>6:38pm |
+| Gunpowder And LeadMiranda Lambert<br><br>4:55am |
+| Tucson Too LateJordan Davis<br><br>4:53am |
+| One Bad HabitTim Mcgraw<br><br>4:49am |
+| You ProofMorgan Wallen<br><br>4:47am |
+| Not TodayMitchell Tenpenny<br><br>4:44am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,11 +358,11 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
@@ -370,9 +370,9 @@ Country • Western
 
 News Talk • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
