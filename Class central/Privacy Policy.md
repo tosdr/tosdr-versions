@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. c
     
 2. sql
     
-3. law
+3. trading
     
 
 Popular subjects
@@ -426,26 +426,26 @@ Popular subjects
 
 1. [Communication Skills
     
-    4,065 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Data Analysis
+    4,066 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Digital Marketing
     
-    8,353 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+    5,937 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Microsoft Excel
     
-    5,935 courses](https://www.classcentral.com/subject/digital-marketing)
+    1,718 courses](https://www.classcentral.com/subject/microsoft-excel)
 
 Popular courses
 ---------------
 
-1. [Transport Systems: Global Issues and Future Innovations
+1. [Whole genome sequencing of bacterial genomes - tools and applications
     
-    University of Leeds](https://www.classcentral.com/course/transport-systems-global-issues-and-future-innovations-12705)
-2. [Greek and Roman Mythology
+    Technical University of Denmark (DTU)](https://www.classcentral.com/course/wgs-bacteria-8907)
+2. [Introduction to Cyber Security
     
-    University of Pennsylvania](https://www.classcentral.com/course/mythology-353)
-3. [The Science of Success: What Researchers Know that You Should Know
+    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
+3. [Mechanical Ventilation for COVID-19
     
-    University of Michigan](https://www.classcentral.com/course/success-8087)
+    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
