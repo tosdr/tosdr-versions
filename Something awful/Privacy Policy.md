@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Variety Pack #23: JJ Abrams Star Wars! OH NO!!](https://www.somethingawful.com/photoshop-phriday/abrams-starwars/1/)
-* [Advertisements of the Christ](https://www.somethingawful.com/photoshop-phriday/advertisements-christ/1/)
-* [MY WEBSITE IS DOWN ---- WHY?????](https://www.somethingawful.com/news/gross-tos-violation/1/)
-* [Variety Pack #8: Dick Cheney's Adventures; Truth in Advertising!](https://www.somethingawful.com/photoshop-phriday/variety-pack-8/1/)
-* [One Last Question](https://www.somethingawful.com/news/one-last-question/)
+* [Add Something!](https://www.somethingawful.com/photoshop-phriday/add-something/1/)
+* [Make porn safe for work V2: work from home edition](https://www.somethingawful.com/photoshop-phriday/make-porn-sfwv2/)
+* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
+* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
+* [Duke Nukem's Message To The Ladies](https://www.somethingawful.com/flash-tub/duke-nukem-dating/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I guess Asmonbald is finished?](http://forums.somethingawful.com/showthread.php?threadid=4073073 "I guess Asmonbald is finished?")
 * ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Ghosts that have haunted you.](http://forums.somethingawful.com/showthread.php?threadid=4073108 "Ghosts that have haunted you.")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Small Things u Treasure in Life](http://forums.somethingawful.com/showthread.php?threadid=4073090 "Small Things u Treasure in Life")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [Hello my betas.](http://forums.somethingawful.com/showthread.php?threadid=4073047 "Hello my betas.")
 
 ### Random Articles
 
-* [Superheroes in the Bible!](https://www.somethingawful.com/photoshop-phriday/bible-superheroes/1/)
-* [HeunaBina86's Xanga site](https://www.somethingawful.com/awful-links/awful-link-1297/)
-* [D.A.R.E.](https://www.somethingawful.com/feature-articles/dare/1/)
-* [Zack Meets Internet People](https://www.somethingawful.com/news/zack-meets-internet/)
-* [TV Party Tonight](https://www.somethingawful.com/news/tv-party-tonight/)
+* [Chronicle; Journey 2: The Mysterious Island; Big Miracle; The Woman in Black](https://www.somethingawful.com/current-movie-reviews/chronicle-journey-2/1/)
+* [Reading Time: The Master of Makeup](https://www.somethingawful.com/news/readingtime-dick-tracy/1/)
+* [Call of Cthulhu "Mansions of Madness" - Scenario Three (1990)](https://www.somethingawful.com/dungeons-and-dragons/mansions-madness-cthulhu/1/)
+* [Kart Rider and Hatemail!](https://www.somethingawful.com/mmo-roulette/kartonline/1/)
+* [reasoms donald trump ams best for america](https://www.somethingawful.com/news/donald-trump-amazing/)
 
 [Random!](https://www.somethingawful.com/random/)
 
