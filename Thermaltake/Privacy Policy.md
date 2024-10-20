@@ -368,12 +368,6 @@ Copyright © 2019 Thermaltake Technology Co., Ltd. All Rights Reserved.
 
 [](javascript:void(0) "Go to Top")
 
-  
-
-We have detected a different Store for You, According to your country.
-
-Shopping From **United States** ? Looking for **USA** Store.
-
 ![Loading...](https://www.thermaltake.com/static/frontend/Sm/destino/en_US/images/loader-1.gif)
 
 [Continue](# "Continue") [View Cart](https://www.thermaltake.com/checkout/cart/ "View Cart") [Compare Products](https://www.thermaltake.com/catalog/product_compare/index/ "Compare Products") [My Wishlist](https://www.thermaltake.com/wishlist/ "My Wishlist")
