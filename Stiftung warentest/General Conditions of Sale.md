@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
 * [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
 * [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
 * [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
 * [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Service Stiftung Warentest
 
