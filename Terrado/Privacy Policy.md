@@ -1,6 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![](https://web.terra.do/wp-content/uploads/2022/09/Logo-and-typeface-transparent-light-mode.svg)](https://terra.do/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201514%20420'%3E%3C/svg%3E)
+
+![](https://web.terra.do/wp-content/uploads/2022/09/Logo-and-typeface-transparent-light-mode.svg)](https://terra.do/)
 
 Main Menu
 
