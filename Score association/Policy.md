@@ -2,7 +2,7 @@
 
 [Use my current location](#)
 
-Our hearts go out to those affected by the recent hurricanes and flooding.
+Our hearts go out to those affected by the recent hurricanes and flooding. If you need help, [SCORE mentors are here for you](https://www.score.org/find-mentor).
 
 Website Terms of Use and Conditions
 
