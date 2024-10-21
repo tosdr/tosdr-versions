@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Hurricane-Relief Camp in Western North Carolina Draws Volunteers From Around the Country](https://www.theepochtimes.com/us/hurricane-relief-camp-in-western-north-carolina-draws-volunteers-from-around-the-country-5744769)
+    
+    NEW By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    
+    [![Hurricane-Relief Camp in Western North Carolina Draws Volunteers From Around the Country](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane-Relief Camp in Western North Carolina Draws Volunteers From Around the Country](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744783-nccamp2-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-relief-camp-in-western-north-carolina-draws-volunteers-from-around-the-country-5744769)
+* [Good Samaritan Offers Help, Hope to San Francisco’s Homeless, Drug-Addicted](https://www.theepochtimes.com/us/good-samaritan-offers-help-hope-to-san-franciscos-homeless-drug-addicted-5737376)
+    
+    NEW By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    
+    [![Good Samaritan Offers Help, Hope to San Francisco’s Homeless, Drug-Addicted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Good Samaritan Offers Help, Hope to San Francisco’s Homeless, Drug-Addicted](https://img.theepochtimes.com/assets/uploads/2023/07/11/id5387212-SF-FENT-JJ-1_JF_02232023-205x123.jpg.webp)](https://www.theepochtimes.com/us/good-samaritan-offers-help-hope-to-san-franciscos-homeless-drug-addicted-5737376)
+* [Trump Says He ‘Wouldn’t Have To’ Use Military Force Against China’s Blockade of Taiwan](https://www.theepochtimes.com/us/trump-says-he-wouldnt-have-to-use-military-force-if-ccp-blockades-taiwan-5744562)
+    
+    6hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    
+    [![Trump Says He ‘Wouldn’t Have To’ Use Military Force Against China’s Blockade of Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Says He ‘Wouldn’t Have To’ Use Military Force Against China’s Blockade of Taiwan](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744699-GettyImages-2177863703-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-wouldnt-have-to-use-military-force-if-ccp-blockades-taiwan-5744562)
 * [New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://www.theepochtimes.com/sports/new-york-liberty-win-first-wnba-championship-beating-minnesota-67-62-post-5744775)
     
-    NEW By [The Associated Press](https://www.theepochtimes.com/author/associated-press)
+    7hr By [The Associated Press](https://www.theepochtimes.com/author/associated-press)
     
     [![New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744780-New-York-Liberty-AP24295054282481-205x123.jpg.webp)](https://www.theepochtimes.com/sports/new-york-liberty-win-first-wnba-championship-beating-minnesota-67-62-post-5744775)
 * [Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://www.theepochtimes.com/world/hostage-families-say-its-time-for-a-deal-to-free-their-loved-ones-5744663)
     
-    1hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744693-itay-chen-with-family-e1729470558550-205x123.jpg.webp)](https://www.theepochtimes.com/world/hostage-families-say-its-time-for-a-deal-to-free-their-loved-ones-5744663)
 * [Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://www.theepochtimes.com/us/former-homeless-addict-finds-forgiveness-recovery-redemption-5743989)
     
-    2hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    8hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
     
     [![Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744728-Brett-Bowman-3_JF_03112023-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-homeless-addict-finds-forgiveness-recovery-redemption-5743989)
+* [Israel Army Urges Lebanese to Evacuate Locations as It Targets Hezbollah’s Financial Arm](https://www.theepochtimes.com/world/israel-says-it-will-target-hezbollahs-financial-arm-and-begins-striking-beirut-5744705)
+    
+    11hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Israel Army Urges Lebanese to Evacuate Locations as It Targets Hezbollah’s Financial Arm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Army Urges Lebanese to Evacuate Locations as It Targets Hezbollah’s Financial Arm](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744716-Israel-strike-AP24294754460742-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-it-will-target-hezbollahs-financial-arm-and-begins-striking-beirut-5744705)
 * [Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://www.theepochtimes.com/us/elon-musk-offers-1-million-every-day-for-voters-who-sign-petition-prompting-governors-warning-5744695)
     
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744720-Elon-Musk-GettyImages-2179031007-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-offers-1-million-every-day-for-voters-who-sign-petition-prompting-governors-warning-5744695)
 * [Harris Downplays Polls Showing Diminishing Support From Male Voters](https://www.theepochtimes.com/us/harris-downplays-polls-showing-diminishing-support-from-male-voters-5744654)
     
-    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Harris Downplays Polls Showing Diminishing Support From Male Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Downplays Polls Showing Diminishing Support From Male Voters](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744141-GettyImages-2178435314-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-downplays-polls-showing-diminishing-support-from-male-voters-5744654)
 * [Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://www.theepochtimes.com/us/trump-serves-food-at-pennsylvania-mcdonalds-as-harris-visits-churches-in-georgia-5744573)
     
-    7hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    13hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744690-Harris-church-Trump-McDonalds-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-serves-food-at-pennsylvania-mcdonalds-as-harris-visits-churches-in-georgia-5744573)
-* [Backed by Iran, ‘Axis of Resistance’ Terror Groups Target Israel](https://www.theepochtimes.com/article/backed-by-iran-axis-of-resistance-terror-groups-target-israel-5742474)
-    
-    9hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Backed by Iran, ‘Axis of Resistance’ Terror Groups Target Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Backed by Iran, ‘Axis of Resistance’ Terror Groups Target Israel](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744667-Map-all_Israeli-counter-strikes_desktop-80-205x123.jpg.webp)](https://www.theepochtimes.com/article/backed-by-iran-axis-of-resistance-terror-groups-target-israel-5742474)
-* [FBI, Cyber Agency Issue ‘Disinformation’ Warning 2 Weeks Before Election](https://www.theepochtimes.com/us/fbi-cyber-agency-issue-disinformation-warning-2-weeks-before-election-5744593)
-    
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![FBI, Cyber Agency Issue ‘Disinformation’ Warning 2 Weeks Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FBI, Cyber Agency Issue ‘Disinformation’ Warning 2 Weeks Before Election](https://img.theepochtimes.com/assets/uploads/2024/05/07/id5645337-FBI-CaliforniaKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-cyber-agency-issue-disinformation-warning-2-weeks-before-election-5744593)
-* [Trump Campaign Pushes Back on Reports He’s ‘Exhausted’](https://www.theepochtimes.com/us/trump-campaign-pushes-back-on-reports-hes-exhausted-5744587)
-    
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Campaign Pushes Back on Reports He’s ‘Exhausted’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Campaign Pushes Back on Reports He’s ‘Exhausted’](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744049-Trump-Harris-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-campaign-pushes-back-on-reports-hes-exhausted-5744587)
-* [US Probes Intelligence Leak Regarding Israel’s Plans to Retaliate Against Iran](https://www.theepochtimes.com/us/us-probes-intelligence-leak-regarding-israels-plans-to-retaliate-against-iran-5744545)
-    
-    12hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![US Probes Intelligence Leak Regarding Israel’s Plans to Retaliate Against Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Probes Intelligence Leak Regarding Israel’s Plans to Retaliate Against Iran](https://img.theepochtimes.com/assets/uploads/2024/04/07/id5623742-GettyImages-160989986-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-probes-intelligence-leak-regarding-israels-plans-to-retaliate-against-iran-5744545)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
