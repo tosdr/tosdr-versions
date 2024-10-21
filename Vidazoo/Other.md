@@ -31,6 +31,10 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-Lu8gBkikjSdeMGMJn7M)
 
+On this page
+
+Was this helpful?
+
 Publisher Guidelines
 ====================
 
@@ -93,7 +97,3 @@ Client acknowledges and agrees that a breach of these Publisher Guidelines could
 [PreviousTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)[NextData Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
 
 Last updated 1 month ago
-
-On this page
-
-Was this helpful?
