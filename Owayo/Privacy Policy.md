@@ -174,7 +174,7 @@ The controller as defined in the General Data Protection Regulation and other na
   
 owayo, Inc.  
 Telephone: +49 (0) 941 890 5500  
-info@owayo.com  
+[\[email protected\]](https://www.owayo.com/cdn-cgi/l/email-protection)  
 www.owayo.com  
 
 **II. Name and address of the data protection officer**
@@ -184,7 +184,7 @@ The data protection officer of the controller is:
 Michael Schindler  
 Landshuter Str. 6  
 D-93047 Regensburg  
-privacy-owayo@owayo.com  
+[\[email protected\]](https://www.owayo.com/cdn-cgi/l/email-protection)  
 www.owayo.de
 
 **III. General information concerning data processing**  
@@ -360,7 +360,7 @@ This is then the case during the registration process in order to fulfil a contr
 
 As a user, you can cancel the registration at any time. You can have the data relating to you which has been saved altered at any time.  
   
-In order to have the deletion carried out, you should send an email to datenschutzbeauftragter@owayo.com and request that your account data be deleted.  
+In order to have the deletion carried out, you should send an email to [\[email protected\]](https://www.owayo.com/cdn-cgi/l/email-protection) and request that your account data be deleted.  
   
 Should the data be necessary in order to fulfil a contract or carry out pre-contractual measures, it is only possible to prematurely delete the data if contractual or statutory obligations do not prevent this.
 
@@ -402,7 +402,7 @@ This is then the case during the registration process in order to fulfil a contr
 
 As a user, you can cancel the registration at any time. You can have the data relating to you which has been saved altered at any time.  
   
-In order to have the deletion carried out, you should send an email to datenschutzbeauftragter@owayo.com and request that your shopping basket data be deleted.  
+In order to have the deletion carried out, you should send an email to [\[email protected\]](https://www.owayo.com/cdn-cgi/l/email-protection) and request that your shopping basket data be deleted.  
   
 Should the data be necessary in order to fulfil a contract or carry out pre-contractual measures, it is only possible to prematurely delete the data if contractual or statutory obligations do not prevent this.
 
