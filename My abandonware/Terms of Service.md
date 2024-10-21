@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [CyberBox](https://www.myabandonware.com/game/cyberbox-sxg)
-* [Cyber Cop](https://www.myabandonware.com/game/cyber-cop-sxf)
-* [Chameleon](https://www.myabandonware.com/game/chameleon-s5r)
-* [Naughty Boy](https://www.myabandonware.com/game/naughty-boy-ru0)
-* [Pachinko-U.F.O.](https://www.myabandonware.com/game/pachinko-u-f-o-qkm)
+* [Primal Rage](https://www.myabandonware.com/game/primal-rage-2vr)
+* [Zen-Nihon Joshi Pro Wrestling: Queen of Queens](https://www.myabandonware.com/game/zen-nihon-joshi-pro-wrestling-queen-of-queens-sxr)
+* [Wan Wan Aijō Monogatari](https://www.myabandonware.com/game/wan-wan-aijo-monogatari-sxq)
+* [Nigaoe Artist](https://www.myabandonware.com/game/nigaoe-artist-sxp)
+* [Lupiton's Wonder Palette](https://www.myabandonware.com/game/lupiton-s-wonder-palette-sxo)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
