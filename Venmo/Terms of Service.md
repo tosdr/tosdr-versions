@@ -89,7 +89,7 @@ Nav
 [Log in(opens in a new tab)](https://venmo.com/account/sign-in "Log in")[Get Venmo(opens in a new tab)](https://account.venmo.com/signup "Get Venmo")
 
 Privacy Statement
------------------
+=================
 
 **DATE EFFECTIVE**
 
