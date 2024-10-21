@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-stephanie-stutz-feature.jpg)
+
+[](https://theinspirationgrid.com/stunning-digital-landscapes-by-stephanie-stutz/)
+
+### Stunning Digital Landscapes by Stephanie Stutz
+
+![](https://inspgr.id/app/uploads/2024/10/3d-geoff-keough-feature.jpg)
+
+[](https://theinspirationgrid.com/awesome-3d-artworks-by-geoff-keough/)
+
+### Awesome 3D Artworks by Geoff Keough
+
 ![](https://inspgr.id/app/uploads/2024/10/art-anya-evdokimova-feature.jpg)
 
 [](https://theinspirationgrid.com/digital-collages-poster-designs-by-anya-evdokimova/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/quirky-illustrations-by-leandro-alzate/)
 
 ### Quirky Illustrations by Leandro Alzate
-
-![](https://inspgr.id/app/uploads/2024/10/art-adam-shub-feature.jpg)
-
-[](https://theinspirationgrid.com/nostalgic-pixel-paintings-by-adam-shub/)
-
-### Nostalgic Pixel Paintings by Adam Shub
-
-![](https://inspgr.id/app/uploads/2024/10/3d-marcus-chaloner-feature.jpg)
-
-[](https://theinspirationgrid.com/striking-visual-experiments-by-marcus-chaloner/)
-
-### Striking Visual Experiments by Marcus Chaloner
 
 Awesome products for creatives
 ------------------------------
