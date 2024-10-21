@@ -64,17 +64,17 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Obama-appointed D.C. judge moves the goalposts to convict Trump on J6 charges](https://americanwirenews.com/obama-appointed-d-c-judge-moves-the-goalposts-to-convict-trump-on-j6-charges/)
+### [Harris jeered pro-life protester who shouted ‘Jesus is Lord’: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
 
-### [Seemingly tense funeral exchange between Joe and Barack has social media buzzing](https://americanwirenews.com/seemingly-tense-funeral-exchange-between-joe-and-barack-has-social-media-buzzing/)
+### [DeSantis on Kamala: ‘Her whole candidacy is a fraud’](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
 
-### [Kamala’s Fox News interview such a debacle that her handlers pull the plug early](https://americanwirenews.com/kamalas-fox-news-interview-such-a-debacle-that-her-handlers-pull-the-plug-early/)
+### [WaPo neocon pundit Jen Rubin uncorks completely unhinged take about Trump ‘Nazi’ rally](https://americanwirenews.com/wapo-neocon-pundit-jen-rubin-uncorks-completely-unhinged-take-about-trump-nazi-rally/)
 
-### [Sunny Hostin blasts Kamala interview critics over ‘trope of the angry black woman’](https://americanwirenews.com/sunny-hostin-blasts-kamala-interview-critics-over-trope-of-the-angry-black-woman/)
+### [‘Are you worried you’re on a list?’ MSNBC ramps up the rhetoric as Kamala implodes](https://americanwirenews.com/are-you-worried-youre-on-a-list-msnbc-ramps-up-the-rhetoric-as-kamala-implodes/)
 
-### [Rashida Tlaib accuses grocery giant of using technology for discriminatory pricing](https://americanwirenews.com/rashida-tlaib-accuses-grocery-giant-of-using-technology-for-discriminatory-pricing/)
+### [Texas sues doctor for gender transition treatments on minors, in violation of state law](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
 
-### [Arnold Ventures under fire for weakening IP and patents](https://americanwirenews.com/arnold-ventures-under-fire-for-weakening-ip-and-patents/)
+### [Trump APPLAUDED in Bronx barbershop, registered Democrat says the fmr. president has his vote](https://americanwirenews.com/trump-applauded-in-bronx-barbershop-registered-democrat-says-the-fmr-president-has-his-vote/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -107,6 +107,38 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-steel-220x180.jpg)](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
 
 [Trump channels Reagan in PA, gets custom hard hat AND backing of steelworkers](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-muir-and-trump-220x180.jpg)](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
+
+[‘Yet again, Trump was right’: ABC’s crime ‘fact-check’ aged like hot milk](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tyrus-220x180.jpg)](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
+
+[‘Gutfeld!’ regular interviews Trump, apologizes right off the bat: ‘I’ve been very critical about you…’](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cbp-log-moving-220x180.jpg)](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
+
+[Govt. agencies ROASTED for pathetic hurricane cleanup video: ’14 people to move a 12 lb log 30 feet’](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-maher-220x180.jpg)](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
+
+[Maher, Scarborough cry over TDS: ‘It’s not deranged to fear this!’](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djttiktox-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
+
+[Trump teams up with WWE legends to body slam Kamala: ‘Choose wisely, the nation depends on it’](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-criminal-aliens-in-texas-220x180.jpg)](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+
+[Authorities say group of 134 illegals, including Iranians, apprehended in Texas](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wallace-oleary-220x180.jpg)](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
+
+[Chris Wallace asks ‘Mr. Wonderful’ if he’s ‘really that much of an a\*\*hole’](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_kamhead-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
+
+[Trump mocks Kamala for pushing ‘exhausted’ lie: ‘Doesn’t have the energy of a rabbit’](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lizzo-220x180.jpg)](https://americanwirenews.com/kamala-rolls-out-the-heavy-hitters-lizzo-campaigns-for-veep-in-detroit/)
 
@@ -145,38 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-springsteen-220x180.jpg)](https://americanwirenews.com/sour-springsteen-whines-that-trump-is-swaying-to-music-thats-my-job/)
 
 [Sour Springsteen whines that Trump is ‘swaying’ to music: ‘That’s my job’](https://americanwirenews.com/sour-springsteen-whines-that-trump-is-swaying-to-music-thats-my-job/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-cackling-220x180.jpg)](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
-
-[Harris jeered pro-life protester who shouted ‘Jesus is Lord’: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/harris-jeered-pro-life-protester-who-shouted-jesus-is-lord-oh-you-guys-are-at-the-wrong-rally/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala_rond-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
-
-[DeSantis on Kamala: ‘Her whole candidacy is a fraud’](https://americanwirenews.com/desantis-on-kamala-her-whole-candidacy-is-a-fraud/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wapojen-1200-x-628-220x180.jpg)](https://americanwirenews.com/wapo-neocon-pundit-jen-rubin-uncorks-completely-unhinged-take-about-trump-nazi-rally/)
-
-[WaPo neocon pundit Jen Rubin uncorks completely unhinged take about Trump ‘Nazi’ rally](https://americanwirenews.com/wapo-neocon-pundit-jen-rubin-uncorks-completely-unhinged-take-about-trump-nazi-rally/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-deutsch-220x180.jpg)](https://americanwirenews.com/are-you-worried-youre-on-a-list-msnbc-ramps-up-the-rhetoric-as-kamala-implodes/)
-
-[‘Are you worried you’re on a list?’ MSNBC ramps up the rhetoric as Kamala implodes](https://americanwirenews.com/are-you-worried-youre-on-a-list-msnbc-ramps-up-the-rhetoric-as-kamala-implodes/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-paxton-220x180.jpg)](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
-
-[Texas sues doctor for gender transition treatments on minors, in violation of state law](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-bronx-220x180.jpg)](https://americanwirenews.com/trump-applauded-in-bronx-barbershop-registered-democrat-says-the-fmr-president-has-his-vote/)
-
-[Trump APPLAUDED in Bronx barbershop, registered Democrat says the fmr. president has his vote](https://americanwirenews.com/trump-applauded-in-bronx-barbershop-registered-democrat-says-the-fmr-president-has-his-vote/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-keir-starmer-220x180.jpg)](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
-
-[UK leftist Labour Party plans deployment to US swing states, will show ‘Dems how to win elections’](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-bongino-220x180.jpg)](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
-
-[‘More RECEIPTS for you f\*\*ksticks’: Bongino goes ballistic on unrepentant liars at Kamala HQ](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -270,31 +270,29 @@ Getty Images](https://americanwirenews.com/two-giants-team-up-to-change-the-game
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-fascist-1200x630.jpg)](https://americanwirenews.com/joy-behars-unabashed-trump-fearmongering-he-wants-to-send-the-military-to-attack-liberals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-keir-starmer-1200x630.jpg)](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
 
-[Joy Behar’s unabashed Trump fearmongering: ‘He wants to send the military to attack liberals’](https://americanwirenews.com/joy-behars-unabashed-trump-fearmongering-he-wants-to-send-the-military-to-attack-liberals/)
+[UK leftist Labour Party plans deployment to US swing states, will show ‘Dems how to win elections’](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-fascist-220x180.jpg)](https://americanwirenews.com/joy-behars-unabashed-trump-fearmongering-he-wants-to-send-the-military-to-attack-liberals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-keir-starmer-220x180.jpg)](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
 
-[Joy Behar’s unabashed Trump fearmongering: ‘He wants to send the military to attack liberals’](https://americanwirenews.com/joy-behars-unabashed-trump-fearmongering-he-wants-to-send-the-military-to-attack-liberals/)
+[UK leftist Labour Party plans deployment to US swing states, will show ‘Dems how to win elections’](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rove-220x180.jpg)](https://americanwirenews.com/karl-rove-sets-record-straight-after-clip-claims-hes-been-rallying-for-kamala-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-bongino-220x180.jpg)](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
 
-[Karl Rove sets record straight after clip claims he’s been ‘rallying for Kamala Harris’](https://americanwirenews.com/karl-rove-sets-record-straight-after-clip-claims-hes-been-rallying-for-kamala-harris/)
+[‘More RECEIPTS for you f\*\*ksticks’: Bongino goes ballistic on unrepentant liars at Kamala HQ](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ballots-election-poll-worker-220x180.jpg)](https://americanwirenews.com/harris-campaign-touts-judge-blocking-georgia-hand-count-ballot-rule-as-a-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-mark-cuban-2-220x180.jpg)](https://americanwirenews.com/mark-cuban-blames-social-media-for-trumps-gangsta-image-as-meltdown-continues/)
 
-[Harris campaign touts judge blocking Georgia hand-count ballot rule as a win](https://americanwirenews.com/harris-campaign-touts-judge-blocking-georgia-hand-count-ballot-rule-as-a-win/)
+[Mark Cuban blames social media for Trump’s ‘gangsta’ image as meltdown continues](https://americanwirenews.com/mark-cuban-blames-social-media-for-trumps-gangsta-image-as-meltdown-continues/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-garcia-trooper-220x180.jpg)](https://americanwirenews.com/desantis-announces-charges-after-dog-abandoned-on-side-of-road-during-hurricane-monster-identified/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sheriff-t.k.-waters-220x180.jpg)](https://americanwirenews.com/trump-supporting-florida-sheriff-targeted-with-racist-banner-flown-over-downtown-jacksonville/)
 
-[DeSantis announces charges after dog abandoned on side of road during hurricane – monster identified
+[Trump-supporting Florida sheriff targeted with racist banner flown over downtown Jacksonville](https://americanwirenews.com/trump-supporting-florida-sheriff-targeted-with-racist-banner-flown-over-downtown-jacksonville/)
 
-Image via Hillsborough County Sheriff's Office](https://americanwirenews.com/desantis-announces-charges-after-dog-abandoned-on-side-of-road-during-hurricane-monster-identified/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-ff-viewer-220x180.jpg)](https://americanwirenews.com/trump-keeps-the-comedy-going-cracks-up-fox-friends-with-hilarious-response-to-childs-question/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Elon-Musk-interview-220x180.jpg)](https://americanwirenews.com/elon-musk-to-stump-for-trump-in-pennsylvania-sets-these-conditions-for-attendees/)
-
-[Elon Musk to stump for Trump in Pennsylvania, sets THESE conditions for attendees](https://americanwirenews.com/elon-musk-to-stump-for-trump-in-pennsylvania-sets-these-conditions-for-attendees/)
+[Trump cracks up Fox & Friends with hilarious response to child’s question: ‘I love cows…’](https://americanwirenews.com/trump-keeps-the-comedy-going-cracks-up-fox-friends-with-hilarious-response-to-childs-question/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -324,9 +322,13 @@ Image via Hillsborough County Sheriff's Office](https://americanwirenews.com/des
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tucker-brand-faith-1200x630.jpg)](https://americanwirenews.com/tucker-talks-church-fears-with-russell-brand-i-cant-deal-with-it-it-freaks-me-out/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pixabay-bible-study-1200x630.jpg)](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
 
-[Tucker talks church fears with Russell Brand: ‘I can’t deal with it. It freaks me out!’](https://americanwirenews.com/tucker-talks-church-fears-with-russell-brand-i-cant-deal-with-it-it-freaks-me-out/)
+[Oklahoma superintendent’s response to lawsuit over school Bibles is straight fire: ‘I will never back down’](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pixabay-bible-study-220x180.jpg)](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
+
+[Oklahoma superintendent’s response to lawsuit over school Bibles is straight fire: ‘I will never back down’](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tucker-brand-faith-220x180.jpg)](https://americanwirenews.com/tucker-talks-church-fears-with-russell-brand-i-cant-deal-with-it-it-freaks-me-out/)
 
@@ -343,11 +345,5 @@ Image via Hillsborough County Sheriff's Office](https://americanwirenews.com/des
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-owens-burgerking-220x180.jpg)](https://americanwirenews.com/sheriff-calls-for-back-up-after-burger-king-got-his-order-wrong/)
 
 [Sheriff calls for back up after Burger King got his order wrong](https://americanwirenews.com/sheriff-calls-for-back-up-after-burger-king-got-his-order-wrong/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-spencer-sg-lonoke-220x180.jpg)](https://americanwirenews.com/arkansas-father-charged-with-murder-after-locating-missing-daughter-14-with-her-alleged-rapist/)
-
-[Arkansas father charged with murder after locating missing daughter, 14, with her alleged rapist
-
-Image via Lonoke County Detention Center](https://americanwirenews.com/arkansas-father-charged-with-murder-after-locating-missing-daughter-14-with-her-alleged-rapist/)
 
 © 2024. All Rights Reserved. American Wire News
