@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Henry Venter
+Shaun Gartshore
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=57087686)  
-Baby Toddles Infant Care
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=185967204)  
+United Paintball Federation
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=170179898)  
-Oak Tree Immigration
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=2118608)  
-Network Grey (Pty) Ltd
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=207462481)  
-OptaServ
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=139292524)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=207675989)  
-Iurus Inc
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=146449228)  
-Immediate Health (pty)ltd
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=112095881)  
-West Coast Horse Trails
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=117226900)  
-Karino Merinos ( PTY ) LTD
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=1564256)  
-Hydroworld T/A Milliqua
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=104908109)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=68185891)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=135692485)  
-Bchange Online CC
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=82731767)  
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=63782435)  
 Skinz Printing & Branding
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=59b83feb48da915db5be0c5ddee1725442e8f62231abd36e1f5661eadbc30055&c=48621674)  
-AFS Electrical
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=3181754)  
+M's Frozen Delights
+
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=43205359)  
+Stevens Consulting
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=6816455)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=110517178)  
+FlipDesign - Renovation Contracting Firm
+
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=78310715)  
+Secunda Signs T/A Local Print and Signs
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=76329832)  
+Redlum Group (Pty) Ltd
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=159825937)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=165864437)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=185791188)  
+Highlands Auto Engineering
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=175497550)  
+Oak Tree Immigration
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=74374062)  
+West Coast Horse Trails
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=202572599)  
+Qothiphango Mining
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=169895312)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
