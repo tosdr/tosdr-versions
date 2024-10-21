@@ -62,8 +62,6 @@ MENUMENU
             * [Siblings](https://thearc.org/get-involved/siblings/)
             * [Alumni Council](https://thearc.org/get-involved/alumni-council/)
         * * [Ways to Give](https://thearc.org/get-involved/ways-give/)
-            * [Donor Appreciation](https://thearc.org/get-involved/donor-appreciation/)
-    
 * [GET RESOURCES](https://thearc.org/find-resources/)
     * * * #### Get Resources
                 
