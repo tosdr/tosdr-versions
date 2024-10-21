@@ -117,7 +117,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
-        up to 3% Cash Back](https://www.rakuten.ca/samsung.com)
+        up to 7% Cash Back](https://www.rakuten.ca/samsung.com)
         
         Featured Shops & Deals
         
