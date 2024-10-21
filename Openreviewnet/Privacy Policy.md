@@ -9,7 +9,7 @@ Open Peer Review. Open Publishing. Open Access. Open Discussion. Open Recommenda
 OpenReview Privacy Policy
 =========================
 
-Last updated: September 22, 2023
+Last updated: September 24, 2024
 
 This Privacy Policy describes the manner in which OpenReview collects, uses, maintains and discloses information collected from its users.
 
@@ -37,7 +37,7 @@ The complete record of all OpenReview API traffic is logged and kept for 90 days
 
 **Information we gather from registered users and public sources**
 
-When you register as a user with OpenReview, we collect certain “Profile” information. Name, email address, institution, and homepage URL are required for system registration. You may voluntarily provide other optional information, such as past email addresses, affiliation history, demographic information, expertise description, education history, career history, additional contact information, additional homepages (such as those for DBLP, LinkedIn, Wikipedia, Semantic Scholar, Google Scholar, ORCHIDid other online identifiers), and conflicts-of-interest, such as name and email address of doctoral advisor. (It is your responsibility to obtain appropriate consent from any other person whose information you provide.)
+When you register as a user with OpenReview, we collect certain “Profile” information. Name, email address, current position (university, company, self-employed) with its location, and a URL clearly showing your name are required for system registration. You may voluntarily provide other optional information, such as past email addresses, affiliation history, past demographic information, expertise description, education history, career history, additional contact information, additional homepages (such as those for DBLP, LinkedIn, Wikipedia, Semantic Scholar, Google Scholar, ORCHIDid other online identifiers), and conflicts-of-interest, such as name and email address of doctoral advisor. (It is your responsibility to obtain appropriate consent from any other person whose information you provide.)
 
 This Profile information is useful when Venues are striving to build a cohort of submission reviewers with a balance of seniority, background, affiliations, and expertise, while also avoiding conflicts of interest.
 
