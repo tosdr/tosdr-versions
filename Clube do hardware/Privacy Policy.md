@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![9nkn0wn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254554.thumb.png.174ec0abb9eef5dc66456e982dbbbc70.png)](https://www.clubedohardware.com.br/profile/1254554-9nkn0wn/ "Ir ao perfil de 9nkn0wn")
+    * [![Levil](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/472938-levil/ "Ir ao perfil de Levil")
+        
+        1
+        
+        [Montagem de computador em torno de R$ 20.000 a R$ 25.000](https://www.clubedohardware.com.br/forums/topic/1700200-montagem-de-computador-em-torno-de-r-20000-a-r-25000/?do=getNewComment "Montagem de computador em torno de R$ 20.000 a R$ 25.000")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Levil](https://www.clubedohardware.com.br/profile/472938-levil/ "Ir ao perfil de Levil")  
+        53 minutos atrás
+        
+    * [![joaopaulofreire](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254451.thumb.png.d489552ce924bc65236520fa4577e30c.png)](https://www.clubedohardware.com.br/profile/1254451-joaopaulofreire/ "Ir ao perfil de joaopaulofreire")
+        
+        1
+        
+        [Placa de vídeo não dá imagem](https://www.clubedohardware.com.br/forums/topic/1700199-placa-de-v%C3%ADdeo-n%C3%A3o-d%C3%A1-imagem/?do=getNewComment "Placa de vídeo não dá imagem")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [joaopaulofreire](https://www.clubedohardware.com.br/profile/1254451-joaopaulofreire/ "Ir ao perfil de joaopaulofreire")  
+        55 minutos atrás
+        
+    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
+        
+        2
+        
+        [Melhor configuração para jogos até R$ 3.000](https://www.clubedohardware.com.br/forums/topic/1700198-melhor-configura%C3%A7%C3%A3o-para-jogos-at%C3%A9-r-3000/?do=getNewComment "Melhor configuração para jogos até R$ 3.000")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
+        1 hora atrás
+        
+    * [![numbershotcar](https://www.clubedohardware.com.br/uploads/members/monthly_2022_05/b39a5e8b3e3db99d813cadb0eba8c658.thumb.jpg.f2489d61129a591df8f85703a88d66a9.jpg)](https://www.clubedohardware.com.br/profile/1087476-numbershotcar/ "Ir ao perfil de numbershotcar")
+        
+        3
+        
+        [stuttering em alguns jogos](https://www.clubedohardware.com.br/forums/topic/1700197-stuttering-em-alguns-jogos/?do=getNewComment "stuttering em alguns jogos")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [numbershotcar](https://www.clubedohardware.com.br/profile/1087476-numbershotcar/ "Ir ao perfil de numbershotcar")  
+        1 hora atrás
+        
+    * [![Rodrigo lima1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254817.thumb.jpeg.22d54e61d6cc5c00cef8b28b8bb450d5.jpeg)](https://www.clubedohardware.com.br/profile/1254817-rodrigo-lima1/ "Ir ao perfil de Rodrigo lima1")
+        
+        1
+        
+        [Monitor gamer 165hz até 240hz](https://www.clubedohardware.com.br/forums/topic/1700196-monitor-gamer-165hz-at%C3%A9-240hz/?do=getNewComment "Monitor gamer 165hz até 240hz")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Rodrigo lima1](https://www.clubedohardware.com.br/profile/1254817-rodrigo-lima1/ "Ir ao perfil de Rodrigo lima1")  
+        1 hora atrás
+        
+    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
+        
+        3
+        
+        [Quais peças compro primeiro?](https://www.clubedohardware.com.br/forums/topic/1700195-quais-pe%C3%A7as-compro-primeiro/?do=getNewComment "Quais peças compro primeiro?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
+        2 horas atrás
+        
+    * [![michael andre 18](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254626-michael-andre-18/ "Ir ao perfil de michael andre 18")
         
         0
+        
+        [Existe algum produto tão bom quanto o Btv, mas mais barato?](https://www.clubedohardware.com.br/forums/topic/1700194-existe-algum-produto-t%C3%A3o-bom-quanto-o-btv-mas-mais-barato/?do=getNewComment "Existe algum produto tão bom quanto o Btv, mas mais barato?")
+        
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [michael andre 18](https://www.clubedohardware.com.br/profile/1254626-michael-andre-18/ "Ir ao perfil de michael andre 18")  
+        3 horas atrás
+        
+    * [![vero1](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254815-vero1/ "Ir ao perfil de vero1")
+        
+        1
+        
+        [Após ativar segure boot pc parou de dar Vídeo](https://www.clubedohardware.com.br/forums/topic/1700193-ap%C3%B3s-ativar-segure-boot-pc-parou-de-dar-v%C3%ADdeo/?do=getNewComment "Após ativar segure boot pc parou de dar Vídeo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [vero1](https://www.clubedohardware.com.br/profile/1254815-vero1/ "Ir ao perfil de vero1")  
+        3 horas atrás
+        
+    * [![9nkn0wn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254554.thumb.png.174ec0abb9eef5dc66456e982dbbbc70.png)](https://www.clubedohardware.com.br/profile/1254554-9nkn0wn/ "Ir ao perfil de 9nkn0wn")
+        
+        1
         
         [Controlar Display com arduino](https://www.clubedohardware.com.br/forums/topic/1700191-controlar-display-com-arduino/?do=getNewComment "Controlar Display com arduino")
         
         [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
         Por [9nkn0wn](https://www.clubedohardware.com.br/profile/1254554-9nkn0wn/ "Ir ao perfil de 9nkn0wn")  
-        8 minutos atrás
+        6 horas atrás
         
     * [![Eclipse Valtrone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254814.thumb.jpeg.9694a9a8461ba47f807dd33f1bcff3bf.jpeg)](https://www.clubedohardware.com.br/profile/1254814-eclipse-valtrone/ "Ir ao perfil de Eclipse Valtrone")
         
-        0
+        2
         
         [Comprei um pc mas não liga.](https://www.clubedohardware.com.br/forums/topic/1700190-comprei-um-pc-mas-n%C3%A3o-liga/?do=getNewComment "Comprei um pc mas não liga.")
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [Eclipse Valtrone](https://www.clubedohardware.com.br/profile/1254814-eclipse-valtrone/ "Ir ao perfil de Eclipse Valtrone")  
-        1 hora atrás
-        
-    * [![RedExY](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254678.thumb.png.0cbf2a542726fd4c6c754aea3debbfea.png)](https://www.clubedohardware.com.br/profile/1254678-redexy/ "Ir ao perfil de RedExY")
-        
-        2
-        
-        [Qual a diferença entre placas mães TUF Gaming?](https://www.clubedohardware.com.br/forums/topic/1700189-qual-a-diferen%C3%A7a-entre-placas-m%C3%A3es-tuf-gaming/?do=getNewComment "Qual a diferença entre placas mães TUF Gaming?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [RedExY](https://www.clubedohardware.com.br/profile/1254678-redexy/ "Ir ao perfil de RedExY")  
-        3 horas atrás
-        
-    * [![hellyson_467](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254812.thumb.png.c04ff47d37209edc7674bc54fd993351.png)](https://www.clubedohardware.com.br/profile/1254812-hellyson_467/ "Ir ao perfil de hellyson_467")
-        
-        0
-        
-        [Meu Pc liga mas não dá imagem](https://www.clubedohardware.com.br/forums/topic/1700188-meu-pc-liga-mas-n%C3%A3o-d%C3%A1-imagem/?do=getNewComment "Meu Pc liga mas não dá imagem")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [hellyson\_467](https://www.clubedohardware.com.br/profile/1254812-hellyson_467/ "Ir ao perfil de hellyson_467")  
-        3 horas atrás
-        
-    * [![Noobinhoteses](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250999.thumb.png.ff4e2de9099d5e3e4b120576d856d0ee.png)](https://www.clubedohardware.com.br/profile/1250999-noobinhoteses/ "Ir ao perfil de Noobinhoteses")
-        
-        1
-        
-        [AMD "tempo limite do driver"](https://www.clubedohardware.com.br/forums/topic/1700187-amd-tempo-limite-do-driver/?do=getNewComment "AMD "tempo limite do driver"")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Noobinhoteses](https://www.clubedohardware.com.br/profile/1250999-noobinhoteses/ "Ir ao perfil de Noobinhoteses")  
-        3 horas atrás
-        
-    * [![Joao Vitor Coveiro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248916.thumb.jpeg.9353e2d009e430402282d30afc563e65.jpeg)](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")
-        
-        2
-        
-        [RX 580 com variação grande no uso e CPU a 100% causando queda de fps nos jogos](https://www.clubedohardware.com.br/forums/topic/1700186-rx-580-com-varia%C3%A7%C3%A3o-grande-no-uso-e-cpu-a-100-causando-queda-de-fps-nos-jogos/?do=getNewComment "RX 580 com variação grande no uso e CPU a 100% causando queda de fps nos jogos")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Joao Vitor Coveiro](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")  
-        4 horas atrás
-        
-    * [![DécioDoragon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254811.thumb.jpeg.73d13f3d3ea0d469d96dd5e72d4a8d33.jpeg)](https://www.clubedohardware.com.br/profile/1254811-d%C3%A9ciodoragon/ "Ir ao perfil de DécioDoragon")
-        
-        0
-        
-        [PC não dá vídeo depois de desligar o CSM](https://www.clubedohardware.com.br/forums/topic/1700185-pc-n%C3%A3o-d%C3%A1-v%C3%ADdeo-depois-de-desligar-o-csm/?do=getNewComment "PC não dá vídeo depois de desligar o CSM")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [DécioDoragon](https://www.clubedohardware.com.br/profile/1254811-d%C3%A9ciodoragon/ "Ir ao perfil de DécioDoragon")  
-        4 horas atrás
-        
-    * [![Adamastor Abrolio Silve](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b9%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1244546-adamastor-abrolio-silve/ "Ir ao perfil de Adamastor Abrolio Silve")
-        
-        0
-        
-        [Sugestão de notebook com 16gb e mínimo de 500 GB de SSD](https://www.clubedohardware.com.br/forums/topic/1700184-sugest%C3%A3o-de-notebook-com-16gb-e-m%C3%ADnimo-de-500-gb-de-ssd/?do=getNewComment "Sugestão de notebook com 16gb e mínimo de 500 GB de SSD")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Adamastor Abrolio Silve](https://www.clubedohardware.com.br/profile/1244546-adamastor-abrolio-silve/ "Ir ao perfil de Adamastor Abrolio Silve")  
-        5 horas atrás
-        
-    * [![Tais059](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254013.thumb.png.22c217c411eca3d01a266f4a59cdbdb9.png)](https://www.clubedohardware.com.br/profile/1254013-tais059/ "Ir ao perfil de Tais059")
-        
-        0
-        
-        [Preciso de um arquivo de BIOS](https://www.clubedohardware.com.br/forums/topic/1700183-preciso-de-um-arquivo-de-bios/?do=getNewComment "Preciso de um arquivo de BIOS")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Tais059](https://www.clubedohardware.com.br/profile/1254013-tais059/ "Ir ao perfil de Tais059")  
-        5 horas atrás
-        
-    * [![LGM02](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254610-lgm02/ "Ir ao perfil de LGM02")
-        
-        1
-        
-        [Montando PC pela primeira vez](https://www.clubedohardware.com.br/forums/topic/1700182-montando-pc-pela-primeira-vez/?do=getNewComment "Montando PC pela primeira vez")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [LGM02](https://www.clubedohardware.com.br/profile/1254610-lgm02/ "Ir ao perfil de LGM02")  
-        5 horas atrás
+        7 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
