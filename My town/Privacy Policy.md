@@ -119,7 +119,7 @@ Be the first one to know about Free games and updates
 Visit us:
 ---------
 
- [![Amazon store link ](https://my-town.com/wp-content/themes/mytown/dist/images/badge_huawei.png)](https://appgallery.huawei.com/#/tab/appdetailCommon%7CC104662799%7Cautomore%7Cdoublecolumncardwithstar%7C903547)[![Amazon store link ](https://my-town.com/wp-content/themes/mytown/dist/images/badge_amazon.png)](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=My%20Town%20Games%20ltd&node=2350149011)[![Apple store linkService](https://my-town.com/wp-content/themes/mytown/dist/images/badge_appstore.png)](https://itunes.apple.com/us/developer/my-town-games-ltd/id998176000?mt=8)[![Google store link](https://my-town.com/wp-content/themes/mytown/dist/images/badge_gPlay.png)](https://play.google.com/store/apps/dev?id=4907572025980617983)
+ [![Crazy Games link ](https://my-town.com/wp-content/themes/mytown/dist/images/badge_huawei.png)](https://appgallery.huawei.com/#/tab/appdetailCommon%7CC104662799%7Cautomore%7Cdoublecolumncardwithstar%7C903547)[![Amazon store link ](https://my-town.com/wp-content/themes/mytown/dist/images/badge_amazon.png)](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=My%20Town%20Games%20ltd&node=2350149011)[![Apple store linkService](https://my-town.com/wp-content/themes/mytown/dist/images/badge_appstore.png)](https://itunes.apple.com/us/developer/my-town-games-ltd/id998176000?mt=8)[![Google store link](https://my-town.com/wp-content/themes/mytown/dist/images/badge_gPlay.png)](https://play.google.com/store/apps/dev?id=4907572025980617983)
 
 [![Service](https://my-town.com/wp-content/themes/mytown/dist/images/Logo.png)](#) 
 
