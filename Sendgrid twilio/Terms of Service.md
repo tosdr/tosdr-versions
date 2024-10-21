@@ -70,12 +70,11 @@
         
         [Toll-Free](https://www.twilio.com/en-us/phone-numbers/toll-free) [10DLC](https://www.twilio.com/en-us/a2p-10dlc) [Short Codes](https://www.twilio.com/en-us/messaging/channels/sms/short-codes)
         
-    * Twilio Video logo
+    * [Twilio Video logo
         
         **Video**
         
-        Connect virtually with secure, high-quality video calling at global scale
-        
+        Connect virtually with secure, high-quality video calling at global scale](https://www.twilio.com/en-us/video)
     
     ##### Applications
     
@@ -353,6 +352,9 @@
         
         **Lookup**](https://www.twilio.com/en-us/lookup/pricing)
     * [**Serverless**](https://www.twilio.com/en-us/serverless/pricing)
+    * [Twilio Video logo
+        
+        **Video**](https://www.twilio.com/en-us/video/pricing)
     
     ##### Applications
     
@@ -430,12 +432,11 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         [Toll-Free](https://www.twilio.com/en-us/phone-numbers/toll-free) [10DLC](https://www.twilio.com/en-us/a2p-10dlc) [Short Codes](https://www.twilio.com/en-us/messaging/channels/sms/short-codes)
         
-    * Twilio Video logo
+    * [Twilio Video logo
         
         **Video**
         
-        Connect virtually with secure, high-quality video calling at global scale
-        
+        Connect virtually with secure, high-quality video calling at global scale](https://www.twilio.com/en-us/video)
     
     ##### Applications
     
@@ -713,6 +714,9 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         **Lookup**](https://www.twilio.com/en-us/lookup/pricing)
     * [**Serverless**](https://www.twilio.com/en-us/serverless/pricing)
+    * [Twilio Video logo
+        
+        **Video**](https://www.twilio.com/en-us/video/pricing)
     
     ##### Applications
     
@@ -1589,6 +1593,7 @@ We can't wait to see what you build.
 * [Lookup](https://www.twilio.com/en-us/user-authentication-identity/lookup)
 * [Verify](https://www.twilio.com/en-us/user-authentication-identity/verify)
 * [Voice](https://www.twilio.com/en-us/voice)
+* [Video](https://www.twilio.com/en-us/video)
 * [Messaging](https://www.twilio.com/en-us/messaging)
 * [Beta products and features](https://www.twilio.com/en-us/products/beta)
 * [All products](https://www.twilio.com/en-us/products#all-products)
