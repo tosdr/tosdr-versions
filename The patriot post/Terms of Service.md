@@ -191,13 +191,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111239-the-post-interview-glow-2024-10-21)
+     [](https://patriotpost.us/memes/111256-fries-or-lysteria-2024-10-21)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34391)
+     [](https://patriotpost.us/cartoons/34392)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -209,8 +209,8 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Gary Bauer Tip of the Spear](https://patriotpost.us/opinion/111223-tip-of-the-spear-2024-10-21)
 *      [The Washington Stand Biblical Counsel for the Indecisive](https://patriotpost.us/opinion/111234-biblical-counsel-for-the-indecisive-2024-10-21)
 *      [The Babylon Bee Trump Promises to Bring Back the Good Happy Meal Toys](https://patriotpost.us/opinion/111224-trump-promises-to-bring-back-the-good-happy-meal-toys-2024-10-21)
+*      [Guest Commentary Intended or Not, Evil Is Still Evil](https://patriotpost.us/opinion/111247-intended-or-not-evil-is-still-evil-2024-10-21)
 *      [Matthew Continetti America Is Moving Right. But for How Long?](https://patriotpost.us/opinion/111211-america-is-moving-right-but-for-how-long-2024-10-19)
-*      [Mark Alexander Memo to Harris: Violent Crime Did NOT Decline](https://patriotpost.us/alexander/111195-memo-to-harris-violent-crime-did-not-decline-2024-10-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,7 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
