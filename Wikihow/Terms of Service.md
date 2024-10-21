@@ -390,24 +390,25 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Deal with Braces](https://www.wikihow.com/images/thumb/3/37/Deal-with-Braces-Step-13-Version-5.jpg/-crop-126-120-126px-Deal-with-Braces-Step-13-Version-5.jpg)
+
+How to  
+Deal with Braces](https://www.wikihow.com/Deal-with-Braces)
+
+[![Win an I Love You More Argument](https://www.wikihow.com/images/thumb/3/3c/Win-an-I-Love-You-More-Argument-Step-11.jpg/-crop-126-120-126px-Win-an-I-Love-You-More-Argument-Step-11.jpg)
+
+How to  
+Win an "I Love You More" Argument](https://www.wikihow.com/Win-an-I-Love-You-More-Argument)
+
+[![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
+
+How to  
+Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
+
 [![Deal With Rumors](https://www.wikihow.com/images/thumb/f/fc/Deal-With-Rumors-Step-10-Version-2.jpg/-crop-126-120-126px-Deal-With-Rumors-Step-10-Version-2.jpg)
 
 How to  
 Deal With Rumors](https://www.wikihow.com/Deal-With-Rumors)
-
-[![Ask for a Fade Haircut](https://www.wikihow.com/images/thumb/5/56/Ask-for-a-Fade-Haircut-Step-11.jpg/-crop-126-120-126px-Ask-for-a-Fade-Haircut-Step-11.jpg)
-
-How to  
-Get a Fade that Complements Your Style, Hair Type & More](https://www.wikihow.com/Ask-for-a-Fade-Haircut)
-
-[![Start a Business As a Teenager](https://www.wikihow.com/images/thumb/4/4f/Start-a-Business-As-a-Teenager-Step-12-Version-2.jpg/-crop-126-120-126px-Start-a-Business-As-a-Teenager-Step-12-Version-2.jpg)
-
-How to  
-Start a Business As a Teenager](https://www.wikihow.com/Start-a-Business-As-a-Teenager)
-
-[![What Animal Am I](https://www.wikihow.com/images/thumb/b/ba/What_animal_are_you_quiz.png/-crop-126-120-126px-What_animal_are_you_quiz.png)
-
-What Animal Am I Quiz](https://www.wikihow.com/What-Animal-Am-I)
 
   
 
@@ -450,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-182
+205
