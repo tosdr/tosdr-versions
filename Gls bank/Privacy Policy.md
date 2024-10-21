@@ -341,6 +341,9 @@ Barrierearmut
 
 [Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
 
+Datenschutz
+===========
+
 Die Datenschutzerklärung der GLS Gemeinschaftsbank eG
 =====================================================
 
