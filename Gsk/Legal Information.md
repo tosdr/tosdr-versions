@@ -51,6 +51,7 @@ Location
         * [Shingles (Herpes Zoster)](https://us.gsk.com/en-us/company/vaccines/shingles-herpes-zoster/)
         
     * [HIV](https://us.gsk.com/en-us/company/hiv/)
+    * [Anti-infective](https://us.gsk.com/en-us/company/anti-infective/)
     
     [Spotlight on Global Outstanding people ![Two people walking in an office](/media/11676/20250115-extra-6-phl-small.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Spotlight on Global policy positions ![An employee attending an online meeting](/media/11524/20250115-extra-14-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
     
