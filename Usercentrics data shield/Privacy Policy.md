@@ -9,7 +9,7 @@
 
 * EN
 
-* ![](http://www.usercentrics-datashield.com/wp-content/plugins/polylang/flags/de.png) [Deutsch](https://www.usercentrics-datashield.com/de/datenschutzerklarung/)
+* ![](https://www.usercentrics-datashield.com/wp-content/plugins/polylang/flags/de.png) [Deutsch](https://www.usercentrics-datashield.com/de/datenschutzerklarung/)
 
 We support the following browsers
 ---------------------------------
