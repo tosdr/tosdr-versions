@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-shooting-modern-woodmen-park-two-injured/526-bd58ea80-c4eb-49da-8677-b310bc215f44)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [2 people shot in Davenport while driving vehicle](https://www.wqad.com/article/news/crime/davenport-shooting-modern-woodmen-park-two-injured/526-bd58ea80-c4eb-49da-8677-b310bc215f44)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_360x203.jpg)](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e6f72292-367b-496b-81d6-6618bc57957b/20241017T213811/e6f72292-367b-496b-81d6-6618bc57957b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e6f72292-367b-496b-81d6-6618bc57957b/20241017T213811/e6f72292-367b-496b-81d6-6618bc57957b_360x203.jpg)](https://www.wqad.com/article/news/local/beyond-the-badge-davenport-detective-lucas-rusk/526-9540d6e8-d0cc-4785-ac4b-879fde8c795f)
         
-        #### [QC nonprofit faces setbacks after lumber theft](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
+        #### ['He's always there' | How this Davenport detective goes 'Beyond the Badge' to help his community](https://www.wqad.com/article/news/local/beyond-the-badge-davenport-detective-lucas-rusk/526-9540d6e8-d0cc-4785-ac4b-879fde8c795f)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/191735a6-e25a-4af5-b059-8525012175e5/20241020T225609/191735a6-e25a-4af5-b059-8525012175e5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/191735a6-e25a-4af5-b059-8525012175e5/20241020T225609/191735a6-e25a-4af5-b059-8525012175e5_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c12fbfd7-afec-4946-94a9-d3ff7d3b2029/20241021T121208/c12fbfd7-afec-4946-94a9-d3ff7d3b2029_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c12fbfd7-afec-4946-94a9-d3ff7d3b2029/20241021T121208/c12fbfd7-afec-4946-94a9-d3ff7d3b2029_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Another warm day to start the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Near-record warmth likely Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-50°
+73°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
