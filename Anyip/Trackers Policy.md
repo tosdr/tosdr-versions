@@ -114,4 +114,4 @@ You hereby acknowledge that you have read this Cookies Policy and agree to all i
 MORE INFORMATION
 ----------------
 
-We trust that you have gained clarity concerning our use of cookies. For further information about our cookies policy, please email us at [\[email protected\]](https://anyip.io/cdn-cgi/l/email-protection).
+We trust that you have gained clarity concerning our use of cookies. For further information about our cookies policy, please email us at [contact@anyip.io](mailto:contact@anyip.io).
