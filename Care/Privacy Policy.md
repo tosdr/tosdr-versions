@@ -21,7 +21,6 @@ Close
         
     * [Leading with Care](https://www.care.com/about/blog/)
     * [Careers](https://www.care.com/careers)
-    * [DE&I](https://www.care.com/about/dei/)
     * [Care.org](#)
 
 [Log in](https://www.care.com/vis/visitor/login?qna=true)
@@ -38,7 +37,6 @@ Close
     * [Media Contacts](https://www.care.com/about/contact-us/)
 * [Leading with Care](https://www.care.com/about/blog/)
 * [Careers](https://www.care.com/careers)
-* [DE&I](https://www.care.com/about/dei/)
 * [Care.org](#)
 
 Care.org
