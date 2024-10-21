@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-Make sure you're familiar with the forum rules. You can [find them here](https://www.thefurryforum.com/forums/index.php?page=rules).
+[Donations](https://www.thefurryforum.com/forums/index.php?action=treasury) keep our forum going! You get some nifty [perks](https://www.thefurryforum.com/forums/index.php?topic=15189.0) with it too!
 
   
   
 
-[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
+[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
 
   
 
