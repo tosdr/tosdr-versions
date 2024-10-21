@@ -1202,7 +1202,7 @@ These Terms of Use and any document expressly referred to in them represent the 
 
 Effective: June 4, 2024
 
-Discover More [All Programs](https://www.wondrium.com/allprograms?CFM=footer)[My Purchases](https://www.wondrium.com/customer/account/purchases?CFM=footer) [Apps](https://www.wondrium.com/apps?CFM=footer) [About Us](https://www.wondrium.com/about-us?CFM=footer) [Careers](https://recruiting.ultipro.com/TEA1007/JobBoard/12b1eb65-0740-4bd4-8d28-674cb5059f65/?q=&o=postedDateDesc) [Affiliates](https://www.wondrium.com/affiliates?CFM=footer&type=dm)
+Discover More [All Programs](https://www.wondrium.com/allprograms?CFM=footer)[My Purchases](https://www.wondrium.com/customer/account/purchases?CFM=footer) [Apps](https://www.wondrium.com/apps?CFM=footer) [TGC Journeys](https://www.thegreatcoursesjourneys.com/?utm_source=Plus&utm_medium=Web&utm_campaign=6000) [About Us](https://www.wondrium.com/about-us?CFM=footer) [Careers](https://recruiting.ultipro.com/TEA1007/JobBoard/12b1eb65-0740-4bd4-8d28-674cb5059f65/?q=&o=postedDateDesc) [Affiliates](https://www.wondrium.com/affiliates?CFM=footer&type=dm)
 
 Help
 
@@ -1219,7 +1219,7 @@ Connect With Us Choose your favorite way to follow us to get our latest deals, n
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
-Discover More [All Programs](https://www.wondrium.com/allprograms?CFM=footer)[My Purchases](https://www.wondrium.com/customer/account/purchases?CFM=footer) [Apps](https://www.wondrium.com/apps?CFM=footer) [About Us](https://www.wondrium.com/about-us?CFM=footer) [Careers](https://recruiting.ultipro.com/TEA1007/JobBoard/12b1eb65-0740-4bd4-8d28-674cb5059f65/?q=&o=postedDateDesc) [Affiliates](https://www.wondrium.com/affiliates?CFM=footer&type=dm)
+Discover More [All Programs](https://www.wondrium.com/allprograms?CFM=footer)[My Purchases](https://www.wondrium.com/customer/account/purchases?CFM=footer) [Apps](https://www.wondrium.com/apps?CFM=footer) [TGC Journeys](https://www.thegreatcoursesjourneys.com/?utm_source=Plus&utm_medium=Web&utm_campaign=6000) [About Us](https://www.wondrium.com/about-us?CFM=footer)[Careers](https://recruiting.ultipro.com/TEA1007/JobBoard/12b1eb65-0740-4bd4-8d28-674cb5059f65/?q=&o=postedDateDesc) [Affiliates](https://www.wondrium.com/affiliates?CFM=footer&type=dm)
 
 Help
 
