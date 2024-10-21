@@ -144,7 +144,7 @@ Back to the [Debian Project homepage](https://www.debian.org/).
 
 This page is also available in the following languages:
 
-[dansk](https://www.debian.org/legal/privacy.da.html "Danish") [español](https://www.debian.org/legal/privacy.es.html "Spanish") [français](https://www.debian.org/legal/privacy.fr.html "French") [Italiano](https://www.debian.org/legal/privacy.it.html "Italian") [한국어 (Korean)](https://www.debian.org/legal/privacy.ko.html "Korean") [Nederlands](https://www.debian.org/legal/privacy.nl.html "Dutch") [Português](https://www.debian.org/legal/privacy.pt.html "Portuguese") [Русский (Russkij)](https://www.debian.org/legal/privacy.ru.html "Russian")
+Select your language dansk español français Italiano Nederlands Português Русский (Russkij) 한국어 (Korean)
 
 How to set [the default document language](https://www.debian.org/intro/cn)
 
@@ -187,6 +187,6 @@ How to set [the default document language](https://www.debian.org/intro/cn)
 
 See our [contact page](https://www.debian.org/contact) to get in touch. Web site source code is [available](https://salsa.debian.org/webmaster-team/webwml).
 
-Last Modified: Tue, Feb 13 13:41:50 UTC 2024   Last Built: Tue, Sep 24 15:47:16 UTC 2024  
+Last Modified: Tue, Feb 13 13:41:50 UTC 2024   Last Built: Mon, Oct 21 11:49:44 UTC 2024  
 Copyright © 1997-2024 [SPI](https://www.spi-inc.org/) and others; See [license terms](https://www.debian.org/license)  
 Debian is a registered [trademark](https://www.debian.org/trademark) of Software in the Public Interest, Inc.
