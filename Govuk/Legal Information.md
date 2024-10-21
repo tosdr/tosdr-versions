@@ -95,7 +95,7 @@ If you follow a link to a service provided by another government department, age
 * be responsible for processing any data you share with them
 * publish and manage their own privacy notice with details of how to contact them
 
-### Example
+###Example
 
 If you make a claim for Universal Credit [www.universal-credit.service.gov.uk](https://www.universal-credit.service.gov.uk/postcode-checker), the Department for Work and Pensions will be the responsible controller. The service’s own [privacy notice](https://www.universal-credit.service.gov.uk/privacypolicy) will apply.
 
@@ -280,7 +280,7 @@ Textphone: 01625 545860
 Monday to Friday, 9am to 4:30pm  
 [Find out about call charges](https://www.gov.uk/call-charges)
 
-Information Commissioner's Office  
+Information Commissioner’s Office  
 Wycliffe House  
 Water Lane  
 Wilmslow  
