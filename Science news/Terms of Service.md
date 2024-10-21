@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Environment](https://www.sciencenews.org/topic/environment)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Science has finally cracked male riflebirds’ flirty secrets](https://www.sciencenews.org/article/male-riflebirds-secrets)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")6 hours ago
+            
+        * [Environment](https://www.sciencenews.org/topic/environment)
             
             ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
             
             By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")October 17, 2024
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [Here are some stellar picks from Nikon’s top microscopy images of 2024](https://www.sciencenews.org/article/2024-nikon-small-world-photography)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")October 17, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
