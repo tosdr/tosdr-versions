@@ -1,9 +1,5 @@
 [Skip to main content](#main)
 
-Top Boots & Sneakers for Fall 2024. [Shop Our Favorites](https://www.zappos.com/c/fall-footwear-picks-for-2024)
-
-Keep Those Feet Warm & Cozy. [Shop Fuzzy Crocs](https://www.zappos.com/c/crocs-fuzzy-edition-2024)
-
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
 Search for shoes, clothes, etc.Search
