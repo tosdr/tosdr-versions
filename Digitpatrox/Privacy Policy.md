@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Sunday, October 20 2024
+Monday, October 21 2024
 
 Latest
 
-* [Amazon’s early Black Friday sales on Carhartt start now — 11 deals on jackets, work boots, and more from $7](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
-* [Severe flaws in E2EE cloud storage platforms used by millions](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
-* [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
-* [Alien: Romulus will get a limited-edition VHS release](https://digitpatrox.com/alien-romulus-will-get-a-limited-edition-vhs-release/)
-* [Honkai Star Rail 2.6 Maintenance: Start and End Time](https://digitpatrox.com/honkai-star-rail-2-6-maintenance-start-and-end-time/)
-* [These Halloween Contacts Can Cause Eye Infections](https://digitpatrox.com/these-halloween-contacts-can-cause-eye-infections/)
-* [Should You Top Off Your Car’s Gas Tank?](https://digitpatrox.com/should-you-top-off-your-cars-gas-tank/)
-* [The Best Robot Vacuums of 2024](https://digitpatrox.com/the-best-robot-vacuums-of-2024/)
-* [Antidepressants used to help me sleep, now I rely on these 3 things instead](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
-* [iPad Mini and Kindle Colorsoft are reading gadgets worth upgrading for](https://digitpatrox.com/ipad-mini-and-kindle-colorsoft-are-reading-gadgets-worth-upgrading-for/)
+* [How to Grow Tulips and Other Spring Flowers Indoors This Winter](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
+* [Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
+* [How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
+* [NYT Strands today — hints, spangram and answers for game #232 (Monday, October 21 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
+* [Internet Archive breached again through stolen access tokens](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
+* [Michelle Yeoh’s Star Trek spy movie has a release date](https://digitpatrox.com/michelle-yeohs-star-trek-spy-movie-has-a-release-date/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 21](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-21/)
+* [How to Find Your X/Twitter Followers on Bluesky](https://digitpatrox.com/how-to-find-your-x-twitter-followers-on-bluesky/)
+* [Pros and Cons of Induction Cooktops and Ranges](https://digitpatrox.com/pros-and-cons-of-induction-cooktops-and-ranges/)
+* [15 Games Every Horror Fan Should Be Playing This Halloween](https://digitpatrox.com/15-games-every-horror-fan-should-be-playing-this-halloween/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/jVNRCzis9Cuz67XkAC4WYN-1200-80.jpg)](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
+* [![](https://lifehacker.com/imagery/articles/01JAFCK60WERD2ZBGQWHJKJSMV/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
     
-    [Amazon’s early Black Friday sales on Carhartt start now — 11 deals on jackets, work boots, and more from $7](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
+    [How to Grow Tulips and Other Spring Flowers Indoors This Winter](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
     
-    1 hour ago
+    20 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/01/17/cloud.jpg)](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729196893/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Infant-Support-Cushions-1024)](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
     
-    [Severe flaws in E2EE cloud storage platforms used by millions](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+    [Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
     
-    2 hours ago
+    51 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/QhpqwwFW4VSWfH3Ipykjjmr-Vp8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952316/HT016_macOS_00010.jpg)](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-excel-spreadsheet-in-the-background-with-the-excel-logo-in-front.jpg)](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
     
-    [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
+    [How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
     
-    2 hours ago
+    54 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/6i9DkJBlL6JmcZSXoFkoF1bnxCE=/0x0:1300x730/1200x628/filters:focal(650x365:651x366)/cdn.vox-cdn.com/uploads/chorus_asset/file/25689729/g_alienromulus_3216_5_3d7ca4d9.jpeg)](https://digitpatrox.com/alien-romulus-will-get-a-limited-edition-vhs-release/)
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
     
-    [Alien: Romulus will get a limited-edition VHS release](https://digitpatrox.com/alien-romulus-will-get-a-limited-edition-vhs-release/)
-    
-    2 hours ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/10/HSR-2.6-Maintenance-time.png?w=1024)](https://digitpatrox.com/honkai-star-rail-2-6-maintenance-start-and-end-time/)
-    
-    [Honkai Star Rail 2.6 Maintenance: Start and End Time](https://digitpatrox.com/honkai-star-rail-2-6-maintenance-start-and-end-time/)
+    [NYT Strands today — hints, spangram and answers for game #232 (Monday, October 21 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
     
     2 hours ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/09/internet-archive.jpg)](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
+    
+    [Internet Archive breached again through stolen access tokens](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 hour ago
+* [20 mins ago
     
-    ### Amazon’s early Black Friday sales on Carhartt start now — 11 deals on jackets, work boots, and more from $7](https://digitpatrox.com/amazons-early-black-friday-sales-on-carhartt-start-now-11-deals-on-jackets-work-boots-and-more-from-7/)
-* [2 hours ago
+    ### How to Grow Tulips and Other Spring Flowers Indoors This Winter](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
+* [51 mins ago
     
-    ### Severe flaws in E2EE cloud storage platforms used by millions](https://digitpatrox.com/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
-* [2 hours ago
+    ### Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
+* [54 mins ago
     
-    ### Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://digitpatrox.com/apples-macos-sequoia-lets-you-snap-windows-into-position-heres-how/)
+    ### How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
 
 Most Popular Topics
 
-* [August 21, 2024
+* [August 27, 2024
     
-    ### Save 50% on Paramount+ with This Hidden Deal](https://digitpatrox.com/save-50-on-paramount-with-this-hidden-deal/)
-* [2 days ago
+    ### SpaceX’s Polaris Dawn mission: why it matters and how to watch the launch](https://digitpatrox.com/spacexs-polaris-dawn-mission-why-it-matters-and-how-to-watch-the-launch/)
+* [September 4, 2024
     
-    ### How to sell cyber security without the FUD](https://digitpatrox.com/how-to-sell-cyber-security-without-the-fud/)
-* [2 weeks ago
+    ### Concord Players Make a Mad Dash for Platinum Before the Game Dies](https://digitpatrox.com/concord-players-make-a-mad-dash-for-platinum-before-the-game-dies/)
+* [4 weeks ago
     
-    ### Chevy’s cheapest Silverado EV now starts at $57,095](https://digitpatrox.com/chevys-cheapest-silverado-ev-now-starts-at-57095/)
+    ### How to enable Hibernate on Windows 11](https://digitpatrox.com/how-to-enable-hibernate-on-windows-11/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### NYT Strands Today: Hints, Answers & Spangram for October 21](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-21/)
 * [5 hours ago
     
-    ### Should You Top Off Your Car’s Gas Tank?](https://digitpatrox.com/should-you-top-off-your-cars-gas-tank/)
-* [5 hours ago
-    
-    ### The Best Robot Vacuums of 2024](https://digitpatrox.com/the-best-robot-vacuums-of-2024/)
+    ### How to Find Your X/Twitter Followers on Bluesky](https://digitpatrox.com/how-to-find-your-x-twitter-followers-on-bluesky/)
 * [6 hours ago
     
-    ### Antidepressants used to help me sleep, now I rely on these 3 things instead](https://digitpatrox.com/antidepressants-used-to-help-me-sleep-now-i-rely-on-these-3-things-instead/)
+    ### Pros and Cons of Induction Cooktops and Ranges](https://digitpatrox.com/pros-and-cons-of-induction-cooktops-and-ranges/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
