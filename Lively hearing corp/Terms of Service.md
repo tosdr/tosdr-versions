@@ -12,15 +12,13 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 19h : 11m**](https://www.listenlively.com/product)
+[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 13h : 7m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -124,7 +122,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3852 reviews)
+4.6 out of 5(3858 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -174,7 +172,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3852 reviews)
+4.6 out of 5(3858 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
