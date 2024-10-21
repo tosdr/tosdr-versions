@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Hurricane-Relief Camp in Western North Carolina Draws Volunteers From Around the Country](https://www.theepochtimes.com/us/hurricane-relief-camp-in-western-north-carolina-draws-volunteers-from-around-the-country-5744769)
+* [China Is Conducting ‘Problematic’ Research in Arctic, US Lawmakers Warn](https://www.theepochtimes.com/china/china-is-conducting-problematic-research-in-arctic-us-lawmakers-warn-5744698)
     
-    NEW By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    NEW By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
-    [![Hurricane-Relief Camp in Western North Carolina Draws Volunteers From Around the Country](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China Is Conducting ‘Problematic’ Research in Arctic, US Lawmakers Warn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hurricane-Relief Camp in Western North Carolina Draws Volunteers From Around the Country](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744783-nccamp2-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-relief-camp-in-western-north-carolina-draws-volunteers-from-around-the-country-5744769)
-* [Good Samaritan Offers Help, Hope to San Francisco’s Homeless, Drug-Addicted](https://www.theepochtimes.com/us/good-samaritan-offers-help-hope-to-san-franciscos-homeless-drug-addicted-5737376)
+    ![China Is Conducting ‘Problematic’ Research in Arctic, US Lawmakers Warn](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729905-09252024-DSC00992-Moolenaar-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-is-conducting-problematic-research-in-arctic-us-lawmakers-warn-5744698)
+* [Supreme Court Will Hear Oklahoma Challenge Over EPA ‘Good Neighbor’ Smog Rule](https://www.theepochtimes.com/us/supreme-court-will-hear-oklahoma-challenge-over-epas-good-neighbor-smog-rule-5745008)
     
-    NEW By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Good Samaritan Offers Help, Hope to San Francisco’s Homeless, Drug-Addicted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Will Hear Oklahoma Challenge Over EPA ‘Good Neighbor’ Smog Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Good Samaritan Offers Help, Hope to San Francisco’s Homeless, Drug-Addicted](https://img.theepochtimes.com/assets/uploads/2023/07/11/id5387212-SF-FENT-JJ-1_JF_02232023-205x123.jpg.webp)](https://www.theepochtimes.com/us/good-samaritan-offers-help-hope-to-san-franciscos-homeless-drug-addicted-5737376)
-* [Trump Says He ‘Wouldn’t Have To’ Use Military Force Against China’s Blockade of Taiwan](https://www.theepochtimes.com/us/trump-says-he-wouldnt-have-to-use-military-force-if-ccp-blockades-taiwan-5744562)
+    ![Supreme Court Will Hear Oklahoma Challenge Over EPA ‘Good Neighbor’ Smog Rule](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737043-10072024-DSC03091-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-will-hear-oklahoma-challenge-over-epas-good-neighbor-smog-rule-5745008)
+* [US, Canada Navies Sail Through Taiwan Strait After China War Games Encircled Taiwan](https://www.theepochtimes.com/china/us-canada-navies-sail-through-taiwan-strait-after-china-war-games-encircled-taiwan-5745017)
     
-    6hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    1hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Trump Says He ‘Wouldn’t Have To’ Use Military Force Against China’s Blockade of Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US, Canada Navies Sail Through Taiwan Strait After China War Games Encircled Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Says He ‘Wouldn’t Have To’ Use Military Force Against China’s Blockade of Taiwan](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744699-GettyImages-2177863703-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-wouldnt-have-to-use-military-force-if-ccp-blockades-taiwan-5744562)
-* [New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://www.theepochtimes.com/sports/new-york-liberty-win-first-wnba-championship-beating-minnesota-67-62-post-5744775)
+    ![US, Canada Navies Sail Through Taiwan Strait After China War Games Encircled Taiwan](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745019-GettyImages-1250841870-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-canada-navies-sail-through-taiwan-strait-after-china-war-games-encircled-taiwan-5745017)
+* [Behind the Shift in Voting Patterns by Young Black Men](https://www.theepochtimes.com/us/behind-the-surprising-trend-of-young-black-men-backing-trump-5744779)
     
-    7hr By [The Associated Press](https://www.theepochtimes.com/author/associated-press)
+    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
-    [![New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Behind the Shift in Voting Patterns by Young Black Men](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744780-New-York-Liberty-AP24295054282481-205x123.jpg.webp)](https://www.theepochtimes.com/sports/new-york-liberty-win-first-wnba-championship-beating-minnesota-67-62-post-5744775)
-* [Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://www.theepochtimes.com/world/hostage-families-say-its-time-for-a-deal-to-free-their-loved-ones-5744663)
+    ![Behind the Shift in Voting Patterns by Young Black Men](https://img.theepochtimes.com/assets/uploads/2024/04/22/id5634822-blacks-for-trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/behind-the-surprising-trend-of-young-black-men-backing-trump-5744779)
+* [US House Task Force Finds 1st Trump Assassination Attempt Was ‘Preventable’](https://www.theepochtimes.com/us/us-house-task-force-releases-scathing-report-on-1st-trump-assassination-attempt-5744940)
     
-    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US House Task Force Finds 1st Trump Assassination Attempt Was ‘Preventable’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744693-itay-chen-with-family-e1729470558550-205x123.jpg.webp)](https://www.theepochtimes.com/world/hostage-families-say-its-time-for-a-deal-to-free-their-loved-ones-5744663)
-* [Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://www.theepochtimes.com/us/former-homeless-addict-finds-forgiveness-recovery-redemption-5743989)
+    ![US House Task Force Finds 1st Trump Assassination Attempt Was ‘Preventable’](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686261-APTOPIX_Election_2024_Trump_24195849934046KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-house-task-force-releases-scathing-report-on-1st-trump-assassination-attempt-5744940)
+* [Oklahoma Bank Shut Down by Regulator in 2nd Bank Failure of the Year](https://www.theepochtimes.com/us/oklahoma-bank-shut-down-by-regulator-in-2nd-bank-failure-of-the-year-5744933)
     
-    8hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Oklahoma Bank Shut Down by Regulator in 2nd Bank Failure of the Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744728-Brett-Bowman-3_JF_03112023-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-homeless-addict-finds-forgiveness-recovery-redemption-5743989)
-* [Israel Army Urges Lebanese to Evacuate Locations as It Targets Hezbollah’s Financial Arm](https://www.theepochtimes.com/world/israel-says-it-will-target-hezbollahs-financial-arm-and-begins-striking-beirut-5744705)
+    ![Oklahoma Bank Shut Down by Regulator in 2nd Bank Failure of the Year](https://img.theepochtimes.com/assets/uploads/2024/01/17/id5567789-CP166726113-205x123.jpg.webp)](https://www.theepochtimes.com/us/oklahoma-bank-shut-down-by-regulator-in-2nd-bank-failure-of-the-year-5744933)
+* [Key Boeing Supplier Furloughs About 700 Workers](https://www.theepochtimes.com/us/key-boeing-supplier-furloughs-about-700-workers-5744599)
     
-    11hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Israel Army Urges Lebanese to Evacuate Locations as It Targets Hezbollah’s Financial Arm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Key Boeing Supplier Furloughs About 700 Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Army Urges Lebanese to Evacuate Locations as It Targets Hezbollah’s Financial Arm](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744716-Israel-strike-AP24294754460742-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-it-will-target-hezbollahs-financial-arm-and-begins-striking-beirut-5744705)
-* [Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://www.theepochtimes.com/us/elon-musk-offers-1-million-every-day-for-voters-who-sign-petition-prompting-governors-warning-5744695)
+    ![Key Boeing Supplier Furloughs About 700 Workers](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738501-1.tagreuters.com2024binary_LYNXMPEK9801S-FILEDIMAGEKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-boeing-supplier-furloughs-about-700-workers-5744599)
+* [‘60 Minutes’ Refutes Trump’s Claim That It Deceitfully Edited Harris Interview](https://www.theepochtimes.com/us/60-minutes-refutes-trumps-claim-that-it-deceitfully-edited-harris-interview-5744835)
     
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![‘60 Minutes’ Refutes Trump’s Claim That It Deceitfully Edited Harris Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744720-Elon-Musk-GettyImages-2179031007-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-offers-1-million-every-day-for-voters-who-sign-petition-prompting-governors-warning-5744695)
-* [Harris Downplays Polls Showing Diminishing Support From Male Voters](https://www.theepochtimes.com/us/harris-downplays-polls-showing-diminishing-support-from-male-voters-5744654)
+    ![‘60 Minutes’ Refutes Trump’s Claim That It Deceitfully Edited Harris Interview](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744992-GettyImages-2177863703-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/60-minutes-refutes-trumps-claim-that-it-deceitfully-edited-harris-interview-5744835)
+* [House Committee Chairs Criticize Harvard Over Handling of Anti-CCP Protest Incident](https://www.theepochtimes.com/us/house-committee-chairs-criticize-harvard-over-handling-of-anti-ccp-protest-incident-5744567)
     
-    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![Harris Downplays Polls Showing Diminishing Support From Male Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Committee Chairs Criticize Harvard Over Handling of Anti-CCP Protest Incident](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Downplays Polls Showing Diminishing Support From Male Voters](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744141-GettyImages-2178435314-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-downplays-polls-showing-diminishing-support-from-male-voters-5744654)
-* [Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://www.theepochtimes.com/us/trump-serves-food-at-pennsylvania-mcdonalds-as-harris-visits-churches-in-georgia-5744573)
+    ![House Committee Chairs Criticize Harvard Over Handling of Anti-CCP Protest Incident](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678966-DSC01434-2KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-committee-chairs-criticize-harvard-over-handling-of-anti-ccp-protest-incident-5744567)
+* [Michigan Secretary of State Expects Election Results to be Known the Day After Election Day](https://www.theepochtimes.com/us/michigan-secretary-of-state-expects-election-results-to-be-known-the-day-after-election-day-5744903)
     
-    13hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    5hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Michigan Secretary of State Expects Election Results to be Known the Day After Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744690-Harris-church-Trump-McDonalds-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-serves-food-at-pennsylvania-mcdonalds-as-harris-visits-churches-in-georgia-5744573)
+    ![Michigan Secretary of State Expects Election Results to be Known the Day After Election Day](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711304-Jocelyn-Benson.png.webp)](https://www.theepochtimes.com/us/michigan-secretary-of-state-expects-election-results-to-be-known-the-day-after-election-day-5744903)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
