@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/nasa-afwezigheid-zonnevlekken-kondigt-kleine-ijstijd-aan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/duitse-groenen-fraude-met-kerncentrale-data/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
