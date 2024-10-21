@@ -402,35 +402,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Navajo Code Talker John Kinsel passes away at age 107, Navajo Nation announces](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/kinsel_2011.jpg?ve=1&tl=1)
+ [![Collin County sex assault suspect may have more victims, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/detaron-fenley.png?ve=1&tl=1)
 
- ![Navajo Code Talker John Kinsel passes away at age 107, Navajo Nation announces](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/kinsel_2011.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/navajo-nation-code-talker-john-kinsel-passes-away-age-107)
+ ![Collin County sex assault suspect may have more victims, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/detaron-fenley.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/detaron-fenley-plano-sexual-assault-suspect)
 
-### [Navajo Code Talker John Kinsel passes away at age 107, Navajo Nation announces](https://www.fox4news.com/news/navajo-nation-code-talker-john-kinsel-passes-away-age-107)
+### [Collin County sex assault suspect may have more victims, police say](https://www.fox4news.com/news/detaron-fenley-plano-sexual-assault-suspect)
 
- [![Biden administration proposes making over-the-counter birth control free, including condoms](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1238713605.jpg?ve=1&tl=1)
+ [![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/helicopter-crash.jpg?ve=1&tl=1)
 
- ![Biden administration proposes making over-the-counter birth control free, including condoms](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1238713605.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/over-the-counter-birth-control-free-condoms-plan-b-proposed-rule)
+ ![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/helicopter-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
 
-### [Free condoms? Biden administration says health insurance should cover over-the-counter birth control](https://www.fox4news.com/news/over-the-counter-birth-control-free-condoms-plan-b-proposed-rule)
+### [Houston helicopter crash: 'Multiple fatalities' reported](https://www.fox4news.com/news/houston-helicopter-crash)
 
- [![Costco recalls several items amid listeria concerns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/cosco-getty.jpg?ve=1&tl=1)
+ [![Man killed his Lewisville co-worker because she took long breaks, report says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/travis-lee-merrill-denton-county-jail.png?ve=1&tl=1)
 
- ![Costco recalls several items amid listeria concerns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/cosco-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/costco-recall-items-listeria-concerns-october-2024)
+ ![Man killed his Lewisville co-worker because she took long breaks, report says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/travis-lee-merrill-denton-county-jail.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-workplace-shooting-travis-merrill-affidavit)
 
-### [Costco recalls several items amid listeria concerns](https://www.fox4news.com/news/costco-recall-items-listeria-concerns-october-2024)
+### [Man killed his Lewisville co-worker because she took long breaks, report says](https://www.fox4news.com/news/lewisville-workplace-shooting-travis-merrill-affidavit)
 
- [![State Fair of Texas 2024 closes with record-breaking attendance](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/State-Fair-of-Texas-2.jpg?ve=1&tl=1)
+ [![Texas death row inmate Robert Roberson doesn't testify Monday in 'shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
 
- ![State Fair of Texas 2024 closes with record-breaking attendance](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/State-Fair-of-Texas-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-2024-closes-record-breaking-attendance)
+ ![Texas death row inmate Robert Roberson doesn't testify Monday in 'shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-shaken-baby-syndrome-does-not-testify)
 
-### [State Fair of Texas 2024 closes with record-breaking attendance](https://www.fox4news.com/news/state-fair-texas-2024-closes-record-breaking-attendance)
+Live Now
 
- [![Man shot at Dallas corner store, found in car at apartment complex nearly a mile away](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dpd-shooting-audelia-rd-6a_00.00.08.22.jpg?ve=1&tl=1)
+### [Texas death row inmate Robert Roberson doesn't testify Monday in 'shaken baby syndrome' case](https://www.fox4news.com/news/robert-roberson-shaken-baby-syndrome-does-not-testify)
 
- ![Man shot at Dallas corner store, found in car at apartment complex nearly a mile away](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dpd-shooting-audelia-rd-6a_00.00.08.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-dallas-corner-store-found-car-apartment-complex-serious-condition)
+ [![39 years later: Which 'Back to the Future' tech predictions came true?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s_back-to-the-future-8a_00.00.16.36.jpg?ve=1&tl=1)
 
-### [Man shot at Dallas corner store, found in car at apartment complex nearly a mile away](https://www.fox4news.com/news/man-shot-dallas-corner-store-found-car-apartment-complex-serious-condition)
+ ![39 years later: Which 'Back to the Future' tech predictions came true?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s_back-to-the-future-8a_00.00.16.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/9-years-since-back-to-the-future-tech-gadgets)
+
+### [39 years later: Which 'Back to the Future' tech predictions came true?](https://www.fox4news.com/news/9-years-since-back-to-the-future-tech-gadgets)
 
 ###### [News](https://www.fox4news.com/news)
 
