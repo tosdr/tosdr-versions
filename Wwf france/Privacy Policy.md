@@ -40,9 +40,13 @@ La Fondation Fonds Mondial pour la Nature France (WWF France) en sa qualité de 
 ---------------
 
 **« Données à caractère personnel »** ou **« Données »** désigne toute information se rapportant à une personne physique identifiée ou identifiable. Est réputée être une « personne physique identifiable » une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des Données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale ;  
+  
 **« Données sensibles »** désigne les Données qui révèlent l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que le traitement des Données génétiques, des Données biométriques aux fins d'identifier une personne physique de manière unique, des Données concernant la santé ou des Données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique. La Fondation ne traite aucune donnée sensible;  
+  
 **« Responsable du traitement »** désigne la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui, seul ou conjointement avec d'autres, détermine les finalités et les moyens du traitement. En l’espèce il s’agit de la Fondation WWF France;  
+  
 **« Règlementation »** désigne le Règlement n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des Données à caractère personnel et à la libre circulation des Données (RGPD) et la Loi informatique et liberté n°78-17 du 6 janvier 1978 modifiée.  
+  
 **« Sites »** désigne tous les sites internet édités par WWF France.
 
 2 – Les Données que nous recueillons
@@ -53,15 +57,18 @@ Par l’intermédiaire de nos Sites internet, nous sommes susceptibles de recuei
 **2.1 – Les Données que nous recueillons à l’occasion de vos dons, de vos promesses, ou de votre inscription à un événement nécessitant une participation financière**
 
 Votre don est notre force et nous vous en remercions. Grâce à vous et aux milliers de personnes qui nous soutiennent, le WWF est l’une des premières organisations mondiales de protection de l’environnement.  
+  
 Afin de recevoir votre don, de vous envoyer votre reçu fiscal et de vous tenir au courant de l’utilisation faite de nos ressources, notamment celles provenant de la générosité publique, nous sommes amenés à traiter les Données suivantes :
 
 * Données d’identification : email, civilité, prénom, nom, adresse, date de naissance, numéro de téléphone ;
 * Données de paiement : RIB, numéro de carte bancaire, date d’expiration, cryptogramme visuel (Ces données sont traitées par des prestataires de paiement/sous-traitants mais ne sont pas conservées par le WWF ni par les sous-traitants).
 
  Lorsque vous vous inscrivez à un événement ou contribuer au financement d’un événement nous recueillons également les Données ci-dessus ainsi qu’une photographie si vous nous en fournissez une.  
+  
 Si vous nous transmettez des informations personnelles concernant un tiers, vous devrez lui fournir une copie de cette Politique. 
 
 **2.2 – Les Données que nous recueillons à l’occasion de votre inscription à notre newsletter ou de la signature d’une pétition**  
+  
 Lors de votre inscription à notre newsletter, nous recueillons les Données suivantes :
 
 * Nom ;
@@ -118,12 +125,14 @@ Peuvent être destinataires de vos Données :
 * les autres entités européennes du WWF
 
 En cas de réorganisation ou de restructuration, envisagées ou finalisées, certains auditeurs, conseillers, acquéreurs, pourraient également avoir accès à vos Données.  
+  
 Il peut également arriver que vos Données soient partagées avec d’autres associations. Vous pouvez vous y opposer selon la méthode visée à l’article 9.
 
 6 – Transferts de Données
 -------------------------
 
 WWF France ne transfère pas vos Données en dehors de l’Union européenne. Néanmoins, il est possible que ces dernières soient hébergées sur des serveurs situés en dehors de l’Union européenne.  
+  
 Dans ce cas, WWF France s’engage à prendre toutes les mesures nécessaires à la préservation de l’intégrité et de la sécurité de vos Données afin que ces dernières soient :
 
 * situées dans un Etat considéré comme adéquat par la Commission européenne ;
@@ -208,7 +217,9 @@ Partager cette page
 * [Gestion des cookies](#rgpd)
 
 66 % du montant de votre don au profit du WWF peut être déduit de votre impôt sur le revenu.  
+  
 Le Fonds Mondial pour la Nature France, dit WWF France est une Fondation reconnue d'utilité publique.  
+  
 Numéro d’enregistrement et SIREN : 302 518 667.
 
 * * *
