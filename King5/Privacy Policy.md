@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+    *  [![](https://media.king5.com/assets/KING/images/bf63c749-3e35-46a6-b017-9a95c7ff1dbb/20241021T174026/bf63c749-3e35-46a6-b017-9a95c7ff1dbb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf63c749-3e35-46a6-b017-9a95c7ff1dbb/20241021T174026/bf63c749-3e35-46a6-b017-9a95c7ff1dbb_360x203.jpg)](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
         
-        #### [3 of 4 Let's Go WA Initiatives face significant opposition headed into Nov. election: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        #### [Navy identifies 2 aviators killed in growler crash near Mount Rainier](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
         
-    *  [![](https://media.king5.com/assets/KHOU/images/f08dc8eb-c832-466f-a4cc-67a9c25bfae0/20241021T123619/f08dc8eb-c832-466f-a4cc-67a9c25bfae0_16x9.jpg) ![](https://media.king5.com/assets/KHOU/images/f08dc8eb-c832-466f-a4cc-67a9c25bfae0/20241021T123619/f08dc8eb-c832-466f-a4cc-67a9c25bfae0_360x203.jpg)](https://www.king5.com/article/news/local/helicopter-crash-fire-radio-tower-engelke-street-east-end/285-64f2ce28-2eeb-445d-b3cd-4de4c8b1c0a2)
+    *  [![](https://media.king5.com/assets/KING/images/438f935a-f781-4567-b168-8b6c4688e0ba/20241021T144402/438f935a-f781-4567-b168-8b6c4688e0ba_16x9.jpg) ![](https://media.king5.com/assets/KING/images/438f935a-f781-4567-b168-8b6c4688e0ba/20241021T144402/438f935a-f781-4567-b168-8b6c4688e0ba_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-lake-alice-homicides/281-596e4109-b25e-4317-a217-f3bde5cc016d)
         
-        #### [Helicopter crashes into Houston radio tower, killing 4, including child, officials say](https://www.king5.com/article/news/local/helicopter-crash-fire-radio-tower-engelke-street-east-end/285-64f2ce28-2eeb-445d-b3cd-4de4c8b1c0a2)
+        #### [‘Multiple school-age’ kids among victims in ‘tragic’ Fall City incident](https://www.king5.com/article/news/crime/fall-city-lake-alice-homicides/281-596e4109-b25e-4317-a217-f3bde5cc016d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c330da5c-ffed-4fe7-970e-4730ecb822bd/20241021T115700/c330da5c-ffed-4fe7-970e-4730ecb822bd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c330da5c-ffed-4fe7-970e-4730ecb822bd/20241021T115700/c330da5c-ffed-4fe7-970e-4730ecb822bd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d6c7436d-248e-4351-8fa9-9b75aac17980/20241021T193258/d6c7436d-248e-4351-8fa9-9b75aac17980_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d6c7436d-248e-4351-8fa9-9b75aac17980/20241021T193258/d6c7436d-248e-4351-8fa9-9b75aac17980_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
