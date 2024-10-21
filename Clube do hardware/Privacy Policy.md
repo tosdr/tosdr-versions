@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Levil](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/472938-levil/ "Ir ao perfil de Levil")
+    * [![yJpbrr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/images(2)(18).thumb.jpeg.07124b4b6655ce105844b9e834d330f8.jpeg)](https://www.clubedohardware.com.br/profile/1209004-yjpbrr/ "Ir ao perfil de yJpbrr")
         
         1
         
-        [Montagem de computador em torno de R$ 20.000 a R$ 25.000](https://www.clubedohardware.com.br/forums/topic/1700200-montagem-de-computador-em-torno-de-r-20000-a-r-25000/?do=getNewComment "Montagem de computador em torno de R$ 20.000 a R$ 25.000")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Levil](https://www.clubedohardware.com.br/profile/472938-levil/ "Ir ao perfil de Levil")  
-        53 minutos atrás
-        
-    * [![joaopaulofreire](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254451.thumb.png.d489552ce924bc65236520fa4577e30c.png)](https://www.clubedohardware.com.br/profile/1254451-joaopaulofreire/ "Ir ao perfil de joaopaulofreire")
-        
-        1
-        
-        [Placa de vídeo não dá imagem](https://www.clubedohardware.com.br/forums/topic/1700199-placa-de-v%C3%ADdeo-n%C3%A3o-d%C3%A1-imagem/?do=getNewComment "Placa de vídeo não dá imagem")
+        [Placa de Vídeo até uns R$ 1.600,00](https://www.clubedohardware.com.br/forums/topic/1700233-placa-de-v%C3%ADdeo-at%C3%A9-uns-r-160000/?do=getNewComment "Placa de Vídeo até uns R$ 1.600,00")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [joaopaulofreire](https://www.clubedohardware.com.br/profile/1254451-joaopaulofreire/ "Ir ao perfil de joaopaulofreire")  
-        55 minutos atrás
+        Por [yJpbrr](https://www.clubedohardware.com.br/profile/1209004-yjpbrr/ "Ir ao perfil de yJpbrr")  
+        8 minutos atrás
         
-    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
-        
-        2
-        
-        [Melhor configuração para jogos até R$ 3.000](https://www.clubedohardware.com.br/forums/topic/1700198-melhor-configura%C3%A7%C3%A3o-para-jogos-at%C3%A9-r-3000/?do=getNewComment "Melhor configuração para jogos até R$ 3.000")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
-        1 hora atrás
-        
-    * [![numbershotcar](https://www.clubedohardware.com.br/uploads/members/monthly_2022_05/b39a5e8b3e3db99d813cadb0eba8c658.thumb.jpg.f2489d61129a591df8f85703a88d66a9.jpg)](https://www.clubedohardware.com.br/profile/1087476-numbershotcar/ "Ir ao perfil de numbershotcar")
+    * [![copasbr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46281%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1233094-copasbr/ "Ir ao perfil de copasbr")
         
         3
         
-        [stuttering em alguns jogos](https://www.clubedohardware.com.br/forums/topic/1700197-stuttering-em-alguns-jogos/?do=getNewComment "stuttering em alguns jogos")
+        [Qual Processador utilizar com a GTX 1660](https://www.clubedohardware.com.br/forums/topic/1700232-qual-processador-utilizar-com-a-gtx-1660/?do=getNewComment "Qual Processador utilizar com a GTX 1660")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [numbershotcar](https://www.clubedohardware.com.br/profile/1087476-numbershotcar/ "Ir ao perfil de numbershotcar")  
-        1 hora atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [copasbr](https://www.clubedohardware.com.br/profile/1233094-copasbr/ "Ir ao perfil de copasbr")  
+        36 minutos atrás
         
-    * [![Rodrigo lima1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254817.thumb.jpeg.22d54e61d6cc5c00cef8b28b8bb450d5.jpeg)](https://www.clubedohardware.com.br/profile/1254817-rodrigo-lima1/ "Ir ao perfil de Rodrigo lima1")
+    * [![Mateus Dessen](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1200413.thumb.png.ebefb7e4c55de8c764a8aec4c304c43a.png)](https://www.clubedohardware.com.br/profile/1200413-mateus-dessen/ "Ir ao perfil de Mateus Dessen")
+        
+        0
+        
+        [Recomendação de placa de vídeo para PC com Ryzen 5 4650G](https://www.clubedohardware.com.br/forums/topic/1700231-recomenda%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-pc-com-ryzen-5-4650g/?do=getNewComment "Recomendação de placa de vídeo para PC com Ryzen 5 4650G")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Mateus Dessen](https://www.clubedohardware.com.br/profile/1200413-mateus-dessen/ "Ir ao perfil de Mateus Dessen")  
+        39 minutos atrás
+        
+    * [![Theusmh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253785.thumb.jpeg.0647a71dd027bf43f09fba95bc796827.jpeg)](https://www.clubedohardware.com.br/profile/1253785-theusmh/ "Ir ao perfil de Theusmh")
+        
+        0
+        
+        [b550m pro se ASRock suporta o Ryzen 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1700230-b550m-pro-se-asrock-suporta-o-ryzen-7-5700x3d/?do=getNewComment "b550m pro se ASRock suporta o Ryzen 7 5700x3d")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Theusmh](https://www.clubedohardware.com.br/profile/1253785-theusmh/ "Ir ao perfil de Theusmh")  
+        42 minutos atrás
+        
+    * [![Mikael Ribeiro](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236ec462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254838-mikael-ribeiro/ "Ir ao perfil de Mikael Ribeiro")
         
         1
         
-        [Monitor gamer 165hz até 240hz](https://www.clubedohardware.com.br/forums/topic/1700196-monitor-gamer-165hz-at%C3%A9-240hz/?do=getNewComment "Monitor gamer 165hz até 240hz")
+        [Recomendação de fonte para Ryzen 5 4600G + Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1700229-recomenda%C3%A7%C3%A3o-de-fonte-para-ryzen-5-4600g-radeon-rx-6600/?do=getNewComment "Recomendação de fonte para Ryzen 5 4600G + Radeon RX 6600")
         
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Rodrigo lima1](https://www.clubedohardware.com.br/profile/1254817-rodrigo-lima1/ "Ir ao perfil de Rodrigo lima1")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Mikael Ribeiro](https://www.clubedohardware.com.br/profile/1254838-mikael-ribeiro/ "Ir ao perfil de Mikael Ribeiro")  
         1 hora atrás
         
     * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
         
-        3
+        0
         
-        [Quais peças compro primeiro?](https://www.clubedohardware.com.br/forums/topic/1700195-quais-pe%C3%A7as-compro-primeiro/?do=getNewComment "Quais peças compro primeiro?")
+        [Compatibilidade pc de 1400.](https://www.clubedohardware.com.br/forums/topic/1700228-compatibilidade-pc-de-1400/?do=getNewComment "Compatibilidade pc de 1400.")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
-        2 horas atrás
+        1 hora atrás
         
-    * [![michael andre 18](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254626-michael-andre-18/ "Ir ao perfil de michael andre 18")
+    * [![Tentar](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c481%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/868712-tentar/ "Ir ao perfil de Tentar")
         
         0
         
-        [Existe algum produto tão bom quanto o Btv, mas mais barato?](https://www.clubedohardware.com.br/forums/topic/1700194-existe-algum-produto-t%C3%A3o-bom-quanto-o-btv-mas-mais-barato/?do=getNewComment "Existe algum produto tão bom quanto o Btv, mas mais barato?")
+        Excel [Operação Grande para inserir ou excluir](https://www.clubedohardware.com.br/forums/topic/1700227-opera%C3%A7%C3%A3o-grande-para-inserir-ou-excluir/?do=getNewComment "Operação Grande para inserir ou excluir")
         
-        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
-        Por [michael andre 18](https://www.clubedohardware.com.br/profile/1254626-michael-andre-18/ "Ir ao perfil de michael andre 18")  
-        3 horas atrás
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Tentar](https://www.clubedohardware.com.br/profile/868712-tentar/ "Ir ao perfil de Tentar")  
+        1 hora atrás
         
-    * [![vero1](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254815-vero1/ "Ir ao perfil de vero1")
+    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
         
         1
         
-        [Após ativar segure boot pc parou de dar Vídeo](https://www.clubedohardware.com.br/forums/topic/1700193-ap%C3%B3s-ativar-segure-boot-pc-parou-de-dar-v%C3%ADdeo/?do=getNewComment "Após ativar segure boot pc parou de dar Vídeo")
+        [Significado da frequência das saídas de Vídeo da placa-mãe.](https://www.clubedohardware.com.br/forums/topic/1700226-significado-da-frequ%C3%AAncia-das-sa%C3%ADdas-de-v%C3%ADdeo-da-placa-m%C3%A3e/?do=getNewComment "Significado da frequência das saídas de Vídeo da placa-mãe.")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [vero1](https://www.clubedohardware.com.br/profile/1254815-vero1/ "Ir ao perfil de vero1")  
-        3 horas atrás
+        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
+        1 hora atrás
         
-    * [![9nkn0wn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254554.thumb.png.174ec0abb9eef5dc66456e982dbbbc70.png)](https://www.clubedohardware.com.br/profile/1254554-9nkn0wn/ "Ir ao perfil de 9nkn0wn")
+    * [![RAFAELYUNES](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254835.thumb.jpeg.fb99c0074c94ebf711fba8e7958d09d2.jpeg)](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")
         
         1
         
-        [Controlar Display com arduino](https://www.clubedohardware.com.br/forums/topic/1700191-controlar-display-com-arduino/?do=getNewComment "Controlar Display com arduino")
+        [Recomendação de fonte para Ryzen 5 5600 + Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1700225-recomenda%C3%A7%C3%A3o-de-fonte-para-ryzen-5-5600-radeon-rx-6600/?do=getNewComment "Recomendação de fonte para Ryzen 5 5600 + Radeon RX 6600")
         
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [9nkn0wn](https://www.clubedohardware.com.br/profile/1254554-9nkn0wn/ "Ir ao perfil de 9nkn0wn")  
-        6 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [RAFAELYUNES](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")  
+        2 horas atrás
         
-    * [![Eclipse Valtrone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254814.thumb.jpeg.9694a9a8461ba47f807dd33f1bcff3bf.jpeg)](https://www.clubedohardware.com.br/profile/1254814-eclipse-valtrone/ "Ir ao perfil de Eclipse Valtrone")
+    * [![Felipetakeushi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254834.thumb.png.dab387c1811131660d507bcd189fd485.png)](https://www.clubedohardware.com.br/profile/1254834-felipetakeushi/ "Ir ao perfil de Felipetakeushi")
         
-        2
+        4
         
-        [Comprei um pc mas não liga.](https://www.clubedohardware.com.br/forums/topic/1700190-comprei-um-pc-mas-n%C3%A3o-liga/?do=getNewComment "Comprei um pc mas não liga.")
+        [Notebook Lenovo Idealpad S145 não liga](https://www.clubedohardware.com.br/forums/topic/1700224-notebook-lenovo-idealpad-s145-n%C3%A3o-liga/?do=getNewComment "Notebook Lenovo Idealpad S145 não liga")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Eclipse Valtrone](https://www.clubedohardware.com.br/profile/1254814-eclipse-valtrone/ "Ir ao perfil de Eclipse Valtrone")  
-        7 horas atrás
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Felipetakeushi](https://www.clubedohardware.com.br/profile/1254834-felipetakeushi/ "Ir ao perfil de Felipetakeushi")  
+        2 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
