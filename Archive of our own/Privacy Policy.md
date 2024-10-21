@@ -45,10 +45,10 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: buffy gen teen AND "no archive warnings apply" 
+* Work Search  tip: katekyou "alternate universe" sort:>words 
     
 
-> [Donate](https://otw-news.org/y884aacn) at least US$10 and you'll become a member of the OTW! [Learn about Fanlore, one of the projects your membership will support, and about our new thank-you gifts!](https://otw-news.org/yc7nue4b) So far we've raised US$196,812.06, and we’ve surpassed our goal of **4,500** new members, with over **5,459** new members so far!
+> Due to the [incredible support of the community](https://otw-news.org/2p8zhbtz), we've welcomed **6020** new and renewing members and raised **US$214,698.86** during this drive. Thank you so much! (We also accept [donations](https://otw-news.org/y884aacn) year-round, so you are able to donate whenever is convenient for you.)
 
 [×](https://archiveofourown.org/tos?hide_banner=true&view_adult=true "hide banner")
 
