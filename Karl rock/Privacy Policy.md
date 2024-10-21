@@ -418,9 +418,9 @@ Top
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![Travel Essentials: Before You Travel to India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/2.-Male-Book-on-the-table-with-travel-objects-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+* [![Nankana Sahib Travel Super Guide](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Karl-Rock-at-Nankana-Sahib-e1719486743489.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
-    [Travel Essentials: Before You Travel to India](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+    [Nankana Sahib Travel Super Guide](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
