@@ -1,13 +1,11 @@
 [hulu](https://secure.hulu.com/)
 
-START YOUR FREE TRIAL[Log In](https://auth.hulu.com/web/login?next=https%3A%2F%2Fwww.hulu.com%2Fsubscriber_agreement)
-
-START YOUR FREE TRIAL
+[Log In](https://auth.hulu.com/web/login?next=https%3A%2F%2Fwww.hulu.com%2Fsubscriber_agreement)
 
 Hulu Subscriber Agreement
 =========================
 
-Updated: January 25, 2024
+Updated: October 21, 2024
 
 We welcome you! It is our pleasure to provide the Hulu services described below for your personal enjoyment and entertainment in accordance with this Subscriber Agreement (herein, the “Agreement”). PLEASE READ THIS AGREEMENT CAREFULLY BECAUSE IT GOVERNS ELIGIBILITY FOR AND USE OF THE SERVICES.
 
@@ -36,7 +34,7 @@ List of Sections
 1\. USER ELIGIBILITY AND REGISTRATION
 -------------------------------------
 
-**a. Eligibility and Age Limitations.** Only residents of the United States are eligible to register for a Hulu account. If you are under the age of 13, you are not permitted to register for a Hulu account. If you are at least 13 and under 18 years of age (or under the applicable age of majority in your state or territory of residence), you may register for a Hulu account, but only if you have the consent of your parent or guardian, including consent to this Agreement on your behalf, and for clarity, you may only modify an account with the consent of your parent or guardian. Please note that age requirements for purchase of and access to certain Services may vary. The Services are provided to individuals for their personal, noncommercial use only. Companies, commercial establishments, associations and other groups may not register for a Hulu account or use the Services.
+**a. Eligibility and Age Limitations.** You must be 18 years of age, or the age of majority in your state or territory of residence, to purchase or use the Hulu Service. The Services are provided to individuals for their personal, noncommercial use only. Companies, commercial establishments, associations and other groups may not purchase or use the Services.
 
  
 
