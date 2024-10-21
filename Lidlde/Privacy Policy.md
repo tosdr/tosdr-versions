@@ -12,6 +12,8 @@ AkzeptierenAblehnen
 
     
 
+[Entdecke Parkside: Akkus, Werkzeuge, Zubehör und vieles mehr!](https://www.lidl.de/c/parkside/s10028969)
+
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
 3. [Onlineshop](https://www.lidl.de/)
