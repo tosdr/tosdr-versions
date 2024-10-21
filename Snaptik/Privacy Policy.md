@@ -64,6 +64,7 @@ By accessing and using SnapTik App, you express your voluntary acceptance of thi
 * [Download video Douyin](https://snaptik.app/douyin-downloader)
 * [Download Tiktok Slide](https://snaptik.app/download-tiktok-slide)
 * [Download Tiktok Story](https://snaptik.app/download-story-tiktok)
+* [Tải video TikTok](https://vn.snaptik.com/)
 * [How to Download video tiktok](https://snaptik.app/how-to-download-video-tiktok)
 
 © 2019 - 2023 SnapTik - [TikTok Video Download](https://snaptik.app/en1) Version 18.4
