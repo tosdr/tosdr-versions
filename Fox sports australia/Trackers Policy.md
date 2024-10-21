@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240301)
 * Cricket
     
-* [Men's T20I
-    
-    NEP won by 8 wkts
-    
-    |     |     |
-    | --- | --- |
-    | USA | 5 /156 |
-    | NEP | 2 /157 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250303)
 * [Sheffield Shield
     
     |     |     |
@@ -150,36 +140,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=717)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WAS | 40  |
-    | CAR | 7   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250727)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAR | 20  |
-    | LV  | 15  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250726)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SF  | 18  |
-    | KC  | 28  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250728)
 * [NFL
     
     Full Time
