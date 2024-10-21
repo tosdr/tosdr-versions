@@ -31,6 +31,10 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-Lu8gBkikjSdeMGMJn7M)
 
+On this page
+
+Was this helpful?
+
 Data Processing Agreement - Publisher
 =====================================
 
@@ -343,7 +347,3 @@ In addition to the requirements and obligation set forth under the DPA and appli
 [PreviousPublisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)[NextData Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
 
 Last updated 10 months ago
-
-On this page
-
-Was this helpful?
