@@ -385,7 +385,7 @@ Free standard shipping on any $35 purchase
             
         * [Hair Quiz](https://www.ulta.com/vba/haircare/)
             
-        * [Hair Goals](https://www.ulta.com/discover/hair/aging-hair-care)
+        * [Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
             
         * [Hair Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
             
@@ -1037,7 +1037,7 @@ Free standard shipping on any $35 purchase
             
         * [### Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
-        * [### Hair Goals](https://www.ulta.com/discover/hair/aging-hair-care)
+        * [### Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
             
         * [### Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
             
