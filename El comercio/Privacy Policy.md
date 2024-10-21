@@ -31,6 +31,193 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito
+==============================================================================
+
+El Cuerpo de Bomberos Quito dio a conocer que 15 de sus efectivos brindan atención a las personas afectadas en el siniestro
+---------------------------------------------------------------------------------------------------------------------------
+
+![El Cuerpo de Bomberos Quito brinda atención a los afectados.](https://www.elcomercio.com/wp-content/uploads/2024/10/Simon-Bolivar.jpg)
+
+La **avenida Simón Bolívar** debió cerrarse este lunes 21 de octubre de 2024 en dos tramos debido a dos siniestros de tránsito, en Quito.
+
+### Más noticias
+
+* [Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/nuevo-cierre-vehicular-quito-av-6-de-diciembre-desde-domingo-20-de-octubre.html "Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito")
+* [Así funciona el Pico y placa en Quito este lunes 21 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-21-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 21 de octubre")
+* [Murió Egidio Cuadrado, acordeonista de Carlos Vives](https://www.elcomercio.com/tendencias/entretenimiento/murio-egidio-cuadrado-acordeonista-de-carlos-vives.html "Murió Egidio Cuadrado, acordeonista de Carlos Vives")
+
+Choques en la Simón Bolívar
+---------------------------
+
+El primer siniestro se registró a la altura de **El Troje,** en el sur de Quito. En sentido sur-norte, un automóvil rojo y una camioneta chocaron en la vía.
+
+Producto del impacto, **la camioneta terminó en la cuneta**. Debido a esta emergencia, tres carriles se cerraron al flujo vehicular, lo que causó congestión en este inicio de semana.
+
+La **Agencia Metropolitana de Tránsito** gestionó el flujo vehicular en la zona y asistió a los conductores. Posteriormente, los agentes habilitaron la circulación.
+
+Preliminarmente, se conoció que **una persona resultó herida** en este siniestro.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: El Troje  
+> 🚧 Cierre: av. Simón Bolívar  
+> 🛣️ Carriles cerrados: 3 carriles en sentido sur-norte.  
+>   
+> 👆🏼 Con precaución y atención en las vías  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/diwv7ohoof](https://t.co/diwv7ohoof)
+> 
+> — AMTQuito (@AMT\_Quito) [October 21, 2024](https://twitter.com/AMT_Quito/status/1848317598322118961?ref_src=twsrc%5Etfw)
+
+Choque en La Forestal
+---------------------
+
+El ECU911 informó este **lunes 21 de octubre** sobre una emergencia reportada en la av. Simón Bolívar a la altura de La Forestal.
+
+En la av. Simón Bolívar y E11A, **un bus de Mejía chocó contra una plataforma**. Se conoció que el bus iba con pasajeros.
+
+Desde la Sala Operativa se coordinó **la atención de esta emergencia** con el Cuerpo de Bomberos Quito, el Ministerio de Salud Pública (MSP) y la Agencia Metropolitana de Tránsito.
+
+Agentes de tránsit**o cerraron el carril derecho** en sentido sur-norte para precautelar la seguridad de las personas involucradas en la emergencia. En el sector se registra congestión vehicular.
+
+El **Cuerpo de Bomberos Quito** dio a conocer que **15 de sus efectivos** trabajan en la emergencia brindando atención prehospitalaria a las personas afectadas.
+
+> 🔸[#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. Simón Bolívar, a la altura del sector de La Forestal.  
+>   
+> 🚒 Al momento, nuestros paramédicos brindan asistencia prehospitalaria a varias personas que resultaron afectadas.  
+>   
+> 👩🏻‍🚒 En el lugar trabajamos con 15 efectivos.  
+>   
+> 🚧 Por favor, si… [pic.twitter.com/t2cYuGdDT1](https://t.co/t2cYuGdDT1)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 21, 2024](https://twitter.com/BomberosQuito/status/1848346664311894514?ref_src=twsrc%5Etfw)
+
+Murió Egidio Cuadrado, acordeonista de Carlos Vives
+===================================================
+
+Egidio Cuadrado, aclamado Rey Vallenato, falleció a los 71 años: padecía de un grave cuadro de pulmonía que deterioró su salud
+------------------------------------------------------------------------------------------------------------------------------
+
+![El acordeonista colombiano Egidio Cuadrado, inseparable compañero del cantautor Carlos Vives en su grupo La Provincia, falleció este lunes en Bogotá a los 71 años.](https://www.elcomercio.com/wp-content/uploads/2024/10/Egidio-Cuadrado.jpg)
+
+La Clínica Universitaria Colombia confirmó este lunes 21 de octubre de 2024, en la madrugada, **el fallecimiento del reconocido acordeonista vallenato Egidio Cuadrado. Cuadrado es** uno de los más grandes exponentes del género en Colombia. 
+
+### Más noticias
+
+* [Padre de Liam Payne está en Buenos Aires para recoger a su hijo](https://www.elcomercio.com/tendencias/padre-de-liam-payne-esta-en-buenos-aires-para-recoger-a-su-hijo.html "Padre de Liam Payne está en Buenos Aires para recoger a su hijo")
+* [Emotivo mensaje de la hermana de Liam Payne: ‘Lamento no haber podido salvarte’](https://www.elcomercio.com/tendencias/emotivo-mensaje-de-la-hermana-de-liam-payne-lamento-no-haber-podido-salvarte.html "Emotivo mensaje de la hermana de Liam Payne: ‘Lamento no haber podido salvarte’")
+
+El fallecimiento
+----------------
+
+Según el comunicado oficial emitido por la institución de salud, el músico falleció en sus instalaciones. “Con profundo dolor, la Clínica Universitaria Colombia se permite informar a la opinión pública que **ha fallecido en nuestra institución el artista vallenato Egidio Cuadrado”,** señalaron. 
+
+La clínica **expresó su solidaridad con la familia** del artista y con el país, destacando la pérdida de un icono cultural. 
+
+**“Nos unimos al dolor que embarga a los colombianos por la pérdida de este gran músico**. Su legado permanecerá en la memoria de todos aquellos que disfrutaron y admiraron su talento”, añadieron.
+
+El mundo de la música vallenata **llora la pérdida de Egidio Rafael Cuadrado Hinojosa,** uno de los acordeoneros más reconocidos y queridos de Colombia. El músico falleció hoy (21 de octubre) a los 71 años, luego de haber sido hospitalizado en la Clínica Colombia por “complicaciones de **salud relacionadas con una neumonía”.**
+
+El artista, que es reconocido por haber logrado varios éxitos con el cantante **Carlos Vives**, nació el 26 de febrero de 1953 en **Villanueva, La Guajira.** Un pequeño pueblo que ha producido múltiples reyes vallenatos, por lo que desde temprana edad decidió dedicar su vida a la música, dejando una huella imborrable en el folclor colombiano.
+
+En una entrevista que le hizo la Revista Bocas, se cuenta que el músico nació de manera prematura en una **situación crítica**. Su madre, Cristina Hinojosa, padecía de tifo y fiebre alta, por lo que fue necesario practicarle un parto anticipado para salvar su vida. Como consecuencia, Cuadrado tardó en hablar. 
+
+“Quizá impresionado por un mundo para el que aún no estaba listo, **el pequeño Egidio creció sin hablar.** Como en una especie de ensayo de la prestidigitación con la que habría de ganarse la vida, se hacía entender con señas. **En medio de su mudez**, aprendió a escuchar. Sobre todo la música, que le encantaba”, dice la entrevista escrita en 2017.
+
+La vida de Egidio Cuadrado
+--------------------------
+
+Su madre fue una figura importante en su vida. Fue ella quien le regaló su primer acordeón de verdad, después de que su hermano mayor, Hugue, lo regañara constantemente por usar el suyo. Así, **Egidio comenzó su camino como músico, aprendiendo a tocar el acordeón sin ningún tipo de instrucción formal y sin saber leer partituras, pero con una capacidad innata para escuchar y reproducir lo que oía.** 
+
+El primer instrumento que tocó fue un acordeón de teclado, con el que no solo interpretaba vallenato, sino también cumbias y rancheras. De hecho, su primera canción no fue un vallenato, sino Así soy yo, una cumbia de Aniceto Molina y pronto en su vida desarrolló un gusto por las rancheras de **Antonio Aguilar y Vicente Fernández.**
+
+En 1985, Egidio Cuadrado **ganó el Festival de la Leyenda Vallenata**, uno de los eventos más importantes para los músicos de este género. Este logro cimentó su carrera, pero su verdadero salto al reconocimiento masivo llegó poco después, cuando conoció a cantante **Carlos Vives**. 
+
+Aunque Vives ya había tenido **éxito como actor y cantante de balada** y rock, fue Cuadrado quien lo acompañó a explorar los sonidos vallenatos. Su colaboración comenzó en la serie de televisión ‘**Escalona**_‘_, donde Cuadrado fue el encargado de enseñarle a Vives las canciones del emblemático compositor Rafael Escalona.
+
+Su éxito con La Provincia
+-------------------------
+
+La relación entre ambos fue más allá de la serie de televisión y juntos, en 1993, revolucionaron el vallenato con el lanzamiento del álbum _**Clásicos de la Provincia**_. Una propuesta arriesgada que combinaba los sonidos tradicionales del acordeón, la caja y la guacharaca, con elementos de rock, pop y balada. 
+
+Aunque en un principio **algunos puristas criticaron la idea** de fusionar géneros, el disco fue un éxito rotundo, no solo en Colombia, sino a nivel internacional. Marcó un antes y un después en la historia del vallenato.
+
+Desde entonces, **Egidio Cuadrado** fue una pieza fundamental en la carrera de Carlos Vives. También en el éxito de La Provincia, la banda que acompañó al cantante samario en la conquista de escenarios en todo el mundo. 
+
+En total, grabaron **más de 11 discos juntos** y tocaron en casi todos los continentes. Cuadrado incluso ha colaborado con grandes figuras de la música internacional como **Gloria Estefan, Julio Iglesias** y Kike Santander, llevando el acordeón vallenato a nuevos horizontes.
+
+A pesar de su fama y éxito internacional**, Egidio** siempre mantuvo una conexión profunda con sus raíces y con el folclor colombiano. Fue conocido por **su estilo humilde y su vestimenta característica:** las abarcas, las camisas de rayas tipo leñador y la infaltable mochila vacía.
+
+Sin embargo, en cuanto **a su salud**, no estuvo exento de dificultades. En 2022, una severa gastritis lo mantuvo en cuidados intensivos y lo obligó a ausentarse de conciertos importantes en ciudades como Londres y París.
+
+Aunque vivió  momentos difíciles, tanto en lo personal como en lo profesional, Cuadrado siempre logró sobreponerse. Dejó una huella en el vallenato no solo por su maestría con el acordeón, sino también por su actitud frente a la vida y la música. 
+
+**Uno de los episodios más emotivos de su vida fue cuando llevó el trofeo del Festival Vallenato al entonces presidente Belisario Betancur,** un gesto que reflejó su visión de llevar el vallenato más allá de las fronteras de su tierra natal.
+
+Su relación con Carlos Vives
+----------------------------
+
+Por otro lado, su relación con **Carlos Vives** fue catalogada como un “matrimonio” musical que duró más de 25 años. A lo largo de este tiempo, **Cuadrado fue testigo y partícipe de la evolución del vallenato**, contribuyendo a su transformación sin perder su esencia. 
+
+En **palabras de Egidio**: “El vallenato no se canta con el pelo”, refiriéndose a las críticas que recibían al principio por el estilo roquero y **despreocupado de Vives**, y resaltando que lo importante era la calidad de la música y el respeto por los aires tradicionales del género.
+
+Y es que a lo largo de su carrera, **Cuadrado tuvo la oportunidad** de interpretar canciones que se han convertido en himnos del vallenato moderno, como **La Gota Fría, Amor Sensible, Jaime Molina, La Tierra del Olvido**, entre muchas otras. Estos temas han trascendido generaciones y fronteras, ayudando a consolidar esta música como un género de alcance global.
+
+Este lunes, a sus 71 años, **Egidio Cuadrado** deja un legado invaluable. **Aunque la edad y los problemas de salud lo habían limitado en algunas ocasiones, su amor por la música permanecía intacto.** Como él mismo lo decía, “la música es una [profesión](https://es.wikipedia.org/wiki/Carlos_Vives "https://es.wikipedia.org/wiki/Carlos_Vives") que no tiene edad, y seguiré tocando hasta cuando Dios quiera”.
+
+Así funciona el Pico y placa en Quito este lunes 21 de octubre
+==============================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-6-1.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-reducidos-21-octubre-10-noviembre-ecuador.html "Horarios de los cortes de luz reducidos, del 21 de octubre al 10 de noviembre en Ecuador")
+* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
+* [Detienen a policía con un auto robado este domingo 20 de octubre, en Manta](https://www.elcomercio.com/actualidad/seguridad/detienen-a-policia-con-auto-robado-domingo-20-de-octubre-manta.html "Detienen a policía con un auto robado este domingo 20 de octubre, en Manta")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 El maltrato
 ===========
 
@@ -790,179 +977,3 @@ Jorge Álvarez, asambleísta por El Oro, señaló que Termogás Machala necesita
 Viviana Veloz resaltó la iniciativa de Quito que ha puesto en marcha la generación de energía renovable a partir de la gestión de los desechos sólidos que produce la ciudad e invitó a los demás gobiernos centrales a generar proyectos similares.
 
 La asambleísta por Morona Santiago Luzmila Abad cuestionó la propuesta que señala que se condonaría los impuestos a los inversores privados durante 10 años.
-
-El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador
-====================================================================
-
-El Instituto Geofísico cuenta con nuevos equipos, para observar mejor a cuatro de los 20 volcanes monitoreados en Ecuador.
---------------------------------------------------------------------------------------------------------------------------
-
-![Uno de los volcanes de Ecuador es monitoreado por el Instituto Geofísico.](https://www.elcomercio.com/wp-content/uploads/2024/10/Guaguap.jpg)
-
-Los **volcanes Sangay y Reventador** son los más activos de Ecuador con sus permanentes erupciones.
-
-El **Sangay** lleva cinco años con una alta actividad superficial eruptiva, mientras que el **Reventador** está por cumplir 22 años de reactivación.
-
-### Más noticias
-
-* [En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción](https://www.elcomercio.com/actualidad/ecuador/segundos-sabra-volcanes-hinchan-proceso-erupcion.html "En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción")
-* [El Instituto Geofísico reportó sobre la actividad del volcán El Reventador](https://www.elcomercio.com/actualidad/ecuador/ig-reporto-actividad-volcan-el-reventador.html "El Instituto Geofísico reportó sobre la actividad del volcán El Reventador")
-* [¿Quito planifica sus riesgos? Esto dicen expertos y la autoridad](https://www.elcomercio.com/actualidad/quito/riesgos-incendios-deslaves-quito-ciudad.html "¿Quito planifica sus riesgos? Esto dicen expertos y la autoridad")
-
-En el radar de los geólogos también están los volcanes **Cotopaxi y Guagua Pichincha**. Ambos causan preocupación, debido a su actividad permanente.
-
-Por esos antecedentes, el **Instituto Geofísico de la Escuela Politécnica Nacional** colocará nuevos equipos en esos cuatro volcanes, para monitorear su comportamiento.
-
-**Mario Ruiz, director del Instituto Geofísico**, indica que se instalarán **sensores GPS** para saber si hay señales de hinchamiento o deformación, que significa que hay ingreso de magma hacia los conductos de los volcanes. Eso permitirá tener información antes de que se produzca la erupción y dará tiempo para emitir avisos a las autoridades y la comunidad.
-
-De estos equipos se colocarán dos en el **Guagua Pichincha, dos en el Cotopaxi y uno en el Reventador.**
-
-Ruiz explica que uno de los métodos más importantes es ver cómo se hinchan los volcanes, para hacer mediciones en milímetros. Por ejemplo, las erupciones del 2015 y 2022 del Cotopaxi fueron precedidas por de un hinchamiento del volcán menor a 1 cm. Por eso, necesitan equipos que tengan la capacidad de medir estas pequeñas deformaciones.
-
-El monitoreo en el volcán Guagua Pichincha
-------------------------------------------
-
-Al Geofísico también le interesa monitorear el **Guagua Pichincha**, debido a su erupción de hacer 25 años, que no tuvo la magnitud esperada en comparación con sus erupciones pasadas. Ruiz dice que en 1660 tuvo una erupción mucho más intensa que la de octubre de 1999.
-
-“Con este conocimiento queremos mantener la atención a lo que pase en el **Guagua Pichincha**”, comenta el técnico. No es un volcán que está en reposo totalmente, ya que registra sismos y el crecimiento del domo.
-
-Se exploran el material y las rocas que salieron en la erupción de 1999. Como parte de los estudios, los técnicos monitorean los gases, por lo que bajan a las zonas de las fumarolas para medir las temperaturas y los gases. En la zona, también hay estaciones sísmicas que se encuentran alrededor de la caldera y permiten detectar los sismos, así sean pequeños.
-
-La **vulcanóloga del Geofísico, Patricia Mothes**, agrega que la actividad de 1999 duró hasta casi el 2001. En ese entonces se formó el noveno domo con la subida del magma, luego de romper el octavo, por donde salió el material hacia el río Cristal.
-
-El actual domo está en el centro y probablemente se romperá con una nueva erupción, de la cual no se sabe cuándo será.
-
-Los **nuevos equipos GPS** de medición de la deformación son similares a los que se tienen actualmente. Su nivel de detección es milimétrico, pues permite ver valores de 3 a 4 milímetros.
-
-El **Guagua Pichincha** está vigilado por cámaras, **GPS,** inclinómetros e imágenes satelitales, para detectar su hinchamiento. Los actuales GPS mandarán señales cada segundo o 15 segundos, con los cual se contará con información mucho más rápido.
-
-El estado del peligro volcán Cotopaxi
--------------------------------------
-
-Mothes también comenta que el Cotopaxi está en un estado de tranquilidad. Apenas tiene de 15 a 20 sismos diarios, como en una actividad normal antes del 2015, cuando se reactivó. Su otra erupción fue en 2022 que duró hasta el 2023.
-
-No ha habido un aumento en el contenido de gases, no hay deformación o hinchamiento de importancia y tampoco el volcán emite sonidos.
-
-Los nuevos instrumentos de infrasonido se pondrán en los volcanes **Sangay y Reventador,** para captar la salida de material, cuenta Ruiz. A través de los equipos se contará con información sobre si hubo una explosión, sea de noche o así esté totalmente nublado.
-
-De los 11 sensores infrasonidos, 5 estarán en el Sangay, 5 en el Reventador y uno en el Guagua Pichincha.
-
-**Mothes** comenta que unos equipos se colocarán en la parte alta, en el norte del Cotopaxi,; otro en la parte más cercana al cráter del **Guagua Pichincha** y otro en el **Reventador.**
-
-Dos volcanes en plena erupción y más activos de Ecuador
--------------------------------------------------------
-
-El **volcán Reventador** tiene aproximadamente 90 explosiones por día y la mayoría de las columnas de ceniza no es mayor a 800 metros de altura sobre el nivel del cráter, detalla **Patricia Mothes**.
-
-A veces se producen flujos piroclásticos, que no van más allá del pie de cono del volcán. Sus explosiones se pueden escuchar con frecuencia. Está activo desde el 2 de noviembre de 2002.
-
-**Sangay** ha tenido una actividad casi permanentemente, pero en 2019 empezó a tener una actividad más continua. Tuvo explosiones por más grandes, como en diciembre de 2021, cuando las columnas se alzaron más de 10 km por la zona del volcán. Mientras que la ceniza llegó a Guayaquil y a las zonas de banano, cacao y camaroneras.
-
-Ante la actividad de los dos volcanes, ‘nuestro afán es dar un aviso temprano’, dice **Mothes.** Al **Sangay** se lo monitorea con atención, porque de vez en cuando tiene actividad más fuerte y puede ocurrir en periodo de horas o días.
-
-Siempre se observan las señales sísmicas o cuando empieza a subi la energía. Se cuenta con cámaras para ver las señales, imágenes satelitales en las pantallas del centro de monitoreo del **Instituto Geofísico** y los observadores locales.
-
-Usaid donó los nuevos equipos para el monitoreo volcánico
----------------------------------------------------------
-
-La **Embajada de Estados Unidos, a través de Usaid**, entregó el viernes 18 de octubre de 2024 los equipos para el monitoreo de cuatro volcanes de Ecuador.
-
-Entre los dispositivos hay unos para proteger a los equipos contra los rayos, ya que las zonas de los volcanes son propensas a la caída de rayos.
-
-Los técnicos contarán con una **laptop de campo**, que es resistente a la humedad, a los golpes y hasta balas, que cuenta con certificación militar.
-
-Hay radios para los enlaces, que convierten la información análoga en digital. De esa manera se reduce el ruido de las ondas de trasmisión y llega la información más nítida.
-
-Las nuevas máquinas están hechas en **Estados Unidos y en Bélgica**, que fueron puestas a pruebas en el Ártico y zonas desérticas.
-
-Adicionalmente, cuentan con **una antena, tipo bala,** que hace que la ceniza resbale y no se acumule, como ocurre con las actuales, que tienen forma de platillo y recolecta la ceniza, lo cual impide la transmisión de las señales de los volcanes.
-
-El Instituto Geofísico monitorea 20 volcanes en tiempo real 24/7, con equipos que funcionan a batería que se cargan con paneles solares. De todos ellos, el **volcán Cotopaxi** es el mejor monitoreado de América del Sur[.](https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador "https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador")
-
-La instrumentación que tiene el **Instituto Geofísico** se ha conseguido con convenios con la cooperación internacional de Japón, Alemania, Colombia, México, Italia y Francia, y el Servicio Geológico de Estados Unidos. Con Francia, a través del IRD, que forman los técnicos del Geofísico.
-
-Una balacera en el estadio de la Liga de Cangahua, en La Roldós, deja otra víctima
-==================================================================================
-
-Los moradores temen hablar por las amenazadas que reciben de los miembros de bandas delincuenciales.
-----------------------------------------------------------------------------------------------------
-
-![En medio de un partido de fútbol se dio una balacera en el estadio de la Liga de Cangahua, en La Roldós. Foto: Captura](https://www.elcomercio.com/wp-content/uploads/2024/10/balacera-roldos-ouito_720.jpg)
-
-Los moradores del sector de La Roldós nuevamente viven una jornada de terror. Apenas, el miércoles 16 de octubre de 2024 ocurrió una balacera en la que murió una joven. Ahora un nuevo incidente impacta a otra familia de esta zona del norte de Quito.
-
-Más noticias
-------------
-
-* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
-* [Nuevo ataque armado se produjo en el sur de Quito](https://www.elcomercio.com/actualidad/quito/nuevo-ataque-armado-sur-de-quito.html "Nuevo ataque armado se produjo en el sur de Quito")
-
-Este domingo 20 de octubre, un hombre ingresó en moto a la cancha del estadio de la Liga de Cangahua, ubicado en la Rumihurco y N-85, en la entrada a La Roldós. Una vez adentro propinó seis disparos por la espalda a un joven de 24 años, que esperaba que se acabe un partido para entrar a jugar.
-
-Así cuenta una morada, que prefiere la reserva por miedo a represalias. Tras el hecho la gente no logró reaccionar a tiempo para detener al hombre. Asustados se agacharon al piso y algunos lanzaron botellas.
-
-Tras dejarlo inconsciente, agrega- salió del estadio y tampoco pudieron identificarlo, debido al casco que llevaba puesto. Minutos después llegó la [Policía](https://www.policia.gob.ec/ "https://www.policia.gob.ec/") y Criminalística.
-
-Según la moradora, el joven atacado no logró sobrevivir al impacto de las balas. Las autoridades todavía no confirman el estado de salud del joven atacado.
-
-En este sector, los vecinos se quejan con voz baja de que el nivel de inseguridad que viven se debe a ocho bandas armadas que se han tomado el territorio.
-
-Esto ha provocado temor a organizarse y velar por su seguridad, debido a las amenazas que reciben por parte de los miembros de estas bandas delincuenciales.
-
-La Roldós es uno de los barrios del norte de [Quito](https://www.elcomercio.com/actualidad/quito/en-quito-cuatro-distritos-concentran-73-de-los-crimenes-violentos-cuales-son.html "https://www.elcomercio.com/actualidad/quito/en-quito-cuatro-distritos-concentran-73-de-los-crimenes-violentos-cuales-son.html") que pertenece al segundo distrito más con alto nivel de violencia por delincuencia común con armas de fuego. Entres las víctimas de este años están adolescentes y jóvenes veinteañeros.
-
-  
-
-Reforma a la Ley Orgánica de Comunicación tienen estas modificaciones
-=====================================================================
-
-Daniel Noboa emitió el Decreto Ejecutivo 421 el pasado 14 de octubre de 2024 donde reforma el Reglamento de Ley Orgánica de Comunicación.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial sobre periodistas y medios de comunicación.](https://www.elcomercio.com/wp-content/uploads/2024/10/medios-com.jpg)
-
-**Daniel Noboa** emitió el **Decreto Ejecutivo 421** el pasado 14 de octubre de 2024, en el que se plantean diversas modificaciones al **Reglamento General de la Ley Orgánica de Comunicación (LOC)**[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
-
-### Más noticias
-
-* [Daniel Noboa emitió un veto total y un decreto sobre incendios](https://www.elcomercio.com/actualidad/politica/daniel-noboa-emitio-veto-total-decreto-incendios.html "Daniel Noboa emitió un veto total y un decreto sobre incendios")
-* [Daniel Noboa pone plazo para la adjudicación de frecuencias del espectro radioeléctrico](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-plazo-adjudicacion-frecuencias.html "Daniel Noboa pone plazo para la adjudicación de frecuencias del espectro radioeléctrico")
-* [Daniel Noboa oficializó la gratuidad de las planillas de luz a través de decreto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-oficializo-gratuidad-planillas-luz-decreto.html "Daniel Noboa oficializó la gratuidad de las planillas de luz a través de decreto")
-
-El decreto introduce disposiciones a los **medios de comunicación** como a la regulación de las **concesiones de frecuencias** para servicios de **radiodifusión y televisión**.
-
-Disposiciones transitorias
---------------------------
-
-El Decreto establece que en un plazo de **60 días**, a partir de su publicación en el **Registro Oficial**, el **Consejo de Desarrollo y Promoción de la Información y Comunicación** debe actualizar y codificar todos los manuales, protocolos y directrices.
-
-Estos documentos deberán **adecuarse a los estándares** internacionales para garantizar la libertad de pensamiento y expresión.
-
-Asimismo, se instruye a la **Agencia de Regulación y Control de las Telecomunicaciones (Arcotel)** a convocar a un Proceso Público Competitivo y Equitativo para la adjudicación de **frecuencias del espectro** **radioeléctrico**, observando las disposiciones de la Constitución de la República y la Ley Orgánica de Comunicación.
-
-Cambios en la normativa de concesiones de frecuencias
------------------------------------------------------
-
-El Decreto prohíbe que los **medios de comunicación social** de carácter nacional pertenezcan a organizaciones o **compañías extranjeras domiciliadas fuera del Ecuador**, ni a ciudadanos extranjeros que no residan de manera **regular en el país**.
-
-Además, establece que una misma **persona natural o jurídica no podrá adjudicarse** más de una concesión de **frecuencia de radio en AM, FM**, o televisión en todo el **territorio nacional**.
-
-> 🚨[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | A través del Decreto 421, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) dispuso reformar el Reglamento General de la Ley Orgánica de Comunicación. [pic.twitter.com/DaJysAdVa0](https://t.co/DaJysAdVa0)
-> 
-> — NotiMundo (@notimundoec) [October 15, 2024](https://twitter.com/notimundoec/status/1846035644860056062?ref_src=twsrc%5Etfw)
-
-El Decreto también prevé inhabilitaciones específicas para la **adjudicación de frecuencias**. Por ejemplo, se incluyen personas que tengan relaciones de **parentesco con concesionarios de frecuencias** de hasta el cuarto grado de consanguinidad o segundo de afinidad, así como quienes se encuentren en mora con instituciones del sector público.
-
-Prohibiciones en la publicidad y transmisión de señales
--------------------------------------------------------
-
-Una de las medidas destacadas es la prohibición de transmitir publicidad engañosa y propaganda de productos como **cigarrillos, bebidas alcohólicas y otras sustancias sujetas a fiscalización**. Se establece un límite para la publicidad de bebidas alcohólicas, la cual no deberá superar el 5% del grado alcohólico.
-
-Por otro lado, el Decreto también regula la transmisión de **canales de señal abierta**. Los operadores de servicios de **audio y video por suscripción** estarán obligados a retransmitir canales de televisión abierta. Esto siempre que se cuente con la autorización expresa de los titulares de los **derechos sobre los contenidos**.
-
-Modificaciones a artículos claves de la Ley Orgánica de Comunicación
---------------------------------------------------------------------
-
-Entre las reformas más relevantes que introduce el **Decreto Ejecutivo** está la sustitución del artículo 2 de la **Ley Orgánica de Comunicación**. En esta se define el ámbito de aplicación de la normativa, ampliando su carácter obligatorio para el Estado, personas y medios de comunicación social.
-
-El artículo 3 también ha sido modificado, regulando la participación de **capital extranjero en los medios de comunicación**. Se establece que los extranjeros que deseen ser accionistas de medios nacionales deberán residir de manera permanente en Ecuador, de acuerdo con la ley.
