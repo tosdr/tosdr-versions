@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. python
+1. java
     
-2. data science
+2. c
     
-3. cyber security
+3. law
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Data Analysis
     
-    4,066 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Digital Marketing
+    8,372 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Cybersecurity
     
-    5,937 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Microsoft Excel
+    16,059 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Digital Marketing
     
-    1,718 courses](https://www.classcentral.com/subject/microsoft-excel)
+    5,938 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Whole genome sequencing of bacterial genomes - tools and applications
+1. [Basic Spanish 1: Getting Started
     
-    Technical University of Denmark (DTU)](https://www.classcentral.com/course/wgs-bacteria-8907)
-2. [Introduction to Cyber Security
+    Universitat Politècnica de València](https://www.classcentral.com/course/language-universitat-politecnica-de-valencia-basi-3698)
+2. [Moralities of Everyday Life
     
-    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
-3. [Mechanical Ventilation for COVID-19
+    Yale University](https://www.classcentral.com/course/moralities-911)
+3. [Songwriting: Writing the Lyrics
     
-    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
+    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
