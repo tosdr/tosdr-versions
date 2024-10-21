@@ -775,8 +775,6 @@ Die rasante Entwicklung des Internets macht von Zeit zu Zeit Anpassungen in unse
 
 Hannover, den 12. Juni 2018
 
-[nach oben](#bottom-up)
-
 Alle Angebote
 
 IT News
@@ -823,6 +821,8 @@ Services
 
 [Newsletter](https://www.heise.de/newsletter/) [heise-Bot heise-Bot](https://www.heise.de/benachrichtigungen/heise-bot/) [Push Nachrichten Push Push-Nachrichten](https://www.heise.de/benachrichtigungen)
 
+[nach oben](#top)
+
 * [Kontakt](https://www.heise.de/kontakt/)
 * [Impressum](https://www.heise.de/impressum.html)
 * [Barriere melden](https://www.heise.de/kontakt/?frage=3212474)
@@ -830,9 +830,10 @@ Services
 * [Cookies & Tracking](javascript:window._sp_.gdpr.loadPrivacyManagerModal(756676);)
 * [Datenschutz](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html)
 * [Mediadaten](https://mediadaten.heise.de/)
-
-* [Content Management by **InterRed**](http://www.interred.de/)
+* [Content Management by InterRed](http://www.interred.de/)
 * [Hosted by Plus.line](https://www.plusline.net/)
 * [Copyright © 2024 Heise Medien](https://www.heise-gruppe.de/artikel/Heise-Medien-3904998.html)
+
+[heise Logo Eine Antwort weiter](https://www.heisegroup.de/)![Unser Hauptpartner Hannover 96](/assets/components/images/hauptpartner-heise-hannover-96.png)
 
 kopieren
