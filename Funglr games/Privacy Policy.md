@@ -128,21 +128,21 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 [![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
 
-* [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
     
-    Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
+* [![SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/12/snk-okinawa-charity-tshirt-00-150x150.jpg "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
+    
+    SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://saiganak.com/product/snk-okinawa-charity-tshirt/ "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
 * [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
     
     SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
     
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
     
-    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
-* [![I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
-    
-    I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
+    "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
 
 [](#top)
 
