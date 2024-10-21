@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
+* [Types of backup](https://www.backup4all.com/backup-types-kb.html)  
     
-* [How to backup your data to Dropbox](https://www.backup4all.com/how-to-backup-your-data-to-dropbox-kb.html)  
+* [How to back up data files from Google Drive u ...](https://www.backup4all.com/how-to-back-up-data-files-from-google-drive-using-backup4all-kb.html)  
     
-* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
+* [How to back up data files from HostEurope usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-hosteurope-using-backup4all-kb.html)  
     
-* [How to get a daily report with all backup exe ...](https://www.backup4all.com/how-to-get-a-daily-report-with-all-backup-executions-kb.html)  
+* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
     
-* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
+* [FTP backup using SSL encryption](https://www.backup4all.com/ftp-backup-using-ssl-encryption-kb.html)  
     
 
 Choose language:
