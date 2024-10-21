@@ -514,8 +514,6 @@ join the conversation
 * [Linkedin](http://linkedin.com/company/dr-power-equipment "Linkedin")
 * [Feed](https://www.drpowerblog.com/feed/ "Feed")
 
-Menu
-
 POWER EQUIPMENT  
 
 [](# "Expand Footer Menu")
