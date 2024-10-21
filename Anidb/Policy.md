@@ -1,4 +1,4 @@
-HINT: Found an incorrect entry? Something is missing? Registered users can edit all entries. Why not [sign up now](https://anidb.net/user/register)? It's free!
+HINT: You're missing out on most features of AniDB. Why not [sign up now](https://anidb.net/user/register)? It's free!
 
 * Menu
     
@@ -58,7 +58,7 @@ I'm Feeling Lucky
 AniDB Policies
 ==============
 
-[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=mdwcus)
+[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=ohtfpm)
 
 AniDB Policies: General Terms of Service (TOS) and Privacy Policy
 -----------------------------------------------------------------
@@ -372,10 +372,10 @@ _This document was last updated on 14.01.2023 22:40._
 
 [AniDB](https://anidb.net/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-v 2022-04, © 2002-2022 by AniDB; all rights reserved. \[0s\] - 20.10.2024 18:49:35
+v 2022-04, © 2002-2022 by AniDB; all rights reserved. \[0s\] - 21.10.2024 00:49:42
 
 [Home](https://anidb.net/) ![AniDB](https://cdn-us.anidb.net/css/assets/images/touch/android-chrome-512x512.png) AniDB
 
 [Twitter](https://twitter.com/AniDBStatus "Stay up2date with AniDB on Twitter!") [Become a patron!](https://www.patreon.com/AniDB "Become a patron for AniDB!")
 
-[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=mdwcus)
+[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=ohtfpm)
