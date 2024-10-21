@@ -1,5 +1,3 @@
-[Breaking: After defeating Texas, Georgia football moves up in latest AP Top 25 ranking](https://www.ajc.com/sports/georgia-bulldogs/georgia-jumps-to-no-2-in-latest-ap-top-25-ranking/TAJOUUDTUFCOXL5PSWPVZ77LJI/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
