@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Live Like You Were DyingTim Mcgraw<br><br>5:40pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>5:37pm |
-| Called CrazyKassi Ashton<br><br>5:34pm |
-| I Am Not OkayJelly Roll<br><br>5:30pm |
-| She Had Me At Heads CarolinaCole Swindell<br><br>5:27pm |
+| Just To See You SmileTim Mcgraw<br><br>11:38pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>11:35pm |
+| Hometown HomeLocash<br><br>11:32pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>11:29pm |
+| You ProofMorgan Wallen<br><br>11:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
