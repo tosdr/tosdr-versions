@@ -23,6 +23,7 @@
 * [Epsom College in Malaysia](https://www.epsomcollege.edu.my/)
 * [Support the College](https://www.epsomcollege.org.uk/cookies/menu-id-2424)
 * [Old Epsomians](https://www.epsomcollege.org.uk/cookies/menu-id-2401)
+* [Contact Us](https://www.epsomcollege.org.uk/get-in-touch/contact-us/)
 
  Search
 
