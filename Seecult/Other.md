@@ -404,11 +404,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/udruzenje-zena-kostana/udruzzenje-zzena-kosstana2.jpg?itok=jLx71N8Y)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska/udruzenje-zena-kostana)
+[![Zoran Popović, Comic, London, 1973](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-stripovicartoons-karikaturecaricatures/zoran-popovic-comic-london-1973/comic-london-1973.jpg?itok=WaBfGfvq "Zoran Popović, Comic, London, 1973")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-stripovicartoons-19)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/skynet-uk.jpg?itok=5bB6SI5B)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zvezda.jpg?itok=RXHN-MEM)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -424,6 +424,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Otvoren 60. Oktobarski salon - Šta ostaje?](http://seecult.org/vest/otvoren-60-oktobarski-salon-sta-ostaje)
 * [Pejaković novi direktor Drame SNP-a, Ana Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-ana-jung-direktorka-baleta)
 * [Šta bi bio život da nema reči](http://seecult.org/vest/sta-bi-bio-zivot-da-nema-reci)
 * [Upečatljiv program 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-program-43-skopskog-dzez-festivala)
@@ -433,7 +434,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Kosheen slavi 25 godina u Dorćol Platzu](http://seecult.org/vest/kosheen-slavi-25-godina-u-dorcol-platzu)
 * [43\. Skopski džez festival](http://seecult.org/vest/43-skopski-dzez-festival)
 * [40\. Beogradski džez festival u slavu nasleđa](http://seecult.org/vest/40-beogradski-dzez-festival-u-slavu-nasleda)
-* [67\. Sajam knjiga u slavu slobode reči](http://seecult.org/vest/67-sajam-knjiga-u-slavu-slobode-reci)
 
 * [Konkursi](#tab1_1)
 
