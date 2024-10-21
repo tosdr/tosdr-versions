@@ -402,13 +402,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Helicopter crashes into Houston radio tower](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2022/11/32/18/59953165-85787bef-0a372aeb-xt_nc_6b315ec4z6622z491czb56czc621eeb5e000.png?ve=1&tl=1)
+ [![Texas early voting begins today. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1)
 
- ![Helicopter crashes into Houston radio tower](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2022/11/32/18/592/333/59953165-85787bef-0a372aeb-xt_nc_6b315ec4z6622z491czb56czc621eeb5e000.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
+ ![Texas early voting begins today. Here’s what you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-early-voting-begins)
 
-Breaking News
+### [Texas early voting begins today. Here’s what you need to know](https://www.fox4news.com/news/texas-early-voting-begins)
 
-### [Helicopter crashes into Houston radio tower](https://www.fox4news.com/news/houston-helicopter-crash)
+ [![2024 Election: Where to find your sample ballots](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/07/32/18/668A2948965040E9B83C72A24E205101.jpg?ve=1&tl=1)
+
+ ![2024 Election: Where to find your sample ballots](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/07/32/18/592/333/668A2948965040E9B83C72A24E205101.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-election-where-find-your-sample-ballots)
+
+### [2024 Election: Where to find your sample ballots](https://www.fox4news.com/news/2024-election-where-find-your-sample-ballots)
+
+ [![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/helicopter-crash.jpg?ve=1&tl=1)
+
+ ![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/helicopter-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
+
+### [Houston helicopter crash: 'Multiple fatalities' reported](https://www.fox4news.com/news/houston-helicopter-crash)
 
  [![Watch: Trump works at McDonald's during Pennsylvania visit](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179814659-a.jpg?ve=1&tl=1)
 
@@ -421,18 +431,6 @@ Breaking News
  ![Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-1747921341.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-new-lawsuits-sean-combs)
 
 ### [Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://www.fox4news.com/news/diddy-new-lawsuits-sean-combs)
-
- [![Robert Roberson to testify in front of Texas House Monday after life-saving subpoena](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.24.24.jpg?ve=1&tl=1)
-
- ![Robert Roberson to testify in front of Texas House Monday after life-saving subpoena](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.24.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-shaken-baby-junk-science-texas-execution)
-
-### [Robert Roberson to testify in front of Texas House Monday after life-saving subpoena](https://www.fox4news.com/news/robert-roberson-shaken-baby-junk-science-texas-execution)
-
- [![Hurricane Oscar makes second landfall in Cuba on Sunday after slamming Bahamas as Category 1](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/this-one.jpg?ve=1&tl=1)
-
- ![Hurricane Oscar makes second landfall in Cuba on Sunday after slamming Bahamas as Category 1](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/this-one.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-oscar-path-cuba-bahamas)
-
-### [Hurricane Oscar makes second landfall in Cuba on Sunday after slamming Bahamas as Category 1](https://www.fox4news.com/news/hurricane-oscar-path-cuba-bahamas)
 
 ###### [News](https://www.fox4news.com/news)
 
