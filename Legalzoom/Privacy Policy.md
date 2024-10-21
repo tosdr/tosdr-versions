@@ -321,6 +321,7 @@ Thank you for subscribing to our newsletter!
 [Learn more](#footer-learn-more)
 
 * [Legal help articles](https://www.legalzoom.com/articles/article-center)
+* [Business Name Generator](https://www.legalzoom.com/tools/business-name-generator)
 * [Legal Forms](https://www.legalzoom.com/forms)
 * [Legal Form Templates](https://www.legalzoom.com/templates)
 * [LegalZoom vs ZenBusiness](https://www.legalzoom.com/compare/legalzoom-vs-zenbusiness)
