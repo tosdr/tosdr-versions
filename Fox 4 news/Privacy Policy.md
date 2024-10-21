@@ -402,11 +402,13 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Morgan Wallen expands country music empire, launches Sand in My Boots festival](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2173837646.jpg?ve=1&tl=1)
+ [![Helicopter crashes into Houston radio tower](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2022/11/32/18/59953165-85787bef-0a372aeb-xt_nc_6b315ec4z6622z491czb56czc621eeb5e000.png?ve=1&tl=1)
 
- ![Morgan Wallen expands country music empire, launches Sand in My Boots festival](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2173837646.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/morgan-wallen-expands-country-music-empire-launches-sand-my-boots-festival)
+ ![Helicopter crashes into Houston radio tower](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2022/11/32/18/592/333/59953165-85787bef-0a372aeb-xt_nc_6b315ec4z6622z491czb56czc621eeb5e000.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
 
-### [Morgan Wallen expands country music empire, launches Sand in My Boots festival](https://www.fox4news.com/news/morgan-wallen-expands-country-music-empire-launches-sand-my-boots-festival)
+Breaking News
+
+### [Helicopter crashes into Houston radio tower](https://www.fox4news.com/news/houston-helicopter-crash)
 
  [![Watch: Trump works at McDonald's during Pennsylvania visit](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179814659-a.jpg?ve=1&tl=1)
 
@@ -414,23 +416,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Watch: Trump works at McDonald's during Pennsylvania visit](https://www.fox4news.com/news/trump-works-mcdonalds-pennsylvania)
 
- [![Texas’ junk science law is getting another look over Robert Roberson’s case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1)
+ [![Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/gettyimages-1747921341.jpg?ve=1&tl=1)
 
- ![Texas’ junk science law is getting another look over Robert Roberson’s case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.05.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-junk-science-law-is-getting-another-look-over-robert-robersons-case)
+ ![Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-1747921341.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-new-lawsuits-sean-combs)
 
-### [Texas’ junk science law is getting another look over Robert Roberson’s case](https://www.fox4news.com/news/texas-junk-science-law-is-getting-another-look-over-robert-robersons-case)
+### [Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://www.fox4news.com/news/diddy-new-lawsuits-sean-combs)
 
- [![Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178709817.jpg?ve=1&tl=1)
+ [![Robert Roberson to testify in front of Texas House Monday after life-saving subpoena](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.24.24.jpg?ve=1&tl=1)
 
- ![Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178709817.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-apologizes-georgia-players-staff-sec-game-officials-after-fans-throw-trash-field)
+ ![Robert Roberson to testify in front of Texas House Monday after life-saving subpoena](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.24.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-shaken-baby-junk-science-texas-execution)
 
-### [Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://www.fox4news.com/sports/texas-apologizes-georgia-players-staff-sec-game-officials-after-fans-throw-trash-field)
+### [Robert Roberson to testify in front of Texas House Monday after life-saving subpoena](https://www.fox4news.com/news/robert-roberson-shaken-baby-junk-science-texas-execution)
 
- [![No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2179670696.jpg?ve=1&tl=1)
+ [![Hurricane Oscar makes second landfall in Cuba on Sunday after slamming Bahamas as Category 1](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/this-one.jpg?ve=1&tl=1)
 
- ![No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179670696.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-5-georgia-knocks-off-no-1-texas-30-15-etienne-running-3-tds)
+ ![Hurricane Oscar makes second landfall in Cuba on Sunday after slamming Bahamas as Category 1](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/this-one.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-oscar-path-cuba-bahamas)
 
-### [No. 5 Georgia knocks off No. 1 Texas 30-15, with Etienne running for 3 TDs](https://www.fox4news.com/sports/no-5-georgia-knocks-off-no-1-texas-30-15-etienne-running-3-tds)
+### [Hurricane Oscar makes second landfall in Cuba on Sunday after slamming Bahamas as Category 1](https://www.fox4news.com/news/hurricane-oscar-path-cuba-bahamas)
 
 ###### [News](https://www.fox4news.com/news)
 
