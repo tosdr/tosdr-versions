@@ -140,9 +140,11 @@ Women in Trust
 
 Improving representation in cybersecurity leadership](https://safebase.io/women-in-trust)
 
-Upcoming Webinar
+download ROI Calculator
 
-[![](https://cdn.prod.website-files.com/65397ce059ca157da9e02a14/66feeb344fbaa7af75a0605d_Resource%20Web%20Card%20-%20Oct%2016%20webinar.png)](https://safebase.io/events/ai-questionnaire-assistance-wiz-webinar)
+[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/6708292e83745f78d268bbec_Trust%20Center%20Strategy%20Guide%20(2).png)
+
+Unlock time and cost savings by automating security questionnaire reviews with SafeBase](https://safebase.io/resources/roi-calculator)
 
 [Login](https://app.safebase.io/api/auth/login)[Book a demo](https://safebase.io/schedule)
 
