@@ -145,5 +145,4 @@ Payment icons
 * Mastercard
 * PayPal
 * Shop Pay
-* Venmo
 * Visa
