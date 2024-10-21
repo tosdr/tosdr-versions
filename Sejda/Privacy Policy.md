@@ -231,6 +231,18 @@ Reload page
 
 ×
 
+×
+
+#### Scanned documents are not supported
+
+**Editing scanned documents is not supported.** Changing existing text within scanned documents is not supported. However, you can still use other features such as adding new text, images, and annotations.
+
+**Converting scanned documents is not supported.** Scanned PDFs are images of text and lack the actual text data needed for conversion.  
+  
+File:
+
+[Learn more](https://www.sejda.com/help#scans)
+
 We're sorry, something went wrong. Please contact support at hi@sejda.com
 
 Verification code is incorrect
