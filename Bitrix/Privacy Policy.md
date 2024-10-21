@@ -318,6 +318,17 @@ Latest from Bitrix24
 
 Log In
 
+Your Bitrix24
+
+Authorize to enter  
+your company's Bitrix24.
+
+Enter[](https://www.bitrix24.net/qr/?user_lang=en)
+
+Don't have Bitrix24 yet?
+
+[Create your Bitrix24 now](https://www.bitrix24.com/create.php)
+
 en
 
 America
