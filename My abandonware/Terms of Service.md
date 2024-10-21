@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Race Drivin'](https://www.myabandonware.com/game/race-drivin-1ho)
-* [Puyo Puyo Sun](https://www.myabandonware.com/game/puyo-puyo-sun-99f)
-* [San Francisco Rush: Extreme Racing](https://www.myabandonware.com/game/san-francisco-rush-extreme-racing-dh1)
-* [Sea Wolf](https://www.myabandonware.com/game/sea-wolf-5r9)
-* [RoadBlasters](https://www.myabandonware.com/game/roadblasters-531)
+* [CyberBox](https://www.myabandonware.com/game/cyberbox-sxg)
+* [Cyber Cop](https://www.myabandonware.com/game/cyber-cop-sxf)
+* [Chameleon](https://www.myabandonware.com/game/chameleon-s5r)
+* [Naughty Boy](https://www.myabandonware.com/game/naughty-boy-ru0)
+* [Pachinko-U.F.O.](https://www.myabandonware.com/game/pachinko-u-f-o-qkm)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [HardBall III: Big League Ballpark Disk](https://www.myabandonware.com/game/hardball-iii-big-league-ballpark-disk-bsi)
-* [Creature Create](https://www.myabandonware.com/game/creature-create-msy)
-* [Schwarzschild WING2](https://www.myabandonware.com/game/schwarzschild-wing2-ds7)
+* [Cobra](https://www.myabandonware.com/game/cobra-hke)
+* [The Toyottes](https://www.myabandonware.com/game/the-toyottes-l3o)
+* [Kool-Aid Man](https://www.myabandonware.com/game/kool-aid-man-ecg)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
