@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-670f68e96e1e39c5e9d71a5e108c9ac6
+f6fbec58df93ed3d32ef6f31c6544f08
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm vintage Czech glass heart beads](https://sojourner.biz/images/cache/glass/GL0081.200.jpg)](https://sojourner.biz/beads/glass/12-mm-vintage-czech-glass-heart-beads.html "12 mm vintage Czech glass heart beads")
+[![Oval Swarovski rose bracelet clasp](https://sojourner.biz/images/cache/SKU0510front.200.jpg)](https://sojourner.biz/clasps/swarovski/oval-swarovski-rose-bracelet-clasp.html "Oval Swarovski rose bracelet clasp")
 
-#### [12 mm vintage Czech glass heart beads](https://sojourner.biz/beads/glass/12-mm-vintage-czech-glass-heart-beads.html "12 mm vintage Czech glass heart beads")
+#### [Oval Swarovski rose bracelet clasp](https://sojourner.biz/clasps/swarovski/oval-swarovski-rose-bracelet-clasp.html "Oval Swarovski rose bracelet clasp")
 
-$5.00
+$29.00
 
 ### Best Sellers
 
