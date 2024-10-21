@@ -128,6 +128,7 @@
                 * [HYGIENFRESH POINT Brochure](https://www.tintolav.com/en/download/brochures/hygienfresh-point-brochure.html)
                 * [WET & FRESH CLEANING Brochure](https://www.tintolav.com/en/download/brochures/wet-fresh-cleaning-brochure.html)
                 * [HYGIENISING LINE Brochure](https://www.tintolav.com/en/download/brochures/hygienising-line-brochure.html)
+                * [Christmas 2024 Brochure](https://www.tintolav.com/en/download/brochures/christmas-2024-brochure.html)
                 
         * [Presentations](https://www.tintolav.com/en/download/presentations.html)
         
