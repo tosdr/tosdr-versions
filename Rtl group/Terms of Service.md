@@ -307,6 +307,30 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Fremantle x Lantern Pictures](/.galleries/images/Fremantle_Lantern-Pictures_16-9.jpg?__scale=undefined&description=)
+    
+    Fremantle x Lantern Pictures
+    
+    21.10.2024
+    
+    Fremantle Australia signs an exclusive multi-year partnership with new Australian production company Lantern Pictures.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-x-Lantern-Pictures/)
+    
+* [![slide-Digitalising <i>Stern</i>](/.galleries/images/Stern_16-9.png?__scale=undefined&description=)
+    
+    Digitalising _Stern_
+    
+    17.10.2024
+    
+    Stunning visuals, user-centric features and clear navigation: RTL Deutschland is launching a new website and a completely redeveloped app for its leading current affairs magazine _Stern_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Digitalising-Stern/)
+    
+* [![slide-Fremantle launches <i>Master of the Game</i>](/.galleries/images/Master-of-the-Game_16-9.jpg?__scale=undefined&description=)
+    
+    Fremantle launches _Master of the Game_
+    
+    16.10.2024
+    
+    Fremantle partnered with TF1 in France to launch original psychological reality format _Master of the Game_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-launches-Master-of-the-Game/)
+    
 * [![slide-RTL Nederland's Content Event](/.galleries/images/RTL-Content-Event_16-9.jpg?__scale=undefined&description=)
     
     RTL Nederland's Content Event
