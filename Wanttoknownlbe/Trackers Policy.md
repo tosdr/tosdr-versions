@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/griekenland-d-day-europa/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kom-je-ook-911-bevrijding-van-bedrog/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
