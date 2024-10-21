@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can a ct scan detect cancer in a lung?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-detect-cancer-in-lung.jpg "Can a CT Scan Detect Cancer in a Lung?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/ "Can a CT Scan Detect Cancer in a Lung?")
+[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
 
-[#### Can a CT Scan Detect Cancer in a Lung?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/)
+[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
 
-[![What are the symptoms of asbestos lung cancer?](https://www.pintas.com/wp-content/uploads/2020/03/mesothelioma-lawsuit-lawyer-what-are-the-symptoms-of-asbestos-lung-cancer.jpg "What Are the Symptoms of Asbestos Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer "What Are the Symptoms of Asbestos Lung Cancer?")
+[![How do doctors check for mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-do-doctors-check-for-mesothelioma-lung-cancer-scaled.jpg "How Do Doctors Check for Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/ "How Do Doctors Check for Mesothelioma Lung Cancer?")
 
-[#### What Are the Symptoms of Asbestos Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer)
+[#### How Do Doctors Check for Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/)
 
-[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
+[![What causes scabies in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-scabies-what-causes-scabies-in-nursing-homes.jpg "What Causes Scabies in Nursing Homes?")](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/ "What Causes Scabies in Nursing Homes?")
 
-[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
+[#### What Causes Scabies in Nursing Homes?](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
