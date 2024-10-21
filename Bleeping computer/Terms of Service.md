@@ -36,6 +36,9 @@
         
         Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
     
+    * [![Prepare for your first IT job with this $40 CompTIA course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Prepare for your first IT job with this $40 CompTIA course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-it-job-with-this-40-comptia-course-bundle/)
     * [![Severe flaws in E2EE cloud storage platforms used by millions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
@@ -45,9 +48,6 @@
     * [![Ditch the subscriptions—this Koofr cloud storage deal is only $120 for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ditch the subscriptions—this Koofr cloud storage deal is only $120 for life](https://www.bleepingcomputer.com/offer/deals/ditch-the-subscriptions-this-koofr-cloud-storage-deal-is-only-120-for-life/)
-    * [![Microsoft creates fake Azure tenants to pull phishers into honeypots](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
