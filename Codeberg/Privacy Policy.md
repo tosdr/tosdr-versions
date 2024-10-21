@@ -4,7 +4,7 @@ This website requires JavaScript.
 
 [Explore](https://codeberg.org/explore/repos) [About](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F) [FAQ](https://docs.codeberg.org/getting-started/faq/) [Donate](https://docs.codeberg.org/improving-codeberg/#donate-to-codeberg) [Help](https://docs.codeberg.org/)
 
-[Register](https://codeberg.org/user/cbrgp/iJMEUzh) [Sign In](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fPrivacyPolicy.md)
+[Register](https://codeberg.org/user/cbrgp/38Z8EHp) [Sign in](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fPrivacyPolicy.md)
 
 ![Codeberg/org](/repo-avatars/67b24ac1ac2b23c0229a87f0d2d0cccabdc7f490c5a9c70b439c6d140f81e84d)
 
@@ -14,7 +14,7 @@ This website requires JavaScript.
 
 Watch [38](https://codeberg.org/Codeberg/org/watchers)
 
-Star [60](https://codeberg.org/Codeberg/org/stars)
+Star [61](https://codeberg.org/Codeberg/org/stars)
 
 Fork
 
@@ -101,7 +101,7 @@ The pre-announcement subscription list was intended for single use only and has 
 * [Licenses](https://codeberg.org/assets/licenses.txt)
 * [Terms of Use](https://codeberg.org/codeberg/org/src/TermsOfUse.md)
 
-[Blog](https://blog.codeberg.org/) | [Mastodon](https://social.anoxinon.de/@Codeberg) | [Matrix Space](https://matrix.to/#/#codeberg-space:matrix.org)
+[Blog](https://blog.codeberg.org/) | [Mastodon](https://social.anoxinon.de/@Codeberg) | [Matrix Space](https://matrix.to/#/#codeberg-space:matrix.org) | [Powered by Forgejo](https://codeberg.org/Codeberg-Infrastructure/forgejo)
 
 English
 
