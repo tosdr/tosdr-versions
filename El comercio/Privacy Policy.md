@@ -31,6 +31,194 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El maltrato
+===========
+
+Urge remediar estos obstáculos que deslustran los encantos únicos del Quito histórico y rebelde.
+------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+Uno de los placeres de los **capitalinos** y de los **visitantes** a la “Carita de Dios” es disfrutar de la belleza de su **centro colonial**, cruzado por estrechas calles abrazadas por casas de portones altos, con tallados de madera, grandes aldabas de pesado hierro, **paredes** que ceden espacios a ventanas pequeñas, balcones estrechos, adornados con **macetas** repletas de plantas y **flores multicolores**, con varillas de acero retorcidas con arte y buen gusto adelante y a los lados, en un paisaje que rinde homenaje a tiempos pasados, pero que se interrumpe violentamente, por la **intromisión** de contadas **construcciones** con tinte moderno y no siempre con buen gusto, que rompen la **armonía tradicional**. Desgraciadamente, esa visión del hermoso **centro histórico de la ciudad**, se altera con un ambiente ruidoso, invadido de gritos y de ofertas, a viva voz, de una inmensa **muchedumbre** que ha convertido a las **viejas calles** en un mercado móvil y **desordenado**. Nuestra mente recuerda con **añoranza**, épocas pasadas cuando alcaldes como Paz, Sevilla, Vallejo y especialmente el general Paco Moncayo, hicieron **esfuerzos** y consiguieron que las ventas se centren en **lugares adecuados** y no invadan las calles y los **atrios** de los majestuosos templos que, por hermosos y **monumentales**, hacen de esta **ciudad**, única en el mundo. Las **aglomeraciones** desordenadas y **bulliciosas** conspiran contra el deleite de los **visitantes**.  
+  
+Un **atractivo** especial es la utilización del “**metro**”, sistema de **transporte moderno,** para nuestro medio, con **estaciones límpidas** y tan elegantes, como las de los mejores **metros** de otras ciudades. Lamentablemente, el **público** que se transporta por este medio, carece del orden y de la **educación** indispensables para usarlo correctamente. Es necesario **educar** a la **gente** y es **obligación** del **municipio** el hacerlo de una manera sencilla, con **mensajes** a través de **alto parlante** o con letreros proyectados en las **estaciones**, fundamentalmente para solicitar que, al **detenerse el metro**, los pasajeros que entran lo hagan después de la salida de los que llegan, para evitar el cruce con los “**apurados**” o los “**avivados**” que, por tratar de ser los primeros, irrumpen violentamente y **atropellan** a los demás **usuarios**.  
+  
+Es norma universal brindar **preferencia** en la **atención a ancianos**, **discapacitados** y **mujeres embarazadas**, inexplicablemente ni en la compra de boletos para el uso del metro, ni en el ingreso a los museos se respeta esta **disposición**, que es aplicada en bancos y en otros servicios de **atención al público** y es preocupante constatar la existencia de largas filas y en ellas incluidas personas, con **limitaciones funcionales**, obligadas a soportar la **incomodidad** de prolongadas esperas, hasta alcanzar el acceso a las ventanillas o a los **museos**.
+
+La **capacitación** que debe darse a los **ciudadanos**, tiene que ser más exigente para el personal responsable de mantener el orden en el **ingreso** a los sitios que constituyen **atracciones culturales**, para evitar molestias para el público, como ejemplo, haber detenido la entrada de una gran cantidad de visitantes a los **museos**, porque los **empleados** encargados del control, han ido a almorzar, sin dejar el reemplazo que dé continuidad al **flujo de ciudadanos**; son situaciones simples, pero anormales, que deben ser corregidas por las **autoridades municipales**, para privilegiar la **integración** de los habitantes de esta ciudad y de sus **visitantes con la historia**, con el **patriotismo** de sus antepasados y con la **riqueza cultural** y artística de iglesias, calles, plazas y museos de esta **hermosa capital**.
+
+Urge remediar estos **obstáculos** que deslustran los **encantos** únicos del **Quito histórico** y **rebelde**.
+
+Cartas a Quito / 21 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este lunes 21 de octubre de 2024
+----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+**El doble discurso**
+---------------------
+
+En los actuales momentos en la política se advierte la propensión de los políticos a exhibir un doble discurso, por un lado, las ofertas y propaganda para hacer creer a la gente de que sus propuestas son ciertas y, por otro lado, ya en la realidad del ejercicio de sus funciones, se advierte la inutilidad de sus acciones con relación a las propuestas y terminan sus mandatos sin haber cumplido lo que habían prometido.
+
+Esta actitud no transparente hace pensar que muchas veces la personalidad humana se reviste de esa doble actitud, que lleva a ese doble discurso, es decir, por un lado, haciendo aparecer la parte que creemos es la verdadera y real y, por otro lado, lo que en el ser más íntimo las personas están pensando de manera diferente. Viene a ser que vivimos de las apariencias, queremos a veces hacer creer a la gente cosas distintas a lo que propiamente somos en nuestro ser más interior. Quiere decir que no siempre transparentamos las cosas, muchas veces vivimos solo de una falsa presentación de nosotros y pensando solamente en nuestro propio beneficio.
+
+Debemos concientizar en todo momento en presentarnos con una sola personalidad, un solo discurso, ser lo que somos y demostrarnos de manera auténtica, sin lugar a desfiguraciones, ni apreciaciones que quiten el verdadero valor de nuestras más genuinas intenciones, siempre pensando en el bien común, la solidaridad y el apoyo humanitario, especialmente ahora que nos vemos abocados a tantas situaciones negativas, que obligan a que se acreciente ese espíritu de bien y de fraternidad.
+
+Que importante en la vida no vivir con un doble discurso, pues eso desfigura la verdadera razón de nuestro comportamiento, que si creemos ser hombres de bien, debemos siempre comportarnos como tal deseamos ser y no hacer creer a las personas que somos diferentes o que con engaños hacer cosas que no son las reales y verdaderas. Vivamos con plena autenticidad y siempre acordes a nuestra propia naturaleza, tendiente siempre al bien común y a un comportamiento sano y correcto.
+
+No dejemos que las circunstancias de la vida nos transformen y nos confundan y actuemos de forma diferente a cómo realmente somos, pues nunca debemos dejarnos arrastrar por las circunstancias pasajeras, por las banalidades de la vida y por aquellos momentos de éxitos y logros, que a lo mejor son solo transitorios y más bien concentrémonos en la vida que nos signifique una tranquilidad y una paz interior, que nos permita realmente desarrollar nuestro ser más íntimo hacia todo aquello que signifique felicidad y plenitud.
+
+Hernán Patricio Orcés Salvador
+
+Quito, los riesgos y la planificación
+=====================================
+
+Un enfoque en la prevención de riesgos podría no solo salvar vidas, sino también mitigar los daños económicos que traen consigo los desastres.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El incendio de Guápulo dejó varias casas afectadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendio-forestal-Guapulo-1.jpg)
+
+Quito, una ciudad con un entorno natural hermoso, también se enfrenta a **peligros** que no deben ser subestimados. Su ubicación entre **montañas**, la cercanía a **volcanes** activos y el crecimiento urbano desorganizado la convierten en una **metrópolis altamente vulnerable** a desastres naturales y provocados por el ser humano[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") La pregunta que surge es clara: ¿está la capital de Ecuador verdaderamente preparada para enfrentar estos **riesgos**?
+
+A primera vista, las autoridades en varias escalas parecen tener respuestas para todos los problemas. Se mencionan **planes de contingencia** para emergencias, protocolos establecidos y un Plan Metropolitano de Respuesta que se activa según la magnitud de cada incidente. Sin embargo, al escuchar a los expertos en gestión de riesgos, la realidad parece ser más [compleja](https://www.elcomercio.com/actualidad/quito/riesgos-incendios-deslaves-quito-ciudad.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/actualidad/quito/riesgos-incendios-deslaves-quito-ciudad.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front").
+
+> Un enfoque en la prevención podría no solo salvar vidas, sino también mitigar los daños económicos que traen consigo los desastres.
+
+Uno de los puntos críticos es la falta de integración de los **planes de contingencia** en el entramado urbano. Los planes suelen ser elaborados por consultorías externas, lo que, en teoría, no es malo, pero en la práctica resulta problemático si las autoridades no comprenden cómo **implementarlos**. Esto refleja una desconexión preocupante entre la gestión técnica y la operativa. De nada sirve tener un plan si los responsables de ejecutarlo no están familiarizados con sus detalles. Más allá de la mera existencia de documentos, es imperativo que la autoridad se enfoque en la **capacitación** constante de su personal y en la actualización de estos planes conforme cambia la ciudad.
+
+Los **riesgos en Quito** son muchos y diversos, desde incendios forestales en verano, deslaves e inundaciones durante la temporada de lluvias, hasta la **amenaza** siempre presente de una erupción volcánica o un terremoto.
+
+Lo que parece faltar, y aquí radica la crítica más profunda, es una **verdadera cultura de prevención**. Si bien hay esfuerzos para limpiar quebradas y se han realizado algunos estudios para identificar zonas vulnerables, los expertos coinciden en que se trata de **esfuerzos aislados**. Los simulacros y campañas de concienciación, aunque valiosos, no sustituyen una **planificación territorial rigurosa**. Un enfoque en la prevención podría no solo salvar vidas, sino también mitigar los daños económicos que traen consigo los **desastres**.
+
+La **gestión de riesgos** no debe ser vista únicamente desde una perspectiva reactiva. Quito tiene la capacidad de reacción, eso está claro; su **personal de emergencia** está bien entrenado y, en general, la ciudad cuenta con tecnología y recursos económicos adecuados para enfrentar crisis. Sin embargo, el desafío no está solo en responder a una emergencia, sino en evitar que se convierta en un desastre en primer lugar. Los riesgos se deben gestionar desde una **visión integral** que contemple no solo la respuesta, sino la planificación de largo plazo, basada en evidencia y ajustada a las realidades territoriales.
+
+Las autoridades deben tomar la **responsabilidad** de no solo responder ante emergencias, sino también de anticiparlas. Esto implica una revisión constante de la normativa existente, la inversión en educación y la participación activa de la ciudadanía en la gestión de su propio entorno. Solo así se podrá construir un **Quito verdaderamente resiliente**.
+
+Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno
+==================================================================================
+
+El presidente Daniel Noboa anunció que Ecuador enfrentará cortes de luz, por al menos tres semanas más, a pesar de las medidas gubernamentales.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz programados se iniciaron el 22 de septiembre del 2024. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-21.jpg)
+
+Los **cortes de luz** se venían venir desde meses atrás. Sin embargo, el 21 de septiembre del 2024 el Gobierno de **Daniel Noboa** reconoció que **Ecuador** pasaba por una **grave crisis energética** y programó apagones de hasta 11 horas en varias provincias del país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+* [Empresa minera se desconecta de la energía pública de Ecuador](https://www.elcomercio.com/actualidad/negocios/empresa-minera-desconecta-red-electrica-ecuador-cortes-luz.html "Empresa minera se desconecta de la energía  pública de Ecuador")
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
+
+En las cuatro semanas posteriores se han registrado cambio de autoridades en el **Ministerio de Energía**, inicios de **procesos de licitación**, envió de **proyectos de ley, eliminación de impuestos y aranceles para generadores eléctricos, revisión de subsidios eléctricos, entre otros.**
+
+Pese a todas las acciones gubernamentales, **Ecuador** tendrá apagones por, al menos, tres semanas más. Así lo anunció el presidente **Daniel Noboa**, el jueves 17 de octubre de 2024.
+
+Cronología de las principales de acciones del Gobierno por cortes de luz
+------------------------------------------------------------------------
+
+Conozca una cronología de las principales de acciones que ha tomado el Gobierno en medio de la crisis energética.
+
+### 21 de septiembre de 2024 en alerta roja por sequía
+
+El **Comité de Operaciones de Emergencia (COE)**, presidido por la ministra de Ambiente, **Inés Manzano**, declaró en **alerta roja** a varias provincias del país. La decisión se tomó por la grave sequía y los incendios forestales que vivía esos días el Ecuador. Ese mismo día se anunciaron **cortes de luz** de hasta 11 horas al día.
+
+### Cortes de luz desde el 22 de septiembre de 2024
+
+Desde las 08:00 de ese domingo se registraron los apagones programados en 12 provincias del Ecuador. El alcalde de Cuenca, **Cristian Zamora**, cuestionó que la provincia del Azuay fuera incluida en racionamientos, ya que allí se encuentra el complejo hidroeléctrico Paute, el más grande del país.
+
+### 23 de septiembre de 2024 se anuncian cortes de luz nacionales
+
+Se anuncia la suspensión del **servicio de electricidad** en todo el Ecuador. A las 06:00 de ese día empezaron los cortes de luz de 11 horas diarias. La decisión de incrementar los apagones se tomó tras una visita técnica al **embalse de Mazar**. Este reservorio alimenta el complejo hidroeléctrico de la cuenca del río Paute, que genera más del 30% de la electricidad del Ecuador y es el más afectado por la sequía.
+
+### 26 de septiembre de 2024 comienzan procesos de licitación por cortes de luz
+
+El Gobierno de **Daniel Noboa** inició tres procesos licitatorios para la adquisición de dos nuevas centrales de generación térmica. Se trató de una central termoeléctrica de 135 MW (megavatios) para el sector de Pascuales (Guayaquil). Una segunda, de 28 MW para Santa Elena IV, y la incorporación de 15 MW a la actual central Santa Elena II, las dos en la provincia de Santa Elena. Se prevé que estos equipos estén operativos en las próximas semanas.
+
+### 28 de septiembre de 2024 se envía un proyecto urgente ante cortes de luz
+
+El presidente **Daniel Noboa** envió a la **Asamblea Nacional** un proyecto de ley con el carácter económico urgente. El objetivo de la nueva normativa es impulsar las **inversiones privadas** en el sector eléctrico. El legislativo tiene este mes de octubre de 2024 para tratar dicho proyecto.
+
+El principal cambio de la normativa consiste en aumentar de 10 a 100 megavatios el límite de capacidad para que una empresa privada pueda desarrollar un proyecto de generación renovable, como solar, eólico o geotérmico.
+
+### 3 de octubre de 2024 se decreta reducción a 0% de IVA para generadores
+
+El presidente **Daniel Noboa** dispuso la r**educción a tarifa 0% del impuesto al valor agregado (IVA)** para la importación y venta local de generadores eléctricos. Esta medida estará vigente hasta el 31 de diciembre de 2024.
+
+### 5 de octubre de 2024 se disponen cortes de luz de 10 horas para sector industrial
+
+El **Operador Nacional de Electricidad (Cenace)** dispuso que el sector industrial tenga cortes de luz desde las 08:00 a las 18:00 por 15 días consecutivos. La medida se tomó para recuperar y preservar el **embalse de Mazar**. Las zonas industriales de **Ambato y Cuenca** se apagaron inmediatamente.
+
+### 7 de octubre de 2024 se rechaza el ‘apagón industrial’
+
+El sector industrial rechaza la medida, a la que denominaron apagón industrial. Esa misma tarde, los empresarios se reúnen con las autoridades y se revierte la medida. Los apagones para el sector industrial se modificaron.
+
+### 9 de octubre de 2024 renuncia el Ministro de Energía
+
+El exministro de Energía, **Antonio Goncalves,** sale del Gobierno y encargan la Cartera de Estado a la ministra de Ambiente, **Inés Manzano**.
+
+### 11 de octubre de 2024 se decreta 0% de aranceles para generadores
+
+Desde el 11 de octubre de 2024, las empresas pueden importar generadores eléctricos con 0% de arancel, por disposición del Comité de Comercio Exterior (Comex). Anteriormente, a los generadores eléctricos se aplica un arancel de entre 5% y 20% para su ingreso a Ecuador. 
+
+16 de octubre de 2024 se ordena eliminar subsidio a mineras
+-----------------------------------------------------------
+
+**Daniel Noboa** anunció la eliminación del **subsidio eléctrico** para las mineras en Ecuador. Según el mandatario, estas empresas consumen más energía de la que necesita un hospital. Desde la Cámara de Minería del Ecuador (CME) aseguraron que no se oponen a la revisión de las tarifas, siempre y cuando sea haga de forma técnica.
+
+### 18 de octubre de 2024 se anuncia cortes de luz por tres semanas más
+
+**Daniel Noboa** anunció que los **cortes de luz** continuarán por tres semanas más. Los cortes irán reduciéndose hasta llegar a 4 horas diarias.
+
+Cortes de luz en Cuenca este lunes 21 octubre
+=============================================
+
+Los cortes de luz en Cuenca este lunes 21 de octubre son de hasta ocho horas que se dividen en dos franjas.
+-----------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca este lunes 21 de octubre son definidos por Centrosur.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-lunes-21-octubre.jpg)
+
+Los **cortes de luz** en **Cuenca** este **lunes 21 de octubre** son de hasta ocho horas.
+
+**Centrosur** dividió los cortes de luz en la capital en dos franjas horarias, dependiendo del sector.
+
+### Más noticias:
+
+* [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+* [Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia](https://www.elcomercio.com/actualidad/ecuador/rio-cuenca-estiaje-sector-lluvia.html "Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia")
+
+Horarios de cortes de luz en Cuenca este lunes 21 de octubre
+------------------------------------------------------------
+
+La situación de los embalses de las **centrales hidroeléctricas** del país aún no es óptima.
+
+El **río Tomebamba** en Cuenca nuevamente estuvo en estiaje esta semana y los caudales de los otros tres ríos aún es bajo.
+
+Sin embargo, el Gobierno de **Daniel Noboa** dispuso la reducción de las horas de cortes de luz programados hasta el **10 de noviembre.**
+
+En la semana que va del 28 de octubre al 3 de noviembre, los cortes de luz serán de **seis horas**.
+
+Y, en la tercera semana de reducción, que va del 4 al 10 de noviembre, el Gobierno ordenó cortes de **cuatro horas.**
+
+La ministra de Energía encargada, **Inés Manzano**, aseguró que, para diciembre de este año, los cortes ya serían mínimos.
+
+La reducción paulatina aplica para el **sector residencial**; para el **sector industrial** los horarios se mantienen.
+
+Esta es una más de las medidas que el Gobierno de Daniel Noboa toma para palear los efectos de la **crisis energética** en el país.
+
+Otras medidas anunciadas fueron la militarización de las **hidroeléctricas**, el trasporte de **soluciones móviles** de energía en aviones Hércules.
+
+Además, la suspensión de la contratación de **barcazas** y otras.
+
+A continuación, los **horarios de los cortes de luz en Cuenca este lunes 21 de octubre**:
+
+La reducción de horas en los cortes de luz también provocó cambios en los **horarios escolares**.
+
+Desde este lunes, la jornada **vespertina** irá hasta las 20:00 y, en la jornada **nocturna**, 50 instituciones volverán a la presencialidad.
+
 Cortes de luz en Guayaquil este lunes 21 de octubre
 ===================================================
 
@@ -778,271 +966,3 @@ Modificaciones a artículos claves de la Ley Orgánica de Comunicación
 Entre las reformas más relevantes que introduce el **Decreto Ejecutivo** está la sustitución del artículo 2 de la **Ley Orgánica de Comunicación**. En esta se define el ámbito de aplicación de la normativa, ampliando su carácter obligatorio para el Estado, personas y medios de comunicación social.
 
 El artículo 3 también ha sido modificado, regulando la participación de **capital extranjero en los medios de comunicación**. Se establece que los extranjeros que deseen ser accionistas de medios nacionales deberán residir de manera permanente en Ecuador, de acuerdo con la ley.
-
-Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool
-==============================================================
-
-Moises Caicedo fue capitán del Chelsea y asistió en uno de los goles a pesar de la derrota ante Liverpool.
-----------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en el partido del Chelsea y Liverpool en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-38-1.jpg)
-
-El **Liverpool** se sostuvo en el liderato de la Premier League tras superar al Chelsea de **Moisés Caicedo** (2-1), derrotado por el ‘efecto Curtis Jones’, agitador clave de un partido en el que evitó un tanto de Cole Palmer, provocó un penalti que transformó **Mohamed Salah** y marcó el gol de la victoria con el que su equipo sumó tres puntos clave en la pelea por el título.
-
-Jones estuvo presente en casi todas las acciones importantes del choque. Sus aportaciones fueron decisivas para impulsar al Liverpool, que contestó a la victoria sobre la bocina del **Manchester City** en el estadio del Wolves (1-2).
-
-### Más noticias:
-
-* [¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-de-moises-caicedo-contra-el-liverpool.html "¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?")
-* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
-* [Moisés Caicedo, un mentor para Óscar Zambrano](https://www.elcomercio.com/deportes/futbol/moises-caicedo-mentor-oscar-zambrano-seleccion-ecuador.html "Moisés Caicedo, un mentor para Óscar Zambrano")
-
-Los tres puntos que consiguieron los hombres dirigidos por **Pep Guardiola** obligaban a los ‘Reds’ a sumar una victoria para mantenerse en la primera plaza; y la derrota del Arsenal este sábado en su visita al Bournemouth (2-0) daba una opción al **Chelsea** de escalar hasta la tercera posición. Por eso, el duelo entre dos de los ‘Big Six’ del torneo tenía cierta trascendencia pese a estar todavía en la octava jornada del torneo.
-
-Y, aunque los puntos se quedaron en Anfield, el Liverpool tuvo que sudar la gota gorda para acabar con la resistencia de un equipo que llegó a la cita en un gran estado de forma, tal vez en su mejor momento en mucho tiempo, con **Enzo Maresca y Cole Palmer** en plena efervescencia.
-
-Ambos fueron elegidos mejor entrenador y mejor jugador del mes de septiembre, respectivamente y el cuadro londinense acumulaba siete encuentros oficiales sin perder, con victorias contundentes en estadios como el del **Wolves** (2-6) o el **West Ham** (0-3).
-
-Algo ha cambiado en un equipo deprimido la temporada pasada pero con ilusiones renovadas en la actual. Su eficacia goleadora, **16 tantos** en la Premier League, contrastaba con la seguridad defensiva del Liverpool, que sólo ha encajado un par de goles en los primeros compases de la Liga.
-
-El Liverpool llegaba bien ante el Chelsea de Moisés Caicedo
------------------------------------------------------------
-
-El técnico Arne Slot tiene motivos para estar satisfecho y por eso confió en casi todas las piezas que triunfaron la pasada jornada. Apenas hizo dos cambios: en el lateral izquierdo entró Andy Robertson por **Kostas Tsimikas y Dominik Szoboszlai** desplazó a Alexis Mac Allister en el centro del campo.
-
-Maresca pudo dar galones a su capitán, **Reece James**, que apareció por primera vez en una alineación desde agosto, cuando fue titular en un amistoso ante el Real Madrid.Recuperado de su lesión, dejó el lateral derecho para formar parte de una línea de tres centrales con Noni Madueke de lateral largo por un lado y Malo Gusto, con **Marc Cucurella** sancionado, apareció por el otro. En el centro del campo sorprendió con Roméo Lavia, que sentó en el banquillo a Enzo Fernández.
-
-El belga agradó en su **segunda titularidad** del curso. No es tan buen distribuidor como el argentino, pero tiene gestos de centrocampista valiente. Acelera bien hacia arriba y es un buen conductor para salir en pocos segundos rompiendo líneas.
-
-Lo demostró en la primera parte, en la que fue de lo más potable de su equipo con Cole Palmer desaparecido. La estrella del **Chelsea** apenas dio tres pases hacia delante y sólo dispuso de un par de opciones: un disparo al borde del descanso que rozó el larguero y otro intentó que interceptó Curtis Jones.
-
-Precisamente, fue Jones quien se erigió como el gran protagonista del Liverpool. No sólo rescató a su equipo jugándose el pellejo para evitar un posible tanto de Palmer, sino que también provocó el único gol del acto inicial, obra de **Mohamed Salah** desde el punto de penalti. Fue derribado dentro del área por Levi Colwill y el egipcio, con un zurdazo seco y preciso, no falló desde los once metros.
-
-Moisés Caicedo, imperial con el Chelsea pese a la derrota
----------------------------------------------------------
-
-> ¡CON ASISTENCIA DE MOI!  
->   
-> Chelsea empata el partido ante Liverpool, con un gol de Nico Jackson, tras un gran pase de 🇪🇨 Moisés Caicedo. Luego de la revisión de VAR se convalidó el tanto.  
->   
-> ▶️ Más 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [#PremierLeague](https://twitter.com/hashtag/PremierLeague?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/D3wWddV6Np](https://t.co/D3wWddV6Np)
-> 
-> — ESPN Ecuador (@ESPNEcuador) [October 20, 2024](https://twitter.com/ESPNEcuador/status/1848043925010842040?ref_src=twsrc%5Etfw)
-
-Anfield no se divirtió en exceso con su equipo, pero aplaudió su sobrada solvencia. No sufrió apenas, por lo menos durante los 45 minutos iniciales, en los que además pudo aumentar su renta con un tanto anulado a **Cody Gakpo** por fuera de juego previo de Salah y con otra acción de Jones, que rozó otro penalti tras caer dentro del área derribado por Robert Sánchez. El árbitro, John Brooks, señaló la pena máxima, pero desde el VAR fue avisado para corregir su decisión.
-
-El 1-0, a lo mejor excesivo para el **Liverpool**, lo anuló el Chelsea nada más salir de los vestuarios. Nico Jackson, que en la primera parte ya estrelló un disparo contra el palo tras asociarse con **Moisés Caicedo**, volvió entenderse con el ecuatoriano para empatar el duelo en un mano a mano frente a **Caoimhín Kelleher**. El ex del Villarreal celebró a lo grande su tanto, pero su alegría apenas duró tres minutos, los que tardó en aparecer de nuevo Jones para rematar a la red un centro de Salah.
-
-El canterano del **Liverpool** acumulaba 25 encuentros de Premier League sin marcar. En concreto, desde el 1 de enero de 2024, cuando celebró un gol ante el **Newcastle**. No es un hombre muy dado a marcar (16 tantos en 6 temporadas), pero apareció cuando su equipo más lo necesitaba. Salvó un gol de Palmer, provocó un penalti y dio en la diana con el gol de la victoria.
-
-El **Chelsea**, con poco más de media hora por delante para retener un punto, fue incapaz de generar ocasiones. Y **Jones**, sustituido al final y ovacionado por Anfield, se llevó toda la gloria con una actuación sobresaliente.
-
-Alineaciones del Chelsea y el Liverpool
----------------------------------------
-
-2.- **Liverpool**: Kelleher; Alexander-Arnold (Joe Gómez, min. 81), Konaté, Van Dijk, Robertson; Jones (Mac Allister, min. 81), Gravenberch, Szoboszlai; Salah, Diogo Jota (Darwin Núñez, min. 30) y Gakpo (Luis Díaz, min. 66).
-
-1.- **Chelsea**; Robert Sánchez; Madueke, James (Veiga, min. 53), Adarabioyo (Badiashile, min. 53), Colwill, Gusto; Caicedo, Lavia (Enzo Fernández, min 53), Sancho (Neto, min. 46); Palmer y Nico Jackson.  
-Goles: 1-0, min. 29: Salah, de penalti; 1-1, min. 48: Nico Jackson; 2-1, min. 51: Jones.
-
-Emotivo mensaje de la hermana de Liam Payne: ‘Lamento no haber podido salvarte’
-===============================================================================
-
-Ruth Gibbins recordó en redes sociales al excantante de One Direction. Su novia, la madre de su hijo también postearon mensajes.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Liam Payne junto con su hermana. Foto tomada de la cuenta de ella en IG](https://www.elcomercio.com/wp-content/uploads/2024/10/Liam.jpg)
-
-La comunidad musical internacional se encuentra de luto tras la muerte del cantante Liam Payne, ex miembro de la banda **One Direction**, ocurrida el pasado miércoles en Buenos Aires. Payne, de 31 años, falleció tras caer desde el balcón de un tercer piso de un hotel, en el barrio de Palermo.
-
-Más noticias
-------------
-
-* [Padre de Liam Payne está en Buenos Aires para recoger a su hijo](https://www.elcomercio.com/tendencias/padre-de-liam-payne-esta-en-buenos-aires-para-recoger-a-su-hijo.html "Padre de Liam Payne está en Buenos Aires para recoger a su hijo")
-* [Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’](https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html "Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’")
-
-La hermana del artista, **Ruth Gibbins**, compartió un emotivo homenaje en **Instagram**, acompañado de una serie de fotografías familiares. También escribieron mensajes la madre de su hijo, su novio, sus amigos de One Direction, entre otros.
-
-La publicación de su hermana ofrece una mirada íntima a la vida del músico y la estrecha relación que mantenían, reseñó el portal Infobae.
-
-“**No creo que esto esté pasando**”, comenzó en su extensa publicación. “**Liam es mi mejor amigo**, nadie podía hacerme reír tanto como él, haciendo sus imitaciones siempre me hacía reír y le encantaba ver cuánta risa podía provocar”.
-
-“Aprendí a conducir finalmente durante las semanas de shows en vivo de _**The X Factor**_ porque no podía soportar la idea de no poder llegar a él. Solía conducir regularmente para tomar el té con él después de terminar mi trabajo, solo para estar juntos”, relató en el post.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBTWNERuM6I/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Ruth Gibbins (@roo0990)](https://www.instagram.com/p/DBTWNERuM6I/?utm_source=ig_embed&utm_campaign=loading)
-
-Gibbins también habló sobre la pasión de Liam por la música y su amor por **One Direction**: “Liam amaba a 1D, amaba a sus hermanos y hablábamos mucho de ello. Simplemente reproducía canción tras canción que habían sido grabadas pero nunca utilizadas y nos sentábamos a tener un mini concierto de 1D”.
-
-> “Liam, mi cerebro está luchando por comprender lo que está pasando y no entiendo a dónde te has ido”. “No siento que este mundo fuera lo suficientemente bueno o amable contigo, y bastante a menudo en los últimos años, has tenido que esforzarte mucho para superar todo lo que se dirigía hacia ti”.
-
-La hermana de **Liam Payne** finalizó su tributo con una disculpa y una promesa. “Gracias por cambiar mi vida, gracias por los increíbles recuerdos, gracias por ser el mejor hermano y amigo que jamás tendré. Cuidaremos de Bear y él siempre sabrá lo increíble que es su padre y cuánto lo idolatras. **Lamento no haber podido salvarte**. Te amo… cómo te extraña mi corazón”, finalizó.
-
-El mensaje de la madre de su hijo Bear
---------------------------------------
-
-**La expareja de Payne y madre de su hijo Bear**, la cantante **Cheryl Cole**, también expresó su dolor en un comunicado público.
-
-“Mientras trato de navegar por este evento devastador y atravieso mi propio dolor en este momento indescriptiblemente doloroso, me gustaría recordar amablemente a todos que hemos perdido a un ser humano”, escribió.
-
-“Liam no era solo una estrella del pop y una celebridad, **era un hijo, un hermano, un tío, un querido amigo y el padre de nuestro hijo de siete años**”, añadió.
-
-Otros mensajes de su novia y sus amigos
----------------------------------------
-
-**Kate Cassidy**, la novia actual de Liam, compartió un mensaje en Instagram expresando su tristeza y afirmando que amará a su “ángel” por el resto de su vida. “**He estado completamente perdida**”, escribió, añadiendo que “nada se siente real”.
-
-Los ex compañeros de banda de **Liam Payne** en **One Direction** –**Harry Styles**, **Niall Horan**, **Louis Tomlinson** y **Zayn Malik**– emitieron un comunicado conjunto expresando su devastación por la pérdida.
-
-“En su momento, y cuando todos puedan, habrá más que decir”, afirmaron. “Por ahora, **tomaremos un tiempo para llorar y procesar la pérdida de nuestro hermano**, a quien amábamos profundamente”.
-
-En Bolivia se impulsa el primer ‘Huerto Smart’
-==============================================
-
-La idea fue gestada mediante una alianza entre Movimiento Propacha y la empresa desarrolladora de tecnología Cruz Verde La Paz.
--------------------------------------------------------------------------------------------------------------------------------
-
-![La meta es llegar al centenar de huertos inteligentes en escuelas, hogares de ancianos u orfanatos.](https://www.elcomercio.com/wp-content/uploads/2024/10/produccion-sostenible-bolivia.jpg)
-
-**Lechugas, albahaca** y **apio**, entre otros, son parte de la producción sostenible del primer ‘Huerto Smart Educativo’ de Bolivia. Es un proyecto creado por jóvenes que une el **cultivo hidropónico** con la tecnología y educación para contribuir a la **seguridad alimentaria local** y aportar a la adaptación al cambio climático.
-
-### Más noticias
-
-* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
-* [Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia](https://www.elcomercio.com/actualidad/mundo/bloqueos-carreteras-edefensa-evo-morales-concentran-centro-bolivia.html "Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia")
-* [Premio Nobel de Literatura 2024 es para la surcoreana Han Kang](https://www.elcomercio.com/actualidad/mundo/premio-nobel-de-literatura-2024-es-para-surcoreana-han-kang.html "Premio Nobel de Literatura 2024 es para la surcoreana Han Kang")
-
-La idea fue gestada mediante una **alianza entre la organización Movimiento Propacha** y la empresa desarrolladora de tecnología Cruz Verde La Paz Srl., ambas integradas por jóvenes menores de 33 años, dijo Guillermo Mallea, director ejecutivo de la primera entidad.
-
-La unión entre ambos “permitió hacer un modelo que busca **transformar a las unidades** educativas en centros de producción con muy buenos resultados”, señaló.
-
-Los jóvenes se postularon en 2022 al **Fondo de Iniciativas Ciudadanas** (FIC) del Fondo Mundial para la Naturaleza (WWF en inglés), consiguiendo el apoyo para instalar un primer prototipo del huerto en el colegio Felipe II en La Paz.
-
-En 2023 fueron reconocidos entre las **50 mejores ideas de soluciones climáticas** lideradas por jóvenes en el mundo, dentro de la iniciativa Youth4Climate que impulsan el Programa de Naciones Unidas para el Desarrollo (PNUD) y el Gobierno de Italia.
-
-A esa convocatoria se presentaron **1 100 propuestas de 63 países,** y los ganadores recibieron financiación que, en el caso de los bolivianos, les permitió montar un **segundo huerto en el colegio Hugo Dávila**, también en La Paz, e inaugurar próximamente el tercero en el barrio periurbano de Callapa.
-
-También fue importante el apoyo de la Alcaldía de La Paz, uno de sus “aliados estratégicos” junto al PNUD.
-
-Huerto 2.0
-----------
-
-El último piso de uno de los bloques del colegio Hugo Dávila acoge a**l ‘Huerto Smart 2.0’**, con una capacidad para producir unas 1 500 plantas, **entre grandes y “bebés”**, con la intervención de 350 escolares de 12 y 13 años, indicó Mallea.
-
-El invernadero tiene un área para mezclar los nutrientes que se echarán al agua para el riego de las plantas y otra de empaque.
-
-Los espacios mayores se usan para **germinar las semillas** y para el desarrollo de las plantas con el método de la hidroponía, el cultivo sin suelo en una estructura que contiene el agua fortificada.
-
-Tecnologías desarrolladas por Cruz Verde
-----------------------------------------
-
-El huerto incluye tecnologías desarrolladas por Cruz Verde, como el ‘Cerebelum’, “un cerebro inteligente que puede conectar un invernadero y todas las máquinas a una **aplicación para ser controlado**” remotamente, explicó Félix Angulo, el gerente general de la empresa.
-
-Con esta tecnología es posible controlar desde un teléfono móvil las luces del **germinador, los ventiladores y las bombas de agua**, por lo que sólo se requiere una visita semanal para revisar que todo esté en orden.
-
-Esta versión del ‘Cerebelum’ también permite “sugerir **ciertos horarios** para que se repitan cada día y conseguir una producción exitosa”, y una segunda que está en desarrollo tendrá **“sensores y otro tipo de alarmas”** para prevenir pérdidas o fugas de agua, y “monitorear en tiempo real la producción”, agregó.
-
-También está el ‘Baby Plant’, un **germinador de cuatro pisos** capaz de hacer brotar “en menos de un metro cuadrado más de mil plantas a la vez”.
-
-Más objetivos
--------------
-
-Los escolares visitan el huerto una vez por semana y tuvieron su primera **cosecha hace unos días.** La venta de los productos permite la autosostenibilidad del proyecto, pues con lo recaudado se reinicia el ciclo de producción.
-
-Mallea destacó que se apunta a **ofrecer alimentos “de una mejor calidad,** con una mejor inocuidad y al alcance de los padres”, que son los compradores, con el fin también de disminuir la dependencia alimentaria de La Paz.
-
-La meta es llegar a**l centenar de huertos inteligentes en escuelas, hogares de ancianos u orfanatos**, entre otros, para “duplicar la cantidad de alimentos que se producen actualmente en el municipio”, indicó.
-
-Transformar agricultura boliviana
----------------------------------
-
-Angulo resaltó que también se busca transformar la **agricultura boliviana**, que actualmente tiene rezagos tecnológicos.
-
-“Dar estos saltos con el apoyo del internet y de instituciones nos permite hacer llegar tecnología de una manera más veloz a **nuestra población**. No tener que esperar 10 años a que estas tecnologías bajen de precio, sino desarrollarlas nosotros mismos desde aquí con las piezas que están a nuestro alcance”, afirmó. 
-
-Detienen a policía con un auto robado este domingo 20 de octubre, en Manta
-==========================================================================
-
-El policía detenido pertenecería a las filas del Servicio Urbano del Distrito Manta. Fue trasladado a la Unidad de Vigilancia Comunitaria
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Un policía fue detenido por circular en un auto reportado como robado.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5-3.jpg)
-
-Este **domingo 20 de octubre de 2024**, en redes sociales circularon videos sobre la detención de un policía detenido en Manta en posesión de **un vehículo reportado como robado**.
-
-### Más noticias
-
-* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
-* [Cortes de luz en Quito para este domingo 20 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-domingo-20-de-octubre-horarios.html "Cortes de luz en Quito para este domingo 20 de octubre")
-* [Cortes de luz en Guayaquil este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-domingo-20-de-octubre.html "Cortes de luz en Guayaquil este domingo 20 de octubre")
-
-La detención del policía
-------------------------
-
-En el video, se puede ver que **uniformados detuvieron a un policía**, a quien primero desarmaron y requisaron. También le pidieron sus identificaciones policiales. El policía entregó, además, más de 130 dólares en efectivo.
-
-Posteriormente**, los uniformados lo esposaron y lo llevaron a la patrulla**.
-
-Se trataría del cabo segundo Rody V., quien circulaba en **un auto Toyota Fortuner** este domingo en Manta. Cuando los uniformados revisaron la placa, constataron que se trataba de un v**ehículo reportado** como robado.
-
-Los policías le comunicaron sus derechos y le comunicaron su derecho a comunicarse con un familiar, antes de la detención. Miembros de la Policía Judicial constataron los hechos.
-
-La denuncia la habrían puesto unos **adultos mayores en Milagro,** provincia del Guayas.
-
-El policía estaría implicado en más delitos
--------------------------------------------
-
-La Policía investiga la presunta **participación del cabo en otros dos delitos**, como falsificación de [documentos](https://es.wikipedia.org/wiki/Manta_(Ecuador) "https://es.wikipedia.org/wiki/Manta_(Ecuador)"). El detenido pertenece a las filas de Servicio Urbano del Distrito Manta,
-
-Esta detención se habría dado en medio de un **operativo** que los uniformados realizaban en la vía Circunvalación este domingo. El vehículo tiene los vidrios polarizados y circulaba sin placas.
-
-Los efectivos policiales trasladaron al cabo segundo hasta la **Unidad de Vigilancia Comunitaria,** donde permanecerá detenido hasta que se dé la audiencia de calificación de flagrancia.
-
-Usuarios en las redes sociales se mostraron indignados por la revelación de este hecho. También puesto que el policía portaba su uniforme al momento de la detención.
-
-> Terrible!!  
-> Un policía fue detenido cuando circulaba en un Toyota Fortuner que estaba reportado como robado.  
-> También era investigado en el 2023 por delincuencia organizada y difusión de información restringida. [pic.twitter.com/CeFOFkqahZ](https://t.co/CeFOFkqahZ)
-> 
-> — Emergencias Ec (@EmergenciasEc) [October 20, 2024](https://twitter.com/EmergenciasEc/status/1848055389331632639?ref_src=twsrc%5Etfw)
-
-Deportivo Quito iguala con Cantera Orense en dieciseisavos de Segunda
-=====================================================================
-
-El Deportivo Quito jugó su partido de ida de dieciseisavos de final de la Segunda Categoría ante Cantera Orense.
-----------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito celebran uno de sus goles ante Cantera Orense en Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000148354.jpg)
-
-El **Deportivo Quito** continúa en su camino y sueño de ascender a la Serie B del fútbol ecuatoriano y disputa los dieciseisavos de final de la fase nacional de Segunda Categoría. En el partido de ida de la llave, el equipo capitalino igualó con Cantera Orense y definirán el pase a octavos en la revancha,
-
-Tras un viaje terrestre de más de 500 kilómetros, la ‘AKD’ llegó desde Quito hacia Machala para disputar el compromiso ante la escuadra filial de **Orense**. A las 10:00 de este domingo 20 de octubre del 2024, el balón rodó en el complejo del equipo del litoral.
-
-### Más noticias:
-
-* [Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/luis-saritama-resalta-el-papel-crucial-de-la-hinchada-del-deportivo-quito.html "Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito")
-* [Deportivo Quito vuelve a jugar en Machala a los 22 años](https://www.elcomercio.com/deportes/futbol/deportivo-quito-machala-ascenso-nacional-2.html "Deportivo Quito vuelve a jugar en Machala a los 22 años")
-* [Deportivo Quito recorre más de 1 000 kilómetros por su sueño](https://www.elcomercio.com/deportes/futbol/deportivo-quito-machala-ascenso-nacional.html "Deportivo Quito recorre más de 1 000 kilómetros por su sueño")
-
-De cara al choque ante los chullas, los orenses realizaron fichajes de experimentados jugadores como **Koob Hurtado y Holger Matamoros**. Asimismo, el equipo local llegó como uno de los mejores en cuanto a números y goles durante la campaña.
-
-En el caso de Deportivo Quito, el elenco ha mantenido la plantilla que conformó desde su inclusión en la fase nacional, a pesar de que a nivel provincial ni siquiera superó la primera fase. Entre las figuras del equipo del DT **Carlos Castro**, que había superado la fase previa al derrotar a Santa Elena FC, se encontraban nombres como el de **Iker Morante o Luis Celi.**
-
-Deportivo Quito se adelantó primero en el marcador ante Cantera Orense
-----------------------------------------------------------------------
-
-El choque entre las escuadras se mostró parejo y centrado en la media cancha. Ambos clubes consiguieron asentarse en el cotejo rápidamente y tuvieron paciencia para elucubrar sus jugadas y desarrollar **propuestas ofensivas**.
-
-Antes. delos 10 minutos, sin embargo, el Deportivo Quito encontró el gol desde la pelota parada. Tras un tiro de esquina de **Marvin Cortez** desde el costado izquierdo, **Luis Celi** puso el primero tras un cabezazo que picó en el área y superó al guardameta de Cantera Orense[.](https://es.wikipedia.org/wiki/Sociedad_Deportivo_Quito)
-
-El plantel de **Carlos Castro** consiguió mantener la ventaja hasta el final del primero tiempo del compromiso. Pese a ello, para la segunda mitad, el local reaccionó y generó más de una dificultad en la zaga visitante.
-
-Cantera Orense aumentó el ritmo y el Deportivo Quito no se sostuvo
-------------------------------------------------------------------
-
-Durante la etapa de complemento, **Cantera Orense** consiguió su empate casi de la misma forma que el Quito logró el gol durante la mitad inicial. El tanto que llegó para los locales fue similar en cuanto a tiempos y a la manera en que se produjo.
-
-El equipo de casa anotó a ocho minutos de que se iniciasen los segundos 45 minutos y también desde un tiro de esquina. Tras un envío desde el costado izquierdo, y en mismo arco de la primera anotación, **Walter Rodríguez** envió el balón al fondo de las redes con un cabezazo.
-
-Una vez que los orenses consiguieron el empate, estos también pudieron hacerse con la ventaja, sin embargo, errores propios se los impidieron. Tras la igualdad de 1-1, los clubes definirán la serie el domingo 27 de octubre del 2024 en el **Estadio Gonzalo Pozo Ripalda**.
