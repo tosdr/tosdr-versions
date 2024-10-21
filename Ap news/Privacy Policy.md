@@ -31,7 +31,7 @@ Menu
     TOP STORIES
     
     * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
-    * [Georgia islanders rushed to rescue survivors after dock walkway collapse that killed 7](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
+    * [Eyewitness video captures frantic efforts to save lives after deadly collapse of dock walkway](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
     * [Texas man whose execution was halted by subpoena set to testify to lawmakers](https://apnews.com/article/robert-roberson-texas-execution-shaken-baby-syndrome-1fc3638211444a6117ef2567fedca7e4)
     
     Newsletters
@@ -67,8 +67,8 @@ Menu
     TOP STORIES
     
     * [Harris seeks to win over Republicans uneasy about Trump with visits to Midwestern suburbs](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
-    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
-    * ['Stunning security failures' led to assassination attempt at Trump rally, House report finds](https://apnews.com/article/secret-service-trump-rally-shooting-butler-police-1210961700efa7ffb826155fa580d038)
+    * [In North Carolina, Trump and Harris navigate a hurricane and a rollercoaster governor's race](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386)
+    * [Central Park Five sues Donald Trump for 'defamatory' remarks made at presidential debate](https://apnews.com/article/central-park-five-exonerated-donald-trump-lawsuit-harris-6d7cfa4e5d117fb653d83555423b35f9)
     
     Newsletters
     
@@ -86,9 +86,9 @@ Menu
     
     TOP STORIES
     
+    * [Browns QB Deshaun Watson ruptured his Achilles tendon and is out for the season, AP source says](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
     * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
-    * [Dodgers finish off Mets and will face Yankees in the World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
-    * [Russell Wilson throws for 2 TDs, runs for another TD in Pittsburgh debut as Steelers rout Jets 37-15](https://apnews.com/article/jets-steelers-score-6bdbea40a2d48c539f7afd324afc3ac7)
+    * [Duke's Cooper Flagg makes preseason AP All-America team as ACC, Big 12, SEC each place 2 players](https://apnews.com/article/college-basketball-ap-allamerica-team-2b6f3922ae1bee8c6f8c8bb71449e2b1)
     
     Newsletters
     
@@ -108,9 +108,9 @@ Menu
     
     TOP STORIES
     
-    * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
-    * [Directioners mourning singer Liam Payne leave tributes in London and other cities](https://apnews.com/article/britain-liam-payne-vigil-kensington-gardens-c14bec35ea2b14c27bf29368cfeed4b8)
-    * ['You are not my king,' Indigenous Australian senator yells at visiting King Charles](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
+    * [Steven Spielberg, Spike Lee and Ken Burns among recipients of National Medals of Arts](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
+    * [Book Review: Richard Chizmar tells a creepy occult tale in ‘Memorials'](https://apnews.com/article/memorials-richard-chizmar-book-review-9fde44ca44cb0205c85165032aff22a3)
+    * [Book Reviews: Two new books raise big concerns about innocent men in our prisons](https://apnews.com/article/framed-john-grisham-sing-dan-slepian-review-129367e710fa9b91b684db33e4ef9d69)
     
 * [Business](https://apnews.com/business)
     
@@ -251,9 +251,9 @@ Menu
     
     TOP STORIES
     
-    * [Japan, UK and Italy to expedite next-generation fighter jet to replace F-2s and Eurofighter Typhoons](https://apnews.com/article/japan-uk-italy-fighter-jet-joint-development-1583af9ab27aac809a7848be502f7a53)
-    * [Here's how to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
-    * [Judge delays order in antitrust case requiring Google to open up its app store](https://apnews.com/article/google-antitrust-play-store-android-smartphones-4f0433854187f3d16e5c36923733be44)
+    * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
+    * [Biden administration to provide $325 million for new Michigan semiconductor factory](https://apnews.com/article/hemlock-michigan-saginaw-chips-trump-biden-harris-3294f2da8e1faf71e6bb6b3ef682e092)
+    * [How to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -263,17 +263,17 @@ Menu
     
     TOP STORIES
     
+    * [What to know about Biltmore Estate reopening after Hurricane Helene](https://apnews.com/article/biltmore-estate-reopening-hurricane-helene-asheville-305ea43fc522eb0656e0f4a374f2e4f6)
+    * [Toasted oats add flavor and crunch to hearty maple scones](https://apnews.com/article/toasted-oat-maple-scones-6e3addd883ed3f094efa974c1be2e729)
     * [What to stream: Bruce Springsteen doc, Halsey album, Billy Crystal on TV and 'Trap' thrills](https://apnews.com/article/stream-tv-movies-music-october-2024-6f97689cd1556453fe82ec8e6ea79699)
-    * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
-    * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
     * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
     * [Judge will hear arguments to block Louisiana's Ten Commandments display requirement in schools](https://apnews.com/article/louisiana-ten-commandments-require-school-law-d35f4ababed4adb99315586884432333)
-    * [Catholic priest and Indigenous activist Pérez killed by 2 gunmen in southern Mexico](https://apnews.com/article/catholic-priest-mexico-killing-455bc3fb6fe5005b7e47d4758e4c63cd)
     
     Newsletters
     
@@ -289,10 +289,10 @@ Menu
     
     * [Líbano evalúa los daños tras ataques israelíes contra una institución financiera de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-0e7987eb35e9fce3dc5bb9c212275a17)
     * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
-    * [Policías, fiscales y peritos de Sinaloa conspiraron para encubrir asesinato de rival de gobernador](https://apnews.com/article/mexico-sinaloa-mayo-zambada-cuen-rocha-moya-chapitos-9437ef5c96b69d334add1d73bc420b9d)
     * [El jefe de defensa de EEUU visita Kiev para hablar del apoyo en la lucha contra Rusia](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * [Policía en Haití combate contra coalición de pandillas que trata de apoderarse de la capital](https://apnews.com/article/haiti-pandillas-viv-ansanm-03ce4255816483bb4f03e4a9fbed1412)
     * ["Usted no es mi rey", grita una senadora australiana al rey Carlos durante su visita oficial](https://apnews.com/article/australia-rey-carlos-protesta-reino-unido-6ff946bd803c16480a766446de679029)
-    * [El líder religioso turco Fethullah Gülen muere en un exilio autoimpuesto en Pensilvania](https://apnews.com/article/gulen-turquia-erdogan-muerte-521f1c52a2fba436e47f934d1e182007)
+    * [Despliegue de misiles de EEUU en Filipinas es curial, afirma general estadounidense](https://apnews.com/article/filipinas-misiles-eeuu-indopacifico-d9f92e70c2a7d09dfadb3510e869792b)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -472,7 +472,7 @@ Submit Search
     TOP STORIES
     
     * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
-    * [Georgia islanders rushed to rescue survivors after dock walkway collapse that killed 7](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
+    * [Eyewitness video captures frantic efforts to save lives after deadly collapse of dock walkway](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
     * [Texas man whose execution was halted by subpoena set to testify to lawmakers](https://apnews.com/article/robert-roberson-texas-execution-shaken-baby-syndrome-1fc3638211444a6117ef2567fedca7e4)
     
     Newsletters
@@ -520,8 +520,8 @@ Submit Search
     TOP STORIES
     
     * [Harris seeks to win over Republicans uneasy about Trump with visits to Midwestern suburbs](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
-    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
-    * ['Stunning security failures' led to assassination attempt at Trump rally, House report finds](https://apnews.com/article/secret-service-trump-rally-shooting-butler-police-1210961700efa7ffb826155fa580d038)
+    * [In North Carolina, Trump and Harris navigate a hurricane and a rollercoaster governor's race](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386)
+    * [Central Park Five sues Donald Trump for 'defamatory' remarks made at presidential debate](https://apnews.com/article/central-park-five-exonerated-donald-trump-lawsuit-harris-6d7cfa4e5d117fb653d83555423b35f9)
     
     Newsletters
     
@@ -549,9 +549,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Browns QB Deshaun Watson ruptured his Achilles tendon and is out for the season, AP source says](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
     * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
-    * [Dodgers finish off Mets and will face Yankees in the World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
-    * [Russell Wilson throws for 2 TDs, runs for another TD in Pittsburgh debut as Steelers rout Jets 37-15](https://apnews.com/article/jets-steelers-score-6bdbea40a2d48c539f7afd324afc3ac7)
+    * [Duke's Cooper Flagg makes preseason AP All-America team as ACC, Big 12, SEC each place 2 players](https://apnews.com/article/college-basketball-ap-allamerica-team-2b6f3922ae1bee8c6f8c8bb71449e2b1)
     
     Newsletters
     
@@ -578,9 +578,9 @@ Submit Search
     
     TOP STORIES
     
-    * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
-    * [Directioners mourning singer Liam Payne leave tributes in London and other cities](https://apnews.com/article/britain-liam-payne-vigil-kensington-gardens-c14bec35ea2b14c27bf29368cfeed4b8)
-    * ['You are not my king,' Indigenous Australian senator yells at visiting King Charles](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
+    * [Steven Spielberg, Spike Lee and Ken Burns among recipients of National Medals of Arts](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
+    * [Book Review: Richard Chizmar tells a creepy occult tale in ‘Memorials'](https://apnews.com/article/memorials-richard-chizmar-book-review-9fde44ca44cb0205c85165032aff22a3)
+    * [Book Reviews: Two new books raise big concerns about innocent men in our prisons](https://apnews.com/article/framed-john-grisham-sing-dan-slepian-review-129367e710fa9b91b684db33e4ef9d69)
     
 * [Business](https://apnews.com/business)
     
@@ -743,9 +743,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Japan, UK and Italy to expedite next-generation fighter jet to replace F-2s and Eurofighter Typhoons](https://apnews.com/article/japan-uk-italy-fighter-jet-joint-development-1583af9ab27aac809a7848be502f7a53)
-    * [Here's how to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
-    * [Judge delays order in antitrust case requiring Google to open up its app store](https://apnews.com/article/google-antitrust-play-store-android-smartphones-4f0433854187f3d16e5c36923733be44)
+    * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
+    * [Biden administration to provide $325 million for new Michigan semiconductor factory](https://apnews.com/article/hemlock-michigan-saginaw-chips-trump-biden-harris-3294f2da8e1faf71e6bb6b3ef682e092)
+    * [How to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -763,17 +763,17 @@ Submit Search
     
     TOP STORIES
     
+    * [What to know about Biltmore Estate reopening after Hurricane Helene](https://apnews.com/article/biltmore-estate-reopening-hurricane-helene-asheville-305ea43fc522eb0656e0f4a374f2e4f6)
+    * [Toasted oats add flavor and crunch to hearty maple scones](https://apnews.com/article/toasted-oat-maple-scones-6e3addd883ed3f094efa974c1be2e729)
     * [What to stream: Bruce Springsteen doc, Halsey album, Billy Crystal on TV and 'Trap' thrills](https://apnews.com/article/stream-tv-movies-music-october-2024-6f97689cd1556453fe82ec8e6ea79699)
-    * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
-    * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
     * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
     * [Judge will hear arguments to block Louisiana's Ten Commandments display requirement in schools](https://apnews.com/article/louisiana-ten-commandments-require-school-law-d35f4ababed4adb99315586884432333)
-    * [Catholic priest and Indigenous activist Pérez killed by 2 gunmen in southern Mexico](https://apnews.com/article/catholic-priest-mexico-killing-455bc3fb6fe5005b7e47d4758e4c63cd)
     
     Newsletters
     
@@ -789,10 +789,10 @@ Submit Search
     
     * [Líbano evalúa los daños tras ataques israelíes contra una institución financiera de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-0e7987eb35e9fce3dc5bb9c212275a17)
     * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
-    * [Policías, fiscales y peritos de Sinaloa conspiraron para encubrir asesinato de rival de gobernador](https://apnews.com/article/mexico-sinaloa-mayo-zambada-cuen-rocha-moya-chapitos-9437ef5c96b69d334add1d73bc420b9d)
     * [El jefe de defensa de EEUU visita Kiev para hablar del apoyo en la lucha contra Rusia](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * [Policía en Haití combate contra coalición de pandillas que trata de apoderarse de la capital](https://apnews.com/article/haiti-pandillas-viv-ansanm-03ce4255816483bb4f03e4a9fbed1412)
     * ["Usted no es mi rey", grita una senadora australiana al rey Carlos durante su visita oficial](https://apnews.com/article/australia-rey-carlos-protesta-reino-unido-6ff946bd803c16480a766446de679029)
-    * [El líder religioso turco Fethullah Gülen muere en un exilio autoimpuesto en Pensilvania](https://apnews.com/article/gulen-turquia-erdogan-muerte-521f1c52a2fba436e47f934d1e182007)
+    * [Despliegue de misiles de EEUU en Filipinas es curial, afirma general estadounidense](https://apnews.com/article/filipinas-misiles-eeuu-indopacifico-d9f92e70c2a7d09dfadb3510e869792b)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
