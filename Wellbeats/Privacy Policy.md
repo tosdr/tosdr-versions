@@ -23,6 +23,8 @@
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
+🎧 New Podcast [Harnessing Your Breath to Heal Stress and Trauma](https://www.lifespeak.com/resource/harnessing-your-breath-to-heal-stress-and-trauma-a-conversation-with-jennifer-snowdon/)
+
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
@@ -370,7 +372,7 @@ We value your opinions and welcome your feedback.  To contact us about this Dis
 
 © 2024 LifeSpeak Inc. [Privacy Policy](https://www.lifespeak.com/privacy-policy/)  
 
-* [Get Started](https://www.lifespeak.com/book-a-demo/)
+* [Get a free demo](https://www.lifespeak.com/book-a-demo/)
 
 X CLOSE
 
