@@ -395,49 +395,49 @@ September 1, 2023: Reflected new capabilities of the Aura services
 
 [![Aura](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/633afc8cd7b5a7236e1564e3_Logo.svg)](https://www.identityguard.com/)
 
-[![Download on the App Store](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13afc9b66f951f246ef_appstore.svg)](https://apps.apple.com/us/app/aura-protect-your-identity/id1547735089)[![Get it on Google Play](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13af2bd35b1e7edf2ec_googleplay.svg)](https://play.google.com/store/apps/details?id=com.aura.suite)
+[![Button to download Aura's iOS app, links to the App Store](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13afc9b66f951f246ef_appstore.svg)](https://apps.apple.com/us/app/aura-protect-your-identity/id1547735089)[![Button to download Aura's Android app, links to the Google Play](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13af2bd35b1e7edf2ec_googleplay.svg)](https://play.google.com/store/apps/details?id=com.aura.suite)
 
 [Help](https://help.aura.com/s/)[Digital Security 101](https://www.identityguard.com/digital-security-101)[Contact](https://www.identityguard.com/contact)
 
 Corporate Responsibility
 
-![Open](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![Plus icon to open a module](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus icon to collapse and close the module](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [Aura Cares
 
-![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares#Aura-Cares-Home)[Military Program
+![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares#Aura-Cares-Home)[Military Program
 
-![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id1#anchor)[Climate Action
+![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id1#anchor)[Climate Action
 
-![ARrow up link](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id2#anchor)[Innovation
+![Arrow pointing up and to the right, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id2#anchor)[Innovation
 
-![ARrow up link](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id3#anchor)
+![Arrow pointing up and to the right, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id3#anchor)
 
 [support@aura.com](mailto:support@aura.com)[833.552.2123](tel:+18335522123)
 
 About
 
-![Open](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![Plus icon to open a module](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus icon to collapse and close the module](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [About Aura
 
-![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/about)[Aura Reviews
+![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/about)[Aura Reviews
 
-![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/reviews)
+![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/reviews)
 
 [Newsroom](https://www.identityguard.com/press)[Careers](https://www.identityguard.com/careers)
 
 Partner With Us
 
-![Open](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![Plus icon to open a module](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus icon to collapse and close the module](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [Partnerships
 
-![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/partnerships)[Affiliate Program
+![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/partnerships)[Affiliate Program
 
-![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/affiliate-program)[Influencer Program
+![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/affiliate-program)[Influencer Program
 
-![ARrow up link](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/influencer-program)
+![Arrow pointing up and to the right, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Right chevron icon, navigates to a new page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/influencer-program)
 
 [support@aura.com](mailto:support@aura.com)[855.443.7748](tel:+18554437748)
 
@@ -447,7 +447,7 @@ Partner With Us
 
 [Legal](https://www.identityguard.com/legal)[Privacy Policy](https://www.identityguard.com/legal/privacy-policy)[Your Privacy Choices
 
-![Privacy Choices icon](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://www.identityguard.com/legal/your-privacy-choices)
+![Privacy Choices icon, links to the Privacy Choices page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://www.identityguard.com/legal/your-privacy-choices)
 
 [![Logo of LinkedIn](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621668587edc51bed2521952_Facebook.svg)](https://www.linkedin.com/company/auracompany/)[![Logo of X](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65970cca766c2513dd0a31e5_x-logo.svg)](https://twitter.com/Aura_Protects)[![Logo of Instagram](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166858e8e5608c38e472f5_Instagram.svg)](https://www.instagram.com/aura_protects/)[![Logo of Facebook](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166855daff62955d20fc1f_Facebook-1.svg)](https://www.facebook.com/AuraProtects)[![Logo of YouTube](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65422e863a42a95d6e9c6782_youtube.svg)](https://www.youtube.com/@AuraProtects)
 
