@@ -290,15 +290,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming for Harry Potter and the Chamber of Secrets, many of the child actors got lice.
+“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
 
 ### Potter History
 
-September 8, 1999 – Harry Potter and the Prisoner of Azkaban is published in the United States.
+August 14, 2008 – Warner Bros. announces that they are delaying Harry Potter and the Half-Blood Prince until July 17, 2009. The news shocks fans and many speculate over why the decision was made.
 
 ### Potter Quote
 
-“Don’t be silly. Of course I won’t be in three classes at once.”
+“Have a biscuit, Potter.”
 
 [](#)
 
