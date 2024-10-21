@@ -273,6 +273,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
+    [12:00 Marko Požlep, BG](javascript:void(0);)
+    
+    **06.06.2024 | 12:00**
+    
+    Galerija Hestia, Toličin venac 14/9, Beograd
+    
+    **MARKO POŽLEP** (Slovenija): **TRAJNI ODMOR / PERMANENT VACATION** - izložba crteža Jadranske magistrale (Trst-Ada Bojana) (5.6.-23.10.2024.)
+    
+    [https://hestiabelgrade.com](https://hestiabelgrade.com/)
+    
     [10:00 10. Trienale sodobne umetnosti - U3, LJ](javascript:void(0);)
     
     **22.06.2024 | 10:00**
@@ -387,28 +397,14 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Šta se krije ispod ravnice, SU](javascript:void(0);)
-    
-    **08.08.2024 | 10:00**
-    
-    Gradski muzej Subotica, Trg sinagoge 3, Subotica
-    
-    **ŠTA SE KRIJE ISPOD RAVNICE?** - geološka izložba (7.8.-31.10.2024.)
-    
-    Autor izložbe: dr Ivan Dulić, geolog, Naučno-tehnološki centar NIS
-    
-    organizacija: Gradski muzej Subotica i Naučno-tehnološki centar NIS
-    
-    [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
-    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popović, Comic, London, 1973](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-stripovicartoons-karikaturecaricatures/zoran-popovic-comic-london-1973/comic-london-1973.jpg?itok=WaBfGfvq "Zoran Popović, Comic, London, 1973")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-stripovicartoons-19)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/olga-jancic/nove-skulpture/zrtva.jpg?itok=7WSgl9aH)](http://seecult.org/galerija/galerija-umetnika/olga-jancic/nove-skulpture)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zvezda.jpg?itok=RXHN-MEM)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/40-majska-izlozba-ulupuds/rakanovic-biljana-lana.jpg?itok=RZnbrUbw)](http://seecult.org/galerija/foto-galerija/foto-arhiva/40-majska-izlozba-ulupuds)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -424,8 +420,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Cvetičanin: (Ne)razumevanje stanja kulture u Srbiji danas](http://seecult.org/vest/cveticanin-nerazumevanje-stanja-kulture-u-srbiji-danas)
 * [Otvoren 60. Oktobarski salon - Šta ostaje?](http://seecult.org/vest/otvoren-60-oktobarski-salon-sta-ostaje)
-* [Pejaković novi direktor Drame SNP-a, Ana Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-ana-jung-direktorka-baleta)
+* [Pejaković novi direktor Drame SNP-a, Aja Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-aja-jung-direktorka-baleta)
 * [Šta bi bio život da nema reči](http://seecult.org/vest/sta-bi-bio-zivot-da-nema-reci)
 * [Upečatljiv program 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-program-43-skopskog-dzez-festivala)
 * [Performisima prvi put u Parizu](http://seecult.org/vest/performisima-prvi-put-u-parizu)
@@ -433,7 +430,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Godišnje nagrade reditelja, u junu novi Balkanski festival režije](http://seecult.org/vest/godisnje-nagrade-reditelja-u-junu-novi-balkanski-festival-rezije)
 * [Kosheen slavi 25 godina u Dorćol Platzu](http://seecult.org/vest/kosheen-slavi-25-godina-u-dorcol-platzu)
 * [43\. Skopski džez festival](http://seecult.org/vest/43-skopski-dzez-festival)
-* [40\. Beogradski džez festival u slavu nasleđa](http://seecult.org/vest/40-beogradski-dzez-festival-u-slavu-nasleda)
 
 * [Konkursi](#tab1_1)
 
