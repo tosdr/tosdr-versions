@@ -263,25 +263,25 @@ article 4 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-research
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
+[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
 
-7 min read
+2 min read
 
-### NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
+### Station Science Top News: Oct. 18, 2024
 
-article 3 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/kidneystones1.png?w=1024)
 
-3 min read
+2 min read
 
-### What Human Health Science Should Be Done on Gateway Lunar Space Station?
+### Risk of Kidney Stone Formation
 
-article 4 days ago](https://www.nasa.gov/humans-in-space/what-human-health-science-should-be-done-on-gateway-lunar-space-station/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 2 hours ago](https://www.nasa.gov/reference/risk-of-kidney-stone-formation/)[![](https://www.nasa.gov/wp-content/uploads/2024/07/medication.png?w=695)
 
-4 min read
+1 min read
 
-### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
+### Risk of Ineffective Medications and Toxic Byproducts
 
-article 5 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)
+article 2 hours ago](https://www.nasa.gov/reference/risk-of-ineffective-medications-and-toxic-byproducts/)
 
 ### Highlights
 
@@ -369,7 +369,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### What is Air Quality?
 
-article 3 days ago](https://www.nasa.gov/general/what-is-air-quality/)
+article 4 days ago](https://www.nasa.gov/general/what-is-air-quality/)
 
 ### Highlights
 
@@ -395,7 +395,13 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### Highlights
 
-[![Artist's conception of the Landsat 9 spacecraft, the ninth satellite launched in the long-running Landsat program, high above the U.S.](https://www.nasa.gov/wp-content/uploads/2022/08/landsat_9_release.jpeg?w=1024)
+[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
+
+2 min read
+
+### Station Science Top News: Oct. 18, 2024
+
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)[![Artist's conception of the Landsat 9 spacecraft, the ninth satellite launched in the long-running Landsat program, high above the U.S.](https://www.nasa.gov/wp-content/uploads/2022/08/landsat_9_release.jpeg?w=1024)
 
 2 min read
 
@@ -407,13 +413,7 @@ article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-v
 
 ### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
 
-article 5 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
-
-3 min read
-
-### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
-
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)
+article 5 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)
 
 ### Featured
 
