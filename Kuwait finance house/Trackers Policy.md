@@ -108,9 +108,9 @@ KFH Auto
 * [KFHONLINE Mobile Application](https://www.kfh.com/en/home/Personal/Ways-to-bank/KFHONLINE-Mobile-Application.html)
 * [“Allo Baitak” call service](https://www.kfh.com/en/home/Personal/Ways-to-bank/Allo-Baitak--call-service.html)
 * [Branches of customers with special needs](https://www.kfh.com/en/home/Personal/Ways-to-bank/Branches-of-customers-with-special-needs.html)
-* [KFH Trade](https://www.kfh.com/en/home/Personal/Ways-to-bank/KFH-Trade.html)
 * [E-services user guides for KFHOnline App](https://www.kfh.com/en/home/Personal/Ways-to-bank/KFH-online-user-guide.html)
 * [Services user guides for KFH ATMs](https://www.kfh.com/en/home/Personal/Ways-to-bank/ATM-services-user-guides.html)
+* [KFH Trade](https://www.kfh.com/en/home/Personal/Ways-to-bank/KFH-Trade.html)
 
 ### _![](/dam/jcr:208cee88-6a32-4f00-87b8-92c888f1a6c2/banking-tier.png)_ [Banking Tiers](https://www.kfh.com/en/home/Personal/Banking-tiers.html)
 
