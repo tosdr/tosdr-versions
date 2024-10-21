@@ -51,6 +51,7 @@
     * [News](https://www.bluestacks.com/blog/news.html)
     * [BlueStacks Videos](https://www.bluestacks.com/blog/bluestacks-videos.html)
 * [StoreNew](https://www.bluestacks.com/products/store.html)
+* [OfferNew](https://www.bluestacks.com/products/deals.html)
 * [Support](https://support.bluestacks.com/)
 
 English
