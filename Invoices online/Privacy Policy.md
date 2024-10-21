@@ -117,59 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Shaun Gartshore
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=185967204)  
-United Paintball Federation
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=30691190)  
+Oukraal Merino's
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=63782435)  
-Skinz Printing & Branding
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=54853880)  
+CBR Verwe/Paints
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=3181754)  
-M's Frozen Delights
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=67373705)  
+Prosper Park
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=43205359)  
-Stevens Consulting
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=192067373)  
+Moremi Kitchens Rustenburg
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=6816455)  
-Testpro Laboratory (Pty) Ltd
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=174786579)  
+Itroniq (Pty) Ltd
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=110517178)  
-FlipDesign - Renovation Contracting Firm
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=115569126)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=78310715)  
-Secunda Signs T/A Local Print and Signs
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=206024000)  
+Kainos (Pty) Ltd
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=76329832)  
-Redlum Group (Pty) Ltd
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=195231573)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=159825937)  
-SA Security Brokerz (Pty) Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=2138894)  
+Brilliant Roof Products
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=165864437)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=102758743)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=185791188)  
-Highlands Auto Engineering
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=175497550)  
-Oak Tree Immigration
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=74374062)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=210642450)  
 West Coast Horse Trails
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=202572599)  
-Qothiphango Mining
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=135416879)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=fa63fa8bbad3a38c4e032a2e15e0d6d01b5e5d4bd998d38bc3d94475b514178e&c=169895312)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=155173305)  
+Imhoff Equestrian Centre
+
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=58972990)  
+
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=48931742)  
+Echo Recording Studio cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
