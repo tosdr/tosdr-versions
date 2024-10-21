@@ -1,4 +1,4 @@
-Last Updated: September 17, 2021
+Last Updated: October 21, 2024
 
 This policy has been developed to describe how we collect, use and disclose information about you when you use the website https://ipwhois.io/ and its services (“Website”).
 
@@ -139,7 +139,11 @@ These third-party services are outside of our control. They have their own cooki
 
 You can opt-out collection of your data by Google Analytics by clicking on the following link - https://tools.google.com/dlpage/gaoptout?hl=en
 
-### 9\. Children’s privacy
+### 9\. GDPR Compliance
+
+In accordance with the General Data Protection Regulation (GDPR), users located in the European Economic Area (EEA) have specific rights regarding their personal data. We are committed to protecting your privacy and providing transparent information about how your data is processed. You have the right to access, rectify, or delete your personal information, and to object to or restrict processing. If you have any questions or requests concerning your data, please contact us at [\[email protected\]](https://ipwhois.io/cdn-cgi/l/email-protection).
+
+### 10\. Children’s privacy
 
 The Website is intended for an audience 16 years or older. We do not intentionally process data of persons under 16 years of age.
 
@@ -147,10 +151,10 @@ If you are under 16 years old, then you hereby confirm that you are using the We
 
 If we learn that we are inadvertently processing personal data of a person who is under the age of 16, we will immediately delete the associated account and take reasonable steps to delete that data as soon as possible. For any such questions, you can contact us by email (see the "Contacts" section).
 
-### 10\. Amendment of this Privacy Policy
+### 11\. Amendment of this Privacy Policy
 
 We may revise this privacy policy at any time, we will publish those changes on this page to inform you of the types of information we collect and how we use them. By using this Website, you agree to the current version of the Privacy Policy. Please check this page periodically for the latest changes.
 
-### 11\. Contacts
+### 12\. Contacts
 
 Contact us by email: [\[email protected\]](https://ipwhois.io/cdn-cgi/l/email-protection).
