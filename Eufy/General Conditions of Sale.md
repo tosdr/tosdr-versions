@@ -761,7 +761,7 @@ This limited warranty provided by the manufacturer in no way affects a potential
 
 **Holiday Returns Policy**
 
-eufy has extended the Holiday Returns Policy for 2023. Orders purchased between November 1st, 2023 and December 31st, 2023 are eligible for return until January 31st, 2024.
+eufy has extended the Holiday Returns Policy for 2024. Orders purchased from **Nov 1 to Dec 31 2024** are eligible for return until **Jan 31,2025**.
 
   
 
