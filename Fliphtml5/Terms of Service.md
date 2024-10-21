@@ -95,6 +95,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Invitations](https://fliphtml5.com/templates/invitation/)
     * [Flipbooks](https://fliphtml5.com/templates/flipbook/)
     * [Presentations](https://fliphtml5.com/templates/presentation/)
+    * [Newspaper](https://fliphtml5.com/templates/newspaper/)
     [All Templates](https://fliphtml5.com/templates/)
     
      [![free-online-template-customize-fliphtml5](/images/header/free-online-template-customize-fliphtml5.png)](https://fliphtml5.com/templates/)
@@ -267,6 +268,9 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
         * [Portfolios](https://fliphtml5.com/templates/portfolio/)
         * [Invitations](https://fliphtml5.com/templates/invitation/)
         * [Presentations](https://fliphtml5.com/templates/presentation/)
+        
+        [All Templates](https://fliphtml5.com/templates/)
+        
     * * [Catalogs](https://fliphtml5.com/templates/catalog/)
         * [Lookbooks](https://fliphtml5.com/templates/lookbook/)
         * [Guidebooks](https://fliphtml5.com/templates/guidebook/)
@@ -275,9 +279,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
         * [Handbooks](https://fliphtml5.com/templates/handbook/)
         * [Booklets](https://fliphtml5.com/templates/booklet/)
         * [Flipbooks](https://fliphtml5.com/templates/flipbook/)
-        
-        [All Templates](https://fliphtml5.com/templates/)
-        
+        * [Newspaper](https://fliphtml5.com/templates/newspaper/)
 * Solutions
     
     * Popular Uses
