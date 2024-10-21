@@ -1,4 +1,4 @@
-[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713501412&v=PX-404)](https://www.play-asia.com/)
+[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713530212&v=PX-404)](https://www.play-asia.com/)
 
 View All
 
@@ -52,7 +52,7 @@ We accept
 
 Subscribe to our Newsletter!
 
-![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606379152&v=PX-404)
+![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606407952&v=PX-404)
 
 Contact Us!
 
@@ -64,4 +64,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 5.549 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
+SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 0.015 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
