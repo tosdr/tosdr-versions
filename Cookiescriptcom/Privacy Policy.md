@@ -201,8 +201,9 @@ The subcontractors of CookieScript are:
 * Hetzner Online GmbH
 * PayPal Pte. Ltd.
 * Stripe Payments Europe Ltd.
+* Customerly Ltd.
 
-Both companies have implemented all necessary standards to comply with GDPR.
+All companies have implemented all necessary standards to comply with GDPR.
 
 #### 7.2. Legally required disclosure
 
