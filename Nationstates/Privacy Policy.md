@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your favorite part of AN’s forum sig XI (2,821)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,821 posts)")
-* [World Cup of Hockey 52 Signup Thread (23)](https://forum.nationstates.net/viewtopic.php?t=557288&f=7&view=unread#unread ""World Cup of Hockey 52 Signup Thread" (23 posts)")
-* [Out of the 2 AN’s: Which one has the… (3,630)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (3,630 posts)")
-* [Major League Baseball Thread (2,290)](https://forum.nationstates.net/viewtopic.php?t=463073&f=20&view=unread#unread ""Major League Baseball Thread" (2,290 posts)")
-* [Guided Hiking Tour into the Red Hills… (5)](https://forum.nationstates.net/viewtopic.php?t=557340&f=4&view=unread#unread ""Guided Hiking Tour into the Red Hills of Cheromme OOC" (5 posts)")
+* [Guess AU's Height! (394)](https://forum.nationstates.net/viewtopic.php?t=552469&f=25&view=unread#unread ""Guess AU's Height!" (394 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (11,743)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (11,743 posts)")
+* [American Politics: Remember, Remember… (1,910)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (1,910 posts)")
+* [Campionato Esportiva 39 \[RP/Results\] (64)](https://forum.nationstates.net/viewtopic.php?t=556446&f=7&view=unread#unread ""Campionato Esportiva 39 [RP/Results]" (64 posts)")
+* [Should we bring back the Guillotine? (137)](https://forum.nationstates.net/viewtopic.php?t=555942&f=20&view=unread#unread ""Should we bring back the Guillotine?" (137 posts)")
 
 Advertisement
 
