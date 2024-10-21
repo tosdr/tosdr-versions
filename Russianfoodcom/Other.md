@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -166,6 +166,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Настроение в тарелке. Лучшие САЛАТЫ №24-43](https://www.russianfood.com/reading/?post_id=22753) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742615.jpg)](https://www.russianfood.com/reading/?post_id=22753)
+
+Салат с тыквой, авокадо, грушей и фетой. Салат с пекинской капустой и орехами. Салат с куриной печенью и карамелизированным луком. Салат с кальмарами, помидорами и горошком. Свекольный салат с яблоками. Салат со свёклой и тыквой. Рыбный салат с овощами и плавленым сыром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22753)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22753#comments) | 21.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -363,20 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174313#comments) | 17.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Салат с маринованными огурцами, сыром и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=173962) |     |
-
-[![Фото к рецепту: Салат с маринованными огурцами, сыром и сухариками](//img1.russianfood.com/dycontent/images_upl/735/sm_734378.jpg "Фото к рецепту: Салат с маринованными огурцами, сыром и сухариками")](https://www.russianfood.com/recipes/recipe.php?rid=173962)
-
-Быстрый, вкусный, элементарный в приготовлении салат с маринованными огурцами, сыром и яйцами. Домашние сухарики для салата, приготовленные с добавлением чеснока, придают блюду аппетитный аромат. Для заправки используется майонез.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173962)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=173962#comments) | 17.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -459,4 +459,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(159)
+(160)
