@@ -96,6 +96,7 @@
     * [Asia Pacific](https://pinkerton.com/find-your-pinkerton#asia-pacific)
     * [India](https://pinkerton.com/find-your-pinkerton#india)
     * [Latin America](https://pinkerton.com/find-your-pinkerton#latin-america)
+    * [Northern Europe](https://pinkerton.com/find-your-pinkerton#northern-europe)
     * [North America](https://pinkerton.com/find-your-pinkerton#north-america)
     
 * ![Search](/icons/search.svg)
@@ -482,6 +483,7 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     * [Asia Pacific](https://pinkerton.com/find-your-pinkerton#asia-pacific)
     * [India](https://pinkerton.com/find-your-pinkerton#india)
     * [Latin America](https://pinkerton.com/find-your-pinkerton#latin-america)
+    * [Northern Europe](https://pinkerton.com/find-your-pinkerton#northern-europe)
     * [North America](https://pinkerton.com/find-your-pinkerton#north-america)
     
 * [Careers](https://pinkerton.com/careers/current-openings)
