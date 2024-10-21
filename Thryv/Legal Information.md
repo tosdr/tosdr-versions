@@ -4,14 +4,14 @@
 
 * * [Products](https://www.thryv.com/)
         
-        * * [COMMAND CENTER](https://www.thryv.com/command-center/)
+        * * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
                 
-                See communication from multiple channels in a single easy-to-use inbox.
+                Build your brand and manage your marketing with less effort.​
                 
-            * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
-            * [TeamChat](https://www.thryv.com/features/teamchat/)
-            * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls/)
-            * [WebChat](https://www.thryv.com/features/webchat/)
+            * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
+            * [Reputation Management](https://www.thryv.com/features/reputation-management/)
+            * [Website Builder](https://www.thryv.com/features/professional-website/)
+            * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
         * * [BUSINESS CENTER](https://www.thryv.com/business-center/)
                 
                 Everything you need to streamline your day-to-day business.
@@ -21,14 +21,14 @@
             * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
             * [Automated Reviews](https://www.thryv.com/features/automated-reviews/)
             * [Social Media Management](https://www.thryv.com/features/social-media/)
-        * * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
+        * * [COMMAND CENTER](https://www.thryv.com/command-center/)
                 
-                Build your brand and manage your marketing with less effort.​
+                See communication from multiple channels in a single easy-to-use inbox.
                 
-            * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
-            * [Reputation Management](https://www.thryv.com/features/reputation-management/)
-            * [Website Builder](https://www.thryv.com/features/professional-website/)
-            * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
+            * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
+            * [TeamChat](https://www.thryv.com/features/teamchat/)
+            * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls/)
+            * [WebChat](https://www.thryv.com/features/webchat/)
         * * [ADDITIONAL PRODUCTS](#)
                 
                 Need a little something extra? Find it here.
@@ -123,14 +123,14 @@ menu
 * Sales: [1 (888) 733-9482](tel:18887339482)
     
 * * [Products](#)
-        * [COMMAND CENTER](https://www.thryv.com/command-center/)
+        * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
             
-            See communication from multiple channels in a single easy-to-use inbox.
+            Build your brand and manage your marketing with less effort.​
             
-        * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
-        * [TeamChat](https://www.thryv.com/features/teamchat/)
-        * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls)
-        * [WebChat](https://www.thryv.com/features/webchat/)
+        * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
+        * [Reputation Management](https://www.thryv.com/features/reputation-management/)
+        * [Website Builder](https://www.thryv.com/features/professional-website/)
+        * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
         * [BUSINESS CENTER](https://www.thryv.com/business-center/)
             
             Everything you need to streamline your day-to-day business.
@@ -140,15 +140,14 @@ menu
         * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
         * [Automated Reviews](https://www.thryv.com/features/automated-reviews/)
         * [Social Media Content](https://www.thryv.com/features/social-media/)
-        * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
+        * [COMMAND CENTER](https://www.thryv.com/command-center/)
             
-            Build your brand and manage your marketing with less effort.​
+            See communication from multiple channels in a single easy-to-use inbox.
             
-        * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
-        * [Reputation Management](https://www.thryv.com/features/reputation-management/)
-        * [Website Builder](https://www.thryv.com/features/professional-website/)
-        * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-        * [Signatures](https://www.thryv.com/features/electronic-signatures/)
+        * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
+        * [TeamChat](https://www.thryv.com/features/teamchat/)
+        * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls)
+        * [WebChat](https://www.thryv.com/features/webchat/)
         * [MARKET PLACE](https://www.thryv.com/app-market/)
             
             Need a little something extra? Find it here.
@@ -664,9 +663,9 @@ Please print a copy of this privacy policy for your records and PLEASE check thi
 ### Products
 
 * [Pricing](https://www.thryv.com/pricing/)
-* [Thryv Command Center](https://www.thryv.com/command-center/)
-* [Thryv Business Center](https://www.thryv.com/business-center/)
 * [Thryv Marketing Center](https://www.thryv.com/marketing-center/)
+* [Thryv Business Center](https://www.thryv.com/business-center/)
+* [Thryv Command Center](https://www.thryv.com/command-center/)
 * [Marketplace](https://www.thryv.com/app-market/)
 * [ThryvPay](https://www.thryv.com/features/thryvpay/)
 * [eSignatures](https://www.thryv.com/features/electronic-signatures/)
