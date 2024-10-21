@@ -56,19 +56,15 @@ Main Menu Mega
     Sections
     --------
     
-    * [Cases and Proceedings](https://www.ftc.gov/legal-library/browse/cases-proceedings)
     * [Premerger Notification Program](https://www.ftc.gov/enforcement/premerger-notification-program)
     * [Merger Review](https://www.ftc.gov/enforcement/merger-review)
     * [Anticompetitive Practices](https://www.ftc.gov/enforcement/anticompetitive-practices)
     * [Rulemaking](https://www.ftc.gov/enforcement/rulemaking)
-    * [Statutes](https://www.ftc.gov/legal-library/browse/statutes)
     * [Competition and Consumer Protection Guidance Documents](https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents)
-    * [Warning Letters](https://www.ftc.gov/legal-library/browse/warning-letters)
     * [Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)
     * [Criminal Liaison Unit](https://www.ftc.gov/enforcement/criminal-liaison-unit)
     * [FTC Refund Programs](https://www.ftc.gov/enforcement/refunds)
     * [Notices of Penalty Offenses](https://www.ftc.gov/enforcement/penalty-offenses)
-    * [Competition Matters Blog](https://www.ftc.gov/enforcement/competition-matters)
     
     Take action
     -----------
@@ -113,14 +109,9 @@ Main Menu Mega
     --------
     
     * [Advocacy and Research](https://www.ftc.gov/policy/advocacy-research)
-    * [Advisory Opinions](https://www.ftc.gov/legal-library/browse/advisory-opinions)
-    * [Cooperation Agreements](https://www.ftc.gov/legal-library/browse/cooperation-agreements)
-    * [Federal Register Notices](https://www.ftc.gov/legal-library/browse/federal-register-notices)
     * [Reports](https://www.ftc.gov/policy/reports)
     * [Public Comments](https://www.ftc.gov/policy/public-comments)
     * [Studies](https://www.ftc.gov/policy/studies)
-    * [Testimony](https://www.ftc.gov/legal-library/browse/testimony)
-    * [Policy Statements](https://www.ftc.gov/legal-library/browse/policy-statements)
     * [International](https://www.ftc.gov/policy/international)
     * [Office of Technology Blog](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -221,7 +212,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Annual Report to Congress on Agency’s Actions to Protect Older Adults](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults)
+    ### [FTC Denies Motion to Disqualify Administrative Law Judge in H&R Block Case](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-denies-motion-disqualify-administrative-law-judge-hr-block-case)
     
     October 18, 2024
     
