@@ -14,7 +14,7 @@ SearchSearch
 
 [Sign in](https://www.ulule.com/signin/)
 
-Last update3/20/2024
+Last update 3/20/2024
 
 **Ulule Privacy Policy** 
 =========================
@@ -223,7 +223,7 @@ Management of requests for access, rectification and opposition rights
 
 Legal obligation
 
-The collection of payments made directly on the Ulule site is managed by our payment service providers (MANGOPAY and STRIPE), which are approved by the French banking regulator[, the](https://acpr.banque-france.fr/)_Autorité de Contrôle Prudentiel et de Résolution_ ([ACPR](https://acpr.banque-france.fr/)). MANGOPAY or STRIPE process personal data for which they are responsible, as described in MANGOPAY's privacy policy and in Stripe's privacy policy. 
+The collection of payments made directly on the Ulule site is managed by our payment service providers (MANGOPAY and STRIPE), which are approved by the French banking regulator[, the](https://acpr.banque-france.fr/) _Autorité de Contrôle Prudentiel et de Résolution_ ([ACPR](https://acpr.banque-france.fr/)). MANGOPAY or STRIPE process personal data for which they are responsible, as described in MANGOPAY's privacy policy and in Stripe's privacy policy. 
 
 As part of their legal obligations to combat fraud, money laundering and the financing of terrorism, Ulule and MANGOPAY perform processing, including data combination, to help their employees determine the level of fraud risk associated with a payment or fundraising. Such processing may be used to support Ulule's or MANGOPAY's or STRIPE's decision to decline a payment. 
 
@@ -597,7 +597,7 @@ For more information on your rights regarding the use and processing of your per
 
 For any requests please contacts us :
 
-* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection)
+* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection) 
     
 * by postal mail (with an attached copy of your ID) to the following address Ulule  To the attention of the Data Protection Officer (DPO) 10 rue de Penthièvre 75008 Paris FRANCE
     
@@ -613,7 +613,7 @@ Some of the processing operations that we entrust to our subcontractors are carr
 
 If you have any questions about the processing of your personal data or if you wish to exercise your rights regarding your data, the Data Protection Officer (DPO), appointed by Ulule SAS, can be contacted:
 
-* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection)
+* by email at [\[email protected\]](https://www.ulule.com/cdn-cgi/l/email-protection) 
     
 * by postal mail (with an attached copy of your ID) to the following address Ulule  To the attention of the Data Protection Officer (DPO) 10 rue Penthièvre 75008 Paris France
     
