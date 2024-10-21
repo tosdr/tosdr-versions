@@ -3,7 +3,8 @@
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [Instagram](#)
 
 * [News](https://ygorganization.com/category/news/)
-    * [OCG & TCG](https://ygorganization.com/category/news/ocg-tcg/)
+    * [OCG & TCG](https://ygorganization.com/category/ocg-tcg/)
+    * [Master Duel](https://ygorganization.com/category/master-duel/)
     * [Rush Duel](https://ygorganization.com/category/news/rush-duel/)
     * [Set Spoilers](https://ygorganization.com/category/news/spoilers/)
     * [Forbidden & Limited Lists](https://ygorganization.com/category/news/f-and-l/)
@@ -135,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/doublefusionpromo/ "The Next V Jump Promo Is… [VJMP]")
+[](https://ygorganization.com/iamironman/ "Boot-Up Your “Gadget” Army! [RD/KP19]")
 
-#### [The Next V Jump Promo Is… \[VJMP\]](https://ygorganization.com/doublefusionpromo/)
+#### [Boot-Up Your “Gadget” Army! \[RD/KP19\]](https://ygorganization.com/iamironman/)
 
-September 19, 2024
+October 15, 2024
 
-[](https://ygorganization.com/tournamentpackyugo/ "[24TP] Tournament Pack 2024 Vol. 4 (Round 2)")
+[](https://ygorganization.com/galacticaofeternity/ "Galactica of Eternity [RUSH DUEL]")
 
-#### [\[24TP\] Tournament Pack 2024 Vol. 4 (Round 2)](https://ygorganization.com/tournamentpackyugo/)
+#### [Galactica of Eternity \[RUSH DUEL\]](https://ygorganization.com/galacticaofeternity/)
 
-September 19, 2024
+October 15, 2024
 
-[](https://ygorganization.com/cdp_malisslivetwin/ "CDP: Maliss Live Twin Cynet, ft. DBCB Support")
+[](https://ygorganization.com/thislittlelightofmine/ "Sing A New Song With “Orcust”! [QCTB]")
 
-#### [CDP: Maliss Live Twin Cynet, ft. DBCB Support](https://ygorganization.com/cdp_malisslivetwin/)
+#### [Sing A New Song With “Orcust”! \[QCTB\]](https://ygorganization.com/thislittlelightofmine/)
 
-September 18, 2024
+October 14, 2024
 
-[](https://ygorganization.com/yourfirststepintoalargerworld/ "Alternative Artworks Confirmed For World Premiere Pack 2024 [WPP5]")
+[](https://ygorganization.com/infernalflameemperorrushduel/ "Light The World Ablaze With “Infernal Flame Emperor”! [RD/SJMP]")
 
-#### [Alternative Artworks Confirmed For World Premiere Pack 2024 \[WPP5\]](https://ygorganization.com/yourfirststepintoalargerworld/)
+#### [Light The World Ablaze With “Infernal Flame Emperor”! \[RD/SJMP\]](https://ygorganization.com/infernalflameemperorrushduel/)
 
-September 18, 2024
+October 14, 2024
 
-[](https://ygorganization.com/1812overture/ "Counterattack With “Ancient Gear Barrage”! [RD/LGP2]")
+[](https://ygorganization.com/yu-gi-oh-duel-links-go-rush-sweepstakes/ "Yu-Gi-Oh! Duel Links GO RUSH!! Sweepstakes")
 
-#### [Counterattack With “Ancient Gear Barrage”! \[RD/LGP2\]](https://ygorganization.com/1812overture/)
+#### [Yu-Gi-Oh! Duel Links GO RUSH!! Sweepstakes](https://ygorganization.com/yu-gi-oh-duel-links-go-rush-sweepstakes/)
 
-September 18, 2024
+October 14, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
