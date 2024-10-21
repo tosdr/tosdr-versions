@@ -187,6 +187,18 @@ With your support, My Expenses keeps growing in functionality, while being distr
 * Please consider purchasing one of the [Licence Keys](#premium) and gain access to more features.
 * If you just want to express your support to the project, you can send a donation via [Github Sponsors](https://github.com/sponsors/mtotschnig), [Bitcoin](bitcoin:15WECHs6zGQyyiRYoLmVzWYfoKVDoipmSp) (15WECHs6zGQyyiRYoLmVzWYfoKVDoipmSp) or [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPXNZHMXJE8ZJ).
 
+3.9.02024-10-21
+
+[![](/visuals/github.ico)](https://github.com/users/mtotschnig/projects/7) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/113319606766736436) Saving goal / Credit limit: Refinement of the user interface
+
+3.8.92024-10-06
+
+[![](/visuals/github.ico)](https://github.com/users/mtotschnig/projects/6) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/113250295792569214) Archive: Refinement of the user interface. Debt Overview: Refinement of the user interface
+
+3.8.82024-09-13
+
+[![](/visuals/github.ico)](https://github.com/users/mtotschnig/projects/5) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/113108470765902348) Transactions can be archived.
+
 3.8.72024-07-19
 
 [![](/visuals/github.ico)](https://github.com/users/mtotschnig/projects/3) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112780201819204851) Search for transactions with same properties.
