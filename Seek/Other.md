@@ -3,13 +3,7 @@ SEEK - Australia's no. 1 jobs, employment, career and recruitment site
 
 Skip to content
 
-[Jobs](https://www.seek.com.au/)
-
-[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)
-
-[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)
-
-[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
+[Jobs](https://www.seek.com.au/)[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
 
 [SEEK](https://www.seek.com.au/)
 
@@ -207,115 +201,19 @@ Quick search
 Classifications
 ---------------
 
-[Accounting](https://www.seek.com.au/jobs-in-accounting)
+[Accounting](https://www.seek.com.au/jobs-in-accounting)[Education & Training](https://www.seek.com.au/jobs-in-education-training)[Government & Defence](https://www.seek.com.au/jobs-in-government-defence)[Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)[Sales](https://www.seek.com.au/jobs-in-sales)View all⁠
 
-[Education & Training](https://www.seek.com.au/jobs-in-education-training)
-
-[Government & Defence](https://www.seek.com.au/jobs-in-government-defence)
-
-[Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)
-
-[Sales](https://www.seek.com.au/jobs-in-sales)
-
-View all⁠
-
-[Accounting](https://www.seek.com.au/jobs-in-accounting)
-
-[Administration & Office Support](https://www.seek.com.au/jobs-in-administration-office-support)
-
-[Advertising, Arts & Media](https://www.seek.com.au/jobs-in-advertising-arts-media)
-
-[Banking & Financial Services](https://www.seek.com.au/jobs-in-banking-financial-services)
-
-[Call Centre & Customer Service](https://www.seek.com.au/jobs-in-call-centre-customer-service)
-
-[CEO & General Management](https://www.seek.com.au/jobs-in-ceo-general-management)
-
-[Community Services & Development](https://www.seek.com.au/jobs-in-community-services-development)
-
-[Construction](https://www.seek.com.au/jobs-in-construction)
-
-[Consulting & Strategy](https://www.seek.com.au/jobs-in-consulting-strategy)
-
-[Design & Architecture](https://www.seek.com.au/jobs-in-design-architecture)
-
-[Education & Training](https://www.seek.com.au/jobs-in-education-training)
-
-[Engineering](https://www.seek.com.au/jobs-in-engineering)
-
-[Farming, Animals & Conservation](https://www.seek.com.au/jobs-in-farming-animals-conservation)
-
-[Government & Defence](https://www.seek.com.au/jobs-in-government-defence)
-
-[Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)
-
-[Hospitality & Tourism](https://www.seek.com.au/jobs-in-hospitality-tourism)
-
-[Human Resources & Recruitment](https://www.seek.com.au/jobs-in-human-resources-recruitment)
-
-[Information & Communication Technology](https://www.seek.com.au/jobs-in-information-communication-technology)
-
-[Insurance & Superannuation](https://www.seek.com.au/jobs-in-insurance-superannuation)
-
-[Legal](https://www.seek.com.au/jobs-in-legal)
-
-[Manufacturing, Transport & Logistics](https://www.seek.com.au/jobs-in-manufacturing-transport-logistics)
-
-[Marketing & Communications](https://www.seek.com.au/jobs-in-marketing-communications)
-
-[Mining, Resources & Energy](https://www.seek.com.au/jobs-in-mining-resources-energy)
-
-[Real Estate & Property](https://www.seek.com.au/jobs-in-real-estate-property)
-
-[Retail & Consumer Products](https://www.seek.com.au/jobs-in-retail-consumer-products)
-
-[Sales](https://www.seek.com.au/jobs-in-sales)
-
-[Science & Technology](https://www.seek.com.au/jobs-in-science-technology)
-
-[Self Employment](https://www.seek.com.au/jobs-in-self-employment)
-
-[Sport & Recreation](https://www.seek.com.au/jobs-in-sport-recreation)
-
-[Trades & Services](https://www.seek.com.au/jobs-in-trades-services)
+[Accounting](https://www.seek.com.au/jobs-in-accounting)[Administration & Office Support](https://www.seek.com.au/jobs-in-administration-office-support)[Advertising, Arts & Media](https://www.seek.com.au/jobs-in-advertising-arts-media)[Banking & Financial Services](https://www.seek.com.au/jobs-in-banking-financial-services)[Call Centre & Customer Service](https://www.seek.com.au/jobs-in-call-centre-customer-service)[CEO & General Management](https://www.seek.com.au/jobs-in-ceo-general-management)[Community Services & Development](https://www.seek.com.au/jobs-in-community-services-development)[Construction](https://www.seek.com.au/jobs-in-construction)[Consulting & Strategy](https://www.seek.com.au/jobs-in-consulting-strategy)[Design & Architecture](https://www.seek.com.au/jobs-in-design-architecture)[Education & Training](https://www.seek.com.au/jobs-in-education-training)[Engineering](https://www.seek.com.au/jobs-in-engineering)[Farming, Animals & Conservation](https://www.seek.com.au/jobs-in-farming-animals-conservation)[Government & Defence](https://www.seek.com.au/jobs-in-government-defence)[Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)[Hospitality & Tourism](https://www.seek.com.au/jobs-in-hospitality-tourism)[Human Resources & Recruitment](https://www.seek.com.au/jobs-in-human-resources-recruitment)[Information & Communication Technology](https://www.seek.com.au/jobs-in-information-communication-technology)[Insurance & Superannuation](https://www.seek.com.au/jobs-in-insurance-superannuation)[Legal](https://www.seek.com.au/jobs-in-legal)[Manufacturing, Transport & Logistics](https://www.seek.com.au/jobs-in-manufacturing-transport-logistics)[Marketing & Communications](https://www.seek.com.au/jobs-in-marketing-communications)[Mining, Resources & Energy](https://www.seek.com.au/jobs-in-mining-resources-energy)[Real Estate & Property](https://www.seek.com.au/jobs-in-real-estate-property)[Retail & Consumer Products](https://www.seek.com.au/jobs-in-retail-consumer-products)[Sales](https://www.seek.com.au/jobs-in-sales)[Science & Technology](https://www.seek.com.au/jobs-in-science-technology)[Self Employment](https://www.seek.com.au/jobs-in-self-employment)[Sport & Recreation](https://www.seek.com.au/jobs-in-sport-recreation)[Trades & Services](https://www.seek.com.au/jobs-in-trades-services)
 
 Major cities
 ------------
 
-[Sydney](https://www.seek.com.au/jobs/in-All-Sydney-NSW)
-
-[Melbourne](https://www.seek.com.au/jobs/in-All-Melbourne-VIC)
-
-[Brisbane](https://www.seek.com.au/jobs/in-All-Brisbane-QLD)
-
-[Gold Coast](https://www.seek.com.au/jobs/in-All-Gold-Coast-QLD)
-
-[Perth](https://www.seek.com.au/jobs/in-All-Perth-WA)
-
-[Adelaide](https://www.seek.com.au/jobs/in-All-Adelaide-SA)
-
-[Hobart](https://www.seek.com.au/jobs/in-All-Hobart-TAS)
-
-[Darwin](https://www.seek.com.au/jobs/in-All-Darwin-NT)
-
-[Canberra](https://www.seek.com.au/jobs/in-All-Canberra-ACT)
+[Sydney](https://www.seek.com.au/jobs/in-All-Sydney-NSW)[Melbourne](https://www.seek.com.au/jobs/in-All-Melbourne-VIC)[Brisbane](https://www.seek.com.au/jobs/in-All-Brisbane-QLD)[Gold Coast](https://www.seek.com.au/jobs/in-All-Gold-Coast-QLD)[Perth](https://www.seek.com.au/jobs/in-All-Perth-WA)[Adelaide](https://www.seek.com.au/jobs/in-All-Adelaide-SA)[Hobart](https://www.seek.com.au/jobs/in-All-Hobart-TAS)[Darwin](https://www.seek.com.au/jobs/in-All-Darwin-NT)[Canberra](https://www.seek.com.au/jobs/in-All-Canberra-ACT)
 
 Other
 -----
 
-[All Jobs](https://www.seek.com.au/jobs)
-
-[Work From Home Jobs](https://www.seek.com.au/work-from-home-jobs)
-
-[FIFO Jobs](https://www.seek.com.au/fifo-jobs)
-
-[Ethical Jobs](https://www.seek.com.au/ethical-jobs)
-
-[Government Jobs](https://www.seek.com.au/government-jobs)
-
-[Web3 Jobs](https://www.seek.com.au/web3-jobs)
-
-[Salary Calculator](https://www.seek.com.au/career-advice/page/salary-calculator)
+[All Jobs](https://www.seek.com.au/jobs)[Work From Home Jobs](https://www.seek.com.au/work-from-home-jobs)[FIFO Jobs](https://www.seek.com.au/fifo-jobs)[Ethical Jobs](https://www.seek.com.au/ethical-jobs)[Government Jobs](https://www.seek.com.au/government-jobs)[Web3 Jobs](https://www.seek.com.au/web3-jobs)[Salary Calculator](https://www.seek.com.au/career-advice/page/salary-calculator)
 
 Dashboard
 =========
@@ -348,117 +246,39 @@ Better job matches.
 
 Job seekers
 
-[Job search](https://www.seek.com.au/)
-
-[Profile](https://www.seek.com.au/profile)
-
-[Recommended jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Frecommended)
-
-[Saved searches](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-searches)
-
-[Saved jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-jobs)
-
-[Applied jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fapplied-jobs)
-
-[Career advice](https://www.seek.com.au/career-advice)
-
-[Explore careers](https://www.seek.com.au/career-advice/explore-careers)
-
-[Explore salaries](https://www.seek.com.au/career-advice/explore-salaries)
-
-[Explore companies](https://www.seek.com.au/companies)
+[Job search](https://www.seek.com.au/)[Profile](https://www.seek.com.au/profile)[Recommended jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Frecommended)[Saved searches](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-searches)[Saved jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-jobs)[Applied jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fapplied-jobs)[Career advice](https://www.seek.com.au/career-advice)[Explore careers](https://www.seek.com.au/career-advice/explore-careers)[Explore salaries](https://www.seek.com.au/career-advice/explore-salaries)[Explore companies](https://www.seek.com.au/companies)
 
 Download apps
 
-[Android](https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU)
-
-[iOS](https://itunes.apple.com/au/app/seek-jobs/id520400855?mt=8)
+[Android](https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU)[iOS](https://itunes.apple.com/au/app/seek-jobs/id520400855?mt=8)
 
 SEEK sites
 
-[Employer site](https://talent.seek.com.au/)
-
-[SEEK NZ](https://www.seek.co.nz/)
-
-[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)
-
-[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)
-
-[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
+[Employer site](https://talent.seek.com.au/)[SEEK NZ](https://www.seek.co.nz/)[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
 
 Employers
 
-[Register for free](https://talent.seek.com.au/)
-
-[Post a job ad](https://talent.seek.com.au/)
-
-[Products & prices](https://talent.seek.com.au/products/jobads)
-
-[Customer service](https://talent.seek.com.au/contactus)
-
-[Hiring advice](https://talent.seek.com.au/hiring-advice)
-
-[Market insights](https://talent.seek.com.au/market-insights)
-
-[Recruitment software partners](https://talent.seek.com.au/partners/connect-with-seek)
+[Register for free](https://talent.seek.com.au/)[Post a job ad](https://talent.seek.com.au/)[Products & prices](https://talent.seek.com.au/products/jobads)[Customer service](https://talent.seek.com.au/contactus)[Hiring advice](https://talent.seek.com.au/hiring-advice)[Market insights](https://talent.seek.com.au/market-insights)[Recruitment software partners](https://talent.seek.com.au/partners/connect-with-seek)
 
 About us
 
-[About SEEK](https://www.seek.com.au/about)
-
-[Newsroom](https://www.seek.com.au/about/news)
-
-[Investors](https://www.seek.com.au/about/investors)
-
-[Careers](https://www.seek.com.au/work-for-seek)
+[About SEEK](https://www.seek.com.au/about)[Newsroom](https://www.seek.com.au/about/news)[Investors](https://www.seek.com.au/about/investors)[Careers](https://www.seek.com.au/work-for-seek)
 
 International partners
 
-[Bdjobs (Bangladesh)](https://www.bdjobs.com/)
-
-[Jobsdb (SE Asia)](https://www.jobsdb.com/)
-
-[Jobstreet (SE Asia)](https://www.jobstreet.com/)
-
-[Jora (Australia)](https://au.jora.com/)
-
-[Jora (Worldwide)](https://jora.com/)
+[Bdjobs (Bangladesh)](https://www.bdjobs.com/)[Jobsdb (SE Asia)](https://www.jobsdb.com/)[Jobstreet (SE Asia)](https://www.jobstreet.com/)[Jora (Australia)](https://au.jora.com/)[Jora (Worldwide)](https://jora.com/)
 
 Partner services
 
-[SEEK Pass](https://seekpass.co/)
-
-[GradConnection](https://au.gradconnection.com/)
-
-[Jora Local](https://www.joralocal.com.au/)
-
-[Sidekicker](https://sidekicker.com/au/)
-
-[GO1](https://www.go1.com/)
-
-[FutureLearn](https://www.futurelearn.com/)
-
-[JobAdder](https://jobadder.com/)
+[SEEK Pass](https://seekpass.co/)[GradConnection](https://au.gradconnection.com/)[Jora Local](https://www.joralocal.com.au/)[Sidekicker](https://sidekicker.com/au/)[GO1](https://www.go1.com/)[FutureLearn](https://www.futurelearn.com/)[JobAdder](https://jobadder.com/)
 
 Contact
 
-[Help centre](https://help.seek.com.au/s/)
-
-[Contact us](https://www.seek.com.au/contact-us)
-
-[Product & tech blog](https://medium.com/seek-blog)
-
-[SEEK videos](https://video.seek.com.au/)
+[Help centre](https://help.seek.com.au/s/)[Contact us](https://www.seek.com.au/contact-us)[Product & tech blog](https://medium.com/seek-blog)[SEEK videos](https://video.seek.com.au/)
 
 Social
 
-[Facebook](https://www.facebook.com/SEEK/)
-
-[Instagram](https://www.instagram.com/seekau/)
-
-[Twitter](https://twitter.com/seekjobs)
-
-[YouTube](https://www.youtube.com/@SEEKJobs)
+[Facebook](https://www.facebook.com/SEEK/)[Instagram](https://www.instagram.com/seekau/)[Twitter](https://twitter.com/seekjobs)[YouTube](https://www.youtube.com/@SEEKJobs)
 
 Australia
 
