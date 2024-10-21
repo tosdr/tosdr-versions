@@ -259,20 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 20 2024](https://www.derrynow.com/news/deaths/1633815/derry-death-notices-sunday-october-20-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (56) arrested in Eglinton having failed a roadside drug test](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) arrested in Eglinton having failed a roadside drug test")](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
 
 The Swatragh team celebrates an historic victory. Pic by Sideline Photography
@@ -281,6 +267,22 @@ The Swatragh team celebrates an historic victory. Pic by Sideline Photography
 
 [Swatragh end Slaughtneil dominance to win first Senior Camogie title in 19 years!](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (56) arrested in Eglinton having failed a roadside drug test](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) arrested in Eglinton having failed a roadside drug test")](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sadness as popular Limavady cafe set to close its doors for good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as popular Limavady cafe set to close its doors for good")](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
+
+Habit will close its doors for good on November 2.
+
+[Home](https://www.derrynow.com/)
+
+[Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
 
@@ -291,13 +293,6 @@ Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpres
 [Swatragh stun Kevin Lynch's to take Intermediate Hurling title!](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Friends embrace Derry’s legendary Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
 
 Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
@@ -306,6 +301,20 @@ Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Hallow
 
 [Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
 
@@ -331,13 +340,6 @@ Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic 
 
 [Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Weather warnings in place as Storm Ashley hits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Weather warnings in place as Storm Ashley hits")](https://www.derrynow.com/news/northern-ireland/1634863/weather-warnings-in-place-as-storm-ashley-hits.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Weather warnings in place as Storm Ashley hits](https://www.derrynow.com/news/northern-ireland/1634863/weather-warnings-in-place-as-storm-ashley-hits.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Sadness as popular Limavady cafe set to close its doors for good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as popular Limavady cafe set to close its doors for good")](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
 
 Habit will close its doors for good on November 2.
@@ -526,7 +535,7 @@ Habit will close its doors for good on November 2.
 [Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: Everyday I’m Shuffling](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Everyday I’m Shuffling")](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
+[![MacD on Music: Everyday I’m Shuffling](https://www.derrynow.com/resizer/165/93/true/2024_10_18/Crash_Test_Dummies-1729259258620.jpeg--.jpeg?1729259258750 "MacD on Music: Everyday I’m Shuffling")](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
 
@@ -558,13 +567,6 @@ Derry-born Methodist minister, Rev. Harold Good
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_20/1729427101813_0.jpg--.jpg?1729427102211 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
