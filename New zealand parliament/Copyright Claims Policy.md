@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_62577_2024/62577-2024-hon-dr-ayesha-verrall-to-the-associate-minister/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_68420_2024/68420-2024-hon-ginny-andersen-to-the-minister-for-social/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_62577_2024/62577-2024-hon-dr-ayesha-verrall-to-the-associate-minister/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_68420_2024/68420-2024-hon-ginny-andersen-to-the-minister-for-social/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -99,7 +99,7 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-quest
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Tuesday, 22 October 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
@@ -122,7 +122,7 @@ There is no current live audio feed.
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Tuesday, 22 October 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
