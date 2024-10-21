@@ -290,15 +290,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
+The Unlocking Charm (Alohomora) is known as “thief’s friend.”
 
 ### Potter History
 
-August 14, 2008 – Warner Bros. announces that they are delaying Harry Potter and the Half-Blood Prince until July 17, 2009. The news shocks fans and many speculate over why the decision was made.
+December 17, 2008 – Scholastic announces that The Tales of Beedle the Bard sold 2.6 million copies worldwide in the first week on sale.
 
 ### Potter Quote
 
-“Have a biscuit, Potter.”
+“She tasted disgusting, worse than Gurdyroots!”
 
 [](#)
 
