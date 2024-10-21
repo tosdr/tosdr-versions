@@ -98,7 +98,6 @@
         * [DSL Tarife im Vergleich](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
         * [congstar Zuhause 250 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-250-flex/)
         * [congstar Zuhause 100 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-100-flex/)
-        * [Jetzt gewinnen: Internet inkl. Wohnungsmiete](https://www.congstar.de/zuhause/)
     
     * [Internet über LTE](#)
         * [Homespot Tarife im Vergleich](https://www.congstar.de/internet/congstar-homespot-im-vergleich/)
