@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/een-noorse-spiraal-n-russische-ufo-en-het-eindrapport-openheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/dementie-als-mind-over-matter/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
