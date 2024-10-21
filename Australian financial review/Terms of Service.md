@@ -337,7 +337,7 @@ Bawah Indonesia](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$rati
 
 [![“I thought it would be a great learning exercise,” Oscar Ledlin says of his first project, when he was 21. It nearly sent him broke.](https://static.ffx.io/images/$zoom_0.2285%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_182%2C$y_205/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9a0618e68848f6486c2bc7fb8e5e1088f394b810)](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
 
-### [This influencer cracked the Young Rich list by making warehouses sexy](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
+### [This developer cracked the Young Rich List by making warehouses sexy](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
 
 * Larry Schlesinger
 
