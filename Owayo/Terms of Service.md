@@ -186,7 +186,7 @@ Terms & Conditions
 **owayo GmbH Landshuter Straße 6 in 93047 Regensburg (Commercial Register: Local Court of Regensburg HRB 8270)  
 Executive board: Francisco Gennes, Paul Marek, Bastian Schindler  
 Telefon: +49 (941) 890 5500  
-**[E-Mail: info@owayo.com](mailto:info-de@owayo.com)
+**[\[email protected\]](https://www.owayo.com/cdn-cgi/l/email-protection)
 
 hereinafter referred to as “owayo”.
 
