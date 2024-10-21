@@ -72,7 +72,11 @@ Design your studio to look how you want, 100% on brand](https://riverside.fm/stu
 
 Remove silences and filler words with ease
 
-Remove silences and filler words with ease](https://riverside.fm/clean-up-speech)
+Remove silences and filler words with ease](https://riverside.fm/clean-up-speech)[AI Voice
+
+Turn text to speech in your own voice
+
+Turn text to speech in your own voice](https://riverside.fm/ai-voice)
 
 APPS  
 
@@ -278,7 +282,7 @@ Resources
 
 Podcast guides
 
-[How to Start a Podcast | A Complete Step-by-Step Guide](https://riverside.fm/blog/how-to-start-a-podcast)
+[How to Start a Podcast | Complete Step-by-Step Guide for 2024](https://riverside.fm/blog/how-to-start-a-podcast)
 
 [How to Start a Podcast on YouTube in 5 Steps \[2024 Guide\]](https://riverside.fm/blog/how-to-start-a-podcast-on-youtube)
 
