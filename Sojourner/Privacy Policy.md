@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3314b49f1ad45bd80a7bd4b66fc3505b
+cc2eb91ba21837f31e165798863e2e79
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Black emerald-cut bracelet clasp](https://www.sojourner.biz/images/cache/SKU0329front.200.jpg)](https://www.sojourner.biz/clasps/glass/black-emerald-cut-bracelet-clasp.html "Black emerald-cut bracelet clasp")
+[![8 mm by 6 mm oval green polka dot Czech beads](https://www.sojourner.biz/images/cache/glass/GL0003.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-green-polka-dot-czech-beads.html "8 mm by 6 mm oval green polka dot Czech beads")
 
-#### [Black emerald-cut bracelet clasp](https://www.sojourner.biz/clasps/glass/black-emerald-cut-bracelet-clasp.html "Black emerald-cut bracelet clasp")
+#### [8 mm by 6 mm oval green polka dot Czech beads](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-green-polka-dot-czech-beads.html "8 mm by 6 mm oval green polka dot Czech beads")
 
-$22.50
+$8.00
 
 ### Best Sellers
 
