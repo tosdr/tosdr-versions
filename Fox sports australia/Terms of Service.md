@@ -38,19 +38,29 @@ FOX SCORES
     | NZL | 5 /158 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250301)
+* [Men's T20I
+    
+    NEP won by 8 wkts
+    
+    |     |     |
+    | --- | --- |
+    | USA | 5 /156 |
+    | NEP | 2 /157 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250303)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | VIC | 272 |
-    | NSW | 4 /43 |
+    | VIC | 272 & 4 /90 |
+    | NSW | 136 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250104)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | QLD | 3 /35 |
+    | QLD | 9 /286 |
     | SA  | 314 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250105)
@@ -58,8 +68,8 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | WA  |     |
-    | TAS | 5 /158 |
+    | WA  | 3 /98 |
+    | TAS | 277 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250106)
 * NRL
@@ -118,6 +128,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240901)
 * Motorsport
     
+* [Supercars
+    
+    25/10 13:30 AEST
+    
+    |     |
+    | --- |
+    | Gold Coast 500 |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=745)
 * [Formula 1
     
     Complete
@@ -128,18 +148,18 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=593)
+* [MotoGP
+    
+    25/10 14:45 AEST
+    
+    |     |
+    | --- |
+    | Thailand GP |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=717)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | JAX | 32  |
-    | NE  | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250718)
 * [NFL
     
     Full Time
@@ -242,11 +262,11 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250728)
 * [NFL
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | PIT | 13  |
+    | PIT | 37  |
     | NYJ | 15  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250729)
@@ -258,30 +278,30 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | WOL | 1   |
-    | MCI | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250807)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | LIV | 2   |
     | CHE | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250801)
+* [Premier League
+    
+    22/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NOT | –   |
+    | CRY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250805)
 * Baseball
     
 * [MLB
     
-    Top 5th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | LAD | 6   |
-    | NYM | 3   |
+    | LAD | 10  |
+    | NYM | 5   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200212D4A)
 
