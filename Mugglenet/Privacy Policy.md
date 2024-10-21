@@ -244,32 +244,6 @@ MuggleNet Archive Select Month October 2024  (12) September 2024  (30) August 
 
 ### October 2024
 
-#### Sun, Oct 20
-
-Dan Fogler's birthday
-
-Recurs yearly
-
-Jacob Kowalski
-
-George Harris's birthday
-
-Recurs yearly
-
-Kingsley Shacklebolt
-
-Harry Potter: A History of Magic
-
-Recurs yearly
-
-2017
-
-Harry Potter: A Journey Through a History of Magic
-
-Recurs yearly
-
-2017
-
 #### Tue, Oct 22
 
 Carmen Ejogo's birthday
@@ -292,6 +266,20 @@ Recurs yearly
 
 Zacharias Smith
 
+#### Sun, Oct 27
+
+Brontis Jodorowsky's birthday
+
+Recurs yearly
+
+Nicolas Flamel
+
+John Cleese's birthday
+
+Recurs yearly
+
+Nearly Headless Nick
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -302,15 +290,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a Muggle spotted Hogwarts, they would just see an old ruin with a sign that says “Keep out, dangerous building.”
+During filming for Harry Potter and the Chamber of Secrets, many of the child actors got lice.
 
 ### Potter History
 
-April 5, 2006 – Warner Bros. announces that Harry Potter and the Order of Phoenix will hit theaters on July 13, 2007.
+September 8, 1999 – Harry Potter and the Prisoner of Azkaban is published in the United States.
 
 ### Potter Quote
 
-“Dear Mr. Potter, We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. Term begins on September 1. We await your owl by no later than July 31.”
+“Don’t be silly. Of course I won’t be in three classes at once.”
 
 [](#)
 
