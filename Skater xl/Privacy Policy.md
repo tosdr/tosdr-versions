@@ -142,7 +142,7 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -361,7 +361,13 @@ Awards
 Buy Skater XL
 =============
 
+SPECIAL PROMOTION! Offer ends October 28
+
+\-25%
+
 $39.99
+
+$29.99
 
 [Add to Cart](javascript:addToCart(314961);)
 
@@ -449,7 +455,7 @@ System Requirements
 What Curators Say
 -----------------
 
-102 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+98 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -466,20 +472,20 @@ Very Positive (49 reviews) ![](https://store.steamstatic.com/public/shared/image
 
 Review Type
 
- All (19,263)  
- Positive (16,573)  
+ All (19,264)  
+ Positive (16,574)  
  Negative (2,690)
 
 Purchase Type
 
- All (19,263)  
+ All (19,264)  
  Steam Purchasers (18,125) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,138) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ Other (1,139) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,263)  
- Your Languages (13,309) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,264)  
+ Your Languages (13,310) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
