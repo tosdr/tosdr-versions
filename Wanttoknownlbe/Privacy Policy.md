@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/aanklacht-tegen-wetenschappelijk-journalist-rozendaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/wie-isis-aan-de-macht-bracht-en-hoe/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
