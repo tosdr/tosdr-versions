@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+[![What is advanced mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-is-advanced-mesothelioma-scaled.jpg "What Is Advanced Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma "What Is Advanced Mesothelioma?")
 
-[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
+[#### What Is Advanced Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma)
 
-[![Is lung cancer a death sentence?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-is-lung-cancer-a-death-sentence.jpg "Is Lung Cancer a Death Sentence?")](https://www.pintas.com/lung-cancer/is-lung-cancer-a-death-sentence/ "Is Lung Cancer a Death Sentence?")
+[![What are some causes of nursing home deaths?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-some-causes-of-nursing-home-deaths-scaled.jpg "What Are Some Causes of Nursing Home Deaths?")](https://www.pintas.com/faq/what-are-some-causes-of-nursing-home-deaths/ "What Are Some Causes of Nursing Home Deaths?")
 
-[#### Is Lung Cancer a Death Sentence?](https://www.pintas.com/lung-cancer/is-lung-cancer-a-death-sentence/)
+[#### What Are Some Causes of Nursing Home Deaths?](https://www.pintas.com/faq/what-are-some-causes-of-nursing-home-deaths/)
 
-[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
+[![Can asbestos cause pancreatic cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-can-asbestos-cause-pancreatic-cancer.jpg "Can Asbestos Cause Pancreatic Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/ "Can Asbestos Cause Pancreatic Cancer?")
 
-[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
+[#### Can Asbestos Cause Pancreatic Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
