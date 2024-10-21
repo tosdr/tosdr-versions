@@ -53,7 +53,7 @@ Main navigation
     
     #### Featured
     
-    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [Holiday Drama New!](https://www.morphe.com/pages/holiday-drama) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
     
     [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
@@ -210,7 +210,7 @@ Main navigation
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals)
     
-    [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama)
+    [Holiday Drama New!](https://www.morphe.com/pages/holiday-drama)
     
     [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful)
     
