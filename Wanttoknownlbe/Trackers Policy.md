@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kom-je-ook-911-bevrijding-van-bedrog/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/geld/advocaat-laat-banken-miljoenen-kwijtschelden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
