@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Deceptions 2: Lest We Forget](/wp-content/thumbnails/8471-100x70.jpg?x53432)
+* [![I Knew Bin Laden](/wp-content/thumbnails/5765-100x70.jpg?x53432)
     
-    Deceptions 2: Lest We Forget
+    I Knew Bin Laden
     
-    Deceptions 2: Lest We Forget is the second film in the Deceptions Trilogy. We featured the first film "Deceptions" on our site a while back and it received quite a positive feedback. Lest We Forget by](https://documentaryheaven.com/deceptions-2-lest-we-forget/ "Deceptions 2: Lest We Forget")
-* [![Australia’s Deadliest: Shark Coast](/wp-content/thumbnails/9869-100x70.jpg?x53432)
+    On May 2, 2011, Barack Obama, the US president, announced that Osama bin Laden, the al-Qaeda leader, was shot dead in a raid by US special forces on a compound about 60km north of Islamabad, Pakistan'](https://documentaryheaven.com/i-knew-bin-laden/ "I Knew Bin Laden")
+* [![The AI Race](/wp-content/thumbnails/13490-100x70.jpg?x53432)
     
-    Australia’s Deadliest: Shark Coast
+    The AI Race
     
-    Western Austrailia's stunning coastline has recently been ravaged by a deadly predator, the community it appears in under siege, with beaches being closed left, right and centre, tourism as well has t](https://documentaryheaven.com/australias-deadliest-shark-coast/ "Australia’s Deadliest: Shark Coast")
-* [![Stress, Portrait of a Killer](/wp-content/thumbnails/5794-100x70.png?x53432)
+    An hour long special from ABC's Lateline which examines the future of artificial intelligence and how new figures show that every job will begin to change in the coming years as AI starts to revolutio](https://documentaryheaven.com/ai-race/ "The AI Race")
+* [![The Beyond Within](/wp-content/thumbnails/1036-100x70.jpg?x53432)
     
-    Stress, Portrait of a Killer
+    The Beyond Within
     
-    The stress response: in the beginning it saved our lives, making us run from predators and enabling us to take down prey. Today, human beings are turning on the same life-saving physical reaction to c](https://documentaryheaven.com/stress-portrait-of-a-killer/ "Stress, Portrait of a Killer")
-* [![Secrets of the Mona Lisa](/wp-content/thumbnails/10539-100x70.jpg?x53432)
+    There is more to reality than meets a normal eye. Behind the curtain of everyday consciousness is hidden another unutterably strange universe. It’s the world of mystical experiences and those who have](https://documentaryheaven.com/the-beyond-within/ "The Beyond Within")
+* [![Hitman Hart: Wrestling with Shadows](/wp-content/thumbnails/3365-100x70.jpg?x53432)
     
-    Secrets of the Mona Lisa
+    Hitman Hart: Wrestling with Shadows
     
-    Bewitching, seductive and world famous, in the minds of millions she is the ultimate work of art being endlessly photographed and admired yet behind the enigmatic smile she remains a mystery. Who was](https://documentaryheaven.com/secrets-of-the-mona-lisa/ "Secrets of the Mona Lisa")
-* [![Scientific American Frontiers](/wp-content/thumbnails/2705-100x70.jpg?x53432)
+    Hitman Hart: Wrestling with shadows is a documentary about the legendary WWF and WWE wrestler, Bret ‘The Hitman’ Hart. This is about a man making it to the top and the human cost: his father’s legacy](https://documentaryheaven.com/wrestling-with-shadows/ "Hitman Hart: Wrestling with Shadows")
+* [![The Making of Merkel](/wp-content/thumbnails/8133-100x70.jpg?x53432)
     
-    Scientific American Frontiers
+    The Making of Merkel
     
-    Surgical Slimmers. In spite of the risks, people are lining up to solve their weight problems in the operating room. And if the latest device – an implantable stomach “pacer” – works out, millions mor](https://documentaryheaven.com/scientific-american-frontiers/ "Scientific American Frontiers")
+    On the eve of the German federal elections, Andrew Marr looks at the enigmatic Chancellor of Germany, Angela Merkel. She is the most important politician in Europe and the most powerful woman in the w](https://documentaryheaven.com/making-merkel/ "The Making of Merkel")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
