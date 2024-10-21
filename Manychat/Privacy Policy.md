@@ -1,4 +1,4 @@
-[Get Started](https://manychat.com/signup)[Sign In](https://manychat.com/signin)
+[Get Started](https://app.manychat.com/signup)[Sign In](https://app.manychat.com/signin)
 
 Product
 
@@ -130,7 +130,7 @@ Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
 
-[Get Started](https://manychat.com/signup)[Sign In](https://manychat.com/signin)
+[Get Started](https://app.manychat.com/signup)[Sign In](https://app.manychat.com/signin)
 
 More documents
 
@@ -416,7 +416,7 @@ Try Manychat for free
 
 Transform more conversations into sales, leads, and conversions today
 
-[Get Started](https://manychat.com/signup)
+[Get Started](https://app.manychat.com/signup)
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-white.93c1c234.svg)](https://manychat.com/)
 
