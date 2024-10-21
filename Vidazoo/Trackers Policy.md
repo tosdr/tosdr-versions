@@ -31,6 +31,10 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-Lu8gBkikjSdeMGMJn7M)
 
+On this page
+
+Was this helpful?
+
 Cookies Policy
 ==============
 
@@ -134,7 +138,3 @@ If you have any questions about our use of cookies, please contact us at [dpo@vi
 [PreviousVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)[NextPrivacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
 
 Last updated 11 months ago
-
-On this page
-
-Was this helpful?
