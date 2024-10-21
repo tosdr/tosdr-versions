@@ -4,55 +4,315 @@
 
       Privacy Policy | Toddle                                              
 
-[![Toddle](https://www.toddleapp.com/wp-content/uploads/2021/01/toddle_title_dark.svg)](https://www.toddleapp.com/ "Toddle")
+[![Toddle](https://www.toddleapp.com/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/ "Toddle")
 
 * Products
-    * [![Representing IB PYP](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-16.png)IB PYP](https://www.toddleapp.com/ib-pyp/)
-    * [![Representing IB MYP](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-17.png)IB MYP](https://www.toddleapp.com/ib-myp/)
-    * [![IB-DP icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-18.png)IB DP](https://www.toddleapp.com/ib-dp/)
-    * [![](https://www.toddleapp.com/wp-content/uploads/2024/02/PYP.png)IB CP](https://www.toddleapp.com/product/ib-cp/)
-    * [![UbD School icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-22-36x36.png)Australian schools](https://www.toddleapp.com/australian-school-system/)
-    * [![Cambridge Curriculum icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-19.png)Cambridge curriculum (CAIE)](https://www.toddleapp.com/cambridge-curriculum/)
-    * [![Representing Toddle Play](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-14.png)Toddle Play](https://play.toddleapp.com/ "New")
-    * [![Representing Independent school](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-21.png)Independent schools](https://www.toddleapp.com/independent-schools/)
-    * [![British curriculum icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-24.png)British curriculum](https://www.toddleapp.com/british-curriculum/)
-    * [![Customizable teaching-learning solution](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-23.png)Bespoke solution](https://www.toddleapp.com/custom-solution/)
+    * Modules
+        
+        [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ListDashesOutlined-2.svg)Product Overview
+        
+        Toddle at a glance](https://www.toddleapp.com/product/product-overview/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/TableOutlined.svg)Assessments & Gradebook
+        
+        All your assessment needs in one place](https://www.toddleapp.com/product/assessments-gradebook/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/TableOutlined.svg)Assignments & Gradebook
+        
+        Your assessment cycle in one place](https://www.toddleapp.com/product/assessments-gradebook/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/JournalOutlined.svg)Progress Reports & Transcripts
+        
+        Build customised progress reports](https://www.toddleapp.com/product/progress-reports-transcripts/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/JournalOutlined.svg)Report Cards & Transcripts
+        
+        Build customized report cards](https://www.toddleapp.com/product/progress-reports-transcripts/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/BoltOutlined.svg)Behaviour Management
+        
+        Track and report student well-being](https://www.toddleapp.com/product/behavior-management/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ShieldCheckOutlined.svg)Accreditation Management
+        
+        Be accreditation-ready at all times](https://www.toddleapp.com/product/accreditation-management/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/UnitPlanOutlined.svg)Curriculum Planning
+        
+        From curriculum maps to lesson plans](https://www.toddleapp.com/product/curriculum-planning/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/UnitPlanOutlined.svg)Curriculum Planning
+        
+        From curriculum maps to lesson plans](https://www.toddleapp.com/product/curriculum-planning/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/StudentOutlined-1.svg)Student Portfolios
+        
+        Make learning visible](https://www.toddleapp.com/product/student-portfolios/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ChatTextOutlined.svg)Communications Hub
+        
+        Keep your entire community in sync](https://www.toddleapp.com/product/communications-hub/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ResourceOutlined.svg)Class Operations
+        
+        Attendance, timetable, calendar](https://www.toddleapp.com/product/class-operations/)
+    * Platform
+        
+        [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538.svg)Toddle AI
+        
+        Save time & elevate practices with your personal teaching assistant](https://www.toddleapp.com/ai/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610537.svg)Integrations
+        
+        Integrate with your favourite tools](https://www.toddleapp.com/integrations/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538-1.svg)Privacy & Security
+        
+        Secure your school’s data](https://www.toddleapp.com/privacy-policy/)
+    * [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/take-the-self-guided-platform-tour/)
+        
+        Explore Toddle for your school
+        
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        
+        ![](https://www.toddleapp.com/wp-content/uploads/2024/07/MacBook-Pro.webp)
+        
+* Solutions
+    * [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+    * [Cambridge Curriculum](https://www.toddleapp.com/cambridge-curriculum/)
+    * [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+    * [Cambridge Curriculum](https://www.toddleapp.com/cambridge-curriculum/)
+    * [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+    * [Understanding by Design (UbD)](https://www.toddleapp.com/ubd/)
+    * [Independent Schools](https://www.toddleapp.com/independent-schools/)
+    * [Understanding by Design (UbD)](https://www.toddleapp.com/ubd/)
+    * [Bespoke Curriculum](https://www.toddleapp.com/custom-solution/)
+    * [Bespoke Curriculum](https://www.toddleapp.com/custom-solution/)
+    * [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+    * [Early Years](https://play.toddleapp.com/)
+    * [IB PYP](https://www.toddleapp.com/ib-pyp/)
+    * [IB MYP](https://www.toddleapp.com/ib-myp/)
+    * [IB DP](https://www.toddleapp.com/ib-dp/)
+    * [IB CP](https://www.toddleapp.com/product/ib-cp/)
+    * [IB Candidate](https://www.toddleapp.com/ib-candidate-schools/)
+    * [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/explore-toddle-for-your-school/)
+        
+        Explore Toddle for your school
+        
+        Plan your curriculum, assess student learning and so much more - all from one place.
+        
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        
+        ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
+        
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
 * [Learn](https://learn.toddleapp.com/)
-* [Toddle AI](https://www.toddleapp.com/ai/)
-* [Toddle TIES 2024](https://www.toddleapp.com/events/ties/)
+* [Pricing](https://www.toddleapp.com/pricing/)
 
-* [Sign In](https://web.toddleapp.com/?utm_source=website&type=loginHome)
-* [Book a Free Demo](https://www.toddleapp.com/book-a-free-demo/)
+* [Sign in](https://web.toddleapp.com/?utm_source=website&type=loginHome)
+* [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
 
-[![Toddle small logo](https://www.toddleapp.com/wp-content/uploads/2021/02/toddle-mob.svg)](https://www.toddleapp.com/)
+[![Toddle small logo](https://www.toddleapp.com/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/)
 
-[Book a Free Demo](https://www.toddleapp.com/book-a-free-demo/) ![](https://www.toddleapp.com/wp-content/uploads/2021/02/Icon_hamburger_2-1.svg)
+[Get a demo](https://www.toddleapp.com/book-a-free-demo/) ![](https://www.toddleapp.com/wp-content/uploads/2021/02/Icon_hamburger_2-1.svg)
 
-![](https://www.toddleapp.com//wp-content/uploads/2021/02/Icon_close.svg) [![Netflix Logo](https://www.toddleapp.com/wp-content/uploads/2021/01/toddle_title_dark.svg)](https://www.toddleapp.com/)
+![](https://www.toddleapp.com//wp-content/uploads/2021/02/Icon_close.svg) [![Netflix Logo](/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/)
 
 * Products
-    * [![Representing IB PYP](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-16.png)IB PYP](https://www.toddleapp.com/ib-pyp/)
-    * [![Representing IB MYP](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-17.png)IB MYP](https://www.toddleapp.com/ib-myp/)
-    * [![IB-DP icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-18.png)IB DP](https://www.toddleapp.com/ib-dp/)
-    * [![](https://www.toddleapp.com/wp-content/uploads/2024/02/PYP.png)IB CP](https://www.toddleapp.com/product/ib-cp/)
-    * [![UbD School icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-22-36x36.png)Australian schools](https://www.toddleapp.com/australian-school-system/)
-    * [![Cambridge Curriculum icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-19.png)Cambridge curriculum (CAIE)](https://www.toddleapp.com/cambridge-curriculum/)
-    * [![Representing Toddle Play](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-14.png)Toddle Play](https://play.toddleapp.com/ "New")
-    * [![Representing Independent school](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-21.png)Independent schools](https://www.toddleapp.com/independent-schools/)
-    * [![British curriculum icon](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-24.png)British curriculum](https://www.toddleapp.com/british-curriculum/)
-    * [![Customizable teaching-learning solution](https://www.toddleapp.com/wp-content/uploads/2023/04/PYP-23.png)Bespoke solution](https://www.toddleapp.com/custom-solution/)
+    * Modules
+        
+        [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ListDashesOutlined-2.svg)Product Overview
+        
+        Toddle at a glance](https://www.toddleapp.com/product/product-overview/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/TableOutlined.svg)Assessments & Gradebook
+        
+        All your assessment needs in one place](https://www.toddleapp.com/product/assessments-gradebook/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/TableOutlined.svg)Assignments & Gradebook
+        
+        Your assessment cycle in one place](https://www.toddleapp.com/product/assessments-gradebook/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/JournalOutlined.svg)Progress Reports & Transcripts
+        
+        Build customised progress reports](https://www.toddleapp.com/product/progress-reports-transcripts/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/JournalOutlined.svg)Report Cards & Transcripts
+        
+        Build customized report cards](https://www.toddleapp.com/product/progress-reports-transcripts/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/BoltOutlined.svg)Behaviour Management
+        
+        Track and report student well-being](https://www.toddleapp.com/product/behavior-management/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ShieldCheckOutlined.svg)Accreditation Management
+        
+        Be accreditation-ready at all times](https://www.toddleapp.com/product/accreditation-management/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/UnitPlanOutlined.svg)Curriculum Planning
+        
+        From curriculum maps to lesson plans](https://www.toddleapp.com/product/curriculum-planning/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/UnitPlanOutlined.svg)Curriculum Planning
+        
+        From curriculum maps to lesson plans](https://www.toddleapp.com/product/curriculum-planning/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/StudentOutlined-1.svg)Student Portfolios
+        
+        Make learning visible](https://www.toddleapp.com/product/student-portfolios/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ChatTextOutlined.svg)Communications Hub
+        
+        Keep your entire community in sync](https://www.toddleapp.com/product/communications-hub/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/ResourceOutlined.svg)Class Operations
+        
+        Attendance, timetable, calendar](https://www.toddleapp.com/product/class-operations/)
+    * Platform
+        
+        [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538.svg)Toddle AI
+        
+        Save time & elevate practices with your personal teaching assistant](https://www.toddleapp.com/ai/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610537.svg)Integrations
+        
+        Integrate with your favourite tools](https://www.toddleapp.com/integrations/)
+    * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538-1.svg)Privacy & Security
+        
+        Secure your school’s data](https://www.toddleapp.com/privacy-policy/)
+    * [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/take-the-self-guided-platform-tour/)
+        
+        Explore Toddle for your school
+        
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        
+        ![](https://www.toddleapp.com/wp-content/uploads/2024/07/MacBook-Pro.webp)
+        
+* Solutions
+    * [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+    * [Cambridge Curriculum](https://www.toddleapp.com/cambridge-curriculum/)
+    * [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+    * [Cambridge Curriculum](https://www.toddleapp.com/cambridge-curriculum/)
+    * [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+    * [Understanding by Design (UbD)](https://www.toddleapp.com/ubd/)
+    * [Independent Schools](https://www.toddleapp.com/independent-schools/)
+    * [Understanding by Design (UbD)](https://www.toddleapp.com/ubd/)
+    * [Bespoke Curriculum](https://www.toddleapp.com/custom-solution/)
+    * [Bespoke Curriculum](https://www.toddleapp.com/custom-solution/)
+    * [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+    * [Early Years](https://play.toddleapp.com/)
+    * [IB PYP](https://www.toddleapp.com/ib-pyp/)
+    * [IB MYP](https://www.toddleapp.com/ib-myp/)
+    * [IB DP](https://www.toddleapp.com/ib-dp/)
+    * [IB CP](https://www.toddleapp.com/product/ib-cp/)
+    * [IB Candidate](https://www.toddleapp.com/ib-candidate-schools/)
+    * [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/explore-toddle-for-your-school/)
+        
+        Explore Toddle for your school
+        
+        Plan your curriculum, assess student learning and so much more - all from one place.
+        
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        
+        ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
+        
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
 * [Learn](https://learn.toddleapp.com/)
-* [Toddle AI](https://www.toddleapp.com/ai/)
-* [Toddle TIES 2024](https://www.toddleapp.com/events/ties/)
+* [Pricing](https://www.toddleapp.com/pricing/)
 
-[Request a demo](#)
+[Book a demo](https://www.toddleapp.com/book-a-free-demo/) [Sign In](https://web.toddleapp.com/?utm_source=website&type=loginHome)
+
+![](https://www.toddleapp.com//wp-content/uploads/2021/02/Icon_close.svg) [![back btn](/wp-content/uploads/2024/07/back-icon.webp)](javascript:void(0);)
+
+MODULES
+
+* [![Product Overview](https://www.toddleapp.com/wp-content/uploads/2024/07/ListDashesOutlined-2.svg)
+    
+    Product Overview
+    
+    Toddle at a glance](https://www.toddleapp.com/product/product-overview/)
+* [![Assessments & Gradebook](https://www.toddleapp.com/wp-content/uploads/2024/07/TableOutlined.svg)
+    
+    Assessments & Gradebook
+    
+    All your assessment needs in one place](https://www.toddleapp.com/product/assessments-gradebook/)
+* [![Assignments & Gradebook](https://www.toddleapp.com/wp-content/uploads/2024/07/TableOutlined.svg)
+    
+    Assignments & Gradebook
+    
+    Your assessment cycle in one place](https://www.toddleapp.com/product/assessments-gradebook/)
+* [![Progress Reports & Transcripts](https://www.toddleapp.com/wp-content/uploads/2024/07/JournalOutlined.svg)
+    
+    Progress Reports & Transcripts
+    
+    Build customised progress reports](https://www.toddleapp.com/product/progress-reports-transcripts/)
+* [![Report Cards & Transcripts](https://www.toddleapp.com/wp-content/uploads/2024/07/JournalOutlined.svg)
+    
+    Report Cards & Transcripts
+    
+    Build customized report cards](https://www.toddleapp.com/product/progress-reports-transcripts/)
+* [![Behaviour Management](https://www.toddleapp.com/wp-content/uploads/2024/07/BoltOutlined.svg)
+    
+    Behaviour Management
+    
+    Track and report student well-being](https://www.toddleapp.com/product/behavior-management/)
+* [![Accreditation Management](https://www.toddleapp.com/wp-content/uploads/2024/07/ShieldCheckOutlined.svg)
+    
+    Accreditation Management
+    
+    Be accreditation-ready at all times](https://www.toddleapp.com/product/accreditation-management/)
+* [![Curriculum Planning](https://www.toddleapp.com/wp-content/uploads/2024/07/UnitPlanOutlined.svg)
+    
+    Curriculum Planning
+    
+    From curriculum maps to lesson plans](https://www.toddleapp.com/product/curriculum-planning/)
+* [![Curriculum Planning](https://www.toddleapp.com/wp-content/uploads/2024/07/UnitPlanOutlined.svg)
+    
+    Curriculum Planning
+    
+    From curriculum maps to lesson plans](https://www.toddleapp.com/product/curriculum-planning/)
+* [![Student Portfolios](https://www.toddleapp.com/wp-content/uploads/2024/07/StudentOutlined-1.svg)
+    
+    Student Portfolios
+    
+    Make learning visible](https://www.toddleapp.com/product/student-portfolios/)
+* [![Communications Hub](https://www.toddleapp.com/wp-content/uploads/2024/07/ChatTextOutlined.svg)
+    
+    Communications Hub
+    
+    Keep your entire community in sync](https://www.toddleapp.com/product/communications-hub/)
+* [![Class Operations](https://www.toddleapp.com/wp-content/uploads/2024/07/ResourceOutlined.svg)
+    
+    Class Operations
+    
+    Attendance, timetable, calendar](https://www.toddleapp.com/product/class-operations/)
+
+![](https://www.toddleapp.com//wp-content/uploads/2021/02/Icon_close.svg) [![back btn](/wp-content/uploads/2024/07/back-icon.webp)](javascript:void(0);)
+
+PLATFORM
+
+* [![Toddle AI](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538.svg)
+    
+    Toddle AI
+    
+    Save time & elevate practices with your personal teaching assistant](https://www.toddleapp.com/ai/)
+* [![Integrations](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610537.svg)
+    
+    Integrations
+    
+    Integrate with your favourite tools](https://www.toddleapp.com/integrations/)
+* [![Privacy & Security](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538-1.svg)
+    
+    Privacy & Security
+    
+    Secure your school’s data](https://www.toddleapp.com/privacy-policy/)
+
+![](https://www.toddleapp.com//wp-content/uploads/2021/02/Icon_close.svg) [![back btn](/wp-content/uploads/2024/07/back-icon.webp)](javascript:void(0);)
+
+* [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+* [Cambridge Curriculum](https://www.toddleapp.com/cambridge-curriculum/)
+* [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+* [Cambridge Curriculum](https://www.toddleapp.com/cambridge-curriculum/)
+* [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+* [Understanding by Design (UbD)](https://www.toddleapp.com/ubd/)
+* [Independent Schools](https://www.toddleapp.com/independent-schools/)
+* [Understanding by Design (UbD)](https://www.toddleapp.com/ubd/)
+* [Bespoke Curriculum](https://www.toddleapp.com/custom-solution/)
+* [Bespoke Curriculum](https://www.toddleapp.com/custom-solution/)
+* [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+* [Early Years](https://play.toddleapp.com/)
+* [IB PYP](https://www.toddleapp.com/ib-pyp/)
+* [IB MYP](https://www.toddleapp.com/ib-myp/)
+* [IB DP](https://www.toddleapp.com/ib-dp/)
+* [IB CP](https://www.toddleapp.com/product/ib-cp/)
+* [IB Candidate](https://www.toddleapp.com/ib-candidate-schools/)
+* [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/explore-toddle-for-your-school/)
+
+Explore Toddle for your school
+
+[Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+
+![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
 
 Our Privacy Policy
 ==================
 
-Last Updated: September 19, 2024
+Last Updated: September 4, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -353,72 +613,72 @@ Book time with us. We would love to learn more about your school’s needs and d
 
 ![](https://www.toddleapp.com/wp-content/uploads/2021/08/Group-4275.png)
 
-![Toddle logo](https://www.toddleapp.com/wp-content/uploads/2021/03/Screenshot-2021-01-12-at-11.06.42-AM-1.png)
+### Features
+
+* [Overview](https://www.toddleapp.com/product/product-overview/)
+* [Curriculum Planning](https://www.toddleapp.com/product/curriculum-planning/)
+* [Assessments & Gradebook](https://www.toddleapp.com/product/assessments-gradebook/)
+* [Student Portfolios](https://www.toddleapp.com/product/student-portfolios/)
+* [Progress Reports & Transcripts](https://www.toddleapp.com/product/progress-reports-transcripts/)
+* [Class Operations](https://www.toddleapp.com/product/class-operations/)
+* [Communications Hub](https://www.toddleapp.com/product/communications-hub/)
+* [Accreditation Management](https://www.toddleapp.com/product/accreditation-management/)
+* [Behaviour Management](https://www.toddleapp.com/product/behavior-management/)
+* [Toddle AI](https://www.toddleapp.com/ai/)
+* [Integrations](https://www.toddleapp.com/integrations/)
 
 © Teacher Tools Pvt. Ltd.
 
-### Toddle Platform
+### Solutions
 
 * [IB PYP](https://www.toddleapp.com/ib-pyp/)
 * [IB MYP](https://www.toddleapp.com/ib-myp/)
 * [IB DP](https://www.toddleapp.com/ib-dp/)
 * [IB CP](https://www.toddleapp.com/product/ib-cp/)
-* [Australian schools](https://www.toddleapp.com/australian-school-system/)
-* [Cambridge curriculum](https://www.toddleapp.com/cambridge-curriculum/)
-* [British curriculum](https://www.toddleapp.com/british-curriculum/)
-* [Independent schools](https://www.toddleapp.com/independent-schools/)
-* [Other curriculum frameworks](https://www.toddleapp.com/custom-solution/)
+* [IB Candidate](https://www.toddleapp.com/ib-candidate-schools/)
+* [Australian & NZ Schools](https://www.toddleapp.com/australian-school-system/)
+* [English National Curriculum](https://www.toddleapp.com/british-curriculum/)
+* [Independent Curriculum](https://www.toddleapp.com/independent-schools/)
+* [Toddle Play](https://play.toddleapp.com/)
+* [Bespoke](https://www.toddleapp.com/custom-solution/)
 
-  
+### Company
 
-### Toddle Events
-
-* [Toddle TIES 2023](https://www.toddleapp.com/ties23)
-* [Play Summit](https://www.toddleapp.com/play-summit/)
-* [Leaders Bootcamp](https://www.toddleapp.com/school-leaders-bootcamp/)
-* [Toddle TIES 2022](https://www.toddleapp.com/ties22)
-* [IB DP Thinkathon](https://www.toddleapp.com/ib-dp-thinkathon)
-* [Toddle TIES 2021](https://www.toddleapp.com/ties21/)
-* [MYP Planning Symposium](https://www.toddleapp.com/myp-planning-symposium/)
-* [PYPx Pop-Up](https://www.toddleapp.com/pypx/)
-* [Toddle Learning Jam](https://www.toddleapp.com/learning-jam/)
-* [Toddle TIES 2020](https://www.toddleapp.com/ties20/)
-
-### Learn
-
-* [PYP](https://learn.toddleapp.com/pyp/)
-* [MYP](https://learn.toddleapp.com/myp/)
-* [DP](https://learn.toddleapp.com/dp/)
-* [UbD®](https://learn.toddleapp.com/ubd/)
-* [Events](https://learn.toddleapp.com/events/)
-
-### Connect with us
-
-* [Facebook](https://www.facebook.com/toddle.edu/)
-* [Twitter](https://twitter.com/toddle_edu/)
-* [LinkedIn](https://www.linkedin.com/company/toddle/)
-* [Youtube](https://www.youtube.com/channel/UCVzOS53ssh0TntKCI8qhVkg)
-* [Instagram](https://www.instagram.com/toddleapp)
-* [Wellfound](https://wellfound.com/company/toddleapp)
-
-### More
-
-* [Careers](https://careers.toddleapp.com/)
 * [Pricing](https://www.toddleapp.com/pricing/)
+* [Careers](https://careers.toddleapp.com/)
+* [FAQs](https://www.toddleapp.com/faqs/)
 * [Toddle Referral Program](https://www.toddleapp.com/referral/)
-* [Contact Us](https://www.toddleapp.com/contact-us/)
-* [FAQ](https://www.toddleapp.com/faqs/)
-* [Privacy Center](https://www.toddleapp.com/privacy-center/)
+* [Privacy and Security Center](https://www.toddleapp.com/privacy-center/)
 * [Privacy Policy](https://www.toddleapp.com/privacy-policy/)
 * [Cookie Policy](https://www.toddleapp.com/cookie-policy/)
 * [Terms of Service](https://www.toddleapp.com/termsofservice/)
 * [Terms of Use](https://www.toddleapp.com/termsofuse/)
+* [Contact us](https://www.toddleapp.com/contact-us/)
+
+### Events & Webinars
+
+* [Toddle Demo Day – Edition 1](https://www.toddleapp.com/events/demo-day-jan2024/)
+* [Toddle Demo Day – Edition 2](https://www.toddleapp.com/events/demo-day-may2024/)
+* [TIES 2024](https://www.toddleapp.com/events/ties/)
+* [ChatGPT Crash Course for Educators (Part 1)](https://learn.toddleapp.com/talk-post/chatgpt-crash-course-for-educators/)
+* [Leading with AI](https://www.toddleapp.com/events/leading-with-ai/)
+
+  
+
+### Resources
+
+* [School Leaders Project](https://slp.toddleapp.com/)
+* [School’s vision for AI](https://learn.toddleapp.com/blog-post/future-of-ai-in-education/)
+* [99 thinking tools for every inquiry classroom](https://learn.toddleapp.com/resource-post/thinking-tools-for-every-inquiry-math-ela-science-and-more/)
+* [Mastering GPT for lesson planning](https://learn.toddleapp.com/blog-post/mastering-chatgpt-lesson-planning/)
+* [Building rubrics for authentic assessments](https://learn.toddleapp.com/resource-post/building-rubrics-for-efficient-and-authentic-assessment/)
 
 ### Connect with us
 
 * [](https://www.facebook.com/toddle.edu/)
+* [](https://www.linkedin.com/company/toddle/)
 * [](https://twitter.com/toddle_edu/)
-* [](https://www.linkedin.com/company/toddle/)[](https://www.linkedin.com/company/toddle/)
 * [](https://www.youtube.com/channel/UCVzOS53ssh0TntKCI8qhVkg)
 * [](https://www.instagram.com/toddleapp)
-* [](https://wellfound.com/company/toddleapp)
+
+![](/wp-content/uploads/2024/10/Group-27725-2.webp)
