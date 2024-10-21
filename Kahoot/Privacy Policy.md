@@ -87,7 +87,7 @@ We may use your Personal Information which we collect for the purposes and on th
 
 **Data analytics.** Your Personal Information may be used to perform data analytics in reliance on our legitimate business interests in improving and enhancing our products and services for our Users. For example, we use analytics data to enable product recommendation, audience segmentation, and predicted demographics features for our Users.
 
-**Marketing.** We may use your Personal Information to serve you marketing information, product recommendations and non-transactional communications (such as email, telemarketing calls, SMS, or push notifications) about us, in accordance with your marketing preferences and this Privacy Policy. We may also, with your consent, process your e-mail address for the purpose of checking whether a multi-user account exist or can be created for your organization (e.g. your employer), and in that case, contact you with options to gain access to your organization’s account with your own User. If you consent to the aforementioned processing activity, we may notify your organization that an individual is requesting access to the organization’s account, by sharing the domain name of your email address with your organization (i.e. the part which comes after the @ symbol in your email address). **We will not send you unsolicited or third party marketing.**
+**Marketing.** We may use your Personal Information to serve you marketing information, product recommendations and non-transactional communications (such as email, telemarketing calls, SMS, or push notifications) about us and companies within Kahoot’ Group, in accordance with your marketing preferences and this Privacy Policy. We may also, with your consent, process your e-mail address for the purpose of checking whether a multi-user account exist or can be created for your organization (e.g. your employer), and in that case, contact you with options to gain access to your organization’s account with your own User. If you consent to the aforementioned processing activity, we may notify your organization that an individual is requesting access to the organization’s account, by sharing the domain name of your email address with your organization (i.e. the part which comes after the @ symbol in your email address). **We will not send you unsolicited or third party marketing.**
 
 **Allowing you to participate in sweepstakes, contests and similar promotions.** We may offer you the opportunity to participate in sweepstakes, contests and similar promotions. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information. Participation in these activities is fully optional, and subject to separate \`just in-time´ notice as required. We engage in these activities to manage our contractual relationship with you.
 
@@ -115,7 +115,7 @@ The Websites include links to other websites, whose privacy practices may be dif
 
 Depending on the jurisdiction in which you reside, you may have the following data protection rights:
 
-* To access; correct; update; port; delete; restrict; or object to our processing of your Personal Information.
+* To access; correct; update; port; delete; restrict; or object to our processing of your Personal Information, including to at any time opt-out for receiving marketing by email or SMS.
 
 * You may have the right to lodge a complaint with your applicable data protection authority regarding our collection and use of your Personal Information. Please contact your local data protection authority for more information. Contact details for data protection authorities within the EEA and UK are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and Switzerland are available [here.](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html)
 
@@ -136,7 +136,7 @@ Note that you can manage your individual account and profile settings through yo
 
 We do not share Personal Information with third parties except in the limited circumstances outlined below.
 
-* Affiliates. We may share and disclose your Personal Information with the companies in the Kahoot! Group, for our legitimate business purposes or to provide services that may include one or more of our Group Companies.
+* Affiliates. We may share and disclose your Personal Information with the companies in the Kahoot! Group, for our legitimate business purposes, for marketing of such companies’ products or services (if you have consented to this), or to provide services that may include one or more of our Group Companies.
 
 * Service providers. We may share Personal Information with our  trusted service providers who perform services on our behalf (e.g. web hosting, technical support, processing of payment, analytics services and content provision), but strictly for the purpose of carrying out work on our behalf as described in this Privacy Policy. For example, companies we’ve hired to help us provide and support our Service or assist in protecting and securing our systems and services and other business-related functions.
 
