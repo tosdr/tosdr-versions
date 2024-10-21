@@ -228,6 +228,8 @@ Award Inquiries:
 
 (720) 730-2653
 
+awards@bold.org
+
 Student Inquiries:
 
 contact@bold.org
