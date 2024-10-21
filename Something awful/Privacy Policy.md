@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [The Headless Eyes](https://www.somethingawful.com/movie-reviews/headless-eyes/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Stephen Yan's Apron Puns!](https://www.somethingawful.com/photoshop-phriday/stephen-yan-apron/)
+* [Peekaru!](https://www.somethingawful.com/photoshop-phriday/peekaru/1/)
+* [March 3, 2008](https://www.somethingawful.com/forum-fridays/ff03-03-08/1/)
+* [Houston vs Kansas City Play by Play](https://www.somethingawful.com/comedy-goldmine/football-eldritch-byob/)
+* [Lobe, American Style](https://www.somethingawful.com/news/lobe-american-style/)
+* [Anshe's Revenge & Stinging Surprise](https://www.somethingawful.com/second-life-safari/anshes-revenge-stinging/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [It's 2065 and you are still posting in GBS](http://forums.somethingawful.com/showthread.php?threadid=4073129 "It's 2065 and you are still posting in GBS")
-* ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Ghosts that have haunted you.](http://forums.somethingawful.com/showthread.php?threadid=4073108 "Ghosts that have haunted you.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Chickencheese is back!](http://forums.somethingawful.com/showthread.php?threadid=4073196 "Chickencheese is back!")
 
 ### Random Articles
 
-* [The USS Valiant](https://www.somethingawful.com/awful-links/awful-link-2022/)
-* [The Florida Presidential Voting Controversy](https://www.somethingawful.com/news/florida-presidential-voting/)
-* [Pre-Scripted, After All These Years](https://www.somethingawful.com/news/prescripted-after-all/)
-* [Furious Famicom Faggot: episode 6](https://www.somethingawful.com/flash-tub/furious-famicom-faggot6/)
-* [The Simpsons Movie Website](https://www.somethingawful.com/awful-links/awful-link-4290/)
+* [Office Paper Pals](https://www.somethingawful.com/flash-tub/office-paper-pals/)
+* [Video Game High School](https://www.somethingawful.com/movie-reviews/video-game-hs/1/)
+* [Ohayocon 2007: Disappointment of Disappointments](https://www.somethingawful.com/news/ohayocon-2007-disappointment/1/)
+* [Cast Central](https://www.somethingawful.com/awful-links/cast-central/)
+* [Billy Corgan's Transphobia](https://www.somethingawful.com/garbage-day/billy-corgan-transphobic/)
 
 [Random!](https://www.somethingawful.com/random/)
 
