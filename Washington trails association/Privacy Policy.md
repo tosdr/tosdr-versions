@@ -145,7 +145,6 @@ Seattle, WA 98104
 (206) 625-1367
 
 * [Facebook](https://facebook.com/washingtontrails)
-* [Twitter](https://twitter.com/WTA_hikers)
 * [Pinterest](https://www.pinterest.com/washingtontrails/)
 * [Instagram](https://www.instagram.com/washingtontrails/)
 
