@@ -40,12 +40,6 @@ Buscar
 
 You must have JavaScript enabled to use this form.
 
- 
-
-    
-
- 
-
 **¿Quieres descubrir todo lo que te ofrecemos en red.es?** [Explorar todo el contenido](http://red.es/buscador)
 
 ##### Navegación principal
@@ -84,7 +78,7 @@ Idioma
 
 Un punto y seguido en la transformación digital
 
-       ![KC_Abierta_Convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/KC_abierta%20convocatoria_1400px.png?h=30c5353c&itok=I306YWSJ)
+   ![KC_Abierta_Convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/KC_abierta%20convocatoria_1400px.png?h=30c5353c&itok=I306YWSJ)
 
 Noticia
 
@@ -96,7 +90,7 @@ El programa, que estará abierto hasta el 31 de diciembre de 2024, ya ha superad
 
 [Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
-![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=F7Yh6zdv)   
+![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=F7Yh6zdv)
 
 Noticia
 
@@ -106,7 +100,7 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![4YFN](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%204YFN%20%281%29_0.png?h=c16165f9&itok=P2cG11GF)   
+![4YFN](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%204YFN%20%281%29_0.png?h=c16165f9&itok=P2cG11GF)
 
 Noticia
 
@@ -137,7 +131,7 @@ Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pab
 
 Para empresas, pymes y emprendedores
 
-       ![](/sites/redes/files/styles/ratio_1_1/public/media/images/acelerapyme.png?h=f33afb83&itok=SFH1RA0c)
+   ![](/sites/redes/files/styles/ratio_1_1/public/media/images/acelerapyme.png?h=f33afb83&itok=SFH1RA0c)
 
 Acelera pyme
 
@@ -151,7 +145,7 @@ Esta iniciativa desarrollada por Red.es, entidad dependiente de la [Secretaría 
 
 Para la ciudadanía
 
-       ![talento digital](/sites/redes/files/styles/ratio_1_1/public/media/images/talento%20digital.png?h=55542b95&itok=nY4ztmBV)
+   ![talento digital](/sites/redes/files/styles/ratio_1_1/public/media/images/talento%20digital.png?h=55542b95&itok=nY4ztmBV)
 
 Talento Digital
 
@@ -165,7 +159,7 @@ La iniciativa de Talento Digital tiene como objetivo facilitar la empleabilidad 
 
 Para las administraciones y servicios públicos
 
-       ![](/sites/redes/files/styles/ratio_1_1/public/media/images/5G_0.png?h=e6a33e25&itok=NPFD01WV)
+   ![](/sites/redes/files/styles/ratio_1_1/public/media/images/5G_0.png?h=e6a33e25&itok=NPFD01WV)
 
 Tecnología 5G
 
