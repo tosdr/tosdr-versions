@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is sexual questioning considered sexual abuse?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Is Sexual Questioning Considered Sexual Abuse?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/ "Is Sexual Questioning Considered Sexual Abuse?")
+[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
 
-[#### Is Sexual Questioning Considered Sexual Abuse?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/)
+[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
 
-[![Can chemo cure small cell lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-chemo-cure-small-cell-lung-cancer.jpg "Can Chemo Cure Small Cell Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-cure-small-cell-lung-cancer/ "Can Chemo Cure Small Cell Lung Cancer?")
+[![Is lung cancer a death sentence?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-is-lung-cancer-a-death-sentence.jpg "Is Lung Cancer a Death Sentence?")](https://www.pintas.com/lung-cancer/is-lung-cancer-a-death-sentence/ "Is Lung Cancer a Death Sentence?")
 
-[#### Can Chemo Cure Small Cell Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-cure-small-cell-lung-cancer/)
+[#### Is Lung Cancer a Death Sentence?](https://www.pintas.com/lung-cancer/is-lung-cancer-a-death-sentence/)
 
-[![When do you know malnutrition is a sign of nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer-scaled.jpg "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/ "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")
+[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
 
-[#### When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/)
+[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
