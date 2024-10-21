@@ -376,6 +376,7 @@
 * [Consumer Insights](https://www.statista.com/global-consumer-survey)
 * [Company Insights](https://www.statista.com/companies/about)
 * [eCommerce Insights](https://ecommercedb.com/)
+* [Research AI](https://www.statista.com/research-ai/)
 * [Daily Data](https://www.statista.com/chartoftheday/)
 * Services
 
@@ -386,13 +387,6 @@
 * [nxt Statista](https://www.nxt.statista.com/)
 * [Content & Design](https://statista.design/en/)
 * [Statista R](https://r.statista.com/)
-
-* Platform Switcher
-
-* [statista.com](https://www.statista.com/)
-* [statista.de](https://www.statista.com/)
-* [statista.es](https://www.statista.com/)
-* [statista.fr](https://www.statista.com/)
 
 * [DE](https://de.statista.com/)
 * [ES](https://es.statista.com/)
