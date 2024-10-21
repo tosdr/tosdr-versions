@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Top inset: LaDonna Williams (GoFundMe). Bottom inset: Nathaniel Slade (Jacksonville County Sheriff). Background: the home where Williams' body was found (WTLV/WJXX).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/flamurdedr-432x243.jpg)](https://lawandcrime.com/crime/she-was-disrespecting-me-man-who-stabbed-ex-boss-buried-her-trash-can-and-slept-with-her-body-outside-bedroom-window-learns-fate/)
+1. [![Sean ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24261467731863-432x243.jpg)](https://lawandcrime.com/high-profile/ad-hominem-attacks-diddy-says-incoherent-rico-lawsuit-should-be-dismissed-because-it-relies-on-insults-and-impermissibly-attempts-to-piggy-back-off-indictment/)
     
-    ### ['She was disrespecting me': Man who stabbed ex-boss, buried her in trash can and slept with her body outside bedroom window learns fate](https://lawandcrime.com/crime/she-was-disrespecting-me-man-who-stabbed-ex-boss-buried-her-trash-can-and-slept-with-her-body-outside-bedroom-window-learns-fate/)
+    ### ['Ad hominem attacks': Diddy says 'incoherent' RICO lawsuit should be dismissed because it relies on insults and 'impermissibly attempts to piggy-back off' indictment](https://lawandcrime.com/high-profile/ad-hominem-attacks-diddy-says-incoherent-rico-lawsuit-should-be-dismissed-because-it-relies-on-insults-and-impermissibly-attempts-to-piggy-back-off-indictment/)
     
-2. [![Inset: Lisa Snyder (Berks County DA's Office). Background: Authorities at the home where Snyder hanged her two young children (WGAL).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/afd-432x243.jpg)](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
+2. [![Inset: Ryan Wedding. Background: A photo of suspects accused in an international drug ring and drugs seized (AP Photo/Damian Dovarganes, File).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/drug-432x243.jpg)](https://lawandcrime.com/crime/olympic-athlete-turned-drug-lord-accused-of-ordering-murders-in-mexican-cartel-linked-drug-ring/)
+    
+    ### ['Olympic athlete-turned-drug lord' accused of ordering murders for Mexican cartel-linked drug ring](https://lawandcrime.com/crime/olympic-athlete-turned-drug-lord-accused-of-ordering-murders-in-mexican-cartel-linked-drug-ring/)
+    
+3. [![Inset: David Weingarten (Colorado Springs Police Department). Background: The home in Colorado where Weingarten shot his wife and their 8-month-old son (KRDO).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/coloradomurder-432x243.jpg)](https://lawandcrime.com/crime/ive-been-feeling-not-good-lately-dad-who-said-he-had-been-hearing-things-before-fatally-shooting-wife-and-infant-son-learns-fate/)
+    
+    ### ['I've been feeling not good lately': Dad who said he had been 'hearing things' before fatally shooting wife and infant son learns fate](https://lawandcrime.com/crime/ive-been-feeling-not-good-lately-dad-who-said-he-had-been-hearing-things-before-fatally-shooting-wife-and-infant-son-learns-fate/)
+    
+4. [![Inset: Jarius Brown (ACLU Foundation of Louisiana). Background: Brown in custody (KSLA).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/inmate-432x243.jpg)](https://lawandcrime.com/crime/deputies-fracture-detainees-eye-socket-in-jailhouse-laundry-room-beating-after-asking-him-to-strip-naked-bend-over-and-cough-feds/)
+    
+    ### [Deputies fracture detainee's eye socket in jailhouse laundry room beating after asking him to 'strip naked, bend over, and cough': Feds](https://lawandcrime.com/crime/deputies-fracture-detainees-eye-socket-in-jailhouse-laundry-room-beating-after-asking-him-to-strip-naked-bend-over-and-cough-feds/)
+    
+5. [![Inset: Lisa Snyder (Berks County DA's Office). Background: Authorities at the home where Snyder hanged her two young children (WGAL).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/afd-432x243.jpg)](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
     
     ### [Mom who hanged her 2 young kids in basement with dog leash, tried to blame 8-year-old, learns her fate](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
-    
-3. [![Lola Karabaeva appears inset against an image of the house she lived and died in.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Lola-Karabaeva-432x243.jpg)](https://lawandcrime.com/crime/woman-found-wrapped-in-plastic-and-duct-tape-may-have-been-killed-over-dead-son-police/)
-    
-    ### [Woman found wrapped in plastic and duct tape may have been killed over dead son: Police](https://lawandcrime.com/crime/woman-found-wrapped-in-plastic-and-duct-tape-may-have-been-killed-over-dead-son-police/)
-    
-4. [![Inset, top to bottom: Uriha Faith Ridge and Alina Pascal (WAGA). Background: The woods where Alina froze to death (WSB).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/adfasdf-432x243.jpg)](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
-    
-    ### ['She froze to death': Mom dragged toddler into rainy woods in middle of winter and watched 7-year-old desperately try to save his sister](https://lawandcrime.com/crime/she-froze-to-death-mom-dragged-toddler-into-rainy-woods-in-middle-of-winter-and-watched-7-year-old-desperately-try-to-save-his-sister/)
-    
-5. [![Jack Hancock (Louisville, Kentucky).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Jack-Hancock-432x243.jpg)](https://lawandcrime.com/crime/best-buy-geek-squad-discovered-child-pornography-on-customers-computer-when-he-sought-help-to-move-data-police-say/)
-    
-    ### [Best Buy Geek Squad discovered child pornography on customer's computer when he sought help to move data, police say](https://lawandcrime.com/crime/best-buy-geek-squad-discovered-child-pornography-on-customers-computer-when-he-sought-help-to-move-data-police-say/)
     
 
 [](http://eepurl.com/c89Jdb)
