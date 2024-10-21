@@ -18,9 +18,9 @@ Header - Shapes Theme
 
 * Toys
     
-    * [![REVERSIBLE HALLOWEEN PLUSH](//www.unspeakable.com/cdn/shop/files/ECM00356_1.jpg?v=1726250376&width=700)
+    * [![8" ZANY WHOOPEE CUSHION](//www.unspeakable.com/cdn/shop/files/DSC_1051_1.jpg?v=1729003688&width=700)
         
-        REVERSIBLE HALLOWEEN PLUSH](https://www.unspeakable.com/products/reversible-halloween-plush)
+        8" ZANY WHOOPEE CUSHION](https://www.unspeakable.com/products/8-zany-whoopee-cushion)
     * [![GRAVITY TRACKS](//www.unspeakable.com/cdn/shop/files/DSC_0978.jpg?v=1713976660&width=700)
         
         GRAVITY TRACKS](https://www.unspeakable.com/products/gravity-tracks)
