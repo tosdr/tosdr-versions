@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![ESET partner breached to send data wipers to Israeli orgs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ESET partner breached to send data wipers to Israeli orgs](https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
-    * [![Cisco takes DevHub portal offline after hacker publishes stolen data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
-    * [![Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
-    * [![Microsoft warns it lost some customer's security logs for a month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
-    
-    * [![Prepare for your first IT job with this $40 CompTIA course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Prepare for your first IT job with this $40 CompTIA course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-it-job-with-this-40-comptia-course-bundle/)
-    * [![Severe flaws in E2EE cloud storage platforms used by millions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
     * [![Internet Archive breached again through stolen access tokens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
-    * [![Ditch the subscriptions—this Koofr cloud storage deal is only $120 for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Google Scholar has a 'verified email' for Sir Isaac Newton](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ditch the subscriptions—this Koofr cloud storage deal is only $120 for life](https://www.bleepingcomputer.com/offer/deals/ditch-the-subscriptions-this-koofr-cloud-storage-deal-is-only-120-for-life/)
+        Google Scholar has a 'verified email' for Sir Isaac Newton](https://www.bleepingcomputer.com/news/security/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
+    * [![Microsoft creates fake Azure tenants to pull phishers into honeypots](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
+    * [![Severe flaws in E2EE cloud storage platforms used by millions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+    
+    * [![Over 6,000 WordPress hacked to install plugins pushing infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
+    * [![Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
+    * [![Bumblebee malware returns after recent law enforcement disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
+    * [![Prepare for your first IT job with this $40 CompTIA course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Prepare for your first IT job with this $40 CompTIA course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-it-job-with-this-40-comptia-course-bundle/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Internet Archive](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![ESET](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
-* [![Microsoft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ESET partner breached to send data wipers to Israeli orgs](https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
+* [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
-* [![Nidec](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
+* [![Motherboard Bios CPU](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Tech giant Nidec confirms data breach following ransomware attack](https://www.bleepingcomputer.com/news/security/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
+    Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
 
 ##### Follow us:
 
