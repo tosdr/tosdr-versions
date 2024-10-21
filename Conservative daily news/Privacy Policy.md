@@ -2,14 +2,14 @@ Monday, October 21 2024
 
 Breaking News
 
+* [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
+* [Medal of Honor Monday: Navy Boatswain’s Mate 1st Class George Cholister](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-navy-boatswains-mate-1st-class-george-cholister/)
+* [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/)
+* [Election Litigation Could Shape The Race In Battleground States. We Won’t Know Until The Votes Are Cast](https://www.conservativedailynews.com/2024/10/election-litigation-could-shape-the-race-in-battleground-states-we-wont-know-until-the-votes-are-cast/)
+* [President Joe Biden’s Schedule for Monday, October 21, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
+* [White House Press Briefing with Karine Jean-Pierre – 10/21/17](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
 * [Jewish Support For Harris Lowest Of Any Dem Candidate Since Reagan Era, New Poll Shows](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
 * [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
-* [Lizzo Tells Swing State Voters To Support Kamala So That ‘Whole Country Will Be Like Detroit’](https://www.conservativedailynews.com/2024/10/lizzo-tells-swing-state-voters-to-support-kamala-so-that-whole-country-will-be-like-detroit/)
-* [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/)
-* [Unstable And Unfit Are Her Latest Barbs But Is It Projection](https://www.conservativedailynews.com/2024/10/unstable-and-unfit-are-her-latest-barbs-but-is-it-projection/)
-* [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
-* [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/)
-* [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -127,53 +127,53 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
+* [![Kamala Harris flip flop wishy washy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
     
-    [Jewish Support For Harris Lowest Of Any Dem Candidate Since Reagan Era, New Poll Shows](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
+    [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/241015-N-D0439-0073M-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-navy-boatswains-mate-1st-class-george-cholister/)
     
-    [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
+    [Medal of Honor Monday: Navy Boatswain’s Mate 1st Class George Cholister](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-navy-boatswains-mate-1st-class-george-cholister/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-2-220x150.png)](https://www.conservativedailynews.com/2024/10/lizzo-tells-swing-state-voters-to-support-kamala-so-that-whole-country-will-be-like-detroit/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Helene-aftermath-North-Carolina-220x150.jpg)](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/)
     
-    [Lizzo Tells Swing State Voters To Support Kamala So That ‘Whole Country Will Be Like Detroit’](https://www.conservativedailynews.com/2024/10/lizzo-tells-swing-state-voters-to-support-kamala-so-that-whole-country-will-be-like-detroit/)
+    [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/our-nightmare-3/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/10/election-litigation-could-shape-the-race-in-battleground-states-we-wont-know-until-the-votes-are-cast/)
     
-    [Our Nightmare](https://www.conservativedailynews.com/2024/10/our-nightmare-3/)
+    [Election Litigation Could Shape The Race In Battleground States. We Won’t Know Until The Votes Are Cast](https://www.conservativedailynews.com/2024/10/election-litigation-could-shape-the-race-in-battleground-states-we-wont-know-until-the-votes-are-cast/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/welcome-to-hell-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Joe-Biden-speech-n-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
     
-    [Welcome to Hell](https://www.conservativedailynews.com/2024/10/welcome-to-hell-2/)
+    [President Joe Biden’s Schedule for Monday, October 21, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![national Debt deficit spending](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz101824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/unsustainable/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
     
-    [Unsustainable](https://www.conservativedailynews.com/2024/10/unsustainable/)
+    [White House Press Briefing with Karine Jean-Pierre – 10/21/17](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/2020-02-11T011157Z_622246339_RC21YE9U3011_RTRMADP_3_USA-ELECTION-BIDEN-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/04-corp-puppets-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-puppeteer/)
     
-    [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/)
+    [The Puppeteer](https://www.conservativedailynews.com/2024/10/the-puppeteer/)
     
-    October 20, 2024
+    October 21, 2024
     
-* [![Tim Walz tampon Tim shotgun](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-walz-loaded-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/elmer-fraud/)
+* [![Victoria's Secret DEI Gender Ideology](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/what-every-woman-wants/)
     
-    [Elmer Fraud](https://www.conservativedailynews.com/2024/10/elmer-fraud/)
+    [What Every Woman Wants](https://www.conservativedailynews.com/2024/10/what-every-woman-wants/)
     
-    October 20, 2024
+    October 21, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
@@ -229,6 +229,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782783)
 * Jeff L. on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782767)
 * Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
 * Stanley Warner on [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/#comment-782764)
@@ -237,7 +238,6 @@ Recent Comments
 * KayCee on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782742)
 * Catboss on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782737)
 * Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
-* charles wilkins on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782729)
 
 [Close](#)
 
