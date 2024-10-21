@@ -320,30 +320,31 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![
-Bawah Indonesia](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1850668ee2ef3401964fde132fbd2a7ce3a2dff6)](https://www.afr.com/life-and-luxury/travel/travel-insider-the-latest-deals-for-dream-holidays-20241016-p5kit5)
+[![ ](https://static.ffx.io/images/$zoom_0.6076%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_174%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0658c61702c96c641676a9fb0bd0e475a12b1cc7)](https://www.afr.com/technology/we-haven-t-even-taken-it-outside-and-we-already-love-this-battery-20241017-p5kj3h)
 
-### [Travel insider: the latest deals for dream holidays](https://www.afr.com/life-and-luxury/travel/travel-insider-the-latest-deals-for-dream-holidays-20241016-p5kit5)
+### [We haven’t even taken it outside, and we already love this battery](https://www.afr.com/technology/we-haven-t-even-taken-it-outside-and-we-already-love-this-battery-20241017-p5kj3h)
 
-* Life & Leisure
+* 53 mins ago
+* John Davidson
 
-* ### [For those on the list, Melbourne Cup dining is first across the line](https://www.afr.com/life-and-luxury/food-and-wine/for-those-on-the-list-melbourne-cup-dining-is-first-across-the-line-20241015-p5kihv)
+* ### [Diary alert: Shows to catch in November](https://www.afr.com/life-and-luxury/arts-and-culture/diary-alert-shows-to-catch-in-november-20240926-p5kdro)
     
-* ### [How the wellness revolution is transforming luxury property](https://www.afr.com/life-and-luxury/health-and-wellness/how-the-wellness-revolution-is-transforming-luxury-property-20240903-p5k7n9)
+* ### [Paris is fast becoming a dream city for cyclists](https://www.afr.com/life-and-luxury/travel/paris-is-fast-becoming-a-dream-city-for-cyclists-20240502-p5fojm)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![“I thought it would be a great learning exercise,” Oscar Ledlin says of his first project, when he was 21. It nearly sent him broke.](https://static.ffx.io/images/$zoom_0.2285%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_182%2C$y_205/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9a0618e68848f6486c2bc7fb8e5e1088f394b810)](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
+[![ ](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c4ed8a3eee4ef524033b1a6f7d4c23c1750e9767)](https://www.afr.com/young-rich/the-secret-to-raising-hundreds-of-millions-like-these-young-rich-20241004-p5kfwd)
 
-### [This developer cracked the Young Rich List by making warehouses sexy](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
+### [The secret to raising hundreds of millions like these Young Rich](https://www.afr.com/young-rich/the-secret-to-raising-hundreds-of-millions-like-these-young-rich-20241004-p5kfwd)
 
-* Larry Schlesinger
+* 53 mins ago
+* Yolanda Redrup
 
-* ### [Why this Young Rich Lister swears by a daily ice bath and sauna](https://www.afr.com/wealth/people/why-this-young-rich-lister-swears-by-a-daily-ice-bath-and-sauna-20241006-p5kg4v)
+* ### [The real cost of being a Young Rich founder](https://www.afr.com/wealth/people/the-real-cost-of-being-a-young-rich-founder-20240712-p5jtat)
     
-* ### [How Scott O’Neill became the commercial property king](https://www.afr.com/young-rich/how-scott-o-neill-became-the-commercial-property-king-20240927-p5kdyx)
+* ### [This developer cracked the Young Rich List by making warehouses sexy](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
     
 
 [The Australian Financial Review](https://www.afr.com/)
