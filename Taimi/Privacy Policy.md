@@ -18,7 +18,7 @@ Download for free:
 **TAIMI PRIVACY POLICY**
 ========================
 
-**Effective Date**: 09 August 2024
+**Effective Date**: 21 October 2024
 
 Table of content
 
@@ -72,7 +72,7 @@ Any translation from English version is provided for your convenience only. In t
 
 (b)     you share information with other users when you voluntarily disclose information on the Service (including your Taimi profile). That is why we recommend and encourage you to think carefully about the information you disclose about yourself. Please be careful with your data and make sure that the information you publish is data you feel comfortable being publicly viewable; 
 
-(c)      we do **not** recommend that you put **email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ license details, precise location and other important data on your Taimi** profile or send that data via direct messages to people that you do not trust;
+(c)      we do **not** recommend that you put **email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ license details, location and other important data on your Taimi** profile or send that data via direct messages to people that you do not trust;
 
 (d)     we do **not** recommend that you share your sensitive data (religious denomination, sexual preferences, health details, political leanings, any kind of addictions, etc.) with other users. If you really desire to share this data safely (so as to set up more relevant connections, etc.), you may use Taimi tags features. With this regard to Taimi tags, please read section 1.3 hereof to find out the benefits of their use;
 
@@ -106,7 +106,7 @@ Android — settings, location, Taimi, permissions, location
 
 **2.1.**   **Reasons of Updates**. We may revise the Policy according to new developments or advances in legislation and the broader data protection landscape from time to time, so please check this page regularly to ensure you’re always up -to-date with any changes.
 
-**2.2.**   **Communication on Updates**. If we make any changes hereto that, in our sole discretion, are substantial, we will notify you by email (to the address associated with your profile) or via the App, post a notice within Taimi Services or make a notification appear in your profile when you next log in to Taimi before amendments become effective. A notification regarding other changes may be rendered to you by publishing at [https://taimi.com/privacypolicy](https://taimi.com/privacy-policy).
+**2.2.**   **Communication on Updates**. If we make any changes hereto that, in our sole discretion, are substantial, we will notify you by email (to the address associated with your profile) or via the App, post a notice within Taimi Services or make a notification appear in your profile when you next log in to Taimi before amendments become effective. A notification regarding other changes may be rendered to you by publishing at [https://taimi.com/privacypolicy](https://taimi.com/privacypolicy).
 
   
 
@@ -189,12 +189,6 @@ Android — settings, location, Taimi, permissions, location
 | Processor\`s Privacy Policy | [https://www.ding.com/privacy-statement](https://www.ding.com/privacy-statement) |
 | Data Collected | Phone number, IP address, kind of platform |
 | Purpose | Send SMS |
-|     |     |
-| Type | Moderation tool |
-| Processor | Amazon Web Services, Inc., Amazon Rekognition |
-| Processor\`s Privacy Policy | [https://aws.amazon.com/privacy/?nc1=f\_pr](https://aws.amazon.com/privacy/?nc1=f_pr) |
-| Data Collected | Profile photos |
-| Purpose | Automoderate content |
 
   
 
@@ -221,7 +215,7 @@ Besides the data processors listed above, your data may be processed by other co
 
 **3.6.**   **Additional Data Processors.** Where there is necessity, we may also engage additional service provider, contractors and third parties and may share the data with them. That will help us operate, provide, improve, integrate, customize, support, and market our Service and the Website. We share the data, in particular, for purposes indicated herein. The types of service providers we may share information with include, in particular: cloud storage providers, data analytics providers, measurement partners, marketing partners, payment processing providers, communication services providers, etc. 
 
-**3.7.** **Sharing consumer information with the App Store.** By registering on our Taimi app, you give us consent to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.  
+**3.7.** **Sharing consumer information with the App Store.** Before participating in the photo verification, you give us consent via pop-up to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.  
 You can withdraw your consent at any time, please contact us at [support@taimi.com](mailto:support@taimi.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
 
 **3.8.**   **Third Parties: Other Users and Social Media**. Some of your data is publicly available; it means that other users of Taimi may have access to your data with which you go public. 
@@ -474,16 +468,11 @@ to verify your Taimi profile/your identity/age; to prevent, detect and fight fra
 
 account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account
 
-  
 to provide you with paid features; to provide you with a remuneration
 
-precise geolocation
+content of messages
 
-to provide you with networking services; to help you connect with other users
-
-email and text messages
-
-to allow you to create a Taimi profile with Facebook profile; to process your requests and claims in the App; to carry out anti-fraud and anti-spam procedures; to process complaints against you
+help you to connect with other users. When you send a message to other users (which could include content such as photos, video, emojis, giphys, reactions, etc.), we may collect Personal Information that includes the content of the message. If you send messages, you will be providing the user who views your message (and Taimi) with your personal data. Don't send messages or share content that you wouldn't want someone to save or share. We store content of messages on our servers in accordance with our retention rules indicated herein.
 
 data concerning a natural person’s sex life and sexual orientation
 
@@ -491,9 +480,9 @@ to help you to connect with other users and to allow you to create a Taimi profi
 
   
 
-We may collect your personal information concerning natural person’s sex life and sexual orientation only if you add to choose by clicking a tag as indicated in section 1.3. hereof. Please be aware that only your precise geolocation and personal information concerning natural person’s sex life, and sexual orientation may be publicly viewable and accessible both by users and non-users of the App.
+We may collect your personal information concerning natural person’s sex life and sexual orientation only if you add to choose by clicking a tag as indicated in section 1.3. hereof. Please be aware that only your personal information concerning natural person’s sex life, and sexual orientation may be publicly viewable and accessible both by users and non-users of the App.
 
-If you want to limit the use of your sensitive personal information, please see section 9.4.4. below how to submit such request. Please note that using your personal information concerning precise geolocation, sex orientation or financial details is necessary to actually provide our Services and connect you with other users.
+If you want to limit the use of your sensitive personal information, please see section 9.4.4. below how to submit such request. Please note that using your personal information concerning, sex orientation or financial details is necessary to actually provide our Services and connect you with other users.
 
 **9.3.**   **Selling/Sharing of your personal information****.** The definition of “sale” under CPPA is broad and covers many common business activities, even when the personal Information is not exchanged for money.
 
@@ -501,7 +490,7 @@ Taimi does not sell personal information for monetary consideration; however, we
 
 The third parties, service providers and other processors with which we may share or disclose specific pieces of personal information over the 12-month period prior to the effective date of our Privacy Policy are indicated in sections 3.4-3.10. hereof. We disclose your personal information, including sensitive information, with processors, service providers and contractors indicated in sections 3.4-3.10. hereof for business purposes that it is not defined as a “sale” or “share” under CPPA. We enter a contract with them that describes the purpose and requires the recipient to both keep that personal Information, including sensitive personal information, confidential and not use it for any purpose except as described in the contract.
 
-Taimi may share in the sense of CPPA certain personal information (Advertising identifier; localization data; IP Address, Referrer; Internet connection type, Application version, Device model, Manufacturer, Operating system, Operating system version, Screen size (height, width), Screen resolution, Mobile network status; user ID; channel mode; SDK version; network type; App ID, precise geolocation, email, location data) with our ad/ marketing partners. These third-parties may also collect information directly from you through tracking technologies such as cookies or SDKs. You may request to opt-out of the sale/sharing of your personal information, please see section 9.4.3 below how to submit such request.
+Taimi may share in the sense of CPPA certain personal information (Advertising identifier; localization data; IP Address, Referrer; Internet connection type, Application version, Device model, Manufacturer, Operating system, Operating system version, Screen size (height, width), Screen resolution, Mobile network status; user ID; channel mode; SDK version; network type; App ID, email, location data) with our ad/ marketing partners. These third-parties may also collect information directly from you through tracking technologies such as cookies or SDKs. You may request to opt-out of the sale/sharing of your personal information, please see section 9.4.3 below how to submit such request.
 
 **9.4.**   **Your rights.** For the users who are California residents, you have the following rights in addition to those listed in section 8.1 above.
 
@@ -545,7 +534,7 @@ Consumers residing in Virginia are afforded certain additional rights with respe
 
 **10.1.** **Our collection and use of personal information.** You may find the categories of personal information Taimi collects and the purposes and sources for which your personal information is collected in section 5.4 hereof.
 
-**10.2.** **Process your sensitive data.** We do process your sensitive data concerning a natural person’s sex life and sexual orientation. We may ask to give your consent to process and these categories of your sensitive information and make them public to other users. Still, all any time, you are entitled to make us stop showing that data to others by deleting relevant tags in your profile setting. You give us consent to process your precise geolocation data when you allow through your mapping phone service as Google Maps to access your location while you are using our App. Please see section 8. 1 (d) above on how to restrict the processing of your geolocation data.
+**10.2.** **Process your sensitive data.** We do process your sensitive data concerning a natural person’s sex life and sexual orientation. We may ask to give your consent to process and these categories of your sensitive information and make them public to other users. Still, all any time, you are entitled to make us stop showing that data to others by deleting relevant tags in your profile setting.
 
 **10.3.** **Exercising** **your** **consumer rights:** You have the right to request (1) to confirm whether or not a controller is processing the consumer's personal data and to access such personal data; (2) To correct inaccuracies in the consumer's personal data, taking into account the nature of the personal data and the purposes of the processing of the consumer's personal data; (3) To delete personal data provided by or obtained about the consumer; (4) To obtain a copy of the consumer's personal data that the consumer previously provided to the controller in a portable and, to the extent technically feasible, readily usable format that allows the consumer to transmit the data to another controller without hindrance, where the processing is carried out by automated means; (5) to opt out of the processing of the personal data for purposes of targeted advertising.
 
@@ -574,16 +563,6 @@ Taimi employs automated decision-making as part of our moderation efforts to det
 If we have good grounds to doubt your identity, we may ask you to provide additional evidence we reasonably need to confirm your identity (human verification). For example, we may ask you for a piece of information held in your profile that we would expect you to know: your location, last 5 connections, etc. If we have serious doubts about your identity, we may ask you to share with Taimi your photo with your ID document or an image of your ID document. In the event you fail the verification process, your request will be rejected.
 
 As with any automated system, there is a chance for compliant accounts to be detected by our system as breaching our security. Please be assured that we give all our users an opportunity to express their point of view and contest the automated decision to our Support team at [support@taimi.com](mailto:support@taimi.com).
-
-**Photo Verification Information.** If you participate in a photo verification (via pantomime), it involves the collection of a photo without any face geometry (which may be considered biometric data in some jurisdictions anyway). In our app, photo verification is as simple as taking a selfie.
-
-After submitting a photo, the automated system indicates if it consists of a human in general. Then, moderators (human verification) can compare the photo you submit to your profile photo to help ensure that you are who you say you are. We do not add the verification photos to your profile.
-
-By registering in the Taimi app, you consent that Taimi uses photo verification Information (which may be considered biometric data in some jurisdictions) to detect and remove spammers, non-compliant images, messages, bots. 
-
-**Purpose of using photo verification.** Taimi uses photo verification information solely for photo verification and security purpose. To perform the Photo Verification process, we store photo verification information on our Amazon Web Services (AWS).
-
-**Retention period of photo verification Information.** We may retain the photos so that we can verify you in the future and for our record-keeping purposes. We delete photo verification information upon the termination of your profile or after two years of your continuous inactivity in our app. You can request deletion of the photo verification information by writing at [support@taimi.com](mailto:support@taimi.com). 
 
 **11.4. Authorized Agent**. You, as a California consumer, may assign your agent to submit a request on your behalf. If you desire to use this way, your agent shall provide us with your written authorization. Owing to a sensitive nature of your data, we reserve the right to reject, at any time, requests concerning your data submitted by any third party.
 
@@ -635,7 +614,7 @@ This security monitoring may result in the collection, recording, and analysis o
 
 **14\.**     **Reach us Out** 
 
-**14.1.** We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@taimi.com](mailto:support@taimi.com) or [legal@taimi.com](mailto:legal@taimi.com). 
+**14.1.** We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@taimi.com](mailto:support@taimi.com) or [legal@taimi.com](mailto:legal@taimi.com). 
 
 [![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)
 
