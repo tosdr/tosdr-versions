@@ -30,10 +30,6 @@ AI & MACHINE LEARNING
 
 ### Our AI is truly intelligent. Let it take the lead.
 
-<
-
-\>
-
 01
 
 / 03
@@ -122,7 +118,7 @@ Maybelline
 
 ![Maybelline Arkeero](css/formats/Maybelline/frame.png) 
 
-Rich Media
+Video Adventure Live
 
 Carls Jr
 
@@ -146,7 +142,7 @@ Skin Expandible
 
 Johnnie Walker
 
-Rich Media
+Video Adventure Live
 
 Carls Jr
 
@@ -170,7 +166,7 @@ Skin Expandible
 
 Johnnie Walker
 
-Rich Media
+Video Adventure Live
 
 Carls Jr
 
@@ -524,7 +520,7 @@ São Paulo, Brasil
   
   
 Contacto:  
-[sales.brasil@arkeero.com](mailto:sales.brasil@arkeero.com)
+[sales.brazil@arkeero.com](mailto:sales.brasil@arkeero.com)
 
 9:50PM
 
