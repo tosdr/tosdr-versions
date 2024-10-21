@@ -131,56 +131,66 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Gyms in Japan offer laundry, karaoke and hair-removal machines](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425784.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.")](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
+
+[Japan's Empress Emerita Michiko turns 90](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
+
+  [![Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428836.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ")](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Tan Pin Yen](https://www.japantimes.co.jp/author/5641/tan-pin-yen/ "Tan Pin Yen")  
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Gyms in Japan offer laundry, karaoke and hair-removal machines](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
 
-By F.D. Flam  
+By [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan") and [Lisa Du](https://www.japantimes.co.jp/author/441/lisa-du/ "Lisa Du")  
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425784.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.")](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan's Empress Emerita Michiko turns 90](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428836.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ")](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
 
 Podcast
 -------
@@ -245,23 +255,17 @@ Latest News
 
 [Tokyo High Court rejects damages claim over Ontake eruption deaths](https://www.japantimes.co.jp/news/2024/10/21/japan/crime-legal/tokyo-high-court-ontake-ruling/ "Tokyo High Court rejects damages claim over Ontake eruption deaths")
 
-5 hours ago
+10 hours ago
 
 [Japan to test community-based support systems to aid truant children](https://www.japantimes.co.jp/news/2024/10/21/japan/society/truants-community-support/ "Japan to test community-based support systems to aid truant children")
 
-5 hours ago
+11 hours ago
 
 [17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
 
-7 hours ago
-
 [78% of electric bidet toilet accidents involve older models, report finds](https://www.japantimes.co.jp/news/2024/10/21/japan/society/toilet-seat-damages-injuries/ "78% of electric bidet toilet accidents involve older models, report finds")
 
-7 hours ago
-
 [Former Olympic gymnast Chieko Tsukahara dies at 77](https://www.japantimes.co.jp/sports/2024/10/21/tsukahara-gymnast-obituary/ "Former Olympic gymnast Chieko Tsukahara dies at 77")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
