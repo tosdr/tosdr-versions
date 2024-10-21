@@ -4,7 +4,7 @@ Open the menu
 
 [Play](https://outfit7.com/apps)[Watch](https://outfit7.com/videos)
 
-[English](https://outfit7.com/video-policy/en)[Deutsch](https://outfit7.com/video-policy/de)[Français](https://outfit7.com/video-policy/fr)[Español](https://outfit7.com/video-policy/es)[Português](https://outfit7.com/video-policy/pt)[Italiano](https://outfit7.com/video-policy/it)[Pусский](https://outfit7.com/video-policy/ru)[العربية](https://outfit7.com/video-policy/ar)[Türkçe](https://outfit7.com/video-policy/tr)[日本語](https://outfit7.com/video-policy/ja)[한국어](https://outfit7.com/video-policy/ko)[中文（简体）](https://outfit7.com/video-policy/zh)[中文 (繁体)](https://outfit7.com/video-policy/zh-trad)[Tiếng Việt](https://outfit7.com/video-policy/vi)
+Please select العربيةDeutschEnglishEspañolFrançaisItaliano日本語한국어PortuguêsPусскийTürkçeTiếng Việt中文（简体）中文 (繁体)
 
 OUTFIT7 VIDEO POLICY
 ====================
