@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Verpackungs­ärger: Date Bars Mix, Decathlon](https://www.test.de/Verpackungsaerger-Date-Bars-Mix-Decathlon-6119701-0/ "Verpackungsärger - Date Bars Mix, Decathlon")
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Verpackungs­ärger: Date Bars Mix, Decathlon](https://www.test.de/Verpackungsaerger-Date-Bars-Mix-Decathlon-6119701-0/ "Verpackungsärger - Date Bars Mix, Decathlon")
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Verpackungs­ärger: Date Bars Mix, Decathlon](https://www.test.de/Verpackungsaerger-Date-Bars-Mix-Decathlon-6119701-0/ "Verpackungsärger - Date Bars Mix, Decathlon")
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Verpackungs­ärger: Date Bars Mix, Decathlon](https://www.test.de/Verpackungsaerger-Date-Bars-Mix-Decathlon-6119701-0/ "Verpackungsärger - Date Bars Mix, Decathlon")
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Service Stiftung Warentest
 
