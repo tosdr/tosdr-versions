@@ -13,282 +13,282 @@
 * [](https://www.viki.com/sign-in)
 * 
 
-Política de Privacidade
------------------------
+Privacy Policy
+--------------
 
-Última atualização: 1 de julho de 2024
+Last updated: 1 July 2024
 
-Obrigado por usar a Rakuten Viki!
+Thank you for using Rakuten Viki!
 
-A Viki, Inc. (“Rakuten Viki”, “nós”, “nosso(a)(s)” e/ou “nos/conosco”) oferece uma plataforma interativa que permite o acesso a conteúdo de entretenimento e outros recursos disponíveis, bem como interagir com outros usuários como parte de uma comunidade on-line. A Rakuten Viki disponibiliza o site da marca Rakuten Viki (“Site)”, os aplicativos móveis e de TV (“Aplicativos”) e todos os outros recursos, funcionalidades, interfaces de usuário e conteúdo disponíveis no Site e nos Aplicativos (coletivamente, o “Serviço da Rakuten Viki”). Somos uma subsidiária do Rakuten Group, Inc., com sede em Tóquio, Japão (“Rakuten Group”). Saiba mais sobre o Rakuten Group [aqui](https://global.rakuten.com/corp/about/company/).
+Viki, Inc. (“Rakuten Viki”, “we”, “our” and/or “us”) provides an interactive platform where you can access entertainment content and other available features, as well as interact with other users as part of an online community. Rakuten Viki provides the Rakuten Viki branded website (“Site)”, mobile and TV applications (“Apps”), and all other features, functionalities, user interfaces, and content available within the Site and Apps (collectively, the “Rakuten Viki Service”). We are a subsidiary of Rakuten Group, Inc., based in Tokyo, Japan (“Rakuten Group”). Learn more about Rakuten Group [here](https://global.rakuten.com/corp/about/company/).
 
-Esta Política de privacidade se aplica ao seu uso do Serviço da Rakuten Viki e a todas as outras interações entre você e a Rakuten Viki. Descreve como coletamos e processamos as Informações pessoais a seu respeito, inclusive Informações pessoais que possamos coletar por meio ou a partir do seu uso de serviços de rede social de terceiros em relação ao Serviço da Rakuten Viki, como usamos e protegemos estas informações e os seus direitos em relação a essas informações.
+This Privacy Policy applies to your use of the Rakuten Viki Service and any other interactions between you and Rakuten Viki. It describes how we collect and process Personal Information about you, including Personal Information we may collect from or through your use of third-party social media services in relation to the Rakuten Viki Service, how we use and protect this information, and your rights in relation to this information.
 
-No contexto desta Política, “Informações pessoais” são informações que identificam, descrevem, relacionam-se ou podem, em certa medida, ser associadas ou vinculadas a um indivíduo ou domicílio identificável, ou uma combinação de informações que poderiam permitir que você ou seu domicílio fosse identificado. “Informações pessoais sigilosas” incluem determinados tipos de Informações pessoais que foram designadas em várias leis de privacidade e proteção de dados como “sigilosas” ou que se enquadram em “categorias especiais” devido à capacidade de serem usadas por destinatários não autorizados para cometer fraudes, roubos ou tratamento discriminatório de indivíduos, como informações de contas financeiras, combinações de nome de usuário/senha, dados de saúde, religião, afiliação política ou filiação sindical, bem como informações demográficas, como raça, etnia ou orientação sexual. A Viki não coleta, armazena ou usa as Informações pessoais sigilosas intencionalmente para nenhum dos fins descritos abaixo, exceto as credenciais da sua conta (e as informações de pagamento, que são coletadas e processadas diretamente pelo nosso processador terceirizado), mesmo que você opte por fornecer esse tipo de informação a seu respeito em comentários, avaliações ou outro conteúdo gerado pelo usuário no qual você tenha contribuído ao usar ou interagir com o Serviço da Rakuten Viki. As informações anonimizadas, agregadas ou não identificadas de maneira que não sejam mais associadas a uma pessoa identificada ou identificável não são Informações pessoais, e poderemos usar essas informações anonimizadas, agregadas ou não identificadas para qualquer fim comercial, sem tentar identificá-las novamente.
+As used in this Policy, “Personal Information” is information that identifies, describes, relates to, or is reasonably capable of being associated with or linked to an identifiable individual or household, or a combination of pieces of information that could reasonably allow you or your household to be identified. “Sensitive Personal Information” includes certain types of Personal Information that have been designated in various privacy and data protection laws as “sensitive’ or belonging to “special categories” due to their ability to be used by unauthorized recipients to perpetrate fraud, theft, or discriminatory treatment of individuals, such as financial account information, username/password combinations, health data, religion, political affiliation or union membership, and demographic information such as race, ethnicity, or sexual orientation. Viki does not intentionally collect or store or use for any of the purposes described below any Sensitive Personal Information except your account credentials (and payment information which is collected and handled directly by our third-party processor) even to the extent you choose to provide this type of information about yourself in comments, reviews, or other user-generated content you contribute when you use or interact with the Rakuten Viki Service. Information that is anonymized, aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable person is not Personal Information, and we may use such anonymized, aggregated or de-identified information for any business purpose, without attempting to re-identify it.
 
-1. **INFORMAÇÕES QUE COLETAMOS**
+1. **INFORMATION WE COLLECT**
     
-    Coletamos, de várias fontes, os tipos de Informações pessoais listados abaixo a seu respeito, inclusive diretamente de você, do seu uso do Serviço da Rakuten Viki e de outras fontes, conforme descrito abaixo:
+    We collect the below-listed types of Personal Information about you from a variety of sources, including directly from you, from your use of the Rakuten Viki Service, and from other sources, as described below:
     
-    1. **Informações que coletamos diretamente de você**
+    1. **Information We collect directly from you**
         
-        A seguir, estão relacionadas as categorias de informações que coletamos diretamente de você quando você fornece essas informações em relação ao seu uso do Serviço da Rakuten Viki ou conta da Rakuten Viki. Observe que todas as informações incluídas voluntariamente por você como parte das suas informações de perfil estarão visíveis para outros usuários do Serviço da Rakuten Viki.
+        The following are the categories of information that we collect directly from you when you provide this information in relation to your Rakuten Viki account or your use of the Rakuten Viki Service. Please note that any information you voluntarily include as part of your profile information will be visible to other users of the Rakuten Viki Service.
         
-        1. Identificadores, como:
-            1. Seus dados pessoais (por exemplo, nome completo, foto do perfil).
-            2. Seus dados de contato (por exemplo, endereço de e-mail); e
-            3. Os dados de logon da sua conta (por exemplo, seu nome de usuário e senha (criptografados));
-        2. Informações financeiras parciais, como a validade do seu cartão de crédito (se aplicável) e os últimos quatro dígitos do seu cartão de crédito. Observe que as informações financeiras completas necessárias para efetuar pagamentos são coletadas e processadas diretamente pelo nosso processador de pagamentos.
-        3. Dados demográficos que você opta por fornecer (opcional) como parte do seu perfil, como gênero. Observe que essas informações estarão publicamente visíveis apenas se incluídas voluntariamente por você como parte do seu perfil.
-        4. Informações comerciais, como informações sobre os seus planos de assinatura selecionados.
-        5. Qualquer outra informação que você possa optar por fornecer ao acessar, participar e/ou interagir em uma comunidade de usuários do Serviço da Rakuten Viki, inclusive quando você publica ou carrega legendas e/ou conteúdo para o Serviço da Rakuten Viki, preenche formulários, envia uma solicitação ao atendimento da nossa comunidade, responde a pesquisas, publica ou comenta em fóruns, envia classificações e avaliações, participa de promoções e/ou testes e fornece o seu consentimento para qualquer atividade.
-    2. **Informações que coletamos automaticamente a partir do seu uso do Serviço da Rakuten Viki**
+        1. Identifiers, such as:
+            1. Your personal details (for example, full name, profile picture);
+            2. Your contact details (for example, email address); and
+            3. Your account login details (for example, your username and password (encrypted));
+        2. Partial financial information, such as the last 4 digits of your credit card number and your credit card expiry date (if applicable). Note that full financial information needed for payment is directly collected and handled by our payment processor;
+        3. Demographics you choose to provide (optional) as part of your profile, such as gender. Note that such information will only be publicly visible if voluntarily included by you as part of your profile;
+        4. Commercial information, such as information about your chosen subscription plan(s); and
+        5. Any other information you may choose to provide when you access, participate and/or engage in a community of users of the Rakuten Viki Service, including when you post or upload subtitles and/or content to the Rakuten Viki Service, fill out a form, submit a request to our community support, respond to a survey, post or comment on forums, submit ratings and reviews, participate in promotions and/or quizzes, and provide your consent to any activities.
+    2. **Information we automatically collect from your use of the Rakuten Viki Service**
         
-        Poderemos coletar sistematicamente as categorias de informações listadas abaixo de e sobre o seu uso do Serviço da Rakuten Viki.
+        We may systematically collect the below-listed categories of information from and about your use of the Rakuten Viki Service.
         
-        1. Identificadores, como identificadores exclusivos de dispositivos que você usa para acessar o Serviço da Rakuten Viki (por exemplo, o endereço IP, identificadores de aplicativo/dispositivo, agente de usuário e o identificador exclusivo padronizado do setor de publicidade).
-        2. Informações comerciais, como determinadas informações sobre suas operações no Serviço da Rakuten Viki (por exemplo, valor cobrado, data e hora), conteúdo que você visualizou no Serviço da Rakuten Viki e o seu histórico de consumo de conteúdo.
-        3. Informações sobre atividades na internet e em outras redes eletrônicas, por exemplo, como e quando você usa ou acessa o Site, os Aplicativos e o Serviço da Rakuten Viki (por exemplo, data e hora das visitas, páginas que você visualiza, tipos e frequência de conteúdo ou gêneros que você visualiza, preferências de conteúdo ou favoritos que você identifica, legendas ou segmentos de conteúdo que você edita, navegação e pesquisas que você faz).
-        4. Localização inferida a partir do endereço IP, como a cidade e o país de onde o Serviço da Rakuten Viki foi acessado.
-        5. Outras informações do dispositivo, como determinadas informações técnicas sobre o seu dispositivo relacionadas ao tipo de navegador, idioma, armazenamento local, sistema operacional e versão do aplicativo, tipos de dispositivo, modelo do dispositivo e fabricante, bem como o tipo e a versão do sistema operacional do seu dispositivo.
-        6. Informações coletadas por cookies e tecnologias semelhantes. Nós e nossos parceiros coletamos informações automaticamente por meio de cookies e tecnologias semelhantes (por exemplo, IDs de cookies e preferências de cookies ou configurações de consentimento), conforme seu consentimento ou cancelamento, conforme aplicável para a sua jurisdição, para reconhecer você, rastrear o seu comportamento no Serviço da Rakuten Viki e o seu dispositivo, bem como veicular anúncios personalizados. Para obter mais informações sobre como usamos cookies e como você pode gerenciá-los, confira nossa [Política de cookies](https://www.viki.com/legal/cookies).
-        7. Inferências sobre suas possíveis preferências e características extraídas de qualquer uma das outras Informações pessoais que coletamos, exceto Informações pessoais sigilosas, que não usamos para inferir características a seu respeito.
-    3. **Informações que coletamos de outras fontes**
-        1. Registro por meio de terceiros
+        1. Identifiers, such as unique identifiers for devices you use to access the Rakuten Viki Service (for example, the IP address, an app/device identifier, user agent, and advertising industry standard unique identifier);
+        2. Commercial information, such as information about your transactions on the Rakuten Viki Service (for example, amount charged, date and time), content you viewed on the Rakuten Viki Service and your content consumption history;
+        3. Internet and other electronic network activity information, such as how and when you use or access the Site, Apps, and Rakuten Viki Service (for example, date and time of visits, pages you view, types and frequency of content or genres you view, expressed content preferences or favourites you identify, subtitles or segments of content you edit, browsing you do, and searches you make);
+        4. Location inferred from IP address, such as the city and country from which the Rakuten Viki Service was accessed;
+        5. Other device information, such as certain technical information about your device relating to your browser type, language, local storage, your operating system and application version, device types, device model and manufacturer and your device operating system type and version;
+        6. Information collected using cookies and similar technologies. We and our partners automatically collect information from cookies and similar technologies (for example, cookie IDs and cookie preference or consent settings), subject to your consent or opt-out, as applicable for your jurisdiction, to recognize you, track your behaviour on the Rakuten Viki Service and your device, and to serve you with tailored advertisements. For more information on how we use cookies and how you can manage them, please visit our [Cookies Policy](https://www.viki.com/legal/cookies); and
+        7. Inferences about your potential preferences and characteristics based on any of the other Personal Information we collect, except Sensitive Personal Information, which we do not use to infer characteristics about you.
+    3. **Information We collect from other sources**
+        1. Registration through third parties
             
-            Você poderá optar por entrar no Serviço da Rakuten Viki usando suas contas em serviços de terceiros que não sejam de nossa propriedade ou controlados por nós (“Serviços de terceiros”), como aqueles fornecidos pela Facebook, Inc., Google LLC ou outras entidades do Grupo Rakuten. Nesse caso, os Serviços de terceiros poderão nos enviar os seguintes tipos de informações (independentemente das informações fornecidas serem controladas pelos Serviços de terceiros ou autorizadas por você por meio das suas configurações de privacidade nos Serviços de terceiros):
+            You may choose to sign in to the Rakuten Viki Service using your existing account(s) on third-party services that are not owned or controlled by us (“Third-Party Services”), such as those provided by Facebook, Inc., Google LLC, or other Rakuten Group entities. In such case, Third-Party Services may send us the following types of information (whether this information is provided is controlled by the Third-Party Services or as authorized by you via your privacy settings on the Third-Party Services):
             
-            1. Identificadores, como:
-                1. Seus dados pessoais (por exemplo, nome, foto do perfil).
-                2. Seus dados de contato (por exemplo, endereço de e-mail).
-            2. Endereços IP.
-            3. Informações do dispositivo.
-            4. Suas preferências e consentimentos.
-        2. Serviço de comentários de terceiros
+            1. Identifiers, such as:
+                1. Your personal details (for example, name, profile picture); and
+                2. Your contact details (for example, email address);
+            2. IP address;
+            3. Device information; and
+            4. Your preferences and consents.
+        2. Third Party Comment Service
             
-            O Serviço da Rakuten Viki permite que você publique comentários e informações em um recurso público do Serviço da Rakuten Viki ou por meio de plug-ins ou outros aplicativos (“Serviços de comentários de terceiros”). Essas informações são públicas no Serviço da Rakuten Viki e, dependendo das suas configurações de privacidade, também poderão ser disponibilizadas publicamente na internet. Você pode controlar os dados que compartilha por meio das configurações de privacidade nos Serviços de comentários de terceiros. Não temos controle e não assumimos nenhuma responsabilidade pelas políticas de privacidade, termos de uso ou outras políticas dos Serviços de comentários de terceiros. Consulte os Serviços de comentários de terceiros para obter mais informações.
+            The Rakuten Viki Service allows you to post comments and information on a public-facing feature of the Rakuten Viki Service or through plug-ins, or other applications (the “Third-Party Comments Services”). Such information is public on the Rakuten Viki Service and, depending on your privacy settings, may also be made public on the internet. You can control the data you share through the privacy settings on the Third-Party Comments Services. We have no control over, and assume no responsibility for the privacy policies, terms of use and other policies on the Third-Party Comments Services. Please refer to the Third-Party Comments Services for more information; and
             
-        3. Parcerias e anunciantes
+        3. Partnerships and advertisers
             
-            Poderemos receber informações adicionais a seu respeito de parceiros terceirizados e anunciantes, como suas atividades dentro e fora do Serviço da Rakuten Viki.
+            We may receive additional information about you from third party partners and advertisers, such as your activities on and off the Rakuten Viki Service.
             
-2. **COMO UTILIZAMOS AS INFORMAÇÕES PESSOAIS QUE COLETAMOS**
+2. **HOW WE USE PERSONAL INFORMATION WE COLLECT**
     
-    Utilizamos as Informações pessoais que coletamos de você para disponibilizar o Serviço da Rakuten Viki e para os seguintes fins específicos:
+    We use the Personal Information we collect from you to provide you the Rakuten Viki Service and for the following specific purposes:
     
-    1. Prestação de acesso e personalização do Serviço da Rakuten Viki.
+    1. Providing access to and personalising the Rakuten Viki Service
         
-        Poderemos utilizar as suas Informações pessoais para:
+        We may use your Personal Information to:
         
-        1. Criar contas que permitam que você acesse e use o Serviço da Rakuten Viki.
-        2. Autenticar a sua identidade ao acessar o Serviço da Rakuten Viki.
-        3. Personalizar ou, de outra forma, adaptar a sua experiência, por exemplo, fornecendo a você conteúdo ou opções de conteúdo com base em sua pesquisa, lembrando o idioma ou outras preferências de IU e recomendando conteúdo com base em suas preferências identificadas ou inferidas.
-        4. Determinar sua localização geográfica geral para personalizar o Serviço da Rakuten Viki e determinar se o conteúdo solicitado está disponível em sua região.
-        5. Processar seu pagamento pelo Serviço da Rakuten Viki por meio de prestadores de serviços terceirizados, como a Stripe (cuja Política de privacidade pode ser encontrada [aqui](https://stripe.com/privacy)).
-        6. Gerenciar, manter e monitorar as contas que você tem conosco.
-    2. Publicidade
+        1. Create account(s) that enable you to access and use the Rakuten Viki Service;
+        2. Authenticate your identity when you log in to the Rakuten Viki Service;
+        3. Personalise or otherwise customize your experience by, for example, providing you with content or content options based on your search, remembering language or other UI preferences, and recommending content based on your expressed or inferred preferences;
+        4. Determine your general geographic location to personalise the Rakuten Viki Service and determine whether the content you have requested is available in your region;
+        5. Process your payment for the Rakuten Viki Service through third-party service providers such as Stripe (whose Privacy Policy can be found [here](https://stripe.com/privacy)); and
+        6. Manage, maintain, and monitor the accounts you hold with us.
+    2. Advertising
         
-        Nós e nossos anunciantes terceirizados utilizamos as suas Informações pessoais para veicular anúncios que possam ser do seu interesse, conforme seu consentimento ou cancelamento, dependendo da sua jurisdição (consulte a Subcláusula 4(a)(iii): Anunciantes terceirizados).
+        We, and our third-party advertisers, use your Personal Information to serve you with advertisements that may interest you, subject to your consent or opt-out, depending on your jurisdiction (see Section 4(a)(iii): Third-Party Advertisers).
         
     3. Marketing
         
-        Nós e nossos prestadores de serviços e/ou parceiros de negócios (“Nossos parceiros”) poderemos usar suas informações para enviar comunicações promocionais e de marketing direto. Nossos canais de marketing direto incluem notificações no aplicativo, notificações push e e-mail; monitoramos o seu envolvimento com esses canais para medir a eficácia do nosso marketing direto. Ao longo do tempo, nós, as Coligadas da Rakuten e Nossos parceiros também poderemos convidar você a participar de pesquisas, questionários ou outras atividades ou eventos de pesquisa de mercado ou promocionais. Ao consentir em participar, suas Informações pessoais poderão ser utilizadas para administrar o exposto acima e para análise realizada por nós.
+        We and our service providers and/or business partners (“Our Partners”) may use your information to send you promotional and direct marketing communications. Our avenues for direct marketing include in-app notifications, push notifications and email, and we monitor your engagement with these avenues to measure the effectiveness of our direct marketing. From time to time, we, Rakuten Affiliates, and Our Partners may invite you to participate in surveys, questionnaires, or other promotional or market research activities or events. Your Personal Information may be used to administer the above and for our analysis if you consent to participate.
         
-    4. Comunicação
+    4. Communication
         
-        Poderemos utilizar suas informações para entrar em contato com você, por exemplo, para responder e resolver suas solicitações de suporte, responder perguntas, emitir alertas de segurança, comunicar informações da conta e outras informações sobre o Serviço da Rakuten Viki, bem como manter e moderar o Serviço da Rakuten Viki.
+        We may use your information to contact you, for example, to respond to and resolve your support requests, answer questions, issue security alerts, communicate account information and other information regarding the Rakuten Viki Service, and to maintain and moderate the Rakuten Viki Service.
         
-    5. Segurança
+    5. Security
         
-        Poderemos utilizar suas informações quando necessário para avaliar riscos e investigar, abordar e prevenir fraudes, problemas de segurança, abuso e outras atividades on-line maliciosas no Serviço da Rakuten Viki. Também poderemos utilizar suas informações para melhorar nossas medidas de segurança.
+        We may use your information where necessary to assess risk and to investigate, address, and prevent fraud, security issues, abuse and other malicious online activities on the Rakuten Viki Service. We may also use your information to improve our security measures.
         
-    6. Melhoria de pesquisa e serviços
+    6. Research and services improvement
         
-        Poderemos utilizar suas informações para realizar pesquisas e análises para desenvolvimento e aprimoramento do Serviço da Rakuten Viki, conduzir pesquisas de satisfação do cliente e identificar e solucionar erros, em um esforço para entender suas preferências e oferecer a você a melhor experiência.
+        We may use your information to conduct research and analysis to develop and improve the Rakuten Viki Service, identify and troubleshoot errors, and to conduct customer satisfaction assessments, in an effort to understand your preferences and provide you with the best experience.
         
-    7. Interação na comunidade
+    7. Community engagement
         
-        Poderemos utilizar suas informações e qualquer avaliação, classificação, contribuição e mensagem que você publicar no Serviço da Rakuten Viki para aumentar a interação na comunidade.
+        We may use your information and any reviews, ratings, contributions, or messages you post on the Rakuten Viki Service to increase community engagement.
         
-    8. Análise de desempenho dos negócios
+    8. Business performance analytics
         
-        Poderemos utilizar suas informações para realizar análises de desempenho dos negócios, a fim de melhorar as ofertas do Serviço da Rakuten Viki; por exemplo, para entender melhor as preferências do usuário entre as várias plataformas nas quais o Serviço da Rakuten Viki está disponível (internet, dispositivos móveis, televisão conectada).
+        We may use your information to conduct business performance analytics to improve the Rakuten Viki Service offerings; for example, to better understand user preferences among various platforms on which the Rakuten Viki Service is available (web, mobile devices, connected television).
         
-    9. Jurídico
+    9. Legal
         
-        Poderemos utilizar suas informações para cumprir obrigações jurídicas às quais estivermos sujeitos, para proteger nossa propriedade intelectual (inclusive, dentre outros, nossos direitos de autor e marcas comerciais) ou a propriedade intelectual de terceiros, para defender ou fazer cumprir nossos outros direitos e nossos [Termos de Uso](https://www.viki.com/legal/terms_of_use), para nos defender de reivindicações ou ações judiciais de terceiros e para responder a solicitações ou consultas de reguladores e órgãos judiciais.
+        We may use your information to comply with legal obligations to which we are subject, to protect our intellectual property (including but not limited to our copyright and trademarks) or the intellectual property of third parties, to defend or enforce our other legal rights and our [Terms of Use](https://www.viki.com/legal/terms_of_use), to defend against any third party claims or actions, and to respond to requests or inquiries from regulators and law enforcement bodies.
         
-    10. Serviços da loja de aplicativos
+    10. Application store services
         
-        Poderemos utilizar suas informações para processar pagamentos ou processar ou atender a pedidos de operações no Serviço da Rakuten Viki feitos por você por meio de uma loja de aplicativos, de acordo com os termos e políticas da loja de aplicativos. Essas lojas de aplicativos incluem a Apple App Store (consulte a [Política de privacidade da Apple](https://www.apple.com/legal/privacy/en-ww/)) e a Google Play Store (consulte a [Política de privacidade do Google](https://policies.google.com/privacy)).
+        We may use your information to process payments or process or fulfil any orders of transactions on the Rakuten Viki Service made by you through an application store in accordance with their respective terms and policies. These application stores include Apple App Store (see [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)) and Google Play Store (see [Google Privacy Policy](https://policies.google.com/privacy)).
         
-    11. Gestão de consentimento
+    11. Consent Management
         
-        Usamos uma Plataforma de gestão de consentimento (Consent Management Platform, “CMP”) para nos permitir apresentar de forma transparente as opções do usuário, bem como registrar, armazenar e recuperar preferências do usuário e transmitir as preferências do usuário ou perfis de consentimento a vários terceiros, conforme necessário, com relação ao processamento de dados das Informações pessoais para vários fins, inclusive publicidade e marketing. A CMP nos ajuda com o nosso processamento e compartilhamento das Informações pessoais, conforme o consentimento do usuário, e permite comprovação e documentação para o fundamento jurídico no âmbito da responsabilidade de proteção de dados.
+        We use a Consent Management Platform (“CMP”) to enable us to transparently present user options, to capture, store and retrieve user preferences and to transmit user preferences or consent profiles to various third parties as necessary, regarding data processing of Personal Information for various purposes, including advertising and marketing. The CMP supports us in our Personal Information processing and disclosure, depending on whether the user has consented or not, and enables proof and documentation for the legal basis within the framework of data protection accountability.
         
-3. **FUNDAMENTO JURÍDICO PARA O PROCESSAMENTO DE INFORMAÇÕES PESSOAIS**
-    1. Usuários na União Europeia (“UE”), Reino Unido ou Brasil
+3. **LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION**
+    1. Users in the European Union ("EU"), the United Kingdom ("UK"), or Brazil
         
-        Se você estiver visitando nosso Site ou usando o Serviço da Rakuten Viki na UE, no Reino Unido, no Brasil ou em qualquer outra jurisdição com leis semelhantes ao Regulamento geral sobre a proteção de dados (“RGPD”), precisamos ter um fundamento jurídico específico para processar as suas Informações pessoais. Para usuários da UE, do Reino Unido ou do Brasil, poderemos confiar nos seguintes fundamentos jurídicos para utilizar algumas das suas Informações pessoais:
+        If you are visiting our Site or using the Rakuten Viki Services from the EU, the UK, Brazil, or any other jurisdiction with laws similar to the General Data Protection Regulation (“GDPR”), we must have a particular legal basis to process your Personal Information. For EU, UK, or Brazilian users, we may rely on the following legal bases to use certain of your Personal Information:
         
-        1. Cumprimento de um contrato
+        1. Performance of a contract
             
-            O uso das suas Informações pessoais é necessário para cumprir nossas obrigações contratuais de disponibilizar o Serviço da Rakuten Viki e seus respectivos recursos e funcionalidades a você, por exemplo, para criar e manter sua conta, autenticar seu login, oferecer recursos da comunidade, processar operações e pagamentos do Serviço da Rakuten Viki e de serviços da loja de aplicativos, verificar se o conteúdo está disponível para você, além de enviar e-mails e outras comunicações sobre a administração, segurança e operação da sua conta ou do Serviço da Rakuten Viki, de acordo com nossos termos e condições ou outras políticas. Não fornecer estas informações poderá impedir ou atrasar o cumprimento das nossas obrigações contratuais para com você em relação ao fornecimento do Serviço da Rakuten Viki.
+            The use of your Personal Information is necessary to perform our contractual obligations to provide the Rakuten Viki Service and its features and functionality to you, for example, to create and maintain your account, authenticate your login, provide community features, process transactions and payments from Rakuten Viki Service and application store services, verify whether content is available to you, and send you emails and other communication concerning the administration, security, and operation of your account or the Rakuten Viki Service, as per our terms and conditions or other policies. Failure to provide this information may prevent or delay the performance of our contractual obligations to you regarding the provision of the Rakuten Viki Service.
             
-        2. Consentimento
+        2. Consent
             
-            Dependemos do seu consentimento para a utilização de:
+            We will rely on your consent to use:
             
-            1. Informações técnicas ou pessoais relacionadas a cookies e tecnologias semelhantes.
-            2. Suas Informações pessoais para fins de marketing e publicidade.
-            3. Para outros fins para os quais possamos solicitar o seu consentimento, p. ex., pesquisas, questionários ou outras atividades ou eventos de pesquisa de mercado ou promocionais.
+            1. Technical or Personal Information related to cookies and similar technologies;
+            2. Your Personal Information for marketing and advertising purposes; and
+            3. For other purposes for which we may request your consent, e.g., surveys, questionnaires, or other promotional or market research activities or events.
             
-            Em relação aos cookies e tecnologias semelhantes, você poderá retirar o seu consentimento a qualquer momento ajustando suas preferências, conforme explicado na Cláusula 5ª. ou entrando em contato conosco pelos meios apresentados no final desta Política de privacidade. Para comunicações de marketing direto, você pode modificar suas preferências de notificação em “Assinatura e configurações” ou seguindo o link de cancelamento de assinatura disponibilizado em todas as comunicações de marketing que receber de nós.
+            For cookies and similar technologies, you may withdraw your consent at any time by adjusting your preferences as further explained in Section 5 or by contacting us via the means provided at the end of this Privacy Policy. For direct marketing communications you can modify your notification preferences in your “Subscription & Settings” or following an unsubscribe link in any marketing communication you receive from us.
             
-        3. Interesses legítimos
+        3. Legitimate Interests
             
-            Utilizamos suas Informações pessoais para nossos interesses legítimos para:
+            We use your Personal Information for our legitimate interests to:
             
-            1. Entender como você usa o Serviço da Rakuten Viki.
-            2. Personalizar o Serviço da Rakuten Viki para você.
-            3. Melhorar o Serviço da Rakuten Viki para todos os usuários.
-            4. Manter a segurança do Serviço da Rakuten Viki.
-            5. Compartilhar informações com as Coligadas da Rakuten, para administração interna.
+            1. Understand how you use the Rakuten Viki Service;
+            2. Personalise the Rakuten Viki Service for you;
+            3. Improve the Rakuten Viki Service for all users;
+            4. Maintain security of the Rakuten Viki Service; and
+            5. Share information with Rakuten Affiliates for internal administration.
             
-            As melhorias de serviço serão estabelecidas após analisarmos, por exemplo, como você usa o Serviço da Rakuten Viki \[como páginas que você visualiza, a taxa na qual você consome conteúdo (com que frequência e por quanto tempo), o conteúdo que você prefere e pesquisas que faz ou compartilha, o conteúdo que você curtiu, comentários que você deixa, sites de terceiros que você visita por meio de links, a taxa de sucesso de qualquer promoção, campanha de marketing ou evento, determinadas informações técnicas sobre seu dispositivo ou quando você acessa o Serviço da Rakuten Viki por meio de determinado dispositivo, bem como o caminho de compra ou dados de operações) e qualquer questão ou problema relatado ao atendimento ao cliente. Nestas circunstâncias em que processamos dados pessoais para atender aos nossos interesses legítimos, implementamos proteções eficientes para assegurar que a sua privacidade seja protegida e assegurar que nossos interesses legítimos não se sobreponham aos seus interesses de proteção de dados ou direitos e liberdades fundamentais. Você tem o direito de se opor a qualquer um desses usos, exceto quando nosso interesse necessário superar as suas preocupações, como nosso interesse em promover a segurança do Serviço da Rakuten Viki para todos os usuários. Você poderá exercer o seu direito à Objeção, conforme descrito na Cláusula 5ª.
+            Service improvements are dependent on our analyzing, for example, how you use the Rakuten Viki Service (such as pages you view, the rate at which you consume content (how often, and for how long), content you prefer and searches you make or share, the content you liked, comments you leave, third-party websites you visit through links, the success rate of any promotion, marketing campaign, or event, certain technical information about your device, or when you access the Rakuten Viki Service through a certain device, and purchase path or transaction data) and any issues or problems reported to customer service. In circumstances where we process personal data to serve our legitimate interests, we put in place robust safeguards to ensure that your privacy is protected and ensure that our legitimate interests do not override your data protection interests or fundamental rights and freedoms. You have a right to object to any of these uses except where our compelling interest outweighs your concerns, such as our interest in ensuring the security of the Rakuten Viki Service for all users. You may exercise your right to Object as described in Section 5.
             
         
-    2. Fundamento jurídico adicional para a UE e o Reino Unido
-        1. Obrigação legal e interesse público
+    2. Additional Legal Basis for EU and UK
+        1. Legal obligation and public interest
             
-            Em alguns casos, também poderemos ter a obrigação jurídica de coletar ou divulgar suas Informações pessoais, ou poderemos, de outra forma, precisar usar ou divulgar suas Informações pessoais para proteger os seus interesses vitais ou os de outra pessoa, ou para afirmar, proteger ou defender os nossos direitos ou os direitos de terceiros.
+            In some cases, we may also have a legal obligation to collect or disclose your Personal Information, or may otherwise need to use or disclose your Personal Information, to protect your vital interests or those of another person, or to assert, protect or defend our or a third party’s legal rights.
             
-    3. Fundamentos jurídicos adicionais para o Brasil
-        1. Obrigações jurídicas, processos judiciais e desempenho de deveres públicos previstos em lei
+    3. Additional Legal Bases for Brazil
+        1. Legal obligations, legal proceedings and performance of public statutory duties
             
-            Poderemos utilizar suas Informações pessoais para cumprir nossas obrigações jurídicas relacionadas a processos judiciais, para afirmar, proteger ou defender os nossos direitos ou os direitos de terceiros, ou para desempenhar deveres públicos previstos em lei aos quais estivermos sujeitos.
+            We may use your Personal Information to comply with our legal obligations, in connection with legal proceedings, to assert, protect or defend our or a third party’s legal rights, or to perform public statutory duties we are subject to.
             
-4. **COMO COMPARTILHAMOS AS INFORMAÇÕES PESSOAIS**
-    1. Poderemos divulgar suas Informações Pessoais para fins comerciais às seguintes partes:
-        1. Provedores de serviços
+4. **HOW WE SHARE PERSONAL INFORMATION**
+    1. We may disclose your Personal Information for business purposes to the following parties:
+        1. Service providers
             
-            Compartilhamos as suas Informações pessoais com nossos provedores de serviços que realizam serviços e/ou operações de negócios em nosso nome, de acordo com as nossas instruções. Por exemplo, poderemos contratar outras empresas para processar pagamentos seguros, prestar serviços de autenticação, detectar e prevenir fraudes, abusos e outras atividades on-line maliciosas no Serviço da Rakuten Viki, prestar serviços de streaming e entrega de conteúdo, atender a pedidos, realizar análises, facilitar comunicações de marketing direto, administrar nossas promoções e pesquisas, bem como prestar suporte para serviços de mensagens e e-mail.
+            We share your Personal Information with our service providers that perform business services and/or operations on our behalf according to our instruction. For example, we may engage other companies to process secure payments, provide authentication services, detect and prevent fraud, abuse and other malicious online activities on the Rakuten Viki Service, provide streaming and content delivery services, fulfil orders, perform analytics, facilitate direct marketing communications, administer our promotions and surveys, and support service email and messaging services.
             
-        2. Parceiros de negócios
+        2. Business partners
             
-            Compartilhar as suas Informações pessoais com Nossos parceiros para realizar atividades de marketing e serviços comerciais, dependendo do seu plano de assinatura selecionado e/ou da sua solicitação para usar determinados recursos. Por exemplo, formamos parcerias com outras empresas para fornecer conteúdo e serviços de publicidade segmentada em plataformas de terceiros, de acordo com seu consentimento ou cancelamento, conforme aplicável em sua jurisdição.
+            We share your Personal Information with Our Partners to carry out marketing activities and perform business services depending upon your selected subscription plan and/or your request to use certain features. For example, we partner with other companies to provide content, and targeted advertising services on third-party platforms, subject to your consent or opt-out, as applicable in your jurisdiction.
             
-        3. Anunciantes terceirizados
+        3. Third-Party Advertisers
             
-            Permitimos que anúncios sejam veiculados a você no Serviço da Rakuten Viki por anunciantes terceirizados (também chamados de redes de anúncios ou anunciantes em rede). Conforme seu consentimento ou cancelamento, dependendo da sua jurisdição (consulte a Cláusula 5ª.), esses anúncios poderão ser adaptados aos seus interesses pelos anunciantes terceirizados com base nas preferências inferidas a partir das informações coletadas sobre o seu comportamento em outros sites e serviços, bem como das Informações pessoais que poderemos compartilhar com esses anunciantes terceirizados a respeito das suas interações com o Serviço da Rakuten Viki. Na Califórnia, mais especificamente, a lei identifica a divulgação de Informações pessoais para fins de publicidade comportamental entre contextos como “venda” ou “compartilhamento”, independentemente de haver troca de dinheiro por isso ou não. Em outras jurisdições, isso é identificado como processamento para fins de publicidade segmentada. Sujeito ao seu consentimento ou cancelamento, conforme aplicável em sua jurisdição, compartilhamos os seguintes tipos de Informações pessoais, se disponíveis, com esses anunciantes terceirizados para fins de entrega e medição de anúncios, e publicidade comportamental entre contextos ou publicidade segmentada nos Serviços da Rakuten Viki: identificadores (p. ex., endereço IP, ID do dispositivo, ID do anúncio, agente de usuário), dados de localização inferidos do endereço IP, os gêneros de conteúdo com os quais você interage e dados de cookies.
+            We permit advertisements to be delivered to you on the Rakuten Viki Service by third-party advertisers (also called ad networks or network advertisers). Subject to your consent or opt-out, depending on your jurisdiction (see Section 5), advertisements may be tailored to your interests by the third-party advertisers based on preferences inferred from information they collect about your behavior on other sites and services, as well as Personal Information we may share with them about your interactions with the Rakuten Viki Services. In California in particular, the law identifies Personal Information disclosure for the purposes of cross-context behavioral advertising as a “sale” or “sharing” regardless of whether money is exchanged for it. In other jurisdictions, this is identified as processing for the purposes of targeted advertising. Subject to your opt-out or consent as may be applicable in your jurisdiction, we share the following types of Personal Information, where available, with these third-party advertisers for the purposes of their ad delivery, ad measurement, and cross-context behavioral advertising or targeted advertising on the Rakuten Viki Services: identifiers (e.g., IP address, device ID, ad ID, user agent), location data inferred from IP address, the genres of content you engage with, and cookie data.
             
-            Além das Informações pessoais que possamos compartilhar com os anunciantes terceirizados de acordo com nossos termos contratuais, não temos controle sobre qualquer outra Informação pessoal que esses anunciantes terceirizados coletem em outro lugar ou que possam usar para segmentar anúncios para você e não assumimos nenhuma responsabilidade pelas práticas de privacidade desses anunciantes terceirizados.
+            Other than the Personal Information we may share with them according to our contractual terms, we have no control over any other Personal Information these third-party advertisers collect elsewhere or may use to target advertisements to you, and we assume no responsibility for their privacy practices.
             
-        4. Empresas do grupo Rakuten
+        4. Rakuten Group companies
             
-            O Rakuten Group, Inc. é a empresa matriz da Rakuten Viki. Trabalhamos em estreita colaboração com nossos negócios e empresas que fazem parte da família do Grupo Rakuten (conjuntamente, “Coligadas da Rakuten”). Podemos compartilhar seus dados com as Coligadas da Rakuten para fins de administração de negócios internos no grupo Rakuten.
+            Rakuten Group, Inc. is Rakuten Viki’s parent company. We work closely with our affiliated businesses and companies that fall under the Rakuten Group family (together, “Rakuten Affiliates”). We may share your data with Rakuten Affiliates for internal business administration purposes within the Rakuten Group.
             
-            Além disso, o Rakuten Group tem como objetivo proporcionar a você uma experiência de serviço comum por meio do “Rakuten ID”, um programa que permite que você use as mesmas credenciais de login para todos os serviços participantes do Grupo Rakuten que você optar por usar. A Viki compartilhará, com segurança, suas credenciais de conta com o programa Rakuten ID para fins de autenticação de conta futura, de acordo com os termos explicados na Política de privacidade do Rakuten ID, aqui: [https://corp.rakuten.co.jp/privacy/en/rakuten-id.html](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html), para uso se você optar por se conectar a outro serviço participante do Rakuten ID, além do Serviço da Rakuten Viki.
+            In addition, the Rakuten Group aims to provide you with a common service experience through the “Rakuten ID”, a program that enables you to use the same log-in credentials with any participating Rakuten Group services you use. Viki will securely share your account credentials with the Rakuten ID program for future account authentication purposes, according to the terms explained in the Rakuten ID Privacy Policy here: [https://corp.rakuten.co.jp/privacy/en/rakuten-id.html](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html), for use if you choose to connect to another Rakuten ID participating service in addition to the Rakuten Viki Service.
             
-        5. Órgãos policiais, tribunais, reguladores e autoridades governamentais
+        5. Law enforcement agencies, courts, regulators and government authorities
             
-            Poderemos compartilhar as suas Informações pessoais com essas partes se avaliarmos e acreditarmos, justificadamente, que isso seja necessário para cumprir obrigações jurídicas ou regulamentares ou, de outra forma, para afirmar, proteger ou defender nossos direitos ou os direitos de terceiros.
+            We may share your Personal Information with these parties where we assess and reasonably believe this is necessary to comply with a legal or regulatory obligation, or otherwise assert, protect or defend our or a third party’s legal rights; and
             
-        6. Compradores de ativos
+        6. Asset purchasers
             
-            Poderemos compartilhar as suas Informações pessoais com qualquer terceiro que compre, ou ao qual possamos transferir, todos ou uma parte relevante dos nossos ativos e negócios. Caso esta venda ou transferência ocorra, faremos o possível para tentar assegurar que a pessoa jurídica para a qual transferirmos as suas Informações pessoais as utilize de uma maneira em consonância com esta Política de privacidade.
+            We may share your Personal Information with any third-party that purchases, or to which we transfer, all or a relevant portion of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your Personal Information uses it in a manner that is consistent with this Privacy Policy.
             
-    2. As seguintes categorias de Informações pessoais poderão ser compartilhadas com as partes listadas acima, exceto se especificado de outra forma acima:
-        1. Identificadores;
-        2. Informações comerciais;
-        3. Dados gerais de localização inferidos a partir do endereço IP;
-        4. Outras informações do dispositivo;
-        5. Informações sobre atividades na internet ou redes eletrônicas;
-        6. Cookies; e
-        7. Inferências extraídas de qualquer uma das categorias de informação acima.
-    3. Observação sobre os sites de terceiros
+    2. The following categories of Personal Information may be shared with the parties listed above for the purposes described, except where otherwise specified above:
+        1. Identifiers;
+        2. Commercial information;
+        3. General location data inferred from IP address;
+        4. Other device information;
+        5. Internet or other electronic network activity information;
+        6. Cookies; and
+        7. Inferences drawn from any of the above information categories.
+    3. Note about third-party websites
         
-        O Serviço da Rakuten Viki poderá conter links para outros sites de terceiros que não controlamos e que não são de nossa propriedade. É recomendável que você esteja consciente quando estiver visitando esses sites de terceiros e que entenda as respectivas declarações de privacidade, sobre as quais não temos controle, e não assumimos nenhuma responsabilidade sobre a coleta de dados, práticas de privacidade ou conteúdo desses sites de terceiros que você optar por visitar.
+        The Rakuten Viki Service may contain links to other third-party websites that we neither control nor own. We encourage you to be aware of when you are visiting these other third-party websites and to understand their privacy statements, as we have no control over, and assume no responsibility for the data collection, privacy practices or the content of any of these third-party sites you may choose to visit.
         
-5. **SUAS ESCOLHAS E SEUS DIREITOS EM RELAÇÃO ÀS SUAS INFORMAÇÕES PESSOAIS**
-    1. Suas escolhas
+5. **YOUR CHOICES AND YOUR RIGHTS OVER YOUR PERSONAL INFORMATION**
+    1. Your choices
         
-        Em alguns casos, você poderá ter a opção de recusar-se a fornecer determinadas Informações pessoais; além disso, você não é obrigado a nos fornecer nenhuma Informação pessoal que não seja necessária para que possamos prestar o Serviço da Rakuten Viki a você. Entretanto, a sua opção de não fornecer informações poderá afetar o seu uso de determinados recursos ou o Serviço da Rakuten Viki. Veja abaixo algumas opções que você tem em relação às suas Informações Pessoais:
+        You may in some cases have the option to decline providing us with certain Personal Information, and you are not required to provide any Personal Information to us that is unnecessary for us to provide the Rakuten Viki Service to you. However, choosing not to provide information may impact your use of certain optional features or the Rakuten Viki Service. Please find below some choices you have over your Personal Information:
         
-        1. Conta
+        1. Account
             
-            É possível alterar as suas Informações pessoais em sua conta acessando sua Conta e modificando as informações listadas nas guias “Editar perfil” e/ou “Sobre mim”. Você não tem obrigação de fornecer nenhuma Informação pessoal que não seja necessária para que possamos prestar o Serviço da Rakuten Viki a você.
+            You can change Personal Information in your account by accessing your Account and modifying the information listed in the “Edit Profile” and/or “About Me” tabs. You are not required to provide any Personal Information to us that is unnecessary for us to provide the Rakuten Viki Service to you;
             
-        2. Comunicações de marketing
+        2. Marketing Communication
             
-            Você pode cancelar a assinatura ou o recebimento das nossas comunicações de marketing direto usando o link “Cancelar assinatura” na parte inferior do e-mail, modificando suas preferências de notificação em “Assinatura e configurações” ou entrando em contato conosco por meio do Serviço da Rakuten Viki. Observe que, mesmo que você opte por não receber comunicações de marketing, poderemos continuar a enviar e-mails que não sejam de marketing e outros tipos de comunicações, conforme permitido por lei, como respostas às suas solicitações de suporte, atualizações às nossas políticas ou e-mails relacionados à sua conta do Serviço da Rakuten Viki.
+            You can unsubscribe or opt-out of receiving direct marketing communications from us by using the “Unsubscribe” link at the bottom of an email, by modifying your notification preferences in your “Subscription & Settings”, or by contacting us through the Rakuten Viki Service. Please note that even if you opt-out of receiving marketing communications, we may continue to send you non-marketing emails and other types of communications, as permitted by law, such as responses to your support requests, updates to our policies, or emails relating to your Rakuten Viki Service account; and
             
-        3. Publicidade
+        3. Advertising
             
-            Dependendo da sua jurisdição, você poderá cancelar a venda ou o compartilhamento das suas Informações pessoais ou o processamento das suas Informações pessoais para fins de publicidade segmentada, ou não permitimos que cookies de marketing sejam colocados ou lidos sem o seu consentimento prévio. É possível controlar o uso de cookies para um navegador ou dispositivo específico por meio do nosso banner de cookies. Se você optar por desativar os cookies, poderá limitar o uso de determinados recursos ou funções no Serviço da Rakuten Viki. Para obter mais informações sobre como usamos cookies e como você pode gerenciá-los, consulte nossa [Política de cookies](https://www.viki.com/legal/cookies).
+            Depending on your jurisdiction, you can opt-out of the sale or sharing of your Personal Information or the processing of your Personal Information for the purposes of targeted advertising, or we do not enable marketing cookies to be placed or read without your prior consent. You may control the use of cookies for a particular browser or device through our cookie banner. If you choose to disable cookies, it may limit your use of certain features or functions on the Rakuten Viki Service. For more information on how we use cookies and how you can manage them, please see our [Cookies Policy](https://www.viki.com/legal/cookies).
             
-            Para obter mais informações sobre como o setor de publicidade on-line utiliza as informações coletadas para veicular publicidade segmentada e controlar amplamente se você quer ou não publicidades relevantes dos nossos anunciantes terceirizados, leia as informações nos seguintes links: [Network Advertising Initiative (Iniciativa de Publicidade em Rede](https://thenai.org/opt-out/)) e [Your Ad Choices](https://youradchoices.com/).
+            For more information about how the online advertising industry uses information it collects to provide you with targeted advertisement, and to control broadly whether you want to receive relevant advertisements from third-party advertisers, please review the information at the following links: [The Network Advertising Initiative](https://thenai.org/opt-out/) and [Your Ad Choices](https://youradchoices.com/).
             
-    2. Seus direitos de privacidade
+    2. Your Privacy rights
         
-        Você poderá usufruir de determinados direitos relacionados às Informações pessoais segundo o local em que reside (“Direitos de privacidade”), de acordo com a lei e as limitações aplicáveis, conforme descrito abaixo. Se quiser exercer esses direitos, envie-nos um e-mail para [privacy@viki.com](mailto:privacy@viki.com) ou, se você for residente de determinados estados dos EUA, use o formulário da internet [aqui](https://docs.google.com/forms/d/e/1FAIpQLScc7DvNdohyifLieWNF7V2ZqNIAJXHGkDD-lIrDT8vubBhKoA/viewform?usp=sf_link). Lembre-se de incluir a declaração “Your U.S. State Privacy Rights” (Seus direitos de privacidade da Califórnia) no corpo da sua solicitação. As solicitações de direitos de privacidade serão atendidas dentro do prazo exigido pela lei local, que varia entre jurisdições. Você poderá enviar solicitações por meio de um agente que atue em seu nome, contanto que você ou o seu agente comprovem que o agente está autorizado a agir em seu nome. Observe que poderemos exigir informações adicionais para que possamos verificar a sua identidade e cumprir as suas solicitações.
+        You may have certain rights regarding Personal Information based on where you reside (“Privacy Rights”), in accordance with applicable law and limitations, as described below. If you would like to exercise such rights, send us an email at [privacy@viki.com](mailto:privacy@viki.com), or if you are a resident of certain U.S. states, by using the web form [here](https://docs.google.com/forms/d/e/1FAIpQLScc7DvNdohyifLieWNF7V2ZqNIAJXHGkDD-lIrDT8vubBhKoA/viewform?usp=sf_link), and ensure to include the statement “Your U.S. State Privacy Rights” in the body of your request. Privacy rights requests will be honored within the time required by local law, which varies among jurisdictions. An agent may submit requests on your behalf, provided you or your agent provide proof that the agent is authorized to act on your behalf. Please note that we may require additional information from you in order to verify your identity and honor your requests.
         
-        1. Direitos gerais de privacidade, inclusive o direito de solicitar:
-            1. **Confirmação ou ciência** de que estamos processando dados pessoais a seu respeito, inclusive as categorias de dados pessoais, os objetivos do processamento e as categorias de destinatários para quem divulgamos os dados pessoais ou, em alguns casos, a lista de terceiros específicos para quem os divulgamos.
-            2. **Acesso** às suas Informações pessoais que processamos ou de receber uma cópia das Informações pessoais que mantemos a seu respeito.
-            3. **Correção** das informações concretas imprecisas ou incompletas que mantemos a seu respeito. Em vez de enviar uma solicitação, você pode corrigir ou excluir as Informações pessoais que forneceu ao usar os Serviços da Rakuten Viki, acessando a sua Conta e modificando as informações listadas nas guias “Editar Perfil” e/ou “Sobre mim” por meio das configurações da sua conta ou de qualquer outro local em que forneceu essas informações, a qualquer momento.
-            4. **Exclusão** das suas Informações pessoais, observadas determinadas exceções jurídicas. Você pode excluir sua conta do Serviço da Rakuten Viki nas configurações da sua conta (para obter mais informações, consulte o artigo disponível em https://support.viki.com/hc/en-us/articles/360051348154-How-Do-I-Delete-My-Account).
-            5. **Objeção** ao nosso uso das suas Informações pessoais em determinadas circunstâncias, como quando nosso uso é baseado em nossos interesses legítimos não convincentes ou é usado para fins de marketing direto. Você pode cancelar a assinatura ou o recebimento das nossas comunicações de marketing direto usando o link “Cancelar assinatura” na parte inferior do e-mail, modificando suas preferências de notificação em “Assinatura e configurações” ou entrando em contato conosco. Observe que, mesmo que você opte por não receber comunicações de marketing, poderemos continuar a enviar e-mails que não sejam de marketing e outros tipos de comunicações, conforme permitido por lei, como respostas às suas solicitações de suporte, atualizações às nossas políticas ou e-mails relacionados à sua conta do Serviço da Rakuten Viki.
-            6. **Restrição** do nosso uso e alcance do nosso processamento das suas Informações pessoais para fins específicos. Você pode solicitar a restrição do nosso uso das Informações pessoais durante a pendência da sua objeção ao nosso uso por interesses legítimos ou ao alegar que o nosso uso das Informações pessoais é ilegal ou não é mais necessário para o fim em questão.
-            7. **Retirada do seu consentimento** para qualquer processamento que utilize o seu consentimento como base.
-            8. **Portabilidade dos seus dados** - Recebimento de uma cópia das Informações pessoais que você nos forneceu em um formato eletrônico e/ou transmissão das suas Informações pessoais a terceiros - (direito à portabilidade de dados).
-            9. Exerça os direitos de privacidade sem medo de ter seus bens ou serviços negados ou de ser discriminado. No entanto, sempre que as Informações pessoais forem necessárias para fornecer recursos ou funcionalidades adicionais, você poderá receber um nível de serviço diferente.
-            10. **Apresentação de reclamação** - se sua reclamação não for resolvida ao entrar em contato conosco, você tem o direito de fazer uma reclamação à autoridade de proteção de dados.
-        2. Direitos de privacidade adicionais aplicáveis aos usuários da Califórnia:
+        1. General Privacy Rights, including the right to request to:
+            1. **Know or confirm** that we are processing personal data concerning you, including the categories of personal data, the purposes of processing, and the categories of recipients to whom we disclose it or in some cases the list of specific third parties to whom we disclosed personal data;
+            2. **Access** your Personal Information that we process or receive a copy of the Personal Information we hold about you;
+            3. **Correct** inaccurate or incomplete factual information we hold about you. In lieu of submitting a request, you can correct or delete Personal Information you provided when using Rakuten Viki Services by accessing your Account and modifying the information listed in the “Edit Profile” and/or “About Me” tabs through your account settings or any other location where you provided such information at any time.
+            4. **Delete** your Personal Information, subject to certain legal exceptions. You can delete your Rakuten Viki Service account within your account settings (for more information, please see the article at https://support.viki.com/hc/en-us/articles/360051348154-How-Do-I-Delete-My-Account);
+            5. **Object** to our use of your Personal Information under certain circumstances, such as when our use is based on our non-compelling legitimate interests or is used for direct marketing purposes. You can unsubscribe or opt out of receiving direct marketing communications from us by using the “Unsubscribe” link at the bottom of an email, by modifying your notification preferences in your “Subscription & Settings”, or by contacting us. Please note that even if you opt-out of receiving marketing communications, we may continue to send you non-marketing emails and other types of communications, as permitted by law, such as responses to your support requests, updates to our policies, or emails relating to your Rakuten Viki Service account;
+            6. **Restrict** our use and limit our processing of your Personal Information to particular purposes. You can request to restrict our use of Personal Information during the pendency of your objection to our use for legitimate interests, or when alleging that our use of Personal Information is unlawful or no longer necessary for the purpose;
+            7. **Withdraw your consent** for any processing that is based on your consent;
+            8. **Port your data** - Receive a copy of Personal Information you provided us in an electronic format and/or have us transmit it to an external party – (right to data portability);
+            9. Exercise privacy rights without fear of being denied goods or services or discrimination. We may, however, provide a different level of service where such Personal Information is necessary to provide the additional features or functionality; and
+            10. **Lodge a complaint** – if contacting us does not resolve your complaint, you have the right to make a complaint to your data protection authority.
+        2. Additional Privacy Rights applicable to users in California:
             
-            Se você for residente da Califórnia, também tem o direito de:
+            If you are a California resident, you also have the right to:
             
-            1. **Confirmar** as categorias de fontes das quais coletamos as informações, as categorias das suas Informações pessoais que divulgamos, vendemos ou compartilhamos, bem como os nossos fins comerciais ou de negócios para coletar, vender ou compartilhar as informações.
-            2. **Optar por cancelar a venda ou “compartilhamento”** das suas Informações pessoais para fins de publicidade comportamental entre contextos - divulgamos determinadas Informações pessoais a terceiros para fins de publicidade comportamental entre contextos que a lei da Califórnia define como “venda” ou “compartilhamento”. Você poderá exercer seu direito de cancelar clicando no botão “Não vender ou compartilhar minhas Informações pessoais” na parte inferior do nosso Site. Para os residentes da Califórnia e do Colorado, EUA, reconhecemos sinais de preferência de cancelamento válidos enviados por navegadores ou dispositivos, inclusive o Controle Global de Privacidade. Quando recebermos esses sinais, se não entrarem em conflito com as suas preferências de privacidade existentes, exerceremos automaticamente os direitos de cancelamento que possam estar disponíveis para você nos termos das leis da Califórnia, como os direitos de cancelamento de venda, compartilhamento e processamento das suas Informações pessoais para publicidade segmentada. Uma maneira de usar esses sinais de cancelamento é seguindo as instruções para o seu dispositivo ou navegador localizadas [aqui](https://globalprivacycontrol.org/).
-            3. **Lei “Shine the Light”**: os residentes da Califórnia poderão solicitar informações, uma vez por ano, a respeito das nossas divulgações, se houver, de determinadas categorias das suas respectivas Informações pessoais a terceiros para fins de marketing direto nos termos da lei “Shine the Light” da Califórnia.
-            4. **Compreender nosso uso dos incentivos financeiros** oferecidos em troca das Informações pessoais. Aviso de incentivos financeiros da Califórnia: A lei da Califórnia exige determinadas divulgações relacionadas a ofertas de incentivo financeiro, inclusive em relação ao valor dos seus dados de consumidor para os nossos negócios. Poderemos oferecer a você a oportunidade de se inscrever para receber conteúdo baseado em interesses por e-mail, fornecendo seu nome, e-mail ou outras informações de contato pessoal. Não há obrigação de aceitar, e você poderá cancelar a assinatura a qualquer momento seguindo as instruções nas comunicações. Ao longo do tempo, poderemos oferecer um incentivo financeiro para as pessoas que se inscreverem ou permanecerem em nossa lista de mala direta, responderem a uma pesquisa de mercado, fizerem uma compra ou não concluírem uma compra, como um cupom de desconto ou uma oportunidade de ganhar um prêmio ou brinde em um sorteio aleatório. Os detalhes de cada programa de incentivo estarão contidos nos termos do programa específico. Oferecemos esses programas, dentre outras coisas, para fortalecer o nosso relacionamento com você, fornecer conteúdo que possa ser do seu interesse e/ou para que você possa aproveitar mais dos nossos produtos/serviços a um preço menor. Embora não calculemos o valor dos dados do consumidor para nossos negócios em nossas demonstrações contábeis, fazemos a seguinte estimativa, de boa-fé, para os residentes da Califórnia se basearem ao tomarem decisões ponderadas sobre se devem ou não aproveitar qualquer incentivo financeiro ou diferença de preço ou serviço que possamos oferecer em relação à coleta, preservação ou venda das suas respectivas informações pessoais: Na medida em que criamos valor geral para nossos negócios a partir dos nossos programas de marketing de incentivo financeiro que poderiam estar direta ou razoavelmente relacionados ao valor dos dados do cliente, esse valor variaria de programa para programa e entre indivíduos, mas nosso método para calcular esse valor para os nossos negócios incluiria, para cada programa, e no agregado, se e até que ponto as vendas geradas pelos programas excedem o custo que temos para oferecê-las, que incluiria custos associados a: (1) qualquer incentivo financeiro que seja pago aos consumidores; (2) o custo da comercialização e distribuição da oferta; (3) os esforços da nossa equipe de marketing para aprimorar os dados resultantes do consumidor por meio de otimização de campanha e engajamento do consumidor em escala suficiente; (4) utilizar nossos investimentos passados na compreensão dos consumidores como nossos clientes atuais e futuros; (5) coletar e manter os dados como propriedade intelectual; e (6) todos os outros custos razoavelmente relacionados aos programas.
-        3. Direitos adicionais aplicáveis a residentes de determinados estados dos EUA que não sejam a Califórnia:
+            1. **Know** the categories of sources from which we collected the information, the categories of your Personal Information that we disclosed, sold or shared, and our business or commercial purpose for collecting, selling, or sharing the information.
+            2. **Opt-out of the sale or “sharing”** of your Personal Information for the purposes of cross-context behavioral advertising – we disclose certain Personal Information to third parties for the purposes of cross-context behavioral advertising which California law defines as a “sale” or “share”. You may exercise your right to opt-out by clicking the “Do Not Sell or Share My Personal Information” button at the bottom of our Site. For California and Colorado residents, we recognize valid opt-out preference signals sent from browsers or devices, including the Global Privacy Control. When we receive such signals that do not conflict with your existing privacy preferences, we will automatically exercise opt-out rights that may be available to you under California laws, such as the rights to opt out of sale, sharing, and processing your Personal Information for targeted advertising. One way that you can use such opt-out signals is by following the instructions for your device or browser located [here](https://globalprivacycontrol.org/).
+            3. **“Shine the Light”**: residents of California may request information once per calendar year about our disclosures, if any, of certain categories of your Personal Information to third parties for their direct marketing purposes under California’s “Shine the Light” law.
+            4. **Understand our use of financial incentives** provided in exchange for Personal Information. California Notice of Financial Incentives: California law requires certain disclosures related to financial incentive offerings, including in relation to the value of your consumer data to our business. We may offer an opportunity to sign up to receive interest-based content via email by providing us your name, email address, or other personal contact information. There is no obligation to opt-in, and you may unsubscribe at any time by following the instructions in the mailing. From time to time, we may offer a financial incentive to those who sign up for or remain on our mailing list, complete a market research survey, make a purchase, or do not complete a purchase, such as a discount coupon or an opportunity to win a prize or giveaway in a random drawing. The details of each incentive program will be contained in the program terms. We offer these programs, among other things, to enhance our relationship with you, to provide you with content that may be of interest to you, and/or so you can enjoy more of our products/services at a lower price. Although we do not calculate the value of consumer data to our business in our accounting statements, we make the following good faith estimate for California residents to use in making an informed decision whether or not to take advantage of any financial incentive or price or service difference we may offer that relates to the collection, retention or sale of your personal information: To the extent we create overall value for our business from our financial incentive marketing programs that could be directly or reasonably related to the value of customer data, that value would vary from program to program and among individuals, but our method for calculating this value to our business would include, for each program, and in the aggregate, whether and by what amount the sales generated by the program(s) exceed the cost to us of offering them, which would include costs associated with (1) any financial incentives that are paid to consumers; (2) the cost of the marketing and distribution of the offer; (3) our marketing team’s efforts to enhance the resulting consumer data through campaign optimization and consumer engagement at sufficient scale; (4) leveraging our past investments in understanding consumers as our existing and future customers; (5) collecting and maintaining data as intellectual property; and (6) all other costs reasonably related to the programs.
+        3. Additional rights applicable to residents of certain U.S. states other than California:
             
-            Se você for residente de determinados estados dos EUA que não sejam a Califórnia, você também tem o direito de:
+            If you are a resident of certain U.S. states other than California, you also have the right to:
             
-            1. **Optar por cancelar o processamento para fins de publicidade segmentada** - divulgamos determinadas Informações pessoais que são usadas para publicidade segmentada. Você poderá optar por cancelar o processamento das suas Informações pessoais para fins de publicidade segmentada clicando no botão “Não vender ou compartilhar minhas Informações pessoais” na parte inferior do nosso Site.
-            2. **Apelar** da nossa decisão sobre a sua solicitação de direitos de privacidade, enviando um e-mail para [privacy@viki.com](mailto:privacy@viki.com) com o título “PRIVACY APPEAL” (Apelo de privacidade), definindo os detalhes da apelação e os motivos pelos quais você acha que deva ser concedida.
-6. **DECISÕES AUTOMATIZADAS SOBRE VOCÊ**
+            1. **Opt-out of Processing for Targeted Advertising Purposes** – we make certain disclosures of Personal Information that are used for targeted advertising. You may opt out of your Personal Information being processed for targeted advertising purposes by clicking the “Do Not Sell or Share My Personal Information” button at the bottom of our Site.
+            2. **Appeal** our decision regarding your privacy rights request, by submitting an e-mail to [privacy@viki.com](mailto:privacy@viki.com) with a subject heading “PRIVACY APPEAL” and setting out the details of your appeal and the reasons you think it should be granted.
+6. **AUTOMATED DECISIONS ABOUT YOU**
     
-    Poderemos usar programas de software, algoritmos, aprendizado de máquina ou inteligência artificial para tomar decisões automatizadas a seu respeito, com base em suas Informações pessoais, para, por exemplo, exibir conteúdo personalizado e selecionar ofertas personalizadas, descontos, comunicações de marketing ou recomendações sobre o que lhe enviar com base em seu histórico de pedidos, histórico de navegação, preferências, localização, tipo de dispositivo e meios de pagamento. Esses tipos de decisões automatizadas não terão efeitos jurídicos ou semelhantes significativos para você, mas você ainda pode entrar em contato conosco para obter mais informações sobre essas decisões.
+    We may use software programs, algorithms, machine learning or artificial intelligence to make automated decisions about you based on your Personal Information to, for example, show you personalised content and select personalised offers, discounts, marketing communications or recommendations to send you based on your order history, browsing history, preferences, location, device type and means of payment. These types of automated decisions will not have legal or similarly significant effects for you, but you can still contact us for further information on these decisions.
     
-7. **TRANSFERÊNCIAS DE DADOS INTERNACIONAIS**
+7. **INTERNATIONAL DATA TRANSFERS**
     
-    Observe que suas Informações Pessoais podem precisar ser transferidas, armazenadas e/ou processadas em países onde os regulamentos de privacidade e proteção de dados podem não oferecer o mesmo nível de proteção que no seu país de origem. Poderemos transferir, armazenar e/ou, de outra forma, processar suas Informações pessoais nos Estados Unidos, Japão, Singapura, Coreia do Sul, Brasil, Países Baixos e Índia. Nesses casos, exigiremos que o destinatário ofereça proteção adequada às Informações pessoais que forem divulgadas a este terceiro, em conformidade com as leis de proteção de dados aplicáveis. Como parte do Grupo Rakuten, confiamos nas Regras corporativas vinculativas da UE e do Reino Unido da Rakuten para proteger transferências internacionais de dados das Informações pessoais da UE e do Reino Unido dentro do grupo. As Regras corporativas vinculativas da UE da Rakuten foram aprovadas pela CNPD, a Autoridade de Proteção de Dados de Luxemburgo, e as Regras corporativas vinculativas do Reino Unido foram aprovadas pela ICO, a Autoridade de Proteção de Dados do Reino Unido. As Regras corporativas vinculativas do Rakuten Group estão disponíveis para consulta em [https://corp.rakuten.co.jp/privacy/en/bcr.html](https://corp.rakuten.co.jp/privacy/en/bcr.html).
+    Please note that your Personal Information may need to be transferred to, stored and/or processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. We may transfer to, store and/or otherwise process your Personal Information in the United States, Japan, Singapore, South Korea, Brazil, Netherlands and India. In such cases, we will require the recipient to provide appropriate protection for the Personal Information disclosed to it in compliance with applicable data protection laws. As part of the Rakuten Group, we rely on Rakuten’s EU Binding Corporate Rules and UK Binding Corporate Rules to safeguard international data transfers of EU and UK Personal Information within the group. Rakuten’s EU Binding Corporate Rules have been approved by the CNPD, the Data Protection Authority of Luxembourg and the UK Binding Corporate Rules have been approved by the ICO, the Data Protection Authority of the UK. The aforementioned Binding Corporate Rules can be found at [https://corp.rakuten.co.jp/privacy/en/bcr.html](https://corp.rakuten.co.jp/privacy/en/bcr.html).
     
-8. **SEGURANÇA**
+8. **SECURITY**
     
-    A segurança das suas Informações Pessoais é nossa prioridade. Implementamos medidas técnicas e organizacionais para assegurar um nível de segurança adequado ao risco envolvido para as Informações pessoais que processamos. Essas medidas têm como objetivo garantir a integridade e a confidencialidade contínuas de suas Informações Pessoais. Entretanto, nenhuma empresa pode garantir que os dados não venham a ser acessados, divulgados, alterados ou destruídos pela violação de qualquer uma das nossas proteções físicas, técnicas ou gerenciais. Você também é responsável por conferir se suas Informações pessoais estão corretas e que sua senha seja exclusiva, segura e não compartilhada com terceiros.
+    We care about the security of your Personal Information. We implement technical and organisational measures to ensure a level of security appropriate to the risk of processing for the Personal Information we process. These measures are aimed at ensuring the on-going integrity and confidentiality of your Personal Information. However, no company can guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are also responsible to make sure that your Personal Information is accurate and that your password is unique, secure and not shared with any third-party.
     
-9. **RETENÇÃO**
+9. **RETENTION**
     
-    Salvo disposição em contrário, manteremos as Informações pessoais da sua conta pelo tempo em que mantivermos nossa relação com você, ou seja, enquanto você tiver uma conta ativa conosco.
+    Unless otherwise specified, we will keep your account Personal Information for as long as we have a relationship with you, i.e., while you have an active account with us.
     
-    Além disso, preservaremos suas Informações pessoais além dos períodos regulares de preservação, na medida em que houver necessidade de preservar os dados para buscar, defender ou exercer algum direito ou reivindicação, ou se formos obrigados a fazê-lo para cumprir as obrigações jurídicas ou exigências regulatórias aplicáveis.
+    In addition, we will retain your Personal Information outside the normal retention times to the extent there is a need to retain the data to pursue, defend, or exercise a legal right or claim, or if we are required to do so to comply with applicable legal obligations or regulatory requirements.
     
-10. **PRIVACIDADE DE MENORES**
+10. **CHILDREN'S PRIVACY**
     
-    O Serviço da Rakuten Viki não se destina a: (a) menores de 18 anos de idade; (b) menores de idade em qualquer estado, território ou país de residência no qual o Serviço da Rakuten Viki seja acessado; ou (c) menores de qualquer outra idade mínima prescrita para fornecer consentimento para a coleta de dados nos termos da lei local. Nosso registro exige que o usuário confirme que tem mais de 18 anos de idade ou que é maior de idade em seu território de origem. Não coletamos intencionalmente Informações pessoais, por meio do Serviço da Rakuten Viki, de qualquer pessoa com menos de 18 anos de idade ou menor de idade no estado, território ou país de residência relevante. Se você for pai/mãe ou responsável legal e acreditar que seu filho/tutelado com menos de 18 anos de idade ou menor de idade em seu estado, território ou país de residência nos forneceu indevidamente suas respectivas Informações pessoais, entre em contato conosco pelo e-mail [privacy@viki.com](mailto:privacy@viki.com) para solucionar essa situação.
+    The Rakuten Viki Service is not intended for children (a) under the age of 18, (b) under the age of majority in any state, territory or country of residence from which the Rakuten Viki Service is accessed, or (c) under any other prescribed minimum age for providing consent to data collection under local law. Our registration requires the user to certify that they are above the age of 18 and above the age of majority in their home territory. We do not knowingly collect Personal Information via the Rakuten Viki Service from anyone under the age of 18 or under the age of majority in the relevant state, territory or country of residence. If you are a parent or a guardian who believes that your child/ward who is under the age of 18 or under the age of majority in your state, territory or country of residence, has improperly provided us with their Personal Information, please contact us at [privacy@viki.com](mailto:privacy@viki.com) to remedy this situation.
     
-11. **ALTERAÇÕES A ESTA POLÍTICA DE PRIVACIDADE**
+11. **CHANGES TO THIS PRIVACY POLICY**
     
-    Poderemos modificar ou atualizar esta Política de privacidade ao longo do tempo. A versão mais atual regerá nosso uso das suas Informações pessoais e está disponível em [viki.com/privacy](https://www.viki.com/legal/privacy), com a data de atualização mais recente disponibilizada na parte superior desta Política de privacidade. Versões mais antigas estão disponíveis mediante solicitação. Qualquer Política de privacidade revisada entra em vigor após a publicação. Se fizermos alterações, enviaremos a você uma notificação sobre estas alterações, por e-mail, publicação no Site, uma notificação por meio dos Serviços da Rakuten Viki ou outros meios razoáveis. Além disso, se fizermos alterações que acreditarmos afetar significativamente seus direitos, solicitaremos que você concorde com as alterações, se aplicável.
+    We may modify or update this Privacy Policy from time to time. The most current version will govern our use of your Personal Information and is available at [viki.com/privacy](https://www.viki.com/legal/privacy), with the latest update date at the top of this Privacy Policy. Older versions are available upon request. Any revised Privacy Policy is effective upon posting. If we make changes, we will provide you notice of such changes, such as by sending an email, posting to the Site, providing a notice through the Rakuten Viki Services or other reasonable means. In addition, if we make changes that we believe materially impact your rights, if applicable, we will ask you to consent to the changes.
     
-12. **FALE CONOSCO**
+12. **CONTACT US**
     
-    Caso tenha dúvidas ou preocupações com relação à forma como as suas Informações pessoais foram usadas, fique à vontade para entrar em contato com o nosso diretor de Proteção de Dados, pelo e-mail [privacy@viki.com](mailto:privacy@viki.com). Se estiver buscando assistência geral na Viki (inclusive solicitações de reembolso), entre em contato conosco [aqui](https://support.viki.com/hc/en-us).
+    If you have questions or concerns regarding the way in which your Personal Information has been used, feel free to contact our Data Protection Officer by email at [privacy@viki.com](mailto:privacy@viki.com). If you are seeking general assistance on Viki (including seeking a refund), please contact us [here](https://support.viki.com/hc/en-us).
     
-    Temos o compromisso de trabalhar com você para chegar a uma resolução justa para qualquer queixa ou preocupação referente à privacidade. Entretanto, se acreditar que não ajudamos com sua reclamação ou preocupação, você tem o direito de fazer uma reclamação à autoridade de proteção de dados. Em relação aos usuários da UE, a autoridade de proteção de dados aplicável está listada em: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+    We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your data protection authority. In relation to EU users, your applicable data protection authority is listed at: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
     
 
 ![Rakuten Viki](https://1.viki.io/a/vwk8s/_next/static/images/rakuten-viki-horizontal-white.c2156eedbe0.svg)
