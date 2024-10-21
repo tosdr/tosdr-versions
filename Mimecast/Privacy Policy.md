@@ -233,6 +233,8 @@ Mimecast Privacy Statement
 
 Mimecast Trust Center
 
+* [AI Trusted Development Pledge](https://www.mimecast.com/company/mimecast-trust-center/ai-trusted-development-pledge/)
+    
 * [Certification and Attestation](https://www.mimecast.com/company/mimecast-trust-center/certification-and-attestation/) [Expand or Collapse Certification and Attestation Children](#)
     
     * [Access Control](https://www.mimecast.com/company/mimecast-trust-center/certification-and-attestation/access-control/)
@@ -245,21 +247,21 @@ Mimecast Trust Center
     
 * [Processing Details](https://www.mimecast.com/company/mimecast-trust-center/processing-details/)
     
-* [Technical and Organizational Measures](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/)
-    
 * [Sub Processors](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/)
     
-* [Support Locations](https://www.mimecast.com/company/mimecast-trust-center/support-locations/)
-    
-* [Mimecast Transfer Impact Assessment](https://www.mimecast.com/company/mimecast-trust-center/mimecast-transfer-impact-assessment/)
+* [Technical and Organizational Measures](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/)
     
 * [Mimecasts Intercompany Agreement](https://www.mimecast.com/company/mimecast-trust-center/mimecasts-intercompany-agreement/)
     
-* [Privacy Statement](https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/)
+* [Mimecast Transfer Impact Assessment](https://www.mimecast.com/company/mimecast-trust-center/mimecast-transfer-impact-assessment/)
     
 * [Data Privacy Framework Statement](https://www.mimecast.com/company/mimecast-trust-center/data-privacy-framework-statement/)
     
 * [Accessibility Statement](https://www.mimecast.com/company/mimecast-trust-center/accessibility-statement/)
+    
+* [Support Locations](https://www.mimecast.com/company/mimecast-trust-center/support-locations/)
+    
+* [Privacy Statement](https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/)
     
 * [DPA FAQs](https://www.mimecast.com/company/mimecast-trust-center/dpa-faqs/)
     
