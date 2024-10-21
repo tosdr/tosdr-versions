@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Collective Security League Assemb… (421)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (421 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (11,455)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (11,455 posts)")
-* [Looking for cards that are black and… (1,587)](https://forum.nationstates.net/viewtopic.php?t=524352&f=42&view=unread#unread ""Looking for cards that are black and red and white" (1,587 posts)")
-* [The Court of Flowers & Flames (OOC) (106)](https://forum.nationstates.net/viewtopic.php?t=548337&f=4&view=unread#unread ""The Court of Flowers & Flames (OOC)" (106 posts)")
-* [GSC - Boardroom (IC, Signup required) (535)](https://forum.nationstates.net/viewtopic.php?t=544043&f=5&view=unread#unread ""GSC - Boardroom (IC, Signup required)" (535 posts)")
+* [Ukrainian War VII: Everything has a p… (7,487)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,487 posts)")
+* [The AU/AN is best at \_\_\_\_\_\_ (172)](https://forum.nationstates.net/viewtopic.php?t=554685&f=25&view=unread#unread ""The AU/AN is best at ______" (172 posts)")
+* [Major League Baseball Thread (2,283)](https://forum.nationstates.net/viewtopic.php?t=463073&f=20&view=unread#unread ""Major League Baseball Thread" (2,283 posts)")
+* [Guess The AN Ideology based on their… (2,007)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (2,007 posts)")
+* [Illion League (IC/Assembly) (6,746)](https://forum.nationstates.net/viewtopic.php?t=550142&f=5&view=unread#unread ""Illion League (IC/Assembly)" (6,746 posts)")
 
 Advertisement
 
