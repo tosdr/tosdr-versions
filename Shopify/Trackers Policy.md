@@ -44,6 +44,8 @@ Shopify does what it can to set you up for success, but there's also steps that 
 * [Subprocessors](https://help.shopify.com/en/manual/privacy-and-security/privacy/subprocessors)
     
 
+Leave feedback
+
 Can’t find the answers you’re looking for? We’re here to help.
 
 Contact Support
