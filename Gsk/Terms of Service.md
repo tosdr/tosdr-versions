@@ -241,7 +241,7 @@ Location
     Back to main [Media](https://www.gsk.com/en-gb/media/)
     
     * [Media](https://www.gsk.com/en-gb/media/)
-    * [Press releases](https://www.gsk.com/en-gb/media/press-releases/)
+    * [Press release archive](https://www.gsk.com/en-gb/media/press-releases/)
     * [Media contacts](https://www.gsk.com/en-gb/media/media-contacts/)
     * [Conferences](https://www.gsk.com/en-gb/media/conferences/)
     * [Media library](https://www.gsk.com/en-gb/media/media-library/)
