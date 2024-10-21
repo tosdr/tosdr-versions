@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Anti-Taylor Swift thread (36)](https://forum.nationstates.net/viewtopic.php?t=557311&f=20&view=unread#unread ""The Anti-Taylor Swift thread" (36 posts)")
-* [Your favorite part of AN’s forum sig XI (2,807)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,807 posts)")
-* [Australians protesting in favour of H… (430)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (430 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (11,586)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (11,586 posts)")
-* [On the Knifes Edge (OOC) (1)](https://forum.nationstates.net/viewtopic.php?t=557338&f=5&view=unread#unread ""On the Knifes Edge (OOC)" (1 post)")
+* [Your favorite part of AN’s forum sig XI (2,821)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,821 posts)")
+* [World Cup of Hockey 52 Signup Thread (23)](https://forum.nationstates.net/viewtopic.php?t=557288&f=7&view=unread#unread ""World Cup of Hockey 52 Signup Thread" (23 posts)")
+* [Out of the 2 AN’s: Which one has the… (3,630)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (3,630 posts)")
+* [Major League Baseball Thread (2,290)](https://forum.nationstates.net/viewtopic.php?t=463073&f=20&view=unread#unread ""Major League Baseball Thread" (2,290 posts)")
+* [Guided Hiking Tour into the Red Hills… (5)](https://forum.nationstates.net/viewtopic.php?t=557340&f=4&view=unread#unread ""Guided Hiking Tour into the Red Hills of Cheromme OOC" (5 posts)")
 
 Advertisement
 
