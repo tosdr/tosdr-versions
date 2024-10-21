@@ -31,8 +31,8 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election/ "Lower House Election")
-* [MLB Championship Series](https://www.japantimes.co.jp/tag/mlb/ "MLB Championship  Series")
-* [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
+* [MLB World Series](https://www.japantimes.co.jp/tag/mlb/ "MLB World Series")
+* [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
+
+  [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
+
 [Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
 
   [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
@@ -139,20 +143,22 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428440.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Teruo Naka (right) and Hironori Kondoh, both lawyers for a plaintiff stating the nationality law is unconstitutional, speak to reporters on Thursday at the Tokyo District Court.")](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+
+  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+
 [Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
   [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
-[The yen pays the price for a timid Bank of Japan](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
-
-  [![Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
-
-[Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
-
-  [![Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428279.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.")](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
+
+  [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
@@ -172,27 +178,19 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Australian man claiming language mix-up jailed over Tokyo break-in](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
 
 By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
   [![The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428607.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo District Court on Friday sentenced Australian Daniel Mathew Otto, 32, to two years in jail for breaking into a home in Shinjuku Ward in June 2023 and injuring an elderly man who lives there. Otto had claimed that a language mix-up led to the victim thinking he was a robber.")](https://www.japantimes.co.jp/news/2024/10/18/japan/crime-legal/lawsuit-language-mixup/ "Australian man claiming language mix-up jailed over Tokyo break-in")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[The yen pays the price for a timid Bank of Japan](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
-
-By [Daniel Moss](https://www.japantimes.co.jp/author/428/daniel-moss/ "Daniel Moss")  
-
-  [![Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/428543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda can point to Washington all he wants, but his inability to settle on a consistent message is part of what ails his nation's currency. ")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/timid-bank-of-japan/ "The yen pays the price for a timid Bank of Japan")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
-
-By [Claire Jiao](https://www.japantimes.co.jp/author/1909/claire-jiao/ "Claire Jiao")  
-
-  [![Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428279.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tourists watch the sunset from the beach in Seminyak, Bali, Indonesia. An IPO by Holywings Group, owner of the luxurious three-hectare Atlas Beach Club in Bali, would add to as many as 95 companies planning to list in Southeast Asia’s biggest stock market, according to data from the Financial Services Authority.")](https://www.japantimes.co.jp/business/2024/10/17/companies/bali-beach-club-ipo-asia/ "Owner of Bali’s biggest luxury beach club considering IPO to expand across Asia")
 
 Podcast
 -------
@@ -204,7 +202,7 @@ Podcast
 Longform
 --------
 
-  [![A collage made of an undated handout picture released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of an undated handout picture released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan. ")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+  [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
 
 [The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
 
@@ -255,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Timetable planners form backbone of Tokaido Shinkansen's 60-year journey](https://www.japantimes.co.jp/business/2024/10/21/companies/tokaido-shinkansen-timetables/ "Timetable planners form backbone of Tokaido Shinkansen's 60-year journey")
+[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
 
-22 mins ago
+1 hours ago
 
-[The unsinkable Mark Karpeles is willing to give Tokyo another shot](https://www.japantimes.co.jp/business/2024/10/21/markets/karpeles-japan-return/ "The unsinkable Mark Karpeles is willing to give Tokyo another shot")
+[78% of electric bidet toilet accidents involve older models, report finds](https://www.japantimes.co.jp/news/2024/10/21/japan/society/toilet-seat-damages-injuries/ "78% of electric bidet toilet accidents involve older models, report finds")
 
-25 mins ago
+1 hours ago
 
-[Israel hones plans to attack Iran after attempt on Netanyahu](https://www.japantimes.co.jp/news/2024/10/21/world/israel-attack-iran-netanyahu/ "Israel hones plans to attack Iran after attempt on Netanyahu")
+[Former Olympic gymnast Chieko Tsukahara dies at 77](https://www.japantimes.co.jp/sports/2024/10/21/tsukahara-gymnast-obituary/ "Former Olympic gymnast Chieko Tsukahara dies at 77")
 
-29 mins ago
+1 hours ago
 
-[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+[Central Japan Railway to recognize employees' same-sex partners](https://www.japantimes.co.jp/news/2024/10/21/japan/jr-same-sex-partners/ "Central Japan Railway to recognize employees' same-sex partners")
 
-57 mins ago
+1 hours ago
 
-[Ruling camp likely to win Lower House majority: polls](https://www.japantimes.co.jp/news/2024/10/21/japan/politics/ldp-likely-to-win-lower-house/ "Ruling camp likely to win Lower House majority: polls")
+[Shizuoka police chief apologizes to Iwao Hakamata after his acquittal](https://www.japantimes.co.jp/news/2024/10/21/japan/crime-legal/hakamata-shizuoka-police-apology/ "Shizuoka police chief apologizes to Iwao Hakamata after his acquittal")
 
 1 hours ago
 
