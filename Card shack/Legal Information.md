@@ -725,6 +725,7 @@ Information
 -----------
 
 * [Home](https://www.cardshack.co.uk/)
+* [Christmas Opening Hours](https://www.cardshack.co.uk/s/Christmas-Opening-Hours)
 * [About](https://www.cardshack.co.uk/s/about)
 * [Contact us](https://www.cardshack.co.uk/s/contact)
 * [Helium Balloons](https://www.cardshack.co.uk/s/Helium-Balloons)
@@ -777,6 +778,8 @@ FRIDAY 10am - 6pm 
 SATURDAY 10am - 6pm
 
 SUNDAY 11am - 5pm
+
+*** [Click here for our Christmas Opening Hours](https://www.cardshack.co.uk/s/Christmas-Opening-Hours)**
 
 #### [Bristol's Multi-Award Winning Greeting Card Shop](https://www.cardshack.co.uk/s/about)
 
