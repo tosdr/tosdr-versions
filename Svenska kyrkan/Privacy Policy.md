@@ -178,8 +178,6 @@ Sök Meny
         
         * [Personliga kriser](https://www.svenskakyrkan.se/kris/personlig-kris)
             
-            * [Tips för dig i kris](https://www.svenskakyrkan.se/kris/tips-for-dig-i-kris)
-                
         * [Tankar om självmord](https://www.svenskakyrkan.se/svenska-kyrkan-vill-ge-dig-hopp-att-leva)
             
         * [Stöd efter sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp)
