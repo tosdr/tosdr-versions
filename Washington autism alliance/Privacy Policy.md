@@ -12,6 +12,8 @@ We appreciate your patience. In the meantime, please refer to our [Resource Dire
 
 [Visit our Facebook](https://www.facebook.com/WashingtonAutismAlliance)[Visit our Twitter](https://twitter.com/Autism_Warrior)[Visit our LinkedIn](https://www.linkedin.com/company/washington-autism-alliance-and-advocacy/mycompany/)[Visit our YouTube channel](https://www.youtube.com/channel/UC-2dbVPpL82miVCPu3kr9mg)
 
+[](http://)
+
 [Login](https://washingtonautismalliance.org/login/)[REGISTER FOR SERVICES](https://washingtonautismalliance.org/register)
 
 [![Washington Autism Alliance logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAEsAQAAAAAdwHxlAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cExAQAAAMKg9U9tCy+gAAAAAAAAAAAAAAAAAAAAAAAA4GdLAAAB9wDA9AAAAABJRU5ErkJggg==)
