@@ -20,16 +20,16 @@ Monday, October 21 2024
 
 Latest
 
+* [The Best New Horror Movies to Stream This Halloween](https://digitpatrox.com/the-best-new-horror-movies-to-stream-this-halloween/)
+* [How to Check Your iPhone’s Battery Health](https://digitpatrox.com/how-to-check-your-iphones-battery-health/)
+* [7 top new TV shows premiering on Netflix, Max and more (Oct. 21-27)](https://digitpatrox.com/7-top-new-tv-shows-premiering-on-netflix-max-and-more-oct-21-27/)
+* [Elon Musk is offering people $1 million to vote](https://digitpatrox.com/elon-musk-is-offering-people-1-million-to-vote/)
+* [Today’s Wordle Answer and Hints (October 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-21-2024/)
 * [How to Grow Tulips and Other Spring Flowers Indoors This Winter](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
 * [Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
 * [How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
 * [NYT Strands today — hints, spangram and answers for game #232 (Monday, October 21 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
 * [Internet Archive breached again through stolen access tokens](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
-* [Michelle Yeoh’s Star Trek spy movie has a release date](https://digitpatrox.com/michelle-yeohs-star-trek-spy-movie-has-a-release-date/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 21](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-21/)
-* [How to Find Your X/Twitter Followers on Bluesky](https://digitpatrox.com/how-to-find-your-x-twitter-followers-on-bluesky/)
-* [Pros and Cons of Induction Cooktops and Ranges](https://digitpatrox.com/pros-and-cons-of-induction-cooktops-and-ranges/)
-* [15 Games Every Horror Fan Should Be Playing This Halloween](https://digitpatrox.com/15-games-every-horror-fan-should-be-playing-this-halloween/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JAFCK60WERD2ZBGQWHJKJSMV/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
+* [![](https://lifehacker.com/imagery/articles/01JAE7T8QGK29VC1YP8T4J3ASQ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-new-horror-movies-to-stream-this-halloween/)
     
-    [How to Grow Tulips and Other Spring Flowers Indoors This Winter](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
+    [The Best New Horror Movies to Stream This Halloween](https://digitpatrox.com/the-best-new-horror-movies-to-stream-this-halloween/)
     
-    20 mins ago
+    5 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729196893/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Infant-Support-Cushions-1024)](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-iphone-with-a-low-battery-alert-and-a-switch-with-low-power-mode-activated.jpg)](https://digitpatrox.com/how-to-check-your-iphones-battery-health/)
     
-    [Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
+    [How to Check Your iPhone’s Battery Health](https://digitpatrox.com/how-to-check-your-iphones-battery-health/)
     
-    51 mins ago
+    39 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-excel-spreadsheet-in-the-background-with-the-excel-logo-in-front.jpg)](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
+* [![](https://cdn.mos.cms.futurecdn.net/5YdNSne8zCr9EPxTxH2jDE-1200-80.jpg)](https://digitpatrox.com/7-top-new-tv-shows-premiering-on-netflix-max-and-more-oct-21-27/)
     
-    [How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
-    
-    54 mins ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
-    
-    [NYT Strands today — hints, spangram and answers for game #232 (Monday, October 21 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
+    [7 top new TV shows premiering on Netflix, Max and more (Oct. 21-27)](https://digitpatrox.com/7-top-new-tv-shows-premiering-on-netflix-max-and-more-oct-21-27/)
     
     2 hours ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/09/internet-archive.jpg)](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
+* [![](https://cdn.vox-cdn.com/thumbor/qhhAPf5iS_vHpweTtvPiRoNc2hg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg)](https://digitpatrox.com/elon-musk-is-offering-people-1-million-to-vote/)
     
-    [Internet Archive breached again through stolen access tokens](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
+    [Elon Musk is offering people $1 million to vote](https://digitpatrox.com/elon-musk-is-offering-people-1-million-to-vote/)
+    
+    3 hours ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-21-2024/)
+    
+    [Today’s Wordle Answer and Hints (October 21, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-21-2024/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [20 mins ago
+* [5 mins ago
     
-    ### How to Grow Tulips and Other Spring Flowers Indoors This Winter](https://digitpatrox.com/how-to-grow-tulips-and-other-spring-flowers-indoors-this-winter/)
-* [51 mins ago
+    ### The Best New Horror Movies to Stream This Halloween](https://digitpatrox.com/the-best-new-horror-movies-to-stream-this-halloween/)
+* [39 mins ago
     
-    ### Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
-* [54 mins ago
+    ### How to Check Your iPhone’s Battery Health](https://digitpatrox.com/how-to-check-your-iphones-battery-health/)
+* [2 hours ago
     
-    ### How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
+    ### 7 top new TV shows premiering on Netflix, Max and more (Oct. 21-27)](https://digitpatrox.com/7-top-new-tv-shows-premiering-on-netflix-max-and-more-oct-21-27/)
 
 Most Popular Topics
 
-* [August 27, 2024
+* [4 days ago
     
-    ### SpaceX’s Polaris Dawn mission: why it matters and how to watch the launch](https://digitpatrox.com/spacexs-polaris-dawn-mission-why-it-matters-and-how-to-watch-the-launch/)
-* [September 4, 2024
+    ### Cutting cloud complexity without losing the rewards via cloud tech consulting](https://digitpatrox.com/cutting-cloud-complexity-without-losing-the-rewards-via-cloud-tech-consulting/)
+* [August 24, 2024
     
-    ### Concord Players Make a Mad Dash for Platinum Before the Game Dies](https://digitpatrox.com/concord-players-make-a-mad-dash-for-platinum-before-the-game-dies/)
-* [4 weeks ago
+    ### Microsoft Teams app now supports both work and personal accounts – Computerworld](https://digitpatrox.com/microsoft-teams-app-now-supports-both-work-and-personal-accounts-computerworld/)
+* [August 29, 2024
     
-    ### How to enable Hibernate on Windows 11](https://digitpatrox.com/how-to-enable-hibernate-on-windows-11/)
+    ### Google AI again lets users generate images of people – Computerworld](https://digitpatrox.com/google-ai-again-lets-users-generate-images-of-people-computerworld/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### NYT Strands Today: Hints, Answers & Spangram for October 21](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-21/)
-* [5 hours ago
-    
-    ### How to Find Your X/Twitter Followers on Bluesky](https://digitpatrox.com/how-to-find-your-x-twitter-followers-on-bluesky/)
 * [6 hours ago
     
-    ### Pros and Cons of Induction Cooktops and Ranges](https://digitpatrox.com/pros-and-cons-of-induction-cooktops-and-ranges/)
+    ### Why Baby Loungers and Support Pillows Are About to Get Safer](https://digitpatrox.com/why-baby-loungers-and-support-pillows-are-about-to-get-safer/)
+* [6 hours ago
+    
+    ### How to Use the SWITCH Function in Excel](https://digitpatrox.com/how-to-use-the-switch-function-in-excel/)
+* [7 hours ago
+    
+    ### NYT Strands today — hints, spangram and answers for game #232 (Monday, October 21 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-232-monday-october-21-2024/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 11, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
