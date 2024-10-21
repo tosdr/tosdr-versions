@@ -124,6 +124,9 @@ That just just about covers it. We value our own privacy online and so we value 
 * [![digital cam privacy](https://bdsmcafe.com/wp-content/uploads/2023/06/digital-cam-privacy-150x150.jpg "Tips for Privacy Protection and Safety in Live Sex Cam Shows")
     
     Tips for Privacy Protection and Safety in Live Sex Cam Shows](https://bdsmcafe.com/tips-for-privacy-protection-and-safety-in-live-sex-cam-shows/)
+* [![handsoff-768×512](https://bdsmcafe.com/wp-content/uploads/2024/10/handsoff-768x512-1-150x150.jpg "Hands Off My Porn: Protecting Privacy and Personal Freedom")
+    
+    Hands Off My Porn: Protecting Privacy and Personal Freedom](https://bdsmcafe.com/hands-off-my-porn-protecting-privacy-and-personal-freedom/)
 
 ### Cool New Sex Toys and Sites We Recommend….
 
