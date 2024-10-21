@@ -392,9 +392,9 @@ Default Title - $48
 
 ADD TO TOTE
 
-[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/Darkspotremover_239x254.webp?v=1729269736)](https://www.100percentpure.com/products/dark-spot-remover)
+[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/files/Darkspotremover_239x254.jpg?v=1729528211)](https://www.100percentpure.com/products/dark-spot-remover)
 
-![ Dark spot remover](//www.100percentpure.com/cdn/shop/files/Darkspotremover_220x.webp?v=1729269736)
+![ Dark Spot Remover](//www.100percentpure.com/cdn/shop/files/Darkspotremover_220x.jpg?v=1729528211)
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
