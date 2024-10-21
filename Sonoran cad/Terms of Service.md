@@ -586,6 +586,12 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-M4pGN81fb4R6zFhodcu)
 
+On this page
+
+Was this helpful?
+
+[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/terms-of-service.md)
+
 Terms of Service
 ================
 
@@ -732,9 +738,3 @@ Contact Us
 [PreviousRocket CAD Closure](https://info.sonorancad.com/other/policy/rocket-cad-closure)[NextPrivacy Policy](https://info.sonorancad.com/other/policy/privacy-policy)
 
 Last updated 4 years ago
-
-On this page
-
-Was this helpful?
-
-[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/terms-of-service.md)
