@@ -26,57 +26,61 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maga-tattoo-1200x630.png)](https://americanwirenews.com/top-heavy-woman-in-thigh-high-boots-who-interrupted-nfl-game-shows-off-maga-face-tattoo/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bongino-rivera-1200x630.jpg)](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
 
-[Top-heavy woman in thigh-high boots, who interrupted NFL game, shows off MAGA face tattoo](https://americanwirenews.com/top-heavy-woman-in-thigh-high-boots-who-interrupted-nfl-game-shows-off-maga-face-tattoo/)
+[Dan Bongino rips Geraldo over Kamala endorsement: ‘She’s a a warrior and a peacemaker’](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djthowie-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-undercut-by-fact-checks-from-fox-news-host-howard-kurtz/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elon-musk-1200x630.jpg)](https://americanwirenews.com/elon-musk-ups-security-says-trump-hating-media-actively-encouraging-his-assassination/)
 
-[Trump undercut by ‘fact-checks’ from Fox News host Howard Kurtz](https://americanwirenews.com/trump-undercut-by-fact-checks-from-fox-news-host-howard-kurtz/)
+[Elon Musk ups security, says Trump-hating media ‘actively encouraging’ his assassination](https://americanwirenews.com/elon-musk-ups-security-says-trump-hating-media-actively-encouraging-his-assassination/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnrye-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-guest-ominously-says-white-people-who-dont-vote-for-kamala-should-be-made-accountable/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-king-charles-iii-lidia-thorpe-split-1200x630.jpg)](https://americanwirenews.com/youre-not-my-king-radical-indigenous-senator-in-australia-accuses-king-charles-of-genocide/)
 
-[CNN guest ominously says white people who don’t vote for Kamala should be made ‘accountable’](https://americanwirenews.com/cnn-guest-ominously-says-white-people-who-dont-vote-for-kamala-should-be-made-accountable/)
+[‘You’re not my king!’ Radical ‘indigenous’ senator in Australia accuses King Charles of ‘genocide’](https://americanwirenews.com/youre-not-my-king-radical-indigenous-senator-in-australia-accuses-king-charles-of-genocide/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ocasiocortez-door-knock-1200x630.jpg)](https://americanwirenews.com/genius-aoc-calls-for-dems-to-interrupt-football-fans-harass-them-to-get-out-and-vote/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-emhoffs-harris-1200x630.jpg)](https://americanwirenews.com/kamalas-in-laws-mark-60th-birthday-with-cringe-worthy-poem/)
 
-[Genius AOC calls for Dems to interrupt football fans, harass them to get out and vote](https://americanwirenews.com/genius-aoc-calls-for-dems-to-interrupt-football-fans-harass-them-to-get-out-and-vote/)
+[Kamala’s in-laws mark 60th birthday with cringe-worthy poem](https://americanwirenews.com/kamalas-in-laws-mark-60th-birthday-with-cringe-worthy-poem/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-harris-1200x630.jpg)](https://americanwirenews.com/kamala-to-snub-joe-hard-during-campaigns-final-stretch-nbc-reports/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-2-1200x630.jpg)](https://americanwirenews.com/jd-vance-talks-trumps-stage-managed-mcdonalds-shift-kamalas-weird-silence-on-work-history/)
 
-[Kamala to snub Joe hard during campaign’s final stretch, NBC reports](https://americanwirenews.com/kamala-to-snub-joe-hard-during-campaigns-final-stretch-nbc-reports/)
+[JD Vance talks Trump’s ‘stage-managed’ McDonalds shift, Kamala’s ‘weird’ silence on work history](https://americanwirenews.com/jd-vance-talks-trumps-stage-managed-mcdonalds-shift-kamalas-weird-silence-on-work-history/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-judd-1200x630.jpg)](https://americanwirenews.com/florida-sheriff-details-eye-opening-benefits-biden-harris-illegal-immigrants-are-granted-in-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dana-white-1-1200x630.jpg)](https://americanwirenews.com/dana-white-exposes-brilliant-narrative-resulting-in-people-trying-to-kill-trump/)
 
-[Florida sheriff details eye-opening benefits Biden-Harris illegal immigrants are granted in US](https://americanwirenews.com/florida-sheriff-details-eye-opening-benefits-biden-harris-illegal-immigrants-are-granted-in-us/)
+[Dana White exposes ‘brilliant’ narrative resulting in people trying to kill Trump](https://americanwirenews.com/dana-white-exposes-brilliant-narrative-resulting-in-people-trying-to-kill-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-60minutes-1200x630.jpg)](https://americanwirenews.com/trump-teases-legal-move-over-sketchy-60-minutes-kamala-interview-cbs-hits-back/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-newsom-1200x630.jpg)](https://americanwirenews.com/gop-lawmakers-warn-calif-regulators-set-to-attack-prosperity-with-gas-price-hike-after-election/)
 
-[Trump teases legal move over sketchy ’60 Minutes’ Kamala interview – CBS hits back](https://americanwirenews.com/trump-teases-legal-move-over-sketchy-60-minutes-kamala-interview-cbs-hits-back/)
+[GOP lawmakers warn Calif. regulators set to attack prosperity with gas price hike after election](https://americanwirenews.com/gop-lawmakers-warn-calif-regulators-set-to-attack-prosperity-with-gas-price-hike-after-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-raddatz-governors-1200x630.jpg)](https://americanwirenews.com/what-happened-abcs-martha-raddatz-hammers-dem-governors-to-explain-blue-wall-crumbling/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-reeve-1200x630.jpg)](https://americanwirenews.com/losing-coach-of-wnba-finals-blames-referees-this-sht-was-stolen-from-us/)
 
-[‘What happened?’ ABC’s Martha Raddatz hammers Dem governors to explain ‘blue wall’ crumbling](https://americanwirenews.com/what-happened-abcs-martha-raddatz-hammers-dem-governors-to-explain-blue-wall-crumbling/)
+[Losing coach of WNBA Finals blames referees: ‘This sh\*t was stolen from us!’](https://americanwirenews.com/losing-coach-of-wnba-finals-blames-referees-this-sht-was-stolen-from-us/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-shifty1-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jeffrey-marsh-1200x630.jpg)
 
-### Trump not backing down, clarifies that Shifty Schiff, Nancy Pelosi are the ‘enemy within’](https://americanwirenews.com/trump-not-backing-down-clarifies-that-shifty-schiff-nancy-pelosi-are-the-enemy-within/)
+### Don Jr proposes hysterical president of ‘White Dudes for Harris’](https://americanwirenews.com/don-jr-proposes-hysterical-president-of-white-dudes-for-harris/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Trump teams up with WWE legends to body slam Kamala: ‘Choose wisely, the nation depends on it’](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
+### [Kamala mocks rallygoer singing out for Jesus: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/dem-nominee-mocks-rallygoer-singing-out-for-jesus-oh-you-guys-are-at-the-wrong-rally/)
 
-### [Authorities say group of 134 illegals, including Iranians, apprehended in Texas](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+### [Lizzo agrees with Trump in bizarre sales pitch, says Kamala will make all of America like Detroit](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
 
-### [Chris Wallace asks ‘Mr. Wonderful’ if he’s ‘really that much of an a\*\*hole’](https://americanwirenews.com/chris-wallace-asks-mr-wonderful-if-hes-really-that-much-of-an-ahole/)
+### [Fetterman fretting again over Elon Musk, likens him to Marvel Comics hero](https://americanwirenews.com/fetterman-sounding-alarm-about-elon-musk-again-likens-him-to-marvel-comics-hero/)
 
-### [Trump mocks Kamala for pushing ‘exhausted’ lie: ‘Doesn’t have the energy of a rabbit’](https://americanwirenews.com/trump-mocks-kamala-for-pushing-exhausted-lie-doesnt-have-the-energy-of-a-rabbit/)
+### [Trump unloads on Mark Cuban, calls him a ‘total loser’ with a lousy golf game](https://americanwirenews.com/trump-unloads-on-mark-cuban-calls-him-a-total-loser-with-a-lousy-golf-game/)
 
-### [Kamala rolls out the heavy hitters, Lizzo campaigns for veep in Detroit](https://americanwirenews.com/kamala-rolls-out-the-heavy-hitters-lizzo-campaigns-for-veep-in-detroit/)
+### [Trump channels Reagan in PA, gets custom hard hat AND backing of steelworkers](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
 
-### [CNN analyst: ‘I cannot find one Arab-American within my social circle’ who will vote Harris](https://americanwirenews.com/cnn-analyst-i-cannot-find-one-arab-american-within-my-social-circle-who-will-vote-harris/)
+### [Liz Cheney to join Kamala in late appeal to gullible suburban swing voters](https://americanwirenews.com/liz-cheney-to-join-kamala-in-late-appeal-to-gullible-suburban-swing-voters/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-norwegian-flag-220x180.jpg)](https://americanwirenews.com/norway-attempt-to-tax-the-rich-results-in-yearly-tax-revenue-loss/)
+
+[Norway attempt to ‘tax the rich’ results in yearly tax revenue loss](https://americanwirenews.com/norway-attempt-to-tax-the-rich-results-in-yearly-tax-revenue-loss/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-golan-220x180.jpg)](https://americanwirenews.com/nova-festival-survivor-22-marks-her-birthday-by-committing-suicide-could-not-escape-oct-7-ptsd-nightmare/)
 
@@ -99,6 +103,42 @@ Image via Instagram
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-ad-220x180.png)](https://americanwirenews.com/pathetic-new-kamala-ad-shames-black-men-that-they-wont-get-women-if-they-dont-vote-the-right-way/)
 
 [Pathetic new Kamala ad shames black men that they won’t get women if they don’t vote the right way](https://americanwirenews.com/pathetic-new-kamala-ad-shames-black-men-that-they-wont-get-women-if-they-dont-vote-the-right-way/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-raddatz-governors-220x180.jpg)](https://americanwirenews.com/what-happened-abcs-martha-raddatz-hammers-dem-governors-to-explain-blue-wall-crumbling/)
+
+[‘What happened?’ ABC’s Martha Raddatz hammers Dem governors to explain ‘blue wall’ crumbling](https://americanwirenews.com/what-happened-abcs-martha-raddatz-hammers-dem-governors-to-explain-blue-wall-crumbling/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-60minutes-220x180.jpg)](https://americanwirenews.com/trump-teases-legal-move-over-sketchy-60-minutes-kamala-interview-cbs-hits-back/)
+
+[Trump teases legal move over sketchy ’60 Minutes’ Kamala interview – CBS hits back](https://americanwirenews.com/trump-teases-legal-move-over-sketchy-60-minutes-kamala-interview-cbs-hits-back/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-judd-220x180.jpg)](https://americanwirenews.com/florida-sheriff-details-eye-opening-benefits-biden-harris-illegal-immigrants-are-granted-in-us/)
+
+[Florida sheriff details eye-opening benefits Biden-Harris illegal immigrants are granted in US](https://americanwirenews.com/florida-sheriff-details-eye-opening-benefits-biden-harris-illegal-immigrants-are-granted-in-us/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-harris-220x180.jpg)](https://americanwirenews.com/kamala-to-snub-joe-hard-during-campaigns-final-stretch-nbc-reports/)
+
+[Kamala to snub Joe hard during campaign’s final stretch, NBC reports](https://americanwirenews.com/kamala-to-snub-joe-hard-during-campaigns-final-stretch-nbc-reports/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ocasiocortez-door-knock-220x180.jpg)](https://americanwirenews.com/genius-aoc-calls-for-dems-to-interrupt-football-fans-harass-them-to-get-out-and-vote/)
+
+[Genius AOC calls for Dems to interrupt football fans, harass them to get out and vote](https://americanwirenews.com/genius-aoc-calls-for-dems-to-interrupt-football-fans-harass-them-to-get-out-and-vote/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnrye-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-guest-ominously-says-white-people-who-dont-vote-for-kamala-should-be-made-accountable/)
+
+[CNN guest ominously says white people who don’t vote for Kamala should be made ‘accountable’](https://americanwirenews.com/cnn-guest-ominously-says-white-people-who-dont-vote-for-kamala-should-be-made-accountable/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djthowie-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-undercut-by-fact-checks-from-fox-news-host-howard-kurtz/)
+
+[Trump undercut by ‘fact-checks’ from Fox News host Howard Kurtz](https://americanwirenews.com/trump-undercut-by-fact-checks-from-fox-news-host-howard-kurtz/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maga-tattoo-220x180.png)](https://americanwirenews.com/top-heavy-woman-in-thigh-high-boots-who-interrupted-nfl-game-shows-off-maga-face-tattoo/)
+
+[Top-heavy woman in thigh-high boots, who interrupted NFL game, shows off MAGA face tattoo](https://americanwirenews.com/top-heavy-woman-in-thigh-high-boots-who-interrupted-nfl-game-shows-off-maga-face-tattoo/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-shifty1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-not-backing-down-clarifies-that-shifty-schiff-nancy-pelosi-are-the-enemy-within/)
+
+[Trump not backing down, clarifies that Shifty Schiff, Nancy Pelosi are the ‘enemy within’](https://americanwirenews.com/trump-not-backing-down-clarifies-that-shifty-schiff-nancy-pelosi-are-the-enemy-within/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-commanders-220x180.jpg)](https://americanwirenews.com/nfl-team-nixes-restoration-of-redskins-nickname-not-something-were-able-to-do/)
 
@@ -137,46 +177,6 @@ Image via Instagram
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-dreher-220x180.jpg)](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
 
 [Elon Musk gifting $1M per day to lucky battleground state voters who signs petition](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalalacrosse-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-nominee-mocks-rallygoer-singing-out-for-jesus-oh-you-guys-are-at-the-wrong-rally/)
-
-[Kamala mocks rallygoer singing out for Jesus: ‘Oh, you guys are at the wrong rally’](https://americanwirenews.com/dem-nominee-mocks-rallygoer-singing-out-for-jesus-oh-you-guys-are-at-the-wrong-rally/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam-lizzo-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
-
-[Lizzo agrees with Trump in bizarre sales pitch, says Kamala will make all of America like Detroit](https://americanwirenews.com/lizzo-agrees-with-trump-in-bizarre-sales-pitch-says-kamala-will-make-all-of-america-like-detroit/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-musk-ironman2-220x180.jpg)](https://americanwirenews.com/fetterman-sounding-alarm-about-elon-musk-again-likens-him-to-marvel-comics-hero/)
-
-[Fetterman fretting again over Elon Musk, likens him to Marvel Comics hero](https://americanwirenews.com/fetterman-sounding-alarm-about-elon-musk-again-likens-him-to-marvel-comics-hero/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-cuban-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-unloads-on-mark-cuban-calls-him-a-total-loser-with-a-lousy-golf-game/)
-
-[Trump unloads on Mark Cuban, calls him a ‘total loser’ with a lousy golf game](https://americanwirenews.com/trump-unloads-on-mark-cuban-calls-him-a-total-loser-with-a-lousy-golf-game/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-steel-220x180.jpg)](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
-
-[Trump channels Reagan in PA, gets custom hard hat AND backing of steelworkers](https://americanwirenews.com/trump-channels-reagan-in-pa-gets-custom-hard-hat-and-backing-of-steelworkers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-liz-kamala-1-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/liz-cheney-to-join-kamala-in-late-appeal-to-gullible-suburban-swing-voters/)
-
-[Liz Cheney to join Kamala in late appeal to gullible suburban swing voters](https://americanwirenews.com/liz-cheney-to-join-kamala-in-late-appeal-to-gullible-suburban-swing-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-muir-and-trump-220x180.jpg)](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
-
-[‘Yet again, Trump was right’: ABC’s crime ‘fact-check’ aged like hot milk](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tyrus-220x180.jpg)](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
-
-[‘Gutfeld!’ regular interviews Trump, apologizes right off the bat: ‘I’ve been very critical about you…’](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cbp-log-moving-220x180.jpg)](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
-
-[Govt. agencies ROASTED for pathetic hurricane cleanup video: ’14 people to move a 12 lb log 30 feet’](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-maher-220x180.jpg)](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
-
-[Maher, Scarborough cry over TDS: ‘It’s not deranged to fear this!’](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -268,31 +268,29 @@ Photo by Theo Wargo/Getty Images](https://americanwirenews.com/victoria-needs-a-
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dave-ramsey-1200x630.jpg)](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-muir-and-trump-1200x630.jpg)](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
 
-[Dave Ramsey laughs at threats to ‘cancel’ him over Trump vote: ‘That’s hard to do’](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+[‘Yet again, Trump was right’: ABC’s crime ‘fact-check’ aged like hot milk](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dave-ramsey-220x180.jpg)](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-muir-and-trump-220x180.jpg)](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
 
-[Dave Ramsey laughs at threats to ‘cancel’ him over Trump vote: ‘That’s hard to do’](https://americanwirenews.com/dave-ramsey-laughs-at-threats-to-cancel-him-over-trump-vote-thats-hard-to-do/)
+[‘Yet again, Trump was right’: ABC’s crime ‘fact-check’ aged like hot milk](https://americanwirenews.com/yet-again-trump-was-right-abcs-crime-fact-check-aged-like-hot-milk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-speaking-with-dan-bongino-220x180.jpg)](https://americanwirenews.com/trump-slams-j6-judge-over-doc-dump-weeks-before-election-day/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tyrus-220x180.jpg)](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
 
-[Trump slams J6 judge over doc dump weeks before Election Day](https://americanwirenews.com/trump-slams-j6-judge-over-doc-dump-weeks-before-election-day/)
+[‘Gutfeld!’ regular interviews Trump, apologizes right off the bat: ‘I’ve been very critical about you…’](https://americanwirenews.com/gutfeld-regular-interviews-trump-apologizes-right-off-the-bat-ive-been-very-critical-about-you/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-harris-border-220x180.jpg)](https://americanwirenews.com/ballooning-immigration-under-biden-harris-admin-a-problem-for-healthcare-providers-study/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cbp-log-moving-220x180.jpg)](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
 
-[Ballooning immigration under Biden-Harris admin a problem for healthcare providers: Study
+[Govt. agencies ROASTED for pathetic hurricane cleanup video: ’14 people to move a 12 lb log 30 feet’](https://americanwirenews.com/govt-agencies-roasted-for-pathetic-hurricane-cleanup-video-14-people-to-move-a-12-lb-log-30-feet/)
 
-(Official White House Photo by Lawrence Jackson)](https://americanwirenews.com/ballooning-immigration-under-biden-harris-admin-a-problem-for-healthcare-providers-study/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-maher-220x180.jpg)](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-michigan-220x180.jpg)](https://americanwirenews.com/trump-has-savage-reaction-to-death-of-hamas-leader-thats-sometimes-what-happens/)
+[Maher, Scarborough cry over TDS: ‘It’s not deranged to fear this!’](https://americanwirenews.com/maher-scarborough-cry-over-tds-its-not-deranged-to-fear-this/)
 
-[Trump has savage reaction to death of Hamas leader: ‘That’s sometimes what happens’](https://americanwirenews.com/trump-has-savage-reaction-to-death-of-hamas-leader-thats-sometimes-what-happens/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djttiktox-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nikki-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-reacts-to-pressure-to-deploy-nikki-haley-on-the-campaign-trail/)
-
-[Trump reacts to pressure to deploy Nikki Haley on the campaign trail](https://americanwirenews.com/trump-reacts-to-pressure-to-deploy-nikki-haley-on-the-campaign-trail/)
+[Trump teams up with WWE legends to body slam Kamala: ‘Choose wisely, the nation depends on it’](https://americanwirenews.com/trump-teams-up-with-wwe-legends-to-body-slam-kamala-choose-wisely-the-nation-depends-on-it/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -322,9 +320,13 @@ Photo by Theo Wargo/Getty Images](https://americanwirenews.com/victoria-needs-a-
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-paxton-1200x630.jpg)](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-criminal-aliens-in-texas-1200x630.jpg)](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
 
-[Texas sues doctor for gender transition treatments on minors, in violation of state law](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
+[Authorities say group of 134 illegals, including Iranians, apprehended in Texas](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-criminal-aliens-in-texas-220x180.jpg)](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
+
+[Authorities say group of 134 illegals, including Iranians, apprehended in Texas](https://americanwirenews.com/authorities-say-group-of-134-illegals-including-iranians-apprehended-in-texas/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-paxton-220x180.jpg)](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
 
@@ -341,9 +343,5 @@ Photo by Theo Wargo/Getty Images](https://americanwirenews.com/victoria-needs-a-
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-tren-de-aragua-220x180.jpg)](https://americanwirenews.com/violent-venezuelan-gang-empowered-and-spreading-in-u-s-20-members-walk-after-nyc-crime-spree/)
 
 [Violent Venezuelan gang ‘empowered’ and spreading in U.S.; 20 members WALK after NYC crime spree](https://americanwirenews.com/violent-venezuelan-gang-empowered-and-spreading-in-u-s-20-members-walk-after-nyc-crime-spree/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dave-price-logansport-220x180.jpg)](https://americanwirenews.com/we-need-some-help-here-indiana-town-reportedly-strained-with-massive-migrant-influx/)
-
-[‘We need some help here’: Indiana town reportedly strained with massive ‘migrant’ influx](https://americanwirenews.com/we-need-some-help-here-indiana-town-reportedly-strained-with-massive-migrant-influx/)
 
 © 2024. All Rights Reserved. American Wire News
