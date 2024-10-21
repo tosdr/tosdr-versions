@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-20 Oct 2024
+21 Oct 2024
 
 * [Home
     
@@ -298,22 +298,6 @@ Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpres
 [Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
-
-Action from the game at the Brandywell. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Injury time drama at the Brandywell as 'Stute defeat Ballinamallard](https://www.derrynow.com/news/derry-sport/1634812/injury-time-drama-at-the-brandywell-as-stute-defeat-ballinamallard.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paul Quinn’s mother appeals for justice on 17th anniversary of murder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Quinn’s mother appeals for justice on 17th anniversary of murder")](https://www.derrynow.com/news/northern-ireland/1634834/paul-quinns-mother-appeals-for-justice-on-17th-anniversary-of-murder.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Paul Quinn’s mother appeals for justice on 17th anniversary of murder](https://www.derrynow.com/news/northern-ireland/1634834/paul-quinns-mother-appeals-for-justice-on-17th-anniversary-of-murder.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Friends embrace Derry’s legendary Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
 
 Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
@@ -340,6 +324,20 @@ Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic 
 
 [Ballinascreen hold off Lavey fightback to lift Junior title](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tens of thousands remain without power after Storm Ashley hits island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tens of thousands remain without power after Storm Ashley hits island of Ireland")](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Weather warnings in place as Storm Ashley hits](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Weather warnings in place as Storm Ashley hits")](https://www.derrynow.com/news/northern-ireland/1634863/weather-warnings-in-place-as-storm-ashley-hits.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Weather warnings in place as Storm Ashley hits](https://www.derrynow.com/news/northern-ireland/1634863/weather-warnings-in-place-as-storm-ashley-hits.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +517,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Sadness as popular Limavady cafe set to close its doors for good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as popular Limavady cafe set to close its doors for good")](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
+
+Habit will close its doors for good on November 2.
+
+[Home](https://www.derrynow.com/)
+
+[Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![MacD on Music: Everyday I’m Shuffling](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Everyday I’m Shuffling")](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
@@ -526,7 +533,7 @@ Advertise with Us
 [MacD on Music: Everyday I’m Shuffling](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
 ---------------------------------------------------------------------------------------------------------------------------------
 
-[![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
+[![Swatragh](https://www.derrynow.com/resizer/165/93/true/2024_10_20/GAA_Intermediate_Championship_final_Kevin_Lynch_v_Swatragh__11-1729439057943.jpg--.jpg?1729439058391 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
 
 Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpresspics
 
@@ -559,13 +566,6 @@ Derry-born Methodist minister, Rev. Harold Good
 
 [Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_19/1729355724540_0.jpg--.jpg?1729355724716 "Man (56) arrested in Eglinton having failed a roadside drug test")](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
