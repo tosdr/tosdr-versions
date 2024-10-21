@@ -302,7 +302,6 @@ Travel and holidays
     * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
 * [Travel guides](https://restless.co.uk/travel/travel-guides/)
 * [Competitions](https://restless.co.uk/travel/travel-competitions/)
-* [Hotel reviews](https://travel.restless.co.uk/collection/hotel-only)
 
 Menu
 
@@ -381,7 +380,6 @@ Menu
     * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
 * [Travel guides](https://restless.co.uk/travel/travel-guides/)
 * [Competitions](https://restless.co.uk/travel/travel-competitions/)
-* [Hotel reviews](https://travel.restless.co.uk/collection/hotel-only)
 
 [Search holiday deals](https://restless.co.uk/travel/find-holiday-deals/)
 
