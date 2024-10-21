@@ -758,7 +758,7 @@ contents15
 
 [Sub-Processors](https://www.glui.io/sub-processors)
 
-![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
+![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_90,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)
 
 Solutions
 =========
@@ -811,8 +811,8 @@ Resources
 
 ![PMA-22-Winner-Badge.png](https://static.wixstatic.com/media/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png/v1/fill/w_75,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png)
 
-![AWARDS-BADGES_Digital-Advertising.png](https://static.wixstatic.com/media/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png/v1/fill/w_156,h_53,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png)
-
 ![sl-logo black.png](https://static.wixstatic.com/media/8dd289_2c364abb511245809e5a7c92fd277a4b~mv2.png/v1/fill/w_69,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_2c364abb511245809e5a7c92fd277a4b~mv2.png)
+
+![AWARDS-BADGES_Digital-Advertising.png](https://static.wixstatic.com/media/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png/v1/fill/w_156,h_53,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_01005ba7147943fabd819ce00a929e6c~mv2.png)
 
 bottom of page
