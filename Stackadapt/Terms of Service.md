@@ -37,13 +37,13 @@
         G2 Ratings](https://www.stackadapt.com/best-demand-side-platform-dsp)
     * [Case Studies
         
-        Customer Like You](https://www.stackadapt.com/case-studies)
+        Customers Like You](https://www.stackadapt.com/case-studies)
     * [Company and Contact us
         
         Life At StackAdapt](https://www.stackadapt.com/company)
     * [News
         
-        In The Media](https://www.stackadapt.com/news)
+        In the Media](https://www.stackadapt.com/news)
 * [Careers](https://www.stackadapt.com/careers)
 * [Resources](#)
     * [Academy
