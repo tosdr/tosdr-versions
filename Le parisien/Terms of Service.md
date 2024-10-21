@@ -12,11 +12,11 @@ S'abonner
 Défiler les accès rapides vers la gauche
 
 * [À la une](https://www.leparisien.fr/)
+* [Présidentielle US](https://www.leparisien.fr/international/etats-unis/)
 * [En continu](https://www.leparisien.fr/actualites-en-continu/)
 * Paris & Île-de-France
 * [Faits divers](https://www.leparisien.fr/faits-divers/)
 * [Politique](https://www.leparisien.fr/politique/)
-* [International](https://www.leparisien.fr/international/)
 * [Économie](https://www.leparisien.fr/economie/)
 * [Société](https://www.leparisien.fr/societe/)
 * [Sports](https://www.leparisien.fr/sports/)
@@ -826,9 +826,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=745)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=746)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=745)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=746)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
