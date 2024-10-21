@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Maceió ganha novas áreas de espera em semáforos para motociclistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_semaforo_motociclistas_ascom_dmtt_41c9659a9c.jpeg)
+   [![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_cb297ab093.png)
+
+está internado
+
+Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")   [![Faculdade na Jatiúca oferta serviços gratuitos e casamento coletivo nesta terça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/0/csm_casamento_coletivo_eea2b1f27c.jpeg)
+
+veja serviços
+
+Faculdade na Jatiúca oferta serviços gratuitos e casamento coletivo nesta terça](https://www.tnh1.com.br/noticia/nid/faculdade-na-jatiuca-oferta-servicos-gratuitos-e-casamento-coletivo-nesta-terca/ "Faculdade na Jatiúca oferta serviços gratuitos e casamento coletivo nesta terça")   [![Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_suspeitos-arrastoes-praca-skate_dea9ced7aa.jpg)
+
+oito menores
+
+Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://www.tnh1.com.br/noticia/nid/dez-pessoas-sao-detidas-por-arrastao-na-praca-do-skate-e-roubos-na-orla-de-ponta-verde/ "Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde")   [![Homem morre e outro fica ferido após serem atingidos por tiros enquanto conversavam em rua](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_vitima-atentado-tiros-tabuleiro_5d856fb28b.jpg)
+
+Na parte alta
+
+Homem morre e outro fica ferido após serem atingidos por tiros enquanto conversavam em rua](https://www.tnh1.com.br/noticia/nid/homem-morre-e-outro-fica-ferido-apos-serem-atingidos-por-tiros-enquanto-conversavam-em-rua/ "Homem morre e outro fica ferido após serem atingidos por tiros enquanto conversavam em rua")   [![Maceió ganha novas áreas de espera em semáforos para motociclistas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/1/csm_semaforo_motociclistas_ascom_dmtt_41c9659a9c.jpeg)
 
 Motobox
 
-Maceió ganha novas áreas de espera em semáforos para motociclistas](https://www.tnh1.com.br/noticia/nid/maceio-ganha-novas-areas-de-espera-em-semaforos-para-motociclistas/ "Maceió ganha novas áreas de espera em semáforos para motociclistas")   [![Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/9/csm_capa-pajugamer_d288ae4f79.jpg)
+Maceió ganha novas áreas de espera em semáforos para motociclistas](https://www.tnh1.com.br/noticia/nid/maceio-ganha-novas-areas-de-espera-em-semaforos-para-motociclistas/ "Maceió ganha novas áreas de espera em semáforos para motociclistas")   [![Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_capa-pajugamer_d288ae4f79.jpg)
 
 Maceió
 
-Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-2024-confira-o-que-vai-rolar-neste-sabado-no-maceio-shopping/ "Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping")   [![Câmera flagra criminosos furtando moto guardada em estacionamento ](https://tnh1-cdn3.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/18/furto_motocicleta.png)
-
-Polícia
-
-Câmera flagra criminosos furtando moto guardada em estacionamento](https://www.tnh1.com.br/noticia/nid/camera-flagra-criminosos-furtando-moto-guardada-em-estacionamento/ "Câmera flagra criminosos furtando moto guardada em estacionamento ")    [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
-
-Veja programação
-
-3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
-
-Maceió
-
-Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
-
-barro duro
-
-Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")
+Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-2024-confira-o-que-vai-rolar-neste-sabado-no-maceio-shopping/ "Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/d/csm_com-apoio-do-governo-de-alagoas-praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf_5ad91ee449.jpg)
+   [![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_095402c392.jpg)
+
+Educação
+
+Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://www.tnh1.com.br/noticia/nid/alagoas-vai-discutir-educacao-no-sistema-prisional-em-encontro-nacional-no-ceara/ "Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará")   [![Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/4/csm_transito_celular_-_foto_fellipe_yuri_ascom_detran_d040c0a8ab.jpg)
+
+Em Alagoas
+
+Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano](https://www.tnh1.com.br/noticia/nid/detran-registra-mais-de-94-mil-infracoes-relacionadas-ao-uso-de-telefone-celular-este-ano/ "Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano")   [![Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/d/csm_com-apoio-do-governo-de-alagoas-praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf_5ad91ee449.jpg)
 
 Alagoas
 
-Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www.tnh1.com.br/noticia/nid/praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf/ "Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf")   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
+Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www.tnh1.com.br/noticia/nid/praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf/ "Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf")   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
 
 quase 10 mil imagens
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
 
 EM MACEIÓ
 
-Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
+Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
 
 Alagoas
 
-Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")   [!["É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/3/csm_casal_josimar_e_taciana_feminicidio_sp_37c2ccc375.jpg)
-
-Taciana Maria
-
-"É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://www.tnh1.com.br/noticia/nid/e-um-monstro-irma-de-alagoana-morta-por-companheiro-em-sp-revela-ultimo-contato-com-vitima/ ""É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
-
-Operação Landinos
-
-Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")
+Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organi
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem é preso por desacato após arremessar cadeira em policiais no Benedito Bentes ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/c/csm_csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_8918dc42e2_75465e892b.jpeg)
+   [![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_cb297ab093.png)
+
+está internado
+
+Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")   [![Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_cavalo-maltratado-reproducao_050838da44.jpg)
+
+somente em 2024
+
+Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://www.tnh1.com.br/noticia/nid/maceio-registra-quase-200-casos-de-maus-tratos-a-animais-em-2024/ "Maceió registra quase 200 casos de maus-tratos a animais em 2024")   [![Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/6/csm_mulher-presa-matar-ex-padrasto_7afd2af19f.jpg)
+
+Golpe na cabeça
+
+Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-suspeita-de-matar-ex-padrasto-com-facao-apos-ela-e-mae-serem-ameacadas/ "Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas")   [![Polícia divulga imagens para identificar assassinos de jovem em Santa Luzia do Norte](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_assassinos_santa_luzia__1__0d197ddc93.jpeg)
 
 Polícia
 
-Homem é preso por desacato após arremessar cadeira em policiais no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-desacato-apos-arremessar-cadeira-em-policiais-no-benedito-bentes/ "Homem é preso por desacato após arremessar cadeira em policiais no Benedito Bentes ")   [![Dono de ferro velho é preso por receptação após comprar ar-condicionado furtado de ONG](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/7/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_91b3ef2eb8.jpg)
+Polícia divulga imagens para identificar assassinos de jovem em Santa Luzia do Norte](https://www.tnh1.com.br/noticia/nid/policia-divulga-imagens-para-identificar-assassinos-de-jovem-em-santa-luzia-do-norte/ "Polícia divulga imagens para identificar assassinos de jovem em Santa Luzia do Norte")   [![Suspeito de tráfico de drogas é preso após correr de policiais e jogar bolsa em terreno](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_apreensao_arapiraca_-_foto_pm_22619e12c0.jpeg)
 
-NA PONTA GROSSA
+Arapiraca
 
-Dono de ferro velho é preso por receptação após comprar ar-condicionado furtado de ONG](https://www.tnh1.com.br/noticia/nid/dono-de-ferro-velho-e-preso-por-receptacao-apos-comprar-ar-condicionado-furtado-de-ong/ "Dono de ferro velho é preso por receptação após comprar ar-condicionado furtado de ONG")   [![Polícia Científica revela novos indícios em caso de vigilante morto por amante em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/e/csm_policia-cientifica-revela-novos-indicios-em-caso-de-vigilante-morto-em-rio-largo_5953e15112.jpeg)
+Suspeito de tráfico de drogas é preso após correr de policiais e jogar bolsa em terreno](https://www.tnh1.com.br/noticia/nid/suspeito-de-trafico-de-drogas-e-preso-apos-correr-de-policiais-e-jogar-bolsa-em-terreno/ "Suspeito de tráfico de drogas é preso após correr de policiais e jogar bolsa em terreno")   [![Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_suspeitos-arrastoes-praca-skate_dea9ced7aa.jpg)
 
-49 anos
+oito menores
 
-Polícia Científica revela novos indícios em caso de vigilante morto por amante em Rio Largo](https://www.tnh1.com.br/noticia/nid/policia-cientifica-revela-novos-indicios-em-caso-de-vigilante-morto-por-amante-em-rio-largo/ "Polícia Científica revela novos indícios em caso de vigilante morto por amante em Rio Largo")   [![Briga entre mulheres em feira livre termina com uma delas morta a facadas, em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_Central_de_Delegacia_de_Arapiraca_aafd068a7a.jpg)
-
-No Agreste
-
-Briga entre mulheres em feira livre termina com uma delas morta a facadas, em Arapiraca](https://www.tnh1.com.br/noticia/nid/briga-entre-mulheres-em-feira-livre-termina-com-uma-delas-morta-a-facadas-em-arapiraca/ "Briga entre mulheres em feira livre termina com uma delas morta a facadas, em Arapiraca")   [![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
-
-Na Levada
-
-Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")   [![Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/d/csm_viatura_f507565c1e.jpeg)
-
-Polícia
-
-Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prende-homem-acusado-de-estuprar-enteada-de-13-anos-em-pilar/ "Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar")
+Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://www.tnh1.com.br/noticia/nid/dez-pessoas-sao-detidas-por-arrastao-na-praca-do-skate-e-roubos-na-orla-de-ponta-verde/ "Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -222,49 +222,49 @@ Mercado de Trabalho
 
 Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos
 
-Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")[![Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/d/csm_lula-sofre-acidente-domestico-em-casa-reproducao-agencia-brasil_c9aad2d860.jpg)
+Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")[![Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_abordagem_da_pm_jacintinho_c4501b0d87.jpg)
 
-foi socorrido
+Grota do Cigano
 
-foi socorrido
+Grota do Cigano
 
-Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem
+Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência
 
-Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem](https://www.tnh1.com.br/noticia/nid/lula-sofre-acidente-em-casa-tem-ferimento-na-nuca-e-cancela-viagem/ "Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem")
+Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://www.tnh1.com.br/noticia/nid/videos-abordagem-da-pm-termina-em-confusao-e-protesto-em-maceio-comunidade-reclama-de-truculencia/ "Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência")
 
-[![Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/c/csm_lauana-prado-reproducao-X_daffc45ad6.png)
+[![Veja programação completa da 21ª Mostra Alagoana de Dança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_governo-de-alagoas-divulga-programacao-oficial-da-21-mostra-alagoana-de-danca_a5435e7547.jpg)
 
-Gente Famosa
+Cultura
 
-Gente Famosa
+Cultura
 
-Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade
+Veja programação completa da 21ª Mostra Alagoana de Dança
 
-Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://www.tnh1.com.br/noticia/nid/video-lauana-prado-e-prefeito-de-abadiania-go-brigam-durante-festa-da-cidade/ "Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade")[![Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_liam-payne-ultima-foto-reproducao-redes-sociais_cc72f933ed.jpg)
+Veja programação completa da 21ª Mostra Alagoana de Dança](https://www.tnh1.com.br/noticia/nid/veja-programacao-completa-da-21a-mostra-alagoana-de-danca/ "Veja programação completa da 21ª Mostra Alagoana de Dança")[![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_04e0afe0ce.jpg)
 
-Tráfico de drogas
+Educação
 
-Tráfico de drogas
+Educação
 
-Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista
+Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará
 
-Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://www.tnh1.com.br/noticia/nid/funcionario-do-hotel-pode-ser-indiciado-por-morte-de-liam-payne-revela-revista/ "Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista")[![Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_csm_elon-musk_c6aaf0d653__1__aab8e5b9ed.jpg)
+Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://www.tnh1.com.br/noticia/nid/alagoas-vai-discutir-educacao-no-sistema-prisional-em-encontro-nacional-no-ceara/ "Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará")[![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_fd798a520c.png)
 
-ASSINATURA ONLINE
+está internado
 
-ASSINATURA ONLINE
+está internado
 
-Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump
+Homem pula do 4º andar para tentar escapar da polícia em Maceió
 
-Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://www.tnh1.com.br/noticia/nid/elon-musk-promete-sortear-us-1-milhao-por-dia-a-assinantes-de-peticao-pro-trump/ "Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump")[![Maya Massafera diz que está ficando com jogador do Flamengo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_maya-massafera-reproducao-redes-sociais_17d77bc391.png)
+Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")[![Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_cavalo-maltratado-reproducao_5a1093f2c2.jpg)
 
-Novo affair
+somente em 2024
 
-Novo affair
+somente em 2024
 
-Maya Massafera diz que está ficando com jogador do Flamengo
+Maceió registra quase 200 casos de maus-tratos a animais em 2024
 
-Maya Massafera diz que está ficando com jogador do Flamengo](https://www.tnh1.com.br/noticia/nid/maya-massafera-diz-que-esta-ficando-com-jogador-do-flamengo/ "Maya Massafera diz que está ficando com jogador do Flamengo ")
+Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://www.tnh1.com.br/noticia/nid/maceio-registra-quase-200-casos-de-maus-tratos-a-animais-em-2024/ "Maceió registra quase 200 casos de maus-tratos a animais em 2024")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
