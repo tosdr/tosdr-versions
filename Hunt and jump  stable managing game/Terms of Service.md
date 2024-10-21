@@ -143,6 +143,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/21/2024 5:28 AM EST
+
+### Cloning of deceased horses can now be done using golden tokens
+
 10/18/2024 3:47 AM EST
 
 You can now purchase the exact herd helper you are looking for with golden tokens!
@@ -236,11 +240,6 @@ Monster GMT lab sale now on
 ![](https://www.huntandjump.com/images/grsExamples/HMGA2.png)  
 **Phantom Will-O-Wisp**  
 ![](https://www.huntandjump.com/images/grsExamples/phnwisp.png)
-
-9/23/2024 11:46 AM EST
-
-HuntAndJump now has an official Discord server! We are soft-launching our new discord chat. Registrations are welcome as we sort everything out.  
-[JOIN OUR SERVER](https://discord.gg/qjyheUzkcx)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
