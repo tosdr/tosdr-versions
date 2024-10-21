@@ -8,10 +8,10 @@
 
 *  
     
-* [Ted Cruz](https://www.motherjones.com/politics/2024/10/texas-democrats-are-trying-the-throw-ted-cruz-in-a-locker-strategy/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/10/kamala-harris-donald-trump-racism-misogyny-our-land/)
-* [Trump’s Mass Deportation Plan](https://www.motherjones.com/politics/2024/10/donald-trump-mass-deportations-us-food-supply-problems-immigrant-labor/)
-* [Georgia](https://www.motherjones.com/politics/2024/10/a-georgia-judge-just-blocked-7-rules-passed-by-maga-election-officials/)
+* [Trump](https://www.motherjones.com/politics/2024/10/trump-profane-rallies-insults-campaign/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-pennsylvania-trump-petition-100-dollars/)
+* [Black Conservative Voters](https://www.motherjones.com/politics/2024/10/whats-up-with-black-maga/)
+* [Jimmy Carter](https://www.motherjones.com/politics/2024/10/jimmy-carter-voting-rights-act-assistance/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Ted Cruz](https://www.motherjones.com/politics/2024/10/texas-democrats-are-trying-the-throw-ted-cruz-in-a-locker-strategy/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/10/kamala-harris-donald-trump-racism-misogyny-our-land/)
-* [Trump’s Mass Deportation Plan](https://www.motherjones.com/politics/2024/10/donald-trump-mass-deportations-us-food-supply-problems-immigrant-labor/)
-* [Georgia](https://www.motherjones.com/politics/2024/10/a-georgia-judge-just-blocked-7-rules-passed-by-maga-election-officials/)
+* [Trump](https://www.motherjones.com/politics/2024/10/trump-profane-rallies-insults-campaign/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-pennsylvania-trump-petition-100-dollars/)
+* [Black Conservative Voters](https://www.motherjones.com/politics/2024/10/whats-up-with-black-maga/)
+* [Jimmy Carter](https://www.motherjones.com/politics/2024/10/jimmy-carter-voting-rights-act-assistance/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
