@@ -1,7 +1,7 @@
 [![bbbserver.de Logo](/fileadmin/user_upload/bbb-server/NEU_bbbserver_logo.svg "bbbserver.de Logo")![bbbserver.de Logo](/fileadmin/user_upload/bbb-server/NEU_bbbserver_logo.svg "bbbserver.de Logo")](https://bbbserver.de/)
 
 * * [](https://bbbserver.de/datenschutz "de")
-        * [](https://bbbserver.eu/data-privacy "gb")
+        * [](https://bbbserver.com/data-privacy "gb")
 * [Für Bildungseinrichtungen](https://bbbserver.de/fuer-bildungseinrichtungen "Für Bildungseinrichtungen")
 * [Für Unternehmen](https://bbbserver.de/fuer-unternehmen "Für Unternehmen")
 * [Für Behörden](https://bbbserver.de/fuer-behoerden "Für Behörden")
