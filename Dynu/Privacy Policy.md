@@ -240,23 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
 
   
-
-![Partner](/content/images/content/strip/medicoweb.com.png)
-
+[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
-
-![Partner](/content/images/content/strip/mediastar.id.png)
-
-  
-
-![Partner](/content/images/content/strip/businesspcsupport.com.png)
-
-  
-
-![Partner](/content/images/content/strip/erp-sarajevo.com.png)
 
 ### News
 
