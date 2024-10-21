@@ -1279,8 +1279,6 @@ Gå direkt till :
         * [Hantering av personuppgifter](https://www.sva.se/om-oss/kontakta-oss/hantering-av-personuppgifter/)
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
-            * [Systemutvecklare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/systemutvecklare/)
-            * [Analytisk kemist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/analytisk-kemist/)
             * [Biomedicinsk analytiker (BMA)](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker-bma/)
             * [Veterinär med intresse för infektionssjukdomar hos fjäderfä](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/veterinar-med-intresse-for-infektionssjukdomar-hos-fjaderfa/)
             * [Administratör - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/administrator-intermittent-anstallning/)
