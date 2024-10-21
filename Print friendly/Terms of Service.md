@@ -1,66 +1,66 @@
-[![PrintFriendly logo](/icons/Logo.svg)](https://www.printfriendly.com/)
+[![PrintFriendly logo](https://www.printfriendly.com/pf-next-static-files/static/Logo.svg)](https://www.printfriendly.com/)
 
 PDF Tools
 
 Convert & Merge
 
-[![UploaderSection.PDF_converter](/images/pdf-tools/pdf-converter.svg)
+[![UploaderSection.PDF_converter](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-converter.svg)
 
 PDF Converter](https://www.printfriendly.com/pdf-tools/pdf-converter)
 
-[![UploaderSection.compress_PDF](/images/pdf-tools/compress-pdf.svg)
+[![UploaderSection.compress_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/compress-pdf.svg)
 
 Compress PDF](https://www.printfriendly.com/pdf-tools/compress-pdf)
 
 Convert from PDF
 
-[![UploaderSection.PDF_to_word](/images/pdf-tools/pdf-word.svg)
+[![UploaderSection.PDF_to_word](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-word.svg)
 
 PDF to Word](https://www.printfriendly.com/pdf-tools/pdf-to-word)
 
-[![UploaderSection.PDF_to_excel](/images/pdf-tools/pdf-excel.svg)
+[![UploaderSection.PDF_to_excel](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-excel.svg)
 
 PDF to Excel](https://www.printfriendly.com/pdf-tools/pdf-to-excel)
 
-[![UploaderSection.PDF_to_PPT](/images/pdf-tools/pdf-ppt.svg)
+[![UploaderSection.PDF_to_PPT](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-ppt.svg)
 
 PDF to PPT](https://www.printfriendly.com/pdf-tools/pdf-to-ppt)
 
-[![UploaderSection.PDF_to_JPG](/images/pdf-tools/pdf-jpg.svg)
+[![UploaderSection.PDF_to_JPG](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-jpg.svg)
 
 PDF to JPG](https://www.printfriendly.com/pdf-tools/pdf-to-jpg)
 
 Convert to PDF
 
-[![UploaderSection.word_to_PDF](/images/pdf-tools/pdf-word.svg)
+[![UploaderSection.word_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-word.svg)
 
 Word to PDF](https://www.printfriendly.com/pdf-tools/word-to-pdf)
 
-[![UploaderSection.excel_to_PDF](/images/pdf-tools/pdf-excel.svg)
+[![UploaderSection.excel_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-excel.svg)
 
 Excel to PDF](https://www.printfriendly.com/pdf-tools/excel-to-pdf)
 
-[![UploaderSection.PPT_to_PDF](/images/pdf-tools/pdf-ppt.svg)
+[![UploaderSection.PPT_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-ppt.svg)
 
 PPT to PDF](https://www.printfriendly.com/pdf-tools/ppt-to-pdf)
 
-[![UploaderSection.JPG_to_PDF](/images/pdf-tools/pdf-jpg.svg)
+[![UploaderSection.JPG_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-jpg.svg)
 
 JPG to PDF](https://www.printfriendly.com/pdf-tools/jpg-to-pdf)
 
 View & Edit
 
-[![UploaderSection.edit_PDF](/images/pdf-tools/edit-pdf.svg)
+[![UploaderSection.edit_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/edit-pdf.svg)
 
 Edit PDF](https://www.printfriendly.com/pdf-tools/edit-pdf)
 
-[![UploaderSection.PDF_reader](/images/pdf-tools/pdf-reader.svg)
+[![UploaderSection.PDF_reader](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-reader.svg)
 
 PDF Reader](https://www.printfriendly.com/pdf-tools/pdf-reader)
 
 Sign & Security
 
-[![UploaderSection.sign_PDF](/images/pdf-tools/sign-pdf.svg)
+[![UploaderSection.sign_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/sign-pdf.svg)
 
 Sign PDF](https://www.printfriendly.com/pdf-tools/sign-pdf)
 
@@ -70,19 +70,19 @@ Website Tools
 
 Extensions
 
-[![Footer.chrome](/_next/image?url=%2Fimages%2Fchrome.png&w=48&q=75)
+[![Footer.chrome](https://www.printfriendly.com/pf-next-static-files/static/chrome.png)
 
 Chrome](https://www.printfriendly.com/extensions/chrome)
 
-[![Footer.firefox](/_next/image?url=%2Fimages%2Ffirefox.png&w=48&q=75)
+[![Footer.firefox](https://www.printfriendly.com/pf-next-static-files/static/firefox.png)
 
 Firefox](https://www.printfriendly.com/extensions/firefox)
 
-[![Footer.safari](/_next/image?url=%2Fimages%2Fsafari.png&w=48&q=75)
+[![Footer.safari](https://www.printfriendly.com/pf-next-static-files/static/safari.png)
 
 Safari](https://www.printfriendly.com/extensions/safari)
 
-[![Footer.edge](/_next/image?url=%2Fimages%2Fedge.png&w=48&q=75)
+[![Footer.edge](https://www.printfriendly.com/pf-next-static-files/static/edge.png)
 
 Edge](https://www.printfriendly.com/extensions/edge)
 
@@ -106,63 +106,63 @@ PDF Tools
 
 Convert & Merge
 
-[![UploaderSection.PDF_converter](/images/pdf-tools/pdf-converter.svg)
+[![UploaderSection.PDF_converter](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-converter.svg)
 
 PDF Converter](https://www.printfriendly.com/pdf-tools/pdf-converter)
 
-[![UploaderSection.compress_PDF](/images/pdf-tools/compress-pdf.svg)
+[![UploaderSection.compress_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/compress-pdf.svg)
 
 Compress PDF](https://www.printfriendly.com/pdf-tools/compress-pdf)
 
 Convert from PDF
 
-[![UploaderSection.PDF_to_word](/images/pdf-tools/pdf-word.svg)
+[![UploaderSection.PDF_to_word](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-word.svg)
 
 PDF to Word](https://www.printfriendly.com/pdf-tools/pdf-to-word)
 
-[![UploaderSection.PDF_to_excel](/images/pdf-tools/pdf-excel.svg)
+[![UploaderSection.PDF_to_excel](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-excel.svg)
 
 PDF to Excel](https://www.printfriendly.com/pdf-tools/pdf-to-excel)
 
-[![UploaderSection.PDF_to_PPT](/images/pdf-tools/pdf-ppt.svg)
+[![UploaderSection.PDF_to_PPT](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-ppt.svg)
 
 PDF to PPT](https://www.printfriendly.com/pdf-tools/pdf-to-ppt)
 
-[![UploaderSection.PDF_to_JPG](/images/pdf-tools/pdf-jpg.svg)
+[![UploaderSection.PDF_to_JPG](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-jpg.svg)
 
 PDF to JPG](https://www.printfriendly.com/pdf-tools/pdf-to-jpg)
 
 Convert to PDF
 
-[![UploaderSection.word_to_PDF](/images/pdf-tools/pdf-word.svg)
+[![UploaderSection.word_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-word.svg)
 
 Word to PDF](https://www.printfriendly.com/pdf-tools/word-to-pdf)
 
-[![UploaderSection.excel_to_PDF](/images/pdf-tools/pdf-excel.svg)
+[![UploaderSection.excel_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-excel.svg)
 
 Excel to PDF](https://www.printfriendly.com/pdf-tools/excel-to-pdf)
 
-[![UploaderSection.PPT_to_PDF](/images/pdf-tools/pdf-ppt.svg)
+[![UploaderSection.PPT_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-ppt.svg)
 
 PPT to PDF](https://www.printfriendly.com/pdf-tools/ppt-to-pdf)
 
-[![UploaderSection.JPG_to_PDF](/images/pdf-tools/pdf-jpg.svg)
+[![UploaderSection.JPG_to_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-jpg.svg)
 
 JPG to PDF](https://www.printfriendly.com/pdf-tools/jpg-to-pdf)
 
 View & Edit
 
-[![UploaderSection.edit_PDF](/images/pdf-tools/edit-pdf.svg)
+[![UploaderSection.edit_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/edit-pdf.svg)
 
 Edit PDF](https://www.printfriendly.com/pdf-tools/edit-pdf)
 
-[![UploaderSection.PDF_reader](/images/pdf-tools/pdf-reader.svg)
+[![UploaderSection.PDF_reader](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/pdf-reader.svg)
 
 PDF Reader](https://www.printfriendly.com/pdf-tools/pdf-reader)
 
 Sign & Security
 
-[![UploaderSection.sign_PDF](/images/pdf-tools/sign-pdf.svg)
+[![UploaderSection.sign_PDF](https://www.printfriendly.com/pf-next-static-files/static/pdf-tools/sign-pdf.svg)
 
 Sign PDF](https://www.printfriendly.com/pdf-tools/sign-pdf)
 
@@ -178,19 +178,19 @@ Website Tools
 
 Extensions
 
-[![Footer.chrome](/_next/image?url=%2Fimages%2Fchrome.png&w=48&q=75)
+[![Footer.chrome](https://www.printfriendly.com/pf-next-static-files/static/chrome.png)
 
 Chrome](https://www.printfriendly.com/extensions/chrome)
 
-[![Footer.firefox](/_next/image?url=%2Fimages%2Ffirefox.png&w=48&q=75)
+[![Footer.firefox](https://www.printfriendly.com/pf-next-static-files/static/firefox.png)
 
 Firefox](https://www.printfriendly.com/extensions/firefox)
 
-[![Footer.safari](/_next/image?url=%2Fimages%2Fsafari.png&w=48&q=75)
+[![Footer.safari](https://www.printfriendly.com/pf-next-static-files/static/safari.png)
 
 Safari](https://www.printfriendly.com/extensions/safari)
 
-[![Footer.edge](/_next/image?url=%2Fimages%2Fedge.png&w=48&q=75)
+[![Footer.edge](https://www.printfriendly.com/pf-next-static-files/static/edge.png)
 
 Edge](https://www.printfriendly.com/extensions/edge)
 
@@ -494,7 +494,7 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please email us at: [support@printfriendly.com](mailto:support@printfriendly.com).
 
-![PrintFriendly logo](/icons/Logo.svg)
+![PrintFriendly logo](https://www.printfriendly.com/pf-next-static-files/static/Logo.svg)
 
 PrintFriendly makes web pages printer-friendly and exports them to PDFs.
 
