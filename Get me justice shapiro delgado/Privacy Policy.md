@@ -291,7 +291,7 @@ Request Free Consultation test
 * 
 * 
 * 
-* Name
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
