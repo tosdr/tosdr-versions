@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Peekaru!](https://www.somethingawful.com/photoshop-phriday/peekaru/1/)
-* [March 3, 2008](https://www.somethingawful.com/forum-fridays/ff03-03-08/1/)
-* [Houston vs Kansas City Play by Play](https://www.somethingawful.com/comedy-goldmine/football-eldritch-byob/)
-* [Lobe, American Style](https://www.somethingawful.com/news/lobe-american-style/)
-* [Anshe's Revenge & Stinging Surprise](https://www.somethingawful.com/second-life-safari/anshes-revenge-stinging/1/)
+* [Pop-Up Ads Throughout History!](https://www.somethingawful.com/photoshop-phriday/popup-ads-history/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Pornographic Versions of Classic Novels!](https://www.somethingawful.com/photoshop-phriday/porn-classic-novels/1/)
+* [Unworthy Goon Gifts (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/terrible-xmas-gifts/1/)
+* [Unreal 2: The Awakening](https://www.somethingawful.com/game-reviews/unreal-awakening/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [It's 2065 and you are still posting in GBS](http://forums.somethingawful.com/showthread.php?threadid=4073129 "It's 2065 and you are still posting in GBS")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Chickencheese is back!](http://forums.somethingawful.com/showthread.php?threadid=4073196 "Chickencheese is back!")
 
 ### Random Articles
 
-* [Office Paper Pals](https://www.somethingawful.com/flash-tub/office-paper-pals/)
-* [Video Game High School](https://www.somethingawful.com/movie-reviews/video-game-hs/1/)
-* [Ohayocon 2007: Disappointment of Disappointments](https://www.somethingawful.com/news/ohayocon-2007-disappointment/1/)
-* [Cast Central](https://www.somethingawful.com/awful-links/cast-central/)
-* [Billy Corgan's Transphobia](https://www.somethingawful.com/garbage-day/billy-corgan-transphobic/)
+* [Kobayashi Maru High Scores List](https://www.somethingawful.com/mooflogs/kobayashi-maru-high/)
+* [Clown Porn](https://www.somethingawful.com/horrors-of-porn/clown-porn/)
+* [Sucker Punch; Diary of a Wimpy Kid: Rodrick Rules](https://www.somethingawful.com/current-movie-reviews/sucker-punch/1/)
+* [Winntech (Thanks, Autumn!)](https://www.somethingawful.com/awful-links/winntech/)
+* [Very Sad Cats](https://www.somethingawful.com/flash-tub/sad-cats-cartoon/)
 
 [Random!](https://www.somethingawful.com/random/)
 
