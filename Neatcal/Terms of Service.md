@@ -23,6 +23,9 @@
     * [### Collective Meetings
         
         Let your customers to schedule a time to meet with multiple members of your team simultaneously.](https://www.neatcal.com/features/collective-meetings)
+    * [### Compare Competitors
+        
+        You can find our comparisons with our competitors here.](https://www.neatcal.com/features/compare-competitors)
     * [### All Features ->
         
         See a full list of features here.](https://www.neatcal.com/features)
