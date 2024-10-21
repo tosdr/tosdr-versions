@@ -199,7 +199,7 @@ Mega Menu
     * [Undergraduate](https://ww1.odu.edu/admission/admitted/undergraduate)
     * [Graduate](https://ww1.odu.edu/admission/admitted/graduate)
     * [International](https://ww1.odu.edu/admission/admitted/international)
-    * [English Proficiency](https://ww1.odu.edu/admission/proficiency)
+    * [English Proficiency](https://ww1.odu.edu/admissions/proficiency)
     * [Returning Students](https://ww1.odu.edu/admission/returning-student)
     
     **Cost & Aid**
