@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel says it will target Hezbollah's financial arm and announces imminent strikes in Lebanon](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
-    * [Ukraine’s ‘victory plan’ receives mixed reactions from Western allies](https://apnews.com/article/victory-plan-ukraine-russia-war-zelenskyy-1a66e6b1655fcaa421526ad174e618bd)
-    * [Indonesia swears in ex-general Prabowo Subianto as president](https://apnews.com/article/indonesia-new-president-prabowo-subianto-sworn-44f1cb606ab8aa825b20b7f154ba9721)
+    * [Israel says it will target Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
+    * [Cubans struggle as power not fully restored days after blackout and hurricane hits island](https://apnews.com/article/cuba-power-outage-blackout-struggles-e5330cbf1d7ffc8dab62b69e1782869f)
+    * [What to know about the electrical grid failure that plunged Cuba into darkness](https://apnews.com/article/cuba-power-outage-explained-f610223f714afe994c3ad9658bb4de7d)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Georgia authorities investigating 'catastrophic failure' of dock gangway that collapsed, killing 7](https://apnews.com/article/ferry-dock-collapse-deaths-georgia-sapelo-island-c4fadec943d8ca46f70ef8dc3541da21)
-    * [Voters are facing competing ballot measures on abortion and elections. What happens if both pass?](https://apnews.com/article/conflicting-ballot-measures-abortion-arizona-nebraska-8d749d2e843c7089adbfbe9cacb7ace6)
-    * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
+    * [2 Navy aviators are declared dead after a fighter jet crashed in Washington state](https://apnews.com/article/navy-fighter-jet-crash-growler-0de956683aa5a3ba86ccf1a6d572899f)
+    * [Georgia authorities investigating a dock gangway collapse that killed 7 on a historic island](https://apnews.com/article/ferry-dock-collapse-deaths-georgia-sapelo-island-c4fadec943d8ca46f70ef8dc3541da21)
+    * [Calmer weather helps contain Oakland, California, fire that forced evacuations](https://apnews.com/article/oakland-california-diablo-wind-wildfires-8de928874d10ab54a4ca9ba8a44d6a94)
     
     Newsletters
     
@@ -66,9 +66,9 @@ Menu
     
     TOP STORIES
     
-    * [Montana GOP candidate who could flip control of Senate nagged by claims he lied about bullet wound](https://apnews.com/article/sheehy-bullet-wound-senate-montana-gop-election-83a25fec7af1276bb85541528c547bd5)
+    * [Arnold Palmer's daughter reacts to Donald Trump's references to her father](https://apnews.com/article/donald-trump-arnold-palmer-rally-comments-dde882b5841a7f5ed7ffd0f306ddf732)
+    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
     * [Republicans and Democrats are both preparing for long legal battles over the 2024 election results](https://apnews.com/article/election-2024-harris-trump-legal-challenges-563936d90d83de456e704de7d03b5063)
-    * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
     
     Newsletters
     
@@ -86,9 +86,9 @@ Menu
     
     TOP STORIES
     
+    * [Browns QB Watson suffers likely season-ending Achilles injury. Teammates upset some fans cheered](https://apnews.com/article/deshaun-watson-browns-76623d8f8713c4b8dc569b485d9d4593)
+    * [Lions top previously unbeaten Vikings 31-29 on late FG to cap NFC North thriller](https://apnews.com/article/lions-vikings-score-3487a74d237d4fbf6ab77a98d6e3d57b)
     * [AP Top 25: Oregon is No. 1 for first time since 2012; Vanderbilt enters poll and Michigan drops out](https://apnews.com/article/ap-top-25-oregon-eeae148724e13b0eb35f6b2f835a7bde)
-    * [Juan Soto's 3-run homer in 10th sends Yankees past Guardians 5-2 and into World Series for 41st time](https://apnews.com/article/yankees-guardians-mlb-playoffs-14996d2b9c28869202e8651f52f3e330)
-    * [Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://apnews.com/article/texas-georgia-penalty-reversed-32fb9184858ef6068e81c8c24d8bfbc3)
     
     Newsletters
     
@@ -109,8 +109,8 @@ Menu
     TOP STORIES
     
     * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
+    * [Rock & Roll Hall of Fame turns up starpower to induct Cher, Foreigner, Mary J. Blige, Ozzy and more](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
     * [Alec Baldwin returns to 'Saturday Night Live' to spoof Bret Baier interview with Kamala Harris](https://apnews.com/article/saturday-night-live-alec-baldwin-1387058826fc3d2d50bdba52eb68314c)
-    * [US writer Anne Applebaum appeals for arms for Ukraine as she accepts German peace prize](https://apnews.com/article/germany-peace-prize-ukraine-applebaum-c1106c4393acbd5f7aea61d975a15247)
     
 * [Business](https://apnews.com/business)
     
@@ -120,9 +120,9 @@ Menu
     
     TOP STORIES
     
+    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
     * [Japan, UK and Italy to expedite next-generation fighter jet to replace F-2s and Eurofighter Typhoons](https://apnews.com/article/japan-uk-italy-fighter-jet-joint-development-1583af9ab27aac809a7848be502f7a53)
     * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
-    * [Cubans struggle as power not fully restored days after island-wide blackout](https://apnews.com/article/cuba-power-outage-blackout-struggles-e5330cbf1d7ffc8dab62b69e1782869f)
     
 * [Science](https://apnews.com/science)
     
@@ -271,9 +271,9 @@ Menu
     
     TOP STORIES
     
+    * [Catholic priest and Indigenous activist Pérez killed by 2 gunmen in southern Mexico](https://apnews.com/article/catholic-priest-mexico-killing-455bc3fb6fe5005b7e47d4758e4c63cd)
     * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
     * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
-    * [Harris tells Black churchgoers that people must show compassion and respect in their lives](https://apnews.com/article/harris-election-2024-trump-church-georgia-voting-91f92ede412f87f10851544c9ba637b7)
     
     Newsletters
     
@@ -287,12 +287,12 @@ Menu
     
     TOP STORIES
     
-    * [Bombardeo israelí en Gaza deja al menos 87 muertos o desaparecidos](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
-    * [Cubanos angustiados siguen sin electricidad tras días de apagón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
+    * [Israel anuncia que ahora atacará brazo financiero de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
+    * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
     * [Harris asiste a un servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
     * [Lula cancela viaje a cumbre BRICS tras accidente doméstico](https://apnews.com/article/brasil-lula-accidente-9c5e30f2878e24d7ba3318520f6b56c2)
     * [Trump irá a un McDonald's mientras afirma sin evidencia que Harris no trabajó ahí siendo estudiante](https://apnews.com/article/eeuu-elecciones-trump-mcdonalds-720c237aa014c47e419e0346dd83d324)
-    * [Escritora estadounidense Anne Applebaum pide armas para Ucrania mientras acepta premio de paz alemán](https://apnews.com/article/ucrania-anne-applebaum-2dcda5607af2648adbe7d26414f3bada)
+    * [Continúan rescates en Nuevo México tras severas inundaciones](https://apnews.com/article/nuevo-mexico-inundaciones-50f8dd08768fe2ebcc8bcd6c8fb30b34)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel says it will target Hezbollah's financial arm and announces imminent strikes in Lebanon](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
-    * [Ukraine’s ‘victory plan’ receives mixed reactions from Western allies](https://apnews.com/article/victory-plan-ukraine-russia-war-zelenskyy-1a66e6b1655fcaa421526ad174e618bd)
-    * [Indonesia swears in ex-general Prabowo Subianto as president](https://apnews.com/article/indonesia-new-president-prabowo-subianto-sworn-44f1cb606ab8aa825b20b7f154ba9721)
+    * [Israel says it will target Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
+    * [Cubans struggle as power not fully restored days after blackout and hurricane hits island](https://apnews.com/article/cuba-power-outage-blackout-struggles-e5330cbf1d7ffc8dab62b69e1782869f)
+    * [What to know about the electrical grid failure that plunged Cuba into darkness](https://apnews.com/article/cuba-power-outage-explained-f610223f714afe994c3ad9658bb4de7d)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Georgia authorities investigating 'catastrophic failure' of dock gangway that collapsed, killing 7](https://apnews.com/article/ferry-dock-collapse-deaths-georgia-sapelo-island-c4fadec943d8ca46f70ef8dc3541da21)
-    * [Voters are facing competing ballot measures on abortion and elections. What happens if both pass?](https://apnews.com/article/conflicting-ballot-measures-abortion-arizona-nebraska-8d749d2e843c7089adbfbe9cacb7ace6)
-    * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
+    * [2 Navy aviators are declared dead after a fighter jet crashed in Washington state](https://apnews.com/article/navy-fighter-jet-crash-growler-0de956683aa5a3ba86ccf1a6d572899f)
+    * [Georgia authorities investigating a dock gangway collapse that killed 7 on a historic island](https://apnews.com/article/ferry-dock-collapse-deaths-georgia-sapelo-island-c4fadec943d8ca46f70ef8dc3541da21)
+    * [Calmer weather helps contain Oakland, California, fire that forced evacuations](https://apnews.com/article/oakland-california-diablo-wind-wildfires-8de928874d10ab54a4ca9ba8a44d6a94)
     
     Newsletters
     
@@ -519,9 +519,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Montana GOP candidate who could flip control of Senate nagged by claims he lied about bullet wound](https://apnews.com/article/sheehy-bullet-wound-senate-montana-gop-election-83a25fec7af1276bb85541528c547bd5)
+    * [Arnold Palmer's daughter reacts to Donald Trump's references to her father](https://apnews.com/article/donald-trump-arnold-palmer-rally-comments-dde882b5841a7f5ed7ffd0f306ddf732)
+    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
     * [Republicans and Democrats are both preparing for long legal battles over the 2024 election results](https://apnews.com/article/election-2024-harris-trump-legal-challenges-563936d90d83de456e704de7d03b5063)
-    * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
     
     Newsletters
     
@@ -549,9 +549,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Browns QB Watson suffers likely season-ending Achilles injury. Teammates upset some fans cheered](https://apnews.com/article/deshaun-watson-browns-76623d8f8713c4b8dc569b485d9d4593)
+    * [Lions top previously unbeaten Vikings 31-29 on late FG to cap NFC North thriller](https://apnews.com/article/lions-vikings-score-3487a74d237d4fbf6ab77a98d6e3d57b)
     * [AP Top 25: Oregon is No. 1 for first time since 2012; Vanderbilt enters poll and Michigan drops out](https://apnews.com/article/ap-top-25-oregon-eeae148724e13b0eb35f6b2f835a7bde)
-    * [Juan Soto's 3-run homer in 10th sends Yankees past Guardians 5-2 and into World Series for 41st time](https://apnews.com/article/yankees-guardians-mlb-playoffs-14996d2b9c28869202e8651f52f3e330)
-    * [Texas apologizes to Georgia players, staff, SEC and game officials after fans throw trash on field](https://apnews.com/article/texas-georgia-penalty-reversed-32fb9184858ef6068e81c8c24d8bfbc3)
     
     Newsletters
     
@@ -579,8 +579,8 @@ Submit Search
     TOP STORIES
     
     * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
+    * [Rock & Roll Hall of Fame turns up starpower to induct Cher, Foreigner, Mary J. Blige, Ozzy and more](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
     * [Alec Baldwin returns to 'Saturday Night Live' to spoof Bret Baier interview with Kamala Harris](https://apnews.com/article/saturday-night-live-alec-baldwin-1387058826fc3d2d50bdba52eb68314c)
-    * [US writer Anne Applebaum appeals for arms for Ukraine as she accepts German peace prize](https://apnews.com/article/germany-peace-prize-ukraine-applebaum-c1106c4393acbd5f7aea61d975a15247)
     
 * [Business](https://apnews.com/business)
     
@@ -594,9 +594,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
     * [Japan, UK and Italy to expedite next-generation fighter jet to replace F-2s and Eurofighter Typhoons](https://apnews.com/article/japan-uk-italy-fighter-jet-joint-development-1583af9ab27aac809a7848be502f7a53)
     * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
-    * [Cubans struggle as power not fully restored days after island-wide blackout](https://apnews.com/article/cuba-power-outage-blackout-struggles-e5330cbf1d7ffc8dab62b69e1782869f)
     
 * [Science](https://apnews.com/science)
     
@@ -771,9 +771,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Catholic priest and Indigenous activist Pérez killed by 2 gunmen in southern Mexico](https://apnews.com/article/catholic-priest-mexico-killing-455bc3fb6fe5005b7e47d4758e4c63cd)
     * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
     * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
-    * [Harris tells Black churchgoers that people must show compassion and respect in their lives](https://apnews.com/article/harris-election-2024-trump-church-georgia-voting-91f92ede412f87f10851544c9ba637b7)
     
     Newsletters
     
@@ -787,12 +787,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Bombardeo israelí en Gaza deja al menos 87 muertos o desaparecidos](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
-    * [Cubanos angustiados siguen sin electricidad tras días de apagón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
+    * [Israel anuncia que ahora atacará brazo financiero de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
+    * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
     * [Harris asiste a un servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
     * [Lula cancela viaje a cumbre BRICS tras accidente doméstico](https://apnews.com/article/brasil-lula-accidente-9c5e30f2878e24d7ba3318520f6b56c2)
     * [Trump irá a un McDonald's mientras afirma sin evidencia que Harris no trabajó ahí siendo estudiante](https://apnews.com/article/eeuu-elecciones-trump-mcdonalds-720c237aa014c47e419e0346dd83d324)
-    * [Escritora estadounidense Anne Applebaum pide armas para Ucrania mientras acepta premio de paz alemán](https://apnews.com/article/ucrania-anne-applebaum-2dcda5607af2648adbe7d26414f3bada)
+    * [Continúan rescates en Nuevo México tras severas inundaciones](https://apnews.com/article/nuevo-mexico-inundaciones-50f8dd08768fe2ebcc8bcd6c8fb30b34)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
