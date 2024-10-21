@@ -446,111 +446,129 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
+[The Dan Bongino Show
+
+157K](https://rumble.com/v5jj9hp-the-real-story-behind-our-trump-interview-ep.-2354-10212024.html "The Dan Bongino Show")
+
+[Bannons War Room
+
+11.4K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Badlands Media
+
+7.02K](https://rumble.com/v5jj011-badlands-daily-monday-october-21-2024.html "Badlands Media")
+
+[The Rubin Report
+
+5.04K](https://rumble.com/v5jjksy-real-time-crowd-didnt-expect-bill-maher-to-say-this-about-elon-musk.html "The Rubin Report")
+
 [NEWSMAX
 
-1.66K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+5K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[Geeks + Gamers
+
+384](https://rumble.com/v5jjl3p-twitch-destroyed-over-asmongold-ban-hollywood-meltdown-over-mcdonalds-fries.html "Geeks + Gamers")
 
 [Lofi Girl
 
-227](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+354](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[barstoolsports
+
+284](https://rumble.com/v5jiybl-kms-live-october-21-2024.html "barstoolsports")
+
+[Caleb Hammer
+
+221](https://rumble.com/v5jggkk-debt-princess-begs-daddy-to-save-her-financial-audit.html "Caleb Hammer")
+
+[The Kirk Minihane Show
+
+173](https://rumble.com/v5jiybl-kms-live-october-21-2024.html "The Kirk Minihane Show")
+
+[Mostly Sports With Mark Titus and Brandon Walker
+
+107](https://rumble.com/v5jhra5-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
 
 [Major League Fishing
 
-1](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
+2](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
-
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
-
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
-
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
-
-[Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
-
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Power Slap](https://rumble.com/c/powerslap "Power Slap")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
-
-[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
-
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
-
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
-
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
-[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
-
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
-
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
 
 [Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
 
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
 
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+
+[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
+
+[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
+
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
 
 ### Theme
 
