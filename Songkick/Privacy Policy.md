@@ -3,8 +3,8 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
-        *  [![Cage the Elephant Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cage the Elephant  
-            MetLife Stadium](https://www.songkick.com/concerts/42201059-cage-the-elephant-at-metlife-stadium)
+        *  [![cupcakKe Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) cupcakKe  
+            White Eagle Hall](https://www.songkick.com/concerts/42224117-cupcakke-at-white-eagle-hall)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
