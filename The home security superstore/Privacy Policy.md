@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off All Self-Defense Batons | Code: BATON15](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Self-Defense+Batons)
+[15% Off SECURITY CAMERAS I Use Code: SC15](https://www.thehomesecuritysuperstore.com/collections/security-cameras?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SECURITY+CAMERAS)
 
-Today’s offer: :: | 15% Off All Self-Defense Batons | Code: BATON15
+Today’s offer: :: | 15% Off SECURITY CAMERAS I Use Code: SC15
 
 Today’s offer: : :
 
- 15% Off All Self-Defense Batons Code: BATON15
+ 15% Off SECURITY CAMERAS I Use Code: SC15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
