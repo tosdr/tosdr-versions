@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 166 utilisateurs actifs
+##### 729 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Google retire uBlock Origin de Chrome : plus de 39 millions d'utilisateurs (dont sans doute vous) impactés !](https://lecrabeinfo.net/google-retire-ublock-origin-de-chrome-plus-de-39-millions-dutilisateurs-dont-sans-doute-vous-impactes.html)
 * [Microsoft bloque la mise à jour 24H2 pour certains joueurs](https://lecrabeinfo.net/microsoft-bloque-la-mise-a-jour-24h2-pour-certains-joueurs.html)
 * [Réparer les icônes de Windows (réinitialiser le cache des icônes)](https://lecrabeinfo.net/reparer-les-icones-de-windows-reinitialiser-le-cache-des-icones.html)
-* [Souris par abonnement : Logitech renonce à son idée de "souris éternelle" (pour le moment)](https://lecrabeinfo.net/souris-par-abonnement-logitech-renonce-a-son-idee-de-souris-eternelle-pour-le-moment.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 764 membres
-* 927 articles
-* 26 756 commentaires
+* 67 765 membres
+* 928 articles
+* 26 761 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
