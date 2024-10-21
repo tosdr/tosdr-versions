@@ -15,7 +15,7 @@
     * [Customer Stories](https://chartbeat.com/resources/customer/)
     * [Blog](https://chartbeat.com/resources/)
     * [Support](https://support.chartbeat.com/)
-* [Sign inSign in](#)
+* [Sign inSign in](https://chartbeat.com/signin/)
 
 Get a Demo
 
