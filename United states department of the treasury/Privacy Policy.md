@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 21, 2024
+    
+    [Price Cap Coalition Issues Updated Advisory for Maritime Industry](https://home.treasury.gov/news/press-releases/jy2659)
+    
     October 17, 2024
     
     [Treasury International Capital Data for August](https://home.treasury.gov/news/press-releases/jy2655)
@@ -563,14 +567,14 @@ MENU MENU
     
     [U.S. Department of the Treasury Reaches Major Milestone, Approving Over $500 Million to Support Small Businesses in Tribal Nations](https://home.treasury.gov/news/press-releases/jy2653)
     
-    October 17, 2024
-    
-    [Treasury Targets Actors Involved in Drone Production for Russia’s War Against Ukraine](https://home.treasury.gov/news/press-releases/jy2651)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    October 21, 2024
+    
+    [International Monetary and Financial Committee (IMFC) Statement by Secretary of the Treasury Janet L. Yellen](https://home.treasury.gov/news/press-releases/jy2660)
     
     October 18, 2024
     
@@ -579,10 +583,6 @@ MENU MENU
     October 17, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen at the Council on Foreign Relations](https://home.treasury.gov/news/press-releases/jy2654)
-    
-    October 13, 2024
-    
-    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Inflation Reduction Act Technical Assistance](https://home.treasury.gov/news/press-releases/jy2647)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
