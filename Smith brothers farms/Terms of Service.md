@@ -186,11 +186,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (86)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (85)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (61)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Flavors (44)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -250,12 +250,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (84)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (85)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (23)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (24)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -264,20 +264,20 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (79)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (85)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
-        * [Bread & Buns (29)](https://www.smithbrothersfarms.com/bread)
+        * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (6)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
         * [Bagels (16)](https://www.smithbrothersfarms.com/bagels)
             
-        * [Breakfast Treats (17)](https://www.smithbrothersfarms.com/breakfast-treats)
+        * [Breakfast Treats (18)](https://www.smithbrothersfarms.com/breakfast-treats)
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (6)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (8)](https://www.smithbrothersfarms.com/desserts)
             
         
     * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
@@ -285,9 +285,9 @@ Hi
         * BACK
         * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
             
-        * [Bacon & Breakfast Meat (13)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
+        * [Bacon & Breakfast Meat (14)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
-        * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
+        * [Sausage, Dogs & Brats (3)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
         * [Deli & Charcuterie (16)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
