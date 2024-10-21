@@ -306,7 +306,7 @@ The Global Assured Identity Network (GAIN) POC is open to the public including o
 
 #### Intellectual Property Rights Policy
 
-The OpenID [Intellectual Property Rights Policy](https://openid.net/wordpress-content/uploads/2017/06/OIDF-Policy-IPR-Policy-Final-6-19-2017.pdf) (IPR Policy) defines the intellectual property rights and obligations of Contributors and specifies certain procedures relating to Contributions proposed to the OpenID Foundation for the creation of Specifications and the generation of Implementers Drafts and Final Specifications as outlined in the [OpenID Process Document](https://openid.net/wordpress-content/uploads/2017/06/OIDF-Policy-Process-Document-Final-6-19-2017.pdf). Learn more [here](https://openid.net/intellectual-property/openid-foundation-contribution-agreements/).
+The OpenID [Intellectual Property Rights Policy](https://openid.net/wp-content/uploads/2024/10/OIDF-Policy_IPR-Policy_Final_2024-10-19.pdf) (IPR Policy) defines the intellectual property rights and obligations of Contributors and specifies certain procedures relating to Contributions proposed to the OpenID Foundation for the creation of Specifications and the generation of Implementers Drafts and Final Specifications as outlined in the [OpenID Process Document](https://openid.net/wp-content/uploads/2024/10/OIDF_Process-Document_Final_2024-10-19.pdf). Learn more [here](https://openid.net/intellectual-property/openid-foundation-contribution-agreements/).
 
 #### Member Agreement
 
@@ -336,7 +336,7 @@ The technology described in this specification was made available from contribut
 
 #### OpenID Process Document
 
-The [OpenID Process Document](https://openid.net/wordpress-content/uploads/2017/06/OIDF-Policy-Process-Document-Final-6-19-2017.pdf) outlines the process for the creation of specifications and the generation of Implementers Drafts and Final Specifications.
+The [OpenID Process Document](https://openid.net/wp-content/uploads/2024/10/OIDF_Process-Document_Final_2024-10-19.pdf) outlines the process for the creation of specifications and the generation of Implementers Drafts and Final Specifications.
 
 #### National Chapters Policy
 
