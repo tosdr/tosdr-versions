@@ -100,7 +100,7 @@ And of course, if you have installed our mobile app on your mobile device and yo
 2. 2 [One Piece Fan Letter](https://myanimelist.net/anime/60022/One_Piece_Fan_Letter)
 3. 3 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
-5. 5 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
 
 ### [More](https://myanimelist.net/topanime.php?type=airing)Top Airing Anime
 
