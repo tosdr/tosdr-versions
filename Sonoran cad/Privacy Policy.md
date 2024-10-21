@@ -586,6 +586,22 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-M4pGN81fb4R6zFhodcu)
 
+On this page
+
+* [Privacy Policy for Sonoran Software Systems](#privacy-policy-for-sonoran-software-systems)
+* [1\. Introduction](#id-1.-introduction)
+* [2\. Information We Collect](#id-2.-information-we-collect)
+* [3\. How We Use Your Information](#id-3.-how-we-use-your-information)
+* [4\. How We Share Your Information](#id-4.-how-we-share-your-information)
+* [5\. Your Data Rights](#id-5.-your-data-rights)
+* [6\. Children's Privacy](#id-6.-childrens-privacy)
+* [7\. Changes to This Privacy Policy](#id-7.-changes-to-this-privacy-policy)
+* [8\. Contact Us](#id-8.-contact-us)
+
+Was this helpful?
+
+[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/privacy-policy.md)
+
 Privacy Policy
 ==============
 
@@ -693,19 +709,3 @@ If you have any questions or concerns about our use of your information, please 
 [PreviousTerms of Service](https://info.sonorancad.com/other/policy/terms-of-service)[NextRefund and Purchase Policy](https://info.sonorancad.com/other/policy/refund-and-purchase-policy)
 
 Last updated 5 months ago
-
-On this page
-
-* [Privacy Policy for Sonoran Software Systems](#privacy-policy-for-sonoran-software-systems)
-* [1\. Introduction](#id-1.-introduction)
-* [2\. Information We Collect](#id-2.-information-we-collect)
-* [3\. How We Use Your Information](#id-3.-how-we-use-your-information)
-* [4\. How We Share Your Information](#id-4.-how-we-share-your-information)
-* [5\. Your Data Rights](#id-5.-your-data-rights)
-* [6\. Children's Privacy](#id-6.-childrens-privacy)
-* [7\. Changes to This Privacy Policy](#id-7.-changes-to-this-privacy-policy)
-* [8\. Contact Us](#id-8.-contact-us)
-
-Was this helpful?
-
-[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/privacy-policy.md)
