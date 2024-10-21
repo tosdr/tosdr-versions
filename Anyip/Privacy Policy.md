@@ -60,9 +60,9 @@ Please note that changing information in registration account or opting out of r
 Children’s Information
 ----------------------
 
-The Services are not directed or intended for children under 13 years of age. We do not knowingly collect or solicit Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information through the Services. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s Personal Information from our systems. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at [\[email protected\]](https://anyip.io/cdn-cgi/l/email-protection) so that we may delete and remove such child’s information from our systems.  
+The Services are not directed or intended for children under 13 years of age. We do not knowingly collect or solicit Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information through the Services. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s Personal Information from our systems. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at [contact@anyip.io](mailto:contact@anyip.io) so that we may delete and remove such child’s information from our systems.  
   
-If you believe that we might have any information from a child under age 13, please contact us via email at [\[email protected\]](https://anyip.io/cdn-cgi/l/email-protection).  
+If you believe that we might have any information from a child under age 13, please contact us via email at [contact@anyip.io](mailto:contact@anyip.io).  
 
 Security and Confidentiality
 ----------------------------
@@ -76,9 +76,9 @@ The measures and procedures that we employ substantially reduce the risks of dat
 Your Choices
 ------------
 
-We value your privacy and control over your personal information, and therefore you may notify us that you wish to either review your Personal Information or delete it. You can notify us by sending an email to [\[email protected\]](https://anyip.io/cdn-cgi/l/email-protection) At all times you can choose not to allow us or any third party to collect data about you, or ask to view or edit Personal Information that is stored about you. You may also choose not to accept cookies, including cookies associated with our Services or third party services. To opt out of Google’s use of cookies you can visit Google’s Ads Settings. However, you should take into account that many of the Services or portion of them may not function properly if your cookies are disabled.  
+We value your privacy and control over your personal information, and therefore you may notify us that you wish to either review your Personal Information or delete it. You can notify us by sending an email to [contact@anyip.io](mailto:contact@anyip.io) At all times you can choose not to allow us or any third party to collect data about you, or ask to view or edit Personal Information that is stored about you. You may also choose not to accept cookies, including cookies associated with our Services or third party services. To opt out of Google’s use of cookies you can visit Google’s Ads Settings. However, you should take into account that many of the Services or portion of them may not function properly if your cookies are disabled.  
   
-If you are a resident of California, United States, or of the European Union, you have the right to send us written request and ask a list of Personal Information categories that we may disclosed to third parties or to which we may gave access to third parties, and the details of such third parties. To exercise such right you may contact us at: [\[email protected\]](https://anyip.io/cdn-cgi/l/email-protection)  
+If you are a resident of California, United States, or of the European Union, you have the right to send us written request and ask a list of Personal Information categories that we may disclosed to third parties or to which we may gave access to third parties, and the details of such third parties. To exercise such right you may contact us at: [contact@anyip.io](mailto:contact@anyip.io)  
 
 Information Warranty Disclaimer
 -------------------------------
@@ -98,4 +98,4 @@ This Policy may be revised from time to time at our sole discretion, so please c
 Contact Us
 ----------
 
-If you feel that your privacy was treated not in accordance with our Policy, or if you believe that your privacy has been compromised by any person, in the course of using the Services, please contact AnyIP at: [\[email protected\]](https://anyip.io/cdn-cgi/l/email-protection) and our privacy officer shall investigate promptly.
+If you feel that your privacy was treated not in accordance with our Policy, or if you believe that your privacy has been compromised by any person, in the course of using the Services, please contact AnyIP at: [contact@anyip.io](mailto:contact@anyip.io) and our privacy officer shall investigate promptly.
