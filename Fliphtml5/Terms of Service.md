@@ -2,7 +2,9 @@
 
 Enjoying your free trial? Only 9 days left! Upgrade Now
 
-[![FLIPHTML5 logo](/images/header/logo.png)](https://fliphtml5.com/)
+![collapse](/images/header/collapse.svg)
+
+ [![FlipHTML5_Logo](/images/header/logo.png) ![FlipHTML5_Logo](/images/header/logo_m.png)](https://fliphtml5.com/)
 
 * [Features](https://fliphtml5.com/features/)
     
@@ -157,7 +159,9 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
 * [Pricing](https://fliphtml5.com/fliphtml5-pricing.php)
 
-*  ![](/images/header/icon_search.png)
+* ![icon_search](/images/header/icon_search.png)
+    
+    ![icon_close](/images/header/icon_close.svg)
     
 *  [![lang](/images/svg/lang/lang_earth.svg) EN](javascript: void(0);)
     
@@ -191,10 +195,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Tiếng Việt](https://fliphtml5.com/vi/terms-of-service.php)
     * [简体中文](https://fliphtml5.com/zh_cn/terms-of-service.php)
     
-* [Log in](https://fliphtml5.com/login.php)
-* [Try for Free](https://fliphtml5.com/login.php?register)
-
-[Log in](https://fliphtml5.com/login.php)
+* [Sign in](https://fliphtml5.com/login.php) [Try for Free](https://fliphtml5.com/login.php?register)
 
 * Features
     
