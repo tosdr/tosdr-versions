@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Duke Energy giving](/assets/Images/teasers/small/DukeEnergy2000-2014.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-duke-energy/)
-
-Duke Energy giving to sitting governors, 2000-14
+[![Percentage of Competitive Gubernatorial Races, by Incumbency Status, 2001-2016](/assets/Images/teasers/small/competitive-govs.JPG)](https://www.followthemoney.org/research/institute-reports/monetary-competitiveness-in-gubernatorial-elections-2001-2016)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
