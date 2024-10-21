@@ -20,16 +20,16 @@ Monday, October 21 2024
 
 Latest
 
-* [8 Best Gmail Alternatives You Must Try](https://digitpatrox.com/8-best-gmail-alternatives-you-must-try/)
-* [How to watch porn in North Carolina](https://digitpatrox.com/how-to-watch-porn-in-north-carolina/)
-* [UK government inks five-year cloud and AI deal with Microsoft](https://digitpatrox.com/uk-government-inks-five-year-cloud-and-ai-deal-with-microsoft/)
-* [Fake IT workers from North Korea have started blackmailing their victims – Computerworld](https://digitpatrox.com/fake-it-workers-from-north-korea-have-started-blackmailing-their-victims-computerworld/)
-* [11 of the Best Movies About Real American Presidents](https://digitpatrox.com/11-of-the-best-movies-about-real-american-presidents/)
-* [The City of Coon Rapids notifies 2.1K of data breach after June ransomware attack](https://digitpatrox.com/the-city-of-coon-rapids-notifies-2-1k-of-data-breach-after-june-ransomware-attack/)
-* [Serious Bang for Your Buck](https://digitpatrox.com/serious-bang-for-your-buck/)
-* [Microsoft expands autonomy of Copilot agents ahead of public preview](https://digitpatrox.com/microsoft-expands-autonomy-of-copilot-agents-ahead-of-public-preview/)
-* [AirPods 4 vs. Google Pixel Buds Pro 2: Which noise-cancelling earbuds win?](https://digitpatrox.com/airpods-4-vs-google-pixel-buds-pro-2-which-noise-cancelling-earbuds-win/)
-* [Samsung’s Z Fold Special Edition flagship is here](https://digitpatrox.com/samsungs-z-fold-special-edition-flagship-is-here/)
+* [Google Meet just added pronoun support — here’s how to change yours](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
+* [Over 6,000 WordPress hacked to install plugins pushing infostealers](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
+* [News Corp sues Perplexity for ripping off WSJ and New York Post](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
+* [Venom 3 Release Date, Trailer, Cast, Villain and Plot](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
+* [Leaders Staffing notifies 52K people of data breach that compromised SSNs, financial and medical info](https://digitpatrox.com/leaders-staffing-notifies-52k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
+* [Sophos acquires Secureworks for $859 million](https://digitpatrox.com/sophos-acquires-secureworks-for-859-million/)
+* [Microsoft to launch autonomous AI agents in November – Computerworld](https://digitpatrox.com/microsoft-to-launch-autonomous-ai-agents-in-november-computerworld/)
+* [The Sexiest Horror Movies Streaming](https://digitpatrox.com/the-sexiest-horror-movies-streaming/)
+* [How to boot Windows 11 in Safe Mode (2024)](https://digitpatrox.com/how-to-boot-windows-11-in-safe-mode-2024/)
+* [First Drive: Volkswagen ID. Buzz Is at a High Price](https://digitpatrox.com/first-drive-volkswagen-id-buzz-is-at-a-high-price/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/10/Best-Gmail-Alternatives.jpg)](https://digitpatrox.com/8-best-gmail-alternatives-you-must-try/)
+* [![](https://cdn.mos.cms.futurecdn.net/KX28fXJYjf2Pthpm8BwTPD-1200-80.jpg)](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
     
-    [8 Best Gmail Alternatives You Must Try](https://digitpatrox.com/8-best-gmail-alternatives-you-must-try/)
+    [Google Meet just added pronoun support — here’s how to change yours](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
     
-    5 mins ago
+    2 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-watch-porn-in-North-Carolina.jpg)](https://digitpatrox.com/how-to-watch-porn-in-north-carolina/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg)](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
     
-    [How to watch porn in North Carolina](https://digitpatrox.com/how-to-watch-porn-in-north-carolina/)
+    [Over 6,000 WordPress hacked to install plugins pushing infostealers](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
+    
+    30 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/7d11B7zWhOLcLN4H2QUGkiTmo5g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472500/STK271_PERPLEXITY_B.jpg)](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
+    
+    [News Corp sues Perplexity for ripping off WSJ and New York Post](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
+    
+    47 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/06/Venom-3-Release-Date-Trailer-Cast-and-Plot.jpg)](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
+    
+    [Venom 3 Release Date, Trailer, Cast, Villain and Plot](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/7PmCKHFxj4vjsMsEeDN7Tb-1200-80.jpg)](https://digitpatrox.com/uk-government-inks-five-year-cloud-and-ai-deal-with-microsoft/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Indiana-recruitment-firm-notifies-52K-of-data-breach-compromising-SSNs-medical-and-financial-data.jpg)](https://digitpatrox.com/leaders-staffing-notifies-52k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
     
-    [UK government inks five-year cloud and AI deal with Microsoft](https://digitpatrox.com/uk-government-inks-five-year-cloud-and-ai-deal-with-microsoft/)
-    
-    1 hour ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3573968-0-09068200-1729510570-North-Korea-digital-hacking-attack-flag.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/fake-it-workers-from-north-korea-have-started-blackmailing-their-victims-computerworld/)
-    
-    [Fake IT workers from North Korea have started blackmailing their victims – Computerworld](https://digitpatrox.com/fake-it-workers-from-north-korea-have-started-blackmailing-their-victims-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JAF30S171ZD4JMB85AK6VZZY/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/11-of-the-best-movies-about-real-american-presidents/)
-    
-    [11 of the Best Movies About Real American Presidents](https://digitpatrox.com/11-of-the-best-movies-about-real-american-presidents/)
+    [Leaders Staffing notifies 52K people of data breach that compromised SSNs, financial and medical info](https://digitpatrox.com/leaders-staffing-notifies-52k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
+* [2 mins ago
     
-    ### 8 Best Gmail Alternatives You Must Try](https://digitpatrox.com/8-best-gmail-alternatives-you-must-try/)
-* [1 hour ago
+    ### Google Meet just added pronoun support — here’s how to change yours](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
+* [30 mins ago
     
-    ### How to watch porn in North Carolina](https://digitpatrox.com/how-to-watch-porn-in-north-carolina/)
-* [1 hour ago
+    ### Over 6,000 WordPress hacked to install plugins pushing infostealers](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
+* [47 mins ago
     
-    ### UK government inks five-year cloud and AI deal with Microsoft](https://digitpatrox.com/uk-government-inks-five-year-cloud-and-ai-deal-with-microsoft/)
+    ### News Corp sues Perplexity for ripping off WSJ and New York Post](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
 
 Most Popular Topics
 
-* [September 2, 2024
+* [August 27, 2024
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-2/)
-* [August 26, 2024
+    ### You Can Get Windows 11 Pro on Sale for $23 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-on-sale-for-23-right-now/)
+* [2 weeks ago
     
-    ### Arc Search Browser Is Coming to Android Very Soon](https://digitpatrox.com/arc-search-browser-is-coming-to-android-very-soon/)
-* [6 days ago
+    ### 10 Best Pale Garden Seeds in Minecraft](https://digitpatrox.com/10-best-pale-garden-seeds-in-minecraft/)
+* [21 hours ago
     
-    ### New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+    ### Internet Archive breached again through stolen access tokens](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Serious Bang for Your Buck](https://digitpatrox.com/serious-bang-for-your-buck/)
+    ### Microsoft to launch autonomous AI agents in November – Computerworld](https://digitpatrox.com/microsoft-to-launch-autonomous-ai-agents-in-november-computerworld/)
+* [3 hours ago
+    
+    ### The Sexiest Horror Movies Streaming](https://digitpatrox.com/the-sexiest-horror-movies-streaming/)
 * [4 hours ago
     
-    ### Microsoft expands autonomy of Copilot agents ahead of public preview](https://digitpatrox.com/microsoft-expands-autonomy-of-copilot-agents-ahead-of-public-preview/)
-* [4 hours ago
-    
-    ### AirPods 4 vs. Google Pixel Buds Pro 2: Which noise-cancelling earbuds win?](https://digitpatrox.com/airpods-4-vs-google-pixel-buds-pro-2-which-noise-cancelling-earbuds-win/)
+    ### How to boot Windows 11 in Safe Mode (2024)](https://digitpatrox.com/how-to-boot-windows-11-in-safe-mode-2024/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
