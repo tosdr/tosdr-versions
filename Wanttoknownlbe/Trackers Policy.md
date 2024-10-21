@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/het-wordt-tijd-dat-zorgprofessionals-alternatieve-geneeswijzen-serieus-nemen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/griekenland-d-day-europa/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Gesponsord medicijn-research: bétere resultaten..???
+
+[Wonderlijk fenomeen, dat mensdom. Ik was nog maar een ventje…](https://www.wanttoknow.nl/gezondheid/big-pharma/gesponsord-medicijn-research-betere-resultaten/comment-page-1/#comment-626343)
 
 ![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wim Abeln, in memoriam..
 
 [Er schijnt dan geen dood te zijn maar toch maken veel mensen…](https://www.wanttoknow.nl/effetjes/wim-abeln-in-memoriam/comment-page-1/#comment-626312)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Wat is tijd..??
-
-[Inderdaad Adriaan. Honderd procent mee eens. Dankzij wanttok…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626311)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
