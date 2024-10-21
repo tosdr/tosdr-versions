@@ -2074,6 +2074,7 @@
             * [ ]  [Webcasts](https://handbook.gitlab.com/handbook/marketing/virtual-events/webcasts/)
                 * [ ]  [Webex Webcasts](https://handbook.gitlab.com/handbook/marketing/virtual-events/webcasts/webex/)
     * [ ]  [People Group](https://handbook.gitlab.com/handbook/people-group/)
+        * [ ] [](https://handbook.gitlab.com/handbook/people-group/promotion-document-style-guide/)
         * [ ]  [360 Feedback](https://handbook.gitlab.com/handbook/people-group/360-feedback/)
         * [ ]  [Anti-Harassment Policy](https://handbook.gitlab.com/handbook/people-group/anti-harassment/)
         * [ ]  [Competencies](https://handbook.gitlab.com/handbook/people-group/competencies/)
