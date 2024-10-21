@@ -52,11 +52,11 @@ Wells Fargo reserves the right to modify these Terms of Use at any time without 
 Trademarks, Copyrights, and Restrictions On Use
 -----------------------------------------------
 
-All trademarks, service marks, trade names, trade dress and related intellectual property rights in the Services are proprietary to Wells Fargo or our licensors or licensees. You may not use, reproduce or display any of the Wells Fargo trademarks except upon Wells Fargo’s prior written consent.
+All trademarks, service marks, trade names, trade dress, and related intellectual property rights in the Services are proprietary to Wells Fargo or our licensors or licensees. You may not use, reproduce, or display any of the Wells Fargo trademarks except upon Wells Fargo’s prior written consent.
 
 The Site and its entire contents, features, and functionality (including but not limited to all web pages, user interfaces, information, design, software, source code, text, displays, graphics, images, videos, and audio recordings, and the design, selection, and arrangement thereof) are owned, controlled, or licensed by Wells Fargo, and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. Except as expressly provided in these Terms of Use, you may not copy, display, distribute, transmit, transfer, link to, reproduce, license, frame, alter, create derivative works of, reverse engineer, or republish all or any portion of the Site for any commercial or public purpose without Wells Fargo's prior written consent. You may, however, view information available on the Site for your informational purposes. You may download from the Site materials, except for software or source code, but only for your personal or internal business purposes only. You may download software or source code from the Site, but only such software or source code purposely made available to you by Wells Fargo for downloading from the Site, subject to any applicable terms of use. You acknowledge and agree that you do not acquire any ownership rights of any kind by downloading materials from the Site.
 
-Your use of the Services, including the Site, imposes on you an obligation of appropriate use and conduct, which includes, but is not limited to, not causing an unreasonable or disproportionately large processing load on our Services or systems, not engaging in any conduct that restricts or inhibits use of the Services by others, and not introducing or transmitting any virus, worm, Trojan horse or other material that may harm or disrupt our Services or systems. Unauthorized use of the Services, misuse of passwords, or misuse of any information or material posted on this Site is strictly prohibited.
+Your use of the Services, including the Site, imposes on you an obligation of appropriate use and conduct, which includes, but is not limited to, not causing an unreasonable or disproportionately large processing load on our Services or systems, not engaging in any conduct that restricts or inhibits use of the Services by others, and not introducing or transmitting any virus, worm, Trojan horse, or other material that may harm or disrupt our Services or systems. Unauthorized use of the Services, misuse of passwords, or misuse of any information or material posted on this Site is strictly prohibited.
 
 You may use the Services, including the Site, only for lawful purposes and you agree not to use the Services in any way that violates any applicable federal, state, local, or international law or regulation.
 
@@ -78,7 +78,7 @@ You may be invited to register at the Site to help us tailor the Service for you
 Privacy
 -------
 
-Your use of the Site or Services is subject to the applicable privacy-related policies and notices of Wells Fargo, potentially including but not limited to the [Wells Fargo U.S. Consumer Privacy Notice](https://www.wellsfargo.com/assets/pdf/personal/privacy-security/us_consumer_privacy_notice_english.pdf) and the [Wells Fargo Digital Privacy and Cookies Policy](https://www.wellsfargo.com/privacy-security/online/). To the extent permitted by applicable law, by accessing or using the Site or Services, you understand and agree that Wells Fargo may collect and retain personal or other information about you or the device you use to access the Site or Services. By using the Site, you consent to Wells Fargo’s use of analytics and monitoring tools to collect user interaction with our products, which may include collection of behavioral characteristics such as keystroke and mouse movement patterns. These interactions are collected using cookies and technical log files. We use the data for purposes that include interaction monitoring and visual replay for fraud, customer service, product improvement, and other purposes allowed by law.
+Your use of the Site or Services is subject to the applicable privacy-related policies and notices of Wells Fargo, potentially including but not limited to the [Wells Fargo U.S. Consumer Privacy Notice](https://www.wellsfargo.com/assets/pdf/personal/privacy-security/us_consumer_privacy_notice_english.pdf) and the [Wells Fargo Digital Privacy and Cookies Policy](https://www.wellsfargo.com/privacy-security/online/). To the extent permitted by applicable law, by accessing or using the Site or Services, you understand and agree that Wells Fargo may collect and retain personal or other information about you or the device you use to access the Site or Services and share with our service providers as allowed by applicable law and our privacy notices. By using the Site, you consent to Wells Fargo’s use of analytics and monitoring tools to collect user interaction with our products, which may include collection of behavioral characteristics such as keystroke and mouse movement patterns. You also agree these services are strictly necessary for the operation of this website. These interactions are collected using cookies and technical log files. We use the data for purposes that include interaction monitoring and visual replay for fraud, customer service, product improvement, and other purposes allowed by law. Any conversations with us through use of chat, virtual assistant, or a similar service are monitored, recorded, and retained, potentially without any further notice to you.
 
 Feedback
 --------
@@ -144,9 +144,9 @@ Investment products and services are offered through Wells Fargo Advisors. Wells
 
 Deposit products offered by Wells Fargo Bank, N.A. Member FDIC.
 
-RSNIP-05012025-6068620.1.1
+RSNIP-03232026-7047880.1.1
 
-LRC-1023
+LRC-0924
 
 * [Privacy, Cookies, Security & Legal](https://www.wellsfargo.com/privacy-security/)
 * [Do Not Sell or Share My Personal Information](https://www.wellsfargo.com/privacy-security/opt-out-notice/)
@@ -161,4 +161,4 @@ LRC-1023
 
 © 1999 - 2024 Wells Fargo. NMLSR ID 399801
 
-![](/assets/images/global/s.gif?log=1&cb=1729505961198&event=PageLoad&pid=222-19478-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fprivacy-security%2Fterms%2F&clist=182-15108-16~223-3748-32|84-5529-16~91-2045-32|84-15318-16~91-1924-32|84-6793-16~91-1924-32|84-221979-16~91-1924-32|84-257671-16~91-1924-32)
+![](/assets/images/global/s.gif?log=1&cb=1729528190018&event=PageLoad&pid=222-19478-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fprivacy-security%2Fterms%2F&clist=182-15108-16~223-3748-32|84-5529-16~91-2045-32|84-15318-16~91-1924-32|84-6793-16~91-1924-32|84-221979-16~91-1924-32|84-304793-16~91-1924-32)
