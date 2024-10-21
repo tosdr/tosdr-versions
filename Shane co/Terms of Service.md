@@ -119,9 +119,9 @@ NEXT
 
  
 
-[](https://www.shaneco.com/customer-service)
-
 [](https://www.shaneco.com/jewelry-store-finder)
+
+[](https://www.shaneco.com/customer-service)
 
 [](https://www.shaneco.com/favorites/)
 
@@ -143,28 +143,14 @@ Help and Order Info
 * [Call (866) 467-4263](tel:+1-866-467-4263)
 * [Text Us (720) 730-2009](sms:+1-720-730-2009)
 
-Store Locations
----------------
+Find My Store
+-------------
 
-* [Atlanta](https://www.shaneco.com/jewelry-stores/atlanta-ga?promo_name=nav&promo_id=utility&promo_creative=stores_atlanta)
-* [Denver](https://www.shaneco.com/jewelry-stores/denver-co?promo_name=nav&promo_id=utility&promo_creative=stores_denver)
-* [Indianapolis](https://www.shaneco.com/jewelry-stores/indianapolis-in?promo_name=nav&promo_id=utility&promo_creative=stores_indianapolis)
-* [Kansas City](https://www.shaneco.com/jewelry-stores/kansas-city-ks/overland-park?promo_name=nav&promo_id=utility&promo_creative=stores_kansascity)
-* [Louisville](https://www.shaneco.com/jewelry-stores/louisville-ky?promo_name=nav&promo_id=utility&promo_creative=stores_louisville)
-* [Minneapolis/St. Paul](https://www.shaneco.com/jewelry-stores/minneapolis-mn?promo_name=nav&promo_id=utility&promo_creative=stores_minn)
-* [Nashville](https://www.shaneco.com/jewelry-stores/nashville-tn/franklin?promo_name=nav&promo_id=utility&promo_creative=stores_nashville)
-* [Phoenix](https://www.shaneco.com/jewelry-stores/phoenix-az?promo_name=nav&promo_id=utility&promo_creative=stores_phoenix)
-* [Portland](https://www.shaneco.com/jewelry-stores/portland-or/tigard?promo_name=nav&promo_id=utility&promo_creative=stores_portland)
-* [Sacramento](https://www.shaneco.com/jewelry-stores/sacramento-ca/roseville?promo_name=nav&promo_id=utility&promo_creative=stores_sacramento)
-* [Salt Lake City](https://www.shaneco.com/jewelry-stores/salt-lake-city-ut/midvale?promo_name=nav&promo_id=utility&promo_creative=stores_slc)
-* [San Francisco Bay](https://www.shaneco.com/jewelry-stores/san-francisco-ca?promo_name=nav&promo_id=utility&promo_creative=stores_sanfrancisco)
-* [Seattle](https://www.shaneco.com/jewelry-stores/seattle-wa?promo_name=nav&promo_id=utility&promo_creative=stores_seattle)
-* [St. Louis](https://www.shaneco.com/jewelry-stores/st-louis-mo/olivette?promo_name=nav&promo_id=utility&promo_creative=stores_stl)
+[Use my location](javascript:;)
 
-* [Stores](https://www.shaneco.com/jewelry-store-finder?promo_name=nav&promo_id=utility&promo_creative=stores_top)
-    
-    [Atlanta](https://www.shaneco.com/jewelry-stores/atlanta-ga?promo_name=nav&promo_id=utility&promo_creative=stores_atlanta) [Denver](https://www.shaneco.com/jewelry-stores/denver-co?promo_name=nav&promo_id=utility&promo_creative=stores_denver) [Indianapolis](https://www.shaneco.com/jewelry-stores/indianapolis-in?promo_name=nav&promo_id=utility&promo_creative=stores_indianapolis) [Kansas City](https://www.shaneco.com/jewelry-stores/kansas-city-ks/overland-park?promo_name=nav&promo_id=utility&promo_creative=stores_kansascity) [Louisville](https://www.shaneco.com/jewelry-stores/louisville-ky?promo_name=nav&promo_id=utility&promo_creative=stores_louisville) [Minneapolis/St. Paul](https://www.shaneco.com/jewelry-stores/minneapolis-mn?promo_name=nav&promo_id=utility&promo_creative=stores_minn) [Nashville](https://www.shaneco.com/jewelry-stores/nashville-tn/franklin?promo_name=nav&promo_id=utility&promo_creative=stores_nashville) [Phoenix](https://www.shaneco.com/jewelry-stores/phoenix-az?promo_name=nav&promo_id=utility&promo_creative=stores_phoenix) [Portland](https://www.shaneco.com/jewelry-stores/portland-or/tigard?promo_name=nav&promo_id=utility&promo_creative=stores_portland) [Sacramento](https://www.shaneco.com/jewelry-stores/sacramento-ca/roseville?promo_name=nav&promo_id=utility&promo_creative=stores_sacramento) [Salt Lake City](https://www.shaneco.com/jewelry-stores/salt-lake-city-ut/midvale?promo_name=nav&promo_id=utility&promo_creative=stores_slc) [San Francisco Bay](https://www.shaneco.com/jewelry-stores/san-francisco-ca?promo_name=nav&promo_id=utility&promo_creative=stores_sanfrancisco) [Seattle](https://www.shaneco.com/jewelry-stores/seattle-wa?promo_name=nav&promo_id=utility&promo_creative=stores_seattle) [St. Louis](https://www.shaneco.com/jewelry-stores/st-louis-mo/olivette?promo_name=nav&promo_id=utility&promo_creative=stores_stl)
-    
+ Search text
+
+[All Store Locations](https://www.shaneco.com/jewelry-store-finder)
 
 Log In or Sign Up
 -----------------
@@ -510,6 +496,15 @@ SEND
 Your email has been sent
 
 OK
+
+Find My Store
+-------------
+
+[Use my location](javascript:;)
+
+ Search text
+
+[All Store Locations](https://www.shaneco.com/jewelry-store-finder)
 
 Terms and Conditions
 ====================
