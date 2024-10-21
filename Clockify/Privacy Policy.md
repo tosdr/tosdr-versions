@@ -247,17 +247,25 @@ LIST OF SUB-PROCESSORS
 
 CAKE.com uses the third party entities (["sub-processors"](https://cake.com/sub-processors)) below to process personal data on behalf of CAKE.com customers:
 
+Business phone systemCloud Infrastructure (IaaS)Software DevelopmentAnalyticsElectronic SignatureAnalyticsCloud InfrastructureAffiliate PlatformEmail automation toolCloud Computing ServicesCRMPayment ProviderAnalyticsEmail & Chat SupportSales enrichment tool
+
 | Processor/Sub-Processor | Role | Seat |
 | --- | --- | --- |
-| Amazon Web Services, Inc. | Cloud Infrastructure (IaaS) | USA |
-| COING DOO | Software Development | Serbia |
-| Databricks, Inc. | Analytics | USA |
-| Hetzner Online GmbH. | Email Services | Germany |
-| Google, Inc. | Analytics | USA |
-| Microsoft, Inc. | Cloud Computing Services | USA |
-| Stripe, Inc. | Payment Provider | USA |
-| Tableau Software, LLC. | Analytics | USA |
-| Zendesk, Inc. | Email & Chat Support | USA |
+| Aircall.io, Inc | USA |
+| Amazon Web Services, Inc. | USA |
+| COING DOO | Serbia |
+| Databricks, Inc. | USA |
+| Eversign GmbH | Austria |
+| Google, Inc. | USA |
+| Hetzner Online GmbH. | Germany |
+| Igil Webs SRL | Romania |
+| Lempire SAS | France |
+| Microsoft, Inc. | USA |
+| Pipedrive OÜ | Estonia |
+| Stripe, Inc. | USA |
+| Tableau Software, LLC. | USA |
+| Zendesk, Inc. | USA |
+| ZenLeads Inc. | USA |
 
 ### Questions or Complaints
 
