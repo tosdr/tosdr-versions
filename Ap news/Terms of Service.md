@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel targets Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
+    * [Lebanon assesses damage after Israel strikes Hezbollah-run financial institution](https://apnews.com/article/israel-palestinians-lebanon-news-10-21-2024-3fe94c75a6d6d44c89f350d7e94785df)
     * [Israel's wars are expensive. Paying the bill could force tough choices](https://apnews.com/article/israel-hamas-hezbollah-war-cost-military-spending-32a53a86d946418022ca636539a83f4f)
-    * [Oscar brings winds, heavy rains to eastern Cuba after striking the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
+    * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
-    * [Thelma Mothershed Wair, a member of the Little Rock Nine who integrated an Arkansas school, has died](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-215186ffd2c05e086ffdccc1abdc6a07)
-    * [2 Navy aviators are declared dead after a fighter jet crashed in Washington state](https://apnews.com/article/navy-fighter-jet-crash-growler-0de956683aa5a3ba86ccf1a6d572899f)
+    * [Georgia islanders rushed to rescue survivors after dock walkway collapse that killed 7](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
+    * [Texas man whose execution was halted by subpoena set to testify to lawmakers](https://apnews.com/article/robert-roberson-texas-execution-shaken-baby-syndrome-1fc3638211444a6117ef2567fedca7e4)
     
     Newsletters
     
@@ -66,9 +66,9 @@ Menu
     
     TOP STORIES
     
+    * [Harris seeks to win over Republicans uneasy about Trump with visits to Midwestern suburbs](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
     * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
-    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
-    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
+    * ['Stunning security failures' led to assassination attempt at Trump rally, House report finds](https://apnews.com/article/secret-service-trump-rally-shooting-butler-police-1210961700efa7ffb826155fa580d038)
     
     Newsletters
     
@@ -87,8 +87,8 @@ Menu
     TOP STORIES
     
     * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
-    * [Dodgers finish off Mets with 10-5 win in NLCS and advance to face Yankees in World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
-    * [Browns QB Watson suffers likely season-ending Achilles injury. Teammates upset some fans cheered](https://apnews.com/article/deshaun-watson-browns-76623d8f8713c4b8dc569b485d9d4593)
+    * [Dodgers finish off Mets and will face Yankees in the World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
+    * [Russell Wilson throws for 2 TDs, runs for another TD in Pittsburgh debut as Steelers rout Jets 37-15](https://apnews.com/article/jets-steelers-score-6bdbea40a2d48c539f7afd324afc3ac7)
     
     Newsletters
     
@@ -110,7 +110,7 @@ Menu
     
     * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
     * [Directioners mourning singer Liam Payne leave tributes in London and other cities](https://apnews.com/article/britain-liam-payne-vigil-kensington-gardens-c14bec35ea2b14c27bf29368cfeed4b8)
-    * [King Charles and Queen Camilla lay wreaths at Australian War Memorial then greet well-wishers](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
+    * ['You are not my king,' Indigenous Australian senator yells at visiting King Charles](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
     
 * [Business](https://apnews.com/business)
     
@@ -122,7 +122,7 @@ Menu
     
     * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
     * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
-    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
+    * [Brazil environmental disaster victims take case against mining giant BHP to UK court](https://apnews.com/article/brazil-mine-disaster-bhp-lawsuit-britain-0c56e57e70c92b8dc99b04ac34962cf2)
     
 * [Science](https://apnews.com/science)
     
@@ -151,11 +151,11 @@ Menu
     
     TOP STORIES
     
+    * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
     * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
-    * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Funeral home in Poland apologizes after a corpse falls out of a hearse in traffic](https://apnews.com/article/poland-hearse-corpse-apology-21d29f1ddd883fe0bfc2ae278b89be6d)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -241,7 +241,7 @@ Menu
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
     * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
+    * [White House says health insurance needs to fully cover condoms, other over-the-counter birth control](https://apnews.com/article/birth-control-free-insurance-morning-after-pill-f9701dc9137867c62f6a22e1501bebe6)
     
 * [Tech](https://apnews.com/technology)
     
@@ -287,12 +287,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel anuncia que ahora atacará brazo financiero de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
+    * [Líbano evalúa los daños tras ataques israelíes contra una institución financiera de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-0e7987eb35e9fce3dc5bb9c212275a17)
     * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
     * [Policías, fiscales y peritos de Sinaloa conspiraron para encubrir asesinato de rival de gobernador](https://apnews.com/article/mexico-sinaloa-mayo-zambada-cuen-rocha-moya-chapitos-9437ef5c96b69d334add1d73bc420b9d)
-    * [Harris asiste a servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
-    * [Lula cancela viaje a cumbre BRICS tras accidente doméstico](https://apnews.com/article/brasil-lula-accidente-9c5e30f2878e24d7ba3318520f6b56c2)
-    * [Thelma Mothershed Wair, miembro de los 9 de Little Rock, fallece a los 83 años](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-racismo-arkansas-ce81916ce0d92b1b2df925abca4c2e8c)
+    * [El jefe de defensa de EEUU visita Kiev para hablar del apoyo en la lucha contra Rusia](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * ["Usted no es mi rey", grita una senadora australiana al rey Carlos durante su visita oficial](https://apnews.com/article/australia-rey-carlos-protesta-reino-unido-6ff946bd803c16480a766446de679029)
+    * [El líder religioso turco Fethullah Gülen muere en un exilio autoimpuesto en Pensilvania](https://apnews.com/article/gulen-turquia-erdogan-muerte-521f1c52a2fba436e47f934d1e182007)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel targets Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
+    * [Lebanon assesses damage after Israel strikes Hezbollah-run financial institution](https://apnews.com/article/israel-palestinians-lebanon-news-10-21-2024-3fe94c75a6d6d44c89f350d7e94785df)
     * [Israel's wars are expensive. Paying the bill could force tough choices](https://apnews.com/article/israel-hamas-hezbollah-war-cost-military-spending-32a53a86d946418022ca636539a83f4f)
-    * [Oscar brings winds, heavy rains to eastern Cuba after striking the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
+    * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
     
     Newsletters
     
@@ -472,8 +472,8 @@ Submit Search
     TOP STORIES
     
     * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
-    * [Thelma Mothershed Wair, a member of the Little Rock Nine who integrated an Arkansas school, has died](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-215186ffd2c05e086ffdccc1abdc6a07)
-    * [2 Navy aviators are declared dead after a fighter jet crashed in Washington state](https://apnews.com/article/navy-fighter-jet-crash-growler-0de956683aa5a3ba86ccf1a6d572899f)
+    * [Georgia islanders rushed to rescue survivors after dock walkway collapse that killed 7](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
+    * [Texas man whose execution was halted by subpoena set to testify to lawmakers](https://apnews.com/article/robert-roberson-texas-execution-shaken-baby-syndrome-1fc3638211444a6117ef2567fedca7e4)
     
     Newsletters
     
@@ -519,9 +519,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Harris seeks to win over Republicans uneasy about Trump with visits to Midwestern suburbs](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
     * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
-    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
-    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
+    * ['Stunning security failures' led to assassination attempt at Trump rally, House report finds](https://apnews.com/article/secret-service-trump-rally-shooting-butler-police-1210961700efa7ffb826155fa580d038)
     
     Newsletters
     
@@ -550,8 +550,8 @@ Submit Search
     TOP STORIES
     
     * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
-    * [Dodgers finish off Mets with 10-5 win in NLCS and advance to face Yankees in World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
-    * [Browns QB Watson suffers likely season-ending Achilles injury. Teammates upset some fans cheered](https://apnews.com/article/deshaun-watson-browns-76623d8f8713c4b8dc569b485d9d4593)
+    * [Dodgers finish off Mets and will face Yankees in the World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
+    * [Russell Wilson throws for 2 TDs, runs for another TD in Pittsburgh debut as Steelers rout Jets 37-15](https://apnews.com/article/jets-steelers-score-6bdbea40a2d48c539f7afd324afc3ac7)
     
     Newsletters
     
@@ -580,7 +580,7 @@ Submit Search
     
     * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
     * [Directioners mourning singer Liam Payne leave tributes in London and other cities](https://apnews.com/article/britain-liam-payne-vigil-kensington-gardens-c14bec35ea2b14c27bf29368cfeed4b8)
-    * [King Charles and Queen Camilla lay wreaths at Australian War Memorial then greet well-wishers](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
+    * ['You are not my king,' Indigenous Australian senator yells at visiting King Charles](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
     
 * [Business](https://apnews.com/business)
     
@@ -596,7 +596,7 @@ Submit Search
     
     * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
     * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
-    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
+    * [Brazil environmental disaster victims take case against mining giant BHP to UK court](https://apnews.com/article/brazil-mine-disaster-bhp-lawsuit-britain-0c56e57e70c92b8dc99b04ac34962cf2)
     
 * [Science](https://apnews.com/science)
     
@@ -631,11 +631,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
     * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
-    * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Funeral home in Poland apologizes after a corpse falls out of a hearse in traffic](https://apnews.com/article/poland-hearse-corpse-apology-21d29f1ddd883fe0bfc2ae278b89be6d)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -730,7 +730,7 @@ Submit Search
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
     * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
     * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
+    * [White House says health insurance needs to fully cover condoms, other over-the-counter birth control](https://apnews.com/article/birth-control-free-insurance-morning-after-pill-f9701dc9137867c62f6a22e1501bebe6)
     
 * [Tech](https://apnews.com/technology)
     
@@ -787,12 +787,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel anuncia que ahora atacará brazo financiero de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
+    * [Líbano evalúa los daños tras ataques israelíes contra una institución financiera de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-0e7987eb35e9fce3dc5bb9c212275a17)
     * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
     * [Policías, fiscales y peritos de Sinaloa conspiraron para encubrir asesinato de rival de gobernador](https://apnews.com/article/mexico-sinaloa-mayo-zambada-cuen-rocha-moya-chapitos-9437ef5c96b69d334add1d73bc420b9d)
-    * [Harris asiste a servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
-    * [Lula cancela viaje a cumbre BRICS tras accidente doméstico](https://apnews.com/article/brasil-lula-accidente-9c5e30f2878e24d7ba3318520f6b56c2)
-    * [Thelma Mothershed Wair, miembro de los 9 de Little Rock, fallece a los 83 años](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-racismo-arkansas-ce81916ce0d92b1b2df925abca4c2e8c)
+    * [El jefe de defensa de EEUU visita Kiev para hablar del apoyo en la lucha contra Rusia](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * ["Usted no es mi rey", grita una senadora australiana al rey Carlos durante su visita oficial](https://apnews.com/article/australia-rey-carlos-protesta-reino-unido-6ff946bd803c16480a766446de679029)
+    * [El líder religioso turco Fethullah Gülen muere en un exilio autoimpuesto en Pensilvania](https://apnews.com/article/gulen-turquia-erdogan-muerte-521f1c52a2fba436e47f934d1e182007)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
