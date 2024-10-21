@@ -191,12 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Sergeant Delmas G. Akers](https://cdn.returningveterans.org/images/honor/Delmas_Akers_2.jpg)  
+![HMCM (SS/SW) Craig R. Soleim Jr](https://cdn.returningveterans.org/images/honor/Soleim.JPG)  
 
-**In Memory of Sergeant Delmas G. Akers**  
-United States Air Force  
-United States Army  
-Submitted by Monte Akers](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of HMCM (SS/SW) Craig R. Soleim Jr**  
+United States Navy  
+Submitted by Craig and Robin Soleim](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -241,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/20/24 - 2:24:54  
+Printed 10/20/24 - 8:23:47  
 © 2024 Returning Veterans Project
