@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
@@ -149,13 +150,14 @@ Latest reactions
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
-* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 
 Latest forum posts
 
-* [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx "The Matrix digital rain on MSX")
 * [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
 * [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
+* [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx "The Matrix digital rain on MSX")
+* [Boot Manager 1.0](https://www.msx.org/forum/msx-talk/software/boot-manager-10?page=1 "Boot Manager 1.0")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=4 "Carnivore2+ announcements")
 * [RoboPlay - Multi format music player in Fusion-C](https://www.msx.org/forum/msx-talk/graphics-and-music/roboplay-multi-format-music-player-in-fusion-c?page=25 "RoboPlay - Multi format music player in Fusion-C")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
@@ -164,8 +166,6 @@ Latest forum posts
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=19 "VATT - VRAM Access Timing Tester")
 * [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=2 "Arkos Tracker 3!")
-* [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=4 "CVBasic: New BASIC compiler for MSX")
-* [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars?page=1 "Robot Wars")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
