@@ -137,6 +137,10 @@
     
     [Go to blog](https://timeular.com/blog/)
     
+    [![Work Habits](https://timeular.com/wp-content/uploads/2024/10/Copy-of-Copy-of-Copy-of-Blog-image-2-768x432.png)
+    
+    Top Work Habits To Hack Your Day](https://timeular.com/blog/work-habits/)
+    
     [![Short-Term and Long-Term Goals](https://timeular.com/wp-content/uploads/2024/10/Copy-of-Copy-of-Copy-of-Blog-image-768x432.png)
     
     Short-Term and Long-Term Goals (Blueprint, Examples)](https://timeular.com/blog/short-term-long-term-goals/)
@@ -144,10 +148,6 @@
     [![](https://timeular.com/wp-content/uploads/2024/10/Copy-of-Copy-of-Blog-image-768x432.png)
     
     Areas of Improvement at Work: From Good to Great](https://timeular.com/blog/areas-improvement-work/)
-    
-    [![](https://timeular.com/wp-content/uploads/2024/09/Copy-of-Copy-of-Copy-of-Copy-of-Blog-image-4-768x432.png)
-    
-    Time Management Systems: All You Need to Know](https://timeular.com/blog/time-management-systems/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Enterprise](https://timeular.com/enterprise-time-tracking/)
