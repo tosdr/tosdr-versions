@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/ruimteweer-zonne-activiteiten-en-onze-spirituele-ontwikkeling/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/verkiezingen/de-vs-verkiezingen-krijgen-echt-nog-een-staart/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
