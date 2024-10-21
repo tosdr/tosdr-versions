@@ -310,7 +310,7 @@ EarthLink
 * [Contact](https://www.earthlink.net/about-us/contact/)
 * [Media](https://www.earthlink.net/media/)
 * [Partners](https://www.earthlink.net/about-us/partners/)
-* [Programs](https://www.earthlink.net/tcs/programs/)
+* [Programs](https://www.earthlink.net/programs/)
 * [Careers](https://www.earthlink.net/about-us/careers/)
 * [Terms & Conditions](https://www.earthlink.net/tcs/)
 
