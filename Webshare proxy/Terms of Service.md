@@ -216,7 +216,7 @@ No credit card required.
 Terms of Service
 ================
 
-Updated May 25, 2023
+Last Updated: October 9, 2024
 
 Welcome to Webshare! These Terms of Service (these “**Terms**”) of Webshare Software, Company (“**Webshare**,” “**our**,” “**we**,” or “**us**”) describe your rights and responsibilities when accessing and using our platform and any and all related software, services and documentation provided by Webshare (collectively, the “**Service**”). By accessing or using the Service, you signify that you have read, understood, and agree to be bound by these Terms, whether or not you are a registered user of our Service. Webshare reserves the right to modify these Terms and will provide notice of these changes as described below (section 13.2.). These Terms apply to all visitors, users, and others who access or use the Service (“**Users**”).
 
@@ -264,11 +264,15 @@ The Service is controlled and operated from facilities in the United States. Web
 
 Please review our [**Privacy Policy**](https://www.webshare.io/privacy-policy) for more information on how we collect and use data relating to the use and performance of our websites and products, including personal information about our Customers and Authorized Users.
 
-**2\. User Content**
+**1.10 Fair Usage Policy**
+
+In order to ensure optimal quality and performance of the Service to all Users, usage of the Service is subject to certain limits set out in our [**Fair Usage Policy**](https://www.webshare.io/fair-usage-policy). Please review the [**Fair Usage Policy**](https://www.webshare.io/fair-usage-policy) to understand the limits that may be applicable to your use of the Service. 
+
+Webshare reserves the right to unilaterally amend this [**Fair Usage Policy**](https://www.webshare.io/fair-usage-policy) and its accompanying limits at any time without prior notice.
+
+##### **2\. User Content**
 
 Some areas of the Service may allow Users to submit, post, display, provide, or otherwise make available content such as profile information, videos, images, comments, questions, and other content or information (any such materials a User submits, posts, displays, provides, or otherwise makes available on the Service is referred to as “**User Content**”).
-
-We claim no ownership rights over User Content created by you. The User Content you create remains yours. However, you understand that certain portions of the Service may allow other Users to view, edit, share, and/or otherwise interact with your User Content. Webshare has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the Service.
 
 By submitting, posting, displaying, providing, or otherwise making available any User Content on or through the Service, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to Webshare a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content and anything contained therein, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and Webshare’s (and its successors’ and affiliates’) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each User of the Service a non-exclusive license to access your User Content through the Service, and to use, reproduce, distribute, display and perform such User Content as permitted through the functionality of the Service and under these Terms.
 
@@ -288,6 +292,10 @@ Webshare takes no responsibility and assumes no liability for any User Content t
 You may choose to or we may invite you to submit comments or ideas about the Service, including without limitation about how to improve the Service or our products (“Ideas”). By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place Webshare under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone. You further acknowledge that, by acceptance of your submission, Webshare does not waive any rights to use similar or related ideas previously known to Webshare, or developed by its employees, or obtained from sources other than you.
 
 **3\. Our Proprietary Rights**
+
+Except for your User Content, the Service and all materials therein or transferred thereby, including, without limitation, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music, and User Content belonging to other Users (the “**Webshare Content**”), and all Intellectual Property Rights related thereto, are the exclusive property of Webshare and its licensors (including other Users who post User Content to the Service). Except as explicitly provided herein, nothing in these Terms shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any Webshare Content. Use of the Webshare Content for any purpose not expressly permitted by these Terms is strictly prohibited.
+
+You may choose to or we may invite you to submit comments or ideas about the Service, including without limitation about how to improve the Service or our products (“**Ideas**”). By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place Webshare under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone. You further acknowledge that, by acceptance of your submission, Webshare does not waive any rights to use similar or related ideas previously known to Webshare, or developed by its employees, or obtained from sources other than you.
 
 Please refer to the [Intellectual Property page](https://www.webshare.io/intellectual-property) for information about Intellectual property rights owned by Webshare
 
