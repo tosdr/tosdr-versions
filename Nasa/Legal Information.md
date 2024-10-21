@@ -369,7 +369,7 @@ article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### What is Air Quality?
 
-article 2 days ago](https://www.nasa.gov/general/what-is-air-quality/)
+article 3 days ago](https://www.nasa.gov/general/what-is-air-quality/)
 
 ### Highlights
 
@@ -391,7 +391,7 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-p
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 6 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
+article 7 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
 
 ### Highlights
 
