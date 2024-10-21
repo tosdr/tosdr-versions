@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Запечённый картофель с мясным соусом и кабачками](https://www.russianfood.com/recipes/recipe.php?rid=174291)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -170,6 +166,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусные идеи на скорую руку. Лучшие рецепты БЫСТРЕЕ! №24-43](https://www.russianfood.com/reading/?post_id=22752) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/727/sm_726828.jpg)](https://www.russianfood.com/reading/?post_id=22752)
+
+Писто. Салат из красной рыбы, помидоров и авокадо. Гороховый суп с колбасками и перцем. Курица со сметаной и карри. Свинина с грибами и фасолью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22752)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22752#comments) | 21.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Просто, но с фантазией. Лучшие рецепты из ЛАВАША (30)](https://www.russianfood.com/reading/?post_id=22751) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/720/sm_719836.jpg)](https://www.russianfood.com/reading/?post_id=22751)
+
+Лаваш с фаршем, рисом и сыром. Курица с картофелем в лаваше. Пирог из лаваша с грушей и яблоком. Лаваш с грибами, сыром и шпинатом. Лаваш с сыром, яйцами и зеленью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22751)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22751#comments) | 21.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=173962#comments) | 17.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Оладьи из кабачков с бататом](https://www.russianfood.com/recipes/recipe.php?rid=174187) |     |
-
-[![Фото к рецепту: Оладьи из кабачков с бататом](//img1.russianfood.com/dycontent/images_upl/744/sm_743198.jpg "Фото к рецепту: Оладьи из кабачков с бататом")](https://www.russianfood.com/recipes/recipe.php?rid=174187)
-
-Оригинальные оладьи из кабачков, компанию которым составит не картофель, а батат (сладкий картофель). Такой дуэт придаёт оладьям необычный вкус с лёгкой сладковатой ноткой, делая их особенно нежными и ароматными.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174187)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174187#comments) | 17.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Салат с морским коктейлем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173769) |     |
-
-[![Фото к рецепту: Салат с морским коктейлем и помидорами](//img1.russianfood.com/dycontent/images_upl/738/sm_737287.jpg "Фото к рецепту: Салат с морским коктейлем и помидорами")](https://www.russianfood.com/recipes/recipe.php?rid=173769)
-
-Салат с морским коктейлем и помидорами займёт достойное место в меню любителей морепродуктов. Морской коктейль обжаривается вместе с луком, что обеспечивает аппетитный аромат. Для заправки используется смесь соевого соуса, терияки, сока лимона и мёда.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173769)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173769#comments) | 17.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -463,4 +459,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(84)
+(159)
