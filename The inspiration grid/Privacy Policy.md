@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/10/editorial-pentips-halloween-cover.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Illustration](https://theinspirationgrid.com/category/illustration/)
+
+[](https://theinspirationgrid.com/editorial/wicked-discounts-some-of-our-favorite-ipad-accessories-are-on-sale-for-halloween/)
+
+### Wicked Discounts: Some of our favorite iPad accessories are on sale for Halloween
+
 ![](https://inspgr.id/app/uploads/2024/10/editorial-esr-charging-stand-review-feature.jpg)
 
 [Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/analogues-sleek-recreation-of-the-n64-fully-revealed-launching-early-2025/)
 
 ### Analogue’s sleek recreation of the N64 fully revealed, launching early 2025
-
-![](https://inspgr.id/app/uploads/2024/10/ada-winners-packaging-feature.jpg)
-
-[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/top-10-packaging-design-winners-from-a-design-awards/)
-
-### Top 10 Packaging Design Winners from A’ Design Awards
 
 #want
 -----
