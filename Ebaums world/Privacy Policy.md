@@ -259,13 +259,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/) [‘You Got Lamb Chops, You Got Steak!’ Guy Refuses to Split $4,600 Bill Just Because It’s Somebody's Birthday](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/)
-    
-    [![fails and facepalms](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/) [36 Fails and Facepalms Crushing Your Hope for Future Generations](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/)
-    
-    [![34 of the Funniest Tweets of the Week According to Us](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/) [34 of the Funniest Tweets of the Week According to Us](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/)
+    [![james corden](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/) [James Corden Once Stole a Joke From Ricky Gervais Word for Word](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/)
     
     [![22 Fails and Facepalms From the Past Few Weeks](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/) [22 Fails, Flounders, and Facepalms That Cracked Us Up](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/)
+    
+    [![Climber Forgets to Attach His Rope, Pays the Price](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/) [Climber Forgets to Attach His Rope, Pays the Price](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/)
+    
+    [![34 of the Funniest Tweets of the Week According to Us](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/) [34 of the Funniest Tweets of the Week According to Us](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/)
     
 
 * Advertisement
