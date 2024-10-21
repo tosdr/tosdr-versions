@@ -1,7 +1,5 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Use code SAVE10 to save 10% on select Certified Refurbished. [Shop](https://www.bose.com/c/refurbished)
-
 Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
 [Cancel](#)
@@ -73,20 +71,20 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/46d72d3372f1aa07/webimage-SF_FR_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
+    [![](https://assets.bosecreative.com/m/5475f5da9e0a6a07/webimage-SF_QCEB25_MOB-NAV_WHITE_EXPRESSIVE.png)
     
-    Certified Refurbished
+    NEW QUIETCOMFORT EARBUDS
     
-    ### Save an extra 10%](https://www.bose.com/c/refurbished "SHOP")
+    ### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
     
      
     
-    Better sound. Better savings.
-    -----------------------------
+    Powerful, not precious
+    ----------------------
     
-    Save an extra 10% on select Certified Refurbished products with coupon code SAVE10.
+    New QuietComfort Earbuds
     
-    [SHOP](https://www.bose.com/c/refurbished "SHOP")
+    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
     
 
 * [Explore](#)
@@ -126,6 +124,9 @@ Back
     * [My Orders](https://www.bose.com/trackorder)
     * [My Products](https://www.bose.com/product-registration)
     * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
+    * [Sign in](https://www.bose.com/account)
+    
+    * [My Bose](https://www.bose.com/my-bose-account-perks)
     
     Back
     
@@ -153,11 +154,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/46d72d3372f1aa07/webimage-SF_FR_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
+[![](https://assets.bosecreative.com/m/5475f5da9e0a6a07/webimage-SF_QCEB25_MOB-NAV_WHITE_EXPRESSIVE.png)
 
-Certified Refurbished
+NEW QUIETCOMFORT EARBUDS
 
-### Save an extra 10%](https://www.bose.com/c/refurbished "SHOP")
+### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwc2c3a7a3/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
