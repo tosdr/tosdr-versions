@@ -304,12 +304,15 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Ready to get started?
+### Priority Support
 
   
-Sign up for a free dynamic DNS account, no credit card needed  
+
+#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
+
   
-[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
+
+[Get Priority Support](https://www.dynu.com/Membership)  
   
 
 ### News
