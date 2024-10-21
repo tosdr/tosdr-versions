@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Mistral AI](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/)
-* [Kindle Color](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
-* [Cybertruck](https://techcrunch.com/2024/10/16/are-cybertrucks-too-angular-for-europe/)
-* [Boston Dynamics](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
-* [Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/)
+* [AirPods Pro Hearing Aids](https://techcrunch.com/2024/10/21/a-closer-look-at-the-airpods-pros-new-hearing-aid-feature/)
+* [WordPress vs. WP Engine](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/)
+* [Perplexity AI](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/)
+* [DataCrunch](https://techcrunch.com/2024/10/21/datacrunch-wants-to-be-europes-first-ai-cloud-hyperscaler-powered-by-renewable-energy/https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
+* [Women in AI](https://techcrunch.com/2024/10/20/women-in-ai-marissa-hummon-thinks-ai-will-help-make-the-power-grid-greener/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
