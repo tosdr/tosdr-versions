@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Race Drivin'](https://www.myabandonware.com/game/race-drivin-1ho)
+* [Puyo Puyo Sun](https://www.myabandonware.com/game/puyo-puyo-sun-99f)
+* [San Francisco Rush: Extreme Racing](https://www.myabandonware.com/game/san-francisco-rush-extreme-racing-dh1)
 * [Sea Wolf](https://www.myabandonware.com/game/sea-wolf-5r9)
 * [RoadBlasters](https://www.myabandonware.com/game/roadblasters-531)
-* [Shanghai](https://www.myabandonware.com/game/shanghai-8u)
-* [Connect 4](https://www.myabandonware.com/game/connect-4-sx9)
-* [CoffeeBreak Card Games](https://www.myabandonware.com/game/coffeebreak-card-games-sx8)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
