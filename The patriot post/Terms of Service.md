@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111212-mid-day-digest-2024-10-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111255-mid-day-digest-2024-10-21?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,32 +185,32 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111212-mid-day-digest-2024-10-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111255-mid-day-digest-2024-10-21?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111189-isaiah-40-31-2024-10-20)
+     [](https://patriotpost.us/memes/111239-the-post-interview-glow-2024-10-21)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34386)
+     [](https://patriotpost.us/cartoons/34391)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [E. Calvin Beisner No Nefarious Actor Caused or Influenced Hurricanes Helene and Milton](https://patriotpost.us/opinion/111246-no-nefarious-actor-caused-or-influenced-hurricanes-helene-and-milton-2024-10-21)
+*      [Hans von Spakovsky Are UK Labor Party and Harris Campaign Headed for Legal Jeopardy?](https://patriotpost.us/opinion/111226-are-uk-labor-party-and-harris-campaign-headed-for-legal-jeopardy-2024-10-21)
+*      [Rich Lowry Harris Has No Credibility on Immigration](https://patriotpost.us/opinion/111225-harris-has-no-credibility-on-immigration-2024-10-21)
+*      [Gary Bauer Tip of the Spear](https://patriotpost.us/opinion/111223-tip-of-the-spear-2024-10-21)
+*      [The Washington Stand Biblical Counsel for the Indecisive](https://patriotpost.us/opinion/111234-biblical-counsel-for-the-indecisive-2024-10-21)
+*      [The Babylon Bee Trump Promises to Bring Back the Good Happy Meal Toys](https://patriotpost.us/opinion/111224-trump-promises-to-bring-back-the-good-happy-meal-toys-2024-10-21)
 *      [Matthew Continetti America Is Moving Right. But for How Long?](https://patriotpost.us/opinion/111211-america-is-moving-right-but-for-how-long-2024-10-19)
 *      [Mark Alexander Memo to Harris: Violent Crime Did NOT Decline](https://patriotpost.us/alexander/111195-memo-to-harris-violent-crime-did-not-decline-2024-10-18)
-*      [Hans von Spakovsky Why Are Criminal Illegal Aliens Allowed to Roam U.S. Freely?](https://patriotpost.us/opinion/111208-why-are-criminal-illegal-aliens-allowed-to-roam-us-freely-2024-10-18)
-*      [Michael Reagan Kamala Shows America How Much She Hates Trump](https://patriotpost.us/opinion/111207-kamala-shows-america-how-much-she-hates-trump-2024-10-18)
-*      [Tim Graham Fox’s Bret Baier Pressed Harris, and the Powder-Puff Press Hated It](https://patriotpost.us/opinion/111206-foxs-bret-baier-pressed-harris-and-the-powder-puff-press-hated-it-2024-10-18)
-*      [Gary Bauer Baier vs. Harris](https://patriotpost.us/opinion/111205-baier-vs-harris-2024-10-18)
-*      [Michael Barone Are Minorities Voting Increasingly Like Normies?](https://patriotpost.us/opinion/111203-are-minorities-voting-increasingly-like-normies-2024-10-18)
-*      [Josh Hammer The Collapse of Kamala Harris](https://patriotpost.us/opinion/111201-the-collapse-of-kamala-harris-2024-10-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,13 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“To prevent crimes, is the noblest end and aim of criminal jurisprudence. To punish them, is one of the means necessary for the accomplishment of this noble end and aim.” —James Wilson (1790)
+“Democratical States must always feel before they can see: it is this that makes their Governments slow, but the people will be right at last.” —George Washington (1785)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
