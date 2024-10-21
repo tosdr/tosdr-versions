@@ -31,11 +31,673 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Guayaquil este lunes 21 de octubre
+===================================================
+
+CNEL define la programación de los cortes de luz en Guayaquil, este lunes 21 de octubre.
+----------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil son de hasta ocho horas para este lunes 21 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-lunes-21-octubre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **lunes 21 de octubre** son de hasta ocho horas.
+
+**CNEL** dividió los cortes de luz en la capital en dos franjas horarias, dependiendo del sector.
+
+### Más noticias:
+
+* [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+
+Horarios de cortes de luz en Guayaquil este lunes 21 de octubre
+---------------------------------------------------------------
+
+La situación de los embalses de las **centrales hidroeléctricas** del país aún no es óptima.
+
+El **río Tomebamba** en Cuenca nuevamente estuvo en estiaje esta semana y los caudales de los otros tres ríos aún es bajo.
+
+Sin embargo, el Gobierno de Daniel Noboa dispuso la reducción de las horas de cortes de luz programados hasta el **10 de noviembre**.
+
+En la semana que va del 28 de octubre al 3 de noviembre, los cortes de luz serán **de seis horas**.
+
+Y, en la tercera semana de reducción, que va del 4 al 10 de noviembre, el Gobierno ordenó **cortes de cuatro horas.**
+
+La ministra de Energía encargada, **Inés Manzano**, aseguró que, para diciembre de este año, los cortes ya serían mínimos.
+
+La reducción paulatina aplica para el sector residencial; para el **sector industrial** los horarios se mantienen.
+
+Esta es una más de las medidas que el Gobierno de **Daniel Noboa** toma para palear los efectos de la **crisis energética** en el país.
+
+Otras medidas anunciadas fueron la militarización de las hidroeléctricas, el trasporte de **soluciones móviles** de energía en aviones Hércules.
+
+Además, la suspensión de la contratación de **barcazas** y otras.
+
+A continuación, los horarios de los **cortes de luz en Guayaquil este lunes 21 de octubre**:
+
+La reducción de horas en los cortes de luz también provocó cambios en los horarios escolares.
+
+Desde este lunes, la jornada vespertina irá hasta las 20:00 y, en la jornada nocturna, 50 instituciones volverán a la presencialidad.  
+
+  
+
+¿Cómo queda la Liga Pro tras la fecha 10 de la segunda etapa?
+=============================================================
+
+Liga de Quito quedó como lider en solitario en la fecha 10 de la segunda etapa de la Liga Pro y se perfila para ganar la ronda.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Leonel Quiñónez y Lisandro Alzugaray celebran uno de sus goles con Liga de Quito en Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241019133222-fbl-liga-pro-tecnico-liga-scaled.jpg)
+
+La fecha 10 de la segunda etapa de la **Liga Pro** finalizó con el Clásico del Astillero entre Emelec y **Barcelona SC** y los puestos quedaron definidos para los 16 clubes. Con el fin de la jornada, el torneo entra en su recta final con cinco fechas por disputarse.
+
+Después de los ocho compromisos que reanudaron el torneo tras el parón de las eliminatorias sudamericanas, un **líder** quedó en solitario y se perfila para ganar la etapa. Asimismo, los aspirantes esperan tropezones de sus rivales directos para tener un mayor margen y **oportunidades**.
+
+### Más noticias:
+
+* [Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último](https://www.elcomercio.com/deportes/aucas-liga-pro-macara-partido.html "Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último")
+* [Barcelona SC vence a Emelec y se adueña del Clásico del Astillero](https://www.elcomercio.com/deportes/barcelona-emelec-clasico-astillero-fecha-10.html "Barcelona SC vence a Emelec y se adueña del Clásico del Astillero")
+* [El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-delfin-liga-pro-segunda-etapa-fecha-10.html "El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador")
+
+**Liga de Quito** fue el elenco que terminó como puntero, con 22 puntos, tras vencer a Técnico Universitario y depende de sí mismo. Pese a ello, la distancia no es tan amplia con su escolta **Independiente del Valle**, que también triunfó ante Imbabura y llegó a los 20 puntos[.](https://en.wikipedia.org/wiki/Ecuadorian_Serie_A "https://en.wikipedia.org/wiki/Ecuadorian_Serie_A")
+
+Entre los clubes que aún mantiene chances, pero están más alejados, se ubican **Orense, Universidad Católica y Mushuc Runa**. Finalmente, Barcelona, a seis puntos del líder, se aferra a la ilusión.
+
+Tabla de posiciones de la segunda etapa de la Liga Pro
+------------------------------------------------------
+
+**1.- Liga de Quito**: 22 puntos y +10 de gol diferencia.
+
+**2.- Independiente del Valle**: 20 puntos y +9 de gol diferencia.
+
+**3.- Orense**: 19 puntos y +3 de gol diferencia.
+
+**4.- Universidad Católica**: 17 puntos y +4 de gol diferencia.
+
+**5.- Mushuc Runa**: 17 puntos y +4 de gol diferencia.
+
+**6.- Barcelona SC**: 16 puntos y -2 de gol diferencia.
+
+**7.- Delfín**: 15 puntos y +1 de gol diferencia.
+
+**8.- El Nacional**: 15 puntos y +1 de gol diferencia.
+
+**9.- Macará**: 13 puntos y -3 de gol diferencia.
+
+**10.- Técnico Universitario**: 12 puntos y +1 de gol diferencia.
+
+**11.- Libertad**: 12 puntos y -4 de gol diferencia.
+
+**12.- Imbabura**: 10 puntos y -3 de gol diferencia.
+
+**13.- Deportivo Cuenca**: 9 puntos y 0 de gol diferencia.
+
+**14.- Aucas**: 8 puntos y -8 de gol diferencia.
+
+**15.- Emelec**: 7 puntos y -4 de gol diferencia.
+
+**16.- Cumbayá**: 5 puntos y -9 de gol diferencia.
+
+Cortes de luz en Quito este lunes 21 de octubre
+===============================================
+
+Desde este lunes 21 de octubre, Quito y todo el país tendrán cortes de luz de hasta ocho horas.
+-----------------------------------------------------------------------------------------------
+
+![La Empresa Eléctrica Quito programa los cortes de luz en Quito para este lunes 21 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-lunes-21-octubre.jpg)
+
+Los **cortes de luz** en **Quito** este **lunes 21 de octubre** son de hasta **ocho horas**.
+
+La **Empresa Eléctrica Quito** dividió los cortes de luz en la capital en **dos franjas horarias**, dependiendo del sector.
+
+### Más noticias:
+
+* [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+
+Horarios de cortes de luz en Quito este lunes 21 de octubre
+-----------------------------------------------------------
+
+La situación de los embalses de las **centrales hidroeléctricas** del país aún no es óptima.
+
+El **río Tomebamba** en Cuenca nuevamente estuvo en estiaje esta semana y los caudales de los otros tres ríos aún es bajo.
+
+Sin embargo, el Gobierno de **Daniel Noboa** dispuso la reducción de las horas de cortes de luz programados hasta el **10 de noviembre**.
+
+En la semana que va del **28 de octubre al 3 de noviembre**, los cortes de luz serán de seis horas.
+
+Y, en la tercera semana de reducción, que va **del 4 al 10 de noviembre**, el Gobierno ordenó cortes de cuatro horas.
+
+La ministra de Energía encargada, **Inés Manzano**, aseguró que, para diciembre de este año, los cortes ya serían mínimos.
+
+La reducción paulatina aplica para el **sector residencial**; para el **sector industrial** los horarios se mantienen.
+
+Esta es una más de las medidas que el Gobierno de **Daniel Noboa** toma para palear los efectos de la crisis energética en el país.
+
+Otras medidas anunciadas fueron la militarización de las **hidroeléctricas**, el trasporte de soluciones móviles de energía en aviones Hércules.
+
+Además, la suspensión de la contratación de **barcazas** y otras.
+
+A continuación, los horarios de **los cortes de luz en Quito este lunes 21 de octubre**:
+
+La reducción de horas en los cortes de luz también provocó cambios en los **horarios escolares**.
+
+Desde este lunes, la jornada **vespertina** irá hasta las 20:00 y, en la jornada **nocturna**, 50 instituciones volverán a la presencialidad.
+
+Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios
+================================================================================================
+
+Del 21 al 27 de octubre, Ecuador tendrá cortes de luz de hasta ocho horas; esta es la primera semana de reducción fijada por el Gobierno.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Ecuador del 21 al 27 de octubre serán de hasta ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-ecuador-21-al-27-octubre.jpg)
+
+Los **cortes de luz** en **Ecuador** se reducen a ocho horas del **21 al 27 de octubre** de 2024.
+
+Esta es la primera semana de reducción de las horas en los cortes de luz programados por las empresas eléctricas, por disposición del Gobierno de **Daniel Noboa**.
+
+### Más noticias:
+
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+* [Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decision-subsidio-electricidad-empresas-mineras.html "Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras")
+
+Horarios de los cortes de luz en Ecuador del 21 al 27 de octubre
+----------------------------------------------------------------
+
+Aunque la situación de los embalses de las centrales hidroeléctricas del país aún no es óptima, la reducción de las horas de cortes de luz está programada **hasta el 10 de noviembre.**
+
+En la semana que va del **28 de octubre al 3 de noviembre**, los cortes de luz serán de seis horas.
+
+Y, en la tercera semana de reducción, que va **del 4 al 10 de noviembre**, el Gobierno ordenó cortes de cuatro horas.
+
+La ministra de Energía encargada**, Inés Manzano**, aseguró que, para **diciembre** de este año, los cortes ya serían mínimos.
+
+La reducción paulatina aplica para el sector residencial; para el **sector industrial** los horarios se mantienen.
+
+Esta es una más de las medidas que el Gobierno toma para palear los efectos de la **crisis energética** en el país.
+
+Otras medidas anunciadas fueron la **militarización** de las hidroeléctricas, el trasporte de soluciones móviles de energía en aviones Hércules.
+
+Además, la suspensión de la contratación de barcazas y la revisión del subsidio a las empresas **mineras** y otras.
+
+En el siguiente enlace, puede encontrar los **horarios de cortes de luz en Ecuador del 21 al 27 de octubre**, por empresas eléctricas, ciudades y franjas horarias: [bit.ly/rac27al10](https://t.co/wR8C8JMAWL).
+
+> 📍¡IMPORTANTE!  
+>   
+> Informamos sobre los racionamientos del servicio de energía eléctrica, a escala nacional, desde el 21 de octubre hasta el 10 de noviembre.  
+>   
+> 🔸Conoce la programación en el siguiente enlace➡️ [https://t.co/wR8C8JMAWL](https://t.co/wR8C8JMAWL) [pic.twitter.com/YJr2sds9tv](https://t.co/YJr2sds9tv)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 19, 2024](https://twitter.com/RecNaturalesEC/status/1847476425978253439?ref_src=twsrc%5Etfw)
+
+Cambios en horarios escolares por cortes de luz del 21 al 27 de octubre en Ecuador
+----------------------------------------------------------------------------------
+
+La reducción de las horas de cortes de luz provocó cambios en los **horarios escolares**.
+
+El **Ministerio de Educación** informó que, en la jornada matutina, los horarios de clases no sufrirán cambios.
+
+Para quienes estudian en la vespertina, deberán comenzar con su jornada a la hora de costumbre; sin embargo, saldrán a las **18:00**.
+
+En la jornada nocturna, **50 escuelas** públicas de ocho provincias regresarán a la presencialidad.
+
+Estas unidades fueron “estratégicamente ubicadas” al comprobarse que **no se verán afectadas** por los apagones programados, afirmó el Ministerio.
+
+Estas instituciones pertenecen a **Napo, Pichincha, Azuay, Cañar, Morona Santiago, El Oro, Loja y Guayas**.
+
+Las otras instituciones educativas que funcionan en la noche mantendrán la **virtualidad.**
+
+Barcelona SC vence a Emelec y se adueña del Clásico del Astillero
+=================================================================
+
+Barcelona SC se impuso a Emelec en el Clásico del Astillero gracias a los goles de Ángel Rangel y de Janner Corozo.
+-------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Barcelona SC celebran uno de sus goles ante Emelec en el Clásico del Astillero.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241020133434-fbl-ligapro-barcelona-emelec-scaled.jpg)
+
+La fecha 10 de la **Liga Pro** llegó con un partido crucial en el fútbol ecuatoriano, el Clásico del Astillero. Desde las 17:00 de este domingo 20 de octubre de 2024 se llevó a cabo el partido entre **Barcelona SC y Emelec**, donde el Ídolo se impuso por 2-1.
+
+El choque entre las dos escuadras fue el último de la jornada y definió la tabla de posiciones de la segunda etapa de cara a sus **cinco últimas fechas**. El salir triunfante era vital para dos clubes que se encontraban en un bajo momento y tenían sus aspiraciones comprometidas.
+
+### Más noticias:
+
+* [¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?](https://www.elcomercio.com/deportes/a-que-hora-juegan-clasico-astillero-emelec-barcelona-partido.html "¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?")
+* [Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-emelec-clasico-astillero.html "Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico")
+* [¿Cuál es la diferencia de Barcelona SC y Emelec en el Clásico del Astillero?](https://www.elcomercio.com/deportes/historial-235-barcelona-emelec-clasico-astillero.html "¿Cuál es la diferencia de Barcelona SC y Emelec en el Clásico del Astillero?")
+
+**Barcelona SC** ocupaba la novena posición de la segunda etapa con 13 puntos y con limitadas chances de buscar ganarla, mientras que **Emelec** se encontraba en el penúltimo puesto y suma apenas 7. A nivel de la tabla general, el ‘Ídolo’ busca ingresar a la Copa Libertadores y el ‘Bombillo’ hacerlo a la **Copa Sudamericana.**
+
+El partido se jugóen el Estadio Monumental de Guayaquil, donde el equipo torero debutó con **Segundo Alejandro Castillo** como DT, pues asumió el cargo tras la salida de Ariel Holan. Por su parte, los eléctricos siguieron bajo la dirección de Leonel Álvarez[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
+
+Este fue el Clásico del Astillero número 235 entre ambos clubes. Con el nuevo resultado, Barcelona SC registra 75 victorias; Emelec, 72; y los empates son 88.
+
+Barcelona y Emelec igualaron en la primera mitad del Clásico
+------------------------------------------------------------
+
+El cotejo arrancó frenético y con un **Barcelona SC** a ponerse por delante lo más pronto posible. El equipo de **Alejandro Castillo** optó por explotar el poderío de los volantes a las bandas y pases filtrados desde los mediocentros.
+
+El planteamiento del entrenador ecuatoriano dio resultado y el ‘Ídolo’ encontró el gol a los 9 minutos de partido. Tras el primer tiro de esquina, conseguido por **Cristian Solano**, el equipo local envió el balón al fondo de las redes.
+
+Luego del centro hacia el área, **Bryan Oyola** conectó el balón y, después de un rebote entre el arquero Pedro Ortiz y Ronny Borja, **Janner Corozo** volvió a cabecear. En el segundo intento, Ortiz alcanzó a rozar la pelota, pero no fue suficiente.
+
+10 minutos después del tanto inicial, **Barcelona SC** tuvo la chance de ampliar aún más el marcador. El juez central pitó un penal a favor de los toreros, pero el VAR lo llamó a rectificar.
+
+Después de recibir el primer tanto, **Emelec** arrinconó de a poco a la escuadra canaria, hasta que en el cierre de la etapa inicial consiguió el empate. A raíz de un contragolpe, Washington Corozo probó desde fuera del área y venció a Víctor Mendoza a los 37.
+
+Álex Rangel le dio el triunfo a Barcelona SC
+--------------------------------------------
+
+Durante la segunda mitad, **Barcelona** tuvo sus mejores momentos del partido y cambió la imagen que había mostrado en el cierre de los primeros 45 minutos de juego. A pesar de tal desarrollo, el gol no le llegó por medio de tal vía, sino que de nuevo se impuso la pelota parada.
+
+A lo 75, al igual que en el primer tiempo, el ‘Ídolo’ tuvo una chance desde un tiro de esquina, también desde el costado derecho. Luego del envío, **Álex Rangel** se elevó y su golpe de cabeza fue suficiente para vencer a **Pedro Ortiz.** Tras el tanto, manejar el resultado no le representó un inconveniente al elenco y aseguró el triunfo.
+
+Con la victoria, Barcelona SC asciende hacia el **sexto puesto** y se aferra a sus chances de remontar y ganar la etapa, aunque no depende de sí mismo. Emelec baja hacia la **última casilla** de la ronda.
+
+Alineaciones de Barcelona SC y Emelec en el Clásico del Astillero
+-----------------------------------------------------------------
+
+**Barcelona SC**: Víctor Mendoza (arquero); Byron Castillo, Álex Rangel, Luca Sosa, Aníbal Chalá (defensas); Jesús Trindade, Leonai Souza, Cristian Solano, Bryan Oyola, Janner Corozo (delanteros); Octavio Rivero (delantero).
+
+**Emelec**: Pedro Ortiz (arquero); Romario Caicedo, Fernando León, Diogo Bagüí, Gustavo Cortez (defensas); Marcelo Meli, Roony Borja, Washington Corozo, Elkin Muñoz, Juan Pablo Ruiz Gómez (volantes); Maicon Solís (delantero).
+
+Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último
+=============================================================================
+
+Aucas consiguió su segundo triunfo en la última etapa de la Liga Pro ante Macará con Michael Carcelén como figura.
+------------------------------------------------------------------------------------------------------------------
+
+![Michael Carcelén (de frente) celebra un gol de Aucas con Facundo Callejo en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241020133396-fbl-ligapro-aucas-macara-scaled.jpg)
+
+**Aucas** dejó el último puesto de la tabla de posiciones de la segunda etapa tras vencer a **Macará** en la fecha 10 de la Liga Pro. El equipo realizó uno de sus mejores partidos durante la vigente ronda del campeonato y bailó a los celestes.
+
+Con un **Michael Carcelén** inspirado, que fue el líder futbolístico de Aucas, el conjunto aurigrana consiguió su segundo triunfo dentro del segundo semestre del 2024. Antes, el plantel de Chillogallo solo había podido imponerse ante **Cumbayá**.
+
+### Más noticias:
+
+* [Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/diego-aguirre-aucas-penarol-copa-libertadores.html "Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores")
+* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
+* [Aucas se hunde en una crisis de resultados y críticas](https://www.elcomercio.com/deportes/futbol/aucas-crisis-liga-pro-tabla.html "Aucas se hunde en una crisis de resultados y críticas")
+
+El triunfo de los orientales también significó el segundo del **DT Gabriel Pereyra** con el equipo capitalino. Previo a su arribo pasaron por el banquillo Sebastián Blásquez y Jorge Alfonso durante la segunda etapa, pues al final de la primera se marchó Gerardo Espinoza.
+
+A pesar de su flojo presente y escasez de triunfos, gracias a la buena primera etapa que realizó, **Aucas** no se encuentra cercano al descenso. Los puntos, sin embargo, le son útiles para sus aspiraciones de llegar a un torneo internacional por medio de la **tabla acumulada**.
+
+Michael Carcelén, un jugador distinto para Aucas en Liga Pro
+------------------------------------------------------------
+
+En el triunfo que consiguió Aucas frente a Macará, **Michael Carcelén** tuvo una actuación fundamental para que aquello sucede. El **volante** fue el mejor futbolista del compromiso y colaboró con un gol y una asistencia para el plantel del sur de Quito.
+
+Apenas a los seis minutos del choque entre el aurigranas y celestes, Carcelén bordó su nombre en el marcador. Pese a que instantes después empató **Adolfo Muñoz** para el conjunto de Ambato, el ‘Ídolo del Pueblo’ volvió a imponerse.
+
+Los goles del triunfo para Aucas llegaron gracias a **Jean Carlos Blanco** de penal y **Facundo Callejo** en los minutos finales. Para el último tanto del cotejo, Carcelén dio su habilitación[.](https://en.wikipedia.org/wiki/S.D._Aucas "https://en.wikipedia.org/wiki/S.D._Aucas")
+
+¿Cómo quedan Aucas y Macará en la Liga Pro?
+-------------------------------------------
+
+El triunfo pone a **Aucas** en la penúltima casilla de la segunda etapa de la Liga Pro con ocho puntos. Por debajo, el único equipo que se encuentra es **Cumbayá** con cinco unidades. En el caso de Macará, este ocupa la novena posición.
+
+A nivel de la tabla acumulada, los orientales están en el **sexto puesto**, sector de clasificación a Copa Sudamericana, con 35 unidades. Los celestes están en **décimo** con 31 puntos y fuera de torneos internacionales.
+
+Viuda de alias ‘Rasquiña’, Samara R., conocerá su sentencia ¿De qué se le acusa?
+================================================================================
+
+El juicio contra la viuda de alias Rasquiña, Samara R. se desarrolla en la Corte Provincial de Justicia del Guayas.
+-------------------------------------------------------------------------------------------------------------------
+
+![La viuda de alias Rasquiña, Samara R. con el exlíder de Los Choneros.](https://www.elcomercio.com/wp-content/uploads/2024/10/viuda-alias-Rasquina-Samara-R.jpg)
+
+La viuda de **Jorge Luis Zambrano**, **alias ‘Rasquiña’**, **Samara R**., conocerá la sentencia del **juicio** que la **Fiscalía** sigue en su contra.
+
+La **Sala de lo Penal del Guayas** dará a conocer su veredicto en este caso que involucra a otras personas, incluyendo a dos funcionarios penitenciarios, el martes 22 de octubre.
+
+### Más noticias:
+
+* [Caso Metástasis ya tiene fecha de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-tiene-fecha-juicio.html "Caso Metástasis ya tiene fecha de juicio")
+* [Casos Metástasis, Purga y Plaga derivan en separación de 25 servidores judiciales](https://www.elcomercio.com/actualidad/seguridad/casos-metastasis-purga-plaga-derivan-separacion-25servidores-judiciales.html "Casos Metástasis, Purga y Plaga derivan en separación de 25 servidores judiciales")
+
+¿De qué se acusa a la viuda de alias ‘Rasquiña’, Samara R.?
+-----------------------------------------------------------
+
+El viernes 18 de octubre, en la **Corte Provincial del Guayas**, concluyó la audiencia de juzgamiento contra Samara R, viuda de alias ‘Rasquiña’, exlíder de **Los Choneros**.
+
+En este caso también son procesados Héctor R., **exdirector de la Penitenciaría del Litoral y un exfuncionario del SNAI**, en Cotopaxi. 
+
+Héctor R. ya tiene una sentencia en su contra por **concusión.**
+
+La Fiscalía procesa a Samara R. y otros por el **delito de asociación ilícita.**
+
+Durante el juicio, la Fiscalía presentó las **pruebas** documentales, periciales y testimoniales que “sustentan su acusación contra los procesados”.
+
+Según la Fiscalía, Samara R. participó en **diligencias ilegales** para liberar a alias Rasquiña en **2020**.
+
+El objetivo de Samara R. habría sido conseguir la **prelibertad** de su pareja.
+
+Jorge Luis Zambrano, alias ‘Rasquiña’ fue el líder de la banda de Los Choneros, grupo de delincuencia organizada dedicado al **narcotráfico, el sicariato y la extorsión** en Ecuador. 
+
+Zambrano estuvo **detenido** desde el 7 de septiembre de 2011 y obtuvo su **prelibertad** en  junio de 2020.
+
+Sin embargo, el 28 de diciembre del mismo año, sicarios asesinaron a alias Rasquiña en un centro comercial de **Manta**.
+
+El 10 de junio, [la justicia ordenó la captura de Samara R.](https://www.elcomercio.com/actualidad/seguridad/justicia-ordena-captura-viuda-alias-rasquina.html) por **no asistir** a las audiencias.
+
+Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1
+===========================================================
+
+Charles Leclerc y Carlos Sainz de Ferrari finalizaron en el primer y segundo puesto del Gran Premio de Estados Unidos de la Fórmula 1.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Charles Leclerc, ganador del Gran Premio de Estados Unidos 2024 de la Fórmula 1.](https://www.elcomercio.com/wp-content/uploads/2024/10/f14a9b6cb16ae1c644cda34d03c7a0a5ce7f749c.jpg)
+
+El monegasco **Charles Leclerc** (Ferrari) se alzó este domingo con la victoria en el Gran Premio de Estados Unidos, por delante de su compañero, el español **Carlos Sainz**, al aprovecharse de la lucha entre Max Verstappen (Red Bull) y **Lando Norris** (McLaren), que terminó con una penalización de cinco segundos al británico que dio al neerlandés una tercera plaza que prácticamente remata el Mundial.
+
+**Sainz** firmó un gran segundo puesto pese a verse afectado por la pugna de la primera vuelta entre **Norris y Verstappen**, mientras que el mexicano Sergio Pérez (Red Bull) remontó hasta la séptima posición, el argentino Franco Colapinto (Williams) pasó de la décimo quinta a la décima plaza, sumando un punto, y el español Fernando Alonso (Aston Martin) acabó decimotercero.
+
+### Más noticias:
+
+* [Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa](https://www.elcomercio.com/deportes/mateo-villagomez-campeon-francia-primer-ecuatoriano-piloto.html "Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa")
+* [El experimentado Daniel Ricciardo abandona la Fórmula 1](https://www.elcomercio.com/deportes/daniel-ricciardo-formula-uno-retiro.html "El experimentado Daniel Ricciardo abandona la Fórmula 1")
+* [Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1](https://www.elcomercio.com/deportes/formula-1/oscar-piastri-formula-uno-azerbaiyan-formula1.html "Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1")
+
+La pugna entre **Norris**, que salía en la ‘pole’ y **Verstappen**, segundo, marcó la carrera desde el primer segundo. El neerlandés echó de la pista al inglés en la primera curva al obligarle a salirse de la pista, un movimiento que afectó a **Sainz**, tercero justo por detrás del piloto de McLaren, y que benefició a un **Leclerc** que trazó por el interior la curva y adelantó tres posiciones de un plumazo, mientras el británico bajaba hasta la cuarta y el neerlandés mantenía la segunda plaza.
+
+No obstante, el ritmo de **Norris** en la segunda mitad de la carrera le permitió no sólo llegar a **Verstappen**, sino también pasarle al final de la larga recta trasera en la **vuelta 52**, aunque lo hizo por fuera de la pista, al verse obligado a salir para no tocarse de nuevo con ‘Mad Max’, lo mismo que le había ocurrido en la primera vuelta.
+
+Ese adelantamiento por fuera le valió una penalización de cinco segundos que propició que **Norris** terminara cuarto y el neerlandés tercero, lo que deja a este con **57 puntos de ventaja** sobre aquel al acabar el fin de semana y deja prácticamente liquidado el Mundial de pilotos.
+
+Verstappen arrinconó a Norris y ambos perdieron en Fórmula 1
+------------------------------------------------------------
+
+Aunque la ‘pole position’ fue para **Norris**, que salió bien en los primeros metros, el triple campeón mundial, segundo, se metió en la trazada del inglés en la primera curva, en la que el neerlandés apenas frenó y dibujó una trazada desde el interior hasta el exterior que arrinconó en el exterior de la curva al de **McLaren**.
+
+Ambos se salieron de la trazada por el exterior, lo que hizo que **Sainz**, que había trazado el primer giro también por el exterior, se los encontrara de frente y tuviera que frenar, mientras que **Leclerc**, que salía cuarto y trazó bien la curva por el interior, descubrió que, sin apenas esfuerzo, podía adelantar a los tres primeros y centrarse en tirar desde el liderato.
+
+Un coche de seguridad causado por **Lewis Hamilton** (Mercedes), que perdió el control del monoplaza en la curva 19, lo tranquilizó todo, pero retirado el vehículo del inglés, Sainz volvió a intentar acechar a Verstappen, pero nada pudo hacer ante el triple campeón del mundo, y las posiciones nada cambiaban, con Leclerc mandando y. por detrás. **Verstappen, Sainz y Norris**.
+
+La carrera parecía estar por detrás. Sin alternativas por parte de los McLaren, ni Norris, cuarto, ni Piastri, sexto, el británico **George Russell** (Mercedes), que salía desde el ‘pit lane’, era el gran protagonista de la parte trasera.
+
+Pasó a once pilotos en apenas diecinueve vueltas, las mismas que necesitó **Checo Pérez** para completar una remontada que inició desde la novena posición y que le llevó a una séptima plaza, un objetivo imposible para un **Fernando Alonso** que se perdía entre la zona media de la tabla tras una salida en la que se topó con Sainz, Norris y Verstappen, y eso le complicó, todavía más, una carrera que ya sabía de antemano que sería complicada[.](https://en.wikipedia.org/wiki/Formula_One "https://en.wikipedia.org/wiki/Formula_One")
+
+Los Ferrari de Leclerc y Sainz mandaron en Fórmula 1
+----------------------------------------------------
+
+Sainz fue el primero de los de arriba en pasar por ‘boxes’ intentando lanzar un ‘undercut’ a **Verstappen**, que sin embargo estaba preocupado de la diferencia con Norris y no tanto por el madrileño. Verstappen, que no paró para defenderse de Sainz, se dejó ‘adelantar’ en ‘boxes’, mientras defendía los más de tres segundos de ventaja sobre **Norris**.
+
+Pero se encontró con un fallo en el plan: la degradación de sus neumáticos era muy superior a la de Norris, lo que le obligó a parar cinco vueltas antes que éste, que se detuvo a falta de **24 vueltas** para el final, por lo que tenía las gomas prácticamente nuevas, lo que presagiaba un final de carrera muy ajustado.
+
+Los dos primeros del **Mundial** protagonizaron unas vibrantes quince últimas vueltas en las que Verstappen se defendió a la perfección hasta que llegó la **vuelta 52**, cuando Norris llegó algo antes al vértice de la curva de la larga recta de Austin, pero el neerlandés, sin apenas frenar, le obligó a irse por el exterior.
+
+**Norris** salió antes que el triple campeón del mundo, pero los comisarios entraron rápidamente en la acción. Era lo mismo que había ocurrido en la primera curva de la primera vuelta del circuito, pero ahora el británico sí había pasado a **Verstappen** y no había perdido posiciones, como sí ocurrió en la primera vuelta.
+
+Pero **Norris** fue penalizado con cinco segundos, los mismos que evitaron que Norris pudiera recortar tres unidades en el Mundial de pilotos y lo que permite a **Verstappen** sumar esos tres puntos de diferencia -entre el tercero y el cuarto- a los dos que ya le sacó en la carrera al esprint de este sábado.
+
+Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava
+=======================================================================================
+
+El apagón también dejó a la mayoría de los cubanos sin agua en sus casas.
+-------------------------------------------------------------------------
+
+![El ministro de Energía y Minas de Cuba, Vicente de La O Levy, reconoció que se han registrado algunos "incidentes mínimos" a raíz del apagón masivo que afecta al país desde hace más de 48 horas. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Cuba.jpg)
+
+El Ministerio de Energía y Minas (Minem) de Cuba informó este domingo de la tercera caída total del **Sistema Eléctrico Nacional (SEN).** Esto ocurre en menos de tres días.
+
+Más noticias
+------------
+
+* [Cuba en alerta ante el eventual impacto del huracán Oscar](https://www.elcomercio.com/actualidad/mundo/cuba-en-alerta-ante-el-eventual-impacto-del-huracan-oscar.html "Cuba en alerta ante el eventual impacto del huracán Oscar")
+* [Trump eliminaría los permisos humanitarios para Venezuela, Cuba, Nicaragua y Haití](https://www.elcomercio.com/actualidad/mundo/trump-promete-eliminar-permisos-humanitarios-venezuela-cuba-nicaragua-haiti.html "Trump eliminaría los permisos humanitarios para Venezuela, Cuba, Nicaragua y Haití")
+
+“Hace pocos minutos ocurrió otra desconexión del Sistema Eléctrico, SEN. De inmediato comenzó la labor de restablecimiento”, escribió en Minem en redes sociales.
+
+El primer apagón total del sistema, el primer evento de **“cero cobertura energética nacional”**, según el [Minem](https://www.minem.gob.cu/es "https://www.minem.gob.cu/es"), se produjo el viernes por la mañana. Esto ocurrió luego de que una salida “imprevista” de una central clave para el SEN desestabilizase todo el sistema.
+
+Los avances de las primeras horas para reenergizar y recuperar el SEN volvieron a frustrarse el sábado por la mañana. Nuevamente se registró otro apagón total. A última hora de esa misma jornada colapsó el subsistema que se había creado en la mitad occidental de la isla.
+
+Para este momento se habían logrado hitos como la interconexión de circuitos desde Mariel (oeste) a Holguín (este). También se puso en marcha y se sincronizaron varias centrales termoeléctricas, entre ellas la Antonio Guiteras, una de las mayores del país.
+
+Desde el primer momento el Minem había advertido que las tareas de recuperación del SEN iban a ser complejas y graduales.
+
+El apagón pudiera terminar entre lunes y martes
+-----------------------------------------------
+
+El ministro de Energía y Mina, **Vicente de la O Levy**, aseguró que el régimen aspira a que el SEN vuelva a alcanzar el martes el estado en que se encontraba el viernes antes de la primera incidencia masiva.
+
+Agregó que **la mayoría de los consumidores volverá a tener luz “mañana lunes”** y que “el último cliente quizás puede estar recibiendo (corriente) el próximo martes”.
+
+**De la O Levy reconoció que la situación en el sistema eléctrico es “muy tensa”**. Esta falta de electricidad dejó “a la mayoría de los cubanos” sin agua en sus casas. Los motores que bombean el líquido hacia los hogares utilizan electricidad.
+
+El SEN se encuentra en un estado muy precario por la escasez de combustible -fruto de la falta de divisas para importarlo. También presentan frecuentes averías en obsoletas centrales termoeléctricas, con cuatro décadas de explotación y carencia crónica de inversiones.
+
+Vigilancia aérea y drones bajo la lupa con la nueva normativa
+=============================================================
+
+Su principal objetivo es asegurar el control integral del espacio aéreo nacional, garantizando la soberanía y la seguridad del país.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial creada con ChatGPT sobre el control en el espacio aéreo en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/espacio-aereo.jpg)
+
+La **Ley Orgánica para el Control del Espacio Aéreo Nacional**, publicada el 26 de julio de 2024, establece los lineamientos legales para la protección y regulación del **espacio aéreo en Ecuador**. Su principal objetivo es asegurar el **control integral del espacio aéreo nacional**, garantizando la soberanía y la seguridad del país.
+
+### Más noticias
+
+* [Daniel Noboa envía proyecto de ley para crear una nueva universidad ¿Dónde estaría ubicada?](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-proyecto-ley-nueva-universidad.html "Daniel Noboa envía proyecto de ley para crear una nueva universidad ¿Dónde estaría ubicada?")
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+* [Ley de Armas con veto parcial ¿Qué cambios propone Daniel Noboa?](https://www.elcomercio.com/actualidad/politica/ley-de-armas-con-veto-parcial-que-cambios-propone-daniel-noboa.html "Ley de Armas con veto parcial ¿Qué cambios propone Daniel Noboa?")
+
+Esta ley abarca tanto el tránsito aéreo como la **prevención de posibles amenazas** a la seguridad nacional provenientes del uso **no autorizado de dicho espacio**.
+
+La Asamblea Nacional aprobó la ley en varias etapas, después de la objeción parcial presentada por el Ejecutivo el 6 de junio de 2024. Finalmente, el pleno aceptó algunas objeciones y ratificó ciertos artículos.
+
+Aspectos fundamentales del control aéreo
+----------------------------------------
+
+Uno de los aspectos más relevantes de la ley es la **creación de un marco para la vigilancia del tránsito aéreo**. El documento estipula que las autoridades competentes, en conjunto con la Fuerza Aérea Ecuatoriana, tienen la obligación de **monitorear y gestionar todos los vuelos dentro del territorio**.
+
+Además, la ley permite la implementación de tecnologías avanzadas para la identificación y **control de aeronaves, especialmente aquellas de tipo no tripulado** que puedan representar un riesgo para la seguridad.
+
+Este enfoque es parte de un esfuerzo más amplio por consolidar la defensa del espacio aéreo nacional, abarcando tanto **vuelos comerciales como aquellos de uso recreativo o militar**. La ley también se ocupa de la interrelación entre las autoridades civiles y militares en la administración del espacio aéreo.
+
+Procesos de aprobación y objeciones
+-----------------------------------
+
+El proceso de aprobación de esta ley pasó por varias fases de revisión en la **Asamblea Nacional**. El 2 de mayo de 2024, se aprobó el informe para segundo debate, mientras que la objeción parcial del Ejecutivo incluyó modificaciones en **artículos clave**.
+
+> ✈️ En el marco de la construcción del Proyecto de Ley Orgánica para el Control del Espacio Aéreo Nacional, la presidenta de esta mesa legislativa [@InesAlarconB](https://twitter.com/InesAlarconB?ref_src=twsrc%5Etfw) y los equipos técnicos de los diferentes despachos visitan la Unidad Aeropolicial de la [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw) [pic.twitter.com/edllirmgbV](https://t.co/edllirmgbV)
+> 
+> — SeguridadAN (@SeguridadAN) [March 16, 2024](https://twitter.com/SeguridadAN/status/1769028518648639542?ref_src=twsrc%5Etfw)
+
+Entre los artículos modificados se encuentran los relacionados con la **disposición general** sobre el uso de tecnologías de radar y la participación de **entidades privadas en el control del espacio aéreo**, destacando un balance entre la participación **estatal y la inclusión de innovación tecnológica**.
+
+El Pleno ratificó otros artículos del proyecto, manteniendo la soberanía estatal sobre decisiones críticas en la materia. Esta combinación de aceptaciones y ratificaciones permitió concluir el proceso legislativo de manera satisfactoria.
+
+Implicaciones tecnológicas y de seguridad
+-----------------------------------------
+
+La ley no solo busca fortalecer las capacidades del país en **términos de vigilancia y seguridad**, sino también fomentar la cooperación internacional en la materia.
+
+Los artículos relativos a la integración de sistemas de **defensa aérea** apuntan a mejorar la interoperabilidad con otros países y organismos internacionales. Esto es clave, dado el incremento del uso de drones y otras **aeronaves no tripuladas** que podrían evadir los sistemas convencionales de vigilancia.
+
+Otro aspecto crucial es la regulación de estos **vehículos aéreos no tripulados (UAV por sus siglas en inglés)**, que requieren una supervisión más estricta debido a sus posibles usos no autorizados o ilícitos.
+
+Las disposiciones generales de la ley permiten a las autoridades nacionales **aplicar sanciones más severas ante infracciones**, asegurando el cumplimiento de las **normativas de tránsito aéreo y defensa**.
+
+El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador
+===================================================================
+
+El Nacional igualó con Delfín como visitante en la Liga Pro antes de disputar las semifinales de Copa Ecuador
+-------------------------------------------------------------------------------------------------------------
+
+![Luis Arce de El Nacional (der.) marca a un rival de Delfín en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241020133416-fbl-ligapro-delfin-el-nacional-scaled.jpg)
+
+**El Nacional** empató con **Delfín** durante la fecha 10 de la segunda etapa de la Liga Pro en la antesala de su cotejo semifinal de la Copa Ecuador. Los puros criollos dividieron honores con un marcador de 1-1 en condición de visitante en el Estadio Jocay de Manta.
+
+El ‘Bi-Tri’ arribó al décimo partido de la ronda en la séptima posición de esta con 14 unidades y tras golear a **Barcelona SC** en la fecha previa. Los **cetáceos**, a su vez, llegaron sextos y con la misma cantidad de puntos, únicamente separados por el gol diferencia.
+
+### Más noticias:
+
+* [El Nacional tiene como gran objetivo ganar la Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-objetivo-copa-ecuador.html "El Nacional tiene como gran objetivo ganar la Copa Ecuador")
+* [El Nacional brindó un reconocimiento a los bomberos tras incendios](https://www.elcomercio.com/deportes/el-nacional-reconocimiento-bomberos-incendio.html "El Nacional brindó un reconocimiento a los bomberos tras incendios")
+* [El Nacional goleó a Barcelona SC, en Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-goleo-a-barcelona-sc.html "El Nacional goleó a Barcelona SC, en Quito")
+
+Dentro de la tabla acumulada, el ‘Rojo’ se encontraba **quinto** y en zona de clasificación a torneos internacionales. A diferencia de su presente en la tabla de la segunda etapa, en esta, **Delfín** ocupaba la decimocuarta posición, tan solo un escalón por encima de la zona de descenso.
+
+En el caso de los puros criollos, estos disputaron su último choque antes de medirse ante **Mushuc Runa** en la semifinal de la Copa Ecuador. Aquel partido lo disputará tres días después, el miércoles 23 de octubre del 2024, y le ha dado prioridad a tal competencia[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
+
+El Nacional salió con un equipo mixto ante Delfín
+-------------------------------------------------
+
+Al tener el cotejo venidero ante el ‘Ponchito’, **El Nacional** planteó una oncena con jugadores que, habitualmente, no forman parte de los equipos titulares. Los principales nombres del elenco estuvieron en el banco de suplentes.
+
+Antes del compromiso, **Marco Pazos** \-presidente del ‘Rojo’- había señalado que el máximo objetivo de la temporada es ganar la Copa Ecuador. Aquello dado que, de levantar su trofeo, el club volvería a ganar un título, sin contar el de la Serie B 2022, después de 18 años.
+
+Bajo un esquema de 4-2-3-1, la escuadra saltó a la cancha, sin embargo, sus rivales se plantaron mejor desde el inicio, aunque sin una superioridad marcada. A los 36 minutos, el Delfín se puso por delante gracias a un gol de **Marcos Mejía.**
+
+Anthony Bedoya salvó la tarde de El Nacional
+--------------------------------------------
+
+Después de recibir el primer tanto, los cetáceos lucharon por sacar el resultado y parecían hacerlo hasta que **Anthony Bedoya** apareció en los minutos finales. El central de El Nacional, que había tenido un sólido partido en defensa, se valió de la pelota parada para convertir.
+
+Tras un centro desde un tiro libre a los 82′, **Bedoya** se elevó en medio de sus rivales y consiguió conectar un cabezazo. El remate fue imposible para el golero **Brian Heras** y aquel tanto firmó el empate definitivo del compromiso.
+
+Con el resultado de 1-1, tanto Delfín como **El Nacional** se mantienen en el sexto y séptimo puesto de la segunda etapa. Asimismo, en la tabla acumulada, los criollos no se mueven del quinto lugar y los manabitas siguen antepenúltimos.
+
+Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea
+=============================================================================
+
+La Asamblea Nacional busca un proyecto para enfrentar la crisis eléctrica y fomentar la iniciativa privada en el sector.
+------------------------------------------------------------------------------------------------------------------------
+
+![La hidroeléctrica Alluriquín, parte de Toachi Pilatón.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-24.jpg)
+
+La **Asamblea Nacional i**nstaló la sesión plenaria 972 cerca de las 09:30 para debatir un proyecto urgente que promueve la iniciativa privada en energías renovables. Esta medida busca mitigar la crisis eléctrica y ofrecer soluciones a mediano y largo plazo.
+
+### Más noticias
+
+* [Quito amplía su capacidad de generación de energía limpia](https://www.elcomercio.com/actualidad/negocios/quito-amplia-su-capacidad-de-generacion-de-energia-limpia.html "Quito amplía su capacidad de generación de energía limpia")
+* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
+
+La presidenta de la Asamblea, Viviana Veloz, convocó esta sesión de forma virtual. Después de este primer debate, el proyecto regresará a la Comisión de Desarrollo Económico para un segundo informe. En esta instancia deberán sistematizar las observaciones de los asambleístas.
+
+En el debate intervinieron 25 legisladores para dar sus opiniones a favor y en contra de la propuesta.
+
+El proyecto, impulsado por el Ejecutivo, facilita la generación de electricidad a partir de diversas fuentes renovables. Además, optimiza el uso de energía en los sectores público y privado. Así, se garantiza un suministro de energía estable y accesible en todo el país.
+
+El ministerio de Energía y Minas debe incluir cláusulas de estabilidad jurídica en todos los contratos. Estas cláusulas aseguran que las condiciones legales permanezcan inalterables durante la vigencia del contrato.
+
+La posición oficialista
+-----------------------
+
+Valentina Centeno, asambleísta y presidenta de la Comisión, se refirió al proyecto y a la importancia de incentivar la participación del sector privado en la generación de energía. Señaló que el gobierno de Daniel Noboa ha invertido más de _350 millones_ en generación energética.
+
+Una de las medidas clave incluye la instalación de sistemas de autoabastecimiento. Esto busca incentivar al sector privado, especialmente en el ámbito comercial e industrial. La idea es aliviar la carga estatal.
+
+El proyecto permite a la iniciativa privada desarrollar proyectos que no estén en el [Plan Maestro de Electricidad (PME)](https://www.recursosyenergia.gob.ec/plan-maestro-de-electricidad/ "https://www.recursosyenergia.gob.ec/plan-maestro-de-electricidad/"). Estos proyectos deben respetar límites de 100 MW para energías renovables no convencionales y 50 MW para energías de transición. La autorización del ministerio correspondiente será necesaria, y evaluará la viabilidad técnica y económica.
+
+Otros puntos de vista
+---------------------
+
+Blasco Luna, vicepresidente de la Comisión, señaló que desde el 2017 hasta hoy no se ha cumplido con el Plan Maestro de Electricidad. Propuso que todo el alumbrado público migre a luces LED para reducir el consumo. Señaló que uno de los principales problemas es el abandono del sistema energético.
+
+La asambleísta Lucía Jaramillo señaló que el Ecuador no puede depender de las lluvias para generar energía, sino que se debe aprovechar que hay provincias con condiciones solares estables. Agregó que las consecuencias del calentamiento global han evidenciado la fragilidad de nuestro sistema energético.
+
+Jorge Álvarez, asambleísta por El Oro, señaló que Termogás Machala necesita repotenciación para aumentar a 50 000 o 60 000 millones de pies cúbicos de generación de gas y apoyar al sector energético.
+
+Viviana Veloz resaltó la iniciativa de Quito que ha puesto en marcha la generación de energía renovable a partir de la gestión de los desechos sólidos que produce la ciudad e invitó a los demás gobiernos centrales a generar proyectos similares.
+
+La asambleísta por Morona Santiago Luzmila Abad cuestionó la propuesta que señala que se condonaría los impuestos a los inversores privados durante 10 años.
+
+El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador
+====================================================================
+
+El Instituto Geofísico cuenta con nuevos equipos, para observar mejor a cuatro de los 20 volcanes monitoreados en Ecuador.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Uno de los volcanes de Ecuador es monitoreado por el Instituto Geofísico.](https://www.elcomercio.com/wp-content/uploads/2024/10/Guaguap.jpg)
+
+Los **volcanes Sangay y Reventador** son los más activos de Ecuador con sus permanentes erupciones.
+
+El **Sangay** lleva cinco años con una alta actividad superficial eruptiva, mientras que el **Reventador** está por cumplir 22 años de reactivación.
+
+### Más noticias
+
+* [En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción](https://www.elcomercio.com/actualidad/ecuador/segundos-sabra-volcanes-hinchan-proceso-erupcion.html "En instantes se sabrá si los volcanes de Ecuador se hinchan en un proceso de erupción")
+* [El Instituto Geofísico reportó sobre la actividad del volcán El Reventador](https://www.elcomercio.com/actualidad/ecuador/ig-reporto-actividad-volcan-el-reventador.html "El Instituto Geofísico reportó sobre la actividad del volcán El Reventador")
+* [¿Quito planifica sus riesgos? Esto dicen expertos y la autoridad](https://www.elcomercio.com/actualidad/quito/riesgos-incendios-deslaves-quito-ciudad.html "¿Quito planifica sus riesgos? Esto dicen expertos y la autoridad")
+
+En el radar de los geólogos también están los volcanes **Cotopaxi y Guagua Pichincha**. Ambos causan preocupación, debido a su actividad permanente.
+
+Por esos antecedentes, el **Instituto Geofísico de la Escuela Politécnica Nacional** colocará nuevos equipos en esos cuatro volcanes, para monitorear su comportamiento.
+
+**Mario Ruiz, director del Instituto Geofísico**, indica que se instalarán **sensores GPS** para saber si hay señales de hinchamiento o deformación, que significa que hay ingreso de magma hacia los conductos de los volcanes. Eso permitirá tener información antes de que se produzca la erupción y dará tiempo para emitir avisos a las autoridades y la comunidad.
+
+De estos equipos se colocarán dos en el **Guagua Pichincha, dos en el Cotopaxi y uno en el Reventador.**
+
+Ruiz explica que uno de los métodos más importantes es ver cómo se hinchan los volcanes, para hacer mediciones en milímetros. Por ejemplo, las erupciones del 2015 y 2022 del Cotopaxi fueron precedidas por de un hinchamiento del volcán menor a 1 cm. Por eso, necesitan equipos que tengan la capacidad de medir estas pequeñas deformaciones.
+
+El monitoreo en el volcán Guagua Pichincha
+------------------------------------------
+
+Al Geofísico también le interesa monitorear el **Guagua Pichincha**, debido a su erupción de hacer 25 años, que no tuvo la magnitud esperada en comparación con sus erupciones pasadas. Ruiz dice que en 1660 tuvo una erupción mucho más intensa que la de octubre de 1999.
+
+“Con este conocimiento queremos mantener la atención a lo que pase en el **Guagua Pichincha**”, comenta el técnico. No es un volcán que está en reposo totalmente, ya que registra sismos y el crecimiento del domo.
+
+Se exploran el material y las rocas que salieron en la erupción de 1999. Como parte de los estudios, los técnicos monitorean los gases, por lo que bajan a las zonas de las fumarolas para medir las temperaturas y los gases. En la zona, también hay estaciones sísmicas que se encuentran alrededor de la caldera y permiten detectar los sismos, así sean pequeños.
+
+La **vulcanóloga del Geofísico, Patricia Mothes**, agrega que la actividad de 1999 duró hasta casi el 2001. En ese entonces se formó el noveno domo con la subida del magma, luego de romper el octavo, por donde salió el material hacia el río Cristal.
+
+El actual domo está en el centro y probablemente se romperá con una nueva erupción, de la cual no se sabe cuándo será.
+
+Los **nuevos equipos GPS** de medición de la deformación son similares a los que se tienen actualmente. Su nivel de detección es milimétrico, pues permite ver valores de 3 a 4 milímetros.
+
+El **Guagua Pichincha** está vigilado por cámaras, **GPS,** inclinómetros e imágenes satelitales, para detectar su hinchamiento. Los actuales GPS mandarán señales cada segundo o 15 segundos, con los cual se contará con información mucho más rápido.
+
+El estado del peligro volcán Cotopaxi
+-------------------------------------
+
+Mothes también comenta que el Cotopaxi está en un estado de tranquilidad. Apenas tiene de 15 a 20 sismos diarios, como en una actividad normal antes del 2015, cuando se reactivó. Su otra erupción fue en 2022 que duró hasta el 2023.
+
+No ha habido un aumento en el contenido de gases, no hay deformación o hinchamiento de importancia y tampoco el volcán emite sonidos.
+
+Los nuevos instrumentos de infrasonido se pondrán en los volcanes **Sangay y Reventador,** para captar la salida de material, cuenta Ruiz. A través de los equipos se contará con información sobre si hubo una explosión, sea de noche o así esté totalmente nublado.
+
+De los 11 sensores infrasonidos, 5 estarán en el Sangay, 5 en el Reventador y uno en el Guagua Pichincha.
+
+**Mothes** comenta que unos equipos se colocarán en la parte alta, en el norte del Cotopaxi,; otro en la parte más cercana al cráter del **Guagua Pichincha** y otro en el **Reventador.**
+
+Dos volcanes en plena erupción y más activos de Ecuador
+-------------------------------------------------------
+
+El **volcán Reventador** tiene aproximadamente 90 explosiones por día y la mayoría de las columnas de ceniza no es mayor a 800 metros de altura sobre el nivel del cráter, detalla **Patricia Mothes**.
+
+A veces se producen flujos piroclásticos, que no van más allá del pie de cono del volcán. Sus explosiones se pueden escuchar con frecuencia. Está activo desde el 2 de noviembre de 2002.
+
+**Sangay** ha tenido una actividad casi permanentemente, pero en 2019 empezó a tener una actividad más continua. Tuvo explosiones por más grandes, como en diciembre de 2021, cuando las columnas se alzaron más de 10 km por la zona del volcán. Mientras que la ceniza llegó a Guayaquil y a las zonas de banano, cacao y camaroneras.
+
+Ante la actividad de los dos volcanes, ‘nuestro afán es dar un aviso temprano’, dice **Mothes.** Al **Sangay** se lo monitorea con atención, porque de vez en cuando tiene actividad más fuerte y puede ocurrir en periodo de horas o días.
+
+Siempre se observan las señales sísmicas o cuando empieza a subi la energía. Se cuenta con cámaras para ver las señales, imágenes satelitales en las pantallas del centro de monitoreo del **Instituto Geofísico** y los observadores locales.
+
+Usaid donó los nuevos equipos para el monitoreo volcánico
+---------------------------------------------------------
+
+La **Embajada de Estados Unidos, a través de Usaid**, entregó el viernes 18 de octubre de 2024 los equipos para el monitoreo de cuatro volcanes de Ecuador.
+
+Entre los dispositivos hay unos para proteger a los equipos contra los rayos, ya que las zonas de los volcanes son propensas a la caída de rayos.
+
+Los técnicos contarán con una **laptop de campo**, que es resistente a la humedad, a los golpes y hasta balas, que cuenta con certificación militar.
+
+Hay radios para los enlaces, que convierten la información análoga en digital. De esa manera se reduce el ruido de las ondas de trasmisión y llega la información más nítida.
+
+Las nuevas máquinas están hechas en **Estados Unidos y en Bélgica**, que fueron puestas a pruebas en el Ártico y zonas desérticas.
+
+Adicionalmente, cuentan con **una antena, tipo bala,** que hace que la ceniza resbale y no se acumule, como ocurre con las actuales, que tienen forma de platillo y recolecta la ceniza, lo cual impide la transmisión de las señales de los volcanes.
+
+El Instituto Geofísico monitorea 20 volcanes en tiempo real 24/7, con equipos que funcionan a batería que se cargan con paneles solares. De todos ellos, el **volcán Cotopaxi** es el mejor monitoreado de América del Sur[.](https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador "https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador")
+
+La instrumentación que tiene el **Instituto Geofísico** se ha conseguido con convenios con la cooperación internacional de Japón, Alemania, Colombia, México, Italia y Francia, y el Servicio Geológico de Estados Unidos. Con Francia, a través del IRD, que forman los técnicos del Geofísico.
+
 Una balacera en el estadio de la Liga de Cangahua, en La Roldós, deja otra víctima
 ==================================================================================
 
-Los moradores del sector de La Roldós nuevamente viven una jornada de terror. Apenas, el miércoles 16 de octubre de 2024 ocurrió una balacera en la que murió una joven. Ahora un nuevo incidente impacta a otra familia de esta zona del norte de Quito. Más noticias Este domingo 20 de octubre, un hombre ingresó \[…\]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Los moradores temen hablar por las amenazadas que reciben de los miembros de bandas delincuenciales.
+----------------------------------------------------------------------------------------------------
 
 ![En medio de un partido de fútbol se dio una balacera en el estadio de la Liga de Cangahua, en La Roldós. Foto: Captura](https://www.elcomercio.com/wp-content/uploads/2024/10/balacera-roldos-ouito_720.jpg)
 
@@ -384,699 +1046,3 @@ Durante la etapa de complemento, **Cantera Orense** consiguió su empate casi de
 El equipo de casa anotó a ocho minutos de que se iniciasen los segundos 45 minutos y también desde un tiro de esquina. Tras un envío desde el costado izquierdo, y en mismo arco de la primera anotación, **Walter Rodríguez** envió el balón al fondo de las redes con un cabezazo.
 
 Una vez que los orenses consiguieron el empate, estos también pudieron hacerse con la ventaja, sin embargo, errores propios se los impidieron. Tras la igualdad de 1-1, los clubes definirán la serie el domingo 27 de octubre del 2024 en el **Estadio Gonzalo Pozo Ripalda**.
-
-La obsesión de Diddy por los príncipes William y Harry
-======================================================
-
-Sean Diddy guardaba fotografías enmarcadas de la realeza británica. Sus invitaciones no fueron aceptadas.
----------------------------------------------------------------------------------------------------------
-
-![Los príncipes William y Harry no pudieron despedirse de su abuela, la reina Isabel II. Foto: Internet](https://www.elcomercio.com/wp-content/uploads/2022/09/principes-ec.jpg)
-
-En septiembre a Sean ‘Diddy’ Combs lo arrestaron y acusaron de asociación ilícita, tráfico sexual y transporte para ejercer la prostitución. 
-
-En los documentos legales se detalla que los actos ilícitos se cometían durante sus fiestas, incluidas las ‘Freak Offs’. Estas son descritas como “espectáculos sexuales elaborados y producidos”, según ‘Us Weekly’.
-
-Más noticias
-------------
-
-* [¿Quién es Diddy?](https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html "¿Quién es Diddy?")
-* [Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-demandas-abuso-sexual.html "Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan ")
-
-Cuando la policía realizó un allanamiento en su mansión se confiscaron diversos productos que solían estar en dichas celebraciones. Entre ellos “narcóticos, más de 1.000 botellas de aceite para bebé y lubricantes”, se explicó en la acusación.
-
-Adicionalmente, se encontraron fotografías en las que se deja ver que diversas celebridades hicieron parte de estas fiestas. Algunos de ellos tienen que declarar en los juicios en contra del rapero y compositor estadounidense.
-
-La obsesión de Diddy con los príncipes William y Harry
-------------------------------------------------------
-
-En conversación con el medio BBC News, Rob Shutter, expublicista del cantante reveló que Diddy era un gran admirador de los príncipes del Reino Unido: Guillermo y Harry. En diferentes ocasiones los invitó a sus fiestas.
-
-Shutter expresó que el compositor le habría hecho llamar a las altezas por “más de 10 veces” para que asistieran a su evento. Pero la realeza nunca aceptó sus invitaciones a pesar de que Combs “se ofreció a cubrir sus viajes, alojamiento e incluso pagar su seguridad”.
-
-Diddy estaba obsesionado con el príncipe Harry y el príncipe William. Él se considera un rey, por lo que tiene todo el sentido que le gustaría tener dos príncipes en su séquito”. Sin embargo, los príncipes “nunca aceptaron, nunca fueron parte de su mundo”, comentó el expublicista del rapero.
-
-Lo que más impactó en el relato de Rob Shutter es que Sean Diddy Combs, es que la expresión “obsesión” no era para menos. Guardaba “fotografías enmarcadas” que mantenía en su apartamento en Nueva York.
-
-También, comentó que Sean Diddy realmente nunca tuvo “vida privada”. Esto se debe a que su enfoque principal era construir su propio imperio y dejar su legado: “Fue todo trabajo. Quería convertirse en la persona más famosa del mundo y, curiosamente, ahora lo es”.
-
-Aunque se encuentra bajo arresto en el Centro de Detención Metropolitano de Brooklyn.
-
-Incendio consume el 60% del barco pesquero Jostin en el Puerto de Manta
-=======================================================================
-
-Los Bomberos de Manta acudieron al sitio para contener el fuego y evitar que otros barcos se afecten.
------------------------------------------------------------------------------------------------------
-
-![Un barco artesanal se quemó en la mañana de este domingo 20 de octubre del 2024. Foto: Bomberos de Manta](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-43.jpg)
-
-A las 06:57, los Bomberos de Manta recibieron la alerta de que una embarcación pesquera denominada Jostin se estaba incendiando en el Puerto de esta localidad manabita.
-
-Más noticias
-------------
-
-* [Un incendio forestal se reportó en Ambato este viernes 18 de octubre](https://www.elcomercio.com/actualidad/ecuador/incendio-ambato-viernes-18-octubre.html "Un incendio forestal se reportó en Ambato este viernes 18 de octubre")
-* [El Nacional brindó un reconocimiento a los bomberos tras incendios](https://www.elcomercio.com/deportes/el-nacional-reconocimiento-bomberos-incendio.html "El Nacional brindó un reconocimiento a los bomberos tras incendios")
-
-En la noche de este sábado, el barco de tipo artesanal había llegado cargado de pesca y lo dejaron en el Puerto junto a otras embarcaciones.
-
-El flagelo empieza a visibilizarse en las cubiertas del barco en la mañana de este domingo 20 de octubre del 2024. Julio Roca, comandante de los [Bomberos de Manta](https://bomberosmanta.gob.ec/), confirmó el incidente.
-
-Para controlar este incendio tuvieron que primero remolcar a la embarcación junto con el personal de la Capitanía del Puerto. De esta manera se resguardó al resto de barcos, que se encuentran en el sitio.
-
-![Una vez acoderado el barco en el muelle, los bomberos terminaron del liquidar el incendio. Foto: Bomberos de Manta ](https://www.elcomercio.com/wp-content/uploads/2024/10/Barco-2-1024x768.jpg)
-
-Una vez acoderado en el muelle, los bomberos terminaron del liquidar el flagelo. Foto: Bomberos de Manta
-
-Roca considera que un 60% del barco quedó afectado, principalmente, las cubiertas de mando y de pesca. Entre unas 400 a 500 toneladas de pesca se perdieron en este incendio.
-
-Una vez que la embarcación quedó acoderada en el muelle, los bomberos pudieron completar sus labores y liquidar el incendio por completo. Todo este proceso tomó varias horas.
-
-Según, el comandante no había ningún responsable ni propietario del barco, mientras realizaban su trabajo. Tampoco se conoce cuál fue el origen de este incendio.
-
-Esta no es la primera vez que ocurre este tipo de eventos en el Puerto manabita. En este caso, no se registraron personas heridas. Se espera conocer en los próximos días qué fue lo que ocurrió durante la noche y madrugada de este domingo en Jostin, el barco pesquero.
-
-Cortes de luz en Quito para este domingo 20 de octubre
-======================================================
-
-Los cortes de luz de este domingo 20 se mantienen en 10 horas en Quito, divididos en dos franjas horarias. A partir del lunes, bajarán a 8 horas
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El personal de la EEQ instaló un transformador en la subestación de Tababela.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-4-3.jpg)
-
-El presidente **Daniel Noboa** anunció cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, estos empiezan el lunes 21 de octubre de 2024. La **Empresa Eléctrica Quito** publicó el cronograma.
-
-### Más noticias
-
-* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
-* [Cortes de luz en Cuenca este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-domingo-20-de-octubre.html "Cortes de luz en Cuenca este domingo 20 de octubre")
-* [Cortes de luz en Guayaquil este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-domingo-20-de-octubre.html "Cortes de luz en Guayaquil este domingo 20 de octubre")
-
-Reducción de cortes de luz
---------------------------
-
-**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
-
-Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
-
-Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
-
-* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
-* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
-* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
-
-Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Horarios de cortes de luz en Quito este sábado
-----------------------------------------------
-
-Estas son las franjas horarias programadas y los sectores afectados en la capital:
-
-De 00:00 a 03:00 y de 13:00 a 19:00
------------------------------------
-
-* Miraflores
-* Río Coca
-* Conocoto
-* Tumbaco
-
-De 06:00 a 10:00 y de 16:00 a 21:00
------------------------------------
-
-* Luluncoto
-* Chilibulo
-* La Floresta
-* Cristianía
-* Epiclachima
-
-Desde las 09:00 hasta las 12:00 y de 18:00 a 24:00
---------------------------------------------------
-
-* La Carolina
-* Nueva Cumbayá
-* Tababela
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-Cortes de luz de 10:00 a 13:00 y de 19:00 a 24:00
--------------------------------------------------
-
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
-
-Desde las 00:00 hasta las 06:00 y de 12:00 a 16:00
---------------------------------------------------
-
-* Barrio Nuevo
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* El Quinche
-
-De 00:00 a 06:00 y de 14:00 a 18:00
------------------------------------
-
-* Olímpico
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Pomasqui
-* Eugenio Espejo
-
-De 07:00 a 09:00 y de 18:00 a 24:00
------------------------------------
-
-* Luluncoto
-* Chilibulo
-* San Roque
-* Río Coca
-* Andalucía
-* Cotocollao
-* Conocoto
-* Alangasí
-* Santa Rosa
-* Inga Bajo
-
-> 🚨 [#EEQInforma](https://twitter.com/hashtag/EEQInforma?src=hash&ref_src=twsrc%5Etfw) | Compartimos la programación de cortes del servicio de energía eléctrica prevista desde el lunes 14 al domingo 20 de octubre del 2024.  
->   
-> Los horarios y sectores en el siguiente link:  
->   
-> ➡️ PDF[https://t.co/qoAaeLeVAv](https://t.co/qoAaeLeVAv)[#EEQSiempreJuntoATi](https://twitter.com/hashtag/EEQSiempreJuntoATi?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LHtOdq7Kxs](https://t.co/LHtOdq7Kxs)
-> 
-> — Empresa Eléctrica Quito (@ElectricaQuito) [October 12, 2024](https://twitter.com/ElectricaQuito/status/1845251177002172456?ref_src=twsrc%5Etfw)
-
-¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?
-=====================================================================
-
-El Clásico del Astillero 235 se llevará a cabo entre Barcelona SC y Emelec en el Estadio Monumental por la fecha 10 de la Liga Pro.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Barcelona SC y Emelec en su último enfrentamiento en el Clásico del Astillero.](https://www.elcomercio.com/wp-content/uploads/2024/05/g-47.jpg)
-
-La reanudación de la Liga Pro trajo consigo uno de los partidos más importantes en la historia del campeonato ecuatoriano. Este domingo 20 de octubre a las 17:30 se disputará el Clásico del Astillero entre **Barcelona SC y Emelec**.
-
-Después de la paralización del torneo nacional debido a las eliminatorias sudamericanas y la participación de la **Selección de Ecuador**, la fecha 10 del torneo liguero se llevó a cabo. El choque entre toreros y eléctricos será el último de la jornada y el que dejará la tabla definida.
-
-### Más noticias:
-
-* [Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-emelec-clasico-astillero.html "Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico")
-* [Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años](https://www.elcomercio.com/deportes/futbol/damian-diaz-goles-emelec-clasico.html "Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años")
-* [Los Clásicos del Astillero más decisivos del Siglo XXI](https://www.elcomercio.com/deportes/clasico-astillero-barcelona-emelec-partidos-historicos.html "Los Clásicos del Astillero más decisivos del Siglo XXI")
-
-Para el compromiso, ambos clubes llegan alejados de los líderes en la segunda etapa: **Barcelona** en la segunda mitad de la tabla y **Emelec** en los últimos lugares. Los primeros se encuentran en la novena posición con **13 puntos**, mientras que los segundos son antepenúltimos con siete.
-
-A nivel de la tabla acumulada, el ‘Ídolo’ lucha por un cupo hacia la **Copa Libertadores**, mientras que el ‘Bombillo’ también espera llegar a la **Copa Sudamericana**. En aquella clasificación, los amarillos están terceros con 44 y los azules, novenos con 32[.](https://es.wikipedia.org/wiki/Barcelona_Sporting_Club)
-
-De cara al compromiso, que se jugará en el Estadio Monumental de Guayaquil, el plantel torero estrenará un nuevo DT, mientras que sus rivales irán con **Leonel Álvarez** en la zona técnica. Los canarios verán el tercer debut en su club de Segundo Alejandro Castillo, quien asumió las riendas del equipo tras la salida de **Ariel Holan**.
-
-Detalles del partido
---------------------
-
-**Fecha**: 20 de octubre del 2024.
-
-**Partido**: Barcelona SC vs. Emelec
-
-**Hora**: 17:30.
-
-**Estadio**: Monumental de Guayaquil
-
-El Clásico del Astillero 235 entre Barcelona SC y Emelec
---------------------------------------------------------
-
-**Barcelona SC y Emelec** disputarán el partido 235 entre sí en su historia en campeonatos nacionales. A partir del 20 de diciembre de 1963, los clubes han construido la leyenda del Clásico del Astillero en los torneos ligueros del país.
-
-Dentro de los enfrentamientos sí hay una diferencia, pero esta no es marcada. El Ídolo se impone con al contar con **74 victorias** a favor, mientras que el ‘Bombillo’ cuenta con **72**. La cantidad de empates entre ambas escuadras es de 88 duelos.
-
-Cortes de luz en Cuenca este domingo 20 de octubre
-==================================================
-
-En algunos barrios de Cuenca, los cortes de luz se aplican de corrido, mientras que en otros se realizan en dos partes.
------------------------------------------------------------------------------------------------------------------------
-
-![La empresa Centrosur realiza el mantenimiento y colocación de postes.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-3-3.jpg)
-
-La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este domingo 20 de octubre de 2024. La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
-
-Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
-
-### Más noticias
-
-* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
-* [Cortes de luz en Guayaquil este domingo 20 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-domingo-20-de-octubre.html "Cortes de luz en Guayaquil este domingo 20 de octubre")
-* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
-
-Horarios de cortes de luz
--------------------------
-
-El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
-
-En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
-
-Los horarios del cronograma en la ciudad austral se implementan en **13 jornadas**:
-
-* 00:00 a 06:00
-* 00:00 a 04:00 y de 11:00 a 16:00
-* 02:00 a 06:00 0y de 15:00 a 19:00
-* 06:00 a 11:00 y de 14:00 a 18:00
-* 06:00 a 10:00 y de 14:00 a 18:00
-* 06:00 a 10:00 y de 18:00 a 22:00
-* 10:00 a 14:00 y de 18:00 a 22:00
-* 10:00 a 14:00 y de 17:00 a 21:00
-* 10:00 a 14:00 y de 20:00 a 00:00
-* 13:00 a 18:00 y de 21:00 a 00:00
-* 16:00 a 19:00
-* 18:00 a 21:00
-* 10:00 a 16:00
-
-La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://nest.centrosur.gob.ec/programacion-cortes/assets/pdfs/Cortes-19-al-20-octubre-2024.pdf "https://nest.centrosur.gob.ec/programacion-cortes/assets/pdfs/Cortes-19-al-20-octubre-2024.pdf").
-
-> 📍 Importante  
->   
-> 🗓️ Conoce los horarios y sectores de suspensiones programadas del servicio eléctrico⚡para la semana del lunes 14 al domingo 20 de octubre de 2024.  
->   
-> Revisa la información completa por día, en el siguiente link [https://t.co/rSyIcAkiFb](https://t.co/rSyIcAkiFb) [pic.twitter.com/bLA16sng7x](https://t.co/bLA16sng7x)
-> 
-> — Centrosur (@centrosurec) [October 12, 2024](https://twitter.com/centrosurec/status/1845251541734748404?ref_src=twsrc%5Etfw)
-
-Reducción de cortes de luz
---------------------------
-
-**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
-
-Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
-
-Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
-
-* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
-* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
-* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
-
-Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Cortes de luz en Guayaquil este domingo 20 de octubre
-=====================================================
-
-Los horarios de cortes de luz en Guayaquil se realizan en dos franjas horarias que contemplan entre ocho y 10 horas de suspensión.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Personal de CNEL realiza el mantenimiento en las subestaciones de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-2-3.jpg)
-
-El presidente **Daniel Noboa** anunció cambios en los **cortes de luz** para las próximas tres semanas en Ecuador, la noche del jueves 17 de octubre de 2024. La empresa distribuidora Cnel publicó el cronograma para Guayaquil de este domingo 20 de octubre.
-
-### Más noticias
-
-* [Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/auto-en-que-viajaba-hijo-de-jimmy-jairala-fue-baleado-en-guayaquil.html "Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil")
-* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
-
-Reducción de cortes de luz
---------------------------
-
-**El presidente Noboa** explicó la modalidad de aplicación de los **racionamientos eléctricos,** acompañado de la **ministra** (e) Inés Manzano (Energía) y la ministra Sonsoles García (Producción).
-
-Según el anuncio**, los cortes de luz** se aplicarán en las siguientes tres semanas con reducciones que irán aumentando en cada una de ellas. Esto, partiendo de que actualmente **los racionamientos** **se aplican durante 10 horas** al día.
-
-Este plan **se iniciará desde el 21 de octubre** y se extendería, preliminarmente, hasta el **10 de noviembre**. Así, el cronograma de reducción se aplicará de la siguiente manera:
-
-* **Del lunes 21 al 27 de octubre**, los cortes disminuirán a ocho horas
-* **Del lunes 28 de octubre al martes 5 de noviembre**, serán seis horas
-* **Del miércoles 6 al domingo 10 de noviembre,** los cortes durarán cuatro horas
-
-Estos cronogramas **se programarán en dos bloques** de suspensión del suministro eléctrico para las zonas residenciales. Para las zonas industriales, los [horarios se mantienen](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Horarios de cortes de luz en Guayaquil
---------------------------------------
-
-La empresa distribuidora de energía eléctrica **CNEL** dio a conocer el cronograma de **cortes de luz** previstos para este **domingo 20 de octubre.**
-
-Los cortes se aplicarán como siempre en **distintas franjas horarias**. Las de este domingo arrancaron a las 00:00 y se mantendrán a lo largo del día.
-
-Estos cortes del suministro eléctrico de la mañana, tarde y noche se aplicarán **durante** ocho y 10 horas distribuidas, por lo general, en dos franjas horarias.
-
-Aquí puedes consultar el **cronograma completo** de los [cortes de luz](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") en Guayaquil:
-
-> 🚨 ACTUALIZACIÓN  
->   
-> Conoce los horarios de suspensión del servicio de energía eléctrica para el periodo del 14 hasta el 20 de octubre.  
->   
-> Horarios por Unidades de Negocio aquí:  
->   
-> Bolívar: [https://t.co/Y7QGLXY3yB](https://t.co/Y7QGLXY3yB)  
-> El Oro: [https://t.co/YuwxwyuvNX](https://t.co/YuwxwyuvNX)  
-> Esmeraldas: [https://t.co/mVlr2SMJhE](https://t.co/mVlr2SMJhE)… [pic.twitter.com/SoiR8vSo4G](https://t.co/SoiR8vSo4G)
-> 
-> — CNEL EP (@CNEL\_EP) [October 13, 2024](https://twitter.com/CNEL_EP/status/1845312993397264557?ref_src=twsrc%5Etfw)
-
-Auto en que viajaba el hijo de Jimmy Jairala fue baleado, en Guayaquil
-======================================================================
-
-El vehículo de Jimmy Jairala recibió entre 9 y 10 tiros muy cerca de las ventanas. Una persona resultó herida y trasladada a una casa de salud.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El auto del exprefecto Jairala recibió entre 9 y 10 tiros.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-1-3.jpg)
-
-**Jimmy Jairala,** candidato a la Presidencia de Ecuador, **denunció** la madrugada de este domingo 20 de octubre de 2024 sobre un ataque armado que sufrió **el auto en el que iba su hijo**.
-
-### Más noticias
-
-* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
-* [Señales de la inseguridad se plasman en espacios de Ecuador](https://www.elcomercio.com/actualidad/seguridad/senales-inseguridad-espacios-publicos-otros-puntos.html "Señales de la inseguridad se plasman en espacios de Ecuador")
-* [Policía detuvo a falsos trabajadores de CNEL en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-falsos-trabajadores-cnel-guayaquil.html "Policía detuvo a falsos trabajadores de CNEL en Guayaquil")
-
-El ataque que sufrió Jairala
-----------------------------
-
-Jairala comunicó en videos compartidos en sus redes sociales que uno de sus vehículos fue atacado a tiros a la altura de la **Ciudadela Río Guayas** en Samborondón. El hecho violento se habría registrado alrededor de las 02:00 de este domingo 20.
-
-En el vehículo viajaban su hijo, la novia y amigos; además, el **conductor era Cipriano Quiñónez**, quien les brinda seguridad. El auto recibió entre 9 y 10 tiros, varios de ellos hirieron al conductor.
-
-El grupo de amigos salía de **un concierto en el Centro de Convenciones** y no habrían ingerido alcohol, añadió Jairala. Luego del ataque se resguardaron en la garita de la ciudadela.
-
-El exprefecto **se mostró preocupado** por la situación. El conductor fue llevado a una casa de salud, donde recibe atención médica.
-
-Jairala pide se investiguen los móviles del ataque
---------------------------------------------------
-
-La Policía **acudió a la emergencia** y realiza las pericias [correspondientes](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") para investigar el hecho. El exdiputado pidió que se investiguen los motivos del hecho.
-
-Jairala subió varios videos en los que **mostró las condiciones en las que quedó el vehículo**, con orificios causados por las balas en la carrocería y sangre en el sitio del conductor.
-
-Además, recalcó su preocupación **ante la inseguridad que atraviesa Ecuador** y mostró su alivio frente al hecho de que su hijo y sus amigos salieron ilesos.
-
-Añadió que espera que nadie insinúe que se trató de un autoatentado. Señaló que no es su intención hacer un escándalo con este hecho pero que debe registrarlo.
-
-Jairala acudirá a poner la denuncia formal para que la Policía realice las investigaciones de rigor.
-
-> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) Acaban de balear mi vehículo (aproximadamente 2h00) en el que viajaba mi hijo Diego, su novia y amigos. El chofer que da seguridad está herido y fue trasladado a un Hospital. [pic.twitter.com/8bS44UOC4L](https://t.co/8bS44UOC4L)
-> 
-> — Jimmy Jairala (@jimmyjairala) [October 20, 2024](https://twitter.com/jimmyjairala/status/1847920899766296840?ref_src=twsrc%5Etfw)
-
-Cinco chefs destacan la importancia de su profesión en el Día del Chef 
-=======================================================================
-
-El 20 de octubre es el Día Internacional del Chef, una celebración que honra a los maestros culinarios.
--------------------------------------------------------------------------------------------------------
-
-![El Día Internacional del Chef fue instaurado en 2004 por la Asociación Mundial Culinaria. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef.jpg)
-
-El 20 de octubre se celebra el **Día Internacional del Chef**, una fecha que **rinde homenaje a los maestros de la cocina** en todo el mundo.  
-
-Más noticias
-------------
-
-* [Ecuatoriano finalista en competencia mundial de chefs](https://www.elcomercio.com/tendencias/gastronomia/luis-estrella-gastronomia-san-pellegrino-young-chef-academy.html "https://www.elcomercio.com/tendencias/gastronomia/luis-estrella-gastronomia-san-pellegrino-young-chef-academy.html")
-* [Cordero al páramo: Un viaje gastronómico en Inés](https://www.elcomercio.com/videos/cordero-al-paramo-un-viaje-gastronomico-en-ines.html "https://www.elcomercio.com/videos/cordero-al-paramo-un-viaje-gastronomico-en-ines.html")
-
-Este día, instaurado en 2004 por la **Asociación Mundial Culinaria**, busca reconocer el **arduo trabajo y la dedicación** de quienes crean experiencias gastronómicas memorables. La celebración abarca más de 100 países, y promueve no solo la gastronomía, sino también la **educación sobre alimentación saludable**. 
-
-**El Día del Chef para cinco profesionales** 
----------------------------------------------
-
-### **Carlos Gallardo (director de Zero Lab by Uniandes)** 
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-2-1024x683.jpg)
-
-Foto: Cortesía.
-
-El chef **Carlos Gallardo**, con 30 años en la **gastronomía ecuatoriana**, destaca que ser chef requiere humildad, sacrificio y dedicación constante. Para quienes sueñan con esta carrera, aconseja comenzar desde las bases, estudiar técnicas y cultura culinaria, y trabajar incansablemente. Actualmente, **dirige Zero Lab by Uniandes en Quito y Sabor Latino en Nueva York**, y su legado incluye múltiples reconocimientos nacionales e internacionales. 
-
-### **Edwin Antamba Anrango (propietario del restaurante SantoLocro en Lloa)** 
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-1-1024x683.jpg)
-
-Foto: Cortesía.
-
-**Edwin Antamba Anrango** es un chef ecuatoriano, **docente en la UIDE**, con un **Máster en Gastronomía** y múltiples reconocimientos. Para este chef, la **carrera de gastronomía** destaca por su enfoque en la formación integral, al combinar técnicas culinarias con **innovación y emprendimiento**. Esta disciplina no solo permite explorar la **rica gastronomía ecuatoriana**, sino que también abre puertas a una amplia variedad de oportunidades laborales en un sector en crecimiento. 
-
-### **Luis Estrella (finalista de San Pellegrino Young Chef Academy)** 
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-3-1024x683.jpg)
-
-Foto: Cortesía.
-
-**Luis Estrella**, chef ecuatoriano en Malta, se ha destacado en la **alta cocina**. Formado en la **Universidad San Francisco de Quito** y con experiencia en restaurantes como **Disfrutar en Barcelona**, ha influido significativamente en la **gastronomía ecuatoriana**. Su carrera subraya la **importancia de la gastronomía** como una vía para la innovación culinaria y la proyección internacional de la cultura. 
-
-### **Francesco Almeida (propietario del restaurante La Parrilla Típica Quiteña)** 
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-4-1024x683.jpg)
-
-Foto: Cortesía.
-
-Para el **chef Francesco Almeida**, la niñez y adolescencia estuvieron marcadas por los aromas de los guisos de su madre, Lolita, que despertaron su interés por la cocina. Posteriormente, decidió **estudiar gastronomía en Italia**, donde se formó como **chef internacional** y comenzó a trabajar en diversos establecimientos de prestigio. Para Almeida, la **gastronomía**, vista como un arte, permite fusionar sabores y culturas, convirtiendo la cocina en una experiencia multisensorial que fortalece las conexiones sociales. 
-
-### **Andrea Ávila (propietaria de Sweet Vintage)** 
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-del-chef-5-1024x683.jpg)
-
-Foto: Cortesía.
-
-Andrea Ávila, de 38 años, estudió en la Universidad de Especialidades Turísticas. Tras impartir clases de bartender y etiqueta, trabajó en restaurantes, especializándose luego en catering y pastelería, lo que la llevó a lanzar su marca Sweet Vintage hace más de 7 años. Este emprendimiento se centra en la elaboración de postres caseros con un enfoque tradicional, y ha evolucionado para incluir productos saludables. La motivación detrás de su trabajo es la perfección en cada detalle, impulsada por su pasión por la gastronomía y el apoyo de su familia, especialmente su hijo. 
-
-Quito, la capital de los solteros
-=================================
-
-En Quito, 42,5% de la población se identifica como soltera. La búsqueda de autonomía y desarrollo personal marca una nueva era.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Los solteros priorizan sus estudios y su desarrollo profesional. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Solteros.jpeg)
-
-Quito se convierte en la capital de los solteros. Más personas priorizan su autonomía y desarrollo personal. También posponen el matrimonio u optan por la unión libre sin hijos.
-
-El censo de 2022 revela que el 42,5% de la población se identifica como soltera. Este porcentaje supera al 34% de casados y al 11,9% de personas unidas.
-
-Más noticias
-------------
-
-* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
-
-La cifra es aún mayor en la zona urbana, donde los solteros alcanzan el 43,3%. Además, Quito presenta una proporción más alta de solteros que Guayaquil.
-
-Rodrigo Vega, de 40 años y licenciado en comunicación, trabaja en una empresa de eventos. “No tengo planes de casarme. Disfruto de mi estilo de vida. Puedo viajar y disfrutar de mi tiempo. Tener hijos es una gran responsabilidad. No deseo depender de nadie ni que alguien dependa de mí”. Rodrigo se siente feliz sin hijos y no ve la paternidad como una necesidad. Aunque no está cerrado al matrimonio.
-
-El aumento de matrimonios en Quito es moderado. Entre 2013 y 2023, las nupcias crecieron un 4,8%. La edad promedio para casarse ha aumentado considerablemente. En 1997, los hombres se casaban a los 27 y las mujeres a los 24. Para 2022, estas cifras subieron a 35 y 32 años, respectivamente.
-
-Shirley Vallejo, funcionaria pública de 30 años, comenta: “No tengo un deseo fuerte de tener hijos. Disfruto de mi autonomía. Viví en el extranjero y estoy abierta a nuevas oportunidades laborales”. Ella prefiere enfocarse en su desarrollo personal, incluyendo un futuro doctorado.
-
-Las dinámicas familiares han cambiado
--------------------------------------
-
-La composición familiar ha cambiado. El último [censo](https://www.censoecuador.gob.ec/resultados-censo/ "https://www.censoecuador.gob.ec/resultados-censo/") reportó 155 513 hogares unipersonales, representando el 18% del total. La mayoría de estos hogares son de hombres (54%).
-
-Shady Heredia, veterinaria y activista por los derechos de los animales de 35 años, vive con su novio y no planean casarse ni tener hijos. “Creemos que no nos genera ningún beneficio. Desde los 17 años dije que no veía mi futuro con hijos; quería estudiar, trabajar y viajar”. Esta idea con el paso del tiempo se ha reforzado. Aunque ha tenido discusiones familiares, afirma que “no se puede tomar esta decisión de forma irresponsable o por presiones”.
-
-Shady señala que para tener un hijo hay que tener condiciones económicas y de salud que deben estar armonizadas. Su preocupación por el planeta también influye en su decisión: “Es problemático traer más vidas por las condiciones que necesitan. Prefiero perpetuar lo que puedo dar a las siguientes generaciones para que tengan una vida digna, sin preocupaciones por crisis de sequías e inundaciones”.
-
-El factor económico incide
---------------------------
-
-La inestabilidad económica incide en las decisiones de permanecer o no soltero. Muchos jóvenes posponen el matrimonio y la formación de una familia debido a ingresos insuficientes.
-
-La tasa de subempleo, en Quito, se ubicó en 15%, mientras que la del desempleo es de 8,8%, en el segundo trimestre de este 2024.
-
-Uno de los rubros que se prioriza antes de casarse es el gasto de la vivienda. Según Marcus Da Fonseca, gerente de Marketing de Plusvalía, el costo de los alquileres en Quito tiene un incremento del 3,2% este año. Un departamento de dos habitaciones cuesta, en promedio, 508 dólares, mientras que uno de tres alcanza los 698 dólares mensuales.
-
-Cumbayá es la parroquia más cara, con un alquiler medio de 680 dólares al mes. Aunque los precios de venta han disminuido en un 1% este año, el costo por metro cuadrado se sitúa en 1 198 dólares, el mínimo histórico desde 2017, que registra Plusvalía.
-
-Un departamento de dos habitaciones tiene un valor promedio de 91 095 dólares y uno de tres habitaciones vale 120 362 dólares.
-
-La capital de los solteros refleja una transformación en las prioridades de su población, donde la búsqueda de autonomía y estabilidad se antepone a las tradiciones familiares.
-
-Cartas a Quito / 20 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este domingo 20 de octubre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Monopolios y competencia desleal en el mercado ecuatoriano.
------------------------------------------------------------
-
-En Ecuador, los monopolios y la competencia desleal constituyen barreras económicas y equitativas. Cuando unas pocas empresas dominan el mercado, esto repercute negativamente en la innovación, y los consumidores se quedan atrapados en una situación poco esperanzadora, ya que tienen productos caros y escasas opciones. Las pequeñas tiendas tienen problemas para entrar y competir. Esta situación provoca que estas pequeñas tiendas no puedan crecer y crear nuevos puestos de trabajo. Por lo tanto, es importante tener normas más robustas en Ecuador con el fin de conseguir una competencia justa, dicho de otra manera: asegurar que todas las empresas tengan la oportunidad de crecer y competir sin ser explotadas. Necesitamos un entorno de trabajo más justo en el que no usen métodos sucios para ganar a la competencia como bajar los precios demasiado o hacer supuestos descuentos en áreas específicas de comida.
-
-Valentina Mikaela Barahona Mora
-
-Los “No. 1” son iguales como todo su partido  
-----------------------------------------------
-
-Más-menos: ateos, engañadores, narcisistas, hedonistas, corruptos, mafiosos, fascistas, narcos, guerrilleros, montoneros, tiranos, criminales, títulos falsos, tecnócratas, ambicionan dinero y poder, millonarios-capitalistas robándole a sus Pueblos, etc. “Lula con la perla de que la narco-criminal-torturadora-fraudulenta Madurozuela no es una dictadura”. Lula llegó con fraude, prohibido denunciarlo porque van presos en Brasilzuela. Cipayos de China, Rusia, Irán… y la Europa Zurda: J. L. R. Zapatero, Sheinbaum con fraude (AMLO metió mano en el “INE” en 2023), Fidel, Raúl, Correa, Glas, Patiño, Borja, Polit, Zelaya, Xiomara, Diaz-Canel, Chávez, Maduro, Diosdado, Padrino, Saab, Ortega, Dilma, Insulza, Evo, Arce, Petro (Constitucionalmente, examinan dineros turbios en su campaña, ¿cómo son intocables acusa un golpe de Estado?), Boric, Castillo…, la excepción es Mujica, pero la riega con su apoyo ciego a los panas corruptos y criminales. El Maduro Light Sánchez, luego del informe de la Unidad Central Operativa (UCO), se sabe que lo llaman el “No. 1”, que destapa la corrupción de gobierno, partido, familia y ¿Madurozuela con Delcy y más de 40 maletas con oro para el reparto en España y Europa, salida de EGU sin reconocerlo, amnistía a separatistas con el silencio cómplice de la “UE”, etc.? Todos aprietan, amenazan y controlan la justicia, medios, partidos, fiscalía, policía…, para la impunidad y seguir en el poder. ¿Biden y zurdos no aprobarían USD 100M por la cabeza de Maduro, porque les vende petróleo y pactaron fiasco de Doha y Barbados? ¿Aprovecho para denunciar los “6” atentados de los regres locales y del mundo, más fraude contra **“EE. UU.”** en la persona de Trump?: T. M. Crooks, R. W. Routh, V. Miller, paquistaní vinculado con Irán, falla en su avión y el FBI alerta de posible atentado el “5N”. ¿Guerra en Europa, M. Oriente, las Coreas, Taiwán, etc.?
-
-Juan Carlos Cobo Rueda
-
-Miro su cruz y me pregunta ¿quién soy?
---------------------------------------
-
-Desde mi niñez me aseguraron  que un ángel se le apareció a una virgen llamada María para anunciarle que había sido escogida para que de ella nazca el Hijo de Dios que salvaría al mundo. Que esta inmaculada concepción fue aceptada humildemente por María y su esposo José para ponerse al servicio de Su plan de  salvación  por intermedio de su Hijo encarnado, llamado Jesús. Me contaron que el niño vivió su niñez al cuidado de esa pareja santa y luego acompañado de Su madre, hasta que disidió manifestarse ante Sus hermanos judíos y los que no lo eran. Que fue en busca de personas de distinto oficio  a pedirles que Le acompañaran en su cometido de enseñar  el amor a Su Padre Dios y Sus prójimos y que para eso debían ser humildes como Él y ponerse como Él a su  servicio. Y lo hizo hablando de Su Padre, enseñándoles a orar, contestando con parábolas las inquietudes de los Suyos y de los que no Le aceptaban, haciendo prodigios para no solo aliviar los cuerpos, sino principalmente las almas. Me reiteraron que los que Le seguían eran muchos y creían en Él y que esto no les gustaba ni les convenía a los líderes judíos que Le combatían y Le perseguían y que estos al final se acercaron a un poder político cobarde y pidieron Su muerte y que este miedo también lo sintieron Sus más íntimos amigos a quienes había preguntado ¿Quién Soy yo? Los únicos que Lo acompañaron a Su muerte en cruz fueron Su madre, el apóstol Juan y Maria Magdalena, Su discípula y que antes de Su último suspiro pidió a Su Padre que perdonara a los que Le hicieron mal y a los que Le olvidaron y que todo lo que Su Padre le había  pedido, se cumplía.
-
-Y cada vez que miro Su Cruz, me pregunta ¿Quién Soy Yo? Yo, afirmo que Jesús es mi Dios y Salvador, que resucitó y volvió al seno del Padre Dios y del Espíritu Santo, y que Él es, el  camino, la verdad y la vida de todos.  Creo que dependo totalmente de Su misericordia y que  todo lo que me han enseñado es cierto.
-
-Alfredo Gallegos Chiriboga
-
-Embajadas, no elegibles & corruptos
-===================================
-
-EE. UU. negó la entrada a Correa, Glas y sus familias por corrupción, ligada a la condena de Carlos Pólit.
-----------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-La reciente decisión del **Departamento** de **Estado** de los **Estados Unidos**, expresada a través de su **Embajada en el Ecuador,** en el sentido de que, no son elegibles para ingresar a dicho país,  Correa y Glas, así como sus **respectivas familias**, no debe interpretarse como **retiro de las visas,** sino más bien, como una meditada, sustentada e **importante decisión** mediante la cual los **Estados Unidos** se anticipa públicamente en expresar e informar su negativa de conceder visa a las personas aludidas. Las razones  de tal **decisión**, es por estar relacionados ambos **mandatarios** con graves asuntos de **corrupción** durante el **desempeño** en sus funciones.
-
-Dicha soberana **decisión** de estado, es sin duda una vergonzante **sanción moral** ante el mundo, la misma que probablemente tendría que ver con la reciente sentencia en contra del **ex Contralor Carlos Pólit**, sentenciado por el delito de **lavado de activos** en USA, utilizando para el efecto los dineros sucios obtenidos por coimas durante los gobiernos de Correa, condena dada en **corte norteamericana**, ajena al cacareado Lawfare del revolucionario **socialismo siglo XXI**, con lo cual se derrumba dicha teoría, aplastada por la verdad y por la **historia**.
-
-No debemos descartar la posibilidad en el sentido de que, a cambio de alguna **bondad judicial**,  Pólit haya llegado a un **acuerdo de cooperación** con la justicia norteamericana y, por ende, haya realizado **declaraciones** que involucren seriamente a Correa y a Glas. De igual manera, la extensión de esta suerte de **sanción pública,** se haría extensiva a sus familiares, quizás  en razón de que uno de los implicados en el **lavado de activos**, sería uno de los hijos del condenado Pólit. Es decir, lo dado es un claro y certero mensaje del **gobierno estadounidense,** en el sentido de que, dichos **personajes** no son bienvenidos, que en su país no están abiertas las puertas para **corruptos**, ni para **potenciales actividades** que pudieran realizar familiares de aquellos.
-
-USA ya se ha pronunciado en el pasado con actos similares, por ejemplo, con el retiro de la visa al expresidente de Colombia E. Samper por sus **relaciones con el narcotráfico;**  el retiro de la visa a los expresidentes y allegados, tanto de Guatemala  Alejandro Giammattei como  del Paraguay Horacio Cartes, incluso a Abdalá Bucaram (pese a no tener **sentencia condenatoria**) al considerarlo  no elegible para ingresar; y, a Verónica Abad, actual vicepresidenta, con el retiro de la visa, según fuentes periodísticas. Cabe indicarse que tanto Giammattei cuanto Cartes tienen **tendencia política de derecha**, lo cual deja claro que no se trata de una **retaliación ideológica**, sino de un  frontal ataque a los actos de **corrupción de las altas esferas políticas.**
-
-Lo dado, en buena hora, da un espaldarazo importante a la **situación del Ecuador** en el concierto internacional frente al ingreso de la Embajada de México en Quito el viernes 5 de abril, dejando muy mal parados frente al mundo, a **Correa**  y al gobierno mexicano del expresidente AMLO. Adicionalmente, más allá de la sanción moral, la razón del **gobierno estadounidense** no deja duda de los actos de corrupción de los implicados; y, por ende, deriva por interpretación extensiva el considerar el carácter de guarida a la **embajada mexicana** ocupada en su momento por un **delincuente** sentenciado. Sin perjuicio, de la **situación incómoda** en la que deja dicha **decisión**, en lo internacional, a **Bélgica** y  a la Interpol que se ha negado a **activar la difusión roja** y por ende a  ejecutar la **captura internacional** en contra de Correa;  y, en lo local, a algunos **ecuatorianos** que se pronunciaron en contra del ingreso, no por apoyar a Correa, pese a que de alguna manera se alinearon a su tesis del asalto, enredándose estos  en los formalismos y **protocolos diplomáticos**, sin entender ni llegar a ver la esencia de la situación, esto es, la recta intención de no permitir la potencial fuga y por ende **impunidad** de un sentenciado por **corrupción** y **prófugo** a la época, alojado en la embajada de dicho país, a fin de abusando y mal utilizando la **institución** del asilo político y solapado por AMLO, pretendía evadir flagrantemente la **justicia ecuatoriana**.
-
-Que esto sirva de **reflexión** para muchos.
-
-Turismo a las conquistas
-========================
-
-La pobreza en Latinoamérica, vinculada al saqueo colonial y la corrupción actual
---------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-Demando que Luis Beltrán Pantoja Calvo, **alcalde de la Ciudad Imperial**: Cuzco, antigua capital del Imperio Inca, pida perdón al **presidente de Ecuador** por la **conquista** y **destrucción** de nuestras **culturas ancestrales**, que ejecutaron sus ejércitos genocidas contra los pueblos de nuestra nación, hace 600 años. Por el **etnocidio brutal**, por la **imposición** violenta del **idioma quichua** y la destrucción de nuestros lenguajes nativos, habiendo sobrevivido apenas 2 en la Costa: el Awapít y Tsa´fiqui; y 11 en la Amazonía donde las huestes imperialistas no pudieron ingresar.
-
-También exijo que se retiren de **sitios públicos** los monumentos a Atahualpa: último “emperador” inca y elimínenos la expresión “Pachamama” que representa el dominio cultural y espiritual de los **invasores** sobre las **generaciones ecuatorianas** actuales que hablan este **idioma extranjero**.
-
-También reclamo que se eliminen los **nombres geográficos bautizados** con vocablos de los **conquistadores** y se ponga una placa en la **laguna de Yaguarcocha**, en protesta por la masacre de 40.000 de los nuestros, degollados por los **invasores** del sur.
-
-Entiendo al compañero Manuel López Obrador, expresidente de México, a quien los reyes de España no le pidieron perdón, por la **colonización** de hace 500 años que terminó con **imperios locales** que devoraban los **cadáveres** de sus víctimas. Y que terrible que la primera biblia en idioma náhuatl se tradujo en el siglo XVI cuando más del 50 por ciento de la **población de la América hispana** era indígena y fue reducida al actual 7%, a partir de que se constituyeron las **actuales repúblicas,** siendo los libertadores los que prohibieron los **idiomas nativos** y masacraron a todos quienes fueron fieles a la **nueva España**.
-
-También entiendo que la **actual pobreza** de todas nuestras naciones es por culpa de las 200 toneladas de oro que se llevaron los españoles en los 3 siglos que gobernaron y que hoy equivaldrían a 12 000 millones de dólares, la misma cantidad que en **Ecuador**, el gobierno de su amigo Rafael Correa, gastó en apenas aplanar un terreno para una **refinería** que nunca se construyó.
-
-Comprendo que la **pobreza heredada**, ha hecho que durante los últimos 200 años nos hundamos en una corrupción galopante de la **clase política**, de todos los actuales gobiernos que han sido permeados por el **narcotráfico**, la **minería ilegal** y la **trata de personas**, que no existirían si no nos hubiesen invadido hace 500 años.
-
-Finalmente, doy la razón a la actual presidente de México: Claudia Sheinbaum y para la próxima posesión de un **presidente ecuatoriano**, en nombre de la ¡Dignidad de la Patria! No se invitará al alcalde de Cuzco.  
-
-¿Quito planifica sus riesgos? Esto dicen expertos y la autoridad
-================================================================
-
-Quito es una ciudad propensa a riesgos según dicen los expertos. El Municipio afirma que tiene varios planes de contingencia para atender las emergencias.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Quito se vio afectada por las lluvias y los incendios.](https://www.elcomercio.com/wp-content/uploads/2024/10/Riesgos-en-Quito.jpg)
-
-**Quito** enfrenta múltiples **riesgos** debido a su **geografía**, la acción **humana** y el **cambio** **climático**. En solo una semana se registraron 12 **incendios forestales**, el más grave en **Guápulo**, donde se afectaron varias viviendas[.](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_riesgos "https://es.wikipedia.org/wiki/Gestión_de_riesgos")
-
-Más noticias
-------------
-
-* [Taxista que provocó incendio forestal en Quito recibió medidas cautelares](https://www.elcomercio.com/actualidad/quito/taxista-formulacion-cargos-incendios-forestales-quito.html "Taxista que provocó incendio forestal en Quito recibió medidas cautelares")
-* [Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal](https://www.elcomercio.com/actualidad/quito/vecinos-bolanos-quito-levantan-tres-semanas-incendio.html "Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal")
-* [¿Es suficiente con reaccionar ante una emergencia en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/reaccionar-ante-emergencia-ecuador.html "¿Es suficiente con reaccionar ante una emergencia en Ecuador?")
-
-A inicios de octubre, las lluvias provocaron el **desbordamiento** de un río en el sur de la ciudad, lo que reveló la vulnerabilidad de la infraestructura.
-
-**Cristian** **Rivera**, experto en **riesgos**, señala que la **geografía y topografía de Quito** la hacen propensa a incendios, deslaves, erupciones volcánicas y siniestros de tránsito.
-
-Incendios forestales: la amenaza del verano
--------------------------------------------
-
-Cada año, **Quito** enfrenta incendios forestales por la vegetación seca durante la sequía. En la última semana de septiembre se registraron 12, siendo el de **Guápulo** el más grave.
-
-**Rivera** explica que la **topografía montañosa** dificulta el acceso de los **bomberos** y que los vientos y la vegetación seca aceleran el **fuego**. Las quemas de basura agravan la situación. El **Cuerpo de Bomberos** realiza campañas de concientización, pero se necesita mayor inversión en prevención y respuesta.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendio-forestal-Guapulo-1024x683.jpg)
-
-El incendio de Guápulo dejó varias casas afectadas. Foto: Diego Pallero / EL COMERCIO.
-
-Deslaves: un riesgo real con las lluvias
-----------------------------------------
-
-Con las lluvias, los deslaves son una **amenaza**. Zonas afectadas por **incendios** y la **deforestación** aumentan el riesgo. **Rivera** advierte que los asentamientos en quebradas empeoran las **consecuencias**.
-
-Un ejemplo es el **desbordamiento** de un río en el sur y el deslave de 2021 en **La Comuna.** Aunque el **Municipio** limpia quebradas para mitigar el riesgo, estos esfuerzos no son suficientes.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Deslaves-en-Quito-1024x683.jpg)
-
-Personal del Municipio de Quito limpia la huella del desbordamiento de un río en el sur de la ciudad. Foto: Julio Estrella / EL COMERCIO. 
-
-Erupciones volcánicas: una amenaza constante
---------------------------------------------
-
-**Quito** está rodeada por volcanes activos como el **Pichincha** y el **Cotopaxi**. Aunque el **Cotopaxi** ha mostrado actividad, la ciudad debe prepararse para una posible **erupción**. La caída de ceniza afectaría la **salud y el tráfico aéreo.**
-
-Los **planes de evacuación** y la información a la población son cruciales, pero **Rivera** señala que las campañas deben ser más efectivas.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Cotopaxi--1024x683.jpg)
-
-La actividad del volcán Cotopaxi es monitoreado constantemente por el Instituto Geofísico. Foto: IG. 
-
-Siniestros de tránsito: un problema constante
----------------------------------------------
-
-Además de los riesgos naturales, Quito sufre por los **siniestros de tránsito**. El aumento del parque automotor y la imprudencia generan muchos **siniestros**. El mal estado de las vías y la falta de señalización agravan el problema.
-
-El cabildo, en colaboración con **Bloomberg**, realiza **controles de velocidad**. Sin embargo, los accidentes siguen siendo frecuentes, lo que requiere más **educación vial y control.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Siniestro-de-transito-1024x683.jpg)
-
-Los siniestros de tránsito ocurren con regularidad en Quito. Foto: X. 
-
-Un fuerte sismo: el mayor riesgo para Quito
--------------------------------------------
-
-Patricia Carrillo, directora de Gestión de Riesgos de Quito, señaló a EL COMERCIO que el mayor peligro que enfrenta la ciudad es un **sismo de gran magnitud**. A diferencia de un movimiento en masa o una inundación, un sismo es altamente destructivo y causa un daño considerable en cuestión de segundos.
-
-Carrillo explicó que, dependiendo del área afectada, un **sismo** de gran magnitud puede causar más daño que un año de lluvias intensas.
-
-Rivera dice que un fuerte sismo superficial en hora pico sería falta para la ciudad. Aunque hay lugares de la ciudad que son más vulnerables, como en el **Centro Histórico de Quito**, o en Solanda, donde hay un historial de debilitamiento del suelo por el paso del Metro.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/SIsmo-en-Quito-1024x683.jpg)
-
-Un sismo de magnitud 4.2 ocurrió en Quito el 23 de noviembre de 2021. Foto: Archivo / EL COMERCIO. 
-
-¿Quito trabaja en la prevención de riesgos?
--------------------------------------------
-
-Cristopher Velasco, experto en riesgos, destaca la importancia de integrar la **gestión de riesgos** en la **planificación** **urbana**.
-
-Señala que es crucial trabajar en la **percepción del riesgo** de la ciudadanía para desarrollar programas más efectivos.
-
-Recalca que los riesgos no se solucionan solo con **simulacros**, sino con **planificación territorial**. Es necesario optimizar recursos y articular la reducción de riesgos con el desarrollo.
-
-Finalmente, subraya que la **gestión de riesgos** debe enfocarse en la **prevención** y **preparación**, generando evidencia para **decisiones anticipadas** y promoviendo una mejor conducta social.
-
-Patricia Carrillo, directora de **Gestión de Riesgos** de Quito, afirma que el **Municipio** tiene varios planes de **contingencia**, pero reconoce que hace falta una **política pública de prevención.** Actualmente, trabajan en la creación de esta con base en la normativa existente.
-
-Cómo trabaja el Municipio ante una emergencia
----------------------------------------------
-
-El **Plan Metropolitano de Respuesta** incluye protocolos para enfrentar incidentes, emergencias y desastres. Según la magnitud de la emergencia, como ocurrió con el incendio de **Guápulo**, se activa el **COE** **Cantonal** para determinar si se necesita apoyo del **Gobierno Nacional.**
-
-**Patricia** **Carrillo** explicó que Quito se construyó de manera desorganizada, sin considerar los riesgos. Existen casas cerca de laderas, zonas propensas a incendios forestales y deslaves. Además, muchas vías son angostas y carecen de veredas.
-
-Históricamente, la población construía cerca de ríos, ya que estos representaban vida, sin considerar los **riesgos**. Esto ha generado **asentamientos desordenados** y problemas de **planificación territorial**.
-
-En cuanto a las vías estrechas, el **Cuerpo de Bomberos** ha realizado estudios y cuenta con vehículos especializados para atender **emergencias** en estas áreas. Además, la Agencia Metropolitana de Tránsito (**AMT**) coordina el cierre de vías para facilitar el paso de **vehículos de emergencia.**
-
-En cuanto a la prevención, se busca que la **población** reconozca los **riesgos** y aprenda a **protegerse**. De esta manera, se espera reducir el número de víctimas y mejorar la respuesta ante **emergencias**.
-
-Esto, porque es imposible controlar el comportamiento de la **naturaleza**, pero con los trabajos de prevención se pueden **reducir los daños.**
-
-A Quito le hace falta aplicar los planes de prevención
-------------------------------------------------------
-
-Cristopher Velasco mencionó que **Quito** cuenta con varios planes de contingencia, pero el problema radica en que han sido elaborados por consultorías, lo que impide que las autoridades conozcan completamente los procesos.
-
-Aclara que no es un problema que una **consultoría** realice los planes, siempre que los técnicos del **Municipio** sepan cómo ejecutarlos. Además, subraya que estos planes deben alinearse con los ordenamientos municipales, en especial con el Plan de Uso y Gestión del Suelo (**PUGS**) de Quito, para asegurar su integración con el ordenamiento territorial.
-
-Cree que el **Municipio** piensa más en la respuesta que en la **prevención**, esto porque la ordenanza de **Gestión de Riesgos** es reactiva.
-
-Lo que se debe reconocer, según Velasco, es que **Quito** tiene una buena capacidad de **reacción**, tanto en **personal**, **tecnología** y **economía**.
-
-Christian Rivera dice que **Quito** cuenta con algunos planes de **prevención** que están en diferentes entidades del **Municipio**, pero que con las nuevas administraciones no se han actualizado.
-
-Lo que tiene que hacer el Municipio es actualizarlos y ejecutarlos, afirma el experto en riesgos.
