@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1622.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -131,7 +131,7 @@ Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0692-CM1-Samsung-Cashback-CTA2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0MTM4MXxpbWFnZS9qcGVnfGFHUmlMMmd5Tmk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFk1TWw5RFRURmZVMkZ0YzNWdVoxOURZWE5vWW1GamExOURWRUV5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFk1TWw5RFRURmZVMkZ0YzNWdVoxOURZWE5vWW1GamExOURWRUV5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YjRlZTM1NDU3MDNkYjNkYjBkYjA1OWM3NDljZTE0MmI2Mjk4MzUzMmNhYjZlODFjNTA5NTMwMmZiYzZhNWI0Nw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0692-CM1-Samsung-Cashback-CTA2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNTgzMnxpbWFnZS9qcGVnfGFEa3lMMmcxWXk4NE1qaDRNelV3WDBreU5GOHdOamt5WDBOTk1WOVRZVzF6ZFc1blgwTmhjMmhpWVdOclgwTlVRVEl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpneU9IZ3pOVEJmU1RJMFh6QTJPVEpmUTAweFgxTmhiWE4xYm1kZlEyRnphR0poWTJ0ZlExUkJNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGQwOTExY2Q1ZTkzYmUyNTFhNTRhNDZkMTM5ZWNkMWJhNzA3ODY0ZjM2NmJhNjAyYmNhOTNmZWFkYWE2MWY3Mw&w=2360&q=75)](https://www.microspot.ch/fr/cms/samsung-smartphone)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0590-Nachhaltigkeit-Banner12.jpg%3Fcontext%3DbWFzdGVyfGNtc3w5NzY5OHxpbWFnZS9qcGVnfGFEWmhMMmc1TlM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFU1TUY5T1lXTm9hR0ZzZEdsbmEyVnBkRjlDWVc1dVpYSXhNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2TVRFNE1IZ3pOVEJmU1RJMFh6QTFPVEJmVG1GamFHaGhiSFJwWjJ0bGFYUmZRbUZ1Ym1WeU1USXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MTc2NWMxNjhlMjM2MzFjZmMwNTI3ZGZhZjg4ZWRlNjc2NDExNmZlZDYwOWU2NWJlZDJmNzc4ZGY4NzFkNDM0NQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/entreprise/durabilit%C3%A9)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0590-Nachhaltigkeit-Banner2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNDIyNTd8aW1hZ2UvanBlZ3xhRFE1TDJnM1ppOHhNVGd3ZURNMU1GOUpNalJmTURVNU1GOU9ZV05vYUdGc2RHbG5hMlZwZEY5Q1lXNXVaWEl5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFU1TUY5T1lXTm9hR0ZzZEdsbmEyVnBkRjlDWVc1dVpYSXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXwxMGNhY2I3MDdiMjAxM2FmZDJmNDBlZDA4MGVlMDIyMmM2ODFhZDBjYjdlY2I4YjdjY2Q4MmJiODZiMWJhNWRj&w=2360&q=75)](https://www.microspot.ch/fr/cms/entreprise/durabilit%C3%A9)
 
 Testé pour vous
 ---------------
@@ -211,17 +211,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
 [Frais de port gratuits pour livraison
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Retrait gratuit
+[Commandé aujourd'hui avant 20h
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
