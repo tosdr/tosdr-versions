@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Edgar-Roman-and-Zoraleigh-Ryan-326x245.jpg)](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
+
+River North
+
+### [24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
+
+[October 18, 2024 12:52 PM](https://cwbchicago.com/2024/10)
+
+A judge on Friday morning sentenced a man to 24 years in prison for intentionally running over and killing a woman in front of her daughter in River North four years ago.[](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Carmelo-Aviles-and-Alex-Alvarado-326x245.jpg)](https://cwbchicago.com/2024/10/motorcylist-charged-with-murdering-man-in-logan-square.html "Motorcylist charged with murdering man in Logan Square")
+
+Logan Square
+
+### [Motorcylist charged with murdering man in Logan Square](https://cwbchicago.com/2024/10/motorcylist-charged-with-murdering-man-in-logan-square.html "Motorcylist charged with murdering man in Logan Square")
+
+[October 18, 2024 8:51 AM](https://cwbchicago.com/2024/10)
+
+Prosecutors have charged a man with shooting at a passing vehicle in Logan Square, killing one of its passengers, after he was allegedly caught carrying the murder weapon months later.[](https://cwbchicago.com/2024/10/motorcylist-charged-with-murdering-man-in-logan-square.html "Motorcylist charged with murdering man in Logan Square")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Asdrubal-Brito-Marcano-and-Javier-Marique-Olivo-326x245.jpg)](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
 
 Archer Heights
@@ -252,26 +272,6 @@ Archer Heights
 [October 18, 2024 7:29 AM](https://cwbchicago.com/2024/10)
 
 Two more migrants have been charged with participating in a $19,000 smash-and-grab shoplifting raid on an Ulta Beauty store last month. Incredibly, one of them has already been arrested for stealing perfume from another store.[](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/JOSHUA-CERVANTES-2023-326x245.jpg)](https://cwbchicago.com/2024/10/man-who-got-shot-with-his-own-gun-outside-west-town-bar-is-charged-with-illegally-possessing-the-firearm.html "Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm")
-
-West Town
-
-### [Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm](https://cwbchicago.com/2024/10/man-who-got-shot-with-his-own-gun-outside-west-town-bar-is-charged-with-illegally-possessing-the-firearm.html "Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm")
-
-[October 17, 2024 7:37 PM](https://cwbchicago.com/2024/10)
-
-An Evergreen Park man who allegedly lost control of his firearm during a fight outside a West Town bar earlier this month has a couple of problems. First, the guy who gained control of Joshua Cervantes’ firearm shot Cervantes with it. Second, prosecutors are now charging Cervantes with illegally possessing the gun in the first place.[](https://cwbchicago.com/2024/10/man-who-got-shot-with-his-own-gun-outside-west-town-bar-is-charged-with-illegally-possessing-the-firearm.html "Man who got shot with his own gun outside West Town bar is charged with illegally possessing the firearm")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tyrone-Kirkman-326x245.jpg)](https://cwbchicago.com/2024/10/carjacking-of-uber-driver-fails-after-thief-cant-figure-out-how-to-start-her-tesla.html "Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla")
-
-Austin
-
-### [Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla](https://cwbchicago.com/2024/10/carjacking-of-uber-driver-fails-after-thief-cant-figure-out-how-to-start-her-tesla.html "Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla")
-
-[October 17, 2024 3:24 PM](https://cwbchicago.com/2024/10)
-
-Prosecutors say a 20-year-old man on probation for a gun violation attacked, robbed, and tried to carjack an Uber driver over the summer, but the hijacking failed because he couldn’t figure out how to start her Tesla.[](https://cwbchicago.com/2024/10/carjacking-of-uber-driver-fails-after-thief-cant-figure-out-how-to-start-her-tesla.html "Carjacking of Uber driver fails after thief can’t figure out how to start her Tesla")
 
 Search
 
