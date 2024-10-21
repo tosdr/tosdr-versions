@@ -542,7 +542,7 @@ Company
 
 ![](/images/right.svg)](https://www.resilio.com/jobs/)[News & Press Releases
 
-![](/images/right.svg)](https://www.resilio.com/blog/resilio-news-and-press-releases)
+![](/images/right.svg)](https://www.resilio.com/resources/#type=news)
 
 ![](/images/collaborating-in-circle.svg)
 
