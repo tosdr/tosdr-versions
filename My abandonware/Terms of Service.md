@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Pub Darts](https://www.myabandonware.com/game/pub-darts-6iy)
+* [Pro Tennis: World Court](https://www.myabandonware.com/game/pro-tennis-world-court-f19)
 * [Primal Rage](https://www.myabandonware.com/game/primal-rage-2vr)
 * [Zen-Nihon Joshi Pro Wrestling: Queen of Queens](https://www.myabandonware.com/game/zen-nihon-joshi-pro-wrestling-queen-of-queens-sxr)
 * [Wan Wan Aijō Monogatari](https://www.myabandonware.com/game/wan-wan-aijo-monogatari-sxq)
-* [Nigaoe Artist](https://www.myabandonware.com/game/nigaoe-artist-sxp)
-* [Lupiton's Wonder Palette](https://www.myabandonware.com/game/lupiton-s-wonder-palette-sxo)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
