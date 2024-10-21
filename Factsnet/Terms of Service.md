@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Renal Hepatic Pancreatic Dysplasia Dandy Walker Cyst ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-renal-hepatic-pancreatic-dysplasia-dandy-walker-cyst/)
+[![25 Facts About Billboard Latin Music Awards ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/25-facts-about-billboard-latin-music-awards/)
 
-Health Science
+Entertainment
 
-20 Oct 2024
+21 Oct 2024
 
-[30 Facts About Renal Hepatic Pancreatic Dysplasia Dandy Walker Cyst](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-renal-hepatic-pancreatic-dysplasia-dandy-walker-cyst/)
+[25 Facts About Billboard Latin Music Awards](https://facts.net/lifestyle/entertainment/25-facts-about-billboard-latin-music-awards/)
 
-[![25 Facts About Artistic Representations ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/25-facts-about-artistic-representations/)
+[![25 Facts About Caspian Expedition Of The Rus ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/25-facts-about-caspian-expedition-of-the-rus/)
 
-Culture & The Arts
+Historical Events
 
-20 Oct 2024
+21 Oct 2024
 
-[25 Facts About Artistic Representations](https://facts.net/culture-and-the-arts/25-facts-about-artistic-representations/)
+[25 Facts About Caspian Expedition Of The Rus](https://facts.net/history/historical-events/25-facts-about-caspian-expedition-of-the-rus/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
