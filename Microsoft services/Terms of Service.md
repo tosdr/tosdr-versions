@@ -85,11 +85,11 @@ Aquestes condicions ("**Condicions**") cobreixen l'ús dels productes, els llocs
 
 Si sou una microempresa, una petita empresa o una organització sense afany de lucre, llegiu la secció 15 sobre la renúncia a drets que se us puguin aplicar segons el Codi Europeu de Comunicacions Electròniques.
 
-[La vostra privacitat](#1_YourPrivacy)
+[La vostra Privacitat](#1_YourPrivacy)
 
-[El vostre contingut](#2_yourContent)
+[El vostre Contingut](#2_yourContent)
 
-[Codi de conducta](#3_codeOfConduct)
+[Codi de Conducta](#3_codeOfConduct)
 
 [Ús dels Serveis i el Suport tècnic](#4_usingTheServicesSupport)
 
@@ -127,7 +127,7 @@ Si sou una microempresa, una petita empresa o una organització sense afany de l
 
 [Aplicacions i Serveis de Microsoft](#13h_MicrosoftAppsAndServices)
 
-[Bots de salut](#13i_MicrosoftHealthServices)
+[Bots del Health](#13i_MicrosoftHealthServices)
 
 [Productes digitals](#13j_DigitalGoods)
 
@@ -155,7 +155,7 @@ Si sou una microempresa, una petita empresa o una organització sense afany de l
 
 [NOTIFICACIONS](#NOTICES)
 
-[CONDICIONS DE LLICÈNCIA D'APLICACIÓ ESTÀNDARD](#STANDARDAPPLICATIONLICENSETERMS)
+[TERMES DE LLICÈNCIA ESTÀNDARD D'APLICACIONS](#STANDARDAPPLICATIONLICENSETERMS)
 
 [Serveis coberts](#serviceslist)
 
