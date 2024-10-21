@@ -268,21 +268,19 @@ Habit will close its doors for good on November 2.
 [Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
-
-Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Swatragh stun Kevin Lynch's to take Intermediate Hurling title!](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend")](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
 
@@ -292,13 +290,6 @@ IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
 
 [IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two PSNI officers injured after vehicle rammed in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
 
@@ -316,36 +307,77 @@ The damage caused to the PSNI vehicle.
 [Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Celebrations as Greysteel couple mark 60 years of marriage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Celebrations as Greysteel couple mark 60 years of marriage")](https://www.derrynow.com/news/home/1635407/celebrations-as-greysteel-couple-mark-60-years-of-marriage.html)
+[![IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
 
-Columba & Vera Logue from Greysteel, who celebrated their 60th (Diamond) Wedding Anniversary earlier this month.
+IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup
 
-[Home](https://www.derrynow.com/)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Celebrations as Greysteel couple mark 60 years of marriage](https://www.derrynow.com/news/home/1635407/celebrations-as-greysteel-couple-mark-60-years-of-marriage.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Tens of thousands remain without power after Storm Ashley hits island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tens of thousands remain without power after Storm Ashley hits island of Ireland")](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
+[![Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody")](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Paul Hughes: Credit Paul Hughes on Instagram](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Hughes: Credit Paul Hughes on Instagram")](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
+[![Bail application adjourned for man who co-operated with police and give his PIN number](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail application adjourned for man who co-operated with police and give his PIN number")](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
 
-Paul Hughes: Credit Paul Hughes on Instagram
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Bail application adjourned for man who co-operated with police and give his PIN number](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[County Derry MMA fighter Paul Hughes shares victory with Cristiano Ronaldo](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Kneecap Derry show moves to historic cityside venue after Unionist opposition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap Derry show moves to historic cityside venue after Unionist opposition")](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
+
+Kneecap will play Templemore Sports Complex in November
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap")](https://www.derrynow.com/story-telling/pictures---videos/1635813/in-pictures-people-dive-into-the-treasure-trove-of-free-spooky-outfits-at-the-halloween-costume-swap.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap](https://www.derrynow.com/story-telling/pictures---videos/1635813/in-pictures-people-dive-into-the-treasure-trove-of-free-spooky-outfits-at-the-halloween-costume-swap.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: School of Rock - Schools in Derry visit GeoEnergy Discovery Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: School of Rock - Schools in Derry visit GeoEnergy Discovery Centre")](https://www.derrynow.com/story-telling/pictures---videos/1635652/in-pictures-school-of-rock-schools-in-derry-visit-geoenergy-discovery-centre.html)
+
+IN PICTURES: School of Rock - Schools in Derry visit GeoEnergy Discovery Centre
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: School of Rock - Schools in Derry visit GeoEnergy Discovery Centre](https://www.derrynow.com/story-telling/pictures---videos/1635652/in-pictures-school-of-rock-schools-in-derry-visit-geoenergy-discovery-centre.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+
+IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+
+IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: All smiles for International Credit Union Day in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: All smiles for International Credit Union Day in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
 
@@ -394,34 +426,6 @@ PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in De
 
 [Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Hope Walk to Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Hope Walk to Guildhall")](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Hope Walk to Guildhall](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School")](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'")](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Kilrea woman's plea for kidney donor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Kilrea woman's plea for kidney donor")](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[WATCH: Kilrea woman's plea for kidney donor](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,53 +527,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Bail application adjourned for man who co-operated with police and give his PIN number](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail application adjourned for man who co-operated with police and give his PIN number")](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
+[![Internationally acclaimed archaeologist to give Derry lecture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Internationally acclaimed archaeologist to give Derry lecture")](https://www.derrynow.com/news/local-news/1635623/internationally-acclaimed-archaeologist-to-give-derry-lecture.html)
+
+Internationally acclaimed archaeologist , Brian Lacey.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Bail application adjourned for man who co-operated with police and give his PIN number](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Internationally acclaimed archaeologist to give Derry lecture](https://www.derrynow.com/news/local-news/1635623/internationally-acclaimed-archaeologist-to-give-derry-lecture.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+[![Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season")](https://www.derrynow.com/news/local-news/1635774/fireworks-sparklers-and-costumes-derry-public-warned-to-follow-key-tips-to-stay-safe-this-spooky-season.html)
+
+Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+[Fireworks, sparklers and costumes - Derry public warned to follow key tips to stay safe this spooky season](https://www.derrynow.com/news/local-news/1635774/fireworks-sparklers-and-costumes-derry-public-warned-to-follow-key-tips-to-stay-safe-this-spooky-season.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Brand new edition of Paddy Tunney’s memoir relaunched in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Book_launch_1-1729514118716.jpg--.jpg?1729514119714 "Brand new edition of Paddy Tunney’s memoir relaunched in Derry")](https://www.derrynow.com/news/local-news/1635649/brand-new-edition-of-paddy-tunneys-memoir-relaunched-in-derry.html)
+
+Pictured at the book launch in Studio 2 were, from left, John Tunney, Roise NiMurchu, Brian Mullan, Michael Carey, Kate Forde McKinley and Shannan Forde McKinley. (Photos: Keith Moore)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Brand new edition of Paddy Tunney’s memoir relaunched in Derry](https://www.derrynow.com/news/local-news/1635649/brand-new-edition-of-paddy-tunneys-memoir-relaunched-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry MLA demands action on residents’ parking scheme](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Duncreggan_Road_Derry-1729524567667.jpg--.jpg?1729524567698 "Derry MLA demands action on residents’ parking scheme")](https://www.derrynow.com/news/local-news/1635857/derry-mla-demands-action-on-residents-parking-scheme.html)
+
+Duncreggan Road, Derry (Photo: GoogleMaps)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry MLA demands action on residents’ parking scheme](https://www.derrynow.com/news/local-news/1635857/derry-mla-demands-action-on-residents-parking-scheme.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Labour Government accused of ‘betraying’ Troubles victims](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_21/1729528508519_0.jpg--.jpg?1729528508686 "Labour Government accused of ‘betraying’ Troubles victims")](https://www.derrynow.com/news/northern-ireland/1635671/labour-government-accused-of-betraying-troubles-victims.html)
+
+[Northern Ireland](https://www.limerickleader.ie/section/2726/northern-ireland)
+
+[Labour Government accused of ‘betraying’ Troubles victims](https://www.derrynow.com/news/northern-ireland/1635671/labour-government-accused-of-betraying-troubles-victims.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_21/car_damage_1_211024-1729511690950.jpg--.jpg?1729511691253 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
+[![Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/resizer/165/93/true/2024_08_21/F4_-_MT3424432JOC_-_Copy-1724259144603.jpg--.jpg?1724259144749 "Kneecap Derry show moves to historic cityside venue after Unionist opposition")](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
 
-The damage caused to the PSNI vehicle.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paul Hughes: Credit Paul Hughes on Instagram](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Paul_Hughes-1729507807868.PNG--.PNG?1729507807935 "Paul Hughes: Credit Paul Hughes on Instagram")](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
-
-Paul Hughes: Credit Paul Hughes on Instagram
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[County Derry MMA fighter Paul Hughes shares victory with Cristiano Ronaldo](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man awaiting sentence for hospital sex assault breaches bail")](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+Kneecap will play Templemore Sports Complex in November
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Billboard campaign urges Executive to ‘Finish the Job’ of Peace](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Finish_the_Job_-_HumeFoundation-1729503558764.png--.png?1729503558897 "Billboard campaign urges Executive to ‘Finish the Job’ of Peace")](https://www.derrynow.com/news/local-news/1635435/billboard-campaign-urges-executive-to-finish-the-job-of-peace.html)
-
-Peace Summit Partners’ billboard design.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Billboard campaign urges Executive to ‘Finish the Job’ of Peace](https://www.derrynow.com/news/local-news/1635435/billboard-campaign-urges-executive-to-finish-the-job-of-peace.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
