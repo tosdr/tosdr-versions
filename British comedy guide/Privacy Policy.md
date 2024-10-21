@@ -140,6 +140,14 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes2.jpg "Neil Innes")](https://www.comedy.co.uk/people/neil_innes/competitions/dip-my-brain-in-joy/) People
+
+[Win Neil Innes's new biography, Dip My Brain In Joy](https://www.comedy.co.uk/people/neil_innes/competitions/dip-my-brain-in-joy/)
+
+[![Daniel Foxx](https://cdn.comedy.co.uk/images/library/people/300x200/d/daniel_foxx.jpg "Daniel Foxx")](https://www.comedy.co.uk/live/features/daniel-foxx-interview/) Live
+
+[Sketches, stationery and swears - Q&A with Daniel Foxx](https://www.comedy.co.uk/live/features/daniel-foxx-interview/)
+
 [![Image shows left to right: Derek Nimmo, Bill Maynard](https://cdn.comedy.co.uk/images/library/misc/300x200/d/derek_nimmo_bill_maynard.jpg "Image shows left to right: Derek Nimmo, Bill Maynard")](https://www.comedy.co.uk/features/comedy_chronicles/stage-fight/) Features
 
 [Comedy Chronicles: Stage Fight - When comics fall out in plain sight](https://www.comedy.co.uk/features/comedy_chronicles/stage-fight/)
@@ -147,14 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![The Free Association](https://cdn.comedy.co.uk/images/library/misc/300x200/f/free_association.jpg "The Free Association")](https://www.comedy.co.uk/live/features/graham-dickson-on-ten-years-of-the-free-association/) Live
 
 [Graham Dickson on ten years of improv institution The Free Association](https://www.comedy.co.uk/live/features/graham-dickson-on-ten-years-of-the-free-association/)
-
-[![Charlie Vero-Martin](https://cdn.comedy.co.uk/images/library/people/300x200/c/charlie_vero_martin_green.jpg "Charlie Vero-Martin")](https://www.comedy.co.uk/live/fgwg/charlie-vero-martin/) Live
-
-[First Gig, Worst Gig: Charlie Vero-Martin](https://www.comedy.co.uk/live/fgwg/charlie-vero-martin/)
-
-[![Alan Resnick](https://cdn.comedy.co.uk/images/library/people/300x200/a/alan_resnick.jpg "Alan Resnick")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/) Live
-
-[Alan Resnick / Major Entertainer / Neil Hamburger - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/)
 
 #### Subscribe to our newsletters
 
