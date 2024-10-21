@@ -178,8 +178,6 @@ Sök Meny
         
         * [Personliga kriser](https://www.svenskakyrkan.se/kris/personlig-kris)
             
-            * [Tips för dig i kris](https://www.svenskakyrkan.se/kris/tips-for-dig-i-kris)
-                
         * [Tankar om självmord](https://www.svenskakyrkan.se/svenska-kyrkan-vill-ge-dig-hopp-att-leva)
             
         * [Stöd efter sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp)
@@ -1402,16 +1400,14 @@ Infogade flöden från Sociala medier
 
 På Svenska kyrkans webbplats är det möjligt att integrera flöden, konton och inlägg från Sociala medier, till exempel med hjälp av Facebook Social Plugin. Kopplingen till de olika sociala medier som integreras med webbplatsen kräver kakor i kategorin Marknadsföring och sociala medier, som du själv kan stänga av under inställningar.
 
-Riktad marknadsföring av Act Svenska kyrkan
--------------------------------------------
+A/B-testning och optimering med VWO
+-----------------------------------
 
-På Act Svenska kyrkans webbsidor finns kakor för riktad marknadsföring och sociala medier installerade. Om du tackar ja till kakor för Marknadsföring och sociala medier aktiveras dessa kakor.  
-   
-En av dessa kakor är facebookpixeln som får information om de aktiviteter, eller händelser, som du utför på Act Svenska kyrkans sidor och skickar den informationen till Facebook. Det kan exempelvis vara om du ger en gåva eller besöker en specifik sida. Informationen används sedan av Facebook för att exempelvis logga dina aktiviteter, optimera annonser som visas för dig på Facebook samt för att bygga upp målgrupper. De uppgifter som skickas till Facebook överförs även utanför EU:s gränser, exempelvis till USA.
+På Act Svenska kyrkans webbplats användes VWO (Visual Website Optimizer) för att genomföra A/B-tester och förbättra användarupplevelsen. Genom VWO kan vi visa olika versioner av webbplatsen för besökare och analysera vilken variant som fungerar bäst, exempelvis genom att jämföra vilka versioner som leder till fler interaktioner eller konverteringar.
 
-Utöver pixeln från Facebook finns även kakor från annonsnätverket Adform inlagd på utvalda webbsidor för Act Svenska kyrkan. På samma sätt som andra kakor registrerar kakorna vilka sidor du besöker samt vilka handlingar du utför på vår webbplats. Utifrån den informationen anpassas sedan annonseringen genom exempelvis återannonsering i Adforms annonsnätverk.
+VWO använder kakor för att spåra användarbeteende och prestandan av de olika versionerna av webbplatsen. Den insamlade datan hjälper oss att förbättra innehållet och strukturen på webbplatsen för att bättre möta besökares behov.
 
-Om du inte tillåter dessa kakor kommer du fortfarande att se annonser från Act Svenska kyrkan, men de kommer inte vara anpassade utifrån dina tidigare besök, aktivitet, gåvor eller köp.
+All data som samlas in genom VWO lagras på servrar inom Europa, i enlighet med gällande dataskyddsregler (GDPR). Informationen är anonymiserad och kan inte kopplas till enskilda användare. Kopplingen till VWO kräver kakor i kategorin analyskakor, som du själv kan stänga av under inställningar. 
 
 Lagen om elektronisk kommunikation
 ----------------------------------
@@ -1422,11 +1418,11 @@ Post- och telestyrelsen har tagit fram information om reglerna för både webbpl
 
 [Information om kakor för dig som använder internet (pts.se)](https://www.pts.se/sv/bransch/internet/integritet/information-om-kakor/#anvandare)
 
-[Vägledning om kakor för webbplatsinnehavare (webbriktlinjer.se)](https://webbriktlinjer.se/lagkrav/kaklagen-i-praktiken/)  
+[Vägledning om kakor för webbplatsinnehavare (webbriktlinjer.se)](https://webbriktlinjer.se/lagkrav/kaklagen-i-praktiken/)
 
 Tillbaka till toppen Tillbaka till innehållet
 
-Uppdaterad: 28 juni 2023
+Uppdaterad: 21 oktober 2024
 
 Synpunkter eller frågor på sidans innehåll?
 -------------------------------------------
