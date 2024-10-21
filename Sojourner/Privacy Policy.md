@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d4fcf4a06ef5a058cf882458d9f77791
+f07738cb91d0d0fbb1116e2157162f25
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Hand cream No. 3 (grapefruit)](https://www.sojourner.biz/images/cache/soaps/SS004_HandCreamNo3_crememains3.200.webp)](https://www.sojourner.biz/hand-cream-no.-3.html "Hand cream No. 3 (grapefruit)")
+[![Blue and white polka dot clasp](https://www.sojourner.biz/images/cache/SKU0078front.200.jpg)](https://www.sojourner.biz/clasps/glass/blue-and-white-polka-dot-clasp.html "Blue and white polka dot clasp")
 
-#### [Hand cream No. 3 (grapefruit)](https://www.sojourner.biz/hand-cream-no.-3.html "Hand cream No. 3 (grapefruit)")
+#### [Blue and white polka dot clasp](https://www.sojourner.biz/clasps/glass/blue-and-white-polka-dot-clasp.html "Blue and white polka dot clasp")
 
-$24.00
+$31.00
 
 ### Best Sellers
 
@@ -189,16 +189,16 @@ $24.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
-7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+6. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Turquoise bar toggle clasp](https://www.sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
-    $13.50
+10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
+    $10.00
 
 [Top](#)
 
