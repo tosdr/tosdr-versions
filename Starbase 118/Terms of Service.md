@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
+
+### [Award winner – Aine Sherlock, USS Chin’toka (Prestigious Service- Security)](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
+
+srichardsciencenerd118 October 21, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/rr-on-ring-42/)
 
 ### [R&R on Ring 42](https://www.starbase118.net/2024/rr-on-ring-42/)
@@ -377,18 +389,6 @@ Genkos Adea October 19, 2024
 As we inch ever closer to the festival of Hallowe’en, our thoughts naturally turn to the creepy, the kooky, the mysterious and/or the spooky (sorry,
 
 [Read More »](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
-
-### [Lattice Alliance siege of DS33 broken after 20 hours, USS Excalibur’s arrival turns the tide](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
-
-Federation News Service October 18, 2024
-
-Deep Space Thirty-Three – Lengthy siege of the lone Starfleet outpost is finally over, the USS Excalibur’s timely arrival forced the Lattice Alliance to retreat;
-
-[Read More »](https://www.starbase118.net/2024/lattice-alliance-siege-of-ds33-broken-after-20-hours-uss-excaliburs-arrival-turns-the-tide/)
 
 Ready to get started?
 ---------------------
