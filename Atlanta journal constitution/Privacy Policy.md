@@ -1,3 +1,5 @@
+[Breaking: Victims identified in Sapelo Island dock gangway collapse](https://www.ajc.com/news/crime/victims-identified-in-sapelo-island-dock-gangway-collapse/XQA7O4CKH5F7RMSLMXRQUF3TDE/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
@@ -14,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-tragedy-on-georgias-coast/ULUR5ZXNUND2FCMF4NFBWDR7UQ/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
