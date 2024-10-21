@@ -89,6 +89,7 @@ Protect your implementation
 Integrate with your server
 --------------------------
 
+* [Server API](https://dev.fingerprint.com/reference/pro-server-api)
 * [Webhooks](https://dev.fingerprintjs.com/docs/webhooks)
 * [Sealed Client Results](https://dev.fingerprintjs.com/docs/sealed-client-results)
 * [Backend libraries](https://dev.fingerprintjs.com/docs/backend-libraries)
