@@ -6,7 +6,7 @@ optimize your resume keywords and track your job applications
 
   
 
-**Last updated October 6, 2021** 
+**Last updated July 1, 2024** 
 
   
 
