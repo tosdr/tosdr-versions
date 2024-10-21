@@ -325,7 +325,6 @@ Bawah Indonesia](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$rati
 
 ### [Travel insider: the latest deals for dream holidays](https://www.afr.com/life-and-luxury/travel/travel-insider-the-latest-deals-for-dream-holidays-20241016-p5kit5)
 
-* 55 mins ago
 * Life & Leisure
 
 * ### [For those on the list, Melbourne Cup dining is first across the line](https://www.afr.com/life-and-luxury/food-and-wine/for-those-on-the-list-melbourne-cup-dining-is-first-across-the-line-20241015-p5kihv)
@@ -338,9 +337,8 @@ Bawah Indonesia](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$rati
 
 [![“I thought it would be a great learning exercise,” Oscar Ledlin says of his first project, when he was 21. It nearly sent him broke.](https://static.ffx.io/images/$zoom_0.2285%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_182%2C$y_205/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9a0618e68848f6486c2bc7fb8e5e1088f394b810)](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
 
-### [The latest way to make money – building warehouses for influencers](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
+### [This influencer cracked the Young Rich list by making warehouses sexy](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
 
-* 25 mins ago
 * Larry Schlesinger
 
 * ### [Why this Young Rich Lister swears by a daily ice bath and sauna](https://www.afr.com/wealth/people/why-this-young-rich-lister-swears-by-a-daily-ice-bath-and-sauna-20241006-p5kg4v)
