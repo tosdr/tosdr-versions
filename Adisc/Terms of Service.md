@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1729514670) [LinkedIn](#_xfUid-1-1729514670) [Reddit](#_xfUid-1-1729514670) [Pinterest](#_xfUid-1-1729514670) [Tumblr](#_xfUid-1-1729514670) [WhatsApp](#_xfUid-1-1729514670) [Email](#_xfUid-1-1729514670) [Share](#_xfUid-1-1729514670) [Link](#_xfUid-1-1729514670)
+[X (Twitter)](#_xfUid-1-1729536277) [LinkedIn](#_xfUid-1-1729536277) [Reddit](#_xfUid-1-1729536277) [Pinterest](#_xfUid-1-1729536277) [Tumblr](#_xfUid-1-1729536277) [WhatsApp](#_xfUid-1-1729536277) [Email](#_xfUid-1-1729536277) [Share](#_xfUid-1-1729536277) [Link](#_xfUid-1-1729536277)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1729514670%2Cf994abae5c1e1c65849e77df8b4cd98d) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1729514670%2Cf994abae5c1e1c65849e77df8b4cd98d)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1729536277%2C5103289b9d16a86857ace524c603ee14) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1729536277%2C5103289b9d16a86857ace524c603ee14)
     
     * Essential cookies
     
