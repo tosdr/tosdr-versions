@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)           
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)          
 
              
 
@@ -130,7 +130,7 @@ Check out
 
 Continue shopping
 
-             
+              
 
 [![cow colostrum with vitamin d3](https://ucarecdn.com/bcbf385c-7e91-47a8-b02e-40cf92f5065e/-/format/auto/-/preview/3000x3000/-/quality/lighter/WhatsApp%20Image%202023-11-08%20at%205.01.37%20PM.jpeg)](https://aadvikfoods.com/products/cow-colostrum-powder)
 
@@ -397,6 +397,8 @@ does goat milk increase platelets?
 Individuals grappling with dengue are inclined to consider goat milk consumption as a potential remedy to enhance platelet counts and combat the accompanying fever. There is no scientific evidence to support the idea that goat milk specifically helps in treating or preventing dengue or improve platelet count.
 
 More about goat milk >>
+
+[![](https://ucarecdn.com/94d4882f-610b-40b4-8779-d27ae5ac7803/-/format/auto/-/preview/3000x3000/-/quality/lighter/Goat%20Milk%20Pop%20Up%203.png)](https://aadvikfoods.com/collections/goat-milk-products)
 
       
 
