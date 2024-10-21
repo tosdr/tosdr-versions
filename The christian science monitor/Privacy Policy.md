@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Compassion
+
+### As Israel pounds Lebanon, Gazans empathize, yet feel forgotten](https://www.csmonitor.com/World/Middle-East/2024/1021/gaza-lebanon-israel-palestinians-civilians "As Israel pounds Lebanon, Gazans empathize, yet feel forgotten")
+
+[Innovation
+
+### Creative nudges for good land use](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1021/Creative-nudges-for-good-land-use "Creative nudges for good land use")
+
 [Hope
 
 ### A journalist recounts his daughter’s miraculous birth in war-torn Sudan](https://www.csmonitor.com/World/Africa/2024/1021/sudan-civil-war-khartoum-hospital-crisis "A journalist recounts his daughter’s miraculous birth in war-torn Sudan")
-
-[Equality
-
-### How China’s women claim freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1018/How-China-s-women-claim-freedom "How China’s women claim freedom")
-
-[Cooperation
-
-### Transformed FEMA faces a torrent of challenges to its growing relief efforts](https://www.csmonitor.com/Environment/2024/1018/helene-fema-distrust-north-carolina "Transformed FEMA faces a torrent of challenges to its growing relief efforts")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### A journalist recounts his daughter’s miraculous birth in war-torn Sudan](https://www.csmonitor.com/World/Africa/2024/1021/sudan-civil-war-khartoum-hospital-crisis "A journalist recounts his daughter’s miraculous birth in war-torn Sudan")
+[### As Israel pounds Lebanon, Gazans empathize, yet feel forgotten](https://www.csmonitor.com/World/Middle-East/2024/1021/gaza-lebanon-israel-palestinians-civilians "As Israel pounds Lebanon, Gazans empathize, yet feel forgotten")
 
-[### Drone targeted house of Israeli prime minister, as IDF bombards Gaza](https://www.csmonitor.com/World/Middle-East/2024/1019/hezbollah-drone-attack-benjanmin-netanyahu-house-israel "Drone targeted house of Israeli prime minister, as IDF bombards Gaza")
+[### Fetullah Gulen, a controversial Turkish cleric, remembered for failed coup attempt](https://www.csmonitor.com/World/Europe/2024/1021/Fetullah-Gulen-dies-coup-Islam-Erdogan-turkey "Fetullah Gulen, a controversial Turkish cleric, remembered for failed coup attempt")
 
-[### Canada-India relations are at a new low. Why China could be the winner.](https://www.csmonitor.com/World/Americas/2024/1018/India-Canada-Trudeau-China-repression-Sikh "Canada-India relations are at a new low. Why China could be the winner.")
+[### Extended power outage sparked protests in Cuba. Then Hurricane Oscar made landfall.](https://www.csmonitor.com/World/Americas/2024/1021/Cuba-power-outage-protest-hurricane-Oscar "Extended power outage sparked protests in Cuba. Then Hurricane Oscar made landfall.")
 
 * * *
 
