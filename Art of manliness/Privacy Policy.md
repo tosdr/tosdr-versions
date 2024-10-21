@@ -256,6 +256,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Skill of the Week: Remove a Tick](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
 
+[![Illustration of hands demonstrating the skill of the week: precisely holding one match, lit and glowing, near a matchbox adorned with a barcode.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-light-a-fire-with-just-one-match/)
+
+[Skill of the Week: Light a Fire With Just One Match](https://www.artofmanliness.com/skills/manly-know-how/how-to-light-a-fire-with-just-one-match/)
+
 [![A person, depicted in a comic style, is performing the French Drop Coin Trick for two children. The kids appear interested and are looking intently at the coin as they watch Cool Uncle Tricks in action.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
 
 [Cool Uncle Tricks: How to Perform the French Drop Coin Trick](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
@@ -267,10 +271,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a man with a headband, reminiscent of Mr. Miyagi, deftly holding a small object between chopsticks against a red background—perfect for Skill of the Week.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
 
 [Skill of the Week: Use Chopsticks Like Mr. Miyagi](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
-
-[![Silhouetted trucks drive in line along a ridge at sunset, demonstrating precise convoy execution against a backdrop of a cloudy sky and beams of sunlight.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
-
-[How to Plan, Organize, and Execute a Convoy](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
 
 [![An illustration of a tent at the perfect campsite.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-pick-the-perfect-campsite/)
 
