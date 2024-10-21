@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Somethin Bout A TruckKip Moore<br><br>11:38am |
-| Fast CarLuke Combs<br><br>11:34am |
-| Am I OkMegan Moroney<br><br>11:30am |
-| Backseat DriverKane Brown<br><br>11:26am |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:24am |
+| Live Like You Were DyingTim Mcgraw<br><br>5:40pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>5:37pm |
+| Called CrazyKassi Ashton<br><br>5:34pm |
+| I Am Not OkayJelly Roll<br><br>5:30pm |
+| She Had Me At Heads CarolinaCole Swindell<br><br>5:27pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
+Top 40 • Pacific NW
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
