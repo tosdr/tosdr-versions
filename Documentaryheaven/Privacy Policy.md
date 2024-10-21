@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Can We Make a Star on Earth?](/wp-content/thumbnails/286-100x70.png?x53432)
+* [![Deceptions 2: Lest We Forget](/wp-content/thumbnails/8471-100x70.jpg?x53432)
     
-    Can We Make a Star on Earth?
+    Deceptions 2: Lest We Forget
     
-    Professor Brian Cox takes a global journey in search of the energy source of the future. Called nuclear fusion, it is the process that fuels the sun and every other star in the universe. Yet despite o](https://documentaryheaven.com/can-we-make-a-star-on-earth/ "Can We Make a Star on Earth?")
-* [![Louis Theroux: Law and Disorder in Philadelphia](/wp-content/thumbnails/395-100x70.png?x53432)
+    Deceptions 2: Lest We Forget is the second film in the Deceptions Trilogy. We featured the first film "Deceptions" on our site a while back and it received quite a positive feedback. Lest We Forget by](https://documentaryheaven.com/deceptions-2-lest-we-forget/ "Deceptions 2: Lest We Forget")
+* [![Australia’s Deadliest: Shark Coast](/wp-content/thumbnails/9869-100x70.jpg?x53432)
     
-    Louis Theroux: Law and Disorder in Philadelphia
+    Australia’s Deadliest: Shark Coast
     
-    Louis Theroux: Law and Disorder in Philadelphia Louis Theroux joins the Philadelphia Police Department patrolling the most dangerous part of one of the most violent cities in America. from the Telegra](https://documentaryheaven.com/louis-theroux-law-and-disorder-in-philadelphia/ "Louis Theroux: Law and Disorder in Philadelphia")
-* [![Deborah 13: Servant of God](/wp-content/thumbnails/5020-100x70.jpg?x53432)
+    Western Austrailia's stunning coastline has recently been ravaged by a deadly predator, the community it appears in under siege, with beaches being closed left, right and centre, tourism as well has t](https://documentaryheaven.com/australias-deadliest-shark-coast/ "Australia’s Deadliest: Shark Coast")
+* [![Stress, Portrait of a Killer](/wp-content/thumbnails/5794-100x70.png?x53432)
     
-    Deborah 13: Servant of God
+    Stress, Portrait of a Killer
     
-    A documentary about 13-year-old Deborah Drapper, who, unlike other British teens has never heard of Britney Spears or Victoria Beckham. She has been brought up in a deeply Christian family and her par](https://documentaryheaven.com/deborah-13-servant-of-god/ "Deborah 13: Servant of God")
-* [![Mega Factories: Bosch](/wp-content/thumbnails/16647-100x70.jpg?x53432)
+    The stress response: in the beginning it saved our lives, making us run from predators and enabling us to take down prey. Today, human beings are turning on the same life-saving physical reaction to c](https://documentaryheaven.com/stress-portrait-of-a-killer/ "Stress, Portrait of a Killer")
+* [![Secrets of the Mona Lisa](/wp-content/thumbnails/10539-100x70.jpg?x53432)
     
-    Mega Factories: Bosch
+    Secrets of the Mona Lisa
     
-    The global economy is currently undergoing the greatest change since the industrial revolution in order to remain internationally competitive modern factories must be as flexible as possible and high](https://documentaryheaven.com/mega-factories-bosch/ "Mega Factories: Bosch")
-* [![The Myths of Pearl Harbour](/wp-content/thumbnails/179-100x70.png?x53432)
+    Bewitching, seductive and world famous, in the minds of millions she is the ultimate work of art being endlessly photographed and admired yet behind the enigmatic smile she remains a mystery. Who was](https://documentaryheaven.com/secrets-of-the-mona-lisa/ "Secrets of the Mona Lisa")
+* [![Scientific American Frontiers](/wp-content/thumbnails/2705-100x70.jpg?x53432)
     
-    The Myths of Pearl Harbour
+    Scientific American Frontiers
     
-    Every American knows the date December 7, 1941 the morning the Japanese Imperial Navy launched a massive attack on Pearl Harbor. What most people don't know is that the first shots of the battle were](https://documentaryheaven.com/the-myths-of-pearl-harbour/ "The Myths of Pearl Harbour")
+    Surgical Slimmers. In spite of the risks, people are lining up to solve their weight problems in the operating room. And if the latest device – an implantable stomach “pacer” – works out, millions mor](https://documentaryheaven.com/scientific-american-frontiers/ "Scientific American Frontiers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
