@@ -46,6 +46,8 @@ New
 
    ![](/media/export/cms/10.4 GG Holiday/20230411_BB_PC_FY24_Holiday_GNAV_Eyeshadow_Palettes_Global_01.jpeg)
 
+[Shop All New Products](https://www.bobbibrowncosmetics.com/products/14460/new "Shop All New Products")
+
 [Shop Limited-Edition City Lights Holiday Collection](https://www.bobbibrowncosmetics.com/holiday-collection "Shop Limited-Edition City Lights Holiday Collection") Shop Limited-Edition City Lights Holiday Collection
 
    ![](/media/export/cms/10.4 GG Holiday/20230411_BB_PC_FY24_Holiday_GNAV_Eyeshadow_Palettes_Global_01.jpeg)
