@@ -64,13 +64,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Save $5 on Smile & Smile 2 Pre-Order Bundle image link ![Save $5 on Smile & Smile 2 Pre-Order Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a9d76f40-7d3d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-smile2-292x118.png)](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer) 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0540e660-8dae-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-applepay-week16-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday) 
     
-    ### Save $5 on Smile & Smile 2 Pre-Order Bundle
+    ### APPLE PAY WEDNESDAY
     
-    Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
+    Get $5 off ticket orders made on Wednesday, 10/23 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday)
     
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
