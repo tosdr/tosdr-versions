@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-61°
+50°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
