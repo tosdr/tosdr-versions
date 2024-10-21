@@ -29,17 +29,13 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+[Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief") [Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1729476075.png.pagespeed.ic.0Ovp_WT-FD.jpg)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
+Termina - Towny World (Raiding) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny World (Raiding) (SMP) [Crossplay]")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1727505642.png.pagespeed.ic.bKePTc9CBi.png)
 
-ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![Nekonecny_pribeh](plugins/MineCraft/icons/25x25xNekonecny_pribeh_1716904567.png.pagespeed.ic.eqSFnj3yeR.png)
-
-Nekonečný příběh](https://minecraft-server.net/details/Nekonecny_pribeh/ "Nekonečný příběh")[![Evergreen-Survival](plugins/MineCraft/icons/25x25xEvergreen-Survival_1729380704.png.pagespeed.ic.zbUdYEyihX.png)
-
-Evergreen Survival](https://minecraft-server.net/details/Evergreen-Survival/ "Evergreen Survival")
+Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +138,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05997 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06468 - Created by [Debaucus](https://debauc.us/)
