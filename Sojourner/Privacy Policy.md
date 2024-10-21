@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-cc2eb91ba21837f31e165798863e2e79
+310a6cae4e5e50eab2d29cd8099af360
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm by 6 mm oval green polka dot Czech beads](https://www.sojourner.biz/images/cache/glass/GL0003.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-green-polka-dot-czech-beads.html "8 mm by 6 mm oval green polka dot Czech beads")
+[![2.5 mm to 3 mm peachy round pearls](https://www.sojourner.biz/images/cache/pearls/PE0213.200.jpg)](https://www.sojourner.biz/beads/pearls/2.5-mm-to-3-mm-peachy-round-pearls.html "2.5 mm to 3 mm peachy round pearls")
 
-#### [8 mm by 6 mm oval green polka dot Czech beads](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-green-polka-dot-czech-beads.html "8 mm by 6 mm oval green polka dot Czech beads")
+#### [2.5 mm to 3 mm peachy round pearls](https://www.sojourner.biz/beads/pearls/2.5-mm-to-3-mm-peachy-round-pearls.html "2.5 mm to 3 mm peachy round pearls")
 
-$8.00
+$31.00
 
 ### Best Sellers
 
