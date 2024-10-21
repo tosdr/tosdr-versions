@@ -458,3 +458,7 @@ The information provided on apfed.org is designed to support, not to replace, th
 Copyright © 2001-2024 American Partnership for Eosinophilic Disorders.
 
 [Privacy Policy](https://apfed.org/disclaimer-privacy-policy) | [Terms of Use](https://apfed.org/terms-of-use)
+
+                                     
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
