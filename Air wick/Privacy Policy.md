@@ -6,6 +6,7 @@
 * [Ideas & Tips](https://www.airwick.us/ideas-tips/ "Ideas & Tips")
 * [About us](https://www.airwick.us/about-us/ "About us")
 * [Help & Support](https://www.airwick.us/help-support/ "Help & Support")
+* [Night To Remember Giveaway](https://www.airwick.us/night-to-remember-giveaway-signup/ "Night To Remember Giveaway")
 
 [Newsletter](https://www.airwick.us/subscribe1/)
 
