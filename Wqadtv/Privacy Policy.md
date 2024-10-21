@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ac84ee6c-7a1a-4653-9382-3d3579ad6acc/ac84ee6c-7a1a-4653-9382-3d3579ad6acc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ac84ee6c-7a1a-4653-9382-3d3579ad6acc/ac84ee6c-7a1a-4653-9382-3d3579ad6acc_360x203.jpg)](https://www.wqad.com/article/news/local/mike-doi-out-galesburg-public-works-director/526-e4e27845-e69d-4c24-9183-4733c8d5eff0)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Galesburg Public Works Director Mike Doi leaves position](https://www.wqad.com/article/news/local/mike-doi-out-galesburg-public-works-director/526-e4e27845-e69d-4c24-9183-4733c8d5eff0)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e6f72292-367b-496b-81d6-6618bc57957b/20241017T213811/e6f72292-367b-496b-81d6-6618bc57957b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e6f72292-367b-496b-81d6-6618bc57957b/20241017T213811/e6f72292-367b-496b-81d6-6618bc57957b_360x203.jpg)](https://www.wqad.com/article/news/local/beyond-the-badge-davenport-detective-lucas-rusk/526-9540d6e8-d0cc-4785-ac4b-879fde8c795f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_360x203.jpg)](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
         
-        #### ['He's always there' | How this Davenport detective goes 'Beyond the Badge' to help his community](https://www.wqad.com/article/news/local/beyond-the-badge-davenport-detective-lucas-rusk/526-9540d6e8-d0cc-4785-ac4b-879fde8c795f)
+        #### [QC nonprofit faces setbacks after lumber theft](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-73°
+79°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
