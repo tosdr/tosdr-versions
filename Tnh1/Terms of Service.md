@@ -202,23 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
-
-Brasil
-
-Brasil
-
-Bet de Deolane tem pedido de liberação negado pela Justiça
-
-Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[!["Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_gato_energia_ilustracao_equatorial_alagoas_e06588a7d0.jpg)
-
-Cidade Universitária
-
-Cidade Universitária
-
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"
-
-"Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"](https://www.tnh1.com.br/noticia/nid/so-sao-homens-de-farda-mulher-tenta-agredir-pms-para-nao-ter-energia-de-casa-cortada-apos-flagra-de-gato/ ""Só são homens de farda": mulher tenta agredir PMs para não ter energia de casa cortada após flagra de "gato"")[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
+[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
 
 Tesouro escondido
 
@@ -226,41 +210,23 @@ Tesouro escondido
 
 Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda
 
-Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_roubo_peixoto_34158a5d4d.jpg)
+Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
 
-No Jacintinho
+Brasil
 
-No Jacintinho
+Brasil
 
-Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió
+Bet de Deolane tem pedido de liberação negado pela Justiça
 
-Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió](https://www.tnh1.com.br/noticia/nid/video-dupla-rouba-moto-apos-entrar-em-tapiocaria-e-tomar-chave-de-dono-em-maceio/ "Vídeo: dupla rouba moto após entrar em tapiocaria e tomar chave de dono em Maceió")
+Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
 
-[![Família nada mais de um quilômetro para se salvar após naufrágio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/d/csm_1_lancha_afundou_e_familia_nadou_para_se_salvar_em_meio_a_chuva_mg-40827514_79a59c7b44.jpg)
+Na Levada
 
-EM MG
+Na Levada
 
-EM MG
+Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas
 
-Família nada mais de um quilômetro para se salvar após naufrágio
-
-Família nada mais de um quilômetro para se salvar após naufrágio](https://www.tnh1.com.br/noticia/nid/familia-nada-mais-de-um-quilometro-para-se-salvar-apos-naufragio/ "Família nada mais de um quilômetro para se salvar após naufrágio")[![Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/5/csm_medico-morre-acidente-sp_1300cd85dc.jpg)
-
-EM SP
-
-EM SP
-
-Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW
-
-Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW](https://www.tnh1.com.br/noticia/nid/medico-de-27-anos-morre-e-namorada-fica-em-estado-grave-em-acidente-com-bmw/ "Médico de 27 anos morre, e namorada fica em estado grave em acidente com BMW")[![Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/e/csm_guilherme-arana-reproducao-redes-sociais_f67ac08663.jpg)
-
-Futebol Nacional
-
-Futebol Nacional
-
-Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil
-
-Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil](https://www.tnh1.com.br/noticia/nid/roger-x-lucio-entenda-a-fala-polemica-de-arana-do-galo-apos-vaga-na-final-da-copa-do-brasil/ "Roger x Lúcio: entenda a fala polêmica de Arana, do Galo, após vaga na final da Copa do Brasil")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
+Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
 
 Mercado de Trabalho
 
@@ -269,6 +235,40 @@ Mercado de Trabalho
 Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos
 
 Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")
+
+[![Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_lauana-prado-reproducao-X_daffc45ad6.png)
+
+Gente Famosa
+
+Gente Famosa
+
+Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade
+
+Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://www.tnh1.com.br/noticia/nid/video-lauana-prado-e-prefeito-de-abadiania-go-brigam-durante-festa-da-cidade/ "Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade")[![Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_liam-payne-ultima-foto-reproducao-redes-sociais_cc72f933ed.jpg)
+
+Tráfico de drogas
+
+Tráfico de drogas
+
+Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista
+
+Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://www.tnh1.com.br/noticia/nid/funcionario-do-hotel-pode-ser-indiciado-por-morte-de-liam-payne-revela-revista/ "Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista")[![Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_csm_elon-musk_c6aaf0d653__1__aab8e5b9ed.jpg)
+
+ASSINATURA ONLINE
+
+ASSINATURA ONLINE
+
+Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump
+
+Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://www.tnh1.com.br/noticia/nid/elon-musk-promete-sortear-us-1-milhao-por-dia-a-assinantes-de-peticao-pro-trump/ "Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump")[![Maya Massafera diz que está ficando com jogador do Flamengo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_maya-massafera-reproducao-redes-sociais_17d77bc391.png)
+
+Novo affair
+
+Novo affair
+
+Maya Massafera diz que está ficando com jogador do Flamengo
+
+Maya Massafera diz que está ficando com jogador do Flamengo](https://www.tnh1.com.br/noticia/nid/maya-massafera-diz-que-esta-ficando-com-jogador-do-flamengo/ "Maya Massafera diz que está ficando com jogador do Flamengo ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
