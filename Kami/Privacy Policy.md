@@ -35,8 +35,8 @@
 Kami General Data Privacy Policy
 ================================
 
-Last updated: May 2024
-----------------------
+Last updated: October 2024
+--------------------------
 
 This Privacy Policy describes Kami’s privacy practices in relation to information that we collect through the website www.kamiapp.com operated by us from which you are accessing this Privacy Policy (the “Website”) and through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Policy (the “App”).
 
@@ -167,13 +167,15 @@ Third Party Service Providers used
 
 We work with a number of third-party service providers to help improve the quality of our service.  We have contracts with these third parties which guarantee that they do not share your information with any other third parties and protect the data at  least the same level as we do ourselves. In case a transfer of data is needed while collaborating with one of those third parties we make sure the transfer is executed to a country which is providing adequate protection according to EU. If this is not the case we sign agreements which includes the EU Standard Contractual Clauses (also called Model Clauses) published by the European Commission to protect EU data.
 
-**Kami uses the following third-party services :**
+**Listed are Kami app’s key third-party services:**
 
-* **Microsoft** – if you choose to log into Kami using your Microsoft account (often referred to as Single Sign-on or “SSO”), your login will be authenticated by Microsoft. If you open/save files on OneDrive, Microsoft will first request authorization for this. You can review Microsoft’s Privacy Policy for use of your Microsoft account [here](https://privacy.microsoft.com/en-ca/privacystatement); and update or revoke your permissions as described [here](https://support.microsoft.com/en-us/office/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323).
-* **Google** – if you choose to log into Kami using your Google account, your login will be authenticated by Google. If you open/save files on Google Drive, Google will first request authorization for this. You can review Google’s Privacy Policy for use of your Google account [here](https://policies.google.com/privacy?hl=en-US); and update or revoke your Google Permissions [here](https://myaccount.google.com/permissions).   
-* **Groove** – Groove is a platform our Support Team use internally to coordinate customer support activities in response to requests from our customers. Our contractual agreement with Groove complies with the terms of this policy.
-* **Google Cloud Platform (Vertex AI and Gemini)** – Kami utilises Google Cloud’s Vertex AI platform and Gemini models to enhance certain features and functionalities within our product. You can review Google’s Privacy Policy regarding AI and machine learning [here](https://transparency.google/our-policies/privacy-policy-terms-of-service/).
+* **Microsoft** – if you choose to log into Kami using your Microsoft account (often referred to as Single Sign-on or “SSO”), your login will be authenticated by Microsoft. If you open/save files on OneDrive, Microsoft will first request authorization for this. You can review Microsoft’s Privacy Policy for use of your Microsoft account [here](https://privacy.microsoft.com/en-ca/privacystatement); and update or revoke your permissions as described [here](https://support.microsoft.com/en-us/office/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323).
+* **Google** – if you choose to log into Kami using your Google account, your login will be authenticated by Google. If you open/save files on Google Drive, Google will first request authorization for this. You can review Google’s Privacy Policy for use of your Google account [here](https://policies.google.com/privacy?hl=en-US); and update or revoke your Google Permissions [here](https://myaccount.google.com/permissions).
+* **Groove** – Groove is a platform our Support Team use internally to coordinate customer support activities in response to requests from our customers. Our contractual agreement with Groove complies with the terms of this policy.
+* **Google Cloud Platform (Vertex AI and Gemini)** – Kami utilises Google Cloud’s Vertex AI platform and Gemini models to enhance certain features and functionalities within our product. You can review Google’s Privacy Policy regarding AI and machine learning [here](https://transparency.google/our-policies/privacy-policy-terms-of-service/).
 * **Stripe**  – when you upgrade your account online using a credit card, your payment is securely processed using Stripe’s e- payments service. Our contractual agreement with Stripe complies with the terms of this policy.
+
+Full list of all the third-party services Kami uses is found [here](https://www.kamiapp.com/subprocs).
 
 We will only contract with future service providers that are consistent with this policy or allow users  a choice to send information to the future provider.
 
@@ -255,8 +257,8 @@ Kami’s EU-US Data Privacy Framework (DPF) compliance and participation can be 
 
 Kami may not rely on a breach by a sub-processor of its obligations in order to avoid its own liabilities.
 
-GDPR Rights of Arbitration
---------------------------
+GDPR Data Protection Officer (DPO) Representative
+-------------------------------------------------
 
 In case of a dispute or non-resolution related to privacy issues, European users may invoke binding arbitration via your EU data protection authority (DPAs).
 
