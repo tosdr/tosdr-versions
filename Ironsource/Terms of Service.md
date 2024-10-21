@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/4-key-strategies-to-drive-scale-and-revenue-for-your-app-during-the-shopping-season/)
+            [**Blog**](#)[](https://www.is.com/community/blog/advertisers-playbook-to-win-the-holiday-season/)
             
-            4 key strategies to drive scale and revenue for your app during the shopping season
+            Advertiser's Playbook to Win the 2024 Holiday Season
             
-            [Read more >](https://www.is.com/community/blog/4-key-strategies-to-drive-scale-and-revenue-for-your-app-during-the-shopping-season/)
+            [Read more >](https://www.is.com/community/blog/advertisers-playbook-to-win-the-holiday-season/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
