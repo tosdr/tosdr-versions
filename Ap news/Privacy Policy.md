@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel says it will target Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
-    * [Cubans struggle as power not fully restored days after blackout and hurricane hits island](https://apnews.com/article/cuba-power-outage-blackout-struggles-e5330cbf1d7ffc8dab62b69e1782869f)
-    * [What to know about the electrical grid failure that plunged Cuba into darkness](https://apnews.com/article/cuba-power-outage-explained-f610223f714afe994c3ad9658bb4de7d)
+    * [Israel targets Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
+    * [Israel's wars are expensive. Paying the bill could force tough choices](https://apnews.com/article/israel-hamas-hezbollah-war-cost-military-spending-32a53a86d946418022ca636539a83f4f)
+    * [Oscar brings winds, heavy rains to eastern Cuba after striking the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
+    * [Thelma Mothershed Wair, a member of the Little Rock Nine who integrated an Arkansas school, has died](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-215186ffd2c05e086ffdccc1abdc6a07)
     * [2 Navy aviators are declared dead after a fighter jet crashed in Washington state](https://apnews.com/article/navy-fighter-jet-crash-growler-0de956683aa5a3ba86ccf1a6d572899f)
-    * [Georgia authorities investigating a dock gangway collapse that killed 7 on a historic island](https://apnews.com/article/ferry-dock-collapse-deaths-georgia-sapelo-island-c4fadec943d8ca46f70ef8dc3541da21)
-    * [Calmer weather helps contain Oakland, California, fire that forced evacuations](https://apnews.com/article/oakland-california-diablo-wind-wildfires-8de928874d10ab54a4ca9ba8a44d6a94)
     
     Newsletters
     
@@ -66,9 +66,9 @@ Menu
     
     TOP STORIES
     
-    * [Arnold Palmer's daughter reacts to Donald Trump's references to her father](https://apnews.com/article/donald-trump-arnold-palmer-rally-comments-dde882b5841a7f5ed7ffd0f306ddf732)
-    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
-    * [Republicans and Democrats are both preparing for long legal battles over the 2024 election results](https://apnews.com/article/election-2024-harris-trump-legal-challenges-563936d90d83de456e704de7d03b5063)
+    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
+    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
+    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
     
     Newsletters
     
@@ -86,9 +86,9 @@ Menu
     
     TOP STORIES
     
+    * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
+    * [Dodgers finish off Mets with 10-5 win in NLCS and advance to face Yankees in World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
     * [Browns QB Watson suffers likely season-ending Achilles injury. Teammates upset some fans cheered](https://apnews.com/article/deshaun-watson-browns-76623d8f8713c4b8dc569b485d9d4593)
-    * [Lions top previously unbeaten Vikings 31-29 on late FG to cap NFC North thriller](https://apnews.com/article/lions-vikings-score-3487a74d237d4fbf6ab77a98d6e3d57b)
-    * [AP Top 25: Oregon is No. 1 for first time since 2012; Vanderbilt enters poll and Michigan drops out](https://apnews.com/article/ap-top-25-oregon-eeae148724e13b0eb35f6b2f835a7bde)
     
     Newsletters
     
@@ -109,8 +109,8 @@ Menu
     TOP STORIES
     
     * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
-    * [Rock & Roll Hall of Fame turns up starpower to induct Cher, Foreigner, Mary J. Blige, Ozzy and more](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
-    * [Alec Baldwin returns to 'Saturday Night Live' to spoof Bret Baier interview with Kamala Harris](https://apnews.com/article/saturday-night-live-alec-baldwin-1387058826fc3d2d50bdba52eb68314c)
+    * [Directioners mourning singer Liam Payne leave tributes in London and other cities](https://apnews.com/article/britain-liam-payne-vigil-kensington-gardens-c14bec35ea2b14c27bf29368cfeed4b8)
+    * [King Charles and Queen Camilla lay wreaths at Australian War Memorial then greet well-wishers](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
     
 * [Business](https://apnews.com/business)
     
@@ -120,9 +120,9 @@ Menu
     
     TOP STORIES
     
+    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
+    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
     * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
-    * [Japan, UK and Italy to expedite next-generation fighter jet to replace F-2s and Eurofighter Typhoons](https://apnews.com/article/japan-uk-italy-fighter-jet-joint-development-1583af9ab27aac809a7848be502f7a53)
-    * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
     
 * [Science](https://apnews.com/science)
     
@@ -228,9 +228,9 @@ Menu
     
     TOP STORIES
     
+    * [Environmental delegates gather in Colombia for a conference on dwindling global biodiversity](https://apnews.com/article/un-biodiversity-species-extinction-habitats-conservation-a188a2f1c6319e16ad4f7071a0fc8572)
     * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
-    * [Biden administration races to shell out billions for clean energy as election nears](https://apnews.com/article/clean-energy-offshore-wind-election-biden-trump-harris-4a6d561ff06841504b6713ed48c920f1)
     
 * [Health](https://apnews.com/health)
     
@@ -263,17 +263,17 @@ Menu
     
     TOP STORIES
     
+    * [What to stream: Bruce Springsteen doc, Halsey album, Billy Crystal on TV and 'Trap' thrills](https://apnews.com/article/stream-tv-movies-music-october-2024-6f97689cd1556453fe82ec8e6ea79699)
     * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
     * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
-    * [From slot machines to mattresses, this is what happened to relics inside Vegas’ Tropicana and Mirage](https://apnews.com/article/las-vegas-casinos-tropicana-mirage-artifacts-955677275c676a629bd303dc17c0e61f)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
+    * [Judge will hear arguments to block Louisiana's Ten Commandments display requirement in schools](https://apnews.com/article/louisiana-ten-commandments-require-school-law-d35f4ababed4adb99315586884432333)
     * [Catholic priest and Indigenous activist Pérez killed by 2 gunmen in southern Mexico](https://apnews.com/article/catholic-priest-mexico-killing-455bc3fb6fe5005b7e47d4758e4c63cd)
-    * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
-    * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
     
     Newsletters
     
@@ -289,10 +289,10 @@ Menu
     
     * [Israel anuncia que ahora atacará brazo financiero de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
     * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
-    * [Harris asiste a un servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
+    * [Policías, fiscales y peritos de Sinaloa conspiraron para encubrir asesinato de rival de gobernador](https://apnews.com/article/mexico-sinaloa-mayo-zambada-cuen-rocha-moya-chapitos-9437ef5c96b69d334add1d73bc420b9d)
+    * [Harris asiste a servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
     * [Lula cancela viaje a cumbre BRICS tras accidente doméstico](https://apnews.com/article/brasil-lula-accidente-9c5e30f2878e24d7ba3318520f6b56c2)
-    * [Trump irá a un McDonald's mientras afirma sin evidencia que Harris no trabajó ahí siendo estudiante](https://apnews.com/article/eeuu-elecciones-trump-mcdonalds-720c237aa014c47e419e0346dd83d324)
-    * [Continúan rescates en Nuevo México tras severas inundaciones](https://apnews.com/article/nuevo-mexico-inundaciones-50f8dd08768fe2ebcc8bcd6c8fb30b34)
+    * [Thelma Mothershed Wair, miembro de los 9 de Little Rock, fallece a los 83 años](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-racismo-arkansas-ce81916ce0d92b1b2df925abca4c2e8c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel says it will target Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
-    * [Cubans struggle as power not fully restored days after blackout and hurricane hits island](https://apnews.com/article/cuba-power-outage-blackout-struggles-e5330cbf1d7ffc8dab62b69e1782869f)
-    * [What to know about the electrical grid failure that plunged Cuba into darkness](https://apnews.com/article/cuba-power-outage-explained-f610223f714afe994c3ad9658bb4de7d)
+    * [Israel targets Hezbollah's financial arm and begins striking Beirut](https://apnews.com/article/israel-palestinians-hamas-lebanon-10-20-2024-42ea48ce0f6a31d53a25dc50f16796bc)
+    * [Israel's wars are expensive. Paying the bill could force tough choices](https://apnews.com/article/israel-hamas-hezbollah-war-cost-military-spending-32a53a86d946418022ca636539a83f4f)
+    * [Oscar brings winds, heavy rains to eastern Cuba after striking the Bahamas](https://apnews.com/article/hurricane-tropical-weather-oscar-nadine-02649631f0ca88ab3b0f643b51541da9)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
+    * [Thelma Mothershed Wair, a member of the Little Rock Nine who integrated an Arkansas school, has died](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-215186ffd2c05e086ffdccc1abdc6a07)
     * [2 Navy aviators are declared dead after a fighter jet crashed in Washington state](https://apnews.com/article/navy-fighter-jet-crash-growler-0de956683aa5a3ba86ccf1a6d572899f)
-    * [Georgia authorities investigating a dock gangway collapse that killed 7 on a historic island](https://apnews.com/article/ferry-dock-collapse-deaths-georgia-sapelo-island-c4fadec943d8ca46f70ef8dc3541da21)
-    * [Calmer weather helps contain Oakland, California, fire that forced evacuations](https://apnews.com/article/oakland-california-diablo-wind-wildfires-8de928874d10ab54a4ca9ba8a44d6a94)
     
     Newsletters
     
@@ -519,9 +519,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Arnold Palmer's daughter reacts to Donald Trump's references to her father](https://apnews.com/article/donald-trump-arnold-palmer-rally-comments-dde882b5841a7f5ed7ffd0f306ddf732)
-    * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
-    * [Republicans and Democrats are both preparing for long legal battles over the 2024 election results](https://apnews.com/article/election-2024-harris-trump-legal-challenges-563936d90d83de456e704de7d03b5063)
+    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
+    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
+    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
     
     Newsletters
     
@@ -549,9 +549,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
+    * [Dodgers finish off Mets with 10-5 win in NLCS and advance to face Yankees in World Series](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-15a89ce97829e1bf83e861764f19a34c)
     * [Browns QB Watson suffers likely season-ending Achilles injury. Teammates upset some fans cheered](https://apnews.com/article/deshaun-watson-browns-76623d8f8713c4b8dc569b485d9d4593)
-    * [Lions top previously unbeaten Vikings 31-29 on late FG to cap NFC North thriller](https://apnews.com/article/lions-vikings-score-3487a74d237d4fbf6ab77a98d6e3d57b)
-    * [AP Top 25: Oregon is No. 1 for first time since 2012; Vanderbilt enters poll and Michigan drops out](https://apnews.com/article/ap-top-25-oregon-eeae148724e13b0eb35f6b2f835a7bde)
     
     Newsletters
     
@@ -579,8 +579,8 @@ Submit Search
     TOP STORIES
     
     * [‘Smile 2’ grinning to No. 1 at box office while ‘Anora’ glitters in limited release](https://apnews.com/article/top-movies-film-box-office-charts-5ea3e6106c9714fb24ca6fe10765332c)
-    * [Rock & Roll Hall of Fame turns up starpower to induct Cher, Foreigner, Mary J. Blige, Ozzy and more](https://apnews.com/article/rock-roll-hall-fame-2024-ceremony-631f31bd3ef6d72bd58c532ed380c031)
-    * [Alec Baldwin returns to 'Saturday Night Live' to spoof Bret Baier interview with Kamala Harris](https://apnews.com/article/saturday-night-live-alec-baldwin-1387058826fc3d2d50bdba52eb68314c)
+    * [Directioners mourning singer Liam Payne leave tributes in London and other cities](https://apnews.com/article/britain-liam-payne-vigil-kensington-gardens-c14bec35ea2b14c27bf29368cfeed4b8)
+    * [King Charles and Queen Camilla lay wreaths at Australian War Memorial then greet well-wishers](https://apnews.com/article/australia-canberra-king-charles-visit-4ea87d39d17c4a9fe3cbfab3455fb8f7)
     
 * [Business](https://apnews.com/business)
     
@@ -594,9 +594,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
+    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
     * [Musk offers voters $1 million a day to sign PAC petition backing the Constitution. Is that legal?](https://apnews.com/article/musk-1-million-giveaway-trump-voters-petition-b4e48acbfe04fde735e60b1911ad0197)
-    * [Japan, UK and Italy to expedite next-generation fighter jet to replace F-2s and Eurofighter Typhoons](https://apnews.com/article/japan-uk-italy-fighter-jet-joint-development-1583af9ab27aac809a7848be502f7a53)
-    * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
     
 * [Science](https://apnews.com/science)
     
@@ -717,9 +717,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Environmental delegates gather in Colombia for a conference on dwindling global biodiversity](https://apnews.com/article/un-biodiversity-species-extinction-habitats-conservation-a188a2f1c6319e16ad4f7071a0fc8572)
     * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
     * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
-    * [Biden administration races to shell out billions for clean energy as election nears](https://apnews.com/article/clean-energy-offshore-wind-election-biden-trump-harris-4a6d561ff06841504b6713ed48c920f1)
     
 * [Health](https://apnews.com/health)
     
@@ -763,17 +763,17 @@ Submit Search
     
     TOP STORIES
     
+    * [What to stream: Bruce Springsteen doc, Halsey album, Billy Crystal on TV and 'Trap' thrills](https://apnews.com/article/stream-tv-movies-music-october-2024-6f97689cd1556453fe82ec8e6ea79699)
     * [US convenience stores look abroad for the secret to decent food](https://apnews.com/article/convenience-stores-food-7eleven-b9891a4997c622b9baf255856d7987bb)
     * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
-    * [From slot machines to mattresses, this is what happened to relics inside Vegas’ Tropicana and Mirage](https://apnews.com/article/las-vegas-casinos-tropicana-mirage-artifacts-955677275c676a629bd303dc17c0e61f)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
+    * [Judge will hear arguments to block Louisiana's Ten Commandments display requirement in schools](https://apnews.com/article/louisiana-ten-commandments-require-school-law-d35f4ababed4adb99315586884432333)
     * [Catholic priest and Indigenous activist Pérez killed by 2 gunmen in southern Mexico](https://apnews.com/article/catholic-priest-mexico-killing-455bc3fb6fe5005b7e47d4758e4c63cd)
-    * [Trump boosts a hard-right Christian worldview that paints the election as 'spiritual warfare'](https://apnews.com/article/evangelical-voters-trump-christians-believers-151b02dd34e38d63cff694c798e61db8)
-    * [What training puppies is teaching a group of monks about God, life and love](https://apnews.com/article/puppies-monks-new-york-orthodox-christian-dog-training-breeding-ee03e64059cc4479d0fc6fca10f77521)
     
     Newsletters
     
@@ -789,10 +789,10 @@ Submit Search
     
     * [Israel anuncia que ahora atacará brazo financiero de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-f30c459d1a1a787875cdfe41f5fb0c1f)
     * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
-    * [Harris asiste a un servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
+    * [Policías, fiscales y peritos de Sinaloa conspiraron para encubrir asesinato de rival de gobernador](https://apnews.com/article/mexico-sinaloa-mayo-zambada-cuen-rocha-moya-chapitos-9437ef5c96b69d334add1d73bc420b9d)
+    * [Harris asiste a servicio religioso en Georgia y motiva a feligreses negros a votar](https://apnews.com/article/eeuu-elecciones-harris-georgia-463c933b63d24ab50bd9f4c16bc4a50c)
     * [Lula cancela viaje a cumbre BRICS tras accidente doméstico](https://apnews.com/article/brasil-lula-accidente-9c5e30f2878e24d7ba3318520f6b56c2)
-    * [Trump irá a un McDonald's mientras afirma sin evidencia que Harris no trabajó ahí siendo estudiante](https://apnews.com/article/eeuu-elecciones-trump-mcdonalds-720c237aa014c47e419e0346dd83d324)
-    * [Continúan rescates en Nuevo México tras severas inundaciones](https://apnews.com/article/nuevo-mexico-inundaciones-50f8dd08768fe2ebcc8bcd6c8fb30b34)
+    * [Thelma Mothershed Wair, miembro de los 9 de Little Rock, fallece a los 83 años](https://apnews.com/article/thelma-mothershed-wair-little-rock-nine-racismo-arkansas-ce81916ce0d92b1b2df925abca4c2e8c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
