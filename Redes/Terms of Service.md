@@ -40,12 +40,6 @@ Buscar
 
 You must have JavaScript enabled to use this form.
 
- 
-
-    
-
- 
-
 **¿Quieres descubrir todo lo que te ofrecemos en red.es?** [Explorar todo el contenido](https://red.es/buscador)
 
 ##### Navegación principal
