@@ -190,14 +190,6 @@
 
 Subscribe
 
-[#### Eye Health](https://www.healthline.com/eye-health)
-
-* [Eye Care](https://www.healthline.com/eye-health/eye-care)
-* [Macular Degeneration](https://www.healthline.com/eye-health/treating-macular-degeneration)
-* [Dry Eye Syndrome](https://www.healthline.com/eye-health/treating-dry-eye-syndrome)
-* [What to Eat](https://www.healthline.com/eye-health/nutrition-supplements)
-* [Blindness](https://www.healthline.com/eye-health/navigating-blindness)
-
 Ad & Sponsorship Policy
 =======================
 
