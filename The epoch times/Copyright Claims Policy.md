@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://www.theepochtimes.com/sports/new-york-liberty-win-first-wnba-championship-beating-minnesota-67-62-post-5744775)
+    
+    NEW By [The Associated Press](https://www.theepochtimes.com/author/associated-press)
+    
+    [![New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York Liberty Win First WNBA Championship, Beating Minnesota 67–62](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744780-New-York-Liberty-AP24295054282481-205x123.jpg.webp)](https://www.theepochtimes.com/sports/new-york-liberty-win-first-wnba-championship-beating-minnesota-67-62-post-5744775)
+* [Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://www.theepochtimes.com/world/hostage-families-say-its-time-for-a-deal-to-free-their-loved-ones-5744663)
+    
+    1hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hostage Families Say It’s Time for a Deal to Free Their Loved Ones From Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744693-itay-chen-with-family-e1729470558550-205x123.jpg.webp)](https://www.theepochtimes.com/world/hostage-families-say-its-time-for-a-deal-to-free-their-loved-ones-5744663)
+* [Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://www.theepochtimes.com/us/former-homeless-addict-finds-forgiveness-recovery-redemption-5743989)
+    
+    2hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    
+    [![Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Former Homeless Addict Finds Forgiveness, Recovery, Redemption](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744728-Brett-Bowman-3_JF_03112023-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-homeless-addict-finds-forgiveness-recovery-redemption-5743989)
+* [Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://www.theepochtimes.com/us/elon-musk-offers-1-million-every-day-for-voters-who-sign-petition-prompting-governors-warning-5744695)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Elon Musk Offers $1 Million Every Day for Voters Who Sign Petition, Prompting Governor’s Warning](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744720-Elon-Musk-GettyImages-2179031007-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-offers-1-million-every-day-for-voters-who-sign-petition-prompting-governors-warning-5744695)
 * [Harris Downplays Polls Showing Diminishing Support From Male Voters](https://www.theepochtimes.com/us/harris-downplays-polls-showing-diminishing-support-from-male-voters-5744654)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Harris Downplays Polls Showing Diminishing Support From Male Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Downplays Polls Showing Diminishing Support From Male Voters](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744141-GettyImages-2178435314-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-downplays-polls-showing-diminishing-support-from-male-voters-5744654)
 * [Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://www.theepochtimes.com/us/trump-serves-food-at-pennsylvania-mcdonalds-as-harris-visits-churches-in-georgia-5744573)
     
-    1hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    7hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Serves Food at Pennsylvania McDonald’s as Harris Visits Churches in Georgia](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744690-Harris-church-Trump-McDonalds-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-serves-food-at-pennsylvania-mcdonalds-as-harris-visits-churches-in-georgia-5744573)
 * [Backed by Iran, ‘Axis of Resistance’ Terror Groups Target Israel](https://www.theepochtimes.com/article/backed-by-iran-axis-of-resistance-terror-groups-target-israel-5742474)
     
-    2hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    9hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![Backed by Iran, ‘Axis of Resistance’ Terror Groups Target Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Backed by Iran, ‘Axis of Resistance’ Terror Groups Target Israel](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744667-Map-all_Israeli-counter-strikes_desktop-80-205x123.jpg.webp)](https://www.theepochtimes.com/article/backed-by-iran-axis-of-resistance-terror-groups-target-israel-5742474)
 * [FBI, Cyber Agency Issue ‘Disinformation’ Warning 2 Weeks Before Election](https://www.theepochtimes.com/us/fbi-cyber-agency-issue-disinformation-warning-2-weeks-before-election-5744593)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![FBI, Cyber Agency Issue ‘Disinformation’ Warning 2 Weeks Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![FBI, Cyber Agency Issue ‘Disinformation’ Warning 2 Weeks Before Election](https://img.theepochtimes.com/assets/uploads/2024/05/07/id5645337-FBI-CaliforniaKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-cyber-agency-issue-disinformation-warning-2-weeks-before-election-5744593)
 * [Trump Campaign Pushes Back on Reports He’s ‘Exhausted’](https://www.theepochtimes.com/us/trump-campaign-pushes-back-on-reports-hes-exhausted-5744587)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Campaign Pushes Back on Reports He’s ‘Exhausted’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Campaign Pushes Back on Reports He’s ‘Exhausted’](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744049-Trump-Harris-3000x2000-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-campaign-pushes-back-on-reports-hes-exhausted-5744587)
 * [US Probes Intelligence Leak Regarding Israel’s Plans to Retaliate Against Iran](https://www.theepochtimes.com/us/us-probes-intelligence-leak-regarding-israels-plans-to-retaliate-against-iran-5744545)
     
-    6hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    12hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![US Probes Intelligence Leak Regarding Israel’s Plans to Retaliate Against Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Probes Intelligence Leak Regarding Israel’s Plans to Retaliate Against Iran](https://img.theepochtimes.com/assets/uploads/2024/04/07/id5623742-GettyImages-160989986-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-probes-intelligence-leak-regarding-israels-plans-to-retaliate-against-iran-5744545)
-* [Inside the Trend of Americans Retiring Abroad](https://www.theepochtimes.com/us/inside-the-trend-of-americans-retiring-abroad-5741048)
-    
-    6hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
-    
-    [![Inside the Trend of Americans Retiring Abroad](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Inside the Trend of Americans Retiring Abroad](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744590-GettyImages-1125074301-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/inside-the-trend-of-americans-retiring-abroad-5741048)
-* [Exploring NAD+: Is It Really a Key to Longevity?](https://www.theepochtimes.com/health/exploring-nad-is-it-really-a-key-to-longevity-5735371)
-    
-    6hr By [Jennifer Sweenie](https://www.theepochtimes.com/author/jennifer-sweenie)
-    
-    [![Exploring NAD+: Is It Really a Key to Longevity?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Exploring NAD+: Is It Really a Key to Longevity?](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743141-Shutterstock_2297441989-205x123.jpg.webp)](https://www.theepochtimes.com/health/exploring-nad-is-it-really-a-key-to-longevity-5735371)
-* [Stocks Close the Week Higher, Bonds Hold Steady on Mixed Earnings and Inflation Outlook](https://www.theepochtimes.com/business/stocks-closed-the-week-higher-and-bonds-held-steady-on-mixed-earnings-and-inflation-outlook-5744223)
-    
-    9hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Stocks Close the Week Higher, Bonds Hold Steady on Mixed Earnings and Inflation Outlook](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Stocks Close the Week Higher, Bonds Hold Steady on Mixed Earnings and Inflation Outlook](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744688-CP215283099-0-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/stocks-closed-the-week-higher-and-bonds-held-steady-on-mixed-earnings-and-inflation-outlook-5744223)
-* [Key Georgia Election Beset by Rival Claims of Russian, Western Interference](https://www.theepochtimes.com/world/key-georgia-election-beset-by-rival-claims-of-russian-western-interference-5743660)
-    
-    13hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
-    
-    [![Key Georgia Election Beset by Rival Claims of Russian, Western Interference](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Key Georgia Election Beset by Rival Claims of Russian, Western Interference](https://img.theepochtimes.com/assets/uploads/2024/05/15/id5650502-2024-05-02T122610Z_1_LYNXMPEK410JG_RTROPTP_4_GEORGIA-POLITICS-PROTESTS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/key-georgia-election-beset-by-rival-claims-of-russian-western-interference-5743660)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
