@@ -1018,7 +1018,7 @@ Guest Service
 * [FAQs](https://www.conair.com/CustomerSupport?lang=en_US#cs-faq)
 * [Contact Us](https://www.conair.com/CustomerSupport?lang=en_US#cs-contact)
 * [In-Warranty](https://www.conair.com/CustomerSupport?lang=en_US#cs-warranty)
-* [Product Registration](https://register.conair.com/en-us/reg "BabylissPRO")
+* [Product Registration](https://www.conair.com/register-your-product.html?lang=en_US "Product Registration")
 * [Instruction Booklets](https://www.conair.com/InstructionBooklet?lang=en_US)
 * [Email Unsubscribe](https://www.conair.com/Unsubscribe?lang=en_US)
 * [Quick Start Guides for Scales](https://www.conair.com/scalesUserGuide?lang=en_US)
