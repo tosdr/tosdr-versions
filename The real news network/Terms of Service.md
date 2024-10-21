@@ -1,15 +1,3 @@
-![](https://i0.wp.com/therealnews.com/wp-content/uploads/2024/10/GettyImages-1806774852-scaled.jpg?fit=780%2C520&ssl=1)
-
-**Rubble, Rage, Resistance: A Year of Covering the 'Most Documented Genocide in History'**
-
-Since October 2023, TRNN has produced over 25 on-the-ground, documentary reports from Gaza, the West Bank, and protest movements around the world. We also published [**over 100 original podcasts**, **articles, and livestreams**](https://therealnews.com/israels-war-on-palestine) providing analysis, context, and firsthand stories from the front lines of struggle.
-
-We can't continue this vital work without your support. Your donation helps us expose injustice, amplify the stories of the oppressed, and hold those in power accountable.
-
-Join us in standing with those fighting for survival—because their stories need to be told.
-
-[**I STAND WITH TRNN!**](https://support.therealnews.com/-/XEYCPXGN)
-
 You're missing out.
 ===================
 
@@ -110,8 +98,8 @@ Trending Posts
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 Close
 
@@ -174,8 +162,8 @@ Trending Posts
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [Skip to content](#main)
 
@@ -373,8 +361,8 @@ Trending Posts
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
