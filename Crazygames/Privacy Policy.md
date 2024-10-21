@@ -330,7 +330,7 @@ Some advertising networks require that we specifically list their opt-out links 
 
 Please remember, if you opt-out of behaviorally targeted advertising you will continue to receive ads on our free, ad-supported Platform, but not behaviorally targeted ads. Also, if you opt-out of CrazyGames’s practices, you may continue to receive interest-based or contextual advertising through other companies.
 
-### 10\. **Privacy of childre**
+### 10\. **Privacy of children**
 
 CrazyGames strives to provide a safe environment for children. The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are younger than thirteen (13) years of age or the applicable minimum age in your country, then please use the [Kids Site](https://kids.crazygames.com/). The Kids Site doesn’t have any chat system or user login whatsoever and personalised advertising is not enabled.
 
