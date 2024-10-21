@@ -222,7 +222,6 @@ Sign up for our newsletter and be the first to know about coupons and special pr
 * ![master](//greenlightdepot.com/cdn/shopifycloud/shopify/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg)
 * ![paypal](//greenlightdepot.com/cdn/shopifycloud/shopify/assets/payment_icons/paypal-49e4c1e03244b6d2de0d270ca0d22dd15da6e92cc7266e93eb43762df5aa355d.svg)
 * ![shopify pay](//greenlightdepot.com/cdn/shopifycloud/shopify/assets/payment_icons/shopify_pay-957a48d1202dc65a7890b292de764ee886f7e64cea486ae82e291e9dc824c914.svg)
-* ![venmo](//greenlightdepot.com/cdn/shopifycloud/shopify/assets/payment_icons/venmo-e46496b4036966108664ea6a65bfeddd373275087df5f94cc3e5564fdb493eb0.svg)
 * ![visa](//greenlightdepot.com/cdn/shopifycloud/shopify/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg)
 
 ![noscript](https://io.clickguard.com/n/cHJvdGVjdG9y/Yo6hddVP)
