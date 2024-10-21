@@ -228,12 +228,13 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Geiger told police that she and the victim "were engaged in harmless banter when he jokingly requested she shoot him." If you're reading this on Fark, you can probably guess what happened next](https://www.fark.com/goto/13435074) ( [local12.com](https://www.fark.com/goto/13435074) ) » [(5 comments)](https://www.fark.com/comments/13435074/Geiger-told-police-that-she-the-victim-were-engaged-in-harmless-banter-when-he-jokingly-requested-she-shoot-him-If-youre-reading-this-on-Fark-you-can-probably-guess-what-happened-next) |
-| [Discussion](https://www.fark.com/discussion/) | [SquizzleGPT](https://www.fark.com/goto/13434862) ( [youtube.com](https://www.fark.com/goto/13434862) ) » [(0 comments)](https://www.fark.com/comments/13434862/SquizzleGPT) |
-| [Sports](https://www.fark.com/sports/) | [Why are season-ending injuries more common among folks who skip training camp?](https://www.fark.com/goto/13435108) ( [nbcsportsbayarea.com](https://www.fark.com/goto/13435108) ) » [(3 comments)](https://www.fark.com/comments/13435108/Why-are-season-ending-injuries-more-common-among-folks-who-skip-training-camp) |
-| [Business](https://www.fark.com/business/) | [After soaking so many users rain is beginning to fall on Amazon's cloud. Show us your favorite "good" meme/gif](https://www.fark.com/goto/13435092) ( [theregister.com](https://www.fark.com/goto/13435092) ) » [(2 comments)](https://www.fark.com/comments/13435092/After-soaking-so-many-users-rain-is-beginning-to-fall-on-Amazons-cloud-Show-us-your-favorite-good-memegif) |
-| [STEM](https://www.fark.com/stem/) | [Shorter stalk length just means more girth in performance. At least for these fly guys](https://www.fark.com/goto/13434954) ( [phys.org](https://www.fark.com/goto/13434954) ) » [(0 comments)](https://www.fark.com/comments/13434954/Shorter-stalk-length-just-means-more-girth-in-performance-At-least-for-these-fly-guys) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Ermagerd, cerld Derverd Schwermahr \*BER\* erner crerzer ern nerw Gersberms ferlm?](https://www.fark.com/goto/13434886) ( [hollywoodreporter.com](https://www.fark.com/goto/13434886) ) » [(0 comments)](https://www.fark.com/comments/13434886/Ermagerd-cerld-Derverd-Schwermahr-BER-erner-crerzer-ern-nerw-Gersberms-ferlm) |
-| [Fandom](https://www.fark.com/fandom/) | [Thank you Survivors, but the Vampire is in another castle](https://www.fark.com/goto/13434944) ( [youtube.com](https://www.fark.com/goto/13434944) ) » [(6 comments)](https://www.fark.com/comments/13434944/Thank-you-Survivors-but-Vampire-is-in-another-castle) |
-| [D'awww](https://www.fark.com/dawww/) | [Elderly penguin gets a new, designer suit](https://www.fark.com/goto/13434838) ( [cbc.ca](https://www.fark.com/goto/13434838) ) » [(3 comments)](https://www.fark.com/comments/13434838/Elderly-penguin-gets-a-new-designer-suit) |
-| [Food](https://www.fark.com/food/) | [Humanity's love of carbs has been revealed. Wait, there was Taco Bell hundreds of thousands of years ago?](https://www.fark.com/goto/13434854) ( [edition.cnn.com](https://www.fark.com/goto/13434854) ) » [(1 comment)](https://www.fark.com/comments/13434854/Humanitys-love-of-carbs-has-been-revealed-Wait-there-was-Taco-Bell-hundreds-of-thousands-of-years-ago) |
-| [Politics](https://www.fark.com/politics/) | [Elon Musk's $1 million daily giveaway raises concerns over potential election law violations](https://www.fark.com/goto/13434878) ( [motherjones.com](https://www.fark.com/goto/13434878) ) » [(4 comments)](https://www.fark.com/comments/13434878/Elon-Musks-$1-million-daily-giveaway-raises-concerns-over-potential-election-law-violations) |
+| [Main](https://www.fark.com/) | [Supreme executive power derives from a mandate from the masses, not some farcical aquatic ceremony](https://www.fark.com/goto/13435176) ( [people.com](https://www.fark.com/goto/13435176) ) » [(87 comments)](https://www.fark.com/comments/13435176/Supreme-executive-power-derives-from-a-mandate-from-masses-not-some-farcical-aquatic-ceremony) |
+| [Discussion](https://www.fark.com/discussion/) | [Monday Premier League (who knew?) Crystal Palace take their hopes for their first win of the season on the road to Nottingham Forest. On USA at 3:00 pm ET (sorry admins)](https://www.fark.com/goto/13435576) ( [premierleague.com](https://www.fark.com/goto/13435576) ) » [(8 comments)](https://www.fark.com/comments/13435576/Monday-Premier-League-who-knew-Crystal-Palace-take-their-hopes-for-their-first-win-of-season-on-road-to-Nottingham-Forest-On-USA-at-300-pm-ET-sorry-admins) |
+| [Sports](https://www.fark.com/sports/) | [Everyone whining that Mahomes' long run yesterday was because of Niners' defenders "being afraid of hitting Mahomes" and drawing a flag, should look at LB Maliek Collins THROAT-PUNCHING Mahomes after the play, in front of a ref, No flag in sight](https://www.fark.com/goto/13435342) ( [msn.com](https://www.fark.com/goto/13435342) ) » [(6 comments)](https://www.fark.com/comments/13435342/Everyone-whining-that-Mahomes-long-run-yesterday-was-because-of-Niners-defenders-being-afraid-of-hitting-Mahomes-drawing-a-flag-should-look-at-LB-Maliek-Collins-THROAT-PUNCHING-Mahomes-after-play-in-front-of-a-ref-No-flag-in-sight) |
+| [Business](https://www.fark.com/business/) | [Almost half of Swiss banks planning tokenization initiatives, with digital representation of assets, orcs, and hobbits cited as primary motivators](https://www.fark.com/goto/13435140) ( [ledgerinsights.com](https://www.fark.com/goto/13435140) ) » [(3 comments)](https://www.fark.com/comments/13435140/Almost-half-of-Swiss-banks-planning-tokenization-initiatives-with-digital-representation-of-assets-orcs-hobbits-cited-as-primary-motivators) |
+| [STEM](https://www.fark.com/stem/) | [The Euclid mission will map out huge fractions of the sky to better understand how dark matter and dark energy work. Here's how good its first 1% of the total picture is already](https://www.fark.com/goto/13435332) ( [bigthink.com](https://www.fark.com/goto/13435332) ) » [(0 comments)](https://www.fark.com/comments/13435332/The-Euclid-mission-will-map-out-huge-fractions-of-sky-to-better-understand-how-dark-matter-dark-energy-work-Heres-how-good-its-first-1-of-total-picture-is-already) |
+| [Entertainment](https://www.fark.com/entertainment/) | [GQ is really scraping the bottom of the barrel: "The many style lessons of Adam Sandler, king of menswear chaos"](https://www.fark.com/goto/13435072) ( [gq-magazine.co.uk](https://www.fark.com/goto/13435072) ) » [(7 comments)](https://www.fark.com/comments/13435072/GQ-is-really-scraping-bottom-of-barrel-The-many-style-lessons-of-Adam-Sandler-king-of-menswear-chaos) |
+| [Fandom](https://www.fark.com/fandom/) | [I am the one who knocks out litter](https://www.fark.com/goto/13435224) ( [youtube.com](https://www.fark.com/goto/13435224) ) » [(4 comments)](https://www.fark.com/comments/13435224/I-am-one-who-knocks-out-litter) |
+| [D'awww](https://www.fark.com/dawww/) | [Sometimes, all you need is a golden](https://www.fark.com/goto/13435322) ( [theguardian.com](https://www.fark.com/goto/13435322) ) » [(2 comments)](https://www.fark.com/comments/13435322/Sometimes-all-you-need-is-a-golden) |
+| [Food](https://www.fark.com/food/) | [Inside the weird world of Korean 'Muckbang' (possible nsfw content on page)](https://www.fark.com/goto/13434952) ( [dailystar.co.uk](https://www.fark.com/goto/13434952) ) » [(6 comments)](https://www.fark.com/comments/13434952/Inside-weird-world-of-Korean-Muckbang-possible-nsfw-content-on-page) |
+| [Politics](https://www.fark.com/politics/) | ["Rotten roast beef" on a good day, you mean](https://www.fark.com/goto/13435554) ( [threads.net](https://www.fark.com/goto/13435554) ) » [(4 comments)](https://www.fark.com/comments/13435554/Rotten-roast-beef-on-a-good-day-you-mean) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 21 2024 09:43:01  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 21 2024 15:43:12  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
