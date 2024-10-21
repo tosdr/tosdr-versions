@@ -150,10 +150,10 @@ NAS- Network Attached Storage
     * [View All](https://www.qnap.com/en/product?feature=form_factor-short_depth_rackmount)
 * ###### Rackmount NAS
     
+    * [TS-433eU NEW](https://www.qnap.com/en/product/ts-433eu)
     * [TS-h3077AFU](https://www.qnap.com/en/product/ts-h3077afu)
     * [TS-h1677AXU-RP](https://www.qnap.com/en/product/ts-h1677axu-rp)
     * [TS-h1277AXU-RP](https://www.qnap.com/en/product/ts-h1277axu-rp)
-    * [TS-h3087XU-RP](https://www.qnap.com/en/product/ts-h3087xu-rp)
     * [View All](https://www.qnap.com/en/product?feature=form_factor-rackmount)
 * ###### All-Flash NAS
     
@@ -262,17 +262,17 @@ High-speed Network Switches
     * [View All](https://www.qnap.com/en/product/series/qsw-2-5gbe-switches)
 * ###### QSW 10GbE Switches
     
+    * [QSW-IM3216-8S8T NEW](https://www.qnap.com/en/product/qsw-im3216-8s8t)
     * [QSW-M3224-24T](https://www.qnap.com/en/product/qsw-m3224-24t)
-    * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
-    * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
+    * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
     * [View All](https://www.qnap.com/en/product/series/qsw-10gbe-switches)
 * ###### QSW Full 10GbE Switches
     
+    * [QSW-IM3216-8S8T NEW](https://www.qnap.com/en/product/qsw-im3216-8s8t)
     * [QSW-M3224-24T](https://www.qnap.com/en/product/qsw-m3224-24t)
     * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
-    * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
     * [View All](https://www.qnap.com/en/product/series/qsw-full-10gbe-switches)
 * ###### PoE Switches
     
@@ -283,10 +283,10 @@ High-speed Network Switches
     * [View All](https://www.qnap.com/en/product/series/poe-switches)
 * ###### QSW Managed Switches
     
+    * [QSW-IM3216-8S8T NEW](https://www.qnap.com/en/product/qsw-im3216-8s8t)
     * [QSW-M3224-24T](https://www.qnap.com/en/product/qsw-m3224-24t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
-    * [QSW-M2106PR-2S2T](https://www.qnap.com/en/product/qsw-m2106pr-2s2t)
     * [View All](https://www.qnap.com/en/product/series/qsw-managed-switches)
 * ###### QSW Unmanaged Switches
     
@@ -295,6 +295,10 @@ High-speed Network Switches
     * [QSW-2104-2T](https://www.qnap.com/en/product/qsw-2104-2t)
     * [QSW-2104-2S](https://www.qnap.com/en/product/qsw-2104-2s)
     * [View All](https://www.qnap.com/en/product/series/qsw-unmanaged-switches)
+* ###### QSW Industrial-grade Switches
+    
+    * [QSW-IM3216-8S8T NEW](https://www.qnap.com/en/product/qsw-im3216-8s8t)
+    * [View All](https://www.qnap.com/en/product/series/qsw-industrial-switches)
 * ###### QSW 25GbE Switches
     
     * [QSW-M5216-1T](https://www.qnap.com/en/product/qsw-m5216-1t)
@@ -1350,6 +1354,7 @@ Copyright ©2024 QNAP Systems, Inc. All Rights Reserved.
     * [**Middle East** / English](https://www.qnap.com/en-me/privacy-notice/qid)
     * [**台灣** / 繁體中文](https://www.qnap.com/zh-tw/privacy-notice/qid)
     * [**ไทย** / ไทย](https://www.qnap.com/th-th/privacy-notice/qid)
+    * [**Việt Nam** / Tiếng Việt](https://www.qnap.com/vi-vn/privacy-notice/qid)
 * #### Europe
     
     * [**Česká Republika** / Čeština](https://www.qnap.com/cs-cz/privacy-notice/qid)
