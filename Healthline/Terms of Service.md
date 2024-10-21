@@ -190,19 +190,12 @@
 
 Subscribe
 
-[#### Skin Care](https://www.healthline.com/skincare)
+[#### Bites and Stings](#)
 
-* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
-* [Science](https://www.healthline.com/skincare/skin-science)
-* [Ingredients](https://www.healthline.com/skincare/ingredients)
-* [Routine](https://www.healthline.com/skincare/build-your-routine)
-* [Acne](https://www.healthline.com/skincare/acne)
-* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
-* [Procedures](https://www.healthline.com/skincare/procedures)
-* [Products](https://www.healthline.com/skincare/products)
-* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
-* [Natural](https://www.healthline.com/skincare/natural-and-diy)
-* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
+* [How to Identify](https://www.healthline.com/health/bug-bites)
+* [Spider Bite 101](https://www.healthline.com/health/spider-bites)
+* [Mosquito Prevention](https://www.healthline.com/health/outdoor-health/how-to-prevent-mosquito-bites)
+* [Bee Sting Home Remedies](https://www.healthline.com/health/outdoor-health/home-remedies-for-bee-stings)
 
 Terms of Use
 ============
