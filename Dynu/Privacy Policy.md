@@ -240,24 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### DNSSEC
+### Designed for everyone, everywhere
 
   
-
-#### Our redundant DNS solution is fully supported with DNSSEC
-
-  
-
-  
-
-[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
-  
-
-  
-
-[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
-  
-
+Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
   
 
 ### News
