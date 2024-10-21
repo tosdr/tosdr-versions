@@ -247,9 +247,7 @@ Boston, MA 02111
 
 * **Products**
 * [Home Internet](https://starry.com/internet)
-* [Small Business](https://starry.com/smallbusiness)
-* [Real Estate Partners](https://starry.com/properties)
-* [Enterprise](https://starry.com/dedicatedinternet)
+* [Business Internet](https://starry.com/business)
 
 * **Learn More**
 * [Reviews](https://starry.com/reviews)
@@ -267,7 +265,6 @@ Boston, MA 02111
 * [Careers](https://starry.com/careers)
 * [Press](https://starry.com/press)
 * [Legal](https://starry.com/legal)
-* [Investors](https://starry.com/investors)
 
 ###### Get News & Updates
 
