@@ -117,56 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=30691190)  
-Oukraal Merino's
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=8861112)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=54853880)  
-CBR Verwe/Paints
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=102088703)  
+Leef in Afrikaans
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=67373705)  
-Prosper Park
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=145275961)  
+AquariumSmiths
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=192067373)  
-Moremi Kitchens Rustenburg
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=209628215)  
+TIGERDSL
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=174786579)  
-Itroniq (Pty) Ltd
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=29129752)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=115569126)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=164616034)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=206024000)  
-Kainos (Pty) Ltd
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=61353804)  
+Creative Characters
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=195231573)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=140785253)  
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=2138894)  
-Brilliant Roof Products
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=47300126)  
+Electro-Heat
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=102758743)  
-Cpower Projects t/a Pro Pure Water
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=102420684)  
+NJR ICT Services (Pty) Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=210642450)  
-West Coast Horse Trails
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=70399372)  
+Wiselink Broadband Vryheid
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=135416879)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=176321050)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=155173305)  
-Imhoff Equestrian Centre
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=137936459)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=58972990)  
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=120741786)  
+Redlum Group (Pty) Ltd
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=363ac6489344810675d86f018e77df9892712405c3a199d9fef258055b15e7d6&c=48931742)  
-Echo Recording Studio cc
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=7518b31bcbe23754e05b4eb36ec6acc513b272b8cbfb2b9c61a18d10574dbeef&c=132468528)  
+Tracknetics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
