@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Hope
+
+### A journalist recounts his daughter’s miraculous birth in war-torn Sudan](https://www.csmonitor.com/World/Africa/2024/1021/sudan-civil-war-khartoum-hospital-crisis "A journalist recounts his daughter’s miraculous birth in war-torn Sudan")
+
 [Equality
 
 ### How China’s women claim freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1018/How-China-s-women-claim-freedom "How China’s women claim freedom")
@@ -99,10 +103,6 @@ Recent Stories
 [Cooperation
 
 ### Transformed FEMA faces a torrent of challenges to its growing relief efforts](https://www.csmonitor.com/Environment/2024/1018/helene-fema-distrust-north-carolina "Transformed FEMA faces a torrent of challenges to its growing relief efforts")
-
-[Peace
-
-### Fearless renewal in Kashmir](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1017/Fearless-renewal-in-Kashmir "Fearless renewal in Kashmir")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### A journalist recounts his daughter’s miraculous birth in war-torn Sudan](https://www.csmonitor.com/World/Africa/2024/1021/sudan-civil-war-khartoum-hospital-crisis "A journalist recounts his daughter’s miraculous birth in war-torn Sudan")
+
 [### Drone targeted house of Israeli prime minister, as IDF bombards Gaza](https://www.csmonitor.com/World/Middle-East/2024/1019/hezbollah-drone-attack-benjanmin-netanyahu-house-israel "Drone targeted house of Israeli prime minister, as IDF bombards Gaza")
 
 [### Canada-India relations are at a new low. Why China could be the winner.](https://www.csmonitor.com/World/Americas/2024/1018/India-Canada-Trudeau-China-repression-Sikh "Canada-India relations are at a new low. Why China could be the winner.")
-
-[### Last-minute Texas Supreme Court halts execution of man in shaken baby case](https://www.csmonitor.com/USA/2024/1018/Execution-halted-Texas-murder-shaken-baby-syndrome "Last-minute Texas Supreme Court halts execution of man in shaken baby case")
 
 * * *
 
