@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Bottoms UpBrantley Gilbert<br><br>4:59am |
-| ToesZac Brown Band<br><br>4:55am |
-| Til You Can'TCody Johnson<br><br>4:51am |
-| Hung Up On YouBryce Leatherwood<br><br>4:48am |
-| Fast CarLuke Combs<br><br>4:43am |
+| Burnin' It DownJason Aldean<br><br>11:39am |
+| Holy SmokesBailey Zimmerman<br><br>11:36am |
+| Gimmie That GirlJoe Nichols<br><br>11:33am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:29am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,10 +499,6 @@ Featured Brands
 
 Top 40 • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
@@ -510,6 +506,10 @@ News Talk • Eastern
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
