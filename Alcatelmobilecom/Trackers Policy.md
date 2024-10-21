@@ -159,3 +159,133 @@ Menu
 * [Tablets](https://www.alcatelmobile.com/product/tablet/)
 * [Mobile Broadband](https://www.alcatelmobile.com/product/mobile-broadband/)
 * [Audio](https://www.alcatelmobile.com/product/audio/)
+
+* Products
+    * [Smart Phones](https://www.alcatelmobile.com/product/smartphone/)
+    * [Tablets](https://www.alcatelmobile.com/product/tablet/)
+    * [Mobile Broadband](https://www.alcatelmobile.com/product/mobile-broadband/)
+    * [Audio](https://www.alcatelmobile.com/product/audio/)
+
+Menu
+
+* Products
+    * [Smart Phones](https://www.alcatelmobile.com/product/smartphone/)
+    * [Tablets](https://www.alcatelmobile.com/product/tablet/)
+    * [Mobile Broadband](https://www.alcatelmobile.com/product/mobile-broadband/)
+    * [Audio](https://www.alcatelmobile.com/product/audio/)
+
+### About Alcatel
+
+* [Products](https://www.alcatelmobile.com/product/)
+* [About Us](https://www.alcatelmobile.com/tcl-communication/)
+* [Contact Us](https://www.alcatelmobile.com/contact-us/)
+* [Support](https://www.alcatelmobile.com/support/)
+* [Security Response Center](https://src.tcl.com/en/index)
+* [Press Room](https://www.alcatelmobile.com/pressroom/)
+
+Menu
+
+* [Products](https://www.alcatelmobile.com/product/)
+* [About Us](https://www.alcatelmobile.com/tcl-communication/)
+* [Contact Us](https://www.alcatelmobile.com/contact-us/)
+* [Support](https://www.alcatelmobile.com/support/)
+* [Security Response Center](https://src.tcl.com/en/index)
+* [Press Room](https://www.alcatelmobile.com/pressroom/)
+
+* About Alcatel
+    * [Products](https://www.alcatelmobile.com/product/)
+    * [About Us](https://www.alcatelmobile.com/tcl-communication/)
+    * [Contact Us](https://www.alcatelmobile.com/contact-us/)
+    * [Support](https://www.alcatelmobile.com/support/)
+    * [Press Room](https://www.alcatelmobile.com/pressroom/)
+
+Menu
+
+* About Alcatel
+    * [Products](https://www.alcatelmobile.com/product/)
+    * [About Us](https://www.alcatelmobile.com/tcl-communication/)
+    * [Contact Us](https://www.alcatelmobile.com/contact-us/)
+    * [Support](https://www.alcatelmobile.com/support/)
+    * [Press Room](https://www.alcatelmobile.com/pressroom/)
+
+### Subscribe
+
+Bring more joy into your life with the latest news, offers and more from Alcatel
+
+ 
+
+→
+
+[Facebook](https://www.facebook.com/alcatelmobileglobal) [Twitter](https://twitter.com/alcatelmobile) [Instagram](https://www.instagram.com/alcatelmobile/) [Linkedin](https://www.linkedin.com/company/alcatelmobile)
+
+Copyright © 2024 TCL Communication. All Rights Resvered.
+
+[![Web Design Manchester](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%208%208'%3E%3C/svg%3E)
+
+![Web Design Manchester](https://coremeta.co.uk/Web-design-Manchester-Coremeta.png)](https://coremeta.co.uk/services/web-design-manchester/ "Web Design Manchester")
+
+[Terms & Conditions](https://www.alcatelmobile.com/terms-conditions/)
+
+[Warranty](https://www.alcatelmobile.com/warranty/)
+
+[CSR](https://www.alcatelmobile.com/csr/)
+
+[Privacy](https://www.alcatelmobile.com/privacy/)
+
+[Mail Disclaimer](https://www.alcatelmobile.com/alcatel-mail-disclaimer/)
+
+[![Manage cookie](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2022%2022'%3E%3C/svg%3E)
+
+![Manage cookie](https://www.alcatelmobile.com/wp-content/themes/astra-child/images/cookie.png)](#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY1NTI1IiwidG9nZ2xlIjpmYWxzZX0%3D)
+
+[![](https://www.alcatelmobile.com/wp-content/uploads/2019/07/global.png)](https://www.alcatelmobile.com/country-region-selection/)
+
+[Global](https://www.alcatelmobile.com/country-region-selection/)
+
+By clicking “Accept all”, you agree to the storing of cookies on your devices to enhance your experience on our website and analyze site usage. [Cookie Notice.](https://www.alcatelmobile.com/cookie-policy/)
+
+[Accept all](javascript:void(0))
+
+[Reject all](javascript:void(0))
+
+[Manage](javascript:void(0))
+
+Scroll to Top
+
+### Cookie Manage
+
+### What are cookies
+
+_We use cookies, including cookies from third parties, to enhance your experience on our website and analyze site usage. Please see our [Cookie Notice](https://www.alcatelmobile.com/cookie-policy/). You can select which category of cookies below you wish to permit._
+
+### Strictly necessary
+
+Necessary cookies are essential to the functionality of this website. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+### Performance
+
+Performance cookies will collect information about how your use the website and allow us to keep improving how our website works.
+
+### Functionality
+
+Functionality cookies enable the website to remember choices that you make and to provide enhanced and convenient functions.
+
+Accept all
+
+Reject all
+
+Save
+
+[![](https://www.alcatelmobile.com/wp-content/uploads/2019/05/Alcatel_logo_2016.svg)](https://www.alcatelmobile.com/)
+
+Search
+
+Menu
+
+* Products
+    * [Smart Phones](https://www.alcatelmobile.com/product/smartphone/)
+    * [Tablets](https://www.alcatelmobile.com/product/tablet/)
+    * [Mobile Broadband](https://www.alcatelmobile.com/product/mobile-broadband/)
+* [About Us](https://www.alcatelmobile.com/tcl-communication/)
+* [Contact Us](https://www.alcatelmobile.com/contact-us/)
+* [Support](https://www.alcatelmobile.com/support/)
