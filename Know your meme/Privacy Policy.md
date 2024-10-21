@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Lunchly Mold Controversy](https://knowyourmeme.com/memes/events/lunchly-mold-controversy "Lunchly Mold Controversy") [Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") [I'm Gonna Have Sexual Thoughts About That](https://knowyourmeme.com/memes/im-gonna-have-sexual-thoughts-about-that "I'm Gonna Have Sexual Thoughts About That")
+[Derp](https://knowyourmeme.com/memes/derp)
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
