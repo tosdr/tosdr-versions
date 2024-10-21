@@ -56,4 +56,6 @@ Contact Support
 
 [Log in to get personalized answers](https://help.shopify.com/en/user/login?returnTo=/en/shop-select)
 
+Reset chat
+
 Send
