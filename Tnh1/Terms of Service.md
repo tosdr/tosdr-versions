@@ -50,7 +50,19 @@ Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_095402c392.jpg)
+   [![Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_meteorologia-previsao-alagoas-semarh_ceaa3a4949.png)
+
+Alagoas
+
+Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://www.tnh1.com.br/noticia/nid/confira-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-22/ "Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)")   [![Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/c/csm_macaco-capturado-satuba-reproducao-IMA_f27d53c423.png)
+
+EM SATUBA
+
+Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-macaco-bugio-e-capturado-por-equipes-do-ima/ "Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA")   [![Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_policia-cientifica-identifica-corpo-de-caminhoneiro-encontrado-em-palmeira-dos-indios_33cadc09cd.jpeg)
+
+sobrou na pista
+
+Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://www.tnh1.com.br/noticia/nid/caminhoneiro-que-morreu-afogado-apos-acidente-no-interior-de-al-e-identificado/ "Caminhoneiro que morreu afogado após acidente no interior de AL é identificado")   [![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_095402c392.jpg)
 
 Educação
 
@@ -62,19 +74,7 @@ Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celu
 
 Alagoas
 
-Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www.tnh1.com.br/noticia/nid/praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf/ "Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf")   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
-
-quase 10 mil imagens
-
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
-
-EM MACEIÓ
-
-Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
-
-Alagoas
-
-Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")
+Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www.tnh1.com.br/noticia/nid/praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf/ "Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ Desenvolve lança linha de crédito voltada à sustentabilidade no setor turíst
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_cb297ab093.png)
+   [![Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_adriano_farias_arquivo_pessoal_15c4a2d4a9.png)
+
+Polícia
+
+Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/policia-civil-indicia-dois-suspeitos-de-participar-da-morte-de-blogueiro-em-junqueiro/ "Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ")   [![Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_homem-preso-frto-qualificado-ponta-verde_56b0e9cc24.png)
+
+Polícia
+
+Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-de-invadir-e-furtar-lojas-na-ponta-verde-cameras-flagraram-crimes/ "Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ")   [![Idoso é preso por estuprar menina de 14 anos, filha de mulher com quem se relacionava](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/c/csm_viatura_policia_civil_pc_al_0ce7875128.jpeg)
+
+nesta segunda
+
+Idoso é preso por estuprar menina de 14 anos, filha de mulher com quem se relacionava](https://www.tnh1.com.br/noticia/nid/idoso-e-preso-por-estuprar-menina-de-14-anos-filha-de-mulher-com-quem-se-relacionava/ "Idoso é preso por estuprar menina de 14 anos, filha de mulher com quem se relacionava")   [![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_cb297ab093.png)
 
 está internado
 
@@ -94,19 +106,7 @@ Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://www.t
 
 Golpe na cabeça
 
-Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-suspeita-de-matar-ex-padrasto-com-facao-apos-ela-e-mae-serem-ameacadas/ "Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas")   [![Polícia divulga imagens para identificar assassinos de jovem em Santa Luzia do Norte](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_assassinos_santa_luzia__1__0d197ddc93.jpeg)
-
-Polícia
-
-Polícia divulga imagens para identificar assassinos de jovem em Santa Luzia do Norte](https://www.tnh1.com.br/noticia/nid/policia-divulga-imagens-para-identificar-assassinos-de-jovem-em-santa-luzia-do-norte/ "Polícia divulga imagens para identificar assassinos de jovem em Santa Luzia do Norte")   [![Suspeito de tráfico de drogas é preso após correr de policiais e jogar bolsa em terreno](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_apreensao_arapiraca_-_foto_pm_22619e12c0.jpeg)
-
-Arapiraca
-
-Suspeito de tráfico de drogas é preso após correr de policiais e jogar bolsa em terreno](https://www.tnh1.com.br/noticia/nid/suspeito-de-trafico-de-drogas-e-preso-apos-correr-de-policiais-e-jogar-bolsa-em-terreno/ "Suspeito de tráfico de drogas é preso após correr de policiais e jogar bolsa em terreno")   [![Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_suspeitos-arrastoes-praca-skate_dea9ced7aa.jpg)
-
-oito menores
-
-Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://www.tnh1.com.br/noticia/nid/dez-pessoas-sao-detidas-por-arrastao-na-praca-do-skate-e-roubos-na-orla-de-ponta-verde/ "Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde")
+Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-suspeita-de-matar-ex-padrasto-com-facao-apos-ela-e-mae-serem-ameacadas/ "Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -120,11 +120,19 @@ Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Po
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
+
+Pessoas & Negócios
+
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +206,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
+[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
 
 Tesouro escondido
 
@@ -206,7 +214,15 @@ Tesouro escondido
 
 Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda
 
-Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
+Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_velorio_bebe_e064e439ef.png)
+
+Brasil
+
+Brasil
+
+Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão
+
+Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
 
 Na Levada
 
@@ -222,49 +238,41 @@ Mercado de Trabalho
 
 Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos
 
-Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")[![Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_abordagem_da_pm_jacintinho_c4501b0d87.jpg)
+Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")
 
-Grota do Cigano
-
-Grota do Cigano
-
-Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência
-
-Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://www.tnh1.com.br/noticia/nid/videos-abordagem-da-pm-termina-em-confusao-e-protesto-em-maceio-comunidade-reclama-de-truculencia/ "Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência")
-
-[![Veja programação completa da 21ª Mostra Alagoana de Dança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_governo-de-alagoas-divulga-programacao-oficial-da-21-mostra-alagoana-de-danca_a5435e7547.jpg)
-
-Cultura
-
-Cultura
-
-Veja programação completa da 21ª Mostra Alagoana de Dança
-
-Veja programação completa da 21ª Mostra Alagoana de Dança](https://www.tnh1.com.br/noticia/nid/veja-programacao-completa-da-21a-mostra-alagoana-de-danca/ "Veja programação completa da 21ª Mostra Alagoana de Dança")[![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_04e0afe0ce.jpg)
+[![Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/8/csm_governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo_7d1c51df81.jpg)
 
 Educação
 
 Educação
 
-Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará
+Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”
 
-Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://www.tnh1.com.br/noticia/nid/alagoas-vai-discutir-educacao-no-sistema-prisional-em-encontro-nacional-no-ceara/ "Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará")[![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_fd798a520c.png)
+Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://www.tnh1.com.br/noticia/nid/governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo/ "Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”")[![Arena Pajugamer tem adesão recorde do público na terceira edição do evento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_Arena_Pajugamer_2_29fa179018.jpg)
 
-está internado
+Conteúdo de Marca
 
-está internado
+Conteúdo de Marca
 
-Homem pula do 4º andar para tentar escapar da polícia em Maceió
+Arena Pajugamer tem adesão recorde do público na terceira edição do evento
 
-Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")[![Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_cavalo-maltratado-reproducao_5a1093f2c2.jpg)
+Arena Pajugamer tem adesão recorde do público na terceira edição do evento](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-tem-adesao-recorde-do-publico-na-terceira-edicao-do-evento/ "Arena Pajugamer tem adesão recorde do público na terceira edição do evento")[![Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_adriano_farias_arquivo_pessoal_8df82efc15.png)
 
-somente em 2024
+Polícia
 
-somente em 2024
+Polícia
 
-Maceió registra quase 200 casos de maus-tratos a animais em 2024
+Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro
 
-Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://www.tnh1.com.br/noticia/nid/maceio-registra-quase-200-casos-de-maus-tratos-a-animais-em-2024/ "Maceió registra quase 200 casos de maus-tratos a animais em 2024")
+Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/policia-civil-indicia-dois-suspeitos-de-participar-da-morte-de-blogueiro-em-junqueiro/ "Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ")[![Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_homem-preso-frto-qualificado-ponta-verde_ffca39a990.png)
+
+Polícia
+
+Polícia
+
+Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes
+
+Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-de-invadir-e-furtar-lojas-na-ponta-verde-cameras-flagraram-crimes/ "Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
