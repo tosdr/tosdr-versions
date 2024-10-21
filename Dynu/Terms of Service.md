@@ -304,15 +304,10 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-### Priority Support
+#### Did we do a good job for you?
 
   
-
-#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
-
-  
-
-[Get Priority Support](https://www.dynu.com/Membership)  
+[kudos@dynu.com](#) - _tell us when one of our teams went above and beyond._  
   
 
 ### News
