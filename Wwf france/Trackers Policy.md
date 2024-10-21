@@ -52,6 +52,7 @@ Les cookies déposés par WWF France
 ----------------------------------
 
 Lorsque vous vous connectez sur notre Site, nous sommes susceptibles d’installer divers cookies sur votre terminal.  
+  
 Les cookies que nous émettons nous permettent :
 
 * De maintenir le bon fonctionnement du Site
@@ -71,6 +72,7 @@ Ils nous permettent de suivre les audiences de notre Site et de connaître votre
 * Les cookies déposés par nos partenaires publicitaires : 
 
 Ces cookies permettent d’identifier vos centres d'intérêts, et ainsi vous proposer du contenu publicitaire pertinent lors de votre navigation sur d'autres sites.   
+  
 Si vous n'autorisez pas ces cookies, vous serez soumis à de la publicité moins ciblée.
 
 * Les cookies des réseaux sociaux :
@@ -150,7 +152,9 @@ Partager cette page
 * [Gestion des cookies](#rgpd)
 
 66 % du montant de votre don au profit du WWF peut être déduit de votre impôt sur le revenu.  
+  
 Le Fonds Mondial pour la Nature France, dit WWF France est une Fondation reconnue d'utilité publique.  
+  
 Numéro d’enregistrement et SIREN : 302 518 667.
 
 * * *
