@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[FALL SALE: **74% OFF  
+[UNWRAP SAVINGS: **77% OFF  
 INTRODUCTORY PERFECT WHITE® SYSTEM**](https://www.smileactives.com/pages/sas-core)
 
       
