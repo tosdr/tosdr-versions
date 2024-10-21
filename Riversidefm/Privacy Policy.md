@@ -254,7 +254,7 @@ Resources
 
 Podcast guides
 
-[How to Start a Podcast | A Complete Step-by-Step Guide](https://riverside.fm/blog/how-to-start-a-podcast)
+[How to Start a Podcast | Complete Step-by-Step Guide for 2024](https://riverside.fm/blog/how-to-start-a-podcast)
 
 [How to Start a Podcast on YouTube in 5 Steps \[2024 Guide\]](https://riverside.fm/blog/how-to-start-a-podcast-on-youtube)
 
