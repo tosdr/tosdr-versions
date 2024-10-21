@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come on, it's $10 a month, just do it.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ["Anyway...we delivered the bomb"](https://www.fark.com/goto/13434826) ( [interestingengineering.com](https://www.fark.com/goto/13434826) ) » [(1 comment)](https://www.fark.com/comments/13434826/Anywaywe-delivered-bomb) |
-| [Discussion](https://www.fark.com/discussion/) | ["My partner is monogamous, but I'm not." Tobias Fünke unavailable for comment](https://www.fark.com/goto/13434642) ( [businessinsider.com](https://www.fark.com/goto/13434642) ) » [(3 comments)](https://www.fark.com/comments/13434642/My-partner-is-monogamous-but-Im-not-Tobias-Fnke-unavailable-for-comment) |
-| [Sports](https://www.fark.com/sports/) | [Liberty not extinguished. This is not a preview of Election Day](https://www.fark.com/goto/13434756) ( [usatoday.com](https://www.fark.com/goto/13434756) ) » [(0 comments)](https://www.fark.com/comments/13434756/Liberty-not-extinguished-This-is-not-a-preview-of-Election-Day) |
-| [Business](https://www.fark.com/business/) | [Walmart will sell you a $17,000 tiny home that looks like an iPhone](https://www.fark.com/goto/13434538) ( [gizmodo.com](https://www.fark.com/goto/13434538) ) » [(27 comments)](https://www.fark.com/comments/13434538/Walmart-will-sell-you-a-$17000-tiny-home-that-looks-like-an-iPhone) |
-| [STEM](https://www.fark.com/stem/) | [Microsoft fakes domains with realistic activity to lure hackers and string them along, wasting an average of a month of their time. "Only one month?" ask legitimate users of Microsoft products](https://www.fark.com/goto/13434708) ( [bleepingcomputer.com](https://www.fark.com/goto/13434708) ) » [(2 comments)](https://www.fark.com/comments/13434708/Microsoft-fakes-domains-with-realistic-activity-to-lure-hackers-string-them-along-wasting-an-average-of-a-month-of-their-time-Only-one-month-ask-legitimate-users-of-Microsoft-products) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Carol has convinced Genet she's as eager to kill Daryl, so it's time for an assault on the Nest, which is still dealing with Losang's looniness. Will the happy couple get a reunion? The Walking Dead: Daryl Dixon: The Book of Carol 9PM ET on AMC](https://www.fark.com/goto/13434040) ( [screenrant.com](https://www.fark.com/goto/13434040) ) » [(7 comments)](https://www.fark.com/comments/13434040/Carol-has-convinced-Genet-shes-as-eager-to-kill-Daryl-so-its-time-for-an-assault-on-Nest-which-is-still-dealing-with-Losangs-looniness-Will-happy-couple-get-a-reunion-The-Walking-Dead-Daryl-Dixon-The-Book-of-Carol-9PM-ET-on-AMC) |
-| [Fandom](https://www.fark.com/fandom/) | [Atari Joystick Decanter Set. Classy](https://www.fark.com/goto/13434624) ( [retrododo.com](https://www.fark.com/goto/13434624) ) » [(3 comments)](https://www.fark.com/comments/13434624/Atari-Joystick-Decanter-Set-Classy) |
-| [D'awww](https://www.fark.com/dawww/) | [Oldest paper boy quits delivering at age of 82, after being on the job since 1951](https://www.fark.com/goto/13434542) ( [dailymail.co.uk](https://www.fark.com/goto/13434542) ) » [(40 comments)](https://www.fark.com/comments/13434542/Oldest-paper-boy-quits-delivering-at-age-of-82-after-being-on-job-since-1951) |
-| [Food](https://www.fark.com/food/) | [Kelpie Chips: The Snack that makes you feel a bit closer to SpongeBob on a diet](https://www.fark.com/goto/13434754) ( [famadillo.com](https://www.fark.com/goto/13434754) ) » [(0 comments)](https://www.fark.com/comments/13434754/Kelpie-Chips-The-Snack-that-makes-you-feel-a-bit-closer-to-SpongeBob-on-a-diet) |
-| [Politics](https://www.fark.com/politics/) | [Douchebro McJesusfreak says this is a man's country and Harris better get on her knees or she'll be dead "real quick"](https://www.fark.com/goto/13434618) ( [rawstory.com](https://www.fark.com/goto/13434618) ) » [(46 comments)](https://www.fark.com/comments/13434618/Douchebro-McJesusfreak-says-this-is-a-mans-country-Harris-better-get-on-her-knees-shell-be-dead-real-quick) |
+| [Main](https://www.fark.com/) | [Geiger told police that she and the victim "were engaged in harmless banter when he jokingly requested she shoot him." If you're reading this on Fark, you can probably guess what happened next](https://www.fark.com/goto/13435074) ( [local12.com](https://www.fark.com/goto/13435074) ) » [(5 comments)](https://www.fark.com/comments/13435074/Geiger-told-police-that-she-the-victim-were-engaged-in-harmless-banter-when-he-jokingly-requested-she-shoot-him-If-youre-reading-this-on-Fark-you-can-probably-guess-what-happened-next) |
+| [Discussion](https://www.fark.com/discussion/) | [SquizzleGPT](https://www.fark.com/goto/13434862) ( [youtube.com](https://www.fark.com/goto/13434862) ) » [(0 comments)](https://www.fark.com/comments/13434862/SquizzleGPT) |
+| [Sports](https://www.fark.com/sports/) | [Why are season-ending injuries more common among folks who skip training camp?](https://www.fark.com/goto/13435108) ( [nbcsportsbayarea.com](https://www.fark.com/goto/13435108) ) » [(3 comments)](https://www.fark.com/comments/13435108/Why-are-season-ending-injuries-more-common-among-folks-who-skip-training-camp) |
+| [Business](https://www.fark.com/business/) | [After soaking so many users rain is beginning to fall on Amazon's cloud. Show us your favorite "good" meme/gif](https://www.fark.com/goto/13435092) ( [theregister.com](https://www.fark.com/goto/13435092) ) » [(2 comments)](https://www.fark.com/comments/13435092/After-soaking-so-many-users-rain-is-beginning-to-fall-on-Amazons-cloud-Show-us-your-favorite-good-memegif) |
+| [STEM](https://www.fark.com/stem/) | [Shorter stalk length just means more girth in performance. At least for these fly guys](https://www.fark.com/goto/13434954) ( [phys.org](https://www.fark.com/goto/13434954) ) » [(0 comments)](https://www.fark.com/comments/13434954/Shorter-stalk-length-just-means-more-girth-in-performance-At-least-for-these-fly-guys) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Ermagerd, cerld Derverd Schwermahr \*BER\* erner crerzer ern nerw Gersberms ferlm?](https://www.fark.com/goto/13434886) ( [hollywoodreporter.com](https://www.fark.com/goto/13434886) ) » [(0 comments)](https://www.fark.com/comments/13434886/Ermagerd-cerld-Derverd-Schwermahr-BER-erner-crerzer-ern-nerw-Gersberms-ferlm) |
+| [Fandom](https://www.fark.com/fandom/) | [Thank you Survivors, but the Vampire is in another castle](https://www.fark.com/goto/13434944) ( [youtube.com](https://www.fark.com/goto/13434944) ) » [(6 comments)](https://www.fark.com/comments/13434944/Thank-you-Survivors-but-Vampire-is-in-another-castle) |
+| [D'awww](https://www.fark.com/dawww/) | [Elderly penguin gets a new, designer suit](https://www.fark.com/goto/13434838) ( [cbc.ca](https://www.fark.com/goto/13434838) ) » [(3 comments)](https://www.fark.com/comments/13434838/Elderly-penguin-gets-a-new-designer-suit) |
+| [Food](https://www.fark.com/food/) | [Humanity's love of carbs has been revealed. Wait, there was Taco Bell hundreds of thousands of years ago?](https://www.fark.com/goto/13434854) ( [edition.cnn.com](https://www.fark.com/goto/13434854) ) » [(1 comment)](https://www.fark.com/comments/13434854/Humanitys-love-of-carbs-has-been-revealed-Wait-there-was-Taco-Bell-hundreds-of-thousands-of-years-ago) |
+| [Politics](https://www.fark.com/politics/) | [Elon Musk's $1 million daily giveaway raises concerns over potential election law violations](https://www.fark.com/goto/13434878) ( [motherjones.com](https://www.fark.com/goto/13434878) ) » [(4 comments)](https://www.fark.com/comments/13434878/Elon-Musks-$1-million-daily-giveaway-raises-concerns-over-potential-election-law-violations) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 21 2024 03:42:59  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 21 2024 09:43:01  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
