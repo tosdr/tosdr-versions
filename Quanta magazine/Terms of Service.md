@@ -247,11 +247,11 @@ Past Week
 
 _By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
 
-[![An illustration in which perspective lines converge at a central point and different types of astronomical objects form concentric circles around that point.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FirstBillionYears-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
+[![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 
-[#### The ‘Beautiful Confusion’ of the First Billion Years Comes Into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
+[#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 
-_By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
+_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
 [![A quantum bicyclist in front of a classical unicyclist](https://www.quantamagazine.org/wp-content/uploads/2024/10/QuantumMemory_crChanelleNibbelinkThumbnail.webp)](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
 
@@ -259,11 +259,11 @@ _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
 _By_ [Lakshmi Chandrasekaran](https://www.quantamagazine.org/authors/lakshmi-chandrasekaran)
 
-[![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
+[![An illustration in which perspective lines converge at a central point and different types of astronomical objects form concentric circles around that point.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FirstBillionYears-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
 
-[#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
+[#### The ‘Beautiful Confusion’ of the First Billion Years Comes Into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
 
-_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
+_By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
 The Quanta Newsletter
 
