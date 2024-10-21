@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Invaluable service to us.
+Thanks and keep up the good work. I love FoxyProxy :)
 
-Ken DeGennaro
+Johnny Martel
