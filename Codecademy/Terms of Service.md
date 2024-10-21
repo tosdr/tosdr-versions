@@ -255,7 +255,7 @@ Resources
 Support
 -------
 
-* [Help Center](https://help.codecademy.com/)
+* [Help center](https://help.codecademy.com/)
 
 Resources
 ---------
@@ -272,7 +272,7 @@ Resources
 Support
 -------
 
-* [Help Center](https://help.codecademy.com/)
+* [Help center](https://help.codecademy.com/)
 
 Plans
 -----
@@ -290,7 +290,7 @@ Community
 * [Discord](https://discord.com/invite/codecademy)
 * [Events](https://www.codecademy.com/events)
 * [Forums](https://discuss.codecademy.com/)
-* [Learner Stories](https://www.codecademy.com/resources/blog/category/learner-stories)
+* [Learner stories](https://www.codecademy.com/resources/blog/category/learner-stories)
 
 Codecademy from Skillsoft
 
@@ -300,22 +300,22 @@ Subjects
 --------
 
 * [AI](https://www.codecademy.com/catalog/subject/artificial-intelligence)
-* [Cloud Computing](https://www.codecademy.com/catalog/subject/cloud-computing)
-* [Code Foundations](https://www.codecademy.com/catalog/subject/code-foundations)
-* [Computer Science](https://www.codecademy.com/catalog/subject/computer-science)
+* [Cloud computing](https://www.codecademy.com/catalog/subject/cloud-computing)
+* [Code foundations](https://www.codecademy.com/catalog/subject/code-foundations)
+* [Computer science](https://www.codecademy.com/catalog/subject/computer-science)
 * [Cybersecurity](https://www.codecademy.com/catalog/subject/cybersecurity)
-* [Data Analytics](https://www.codecademy.com/catalog/subject/data-analytics)
-* [Data Science](https://www.codecademy.com/catalog/subject/data-science)
-* [Data Visualization](https://www.codecademy.com/catalog/subject/data-visualization)
-* [Developer Tools](https://www.codecademy.com/catalog/subject/developer-tools)
+* [Data analytics](https://www.codecademy.com/catalog/subject/data-analytics)
+* [Data science](https://www.codecademy.com/catalog/subject/data-science)
+* [Data visualization](https://www.codecademy.com/catalog/subject/data-visualization)
+* [Developer tools](https://www.codecademy.com/catalog/subject/developer-tools)
 * [DevOps](https://www.codecademy.com/catalog/subject/devops)
-* [Game Development](https://www.codecademy.com/catalog/subject/game-development)
+* [Game development](https://www.codecademy.com/catalog/subject/game-development)
 * [IT](https://www.codecademy.com/catalog/subject/information-technology)
-* [Machine Learning](https://www.codecademy.com/catalog/subject/machine-learning)
+* [Machine learning](https://www.codecademy.com/catalog/subject/machine-learning)
 * [Math](https://www.codecademy.com/catalog/subject/math)
-* [Mobile Development](https://www.codecademy.com/catalog/subject/mobile-development)
-* [Web Design](https://www.codecademy.com/catalog/subject/web-design)
-* [Web Development](https://www.codecademy.com/catalog/subject/web-development)
+* [Mobile development](https://www.codecademy.com/catalog/subject/mobile-development)
+* [Web design](https://www.codecademy.com/catalog/subject/web-design)
+* [Web development](https://www.codecademy.com/catalog/subject/web-development)
 
 Languages
 ---------
@@ -345,8 +345,8 @@ Career building
 * [Professional certification](https://www.codecademy.com/pages/pro-certifications)
 * [Compare to bootcamps](https://try.codecademy.com/bootcamps)
 * —
-* [Full Catalog](https://www.codecademy.com/catalog/all)
-* [Beta Content](https://www.codecademy.com/catalog/subject/beta)
+* [Full catalog](https://www.codecademy.com/catalog/all)
+* [Beta content](https://www.codecademy.com/catalog/subject/beta)
 * [Roadmap](https://trello.com/b/vAgDXtT6/codecademy-releases-roadmap)
 
 Mobile
