@@ -54,7 +54,7 @@ Our business focuses on collecting threat intelligence data from, or about, thre
 
 We collect personal information when you visit our Sites and through your interactions with us. For example, when you request information about our Services, when you use our Services (such as submitting queries, performing analysis, or annotating results), subscribe to or read our published content through the Sites, listen to or subscribe to our podcast, indicate your interest in receiving marketing or other materials through our Sites, use our mobile application, provide us with your information to register for, or while at, a conference, event, or webinar, participate in our Community of Practice, when you request product support, or when you voluntarily provide information to us through our Sites or via email or telephone. We also collect personal information from our LinkedIn page and our other social media presences, from third-party commercial sources of personal information, and from publicly available sources including the dark web and open source intelligence.
 
-For more information about our security measures to protect this information, please refer to our [Information Security FAQ](http://www.recordedfuture.com/faq/security).
+For more information about our security measures to protect this information, please refer to our [Information Security FAQ](https://www.recordedfuture.com/faq/security).
 
 The categories of personal information we may collect include the following:
 
@@ -124,7 +124,7 @@ Generally, Recorded Future uses query data in one of two ways -
 
 i) Recorded Future uses this data to provide our services to our customers, this includes everything from returning the query results to providing the search history feature and sending out alerts as configured by users; and
 
-ii) Recorded Future uses unattributed [Customer Data](http://www.recordedfuture.com/terms-of-use/) to develop & improve our offerings. These improvements may include but are not limited to providing a signal to our teams regarding what type of data to improve, what research to pursue, insight into trends, data enrichment, and potential feature improvements.
+ii) Recorded Future uses unattributed [Customer Data](https://www.recordedfuture.com/terms-of-use/) to develop & improve our offerings. These improvements may include but are not limited to providing a signal to our teams regarding what type of data to improve, what research to pursue, insight into trends, data enrichment, and potential feature improvements.
 
 Additionally, there may be incidents that require access to this data in the event that there is a valid legal request, investigation of a security, safety, or related issue, or enforcement of the Terms of Use.
 
