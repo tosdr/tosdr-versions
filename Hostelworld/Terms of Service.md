@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12596 Hostels in 2616 cities.
+We have 12590 Hostels in 2616 cities.
 
 Where do you want to go?
 
@@ -46,7 +46,7 @@ Check In
 
 Check Out
 
-4 nights selected
+3 nights selected
 
 October 2024
 
@@ -1995,7 +1995,7 @@ nattaliarr
 
 BarcelonaHostels
 
-from US$17.56
+from US$19.59
 
 [](https://www.hostelworld.com/st/hostels/europe/netherlands/amsterdam/ "Amsterdam Hostels")
 
@@ -2051,7 +2051,7 @@ Paris
 
 7.7
 
-From US$25.47](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
+From US$23.03](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
 
 **St Christopher's Barcelona**
 
@@ -2083,7 +2083,7 @@ London
 
 9.3
 
-From US$31.73](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
+From US$32.13](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
 
 **St Christopher's at The Winston**
 
@@ -2091,7 +2091,7 @@ Amsterdam
 
 8.6
 
-From US$24.25](https://www.hostelworld.com/st/hostels/p/13607/st-christopher-s-at-the-winston/ "St Christopher's at The Winston")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
+From US$21.81](https://www.hostelworld.com/st/hostels/p/13607/st-christopher-s-at-the-winston/ "St Christopher's at The Winston")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
 
 **Wombat's City Hostel Vienna Naschmarkt**
 
