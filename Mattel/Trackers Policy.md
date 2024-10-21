@@ -53,7 +53,7 @@ Navigation
 
 [](https://shop.mattel.com/)
 
-*   [![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt2b42be26b55cb240/66eb29f85fcc6a11c6cd5771/holiday-logo_Mobile@2x.jpg) ![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt0256bff48d274cda/67045bed547007b42d36b164/holiday-gg-logo.svg) Shop Now](https://shop.mattel.com/pages/fisher-price-gift-shop "Fisher Price Gift Shop")
+*   [![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt2b42be26b55cb240/66eb29f85fcc6a11c6cd5771/holiday-logo_Mobile@2x.jpg) ![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt0256bff48d274cda/67045bed547007b42d36b164/holiday-gg-logo.svg) Shop Now](https://shop.mattel.com/pages/fisher-price-gift-shop "Buy Now")
 * Shop
     
     [Shop All](https://shop.mattel.com/collections/shop-all)
@@ -130,7 +130,7 @@ Navigation
     
     * [New Arrivals](https://shop.mattel.com/collections/new-arrivals)
     * [Best Sellers](https://shop.mattel.com/collections/best-sellers)
-    * [New Wooden Toys](https://shop.mattel.com/collections/fisher-price-wooden-toys)
+    * [Wooden Toys](https://shop.mattel.com/collections/fisher-price-wooden-toys)
     
      ![Shop By Age](
     
