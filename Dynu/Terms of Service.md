@@ -304,16 +304,23 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
+#### Great Users
 
   
+
+![Partner](/content/images/content/strip/Strip-Charter.png)
+
   
 
-### Free for Open Source Projects
+![Partner](/content/images/content/strip/Strip-BMW.png)
 
-We love open source projects. Contact us with details of your project.  
   
-[Contact Us](https://www.dynu.com/Support/ContactUs)
+
+![Partner](/content/images/content/strip/Strip-certifyeu.png)
+
+  
+
+![Partner](/content/images/content/strip/Strip-Estructuras.png)
 
 ### News
 
