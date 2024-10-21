@@ -210,10 +210,10 @@ To return to the previous page, press your browser's **BACK** button.
 
 |     |     |     |
 | --- | --- | --- |
-| [![Jump to top of page](https://www.grctech.com/_ztlzekq4r2hbn_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_ztlzekq4r2hbn_/image/jumptotop.png "Jump to top of page")](#top) |
+| [![Jump to top of page](https://www.grctech.com/_jymjr2j3eva4h_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_jymjr2j3eva4h_/image/jumptotop.png "Jump to top of page")](#top) |
 
   
 
 |     |     |
 | --- | --- |
-| Last Edit: Mar 28, 2008 at 06:46 (6,051.01 days ago) | Viewed 42 times per day |
+| Last Edit: Mar 28, 2008 at 06:46 (6,051.26 days ago) | Viewed 42 times per day |
