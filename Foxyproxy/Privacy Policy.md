@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I believe it worked out really well and would like to subscribe for another 3 months. I just tried Black VPN, it's actually pants compared to FoxyProxy.
+Invaluable service to us.
 
-Padraic McGrath
+Ken DeGennaro
