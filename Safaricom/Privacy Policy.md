@@ -144,6 +144,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 21, 2024
+
+> Excellent, fast, helpful service
+
+> The service from Leigh-Ann has been exceptional. No matter the difference in time zone, her responses and suggestions are always fast and helpful. When we’ve asked for changes to the itinerary, there has never been a problem. Highly recommended.
+
+Andrew
+
+,
+
+AU
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 18, 2024
 
 > Cannot recommend enough
@@ -153,6 +167,8 @@ out of 5 based on
 Charlotte
 
 ,
+
+GB
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -166,6 +182,8 @@ Manning Manning
 
 ,
 
+ZA
+
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Oct 17, 2024
@@ -178,6 +196,8 @@ Diane Wasney
 
 ,
 
+CA
+
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Oct 17, 2024
@@ -189,6 +209,8 @@ Diane Wasney
 AG
 
 ,
+
+GB
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -245,20 +267,6 @@ KP
 ,
 
 ca
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 14, 2024
-
-> great website and Staff
-
-> great website Keith Chideme was extremely helpful and answered all my quickly and professionally
-
-John Quigley
-
-,
-
-IE
 
 VIP service
 
