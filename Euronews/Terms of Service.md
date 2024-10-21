@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
     * [European Union](https://www.euronews.com/tag/european-union)
     * [Russia](https://www.euronews.com/tag/russia)
-    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-    * [Ukraine](https://www.euronews.com/tag/ukraine)
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Spain](https://www.euronews.com/tag/spain)
     
     * * *
     
     Latest stories
     
-    [![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")
+    [![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")
     
-    ![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](https://static.euronews.com/articles/stories/08/79/84/32/368x207_cmsv2_96b0329a-b9b5-5860-ab79-4630aa698f35-8798432.jpg "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
+    ![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://static.euronews.com/articles/stories/08/80/33/76/368x207_cmsv2_ed54dfa9-b6cc-5a38-bf95-ed5ea1e236e8-8803376.jpg "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
+    
+    Now playing Next
+    
+    [Cinema](https://www.euronews.com/culture/culture-series/cinema)
+    
+    ### [Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
+    
+    [![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")
+    
+    ![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](https://static.euronews.com/articles/stories/08/80/33/20/368x207_cmsv2_36c7c6d4-834b-56e1-8e01-34e4239c64c7-8803320.jpg "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
     
     Now playing Next
     
     [USA](https://www.euronews.com/news/america/usa)
     
-    ### [Elon Musk has promised '$100' for those that sign a political petition](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
+    ### [Is Musk's $1-million daily giveaway to Trump voters illegal?](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
     
-    [![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")
+    [![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")
     
-    ![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](https://static.euronews.com/articles/stories/08/79/83/82/368x207_cmsv2_21bba5a1-cd29-5c97-955e-507b59ee78d5-8798382.jpg "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
-    
-    Now playing Next
-    
-    [Culture news](https://www.euronews.com/culture/culture-news)
-    
-    ### [Tributes pour in for Liam Payne as Argentine authorities probe death](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
-    
-    [![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")
-    
-    ![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](https://static.euronews.com/articles/stories/08/79/82/60/368x207_cmsv2_4cf60b36-8122-5ad2-8447-0dff9a2cb1b1-8798260.jpg "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
-    
-    Now playing Next
-    
-    [Gaza](https://www.euronews.com/news/asia/gaza)
-    
-    ### [WATCH: IDF releases drone footage showing last moments of Hamas leader Yahya Sinwar](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
-    
-    [![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")
-    
-    ![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](https://static.euronews.com/articles/stories/08/79/80/14/368x207_cmsv2_35034aba-4c25-573e-8ae4-3144b7f4a5fe-8798014.jpg "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
+    ![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](https://static.euronews.com/articles/stories/08/80/28/92/368x207_cmsv2_67f3ed17-5c4b-51c2-919f-927aa2c1b17d-8802892.jpg "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Moldovans prepare to decide on EU membership in crucial referendum](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
+    ### [Four killed and dozens injured after Russian strikes on Ukraine](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+    
+    [![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+    
+    ![Europe in Motion](https://static.euronews.com/articles/stories/08/79/43/56/368x207_cmsv2_1e478bf3-0b02-55e0-b56c-dbc67ae0fe61-8794356.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+    
+    Now playing Next
+    
+    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    
+    ### [Almost 15% of EU youngsters unable to pay rent, new Eurostat data says](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -312,8 +312,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -358,61 +356,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
 * [European Union](https://www.euronews.com/tag/european-union)
 * [Russia](https://www.euronews.com/tag/russia)
-* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-* [Ukraine](https://www.euronews.com/tag/ukraine)
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Spain](https://www.euronews.com/tag/spain)
 
 * * *
 
 Latest stories
 
-[![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")
+[![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")
 
-![Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024](https://static.euronews.com/articles/stories/08/79/84/32/368x207_cmsv2_96b0329a-b9b5-5860-ab79-4630aa698f35-8798432.jpg "Elon Musk speaks as part of a campaign town hall in support of Republican presidential nominee former President Donald Trump in Folsom, Pennsylvania, Thursday 17 October, 2024")](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
+![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://static.euronews.com/articles/stories/08/80/33/76/368x207_cmsv2_ed54dfa9-b6cc-5a38-bf95-ed5ea1e236e8-8803376.jpg "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
+
+Now playing Next
+
+[Cinema](https://www.euronews.com/culture/culture-series/cinema)
+
+### [Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
+
+* * *
+
+[![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")
+
+![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](https://static.euronews.com/articles/stories/08/80/33/20/368x207_cmsv2_36c7c6d4-834b-56e1-8e01-34e4239c64c7-8803320.jpg "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
 
 Now playing Next
 
 [USA](https://www.euronews.com/news/america/usa)
 
-### [Elon Musk has promised '$100' for those that sign a political petition](https://www.euronews.com/2024/10/18/elon-musk-promises-cash-for-those-that-sign-political-free-speech-and-guns-petition)
+### [Is Musk's $1-million daily giveaway to Trump voters illegal?](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
 
 * * *
 
-[![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")
+[![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")
 
-![Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ](https://static.euronews.com/articles/stories/08/79/83/82/368x207_cmsv2_21bba5a1-cd29-5c97-955e-507b59ee78d5-8798382.jpg "Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony ")](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
-
-Now playing Next
-
-[Culture news](https://www.euronews.com/culture/culture-news)
-
-### [Tributes pour in for Liam Payne as Argentine authorities probe death](https://www.euronews.com/culture/2024/10/18/tributes-pour-in-for-liam-payne-as-argentine-authorities-probe-death)
-
-* * *
-
-[![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")
-
-![Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ](https://static.euronews.com/articles/stories/08/79/82/60/368x207_cmsv2_4cf60b36-8122-5ad2-8447-0dff9a2cb1b1-8798260.jpg "Yahya Sinwar, head of Hamas in Gaza, chairs a meeting with leaders of Palestinian factions at his office in Gaza City, on April 13, 2022. ")](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
-
-Now playing Next
-
-[Gaza](https://www.euronews.com/news/asia/gaza)
-
-### [WATCH: IDF releases drone footage showing last moments of Hamas leader Yahya Sinwar](https://www.euronews.com/2024/10/18/watch-idf-releases-drone-footage-showing-last-moments-of-hamas-leader-yahya-sinwar)
-
-* * *
-
-[![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")
-
-![A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024](https://static.euronews.com/articles/stories/08/79/80/14/368x207_cmsv2_35034aba-4c25-573e-8ae4-3144b7f4a5fe-8798014.jpg "A woman looks at a paper promoting Moldova's President Maia Sandu ahead of Sunday’s presidential election, 17 October, 2024")](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
+![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](https://static.euronews.com/articles/stories/08/80/28/92/368x207_cmsv2_67f3ed17-5c4b-51c2-919f-927aa2c1b17d-8802892.jpg "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Moldovans prepare to decide on EU membership in crucial referendum](https://www.euronews.com/my-europe/2024/10/18/opinion-remains-split-in-moldova-ahead-of-sundays-eu-membership-referendum)
+### [Four killed and dozens injured after Russian strikes on Ukraine](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+
+* * *
+
+[![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+
+![Europe in Motion](https://static.euronews.com/articles/stories/08/79/43/56/368x207_cmsv2_1e478bf3-0b02-55e0-b56c-dbc67ae0fe61-8794356.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+
+Now playing Next
+
+[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+
+### [Almost 15% of EU youngsters unable to pay rent, new Eurostat data says](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -662,8 +660,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
