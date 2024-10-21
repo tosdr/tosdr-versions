@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you all for an excellent service.
+Thanks for your service. It was really great. The speed was really great and I trust your service and will keep recommending it to my friends. Keep up the good work :)
 
-David Codling
+Hannes Nagl
