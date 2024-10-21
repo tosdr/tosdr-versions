@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Life-Saving Spongelike 'Bandage'](https://www.sciencedaily.com/releases/2024/10/241017113907.htm)
 * [Why Do We Love Carbs? Pre-Neanderthal DNA](https://www.sciencedaily.com/releases/2024/10/241017172950.htm)
 * [Neutron Stars Shrouded in Axions: Dark Matter?](https://www.sciencedaily.com/releases/2024/10/241018131244.htm)
 * [Butterfly Brains and Cognitive Innovation](https://www.sciencedaily.com/releases/2024/10/241018131224.htm)
@@ -238,7 +239,6 @@ this hour
 * [Breakthrough in Ultra-Clean Biofuel Tech](https://www.sciencedaily.com/releases/2024/10/241017113536.htm)
 * [People Sympathize With Bullied AI Bots](https://www.sciencedaily.com/releases/2024/10/241017113151.htm)
 * [MRNA Vaccine to Prevent and Treat C. Diff](https://www.sciencedaily.com/releases/2024/10/241017112707.htm)
-* [Drug Discovery Within the Patient](https://www.sciencedaily.com/releases/2024/10/241017112513.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
-
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
+
+[Vaccines](https://www.sciencedaily.com/news/health_medicine/vaccines/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Telecommunications](https://www.sciencedaily.com/news/matter_energy/telecommunications/)
-
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
+[Telecommunications](https://www.sciencedaily.com/news/matter_energy/telecommunications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
