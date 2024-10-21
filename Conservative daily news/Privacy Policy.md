@@ -1,4 +1,4 @@
-Sunday, October 20 2024
+Monday, October 21 2024
 
 Breaking News
 
@@ -107,21 +107,22 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 
 Support CDN!
 
-Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
+Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
+**Current Fundraising for December:**
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.75%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
+    
+    [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
+    
+    October 20, 2024
+    
 * [![New Mexico man sentenced to 60 years for enticement of minors following HSI investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/03/New-Mexico-man-sentenced-to-60-years-for-enticement-of-220x150.png)](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
     
     [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
     
     October 19, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Kamala-Harris-Brett-Baier-illegal-immigration-Fox-News-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
-    
-    [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
-    
-    October 17, 2024
     
 
 Recent Posts
@@ -177,6 +178,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The 2A Community Can’t Afford To Make Excuses For Cat Killing](https://www.thegunpage.com/the-2a-community-cant-afford-to-make-excuses-for-cat-killing/10611322)
+* [The Best Competition Since 1941: 1956 National Matches](https://www.thegunpage.com/the-best-competition-since-1941-1956-national-matches/10611324)
 * [Silencer Saturday #351: The DIY De Lisle](https://www.thegunpage.com/silencer-saturday-351-the-diy-de-lisle/10611316)
 * [Savage Arms Announces 21 Sharp Rimfire Rifle Offerings](https://www.thegunpage.com/savage-arms-announces-21-sharp-rimfire-rifle-offerings/10611312)
 * [Pro-Trump Yard Sign Leads To Harassment And Shots Fired In Las Vegas](https://www.thegunpage.com/pro-trump-yard-sign-leads-to-harassment-and-shots-fired-in-las-vegas/10611308)
@@ -185,8 +188,6 @@ Recent Posts
 * [10 Best Home Defense Rifles](https://www.thegunpage.com/10-best-home-defense-rifles/10611301)
 * [POTD: German Soldier With HP47 Anti-Drone Gun](https://www.thegunpage.com/potd-german-soldier-with-hp47-anti-drone-gun/10611302)
 * [TFB Podcast Roundup 151: The October 18th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-151-the-october-18th-roundup/10611303)
-* [What Would You Do? A Father’s Worst Nightmare](https://www.thegunpage.com/what-would-you-do-a-fathers-worst-nightmare/10611297)
-* [PSA Releases the Soviet Arms AKS-74U “Krinkov” In 300BLK](https://www.thegunpage.com/psa-releases-the-soviet-arms-aks-74u-krinkov-in-300blk-2/10611293)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +229,7 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782767)
 * Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
 * Stanley Warner on [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/#comment-782764)
 * charles wilkins on [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/#comment-782763)
@@ -236,7 +238,6 @@ Recent Comments
 * Catboss on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782737)
 * Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
 * charles wilkins on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782729)
-* Stanley Warner on [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/#comment-782725)
 
 [Close](#)
 
