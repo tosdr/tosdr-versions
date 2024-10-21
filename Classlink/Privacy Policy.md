@@ -442,8 +442,8 @@ ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/coppa/): 
 
 ![FERPA Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061db15c81ab5c_iKS_FERPA2-e1522875912267.png)
 
-United States – Family Educational Rights and Privacy Act ([FERPA](https://ed.gov/policy/gen/guid/fpco/ferpa/index.html))
--------------------------------------------------------------------------------------------------------------------------
+United States – Family Educational Rights and Privacy Act ([FERPA](https://studentprivacy.ed.gov/ferpa))
+--------------------------------------------------------------------------------------------------------
 
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA sets forth protocols for ensuring privacy and security of personally identifiable information of students. ClassLink adheres to the data protection protocols set forth in FERPA.  
 
