@@ -58,7 +58,7 @@ Mijn NRC Terug
 
 [Mijn nieuws](https://www.nrc.nl/mijn-nrc/nieuws/) [Mijn leeslijst](https://www.nrc.nl/mijn-nrc/leeslijst) [Mijn geschiedenis](https://www.nrc.nl/mijn-nrc/recent-gelezen/) [Digitale krant](https://www.nrc.nl/de/)
 
-[Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/) [Onderwerpen](https://www.nrc.nl/onderwerpen/)
+[Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/) [Masterclass](https://www.nrc.nl/masterclass/) [Onderwerpen](https://www.nrc.nl/onderwerpen/)
 
 [Ik ben abonnee](https://www.nrc.nl/login/subscriber/?return_to=/cookies/) [Neem een abonnement](https://abonnementen.nrc.nl/nrc-nl/?utm_intern=nrc-web-profielmenu)
 
@@ -74,7 +74,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=/cookies/?t%3D1729497721)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=/cookies/?t%3D1729522891)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
