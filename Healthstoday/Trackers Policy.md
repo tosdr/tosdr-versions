@@ -153,14 +153,14 @@ Contact us: [HealthsToday.com@gmail.com](mailto:HealthsToday.com@gmail.com)
 
 #### POPULAR CATEGORY
 
-* [Diet77](https://healthstoday.com/category/diet/)
-* [Exercise62](https://healthstoday.com/category/exercise/)
+* [Diet78](https://healthstoday.com/category/diet/)
+* [Exercise63](https://healthstoday.com/category/exercise/)
 * [General Health51](https://healthstoday.com/category/general-health/)
-* [Family42](https://healthstoday.com/category/family/)
+* [Family43](https://healthstoday.com/category/family/)
 * [Human Body28](https://healthstoday.com/category/human-body/)
 * [Spiritual Health28](https://healthstoday.com/category/spiritual-health/)
 * [Tips for Healthy Living21](https://healthstoday.com/category/tips-for-healthy-living/)
-* [Cholesterol20](https://healthstoday.com/category/cholesterol/)
+* [Alt Meds20](https://healthstoday.com/category/alt-meds/)
 
 * [About us](https://healthstoday.com/about-us/)
 * [Cookie Policy](https://healthstoday.com/cookie-policy/)
