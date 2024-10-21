@@ -150,13 +150,12 @@ Legal
     * [Toll Credit Pass fees](https://www.linkt.com.au/legal/fees/toll-credit-pass-fees/brisbane.html)
     * [Toll invoice and demand notice fees](https://www.linkt.com.au/legal/fees/toll-invoice-and-demand-notice-fees/brisbane.html)
     
-* [Promotions See 3 articles](#childnavitem-3)
+* [Promotions See 2 articles](#childnavitem-3)
     
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/charge-up-your-savings/brisbane.html)
-    * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/fuel-up-your-savings/brisbane.html)
     * [Win. Choose. Fly! Terms and Conditions](https://www.linkt.com.au/legal/promotions/win-choose-fly-terms/brisbane.html)
     
-* [Rewards See 10 articles](#childnavitem-4)
+* [Rewards See 9 articles](#childnavitem-4)
     
     * [Booking.com Offer Terms and Conditions](https://www.linkt.com.au/legal/rewards/bookingcom/brisbane.html)
     * [Europcar Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/europcar/brisbane.html)
@@ -165,7 +164,6 @@ Legal
     * [Linkt Rewards Terms and Conditions](https://www.linkt.com.au/legal/rewards/customer-rewards/brisbane.html)
     * [mycar Terms and Conditions](https://www.linkt.com.au/legal/rewards/mycar/brisbane.html)
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-up-your-savings/brisbane.html)
-    * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/charge-up-your-savings/brisbane.html)
     * [Global Escapes Terms and Conditions](https://www.linkt.com.au/legal/rewards/global-escapes/brisbane.html)
     * [Supercheap Auto Terms and Conditions](https://www.linkt.com.au/legal/rewards/supercheapauto/brisbane.html)
     
