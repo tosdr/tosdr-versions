@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/rechtszaak-biologische-landbouw-vs-monsanto/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/ruimteweer-zonne-activiteiten-en-onze-spirituele-ontwikkeling/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
