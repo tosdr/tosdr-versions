@@ -158,7 +158,7 @@ Cookies Policy
 
 Reporter:
 
-Name Last Name
+Name Admin
 
 12 Aug 2019 10:44 AM
 
@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
-
-The Swatragh team celebrates an historic victory. Pic by Sideline Photography
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Swatragh end Slaughtneil dominance to win first Senior Camogie title in 19 years!](https://www.derrynow.com/news/derry-sport/1634922/swatragh-end-slaughtneil-dominance-to-win-first-senior-camogie-title-in-19-years.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (56) arrested in Eglinton having failed a roadside drug test](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) arrested in Eglinton having failed a roadside drug test")](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (56) arrested in Eglinton having failed a roadside drug test](https://www.derrynow.com/news/local-news/1634977/man-56-arrested-in-eglinton-having-failed-a-roadside-drug-test.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Sadness as popular Limavady cafe set to close its doors for good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as popular Limavady cafe set to close its doors for good")](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
 
 Habit will close its doors for good on November 2.
@@ -283,6 +267,13 @@ Habit will close its doors for good on November 2.
 
 [Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
 
@@ -293,46 +284,46 @@ Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpres
 [Swatragh stun Kevin Lynch's to take Intermediate Hurling title!](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Friends embrace Derry’s legendary Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends embrace Derry’s legendary Halloween spirit")](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
+[![IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend")](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
 
-Friends Eilot Von Feczko and Jerzy Feczko are regular visitors to Derry's Halloween celebrations
+IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Friends embrace Derry’s legendary Halloween spirit](https://www.derrynow.com/news/local-news/1632878/friends-embrace-derrys-legendary-halloween-spirit.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland")](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/local-news/1635012/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
-
-Derry-born Methodist minister, Rev. Harold Good
+[![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballinascreen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen")](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
+[![Two PSNI officers injured after vehicle rammed in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
 
-Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic by Tom Heaney, nwpresspics
+The damage caused to the PSNI vehicle.
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Ballinascreen hold off Lavey fightback to lift Junior title](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man awaiting sentence for hospital sex assault breaches bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man awaiting sentence for hospital sex assault breaches bail")](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Celebrations as Greysteel couple mark 60 years of marriage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Celebrations as Greysteel couple mark 60 years of marriage")](https://www.derrynow.com/news/home/1635407/celebrations-as-greysteel-couple-mark-60-years-of-marriage.html)
+
+Columba & Vera Logue from Greysteel, who celebrated their 60th (Diamond) Wedding Anniversary earlier this month.
+
+[Home](https://www.derrynow.com/)
+
+[Celebrations as Greysteel couple mark 60 years of marriage](https://www.derrynow.com/news/home/1635407/celebrations-as-greysteel-couple-mark-60-years-of-marriage.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Tens of thousands remain without power after Storm Ashley hits island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tens of thousands remain without power after Storm Ashley hits island of Ireland")](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 
@@ -341,11 +332,38 @@ Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic 
 [Orange and amber alerts in place as Storm Ashley sweeps across island of Ireland](https://www.derrynow.com/news/national-news/1635025/orange-and-amber-alerts-in-place-as-storm-ashley-sweeps-across-island-of-ireland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Paul Hughes: Credit Paul Hughes on Instagram](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Hughes: Credit Paul Hughes on Instagram")](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
+
+Paul Hughes: Credit Paul Hughes on Instagram
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[County Derry MMA fighter Paul Hughes shares victory with Cristiano Ronaldo](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: All smiles for International Credit Union Day in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: All smiles for International Credit Union Day in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
+
+IN PICTURES: All smiles for International Credit Union Day in Derry
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: All smiles for International Credit Union Day in Derry](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend")](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
+
+IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death")](https://www.derrynow.com/news/derry-news/1633411/derry-s-eoghan-quigg-posts-tribute-to-one-direction-s-liam-payne-following-his-death.html)
 
@@ -404,20 +422,6 @@ PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in De
 
 [WATCH: Kilrea woman's plea for kidney donor](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game")](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,55 +523,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sadness as popular Limavady cafe set to close its doors for good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as popular Limavady cafe set to close its doors for good")](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
-
-Habit will close its doors for good on November 2.
-
-[Home](https://www.derrynow.com/)
-
-[Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: Everyday I’m Shuffling](https://www.derrynow.com/resizer/165/93/true/2024_10_18/Crash_Test_Dummies-1729259258620.jpeg--.jpeg?1729259258750 "MacD on Music: Everyday I’m Shuffling")](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: Everyday I’m Shuffling](https://www.derrynow.com/news/what-s-on/1633812/macd-on-music-everyday-im-shuffling.html)
----------------------------------------------------------------------------------------------------------------------------------
-
-[![Swatragh](https://www.derrynow.com/resizer/165/93/true/2024_10_20/GAA_Intermediate_Championship_final_Kevin_Lynch_v_Swatragh__11-1729439057943.jpg--.jpg?1729439058391 "Swatragh")](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
-
-Swtargh celebrate thwir Intermediate Championship win. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Swatragh stun Kevin Lynch's to take Intermediate Hurling title!](https://www.derrynow.com/news/derry-sport/1635087/swatragh-stun-kevin-lynch-s-to-take-intermediate-hurling-title.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinascreen](https://www.derrynow.com/resizer/165/93/true/2024_10_20/8M8A5107-1729429297536.jpg--.jpg?1729429297932 "Ballinascreen")](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
-
-Aaron Kelly in action for Ballinascreen during the Junior Final at Owenbeg. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ballinascreen hold off Lavey fightback to lift Junior title](https://www.derrynow.com/news/derry-sport/1635029/ballinascreen-hold-off-lavey-fightback-to-lift-junior-title.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/resizer/165/93/true/2024_10_18/Harold_Good_book_cover-1729246709909_1729247080.jpg--.jpg?1729247080617 "Derry-born Methodist minister unveils untold stories of peace in upcoming memoir")](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
-
-Derry-born Methodist minister, Rev. Harold Good
+[![Bail application adjourned for man who co-operated with police and give his PIN number](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail application adjourned for man who co-operated with police and give his PIN number")](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry-born Methodist minister unveils untold stories of peace in upcoming memoir](https://www.derrynow.com/news/local-news/1633505/derry-born-methodist-minister-unveils-untold-stories-of-peace-in-upcoming-memoir.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Bail application adjourned for man who co-operated with police and give his PIN number](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_21/car_damage_1_211024-1729511690950.jpg--.jpg?1729511691253 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
+
+The damage caused to the PSNI vehicle.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Paul Hughes: Credit Paul Hughes on Instagram](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Paul_Hughes-1729507807868.PNG--.PNG?1729507807935 "Paul Hughes: Credit Paul Hughes on Instagram")](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
+
+Paul Hughes: Credit Paul Hughes on Instagram
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[County Derry MMA fighter Paul Hughes shares victory with Cristiano Ronaldo](https://www.derrynow.com/news/derry-sport/1635511/county-derry-mma-fighter-paul-hughes-shares-victory-with-cristiano-ronaldo.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man awaiting sentence for hospital sex assault breaches bail")](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Billboard campaign urges Executive to ‘Finish the Job’ of Peace](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Finish_the_Job_-_HumeFoundation-1729503558764.png--.png?1729503558897 "Billboard campaign urges Executive to ‘Finish the Job’ of Peace")](https://www.derrynow.com/news/local-news/1635435/billboard-campaign-urges-executive-to-finish-the-job-of-peace.html)
+
+Peace Summit Partners’ billboard design.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Billboard campaign urges Executive to ‘Finish the Job’ of Peace](https://www.derrynow.com/news/local-news/1635435/billboard-campaign-urges-executive-to-finish-the-job-of-peace.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
