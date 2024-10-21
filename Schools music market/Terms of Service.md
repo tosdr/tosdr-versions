@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/music-alphabet-worksheet/)
+ [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-4-how-to-improve-lyrics/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/exploring-hip-hop-bass-lines/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-queen/)
 
 ###### Browse By Year/Grade
 
