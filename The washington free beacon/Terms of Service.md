@@ -31,13 +31,13 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
-* [![](https://freebeacon.com/wp-content/uploads/2024/03/biden-illegal.jpg)
+* [![](https://s4.freebeacon.com/up/2024/03/biden-illegal.jpg)
     
     Bidding Farewell to Biden’s Foreign Policy](https://freebeacon.com/columns/bidding-farewell-to-bidens-foreign-policy/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/10/Screenshot-2024-10-17-at-1.36.48 PM_736x514_736x514.png)
+* [![](https://s1.freebeacon.com/up/2024/10/Screenshot-2024-10-17-at-1.36.48 PM_736x514_736x514.png)
     
     America is Moving Right. But for How Long?](https://freebeacon.com/columns/america-is-moving-right-but-for-how-long/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/10/Screenshot-2024-10-10-at-1.44.09 PM_736x407-2_736x514-2.png)
+* [![](https://s1.freebeacon.com/up/2024/10/Screenshot-2024-10-10-at-1.44.09 PM_736x407-2_736x514-2.png)
     
     How Harris Bombed Her Media Blitz](https://freebeacon.com/columns/how-harris-bombed-her-media-blitz/)
 
