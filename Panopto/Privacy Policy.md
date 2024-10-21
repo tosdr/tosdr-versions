@@ -56,7 +56,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Aviation and Transportation](https://www.panopto.com/industries/aviation/)
         * [Energy and Utilities](https://www.panopto.com/industries/energy/)
         * [Healthcare and Pharmaceuticals](https://www.panopto.com/industries/healthcare-and-pharmaceuticals/)
-        * [Higher Education](https://www.panopto.com/industries/higher-education/)
+        * [Higher Education](https://www.panopto.com/?page_id=4217)
         * [Manufacturing](https://www.panopto.com/industries/manufacturing/)
         * [Telecommunications](https://www.panopto.com/industries/telecommunications/)
     * By Use Case
