@@ -213,18 +213,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **NEOPAŽENO OB CESTI. GRAFIČNA TEHNIKA MARJANA POGAČNIKA** - razstava (18.4.-20.10.2024.)
-    
-    avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Ritam francuske kulture 2024](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -399,14 +387,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
+    [10:00 Šta se krije ispod ravnice, SU](javascript:void(0);)
+    
+    **08.08.2024 | 10:00**
+    
+    Gradski muzej Subotica, Trg sinagoge 3, Subotica
+    
+    **ŠTA SE KRIJE ISPOD RAVNICE?** - geološka izložba (7.8.-31.10.2024.)
+    
+    Autor izložbe: dr Ivan Dulić, geolog, Naučno-tehnološki centar NIS
+    
+    organizacija: Gradski muzej Subotica i Naučno-tehnološki centar NIS
+    
+    [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90/vertikalnibeg.jpg?itok=0MjC-wXR)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/udruzenje-zena-kostana/udruzzenje-zzena-kosstana2.jpg?itok=jLx71N8Y)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska/udruzenje-zena-kostana)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/muzika-dvorova.jpg?itok=oKgwDw_e)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/skynet-uk.jpg?itok=5bB6SI5B)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
