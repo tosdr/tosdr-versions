@@ -267,7 +267,7 @@ We reserve the right to change this Privacy Policy at any time without notice. W
 * [News](http://corporate.exxonmobil.com/news)
 * [Investors](https://investor.exxonmobil.com/)
 * [Contact us](http://corporate.exxonmobil.com/who-we-are/contact-us)
-* [Subscribe](http://corporate.exxonmobil.com/news/subscribe#Subscribe)
+* [Subscribe](http://corporate.exxonmobil.com/news/subscribe)
 
 *   [![Facebook](/-/media/global/icons/footer/social/fb-gray.svg) ![Facebook](/-/media/global/icons/footer/social/fb-white.svg) Facebook](https://www.facebook.com/ExxonMobil/)
 *   [![Twitter](/-/media/global/icons/footer/social/tw-gray.svg) ![Twitter](/-/media/global/icons/footer/social/tw-white.svg) Twitter](https://twitter.com/exxonmobil)
