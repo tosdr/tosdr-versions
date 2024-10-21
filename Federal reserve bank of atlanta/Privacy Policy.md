@@ -10,11 +10,11 @@
     
 * [Economy Matters](https://www.atlantafed.org/economy-matters)
     
-    [Annual Report](https://www.atlantafed.org/economy-matters/annual-report/2023) [Economic Research](https://www.atlantafed.org/economy-matters/economic-research) [Banking & Finance](https://www.atlantafed.org/economy-matters/banking-and-finance) [Regional Economics](https://www.atlantafed.org/economy-matters/regional-economics) [Community & Economic Development](https://www.atlantafed.org/economy-matters/community-and-economic-development) [Inside the Fed](https://www.atlantafed.org/economy-matters/inside-the-fed) [Financial Tips](https://www.atlantafed.org/economy-matters/banking-and-finance) [Podcast](https://www.atlantafed.org/podcasts/transcripts/economy-matters) [Quizzes](https://www.atlantafed.org/economy-matters/quiz) [Staff & Credits](https://www.atlantafed.org/economy-matters/staff) [Departments](https://www.atlantafed.org/economy-matters/departments)
+    [Annual Report](https://www.atlantafed.org/economy-matters/annual-report/2023) [Economic Research](https://www.atlantafed.org/economy-matters/economic-research) [Banking & Finance](https://www.atlantafed.org/economy-matters/banking-and-finance) [Regional Economics](https://www.atlantafed.org/economy-matters/regional-economics) [Community & Economic Development](https://www.atlantafed.org/economy-matters/community-and-economic-development) [Inside the Fed](https://www.atlantafed.org/economy-matters/inside-the-fed) [Financial Tips](https://www.atlantafed.org/economy-matters/financial-tips) [Podcast](https://www.atlantafed.org/podcasts/transcripts/economy-matters) [Quizzes](https://www.atlantafed.org/economy-matters/quiz) [Staff & Credits](https://www.atlantafed.org/economy-matters/staff) [Departments](https://www.atlantafed.org/economy-matters/departments)
     
 * [Banking & Payments](https://www.atlantafed.org/banking-and-payments)
     
-    [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/banking-and-payments/lending) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/lending)
+    [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/banking-and-payments/lending) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
     
 * [News & Events](https://www.atlantafed.org/news)
     
@@ -108,7 +108,7 @@ Menutoggle menu
         * [Quizzes](https://www.atlantafed.org/economy-matters/quiz)
         * [Staff & Credits](https://www.atlantafed.org/economy-matters/staff)
 * [Banking & Payments](https://www.atlantafed.org/banking-and-payments)
-    * [Banking Supervision](https://www.atlantafed.org/rein/atlanta)
+    * [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision)
         * [About Us](https://www.atlantafed.org/banking-and-payments/banking-supervision/about-us)
         * [Appeals](https://www.atlantafed.org/banking-and-payments/banking-supervision/appeals)
         * [Banking Applications](https://www.atlantafed.org/banking-and-payments/banking-supervision/banking-applications)
@@ -117,8 +117,8 @@ Menutoggle menu
         * [Federal Reserve Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision/become-a-member-bank)
         * [Regulatory News](https://www.atlantafed.org/banking-and-payments/banking-supervision/regulatory-news)
         * [Resources](https://www.atlantafed.org/banking-and-payments/banking-supervision/resources)
-    * [Business Continuity](https://www.atlantafed.org/rein/birmingham)
-    * [Consumer Payments](https://www.atlantafed.org/rein/jacksonville)
+    * [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity)
+    * [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments)
         * [Survey and Diary of Consumer Payment Choice](https://www.atlantafed.org/banking-and-payments/consumer-payments/survey-and-diary-of-consumer-payment-choice)
         * [Publications](https://www.atlantafed.org/banking-and-payments/consumer-payments/publications)
         * [Research Data Reports](https://www.atlantafed.org/banking-and-payments/consumer-payments/research-data-reports)
@@ -159,7 +159,7 @@ Menutoggle menu
         * [Multimedia](https://www.atlantafed.org/education/teach/multimedia)
     * [Learn](https://www.atlantafed.org/education/learn)
     * [Visit](https://www.atlantafed.org/education/visit)
-        * [Atlanta](https://www.atlantafed.org/news/conferences-and-events/conferences)
+        * [Atlanta](https://www.atlantafed.org/education/visit/atlanta)
         * [Jacksonville](https://www.atlantafed.org/education/visit/jacksonville)
         * [Miami](https://www.atlantafed.org/education/visit/miami)
         * [New Orleans](https://www.atlantafed.org/education/visit/new-orleans)
@@ -168,7 +168,7 @@ Menutoggle menu
     * [About Us](https://www.atlantafed.org/community-development/about-us)
         * [Staff](https://www.atlantafed.org/community-development/about-us/staff)
         * [Community Development at the Federal Reserve](https://www.atlantafed.org/community-development/about-us/federal-reserve-community-development)
-    * [Data & Tools](https://www.atlantafed.org/news/pressreleases)
+    * [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools)
         * [Career Ladder Identifier and Financial Forecaster (CLIFF)](https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families/cliff-tool)
         * [Unemployment Claims Monitor](https://www.atlantafed.org/cweo/data-tools/unemployment-claims-monitor)
         * [Southeastern Rental Affordability Tracker](https://www.atlantafed.org/community-development/data-and-tools/southeastern-rental-affordability-tracker)
