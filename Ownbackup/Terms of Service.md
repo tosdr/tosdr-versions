@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Data Lifecycle Management
-
-Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
-
 [Data Security
 
 Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
 
-[On-Platform Development
+[AI
 
-What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
+How to Strengthen Your Salesforce Security in the Age of GenAI](https://www.ownbackup.com/blog/how-to-strengthen-your-salesforce-security-in-the-age-of-genai)
+
+[Data Lifecycle Management
+
+Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Data Lifecycle Management
-
-Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
-
 [Data Security
 
 Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
 
-[On-Platform Development
+[AI
 
-What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
+How to Strengthen Your Salesforce Security in the Age of GenAI](https://www.ownbackup.com/blog/how-to-strengthen-your-salesforce-security-in-the-age-of-genai)
+
+[Data Lifecycle Management
+
+Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
 
 Company
 
