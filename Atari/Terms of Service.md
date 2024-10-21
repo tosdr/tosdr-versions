@@ -814,7 +814,6 @@ Newsletters from the future
 * Mastercard
 * PayPal
 * Shop Pay
-* Venmo
 * Visa
 
 United States
