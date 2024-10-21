@@ -1,8 +1,8 @@
-[![Circles logo](/sg/assets/circles-logo-dark.svg)](https://pages.circles.life/sg/)Circles.Life
+[![Circles logo](/sg/assets/navbar/circles-logo-dark.svg)](https://pages.circles.life/sg/)Circles.Life
 
-Plans![arrow icon](/sg/assets/header-arrow.svg)Travel![arrow icon](/sg/assets/header-arrow.svg)Corporate![arrow icon](/sg/assets/header-arrow.svg)Devices![arrow icon](/sg/assets/header-arrow.svg)Why Us![arrow icon](/sg/assets/header-arrow.svg)Help![arrow icon](/sg/assets/header-arrow.svg)
+Plans![arrow icon](/sg/assets/navbar/header-arrow.svg)Travel![arrow icon](/sg/assets/navbar/header-arrow.svg)Corporate![arrow icon](/sg/assets/navbar/header-arrow.svg)Devices![arrow icon](/sg/assets/navbar/header-arrow.svg)Why Us![arrow icon](/sg/assets/navbar/header-arrow.svg)Help![arrow icon](/sg/assets/navbar/header-arrow.svg)
 
-[Get Started](https://pages.circles.life/sg/terms-conditions/)
+Get Started
 
 [4G SIM-Only](https://pages.circles.life/sg/plans/)[5G SIM-Only](https://pages.circles.life/sg/5g/)[eSIMs](https://pages.circles.life/sg/esim/)[Borderless](https://pages.circles.life/sg/borderless-plan/)[Family Plan](https://pages.circles.life/sg/familyplan/)[Data Only Plans](https://pages.circles.life/sg/data-only-plan/)[Phone Combo Plans](https://pages.circles.life/sg/combo-plan-black/)[Special Number](https://pages.circles.life/sg/special-number/)[Golden Village](https://pages.circles.life/sg/golden-village/)
 
@@ -173,35 +173,35 @@ We’ve listed all our Terms & Conditions and policies on this page so that you 
 Terms and Policies
 ------------------
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/general-tc.svg)
+[![icon](/sg/assets/terms-conditions/general-tc.svg)
 
 General T&C](https://pages.circles.life/sg/terms-conditions/general/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/mobile-tc.png)
+[![icon](/sg/assets/terms-conditions/mobile-tc.png)
 
 Mobile T&C](https://pages.circles.life/sg/terms-conditions/mobile/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/website-tc.png)
+[![icon](/sg/assets/terms-conditions/website-tc.png)
 
 Website T&C](https://pages.circles.life/sg/terms-conditions/website/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/transaction.png)
+[![icon](/sg/assets/terms-conditions/transaction.png)
 
 Online Transaction T&C](https://pages.circles.life/sg/terms-conditions/online-transaction/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/data-policy.svg)
+[![icon](/sg/assets/terms-conditions/data-policy.svg)
 
 Data Protection Policy](https://pages.circles.life/sg/terms-conditions/data-protection-policy/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/notification.png)
+[![icon](/sg/assets/terms-conditions/notification.png)
 
 Copyright Act Notification](https://pages.circles.life/sg/terms-conditions/copyright-act-notification/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/terms-use.svg)
+[![icon](/sg/assets/terms-conditions/terms-use.svg)
 
 Circles Care Terms of Use](https://pages.circles.life/sg/terms-conditions/circles-care-terms-use/)
 
-[![](https://circleslifeprd.wpengine.com/wp-content/uploads/2022/02/general-tc.svg)
+[![icon](/sg/assets/terms-conditions/general-tc.svg)
 
 Refurbished Devices T&C](https://pages.circles.life/sg/terms-conditions/refurbished-devices/)
 
@@ -297,7 +297,7 @@ HELP
 
 [Contact Us](https://pages.circles.life/sg/help-center/#contact)[Track My Order](https://activate-shop.circles.life/manage/order?reset=true)[Lost SIM](https://activate-shop.circles.life/manage/order?reset=true)[FAQs](https://circlesasiasupport.zendesk.com/hc/en-us)
 
-[![Circles.Life logo](/sg/assets/footer-logo.svg)](https://pages.circles.life/sg/)
+[![Circles.Life logo](/sg/assets/general/footer-logo.svg)](https://pages.circles.life/sg/)
 
 * * *
 
