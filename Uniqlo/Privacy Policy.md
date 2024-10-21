@@ -484,8 +484,8 @@ Related information:
 * [TERMS OF USE](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmju&l=en_US&fs=RelatedArticle)
 * [Accessibility](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmwy&l=en_US&fs=RelatedArticle)
 * [How do I create/register UNIQLO account?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmp4&l=en_US&fs=RelatedArticle)
+* [Refund Information for Online Order](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000kBhO&l=en_US&fs=RelatedArticle)
 * [Pre-Order Terms & Conditions](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA3Ie00000000LT&l=en_US&fs=RelatedArticle)
-* [How can I order online?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gn0l&l=en_US&fs=RelatedArticle)
 
 Contact UNIQLO Indonesia
 ------------------------
