@@ -124,11 +124,7 @@ Polícia Civil prende homem acusado de estuprar enteada de 13 anos em Pilar](htt
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,7 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
+[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
 
 Tesouro escondido
 
@@ -210,15 +206,7 @@ Tesouro escondido
 
 Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda
 
-Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Bet de Deolane tem pedido de liberação negado pela Justiça](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/0/csm_deolane-reproducao-bruno-fontes-tv-globo_7e829b6975.jpg)
-
-Brasil
-
-Brasil
-
-Bet de Deolane tem pedido de liberação negado pela Justiça
-
-Bet de Deolane tem pedido de liberação negado pela Justiça](https://www.tnh1.com.br/noticia/nid/bet-de-deolane-tem-pedido-de-liberacao-negado-pela-justica/ "Bet de Deolane tem pedido de liberação negado pela Justiça")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
+Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
 
 Na Levada
 
@@ -226,7 +214,7 @@ Na Levada
 
 Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas
 
-Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
+Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
 
 Mercado de Trabalho
 
@@ -234,9 +222,17 @@ Mercado de Trabalho
 
 Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos
 
-Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")
+Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")[![Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/d/csm_lula-sofre-acidente-domestico-em-casa-reproducao-agencia-brasil_c9aad2d860.jpg)
 
-[![Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_lauana-prado-reproducao-X_daffc45ad6.png)
+foi socorrido
+
+foi socorrido
+
+Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem
+
+Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem](https://www.tnh1.com.br/noticia/nid/lula-sofre-acidente-em-casa-tem-ferimento-na-nuca-e-cancela-viagem/ "Lula sofre acidente em casa, tem ferimento na nuca e cancela viagem")
+
+[![Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/c/csm_lauana-prado-reproducao-X_daffc45ad6.png)
 
 Gente Famosa
 
@@ -244,7 +240,7 @@ Gente Famosa
 
 Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade
 
-Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://www.tnh1.com.br/noticia/nid/video-lauana-prado-e-prefeito-de-abadiania-go-brigam-durante-festa-da-cidade/ "Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade")[![Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_liam-payne-ultima-foto-reproducao-redes-sociais_cc72f933ed.jpg)
+Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade](https://www.tnh1.com.br/noticia/nid/video-lauana-prado-e-prefeito-de-abadiania-go-brigam-durante-festa-da-cidade/ "Vídeo: Lauana Prado e prefeito de Abadiânia (GO) brigam durante festa da cidade")[![Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_liam-payne-ultima-foto-reproducao-redes-sociais_cc72f933ed.jpg)
 
 Tráfico de drogas
 
@@ -252,7 +248,7 @@ Tráfico de drogas
 
 Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista
 
-Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://www.tnh1.com.br/noticia/nid/funcionario-do-hotel-pode-ser-indiciado-por-morte-de-liam-payne-revela-revista/ "Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista")[![Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_csm_elon-musk_c6aaf0d653__1__aab8e5b9ed.jpg)
+Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://www.tnh1.com.br/noticia/nid/funcionario-do-hotel-pode-ser-indiciado-por-morte-de-liam-payne-revela-revista/ "Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista")[![Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_csm_elon-musk_c6aaf0d653__1__aab8e5b9ed.jpg)
 
 ASSINATURA ONLINE
 
@@ -260,7 +256,7 @@ ASSINATURA ONLINE
 
 Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump
 
-Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://www.tnh1.com.br/noticia/nid/elon-musk-promete-sortear-us-1-milhao-por-dia-a-assinantes-de-peticao-pro-trump/ "Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump")[![Maya Massafera diz que está ficando com jogador do Flamengo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_maya-massafera-reproducao-redes-sociais_17d77bc391.png)
+Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump](https://www.tnh1.com.br/noticia/nid/elon-musk-promete-sortear-us-1-milhao-por-dia-a-assinantes-de-peticao-pro-trump/ "Elon Musk promete sortear US$ 1 milhão por dia a assinantes de petição pró-Trump")[![Maya Massafera diz que está ficando com jogador do Flamengo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_maya-massafera-reproducao-redes-sociais_17d77bc391.png)
 
 Novo affair
 
