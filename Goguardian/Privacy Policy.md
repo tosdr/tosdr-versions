@@ -348,7 +348,7 @@ Company
 * [Newsroom](https://www.goguardian.com/newsroom)
 * [GoGuardian Gives](https://www.goguardian.com/goguardian-gives)
 * [Brand Guidelines](https://www.goguardian.com/brand)
-* [Channel Program](https://www.goguardian.com/channel-program)
+* [Channel Partner Portal](https://partners.goguardian.com/s/login/)
 * [Security Reporting Program](https://www.goguardian.com/policies/responsible-security-reporting-program)
 
 Support
