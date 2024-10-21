@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fdcb8dd-2178-4689-829a-77675c280980/20241016T190403/9fdcb8dd-2178-4689-829a-77675c280980_360x203.jpg)](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
+    *  [![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_360x203.jpg)](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
         
-        #### [Here's why the Navy is not sharing the identities of 2 crew members aboard crashed jet](https://www.king5.com/article/news/local/status-of-crew-members-aboard-crashed-navy-jet-cannot-be-confirmed-navy-growler/281-2af7eadf-4be2-44d1-8d0d-02543a714f4a)
+        #### [Former KING 5 anchor Michelle Li, Very Asian Foundation host Bellevue community event](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
         
-    *  [![](https://media.king5.com/assets/KING/images/f860f1d1-7028-44df-84da-307cf7517e03/20241019T040818/f860f1d1-7028-44df-84da-307cf7517e03_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f860f1d1-7028-44df-84da-307cf7517e03/20241019T040818/f860f1d1-7028-44df-84da-307cf7517e03_360x203.jpg)](https://www.king5.com/article/news/local/navy-declares-2-missing-crew-members-crashed-jet-deceased/281-a83540a2-7f8b-44d9-bdbc-762b43076679)
+    *  [![](https://media.king5.com/assets/KING/images/c4210253-8a69-4f71-b75c-17b6f686dabf/20241020T164459/c4210253-8a69-4f71-b75c-17b6f686dabf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4210253-8a69-4f71-b75c-17b6f686dabf/20241020T164459/c4210253-8a69-4f71-b75c-17b6f686dabf_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-king-5-sports-director-tony-ventrella-passes-away/281-f35e63dd-5618-4629-bf31-ee2559ef5c99)
         
-        #### [Navy declares 2 missing crew members of crashed jet deceased](https://www.king5.com/article/news/local/navy-declares-2-missing-crew-members-crashed-jet-deceased/281-a83540a2-7f8b-44d9-bdbc-762b43076679)
+        #### [Former KING 5 sports director Tony Ventrella passes away](https://www.king5.com/article/news/local/seattle/former-king-5-sports-director-tony-ventrella-passes-away/281-f35e63dd-5618-4629-bf31-ee2559ef5c99)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-66°
+57°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
