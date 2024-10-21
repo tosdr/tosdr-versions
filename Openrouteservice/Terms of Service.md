@@ -20,6 +20,7 @@ Toggle navigation
     * [Avoid construction sites for routing](https://openrouteservice.org/example-avoid-obstacles-while-routing/)
     * [Dieselgate: avoid banned streets in Berlin 2019](https://openrouteservice.org/dieselgate-avoid-berlin-banned-diesel-streets/)
     * [Apartment search with openrouteservice](https://openrouteservice.org/example-apartment-search-with-ors/)
+    * [Centrality analysis using export endpoint](https://openrouteservice.org/centrality-analysis-using-export-endpoint)
 * [Ask us!](https://ask.openrouteservice.org/)
 * [Plans](https://openrouteservice.org/plans/)
 * [Jobs](https://heigit.org/join-the-team/)
