@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0dd414a8-8c25-4116-9bde-d18f12c6f3b1/20241019T192258/0dd414a8-8c25-4116-9bde-d18f12c6f3b1_360x203.jpg)](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
+    *  [![](https://media.king5.com/assets/KING/images/8747db9c-f14c-4701-b70c-6ce35d948a33/20241021T052514/8747db9c-f14c-4701-b70c-6ce35d948a33_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8747db9c-f14c-4701-b70c-6ce35d948a33/20241021T052514/8747db9c-f14c-4701-b70c-6ce35d948a33_360x203.jpg)](https://www.king5.com/article/news/crime/1-killed-another-injured-covington-homicide-officials-say/281-b604107e-9ef7-46c3-b2d9-f8d198776e78)
         
-        #### [Former KING 5 anchor Michelle Li, Very Asian Foundation host Bellevue community event](https://www.king5.com/article/entertainment/events/michelle-li-very-asian-foundation-host-bellevue-community-event/281-03f95507-6173-40fe-8e87-9e412ad809d6)
+        #### [1 killed, another injured in Covington homicide, officials say](https://www.king5.com/article/news/crime/1-killed-another-injured-covington-homicide-officials-say/281-b604107e-9ef7-46c3-b2d9-f8d198776e78)
         
     *  [![](https://media.king5.com/assets/KING/images/c4210253-8a69-4f71-b75c-17b6f686dabf/20241020T164459/c4210253-8a69-4f71-b75c-17b6f686dabf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4210253-8a69-4f71-b75c-17b6f686dabf/20241020T164459/c4210253-8a69-4f71-b75c-17b6f686dabf_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-king-5-sports-director-tony-ventrella-passes-away/281-f35e63dd-5618-4629-bf31-ee2559ef5c99)
         
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f2f11ed1-340c-49fc-99cf-8cf60f707cfb/20241020T150915/f2f11ed1-340c-49fc-99cf-8cf60f707cfb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2f11ed1-340c-49fc-99cf-8cf60f707cfb/20241020T150915/f2f11ed1-340c-49fc-99cf-8cf60f707cfb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f43b210b-c37a-4ca4-aa06-dc2d083b8e2d/20241021T052359/f43b210b-c37a-4ca4-aa06-dc2d083b8e2d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f43b210b-c37a-4ca4-aa06-dc2d083b8e2d/20241021T052359/f43b210b-c37a-4ca4-aa06-dc2d083b8e2d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-57°
+53°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
