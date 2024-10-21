@@ -378,7 +378,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 * [Microsoft Edge TTS Add-on](https://speechify.com/edge-text-to-speech-extension/)
 * [Audiobooks](https://speechify.com/audiobooks/)
 * [Audiobooks for business & schools](https://speechify.com/audiobooks-for-businesses/)
-* [AI Voice Over](https://speechify.com/voiceover/)
+* [AI Voice Generator](https://speechify.com/ai-voice-generator/)
 * [Voice Cloning](https://speechify.com/voice-cloning/)
 * [AI Dubbing](https://speechify.com/dubbing/)
 * [AI Voice Generator](https://speechify.com/ai-voice-generator/)
@@ -534,7 +534,7 @@ Category Sitemap
 
 [Text to Speech](https://speechify.com/text-to-speech-online/)
 
-[AI Voice Generator](https://speechify.com/voiceover/)
+[AI Voice Generator](https://speechify.com/ai-voice-generator/)
 
 [Teams](https://speechify.com/)
 
