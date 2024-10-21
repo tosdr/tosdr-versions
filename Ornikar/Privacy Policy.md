@@ -847,7 +847,7 @@ No items found.
 
 Aide & Contact
 
-[Acheter par téléphone](https://app.ornikar.com/contacter-un-conseiller?origin=footer_lien)[Nous contacter](https://www.ornikar.com/a-propos/contact)[FAQ auto-école](https://aide.ornikar.com/hc/fr)[FAQ assurance](https://help.ornikar.com/s/)[Avis](https://fr.trustpilot.com/review/ornikar.com)
+[Acheter par téléphone](https://app.ornikar.com/contacter-un-conseiller?origin=footer_lien)[Contact auto-école](https://aide.ornikar.com/hc/fr/requests/new)[Contact assurance](https://help.ornikar.com/s/contactsupport)[FAQ auto-école](https://aide.ornikar.com/hc/fr)[FAQ assurance](https://help.ornikar.com/s/)[Avis](https://fr.trustpilot.com/review/ornikar.com)
 
 À propos
 
