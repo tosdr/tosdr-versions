@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining
-
-Nach Unfall! Boniface nicht im Mannschaftstraining](https://www.bild.de/sport/fussball/nach-unfall-victor-boniface-fehlt-bei-leverkusen-im-mannschaftstraining-671628340b31b6453a1ae2ab)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
