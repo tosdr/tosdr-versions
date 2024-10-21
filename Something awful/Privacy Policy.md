@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Pop-Up Ads Throughout History!](https://www.somethingawful.com/photoshop-phriday/popup-ads-history/1/)
 * [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Pornographic Versions of Classic Novels!](https://www.somethingawful.com/photoshop-phriday/porn-classic-novels/1/)
-* [Unworthy Goon Gifts (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/terrible-xmas-gifts/1/)
-* [Unreal 2: The Awakening](https://www.somethingawful.com/game-reviews/unreal-awakening/1/)
+* [The Next Pope!](https://www.somethingawful.com/photoshop-phriday/next-pope-benedict/1/)
+* [Spaghetti-O Menstruation!](https://www.somethingawful.com/awfulvision/obama-poop-art/1/)
+* [STRUT THAT ASS STRUT THAT ASS STRU](https://www.somethingawful.com/awfulvision/strut-that-ass/1/)
+* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Kobayashi Maru High Scores List](https://www.somethingawful.com/mooflogs/kobayashi-maru-high/)
-* [Clown Porn](https://www.somethingawful.com/horrors-of-porn/clown-porn/)
-* [Sucker Punch; Diary of a Wimpy Kid: Rodrick Rules](https://www.somethingawful.com/current-movie-reviews/sucker-punch/1/)
-* [Winntech (Thanks, Autumn!)](https://www.somethingawful.com/awful-links/winntech/)
-* [Very Sad Cats](https://www.somethingawful.com/flash-tub/sad-cats-cartoon/)
+* [Honest College Course Descriptions](https://www.somethingawful.com/news/honest-college-course/1/)
+* [Question Time](https://www.somethingawful.com/weekend-web/question-time/1/)
+* [P...please do not elect the coffee man](https://www.somethingawful.com/news/coffee-gentle-creature/)
+* [Five Dollar Art Treasures](https://www.somethingawful.com/news/ebay-critique-painting/)
+* [SA Literary Review: Fate Magazine](https://www.somethingawful.com/news/sa-literary-review/)
 
 [Random!](https://www.somethingawful.com/random/)
 
