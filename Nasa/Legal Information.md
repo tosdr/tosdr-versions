@@ -259,7 +259,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 
-article 3 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)
+article 4 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)
 
 ### Highlights
 
@@ -303,7 +303,7 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### LExSO
 
-article 2 days ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+article 3 days ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
@@ -347,7 +347,7 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)
 
 ### Highlights
 
@@ -357,7 +357,7 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
 
-article 2 days ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 3 days ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
@@ -385,13 +385,13 @@ article 3 days ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-t
 
 ### NASA Pilots Add Perspective to Research
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 3 min read
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 7 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
+article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 7 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### The View from Space Keeps Getting Better  
 
-article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
@@ -439,7 +439,7 @@ article 3 days ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-t
 
 ### NASA Pilots Add Perspective to Research
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![NASA astronaut Kathryn C. Thornton on her second spacewalk on STS-61](https://www.nasa.gov/wp-content/uploads/2024/10/women-eva-4-thornton-eva-2-sts-61-eva-2-dec-1993-sts061-77-016.jpg?w=1022)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![NASA astronaut Kathryn C. Thornton on her second spacewalk on STS-61](https://www.nasa.gov/wp-content/uploads/2024/10/women-eva-4-thornton-eva-2-sts-61-eva-2-dec-1993-sts061-77-016.jpg?w=1022)
 
 12 min read
 
@@ -455,7 +455,7 @@ article 3 days ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-
 
 ### Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
