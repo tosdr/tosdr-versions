@@ -1,30 +1,32 @@
 [Skip to main content](#main-content)
 
-Meloni's Must Haves: BOGO Free! DETAILS
+Up To 60% off Wellness Technology DETAILS
 
-BUY 1 GET 1 FREE
+BOGO Free Compression Socks! DETAILS
 
-Close the Modal
-
-#### Mix & match or double up. Meloni's Must Haves are BOGO FREE!
-
-[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
-
-Offer valid 10/18/2024 8AM ET - 10/21/2024 6AM ET.
-
-To receive Buy 1 Get 1 Free discount on Meloni's Must Haves, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+YOUR HEALTH. OUR TECHNOLOGY.
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $150+
+#### SAVE UP TO 60%
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP NOW](https://www.tommiecopper.com/special/wellness-technology/)
 
-Offer valid 5/6/2024 8AM EST - 5/7/2024 6AM ET.
+Offer valid 10/21/2024 8AM ET - 10/24/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $100+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Up to 60% off Wellness Technology discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+COMPRESSION SLEEVES
+
+Close the Modal
+
+#### Buy 1 Get 1 Free Today!
+
+[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+
+Offer valid 10/21/2024 8AM ET - 10/24/2024 6AM ET.
+
+To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
