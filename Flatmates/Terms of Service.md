@@ -16,14 +16,12 @@
 * [Shortlist](https://flatmates.com.au/shortlists)
 * [Messages](https://flatmates.com.au/start-connecting)
 * [Guides](https://flatmates.com.au/info)
-* I need a place
+* [I need a place
     
-    Create a free person listing
+    Create a free person listing](https://flatmates.com.au/find-place)
+* [I need a flatmate
     
-* I need a flatmate
-    
-    Create a free property listing
-    
+    Create a free property listing](https://flatmates.com.au/list-place)
 
 Search share accommodation
 
