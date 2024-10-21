@@ -123,7 +123,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Harvard in the World
+    1. Forests
+        
+        In Focus
+        
+        **Forests** From sprawling jungles to city parks, forests are complex ecosystems that support the livelihoods of flora, fauna, humans, and the planet. [Take a hike](https://www.harvard.edu/in-focus/forests/)
+        
+        1. **What's inside?**
+            1. [**Urban forests can help cool cities**](https://www.gsd.harvard.edu/2023/10/the-forest-for-the-trees-and-the-birds-and-the-people-and-the-planet/)
+            2. [**Forests can help offset carbon emissions**](https://news.harvard.edu/gazette/story/2022/11/new-report-shows-forests-have-big-role-to-play-in-climate-change-fight/)
+        
+    2. Harvard in the World
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**Journey to the Amazon**](https://news.harvard.edu/gazette/story/2024/10/journey-to-a-key-front-in-climate-change-fight/)
             2. [**Learn about Worldwide Week at Harvard**](https://worldwide.harvard.edu/worldwide-week-harvard-2024)
         
-    2. Nobels at Harvard
+    3. Nobels at Harvard
         
         In Focus
         
@@ -143,27 +153,7 @@ Menu
             1. [**Meet Professor Gary Ruvkun, a 2024 winner**](https://news.harvard.edu/gazette/story/2024/10/harvard-scientist-awarded-nobel/)
             2. [**Meet Harvard's Nobel Laureates**](https://www.harvard.edu/about/history/nobel-laureates/)
         
-    3. Water
-        
-        In Focus
-        
-        **Water** The Harvard community is exploring ways to ensure that the world’s water—from the vast oceans to a glass of tap water—is healthful, unpolluted, and abundant. [Dip your toe](https://www.harvard.edu/in-focus/water/)
-        
-        1. **What's inside?**
-            1. [**Reevaluating Colorado River water usage as the supply dwindles**](https://news.harvard.edu/gazette/story/2023/02/colorado-river-crisis-explained/)
-            2. [**How new federal rules will impact "forever chemicals" in our drinking water**](https://hls.harvard.edu/today/the-impact-of-the-epas-first-ever-federal-pfas-rule-limiting-toxic-forever-chemicals-in-drinking-water/)
-        
-    4. Housing
-        
-        In Focus
-        
-        **Housing** In the average lifetime, a person spends 65% of their time inside their home. Harvard scholars are studying how to improve and evolve this critical part of our lives. [Come on in](https://www.harvard.edu/in-focus/housing/)
-        
-        1. **What's inside?**
-            1. [**Home prices have far outpaced income**](https://www.jchs.harvard.edu/state-nations-housing-2024)
-            2. [**The difficulty of ending homelessness**](https://news.harvard.edu/gazette/story/2024/01/why-its-so-hard-to-end-homelessness-in-america/)
-        
-    5. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
+    4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
 4. Visit
     
