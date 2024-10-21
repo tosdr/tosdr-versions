@@ -261,7 +261,7 @@ References to “resources,” “resource base,” “recoverable resources” 
 * [News](http://corporate.exxonmobil.com/news)
 * [Investors](https://investor.exxonmobil.com/)
 * [Contact us](http://corporate.exxonmobil.com/who-we-are/contact-us)
-* [Subscribe](http://corporate.exxonmobil.com/news/subscribe#Subscribe)
+* [Subscribe](http://corporate.exxonmobil.com/news/subscribe)
 
 *   [![Facebook](/-/media/global/icons/footer/social/fb-gray.svg) ![Facebook](/-/media/global/icons/footer/social/fb-white.svg) Facebook](https://www.facebook.com/ExxonMobil/)
 *   [![Twitter](/-/media/global/icons/footer/social/tw-gray.svg) ![Twitter](/-/media/global/icons/footer/social/tw-white.svg) Twitter](https://twitter.com/exxonmobil)
