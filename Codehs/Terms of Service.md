@@ -175,7 +175,7 @@ Toggle navigation [![](https://static1.codehs.com/img/brand_logo.png)](https://c
     * [States](https://codehs.com/states)
     * [Testimonials](https://codehs.com/testimonials)
     * [Tweets](https://codehs.com/tweets)
-    * [Read Write Code Blog](https://readwritecode.blog/)
+    * [Read Write Code Blog](https://codehs.com/blog)
     * [Coding in the Wild](https://codinginthewild.com/)
     * [Knowledge Base](https://help.codehs.com/)
     * [Student Projects](https://codehs.com/projects)
