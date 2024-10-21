@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия»: Началась регистрация волонтёров на мероприятия к 80-летию Великой Победы](https://cdn.er.ru/media/news/October2024/AivobEXHGaNwOyOYFYSv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-nachalas-registraciya-volontyorov-na-meropriyatiya-k-80-letiyu-velikoj-pobedy)
+
+[«Единая Россия»: Началась регистрация волонтёров на мероприятия к 80-летию Великой Победы](https://er.ru/activity/news/edinaya-rossiya-nachalas-registraciya-volontyorov-na-meropriyatiya-k-80-letiyu-velikoj-pobedy)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ДеньПобеды](https://er.ru/activity/news?tags%5B0%5D=40290) [#ВолонтерыПобеды](https://er.ru/activity/news?tags%5B0%5D=1093044) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#патриотическоемероприятие](https://er.ru/activity/news?tags%5B0%5D=142374) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
+
+Сегодня 17:10
+
+[![В «Единой России» считают необходимым создать госпрограмму по привлечению молодых специалистов в сферу биотехнологий](https://cdn.er.ru/media/news/October2024/CcMXCaUzXI6EXCc5Inn5-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-sozdat-gosprogrammu-po-privlecheniyu-molodyh-specialistov-v-sferu-biotehnologij)
+
+[В «Единой России» считают необходимым создать госпрограмму по привлечению молодых специалистов в сферу биотехнологий](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-sozdat-gosprogrammu-po-privlecheniyu-molodyh-specialistov-v-sferu-biotehnologij)
+
+[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#биотехнологии](https://er.ru/activity/news?tags%5B0%5D=18708) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
+
+Сегодня 16:50
+
+[![Анна Кузнецова: Более 10,5 тысяч человек обратились в «Единую Россию» в неделю приёмов по вопросам защиты прав трудящихся](https://cdn.er.ru/media/news/October2024/xDhyBPLuyNEuedFkhY8O-small.JPG)](https://er.ru/activity/news/anna-kuznecova-bolee-10-5-tysyach-chelovek-obratilis-v-edinuyu-rossiyu-v-nedelyu-priyomov-po-voprosam-zashity-prav-trudyashihsya)
+
+[Анна Кузнецова: Более 10,5 тысяч человек обратились в «Единую Россию» в неделю приёмов по вопросам защиты прав трудящихся](https://er.ru/activity/news/anna-kuznecova-bolee-10-5-tysyach-chelovek-obratilis-v-edinuyu-rossiyu-v-nedelyu-priyomov-po-voprosam-zashity-prav-trudyashihsya)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Котяков](https://er.ru/activity/news?tags%5B0%5D=144202) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#трудовоезаконодательство](https://er.ru/activity/news?tags%5B0%5D=125198) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#наставники](https://er.ru/activity/news?tags%5B0%5D=128153) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#беременные](https://er.ru/activity/news?tags%5B0%5D=122919) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Фетисова](https://er.ru/activity/news?tags%5B0%5D=59593) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#сокращения](https://er.ru/activity/news?tags%5B0%5D=405) [#пособия](https://er.ru/activity/news?tags%5B0%5D=2010) [#Рязанская область](https://er.ru/activity/news?tags%5B0%5D=3400) [#Синица](https://er.ru/activity/news?tags%5B0%5D=81247) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Рыбаков](https://er.ru/activity/news?tags%5B0%5D=39732) [#трудовой договор](https://er.ru/activity/news?tags%5B0%5D=21380) [#переобучение](https://er.ru/activity/news?tags%5B0%5D=5398) [#переподготовка](https://er.ru/activity/news?tags%5B0%5D=7070) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
+
+Сегодня 15:21
+
+[![«Единая Россия» и Минстрой продолжат законодательно поддерживать сферы строительства и ЖКХ](https://cdn.er.ru/media/news/October2024/v7v6SMaOMbM7T7PfAF0N-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minstroj-prodolzhat-zakonodatelno-podderzhivat-sfery-stroitelstva-i-zhkh)
+
+[«Единая Россия» и Минстрой продолжат законодательно поддерживать сферы строительства и ЖКХ](https://er.ru/activity/news/edinaya-rossiya-i-minstroj-prodolzhat-zakonodatelno-podderzhivat-sfery-stroitelstva-i-zhkh)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#президиумфракции](https://er.ru/activity/news?tags%5B0%5D=142781) [#парламентскийчас](https://er.ru/activity/news?tags%5B0%5D=125666) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#социальнаягазификация](https://er.ru/activity/news?tags%5B0%5D=1092495) [#дольщики](https://er.ru/activity/news?tags%5B0%5D=129905) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#Гордеев](https://er.ru/activity/news?tags%5B0%5D=2510)
+
+Сегодня 14:45
+
+[![Ирина Яровая: Расширение перечня работодателей, имеющих право готовить специалистов по целевому набору, позволит решить задачи стратегического планирования в сфере экономики](https://cdn.er.ru/media/news/October2024/gLUUPYPaDvaUX3jWu3BL-small.jpg)](https://er.ru/activity/news/irina-yarovaya-rasshirenie-perechnya-rabotodatelej-imeyushih-pravo-gotovit-specialistov-po-celevomu-naboru-pozvolit-reshit-zadachi-strategicheskogo-planirovaniya-v-sfere-ekonomiki)
+
+[Ирина Яровая: Расширение перечня работодателей, имеющих право готовить специалистов по целевому набору, позволит решить задачи стратегического планирования в сфере экономики](https://er.ru/activity/news/irina-yarovaya-rasshirenie-perechnya-rabotodatelej-imeyushih-pravo-gotovit-specialistov-po-celevomu-naboru-pozvolit-reshit-zadachi-strategicheskogo-planirovaniya-v-sfere-ekonomiki)
+
+[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#целевоеобучение](https://er.ru/activity/news?tags%5B0%5D=132982) [#подготовкакадров](https://er.ru/activity/news?tags%5B0%5D=152262)
+
+Сегодня 10:10
+
 [![В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://cdn.er.ru/media/news/October2024/sMNuOEsmqGdlXRu8gu6s-small.JPG)](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
 
 [В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
@@ -306,46 +346,6 @@
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
 
 20.10.24
-
-[![«Единая Россия», МГЕР и Всероссийская федерация самбо провели Всероссийский турнир по самбо](https://cdn.er.ru/media/news/October2024/aBj8oYAO8IlActLNEEze-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-proveli-vserossijskij-turnir-po-sambo)
-
-[«Единая Россия», МГЕР и Всероссийская федерация самбо провели Всероссийский турнир по самбо](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-proveli-vserossijskij-turnir-po-sambo)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Елисеев](https://er.ru/activity/news?tags%5B0%5D=25667) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-20.10.24
-
-[![Владимир Якушев: Самбо – не просто вид спорта, а система воспитания личности](https://cdn.er.ru/media/news/October2024/4EDY9F8Z1N0JIhJ6BIR5-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-sambo-ne-prosto-vid-sporta-a-sistema-vospitaniya-lichnosti)
-
-[Владимир Якушев: Самбо – не просто вид спорта, а система воспитания личности](https://er.ru/activity/news/vladimir-yakushev-sambo-ne-prosto-vid-sporta-a-sistema-vospitaniya-lichnosti)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#видеообращение](https://er.ru/activity/news?tags%5B0%5D=29741) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255)
-
-20.10.24
-
-[![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://cdn.er.ru/media/news/October2024/V6ezvMNqykgtTzkDkHfc-small.png)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
-
-[Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» пополнили ряды бригады ГРОМ «Каскад»](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-popolnili-ryady-brigady-grom-kaskad)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Родина](https://er.ru/activity/news?tags%5B0%5D=2682)
-
-19.10.24
-
-[![«Единая Россия» завершила обучение руководителей региональных исполкомов](https://cdn.er.ru/media/news/October2024/hZEy8IAcQriRskuxMFpp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zavershila-obuchenie-rukovoditelej-regionalnyh-ispolkomov)
-
-[«Единая Россия» завершила обучение руководителей региональных исполкомов](https://er.ru/activity/news/edinaya-rossiya-zavershila-obuchenie-rukovoditelej-regionalnyh-ispolkomov)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#обучение](https://er.ru/activity/news?tags%5B0%5D=127565) [#исполкомы](https://er.ru/activity/news?tags%5B0%5D=17190)
-
-18.10.24
-
-[![«Единая Россия» получила награду международного конкурса лучших цифровых проектов и практик «BRICS Solutions Awards»](https://cdn.er.ru/media/news/October2024/suPsiSa1Tevlw8R2ZaXd-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-poluchila-nagradu-mezhdunarodnogo-konkursa-luchshih-cifrovyh-proektov-i-praktik-brics-solutions-awards)
-
-[«Единая Россия» получила награду международного конкурса лучших цифровых проектов и практик «BRICS Solutions Awards»](https://er.ru/activity/news/edinaya-rossiya-poluchila-nagradu-mezhdunarodnogo-konkursa-luchshih-cifrovyh-proektov-i-praktik-brics-solutions-awards)
-
-[#Орлова](https://er.ru/activity/news?tags%5B0%5D=918) [#Сатеев](https://er.ru/activity/news?tags%5B0%5D=119210) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833)
-
-18.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
