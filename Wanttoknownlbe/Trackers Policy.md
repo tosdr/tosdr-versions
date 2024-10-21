@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/de-vaccinatie-kruistocht-van-frank-ruesink/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/het-wordt-tijd-dat-zorgprofessionals-alternatieve-geneeswijzen-serieus-nemen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
