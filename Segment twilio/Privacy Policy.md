@@ -70,12 +70,11 @@
         
         [Toll-Free](https://segment.com/en-us/phone-numbers/toll-free) [10DLC](https://segment.com/en-us/a2p-10dlc) [Short Codes](https://segment.com/en-us/messaging/channels/sms/short-codes)
         
-    * Twilio Video logo
+    * [Twilio Video logo
         
         **Video**
         
-        Connect virtually with secure, high-quality video calling at global scale
-        
+        Connect virtually with secure, high-quality video calling at global scale](https://segment.com/en-us/video)
     
     ##### Applications
     
@@ -353,6 +352,9 @@
         
         **Lookup**](https://segment.com/en-us/lookup/pricing)
     * [**Serverless**](https://segment.com/en-us/serverless/pricing)
+    * [Twilio Video logo
+        
+        **Video**](https://segment.com/en-us/video/pricing)
     
     ##### Applications
     
@@ -430,12 +432,11 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         [Toll-Free](https://segment.com/en-us/phone-numbers/toll-free) [10DLC](https://segment.com/en-us/a2p-10dlc) [Short Codes](https://segment.com/en-us/messaging/channels/sms/short-codes)
         
-    * Twilio Video logo
+    * [Twilio Video logo
         
         **Video**
         
-        Connect virtually with secure, high-quality video calling at global scale
-        
+        Connect virtually with secure, high-quality video calling at global scale](https://segment.com/en-us/video)
     
     ##### Applications
     
@@ -713,6 +714,9 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         **Lookup**](https://segment.com/en-us/lookup/pricing)
     * [**Serverless**](https://segment.com/en-us/serverless/pricing)
+    * [Twilio Video logo
+        
+        **Video**](https://segment.com/en-us/video/pricing)
     
     ##### Applications
     
@@ -1376,6 +1380,7 @@ We can't wait to see what you build.
 * [Lookup](https://segment.com/en-us/user-authentication-identity/lookup)
 * [Verify](https://segment.com/en-us/user-authentication-identity/verify)
 * [Voice](https://segment.com/en-us/voice)
+* [Video](https://segment.com/en-us/video)
 * [Messaging](https://segment.com/en-us/messaging)
 * [Beta products and features](https://segment.com/en-us/products/beta)
 * [All products](https://segment.com/en-us/products#all-products)
