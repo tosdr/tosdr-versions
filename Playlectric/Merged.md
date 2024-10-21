@@ -51,7 +51,7 @@ AzərbaycanAfrikaansBahasa IndonesiaMelayuCatalàčeštinaDanskDeutschEestiEngli
 
 [](https://www.whatsapp.com/download)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448207258_442972298518491_99238062130287983_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=yDEnWfvdzzMQ7kNvgGZUvGe&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIMDHZJmKmEompddASE7rJv_06sNFMSmjGcEbA9jKlP6R&oe=671C420A)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448207258_442972298518491_99238062130287983_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=yDEnWfvdzzMQ7kNvgGZUvGe&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIEC-fKD3l4MimWGH97eC0teLdcz8p8qx7SMc4Fb4g6Uo&oe=671C7A4A)
 
 Welcome  
 to the Family Group Chat
@@ -61,37 +61,37 @@ Better for everyone. Encrypted for everyone. Message privately with everyone.
 
 [Download](https://www.whatsapp.com/download)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448201788_1185555069143092_1601618390529376764_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=hb7VswEG4ZYQ7kNvgGMi4jB&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaILqO0iTycCBh_AP0JWm6A5HLsnJeqWa6rtqj9f_dLXZL&oe=671C455D)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448201788_1185555069143092_1601618390529376764_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=hb7VswEG4ZYQ7kNvgGMi4jB&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILR1tu2laHS760kkZb0iuprcAcZVJuGScvQR5-sv4TVr&oe=671C7D9D)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452646243_1582248422357284_2565796331008362036_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Qf6hv8ehnHkQ7kNvgFRV4kP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHSL2T1IFaycT8PKvKee6_9eVVgfuUQFC4hNXlHbq866&oe=671C35F4)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452646243_1582248422357284_2565796331008362036_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Qf6hv8ehnHkQ7kNvgFRV4kP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIIp7OE3gIj78rk8QflMOS5qRXXU22g6XzCaWExmGLlaL&oe=671CA674)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448201792_371650255464489_5750037178702349628_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=guONdxaYRWAQ7kNvgGXrc58&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHSKPicd_Tk-pRCzXbBvaLdWhUp9pADONNKkPY6zAG1K&oe=671C47FF)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448201792_371650255464489_5750037178702349628_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=guONdxaYRWAQ7kNvgGXrc58&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIMdoBEwJy8YU0pmz4N6wxLKn24l_P4VGd3SA98W8x-YW&oe=671C803F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448076088_982358363379452_1661757485214789356_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=F8sO7ecmmX0Q7kNvgHCKOHi&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaID2NzggagzB6eonGpUpqUSx1SqeZe5wdiQrs4gSOsXkH&oe=671C3DC0)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448076088_982358363379452_1661757485214789356_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=F8sO7ecmmX0Q7kNvgHCKOHi&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaICuSf5jukyl456n8iE-kZOCqw3Wab7JxZpdK9Gn7dgD1&oe=671CAE40)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448204954_1139616333965064_199117676248730710_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5ekxMitNmwwQ7kNvgHV6HeT&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIJmK_DWfHvvrnOnvTuWbnrv7NsvNPxWTodauKisizG6R&oe=671C2842)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448204954_1139616333965064_199117676248730710_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5ekxMitNmwwQ7kNvgHV6HeT&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIEerRmCH7CnKivBo6nEpNNb7QYts1o1jHK9NfCEyZkcJ&oe=671C98C2)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=m-2N_sQZ_00Q7kNvgHmak9q&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHPOKdp_VkRPM6UP9whJo8PaVOVeX8lsRzafLTDlQ-b-&oe=671C4597)
+![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=m-2N_sQZ_00Q7kNvgHmak9q&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIP7xedH5rTwxKov08jZornZ2eXKEY8Uw3NVboKsHWh1w&oe=671C7DD7)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448201788_1185555069143092_1601618390529376764_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=hb7VswEG4ZYQ7kNvgGMi4jB&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaILqO0iTycCBh_AP0JWm6A5HLsnJeqWa6rtqj9f_dLXZL&oe=671C455D)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448201788_1185555069143092_1601618390529376764_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=hb7VswEG4ZYQ7kNvgGMi4jB&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILR1tu2laHS760kkZb0iuprcAcZVJuGScvQR5-sv4TVr&oe=671C7D9D)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452646243_1582248422357284_2565796331008362036_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Qf6hv8ehnHkQ7kNvgFRV4kP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHSL2T1IFaycT8PKvKee6_9eVVgfuUQFC4hNXlHbq866&oe=671C35F4)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452646243_1582248422357284_2565796331008362036_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Qf6hv8ehnHkQ7kNvgFRV4kP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIIp7OE3gIj78rk8QflMOS5qRXXU22g6XzCaWExmGLlaL&oe=671CA674)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448201792_371650255464489_5750037178702349628_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=guONdxaYRWAQ7kNvgGXrc58&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHSKPicd_Tk-pRCzXbBvaLdWhUp9pADONNKkPY6zAG1K&oe=671C47FF)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448201792_371650255464489_5750037178702349628_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=guONdxaYRWAQ7kNvgGXrc58&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIMdoBEwJy8YU0pmz4N6wxLKn24l_P4VGd3SA98W8x-YW&oe=671C803F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448076088_982358363379452_1661757485214789356_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=F8sO7ecmmX0Q7kNvgHCKOHi&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaID2NzggagzB6eonGpUpqUSx1SqeZe5wdiQrs4gSOsXkH&oe=671C3DC0)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448076088_982358363379452_1661757485214789356_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=F8sO7ecmmX0Q7kNvgHCKOHi&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaICuSf5jukyl456n8iE-kZOCqw3Wab7JxZpdK9Gn7dgD1&oe=671CAE40)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448204954_1139616333965064_199117676248730710_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5ekxMitNmwwQ7kNvgHV6HeT&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIJmK_DWfHvvrnOnvTuWbnrv7NsvNPxWTodauKisizG6R&oe=671C2842)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448204954_1139616333965064_199117676248730710_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5ekxMitNmwwQ7kNvgHV6HeT&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIEerRmCH7CnKivBo6nEpNNb7QYts1o1jHK9NfCEyZkcJ&oe=671C98C2)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=m-2N_sQZ_00Q7kNvgHmak9q&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHPOKdp_VkRPM6UP9whJo8PaVOVeX8lsRzafLTDlQ-b-&oe=671C4597)
+![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=m-2N_sQZ_00Q7kNvgHmak9q&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIP7xedH5rTwxKov08jZornZ2eXKEY8Uw3NVboKsHWh1w&oe=671C7DD7)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448201788_1185555069143092_1601618390529376764_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=hb7VswEG4ZYQ7kNvgGMi4jB&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaILqO0iTycCBh_AP0JWm6A5HLsnJeqWa6rtqj9f_dLXZL&oe=671C455D)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448201788_1185555069143092_1601618390529376764_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=hb7VswEG4ZYQ7kNvgGMi4jB&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILR1tu2laHS760kkZb0iuprcAcZVJuGScvQR5-sv4TVr&oe=671C7D9D)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448076088_982358363379452_1661757485214789356_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=F8sO7ecmmX0Q7kNvgHCKOHi&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaID2NzggagzB6eonGpUpqUSx1SqeZe5wdiQrs4gSOsXkH&oe=671C3DC0)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448076088_982358363379452_1661757485214789356_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=F8sO7ecmmX0Q7kNvgHCKOHi&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaICuSf5jukyl456n8iE-kZOCqw3Wab7JxZpdK9Gn7dgD1&oe=671CAE40)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448204954_1139616333965064_199117676248730710_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5ekxMitNmwwQ7kNvgHV6HeT&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIJmK_DWfHvvrnOnvTuWbnrv7NsvNPxWTodauKisizG6R&oe=671C2842)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448204954_1139616333965064_199117676248730710_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5ekxMitNmwwQ7kNvgHV6HeT&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIEerRmCH7CnKivBo6nEpNNb7QYts1o1jHK9NfCEyZkcJ&oe=671C98C2)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=m-2N_sQZ_00Q7kNvgHmak9q&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHPOKdp_VkRPM6UP9whJo8PaVOVeX8lsRzafLTDlQ-b-&oe=671C4597)
+![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=m-2N_sQZ_00Q7kNvgHmak9q&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIP7xedH5rTwxKov08jZornZ2eXKEY8Uw3NVboKsHWh1w&oe=671C7DD7)
 
 Text between different phones is broken. Messy likes, blurry photos and risky security. But there’s a solution to end this cross-device drama. Switch to WhatsApp to message seamlessly and privately with friends and family, on any device.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -103,43 +103,43 @@ Who doesn’t like a few likes on their photos? Unless it’s an endless string 
 
 [Download](https://www.whatsapp.com/download)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452249618_1768184743589222_7719258453697673244_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mGn5riN1uA8Q7kNvgExQ-n8&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICfh2najREAebFnh1vGngXsFhiRMBwOYLDDfyscpO7Ok&oe=671C5488)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452249618_1768184743589222_7719258453697673244_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mGn5riN1uA8Q7kNvgExQ-n8&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIM0DnTdjJJ1xhBRRDtp58mFxMdbV1pqq5RUFGuM1XNGR&oe=671C8CC8)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452649598_1032956248533266_6480025266752970229_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=dWsJm6n5AZoQ7kNvgFJyxWR&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIGu7I_X9vbQG4zmh0OyE-6l6O_tEwN-cFJPD6us5bHEt&oe=671C34D1)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452649598_1032956248533266_6480025266752970229_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=dWsJm6n5AZoQ7kNvgFJyxWR&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIESkaniMmXTrdAvFmlfqIv5yYhe54rkz2eLBDbkO9-ck&oe=671CA551)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451859936_394731523623411_1524527936810253121_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=4sIShF83NZsQ7kNvgHMhaMV&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIAqjRDDzfLZWUfUbUJlqhjyIfIvniSmfPrUXOxaZ45wT&oe=671C4799)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451859936_394731523623411_1524527936810253121_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=4sIShF83NZsQ7kNvgHMhaMV&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIHgTWM4Rh43d181uM0umAtaPcbkdCHVuCgWgLEXueTPX&oe=671C7FD9)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452669085_981742833730973_6798344877405674130_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=JttT0AcxPRcQ7kNvgGwl4iU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIB5rDemuAgyOA-YTJ9HkzMxBcqGfm8rhIGD14d4kbxqW&oe=671C27EB)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452669085_981742833730973_6798344877405674130_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=JttT0AcxPRcQ7kNvgGwl4iU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIN3n7Ty3ZaUHFWxBFCsfuPhY7aG0s0tMDdj80iWZipZ3&oe=671C986B)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451859319_1520937581829194_3054184222801651688_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=wonkN-NntjYQ7kNvgH6dUyl&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIKHse8kIL9mJB4IBP_GotU9PljV7JvK0V3L2gIyJKkyi&oe=671C34A4)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451859319_1520937581829194_3054184222801651688_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=wonkN-NntjYQ7kNvgH6dUyl&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIPbRC5zimMx46sTsb73LupHPGTxNnwLxZahB9MIVWggn&oe=671CA524)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452748255_286838001146290_4636298171468928813_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=VcOjWBMz19wQ7kNvgGpEtoo&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIJpSQ6rLQKn1qkDdACO9dKCMhOmtWQM9cvfhX9Rbux6h&oe=671C5392)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452748255_286838001146290_4636298171468928813_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=VcOjWBMz19wQ7kNvgGpEtoo&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIDBSMAlFlhpu0jI9WedW2dN5BV4BGilvhc-xh4X2JVQV&oe=671C8BD2)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452438527_1563911721206455_8767447902107316721_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=sbwN_ata1IoQ7kNvgGdNiBP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIOG06-BzrlFMqCZMl6DPKSh6TcK6UvsuiPNqBQ9hOi-b&oe=671C5117)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452438527_1563911721206455_8767447902107316721_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=sbwN_ata1IoQ7kNvgGdNiBP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIGlhSu2qgCjfImGOenmxspTpfhH2QczZ7YEpmBHF0-Wq&oe=671C8957)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448173061_782928277318941_4628519483210354878_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Kx2jOeCOL9cQ7kNvgGq4nlu&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaINjDvHEyy5qhtxQ_eHUJ8NXnpjAuBoLU4ZDI4IhBLZqf&oe=671C43C4)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448173061_782928277318941_4628519483210354878_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Kx2jOeCOL9cQ7kNvgGq4nlu&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIBeIeFLGMsWyO7HScK87eCu1KSnegiRxzxpuHeDQ-LHQ&oe=671C7C04)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452643703_1024521479366552_5551532707469239076_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=GXfc9eSaN24Q7kNvgE6533h&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaINh29Vh23mfXx3VmNvZCnhVhwEaa3fzw_txsdBY4jesJ&oe=671C365A)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452643703_1024521479366552_5551532707469239076_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=WUqWaIefMUcQ7kNvgEB-13w&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIBT2tSTBcW7WfWpQ_ut6nOTOk371iPlTGoXzz5L1JAvS&oe=671CA6DA)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452649932_1654103148719607_8017876269333737245_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=vArAp99tMOEQ7kNvgGVD3Ni&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFbg7zF1TZfpiVfznuieZDUK9yjmuC5fMuxorNZ5h8R3&oe=671C5DDC)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452649932_1654103148719607_8017876269333737245_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=vArAp99tMOEQ7kNvgGVD3Ni&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIKcwCrCuFaXxoC20mtiK6kYxi1bJewgE_XFzpNKl9EO9&oe=671C961C)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/449447968_3438328453135054_6246551016883127110_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mOmWyWutLFsQ7kNvgEagVxx&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHPlj308w4JEgy0eQeYErF1Lv_DSNIFqCoH2keNIOg0X&oe=671C48F4)
+![](https://scontent.whatsapp.net/v/t39.8562-34/449447968_3438328453135054_6246551016883127110_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=rY-imW0WqBMQ7kNvgGzn-Fn&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIAKmnXI5FC5IMALuZ1yeGX231a7rUKLw1xutYe5fNGF5&oe=671C8134)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448205773_986229549429246_4669069263511456238_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=IKeS-l0mTW4Q7kNvgGfeqfH&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIBOz3gEhyrO6Wz7roF7wXOAYg0GktcS7El36qPm7cNx6&oe=671C4108)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448205773_986229549429246_4669069263511456238_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=IKeS-l0mTW4Q7kNvgGfeqfH&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILwTPwtSSRlRvyYhM4IxpGoPnm-Oc5WqZLPMJwa3ANOQ&oe=671CB188)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451832330_1138757967238500_3423664985917292844_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mYnWk5aXJYEQ7kNvgEh52Ml&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFhh1c_yec7k2eHzxsnh5dko2JWTqj2Y8_QUnFk7MaL4&oe=671C57FB)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451832330_1138757967238500_3423664985917292844_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mYnWk5aXJYEQ7kNvgEh52Ml&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIKlVas1wPkEiBgFrsekd1CK1YEcSymZ2nyTrasXGt-AU&oe=671C903B)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451771740_1397780264243053_3253206481654298992_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=NwCY4FQHzMEQ7kNvgENca77&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIBfDC_hu5f805LOBZCKJOJ6kLqo58NdMpGhOK5Y9Uuk6&oe=671C5A67)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451771740_1397780264243053_3253206481654298992_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=NwCY4FQHzMEQ7kNvgENca77&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIExoMCZEBpSdif74pZNjSvfGvmYnDjapDZW9VZElV62k&oe=671C92A7)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452794939_1256289265806516_729862939290637167_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=43vRM94v3o8Q7kNvgEq824i&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFFU59WA0AXCjm169D5H7m45gMPwV_8YL7ne1Soo0b7b&oe=671C3886)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452794939_1256289265806516_729862939290637167_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=43vRM94v3o8Q7kNvgEq824i&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIPTjP0GbPB6HioUgiCsqeUFDBOts1ZB0ZnTJGMlt9B2K&oe=671CA906)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/448205773_986229549429246_4669069263511456238_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=IKeS-l0mTW4Q7kNvgGfeqfH&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIBOz3gEhyrO6Wz7roF7wXOAYg0GktcS7El36qPm7cNx6&oe=671C4108)
+![](https://scontent.whatsapp.net/v/t39.8562-34/448205773_986229549429246_4669069263511456238_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=IKeS-l0mTW4Q7kNvgGfeqfH&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILwTPwtSSRlRvyYhM4IxpGoPnm-Oc5WqZLPMJwa3ANOQ&oe=671CB188)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451832330_1138757967238500_3423664985917292844_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mYnWk5aXJYEQ7kNvgEh52Ml&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFhh1c_yec7k2eHzxsnh5dko2JWTqj2Y8_QUnFk7MaL4&oe=671C57FB)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451832330_1138757967238500_3423664985917292844_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mYnWk5aXJYEQ7kNvgEh52Ml&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIKlVas1wPkEiBgFrsekd1CK1YEcSymZ2nyTrasXGt-AU&oe=671C903B)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451771740_1397780264243053_3253206481654298992_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=NwCY4FQHzMEQ7kNvgENca77&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIBfDC_hu5f805LOBZCKJOJ6kLqo58NdMpGhOK5Y9Uuk6&oe=671C5A67)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451771740_1397780264243053_3253206481654298992_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=NwCY4FQHzMEQ7kNvgENca77&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIExoMCZEBpSdif74pZNjSvfGvmYnDjapDZW9VZElV62k&oe=671C92A7)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452794939_1256289265806516_729862939290637167_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=43vRM94v3o8Q7kNvgEq824i&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFFU59WA0AXCjm169D5H7m45gMPwV_8YL7ne1Soo0b7b&oe=671C3886)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452794939_1256289265806516_729862939290637167_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=43vRM94v3o8Q7kNvgEq824i&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIPTjP0GbPB6HioUgiCsqeUFDBOts1ZB0ZnTJGMlt9B2K&oe=671CA906)
 
 No blurry photos
 ----------------
@@ -155,27 +155,27 @@ If just hearing their voice isn’t enough, WhatsApp is for you. Enjoy easy, hig
 
 [Download](https://www.whatsapp.com/download)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452585959_409305924875296_1065006501301435269_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ljB2katrffUQ7kNvgE_IFcU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIPU5g2u_oxBqKtxFcvuMg7fTQCghKXe_rifEp2FQ6YiW&oe=671C38AC)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452585959_409305924875296_1065006501301435269_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ljB2katrffUQ7kNvgE_IFcU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIJhTouf9LlQHp65HLSZQDTYMkzfaDJ9wdUeJBvqSqVL7&oe=671CA92C)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452547032_1391338161705118_3947439428963211871_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=NcjkK7LhF7AQ7kNvgGWgDda&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIJWGNNUlyHOQ663Th3Jeu1jPDaCY7ZBwHpYG8mNlo5to&oe=671C56D0)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452547032_1391338161705118_3947439428963211871_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=NcjkK7LhF7AQ7kNvgGWgDda&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaICGNMKyXsT1rERNldEamyIEq76NQxFPdEe3cu9oJPLEk&oe=671C8F10)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452247916_2856310511201147_2345531970163810363_n.gif?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Wg5lHFpBXEYQ7kNvgEIkFj0&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICiSJxwJK-sgGiPr04xO2ElKtDUmFbdHvPJ_VKpqUg8Q&oe=671C5DA2)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452247916_2856310511201147_2345531970163810363_n.gif?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Wg5lHFpBXEYQ7kNvgEIkFj0&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIDH6TIzDsoiqWkzaLxQ8QbzwF_fvaXbzdW0CWB3Ggx6J&oe=671C95E2)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452365687_1532185610842358_7238534928813255759_n.gif?ccb=1-7&_nc_sid=73b08c&_nc_ohc=qsYECdJpcboQ7kNvgEiuSEp&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIGcv9X3r-vIM_L87-AdO-6YNgUKKJ3Wcl0zQLODFvz8R&oe=671C5523)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452365687_1532185610842358_7238534928813255759_n.gif?ccb=1-7&_nc_sid=73b08c&_nc_ohc=qsYECdJpcboQ7kNvgEiuSEp&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIJp1r7YDcxvgxRE6Rt3-DUrCiRwiGxJ54jy2snQ-XsMK&oe=671C8D63)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452648016_1678845989346196_7266989437933506136_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=FvnS7hnthNsQ7kNvgFtAQwk&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIPY3DD8ttXMGwUz0PbzGDggNklAUgZBW-935D4qK4yY5&oe=671C57BB)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452648016_1678845989346196_7266989437933506136_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=FvnS7hnthNsQ7kNvgFtAQwk&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIH1R668nXTmnGkfSrr6I4y2dh_kqmBWnDYIdGrWqox2j&oe=671C8FFB)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451850470_1136750411308945_6662290493279620552_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Le8ZaU3utw4Q7kNvgH661Wa&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIE8zjsD9-7w4gsIYpXVxwALfn0XSDh7Epi6B3o2qzVD3&oe=671C5DAC)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451850470_1136750411308945_6662290493279620552_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Le8ZaU3utw4Q7kNvgH661Wa&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIJP5Lxkj-gKjFllikefwYGJwynk9ckdHOVwZPP3seT7C&oe=671C95EC)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452823855_405026995919215_8240529032090029296_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YoyYh8x4nwEQ7kNvgHQ7Z5j&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHmpT_kRX3vcaPHCcVwurlcn36tFd5ejMF-qZ177b2xb&oe=671C50E1)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452823855_405026995919215_8240529032090029296_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YoyYh8x4nwEQ7kNvgHQ7Z5j&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIFzQwJBMIq5DiuTD8CO567UeWA1_znERaOfTn5QHU0Oj&oe=671C8921)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452609589_821354743308656_8991781597609928663_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=yzdqO4M8iWQQ7kNvgEQTseX&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFvyCxjGCzM8YxqRdusRXXtbcBJyqgjA-UGIMkL95oYr&oe=671C3BD0)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452609589_821354743308656_8991781597609928663_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=yzdqO4M8iWQQ7kNvgEQTseX&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIPJac6YEpqNx4QDafrKUzXCS-4YWY6gcsuGG65SawUCw&oe=671CAC50)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451850470_1136750411308945_6662290493279620552_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Le8ZaU3utw4Q7kNvgH661Wa&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIE8zjsD9-7w4gsIYpXVxwALfn0XSDh7Epi6B3o2qzVD3&oe=671C5DAC)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451850470_1136750411308945_6662290493279620552_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Le8ZaU3utw4Q7kNvgH661Wa&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIJP5Lxkj-gKjFllikefwYGJwynk9ckdHOVwZPP3seT7C&oe=671C95EC)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452823855_405026995919215_8240529032090029296_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YoyYh8x4nwEQ7kNvgHQ7Z5j&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHmpT_kRX3vcaPHCcVwurlcn36tFd5ejMF-qZ177b2xb&oe=671C50E1)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452823855_405026995919215_8240529032090029296_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YoyYh8x4nwEQ7kNvgHQ7Z5j&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIFzQwJBMIq5DiuTD8CO567UeWA1_znERaOfTn5QHU0Oj&oe=671C8921)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452609589_821354743308656_8991781597609928663_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=yzdqO4M8iWQQ7kNvgEQTseX&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFvyCxjGCzM8YxqRdusRXXtbcBJyqgjA-UGIMkL95oYr&oe=671C3BD0)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452609589_821354743308656_8991781597609928663_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=yzdqO4M8iWQQ7kNvgEQTseX&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIPJac6YEpqNx4QDafrKUzXCS-4YWY6gcsuGG65SawUCw&oe=671CAC50)
 
 “View once” and for all
 -----------------------
@@ -191,15 +191,15 @@ With end-to-end encryption, your personal messages and calls are secured across 
 
 [Download](https://www.whatsapp.com/download)
 
-![screenshot of whatsapp app showing end to end encryption of messages](https://scontent.whatsapp.net/v/t39.8562-34/451866801_1195338871648726_1789821188869184469_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=LHusp0701_cQ7kNvgGzo9yF&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaILPwpy6sgcoXaZUC2Coo-HwKmzahA1vnDMLsigGzPNd3&oe=671C5B67)
+![screenshot of whatsapp app showing end to end encryption of messages](https://scontent.whatsapp.net/v/t39.8562-34/451866801_1195338871648726_1789821188869184469_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=LHusp0701_cQ7kNvgGzo9yF&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIOtzilYC0kTlMm1YnBuSrN0ymAdOyjqHR1BDlkWTwxDH&oe=671C93A7)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/451859917_460980773358746_3162851271199602704_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=sVQqRJEeX5wQ7kNvgHc92-H&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIOkJ0GlCmDJTJTt1R-UH1dIauEsZQC3C_rl9KHr1lHmo&oe=671C2B7C)
+![](https://scontent.whatsapp.net/v/t39.8562-34/451859917_460980773358746_3162851271199602704_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=sVQqRJEeX5wQ7kNvgHc92-H&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIHUcQU6wnOzJVaueg9aby3Geg_iAtQq8KYoKcW45HPNv&oe=671C9BFC)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452645021_1401550270518830_344541179356152355_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-x6GAxTmtkAQ7kNvgEwvyZH&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIBrG2lALoocZSByP2mJmxAvKhFeEEMyyy-ux0iZQ5emK&oe=671C3A70)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452645021_1401550270518830_344541179356152355_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-x6GAxTmtkAQ7kNvgEwvyZH&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIGdfcbRLi6wPIgQNwcDb5LimIpkQ-A1ADgdaxDfFO6Yb&oe=671CAAF0)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452795008_510140214768848_944479417810001353_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=_scj05AzMEAQ7kNvgFeqk7R&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIBWGwD4MDWllmkVUY004d27WhndOCx2XuSEiNj0KMWTW&oe=671C31B5)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452795008_510140214768848_944479417810001353_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=_scj05AzMEAQ7kNvgFeqk7R&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIB-mRcSMCBSiQ3pz8G_vi8CsIrY6vnzaPx661sLJ5BVL&oe=671CA235)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452850133_450302484501095_3172515566594532255_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-peQU1Jxjr8Q7kNvgGid4BQ&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIErL9FEr5H4ucBP4fJjpHkzn06xgH6sWMpeyO_HNIxIE&oe=671C37F5)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452850133_450302484501095_3172515566594532255_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-peQU1Jxjr8Q7kNvgGid4BQ&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIPlIznBU8kGzohe4A_Df8k2J36PI_dprOeMqo2R_Jhri&oe=671CA875)
 
 Show of hands and feelings
 --------------------------
@@ -215,33 +215,33 @@ Get lost in moment, not on the way there. No matter where you are or what phone 
 
 [Download](https://www.whatsapp.com/download)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452514092_429966573374413_6149827925451457050_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ylRphwuBHQcQ7kNvgGgSC7m&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHXK1Nx11UYjO3YV5v9XLjRh0NEQEtd1W1UqK5iy6Kqc&oe=671C4747)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452514092_429966573374413_6149827925451457050_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ylRphwuBHQcQ7kNvgGgSC7m&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIBKmuPMZvCHDBtVMEL8qE3dWAPhooSzVcHF0AahUN1-h&oe=671C7F87)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452636166_2305015639831088_1324766665388288443_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mEtatx651QcQ7kNvgF24m1x&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIIOlCHBVCGMQUEQWrAZYo3woy-K6M3RqzteMLWK6rNuZ&oe=671C4EEF)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452636166_2305015639831088_1324766665388288443_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mEtatx651QcQ7kNvgF24m1x&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIFpsEx6Oi2xcYdxAK00z2cVsSXSO7S1y24TtFy66AuQc&oe=671C872F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452616166_1163645294943396_5731882545656320618_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=HPFy9FKHJSwQ7kNvgF10KGq&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICsjfSjNog8JmCc32j1moBWOAynxf8tJahgUVzSQxxwt&oe=671C3D9F)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452616166_1163645294943396_5731882545656320618_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=q6eA8IV_j3QQ7kNvgHJiewM&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILWb84KKQ1B7rIbJtAp0GlCnsfQL-phsAHGdHOHQi9VU&oe=671CAE1F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452638092_465900529724834_1618088886473672025_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=s8650Emd63IQ7kNvgHe1TpF&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICPTg02_Zl-x-Uak2GhGU0yFA2J7LAezvjhJxnxKzC0G&oe=671C5DC6)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452638092_465900529724834_1618088886473672025_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=s8650Emd63IQ7kNvgHe1TpF&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIFEVSyEpJnmGl_lAUGUwZmBchFsoDaFXSAt7VKEOrYrs&oe=671C9606)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452636701_399875462595291_5445055405759533097_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-3Uk3rF0zYkQ7kNvgE3QUt9&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICfFruSUcexkcHlQvu4YKeJI_DQT6-mbnelJ0SpvBYwg&oe=671C3DB2)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452636701_399875462595291_5445055405759533097_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-3Uk3rF0zYkQ7kNvgE3QUt9&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaICi6MgMQLihZk47Ybpr36Mn8xtcZl74bQlzPzxVZFE0A&oe=671CAE32)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452514092_429966573374413_6149827925451457050_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ylRphwuBHQcQ7kNvgGgSC7m&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIHXK1Nx11UYjO3YV5v9XLjRh0NEQEtd1W1UqK5iy6Kqc&oe=671C4747)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452514092_429966573374413_6149827925451457050_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ylRphwuBHQcQ7kNvgGgSC7m&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIBKmuPMZvCHDBtVMEL8qE3dWAPhooSzVcHF0AahUN1-h&oe=671C7F87)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452636166_2305015639831088_1324766665388288443_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mEtatx651QcQ7kNvgF24m1x&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIIOlCHBVCGMQUEQWrAZYo3woy-K6M3RqzteMLWK6rNuZ&oe=671C4EEF)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452636166_2305015639831088_1324766665388288443_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=mEtatx651QcQ7kNvgF24m1x&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIFpsEx6Oi2xcYdxAK00z2cVsSXSO7S1y24TtFy66AuQc&oe=671C872F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452616166_1163645294943396_5731882545656320618_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=HPFy9FKHJSwQ7kNvgF10KGq&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICsjfSjNog8JmCc32j1moBWOAynxf8tJahgUVzSQxxwt&oe=671C3D9F)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452616166_1163645294943396_5731882545656320618_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=q6eA8IV_j3QQ7kNvgHJiewM&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaILWb84KKQ1B7rIbJtAp0GlCnsfQL-phsAHGdHOHQi9VU&oe=671CAE1F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452638092_465900529724834_1618088886473672025_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=s8650Emd63IQ7kNvgHe1TpF&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICPTg02_Zl-x-Uak2GhGU0yFA2J7LAezvjhJxnxKzC0G&oe=671C5DC6)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452638092_465900529724834_1618088886473672025_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=s8650Emd63IQ7kNvgHe1TpF&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIFEVSyEpJnmGl_lAUGUwZmBchFsoDaFXSAt7VKEOrYrs&oe=671C9606)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452636701_399875462595291_5445055405759533097_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-3Uk3rF0zYkQ7kNvgE3QUt9&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaICfFruSUcexkcHlQvu4YKeJI_DQT6-mbnelJ0SpvBYwg&oe=671C3DB2)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452636701_399875462595291_5445055405759533097_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=-3Uk3rF0zYkQ7kNvgE3QUt9&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaICi6MgMQLihZk47Ybpr36Mn8xtcZl74bQlzPzxVZFE0A&oe=671CAE32)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452457748_398682079382845_4981524912601507231_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=HdvVwpz0WoYQ7kNvgFdAwG7&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIMo_g_otDw5O0umR1tsUZwkKJ2ConywIl-TDi_QJITCz&oe=671C5C5E)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452457748_398682079382845_4981524912601507231_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=HdvVwpz0WoYQ7kNvgFdAwG7&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIDXL_L7v9NOkr25aPOc1x0dQOkxrrzY9x73XIQeVK13a&oe=671C949E)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452481781_1007446497830733_241266235067609190_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=qSaNURnniiUQ7kNvgHwqSrU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIGrN2A9_GCIQUAdZne1R4ZMVtBknAFLGQjDg_CeGbjG7&oe=671C4FEF)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452481781_1007446497830733_241266235067609190_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=qSaNURnniiUQ7kNvgHwqSrU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIInU0oNzhKuSiEjqVafGd9PzDUEGc32SHL9VjSTw1Iz-&oe=671C882F)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452380319_895921675702107_5821907993545815514_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=TJ1GCrgc54cQ7kNvgHBKhiR&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIFq8KVHKF_qUAslAM2ki4E3deIzuLbrS28z_KdDlUdhh&oe=671C31A5)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452380319_895921675702107_5821907993545815514_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=TJ1GCrgc54cQ7kNvgHBKhiR&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIEJslu_QKn3Hj9bD-9shwnFT4GSpaTuzIBVJXOJ_W3iC&oe=671CA225)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/452644256_1517607972483723_7189881610588711265_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=H5KAR88mhBIQ7kNvgEtbFpg&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AM4V4gwE0D5vG2xSrr37i3f&oh=01_Q5AaIDk2Szog8izui4Upd2QpdUTNU5-exJ6hDj0WLKEval2y&oe=671C50CA)
+![](https://scontent.whatsapp.net/v/t39.8562-34/452644256_1517607972483723_7189881610588711265_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=H5KAR88mhBIQ7kNvgEtbFpg&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=ArzMSs8COhoU3QDEnqI3Wng&oh=01_Q5AaIA0wAmaJnJldIsfooxIS9hO6Xk4paSXGjVCVUWi9ZDJD&oe=671C890A)
 
 Plan smoother and faster
 ------------------------
