@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 20, 2024**
+**October 21, 2024**
 
 * * *
 
@@ -253,7 +253,7 @@ this week
 
 [Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
-[Vaccines](https://www.sciencedaily.com/news/health_medicine/vaccines/)
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+
 [Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
-
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
