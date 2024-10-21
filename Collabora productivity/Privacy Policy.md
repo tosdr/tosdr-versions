@@ -89,11 +89,11 @@
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/jeci_logo.png)](https://www.collaboraonline.com/partners/jeci/)
     
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/univention-logo.png)](https://www.collaboraonline.com/partners/univention/)
+    
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/Nextcloud_Logo.svg-e1709655206423-1024x623.png)](https://www.collaboraonline.com/partners/nextcloud/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/arawa-e1709655274639.png)](https://www.collaboraonline.com/partners/arawa/)
-    
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/univention-logo.png)](https://www.collaboraonline.com/partners/univention/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/owncloud-logo.png)](https://www.collaboraonline.com/partners/owncloud/)
     
@@ -108,9 +108,9 @@
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Moodle-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-moodle/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/02/OpenText-Logo-2017.png)](https://www.collaboraonline.com/partners/opentext/)
-    
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/06/Drupal-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-drupal/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/02/OpenText-Logo-2017.png)](https://www.collaboraonline.com/partners/opentext/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Nuxeo-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-nuxeo/)
     
