@@ -320,8 +320,6 @@ Solutions
 
 * [Safety & Security](https://www.goguardian.com/safety-security)
 * [Classroom Management](https://www.goguardian.com/classroom-management)
-* [Video Conferencing](https://www.goguardian.com/video-conferencing)
-* [GoGuardian Fleet](https://www.goguardian.com/fleet)
 * [GoGuardian DNS](https://www.goguardian.com/dns)
 * [For Windows](https://www.goguardian.com/windows)
 * [For Apple](https://www.goguardian.com/apple)
@@ -348,7 +346,7 @@ Company
 * [Newsroom](https://www.goguardian.com/newsroom)
 * [GoGuardian Gives](https://www.goguardian.com/goguardian-gives)
 * [Brand Guidelines](https://www.goguardian.com/brand)
-* [Channel Partner Portal](https://partners.goguardian.com/s/login/)
+* [Channel Partner Portal](https://www.goguardian.com/channel-program)
 * [Security Reporting Program](https://www.goguardian.com/policies/responsible-security-reporting-program)
 
 Support
