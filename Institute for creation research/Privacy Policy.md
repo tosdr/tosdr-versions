@@ -96,71 +96,37 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Fossil Record
+More Creation Q&A
 
-[![](/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg)](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_universe_look_old.jpg)](https://www.icr.org/article/does-the-universe-look-old)
 
-[Flood Solves Mystery of Amazon Sea](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea/)
+[Does the Universe Look Old?](https://www.icr.org/article/does-the-universe-look-old/)
 
-In the past 15 years, it’s been determined that a vast ocean once covered the western Amazon drainage basin.1 However, studies of the...
+Since distant galaxies are billions of light-years away, some understandably assume that distant starlight must have taken billions of years to reach...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/Sex_Dinosaurs_1400x1050.jpg)](https://www.icr.org/article/we-still-cant-determine-the-sex-of-dinosaurs)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
 
-[We Still Can’t Determine the Sex of Dinosaurs](https://www.icr.org/article/we-still-cant-determine-the-sex-of-dinosaurs/)
+[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
 
-Recently, a new study led by Queen Mary University of London concluded that dinosaur bones tell us little about their sexes.1 In the past, secular...
+Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/T_rex_Hatchling_1400x1050.jpg)](https://www.icr.org/article/no-evidence-t-rex-hatchlings-had-feathers)
+[Could You Outrun Goliath?](https://www.icr.org/article/could-you-outrun-goliath/)
 
-[No Evidence T. rex Hatchlings Had Feathers](https://www.icr.org/article/no-evidence-t-rex-hatchlings-had-feathers/)
-
-The recent discovery of a tiny tyrannosaur jaw bone fragment and a claw has some scientists again pushing dinosaurs as birds.1 But is there...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/woolymammoth_1400x1050.jpg)](https://www.icr.org/article/worlds-oldest-antibody)
-
-[World’s Oldest Antibody or Really Wrong Age?](https://www.icr.org/article/worlds-oldest-antibody/)
-
-A new technical report focusing on antibodies from Medieval human teeth also reported the discovery of antibodies from inside a wooly mammoth bone.1...
+At “six cubits and a span,” Goliath stood over nine feet tall, using a conservative 18-inch cubit. Scripture demonstrates his strength by...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/Main%20Stage%20-%201400x1050/ContextBibInterp_1400x1050)](https://www.icr.org/article/importance-of-context-in-sound)
-
-[The Importance of Context in Sound Biblical Interpretation](https://www.icr.org/article/importance-of-context-in-sound/)
-
-During World War II, fighter planes often returned from battle riddled with bullet holes. The Allies analyzed the litany of data and mapped the areas...
-
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
-
-[![](/i/Main%20Stage%20-%201400x1050/saltysweat_1400x1050.jpg)](https://www.icr.org/article/salty-sweat-desert-plant)
-
-[Salty Sweat in a Desert Plant](https://www.icr.org/article/salty-sweat-desert-plant/)
-
-Although plants aren’t alive in the biblical sense,1 they are most certainly complex in their physiology and anatomy.2,3...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
 
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
 
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
-
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-
-$4.99
+$15.99
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
 
@@ -168,19 +134,25 @@ Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
 
 $7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
-
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
-
-$7.99
-
-$9.99
-
 [![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
 Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
 
 $15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
