@@ -188,7 +188,7 @@ University Health
 
 **Email:** [Joshua.Nieto@uhtx.com](mailto:Joshua.Nieto@uhtx.com)
 
-![University Health all white logo](/-/media/Feature/Layout/UHS-logo-white.ashx?la=en&hash=4B0FB56A0D90FEB129903D8A2209D5B2)
+![](/-/media/Feature/Layout/UHS-logo-white.ashx?la=en&hash=4B0FB56A0D90FEB129903D8A2209D5B2)
 
 4502 Medical Drive
 
