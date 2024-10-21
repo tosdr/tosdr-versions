@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
+[![2009-10 Ballot Ms](/assets/logos/2004-2010BallotMeasuresTotal.png)](http://www.followthemoney.org/research/institute-research/an-overview-of-campaign-finances-2009-2010-elections)
 
-The power of incumbency and money.
+Ballot measures attract massive amounts of money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
