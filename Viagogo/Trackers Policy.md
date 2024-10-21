@@ -141,36 +141,36 @@ Stay Up to Date
 
 Popular Events
 
-* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
+* [Adele Concert Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Concert Tickets")
 * [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
-* [Tickets for FC Barcelona](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "Tickets for FC Barcelona")
+* [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
 * [Michael Buble Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tickets")
 * [Elton John Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets "Elton John Tickets")
-* [Taylor Swift Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tickets")
-* [New York Yankees Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Tickets")
-* [Los Angeles Dodgers Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Los Angeles Dodgers Tickets")
-* [Coldplay Tour 2025](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour 2025")
-* [The Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tickets")
-* [San Francisco 49ers Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/San-Francisco-49ers-Tickets "San Francisco 49ers Ticket")
-* [Texas Longhorns Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-Longhorns-Football-Tickets "Texas Longhorns Football Tickets")
-* [New York Mets Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Mets-Tickets "New York Mets Tickets")
+* [Tickets for Los Angeles Dodgers](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Tickets for Los Angeles Dodgers")
+* [New York Yankees Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Ticket")
+* [Taylor Swift Tour 2024](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tour 2024")
+* [New York Mets Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Mets-Tickets "New York Mets Ticket")
+* [Coldplay Tour](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour")
+* [The Eagles Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Concert Tickets")
 * [Formula 1 Tickets](https://www.viagogo.com/Sports-Tickets/Sports-and-Outdoors/Formula-1-Tickets "Formula 1 Tickets")
-* [New York Liberty Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/Basketball-Parking-Passes/New-York-Liberty-Tickets "New York Liberty Tickets")
-* [Sabrina Carpenter Tour 2024](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tour 2024")
+* [Sabrina Carpenter Concert Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Concert Tickets")
 * [Pittsburgh Steelers Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/Pittsburgh-Steelers-Tickets "Pittsburgh Steelers Tickets")
-* [New York Giants Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/New-York-Giants-Tickets "New York Giants Ticket")
-* [Detroit Lions Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Detroit-Lions-Tickets "Detroit Lions Tickets")
+* [Tickets for San Francisco 49ers](https://www.viagogo.com/Sports-Tickets/Football/NFL/San-Francisco-49ers-Tickets "Tickets for San Francisco 49ers")
 * [Billie Eilish Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Tickets")
-* [Los Angeles Rams Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/Los-Angeles-Rams-Tickets "Los Angeles Rams Ticket")
-* [Tickets for Minnesota Vikings](https://www.viagogo.com/Sports-Tickets/Football/NFL/Minnesota-Vikings-Tickets "Tickets for Minnesota Vikings")
+* [Tickets for New York Giants](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/New-York-Giants-Tickets "Tickets for New York Giants")
+* [Tickets for Los Angeles Rams](https://www.viagogo.com/Sports-Tickets/Football/NFL/Los-Angeles-Rams-Tickets "Tickets for Los Angeles Rams")
+* [Minnesota Vikings Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/Minnesota-Vikings-Tickets "Minnesota Vikings Tickets")
+* [Charli XCX Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Charli-XCX-Tickets "Charli XCX Tickets")
 * [Usher Tour 2024](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Tour 2024")
+* [Boston Celtics Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Boston-Celtics-Tickets "Boston Celtics Tickets")
 * [Tampa Bay Buccaneers Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Tampa-Bay-Buccaneers-Tickets "Tampa Bay Buccaneers Tickets")
-* [Tickets for Kansas City Chiefs](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Kansas-City-Chiefs-Tickets "Tickets for Kansas City Chiefs")
+* [Rod Wave Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Rod-Wave-Tickets "Rod Wave Tickets")
+* [Texas Longhorns Football Ticket](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-Longhorns-Football-Tickets "Texas Longhorns Football Ticket")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb05 : -
+\- : ecpuse1-webb06 : -
 
 }
 
