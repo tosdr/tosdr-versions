@@ -145,8 +145,6 @@ GovX ID Military Discount](https://nutristorefoods.com/pages/nutristore-govx)
 
 [Info](#)
 
-[FAQs](https://nutristorefoods.com/pages/faqs)
-
 [Contact Us](https://nutristorefoods.com/pages/contact-us)
 
 [Refund Policy](https://nutristorefoods.com/pages/satisfaction-guarantee)
@@ -156,6 +154,10 @@ GovX ID Military Discount](https://nutristorefoods.com/pages/nutristore-govx)
 [Become a Dealer](https://nutristorefoods.com/pages/become-a-dealer)
 
 [Terms of Service](https://nutristorefoods.com/policies/terms-of-service)
+
+[FAQs](https://nutristorefoods.com/pages/faqs)
+
+[Brucepac Recall FAQ](https://nutristorefoods.com/pages/brucepac-recall-faq)
 
 [](https://www.facebook.com/Nutristore-Foods-103148338967255)
 
