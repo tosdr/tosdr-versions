@@ -24,7 +24,7 @@ Popular Games
 Latest game news
 
 * [Dragon Ball DAIMA x DRAGON BALL Z: KAKAROT](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-daima-x-dragon-ball-z-kakarot)
-* [DAIMA Goku (Mini) Joins the DRAGON BALL XENOVERSE 2!](https://en.bandainamcoent.eu/dragon-ball/news/daima-goku-mini-joins-the-dragon-ball-xenoverse-2)
+* [DAIMA Goku (Mini) joins the DRAGON BALL XENOVERSE 2!](https://en.bandainamcoent.eu/dragon-ball/news/daima-goku-mini-joins-the-dragon-ball-xenoverse-2)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
@@ -320,7 +320,7 @@ Go to [Our support](https://service.bandainamcoent.eu/)
 * [Reservation of text/data mining rights](https://en.bandainamcoent.eu/data-mining)
 * [Illicit content report](https://en.bandainamcoent.eu/illicit-content-report)
 * [Cookies policy](https://en.bandainamcoent.eu/cookies-policy)
-* [Management of cookies](#cookie_gestion)
+* [Management of cookies](javascript:openAxeptioCookies())
 * [Tax strategy](https://static.bandainamcoent.eu/content/BANDAI-NAMCO-UK-GROUP_Tax-Strategy.pdf)
 * [Modern slavery act](https://www.bandainamco.co.jp/en/sustainability/human-rights/index.html)
 * [Video policy](https://static.bandainamcoent.eu/content/BANDAI_NAMCO_Entertainment_Video_Policy_(20220124).pdf)
