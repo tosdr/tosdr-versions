@@ -10,11 +10,23 @@ You may like
 
 [](#)[](#)
 
-[![vegan omega main image - DHA formula](//coromega.com/cdn/shop/files/DigitalShelf_6_1024x1024.png?v=1699904641)](https://coromega.com/products/vegan-dha-max)[](#)[](#)
+[![Kids Omega-3 + Vitamin D Main Image](//coromega.com/cdn/shop/files/KidsOmega-MainImage_1024x1024.png?v=1698800467)](https://coromega.com/products/kids-omega-3)[](#)[](#)
 
-[Vegan DHA MAX
+[Kids Omega-3
 
-From $19.99](https://coromega.com/products/vegan-dha-max)
+From $21.99](https://coromega.com/products/kids-omega-3)
+
+[![Omega-3 Main Image Front of Pack](//coromega.com/cdn/shop/files/81O0HSiygML._AC_SL1500_5f9cb753-b91d-4fce-8cdc-c9789fa538b9_1024x1024.jpg?v=1698799460)](https://coromega.com/products/omega-3)[](#)[](#)
+
+[Omega-3
+
+From $21.99](https://coromega.com/products/omega-3)
+
+[![Max Omega 3 Packing Image, Plus Vitamin D3](//coromega.com/cdn/shop/files/81Wx2_WFaIL._AC_SL1500_c81aa0c4-4115-4ef5-ae30-785cdc8be948_1024x1024.jpg?v=1698799332)](https://coromega.com/products/max-omega-3)[](#)[](#)
+
+[Omega-3 MAX
+
+From $24.99](https://coromega.com/products/max-omega-3)
 
 [Check out](https://coromega.com/checkout)
 
@@ -22,7 +34,7 @@ Your cart is empty
 
 [Start shopping](https://coromega.com/collections/all)
 
-Enjoy Free Shipping Over $45
+[Take 25% Off NEW Max GOLD](https://coromega.com/products/coromega-max-gold "https://coromega.com/products/coromega-max-gold") **🏆** [Code: GOLD25](https://coromega.com/products/coromega-max-gold "https://coromega.com/products/coromega-max-gold")
 
 [![Coromega](//coromega.com/cdn/shop/files/2._Coromega_Omega-3Core_-970x300_Slctd_sachet_copy.psd_550x.png?v=1690833114)](https://coromega.com/ "Coromega")
 
