@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-Get up to 50% off homeware. [Shop now.](https://www.notonthehighstreet.com/offers)
+Get up to 50% off Christmas. [Shop now.](https://www.notonthehighstreet.com/offers)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
@@ -16,7 +16,7 @@ search
 
 * [Offers](https://www.notonthehighstreet.com/offers)
     
-    [Christmas home offers](https://www.notonthehighstreet.com/sale/christmas-sale/christmas-home)[Prints & art offers](https://www.notonthehighstreet.com/sale/prints-art-sale)[Home decor offers](https://www.notonthehighstreet.com/sale/home-sale/home-accessories)[Cushion offers](https://www.notonthehighstreet.com/sale/home-sale/cushions)[Lighting offers](https://www.notonthehighstreet.com/sale/home-sale/lighting)[Kitchen & dining offers](https://www.notonthehighstreet.com/sale/home-sale/kitchen-dining)[Bed & bath offers](https://www.notonthehighstreet.com/sale/home-sale/bed-bath)[Furniture offers](https://www.notonthehighstreet.com/sale/home-sale/furniture)[Home & garden top sale picks](https://www.notonthehighstreet.com/sale/top-home-picks)[Home offers under £25](https://www.notonthehighstreet.com/sale/home-sale?filter%5Bprice_at_most%5D=25)[Home offers under £40](https://www.notonthehighstreet.com/sale/home-sale?filter%5Bprice_at_most%5D=40)[Home offers under £60](https://www.notonthehighstreet.com/sale/home-sale?filter%5Bprice_at_most%5D=60)[Home offers under £100](https://www.notonthehighstreet.com/sale/home-sale?filter%5Bprice_at_most%5D=100)[See all home offers](https://www.notonthehighstreet.com/sale/view-all-sale-items/home)[See all garden offers](https://www.notonthehighstreet.com/sale/view-all-sale-items/garden)
+    [Advent calendar offers](https://www.notonthehighstreet.com/sale/christmas-sale/christmas-decorations-sale/advent-calendars-countdowns)[Baubles & tree decoration offers](https://www.notonthehighstreet.com/sale/christmas-sale/christmas-decorations-sale/tree-decorations)[Stockings & sack offers](https://www.notonthehighstreet.com/sale/christmas-sale/christmas-decorations-sale/stockings-sacks)[Christmas Eve offers](https://www.notonthehighstreet.com/sale/christmas-sale/christmas-eve)[See all Christmas decoration offers](https://www.notonthehighstreet.com/sale/christmas-sale/christmas-decorations-sale)[See all Christmas offers](https://www.notonthehighstreet.com/sale/view-all-sale-items/christmas)[Christmas offers under £10](https://www.notonthehighstreet.com/sale/view-all-sale-items/christmas?filter%5Bprice_at_most%5D=10)[Christmas offers under £20](https://www.notonthehighstreet.com/sale/view-all-sale-items/christmas?filter%5Bprice_at_most%5D=20)[Christmas offers under £30](https://www.notonthehighstreet.com/sale/view-all-sale-items/christmas?filter%5Bprice_at_most%5D=30)[Christmas offers under £40](https://www.notonthehighstreet.com/sale/view-all-sale-items/christmas?filter%5Bprice_at_most%5D=40)
     
 * [Christmas](https://www.notonthehighstreet.com/christmas)
     
