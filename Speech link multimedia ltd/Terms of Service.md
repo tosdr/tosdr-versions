@@ -195,7 +195,7 @@ Read about our recent collaborative work with Medway LEA as part of their Childr
 
 * [(+44) 333 577 0784](tel:(+44)%20333%20577%200784)
 * [helpdesk@speechlink.co.uk](mailto:helpdesk@speechlink.co.uk)
-* [www.speechandlanguage.link](https://www.speechandlanguage.link/)
+* [www.speechandlanguage.link](https://speechandlanguage.link/)
 
 * [](https://www.facebook.com/SpeechLinkandLanguageLink)
 * [](https://twitter.com/SpeechLink)
