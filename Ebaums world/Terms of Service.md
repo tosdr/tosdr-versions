@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
+    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
     
-    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
+    [![hot teacher in grey dress](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/) [Here Is One Great Reason To Stay In School](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/)
     
-    [![scared straight](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-most-terrifying-7-seconds-of-scared-straight/85155945/) [The Most Terrifying 7 Seconds of Scared Straight](https://www.ebaumsworld.com/videos/the-most-terrifying-7-seconds-of-scared-straight/85155945/)
+    [![Mike Rowe of Dirty Jobs is a con man who doesn't care about working people](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/) [The Dirty Con Job of Mike Rowe](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/)
     
-    [![elevangelist Kenneth Copeland defends his lavish lifestyle](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/) [Megachurch Pastor Tries To Justify His Lavish Lifestyle](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/)
+    [![2020 memes - they dont want to put me on either - condom talking to a mask cartoon](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/) [30 Memes That Capture the Suck of 2020](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/)
     
 
 * Advertisement
