@@ -37,9 +37,7 @@ In this Policy, “**Wargaming**”, “**we**”, “**us**” or “**our**”
 [http://worldofwarships.eu](http://worldofwarships.eu/)  
 [https://wotblitz.com](https://wotblitz.com/)  
 [https://wowsblitz.com](https://wowsblitz.com/)  
-[http://wargaming.net](http://wargaming.net/)  
-[https://godsandglory.com](https://godsandglory.com/)  
-[https://playcaliber.eu](https://playcaliber.eu/)
+[http://wargaming.net](http://wargaming.net/)
 
 (“**Sites**”).
 
