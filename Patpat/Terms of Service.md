@@ -1,4 +1,4 @@
-Free Shipping Over $35.00
+Free Shipping Over $45.00
 
 Easy returns within 30 days
 
@@ -6,7 +6,7 @@ Easy returns within 30 days
 
 [](https://eur.patpat.com/)
 
-* [Halloween](https://eur.patpat.com/halloween-c.html)
+* [Black Friday](https://eur.patpat.com/black-friday-c.html)
 * [Christmas](https://eur.patpat.com/christmas-c.html)
 * [Family Matching](https://eur.patpat.com/family-matching-outfits-c.html)
 * [New In](https://eur.patpat.com/new-in-c.html)
