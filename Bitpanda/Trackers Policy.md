@@ -177,6 +177,15 @@ en
 
 Search IconSearch Icon
 
+en
+
+* [English](https://www.bitpanda.com/en/legal/)
+* [Deutsch](https://www.bitpanda.com/de/legal/)
+* [Italiano](https://www.bitpanda.com/it/legal/)
+* [Français](https://www.bitpanda.com/fr/legal/)
+* [Español](https://www.bitpanda.com/es/legal/)
+* [Polski](https://www.bitpanda.com/pl/legal/)
+
 * Invest
     
 * Prices
