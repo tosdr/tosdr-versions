@@ -105,13 +105,13 @@ Trending Posts
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
-* [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 Close
 
@@ -169,13 +169,13 @@ Trending Posts
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
-* [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 [Skip to content](#main)
 
@@ -368,13 +368,13 @@ Trending Posts
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
-* [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [One year in, the Palestinian solidarity movement is adapting its tactics](https://therealnews.com/one-year-in-the-palestinian-solidarity-movement-is-adapting-its-tactics)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
