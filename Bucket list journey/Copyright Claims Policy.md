@@ -245,6 +245,34 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[If you’re heading to the #NorthernCalifornia t ![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
+(💫 SAVE for planning your trip to Northern #California💫)
+SEBASTOPOL, CALIFORNIA RESTAURANTS
+1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
+2️⃣ @khom_loi_sonoma 🌶️ Spicy Thai eats with local Sonoma ingredients. Don’t skip the drunken noodles, it was my favorite thing we ate! 
+3️⃣ @goldfinch.sebastopol 🍤 California bistro with seasonal dishes and ballpark fries you’ll crave forever. If you’re a seafood lover, do yourself a favor and order the halibut ceviche!
+4️⃣ @handline.sebastopol 🌮 Retro vibes with fish tacos and dreamy soft-serve ice cream. Best enjoyed on the patio! 
+5️⃣ @fernbar.sebastopol 🍹 Cocktails that wow, plus a fried chicken sandwich and mushroom umami bomb you’ll drool over for days. 
+6️⃣ @thefarmersxwife 🥪 Their tuna melt with chips *inside* will change your life—trust me.  Plus, the Farm Market Salad is loaded with fresh ingredients.
+7️⃣ @piala.winebar 🥟 Georgian comfort food, including cheesy khachapuri, perfect for a cozy meal. 
+8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
+@visitsonoma @visitcalifornia
+#Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
+(💫 SAVE for planning your trip to Northern #California💫)
+SEBASTOPOL, CALIFORNIA RESTAURANTS
+1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
+2️⃣ @khom_loi_sonoma 🌶️ Spicy Thai eats with local Sonoma ingredients. Don’t skip the drunken noodles, it was my favorite thing we ate! 
+3️⃣ @goldfinch.sebastopol 🍤 California bistro with seasonal dishes and ballpark fries you’ll crave forever. If you’re a seafood lover, do yourself a favor and order the halibut ceviche!
+4️⃣ @handline.sebastopol 🌮 Retro vibes with fish tacos and dreamy soft-serve ice cream. Best enjoyed on the patio! 
+5️⃣ @fernbar.sebastopol 🍹 Cocktails that wow, plus a fried chicken sandwich and mushroom umami bomb you’ll drool over for days. 
+6️⃣ @thefarmersxwife 🥪 Their tuna melt with chips *inside* will change your life—trust me.  Plus, the Farm Market Salad is loaded with fresh ingredients.
+7️⃣ @piala.winebar 🥟 Georgian comfort food, including cheesy khachapuri, perfect for a cozy meal. 
+8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
+@visitsonoma @visitcalifornia
+#Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBY8VPtvX2n/) 
+
 [🚗✨ Here’s my one-day bucket list itinerary ![🚗✨ Here’s my one-day bucket list itinerary for POINT REYES, CALIFORNIA
 (💫 SAVE for planning your trip to Northern #California💫)
 1️⃣ Have coffee & pastries @brickmaidenbreads ☕️ All their pastries look yummy, but I loved the ginger scone. We also grabbed a loaf of seeded levain for the road 😋 
@@ -306,34 +334,6 @@ Here are my top picks for fishy (in the best way) spots you won’t want to miss
 7️⃣ Terrapin Creek Café - This place earned a Michelin star in 2015 and still holds a place in their guide ⭐️ Don’t miss their Mediterranean stew that has the best mix of seafood!
 Which one do you want to try? 😋 Let me know in the comments! 👇
 @visitbodegabay @sonomacounty @visitcalifornia #bodegabay #bodegabaycalifornia #california #notherncalifornia #californiacoast #visitcalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA3ZhVAvMd2/) 
-
-[Share you BUCKET LIST WINS for the month of Septem ![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
-Here’s my September “bucket list wins” recap 👇
-✧ Flew a kit at a Bodega Bay, California beach 🪁 
-✧ Went wine tasting @sonomacoastvineyards 🍷 
-✧ Played pinball @therewindarcade 
-✧ Tried a new restaurant @rockeroysterfellerslucaswharf
-✧ Walked a new beach (Doran Beach)
-✧ Modeled hats @glamourie_hats
-✧ Had the first dinner party on my new patio ♥️ 
-✧ Checked “Make a Free Throw” off my bucket list
-Made Some Progress on:
-✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
-#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
-Here’s my September “bucket list wins” recap 👇
-✧ Flew a kit at a Bodega Bay, California beach 🪁 
-✧ Went wine tasting @sonomacoastvineyards 🍷 
-✧ Played pinball @therewindarcade 
-✧ Tried a new restaurant @rockeroysterfellerslucaswharf
-✧ Walked a new beach (Doran Beach)
-✧ Modeled hats @glamourie_hats
-✧ Had the first dinner party on my new patio ♥️ 
-✧ Checked “Make a Free Throw” off my bucket list
-Made Some Progress on:
-✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
-#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAtGygLv_wV/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
