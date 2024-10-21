@@ -128,39 +128,39 @@ Advertisement
     The Next Great Extinction Event
     
     Extinct, the very word is chilling it means that a species no longer survives in this world. Already there have been five great extinction events in the history of our planet. What if the next specie...](https://documentaryheaven.com/next-great-extinction-event/ "The Next Great Extinction Event")
-* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
     
-    Canada’s woke nightmare: A warning to the West
+    Very Young Girls
     
-    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
 
 ###### Throwback Documentaries
 
-* [![I Knew Bin Laden](/wp-content/thumbnails/5765-100x70.jpg?x53432)
+* [![Secrets of the Dead: Lost in the Amazon](/wp-content/thumbnails/6145-100x70.jpg?x53432)
     
-    I Knew Bin Laden
+    Secrets of the Dead: Lost in the Amazon
     
-    On May 2, 2011, Barack Obama, the US president, announced that Osama bin Laden, the al-Qaeda leader, was shot dead in a raid by US special forces on a compound about 60km north of Islamabad, Pakistan'](https://documentaryheaven.com/i-knew-bin-laden/ "I Knew Bin Laden")
-* [![The AI Race](/wp-content/thumbnails/13490-100x70.jpg?x53432)
+    On April 20, 1925, Colonel Percy Fawcett, his elder son Jack Fawcett and Jack’s lifelong friend, Raleigh Rimmell, departed from Cuiabá, the capital city of the Brazilian state of Mato Grosso, to find](https://documentaryheaven.com/secrets-of-the-dead-lost-in-the-amazon/ "Secrets of the Dead: Lost in the Amazon")
+* [![James Burke Connections](/wp-content/thumbnails/6375-100x70.jpg?x53432)
     
-    The AI Race
+    James Burke Connections
     
-    An hour long special from ABC's Lateline which examines the future of artificial intelligence and how new figures show that every job will begin to change in the coming years as AI starts to revolutio](https://documentaryheaven.com/ai-race/ "The AI Race")
-* [![The Beyond Within](/wp-content/thumbnails/1036-100x70.jpg?x53432)
+    Connections is a ten-episode documentary television series created, written and presented by science historian James Burke. The series was produced and directed by Mick Jackson of the BBC Science &](https://documentaryheaven.com/james-burke-connections/ "James Burke Connections")
+* [![The Templar Code](/wp-content/thumbnails/2022-100x70.jpg?x53432)
     
-    The Beyond Within
+    The Templar Code
     
-    There is more to reality than meets a normal eye. Behind the curtain of everyday consciousness is hidden another unutterably strange universe. It’s the world of mystical experiences and those who have](https://documentaryheaven.com/the-beyond-within/ "The Beyond Within")
-* [![Hitman Hart: Wrestling with Shadows](/wp-content/thumbnails/3365-100x70.jpg?x53432)
+    For nearly two centuries, the Knights Templar were the most powerful order in the Medieval world, a fearsome and unstoppable Crusader militia. Then came accusations of unspeakable crimes. Who were the](https://documentaryheaven.com/the-templar-code/ "The Templar Code")
+* [![Decoding Neanderthals](/wp-content/thumbnails/10509-100x70.jpg?x53432)
     
-    Hitman Hart: Wrestling with Shadows
+    Decoding Neanderthals
     
-    Hitman Hart: Wrestling with shadows is a documentary about the legendary WWF and WWE wrestler, Bret ‘The Hitman’ Hart. This is about a man making it to the top and the human cost: his father’s legacy](https://documentaryheaven.com/wrestling-with-shadows/ "Hitman Hart: Wrestling with Shadows")
-* [![The Making of Merkel](/wp-content/thumbnails/8133-100x70.jpg?x53432)
+    They were the brutes of Ice Age Europe, although a branch of our human family tree they were still viewed upon as a dead end. Deep in our prehistoric past they were called Neanderthals. They](https://documentaryheaven.com/decoding-neanderthals/ "Decoding Neanderthals")
+* [![ISIS: Terror in Iraq](/wp-content/thumbnails/8863-100x70.jpg?x53432)
     
-    The Making of Merkel
+    ISIS: Terror in Iraq
     
-    On the eve of the German federal elections, Andrew Marr looks at the enigmatic Chancellor of Germany, Angela Merkel. She is the most important politician in Europe and the most powerful woman in the w](https://documentaryheaven.com/making-merkel/ "The Making of Merkel")
+    Panorama reports from the heart of the fighting, the battle is against ISIS, a brutal Jihadi group that grew out of Al Qaeda. The group has declared an Islamic state and this documentary investigates](https://documentaryheaven.com/isis-terror-in-iraq/ "ISIS: Terror in Iraq")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
