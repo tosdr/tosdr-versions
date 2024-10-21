@@ -54,7 +54,7 @@ These technologies are necessary for the underlying operation of the site or app
 | Name of cookie: receive-cookie-deprecation | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Google |
 | Name of cookie: TAPID | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Tealium |
 | Name of cookie: utag\_main | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Tealium |
-| Name of cookie: wscrCookieConsent | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: Digitum |
+| Name of cookie: wscrCookieConsent | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Digital Control Room Ltd |
 
 Analytics
 ---------
