@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
-* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
-* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
-* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
-* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
-* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
-* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
-* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
-* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
 
 Service Stiftung Warentest
 
