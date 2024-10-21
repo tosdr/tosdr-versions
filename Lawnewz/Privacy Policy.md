@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Sean ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24261467731863-432x243.jpg)](https://lawandcrime.com/high-profile/ad-hominem-attacks-diddy-says-incoherent-rico-lawsuit-should-be-dismissed-because-it-relies-on-insults-and-impermissibly-attempts-to-piggy-back-off-indictment/)
+1. [![Donald Trump and Kamala Harris](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-Harris-432x243.jpg)](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
     
-    ### ['Ad hominem attacks': Diddy says 'incoherent' RICO lawsuit should be dismissed because it relies on insults and 'impermissibly attempts to piggy-back off' indictment](https://lawandcrime.com/high-profile/ad-hominem-attacks-diddy-says-incoherent-rico-lawsuit-should-be-dismissed-because-it-relies-on-insults-and-impermissibly-attempts-to-piggy-back-off-indictment/)
+    ### ['Malicious, intentional and reckless': Exonerated 'Central Park Five' sue Trump for falsely telling 67 million people that they 'killed a person ultimately' and 'pled guilty'](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
     
-2. [![Inset: Ryan Wedding. Background: A photo of suspects accused in an international drug ring and drugs seized (AP Photo/Damian Dovarganes, File).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/drug-432x243.jpg)](https://lawandcrime.com/crime/olympic-athlete-turned-drug-lord-accused-of-ordering-murders-in-mexican-cartel-linked-drug-ring/)
+2. [![Kyle Coolack and Brad Coolack](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Kyle-Coolack-and-Brad-Coolack-432x243.jpg)](https://lawandcrime.com/crime/you-slept-with-my-wife-man-murdered-soldier-brother-when-confronted-about-affair-with-victims-spouse-while-he-was-deployed-overseas-cops-say/)
     
-    ### ['Olympic athlete-turned-drug lord' accused of ordering murders for Mexican cartel-linked drug ring](https://lawandcrime.com/crime/olympic-athlete-turned-drug-lord-accused-of-ordering-murders-in-mexican-cartel-linked-drug-ring/)
+    ### ['You slept with my wife!': Man murdered soldier brother when confronted about affair with victim's spouse while he was deployed overseas, cops say](https://lawandcrime.com/crime/you-slept-with-my-wife-man-murdered-soldier-brother-when-confronted-about-affair-with-victims-spouse-while-he-was-deployed-overseas-cops-say/)
     
-3. [![Inset: David Weingarten (Colorado Springs Police Department). Background: The home in Colorado where Weingarten shot his wife and their 8-month-old son (KRDO).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/coloradomurder-432x243.jpg)](https://lawandcrime.com/crime/ive-been-feeling-not-good-lately-dad-who-said-he-had-been-hearing-things-before-fatally-shooting-wife-and-infant-son-learns-fate/)
+3. [![Left to right: Fulton County Marshal's agents raiding the North Atlanta home and speaking to one of the accused squatters (FCMD).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/ASDF-1-432x243.jpg)](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
     
-    ### ['I've been feeling not good lately': Dad who said he had been 'hearing things' before fatally shooting wife and infant son learns fate](https://lawandcrime.com/crime/ive-been-feeling-not-good-lately-dad-who-said-he-had-been-hearing-things-before-fatally-shooting-wife-and-infant-son-learns-fate/)
+    ### [Throuple allegedly squatting in 'sprawling' Georgia mansion evicted by armed marshals after almost a year](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
     
-4. [![Inset: Jarius Brown (ACLU Foundation of Louisiana). Background: Brown in custody (KSLA).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/inmate-432x243.jpg)](https://lawandcrime.com/crime/deputies-fracture-detainees-eye-socket-in-jailhouse-laundry-room-beating-after-asking-him-to-strip-naked-bend-over-and-cough-feds/)
+4. [![Donald Trump, Michael Cohen](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Donald-Trump-Michael-Cohen-432x243.jpg)](https://lawandcrime.com/high-profile/michael-cohen-bid-to-revive-lawsuit-against-trump-just-failed-at-the-supreme-court/)
     
-    ### [Deputies fracture detainee's eye socket in jailhouse laundry room beating after asking him to 'strip naked, bend over, and cough': Feds](https://lawandcrime.com/crime/deputies-fracture-detainees-eye-socket-in-jailhouse-laundry-room-beating-after-asking-him-to-strip-naked-bend-over-and-cough-feds/)
+    ### [Michael Cohen's long shot attempt to sue Trump for 'retaliatory imprisonment' over tell-all book just flopped at the Supreme Court](https://lawandcrime.com/high-profile/michael-cohen-bid-to-revive-lawsuit-against-trump-just-failed-at-the-supreme-court/)
     
-5. [![Inset: Lisa Snyder (Berks County DA's Office). Background: Authorities at the home where Snyder hanged her two young children (WGAL).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/afd-432x243.jpg)](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
+5. [![Cristian Gasca Martinez and Osvaldo Casas](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Cristian-Gasca-Martinez-and--432x243.jpg)](https://lawandcrime.com/crime/in-retaliation-for-being-rejected-stalking-teen-arrested-for-murdering-girl-crushs-stepfather-whose-baby-was-born-just-3-days-after-he-was-laid-to-rest-cops-say/)
     
-    ### [Mom who hanged her 2 young kids in basement with dog leash, tried to blame 8-year-old, learns her fate](https://lawandcrime.com/crime/mom-who-hanged-her-2-young-kids-in-basement-with-dog-leash-tried-to-blame-8-year-old-learns-her-fate/)
+    ### ['In retaliation for being rejected': Stalking teen arrested for murdering girl crush's stepfather whose baby was born just 3 days after he was laid to rest, cops say](https://lawandcrime.com/crime/in-retaliation-for-being-rejected-stalking-teen-arrested-for-murdering-girl-crushs-stepfather-whose-baby-was-born-just-3-days-after-he-was-laid-to-rest-cops-say/)
     
 
 [](http://eepurl.com/c89Jdb)
