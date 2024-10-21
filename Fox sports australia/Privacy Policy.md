@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240301)
 * Cricket
     
-* [Women's T20 WC
-    
-    NZL won by 32 runs
-    
-    |     |     |
-    | --- | --- |
-    | RSA | 9 /126 |
-    | NZL | 5 /158 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250301)
 * [Men's T20I
     
     NEP won by 8 wkts
@@ -60,15 +50,15 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | QLD | 9 /286 |
-    | SA  | 314 |
+    | QLD | 308 |
+    | SA  | 314 & 1 /0 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250105)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | WA  | 3 /98 |
+    | WA  | 4 /219 |
     | TAS | 277 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250106)
@@ -166,76 +156,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | ATL | 14  |
-    | SEA | 34  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250719)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GB  | 24  |
-    | HOU | 22  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250722)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NYG | 3   |
-    | PHI | 28  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250725)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | IND | 16  |
-    | MIA | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250723)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 29  |
-    | DET | 31  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250724)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BUF | 34  |
-    | TEN | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250720)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CLE | 14  |
-    | CIN | 21  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250721)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | WAS | 40  |
     | CAR | 7   |
     
@@ -272,16 +192,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250729)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LIV | 2   |
-    | CHE | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250801)
 * [Premier League
     
     22/10 6:00 AEST
