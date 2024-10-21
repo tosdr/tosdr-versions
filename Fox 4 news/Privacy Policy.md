@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Texas early voting begins today. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1)
+ [![Navajo Code Talker John Kinsel passes away at age 107, Navajo Nation announces](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/kinsel_2011.jpg?ve=1&tl=1)
 
- ![Texas early voting begins today. Here’s what you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-co-election-testing-update_00.01.58.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-early-voting-begins)
+ ![Navajo Code Talker John Kinsel passes away at age 107, Navajo Nation announces](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/kinsel_2011.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/navajo-nation-code-talker-john-kinsel-passes-away-age-107)
 
-### [Texas early voting begins today. Here’s what you need to know](https://www.fox4news.com/news/texas-early-voting-begins)
+### [Navajo Code Talker John Kinsel passes away at age 107, Navajo Nation announces](https://www.fox4news.com/news/navajo-nation-code-talker-john-kinsel-passes-away-age-107)
 
- [![2024 Election: Where to find your sample ballots](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/07/32/18/668A2948965040E9B83C72A24E205101.jpg?ve=1&tl=1)
+ [![Biden administration proposes making over-the-counter birth control free, including condoms](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1238713605.jpg?ve=1&tl=1)
 
- ![2024 Election: Where to find your sample ballots](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/07/32/18/592/333/668A2948965040E9B83C72A24E205101.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-election-where-find-your-sample-ballots)
+ ![Biden administration proposes making over-the-counter birth control free, including condoms](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1238713605.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/over-the-counter-birth-control-free-condoms-plan-b-proposed-rule)
 
-### [2024 Election: Where to find your sample ballots](https://www.fox4news.com/news/2024-election-where-find-your-sample-ballots)
+### [Free condoms? Biden administration says health insurance should cover over-the-counter birth control](https://www.fox4news.com/news/over-the-counter-birth-control-free-condoms-plan-b-proposed-rule)
 
- [![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/helicopter-crash.jpg?ve=1&tl=1)
+ [![Costco recalls several items amid listeria concerns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/cosco-getty.jpg?ve=1&tl=1)
 
- ![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/helicopter-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
+ ![Costco recalls several items amid listeria concerns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/cosco-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/costco-recall-items-listeria-concerns-october-2024)
 
-### [Houston helicopter crash: 'Multiple fatalities' reported](https://www.fox4news.com/news/houston-helicopter-crash)
+### [Costco recalls several items amid listeria concerns](https://www.fox4news.com/news/costco-recall-items-listeria-concerns-october-2024)
 
- [![Watch: Trump works at McDonald's during Pennsylvania visit](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179814659-a.jpg?ve=1&tl=1)
+ [![State Fair of Texas 2024 closes with record-breaking attendance](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/State-Fair-of-Texas-2.jpg?ve=1&tl=1)
 
- ![Watch: Trump works at McDonald's during Pennsylvania visit](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179814659-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-works-mcdonalds-pennsylvania)
+ ![State Fair of Texas 2024 closes with record-breaking attendance](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/State-Fair-of-Texas-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-2024-closes-record-breaking-attendance)
 
-### [Watch: Trump works at McDonald's during Pennsylvania visit](https://www.fox4news.com/news/trump-works-mcdonalds-pennsylvania)
+### [State Fair of Texas 2024 closes with record-breaking attendance](https://www.fox4news.com/news/state-fair-texas-2024-closes-record-breaking-attendance)
 
- [![Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/gettyimages-1747921341.jpg?ve=1&tl=1)
+ [![Man shot at Dallas corner store, found in car at apartment complex nearly a mile away](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dpd-shooting-audelia-rd-6a_00.00.08.22.jpg?ve=1&tl=1)
 
- ![Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-1747921341.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-new-lawsuits-sean-combs)
+ ![Man shot at Dallas corner store, found in car at apartment complex nearly a mile away](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dpd-shooting-audelia-rd-6a_00.00.08.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-dallas-corner-store-found-car-apartment-complex-serious-condition)
 
-### [Sean 'Diddy' Combs facing lawsuits from 7 new accusers, lawyer says](https://www.fox4news.com/news/diddy-new-lawsuits-sean-combs)
+### [Man shot at Dallas corner store, found in car at apartment complex nearly a mile away](https://www.fox4news.com/news/man-shot-dallas-corner-store-found-car-apartment-complex-serious-condition)
 
 ###### [News](https://www.fox4news.com/news)
 
