@@ -50,7 +50,7 @@ Login Register
             
             Discover how you can give blood, plasma or platelets, and book your next donation.
             
-        * [Prepare and aftercare](https://www.lifeblood.com.au/blood/making-your-donation/prepare-and-aftercare "Thinking about donating blood? Learn how it works with our donation guide.")
+        * [Prepare and aftercare](https://www.lifeblood.com.au/blood/making-your-donation/prepare-and-after-care "Thinking about donating blood? Learn how it works with our donation guide.")
             
         * [Fainting or feeling faint](https://www.lifeblood.com.au/blood/making-your-donation/prepare-and-aftercare/fainting "Worried about feeling faint when you donate? We've got you covered.")
             
