@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![How Hackers Steal Your ID](/wp-content/thumbnails/13120-100x70.jpeg?x53432)
+* [![Can We Make a Star on Earth?](/wp-content/thumbnails/286-100x70.png?x53432)
     
-    How Hackers Steal Your ID
+    Can We Make a Star on Earth?
     
-    They've got your name, they know where you live and once they've got your bank details they have you. In this age of modern technology hacking has become a big concern for many of us as they](https://documentaryheaven.com/hackers-steal-id/ "How Hackers Steal Your ID") 
-* [![North American XB-70 Valkyrie](/wp-content/thumbnails/6457-100x70.jpg?x53432)
+    Professor Brian Cox takes a global journey in search of the energy source of the future. Called nuclear fusion, it is the process that fuels the sun and every other star in the universe. Yet despite o](https://documentaryheaven.com/can-we-make-a-star-on-earth/ "Can We Make a Star on Earth?")
+* [![Louis Theroux: Law and Disorder in Philadelphia](/wp-content/thumbnails/395-100x70.png?x53432)
     
-    North American XB-70 Valkyrie
+    Louis Theroux: Law and Disorder in Philadelphia
     
-    Great Planes looks into the stories behind the most influential, innovative and intriguing machines that ever tookflight. The North American Aviation XB-70 Valkyrie was the prototype version of the pr](https://documentaryheaven.com/north-american-xb-70-valkyrie/ "North American XB-70 Valkyrie")
-* [![The Cu Chi Tunnels](/wp-content/thumbnails/2011-100x70.jpg?x53432)
+    Louis Theroux: Law and Disorder in Philadelphia Louis Theroux joins the Philadelphia Police Department patrolling the most dangerous part of one of the most violent cities in America. from the Telegra](https://documentaryheaven.com/louis-theroux-law-and-disorder-in-philadelphia/ "Louis Theroux: Law and Disorder in Philadelphia")
+* [![Deborah 13: Servant of God](/wp-content/thumbnails/5020-100x70.jpg?x53432)
     
-    The Cu Chi Tunnels
+    Deborah 13: Servant of God
     
-    During the war in Vietnam, thousands of people in the Vietnamese province of Cu Chi lived in an elaborate system of underground tunnels. Originally built in the time of the French, the tunnels were en](https://documentaryheaven.com/the-cu-chi-tunnels/ "The Cu Chi Tunnels")
-* [![Lost Treasures of the Ancient World: Ancient China](/wp-content/thumbnails/190-100x70.png?x53432)
+    A documentary about 13-year-old Deborah Drapper, who, unlike other British teens has never heard of Britney Spears or Victoria Beckham. She has been brought up in a deeply Christian family and her par](https://documentaryheaven.com/deborah-13-servant-of-god/ "Deborah 13: Servant of God")
+* [![Mega Factories: Bosch](/wp-content/thumbnails/16647-100x70.jpg?x53432)
     
-    Lost Treasures of the Ancient World: Ancient China
+    Mega Factories: Bosch
     
-    The Great Wall of China remains the most soaring architectural achievement of the Chinese people - but it's not the only one, as this program reveals.Man has constructed many remarkable monuments, b](https://documentaryheaven.com/lost-treasures-of-the-ancient-world-ancient-china/ "Lost Treasures of the Ancient World: Ancient China")
-* [![Inside Chernobyl](/wp-content/thumbnails/6659-100x70.jpg?x53432)
+    The global economy is currently undergoing the greatest change since the industrial revolution in order to remain internationally competitive modern factories must be as flexible as possible and high](https://documentaryheaven.com/mega-factories-bosch/ "Mega Factories: Bosch")
+* [![The Myths of Pearl Harbour](/wp-content/thumbnails/179-100x70.png?x53432)
     
-    Inside Chernobyl
+    The Myths of Pearl Harbour
     
-    A short film based on current conditions in Chernobyl & Pripyat. Made on a shoe string budget by the director. An amateur documentary with some professionally fleshed out ideas and research. ” Please](https://documentaryheaven.com/inside-chernobyl/ "Inside Chernobyl")
+    Every American knows the date December 7, 1941 the morning the Japanese Imperial Navy launched a massive attack on Pearl Harbor. What most people don't know is that the first shots of the battle were](https://documentaryheaven.com/the-myths-of-pearl-harbour/ "The Myths of Pearl Harbour")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
