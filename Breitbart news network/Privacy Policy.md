@@ -55,7 +55,7 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
-* [️‍Trump Epic Interview ️‍](https://www.breitbart.com/tag/exclusive-2024-elections/)
+* [McDonald Trump](https://www.breitbart.com/tag/mcdonalds/)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Sinwar Dead](https://www.breitbart.com/tag/israel/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
