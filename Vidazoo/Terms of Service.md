@@ -31,6 +31,10 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-Lu8gBkikjSdeMGMJn7M)
 
+On this page
+
+Was this helpful?
+
 Website Terms of Use
 ====================
 
@@ -96,7 +100,3 @@ For any question or query, Vidazoo can be contacted by email at [support@Vidazoo
 [PreviousLegal Resources](https://vidazoo.gitbook.io/vidazoo-legal)[NextTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)
 
 Last updated 1 year ago
-
-On this page
-
-Was this helpful?
