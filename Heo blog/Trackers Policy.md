@@ -119,6 +119,8 @@
 
 [Kris Yan](https://blog.krisyan.dev/ "Kris Yan")
 
+[Ai-皇帝](https://www.ai-hd.com/ "Ai-皇帝")
+
 [小妖客栈](https://wangkay.top/ "小妖客栈")
 
 [MysticStars](https://www.mysticstars.cn/ "MysticStars")
