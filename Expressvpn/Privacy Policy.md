@@ -67,7 +67,7 @@
     * [My Account](https://www.expressvpn.com/sign-in)
     
 
-[Get an extra 30 days free on any plan when you sign up now.](https://www.expressvpn.com/order)[Don’t miss out! Get 4 months free when you sign up for a 12-month plan.](https://www.expressvpn.com/order)
+[Get an extra {{bonus\_days}} days free on any plan when you sign up now.](https://www.expressvpn.com/order)[Don’t miss out! Get {{bonus\_months}} months free when you sign up for a 12-month plan.](https://www.expressvpn.com/order)
 
 * [Home](https://www.expressvpn.com/ "Express VPN")
 * Privacy Policy
@@ -506,4 +506,4 @@ Close
 * [日本語](https://www.expressvpn.com/jp/privacy-policy)
 * [한국어](https://www.expressvpn.com/kr/privacy-policy)
 
-         Need help? Chat with us!
+          Need help? Chat with us!
