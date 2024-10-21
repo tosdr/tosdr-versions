@@ -639,6 +639,8 @@ We may review and update this policy to take account of new laws and technology 
 
 This policy was last reviewed on 17 June 2022.
 
+Date last updated: 10 October 2024
+
 Back to top
 
 Follow
