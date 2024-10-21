@@ -14,7 +14,7 @@
 * [About](https://www.looper.com/about/)
 * [Editorial Policies](https://www.looper.com/policies/)
 * [Reviews Policy](https://www.looper.com/reviews-policy-guidelines/)
-* [Privacy Policy](https://www.static.com/privacy-policy)
+* [Privacy Policy](https://www.looper.com/privacy-policy/)
 * [Terms of Use](https://www.static.com/terms)
 
 © 2024 [Static Media](https://www.static.com/). All Rights Reserved
@@ -106,6 +106,11 @@ Changes to this Privacy Policy
 Looper reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at staff@Looper.com.
 
 Last Update: January 6, 2017
+
+Playwire Advertising Policy
+---------------------------
+
+All or partial advertising on this Website or App is managed by Playwire LLC. If Playwire publisher advertising services are used, Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes. To learn more about the types of data collected, how data is used and your choices as a user, please visit [https://www.playwire.com/privacy-policy](https://www.playwire.com/privacy-policy).
 
 [About](https://www.looper.com/about/)  •   [Privacy Policy](https://www.static.com/privacy-policy)
 
