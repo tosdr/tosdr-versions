@@ -96,6 +96,7 @@
     * [Asia Pacific](https://pinkerton.com/find-your-pinkerton#asia-pacific)
     * [India](https://pinkerton.com/find-your-pinkerton#india)
     * [Latin America](https://pinkerton.com/find-your-pinkerton#latin-america)
+    * [Northern Europe](https://pinkerton.com/find-your-pinkerton#northern-europe)
     * [North America](https://pinkerton.com/find-your-pinkerton#north-america)
     
 * ![Search](/icons/search.svg)
@@ -262,6 +263,7 @@ We welcome reports of suspected infringement of any of these rights. Please dire
     * [Asia Pacific](https://pinkerton.com/find-your-pinkerton#asia-pacific)
     * [India](https://pinkerton.com/find-your-pinkerton#india)
     * [Latin America](https://pinkerton.com/find-your-pinkerton#latin-america)
+    * [Northern Europe](https://pinkerton.com/find-your-pinkerton#northern-europe)
     * [North America](https://pinkerton.com/find-your-pinkerton#north-america)
     
 * [Careers](https://pinkerton.com/careers/current-openings)
