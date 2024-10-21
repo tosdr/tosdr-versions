@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240220_052260000/vote/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/research-papers/document/00PLSocRP03131/alcohol-and-new-zealand-teenagers/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240220_052260000/vote/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/research-papers/document/00PLSocRP03131/alcohol-and-new-zealand-teenagers/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
