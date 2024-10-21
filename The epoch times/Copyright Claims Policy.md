@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [China Is Conducting ‘Problematic’ Research in Arctic, US Lawmakers Warn](https://www.theepochtimes.com/china/china-is-conducting-problematic-research-in-arctic-us-lawmakers-warn-5744698)
+* [Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://www.theepochtimes.com/us/cook-political-report-moves-pennsylvania-senate-race-to-toss-up-nebraska-race-to-lean-republican-5745226)
     
-    NEW By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![China Is Conducting ‘Problematic’ Research in Arctic, US Lawmakers Warn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China Is Conducting ‘Problematic’ Research in Arctic, US Lawmakers Warn](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729905-09252024-DSC00992-Moolenaar-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-is-conducting-problematic-research-in-arctic-us-lawmakers-warn-5744698)
-* [Supreme Court Will Hear Oklahoma Challenge Over EPA ‘Good Neighbor’ Smog Rule](https://www.theepochtimes.com/us/supreme-court-will-hear-oklahoma-challenge-over-epas-good-neighbor-smog-rule-5745008)
+    ![Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742415-FotoJet-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/cook-political-report-moves-pennsylvania-senate-race-to-toss-up-nebraska-race-to-lean-republican-5745226)
+* [Consciousness Does Not Go to the Grave—So Where Does It Go?](https://www.theepochtimes.com/health/consciousness-does-not-go-to-the-grave-so-where-does-it-go-5721055)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    2hr By [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
     
-    [![Supreme Court Will Hear Oklahoma Challenge Over EPA ‘Good Neighbor’ Smog Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Consciousness Does Not Go to the Grave—So Where Does It Go?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Will Hear Oklahoma Challenge Over EPA ‘Good Neighbor’ Smog Rule](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737043-10072024-DSC03091-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-will-hear-oklahoma-challenge-over-epas-good-neighbor-smog-rule-5745008)
-* [US, Canada Navies Sail Through Taiwan Strait After China War Games Encircled Taiwan](https://www.theepochtimes.com/china/us-canada-navies-sail-through-taiwan-strait-after-china-war-games-encircled-taiwan-5745017)
+    ![Consciousness Does Not Go to the Grave—So Where Does It Go?](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744606-Consciousness-2-featured-image-205x123.jpg.webp)](https://www.theepochtimes.com/health/consciousness-does-not-go-to-the-grave-so-where-does-it-go-5721055)
+* [Arkansas Supreme Court Blocks Marijuana Ballot Measure](https://www.theepochtimes.com/us/arkansas-supreme-court-blocks-marijuana-ballot-measure-5745144)
     
-    1hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![US, Canada Navies Sail Through Taiwan Strait After China War Games Encircled Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Arkansas Supreme Court Blocks Marijuana Ballot Measure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US, Canada Navies Sail Through Taiwan Strait After China War Games Encircled Taiwan](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745019-GettyImages-1250841870-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-canada-navies-sail-through-taiwan-strait-after-china-war-games-encircled-taiwan-5745017)
-* [Behind the Shift in Voting Patterns by Young Black Men](https://www.theepochtimes.com/us/behind-the-surprising-trend-of-young-black-men-backing-trump-5744779)
-    
-    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan), [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![Behind the Shift in Voting Patterns by Young Black Men](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Behind the Shift in Voting Patterns by Young Black Men](https://img.theepochtimes.com/assets/uploads/2024/04/22/id5634822-blacks-for-trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/behind-the-surprising-trend-of-young-black-men-backing-trump-5744779)
-* [US House Task Force Finds 1st Trump Assassination Attempt Was ‘Preventable’](https://www.theepochtimes.com/us/us-house-task-force-releases-scathing-report-on-1st-trump-assassination-attempt-5744940)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![US House Task Force Finds 1st Trump Assassination Attempt Was ‘Preventable’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US House Task Force Finds 1st Trump Assassination Attempt Was ‘Preventable’](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686261-APTOPIX_Election_2024_Trump_24195849934046KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-house-task-force-releases-scathing-report-on-1st-trump-assassination-attempt-5744940)
-* [Oklahoma Bank Shut Down by Regulator in 2nd Bank Failure of the Year](https://www.theepochtimes.com/us/oklahoma-bank-shut-down-by-regulator-in-2nd-bank-failure-of-the-year-5744933)
+    ![Arkansas Supreme Court Blocks Marijuana Ballot Measure](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745320-IMG_0678-LS-205x123.webp)](https://www.theepochtimes.com/us/arkansas-supreme-court-blocks-marijuana-ballot-measure-5745144)
+* [Pending Home Sales Register the Biggest Annual Increase Since May 2021: Redfin](https://www.theepochtimes.com/us/pending-home-sales-register-the-biggest-annual-increase-since-may-2021-redfin-5745152)
     
     2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Oklahoma Bank Shut Down by Regulator in 2nd Bank Failure of the Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pending Home Sales Register the Biggest Annual Increase Since May 2021: Redfin](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Oklahoma Bank Shut Down by Regulator in 2nd Bank Failure of the Year](https://img.theepochtimes.com/assets/uploads/2024/01/17/id5567789-CP166726113-205x123.jpg.webp)](https://www.theepochtimes.com/us/oklahoma-bank-shut-down-by-regulator-in-2nd-bank-failure-of-the-year-5744933)
-* [Key Boeing Supplier Furloughs About 700 Workers](https://www.theepochtimes.com/us/key-boeing-supplier-furloughs-about-700-workers-5744599)
+    ![Pending Home Sales Register the Biggest Annual Increase Since May 2021: Redfin](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pending-home-sales-register-the-biggest-annual-increase-since-may-2021-redfin-5745152)
+* [CDC Calls on Local Officials to Get Kids Vaccinated as Participation Continues to Decline](https://www.theepochtimes.com/us/cdc-calls-on-local-officials-to-get-kids-vaccinated-as-participation-continues-to-decline-5745199)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Key Boeing Supplier Furloughs About 700 Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![CDC Calls on Local Officials to Get Kids Vaccinated as Participation Continues to Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Key Boeing Supplier Furloughs About 700 Workers](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738501-1.tagreuters.com2024binary_LYNXMPEK9801S-FILEDIMAGEKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-boeing-supplier-furloughs-about-700-workers-5744599)
-* [‘60 Minutes’ Refutes Trump’s Claim That It Deceitfully Edited Harris Interview](https://www.theepochtimes.com/us/60-minutes-refutes-trumps-claim-that-it-deceitfully-edited-harris-interview-5744835)
+    ![CDC Calls on Local Officials to Get Kids Vaccinated as Participation Continues to Decline](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745318-children-under-5-vaccine-pfizer-LS-205x123.webp)](https://www.theepochtimes.com/us/cdc-calls-on-local-officials-to-get-kids-vaccinated-as-participation-continues-to-decline-5745199)
+* [DOJ Deploys District Elections Officers to Handle ‘Threats’ and ‘Intimidation’ at Polls](https://www.theepochtimes.com/us/doj-deploys-district-elections-officers-to-handle-threats-and-intimidation-at-polls-5745188)
     
-    3hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![‘60 Minutes’ Refutes Trump’s Claim That It Deceitfully Edited Harris Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ Deploys District Elections Officers to Handle ‘Threats’ and ‘Intimidation’ at Polls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![‘60 Minutes’ Refutes Trump’s Claim That It Deceitfully Edited Harris Interview](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744992-GettyImages-2177863703-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/60-minutes-refutes-trumps-claim-that-it-deceitfully-edited-harris-interview-5744835)
-* [House Committee Chairs Criticize Harvard Over Handling of Anti-CCP Protest Incident](https://www.theepochtimes.com/us/house-committee-chairs-criticize-harvard-over-handling-of-anti-ccp-protest-incident-5744567)
+    ![DOJ Deploys District Elections Officers to Handle ‘Threats’ and ‘Intimidation’ at Polls](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745299-election-voting-AP24289752097725-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-deploys-district-elections-officers-to-handle-threats-and-intimidation-at-polls-5745188)
+* [Ozempic’s Sister Drug Reduces Cardiovascular Risk by 14 Percent in Large-Scale Trial](https://www.theepochtimes.com/health/ozempics-sister-drug-reduces-cardiovascular-risk-by-14-percent-in-large-scale-trial-5745111)
     
-    3hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    3hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
-    [![House Committee Chairs Criticize Harvard Over Handling of Anti-CCP Protest Incident](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ozempic’s Sister Drug Reduces Cardiovascular Risk by 14 Percent in Large-Scale Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Committee Chairs Criticize Harvard Over Handling of Anti-CCP Protest Incident](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678966-DSC01434-2KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-committee-chairs-criticize-harvard-over-handling-of-anti-ccp-protest-incident-5744567)
-* [Michigan Secretary of State Expects Election Results to be Known the Day After Election Day](https://www.theepochtimes.com/us/michigan-secretary-of-state-expects-election-results-to-be-known-the-day-after-election-day-5744903)
+    ![Ozempic’s Sister Drug Reduces Cardiovascular Risk by 14 Percent in Large-Scale Trial](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745231-shutterstock_2440411211_ozempic_semaglutide_rybelsus-205x123.jpg.webp)](https://www.theepochtimes.com/health/ozempics-sister-drug-reduces-cardiovascular-risk-by-14-percent-in-large-scale-trial-5745111)
+* [47 Percent of Income Tax Collections Dedicated to US Interest Payments](https://www.theepochtimes.com/us/47-percent-of-income-tax-collections-dedicated-to-us-interest-payments-5745133)
     
-    5hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Michigan Secretary of State Expects Election Results to be Known the Day After Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![47 Percent of Income Tax Collections Dedicated to US Interest Payments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Michigan Secretary of State Expects Election Results to be Known the Day After Election Day](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711304-Jocelyn-Benson.png.webp)](https://www.theepochtimes.com/us/michigan-secretary-of-state-expects-election-results-to-be-known-the-day-after-election-day-5744903)
+    ![47 Percent of Income Tax Collections Dedicated to US Interest Payments](https://img.theepochtimes.com/assets/uploads/2024/02/16/id5589004-11132023-DSC05572-National-Debt-Clock-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/47-percent-of-income-tax-collections-dedicated-to-us-interest-payments-5745133)
+* [Oregon’s 6th Congressional District Race Is a Rematch of 2022](https://www.theepochtimes.com/us/oregons-6th-congressional-district-race-is-a-rematch-of-2022-post-5744696)
+    
+    3hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    
+    [![Oregon’s 6th Congressional District Race Is a Rematch of 2022](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Oregon’s 6th Congressional District Race Is a Rematch of 2022](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745244-07112023-DSC06092-Andrea-SalinasKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregons-6th-congressional-district-race-is-a-rematch-of-2022-post-5744696)
+* [US Defense Secretary Unveils $400 Million Arms Package in Surprise Ukraine Visit](https://www.theepochtimes.com/world/us-defense-secretary-unveils-400-million-arms-package-in-surprise-ukraine-visit-5745026)
+    
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![US Defense Secretary Unveils $400 Million Arms Package in Surprise Ukraine Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Defense Secretary Unveils $400 Million Arms Package in Surprise Ukraine Visit](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745212-2024-10-21T131640Z_1_LYNXMPEK9K0H5_RTROPTP_4_UKRAINE-CRISIS-USA-AUSTIN-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-defense-secretary-unveils-400-million-arms-package-in-surprise-ukraine-visit-5745026)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
