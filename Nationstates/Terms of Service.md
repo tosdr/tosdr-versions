@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (7,487)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,487 posts)")
-* [The AU/AN is best at \_\_\_\_\_\_ (172)](https://forum.nationstates.net/viewtopic.php?t=554685&f=25&view=unread#unread ""The AU/AN is best at ______" (172 posts)")
-* [Major League Baseball Thread (2,283)](https://forum.nationstates.net/viewtopic.php?t=463073&f=20&view=unread#unread ""Major League Baseball Thread" (2,283 posts)")
-* [Guess The AN Ideology based on their… (2,007)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (2,007 posts)")
-* [Illion League (IC/Assembly) (6,746)](https://forum.nationstates.net/viewtopic.php?t=550142&f=5&view=unread#unread ""Illion League (IC/Assembly)" (6,746 posts)")
+* [The Anti-Taylor Swift thread (36)](https://forum.nationstates.net/viewtopic.php?t=557311&f=20&view=unread#unread ""The Anti-Taylor Swift thread" (36 posts)")
+* [Your favorite part of AN’s forum sig XI (2,807)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,807 posts)")
+* [Australians protesting in favour of H… (430)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (430 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (11,586)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (11,586 posts)")
+* [On the Knifes Edge (OOC) (1)](https://forum.nationstates.net/viewtopic.php?t=557338&f=5&view=unread#unread ""On the Knifes Edge (OOC)" (1 post)")
 
 Advertisement
 
