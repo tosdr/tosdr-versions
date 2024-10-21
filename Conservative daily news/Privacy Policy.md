@@ -2,14 +2,14 @@ Monday, October 21 2024
 
 Breaking News
 
+* [Kamala Harris Must Not be Commander in Chief](https://www.conservativedailynews.com/2024/10/kamala-harris-must-not-be-commander-in-chief/)
+* [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/)
 * [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
 * [Medal of Honor Monday: Navy Boatswain’s Mate 1st Class George Cholister](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-navy-boatswains-mate-1st-class-george-cholister/)
 * [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/)
 * [Election Litigation Could Shape The Race In Battleground States. We Won’t Know Until The Votes Are Cast](https://www.conservativedailynews.com/2024/10/election-litigation-could-shape-the-race-in-battleground-states-we-wont-know-until-the-votes-are-cast/)
 * [President Joe Biden’s Schedule for Monday, October 21, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
 * [White House Press Briefing with Karine Jean-Pierre – 10/21/17](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
-* [Jewish Support For Harris Lowest Of Any Dem Candidate Since Reagan Era, New Poll Shows](https://www.conservativedailynews.com/2024/10/jewish-support-for-harris-lowest-of-any-dem-candidate-since-reagan-era-new-poll-shows/)
-* [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -112,21 +112,45 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.75%
 
+* [![Kamala Harris flip flop wishy washy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
+    
+    [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
+    
+    October 21, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
     
     [The Left Is Trying To Rig The System To Win](https://www.conservativedailynews.com/2024/10/the-left-is-trying-to-rig-the-system-to-win/)
     
     October 20, 2024
     
-* [![New Mexico man sentenced to 60 years for enticement of minors following HSI investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/03/New-Mexico-man-sentenced-to-60-years-for-enticement-of-220x150.png)](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
-    
-    [Sol Wisenberg Calls Chutkan’s Response ‘Orwellian,’ Predicts Case’s Fate If Trump Wins](https://www.conservativedailynews.com/2024/10/sol-wisenberg-calls-chutkans-response-orwellian-predicts-cases-fate-if-trump-wins/)
-    
-    October 19, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Crazy-Kamala-220x150.webp)](https://www.conservativedailynews.com/2024/10/kamala-harris-must-not-be-commander-in-chief/)
+    
+    [Kamala Harris Must Not be Commander in Chief](https://www.conservativedailynews.com/2024/10/kamala-harris-must-not-be-commander-in-chief/)
+    
+    October 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/salty/)
+    
+    [Salty](https://www.conservativedailynews.com/2024/10/salty/)
+    
+    October 21, 2024
+    
+* [![Kamala Harris abortion Jesus](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv102124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/have-no-other-gods/)
+    
+    [Have No Other Gods…](https://www.conservativedailynews.com/2024/10/have-no-other-gods/)
+    
+    October 21, 2024
+    
+* [![Shoplifting Crime](https://www.conservativedailynews.com/wp-content/uploads/2023/11/image-29-220x150.png)](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/)
+    
+    [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/)
+    
+    October 21, 2024
+    
 * [![Kamala Harris flip flop wishy washy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
     
     [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
@@ -151,43 +175,19 @@ Recent Posts
     
     October 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Joe-Biden-speech-n-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
-    
-    [President Joe Biden’s Schedule for Monday, October 21, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
-    
-    October 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
-    
-    [White House Press Briefing with Karine Jean-Pierre – 10/21/17](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
-    
-    October 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/04-corp-puppets-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-puppeteer/)
-    
-    [The Puppeteer](https://www.conservativedailynews.com/2024/10/the-puppeteer/)
-    
-    October 21, 2024
-    
-* [![Victoria's Secret DEI Gender Ideology](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/what-every-woman-wants/)
-    
-    [What Every Woman Wants](https://www.conservativedailynews.com/2024/10/what-every-woman-wants/)
-    
-    October 21, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [GOA, GOF Coalition Support Iowa Police Chief Targeted by ATF](https://www.thegunpage.com/goa-gof-coalition-support-iowa-police-chief-targeted-by-atf/10611339)
+* [NY Gov’s Signing of Law Designed So NY Can Track Gun and Ammo Purchases](https://www.thegunpage.com/ny-govs-signing-of-law-designed-so-ny-can-track-gun-and-ammo-purchases/10611338)
+* [Double The Fun With Silencer Central's BOGO Suppressor Deal](https://www.thegunpage.com/double-the-fun-with-silencer-centrals-bogo-suppressor-deal/10611336)
+* [Illinois Lawmakers Continue To Push Restrictive Anti-Gun Laws](https://www.thegunpage.com/illinois-lawmakers-continue-to-push-restrictive-anti-gun-laws/10611334)
+* [TFB Weekly Web Deals 110: Deals for October 21st, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-110-deals-for-october-21st-2024/10611337)
+* [Sacramento Gun Owners May Be Required To Pay Harm Reduction Fee](https://www.thegunpage.com/sacramento-gun-owners-may-be-required-to-pay-harm-reduction-fee/10611330)
+* [Austin Kiemsteadt Is The Newest Member Of Team Blaser](https://www.thegunpage.com/austin-kiemsteadt-is-the-newest-member-of-team-blaser/10611332)
+* [Hillsdale College Opens Ailes Action Shooting Range](https://www.thegunpage.com/hillsdale-college-opens-ailes-action-shooting-range/10611333)
 * [The 2A Community Can’t Afford To Make Excuses For Cat Killing](https://www.thegunpage.com/the-2a-community-cant-afford-to-make-excuses-for-cat-killing/10611322)
 * [The Best Competition Since 1941: 1956 National Matches](https://www.thegunpage.com/the-best-competition-since-1941-1956-national-matches/10611324)
-* [Silencer Saturday #351: The DIY De Lisle](https://www.thegunpage.com/silencer-saturday-351-the-diy-de-lisle/10611316)
-* [Savage Arms Announces 21 Sharp Rimfire Rifle Offerings](https://www.thegunpage.com/savage-arms-announces-21-sharp-rimfire-rifle-offerings/10611312)
-* [Pro-Trump Yard Sign Leads To Harassment And Shots Fired In Las Vegas](https://www.thegunpage.com/pro-trump-yard-sign-leads-to-harassment-and-shots-fired-in-las-vegas/10611308)
-* [All About Pinal County 4-H Shooting Sports](https://www.thegunpage.com/all-about-pinal-county-4-h-shooting-sports/10611311)
-* [Team Federal’s Varick Beise Wins 2024 Memorial 3-Gun Competition](https://www.thegunpage.com/team-federals-varick-beise-wins-2024-memorial-3-gun-competition/10611310)
-* [10 Best Home Defense Rifles](https://www.thegunpage.com/10-best-home-defense-rifles/10611301)
-* [POTD: German Soldier With HP47 Anti-Drone Gun](https://www.thegunpage.com/potd-german-soldier-with-hp47-anti-drone-gun/10611302)
-* [TFB Podcast Roundup 151: The October 18th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-151-the-october-18th-roundup/10611303)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -229,6 +229,8 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
+* MarkJ on [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/#comment-782784)
 * Stanley Warner on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782783)
 * Jeff L. on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782767)
 * Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
@@ -236,8 +238,6 @@ Recent Comments
 * charles wilkins on [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/#comment-782763)
 * Stanley Warner on [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/#comment-782744)
 * KayCee on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782742)
-* Catboss on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782737)
-* Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
 
 [Close](#)
 
