@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Keondre-Pitts-326x245.jpg)](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
+
+Goose Island
+
+### [Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
+
+[October 18, 2024 8:01 PM](https://cwbchicago.com/2024/10)
+
+A man with two carjacking cases pending in juvenile court teamed up with a 13-year-old to carjack a man at gunpoint near Goose Island, officials say.[](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/wilson-sheridan-mcdonalds-041A-Mark-Weyermuller-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
+
+Uptown
+
+### [Man shot, critically wounded on McDonald’s parking lot in Uptown](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
+
+[October 18, 2024 7:26 PM](https://cwbchicago.com/2024/10)
+
+A man was shot and critically injured in a McDonald’s parking lot in Uptown on Friday afternoon, Chicago police said. He is the third person shot in Uptown this week.[](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Edgar-Roman-and-Zoraleigh-Ryan-326x245.jpg)](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
 
 River North
@@ -252,26 +272,6 @@ River North
 [October 18, 2024 12:52 PM](https://cwbchicago.com/2024/10)
 
 A judge on Friday morning sentenced a man to 24 years in prison for intentionally running over and killing a woman in front of her daughter in River North four years ago.[](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Carmelo-Aviles-and-Alex-Alvarado-326x245.jpg)](https://cwbchicago.com/2024/10/motorcylist-charged-with-murdering-man-in-logan-square.html "Motorcylist charged with murdering man in Logan Square")
-
-Logan Square
-
-### [Motorcylist charged with murdering man in Logan Square](https://cwbchicago.com/2024/10/motorcylist-charged-with-murdering-man-in-logan-square.html "Motorcylist charged with murdering man in Logan Square")
-
-[October 18, 2024 8:51 AM](https://cwbchicago.com/2024/10)
-
-Prosecutors have charged a man with shooting at a passing vehicle in Logan Square, killing one of its passengers, after he was allegedly caught carrying the murder weapon months later.[](https://cwbchicago.com/2024/10/motorcylist-charged-with-murdering-man-in-logan-square.html "Motorcylist charged with murdering man in Logan Square")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Asdrubal-Brito-Marcano-and-Javier-Marique-Olivo-326x245.jpg)](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
-
-Archer Heights
-
-### [2 more migrants charged in $19K Ulta Beauty heist](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
-
-[October 18, 2024 7:29 AM](https://cwbchicago.com/2024/10)
-
-Two more migrants have been charged with participating in a $19,000 smash-and-grab shoplifting raid on an Ulta Beauty store last month. Incredibly, one of them has already been arrested for stealing perfume from another store.[](https://cwbchicago.com/2024/10/2-more-migrants-charged-in-19k-ulta-beauty-heist.html "2 more migrants charged in $19K Ulta Beauty heist")
 
 Search
 
@@ -347,6 +347,7 @@ Thank you.
 * [Little Village](https://cwbchicago.com/category/little-village)
 * [Logan Square](https://cwbchicago.com/category/logan-square)
 * [Loop](https://cwbchicago.com/category/loop)
+* [Lower West Side](https://cwbchicago.com/category/lower-west-side)
 * [Magnificent Mile](https://cwbchicago.com/category/near-north/streeterville/magnificent-mile)
 * [McKinley Park](https://cwbchicago.com/category/mckinley-park)
 * [Morgan Park](https://cwbchicago.com/category/morgan-park)
