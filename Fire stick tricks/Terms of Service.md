@@ -164,11 +164,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Install TVOne Kodi Addon for Live TV](https://www.firesticktricks.com/tvone-kodi-addon.html)
-* [How to Install Seren Kodi Addon (Real Debrid & Package Provider)](https://www.firesticktricks.com/seren-kodi-addon.html)
-* [How to Install Purely Wrestling Kodi Addon on Any Device](https://www.firesticktricks.com/purely-wrestling-kodi-addon.html)
-* [Court Upholds 11-Year Sentence for Flawless IPTV Mastermind](https://www.firesticktricks.com/11-year-sentence-flawless-iptv.html)
-* [How to Install Shadow Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/shadow-kodi-addon.html)
+* [Is HiAnime Safe & Legal? Everything You Need to Know](https://www.firesticktricks.com/is-hianime-safe-and-legal.html)
+* [15 CouchTuner Alternatives (That Really Work) in 2024](https://www.firesticktricks.com/couchtuner-alternatives-2.html)
+* [How to Install Kaito Kodi Addon on FireStick](https://www.firesticktricks.com/kaito-kodi-addon.html)
+* [How to Install MP3 Streams Kodi Addon on FireStick](https://www.firesticktricks.com/mp3-streams-kodi-addon.html)
+* [How to Install Samsung TV Plus Kodi Addon on FireStickdfgvcv1](https://www.firesticktricks.com/samsung-tv-plus-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
