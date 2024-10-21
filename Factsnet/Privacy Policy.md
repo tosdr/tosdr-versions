@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About European Paintings ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/visual-arts/25-facts-about-european-paintings/)
+[![54 Facts About Bella Ramsey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/54-facts-about-bella-ramsey/)
 
-Visual Arts
+Celebrity
 
-20 Oct 2024
+21 Oct 2024
 
-[25 Facts About European Paintings](https://facts.net/culture-and-the-arts/visual-arts/25-facts-about-european-paintings/)
+[54 Facts About Bella Ramsey](https://facts.net/celebrity/54-facts-about-bella-ramsey/)
 
-[![50 Facts About Ectopia Cordis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-ectopia-cordis/)
+[![38 Facts About Serial Killer Couples ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/38-facts-about-serial-killer-couples-2/)
 
-Health Science
+Society & Social Sciences
 
-20 Oct 2024
+21 Oct 2024
 
-[50 Facts About Ectopia Cordis](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-ectopia-cordis/)
+[38 Facts About Serial Killer Couples](https://facts.net/society-and-social-sciences/38-facts-about-serial-killer-couples-2/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
