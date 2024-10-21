@@ -134,7 +134,7 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Denying hungry kids and women’s rights with David Crisafulli et al](https://independentaustralia.net/article-display/denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19083 "Permanent Link : Denying hungry kids and women’s rights with David Crisafulli et al")
+* [Steven Miles’ results boost his claim to Queensland’s top job](https://independentaustralia.net/article-display/steven-miles-results-boost-his-claim-to-queenslands-top-job,19093 "Permanent Link : Steven Miles’ results boost his claim to Queensland’s top job")
 * [POEM: The Holy Creed of Carbonus Rex](https://independentaustralia.net/article-display/poem-the-holy-creed-of-carbonus-rex,19090 "Permanent Link : POEM: The Holy Creed of Carbonus Rex")
 * [Palestinians in a constant state of mourning as second Nakba unfolds](https://independentaustralia.net/article-display/palestinians-in-a-constant-state-of-mourning-as-second-nakba-unfolds,19091 "Permanent Link : Palestinians in a constant state of mourning as second Nakba unfolds")
 * [Twist of fate thwarts dream to wear the Baggy Green](https://independentaustralia.net/article-display/twist-of-fate-thwarts-dream-to-wear-the-baggy-green,19067 "Permanent Link : Twist of fate thwarts dream to wear the Baggy Green")
