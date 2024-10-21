@@ -35,9 +35,9 @@ Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 ### Sleep Pod Move
 
-Regular price $74.99
+Regular price $79.99
 
-Regular price ~$99.99~ Sale price $74.99
+Regular price ~$99.99~ Sale price $79.99
 
 Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
@@ -69,7 +69,7 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/Untitled4.006_533x533.jpg?v=1708019149)
     
     Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
-* [![](//hugsleep.com/cdn/shop/products/Untitled2.003_533x533.jpg?v=1594752114)
+* [![](//hugsleep.com/cdn/shop/products/Untitled2.003_533x533.jpg?v=1729537772)
     
     Sleep Pod](https://hugsleep.com/products/sleep-pod)
   
