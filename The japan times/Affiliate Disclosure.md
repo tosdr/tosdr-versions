@@ -204,18 +204,18 @@ Podcast
 Longform
 --------
 
-  [![Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/426751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.")](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
+  [![A collage made of an undated handout picture released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of an undated handout picture released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan. ")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
 
-[Japan wakes up to the market for a proper sleep](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
+[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,17 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ruling camp likely to win Lower House majority: polls](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-likely-to-win-lower-house/ "Ruling camp likely to win Lower House majority: polls")
+[Timetable planners form backbone of Tokaido Shinkansen's 60-year journey](https://www.japantimes.co.jp/business/2024/10/21/companies/tokaido-shinkansen-timetables/ "Timetable planners form backbone of Tokaido Shinkansen's 60-year journey")
 
-9 hours ago
+22 mins ago
 
-[More details emerge about suspect in attack at LDP headquarters](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/japan-ldp-headquarters-pmo-attack/ "More details emerge about suspect in attack at LDP headquarters")
+[The unsinkable Mark Karpeles is willing to give Tokyo another shot](https://www.japantimes.co.jp/business/2024/10/21/markets/karpeles-japan-return/ "The unsinkable Mark Karpeles is willing to give Tokyo another shot")
 
-[New rules drive Japanese trucking sector to the brink](https://www.japantimes.co.jp/news/2024/10/20/japan/society/2024-problem-trucking-sector/ "New rules drive Japanese trucking sector to the brink")
+25 mins ago
 
-[G7 defense chiefs voice concern over Chinese military drills around Taiwan](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/japan-g7-defense-chiefs/ "G7 defense chiefs voice concern over Chinese military drills around Taiwan")
+[Israel hones plans to attack Iran after attempt on Netanyahu](https://www.japantimes.co.jp/news/2024/10/21/world/israel-attack-iran-netanyahu/ "Israel hones plans to attack Iran after attempt on Netanyahu")
 
-[Fuji Soft sticks with KKR despite higher takeover offer from Bain](https://www.japantimes.co.jp/business/2024/10/20/companies/fuji-soft-sticks-kkr/ "Fuji Soft sticks with KKR despite higher takeover offer from Bain")
+29 mins ago
+
+[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+
+57 mins ago
+
+[Ruling camp likely to win Lower House majority: polls](https://www.japantimes.co.jp/news/2024/10/21/japan/politics/ldp-likely-to-win-lower-house/ "Ruling camp likely to win Lower House majority: polls")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
