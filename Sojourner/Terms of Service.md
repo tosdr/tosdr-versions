@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f6fbec58df93ed3d32ef6f31c6544f08
+1dcf26cdb9bff6cf8e939ab3691d2221
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Oval Swarovski rose bracelet clasp](https://sojourner.biz/images/cache/SKU0510front.200.jpg)](https://sojourner.biz/clasps/swarovski/oval-swarovski-rose-bracelet-clasp.html "Oval Swarovski rose bracelet clasp")
+[![10 mm to 12 mm irregular Japanese cracked glass beads](https://sojourner.biz/images/cache/glass/GL0232.200.jpg)](https://sojourner.biz/beads/glass/10-mm-to-12-mm-irregular-japanese-cracked-glass-beads.html "10 mm to 12 mm irregular Japanese cracked glass beads")
 
-#### [Oval Swarovski rose bracelet clasp](https://sojourner.biz/clasps/swarovski/oval-swarovski-rose-bracelet-clasp.html "Oval Swarovski rose bracelet clasp")
+#### [10 mm to 12 mm irregular Japanese cracked glass beads](https://sojourner.biz/beads/glass/10-mm-to-12-mm-irregular-japanese-cracked-glass-beads.html "10 mm to 12 mm irregular Japanese cracked glass beads")
 
-$29.00
+$10.00
 
 ### Best Sellers
 
