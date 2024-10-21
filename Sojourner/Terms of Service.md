@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1dcf26cdb9bff6cf8e939ab3691d2221
+ee772fe02d33dfbaf92b9baec8e92872
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm to 12 mm irregular Japanese cracked glass beads](https://sojourner.biz/images/cache/glass/GL0232.200.jpg)](https://sojourner.biz/beads/glass/10-mm-to-12-mm-irregular-japanese-cracked-glass-beads.html "10 mm to 12 mm irregular Japanese cracked glass beads")
+[![10 mm to 12 mm oval grey-green pearls](https://sojourner.biz/images/cache/pearls/PE0086.200.jpg)](https://sojourner.biz/beads/pearls/10-mm-to-12-mm-oval-grey-green-pearls.html "10 mm to 12 mm oval grey-green pearls")
 
-#### [10 mm to 12 mm irregular Japanese cracked glass beads](https://sojourner.biz/beads/glass/10-mm-to-12-mm-irregular-japanese-cracked-glass-beads.html "10 mm to 12 mm irregular Japanese cracked glass beads")
+#### [10 mm to 12 mm oval grey-green pearls](https://sojourner.biz/beads/pearls/10-mm-to-12-mm-oval-grey-green-pearls.html "10 mm to 12 mm oval grey-green pearls")
 
-$10.00
+$21.00
 
 ### Best Sellers
 
