@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-188224162783)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-188238595267)                                                   
 
 TODAY ONLY—$6 STEM Challenges | [SHOP](https://www.carsondellosa.com/collections/collections/stem-challenges/)
 
@@ -437,6 +437,8 @@ Search  search
     * Shop All
 * [Brands](https://www.carsondellosa.com/brands/)
     * Back
+    * [IXL Learning](https://www.carsondellosa.com/brands/ixl-learning/)
+    * [Rosetta Stone](https://www.carsondellosa.com/brands/rosetta-stone/)
     * [Carson Dellosa Education](https://www.carsondellosa.com/brands/carson-dellosa-education/)
     * [Key Education Publishing](https://www.carsondellosa.com/brands/key-education-publishing/)
     * [Mark Twain Media](https://www.carsondellosa.com/brands/mark-twain-media/)
