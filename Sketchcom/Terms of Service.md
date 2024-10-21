@@ -95,8 +95,6 @@ icon-close
     * [Community Forum](https://forum.sketch.com/)
     * [Service Status](https://status.sketch.com/)
 
-* [](https://www.sketch.com/downloads/mac/)
-
 [Legal](https://www.sketch.com/legal/)
 
 Contents
