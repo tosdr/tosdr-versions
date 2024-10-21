@@ -1,8 +1,14 @@
-The browser you are using is not supported. Please see our [supported browsers](https://www.westjet.com/en-ca/contact-us/faqs/technical-help).
+The browser you are using is not supported. Please see our [supported browsers](https://www.westjet.com/content/westjet/ca/en/contact-us/faqs/technical-help.html).
 
 Close
 
-By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/en-ca/legal/terms-use), the [privacy statement](https://www.westjet.com/en-ca/legal/privacy-policy), and the [use of cookies](https://www.westjet.com/en-ca/legal/privacy-policy#cookies).  
+_We are currently experiencing high call volumes._  
+
+Close
+
+Please visit our [Self-serve](https://www.westjet.com/en-ca/contact/on-hold-self-serve) page for available options
+
+By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/content/westjet/ca/en/legal/terms-use.html), the [privacy statement](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy.html), and the [use of cookies](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy.html#cookies).  
 
 Accept
 
@@ -10,7 +16,7 @@ Accept
 
 Menu
 
- [![WestJet](/content/dam/westjet/images/graphics/logos/maple-leaf_rgb.svg/_jcr_content/renditions/original/_jcr_content) ![WestJet](/content/dam/westjet/images/graphics/logos/westjet_rgb.svg/_jcr_content/renditions/original/_jcr_content)](https://www.westjet.com/en-ca "Navigate to the homepage")
+ [![WestJet](/content/dam/westjet/images/graphics/logos/maple-leaf_rgb.svg/jcr:content/renditions/original/jcr:content) ![WestJet](/content/dam/westjet/images/graphics/logos/westjet_rgb.svg/jcr:content/renditions/original/jcr:content)](https://www.westjet.com/en-ca "Navigate to the homepage")
 
 Search
 
@@ -262,9 +268,9 @@ What options do I have with respect to my personal information?
 
 ### WestJet Rewards account
 
-If you sign up for a WestJet Rewards account, you can view, manage and modify your personal information on your own by signing into your account. You can also opt-in or out of features like electronic communications about seat sales, WestJet Vacations promotional offers and special offers from our partners. For more information, please see our [WestJet Rewards account FAQs](https://www.westjet.com/en-ca/help/rewards/account).
+If you sign up for a WestJet Rewards account, you can view, manage and modify your personal information on your own by signing into your account. You can also opt-in or out of features like electronic communications about seat sales, WestJet Vacations promotional offers and special offers from our partners. For more information, please see our [WestJet Rewards account FAQs](https://www.westjet.com/content/westjet/ca/en/help/rewards/account.html).
 
-You can cancel your WestJet Rewards account at any time by submitting a request [online](https://www.westjet.com/en-ca/rewards/contact-us/contact-form). However, WestJet can only administer flight credits, travel credits and WestJet dollars through a WestJet Rewards account so cancelling your account means that you will forfeit any flight credits, travel credits and/or WestJet dollars you have. You will also no longer receive electronic communications about promotions and offers.
+You can cancel your WestJet Rewards account at any time by submitting a request [online](https://www.westjet.com/content/westjet/ca/en/rewards/contact-us/contact-form.html). However, WestJet can only administer flight credits, travel credits and WestJet dollars through a WestJet Rewards account so cancelling your account means that you will forfeit any flight credits, travel credits and/or WestJet dollars you have. You will also no longer receive electronic communications about promotions and offers.
 
 ### Contacting us and exercising your privacy rights
 
@@ -274,7 +280,7 @@ In certain circumstances, we may need to restrict your rights in order to safegu
 
 We are obliged to keep your personal information accurate and up to date. Please help us to do this by advising us of any changes to your personal information.
 
-If you wish to update or correct any information associated with your WestJet Rewards account or to close your WestJet Rewards account, please use the Rewards [online form](https://www.westjet.com/en-ca/rewards/contact-us/contact-form). If you have any questions or concerns regarding your personal information, or if you want to exercise any of your rights in relation to your personal information, please submit your request via our [Privacy Request Form](https://www.westjet.com/en-ca/legal/privacy-policy/request-form). 
+If you wish to update or correct any information associated with your WestJet Rewards account or to close your WestJet Rewards account, please use the Rewards [online form](https://www.westjet.com/content/westjet/ca/en/rewards/contact-us/contact-form.html). If you have any questions or concerns regarding your personal information, or if you want to exercise any of your rights in relation to your personal information, please submit your request via our [Privacy Request Form](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy/request-form.html). 
 
 For any other issues,  inquiries or complaints in relation to how we collect, use or disclosure your personal information, you can contact WestJet’s Privacy Officer via:
 
@@ -498,7 +504,7 @@ Flight prices: terms and conditions
 
 English
 
-[](https://www.westjet.com/en-ag/legal/privacy-policy)[](https://www.westjet.com/en-aw/legal/privacy-policy)[](https://www.westjet.com/en-bb/legal/privacy-policy)[](https://www.westjet.com/en-bm/legal/privacy-policy)[](https://www.westjet.com/en-bq)[](https://www.westjet.com/en-bs/legal/privacy-policy)[](https://www.westjet.com/en-bz/legal/privacy-policy)[](https://www.westjet.com/en-ca/legal/privacy-policy)[](https://www.westjet.com/fr-ca/legal/politique-confidentialite)[](https://www.westjet.com/en-cr/legal/privacy-policy)[](https://www.westjet.com/en-cu/legal/privacy-policy)[](https://www.westjet.com/en-cw/legal/privacy-policy)[](https://www.westjet.com/en-do/legal/privacy-policy)[](https://www.westjet.com/en-es/legal/privacy-policy)[](https://www.westjet.com/es-es)[](https://www.westjet.com/en-fr/legal/privacy-policy)[](https://www.westjet.com/fr-fr/legal/politique-confidentialite)[](https://www.westjet.com/en-gb/legal/privacy-policy)[](https://www.westjet.com/en-gd/legal/privacy-policy)[](https://www.westjet.com/en-ie/legal/privacy-policy)[](https://www.westjet.com/en-is/legal/privacy-policy)[](https://www.westjet.com/en-it/legal/privacy-policy)[](https://www.westjet.com/en-jm/legal/privacy-policy)[](https://www.westjet.com/en-jp/legal/privacy-policy)[](https://www.westjet.com/en-kr/legal/privacy-policy)[](https://www.westjet.com/en-ky/legal/privacy-policy)[](https://www.westjet.com/en-lc/legal/privacy-policy)[](https://www.westjet.com/en-mx/legal/privacy-policy)[](https://www.westjet.com/es-mx)[](https://www.westjet.com/en-pr/legal/privacy-policy)[](https://www.westjet.com/en-sx/legal/privacy-policy)[](https://www.westjet.com/en-tc/legal/privacy-policy)[](https://www.westjet.com/en-tt/legal/privacy-policy)[](https://www.westjet.com/en-us/legal/privacy-policy)[](https://www.westjet.com/es-us)
+[](https://www.westjet.com/en-ag/legal/privacy-policy.html)[](https://www.westjet.com/en-aw/legal/privacy-policy.html)[](https://www.westjet.com/en-bb/legal/privacy-policy.html)[](https://www.westjet.com/en-bm/legal/privacy-policy.html)[](https://www.westjet.com/en-bq.html)[](https://www.westjet.com/en-bs/legal/privacy-policy.html)[](https://www.westjet.com/en-bz/legal/privacy-policy.html)[](https://www.westjet.com/en-ca/legal/privacy-policy.html)[](https://www.westjet.com/fr-ca/legal/politique-confidentialite.html)[](https://www.westjet.com/en-cr/legal/privacy-policy.html)[](https://www.westjet.com/en-cu/legal/privacy-policy.html)[](https://www.westjet.com/en-cw/legal/privacy-policy.html)[](https://www.westjet.com/en-do/legal/privacy-policy.html)[](https://www.westjet.com/en-es/legal/privacy-policy.html)[](https://www.westjet.com/es-es.html)[](https://www.westjet.com/en-fr/legal/privacy-policy.html)[](https://www.westjet.com/fr-fr/legal/politique-confidentialite.html)[](https://www.westjet.com/en-gb/legal/privacy-policy.html)[](https://www.westjet.com/en-gd/legal/privacy-policy.html)[](https://www.westjet.com/en-ie/legal/privacy-policy.html)[](https://www.westjet.com/en-is/legal/privacy-policy.html)[](https://www.westjet.com/en-it/legal/privacy-policy.html)[](https://www.westjet.com/en-jm/legal/privacy-policy.html)[](https://www.westjet.com/en-jp/legal/privacy-policy.html)[](https://www.westjet.com/en-kr/legal/privacy-policy.html)[](https://www.westjet.com/en-ky/legal/privacy-policy.html)[](https://www.westjet.com/en-lc/legal/privacy-policy.html)[](https://www.westjet.com/en-mx/legal/privacy-policy.html)[](https://www.westjet.com/es-mx.html)[](https://www.westjet.com/en-pr/legal/privacy-policy.html)[](https://www.westjet.com/en-sx/legal/privacy-policy.html)[](https://www.westjet.com/en-tc/legal/privacy-policy.html)[](https://www.westjet.com/en-tt/legal/privacy-policy.html)[](https://www.westjet.com/en-us/legal/privacy-policy.html)[](https://www.westjet.com/es-us.html)
 
 Antigua Aruba Barbados Bermuda Bonaire Bahamas Belize Canada Costa Rica Cuba Curacao Dominican Republic Spain France United Kingdom Grenada Ireland Iceland Italy Jamaica Japan South Korea Cayman Islands St. Lucia Mexico Puerto Rico St. Martin Turks and Caicos Trinidad and Tobago United States
 
