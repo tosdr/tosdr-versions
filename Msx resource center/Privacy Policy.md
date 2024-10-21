@@ -137,6 +137,8 @@ MSX Music player
 
 Latest reactions
 
+* [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
@@ -145,24 +147,22 @@ Latest reactions
 * [HCC MSX, the next generation](https://www.msx.org/photoshoots/bussum-2007/hcc-msx-next-generation "HCC MSX, the next generation")
 * [XPLA V3.0 & ADXP V5.0 by Mstz80ax](https://www.msx.org/news/software/en/xpla-v30-adxp-v50-by-mstz80ax "XPLA V3.0 & ADXP V5.0 by Mstz80ax")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 
 Latest forum posts
 
+* [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
+* [SymbOS MSX multitasking operating system - help needed!](https://www.msx.org/forum/development/msx-development/symbos-msx-multitasking-operating-system-help-needed?page=401 "SymbOS MSX multitasking operating system - help needed!")
+* [National FS-VG501, repair and usage problems](https://www.msx.org/forum/msx-talk/hardware/national-fs-vg501-repair-and-usage-problems?page=2 "National FS-VG501, repair and usage problems")
+* [RoboPlay - Multi format music player in Fusion-C](https://www.msx.org/forum/msx-talk/graphics-and-music/roboplay-multi-format-music-player-in-fusion-c?page=25 "RoboPlay - Multi format music player in Fusion-C")
 * [Popeye arcade conversion for the MSX2](https://www.msx.org/forum/msx-talk/software/popeye-arcade-conversion-for-the-msx2?page=5 "Popeye arcade conversion for the MSX2")
 * [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=2 "Multiplayer link cable")
 * [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
 * [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
-* [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx "The Matrix digital rain on MSX")
 * [Boot Manager 1.0](https://www.msx.org/forum/msx-talk/software/boot-manager-10?page=1 "Boot Manager 1.0")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=4 "Carnivore2+ announcements")
-* [RoboPlay - Multi format music player in Fusion-C](https://www.msx.org/forum/msx-talk/graphics-and-music/roboplay-multi-format-music-player-in-fusion-c?page=25 "RoboPlay - Multi format music player in Fusion-C")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
