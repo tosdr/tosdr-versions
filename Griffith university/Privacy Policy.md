@@ -925,7 +925,7 @@ Footer
 * [Aquatic and Fitness Centre](https://www.griffith.edu.au/sport/sport-and-recreation/aquatic-and-fitness-centre)
 * [Clubs](https://www.griffith.edu.au/clubs)
 * [Griffith College](https://www.griffithcollege.edu.au/)
-* [Health Clinics](https://www.griffith.edu.au/health/clinics)
+* [Health Clinics](https://www.griffith.edu.au/griffith-health/clinics)
 * [Library](https://www.griffith.edu.au/library)
 * [Medical](https://www.griffith.edu.au/student-support/health-service)
 * [Shops](https://www.griffith.edu.au/shops)
