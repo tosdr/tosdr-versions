@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch Ultimate Green Edition China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Green-Edition-1-400x240.jpg)
+        
+        Huawei launches Watch Ultimate Green Edition in China with dual-tone bezel](https://www.huaweicentral.com/huawei-launches-watch-ultimate-green-edition-in-china-with-dual-tone-bezel/)
     * [![Huawei Watch Ultimate Green China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-Ultimate-400x240.jpg)
         
         Huawei to launch Watch Ultimate Green Edition on October 22 in China](https://www.huaweicentral.com/huawei-to-launch-watch-ultimate-green-edition-on-october-22-in-china/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch D2 Philippines October 14](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-D2-400x240.jpg)
         
         Huawei to launch Watch D2 in Philippines on October 14](https://www.huaweicentral.com/huawei-to-launch-watch-d2-in-philippines-on-october-14/)
-    * [![Huawei Watch GT 4 September 2024 expanding](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-4-400x240.jpg)
-        
-        Huawei Watch GT 4 September 2024 update expanding to more global users](https://www.huaweicentral.com/huawei-watch-gt-4-september-2024-update-expanding-to-more-global-users/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
