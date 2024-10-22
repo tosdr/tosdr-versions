@@ -12,17 +12,17 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 7h : 9m**](https://www.listenlively.com/product)
+[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 1h : 8m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
 
@@ -86,13 +86,9 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 **Shop now**](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -192,7 +188,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* New
+* Latest
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
