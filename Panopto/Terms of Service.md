@@ -62,7 +62,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
     * By Use Case
         * [Video Platform for Corporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
         * [Employee Onboarding Software](https://www.panopto.com/use-cases/employee-onboarding/)
-        * [Hybrid & Hyflex Learning](https://www.panopto.com/use-cases/hybrid-hyflex-learning/)
+        * [Hybrid Learning Platform](https://www.panopto.com/use-cases/hybrid-hyflex-learning/)
         * [Knowledge Sharing Platform](https://www.panopto.com/use-cases/knowledge-sharing/)
         * [AI Meeting Recording Software](https://www.panopto.com/use-cases/meeting-intelligence/)
         * [Online Video Training Platform](https://www.panopto.com/use-cases/video-training/)
@@ -212,3 +212,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
+
+![](https://www.panopto.com/wp-content/uploads/2024/10/elai_powered-by-ai_genai_3-1.png)
+
+X
