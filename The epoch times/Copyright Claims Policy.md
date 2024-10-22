@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [In Georgia, a Concerning Demographic Trend for Democrats](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
+    
+    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745324-GettyImages-2168355911-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
+* [California Voters Could Decide Whether Republicans Keep the House](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
+    
+    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    
+    [![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674149-Voter-California-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
+* [Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
+    
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740964-FotoJet-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
+* [Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://www.theepochtimes.com/china/assassinations-targeting-ccp-officials-highlight-rising-tensions-in-china-experts-say-5744491)
+    
+    NEW By [Michael Zhuang](https://www.theepochtimes.com/author/michael-zhuang) and [Shawn Lin](https://www.theepochtimes.com/author/shawn-lin)
+    
+    [![Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://img.theepochtimes.com/assets/uploads/2023/12/03/id5540404-GettyImages-114340067-205x123.jpg.webp)](https://www.theepochtimes.com/china/assassinations-targeting-ccp-officials-highlight-rising-tensions-in-china-experts-say-5744491)
+* [Battleground Wisconsin Starts Early Voting](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
+    
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![Battleground Wisconsin Starts Early Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Battleground Wisconsin Starts Early Voting](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745522-GettyImages-2180092938-205x123.jpg.webp)](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
+* [Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
+    
+    1hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745564-Israel-military-base-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
+* [FTC Rule Banning Fake Reviews Takes Effect With Stiff Penalties](https://www.theepochtimes.com/us/ftc-rule-banning-fake-reviews-takes-effect-with-stiff-penalties-5745340)
+    
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![FTC Rule Banning Fake Reviews Takes Effect With Stiff Penalties](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FTC Rule Banning Fake Reviews Takes Effect With Stiff Penalties](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683808-Data_Privacy_Crackdown_22223748361200-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-rule-banning-fake-reviews-takes-effect-with-stiff-penalties-5745340)
 * [Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://www.theepochtimes.com/us/trump-lauds-north-carolinians-who-voted-early-amid-post-hurricane-chaos-5745468)
     
-    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
     [![Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745413-10212024-DSC06268-Mike-Stewart-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-lauds-north-carolinians-who-voted-early-amid-post-hurricane-chaos-5745468)
 * [‘Central Park Five’ Sue Trump Over Debate Remarks](https://www.theepochtimes.com/us/central-park-five-sue-trump-over-debate-remarks-5745220)
     
-    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    6hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![‘Central Park Five’ Sue Trump Over Debate Remarks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘Central Park Five’ Sue Trump Over Debate Remarks](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711550-3-DSC06131-205x123.jpg.webp)](https://www.theepochtimes.com/us/central-park-five-sue-trump-over-debate-remarks-5745220)
 * [Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://www.theepochtimes.com/us/democrats-lead-republicans-in-fundraising-for-2nd-month-in-a-row-5745365)
     
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    7hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
     [![Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737079-10072024-DSC03100-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-lead-republicans-in-fundraising-for-2nd-month-in-a-row-5745365)
-* [Observing Floods, Early Voting, and a Refugee Rescue](https://www.theepochtimes.com/article/observing-floods-early-voting-and-a-refugee-rescue-5744375)
-    
-    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Observing Floods, Early Voting, and a Refugee Rescue](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Observing Floods, Early Voting, and a Refugee Rescue](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745373-GettyImages-2179111465-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/observing-floods-early-voting-and-a-refugee-rescue-5744375)
-* [How Schools Across America Are Struggling With AI Deepfakes](https://www.theepochtimes.com/article/how-schools-across-america-are-struggling-with-ai-deepfakes-5737056)
-    
-    4hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
-    
-    [![How Schools Across America Are Struggling With AI Deepfakes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How Schools Across America Are Struggling With AI Deepfakes](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745334-GettyImages-1795425457_new-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-schools-across-america-are-struggling-with-ai-deepfakes-5737056)
-* [Disney Appoints Morgan Stanley’s Gorman as Chairman, Plans for New CEO in 2026](https://www.theepochtimes.com/business/disney-appoints-morgan-stanleys-gorman-as-chairman-plans-for-new-ceo-in-2026-post-5745447)
-    
-    4hr By [Wim De Gent](https://www.theepochtimes.com/author/wim-degent)
-    
-    [![Disney Appoints Morgan Stanley’s Gorman as Chairman, Plans for New CEO in 2026](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Disney Appoints Morgan Stanley’s Gorman as Chairman, Plans for New CEO in 2026](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745450-2024-05-23T145051Z_2_LYNXMPEK4M0IW_RTROPTP_4_HONGKONG-FINANCIAL-SUMMIT-205x123.jpg.webp)](https://www.theepochtimes.com/business/disney-appoints-morgan-stanleys-gorman-as-chairman-plans-for-new-ceo-in-2026-post-5745447)
-* [Kansas City Chiefs Now the Lone Unbeaten Team in NFL](https://www.theepochtimes.com/sports/kansas-city-chiefs-now-the-lone-unbeaten-team-in-nfl-5744918)
-    
-    5hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
-    
-    [![Kansas City Chiefs Now the Lone Unbeaten Team in NFL](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Kansas City Chiefs Now the Lone Unbeaten Team in NFL](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744938-GettyImages-2179855327-205x123.jpg.webp)](https://www.theepochtimes.com/sports/kansas-city-chiefs-now-the-lone-unbeaten-team-in-nfl-5744918)
-* [‘Silent Phase’ of Alzheimer’s Begins Decades Before Symptoms, NIH Study Suggests](https://www.theepochtimes.com/health/nih-study-suggests-silent-phase-of-alzheimers-begins-decades-before-symptoms-5745118)
-    
-    5hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
-    
-    [![‘Silent Phase’ of Alzheimer’s Begins Decades Before Symptoms, NIH Study Suggests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘Silent Phase’ of Alzheimer’s Begins Decades Before Symptoms, NIH Study Suggests](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745460-alzheimer-silent-phase-205x123.jpg.webp)](https://www.theepochtimes.com/health/nih-study-suggests-silent-phase-of-alzheimers-begins-decades-before-symptoms-5745118)
-* [Justice Department Proposes Rules to Block Data Transfers to China, Russia, Iran](https://www.theepochtimes.com/us/justice-department-proposes-rules-to-block-data-transfers-to-china-russia-iran-5745336)
-    
-    6hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Justice Department Proposes Rules to Block Data Transfers to China, Russia, Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Justice Department Proposes Rules to Block Data Transfers to China, Russia, Iran](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743964-08122024-DSC00315-DOJKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/justice-department-proposes-rules-to-block-data-transfers-to-china-russia-iran-5745336)
-* [Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://www.theepochtimes.com/us/cook-political-report-moves-pennsylvania-senate-race-to-toss-up-nebraska-race-to-lean-republican-5745226)
-    
-    6hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742415-FotoJet-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/cook-political-report-moves-pennsylvania-senate-race-to-toss-up-nebraska-race-to-lean-republican-5745226)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
