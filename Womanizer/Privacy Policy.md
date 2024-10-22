@@ -69,12 +69,12 @@ The store will not work correctly in the case when cookies are disabled.
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
-    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
     * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
     * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
+    * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
