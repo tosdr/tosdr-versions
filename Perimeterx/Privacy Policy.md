@@ -138,9 +138,9 @@ X
             
         * [Case Studies
             
-            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
             
-            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
             
         * [Webinars
             
@@ -460,9 +460,9 @@ X
             
         * [Case Studies
             
-            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
             
-            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/resources?content=Case-Studies)
+            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
             
         * [Webinars
             
