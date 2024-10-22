@@ -266,13 +266,6 @@ Most Popular
 [Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 21 2024](https://www.derrynow.com/news/deaths/1633816/derry-death-notices-monday-october-21-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend")](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
 
 IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
@@ -307,6 +300,13 @@ IN PICTURES: All smiles for International Credit Union Day in Derry
 [Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man awaiting sentence for hospital sex assault breaches bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man awaiting sentence for hospital sex assault breaches bail")](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Two PSNI officers injured after vehicle rammed in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
 
 The damage caused to the PSNI vehicle.
@@ -315,13 +315,6 @@ The damage caused to the PSNI vehicle.
 
 [Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man awaiting sentence for hospital sex assault breaches bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man awaiting sentence for hospital sex assault breaches bail")](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
 
@@ -340,6 +333,13 @@ Kneecap will play Templemore Sports Complex in November
 
 [Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bail application adjourned for man who co-operated with police and give his PIN number](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail application adjourned for man who co-operated with police and give his PIN number")](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Bail application adjourned for man who co-operated with police and give his PIN number](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -529,6 +529,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 22 2024](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Internationally acclaimed archaeologist to give Derry lecture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Internationally acclaimed archaeologist to give Derry lecture")](https://www.derrynow.com/news/local-news/1635623/internationally-acclaimed-archaeologist-to-give-derry-lecture.html)
 
 Internationally acclaimed archaeologist , Brian Lacey.
@@ -538,7 +545,7 @@ Internationally acclaimed archaeologist , Brian Lacey.
 [Internationally acclaimed archaeologist to give Derry lecture](https://www.derrynow.com/news/local-news/1635623/internationally-acclaimed-archaeologist-to-give-derry-lecture.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season")](https://www.derrynow.com/news/local-news/1635774/fireworks-sparklers-and-costumes-derry-public-warned-to-follow-key-tips-to-stay-safe-this-spooky-season.html)
+[![Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season](https://www.derrynow.com/resizer/165/93/true/2024_10_21/MixCollage-21-Oct-2024-03-24-PM-3581-1729520612466.jpg--.jpg?1729520612521 "Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season")](https://www.derrynow.com/news/local-news/1635774/fireworks-sparklers-and-costumes-derry-public-warned-to-follow-key-tips-to-stay-safe-this-spooky-season.html)
 
 Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season
 
@@ -571,15 +578,6 @@ Duncreggan Road, Derry (Photo: GoogleMaps)
 
 [Labour Government accused of ‘betraying’ Troubles victims](https://www.derrynow.com/news/northern-ireland/1635671/labour-government-accused-of-betraying-troubles-victims.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/resizer/165/93/true/2024_08_21/F4_-_MT3424432JOC_-_Copy-1724259144603.jpg--.jpg?1724259144749 "Kneecap Derry show moves to historic cityside venue after Unionist opposition")](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
-
-Kneecap will play Templemore Sports Complex in November
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
