@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Service Stiftung Warentest
 
