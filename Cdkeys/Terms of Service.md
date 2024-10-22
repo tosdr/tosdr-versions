@@ -450,31 +450,53 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 1. \-30%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
+1.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 1. \-61%](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam)
     
-    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
+    **[Cult of the Lamb PC](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
     
-    Special Price $50.99 RRP $73.09
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Dark Souls Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dark-souls-remastered-pc-buy-cheap-cdkeys_4_.jpg)   No 2. \-63%](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key)
-    
-    **[Dark Souls Remastered PC](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key "Dark Souls Remastered PC")**
-    
-    Special Price $17.29 RRP $46.49
+    Special Price $9.99 RRP $25.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 3. \-62%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
+2.    [![Train Sim World 4: Flying Scotsman Centenary Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/s/tsm4ce-steam.jpg)   No 2. \-50%](https://www.cdkeys.com/pc/train-sim-world-4-flying-scotsman-centenary-edition-pc)
     
-    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
+    **[Train Sim World 4: Flying Scotsman Centenary Edition PC](https://www.cdkeys.com/pc/train-sim-world-4-flying-scotsman-centenary-edition-pc "Train Sim World 4: Flying Scotsman Centenary Edition PC")**
     
-    Special Price $25.29 RRP $66.49
+    Special Price $19.89 RRP $39.89
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![Dark Souls III 3 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/0/5050013391782.jpg)   No 3. \-63%](https://www.cdkeys.com/pc/dark-souls-iii-3-pc-cd-key-steam)
+    
+    **[Dark Souls III 3 PC](https://www.cdkeys.com/pc/dark-souls-iii-3-pc-cd-key-steam "Dark Souls III 3 PC")**
+    
+    Special Price $24.59 RRP $66.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![HELLDIVERS 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-18t175517.723.jpg)   No 4. \-17%](https://www.cdkeys.com/pc/helldivers-2-pc-steam)
+    
+    **[HELLDIVERS 2 PC](https://www.cdkeys.com/pc/helldivers-2-pc-steam "HELLDIVERS 2 PC")**
+    
+    Special Price $33.19 RRP $39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Life is Strange: Double Exposure PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange.jpg)   No 5. \-30%
+    
+    Pre-order](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam)
+    
+    **[Life is Strange: Double Exposure PC](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam "Life is Strange: Double Exposure PC")**
+    
+    Special Price $46.49 RRP $66.49
     
     [Add to Wish List](# "Add to Wish List")
     
