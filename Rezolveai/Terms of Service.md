@@ -74,7 +74,7 @@ Discover expert insights
 
 [Case Studies](https://www.rezolve.ai/case-studies)[Webinars](https://www.rezolve.ai/webinars)[Help Center](https://www.rezolve.ai/help-center)
 
-[Get Started](https://rezolve.ai/get-started/itsm)[View Demo](https://www.rezolve.ai/discover-rezolve/personalized-demo)
+[Get Quote](https://www.rezolve.ai/get-quote)[Get Started](https://rezolve.ai/get-started/itsm)[View Demo](https://www.rezolve.ai/discover-rezolve/personalized-demo)
 
 Terms & Conditions
 ==================
