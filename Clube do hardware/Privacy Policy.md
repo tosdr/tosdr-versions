@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Mago Dragão Nascido](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243347.thumb.jpeg.7d8bd80033cb539c5162ba06b41cbbea.jpeg)](https://www.clubedohardware.com.br/profile/1243347-mago-drag%C3%A3o-nascido/ "Ir ao perfil de Mago Dragão Nascido")
+    * [![VictorDiniz1202](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1235549.thumb.jpeg.cbeb2d4b6a2759baf43483970ed7aa27.jpeg)](https://www.clubedohardware.com.br/profile/1235549-victordiniz1202/ "Ir ao perfil de VictorDiniz1202")
         
-        1
+        2
         
-        [os drivers AMD do placa de vídeo rodam bem em 2024?](https://www.clubedohardware.com.br/forums/topic/1700286-os-drivers-amd-do-placa-de-v%C3%ADdeo-rodam-bem-em-2024/?do=getNewComment "os drivers AMD do placa de vídeo rodam bem em 2024?")
+        [Compensa pagar 200 reais a mais pela rx 6750xt](https://www.clubedohardware.com.br/forums/topic/1700312-compensa-pagar-200-reais-a-mais-pela-rx-6750xt/?do=getNewComment "Compensa pagar 200 reais a mais pela rx 6750xt")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Mago Dragão Nascido](https://www.clubedohardware.com.br/profile/1243347-mago-drag%C3%A3o-nascido/ "Ir ao perfil de Mago Dragão Nascido")  
-        8 minutos atrás
+        Por [VictorDiniz1202](https://www.clubedohardware.com.br/profile/1235549-victordiniz1202/ "Ir ao perfil de VictorDiniz1202")  
+        30 minutos atrás
         
-    * [![felipetecsbo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254871.thumb.png.b4061f71bdca84d80a84622ac8ed135a.png)](https://www.clubedohardware.com.br/profile/1254871-felipetecsbo/ "Ir ao perfil de felipetecsbo")
-        
-        2
-        
-        [kit novo não da imagem](https://www.clubedohardware.com.br/forums/topic/1700285-kit-novo-n%C3%A3o-da-imagem/?do=getNewComment "kit novo não da imagem")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [felipetecsbo](https://www.clubedohardware.com.br/profile/1254871-felipetecsbo/ "Ir ao perfil de felipetecsbo")  
-        26 minutos atrás
-        
-    * [![Gregor Mendes](https://www.clubedohardware.com.br/uploads/members/monthly_2022_03/gregor.thumb.jpg.b5245daf80afeb8107047e72f10c2f9f.jpg)](https://www.clubedohardware.com.br/profile/1107470-gregor-mendes/ "Ir ao perfil de Gregor Mendes")
+    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
         
         2
         
-        [Dell Inspiron 15 3567 não reconhece Adaptador AC Grasep D-51A](https://www.clubedohardware.com.br/forums/topic/1700284-dell-inspiron-15-3567-n%C3%A3o-reconhece-adaptador-ac-grasep-d-51a/?do=getNewComment "Dell Inspiron 15 3567 não reconhece Adaptador AC Grasep D-51A")
+        [Excluir nomes de login (tem como?)](https://www.clubedohardware.com.br/forums/topic/1700309-excluir-nomes-de-login-tem-como/?do=getNewComment "Excluir nomes de login (tem como?)")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Gregor Mendes](https://www.clubedohardware.com.br/profile/1107470-gregor-mendes/ "Ir ao perfil de Gregor Mendes")  
-        36 minutos atrás
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
+        52 minutos atrás
         
-    * [![CaioLCamargo](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-1143855.thumb.jpeg.89f82aab5f0fdb1f5c905890d3ef1995.jpeg)](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")
-        
-        1
-        
-        [Fonte de Servidor em PC "normal"](https://www.clubedohardware.com.br/forums/topic/1700283-fonte-de-servidor-em-pc-normal/?do=getNewComment "Fonte de Servidor em PC "normal"")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [CaioLCamargo](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")  
-        59 minutos atrás
-        
-    * [![indexnet](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4af%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254867-indexnet/ "Ir ao perfil de indexnet")
-        
-        2
-        
-        [RX 6800 XT desligando](https://www.clubedohardware.com.br/forums/topic/1700282-rx-6800-xt-desligando/?do=getNewComment "RX 6800 XT desligando")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [indexnet](https://www.clubedohardware.com.br/profile/1254867-indexnet/ "Ir ao perfil de indexnet")  
-        1 hora atrás
-        
-    * [![pedrokioma](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/03931304f387b4b1a2c1aac4eed4641d.thumb.jpg.efb57a2c8a515a09eb3c94e394da95fd.jpg)](https://www.clubedohardware.com.br/profile/978213-pedrokioma/ "Ir ao perfil de pedrokioma")
-        
-        2
-        
-        [A placa-mãe SuperFrame B450M suporta Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1700281-a-placa-m%C3%A3e-superframe-b450m-suporta-ryzen-7-5700x3d/?do=getNewComment "A placa-mãe SuperFrame B450M suporta Ryzen 7 5700X3D?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [pedrokioma](https://www.clubedohardware.com.br/profile/978213-pedrokioma/ "Ir ao perfil de pedrokioma")  
-        1 hora atrás
-        
-    * [![Vitin81](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254862.thumb.png.d0848bf31fbd7bc3b9040e5e9cd41948.png)](https://www.clubedohardware.com.br/profile/1254862-vitin81/ "Ir ao perfil de Vitin81")
-        
-        2
-        
-        [Pc liga e fica com a tela listrada e cheia de letras](https://www.clubedohardware.com.br/forums/topic/1700280-pc-liga-e-fica-com-a-tela-listrada-e-cheia-de-letras/?do=getNewComment "Pc liga e fica com a tela listrada e cheia de letras")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Vitin81](https://www.clubedohardware.com.br/profile/1254862-vitin81/ "Ir ao perfil de Vitin81")  
-        9 horas atrás
-        
-    * [![João Vitor de Souza Neto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251917.thumb.png.a659dd00e4e1c12e82d679c79bee6e76.png)](https://www.clubedohardware.com.br/profile/1251917-jo%C3%A3o-vitor-de-souza-neto/ "Ir ao perfil de João Vitor de Souza Neto")
-        
-        2
-        
-        [Qual o formato da fonte VX 350? ATX ou SFX?](https://www.clubedohardware.com.br/forums/topic/1700279-qual-o-formato-da-fonte-vx-350-atx-ou-sfx/?do=getNewComment "Qual o formato da fonte VX 350? ATX ou SFX?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [João Vitor de Souza Neto](https://www.clubedohardware.com.br/profile/1251917-jo%C3%A3o-vitor-de-souza-neto/ "Ir ao perfil de João Vitor de Souza Neto")  
-        9 horas atrás
-        
-    * [![Levybr12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254861.thumb.png.c40a76ce17e9040209983fb9efec04e3.png)](https://www.clubedohardware.com.br/profile/1254861-levybr12/ "Ir ao perfil de Levybr12")
+    * [![tetchelex](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c49b%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/751694-tetchelex/ "Ir ao perfil de tetchelex")
         
         0
         
-        [Adaptar HD sata 3,5 desktop para usar interno no Xbox 360](https://www.clubedohardware.com.br/forums/topic/1700278-adaptar-hd-sata-35-desktop-para-usar-interno-no-xbox-360/?do=getNewComment "Adaptar HD sata 3,5 desktop para usar interno no Xbox 360")
+        Outro [Adequação tabela entrada Power Bi (Gestão de Recursos)](https://www.clubedohardware.com.br/forums/topic/1700308-adequa%C3%A7%C3%A3o-tabela-entrada-power-bi-gest%C3%A3o-de-recursos/?do=getNewComment "Adequação tabela entrada Power Bi (Gestão de Recursos)")
+        
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [tetchelex](https://www.clubedohardware.com.br/profile/751694-tetchelex/ "Ir ao perfil de tetchelex")  
+        55 minutos atrás
+        
+    * [![CristianCDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247041.thumb.jpeg.d087c51a2322ac7f4e0e8a325ce3d158.jpeg)](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")
+        
+        0
+        
+        [Teclado Keychron K8 Pro é bom?](https://www.clubedohardware.com.br/forums/topic/1700307-teclado-keychron-k8-pro-%C3%A9-bom/?do=getNewComment "Teclado Keychron K8 Pro é bom?")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [CristianCDS](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")  
+        1 hora atrás
+        
+    * [![Ewerton de Miranda](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237d62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/839848-ewerton-de-miranda/ "Ir ao perfil de Ewerton de Miranda")
+        
+        0
+        
+        Word [Código VBA para usar a primeira linha do texto para nomear arquivo ao Salvar.](https://www.clubedohardware.com.br/forums/topic/1700306-c%C3%B3digo-vba-para-usar-a-primeira-linha-do-texto-para-nomear-arquivo-ao-salvar/?do=getNewComment "Código VBA para usar a primeira linha do texto para nomear arquivo ao Salvar.")
+        
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Ewerton de Miranda](https://www.clubedohardware.com.br/profile/839848-ewerton-de-miranda/ "Ir ao perfil de Ewerton de Miranda")  
+        1 hora atrás
+        
+    * [![Erick trade](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254882.thumb.jpeg.6a00624ac76a4e27d42cdb111d6f627a.jpeg)](https://www.clubedohardware.com.br/profile/1254882-erick-trade/ "Ir ao perfil de Erick trade")
+        
+        2
+        
+        [Baixo FPS no CS2 no Ryzen 5 4650G e Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1700305-baixo-fps-no-cs2-no-ryzen-5-4650g-e-radeon-rx-6600/?do=getNewComment "Baixo FPS no CS2 no Ryzen 5 4650G e Radeon RX 6600")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Erick trade](https://www.clubedohardware.com.br/profile/1254882-erick-trade/ "Ir ao perfil de Erick trade")  
+        1 hora atrás
+        
+    * [![TabascoDF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254881.thumb.jpeg.5ace1911564155612b2118c1fad56b71.jpeg)](https://www.clubedohardware.com.br/profile/1254881-tabascodf/ "Ir ao perfil de TabascoDF")
+        
+        1
+        
+        [Gabinete KBM! Gaming GN210 é bom?](https://www.clubedohardware.com.br/forums/topic/1700304-gabinete-kbm-gaming-gn210-%C3%A9-bom/?do=getNewComment "Gabinete KBM! Gaming GN210 é bom?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [TabascoDF](https://www.clubedohardware.com.br/profile/1254881-tabascodf/ "Ir ao perfil de TabascoDF")  
+        1 hora atrás
+        
+    * [![daniel godinho de moraes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-966355.thumb.png.33ea2cb9b0b841bb3a90585b51ac3f74.png)](https://www.clubedohardware.com.br/profile/966355-daniel-godinho-de-moraes/ "Ir ao perfil de daniel godinho de moraes")
+        
+        1
+        
+        [Placa lst12 não encontra agitação no atuador](https://www.clubedohardware.com.br/forums/topic/1700303-placa-lst12-n%C3%A3o-encontra-agita%C3%A7%C3%A3o-no-atuador/?do=getNewComment "Placa lst12 não encontra agitação no atuador")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [daniel godinho de moraes](https://www.clubedohardware.com.br/profile/966355-daniel-godinho-de-moraes/ "Ir ao perfil de daniel godinho de moraes")  
+        2 horas atrás
+        
+    * [![dossinj](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238a62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1108372-dossinj/ "Ir ao perfil de dossinj")
+        
+        2
+        
+        [Vender meu PS5. Qual seria um valor justo?](https://www.clubedohardware.com.br/forums/topic/1700302-vender-meu-ps5-qual-seria-um-valor-justo/?do=getNewComment "Vender meu PS5. Qual seria um valor justo?")
         
         [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Levybr12](https://www.clubedohardware.com.br/profile/1254861-levybr12/ "Ir ao perfil de Levybr12")  
-        10 horas atrás
+        Por [dossinj](https://www.clubedohardware.com.br/profile/1108372-dossinj/ "Ir ao perfil de dossinj")  
+        2 horas atrás
         
-    * [![gpombotky](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254786.thumb.png.c85c47e2c9670ceb837c8fffb9d296ba.png)](https://www.clubedohardware.com.br/profile/1254786-gpombotky/ "Ir ao perfil de gpombotky")
+    * [![RodrigoR5](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1115738.thumb.png.daa371f29427b3a55796f11c0a4d0844.png)](https://www.clubedohardware.com.br/profile/1115738-rodrigor5/ "Ir ao perfil de RodrigoR5")
         
-        0
+        1
         
-        [qual tipo de conexão para placas de rede é melhor m2 key-e ou pci-e 1x??](https://www.clubedohardware.com.br/forums/topic/1700277-qual-tipo-de-conex%C3%A3o-para-placas-de-rede-%C3%A9-melhor-m2-key-e-ou-pci-e-1x/?do=getNewComment "qual tipo de conexão para placas de rede é melhor m2 key-e ou pci-e 1x??")
+        [Recomendação de controle para PS4 e PC](https://www.clubedohardware.com.br/forums/topic/1700300-recomenda%C3%A7%C3%A3o-de-controle-para-ps4-e-pc/?do=getNewComment "Recomendação de controle para PS4 e PC")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [gpombotky](https://www.clubedohardware.com.br/profile/1254786-gpombotky/ "Ir ao perfil de gpombotky")  
-        10 horas atrás
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [RodrigoR5](https://www.clubedohardware.com.br/profile/1115738-rodrigor5/ "Ir ao perfil de RodrigoR5")  
+        3 horas atrás
         
     
 
