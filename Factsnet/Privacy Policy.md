@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![54 Facts About Bella Ramsey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/54-facts-about-bella-ramsey/)
+[![30 Facts About Hessite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2289%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hessite/)
 
-Celebrity
+Earth Sciences
 
-21 Oct 2024
+22 Oct 2024
 
-[54 Facts About Bella Ramsey](https://facts.net/celebrity/54-facts-about-bella-ramsey/)
+[30 Facts About Hessite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hessite/)
 
-[![38 Facts About Serial Killer Couples ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/38-facts-about-serial-killer-couples-2/)
+[![40 Facts About Transmembrane Receptor ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/40-facts-about-transmembrane-receptor/)
 
-Society & Social Sciences
+Biology
 
-21 Oct 2024
+22 Oct 2024
 
-[38 Facts About Serial Killer Couples](https://facts.net/society-and-social-sciences/38-facts-about-serial-killer-couples-2/)
+[40 Facts About Transmembrane Receptor](https://facts.net/earth-and-life-science/biology-earth-and-life-science/40-facts-about-transmembrane-receptor/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
