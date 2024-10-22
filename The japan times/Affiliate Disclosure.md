@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,21 @@ Latest News
 
 [Ukraine's population has fallen by 10 million since Russia's invasion, U.N. says](https://www.japantimes.co.jp/news/2024/10/22/world/society/ukraine-population-fall-10-million/ "Ukraine's population has fallen by 10 million since Russia's invasion, U.N. says")
 
-3 hours ago
+9 hours ago
 
 [War has knocked Gaza back to the 1950s, UNDP says](https://www.japantimes.co.jp/news/2024/10/22/world/society/gaza-war-undp-poverty/ "War has knocked Gaza back to the 1950s, UNDP says")
 
-3 hours ago
+9 hours ago
 
-[JFTC inspects JR Tokai and others for suspected bid-rigging](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/jftc-rail-bid-rigging/ "JFTC inspects JR Tokai and others for suspected bid-rigging")
+[JFTC inspects JR Central and others for suspected bid-rigging](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/jftc-rail-bid-rigging/ "JFTC inspects JR Central and others for suspected bid-rigging")
 
-4 hours ago
+10 hours ago
 
 [Honda to recall over 720,800 vehicles in U.S. to replace fuel pumps](https://www.japantimes.co.jp/business/2024/10/22/honda-fuel-pump-recall-us/ "Honda to recall over 720,800 vehicles in U.S. to replace fuel pumps")
 
-5 hours ago
+11 hours ago
 
 [Police drew guns at man who set minivan on fire at Prime Minister's Office](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/police-gun-pm-attack/ "Police drew guns at man who set minivan on fire at Prime Minister's Office")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
