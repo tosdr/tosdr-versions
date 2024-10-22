@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://www.theepochtimes.com/us/trump-lauds-north-carolinians-who-voted-early-amid-post-hurricane-chaos-5745468)
+    
+    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745413-10212024-DSC06268-Mike-Stewart-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-lauds-north-carolinians-who-voted-early-amid-post-hurricane-chaos-5745468)
+* [‘Central Park Five’ Sue Trump Over Debate Remarks](https://www.theepochtimes.com/us/central-park-five-sue-trump-over-debate-remarks-5745220)
+    
+    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![‘Central Park Five’ Sue Trump Over Debate Remarks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘Central Park Five’ Sue Trump Over Debate Remarks](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711550-3-DSC06131-205x123.jpg.webp)](https://www.theepochtimes.com/us/central-park-five-sue-trump-over-debate-remarks-5745220)
+* [Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://www.theepochtimes.com/us/democrats-lead-republicans-in-fundraising-for-2nd-month-in-a-row-5745365)
+    
+    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    
+    [![Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737079-10072024-DSC03100-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-lead-republicans-in-fundraising-for-2nd-month-in-a-row-5745365)
+* [Observing Floods, Early Voting, and a Refugee Rescue](https://www.theepochtimes.com/article/observing-floods-early-voting-and-a-refugee-rescue-5744375)
+    
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Observing Floods, Early Voting, and a Refugee Rescue](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Observing Floods, Early Voting, and a Refugee Rescue](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745373-GettyImages-2179111465-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/observing-floods-early-voting-and-a-refugee-rescue-5744375)
+* [How Schools Across America Are Struggling With AI Deepfakes](https://www.theepochtimes.com/article/how-schools-across-america-are-struggling-with-ai-deepfakes-5737056)
+    
+    4hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![How Schools Across America Are Struggling With AI Deepfakes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Schools Across America Are Struggling With AI Deepfakes](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745334-GettyImages-1795425457_new-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-schools-across-america-are-struggling-with-ai-deepfakes-5737056)
+* [Disney Appoints Morgan Stanley’s Gorman as Chairman, Plans for New CEO in 2026](https://www.theepochtimes.com/business/disney-appoints-morgan-stanleys-gorman-as-chairman-plans-for-new-ceo-in-2026-post-5745447)
+    
+    4hr By [Wim De Gent](https://www.theepochtimes.com/author/wim-degent)
+    
+    [![Disney Appoints Morgan Stanley’s Gorman as Chairman, Plans for New CEO in 2026](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Disney Appoints Morgan Stanley’s Gorman as Chairman, Plans for New CEO in 2026](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745450-2024-05-23T145051Z_2_LYNXMPEK4M0IW_RTROPTP_4_HONGKONG-FINANCIAL-SUMMIT-205x123.jpg.webp)](https://www.theepochtimes.com/business/disney-appoints-morgan-stanleys-gorman-as-chairman-plans-for-new-ceo-in-2026-post-5745447)
+* [Kansas City Chiefs Now the Lone Unbeaten Team in NFL](https://www.theepochtimes.com/sports/kansas-city-chiefs-now-the-lone-unbeaten-team-in-nfl-5744918)
+    
+    5hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
+    
+    [![Kansas City Chiefs Now the Lone Unbeaten Team in NFL](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Kansas City Chiefs Now the Lone Unbeaten Team in NFL](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744938-GettyImages-2179855327-205x123.jpg.webp)](https://www.theepochtimes.com/sports/kansas-city-chiefs-now-the-lone-unbeaten-team-in-nfl-5744918)
+* [‘Silent Phase’ of Alzheimer’s Begins Decades Before Symptoms, NIH Study Suggests](https://www.theepochtimes.com/health/nih-study-suggests-silent-phase-of-alzheimers-begins-decades-before-symptoms-5745118)
+    
+    5hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    
+    [![‘Silent Phase’ of Alzheimer’s Begins Decades Before Symptoms, NIH Study Suggests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘Silent Phase’ of Alzheimer’s Begins Decades Before Symptoms, NIH Study Suggests](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745460-alzheimer-silent-phase-205x123.jpg.webp)](https://www.theepochtimes.com/health/nih-study-suggests-silent-phase-of-alzheimers-begins-decades-before-symptoms-5745118)
+* [Justice Department Proposes Rules to Block Data Transfers to China, Russia, Iran](https://www.theepochtimes.com/us/justice-department-proposes-rules-to-block-data-transfers-to-china-russia-iran-5745336)
+    
+    6hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![Justice Department Proposes Rules to Block Data Transfers to China, Russia, Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Justice Department Proposes Rules to Block Data Transfers to China, Russia, Iran](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743964-08122024-DSC00315-DOJKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/justice-department-proposes-rules-to-block-data-transfers-to-china-russia-iran-5745336)
 * [Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://www.theepochtimes.com/us/cook-political-report-moves-pennsylvania-senate-race-to-toss-up-nebraska-race-to-lean-republican-5745226)
     
-    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    6hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Cook Political Report Moves Pennsylvania Senate Race to ‘Toss-Up’, Nebraska Race to ‘Lean Republican’](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742415-FotoJet-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/cook-political-report-moves-pennsylvania-senate-race-to-toss-up-nebraska-race-to-lean-republican-5745226)
-* [Consciousness Does Not Go to the Grave—So Where Does It Go?](https://www.theepochtimes.com/health/consciousness-does-not-go-to-the-grave-so-where-does-it-go-5721055)
-    
-    2hr By [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
-    
-    [![Consciousness Does Not Go to the Grave—So Where Does It Go?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Consciousness Does Not Go to the Grave—So Where Does It Go?](https://img.theepochtimes.com/assets/uploads/2024/10/20/id5744606-Consciousness-2-featured-image-205x123.jpg.webp)](https://www.theepochtimes.com/health/consciousness-does-not-go-to-the-grave-so-where-does-it-go-5721055)
-* [Arkansas Supreme Court Blocks Marijuana Ballot Measure](https://www.theepochtimes.com/us/arkansas-supreme-court-blocks-marijuana-ballot-measure-5745144)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Arkansas Supreme Court Blocks Marijuana Ballot Measure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Arkansas Supreme Court Blocks Marijuana Ballot Measure](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745320-IMG_0678-LS-205x123.webp)](https://www.theepochtimes.com/us/arkansas-supreme-court-blocks-marijuana-ballot-measure-5745144)
-* [Pending Home Sales Register the Biggest Annual Increase Since May 2021: Redfin](https://www.theepochtimes.com/us/pending-home-sales-register-the-biggest-annual-increase-since-may-2021-redfin-5745152)
-    
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Pending Home Sales Register the Biggest Annual Increase Since May 2021: Redfin](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pending Home Sales Register the Biggest Annual Increase Since May 2021: Redfin](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pending-home-sales-register-the-biggest-annual-increase-since-may-2021-redfin-5745152)
-* [CDC Calls on Local Officials to Get Kids Vaccinated as Participation Continues to Decline](https://www.theepochtimes.com/us/cdc-calls-on-local-officials-to-get-kids-vaccinated-as-participation-continues-to-decline-5745199)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![CDC Calls on Local Officials to Get Kids Vaccinated as Participation Continues to Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![CDC Calls on Local Officials to Get Kids Vaccinated as Participation Continues to Decline](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745318-children-under-5-vaccine-pfizer-LS-205x123.webp)](https://www.theepochtimes.com/us/cdc-calls-on-local-officials-to-get-kids-vaccinated-as-participation-continues-to-decline-5745199)
-* [DOJ Deploys District Elections Officers to Handle ‘Threats’ and ‘Intimidation’ at Polls](https://www.theepochtimes.com/us/doj-deploys-district-elections-officers-to-handle-threats-and-intimidation-at-polls-5745188)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![DOJ Deploys District Elections Officers to Handle ‘Threats’ and ‘Intimidation’ at Polls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Deploys District Elections Officers to Handle ‘Threats’ and ‘Intimidation’ at Polls](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745299-election-voting-AP24289752097725-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-deploys-district-elections-officers-to-handle-threats-and-intimidation-at-polls-5745188)
-* [Ozempic’s Sister Drug Reduces Cardiovascular Risk by 14 Percent in Large-Scale Trial](https://www.theepochtimes.com/health/ozempics-sister-drug-reduces-cardiovascular-risk-by-14-percent-in-large-scale-trial-5745111)
-    
-    3hr By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
-    
-    [![Ozempic’s Sister Drug Reduces Cardiovascular Risk by 14 Percent in Large-Scale Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ozempic’s Sister Drug Reduces Cardiovascular Risk by 14 Percent in Large-Scale Trial](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745231-shutterstock_2440411211_ozempic_semaglutide_rybelsus-205x123.jpg.webp)](https://www.theepochtimes.com/health/ozempics-sister-drug-reduces-cardiovascular-risk-by-14-percent-in-large-scale-trial-5745111)
-* [47 Percent of Income Tax Collections Dedicated to US Interest Payments](https://www.theepochtimes.com/us/47-percent-of-income-tax-collections-dedicated-to-us-interest-payments-5745133)
-    
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![47 Percent of Income Tax Collections Dedicated to US Interest Payments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![47 Percent of Income Tax Collections Dedicated to US Interest Payments](https://img.theepochtimes.com/assets/uploads/2024/02/16/id5589004-11132023-DSC05572-National-Debt-Clock-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/47-percent-of-income-tax-collections-dedicated-to-us-interest-payments-5745133)
-* [Oregon’s 6th Congressional District Race Is a Rematch of 2022](https://www.theepochtimes.com/us/oregons-6th-congressional-district-race-is-a-rematch-of-2022-post-5744696)
-    
-    3hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
-    
-    [![Oregon’s 6th Congressional District Race Is a Rematch of 2022](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Oregon’s 6th Congressional District Race Is a Rematch of 2022](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745244-07112023-DSC06092-Andrea-SalinasKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregons-6th-congressional-district-race-is-a-rematch-of-2022-post-5744696)
-* [US Defense Secretary Unveils $400 Million Arms Package in Surprise Ukraine Visit](https://www.theepochtimes.com/world/us-defense-secretary-unveils-400-million-arms-package-in-surprise-ukraine-visit-5745026)
-    
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![US Defense Secretary Unveils $400 Million Arms Package in Surprise Ukraine Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Defense Secretary Unveils $400 Million Arms Package in Surprise Ukraine Visit](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745212-2024-10-21T131640Z_1_LYNXMPEK9K0H5_RTROPTP_4_UKRAINE-CRISIS-USA-AUSTIN-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-defense-secretary-unveils-400-million-arms-package-in-surprise-ukraine-visit-5745026)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
