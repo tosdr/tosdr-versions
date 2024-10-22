@@ -31,1060 +31,1032 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Segundo Castillo marca supremacía en los Clásicos con Barcelona SC
-==================================================================
+Álex Rangel fue galardonado como el mejor de la fecha 10
+========================================================
 
-Segundo Alejandro Castillo durante el Clásico del Astillero de Barcelona y Emelec en la fecha 10 de la Liga Pro.
-----------------------------------------------------------------------------------------------------------------
+Álex Rangel vive su primera temporada como jugador de Barcelona SC. Llegó desde Técnico Universitario.
+------------------------------------------------------------------------------------------------------
 
-![Segundo Alejandro Castillo en el Clásico del Astillero entre Emelec y Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T135644.543.jpg)
+![Álex Rangel celebra el gol que marcó con Barcelona SC en el Clásico del Astillero.](https://www.elcomercio.com/wp-content/uploads/2024/10/rangel_fecha_1.jpg)
 
-**Barcelona SC** venció en su último Clásico del Astillero a Emelec por un marcador de 2-1 en el tercer debut de Alejandro Castillo como DT de los toreros. El entrenador ecuatoriano ya había dirigido antes en tales cotejos y aquel triunfo selló su historial favorable ante los azules.
+**Álex Rangel** fue reconocido por la Liga Pro como el mejor jugador de la fecha 10 de la segunda etapa de la Liga Pro 2024, tras su trascendental participación con Barcelona Sporting Club en el Clásico del Astillero ante Emelec.
 
-Después de la salida de **Ariel Holan** del plantel a raíz de una goleada de 3-0 frente a El Nacional, la directiva del equipo torero decidió acudir a **Castillo**. El técnico formaba parte del equipo de trabajo del argentino y, antes de su llegada, ya estaba en el club.
+Este lunes 21 de octubre la Liga Pro, a través de sus redes sociales, **dio a conocer que Álex Rangel**, defensa central de 22 años, fue elegido como el mejor de todos los futbolistas que tuvieron acción en esta nueva jornada.
+
+### Más noticias:
+
+* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
+* [Segundo Castillo marca supremacía en los Clásicos con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sc-segundo-castillo-emelec-historial-clasico-astillero.html "Segundo Castillo marca supremacía en los Clásicos con Barcelona SC")
+* [La Selección de Ecuador Femenina sub-17 a un paso de cuartos](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 a un paso de cuartos")
+
+La Liga Pro justificó su decisión al mencionar que anotó un gol, **hizo dos remates, dio 26 pases y tuvo 40 intervenciones** en en duelo ante Emelec, jugado en el estadio Monumental la tarde-noche del domingo 20.
+
+El tanto para el 2-1 definitivo de Barcelona SC sobre Emelec llegó a los 74 minutos del segundo tiempo, con un certero **golpe de cabeza, ante el cobro del tiro de esquina de Cristhian Solano**, que dejó sin reacción a Pedro Ortiz.
+
+La celebración del jugador fue al más puro estilo de Cristiano Ronaldo, con el salto característico del portugués y el **emblemático grito del ‘siuuuuuuu’**.
+
+Con el resultado BSC escaló a la sexta posición en la tabla de posiciones con **16 puntos y un gol diferencia negativo de -2**, en lo que marcó el nuevo debut de Segundo Alejandro Castillo, como entrenador de los canarios.
+
+En la fecha 11 los amarillos vuelven a repetir la localía. El **domingo 27 recibirán a Delfín**, desde las 18:00, con la obligación de sumar los tres puntos para asegurar su cupo directo a la Copa Libertadores 2025.
+
+> 📍El gol que desató la locura ⚽️💪🏻  
+>   
+> Buenas noches futboleros, nos vemos en la Fecha 11 de la LigaPro Ecuabet 😎[#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) 🇪🇨💯[pic.twitter.com/t97SVmSWZn](https://t.co/t97SVmSWZn)
+> 
+> — LigaPro (@LigaProEC) [October 21, 2024](https://twitter.com/LigaProEC/status/1848211373815112187?ref_src=twsrc%5Etfw)
+
+¿Quién es Álex Rangel?
+----------------------
+
+Álex Daniel Rangel Corozo nació el 18 de marzo de 2022 en Guayaquil.
+
+Su ingreso al fútbol ecuatoriano **lo hizo con la camiseta de Técnico Universitario** de Ambato entre 2021 y 2023.
+
+Según Transfermarkt, Rangel jugó 47 partidos y anotó un gol, **ante el propio Barcelona SC en el Bellavista en la octava jornada** de la segunda etapa de la temporada 2023, fue amonestado con tarjeta amarilla en 14 ocasiones, dos veces fue expulsado y en cancha sumó 3 664 minutos.
+
+Con BSC disputó 23 partidos, anotó un gol, recibió tres amarillas y acumula 1 707 minutos.
+
+Su experiencia con la **Selección de Ecuador se reduce a una convocatoria** para disputar el Preolímpico sub-23 en Colombia. Estuvo en el banco todo el torneo.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/rangel_fecha_2-1024x683.jpg)
+
+Foto: API.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de luz en Cuenca este martes 22 de octubre
+=================================================
+
+La Empresa Eléctrica Centrosur detalló los horarios de los cortes de luz que tendrá la ciudad austral.
+------------------------------------------------------------------------------------------------------
+
+![Los apagones programados en Cuenca se realizarán en dos franjas horarias](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-luz.jpg)
+
+La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz que tendrá **Cuenca** este martes 22 de octubre de 2024.
+
+La entidad, además, difundió el cronograma de **apagones programados** para el resto de la provincia de **Azuay**, Cañar y Morona Santiago.
+
+### Más noticias
+
+* [Ministerio de Educación desarrolla plan de emergencias ante cortes de luz](https://www.elcomercio.com/actualidad/ministerio-educacion-desarrolla-plan-emergencias-cortes-de-luz.html "Ministerio de Educación desarrolla plan de emergencias ante cortes de luz")
+* [Cortes de luz en Guayaquil este martes 22 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-martes-22-octubre.html "Cortes de luz en Guayaquil este martes 22 de octubre")
+* [Cortes de luz en Quito este martes 22 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-22-octubre.html "Cortes de luz en Quito este martes 22 de octubre")
+
+Los **cortes de luz** forman parte de las medidas implementadas por el Gobierno a nivel nacional para enfrentar la crisis hídrica.
+
+Horarios de cortes de luz en Cuenca
+-----------------------------------
+
+Los racionamientos en Cuenca, como en el resto del país, tendrán una duración de **ocho horas,** entre el lunes 21 y el domingo 27 de octubre.
+
+La siguiente semana bajarán a **seis horas**, mientras que entre el **4 y 10 de noviembre** los cortes se reducirán a cuatro horas.
+
+Esta semana los apagones se realizan en **dos franjas horarias**, una en la mañana y una en la tarde-noche.
+
+En la ciudad austral, los racionamientos de Centrosur comprenden **15 bloques horarios** para el sector residencial, mientras que para la industria, los cortes son de cinco y seis horas.
+
+Estos son los **horarios** de los bloques en los que el servicio eléctrico será interrumpido:
+
+* 00:00 a 05:00 y de 18:00 a 21:00
+* 00:00 a 05:00 y de 14:00 a 17:00
+* 05:00 a 08:00 y de 14:00 a 19:00
+* 05:00 a 09:00 y de 14:00 a 18:00
+* 05:00 a 09:00 y de 13:00 a 17:00
+* 06:00 a 10:00 y de 15:00 a 19:00
+* 07:00 a 11:00 y de 17:00 a 21:00
+* 08:00 a 11:00 y de 16:00 a 21:00
+* 09:00 a 13:00 y de 17:00 a 21:00
+* 10:00 a 15:00 y de 21:00 a 00:00
+* 11:00 a 14:00 y de 19:00 a 00:00
+* 11:00 a 16:00 y de 21:00 a 00:00
+* 12:00 a 16:00 y de 20:00 a 00:00
+* 12:00 a 17:00 y de 21:00 a 00:00
+* 10:00 a 16:00
+
+El **sector industrial** tendrá apagones en dos bloques, de **00:00 a 05:00** y de **00:00 a 06:00**.
+
+El cronograma de cortes de luz para el resto de Azuay, **Cañar y Morona Santiago** se encuentra disponible en la [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/") de Centrosur.
+
+¿Cuándo se cambiarán las tarifas eléctricas para las empresas mineras?
+======================================================================
+
+El Gobierno ecuatoriano analiza ajustes a las tarifas eléctricas para mineras, buscando eliminar "subsidios injustos".
+----------------------------------------------------------------------------------------------------------------------
+
+![Fruta del Norte está ubicada en Zamora Chinchipe y es la primera mina industrial del país, entró en operaciones en 2019, con una inversión de USD 900 millones. Foto: Cortesía CME](https://www.elcomercio.com/wp-content/uploads/2022/02/mineria1.jpg)
+
+Las **tarifas eléctricas del Ecuador** están en proceso de análisis como cada año. La Ley de Servicio Público de Energía Eléctrica establece que el Directorio de la Agencia de Regulación y Control de la Electricidad (Arconel) debe realizar los ajustes respectivos[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Más noticias
+------------
+
+* [Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decision-subsidio-electricidad-empresas-mineras.html "Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras")
+* [Minera Fruta del Norte se pronunció tras aviso de eliminación de subsidios al sector](https://www.elcomercio.com/actualidad/negocios/minera-fruta-del-norte-se-pronuncio-tras-aviso-de-eliminacion-de-subsidios-al-sector.html "Minera Fruta del Norte se pronunció tras aviso de eliminación de subsidios al sector")
+* [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
+
+El presidente **Daniel Noboa** anunció la semana pasada que habrá un ajuste de la **tarifa eléctrica** para dos grandes **empresas mineras**. El mandatario señaló que la decisión busca corregir un **sistema de subsidios injusto** que beneficia a los que más recursos tienen.
+
+Sin embargo, hasta este 21 de octubre de 2024 no se ha emitido ningún **decreto ejecutivo** ni un **acuerdo ministerial** con esta modificación. La secretaria de Comunicación de la Presidencia, **Irene Velez,** aseguró el miércoles 16 de octubre que ese mismo día se emitiría el documento con el cambio de tarifas.
+
+Régimen tarifario del Ecuador
+-----------------------------
+
+En el **tarifario eléctrico del Ecuador** constan los precios por kilovatio hora (Kwh) de las categorías bajo, medio y alto voltaje. Así como de los segmentos **residencial, comercial e industrial**, incluida la del sector minero.
+
+La demora en la revisión de la **tarifa eléctrica para las mineras** se debería principalmente a lo que fija la normativa. La Ley de Servicio Público de Energía Eléctrica establece que la tarifa eléctrica se debe revisar hasta noviembre de cada año y se aplica desde enero del año siguiente.
+
+Por ejemplo, el tarifario actual se aprobó en **noviembre del 2023** y está vigente desde el 1 de enero hasta el 31 de diciembre de 2024.
+
+En teoría, las tarifas eléctricas para el sector minero no podrían ser modificadas en este año. Primero debería analizarlo el **Directorio del Arconel** hasta noviembre y aplicarse desde próximo año.
+
+Tarifas eléctricas del sector minero
+------------------------------------
+
+La **tarifa eléctrica** aplicada a la industria minera corresponde al segmento **AV2** (Alto Voltaje con Demanda Horaria Diferenciada). Esta misma tarifa se aplica a otros **sectores industriales** como el **siderúrgico** y el **petrolero** **ecuatoriano**.
+
+Esta categoría incluye en su **cálculo costos de generación** y **transmisión** de energía eléctrica. Pero no el costo de **distribución y comercialización** facturado por las empresas eléctricas. Es decir, se conectan directamente a la red de alto voltaje.
+
+**Carolina Orozco**, presidenta de la **Cámara de Minería del Ecuador** (CME), señaló que no se oponen a la revisión de la tarifa eléctrica, siempre que se haga de forma técnica.
+
+Además, aclaró que solo las dos grandes mineras en fase de explotación: Fruta el Norte y Mirador, están dentro de este segmento y no todo el sector minero, como se ha difundido.
+
+“Entiendo que las dos empresas se han sentado a conversar con el Gobierno, más no para el reajuste de la tarifa eléctrica, sino para el tema de cuánto pueden autogenerar”, dijo Orozco.
+
+¿A quiénes se debe modificar la tarifa?
+---------------------------------------
+
+Por su parte, **Jorge Luis Hidalgo**, consultor energético, señaló que se debe sincerar toda la tarifa del segmento AV2 y no se puede actuar de **forma discriminatoria** en contra las mineras.
+
+Esta situación podría potencialmente derivar en **litigios internacionales** por prácticas discriminatorias. Además, enviaría una señal desfavorable que desincentivaría la **inversión futura** de otras compañías mineras en el país.
+
+Asimismo, **Roberto Aspiazu**, presidente de la Cámara de Energía del Ecuador, señaló que en las tarifas eléctricas de las empresas mineras se reconoce las inversiones que se hicieron en el sector eléctrico y que esa infraestructura ya pasó al Estado. Sin embargo, se pueden revisar la tarifa si las partes se ponen de acuerdo y debe respetar los contratos de inversión.
+
+Los huracanes más mortíferos de la historia reciente de EE.UU.
+==============================================================
+
+Helene es responsable por el momento de más de 200 muertes y es el segundo ciclón más mortífero que se registra en el Estados Unidos.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Tras casi una semana de haber tocado tierra en el **noroeste de Florida** como un huracán de categoría 4, [Helene](https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html") es responsable por el momento de más de 200 muertes y se alza ya como el segundo ciclón más mortífero que se registra en el Estados Unidos continental en los últimos 50 años.
+
+### Más noticias
+
+* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
+* [La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida](https://www.elcomercio.com/actualidad/mundo/tormenta-helene-pasa-frente-peninsula-yucatan-tiene-bajo-alerta-florida.html "La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida")
+* [Aviones llegan con ayuda del Ejército a Acapulco tras el huracán John](https://www.elcomercio.com/actualidad/mundo/aviones-llegan-ayuda-ejercito-acapulco-huracan-john.html "Aviones llegan con ayuda del Ejército a Acapulco tras el huracán John")
+
+Por delante de él, y a considerable ventaja, encabeza la lista el **huracán Katrina**, que con **1 392 muertes** adjudicadas figura entre los cinco ciclones tropicales más letales en la historia de Estados Unidos, de acuerdo al Centro Nacional de Huracanes (NHC, en inglés) de este país.
+
+Estos son los huracanes más mortales que impactaron en Estados Unidos continental en los últimos 50 años:
+
+5\. Harvey (2017)
+-----------------
+
+Produjo lluvias de registros históricos en Houston, en Texas, estado por cuya costa central de cara al Golfo de México tocó tierra el 25 de agosto, como un huracán de categoría 4. La cifra de muertos llegó a 103 y produjo destrucción en ese estado y en Luisiana.
+
+**4\. La supertormenta Sandy (2012)**
+-------------------------------------
+
+Produjo al menos **147 muertes directas** y una catastrófica marejada ciclónica en las costas de Nueva York y Nueva Jersey, por donde tocó tierra a fines de octubre como un gigantesco ciclón postropical.
+
+3. **Ian (2022)**
+-----------------
+
+El poderoso huracán Ian entró a Estados Unidos a través de la costa oeste de Florida y, como Helene, lo hizo con categoría 4. Dejó 156 decesos principalmente en Florida, además de Carolina del Norte y Virginia. Tras destruir más de **19 000 viviendas y edificios en el condado de Lee**, donde se asienta Fort Myers, Ian volvió a tocar tierra en Carolina del Sur.
+
+2\. Helene (2024)
+-----------------
+
+Entró por el **noroeste de Florida**, en la zona conocida como Big Bend, la noche del pasado 26 de septiembre con categoría 4 en la escala Saffir-Simpson (de un máximo de 5) y desde ahí dejó una estela de al menos 800 kilómetros de devastación por seis estados del sureste de EEUU. En Carolina del Norte, la **cifra de fallecidos asciende a casi un centena**r, en especial en el área al sur de los Montes Apalaches, pero las autoridades no descartan que la cifra aumente en los próximos días.
+
+**1\. Katrina (2005)**
+----------------------
+
+El inmenso **huracán Katrina** golpeó con virulencia la **costa estadounidense del Golfo de México** en agosto de 2005. Tocó tierra primero en Keating Beach, en Florida, como un ciclón de categoría 1, y luego alcanzó Luisiana y Misisipi con categoría 3. El mayor número de decesos se reportaron en la ciudad de Nueva Orleans (Luisiana), que registró catastróficas inundaciones por la marejada ciclónica.
+
+De acuerdo a los registros del NHC, Katrina es superado por el huracán conocido como Great Galveston, en Texas, de 1900 y que se calcula se cobró al menos 8 000 vidas, así como el de Lake Okeechobee, en Florida, de 1928 y responsable de unos 2 500 decesos.
+
+Otros huracanes
+---------------
+
+Otros huracanes dignos de mención son Agnes (1972), que se cobró 128 vidas, en especial en los estados de **Pensilvania, Nueva York, Virginia y Maryland**, donde se registraron considerables inundaciones luego de que el ciclón tocara tierra en el noroeste de Florida como un huracán de categoría 1.
+
+De igual modo, el **huracán Audrey,** que tocó tierra en Luisiana en junio de 1957 con categoría 3, y fue responsable de más de 400 decesos tras registrar una marejada ciclónica de hasta 3,5 metros (12 pies) en áreas de ese estado y de Texas.
+
+Y por último, el huracán María, de categoría 4, que en septiembre de 2017 devastó Puerto Rico y está considerado como el más destructivo en la historia reciente de la isla caribeña, la cual casi en su totalidad quedó sin electricidad. Si bien en un inicio se le atribuyeron 67 muertes, un posterior estudio hecho por la **Universidad George Washington por encargo del Gobierno de Puerto Rico**, elevó el número de fatalidades a 2 975. 
+
+Alejandro Toledo, expresidente de Perú, a prisión por 20 años ¿Cuáles son los delitos?
+======================================================================================
+
+El expresidente de Perú, Alejandro Toledo, fue encontrado culpable de dos delitos e irá a prisión por 20 años.
+--------------------------------------------------------------------------------------------------------------
+
+![Alejandro Toledo, expresidente de Perú, sentenciado a 20 años de prisión.](https://www.elcomercio.com/wp-content/uploads/2024/10/alejandro-toledo-expresidente-Peru-prision.jpg)
+
+El Poder Judicial de **Perú** condenó al expresidente, **Alejandro Toledo**, de 79 años, a **20 años** y seis meses de **prisión**, este lunes 21 de octubre de 2024.
+
+Toledo gobernó Perú de **2001 a 2006,** período en el que cometió **dos delitos**, según la sentencia judicial.
+
+### Más noticias:
+
+* [Alberto Fujimori recibe honores de Estado al ingreso de su velatorio en Lima](https://www.elcomercio.com/actualidad/mundo/alberto-fujimori-recibe-honores-estado-ingreso-velatorio-lima.html "Alberto Fujimori recibe honores de Estado al ingreso de su velatorio en Lima")
+* [Perú anuncia paro nacional de transportistas este 23 de octubre de 2024](https://www.elcomercio.com/actualidad/mundo/peru-anuncia-paro-nacional-transportistas-23-octubre-2024.html "Perú anuncia paro nacional de transportistas este 23 de octubre de 2024")
+
+Delitos del expresidente de Perú, Alejandro Toledo, y los años de prisión
+-------------------------------------------------------------------------
+
+El Poder Judicial de Perú sentenció al expresidente de Perú, Alejandro Toledo, a **20 años de prisión**, este lunes por **dos delitos**.
+
+El exmandatario peruano se involucró en la trama de corrupción de la empresa brasilleña **Odebrecht**.
+
+Por este motivo, un tribunal lo encontró culpable de **colusión y lavado de activos.**
+
+El Segundo Juzgado Penal Colegiado Nacional, presidido por **Zaida Pérez**, emitió la sentencia.
+
+En el dictamen, se considera que el exgobernante favoreció a la constructora brasileña en la concesión de los tramos 2 y 3 de la **Carretera Interoceánica**, que une a Perú y Brasil, entre 2004 y 2005.
+
+La justicia peruana aceptó plenamente la petición del **Ministerio Público**.
+
+Impuso a Toledo **nueve años** de cárcel por colusión y **once años** y seis meses por lavado de activos.
+
+**“En el delito de colusión, tribunal sostiene que se demostró un rosario de irregularidades, injerencia inusitada y aceleración del proceso de licitación de la referida obra, actos ilícitos vinculados a Toledo Manrique”, indicó el Poder Judical**, en su red social.
+
+El 16 de octubre, Toledo pidió al tribunal: “**déjenme curar o morir en mi casa**“.
+
+Toledo señaló que padece **cáncer** y de problemas del **corazón**, e insistió en su inocencia.
+
+El tribunal realizará la **lectura integral** de sentencia el próximo 31 de octubre, a las 10:00 a.m.
+
+Lionel Messi iguala récord por ganar premios en la MSL
+======================================================
+
+Lionel Messi consiguió su sexto premio en una temporada de la MLS y busca hacerse con el récord de la mayor cantidad de galardones.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi celebra su hat-trick con el Inter de Miami en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T184855.960.jpg)
+
+**Lionel Messi**, delantero del Inter Miami, fue elegido este lunes como mejor jugador de la semana en la MLS. Este ganó el galardón por sexta vez en esta campaña, tras el triplete anotado el sábado al New England Revolution.
+
+En tan solo 1.485 minutos en campo, **Messi** aportó en 36 jugadas de gol. A su vez, cerró la temporada regular con el récord de puntos (74) en la historia del campeonato.
+
+Messi, que también dio una asistencia ante el **Revolution**, ya había sido elegido mejor jugador de la semana en la jornada de competición 9, 11, 12, 32 y 36.
+
+### Más noticias:
+
+* [Lionel Messi y Leonardo Campana estarán en el Mundial de Clubes](https://www.elcomercio.com/deportes/lionel-messi-leonardo-campana-mundial-clubes.html "Lionel Messi y Leonardo Campana estarán en el Mundial de Clubes")
+* [Lionel Messi gana un nuevo premio basado en su figura](https://www.elcomercio.com/deportes/lionel-messi-trofeo-premio-marca.html "Lionel Messi gana un nuevo premio basado en su figura")
+* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
+
+Solo el mexicano **Carlos Vela** (2019) y **Jason Kreis** (1999) habían ganado este galardón seis veces en una sola temporada. Ambos acabaron llevándose el MVP al mejor jugador del curso.
+
+El Inter Miami ganó el Supporters Shield al mejor club de la temporada regular. Tras ello abrirá este viernes el programa de los ‘playoffs’ contra uno entre **Atlanta United y Montreal.**
+
+La primera ronda de los ‘**playoffs**‘ se disputará al mejor de tres partidos[.](https://es.wikipedia.org/wiki/Lionel_Messi "https://es.wikipedia.org/wiki/Lionel_Messi")
+
+Lionel Messi y una racha impresionante en Estados Unidos
+--------------------------------------------------------
+
+20 goles y 16 asistencias en 19 partidos. Ese es el impresionante balance de efectividad en la temporada regular de la MLS de **Lionel Messi**, que ahora arranca el ‘playoff’ con el Inter Miami y que tiene ya en el horizonte el Mundial de Clubes de la FIFA de 2025.
+
+Desde que Messi aterrizó en verano de 2023, el **Inter Miami** ganó la Leagues Cup el año pasado, llegó a la final de la US Open Cup de 2023 y ha conquistado en 2024 el MLS Supporters’ Shield.
+
+Las aportaciones de **Sergio Busquets y Jordi Alba** desde el año pasado y de Luis Suárez en esta temporada han sido fundamentales para el conjunto que dirige **Gerardo Martino**, pero al final el ingrediente estrella es el de siempre: la magia del genio de Rosario.
+
+Sin embargo, el 10 de la Albiceleste, por lesiones o por estar convocado con la selección de Argentina (sobre todo en la Copa América), solo ha podido jugar este año **19 partidos** de la MLS (15 como titular) con el Inter Miami.
+
+El conjunto de rosa aguantó de manera admirable durante la ausencia de su capitán, pero Messi también respondió a pleno rendimiento en los encuentros en los que sí participó con un increíble registro de **20 goles y 16 asistencias** que le coloca ya acariciando el MVP de la **MLS**.
+
+La Unión exige pruebas a Luz Valdivia por denuncias
+===================================================
+
+El Torneo de Ascenso Nacional entrega dos cupos para la Liga Pro Serie B de 2025.
+---------------------------------------------------------------------------------
+
+![Jugadores de La Unión y Luz Valdivia (de espaldas) en el Ascenso 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/union_luz_valdivia_1.jpg)
+
+**La Unión de Cotopaxi** salió al paso de las denuncias de Luz Valdivia de Santa Elena, que este lunes 21 de octubre de 2024, a través de sus redes sociales, mencionó que existen irregularidades en los partidos del Ascenso Nacional.
+
+Los de Santa Elena mencionaron que “(…) rechazan de manera contundente cualquier tipo de comportamiento antideportivo” que, a su criterio, **mancha la puesta en marcha del Ascenso Nacional**, un torneo que está bajo la organización de la Federación Ecuatoriana de Fútbol (FEF).
 
 ### Más noticias:
 
 * [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
-* [Barcelona SC vence a Emelec y se adueña del Clásico del Astillero](https://www.elcomercio.com/deportes/barcelona-emelec-clasico-astillero-fecha-10.html "Barcelona SC vence a Emelec y se adueña del Clásico del Astillero")
-* [¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?](https://www.elcomercio.com/deportes/a-que-hora-juegan-clasico-astillero-emelec-barcelona-partido.html "¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?")
+* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
+* [Segundo Castillo marca supremacía en los Clásicos con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sc-segundo-castillo-emelec-historial-clasico-astillero.html "Segundo Castillo marca supremacía en los Clásicos con Barcelona SC")
 
-Antes del cotejo frente a los eléctricos, el exfutbolista tuvo la posibilidad de trabajar dos semanas con el primer equipo debido al parón de eliminatorias. El choque ante el ‘Bombillo’, además, sería su segundo partido de estreno con **Barcelona SC** frente a tal rival.
+“Nos referimos a actos de corrupción e irregularidades que ocurrieron en nuestro último partido”, agregaron, apuntando al duelo de ida de los dieciseisavos de final que mantuvieron con La Unión en Pujilí.
 
-Para el compromiso, Castillo también había señalado que la concentración era absoluta y **Emelec** era un rival ante el que no podía perder su escuadra. Asimismo, este pidió apoyo a la hinchada eléctrica, la que respondió en el compromiso.
+Los locales ganaron por un contundente marcador de 5-0, con lo que la serie quedó prácticamente sentenciada, salvo un milagro futbolístico que se haga efectivo en la revancha a jugarse en Santa Elena.
 
-¿Cómo fue el Clásico del Astillero para Segundo Castillo con Barcelona SC?
---------------------------------------------------------------------------
+Ryder Ibarra, Alex González (2) y Bryan Rodríguez (2), este último con pasado en equipos como Libertad de Loja, 9 de Octubre, Macará, **Olmedo, Orense, Atlético Porteño, Olmedo, Aucas**, Norte América, Deportivo Azogues, entre otros, anotaron los goles.
 
-Para el cotejo, **Segundo Alejandro Castillo** puso un 4-2-3-1 en la cancha y retornó al esquema inicial a jugadores que habían perdido su rol con Ariel Holan. Los regresos de Brian Oyola, Leonai Souza y la titularidad de Álex Rangel destacaron en su alineación.
+Sin especificar a qué actos de “corrupción” se refieren, Luz Valdivia indicó que tomaron la “drástica decisión” de separar a jugadores de su equipo, y piden a la FEF que se encargue de hacer las respectivas investigaciones “para prevenir que este tipo de acciones se repitan”.
 
-Dentro del choque, **Barcelona SC** mostró un juego intenso desde el inicio, aunque al final de la primera mitad se vio arrinconado por Emelec. Finalmente, en el segundo tiempo, el ‘Ídolo’ se reencontró con su mejor fútbol y logró ganar.
+La Unión exige pruebas
+----------------------
 
-Los goles que le dieron el triunfo al equipo de ‘Sir Second’ fueron de **Janner Corozo y Álex Rangel**. El descuento para Emelec llegó desde Washington Corozo.
+Este mismo lunes la respuesta de La Unión, **club directamente aludido**, no se hizo esperar e hizo su descargo en redes sociales.
 
-El historial de Castillo en los Clásicos
-----------------------------------------
+“Rechazamos profundamente las acusaciones infundadas por el club Luz Valdivia” dijeron en la primera parte del comunicado.
 
-Este fue el segundo Clásico del Astillero de **Segundo Alejandro Castillo** como DT de Barcelona SC. Antes, cuanto tomó el equipo tras la salida de Diego López y la llegada de Holan, este igualó por un marcador de 1-1 en el Estadio Capwell.
+Indicaron que el 5-0 pone en evidencia su “**superioridad en todas las facetas del juego**“, por lo que debe “prepararse para garantizar un mejor espectáculo”.
 
-Aunque previo a los dos cotejos también tuvo un ciclo como entrenador canario, este no dirigió frente a **Emelec**.
+“Exhortamos a Luz Valdivia F.C. a que presente las evidencias que respalden sus acusaciones. De no hacerlo, **tomaremos acciones legales inmediatas para defender la reputación** y buen nombre de nuestra institución”, dicen en la parte final.
 
-Como futbolista, cuando jugó en **Barcelona SC**, Castillo sumó minutos en tres cotejos frente a Emelec. El ‘Ídolo’ y el ‘Mortero’ vencieron en dos y cayeron en uno.
+Huaquillas FC **también fue otro de los equipos que denunció irregularidades**. En la ida perdió por 5-0 ante Naranaja Mekánica en el estadio Alejandro Ponce Noboa de Guayaquil.
 
-288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales
-=================================================================================
-
-La seguridad de los binomios presidenciales estará a cargo de la Policía.
--------------------------------------------------------------------------
-
-![Este 21 de octubre de 2024, la Policía recibió implementos para la seguridad de binomios presidenciales.](https://www.elcomercio.com/wp-content/uploads/2024/10/servidores-policiales-candidatos.jpg)
-
-Los procesos para las **elecciones 2025** en Ecuador están en curso. **16 binomios** presidenciales se inscribieron para el proceso. La seguridad es uno de los temas bajo la lupa[.](https://es.wikipedia.org/wiki/Ecuador)
-
-### Más noticias
-
-* [Selección de miembros de las juntas para las elecciones 2025 se acerca](https://www.elcomercio.com/elecciones/seleccion-miembros-juntas-receptoras-voto-elecciones-2025-acerca.html "Selección de miembros de las juntas para las elecciones 2025 se acerca")
-* [Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos](https://www.elcomercio.com/actualidad/politica/abc-seguridad-candidatos-elecciones-2025-policia.html "Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos")
-* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
-
-La lista definitiva se conocerá el 30 de diciembre de este 2024. La **Policía Nacional**, este lunes, 21 de octubre, presentó a los servidores que asumirán la tarea.
-
-Además, el Gobierno entregó **64 vehículos** para la protección de las duplas que correrán por la Presidencia y Vicepresidencia.
-
-> [#EnVivo](https://twitter.com/hashtag/EnVivo?src=hash&ref_src=twsrc%5Etfw) || Ceremonia de culminación del el VIII y X Curso con Especialidad de Protección a Personas en Riesgo, en donde 280 agentes conformarán las cápsulas que brindarán seguridad a los binomios presidenciales para las [#EleccionesGenerales2025](https://twitter.com/hashtag/EleccionesGenerales2025?src=hash&ref_src=twsrc%5Etfw).[https://t.co/Bm6jbCKc2z](https://t.co/Bm6jbCKc2z)
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBU54_dxfzd/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> — Radio Vigía (Oficial) (@radio\_vigia) [October 21, 2024](https://twitter.com/radio_vigia/status/1848409163552153662?ref_src=twsrc%5Etfw)
+> [Una publicación compartida por Club Deportivo La Unión (@cdla\_union)](https://www.instagram.com/reel/DBU54_dxfzd/?utm_source=ig_embed&utm_campaign=loading)
 
-Elecciones 2025 y seguridad de candidatos
------------------------------------------
+No te pierdas – El Confesionario
+--------------------------------
 
-Durante una ceremonia, la **Policía** informó que se tratan de camionetas que estarán destinadas para la protección de los candidatos.
+Volcán Sangay emitió extensa columna de ceniza y gas
+====================================================
 
-El eje central recae en los **policías** que se formaron para proteger a los **binomios presidenciales**. Un enfoque en derechos humanos fue parte de las capacitaciones.
+El volcán Sangay se mantiene en alerta amarilla.
+------------------------------------------------
 
-Los efectivos son parte de la **Unidad de Protección de Dignatarios**. Ellos recibieron conocimientos como tiro de protección, inteligencia y contrainteligencia.
+![El volcán Sangay se mantiene constantemente monitoreado por el IG](https://www.elcomercio.com/wp-content/uploads/2024/10/ceniza-volcan-sangay.jpg)
 
-Se trata de 288 agentes de protección, quienes cumplieron **144 horas** de especialización. Contarán con chalecos antibalas.
+El **Instituto Geofísico** (IG) de la Escuela Politécnica Nacional detalló las condiciones que mantiene el **volcán Sangay** este lunes 21 de octubre de 2024.
 
-Los detalles del proceso
-------------------------
-
-> 🛡️ATENCIÓN | En el ambito de nuestras competencias y de la permanente articulación interinstitucional para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), 🇪🇨 nuestra presidenta [@DianaAtamaint](https://twitter.com/DianaAtamaint?ref_src=twsrc%5Etfw), participó en la ceremonia de presentación de los servidores 👮🏽‍♂️👮🏻‍♀️ de la [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw), que brindarán seguridad… [pic.twitter.com/pvky05Bao3](https://t.co/pvky05Bao3)
-> 
-> — cnegobec (@cnegobec) [October 21, 2024](https://twitter.com/cnegobec/status/1848425622428631372?ref_src=twsrc%5Etfw)
-
-Por su parte, **Diana Atamaint**, presidenta del **Consejo Nacional Electoral (CNE)**, indicó que se apunta a un proceso electoral seguro para todos los ecuatorianos.
-
-Según la **Presidenta** de la institución, el derecho a elegir y ser elegidos se garantizará con un trabajo técnico y especializado.
-
-Sin embargo, dijo la funcionaria, no se trata solo de brindar seguridad física, sino la esencia del **voto libre** y la igualdad de condiciones para todos los actores.
-
-El general **Wilson Pavón**, director de Seguridad Ciudadana y Orden Público, detalló que la **Policía** se fortaleció con la nueva especialidad para garantizar la democracia, definida en la **Constitución de la República**.
-
-Pavón, a su vez, destacó la coordinación con el **CNE** para cumplir con la labor, así como la importancia de los elementos logísticos que recibieron.
-
-Herramientas para la protección
--------------------------------
-
-El coronel en servicio pasivo, **Guido Núñez**, delegado desde el **Ministerio del Interior**, indicó que la capacitación es solo el primer paso. También se requiere comprensión de la dinámica social.
-
-Los **binomios presidenciales** tendrán una cápsula de seguridad de nueve servidores, dependiendo del nivel de riesgo.
-
-Guido Núñez informó que la asignación de los **vehículos** es parte del compromiso del **Gobierno Nacional** por el cumplimiento de la democracia.
-
-Los procesos para la seguridad
-------------------------------
-
-Para las **elecciones anticipadas 2023**, en las que fue asesinado el excandidato **Fernando Villavicencio**, el **CNE** reportó que 11 candidatos de binomios presidenciales solicitaron resguardo.
-
-En lo que se refiere a **asambleístas**, el pedido llegó de 41 aspirantes. En esas votaciones se definieron 137 curules y en el 2025, serán 151. También, serán cinco parlamentarios andinos.
-
-El análisis de riesgo lo realizan el **Ministerio del Interior** y la Policía Nacional, que tienen la competencia para brindar seguridad. Desde estas instancias se definen las operaciones.
-
-Desde el **CNE**, a su vez, detallaron que se integrará la denominada **mesa de seguridad electoral**, compuesta por personal de la institución, policial, Ecu 911, ministerios de Salud, Educación, Transporte, entre otras instancias.
-
-La delegación coordinará respuestas ante posibles eventualidades durante el proceso electoral.
-
-Mujeres alquilaban a sus hijas por 5 dólares, en Sangolquí
-==========================================================
-
-Las niñas eran obligadas a vender dulces en las calles y a pedir limosna, en los alrededores de un centro comercial del valle de Los Chillos
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial creada con inteligencia artificial sobre una madre que alquila a su hija.](https://www.elcomercio.com/wp-content/uploads/2024/10/trata-de-personas.jpg)
-
-La **Fiscalía General del Estado** (FGE) informó sobre el avance de un proceso contra cuatro personas que estarían involucradas en un **delito de trata de personas**.
+Basado en el reporte emitido por la agencia **VAAC** (Centro Internacional de Avisos de Cenizas Volcánicas, en inglés), el IG confirmó que el volcán emite de forma continua **gas y ceniza**, desde las primeras horas de la mañana.
 
 ### Más noticias
 
-* [Cortes de agua en Quito este lunes 21 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-lunes-21-de-octubre.html "Cortes de agua en Quito este lunes 21 de octubre")
-* [Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-quito-se-cierra-por-dos-choques-lunes-21-de-octubre.html "Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito")
-* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
-
-El proceso en la Fiscalía
--------------------------
-
-La Fiscalía informó, el 19 de octubre de 2024, que **formuló cargos** contra cuatro ciudadanos por trata de personas con fines de explotación laboral.
-
-Se trata de dos mujeres que **son procesadas por alquilar a sus hijas**, de 1 a 11 años, por 5 dólares diarios. Las madres alquilaban a las niñas a sus vecinos, quienes las obligaban a vender chupetes y pedir limosna en las calles.
-
-Las niñas eran obligadas **a conseguir dinero** en las zonas aledañas al centro comercial San Luis, ubicado en Sangolquí, Pichincha. Las menores presuntamente explotadas son cuatro niñas.
-
-Los vecinos que explotaban a las menores también **son procesados por Fiscalía.** El juez dictó prisión preventiva para los cuatro involucrados.
-
-La instrucción fiscal durará 30 días. Mientras se desarrolla el proceso, **las cuatro niñas** fueron ubicadas en **casas de acogida en Quito.**
-
-De ese modo, las menores estarán protegidas y cuidadas mientras se desarrolla la i[nvestigación](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) formuló cargos contra 4 personas por [#TrataDePersonas](https://twitter.com/hashtag/TrataDePersonas?src=hash&ref_src=twsrc%5Etfw) con fines de explotación laboral. Juez les dictó prisión preventiva. Las 4 víctimas (niñas) fueron ubicadas en casas de acogida en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/B0ICcXocoT](https://t.co/B0ICcXocoT)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 19, 2024](https://twitter.com/FiscaliaEcuador/status/1847788904402854114?ref_src=twsrc%5Etfw)
-
-El delito de trata de personas
-------------------------------
-
-El COIP estipula **la trata de personas** como “la captación… para sí o para un tercero, de una o más personas, con fines de explotación”. Además, señala como explotación la actividad que resulte de un provecho económico.
-
-_**Artículo 91.- Trata de personas.-** La captación, transportación, traslado, entrega, acogida o recepción para sí o para un tercero, de una o más personas, ya sea dentro del país o desde o hacia otros países con fines de explotación, constituye **delito de trata de personas**._
-
-_**Constituye explotación,** toda actividad de la que resulte un **provecho material o económico**, una ventaja inmaterial o cualquier otro beneficio, para sí o para un tercero, mediante el sometimiento de una persona o la imposición de condiciones de vida o de trabajo, obtenidos de:_
-
-1. La extracción o comercialización ilegal de órganos, tejidos, fluidos o material genético de personas vivas, incluido el turismo para la donación o trasplante de órganos.
-2. La explotación sexual de personas incluida la prostitución forzada, el turismo sexual y la pornografía infantil.
-3. La explotación laboral, incluido el trabajo forzoso, la servidumbre por deudas y el trabajo infantil.
-4. Promesa de matrimonio o unión de hecho servil, incluida la unión de hecho precoz, arreglada, como indemnización o transacción, temporal o para fines de procreación.
-5. La adopción ilegal de niñas, niños y adolescentes.
-6. La mendicidad.
-7. Reclutamiento forzoso para conflictos armados o para el cometimiento de actos penados por la ley.
-8. Cualquier otra modalidad de explotación. **(COIP, 2014)**.
-
-La edad de mayor actividad sexual en los hombres no es la que muchos piensan 
-=============================================================================
-
-La testosterona es la hormona encargada de controlar el deseo sexual y puede aumentar a cierta edad.
-----------------------------------------------------------------------------------------------------
-
-![La sexualidad masculina tiene dos etapas clave: “la edad más caliente” y “la madurez sexual”. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/actividad-sexual-hombres.jpg)
-
-Con el paso de la edad, de manera gradual, los hombres pueden experimentar diferentes cambios en su cuerpo y su **actividad sexual**, los cuales están relacionados con el tejido testicular, la producción de espermatozoides, la disminución de la testosterona y la **función eréctil**, de acuerdo con MedlinePlus. 
-
-### Más noticias
-
-* [Sugerencias para hablar sobre la sexualidad en la tercera edad](https://www.elcomercio.com/tendencias/salud/sexualidad-tercera-edad-mitos-verdades.html "https://www.elcomercio.com/tendencias/salud/sexualidad-tercera-edad-mitos-verdades.html")
-* [Exnovia de Maluma y Neymar es pansexual](https://www.elcomercio.com/tendencias/entretenimiento/exnovia-maluma-neymar-pansexual-sexualidad.html "https://www.elcomercio.com/tendencias/entretenimiento/exnovia-maluma-neymar-pansexual-sexualidad.html")
-
-**Factores que influyen en la reducción del deseo sexual** 
------------------------------------------------------------
-
-Así, pueden experimentar una **reducción del deseo sexual**, pero esto no se debe únicamente a la vejez, ya que también pueden influir los cambios sociales, psicológicos, los problemas de salud crónicos o medicamentos que hacen que **sus respuestas en la intimidad sean más lentas y menos intensas**. 
-
-**Las dos etapas clave de la sexualidad masculina** 
-----------------------------------------------------
-
-Algunos sexólogos explican que la **sexualidad masculina** tiene dos momentos claves que son descritos como “la edad más caliente” y “la madurez sexual”, en las cuales se determinan los **mejores momentos de la actividad sexual en los hombres**, según Vidae. 
-
-**La “edad más caliente”: los 20 y 30 años** 
----------------------------------------------
-
-Los **expertos en sexología** sostienen que la edad en la que los hombres suelen ser más activos se encuentra entre **los 20 y los 30 años**, puesto que diversos estudios explican que durante esa etapa **los niveles de testosterona son mayores que en otras edades**, de acuerdo con Vidae. 
-
-**La función de la testosterona en la vida sexual** 
-----------------------------------------------------
-
-Esta **hormona** es la encargada del crecimiento del vello corporal, el desarrollo muscular y la profundización de la voz en la adolescencia de los varones, mientras que en la edad adulta tiene la tarea de **controlar el deseo sexual, mantener la masa muscular y la producción de la esperma**, según Medlineplus. 
-
-**Disminución gradual de la testosterona a partir de los 30** 
---------------------------------------------------------------
-
-La **testosterona suele mantenerse en niveles elevados** desde los 20 hasta principios de los 30 años, esto porque la **capacidad física de los hombres les permite mantener relaciones sexuales frecuentes**, pero esta también tiende a disminuir con el paso del tiempo, según Vidae. 
-
-**Madurez sexual: la etapa de los 35 en adelante** 
----------------------------------------------------
-
-A mediados de los 30 y 40 años **comienza a disminuir esta hormona**, lo que puede ser notorio en su **vida sexual**, pero esto no significa que pueda tener una **menor calidad en sus momentos íntimos**, ya que dicha disminución **no afecta el nivel de satisfacción** que puede obtener. 
-
-**Madurez emocional y calidad de los encuentros** 
---------------------------------------------------
-
-Desde esa franja de edad se puede experimentar la denominada **“madurez sexual”**, en la que los hombres no se dejan influenciar en mayor medida por sus **impulsos sexuales**, y la **madurez emocional** puede **mejorar la calidad de los encuentros sexuales**, pues se afianza la conexión emocional y la confianza en sí mismo. 
-
-Perú anuncia paro nacional de transportistas este 23 de octubre de 2024
-=======================================================================
-
-Perú vivirá un paro nacional convocado por una amplia variedad de gremios,en respuesta a la alarmante criminalidad.
--------------------------------------------------------------------------------------------------------------------
-
-![Manifestantes participan en una protesta cerca al Congreso de la República el jueves, 11 de octubre de 2024, en Lima (Perú).](https://www.elcomercio.com/wp-content/uploads/2024/10/peru-manifestacion-efe.jpg)
-
-El 23 de octubre de 2024, **diversas agrupaciones**, incluidos transportistas, se unirán al paro nacional exigiendo **acciones del Gobierno** ante la creciente ola de criminalidad.
-
-### Más noticias
-
-* [Perú lanza alerta epidemiológica ante el riesgo de casos importados de sarampión](https://www.elcomercio.com/actualidad/mundo/peru-lanza-epidemiologica-ante-el-riesgo-casos-importados-sarampion.html "Perú lanza alerta epidemiológica ante el riesgo de casos importados de sarampión")
-* [Perú refuerza la vigilencia y el monitoreo ambiental en el santuario del Machu Picchu](https://www.elcomercio.com/actualidad/mundo/peru-refuerza-vigilencia-monitoreo-ambiental-santuario-machu-picchu.html "Perú refuerza la vigilencia y el monitoreo ambiental en el santuario del Machu Picchu")
-* [Perú venció a Uruguay de manera agónica en eliminatorias](https://www.elcomercio.com/deportes/futbol/peru-vencio-uruguay-de-manera-agonica-en-eliminatorias.html "Perú venció a Uruguay de manera agónica en eliminatorias")
-
-Este miércoles 23 de octubre de 2024, Perú vivirá un **paro nacional** que fue convocado por una **amplia variedad de gremios**, incluidos los transportistas, en respuesta a la **alarmante ola de criminalidad** que afectó a **distintos sectores empresariales**.
-
-Esta movilización busca hacer sentir el **descontento de la ciudadanía** y exigir al Gobierno medidas concretas para combatir la inseguridad. La información fue reportada inicialmente por El Comercio de Lima.
-
-Inseguridad ciudadana: un problema urgente
-------------------------------------------
-
-El fenómeno de la inseguridad en **Perú es complejo y multifacético**, como señala el Instituto Nacional de Estadística e Informática (INEI). La creciente preocupación por **extorsiones y actos de sicariato** generó una ola de movilizaciones, siendo la del 23 de octubre 2024, una de las más significativas.
-
-Gremios de transportistas sufrieron ataques violentos, se unirán a otras **organizaciones sociales** y empresariales para exigir un cambio urgente en la **política de seguridad.**
-
-De acuerdo a la **Coordinadora Nacional de Lucha Multisectorial**, más de 200 asociaciones compartieron su participación en el paro. Entre los **grupos involucrados** se encuentran estudiantes de la **Universidad Nacional Mayor de San Marcos (UNMSM)**, mototaxistas, taxistas, bodegueros y diversas organizaciones de mercados y asentamientos humanos.
-
-La manifestación se concentrará en la **Plaza Dos de Mayo**, desde la medianoche, y se espera que a las 10 de la mañana los participantes se dirijan hacia el Congreso de la República, buscando ser **atendidos por las autoridades**, según indica El Comercio de Lima.
-
-Exigencias de los participantes
--------------------------------
-
-Las demandas de los gremios son claras y urgentes. Se solicita un aumento en la presencia de la Policía Nacional del Perú en los puntos críticos, así como un **mejoramiento de la seguridad** en comercios, universidades y otros espacios públicos.
-
-También se exige **mayor severidad** en las penas para los delincuentes, especialmente **sicarios y extorsionadores,** y la derogatoria de leyes que se consideran inadecuadas para **combatir el crimen organizado.**
-
-La movilización del 23 de octubre es, sin duda, un llamado a la acción por parte de un sector de la población que se siente desprotegido. Buscan **medidas concretas** para frenar la ola de criminalidad que afecta a sus comunidades y a su actividad laboral.
-
-La participación de una variedad de gremios muestra el grado de insatisfacción que existe y la **necesidad de respuestas inmediatas** por parte del Gobierno, tal como fue señalado en El Comercio de Lima.
-
-Con esta jornada de protesta, los ciudadanos buscan no solo visibilizar su problemática, sino también presionar por un cambio en las **políticas de seguridad** que aseguren un entorno más seguro para todos. La unión de los distintos gremios podría marcar un hito en la lucha contra la **criminalidad en Perú,** reforzando el llamado a la acción que resonó en los últimos meses.
-
-Liga de Quito e Independiente del Valle buscan la etapa en su recta final
-=========================================================================
-
-Liga de Quito e Independiente del Valle son los más opcionados a ganar la segunda etapa a falta de cinco fechas.
-----------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez de Independiente del Valle defiende un balón ante Facundo Rodríguez, quien se marchó de Liga de Quito a mediados del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/20240518108037-fbl-ligapro-ecuabet-independiente-ldu-scaled.jpg)
-
-**Liga de Quito** ganó 1-2 a **Técnico Universitario** en la fecha 10 y, a cinco fechas del final de la segunda fase, quedó más cerca de retener el título que ostenta desde el año anterior, pero bajo la presión del Independiente del Valle.
-
-El ‘Rey de Copas de Ecuador’ marcó la diferencia con anotaciones del argentino **Lisandro Alzugaray** y del paraguayo **Luis Arce**, que llegó a 20 tantos en la actual temporada. A su vez, los albos sumaron 22 puntos.
-
-### Más noticias:
-
-* [Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?](https://www.elcomercio.com/deportes/liga-quito-marco-angulo-inspiracion-tecnico-universitario.html "Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?")
-* [Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro](https://www.elcomercio.com/deportes/liga-quito-liga-pro-marco-angulo-tecnico-universitario-partido.html "Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro")
-* [‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito](https://www.elcomercio.com/deportes/futbol/liga-quito-liderato-ligapro-vitamina-sanchez.html "‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito")
-
-El ‘Rodillo Rojo’, que no supo aprovechar la superioridad numérica, tras la expulsión al minuto 58 de Daniel De la Cruz, de Liga de Quito, descontó a través de **Diego Armas**, que acumuló 13 goles en el torneo.
-
-Entretanto, **Independiente del Valle**, con un jugador menos desde el minuto de juego por la expulsión del argentino Joaquín Pombo, derrotó 3-1 al Imbabura, con dos tantos del colombiano Jeison Medina y del ecuatoriano Patrik Mercado.
-
-El gol del **Imbabura** fue un tanto en propia meta del independentista **Richard Schunke**. Tras el tiunfo, IDV llegó a los 20 puntos y mantiene la ilusión de ser campeón directo.
-
-Orense está al acecho de Liga de Quito e Independiente del Valle
-----------------------------------------------------------------
-
-El **Orense**, dirigido por el colombiano Santiago ‘Sachi’ Escobar, ganó de forma agónica por 1-0 al colista, Libertad, y está a tres puntos de **Liga de Quito**, con lo que se mantiene en disputa por el billete de segundo finalista por el título de 2024 en Ecuador.
-
-En los minutos de reposición, Miguel Parrales anotó el gol salvador para el **Orense** que, de esa forma rompió el empate sin goles que hasta entonces tenía con el **Libertad**, el colista que en cada partido se juega la permanencia en la primera división.
-
-Mientras los dirigidos para **‘Sachi’ Escobar** celebraron alborozados el sufrido triunfo, los de Libertad comenzaron a ver más de cerca la posibilidad de perder la categoría para el próximo año[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-Barcelona SC, aún con esperanzas tras el Clásico del Astillero
---------------------------------------------------------------
-
-**Barcelona SC** ganó por 2-1 el ‘Clásico del Astillero’ a Emelec, mientras que Liga de Quito sostuvo el liderato y la posibilidad de retener el título 2023, en la décima fecha de la segunda fase de la Liga Pro.
-
-Gracias a los goles de **Janner Corozo** y de **Alex Rangel**, Barcelona ganó y despertó una mínima posibilidad para acercarse a los primeros puestos dominados por Liga de Quito con 22 puntos e Independiente del Valle con 20.
-
-El descuento de Emelec fue de **Washington Corozo**, por lo que Emelec se alejó en gran medida de la opción para llegar a algún torneo internacional en 2025.
-
-Ozzy Osbourne es el ‘Príncipe de las Tinieblas’ y rey del Salón de la Fama del Rock & Roll
-==========================================================================================
-
-El cantante Ozzy Osbourne se conmovió con su nuevo reconocimiento.
-------------------------------------------------------------------
-
-![Ozzy Osbourne, de 75 años, recibió un nuevo reconocimiento por su trayectoria musical. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T123645.980.jpg)
-
-**[Ozzy Osbourne](https://www.ozzy.com/es "https://www.ozzy.com/es")**, el icónico **‘Príncipe de las Tinieblas’**, fue homenajeado en una **emotiva ceremonia** al ser incluido nuevamente en el **Salón de la Fama del Rock & Roll**. El reconocimiento ocurrió el pasado sábado.
-
-### **Más noticias:**
-
-* [Carlos Vives, Shakira y más músicos colombianos lloran la muerte de Egidio Cuadrado](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musicos-colombia-deceso-edigio-cuadrado.html "https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musicos-colombia-deceso-edigio-cuadrado.html")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’](https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html "https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html")
-
-**Ozzy Osbourne es el ‘Príncipe de las Tinieblas’ y rey del Salón de la Fama del Rock & Roll**
-----------------------------------------------------------------------------------------------
-
-Esta vez -su inclusión reconoce su exitosa carrera como solista- que comenzó en 1980 con el álbum **‘Blizzard of Ozz**‘.
-
-Jack Black, actor y líder de Tenacious D, fue el encargado de presentar a **Osbourne**, describiéndolo como “el líder más grande en la historia del rock ‘n’ roll” y resaltando su influencia en la música pesada.
-
-La ceremonia se llenó de estrellas, con actuaciones de miembros de bandas legendarias como **Metallica**, Tool y Red Hot Chili Peppers. Los músicos interpretaron clásicos de **Osbourne**.
-
-Sentado en un trono y visiblemente emocionado, el artista agradeció a sus fans por su lealtad a lo largo de los años.
-
-“No puedo creer que yo mismo esté aquí”, expresó Osbourne, haciendo un especial reconocimiento a su difunto guitarrista Randy Rhoads.
-
-A pesar de enfrentar problemas de salud, incluida la enfermedad de Parkinson, **Osbourne** mostró un espíritu inquebrantable.
-
-**¿Cuándo ingresó Ozzy Osbourne por primera vez al Salón de la Fama?**
-----------------------------------------------------------------------
-
-Su primera inducción al **Salón de la Fama** ocurrió en 2006 como parte de Black Sabbath, y ahora se convierte en uno de los pocos artistas en ser incluido más de una vez.
-
-**¿Qué enfermedades tiene Ozzy Osbourne?**
-------------------------------------------
-
-**Ozzy Osbourne** ha enfrentado varios problemas de salud a lo largo de su vida, muchos de los cuales han sido exacerbados por su estilo de vida y su historia de abuso de sustancias.
-
-Entre las **enfermedades** más notables se encuentra la enfermedad de **Parkinson**, diagnosticada en 2019, que afecta su movilidad y equilibrio.
-
-A pesar de esta condición, Ozzy continúa trabajando en su música, demostrando una notable resiliencia y pasión por su carrera.
-
-Además de la enfermedad de Parkinson, Ozzy ha enfrentado otros desafíos, como una grave infección en las manos y una caída que le provocó lesiones en 2019. Estas experiencias han llevado a Ozzy a reflexionar sobre su salud y su bienestar, incluso considerándose un sobreviviente en su propia vida. A pesar de sus luchas, ha mantenido una actitud positiva y ha utilizado su plataforma para crear conciencia sobre la salud mental y física, inspirando a muchos de sus seguidores a enfrentar sus propias dificultades.
-
-Chris Hoy publica sus memorias y habla sobre su enfermedad terminal
-===================================================================
-
-Ganador de seis medallas de oro olímpicas, Chris Hoy es el segundo deportista más laureado del olimpismo británico
-------------------------------------------------------------------------------------------------------------------
-
-![El exciclista escocés Chris Hoy confesó que sufre un cáncer terminal.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-13-1.jpg)
-
-El exciclista escocés **Chris Hoy**, leyenda del olimpismo en el **Reino Unido**, confesó en una entrevista que sufre un cáncer terminal y que los especialistas le han dado de dos a cuatro años de vida.
-
-En la entrevista con el dominical **‘The Sunday Times’**, Hoy aseguró que pese a su diagnóstico, que ha sacudido a un país donde es muy querido, se siente “muy afortunado”.
-
-### Más noticias:
-
-* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
-* [El ecuatoriano Jefferson Cepeda ficha por el Movistar Team](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-movistar-team-ecuatoriano-ciclismo.html "El ecuatoriano Jefferson Cepeda ficha por el Movistar Team")
-* [Dura caída y despedida de Jhonatan Narváez del Ineos Grenadiers](https://www.elcomercio.com/deportes/ciclismo/jhonatan-narvaez-caida-ineos-despedida-uae.html "Dura caída y despedida de Jhonatan Narváez del Ineos Grenadiers")
-
-El propio primer ministro del Reino Unido, Keir Starmer, reaccionó a la noticia a través de un mensaje en la red social X en la que calificó a Hoy de “leyenda deportiva británica”.
-
-“Qué noticia tan triste (…) Afrontar ese diagnóstico con semejante positivismo es inspirador. El país entero está detrás de él y de su familia”, escribió **Starmer.**
-
-El pasado septiembre, Hoy acudió al especialista por unas molestias en el hombro, que resultaron ser un tumor, aunque posteriormente conoció que se trataba de la metástasis extendida por el cuerpo que le había producido un cáncer en la próstata.
-
-En febrero hizo público que sufría cáncer, si bien entonces no reveló que se trataba de una dolencia terminal y se limitó a decir que el tratamiento con [quimioterapia](https://es.wikipedia.org/wiki/Quimioterapia) estaba funcionando bien.
-
-Chris Hoy
----------
-
-Ganador de **seis medallas de oro olímpicas** en los Juegos de 2004, 2008 y 2012, Hoy es el segundo deportista más laureado del olimpismo británico, solo tras el también ciclista **Jason Kenny**, y una de las personalidades deportivas más queridas en el Reino Unido.
-
-“La mayor parte de mi batalla con el cáncer no ha sido física, ha sido en mi cabeza”, dice en la entrevista.
-
-El exciclista **publica ahora sus memorias**, bajo el título ‘All that matters: My toughest race yet’ (‘Todo lo que importa: Mi carrera más dura hasta ahora’), en las que también revela que su esposa, **Sarra,** sufrió recientemente un diagnóstico de esclerosis múltiple.
-
-Gracias a la ayuda psicológica que ha recibido, pone de relieve que ha conseguido asumir mejor su enfermedad terminal y ahora pretende ayudar con su libro a quienes atraviesan el mismo trance.
-
-“Con el corazón en la mano, estoy bastante positivo la mayor parte del tiempo y siento una felicidad genuina. Esto es más grande que los Juegos Olímpicos, es más grande que cualquier cosa. Va sobre apreciar la vida y encontrar la alegría”, dice el atleta, que no ha dejado de salir en bicicleta casi ningún día desde que recibió el diagnóstico.
-
-Cortes de agua en Quito este lunes 21 de octubre
-================================================
-
-La restitución del servicio de agua potable se reanudará de forma paulatina a partir del horario señalado en los cortes de agua
--------------------------------------------------------------------------------------------------------------------------------
-
-![Los moradores de los barrios altos de Quito se abastecen con tanqueros.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-agua-Quito.jpg)
-
-La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
-
-### Más noticias
-
-* [Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-quito-se-cierra-por-dos-choques-lunes-21-de-octubre.html "Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito")
-* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
-* [Tres paradas de la Ecovía se cierran temporalmente, en Quito](https://www.elcomercio.com/actualidad/quito/tres-paradas-ecovia-cerradas-temporalmente-quito.html "Tres paradas de la Ecovía se cierran temporalmente, en Quito")
-
-¿A qué se deben los cortes de agua?
+* [Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia](https://www.elcomercio.com/actualidad/ecuador/rio-cuenca-estiaje-sector-lluvia.html "Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia")
+* [Las quebradas de Quito, el riesgo de las lluvias y la necesaria prevención](https://www.elcomercio.com/actualidad/quito/quebradas-quito-riesgo-prevencion-lluvias.html "Las quebradas de Quito, el riesgo de las lluvias y la necesaria prevención")
+* [Los santos y el clima: una relación que no se abandona en América Latina](https://www.elcomercio.com/actualidad/quito/santos-clima-relacion-america-latina.html "Los santos y el clima: una relación que no se abandona en América Latina")
+
+Ceniza del Sangay se dirige al este
 -----------------------------------
 
-La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló este lunes 21 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
+De acuerdo con el monitoreo de las cámaras de vigilancia, la emisión alcanzo una altura de **1 200 metros** sobre el nivel del cráter.
 
-La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
+La ceniza se dirige hacia el **este y este sur** del país, sin embargo, la Secretaría de Gestión de Riesgos no ha informado que los **restos de combustión** hayan caído en localidades cercanas.
 
-Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
+Hasta la tarde de este lunes, la actividad en el volcán Sangay tiene un nivel superficial alto, mientras que la intensidad interna es moderada.
 
-Barrios afectados en Quito de 10:00 a 14:00
--------------------------------------------
+Este volcán de 5 230 metros de altura se ubica en **Morona Santiago**. Su proceso eruptivo comenzó en **1628**, desde ese momento se ha mantenido activo; por ahora tiene **alerta amarilla**.
 
-* **Parroquia Belisario Quevedo:** La Granja, Zona de Protección Belisario, Las Casas, San Vicente, Santa Clara de San Millán (Comuna), La Primavera, Pambachupa, La Gasca
-* **Parroquia Chilibulo**: Chilibulo, La Dolorosa, Yaguachi, Comuna Marcopamba-Chilibulo-La Raya, Zona de Protección Chilibulo
-* **Parroquia Conocoto:** Montserrat, Valle Hermoso, Eucaliptos, San Cristóbal, Valle Hermoso, San José de Conocoto, El Rosario, Ontaneda Alta
-* **Parroquia** **La Argelia:** El Paraíso de Guajaló, Santa Rosa de La Argelia, Cumbres de Santa María, Hierba Buena 2, San Carlos, Argelia Alta, Oriente Quiteño, El Mirador Alto de La Argelia, Lucha De los Pobres Bajo, San Bartolo Alto, San Luis de La Argelia, La Concepción, Aída León, Zona de Protección de La Argelia, Argelia Baja, El Portal de Guajaló, Miravalle 2, Rancho Los Pinos, San Bartolo Bajo, Lucha De los Pobres Alto
-* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Luis de Miravalle, Ferroviaria Alta y Media, El Recreo, Luluncoto, Clemencia, Chaguarquingo, Unión de Ciudadelas, San Patricio de Puengasí, Forestal Alta
-* **Parroquia La Libertad**: Josefina Enríquez, Santa Lucía Alta, Cima de la Libertad, La Colmena, San Diego Alto, Los Ángeles, Libertad Baja, San José de la Libertad
-* **Parroquia Puengasí:** Valle de Puengasí, Bosque IESS, San Isidro
-* **Parroquia Quitumbe:** Valles del Sur, Tambo El Inca, Nuevos Horizontes Sur, San Blas II, Ciudad Futura, San Martín de Porres, El Mirador de Guajaló Alto, Tambo del Inca, Zona de Protección Quitumbe
-* **Parroquia** **Rumipamba:** Ninguilla, Zona de protección Rumipamba.
-
-Zonas afectadas con cortes de agua de 12:00 a 18:00
----------------------------------------------------
-
-* **Parroquia Centro Histórico:** El Panecillo, San Diego.
-* **Parroquia Chimbacalle:** Chiriyacu Central, Pío XII, Luluncoto
-* **Parroquia Conocoto:** Montserrat, Valle Hermoso, Eucaliptos, San Cristóbal
-* **Parroquia Itchimbía:** La Vicentina, San Pedro y San Pablo, El Sena, Nueva Tola, Zona de Protección Itchimbía
-* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Luis de Miravalle, Ferroviaria Alta, El Recreo, Luluncoto, Clemencia, Chaguarquingo, Chiriyacu Alto, El Recreo, Unión de Ciudadelas, San Patricio de Puengasí, Forestal Alta, Media Luna
-* **Parroquia La Libertad:** San Diego Alto, San José de la Libertad, Santa Lucía Alta y Baja, La Colmena, Libertad Baja
-* **Parroquia Puengasí:** Sauces del Valle, Obrero Independiente, Balcón del Valle, Monjas Alto, Eloy Alfaro, Cuscungo, Miravalle, Futuro Libre, Arellano Portilla, Alta Vista, Portal del Edén, Bolívar Rodríguez, Madrigal, Patrimonio Familias, San Francisco, El Guabo, Collacoto, San Isidro, Monjas Medio, Planada Arboleda, Bosque IESS, Alma Lojana, Zona de Protección Machángara, Sauces del Valle, Orquídeas, Monjas Bajo, San Juanito, 18 de Mayo
-* **Parroquia San Juan:** Álvaro Pérez, La Ballica, Zona de Protección San Juan, Ciudadela Amazonas, El Tejar, Ciudadela Espejo, Toctiuco, San Salvador, Balcón Colonial, Miraflores Alto, La Chilena, El Rosal, Miraflores, Placer Bajo, Placer Alto, San Juan, Salvador Allende, América.
-
-Barrios afectados en Quito de 16:00 a 22:00
--------------------------------------------
-
-* **Parroquia Chilibulo:** Yaguachi, Chilibulo, La Dolorosa, Comuna Marcopamba – Chilibulo – La Raya, Zona De Protección Chilibulo
-* **Parroquia Conocoto:** Ontaneda, San Cristóbal, San José de Conocoto Alto, El Rosario
-* **Parroquia La Argelia:** Aída León, San Carlos, Zona de Protección de La Argelia, Miravalle 2, San Bartolo Alto, Oriente Quiteño, Cumbres de Santa María
-* **Parroquia La Ferroviaria:** Ferroviaria Alta y Media, Forestal Alta, La Clemencia, Mirador de Puengasí, San Luis de Miravalle
-* **Parroquia La Libertad:** La Colmena, Libertad Baja, Los Ángeles, Santa Lucía Baja, Cima de La Libertad, San Diego Alto, San José de La Libertad, Josefina Enríquez, Santa Lucía Alta
-* **Parroquia Quitumbe:** San Blas II, Tambo El Inca, San Martín de Porres, El Mirador de Guajaló Alto, Zona de Protección Quitumbe, Valles del Sur, Ciudad Futura, Nuevos Horizontes del Sur
-
-La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
-
-Puedes consultar la **programación completa de cortes de agua** en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/")
-
-> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable este 21 de octubre de 2024 👉 [https://t.co/Py4LaIiQ07](https://t.co/Py4LaIiQ07)  
->   
-> Conoce si tu sector está afectado a través de:  
->   
-> 📲Mensaje al WhatsApp 096… [pic.twitter.com/3D7w6OV9d1](https://t.co/3D7w6OV9d1)
+> [#IGAlInstante](https://twitter.com/hashtag/IGAlInstante?src=hash&ref_src=twsrc%5Etfw) Informativo VOLCÁN SANGAY No. 2024-059  
+> LUNES 21 DE OCTUBRE DE 2024  
+> Hoy, lunes 21 de octubre, desde las primeras horas de la mañana, a través de imágenes satelitales (GOES-16), se observa de manera continua una emisión de gas y ceniza desde el volcán Sangay. De… [pic.twitter.com/J3Ib1OIsnc](https://t.co/J3Ib1OIsnc)
 > 
-> — Epmaps – Agua de Quito (@aguadequito) [October 21, 2024](https://twitter.com/aguadequito/status/1848398301663801398?ref_src=twsrc%5Etfw)
+> — Instituto Geofísico (@IGecuador) [October 21, 2024](https://twitter.com/IGecuador/status/1848447278429966738?ref_src=twsrc%5Etfw)
 
-Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC
-=======================================================================
+Volcán El Reventador arrojó piroclastos
+---------------------------------------
 
-Antonio Álvarez, presidente de Barcelona SC, por qué se dio la salida de Damián Díaz y que el futbolista comprometía la salud del club.
----------------------------------------------------------------------------------------------------------------------------------------
+El Reventador es otro de los **27 volcanes** que permanecen activos en Ecuador.
 
-![Damián 'Kitu' Díaz durante su etapa en Barcelona SC, donde fue capitán.](https://www.elcomercio.com/wp-content/uploads/2024/10/20240410101424-fbl-libertadores-barcelona-talleres.jpg)
+Este sábado 19 de octubre, el Instituto Geofísico observó el descenso de una corriente de densidad piroclástica (flujo piroclástico).
 
-**Barcelona SC** tuvo un alivio en su último triunfo en el Clásico del Astillero tras vencer a Emelec por 2-1, sin embargo, el equipo llegó al partido tras revivir la salida de uno de sus referentes. En la asamblea de socios del club, **Antonio Álvarez** -presidente de la directiva- explicó cómo y por qué se marchó Damián Díaz.
+Esta corriente alcanzó los **800 metros** bajo el nivel del cráter, por el flanco sur-oriental del volcán.
 
-El fin de la primera etapa de la **Liga Pro** en junio del 2024 también marcó el cierre del paso del ‘Kitu’ por el elenco canario. Después de ocho años con el conjunto canario tras su retorno en 2016, pues antes estuvo entre 2011 y 2013, el futbolista se marchó del elenco y se vinculó a **Banfield** de su país.
+La actividad histórica de este volcán es poco conocida debido a su remota ubicación, su inaccesibilidad y a las persistentes malas condiciones climáticas que impiden observaciones visuales directas.
+
+Sin embargo, se estima que el volcán ha tenido al menos **16 erupciones** entre 1541 y la actualidad, según los estudios del IG.
+
+Este lunes, su actividad superficial se mantuvo en **alta** y su interna en **moderada**. No se registraron cambios en sus tendencias.
+
+> Informe Diario [#ElReventador](https://twitter.com/hashtag/ElReventador?src=hash&ref_src=twsrc%5Etfw) N° 2024-295  
+> lunes 21 de octubre de 2024  
+> Nivel de Actividad:  
+> Superficial: Alta  
+> Tendencia Superficial: Sin cambio  
+> Interna: Moderada  
+> Tendencia Interna: Sin cambio  
+> Revisarlo en: [https://t.co/VigR21bfIH](https://t.co/VigR21bfIH) [pic.twitter.com/JXZ1djJolP](https://t.co/JXZ1djJolP)
+> 
+> — Instituto Geofísico (@IGecuador) [October 21, 2024](https://twitter.com/IGecuador/status/1848403205144907889?ref_src=twsrc%5Etfw)
+
+Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro
+========================================================================
+
+Segundo Alejandro Castillo debutó con Barcelona SC, ganó el Clásico del Astillero ante Emelec y fue elegido el mejor de la Liga Pro.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Segundo Alejandro Castillo, DT de Barcelona SC, después del Clásico del Astillero ante Emelec.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T174612.227.jpg)
+
+La décima fecha de la Liga Pro contó con el Clásico del Astillero entre **Barcelona SC y Emelec**, cotejo en el cual el ‘Ídolo’ vio el debut de su nuevo DT. **Segundo Alejandro Castillo**, nuevo entrenador de los canarios arrancó su ciclo con una victoria y fue elegido como el mejor de la jornada.
+
+Después de la goleada de 3-0 ante **El Nacional** en Quito, los toreros decidieron modificar su cuerpo técnico y se produjo la salida de **Ariel Holan.** En reemplazo del argentino, el ‘Ídolo’ confió en Castillo, un hombre de la casa que también formó parte del equipo de trabajo del exentrenador y antes ya había asumido de forma interina.
 
 ### Más noticias:
 
+* [Segundo Castillo marca supremacía en los Clásicos con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sc-segundo-castillo-emelec-historial-clasico-astillero.html "Segundo Castillo marca supremacía en los Clásicos con Barcelona SC")
+* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
 * [Barcelona SC vence a Emelec y se adueña del Clásico del Astillero](https://www.elcomercio.com/deportes/barcelona-emelec-clasico-astillero-fecha-10.html "Barcelona SC vence a Emelec y se adueña del Clásico del Astillero")
-* [¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?](https://www.elcomercio.com/deportes/a-que-hora-juegan-clasico-astillero-emelec-barcelona-partido.html "¿A qué hora juegan Barcelona SC y Emelec en el Clásico del Astillero?")
-* [Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-emelec-clasico-astillero.html "Segundo Castillo pide apoyo a los hinchas de Barcelona SC en el Clásico")
 
-El 11 de agosto de 2024, el equipo torero anunció de manera oficial la desvinculación del jugador argentino nacionalizado ecuatoriano. A raíz del hecho, **Ariel Holan**, exDT de los toreros, sostuvo que se trató de una decisión deportiva e institucional.
+A partir de su nombramiento en la escuadra de **Barcelona SC**, el estratega tuvo dos semanas para trabajar con el club a raíz del parón de **eliminatorias**. Asimismo, el arranque de su ciclo estaría marcado por el partido más importante para los dos equipos guayaquileños.
 
-A dos meses y medio de la partida de **Damián ‘Kitu’ Díaz**, Álvarez volvió a referirse al tema. El 19 de octubre del 2024, este sostuvo que el futbolista del conjunto torero se había puesto por encima del club, aunque no ahondó en lo sucedido por respeto y ‘códigos’ con el volante.
+Una vez que llegó el Clásico del Astillero, el ‘Ídolo’ y Castillo se impusieron con contundencia. Los goles de Janner Corozo y Álex Rangel le dieron una victoria de 2-1 ante el ‘Bombillo’, que obtuvo el descuento gracias a Washington Corozo.
 
-¿Qué pasó entre el ‘Kitu’ Díaz y Barcelona SC?
-----------------------------------------------
+Segundo Castillo y su galardón con Barcelona SC
+-----------------------------------------------
 
-“La única forma de que yo cuente lo que pasó es si él me motiva a hacerlo, porque lo haría quedar muy mal. No quiero romper ese código, cuando él lo rompa, lo haré yo. **Tengo pruebas contundentes de que él se estaba poniendo encima de la salud del club**“, manifestó el directivo.
+> 📍¡Ganó el partido inmortal! 😎  
+>   
+> El DT de la Fecha 🔟 – Fase 2️⃣ es Segundo Castillo de [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw) 🔥  
+> ⠀⠀[#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) 🇪🇨💯 [pic.twitter.com/qj3pvPVr7l](https://t.co/qj3pvPVr7l)
+> 
+> — LigaPro (@LigaProEC) [October 21, 2024](https://twitter.com/LigaProEC/status/1848438277595869618?ref_src=twsrc%5Etfw)
 
-El titular de **Barcelona SC** señaló que fue necesaria la salida del ’10’ debido a que este le estaba haciendo daño a la institución. Asimismo, antes había manifestado que existieron **conversaciones** con respecto al futuro del jugador en el elenco, sin embargo, a los 40 días de sus charlas, este se marchó.
+El cotejo entre **Barcelona y Emelec** fue el encargado de cerrar la fecha del 10 de la Liga Pro y hubo otros siete compromisos junto al Clásico del Astillero. Una vez que finalizó la jornada liguera y se contó con todos los resultados, la institución eligió al mejor entrenador.
 
-Con respecto a la salida del jugador, el dirigente sostuvo que esta se llevó a cabo durante nueve días en los cuales este se negó a rebajar ciertos valores. “N**o se quiso bajar ni el pago de sus tickets de viaje de 2025, que eran una cantidad importante de dólares, para viajar a Argentina y regresar con su familia. No quería rescindir ni eso**“, agregó el dirigente. A su vez, señaló que se le propuso pagarle 16 de los 24 meses que le restaban de sueldo.
+**Segundo Alejandro Castillo** fue elegido como el estratega que más destacó a partir de su triunfo ante los eléctricos, el planteamiento que utilizó y el rendimiento que le sacó a su equipo. Este se impuso sobre entrenadores como **Pablo ‘Vitamina’ Sánchez** de Liga de Quito o Javier Gandolfi de Independiente del Valle, que también triunfaron.
 
-Con respecto a los pagos de finiquitos de **Damián Díaz** y de otros futbolistas que salieron, Álvarez sostuvo que estos se encuentran en orden. Aquello, también aplica para los DT’s Ariel Holan y Diego López[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
+La victoria de los toreros y del entrenador ecuatoriano se dio junto a otros cuatro equipos. Orense y **Aucas**, al igual que los ya mencionados albos y rayados, se llevaron tres unidades durante la fecha 10 del torneo[.](https://es.wikipedia.org/wiki/Barcelona_Sporting_Club "https://es.wikipedia.org/wiki/Barcelona_Sporting_Club")
 
-El triunfo de Barcelona SC en el Clásico del Astillero
-------------------------------------------------------
+¿Qué le espera al ‘Ídolo’ y a su nuevo entrenador?
+--------------------------------------------------
 
-Un día después de la asamblea de socios, el 20 de octubre del 2024, **Barcelona SC** disputó el Clásico del Astillero. Allí, el elenco se impuso con un marcador de 2-1 sobre **Emelec** en Estadio Monumental de Guayaquil.
+Aunque se encuentra distanciado y no se encuentra entre los cinco mejores, el triunfo de **Barcelona SC** le permite aferrarse a sus ilusiones y continuar con posibilidades de ganar la etapa. Eso sí, para ganar la ronda debe esperar por el tropiezo de sus **rivales directos** y mantenerse en la senda vencedora.
 
-El cotejo marcó el estreno de Segundo Castillo como director técnico de los canarios en la temporada tras la salida de Ariel Holan. Los toreros vencieron gracias a los goles de **Janner Corozo y Álex Rangel**, mientras que para los eléctricos descontó Washington Corozo.
+Los siguientes choques para el equipo guayaquileño y Segundo Alejandro Castillo serán frente a **Delfín, Aucas, Cumbayá, Técnico Universitario y Mushuc Runa**. El cuadro amarillo se encuentra en la quinta posición de la segunda etapa con 16 puntos, a seis del líder Liga de Quito.
 
-El embalse de Mazar se acerca nuevamente a su nivel más crítico
-===============================================================
+La Copa Ecuador se definirá en la Sierra
+========================================
 
-Las dos turbinas de la central de Mazar están apagadas desde la 01:00 de este lunes 21 de octubre para conservar el agua del reservorio.
-----------------------------------------------------------------------------------------------------------------------------------------
+La Copa Ecuador tendrá su gran final en noviembre, en una sede y estadio aún por definir.
+-----------------------------------------------------------------------------------------
 
-El **embalse de Mazar**, ubicado en **Cañar y Azuay**, continúa en su nivel crítico y nuevamente está cerca de llegar al mínimo de operación. Las dos turbinas de la central hidroeléctrica Mazar están apagadas desde la 01:00 de este lunes 21 de octubre para conservar el agua del reservorio.
+![José Fajardo con Universidad Católica en la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_1.jpg)
 
-La escasez de agua impide el normal funcionamiento de las **hidroeléctricas** y mantiene al **Ecuador** en oscuras, con **cortes de luz** programados por más de un mes[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+La **Copa Ecuador** entra en su etapa de definiciones con la puesta en marcha de las semifinales para definir a los dos finalistas, que pelearán por los premios deportivos y económicos que entregará la Federación Ecuatoriana de Fútbol (FEF).
+
+Entre el **martes 22 y jueves 31 de octubre de 2024 la Copa Ecuador** tendrá cuatro partidos, puesto que la modalidad en esta etapa deja de ser a partido único, y será de ida y vuelta.
+
+### Más noticias:
+
+* [¿Cómo queda la Liga Pro tras la fecha 10 de la segunda etapa?](https://www.elcomercio.com/deportes/liga-pro-tabla-posiciones-fecha-10.html "¿Cómo queda la Liga Pro tras la fecha 10 de la segunda etapa?")
+* [El ecuatoriano Jefferson Cepeda ficha por el Movistar Team](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-movistar-team-ecuatoriano-ciclismo.html "El ecuatoriano Jefferson Cepeda ficha por el Movistar Team")
+* [Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?](https://www.elcomercio.com/deportes/liga-quito-marco-angulo-inspiracion-tecnico-universitario.html "Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?")
+
+El campeón se llevará un **premio de 340 000 dólares**. Este monto se sumará al que entrega la Conmebol por participar en la Libertadores.
+
+En el 2024 en la fase 1 se entregó 400 000 dólares. En total, el ganador de la Copa Ecuador se asegura un **monto de 740 000 dólares**.
+
+Si avanza de fase el dinero irá en aumento. Por ejemplo, en la **fase 2 el premio es de 500 000 dólares**. En la fase 3 de 600 000. En la fase de grupos el premio es de 3 millones.
+
+Para la edición del 2025 de la Libertadores ya **está clasificado Independiente del Valle**, el ganador de la primera fase de la Liga Pro, como Ecuador 1.
+
+La Copa Ecuador no sale de la Sierra
+------------------------------------
+
+A Independiente del Valle, se suman **El Nacional, Universidad Católica y Mushuc Runa**, todos equipos de la Sierra de donde saldrá el nuevo campeón de la Copa Ecuador.
+
+La primera llave será entre **Universidad Católica vs. Independiente del Valle**, primero en el estadio Olímpico Atahualpa (22/10), y la revancha en el Complejo de los del Valle (29/10).
+
+La segunda llave la protagonizarán **El Nacional vs. Mushuc Runa**. Arrancan en La Cocha (23/10) y la revancha en el Olímpico Atahualpa (31/10).
+
+En el 2022, **9 de Octubre** fue el único representante de la Costa en las semifinales de la Copa Ecuador.
+
+Por la Sierra participaron **Independiente del Valle, El Nacional** y Mushuc Runa.
+
+En el 2019 la configuración se invirtió con supremacía de la Costa: **Barcelona Sporting Club**, Delfín y Emelec. De la Sierra el sobreviviente fue Liga de Quito.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBB4yQNuSDH/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Copa Ecuador (@copaecuadoroficial)](https://www.instagram.com/p/DBB4yQNuSDH/?utm_source=ig_embed&utm_campaign=loading)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Daniel Noboa realizará un nuevo viaje internacional
+===================================================
+
+Presidencia detalló el cronograma del viaje que cumplirá el mandatario y su comitiva en la visita oficial a Brasil.
+-------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa durante uno de sus viajes internacionales a El Salvador](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-viaje-brasil.jpg)
+
+El presidente de Ecuador, **Daniel Noboa**, realizará un nuevo **viaje internacional** entre el martes 22 y miércoles 23 de octubre de 2024.
+
+A través del **Decreto Ejecutivo 428** se detalló que el mandatario visitará **Brasil** para cumplir con una agenda oficial que incluye foros y entrevistas.
 
 ### Más noticias
+
+* [Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyecto-a-favor-de-la-energia-renovable-pasa-el-primer-debate-en-la-asamblea.html "Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea")
+* [Focos recargables tienen alta demanda en Quito; ¿qué tan fácil es conseguirlos?](https://www.elcomercio.com/uncategorized/focos-recargables-cortes-luz-quito.html "Focos recargables tienen alta demanda en Quito; ¿qué tan fácil es conseguirlos?")
+* [Ministerio de Educación desarrolla plan de emergencias ante cortes de luz](https://www.elcomercio.com/actualidad/ministerio-educacion-desarrolla-plan-emergencias-cortes-de-luz.html "Ministerio de Educación desarrolla plan de emergencias ante cortes de luz")
+
+Viaje a Brasil
+--------------
+
+El cronograma difundido por Presidencia detalla que Noboa saldrá a rumbo a **São Paulo**, a las 09:30 de este martes.
+
+Su llegada está prevista a las **15:00 de Ecuador** (17:00 hora de Brasil).
+
+En el primer día, el Presidente únicamente cumplirá con una **entrevista** para el medio Bloomberg.
+
+Mientras que el miércoles 23 de octubre, Noboa realizará **seis actividades** en este país; en la primera de ellas, a las 09:30, se reunirá con el político y empresario **Michael Bloomberg**, exalcalde de Nueva York.
+
+Luego, desde las 10:30 hasta alrededor de las 13:00, Noboa asistirá a **cuatro foros**.
+
+* Foro ‘The Investment Case for Low-Carbon Renewables’, La inversión en energías renovables bajas en carbono.
+* Foro ‘The Economics of Neopopulism’, La economía del neopopulismo.
+* Foro ‘Building the Bank of The Future’, Construyendo el banco del futuro.
+* Foro ‘Climate-Proofing the Economy, La economía a prueba de clima
+
+Tras una última **conferencia** de Katherine Tai, Representante de Comercio de los Estados Unidos, el Presidente y su comitiva retornarán a Ecuador a las **16:00**.
+
+> Conoce la agenda oficial del presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) en Brasil del martes 22 y miércoles 23 de octubre. [#EcuadorEnBrasil2024](https://twitter.com/hashtag/EcuadorEnBrasil2024?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🇧🇷 [pic.twitter.com/uwzah41ysv](https://t.co/uwzah41ysv)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 21, 2024](https://twitter.com/Presidencia_Ec/status/1848470568489693644?ref_src=twsrc%5Etfw)
+
+Comitiva que acompañará a Noboa
+-------------------------------
+
+**Siete funcionarios** públicos serán parte de la comitiva que acompañará a Daniel Noboa en su visita a Brasil, entre ellos, **María Sommerfeld**, ministra de Relaciones Exteriores y Movilidad Humana, e **Irene Vélez**, Secretaria General de Comunicación de Presidencia.
+
+Además, de un Edecán Naval, un Jefe de Seguridad, un Subsecretario de Protocolo, uno de Gestión Gubernamental y un Director de Fotografía.
+
+Los viáticos y gastos se cubrirán con el presupuesto de cada institución, detalló el decreto.
+
+Viajes internacionales de Daniel Noboa
+--------------------------------------
+
+El Presidente de Ecuador ha visitado **nueve países** y 10 ciudades en **14 vuelos internacionales** desde que asumió el cargo en noviembre de 2023.
+
+Según detalla el portal de viajes de la Presidencia, el mandatario visitó Miami, Madrid, Palm Beach, Tenerife, Washington, Roma, París, entre otras ciudades.
+
+También se suman las visitas **Argentina y El Salvador**, para las investiduras presidenciales de Javier Milei y Nayib Bukele, respectivamente.
+
+La mayoría de estos viajes han sido realizados con los aviones presidenciales Legacy 600 y Falcon 7X, operados por la Fuerza Aérea Ecuatoriana (**FAE**).
+
+Adolescentes compran boletos de ‘Robot salvaje’ para colarse en ‘Terrifier 3’ 
+==============================================================================
+
+La tercera entrega de la saga 'Terrifier' se ha convertido en la película de terror más sangrienta del año.
+-----------------------------------------------------------------------------------------------------------
+
+![En 'Terrifier 3', Art el payaso asesino regresa en Nochebuena para vengarse de Sienna y Jonathan. Foto: Instagram @officialterrifier3.](https://www.elcomercio.com/wp-content/uploads/2024/10/Terrifier-3.jpg)
+
+Desde su estreno, **‘Terrifier 3’ ha logrado eclipsar a grandes producciones como ‘Joker 2’**, ya que ha recaudado entre 17 y 18 millones de dólares en su primer fin de semana. Esto es notable pues **su presupuesto fue de solo 2 millones**, lo que resalta la efectividad del **cine independiente en el género del terror**, según informa [La Vanguardia](https://www.lavanguardia.com/peliculas-series/peliculas/terrifier-3-1034541 "https://www.lavanguardia.com/peliculas-series/peliculas/terrifier-3-1034541").  
+
+### Más noticias
+
+* [Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’)](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html")
+* [Art, el payaso que venció al Joker y resucita al slasher](https://www.elcomercio.com/tendencias/art-terrifier-slasher.html "https://www.elcomercio.com/tendencias/art-terrifier-slasher.html")
+
+El director Damien Leone, siguiendo con la misma fuente, ha afirmado que **este enfoque le permite mayor libertad creativa**, algo que se traduce en una experiencia auténtica para los espectadores. 
+
+**Sinopsis de ‘Terrifier 3’**  
+-------------------------------
+
+La historia de **‘Terrifier 3’** se sitúa en una tranquila **Nochebuena**. Art, el payaso asesino, regresa para sembrar el terror en el condado de Miles.  
+
+La trama inicia con la premisa de que “ninguna festividad es segura”. **Art busca venganza contra Sienna y su hermano Jonathan**, quienes intentan disfrutar de la temporada navideña tras sobrevivir a los horrores de Halloween. Sin embargo, el caos se desata cuando Art convierte su alegría festiva en una nueva pesadilla, de acuerdo con la web [Perfil](https://www.perfil.com/noticias/sociedad/a30-de-horror-terrifier-3-la-pelicula-gore-mas-sangrienta-que-esta-rompiendo-todos-los-records-en-taquilla-y-se-estrenara-en-octubre-2024.phtml "https://www.perfil.com/noticias/sociedad/a30-de-horror-terrifier-3-la-pelicula-gore-mas-sangrienta-que-esta-rompiendo-todos-los-records-en-taquilla-y-se-estrenara-en-octubre-2024.phtml"). 
+
+**Adolescentes burlan la censura** 
+-----------------------------------
+
+El **éxito de esta película** ha sido tan grande que, según [E-Cartelera](https://www.ecartelera.com/noticias/une-terrifier-robot-salvaje-polemica-relacion-78665/ "https://www.ecartelera.com/noticias/une-terrifier-robot-salvaje-polemica-relacion-78665/"), adolescentes en Estados Unidos **han buscado maneras de verla**, a pesar de estar clasificada como R, lo que significa que **menores de 17 años solo pueden ingresar acompañados por un adulto**.  
+
+Los jóvenes no quieren perderse la última sensación del **cine ‘gore’**. ¿Su estrategia, según The Hollywood Reporter? **Comprar boletos para ‘Robot Salvaje’ y luego colarse en la función del nuevo ‘slasher’**.  
+
+**Características del film** 
+-----------------------------
+
+**‘Terrifier 3’** se destaca por s**u enfoque en el ‘gore’ y el ‘slasher’**, géneros que han caracterizado a la saga desde sus inicios. Las escenas prometen ser más brutales y sangrientas que las entregas anteriores. Leone ha declarado que **esta será la película más extrema de la serie hasta ahora**, a decir de [Sensacine](https://www.sensacine.com/peliculas/pelicula-310139/ "https://www.sensacine.com/peliculas/pelicula-310139/"). 
+
+**Reparto y producción** 
+-------------------------
+
+El elenco incluye a **David Howard Thornton** como **Art the Clown**, Lauren LaVera como Sienna y Elliot Fullam como Jonathan. Además, **personajes de entregas anteriores regresan**, lo que añade continuidad a la historia, segpun recoge la web [RPP](https://rpp.pe/cine/internacional/terrifier-3-fecha-de-estreno-reparto-sinopsis-y-todo-lo-que-sabemos-regreso-de-art-the-clown-trilogia-peliculas-de-terror-cine-noticia-1583254?ref=rpp "https://rpp.pe/cine/internacional/terrifier-3-fecha-de-estreno-reparto-sinopsis-y-todo-lo-que-sabemos-regreso-de-art-the-clown-trilogia-peliculas-de-terror-cine-noticia-1583254?ref=rpp").  
+
+La película se estrenó en Estados Unidos el 11 de octubre y **su estreno en otros países, incluido Ecuador, está programado para el 31 de octubre**, justo a tiempo para Halloween. 
+
+**¿Es necesario ver las películas anteriores?** 
+------------------------------------------------
+
+No es obligatorio haber visto las entregas anteriores para entender ‘Terrifier 3’, aunque sí enriquecerá la experiencia. Las referencias y personajes recurrentes ofrecen un contexto más profundo sobre el personaje de Art y sus motivaciones. 
+
+Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre
+==================================================================================
+
+Con la reducción del IVA en los feriados de noviembre, Daniel Noboa busca la reactivación del turismo.
+------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa redujo el IVA para feriados de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-IVA-feriados-noviembre.jpg)
+
+El presidente **Daniel Noboa** redujo el **Impuesto al Valor Agregado (IVA)** para incentivar el turismo en los **feriados de noviembre** en Ecuador, este lunes 21 de octubre[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+La decisión se dio a través de la firma del **Decreto Ejecutivo N° 429.**
+
+### Más noticias:
+
+* [Feriados que restan en Ecuador para este 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-que-restan-en-ecuador-para-este-2024.html "Feriados que restan en Ecuador para este 2024")
+* [Ministerio de Turismo se pronunció sobre las actividades turísticas por el estado de excepción](https://www.elcomercio.com/actualidad/ecuador/ministerio-turismo-pronuncio-actividades-turisticas-estado-excepcion.html "Ministerio de Turismo se pronunció sobre las actividades turísticas por el estado de excepción")
+
+Decreto de Daniel Noboa para la reducción del IVA en los feriados de noviembre
+------------------------------------------------------------------------------
+
+El presidente Daniel Noboa redujo el IVA en los feriados de noviembre de 2024.
+
+Ecuador tendrá **cuatro días de feriado** en noviembre, del 1 al 4 de noviembre de 2024.
+
+Esto se debe al **Día de los Difuntos**, el 2 de noviembre, y la **Independencia de Cuenca**, el 3 de noviembre.
+
+Aunque estos dos días caen en sábado y domingo, la normativa ecuatoriana vigente establece la extensión al viernes y lunes de ese fin de semana, con el fin de incentivar el turismo.
+
+A esta medida tomada en años pasados, se suma el Decreto Ejecutivo firmado por Daniel Noboa este **lunes**.
+
+En el mismo, Noboa dispuso la reducción del Impuesto al Valor Agregado (IVA) **al 8 %**.
+
+Este beneficio va dirigido a los **servicios turísticos**, durante estos días.
+
+El Gobierno ratifica que “esta medida busca impulsar la **reactivación** del sector turístico”.
+
+Considerando que el turismo es uno de los pilares clave para la **economía** del país.
+
+La reducción del IVA facilita la **accesibilidad** de los ciudadanos a los servicios.
+
+El **Servicio de Rentas Internas (SRI)** será responsable de garantizar el cumplimiento de esta disposición.
+
+Para los feriados de noviembre, los **cortes de luz serán de seis y cuatro horas** diarias, en todo el país y en dos franjas horarias.
+
+Según la **disposición** de reducción de las horas de cortes de luz del Gobierno de Daniel Noboa.
+
+Del 1 al 3 de noviembre corresponden a la **segunda semana**, con seis horas de cortes de luz diarias.
+
+Mientras qué, el 4 de noviembre, corresponde a la **tercera semana**, con cuatro horas de cortes de luz diarias.
+
+(Video) Tomás Lecanda, futbolista de Imbabura, vivió un emotivo reencuentro con su familia
+==========================================================================================
+
+Tomás Lecanda, jugador de Imbabura, recibió la inesperada visita de su familia en el partido frente a Independiente del Valle.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Tomás Lecanda, futbolista de Imbabura, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T160136.102.jpg)
+
+La fecha 10 de la Liga Pro trajo consigo el partido entre **Imbabura** e Independiente del Valle en el que los rayados se impusieron por un marcador de 3-1. Pese a la derrota, **Tomás Lecanda**, futbolista de los gardenios, vivió un emocionante momento.
+
+Para el choque ante el conjunto de Sangolquí, que hizo de local frente al cuadro imbabureño, **Lecanda** partió como titular. El **futbolista argentino** estuvo presente los 90 minutos, sin embargo, los instantes más dulces para él llegaron cuando finalizó el compromiso.
+
+### Más noticias:
+
+* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
+* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
+* [Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?](https://www.elcomercio.com/deportes/liga-quito-marco-angulo-inspiracion-tecnico-universitario.html "Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?")
+
+Una vez que el árbitro dio el silbatazo final y los jugadores partieron hacia los camerinos, **Lecanda** permaneció en la cancha. El jugador fue abordado por uno de los **funcionarios** del equipo, quien lo direccionó hacia la tribuna.
+
+Cuando este se dirigió hacia los graderíos, este se tomó el rostro y apuro el paso. Allí lo esperaba su **familia**, quien se había trasladado desde su país para ver el compromiso.
+
+Una vez que llegó hasta donde se ubicaban, **Lecanda** subió a las gradas y se fundió en un abrazo con sus afectos. Asimismo, le regaló su camiseta a un adolescente que se encontraba junto a ellos.
+
+> [@julietamordacci7](https://www.tiktok.com/@julietamordacci7?refer=embed "@julietamordacci7") No estoy llorando tu estas llorando [#futbol](https://www.tiktok.com/tag/futbol?refer=embed "futbol") [#imbabura](https://www.tiktok.com/tag/imbabura?refer=embed "imbabura") [#reencuentro](https://www.tiktok.com/tag/reencuentro?refer=embed "reencuentro") [♬ Brindis – Soledad](https://www.tiktok.com/music/Brindis-6702739305401436162?refer=embed "♬ Brindis - Soledad")
+
+Un gol anulado para Tomás Lecanda ante Independiente del Valle
+--------------------------------------------------------------
+
+El partido de **Tomás Lecanda** ante el Imbabura tuvo una serie de reveses para el defensa central, además de la derrota por 3-1. El futbolista anotó un gol que fue anulado y recibió una tarjeta amarilla tras el festejo en el cual mostró una camiseta en la que dedicaba el tanto a su progenitora por el Día de la Madre (20 de octubre en Argentina)[.](https://en.wikipedia.org/wiki/Imbabura_Province "https://en.wikipedia.org/wiki/Imbabura_Province")
+
+El tanto de Lecanda representaba el primero para el conjunto gardenio en el compromiso, sin embargo, este fue revisado por el **VAR**. Una vez que la jugada fue examinada, esta se invalidó debido a un fuera de juego de parte del **defensa central**.
+
+Pese a que el cuadro imbabureño contaba con un jugador más en la cancha debido a la expulsión de Joaquín Pombo a los dos minutos del cotejo, este no se mostró superior. Independiente del Valle anotó gracias a un doblete de **Jeison Medina** y otro tanto de **Patrik Mercado**, mientras que el descuento de Imbabura llegó por un autogol de Richard Schunke.
+
+Imbabura lucha por mantenerse en la Serie A
+-------------------------------------------
+
+El Imbabura de **Tomás Lecanda** busca mantener la categoría en la Liga Pro. El equipo se encuentra en el penúltimo puesto de la tabla acumulada con 23 unidades.
+
+Por debajo del cuadro imbabureño solo se ubican **Cumbayá** con 19 puntos y **Libertad** con 16.
+
+Focos recargables tienen alta demanda en Quito; ¿qué tan fácil es conseguirlos?
+===============================================================================
+
+Los cortes de luz anunciados por el gobierno de Daniel Noboa llevaron a las personas a buscar alternativas como los focos recargables para iluminar sus hogares en Quito.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Las ferreterías tienen letreros donde indican la disponibilidad de focos recargables en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Foco-recargable-venta-Quito.jpg)
+
+Los **cortes de luz**, provocados por el estiaje a nivel nacional, han llevado a la gente a buscar alternativas para iluminar sus hogares durante los apagones. **En Quito**, los focos recargables se han convertido en una de las opciones más utilizadas. Los moradores los adquieren en **importadoras**, **ferreterías** y tiendas en línea como Marketplace[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
+
+Más noticias
+------------
 
 * [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
 * [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
-* [Cambios en cortes de luz llegan con nuevos horarios de clases](https://www.elcomercio.com/actualidad/ecuador/cambios-cortes-luz-llegan-nuevos-horarios-clases.html "Cambios en cortes de luz llegan con nuevos horarios de clases")
+* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
 
-Según el reporte de la Corporación Eléctrica del Ecuador del Sur (**CelecSur**), este lunes la **cota del embalse de Mazar** se ubica en 2 115,40 metros sobre el nivel del mar (m.s.n.m). Esto es a 40 centímetros de la cantidad mínima para operar, que es 2 115 (m.s.n.m).
+En varios locales y ferreterías del **Centro Histórico de Quito**, un cartel pegado en las puertas se repite: “**No hay focos recargables**“.
 
-Cuando baja de este nivel hay la posibilidad que **ingresen** a la central **sedimentos**, lo que dañaría gravemente los equipos. Este gran **reservorio** de agua tiene una capacidad para almacenar **410 millones de metros cúbicos**, pero también acumula palos, piedras, lodo, etc.
+Focos recargables escasos en Quito
+----------------------------------
 
-La cota máxima de este **embalse** para operar es de **2 153 metros sobre el nivel del mar**. En lo que va del año no se ha llegado a esos niveles. La mayor cantidad de líquido que ha acumulado este reservorio fue en agosto de este año, con un promedio de 2 152 (m.s.n.m).
+La alta demanda hace que estos productos se agoten en menos de una semana. Este es el caso de **Norma** **Silva**, una comerciante que tiene un local de venta de focos en el Centro Histórico de Quito, quien cuenta que, antes de los cortes de luz, una importación le duraba meses, pero ahora solo días.
 
-Consumo del embalse de Mazar
+La semana pasada trajo 100 **focos** **recargables** y se agotaron en pocos días. Además, menciona que las importadoras también han **incrementado** los **precios**, lo cual dificulta conseguir nueva mercadería. Antes, cada unidad costaba 10 dólares; ahora, 12.
+
+Antes no eran tan caros
+-----------------------
+
+**Leslie** **Cabrera**, otra comerciante que tiene una ferretería en el **Centro Histórico de Quito**, colocó un letrero en la entrada indicando que **no tiene focos recargables**, pero aun así la gente ingresa para preguntar sobre la **disponibilidad** y el tiempo en que podría traer nuevos productos.
+
+Antes vendía cada foco en 6 dólares, pero ahora los proveedores se los ofrecen a 10 dólares, lo que lo obliga a venderlos al público en 12.
+
+Comenta que la escasez se inició hace unos 20 días. Cuando tenía focos recargables, durante los cortes de luz, vendía ocho al día. Antes de eso, apenas despachaba uno al mes.
+
+Precios altos por la demanda
 ----------------------------
 
-En dos meses, se han consumido 36 metros de agua de este embalse, algo similar al alto de un edificio de más de 10 pisos por una extensión de 31 kilómetros. En cantidad, esto es más de 300 millones de metros cúbicos de agua.
+Por otro lado, **Marcelo** **Reyes**, dueño de un local de focos, menciona que ya no piensa traer más focos recargables para vender, debido a que los proveedores están cobrando **precios muy altos.**
 
-Para completar el **embalse, ubicado en la cuenca del río Paute,** se necesitaría de 30 días consecutivos de **lluvias fuertes**, con caudales superiores de 140 metros cúbicos por segundo (m³/s), han señalado los expertos. Mientras esto no ocurra, los **apagones** seguirán presentes en Ecuador.
+Dice que la **escasez** se debe a que está difícil sacar de **aduana**. Afirma que las importadoras son las que suben los precios de los focos. Sin embargo, desde el Servicio Nacional de Aduana del Ecuador (Senae) señalaron que no hay ninguna alerta sobre supuestas demoras en los trámites de desaduanización de focos recargables.
 
-Actualmente el caudal del embalse es de 11 metros cúbicos por segundo (m³/s), un nivel demasiado bajo para llenar el reservorio. Según el Instituto Nacional de Meteorología e Hidrología (Inamhi), no hay probabilidades de lluvia en la zona del austral para este 21 de octubre.
+De todas formas, se sugieren alternativas como lámparas con **paneles solares**, aunque aclara que iluminar una casa con este sistema cuesta alrededor de 800 dólares, mientras que antes de los cortes de luz el precio era de 400 dólares.
 
-Sin embargo, el presidente **Daniel Noboa** anunció que los cortes de luz se irán reduciendo hasta llegar a cuatro horas al día la segunda semana de noviembre.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/No-hay-focos-recargables-en-Quito-1024x683.jpg)
 
-Importancia de Mazar
---------------------
+Los dueños de los negocios ponen carteles en las puertas de sus locales para indicar que no hay focos recargables en Quito. Foto: Julio Estrella / EL COMERCIO.
 
-El **embalse de Mazar** es muy importante, ya que es uno de los reservorios de agua más grande del país y alimenta a tres hidroeléctricas de la cuenca del río Paute: Mazar, Paute-Molino y Sopladora. Estas tres centrales tiene una capacidad instalada de 1 700 megavatios (MW) de potencia y en condiciones normales aporta el 30% de la electricidad que consume el Ecuador.
-
-Cali recibe al mundo en la COP16
-================================
-
-El lema de la reunión es ‘Paz con la naturaleza‘, bajo la premisa “la naturaleza nos hace la última advertencia para detener esta guerra suicida".
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Varias personas posan durante el evento de lanzamiento del logo de la COP16.](https://www.elcomercio.com/wp-content/uploads/2024/10/COP16-Colombia-efe.jpg)
-
-La ciudad colombiana de **Cali** levantará este domingo, 27 de octubre de 2042, el telón de la COP16, que reunirá a representantes de más de **190 países hasta el 1 de noviembre**. El objetivo es resolver la tarea que tiene pendiente el mundo de **proteger la biodiversidad.**
-
-### Más noticias
-
-* [Petro dice que investigación contra su campaña de 2022 viola fuero presidencial](https://www.elcomercio.com/actualidad/mundo/petro-dice-investigacion-contra-campana-viola-presidencial.html "Petro dice que investigación contra su campaña de 2022 viola fuero presidencial")
-* [Colombia presenta sus metas para la COP16](https://www.elcomercio.com/actualidad/mundo/colombia-metas-cop16-metas.html "https://www.elcomercio.com/actualidad/mundo/colombia-metas-cop16-metas.html")
-
-La apertura ceremonial, el domingo, tendrá la asistencia del presidente colombiano, **Gustavo Petro**, y los debates comenzarán el lunes, día en que Colombia asumirá la presidencia de la reunión.
-
-Comunidades afro y campesinas
------------------------------
-
-De hecho, Colombia busca que esta sea **“la COP de la gente”** y centró sus esfuerzos en que los indígenas, las **comunidades afro y campesinas**, las mujeres y otros colectivos tengan un papel protagónico en la cumbre.
-
-El lema de la reunión es **‘Paz con la naturaleza‘,** bajo la premisa de que “la naturaleza nos hace la última advertencia para detener esta guerra suicida. **Bosques arrasados, tráfico de animales, minería ilegal**, especies extintas, ríos y mares contaminados. Todos estamos llamados a la acción y tenemos la oportunidad de ser parte del cambio”.
-
-La agenda
----------
-
-El foco de la agenda estará puesto en la implementación del **Marco Kunming-Montreal**, aprobado en la COP15 celebrada en Canadá, cuyo objetivo principal es **proteger el 30 % del planeta**. Incluye **áreas terrestres, marinas y de agua dulce**, y la restauración del 30 % de los ecosistemas degradados.
-
-El Gobierno colombiano hizo un **amplio despliegue para esta reunión,** que el presidente Petro considera “el **primer gran evento internacional**” que se celebra en el país. Se espera que asistan hasta 10 jefes de Estado y el secretario general de Naciones Unidas, António Guterres.
-
-Estas dos semanas serán la **culminación de meses en los que Colombia** volcó sus esfuerzos en situar la **conversación sobre la biodiversidad** en el centro de la opinión pública, con multitud de eventos previos que abrieron el camino para la COP16. Sin embargo, no se espera que la cita arroje resultados trascendentales.
-
-Se trata más bien de una **cumbre de seguimiento** a los objetivos adoptados por los países, una especie de evaluación de lo avanzado y de lo que queda por hacer, así como la **materialización de mecanismos** para lograr esas metas.
-
-La seguridad en Cali
---------------------
-
-El Gobierno reafirmó en los últimos meses que la **seguridad de la cumbre está garantizada**, pero este viernes el presidente Petro confesó: “Nerviosos estamos todos para que no pase nada malo”.
-
-El Valle del Cauca es vecino del departamento del Cauca, bastión del Estado Mayor Central (EMC), principal **disidencia de las FARC**, que intensificó sus acciones en la zona tras el **desencuentro** que a principios de año lo llevó a levantarse de la **negociación de paz** que tenía con el Gobierno.
-
-Para garantizar la seguridad en Cali y sus alrededores, el Gobierno desplegó una **amplia operación militar** y policial a la que se sumará la Policía de la ONU, que custodiará la Zona Azul.
-
-Selección de miembros de las juntas para las elecciones 2025 se acerca
-======================================================================
-
-Los miembros de las juntas receptoras del voto se elegirán para las elecciones 2025.
-------------------------------------------------------------------------------------
-
-![Integrantes de juntas receptoras del voto durante la consulta popular 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/juntas-receptoras-1.jpg)
-
-El calendario para las **elecciones 2025** en Ecuador contempla la selección de los miembros de las juntas receptoras del voto. Este proceso se acerca[.](https://es.wikipedia.org/wiki/Ecuador)
-
-El [**Consejo Nacional Electoral (CNE)**](https://www.cne.gob.ec/elecciones-generales-2025/) notificará a las personas, ya sea de forma presencial o vía correo electrónico.
-
-### Más noticias
-
-* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
-* [Dos binomios esperan por un puesto en las elecciones 2025, ¿y para asambleístas?](https://www.elcomercio.com/elecciones/dos-binomios-esperan-elecciones-2025-y-para-asambleistas.html "Dos binomios esperan por un puesto en las elecciones 2025, ¿y para asambleístas?")
-* [Miembros de las juntas para elecciones 2025 tienen obligaciones y límites](https://www.elcomercio.com/actualidad/miembros-juntas-elecciones-2025-tienen-obligaciones-limites.html "Miembros de las juntas para elecciones 2025 tienen obligaciones y límites")
-
-> ¡Gracias por acompañarnos! 🤝  
->   
-> Finaliza diálogo del consejero [@jr\_cabreraz](https://twitter.com/jr_cabreraz?ref_src=twsrc%5Etfw) a través de la señal de [@radioi99](https://twitter.com/radioi99?ref_src=twsrc%5Etfw).  
->   
-> Infórmate de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) en nuestros canales oficiales. 🗳️🇪🇨  
->   
-> 💻 [https://t.co/7jydYZpjVD](https://t.co/7jydYZpjVD) [pic.twitter.com/tvE2jq7W6Y](https://t.co/tvE2jq7W6Y)
-> 
-> — cnegobec (@cnegobec) [October 8, 2024](https://twitter.com/cnegobec/status/1843666924951249321?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y juntas receptoras del voto
---------------------------------------------
-
-Quienes tengan que estar en los distintos recintos recibirán la información del **18 de noviembre de este 2024 hasta el 25 de enero de 2025**.
-
-La selección se desarrollará el 12 de noviembre de 2024. En la consulta popular de abril, el **CNE** instaló **41 252 juntas receptoras del voto**, a escala nacional y en el exterior.
-
-Para las **elecciones 2025** hay más electores, por lo que se incrementarán las juntas y, por ende, los integrantes de estas.
-
-Los electores para los comicios 2025 ascienden a **13 736 314**. De estos, **13 279 829** se encuentran en el país y **456 485 en el exterior**. En la consulta popular y referendo fueron **13 654 291**.
-
-Los integrantes de base de las juntas receptoras
-------------------------------------------------
-
-El reglamento para la selección, conformación, funcionamiento y reconocimiento de incentivos a los miembros de las **juntas receptoras del voto** contempla la definición de listados.
-
-Esos incluyen a **estudiantes universitarios**, funcionarios públicos, empresas privadas, docentes y ciudadanos residentes en zonas rurales que hayan concluido la instrucción general básica.
-
-En el exterior, las juntas pueden conformarse por ciudadanos que expresen voluntariamente su deseo en las oficinas consulares del **Ecuador**.
-
-También quienes ya fueron parte de procesos anteriores y **funcionarios de oficinas** consulares del país.
-
-Los pasos para la selección de las juntas receptoras
-----------------------------------------------------
-
-En el reglamento se detalla que las **juntas receptoras del voto** a escala nacional estarán conformadas por **tres vocales principales, tres suplentes y un secretario general**.
-
-Las personas serán ciudadanos que tengan su **domicilio electoral** en la zona a la que pertenece la junta.
-
-En el exterior, las juntas tendrán dos **vocales principales**, dos vocales suplentes y un secretario.
-
-En ambos casos, de requerirse una segunda vuelta electoral, deberán actuar los mismos  
-vocales que en la primera **votación**.
-
-Los candidatos para las juntas receptoras de los votos
-------------------------------------------------------
-
-* **Estudiantes** legalmente matriculados en las instituciones del Sistema de Educación Superior
-* **Empleados privados** que cuenten con título profesional
-* **Servidores públicos** que cuenten con título profesional
-* **Empleados privados** bachilleres
-* **Servidores públicos** bachilleres
-* **Estudiantes de bachillerato** mayores de 18 años de colegios urbanos y rurales
-* **Ciudadanas y ciudadanos** residentes en zonas rurales que hayan concluido la instrucción general básica, que pertenezcan a organizaciones comunitarias de hecho y de derecho, comités promejoras y juntas de agua legalmente constituidas, entre otras
-* **Ciudadanas y ciudadanos del registro electoral** de la respectiva jurisdicción
-* De preferencia, el cargo de presidente y secretario será para un estudiante universitario o profesional
-
-La designación de los miembros de las juntas
---------------------------------------------
-
-Las **juntas electorales regionales**, distritales, provinciales y especial del exterior, en sesión pública, designarán a los integrantes de las juntas receptoras del voto a través del sistema informático desarrollado por el **CNE**, con la presencia de un notario público.
-
-Los nombramientos se generarán digitalmente y de ser necesario se imprimirán en cada **Delegación Provincial Electoral**, según el formato diseñado por el organismo electoral.
-
-¿Quiénes se libran de estar en mesa?
-------------------------------------
-
-Según el **CNE**, las personas que actuaron como vocales principales de las juntas en los tres últimos procesos electorales, incluida la consulta popular, no estarán en las **elecciones 2025**.
-
-Esa disposición no incluye a las **zonas electorales** donde se requiera completar las personas para las juntas.  
-
-Aquellos ciudadanos que sean seleccionados y que no se presenten tendrá que pagar el equivalente al **15%** de una **remuneración mensual básica unificada**.
-
-¿Cómo saber si se está en una junta?
-------------------------------------
-
-Para saber el sitio de sufragio solo se requiere el número de cédula y la fecha de nacimiento. No es necesario acudir a las delegaciones del **CNE**.
-
-Se debe ingresar al sistema del organismo electoral en un link específico. A la par, está disponible la **CNE** App, tanto para **IOS o Android**.
-
-Las obligaciones de las juntas
-------------------------------
-
-Son obligaciones de las juntas receptoras del voto levantar las actas de instalación y de escrutinios. Esta no es la única responsabilidad, a la par, se suma entregar al elector las **papeletas** y el certificado de votación.
-
-* Efectuar los **escrutinios**, una vez concluido el sufragio
-* Remitir a la Junta Provincial Electoral y a la **junta especial** del exterior las urnas, paquetes y sobres que contenga el acta de instalación y la primera de escrutinios, con la protección de la fuerza pública.
-* Entregar al coordinador **electoral** el segundo ejemplar del acta de escrutinio de cada dignidad, en sobres debidamente sellados y firmados por el **presidente y secretario**.
-* Fijar el tercer ejemplar del acta de escrutinios en un lugar visible donde funcionó la **junta receptora del voto**.
-* Cuidar que las actas de instalación y de escrutinios lleven las firmas del **presidente y del secretario**, así como los sobres que contengan dichas actas y los paquetes de los votos válidos, blancos y nulos.
-* Entregar copia del acta de los resúmenes de resultados a las organizaciones políticas y a las candidatas y candidatos que lo solicitaren o a sus delegados debidamente acreditados.
-* Impedir que el día de las elecciones se haga propaganda electoral o proselitismo político en el recinto del sufragio
-* Vigilar que el acto electoral se realice con normalidad y orden.
-* Facilitar la tarea de los **observadores** acreditados oficialmente.
-* Participar, de manera obligatoria, en las actividades de capacitación programadas por el **CNE** y sus delegaciones electorales.
-
-Operativos en Durán y Manta se realizan ante la inseguridad
-===========================================================
-
-Durán es uno de los sitios en estado de excepción. Hubo nuevos detenidos.
--------------------------------------------------------------------------
-
-![Acciones en Durán se desarrollan por la inseguridad. Imagen de operativo Tormenta 2.](https://www.elcomercio.com/wp-content/uploads/2024/10/duran-2-1.jpg)
-
-En **Durán**, este lunes, 21 de octubre de 2024, se desarrollan acciones policiales. En estas se incluyeron allanamientos a viviendas. También hubo acciones en Manta[.](https://es.wikipedia.org/wiki/Dur%C3%A1n_(Ecuador))
-
-Las labores de la **Policía y las Fuerzas Armadas** se dieron luego de masacres y constantes disputas entre organizaciones delictivas, principalmente dos.
-
-### Más noticias
-
-* [Durán celebra 122 años de fundación en medio del estado de excepción](https://www.elcomercio.com/actualidad/ecuador/duran-celebra-122-anos-parroquializacion-estado-excepcion.html "Durán celebra 122 años de fundación en medio del estado de excepción")
-* [Agentes sufrieron ataque con explosivo durante control de tricimotos; mire el video](https://www.elcomercio.com/actualidad/guayaquil/agentes-ataque-explosivo-control-tricimotos-mire-el-video.html "Agentes sufrieron ataque con explosivo durante control de tricimotos; mire el video")
-* [Nuevo ataque armado en Durán deja cuatro asesinados](https://www.elcomercio.com/actualidad/seguridad/nuevo-ataque-armado-duran-asesinados.html "Nuevo ataque armado en Durán deja cuatro asesinados")
-
-> ¡Nuevo golpe al crimen organizado: 7 presuntos terroristas aprehendidos en Durán y Manta!💪  
->   
-> ➡️En los cantones de [#Durán](https://twitter.com/hashtag/Dur%C3%A1n?src=hash&ref_src=twsrc%5Etfw) y [#Manta](https://twitter.com/hashtag/Manta?src=hash&ref_src=twsrc%5Etfw), el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw), mediante operaciones militares aprehendió a presuntos miembros de grupos armados organizados, quienes tenían en su poder:… [pic.twitter.com/M0YBhgungS](https://t.co/M0YBhgungS)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 21, 2024](https://twitter.com/DefensaEc/status/1848393815335346372?ref_src=twsrc%5Etfw)
-
-Durán y la inseguridad latente
-------------------------------
-
-El operativo de este lunes se denominó Tormenta 3. Entre los sectores abordados estuvieron la quinta etapa de **El Recreo y El Arbolito**.
-
-En la jornada hubo personas detenidas. Esta era una de las metas: la localización de integrantes de **agrupaciones delictivas**.
-
-En **Durán**, de lo que han mencionado las autoridades, operan **Chone Killer y Latin King**. En los últimos días, se han registrado asesinatos.
-
-Hasta lo que se conoce, entre las personas aprehendidas estarían **menores de edad**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-14-1024x683.jpg)
-
-Elementos encontrados por las fuerzas del orden durante operativos. Foto: X Ministerio de Defensa
-
-Manta y las labores
--------------------
-
-Por su parte, el **Ministerio de Defensa de Ecuador**, a través de su cuenta de X, informó que hubo un nuevo golpe al crimen organizado. Según se indicó, hubo siete presuntos terroristas aprehendidos en **Durán y Manta**.
-
-Los resultados se dieron a través de operaciones del **Bloque de Seguridad**. Las personas detenidas tenían vehículos reportados como robados con placas adulteradas.
-
-Entre lo encontrado se sumaron armas de fuego y municiones, así como equipos de comunicación y **2 416 dólares en efectivo**, sin justificativo.
-
-Labores anteriores
-------------------
-
-En los sectores **Una Sola Fuerza y El Arbolito**, días atrás, ya se desarrolló el operativo Tormenta 2. El resultado fue la detención de tres personas.
-
-En **Durán**, se encuentra activo un estado de excepción, decretado por el presidente **Daniel Noboa**, justamente, por la inseguridad y las muertes violentas.
-
-Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ
-================================================================
-
-La Fiscalía General del Estado presentó pruebas de cargo en contra de los procesados por presunta delincuencia organizada.
---------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis en la Corte Nacional de Justicia este lunes 21 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/corte-nj-1.jpg)
-
-Este lunes 21 de octubre de 2024, a las 08:30, en la **Corte Nacional de Justicia**, se instaló el juicio contra **21** procesados acusados de formar parte de una red de corrupción liderada por el fallecido narcotraficante **Leandro Norero**.
-
-### Más noticias
-
-* [Caso Metástasis ya tiene fecha de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-tiene-fecha-juicio.html "Caso Metástasis ya tiene fecha de juicio")
-* [Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía](https://www.elcomercio.com/actualidad/seguridad/asi-operaba-red-leandro-norero-caso-metastasis-segun-fiscalia.html "Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía")
-* [Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-30-vinculados-podrian-enfrentar-sentencias.html "Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias")
-
-La **Fiscalía General del Estado** presentó pruebas de cargo en contra de los procesados por presunta delincuencia organizada, quienes habrían actuado en **búsqueda de beneficios penitenciarios y judiciales** ilegítimos, a cambio de **sobornos**.
-
-Entre los imputados se encuentran funcionarios del **Consejo de la Judicatura**, fiscales, policías, guías penitenciarios y abogados. Todos ellos habrían colaborado para buscar la impunidad de Norero y sus familiares, quienes enfrentaban un p**roceso judicial por lavado de activos**.
-
-Resolución sobre la excusa del conjuez
---------------------------------------
-
-El tribunal que lleva adelante el juzgamiento de **21 de los 30 llamados a juicio por delincuencia organizada** resolvió no aceptar la excusa presentada por el conjuez **Pablo Loayza**. El expresidente del Consejo de la Judicatura, **Wilman T.**, había solicitado que Loayza se excusara, y este aceptó.
-
-Sin embargo, la **jueza Mercedes Caicedo**, presidenta del tribunal de juicio de la **Corte Nacional de Justicia**, decidió no aceptar la excusa y procedió con la instalación de la **audiencia de juzgamiento**.
-
-Presentación de pruebas por parte de la Fiscalía
-------------------------------------------------
-
-Durante la audiencia, la Fiscalía presentó **340 elementos de convicción** para sustentar las acusaciones y solicitó que los **procesados sean llevados a juicio**.
-
-> Previo a la instalación, el Tribunal señala que la etapa de juicio se encuentra suspendida –además de los 8 prófugos– para el procesado Armando F., luego de que se ha certificado que se encuentra como candidato para una dignidad de elección popular.
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 21, 2024](https://twitter.com/FiscaliaEcuador/status/1848384362611425284?ref_src=twsrc%5Etfw)
-
-De los 30 llamados inicialmente a juicio, **21 enfrentarán la siguiente etapa judicial**. Para los 8 restantes, el proceso queda suspendido debido a su condición de prófugos, entre ellos el exasambleísta Ronny A. y Xavier J.
-
-En el caso también hubo **12 procesados que aceptaron su participación en el delito** imputado por la Fiscalía, sometiéndose al procedimiento abreviado y ya fueron sentenciados.
-
-Instalación del juicio
-----------------------
-
-Previo a la instalación, el Tribunal señala que la etapa de juicio se encuentra suspendida, además de los **8 prófugos**, para el procesado **Armando F.**, luego de que se ha certificado que se encuentra como candidato para una dignidad de elección popular.
-
-> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia de juzgamiento en contra del ciudadano Wilman T. y otros por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kY7Hyl9idA](https://t.co/kY7Hyl9idA)
-> 
-> — Corte Nacional de Justicia (@CorteNacional) [October 21, 2024](https://twitter.com/CorteNacional/status/1848356064120512527?ref_src=twsrc%5Etfw)
-
-Con la presencia del fiscal general del Estado (s), **Wilson Toainga**, se instaló la audiencia de juicio contra los **21 procesados por presunta delincuencia organizada**. En esta causa, otras **12 personas** ya fueron sentenciadas mediante el procedimiento abreviado.
-
-_**Noticia en desarrollo…**_
-
-Por estas razones, la película ‘Emilia Pérez’ genera debate 
-============================================================
-
-La película ‘Emilia Pérez’ ha suscitado reacciones en el público.
------------------------------------------------------------------
-
-![La película ‘Emilia Pérez’ de Jacques Audiard ha causado polémica por su audaz narrativa. Foto: Instagram @emiliaperezfilm.](https://www.elcomercio.com/wp-content/uploads/2024/10/Emilia-Perez.jpg)
-
-La nueva película **‘Emilia Pérez’**, dirigida por **Jacques Audiard**, ha captado la atención mundial desde su estreno en el **Festival de Cannes 2024**.  
-
-### Más noticias
-
-* [Las 10 películas favoritas para los Oscar 2025](https://www.elcomercio.com/tendencias/peliculas-favoritas-oscar-2025.html "https://www.elcomercio.com/tendencias/peliculas-favoritas-oscar-2025.html")
-* [Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’)](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html")
-
-Este musical, que **combina elementos del drama y la comedia**, ha generado tanto elogios como críticas. La controversia se centra en su **atrevida narrativa** y en la **representación de un personaje transgénero** en un mundo marcado por la violencia del narcotráfico. Audiard, conocido por su estilo innovador, ha creado una obra que no deja indiferente a nadie. 
-
-**Un enfoque audaz sobre el narcotráfico** 
--------------------------------------------
-
-La trama gira en torno a Rita, interpretada por **Zoe Saldaña**, una abogada que se ve envuelta en la vida de un **narcotraficante** que desea transformarse en mujer. Este personaje, Manitas, interpretado por **Karla Sofía Gascón**, es un reflejo de las **complejidades del género y la violencia en México**.  
-
-La película aborda temas como **la violencia de género, la corrupción y las luchas identitarias** en un contexto donde el narcotráfico predomina. Esta **mezcla de géneros** ha sido vista como una forma de **desafiar las narrativas tradicionales del cine mexicano** y ha suscitado debates sobre su representación de la comunidad LGTB+, a decir de [Espinof](https://www.espinof.com/criticas/emilia-perez-mejores-peliculas-ano-jacques-audiard-basa-su-musical-imprevisibilidad-triunfa-cine-algoritmico-festival-san-sebastian-2024 "https://www.espinof.com/criticas/emilia-perez-mejores-peliculas-ano-jacques-audiard-basa-su-musical-imprevisibilidad-triunfa-cine-algoritmico-festival-san-sebastian-2024"). 
-
-**Críticas variopintas al filme** 
-----------------------------------
-
-Desde su presentación, **Emilia Pérez ha recibido críticas polarizadas**. Algunos críticos **alaban su originalidad y su capacidad para entrelazar música y narrativa**, mientras que otros consideran que su enfoque puede resultar confuso o excesivo.  
-
-La película se presenta como **un musical audaz**, con números musicales que abordan **temas complejos** como las vaginoplastias y la identidad, siguiendo con Espinof. Esta audacia ha llevado a algunos a calificarla como “la **película más rupturista y fascinante** de 2024″, de acuerdo con [Infobae](https://www.infobae.com/que-puedo-ver/2024/10/10/emilia-perez-el-film-que-cautivo-a-la-critica-mundial-ante-su-inminente-estreno/ "https://www.infobae.com/que-puedo-ver/2024/10/10/emilia-perez-el-film-que-cautivo-a-la-critica-mundial-ante-su-inminente-estreno/").  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBXI-ZJyTYG/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Gaby Meza 🌈 (@gabymeza8)](https://www.instagram.com/reel/DBXI-ZJyTYG/?utm_source=ig_embed&utm_campaign=loading)
-
-**El tema de la representación trans en el cine** 
---------------------------------------------------
-
-Uno de los aspectos más controvertidos es la **representación del personaje transgénero**. La elección de Gascón para interpretar a Emilia ha sido celebrada por algunos como un paso positivo hacia una **mayor inclusión en el cine**. Sin embargo, también ha generado **críticas sobre cómo se representa a los personajes trans en contextos violentos**. La película no busca redimir a Emilia por su pasado violento; más bien, presenta una lucha interna entre su identidad y sus acciones pasadas, según [Periodistas](https://periodistas-es.com/emilia-perez-una-pelicula-muy-mexicana-de-jacques-audiard-177288 "https://periodistas-es.com/emilia-perez-una-pelicula-muy-mexicana-de-jacques-audiard-177288"). 
-
-**Impacto cultural** 
----------------------
-
-**Emilia Pérez** ha trascendido las fronteras del cine convencional al abordar **temas profundamente arraigados en la cultura mexicana**. La obra refleja un México contemporáneo lleno de contradicciones: belleza y violencia, esperanza y desesperación. 
-
-A través de su narrativa musical, **Audiard invita al espectador a reflexionar sobre estos dilemas morales**. No obstante, también **se ha criticado que un director francés aborde problemáticas mexicanas**, así como la **pronunciación del español de actrices latinas** como Selena Gómez, a decir de [Filmaffinity](https://www.filmaffinity.com/es/pro-reviews.php?movie-id=671326 "https://www.filmaffinity.com/es/pro-reviews.php?movie-id=671326").  
-
-La película ha sido reconocida no solo por su dirección y actuación, sino también por su **capacidad para provocar conversaciones sobre temas difíciles**. 
-
-Sheinbaum dice que la Fiscalía decidirá si investiga al gobernador de Sinaloa
-=============================================================================
-
-El arresto de Zambada y Guzmán López en Estados Unidos sacudió a México por desatar una ola de violencia en Sinaloa.
---------------------------------------------------------------------------------------------------------------------
-
-![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/claudia-sheinbaum-octubre-2.jpg)
-
- La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html"), argumentó este lunes, 21 de octubre de 2024, que corresponde a la **Fiscalía General de la República (FGR)** investigar al gobernador de Sinaloa, Rubén Rocha Moya. Esto ante la polémica que desató la captura de los **capos Ismael ‘El Mayo’ Zambada** y **Joaquín Guzmán López.**
-
-### Más noticias
-
-* [Claudia Sheinbaum promete ‘buena relación’ con China](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html") 
-* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.")
-* [Empresarios de EE.UU. anuncian inversiones a Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/empresarios-ee-uu-anuncian-inversiones-claudia-sheinbaum.html "Empresarios de EE.UU. anuncian inversiones a Claudia Sheinbaum")
-
-La mandataria respondió a **cuestionamientos de la prensa sobre la revelación de la FG**R, que aseveró que el diputado **electo Héctor Cuén** murió asesinado el 25 de julio **en una finca** en la que presuntamente se reuniría con **Zambada y Guzmán López** el mismo día en el que arrestaron a ambos líderes del Cártel de Sinaloa en Estados Unidos.
-
-La FGR advirtió de “presuntas **responsabilidades penales** y administrativas de policías, ministerios **públicos, peritos y personal diverso d**e la Fiscalía General del Estado de Sinaloa” por la presunta fabricación de una **escena del crimen** que mostrara que el homicidio de Cuén había ocurrido en una gasolinera.
-
-La indagatoria salpicó al **gobernador de Sinaloa**, del gobernante Movimiento Regeneración Nacional (Morena), porque Zambada aseveró en agosto que el día de su captura se reuniría con el mandatario, Cuén y Guzmán López, hijo de Joaquín ‘El Chapo’ Guzmán.
-
-Fiscalía General de la República
---------------------------------
-
-“Le corresponde a la **Fiscalía General de la República** (indagar al gobernador), ellos también, con apoyo de las **instituciones del Ejecutivo**, cuando se solicita, hacen esta investigación y este hallazgo, de inmediato lo comunican, y la FGR sigue con sus investigaciones y ahí hay autonomía”, argumentó Sheinbaum.
-
-Cuestionada sobre si tuvo comunicación con el mandatario estatal, la presidenta respondió que “sí hay contacto, como con los **31 gobernadores y la jefa de Gobierno**” de Ciudad de México, “en los temas institucionales que hay que tratar”.
-
-El arresto de Zambada y Guzmán López en Estados Unidos sacudió a México por desatar una ola de **violencia en Sinaloa,** estado del noroeste del país que es cuna del homónimo cartel y que acumula más de 200 asesinatos por una pugna interna de la organización desde el 9 de septiembre.
-
-El gobernador Rocha Moya, quien antes **recibió el respaldo de Sheinbaum**, negó estar implicado al asegurar que él estaba de viaje en **Los Ángeles, Estados Unidos**, el día del asesinato de Cuén y de la captura de los capos.
-
-En tanto, la mandataria reiteró su petición a Washington de **informar sobre el operativo** para aprehender a los capos.
-
-“Sigue la **petición al Gobierno de Estados Unidos** para que se informe cómo fue esa detención, esa solicitud sigue”, recalcó.
-
-Asesinato de un sacerdote indígena
-----------------------------------
-
-La presidenta de México, Claudia Sheinbaum, prometió este lunes 21 de octubre de 2024, que no habrá impunidad tras el **asesinato del sacerdote Marcelo Pérez**, defensor de los pueblos indígenas en Chiapas, estado de la frontera sur que afronta una ola de violencia del crimen organizado.
-
-“Quisiera manifestar que **lamentamos el homicidio,** el asesinato del padre Marcelo Pérez Pérez en San Cristóbal de las Casas, se está haciendo la investigación”, declaró la mandataria al comienzo de su conferencia matutina.
-
-La gobernante mexicana aseveró que el domingo, después del homicidio, la secretaria de Gobernación, Rosa Icela Rodríguez, “**estuvo en comunicación tanto con el Gobierno estatal** como con la diócesis y con las autoridades eclesiales”, quienes han exigido justicia por el crimen.
-
-“Y estamos coordinándonos para **avanzar en la investigación** y que este crimen no quede impune”, concluyó Sheinbaum **sin más detalles sobre el homicidio.**
-
-Carlos Vives, Shakira y más músicos colombianos lloran la muerte de Egidio Cuadrado
-===================================================================================
-
-Colombia lamenta la muerte de Egidio Cuadrado, reconocido y respetado acordeonista.
------------------------------------------------------------------------------------
-
-![Carlos Vives reaccionó tras la muerte de Egidio Cuadrado. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T105800.805-1.jpg)
-
-Este lunes 21 de octubre de 2024, el acordeonero **Egidio Cuadrado**, conocido por su colaboración con **Carlos Vives**, falleció en la Clínica Colombia en **Bogotá**, tras complicaciones de salud derivadas de una neumonía.
-
-Cuadrado, apodado el **‘Rey Vallenato’,** estuvo internado en la Unidad de **Cuidados Intensivos** y su muerte generó una profunda tristeza en el ámbito musical colombiano.
-
-### **Más noticias:**
-
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’](https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html "https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html")
-* [Liam Payne deja una herencia millonaria a su hijo](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-herencia-millonaria-hijo-bear.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-herencia-millonaria-hijo-bear.html?source=Internal&ref=Single+Content+Link")
-
-**Carlos Vives llora la muerte de Egidio Cuadrado**
+¿Por qué la gente busca focos recargables en Quito?
 ---------------------------------------------------
 
-El cantante colombiano **Carlos Vives,** con quien **Cuadrado** compartió tres décadas de carrera, expresó su dolor a través de un comunicado y en una entrevista con W Radio.
+Los cortes de luz tienen una duración de hasta 10 horas, aunque el presidente de **Ecuador**, **Daniel** **Noboa**, afirmó que las horas de **racionamiento eléctrico** disminuirán paulatinamente con el paso de las semanas.
 
-Vives recordó con nostalgia los momentos vividos junto a **Cuadrado**, desde sus giras internacionales hasta su último álbum.
+Mientras tanto, muchas personas deben pasar largos periodos a oscuras. **Elizabeth** **Carrera**, por ejemplo, buscó focos recargables el fin de semana para que sus hijos puedan tener luz durante la noche y realizar sus **deberes**.
 
-> [View this post on Instagram](https://www.instagram.com/reel/DBZCryMpgfp/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Carlos Vives (@carlosvives)](https://www.instagram.com/reel/DBZCryMpgfp/?utm_source=ig_embed&utm_campaign=loading)
+**Fernanda** **Valencia**, una mujer de la tercera edad que tiene miedo a la **oscuridad**, recibió de su hijo un **foco** **recargable** el fin de semana para tener luz en su cuarto hasta quedarse dormida.
 
-El artista destacó la humildad de **Cuadrado**, quien nunca perdió su esencia campesina, incluso cuando alcanzó el reconocimiento internacional.
+Duración de los focos recargables
+---------------------------------
 
-“Hoy se murió **La Provincia**“, afirmó Vives, resaltando el impacto del acordeonero en su vida y en la música vallenata.
+Según los dueños de ferreterías, los **focos recargables** tienen una duración de cuatro horas encendidos, con un tiempo de recarga de dos horas.
 
-**Shakira compartió un sentido mensaje en Instagram**
------------------------------------------------------
+Antes, estos focos se vendían principalmente a personas que se dirigían al **campo** o a lugares sin **electricidad**; ahora, son uno de los productos más buscados por los quiteños.
 
-Tras la muerte de **Egidio Cuadrado**, la cantante colombiana escribió, en una historia de Instagram, “Egidio querido, te llevas en tus ojos un pedazo de mi cielo y de mi mar caribe. A cambio nos dejas las notas de tu acordeón y el sonido de tu risa para que alegren nuestro corazón por siempre”.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Foco-recargable-1024x683.jpg)
 
-**Colombia lamenta la muerte de Egidio Cuadrado**
--------------------------------------------------
+Algunos locales logran importar focos recargables, pero se acaban rápido. Foto: Julio Estrella / EL COMERCIO.
 
-Otros **músicos**, como **Jorge Celedón**, también lamentaron su partida, destacando cómo su trabajo ayudó a llevar el **vallenato** a nuevas audiencias.
+Kendry Páez sumó su segundo partido en la banca de suplentes
+============================================================
 
-“La **música colombiana** pierde a uno de sus grandes”, afirmó Celedón.
+Kendry Páez vive sus últimos meses en Independiente del Valle antes de unirse al Chelsea.
+-----------------------------------------------------------------------------------------
 
-> Es un día triste, me duele mucho la partida de mi paisano, vecino, amigo, colega y orgullo villanuevero, [#EgidioCuadrado](https://twitter.com/hashtag/EgidioCuadrado?src=hash&ref_src=twsrc%5Etfw) mucha fortaleza a su familia, mi abrazo solidario, los acompaño en su dolor…  
-> Dios lo acoja en su santo reino 🙏🙏
-> 
-> — JORGE CELEDON (@Jorgitoceledon) [October 21, 2024](https://twitter.com/Jorgitoceledon/status/1848351463539417184?ref_src=twsrc%5Etfw)
+![Kendry Páez con Independiente del Valle en un encuentro de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_suplente_1.jpg)
 
-La Asociación de **Músicos de Colombia** -en cambio- organizó un evento para recordar su vida y obra, resaltando su impacto en generaciones de músicos.
+**Kendry Páez** es todo un suceso en el fútbol ecuatoriano. Desde su debut en el primer plantel de Independiente del Valle y con la Selección de Ecuador absoluta su nombre no deja de ser un tema de conversación para los futboleros.
 
-**Alfredo Gutiérrez**, conocido como ‘El Rey Vallenato’, fue otro reconocido artista que se unió al tributo, compartiendo su tristeza en redes sociales y enviando sus condolencias a la familia del acordeonista.
-
-**Checo Acosta**, otro destacado artista del género, lamentó la pérdida de Cuadrado, describiéndolo como un “tremendo artista y gran persona”.
-
-> [View this post on Instagram](https://www.instagram.com/p/DBY7iXYxHYJ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Checo Acosta (@checoacosta)](https://www.instagram.com/p/DBY7iXYxHYJ/?utm_source=ig_embed&utm_campaign=loading)
-
-Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?
-=============================================================
-
-Liga de Quito dedicó su partido ante Técnico Universitario a Marco Angulo y Roberto Cabezas recibió homenaje en Independiente.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito con la pancarta de apoyo a Marco Angulo en la fecha 10 de la segunda etapa de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241019133199-fbl-liga-pro-tecnico-liga-1-scaled.jpg)
-
-**Liga de Quito** se encuentra pendiente de la situación médica de Marco Angulo, quien estuvo presente en un siniestro de tránsito durante el 7 de octubre de 2024. En su última aparición, los albos le dedicaron su partido y se inspiraron en él.
-
-En el último choque ante Técnico Universitario, por la fecha 10 de la Liga Pro, la escuadra azucena se impuso ante los ambateños por un marcador de 2-1. **Lisandro Alzugaray y Álex Arce** marcaron los tantos albos, sin embargo, el partido también se destacó por un suceso antes de que inicie.
+Luego de la pandemia del **covid-19 que afectó a Ecuador y al mundo en el 2020**, el nombre de Kendry Páez empezó a sonar con fuerza y rápidamente se viralizó a escala nacional e intencional, por la habilidad con el balón en sus pies.
 
 ### Más noticias:
 
-* [Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro](https://www.elcomercio.com/deportes/liga-quito-liga-pro-marco-angulo-tecnico-universitario-partido.html "Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro")
-* [‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito](https://www.elcomercio.com/deportes/futbol/liga-quito-liderato-ligapro-vitamina-sanchez.html "‘Vitamina’ Sánchez y su estrategia para mantener el liderato con Liga de Quito")
-* [Liga de Quito está afectada por la situación de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-afectado-por-la-situacion-de-marco-angulo.html "Liga de Quito está afectada por la situación de Marco Angulo")
+* [El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-delfin-liga-pro-segunda-etapa-fecha-10.html "El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador")
+* [Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1](https://www.elcomercio.com/deportes/formula-1-gran-premio-estados-unidos-leclerc-sainz.html "Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1")
+* [Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último](https://www.elcomercio.com/deportes/aucas-liga-pro-macara-partido.html "Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último")
 
-Al momento de saltar a la cancha, todos los futbolistas del plantel capitalino ingresaron con una pancarta. Tanto la oncena titular como aquellos en el banco de suplentes exhibieron un mensaje con relación a **Angulo**.
+El 25 de febrero de 2023, **con 15 años, 9 meses, y 21 días**, debutó con Independiente en la Liga Pro. Fue en el estadio La Cocha de Latacunga en la victoria 3-1 ante Mushuc Runa, con un golazo incluido que lo puso definitivamente en el mapa.
 
-“**Va por ti, Marco Angulo!**“, decía la pancarta, en la cual también se mostraba el rostro del futbolista en las letras. A su vez, este se encontraba acompañado del escudo de Liga de Quito al costado y, con él, el plantel posó para las fotos previas al cotejo.
+Con la Selección de Ecuador también vivió un 2023 lleno de récords ligados a su edad. **Con la sub-17 debutó, con Diego Martínez como DT**, con 15 años, 4 meses y 18 días; y con la sub-20, con Miguel Bravo como entrenador, con 16 años y 16 días jugó el Mundial en Argentina.
 
-Pablo ‘Vitamina’ Sánchez, DT de Liga de Quito, dedicó el triunfo a Marco Angulo
--------------------------------------------------------------------------------
+Con la absoluta su debut fue con los 16 años, 4 meses y ocho días, **con el español Félix Sánchez en la zona técnica**. A su edad le sumó tener el récord de precocidad de goles en eliminatorias y en la Copa América.
 
-Antes del cotejo ante **Técnico Universitario**, el DT Pablo ‘Vitamina’ Sánchez de Liga de Quito se había refirió a la situación de **Marco Angulo**. Este había señalado que el grupo resultó afectado por lo que pasó con su compañero.
+En ese mismo año se anunció su traspaso al Chelsea. Se unirá a los ingleses en junio de 2025, una vez que cumpla los 18 años.
 
-Una vez que se produjo la victoria, el argentino volvió a topar el tema y lo que representó el partido en tal contexto. Allí, este se refirió al grupo y también envió un mensaje.
+Desde su participación con la Tri en la reciente Copa América su rendimiento no es el esperado, por lo que las críticas han estado a la orden del día, **principalmente por sus convocatorias que**, a criterio de un sector de la prensa e hinchas, no están justificadas.
 
-“Después de lo ocurrido, lo vivimos de manera especial. Había que hacer un esfuerzo mayor para, ojalá dedicarle el triunfo a él. Era la idea, era la única premisa (…) A mí, particularmente, y supongo que muchos de sus compañeros, no me había tocado nunca vivir una situación así. **Es algo tremendamente complicado, así que este resultado va para él y toda su familia y, como cada día y cada momento, deseándole lo mejor**“, manifestó.
+Páez pierde la titularidad
+--------------------------
 
-Roberto Cabezas recibió un homenaje en Independiente del Valle
---------------------------------------------------------------
+Javier Gandolfi, entrenador de Independiente, **poco a poco le ha quitado protagonismo a Páez** en el equipo titular, al punto de convocarlo, pero no darle minutos en los últimos dos juegos de la segunda etapa de la Liga Pro.
 
-Durante la fecha 10 de la Liga Pro, I**ndependiente del Valle** también rindió tributo a Roberto Cabezas, quien se desempeñaba en Independiente Juniors, conjunto filial. Aquel futbolista también estuvo involucrado en el siniestro de tránsito y falleció.
+Ante Mushuc Runa e Imbabura en la **novena y décima fecha, respectivamente**, el guayaquileño vivió los 90 minutos en la banca de suplentes, aspecto que sucedió por primera vez en la temporada.
 
-Antes de que se lleve a cabo el duelo entre los rayados e **Imbabura**, el Estadio de Independiente del Valle apagó las luces de su estadio y proyecto la imagen del jugador en su marcador electronico. Durante aquel momento se realizó un minuto de silencio[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+Las únicas veces que no jugó fue en la cuarta y quinta jornada de la **primera etapa ante Técnico Universitario y Aucas**, pero por estar convocado a la Tri para la gira de amistosos en Estados Unidos en marzo, en donde fue noticia por actos de indisciplina, junto a Gonzalo Plata y Robert Arboleda.
 
-¿Cuál es el estado de Marco Angulo?
------------------------------------
+En los ocho partidos previos en la segunda etapa fue titular en tres, pero en ninguno completó los 90 minutos y siempre fue sustituido.
 
-A raíz del siniestro de tránsito, **Marco Angulo** fue hospitalizado en el Hospital Eugenio Espejo de Quito. Allí se le realizó una **craniectomia descompresiva** como intervención quirúrgica y su estado era de pronóstico reservado.
+En los cinco restantes no **completó 30 minutos en el terreno de juego**, al que ingresó al cambio.
 
-La última actualización en torno al estado de saludo del futbolista la dio **Isaac Álvarez**, presidente de Liga de Quito, en díalogo con FB Radio durante el 15 de octubre del 2024. Este señaló que el jugador se encontraba en un estado estacionario, sin mejoras ni empeoramientos, y espera que haya una recuperación.
+Su último gol fue en la tercera jornada ante Cumbayá, en el Olímpico Atahualpa.
 
-Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre
-=======================================================================
+En las últimas horas, Kendry Páez se volvió tendencia en la red social X, **luego de publicarse un video en donde se lo veía en un concierto**, en Quito, de un grupo de bachata, que se presentó en el Olímpico Atahualpa el sábado 19 y domingo 20 de octubre.
 
-El tráfico en La Pradera se complica debido a los cierres en las intersecciones. La congestión se extiende a vías aledañas, en Quito
-------------------------------------------------------------------------------------------------------------------------------------
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_suplente_2-1024x683.jpg)
 
-![La congestión vehicular se extiende hasta la av. Colón, en la av. 6 de Diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/6-de-Diciembre-1.jpg)
+Foto: API.
 
-El **Municipio de Quito** realiza la intervención del **Carril Exclusivo de la Ecovía** para colocar nuevo hormigón, en la av. 6 de Diciembre. El avance de la obra obliga a realizar el cierre de vías.
+No te pierdas – El Confesionario
+--------------------------------
+
+Britney Spears dejó a sus fans en ‘shock’ con un anuncio superíntimo
+====================================================================
+
+Britney Spears recibió críticas a favor y en contra luego de su curioso anuncio.
+--------------------------------------------------------------------------------
+
+![Britney Spears dejó en shock a sus fans. Foto: Captura de video](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T163813.695.jpg)
+
+**Britney Spears** dejó a sus fans en ‘shock’ con un anuncio superíntimo. La noticia llegó a través de un video publicado en sus redes sociales.
+
+### **Más noticias:**
+
+* [Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front")
+* [Adiós al primer vocalista de Iron Maiden](https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html?source=Internal&ref=Single+Content+Link")
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
+
+**Britney Spears**: **una vida llena de altibajos**
+---------------------------------------------------
+
+**Britney Spears** nació el 2 de diciembre de 1981 en McComb, Mississippi. Su carrera despegó en 1998 con el lanzamiento de su álbum debut, ‘…Baby One More Time’.
+
+Esese convirtió en un fenómeno mundial, catapultándola a la fama y convirtiéndola en una de las figuras más reconocibles de la cultura pop.
+
+Con su estilo distintivo y su habilidad para fusionar géneros como el pop y el R&B, Britney vendió millones de discos. También acumuló numerosos premios, incluidos varios Grammy.
+
+A lo largo de su carrera, **Britney** ha enfrentado altibajos, incluyendo problemas de salud mental y una muy publicitada tutela que comenzó en 2008.
+
+Esta tutela, que limitó su autonomía y decisiones personales, generó un gran movimiento de apoyo entre sus fans. Se lo conoció como #FreeBritney.
+
+En 2021, tras años de lucha legal, terminó la tutela, lo que marcó un nuevo capítulo en su vida.
+
+**Britney Spears dejó a sus fans en ‘shock’ con un anuncio superíntimo**
+------------------------------------------------------------------------
+
+**Britney Spears** sorprendió a sus seguidores al anunciar que se casó consigo misma. Lo hizo para reivindicar el amor propio y la autoaceptación.
+
+En la publicación, **Spears** reflexionó sobre esta decisión: “Es lo más **brillante** que he hecho nunca”. Destacó la importancia de hablarse a uno mismo de manera positiva.
+
+Este anuncio se produce apenas unos meses después de divorciarse de **Sam Asghari**, lo que llevó a muchos a interpretar la “autoboda” como un acto de empoderamiento personal.
+
+> [#EspectáculosVT](https://twitter.com/hashtag/Espect%C3%A1culosVT?src=hash&ref_src=twsrc%5Etfw)💐 👰‍♀️¡Britney Spears se casó…consigo misma!  
+>   
+> En un reel de Instagram compartió un video en donde aparece con un velo y escribió: "¡Trayéndolo de vuelta porque puede parecer embarazoso o estúpido, pero creo que es la cosa más brillante que he hecho nunca!" [pic.twitter.com/BNQz1yPMxV](https://t.co/BNQz1yPMxV)
+> 
+> — xevt – xhvt (@xevtfm) [October 21, 2024](https://twitter.com/xevtfm/status/1848411117342617712?ref_src=twsrc%5Etfw)
+
+A través de esta ceremonia simbólica, busca demostrar que el amor propio es fundamental, especialmente tras haber pasado por relaciones complicadas en el pasado.
+
+**Fans de Britney Spears reaccionan a su boda**
+-----------------------------------------------
+
+La reacción de sus fans es abrumadora, con miles de “Me gusta” y comentarios de apoyo en su publicación.
+
+Muchos seguidores elogiaron su valentía al priorizar su bienestar emocional y mental.
+
+“Es un mensaje poderoso para todos nosotros”, comentó un fan, destacando cómo **Spears** inspira a otros a valorar su propia felicidad.
+
+La decisión de Spears llega en un momento en que la salud mental y el amor propio son temas cada vez más relevantes en la sociedad.
+
+Ministerio de Educación desarrolla plan de emergencias ante cortes de luz
+=========================================================================
+
+Cortes de luz inciden en la educación en Ecuador. Se prepara un plan.
+---------------------------------------------------------------------
+
+![En el régimen Sierra-Amazonía, las clases empezaron de forma oficial el 2 de septiembre. Plantel en cantón Mejía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Clases-desercion-escolar.jpg)
+
+Los **cortes de luz** llegaron con modificaciones en el sistema de educación en Ecuador. La reducción de horarios de las clases es una de estas[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El **Ministerio de Educación** informó a EL COMERCIO que se encuentra en ejecución un plan de emergencias. La respuesta llegó por la consulta de las posibles repercusiones en el aprendizaje por los apagones.
 
 ### Más noticias
 
-* [Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/nuevo-cierre-vehicular-quito-av-6-de-diciembre-desde-domingo-20-de-octubre.html "Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito")
-* [Tres paradas de la Ecovía se cierran temporalmente, en Quito](https://www.elcomercio.com/actualidad/quito/tres-paradas-ecovia-cerradas-temporalmente-quito.html "Tres paradas de la Ecovía se cierran temporalmente, en Quito")
-* [Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-quito-se-cierra-por-dos-choques-lunes-21-de-octubre.html "Av. Simón Bolívar se cierra por dos choques este lunes 21 de octubre, en Quito")
+* [Cambios en cortes de luz llegan con nuevos horarios de clases](https://www.elcomercio.com/actualidad/ecuador/cambios-cortes-luz-llegan-nuevos-horarios-clases.html "Cambios en cortes de luz llegan con nuevos horarios de clases")
+* [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
+* [Sistema educativo enfrenta retos en medio de cortes de luz](https://www.elcomercio.com/?p=1533213)
 
-El tráfico se extiende en el norte
-----------------------------------
+> 🚨 ATENCIÓN | 50 instituciones educativas retoman clases presenciales en la jornada nocturna. Recuerda que las instituciones que permanecen en modalidad no presencial cuentan con la activación de recursos académicos y guías pedagógicas. 📚  
+>   
+> 📝 Listado de instituciones educativas… [pic.twitter.com/vnJXBX2Fdf](https://t.co/vnJXBX2Fdf)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 19, 2024](https://twitter.com/Educacion_Ec/status/1847481746826174870?ref_src=twsrc%5Etfw)
 
-Los trabajos en **la av. 6 de Diciembre** avanzan de norte a sur y llegaron al **sector de La Pradera**. Por ello, se programaron **cierres viales** durante 10 días.
+Cortes de luz y la educación
+----------------------------
 
-Desde las **19:00 del domingo 20 de octubre**, se inhabilitaron los cruces de la av. 6 de Diciembre y Whymper y De la República. El cierre se mantendrá hasta el 30 de octubre, según lo planeado.
+Las clases de la **jornada vespertina** se redujeron, con la salida a las 18:00. En la nocturna, en cambio, solo 50 escuelas públicas de ocho provincias regresaron a la presencialidad, desde este lunes, 21 de octubre de 2024.
 
-El bloqueo en estas dos importantes **avenidas de la ciudad** ocasiona congestión en toda la zona. El trancón se extiende en el oriente hasta la **Plaza Artigas**.
+El **[Ministerio de Educación](https://educacion.gob.ec/)** aseguró que experiencias adquiridas en situaciones como el terremoto de 2016 y la pandemia por el **Covid-19** han permitido evaluar y prevenir los posibles retrasos que pueden conllevar las modificaciones o ajustes del proceso educativo.
 
-Las avenidas **De la República, 6 de Diciembre**, Whymper, Orellana, Colón registran la mañana de este lunes un alto flujo vehicular. Los conductores deben circular por las avenidas como la 6 de Diciembre y **buscar giros en U para cruzar del otro lado**, esto caotiza las vías aledañas.
+Sin embargo, desde la institución reconocieron que siempre existe el riesgo de pérdida de **aprendizajes**. De ahí que, dijeron, han elaborado un conjunto de materiales articulados con el currículo.
 
-A todo esto se suman los **cortes de luz,** que afectan el funcionamiento de los semáforos.
+Esas herramientas están destinadas a apoyar a **docentes y estudiantes**, para mitigar las consecuencias de la educación no presencial.
 
-Vías cerradas en la av. 6 de Diciembre
---------------------------------------
+> \[COMUNICADO\] Informamos a la ciudadanía los lineamientos sobre los horarios escolares para las siguientes tres semanas, con el fin de garantizar la continuidad del proyecto educativo. [pic.twitter.com/6aMCAJNCeX](https://t.co/6aMCAJNCeX)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 19, 2024](https://twitter.com/Educacion_Ec/status/1847480099571974605?ref_src=twsrc%5Etfw)
 
-En estos nuevos cierres de las intersecciones, **los cambios serán únicamente** sobre el cruce en sentido oriente-occidente y viceversa. Esto debido a que los **trabajos de hormigonado** se realizan sobre los carriles centrales.
+Un plan de emergencias
+----------------------
 
-Los **carriles laterales en ambos sentidos se mantendrán abiertos a la circulación** para las unidades de la Ecovía, el transporte público y los vehículos particulares.
+De acuerdo con el **Ministerio de Educación**, adicionalmente, el plan de emergencia propone orientaciones dirigidas a los docentes con actividades pedagógicas enfocadas en el desarrollo de los aprendizajes.
 
-La Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) coordina con la Secretaría de Movilidad, Empresa de Pasajeros **un plan operativo de que se implementa** en este sector desde la noche del domingo 20.
+También incluirá competencias en situaciones de emergencia con la implementación de **metodologías** que promuevan el aprendizaje de los estudiantes y la adaptación al entorno cambiante.
 
-La **Agencia Metropolitana de Tránsito** (AMT) gestionará el flujo vehicular en los alrededores de estos cierres vehiculares desde las 06:00 hasta las 21:00.
+Lo fundamental, indicaron desde la institución, es la capacidad para gestionar el **aprendizaje** mientras dura la situación de crisis.
 
-Vías alternas
--------------
+![table visualization](https://public.flourish.studio/visualisation/19841235/thumbnail)
 
-Ante el cierre de la Whymper y De la República en la av. 6 de Diciembre, estas son las [rutas alternas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
+Los antecedentes
+----------------
 
-* Av. Eloy Alfaro
-* Av. Francisco de Orellana
-* Av. La Coruña
+El 10 de marzo de 2023, el **Ministerio de Educación** expidió, mediante acuerdo, el **Currículo Priorizado** con énfasis en competencias Comunicacionales, Matemáticas, Digitales y Socioemocionales.
 
-Revisa l**a congestión en la zona** en este mapa y programa tu traslado:
+En ese documento se priorizaron los conocimientos y competencias clave para la vida, incluso, en situaciones de **emergencia** como la crisis energética. Así lo afirmaron desde la entidad.
+
+A la par, está la aplicación de estrategias de educación a distancia y de **aprendizaje** autónomo guiado que aplican las instituciones educativas según sus necesidades y contexto.
+
+También se contempla la flexibilidad en los horarios, la reorganización de las **jornadas escolares** y la aplicación de la modalidad a distancia (no presencial). Eso, acompañado de la reducción de **carga académica**.
+
+La visión de una experta en educación
+-------------------------------------
+
+**Mariana Rivera**, experta en educación, explicó que acortar el tiempo para el desarrollo los contenidos puede acarrear afectaciones a corto y mediano plazo.
+
+El contacto con los **docentes** para profundizar en el currículo, el desarrollo de las destrezas y propuestas para un período específico son necesarios.
+
+Rivera también aludió a **flexibilidad curricular**, el uso de guías de aprendizaje y actividades autónomas encaminadas por los docentes.
+
+Agregó que puede presentarse un **impacto psicológico**, como estrés, ansiedad y desmotivación, tanto en estudiantes cuanto en docentes.
+
+Cortes de luz en Guayaquil este martes 22 de octubre
+====================================================
+
+Los cortes de luz en Guayaquil, para este martes 22 de octubre, son programados por CNEL.
+-----------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este martes 22 de octubre son de hasta ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-martes-22-octubre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **martes 22 de octubre** son de hasta ocho horas.
+
+**CNEL** programó los cortes en dos franjas horarias, en el transcurso de las 24 horas del martes, en la capital.
+
+### Más noticias:
+
+* [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
+* [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
+
+Horarios de cortes de luz en Guayaquil este martes 22 de octubre
+----------------------------------------------------------------
+
+Esta semana, **Ecuador** cumple un mes de cortes de luz programados, por disposición del Gobierno de Daniel Noboa.
+
+La principal causa de los cortes de luz en el país es la grave sequía y la dependencia de las **lluvias** para la operación de las **centrales hidroeléctricas**.
+
+El **21 de septiembre**, el Gobierno de Daniel Noboa declaró en alerta roja a 11 provincias, al día siguiente empezaron los cortes de luz en 12 provincias.
+
+Para el 23 del mismo mes, la suspensión del servicio se extendió a todo el país y por **11 horas diarias**.
+
+En el medio de la búsqueda de alternativas como la compra de energía, el Gobierno **redujo** los cortes de luz.
+
+Sin embargo, frente a la persistencia de la sequía, se retomaron los cortes de **larga duración**.
+
+Ahora, sin que los embalses de las hidroeléctricas lleguen a condiciones óptimas; el Gobierno ordenó que, desde este 21 de octubre hasta el 10 de noviembre, se **disminuya paulatinamente** las horas de cortes de luz.
+
+La semana de este 21 al 27 de octubre serán de **ocho horas**, del 28 de octubre al 3 de noviembre de **seis horas** y del 4 de noviembre al 10 de noviembre de **cuatro horas**.
+
+Esto para la **zona residencial**; la zona industrial mantiene los mismos horarios.
+
+Así, los cortes de luz para Guayaquil este martes 22 de octubre son de hasta ocho horas y se dividen en **dos franjas** horarias, dependiendo del sector.
+
+A continuación, los horarios de cortes de luz en **Guayaquil** este martes 22 de octubre:
+
+  
+
+Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte
+====================================================================================
+
+Liam Payne murió el 16 de octubre de 2024 tras caer del tercer piso de un hotel de Buenos Aires, Argentina.
+-----------------------------------------------------------------------------------------------------------
+
+![El cantante Liam Payne murió a los 31 años. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T161442.365.jpg)
+
+La trágica muerte de **Liam Payne**, exintegrante de **[One Direction](https://www.onedirectionmusic.com/gb/home.html "https://www.onedirectionmusic.com/gb/home.html")**, conmocionó a sus seguidores en todo el mundo. Tras su fallecimiento en **Buenos Aires, Argentina**, el 16 de octubre de 2024, los fans organizan tributos en su memoria.
+
+Uno de los gestos más significativos fue la propuesta de ‘bloquear’ el salto del **hotel CasaSur Palermo**, donde **Payne** fue encontrado muerto tras una caída desde su balcón.
+
+### **Más noticias:**
+
+* [Adiós al primer vocalista de Iron Maiden](https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html "https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html")
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html?source=Internal&ref=Single+Content+Link")
+
+**Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte**
+----------------------------------------------------------------------------------------
+
+Los admiradores expresaron su deseo de convertir el lugar en un espacio de **homenaje permanente**. Esta iniciativa busca evitar que otros **fans** realicen saltos similares en un acto de desesperación o tributo.
+
+“Queremos que este lugar sea un símbolo de amor y no de tragedia”, comentó una fan durante una vigilia que se llevó a cabo frente al hotel.
+
+Los seguidores encendieron velas y dejaron flores, creando un ambiente lleno de recuerdos y canciones que marcaron su juventud.
+
+La propuesta generó un debate sobre la salud mental y el impacto del estrellato en la vida personal de los artistas.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C395b7jIN_B/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Liam Payne (@liampayne)](https://www.instagram.com/reel/C395b7jIN_B/?utm_source=ig_embed&utm_campaign=loading)
+
+Muchos fans recordaron las luchas abiertas de **Payne** con la fama y sus problemas de salud mental. Eso llevó a un llamado a mejorar el apoyo disponible para artistas en situaciones similares.
+
+“Es fundamental que aprendamos de esta tragedia y trabajemos juntos para crear un entorno más seguro”, afirmó otro asistente a la vigilia.
