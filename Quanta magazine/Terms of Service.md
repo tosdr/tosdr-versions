@@ -253,17 +253,17 @@ _By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
 
 _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
+
 [![A quantum bicyclist in front of a classical unicyclist](https://www.quantamagazine.org/wp-content/uploads/2024/10/QuantumMemory_crChanelleNibbelinkThumbnail.webp)](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
 
 [#### ‘Quantum Memory’ Proves Exponentially Powerful](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
 
 _By_ [Lakshmi Chandrasekaran](https://www.quantamagazine.org/authors/lakshmi-chandrasekaran)
-
-[![An illustration in which perspective lines converge at a central point and different types of astronomical objects form concentric circles around that point.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FirstBillionYears-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
-
-[#### The ‘Beautiful Confusion’ of the First Billion Years Comes Into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
-
-_By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
 The Quanta Newsletter
 
