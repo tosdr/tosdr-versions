@@ -218,7 +218,7 @@ Pin
 
 * 6,175 Days celebrated
 * 18,525 Ways to celebrate
-* 1,000,000+ Happy users
+* 10,000,000+ Happy users
 
 ### About us
 
