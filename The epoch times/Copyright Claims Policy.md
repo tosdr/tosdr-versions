@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Americans Who Never Lived in Certain US States Can Cast Ballots There, Courts Rule](https://www.theepochtimes.com/us/americans-who-never-lived-in-states-can-cast-ballots-courts-rule-5745616)
+* [McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
     
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Americans Who Never Lived in Certain US States Can Cast Ballots There, Courts Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Americans Who Never Lived in Certain US States Can Cast Ballots There, Courts Rule](https://img.theepochtimes.com/assets/uploads/2022/06/21/absentee-ballots-1200x800-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-who-never-lived-in-states-can-cast-ballots-courts-rule-5745616)
-* [Republicans Close Early Voting Gap Compared to 2020](https://www.theepochtimes.com/us/republicans-eat-into-democrats-early-voting-advantage-compared-to-4-years-ago-5745654)
+    ![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/uploads/2024/10/id5737740-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
+* [Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://www.theepochtimes.com/business/federal-judge-delays-shutdown-of-us-oil-and-gas-operations-in-gulf-of-mexico-5745800)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Republicans Close Early Voting Gap Compared to 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Republicans Close Early Voting Gap Compared to 2020](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744982-NV-Vote-Polls_JF_10192024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-eat-into-democrats-early-voting-advantage-compared-to-4-years-ago-5745654)
-* [IRS Unveils New Federal Income Tax Brackets for 2025](https://www.theepochtimes.com/business/irs-unveils-new-federal-income-tax-brackets-for-2025-post-5745672)
+    ![Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://img.theepochtimes.com/assets/uploads/2023/04/03/id5167623-oil-gas-drilling-platform--205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-judge-delays-shutdown-of-us-oil-and-gas-operations-in-gulf-of-mexico-5745800)
+* [Denny’s to Close 150 Underperforming Restaurants by End of 2025](https://www.theepochtimes.com/business/dennys-to-close-150-underperforming-restaurants-by-end-of-2025-post-5745883)
     
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![IRS Unveils New Federal Income Tax Brackets for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Denny’s to Close 150 Underperforming Restaurants by End of 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IRS Unveils New Federal Income Tax Brackets for 2025](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705113-08122024-DSC00299-IRS-205x123.jpg.webp)](https://www.theepochtimes.com/business/irs-unveils-new-federal-income-tax-brackets-for-2025-post-5745672)
-* [Swing-State Democrat Bob Casey Uses Trump-Friendly References in Political Ad](https://www.theepochtimes.com/us/swing-state-democrat-bob-casey-uses-trump-friendly-references-in-political-ad-5744348)
+    ![Denny’s to Close 150 Underperforming Restaurants by End of 2025](https://img.theepochtimes.com/assets/uploads/2024/04/15/id5629306-Dennys-205x123.jpg.webp)](https://www.theepochtimes.com/business/dennys-to-close-150-underperforming-restaurants-by-end-of-2025-post-5745883)
+* [US Citizen Calls for Help to Rescue Critically Ill Family Member Jailed for His Faith in China](https://www.theepochtimes.com/china/us-citizen-calls-for-help-to-rescue-critically-ill-family-member-jailed-for-his-faith-in-china-5745720)
     
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Swing-State Democrat Bob Casey Uses Trump-Friendly References in Political Ad](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Citizen Calls for Help to Rescue Critically Ill Family Member Jailed for His Faith in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Swing-State Democrat Bob Casey Uses Trump-Friendly References in Political Ad](https://img.theepochtimes.com/assets/uploads/2023/01/05/Bob-Casey-205x123.jpg.webp)](https://www.theepochtimes.com/us/swing-state-democrat-bob-casey-uses-trump-friendly-references-in-political-ad-5744348)
-* [In Georgia, a Concerning Demographic Trend for Democrats](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
+    ![US Citizen Calls for Help to Rescue Critically Ill Family Member Jailed for His Faith in China](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745721-Karen-Kang-2-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-citizen-calls-for-help-to-rescue-critically-ill-family-member-jailed-for-his-faith-in-china-5745720)
+* [Massive Lithium Deposits Found in Southwestern Arkansas](https://www.theepochtimes.com/us/massive-lithium-deposits-found-in-southwestern-arkansas-5745911)
     
-    7hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    NEW By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
-    [![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Massive Lithium Deposits Found in Southwestern Arkansas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745631-GettyImages-2168355911-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
-* [California Voters Could Decide Whether Republicans Keep the House](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
+    ![Massive Lithium Deposits Found in Southwestern Arkansas](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745974-lithium-mine-GettyImages-1244204108-205x123.jpg)](https://www.theepochtimes.com/us/massive-lithium-deposits-found-in-southwestern-arkansas-5745911)
+* [CDC Warns of Rising Mycoplasma Pneumoniae Levels so Far This Year](https://www.theepochtimes.com/health/cdc-warns-of-rising-mycoplasma-pneumoniae-levels-so-far-this-year-5745850)
     
-    7hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![CDC Warns of Rising Mycoplasma Pneumoniae Levels so Far This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745630-Voter-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
-* [Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
+    ![CDC Warns of Rising Mycoplasma Pneumoniae Levels so Far This Year](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5684895-cdc-headquarters-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-warns-of-rising-mycoplasma-pneumoniae-levels-so-far-this-year-5745850)
+* [Giuliani Ordered to Turn Assets Over to Former Georgia Election Workers](https://www.theepochtimes.com/us/giuliani-ordered-to-turn-assets-over-to-former-georgia-election-workers-5745847)
     
-    7hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Giuliani Ordered to Turn Assets Over to Former Georgia Election Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745632-FotoJet-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
-* [Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://www.theepochtimes.com/china/assassinations-targeting-ccp-officials-highlight-rising-tensions-in-china-experts-say-5744491)
+    ![Giuliani Ordered to Turn Assets Over to Former Georgia Election Workers](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607364-12152023-DSC00873-Rudy-Giuliani-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/giuliani-ordered-to-turn-assets-over-to-former-georgia-election-workers-5745847)
+* [People Lacking a Sense of Smell Breathe Differently, Study Finds](https://www.theepochtimes.com/health/people-lacking-a-sense-of-smell-breathe-differently-study-finds-5743744)
     
-    7hr By [Michael Zhuang](https://www.theepochtimes.com/author/michael-zhuang) and [Shawn Lin](https://www.theepochtimes.com/author/shawn-lin)
+    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![People Lacking a Sense of Smell Breathe Differently, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://img.theepochtimes.com/assets/uploads/2023/12/03/id5540404-GettyImages-114340067-205x123.jpg.webp)](https://www.theepochtimes.com/china/assassinations-targeting-ccp-officials-highlight-rising-tensions-in-china-experts-say-5744491)
-* [Early Voting Begins in Wisconsin With 17 Million Ballots Already Cast Nationwide](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
+    ![People Lacking a Sense of Smell Breathe Differently, Study Finds](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745902-shutterstock_2521706413_anosmia_smell_breathe_flowers_sense_senses_olfaction_olfactory-205x123.jpg.webp)](https://www.theepochtimes.com/health/people-lacking-a-sense-of-smell-breathe-differently-study-finds-5743744)
+* [Wisconsin Election Commission Sued Over Security Concerns About Its Online Registration System](https://www.theepochtimes.com/us/lawsuit-seeks-to-shut-down-wisconsins-online-voter-registration-system-due-to-security-concerns-5745750)
     
-    7hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Early Voting Begins in Wisconsin With 17 Million Ballots Already Cast Nationwide](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Wisconsin Election Commission Sued Over Security Concerns About Its Online Registration System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Early Voting Begins in Wisconsin With 17 Million Ballots Already Cast Nationwide](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745760-GettyImages-2180092938-OP-205x123.jpg)](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
-* [Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
+    ![Wisconsin Election Commission Sued Over Security Concerns About Its Online Registration System](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5704841-GettyImages-2133610443-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawsuit-seeks-to-shut-down-wisconsins-online-voter-registration-system-due-to-security-concerns-5745750)
+* [Honda Recalls More Than 720,000 Vehicles for High-Pressure Fuel Pump Defect](https://www.theepochtimes.com/us/honda-recalls-more-than-720000-vehicles-for-high-pressure-fuel-pump-defect-5745747)
     
-    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Honda Recalls More Than 720,000 Vehicles for High-Pressure Fuel Pump Defect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745634-Israel-military-base-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
+    ![Honda Recalls More Than 720,000 Vehicles for High-Pressure Fuel Pump Defect](https://img.theepochtimes.com/assets/uploads/2024/05/16/id5651760-Honda-2024-AccordKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/honda-recalls-more-than-720000-vehicles-for-high-pressure-fuel-pump-defect-5745747)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
