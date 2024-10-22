@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Neueste Tests
 
+* [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
 
 Service Stiftung Warentest
 
