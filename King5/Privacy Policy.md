@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d1c003a4-d694-42be-b660-7b23bb8ee14e/20241022T133056/d1c003a4-d694-42be-b660-7b23bb8ee14e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d1c003a4-d694-42be-b660-7b23bb8ee14e/20241022T133056/d1c003a4-d694-42be-b660-7b23bb8ee14e_360x203.jpg)](https://www.king5.com/article/news/local/clallam-county-only-county-us-voted-for-winning-presidential-candidate-every-election-for-40-years/281-75fab416-7691-4112-a1df-c4561a059140)
-        
-        #### [Clallam County has voted for the winning presidential candidate in every election for the last 40 years](https://www.king5.com/article/news/local/clallam-county-only-county-us-voted-for-winning-presidential-candidate-every-election-for-40-years/281-75fab416-7691-4112-a1df-c4561a059140)
-        
     *  [![](https://media.king5.com/assets/KING/images/4d167fcd-376e-48b0-b341-d40946bd056e/4d167fcd-376e-48b0-b341-d40946bd056e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4d167fcd-376e-48b0-b341-d40946bd056e/4d167fcd-376e-48b0-b341-d40946bd056e_360x203.jpg)](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
         
-        #### [Man to be sentenced for 2022 shooting of Whatcom County deputies](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
+        #### [Man sentenced to 40 years for attempted murder of Whatcom County deputies](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
+        
+    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        
+        #### [3 of 4 Let's Go WA Initiatives face significant opposition headed into Nov. election: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/73e3050d-1e2c-41e2-bf49-7826ca14189b/20241022T121638/73e3050d-1e2c-41e2-bf49-7826ca14189b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73e3050d-1e2c-41e2-bf49-7826ca14189b/20241022T121638/73e3050d-1e2c-41e2-bf49-7826ca14189b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/4c24ec9d-e077-4538-9d96-d2957fc3e15b/20241022T200844/4c24ec9d-e077-4538-9d96-d2957fc3e15b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c24ec9d-e077-4538-9d96-d2957fc3e15b/20241022T200844/4c24ec9d-e077-4538-9d96-d2957fc3e15b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+56°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
