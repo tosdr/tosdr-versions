@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 18, 2024
+October 21, 2024
 
-The good that’s all around, if we look for it
+Seeking light in Sudan
 
-We usually talk about our own stories in this space, and appropriately so. But today, I stumbled upon this podcast as I was scanning the Morning Dispatch newsletter: “Country Over Self.” The synopsis says, “Country Over Self and Country Over Party have always been cornerstones of the American Presidency.”Sometimes, it can seem that seeking mutual humanity and our higher natures can be a lonely place in today’s media landscape. But it’s not. The podcast was a welcome reminder to look for the good all around. It’s out there to be found.
+Last week, a United Nations task force made an alarming statement: “Never in modern history have so many people faced starvation and famine as in Sudan today.”It is happening largely in the dark. Foreign journalists face difficulties accessing the war-torn area. Local journalists are intimidated or killed. This week, we’re publishing three stories about Sudan, starting today. We are also making a statement. The articles explore how people are surviving the war – where they draw hope and the sense of family and community they’ve fought to retain. But they also ask the world to bring this crisis into the light.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### China’s latest drills highlight key strategy to annex Taiwan: Blockade](https://www.csmonitor.com/World/Asia-Pacific/2024/1021/china-taiwan-pla-blockade-unification-us-defense "China’s latest drills highlight key strategy to annex Taiwan: Blockade")
+
 [### As Israel pounds Lebanon, Gazans empathize, yet feel forgotten](https://www.csmonitor.com/World/Middle-East/2024/1021/gaza-lebanon-israel-palestinians-civilians "As Israel pounds Lebanon, Gazans empathize, yet feel forgotten")
 
 [### Fetullah Gulen, a controversial Turkish cleric, remembered for failed coup attempt](https://www.csmonitor.com/World/Europe/2024/1021/Fetullah-Gulen-dies-coup-Islam-Erdogan-turkey "Fetullah Gulen, a controversial Turkish cleric, remembered for failed coup attempt")
-
-[### Extended power outage sparked protests in Cuba. Then Hurricane Oscar made landfall.](https://www.csmonitor.com/World/Americas/2024/1021/Cuba-power-outage-protest-hurricane-Oscar "Extended power outage sparked protests in Cuba. Then Hurricane Oscar made landfall.")
 
 * * *
 
