@@ -240,16 +240,13 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
+#### Ready to get started?
 
   
+Sign up for a free dynamic DNS account, no credit card needed  
   
-
-### Free for Open Source Projects
-
-We love open source projects. Contact us with details of your project.  
+[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
   
-[Contact Us](https://www.dynu.com/Support/ContactUs)
 
 ### News
 
