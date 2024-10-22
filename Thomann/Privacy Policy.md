@@ -20,8 +20,8 @@ Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
 
 search  
 
-* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
+* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
 
@@ -54,6 +54,8 @@ en · $
 * Products
 * Service
 * About Us
+
+* [Cyberweek Countdown](https://www.thomannmusic.com/special_cyberweek.html)
 
 * [Guitars and Basses](https://www.thomannmusic.com/guitars_and_basses.html)
 * [Drums and Percussion](https://www.thomannmusic.com/drums_and_percussion.html)
