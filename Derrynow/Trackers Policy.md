@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-21 Oct 2024
+22 Oct 2024
 
 * [Home
     
@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Sadness as popular Limavady cafe set to close its doors for good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as popular Limavady cafe set to close its doors for good")](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
-
-Habit will close its doors for good on November 2.
-
-[Home](https://www.derrynow.com/)
-
-[Sadness as popular Limavady cafe set to close its doors for good](https://www.derrynow.com/news/home/1635226/sadness-as-popular-limavady-cafe-set-to-close-its-doors-for-good.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -290,6 +281,31 @@ IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
 
 [IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+
+IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: All smiles for International Credit Union Day in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: All smiles for International Credit Union Day in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
+
+IN PICTURES: All smiles for International Credit Union Day in Derry
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: All smiles for International Credit Union Day in Derry](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody")](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two PSNI officers injured after vehicle rammed in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
 
@@ -315,20 +331,6 @@ IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial C
 
 [IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody")](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bail application adjourned for man who co-operated with police and give his PIN number](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail application adjourned for man who co-operated with police and give his PIN number")](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Bail application adjourned for man who co-operated with police and give his PIN number](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Kneecap Derry show moves to historic cityside venue after Unionist opposition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap Derry show moves to historic cityside venue after Unionist opposition")](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
 
