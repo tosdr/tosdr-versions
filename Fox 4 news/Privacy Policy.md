@@ -402,37 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Collin County sex assault suspect may have more victims, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/detaron-fenley.png?ve=1&tl=1)
+ [![Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-21-17h54m11s920.png?ve=1&tl=1)
 
- ![Collin County sex assault suspect may have more victims, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/detaron-fenley.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/detaron-fenley-plano-sexual-assault-suspect)
+ ![Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-21-17h54m11s920.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
 
-### [Collin County sex assault suspect may have more victims, police say](https://www.fox4news.com/news/detaron-fenley-plano-sexual-assault-suspect)
+### [Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://www.fox4news.com/news/houston-helicopter-crash)
 
- [![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/helicopter-crash.jpg?ve=1&tl=1)
+ [![Girl Scouts will raise yearly dues to $65 by 2027](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/girl-scout-vest.jpg?ve=1&tl=1)
 
- ![Houston helicopter crash: 'Multiple fatalities' reported](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/helicopter-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
+ ![Girl Scouts will raise yearly dues to $65 by 2027](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/girl-scout-vest.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/girl-scouts-will-raise-yearly-dues-65-2027)
 
-### [Houston helicopter crash: 'Multiple fatalities' reported](https://www.fox4news.com/news/houston-helicopter-crash)
+### [Girl Scouts will raise yearly dues to $65 by 2027](https://www.fox4news.com/news/girl-scouts-will-raise-yearly-dues-65-2027)
 
- [![Man killed his Lewisville co-worker because she took long breaks, report says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/travis-lee-merrill-denton-county-jail.png?ve=1&tl=1)
+ [![Cowboys head coach Mike McCarthy responds to team's criticism from Troy Aikman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/mccarthy-aikman.jpg?ve=1&tl=1)
 
- ![Man killed his Lewisville co-worker because she took long breaks, report says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/travis-lee-merrill-denton-county-jail.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-workplace-shooting-travis-merrill-affidavit)
+ ![Cowboys head coach Mike McCarthy responds to team's criticism from Troy Aikman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/mccarthy-aikman.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mccarthy-aikman-dallas-cowboys-oct-21)
 
-### [Man killed his Lewisville co-worker because she took long breaks, report says](https://www.fox4news.com/news/lewisville-workplace-shooting-travis-merrill-affidavit)
+### [Cowboys head coach Mike McCarthy responds to team's criticism from Troy Aikman](https://www.fox4news.com/sports/mccarthy-aikman-dallas-cowboys-oct-21)
 
- [![Texas death row inmate Robert Roberson doesn't testify Monday in 'shaken baby syndrome' case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
+ [![4 killed, including 2 children, in wrong-way Texas crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/b4c0630b-Ambulance-sized.jpg?ve=1&tl=1)
 
- ![Texas death row inmate Robert Roberson doesn't testify Monday in 'shaken baby syndrome' case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-shaken-baby-syndrome-does-not-testify)
+ ![4 killed, including 2 children, in wrong-way Texas crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/b4c0630b-Ambulance-sized.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/4-killed-including-2-children-wrong-way-texas-crash)
 
-Live Now
+### [4 killed, including 2 children, in wrong-way Texas crash](https://www.fox4news.com/news/4-killed-including-2-children-wrong-way-texas-crash)
 
-### [Texas death row inmate Robert Roberson doesn't testify Monday in 'shaken baby syndrome' case](https://www.fox4news.com/news/robert-roberson-shaken-baby-syndrome-does-not-testify)
+ [![Fort Worth shooting: Man fatally shot outside Fort Worth restaurant](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kst-fw-fatal-pkg_kdfwcabd_186_mp4_00.01.04.32.jpg?ve=1&tl=1)
 
- [![39 years later: Which 'Back to the Future' tech predictions came true?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s_back-to-the-future-8a_00.00.16.36.jpg?ve=1&tl=1)
+ ![Fort Worth shooting: Man fatally shot outside Fort Worth restaurant](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kst-fw-fatal-pkg_kdfwcabd_186_mp4_00.01.04.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-patrick-morgan-lulus-lounge)
 
- ![39 years later: Which 'Back to the Future' tech predictions came true?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s_back-to-the-future-8a_00.00.16.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/9-years-since-back-to-the-future-tech-gadgets)
-
-### [39 years later: Which 'Back to the Future' tech predictions came true?](https://www.fox4news.com/news/9-years-since-back-to-the-future-tech-gadgets)
+### [Fort Worth shooting: Man fatally shot outside Fort Worth restaurant](https://www.fox4news.com/news/fort-worth-shooting-patrick-morgan-lulus-lounge)
 
 ###### [News](https://www.fox4news.com/news)
 
