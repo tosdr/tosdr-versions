@@ -1,9 +1,10 @@
 [![](https://freedomain.com/wp-content/uploads/2022/04/freedomain-logo.png)](https://freedomain.com/)
 
 * [Home](https://freedomain.com/)
-* [Featured Interviews](https://freedomain.com/featured-interviews/)
+* [Interviews](https://freedomain.com/featured-interviews/)
 * [Documentaries](https://freedomain.com/documentaries/)
 * [Books](https://freedomain.com/books/)
+* [NFTs](https://freedomain.com/freedomainnft/)
 * [Videos](https://freedomain.com/videos/)
 * [Podcasts](https://freedomain.com/podcasts/)
 * [Blog](https://freedomain.com/blog/)
@@ -15,9 +16,10 @@
 [![](https://freedomain.com/wp-content/uploads/2022/04/freedomain-logo.png)](https://freedomain.com/)
 
 * [Home](https://freedomain.com/)
-* [Featured Interviews](https://freedomain.com/featured-interviews/)
+* [Interviews](https://freedomain.com/featured-interviews/)
 * [Documentaries](https://freedomain.com/documentaries/)
 * [Books](https://freedomain.com/books/)
+* [NFTs](https://freedomain.com/freedomainnft/)
 * [Videos](https://freedomain.com/videos/)
 * [Podcasts](https://freedomain.com/podcasts/)
 * [Blog](https://freedomain.com/blog/)
