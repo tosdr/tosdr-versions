@@ -137,69 +137,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![kota](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1079598-1693300988.jpg)](https://lyricstranslate.com/en/translator/kota "kota")
+[![Mohamed Zaki](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1550128-1717144476.jpg)](https://lyricstranslate.com/en/translator/mohamed-zaki "Mohamed Zaki")
 
-New translation
+New comment
 
-[Saburō Kitajima - 比叡の風 (Hiei no kaze)](https://lyricstranslate.com/en/saburo-kitajima-hiei-no-kaze-english)
+Lyrics also were incomplete in both French and ...  [more](https://lyricstranslate.com/en/comment/1171371#comment-1171371)
 
-Japanese → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Daniele Serra - Adua](https://lyricstranslate.com/en/daniele-serra-adua-spanish)
-
-Italian → Spanish
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Daniele Serra - Adua](https://lyricstranslate.com/en/daniele-serra-adua-english)
-
-Italian → English
-
-[![Annifer85](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1540185-1654595130.jpg)](https://lyricstranslate.com/en/translator/annifer85 "Annifer85")
-
-New transcription request
-
-[Rosi - Manefesti](https://lyricstranslate.com/en/rosi-manefesti)
-
-Finnish
-
-[![TranslatingForFun](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1631958-1727948833.jpg)](https://lyricstranslate.com/en/translator/translatingforfun "TranslatingForFun")
-
-New translation
-
-[Carpathian Forest - All My Friends Are Dead](https://lyricstranslate.com/en/carpathian-forest-all-my-friends-are-dead-italian)
-
-English → Italian
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New translation
-
-[Big Joe Turner - Teenage Letter](https://lyricstranslate.com/en/big-joe-turner-teenage-letter-french)
-
-English → French
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
 
 New song
 
-[Daniele Serra - Adua](https://lyricstranslate.com/en/daniele-serra-adua-lyrics)
+[Deep Purple - Love Help Me](https://lyricstranslate.com/en/deep-purple-love-help-me-lyrics)
 
-Italian
+English
 
-[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Chelsea Dinorath - À Toa](https://lyricstranslate.com/en/chelsea-dinorath-toa-lyrics)
+
+Portuguese
+
+[![saspitite](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/saspitite "saspitite")
 
 New translation
 
-[Henri Tachan - Inventaire](https://lyricstranslate.com/en/henri-tachan-inventaire-italian)
+[Hevisaurus - Aarrejahti](https://lyricstranslate.com/en/hevisaurus-aarrejahti-english)
 
-French → Italian
+Finnish → English
+
+[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
+
+New song
+
+[Deep Purple - Mandrake Root](https://lyricstranslate.com/en/deep-purple-mandrake-root-lyrics)
+
+English
+
+[![Diazepan Medina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1321515-1706207072.jpg)](https://lyricstranslate.com/en/translator/diazepan-medina "Diazepan Medina")
+
+New comment
+
+The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1171370#comment-1171370)
+
+[![Luis Miguel Mesa Martinez](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628283-1725929538.png)](https://lyricstranslate.com/en/translator/luis-miguel-mesa-martinez "Luis Miguel Mesa Martinez")
+
+New request
+
+[Arelys Henao - Corazonada](https://lyricstranslate.com/en/request/corazonada)
+
+Spanish → English
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New comment
+
+Thank you, \[@fatix\]. As for the missing word, I...  [more](https://lyricstranslate.com/en/comment/1171367#comment-1171367)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
