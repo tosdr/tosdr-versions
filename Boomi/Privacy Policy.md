@@ -1,4 +1,4 @@
-* [Platform](javascript:void(0))
+* Platform
     
     ###### Overview
     
@@ -52,7 +52,7 @@
     
     [What is iPaaS](https://boomi.com/platform/what-is-ipaas/)
     
-* [Solutions](javascript:void(0))
+* Solutions
     
     ###### By industry
     
@@ -74,13 +74,13 @@
     
     [Pre-built solutions](https://discover.boomi.com/)
     
-* [Case studies](javascript:void(0))
+* Case studies
     
     [![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)](https://boomi.com/customers/)[![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/australian-red-cross/)[![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/american-cancer-society/)[![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/23andme/)[![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)](https://boomi.com/customer/dropbox/)[![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)](https://boomi.com/customer/cloudflare/)[![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)](https://boomi.com/customer/sky/)[![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/origin-energy/)
     
     [Explore all case studies](https://boomi.com/customers/)
     
-* [Resources](javascript:void(0))
+* Resources
     
     ###### Learn
     
@@ -96,7 +96,7 @@
     
     [Explore all resources](https://boomi.com/resources/)
     
-* [Partners](javascript:void(0))
+* Partners
     
     ###### Partner ecosystem
     
@@ -125,13 +125,13 @@
 
  [![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)[![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)
 
-* [Platform](javascript:void(0))
+* Platform
     
     ##### Platform
     
     [What is iPaaS](https://boomi.com/platform/what-is-ipaas/)
     
-    [Overview](javascript:void(0))
+    Overview
     
     * [###### Boomi Enterprise Platform
         
@@ -146,7 +146,7 @@
         
         Ensure regulatory and industry standards](https://boomi.com/compliance/)
     
-    [Capabilities](javascript:void(0))
+    Capabilities
     
     * [![AI - Menu Icon](https://boomi.com/wp-content/uploads/AI-Menu-Icon.svg)
         
@@ -168,8 +168,6 @@
         ###### Data management
         
         Synchronized 360-degree view of your data](https://boomi.com/platform/datahub/)
-    
-    [](javascript:void(0))
     
     * [![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
         
@@ -196,13 +194,13 @@
     * [Request a demo](https://boomi.com/custom-demo-request/)
     * [Pricing](https://boomi.com/pricing/)
     
-* [Solutions](javascript:void(0))
+* Solutions
     
     ##### Solutions
     
     [Pre-built solutions](https://discover.boomi.com/)
     
-    [By industry](javascript:void(0))
+    By industry
     
     * [###### Manufacturing](https://boomi.com/solutions/industries/manufacturing/)
     * [###### Healthcare and Life Sciences](https://boomi.com/solutions/industries/healthcare-life-sciences/)
@@ -212,7 +210,7 @@
     * [###### Public Sector](https://boomi.com/solutions/industries/public-sector/)
     * [###### Embedded & Software providers](https://boomi.com/partners/embedded-software-providers/)
     
-    [By initiative](javascript:void(0))
+    By initiative
     
     * [###### Integration center of excellence](https://boomi.com/solutions/initiatives/integration-center-of-excellence/)
     * [###### Practical AI](https://boomi.com/solutions/initiatives/practical-ai/)
@@ -222,7 +220,7 @@
     * [###### Cloud migration connectivity](https://boomi.com/solutions/initiatives/cloud-migration-connectivity/)
     * [###### Legacy modernization](https://boomi.com/solutions/initiatives/legacy-modernization/)
     
-    [By function](javascript:void(0))
+    By function
     
     * [###### IT](https://boomi.com/solutions/function/information-technology/)
     * [###### Finance](https://boomi.com/solutions/function/finance/)
@@ -243,7 +241,7 @@
     * [Request a demo](https://boomi.com/custom-demo-request/)
     * [Pricing](https://boomi.com/pricing/)
     
-* [Case studies](javascript:void(0))
+* Case studies
     
     ##### Case studies
     
@@ -285,13 +283,13 @@
     * [Request a demo](https://boomi.com/custom-demo-request/)
     * [Pricing](https://boomi.com/pricing/)
     
-* [Resources](javascript:void(0))
+* Resources
     
     ##### Resources
     
     [Explore all resources](https://boomi.com/resources/)
     
-    [Learn](javascript:void(0))
+    Learn
     
     * [###### Events & webinars](https://boomi.com/company/events/)
     * [###### Blog](https://boomi.com/blog/)
@@ -299,7 +297,7 @@
     * [###### Ebooks](https://boomi.com/resources/?content_type=ebook)
     * [###### Podcast](https://boomi.com/boomi-podcast/)
     
-    [Support](javascript:void(0))
+    Support
     
     * [###### Training](https://boomi.com/services/training/)
     * [###### Community](https://community.boomi.com/s/)
@@ -307,27 +305,27 @@
     * [###### File support ticket](https://community.boomi.com/s/support)
     * [###### Product updates](https://boomi.com/product-release/)
     
-    [Succeed](javascript:void(0))
+    Succeed
     
     * [###### Services](https://boomi.com/services/)
     * [###### Professional services](https://boomi.com/services/professional-services/)
     * [###### Customer success](https://boomi.com/services/support/)
     * [###### Managed services](https://boomi.com/services/managed-services/)
     
-* [Partners](javascript:void(0))
+* Partners
     
     ##### Partners
     
     [Explore partner program](https://boomi.com/partners/)
     
-    [Partner ecosystem](javascript:void(0))
+    Partner ecosystem
     
     * [###### Overview](https://boomi.com/partners/)
     * [###### Find a partner](https://partners.boomi.com/English/directory/)
     * [###### Become a partner](https://boomi.com/partners/become-a-partner/)
     * [###### Partner login](https://partners.boomi.com/English/)
     
-    [Partner types](javascript:void(0))
+    Partner types
     
     * [###### Embedded & software providers](https://boomi.com/partners/embedded-software-providers/)
     * [###### System integrators](https://boomi.com/partners/system-integrators/)
@@ -638,13 +636,13 @@ The #1 intelligent iPaaS for digital transformation.
 
 [![G2 Review - Footer 1 1](https://boomi.com/wp-content/uploads/G2-Review-Footer-1-1.svg)](https://www.g2.com/products/boomi/reviews)
 
-* [Platform](#)
+* [Platform](https://boomi.com/platform/)
     * [Boomi Enterprise Platform](https://boomi.com/platform/)
     * [Why Boomi](https://boomi.com/why-boomi/)
     * [Pricing](https://boomi.com/pricing/)
     * [Compliance](https://boomi.com/compliance/)
     * [What is iPaas?](https://boomi.com/platform/what-is-ipaas/)
-* Solutions
+* [Solutions](#)
     * [Manufacturing](https://boomi.com/solutions/industries/manufacturing/)
     * [Healthcare & life sciences](https://boomi.com/solutions/industries/healthcare-life-sciences/)
     * [Retail](https://boomi.com/solutions/industries/retail/)
@@ -652,7 +650,7 @@ The #1 intelligent iPaaS for digital transformation.
     * [Higher education](https://boomi.com/solutions/industries/higher-education/)
     * [Public sector](https://boomi.com/solutions/industries/public-sector/)
     * [Software Providers](https://boomi.com/partners/embedded-software-providers/)
-* Connectors
+* [Connectors](#)
     * [Salesforce](https://boomi.com/solutions/application/salesforce/)
     * [SAP](https://boomi.com/solutions/application/sap/)
     * [NetSuite](https://boomi.com/solutions/application/netsuite/)
@@ -669,12 +667,12 @@ The #1 intelligent iPaaS for digital transformation.
     * [Training](https://boomi.com/services/training/)
     * [Community](https://community.boomi.com/s/)
     * [Documentation](https://help.boomi.com/)
-* Company
+* [Company](https://boomi.com/company/)
     * [About](https://boomi.com/company/)
     * [Careers](https://boomi.com/company/careers/)
     * [Team](https://boomi.com/company/leadership-team/)
     * [Awards](https://boomi.com/company/awards/)
-    * [Newsroom](https://boomi.com/resources__trashed/news/)
+    * [Newsroom](https://boomi.com/resources/?content_type=news)
     * [Trust Center](https://boomi.com/compliance/)
     * [Contact us](https://boomi.com/company/contact/)
 
