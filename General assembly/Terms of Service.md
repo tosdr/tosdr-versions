@@ -1,10 +1,14 @@
-Hot skills summer is back. Get **$/£/€1,500 off a short course.**
+Don't miss our Skill Seeker Series from Sept 30 - Oct 30.
 
-[Cash in](https://generalassemb.ly/blog/hot-skills-summer-your-skills-on-fire-with-the-seasons-hottest-discounts/)
+[View the Schedule](https://explore.generalassemb.ly/skillseeker)
 
 Don't miss our Skill Seeker Series from Sept 30 - Oct 30.
 
 [View the Schedule](https://explore.generalassemb.ly/skillseeker)
+
+COMING SOON: Cybersecurity. Join the waitlist for an exclusive IT & Cybersecurity Workshop discount.
+
+[Sign up](https://explore.generalassemb.ly/it-cybersecurity-waitlist/)
 
 [Students](https://generalassemb.ly/)
 
