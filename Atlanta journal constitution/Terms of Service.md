@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Exclusive: Trump has a slight edge in Georgia over Harris, latest AJC poll finds](https://www.ajc.com/politics/trump-has-a-slight-edge-in-georgia-over-harris-latest-ajc-poll-finds/LVP66TCGKJCF5CEDNUBAYU3EW4/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
@@ -16,6 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-where-the-race-for-georgia-stands/QOPBRKCKYJCHFPP3JDZ5K6E624/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
