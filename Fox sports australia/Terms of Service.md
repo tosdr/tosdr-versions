@@ -49,7 +49,7 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | WA  | 332 |
-    | TAS | 277 & 3 /68 |
+    | TAS | 277 & 9 /135 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250106)
 * NRL
@@ -160,18 +160,30 @@ FOX SCORES
     | LAC | 15  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250701)
-* Football
+* Basketball
     
-* [Premier League
+* [NBA
     
-    Full Time
+    23/10 10:30 AEST
     
     |     |     |
     | --- | --- |
-    | NOT | 1   |
-    | CRY | 0   |
+    | BOS | –   |
+    | NY  | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250805)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010002)
+* [NBA
+    
+    23/10 13:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAL | –   |
+    | MIN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010004)
+* Football
+    
 * [UCL
     
     23/10 3:45 AEST
