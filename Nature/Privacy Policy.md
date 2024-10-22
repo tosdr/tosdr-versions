@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=973bad0e-c9f7-4b40-8765-ff5dd0c38ee7)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=44adb632-c6da-4caa-ba4f-33262f19146a)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
@@ -19,7 +19,7 @@ Advertisement
 Privacy Policy
 ==============
 
-This policy was last updated on 14th August 2024.
+This policy was last updated on 22nd  August 2024.
 
 This is the privacy policy (“policy”) for nature.com which is run and provided by Springer Nature Limited (**we, us** and **our**). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW.  We can also be contacted at [feedback@nature.com](mailto:feedback@nature.com).
 
@@ -354,7 +354,7 @@ This website may contain links to third party websites. We are not responsible f
 
 1\. Social media plug-ins
 
-We use the following social media plug-ins: Facebook, Twitter. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.
+We use the following social media plug-ins: Facebook, X. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.
 
 Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained.
 
@@ -374,13 +374,13 @@ If the user is a member of Facebook and does not wish Facebook to collect person
 
 The user may also block Facebook’s plugins using add-ons for the user’s browser, for example the “Facebook Blocker“.
 
-b) Twitter
+b) X
 
-We use the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.
+We use the X-button. The button is provided by X Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“X”) The buttons are marked using the text “X” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on X or to follow the provider on X.
 
-If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only be used for loading and displaying the Twitter-button.
+If a user visits one of the websites using such a button, the user’s browser directly connects to X servers. The X-button and its content are loaded directly from X’s servers and included in the website by the user’s browser. According to the provider’s knowledge, X collects the user IP-address and the website’s URL when the button is loaded from X’s servers. However, this data is only be used for loading and displaying the X-button.
 
-Further information can be found in Twitter’s privacy statement under: [https://twitter.com/privacy](https://twitter.com/privacy).
+Further information can be found in X’s privacy statement under: [https://x.com/en/privacy](https://x.com/en/privacy).
 
 Should you have any questions regarding our privacy policy, please contact us via the email address [dataprotection@springer.com](mailto:dataprotection@springer.com).
 
