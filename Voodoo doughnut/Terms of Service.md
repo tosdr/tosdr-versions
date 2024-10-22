@@ -1,35 +1,18 @@
-[![Voodoo Doughnut](https://www.voodoodoughnut.com/wp-content/uploads/2020/09/Voodoo_HeaderLogo.png)![Voodoo Doughnut](https://www.voodoodoughnut.com/wp-content/uploads/2020/09/Voodoo_HeaderLogo.png)](https://www.voodoodoughnut.com/)
-
-Voodoo  
-Doughnut
-=================
+ [![](https://www.voodoodoughnut.com/wp-content/uploads/2022/05/Logo_Tiny.jpg) Voodoo Doughnut](https://voodoodoughnut.com/)
 
 * Doughnuts
-    
     * [Our Doughnuts](https://www.voodoodoughnut.com/doughnuts/)
-        
     * [Custom Orders](https://www.voodoodoughnut.com/shop/special-occasions/)
-        
 * [Shop](https://voodoodoughnut.com/shop/)
-    
     * [Voodoo Doughnut Merchandise](https://voodoodoughnutshop.com/)
-        
     * [Weddings](https://www.voodoodoughnut.com/shop/weddings/)
-        
     * [Voodoo Van](https://www.voodoodoughnut.com/shop/voodoo-van/)
-        
 * [About](#)
-    
     * [The Voodoo Doughnut Story](https://www.voodoodoughnut.com/the-voodoo-doughnut-story/)
-        
     * [We Support](https://www.voodoodoughnut.com/we-support/)
-        
     * [Careers](https://www.voodoodoughnut.com/careers/)
-        
 * [Find Us](https://www.voodoodoughnut.com/findus/)
-    
 * [Order Online](https://www.voodoodoughnut.com/order-online/)
-    
 
 Terms and Conditions
 ====================
