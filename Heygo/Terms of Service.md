@@ -539,6 +539,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![20 best places to cruise month by month](https://media.restless.co.uk/uploads/2024/05/best-places-to-cruise-month-by-month-768x508.jpg)](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
+
+### [20 best places to cruise month by month](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
+
+[Read More »](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
+
 [![10 of the world’s most diverse and beautiful countries](https://media.restless.co.uk/uploads/2024/10/the-worlds-most-diverse-and-beautiful-countries-768x512.jpg)](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
 
 ### [10 of the world’s most diverse and beautiful countries](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
@@ -568,12 +574,6 @@ New in travel
 ### [8 of the best travel destinations for spring 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
 
 [Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
-
-[![Exploring Italy's hidden gems - 8 must-see spots](https://media.restless.co.uk/uploads/2024/06/exploring-italys-hidden-gems-8-must-see-spots-768x398.jpg)](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
-
-### [Exploring Italy’s hidden gems – 6 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
-
-[Read More »](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
 
 Popular travel guides
 ---------------------
