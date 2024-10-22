@@ -1,6 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-End of the Year Sale: Get up to 35% Off on all our Plans.
+Black Friday: Get up to 40% Off on our Business Plan
 
 [Save now](https://signaturely.com/pricing/)
 
