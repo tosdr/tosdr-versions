@@ -31,7 +31,6 @@
             * [Hotel Business Intelligence](https://www.siteminder.com/hotel-business-intelligence/)
             * [Property Management Systems](https://www.siteminder.com/pms-property-management-system/)
             * [Groups and Chains](https://www.siteminder.com/groupsandchains/)
-            * [Dynamic Revenue Plus](https://www.siteminder.com/dynamic-revenue-plus/)
     * ![](https://www.siteminder.com/wp-content/uploads/2024/01/sticky-logo.svg)
         
         Findings from over  
@@ -247,11 +246,6 @@ The content standards in this clause 5 apply to all User Contributions. User Con
 
 11.4   Our failure to act on a breach of these Terms does not waive our right to act on subsequent or similar breaches.
 
-* [Solutions](https://www.siteminder.com/solutions/)
-    * [Increase room revenue](https://www.siteminder.com/increase-room-revenue/)
-    * [Find the right guests](https://www.siteminder.com/find-the-right-guests/)
-    * [Boost guest spend](https://www.siteminder.com/boost-guest-spend/)
-    * [Optimise time](https://www.siteminder.com/optimise-time/)
 * [Platform Features](https://www.siteminder.com/hotel-commerce/)
     * [Hotel channel manager](https://www.siteminder.com/channel-manager/)
     * [Hotel booking engine](https://www.siteminder.com/hotel-booking-engine/)
