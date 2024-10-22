@@ -104,6 +104,16 @@ Oct 17 2024
 
 By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **29 mins** [Read More](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/public-safety-is-the-key-to-functioning-nyc-subways.jpg)[](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/ "Read More")
+
+Commentary Public Safety Crime Control, Policing, New York, New York City
+
+Oct 19 2024
+
+[Why Public Safety Is the Key to Functioning NYC Subways — Crime Hot Spots for over 50 Years](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/fed-independence-trump-treasury-powell.jpg)[](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/ "Read More")
 
 Commentary Economics Federal Reserve
@@ -133,16 +143,6 @@ Oct 14 2024
 [American Universities Continue to Underreport Foreign Money](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/)
 
 By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/harris-campaign.jpg)[](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/ "Read More")
-
-Commentary Governance Elections
-
-Oct 14 2024
-
-[The Question Hanging over Harris’s Campaign](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/)
-
-By **[Reihan Salam](https://admin.mi52siterestore.com/person/reihan-salam/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/)
 
 Our Policy Areas
 ----------------
