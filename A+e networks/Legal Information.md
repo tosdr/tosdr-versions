@@ -54,7 +54,7 @@ With our diverse line-up of original, high-quality programming, our distribution
 
 [Our partnerships](https://www.aenetworks.tv/partnerships)
 
-[![](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-05/Dean%40Wavelength_0.jpg?VersionId=rK7q_Rc1SgC9qd1.6pGZWstwKJF0rHIR&itok=KFdwlTly)](https://www.aenetworks.tv/partnerships)
+[![](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-10/Partnerships%20Section%20New%20branding.jpg?VersionId=abJliVqdZEAmdMf3xbJFsjuRf_eFg7Fn&itok=mM9pLFXI)](https://www.aenetworks.tv/partnerships)
 
 [![Image of Reception at Hearst Networks UK - London Office](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/battenberg_image/public/2024-09/London%20Reception.jpg?VersionId=3W7v76DsKgU7sk3iHYYRsJreKmw3IoWM&itok=O2WhZ_Kz)](https://www.aenetworks.tv/careers)
 
