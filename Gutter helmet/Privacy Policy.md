@@ -16,14 +16,14 @@ Get $250 Off Gutter Helmet Today!\*
 * [Process](https://www.gutterhelmet.com/our-process/)
 * [Our Promise](https://www.gutterhelmet.com/our-promise/)
 * [Unfiltered Facts](https://www.gutterhelmet.com/proudly-unfiltered/)
-* [Get In Touch](#contact_form)
+* [Get In Touch](https://www.gutterhelmet.com/get-in-touch/)
 * [(800) 824-3772TALK TO AN EXPERT](tel:800-824-3772)
 
 * [Products](https://www.gutterhelmet.com/our-products/)
 * [Process](https://www.gutterhelmet.com/our-process/)
 * [Our Promise](https://www.gutterhelmet.com/our-promise/)
 * [Unfiltered Facts](https://www.gutterhelmet.com/proudly-unfiltered/)
-* [Get In Touch](#contact_form)
+* [Get In Touch](https://www.gutterhelmet.com/get-in-touch/)
 
 * [](https://twitter.com/gutter_helmet)
 * [](https://www.facebook.com/getgutterhelmet/)
