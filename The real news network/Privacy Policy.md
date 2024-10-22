@@ -73,6 +73,7 @@ Trending Posts
 --------------
 
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
+* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
@@ -81,7 +82,6 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 Close
 
@@ -137,6 +137,7 @@ Trending Posts
 --------------
 
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
+* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
@@ -145,7 +146,6 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [Skip to content](#main)
 
