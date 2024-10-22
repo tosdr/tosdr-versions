@@ -280,6 +280,14 @@ Recurs yearly
 
 Nearly Headless Nick
 
+#### Mon, Oct 28
+
+Devon Murray's birthday
+
+Recurs yearly
+
+Seamus Finnigan
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -290,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Fred and George Weasley were born on April Fools’ Day.
+Only four spell incantations appear in Harry Potter and the Sorcerer’s Stone: Wingardium Leviosa, Petrificus Totalus, Alohomora, and Locomotor Mortis.
 
 ### Potter History
 
-October 1998 – Warner Bros. secures the rights to the first two Harry Potter books and begins working on production for the first film, Harry Potter and the Philosopher’s/Sorcerer’s Stone.
+January 19, 2005 – David Yates is officially named as the director of Harry Potter and the Order of the Phoenix.
 
 ### Potter Quote
 
-“Just because it’s taken you three years to notice, Ron, doesn’t mean no one else has spotted I’m a girl!”
+“My brothers, my sisters. The clock is ticking faster. We who live for freedom, for truth, and for love. The moment has come to share my vision of the future that awaits if we do not rise up and take our rightful place in the world. Where we wizards are free. Aurors, join me in this circle, pledge to me your eternal allegiance, or die.”
 
 [](#)
 
