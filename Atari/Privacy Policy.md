@@ -522,9 +522,7 @@ Unit price /  per](https://www.atari.com/products/atari-7800-mega-bundle) 
 
 ![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
 
-Pre-Order
-
-PRE-ORDER
+Add to cart
 
 ##### Super Pocket Atari Edition
 
@@ -672,7 +670,7 @@ NEW RELEASES
 
 Includes a whopping 50 Atari games, with arcade greats, console wonders, and portable Atari rarities!
 
-Pre-Order Today](https://www.atari.com/products/super-pocket-atari-edition)[![Yars Rising](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
+Shop Now](https://www.atari.com/products/super-pocket-atari-edition)[![Yars Rising](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
 
 ### YARS RISING
 
