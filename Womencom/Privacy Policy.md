@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+*  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Living](https://www.women.com/category/living/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    [Zahara Jolie's Gorgeous Transformation](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
-    ==================================================================================================================
+    [Are Justin And Hailey Bieber Actually Compatible, According To Astrology?](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+    =====================================================================================================================================================
     
-    Zahara Jolie isn't just the daughter of two famous actors, but a young woman coming into her own. And she's doing it on her own terms.
+    While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
     
-    By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+    By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
     
-* *  [![Ivanka Trump, Lara Trump, and Tiffany Trump](https://www.women.com/img/gallery/the-biggest-makeup-mistakes-from-the-women-in-the-trump-family/intro-1729288659.jpg)](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
+* *  [![A woman reading](https://www.women.com/img/gallery/romance-books-we-cant-wait-to-get-our-hands-on-in-2025/intro-1729524198.jpg)](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        
+        ### [Romance Books We Can't Wait To Get Our Hands On In 2025](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+        
+        There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+        
+    *  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [The Biggest Makeup Mistakes From The Women In The Trump Family](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
+        ### [Zahara Jolie's Gorgeous Transformation](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
         
-        When you're on camera as much as the Trump family is, it's expected that there are going to be some makeup mishaps. We're looking at some of the worst.
+        Zahara Jolie isn't just the daughter of two famous actors, but a young woman coming into her own. And she's doing it on her own terms.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
-        
-    *  [![Miley Cyrus smiling](https://www.women.com/img/gallery/celebs-who-took-a-stunning-leap-from-long-to-short-hair/intro-1729283248.jpg)](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [Celebs Who Took A Stunning Leap From Long To Short Hair](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-        
-        It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
+        By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
         
 
 More Stories
 ------------
 
+*  [![Ivanka Trump, Lara Trump, and Tiffany Trump](https://www.women.com/img/gallery/the-biggest-makeup-mistakes-from-the-women-in-the-trump-family/intro-1729288659.jpg)](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The Biggest Makeup Mistakes From The Women In The Trump Family](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
+    
+    When you're on camera as much as the Trump family is, it's expected that there are going to be some makeup mishaps. We're looking at some of the worst.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
+    
 *  [![Sam Taylor-Johnson and Aaron Taylor-Johnson](https://www.women.com/img/gallery/there-are-so-many-red-flags-in-sam-and-aaron-taylor-johnsons-relationship/intro-1729291144.jpg)](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -93,6 +105,18 @@ More Stories
     Sam and Aaron Taylor-Johnson have long raised eyebrows because of their age gap. However, there are more red flags in the relationship than the age difference.
     
     By Emily Hutchinson [Read More](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+    
+*  [![Miley Cyrus smiling](https://www.women.com/img/gallery/celebs-who-took-a-stunning-leap-from-long-to-short-hair/intro-1729283248.jpg)](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Celebs Who Took A Stunning Leap From Long To Short Hair](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
+    
+    It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
 *  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
     
@@ -381,30 +405,6 @@ More Stories
     Katie Holmes' street style is relaxed, minimal, and classic, just some of our favorite outfits worn by her "Dawson's Creek" character Joey Potter.
     
     By Bernadette Roe [Read More](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
-    
-*  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With 54 Thrones African Skincare & Beauty Products After Shark Tank](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-    
-    54 Thrones, a mission-driven beauty brand, thrived after netting an investment on "Shark Tank." Eight years after founding, the company is expanding.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-    
-*  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Tiffany Trump Outfits That Just Didn't Work](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
-    
-    The former First Daughter isn't exactly a fashion mogul, so we can forgive the occasional style mishap. However, some of her outfits left a lot to be desired.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
     
 
 Back
