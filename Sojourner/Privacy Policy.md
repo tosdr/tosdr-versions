@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f07738cb91d0d0fbb1116e2157162f25
+0d904caa21bae846a5484d26db3a2874
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Blue and white polka dot clasp](https://www.sojourner.biz/images/cache/SKU0078front.200.jpg)](https://www.sojourner.biz/clasps/glass/blue-and-white-polka-dot-clasp.html "Blue and white polka dot clasp")
+[![Petite Baroque pearl necklace](https://www.sojourner.biz/images/cache/N0068.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/petite-baroque-pearl-necklace.html "Petite Baroque pearl necklace")
 
-#### [Blue and white polka dot clasp](https://www.sojourner.biz/clasps/glass/blue-and-white-polka-dot-clasp.html "Blue and white polka dot clasp")
+#### [Petite Baroque pearl necklace](https://www.sojourner.biz/jewelry/necklaces/petite-baroque-pearl-necklace.html "Petite Baroque pearl necklace")
 
-$31.00
+$75.00
 
 ### Best Sellers
 
