@@ -402,6 +402,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dpd-mounted-ofc-state-fair-lawsuit-9p_kdfwcbe1_1_00.00.14.22.jpg?ve=1&tl=1)
+
+ ![Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dpd-mounted-ofc-state-fair-lawsuit-9p_kdfwcbe1_1_00.00.14.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-of-texas-horse-lawsuit)
+
+### [Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://www.fox4news.com/news/state-fair-of-texas-horse-lawsuit)
+
  [![Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-21-17h54m11s920.png?ve=1&tl=1)
 
  ![Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-21-17h54m11s920.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
@@ -425,12 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![4 killed, including 2 children, in wrong-way Texas crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/b4c0630b-Ambulance-sized.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/4-killed-including-2-children-wrong-way-texas-crash)
 
 ### [4 killed, including 2 children, in wrong-way Texas crash](https://www.fox4news.com/news/4-killed-including-2-children-wrong-way-texas-crash)
-
- [![Fort Worth shooting: Man fatally shot outside Fort Worth restaurant](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kst-fw-fatal-pkg_kdfwcabd_186_mp4_00.01.04.32.jpg?ve=1&tl=1)
-
- ![Fort Worth shooting: Man fatally shot outside Fort Worth restaurant](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kst-fw-fatal-pkg_kdfwcabd_186_mp4_00.01.04.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-patrick-morgan-lulus-lounge)
-
-### [Fort Worth shooting: Man fatally shot outside Fort Worth restaurant](https://www.fox4news.com/news/fort-worth-shooting-patrick-morgan-lulus-lounge)
 
 ###### [News](https://www.fox4news.com/news)
 
