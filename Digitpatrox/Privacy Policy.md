@@ -20,16 +20,16 @@ Tuesday, October 22 2024
 
 Latest
 
-* [Why experts are warning businesses to prepare for quantum now – or face critical cyber risks when it arrives](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
-* [Two-thirds of leaders feel Gen AI will reshape entry-level jobs – Computerworld](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
-* [You Can Get This Hisense ULED TV for $300 Off Right Now](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
-* [I Turn Old Tech Into Keychain Charms (And You Can Too)](https://digitpatrox.com/i-turn-old-tech-into-keychain-charms-and-you-can-too/)
-* [“There are other companies around”: AWS CEO Matt Garman says employees pushing back on RTO mandates should quit](https://digitpatrox.com/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit/)
-* [Get Essential Learning with Headway at $45](https://digitpatrox.com/get-essential-learning-with-headway-at-45/)
-* [Apple Intelligence arrive with iOS 18.1 next week — here’s how to skip the waitlist](https://digitpatrox.com/apple-intelligence-arrive-with-ios-18-1-next-week-heres-how-to-skip-the-waitlist/)
-* [Bumblebee malware returns after recent law enforcement disruption](https://digitpatrox.com/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
-* [Celebrity jet-tracking accounts disappear from Threads and Instagram](https://digitpatrox.com/celebrity-jet-tracking-accounts-disappear-from-threads-and-instagram/)
-* [Snapdragon 8 Elite Makes 8 Years of Android Updates a Reality; Can Qualcomm Deliver Though?](https://digitpatrox.com/snapdragon-8-elite-makes-8-years-of-android-updates-a-reality-can-qualcomm-deliver-though/)
+* [Does remote work fuel wage inequality? Not exactly – staff working from home tend to be higher earners, but they also experience lower wage growth](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
+* [The iPad mini is still the best small tablet around – Computerworld](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
+* [Nine of the Biggest Race Day Mistakes You Should Avoid](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
+* [US gun maker Saeilo hacked by ransomware gang, private info stolen](https://digitpatrox.com/us-gun-maker-saeilo-hacked-by-ransomware-gang-private-info-stolen/)
+* [How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
+* [Best and Worst Phone Plan Providers](https://digitpatrox.com/best-and-worst-phone-plan-providers/)
+* [Blender, Capture One, and Cubase Now Run Natively on Snapdragon X PCs](https://digitpatrox.com/blender-capture-one-and-cubase-now-run-natively-on-snapdragon-x-pcs/)
+* [Organizations warned of the dangers of ‘long-lived’ cloud credentials](https://digitpatrox.com/organizations-warned-of-the-dangers-of-long-lived-cloud-credentials/)
+* [Can You Use A Personal Checking Account For Your Business?](https://digitpatrox.com/can-you-use-a-personal-checking-account-for-your-business/)
+* [I’m a stomach sleeper, here’s why I’m super fussy about my pillows](https://digitpatrox.com/im-a-stomach-sleeper-heres-why-im-super-fussy-about-my-pillows/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/b9dXDWWgwDFkrV83D7gvid-1200-80.jpg)](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
+* [![](https://cdn.mos.cms.futurecdn.net/g8pWYRer8fptyD7ahYmwoi-1200-80.jpg)](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
     
-    [Why experts are warning businesses to prepare for quantum now – or face critical cyber risks when it arrives](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
+    [Does remote work fuel wage inequality? Not exactly – staff working from home tend to be higher earners, but they also experience lower wage growth](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
     
     13 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3577799-0-86227000-1729597445-Generatonen_ef002e.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3578437-0-68901100-1729614754-Apple-iPad-mini-hero-241015.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
     
-    [Two-thirds of leaders feel Gen AI will reshape entry-level jobs – Computerworld](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
+    [The iPad mini is still the best small tablet around – Computerworld](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
     
     35 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JAR5F1E2FFZ8NAKYPZZMQBXD/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
+* [![](https://lifehacker.com/imagery/articles/01JATDEVCX1YPTE6CZVP46PH9Z/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
     
-    [You Can Get This Hisense ULED TV for $300 Off Right Now](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
+    [Nine of the Biggest Race Day Mistakes You Should Avoid](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/rsz_img20241021162839.jpg)](https://digitpatrox.com/i-turn-old-tech-into-keychain-charms-and-you-can-too/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/us-gun-maker-saeilo-hacked-by-ransomware-data-breach.jpg)](https://digitpatrox.com/us-gun-maker-saeilo-hacked-by-ransomware-gang-private-info-stolen/)
     
-    [I Turn Old Tech Into Keychain Charms (And You Can Too)](https://digitpatrox.com/i-turn-old-tech-into-keychain-charms-and-you-can-too/)
+    [US gun maker Saeilo hacked by ransomware gang, private info stolen](https://digitpatrox.com/us-gun-maker-saeilo-hacked-by-ransomware-gang-private-info-stolen/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/97f3cZNZ65XFNZG5PkEpCL-1200-80.jpg)](https://digitpatrox.com/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-11-0xc1900101-error-hero.webp)](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
     
-    [“There are other companies around”: AWS CEO Matt Garman says employees pushing back on RTO mandates should quit](https://digitpatrox.com/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit/)
+    [How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -210,49 +210,49 @@ Recent Topics
 
 * [13 mins ago
     
-    ### Why experts are warning businesses to prepare for quantum now – or face critical cyber risks when it arrives](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
+    ### Does remote work fuel wage inequality? Not exactly – staff working from home tend to be higher earners, but they also experience lower wage growth](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
 * [35 mins ago
     
-    ### Two-thirds of leaders feel Gen AI will reshape entry-level jobs – Computerworld](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
+    ### The iPad mini is still the best small tablet around – Computerworld](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
 * [1 hour ago
     
-    ### You Can Get This Hisense ULED TV for $300 Off Right Now](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
+    ### Nine of the Biggest Race Day Mistakes You Should Avoid](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [September 12, 2024
     
-    ### How to move a smart home](https://digitpatrox.com/how-to-move-a-smart-home/)
-* [September 8, 2024
+    ### Is a Small Pro Phone Worth It?](https://digitpatrox.com/is-a-small-pro-phone-worth-it/)
+* [4 weeks ago
     
-    ### Disney and DirecTV head into a big sports weekend with no carriage deal](https://digitpatrox.com/disney-and-directv-head-into-a-big-sports-weekend-with-no-carriage-deal/)
-* [September 15, 2024
+    ### How to Use ‘Productivity Sprints’ to Get More Done](https://digitpatrox.com/how-to-use-productivity-sprints-to-get-more-done/)
+* [August 23, 2024
     
-    ### 9 Best Free CRM Software of 2024](https://digitpatrox.com/9-best-free-crm-software-of-2024/)
+    ### 2024 Acura ZDX First Drive Review](https://digitpatrox.com/2024-acura-zdx-first-drive-review/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Blender, Capture One, and Cubase Now Run Natively on Snapdragon X PCs](https://digitpatrox.com/blender-capture-one-and-cubase-now-run-natively-on-snapdragon-x-pcs/)
 * [3 hours ago
     
-    ### Apple Intelligence arrive with iOS 18.1 next week — here’s how to skip the waitlist](https://digitpatrox.com/apple-intelligence-arrive-with-ios-18-1-next-week-heres-how-to-skip-the-waitlist/)
+    ### Organizations warned of the dangers of ‘long-lived’ cloud credentials](https://digitpatrox.com/organizations-warned-of-the-dangers-of-long-lived-cloud-credentials/)
 * [3 hours ago
     
-    ### Bumblebee malware returns after recent law enforcement disruption](https://digitpatrox.com/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
-* [4 hours ago
-    
-    ### Celebrity jet-tracking accounts disappear from Threads and Instagram](https://digitpatrox.com/celebrity-jet-tracking-accounts-disappear-from-threads-and-instagram/)
+    ### Can You Use A Personal Checking Account For Your Business?](https://digitpatrox.com/can-you-use-a-personal-checking-account-for-your-business/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
