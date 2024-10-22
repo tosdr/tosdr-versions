@@ -27,9 +27,9 @@ Main Menu
 Privacy Policy
 ==============
 
-LAST UPDATED: July 1, 2024
+LAST UPDATED: October 22, 2024
 
-This privacy policy (“Privacy Policy”) details the use and collection of your information by the websites (the “Sites”) and Apps operated and owned by G/O Media, Inc. (“G/O”, “us” or “we”) and governs your access to the content and services hosted on our platform (the “Services”) and Apps. These Sites include The A.V. Club, Gizmodo, The Inventory, Jalopnik, Kotaku, The Onion, The Root, Quartz and the Quartz Apps.
+This privacy policy (“Privacy Policy”) details the use and collection of your information by the websites (the “Sites”) and Apps operated and owned by G/O Media, Inc. (“G/O”, “us” or “we”) and governs your access to the content and services hosted on our platform (the “Services”) and Apps. These Sites include Kotaku, Quartz, The Inventory and The Root.
 
 We value your privacy and recognize our role in protecting your personal data. Please read this Privacy Policy carefully before using or proceeding to access the Sites. Your use of the Sites and Services indicate that you are accepting the policies and practices described in this Privacy Policy. To access our terms of use, please click [here](http://g-omedia.com/terms-of-service/).
 
@@ -242,4 +242,4 @@ Copyright © 2024  G/O Media Inc.
 
 [Accessibility](https://g-omedia.com/accessibility/) | [Privacy Policy](https://g-omedia.com/privacy-policy/) | [Terms of Service](https://g-omedia.com/terms-of-service/)  
   
-![](https://g-omedia.com/wp-content/uploads/2024/06/G-O-media_brand-footer-6.4.2024.png)
+![](https://g-omedia.com/wp-content/uploads/2024/10/GOMedia_brand-site-squares-footer-10-2024_LARGE.png)
