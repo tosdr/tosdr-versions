@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/verkiezingen/de-vs-verkiezingen-krijgen-echt-nog-een-staart/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/politiek-marionet-alias-vera-bergkamp/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
