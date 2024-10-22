@@ -23,6 +23,8 @@ Toggle navigation
     * [Français](https://mail.ch/fr/cookies/)
     * [English](https://mail.ch/en/cookies/)
 
+23.10.2024 ab 01:00 Uhr MESZ: Aufgrund von Wartungsarbeiten stehen unsere Dienste heute Nacht für ca. 3 Stunden nicht zur Verfügung.
+
 What are cookies?
 -----------------
 
