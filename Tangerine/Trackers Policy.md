@@ -357,7 +357,7 @@ Modifiez vos préférences de témoins à tout moment dans notre [**Centre de pr
 
 Tangerine is a trade name of Tangerine Bank, a wholly-owned subsidiary of The Bank of Nova Scotia and a [CDIC member in its own right](https://www.tangerine.ca/en/about-us/cdic).
 
-[![C, D, I, C, opens in a new tab](/content/experience-fragments/tangerine/ca/en/footer/master/_jcr_content/root/container/container_1741627176/container_1394683010/image.coreimg.svg/1705966754887/cdic-logo.svg)](https://www.cdic.ca/your-coverage/protecting-your-deposit/)
+[![C, D, I, C, opens in a new tab](/content/experience-fragments/tangerine/ca/en/footer/master/_jcr_content/root/container/container_1741627176/container_1394683010/image.coreimg.svg/1729613140581/cdic-digital-symbol.svg)](https://www.cdic.ca/your-coverage/protecting-your-deposit/)
 
 * [Privacy](https://www.tangerine.ca/en/privacy)
 * [Legal](https://www.tangerine.ca/en/legal)
