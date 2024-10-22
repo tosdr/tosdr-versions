@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!['Gregnant' Meme Goes Viral On Reddit](https://i.kym-cdn.com/featured_items/icons/wide/000/026/330/gregnant_cover.jpg "The Iconic 'Am I Gregnant?' YouTube Video Was Posted Eight Years Ago Today")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/338/trump-mcdonalds-meme-explainer.jpg "Why Is Donald Trump Working At McDonald's? Memes About The President's 2024 Pennsylvania Photo Op Explained")
     
-    The Iconic 'Am I Gregnant?' YouTube Video Was Posted Eight Years Ago Today](https://knowyourmeme.com/memes/gregnant)
+    Why Is Donald Trump Working At McDonald's? Memes About The President's 2024 Pennsylvania Photo Op Explained](https://knowyourmeme.com/editorials/guides/why-is-donald-trump-working-at-mcdonalds-memes-about-the-presidents-2024-pennsylvania-photo-op-explained)
     
-* [!["Pimples? Zero" Breaks Out](https://i.kym-cdn.com/featured_items/icons/wide/000/026/329/zero.jpg "Pimples? Zero Ad Campaign Started On This Day Exactly Six Years Ago")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/337/georhe_pickens.jpg "What's With Memes Showing George Pickens Watching TV? The NFL Meme Showing Pickens Getting Drafted In A Ski Mask Explained")
     
-    Pimples? Zero Ad Campaign Started On This Day Exactly Six Years Ago](https://knowyourmeme.com/memes/pimples-zero)
+    What's With Memes Showing George Pickens Watching TV? The NFL Meme Showing Pickens Getting Drafted In A Ski Mask Explained](https://knowyourmeme.com/editorials/guides/whats-with-memes-showing-george-pickens-watching-tv-the-nfl-meme-showing-pickens-getting-drafted-in-a-ski-mask-explained)
     
-* [!["The Game Was Rigged From the Start"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/328/maxresdefault.jpg "'The Game Was Rigged From The Start' Appeared In 'Fallout: New Vegas' 14 Years Ago Today")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/336/cover2.jpg "What Does The 'Man Looking At Three Fingers' Meme Mean? The 'Inglourious Basterds' Reaction Image Explained")
     
-    'The Game Was Rigged From The Start' Appeared In 'Fallout: New Vegas' 14 Years Ago Today](https://knowyourmeme.com/memes/the-game-was-rigged-from-the-start)
+    What Does The 'Man Looking At Three Fingers' Meme Mean? The 'Inglourious Basterds' Reaction Image Explained](https://knowyourmeme.com/editorials/guides/what-does-the-man-looking-at-three-fingers-meme-mean-the-inglourious-basterds-reaction-image-explained)
     
-* [!['Skamtebord' Is The Catch-all Term For Funny One-word Replies Online](https://i.kym-cdn.com/featured_items/icons/wide/000/026/327/Screen_Shot_2021-06-17_at_3.01.45_PM.png "It's The Anniversary Of 'Skamtebord,' The First 'Texting Celebrities' Meme ")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/335/fdfdfd.jpg "What Is 'MILF Messenger' And Is It Really More Popular Than Twitter? The Viral iPhone App Explained")
     
-    It's The Anniversary Of 'Skamtebord,' The First 'Texting Celebrities' Meme](https://knowyourmeme.com/memes/skamtebord)
+    What Is 'MILF Messenger' And Is It Really More Popular Than Twitter? The Viral iPhone App Explained](https://knowyourmeme.com/editorials/guides/what-is-milf-messenger-and-is-it-really-more-popular-than-twitter-the-viral-iphone-app-explained)
     
-* [!['Damn Nobody Want U FR' Becomes Wildly Diverse Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/326/imsayinglikecover.jpg "It's Been Six Years Since This Brazilian Comic Was First Posted To The Internet")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/334/shaq_time_out.jpg "What's The 'Shaq Timeout' Meme? The Photo And Reaction Image Of Shaquille O'Neal Signaling 'Time Out' Explained")
     
-    It's Been Six Years Since This Brazilian Comic Was First Posted To The Internet](https://knowyourmeme.com/memes/get-a-girlfriend-son-damn-nobody-want-u-fr%F0%9F%98%AD%F0%9F%98%AD)
+    What's The 'Shaq Timeout' Meme? The Photo And Reaction Image Of Shaquille O'Neal Signaling 'Time Out' Explained](https://knowyourmeme.com/editorials/guides/whats-the-shaq-timeout-meme-the-photo-and-reaction-image-of-shaquille-oneal-signaling-time-out-explained)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Twitch Israel Ban Controversy](https://knowyourmeme.com/memes/events/twitch-blocking-new-users-from-israel-controversy "Twitch Israel Ban Controversy") [Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
