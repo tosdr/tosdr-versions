@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fc06a41e-8974-4875-a27f-34ae0040350a/20241022T055735/fc06a41e-8974-4875-a27f-34ae0040350a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc06a41e-8974-4875-a27f-34ae0040350a/20241022T055735/fc06a41e-8974-4875-a27f-34ae0040350a_360x203.jpg)](https://www.king5.com/article/news/local/family-searching-bothell-woman-last-seen-monday-morning/281-f8992880-647d-4d37-9b0c-c2c0fb70908b)
+    *  [![](https://media.king5.com/assets/KING/images/d1c003a4-d694-42be-b660-7b23bb8ee14e/20241022T133056/d1c003a4-d694-42be-b660-7b23bb8ee14e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d1c003a4-d694-42be-b660-7b23bb8ee14e/20241022T133056/d1c003a4-d694-42be-b660-7b23bb8ee14e_360x203.jpg)](https://www.king5.com/article/news/local/clallam-county-only-county-us-voted-for-winning-presidential-candidate-every-election-for-40-years/281-75fab416-7691-4112-a1df-c4561a059140)
         
-        #### [Family searching for Bothell woman last seen Monday morning](https://www.king5.com/article/news/local/family-searching-bothell-woman-last-seen-monday-morning/281-f8992880-647d-4d37-9b0c-c2c0fb70908b)
+        #### [Clallam County has voted for the winning presidential candidate in every election for the last 40 years](https://www.king5.com/article/news/local/clallam-county-only-county-us-voted-for-winning-presidential-candidate-every-election-for-40-years/281-75fab416-7691-4112-a1df-c4561a059140)
         
-    *  [![](https://media.king5.com/assets/KING/images/bf63c749-3e35-46a6-b017-9a95c7ff1dbb/20241021T174026/bf63c749-3e35-46a6-b017-9a95c7ff1dbb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf63c749-3e35-46a6-b017-9a95c7ff1dbb/20241021T174026/bf63c749-3e35-46a6-b017-9a95c7ff1dbb_360x203.jpg)](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
+    *  [![](https://media.king5.com/assets/KING/images/4d167fcd-376e-48b0-b341-d40946bd056e/4d167fcd-376e-48b0-b341-d40946bd056e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4d167fcd-376e-48b0-b341-d40946bd056e/4d167fcd-376e-48b0-b341-d40946bd056e_360x203.jpg)](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
         
-        #### [Navy identifies 2 aviators killed in growler crash near Mount Rainier](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
+        #### [Man to be sentenced for 2022 shooting of Whatcom County deputies](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cd93e646-e69d-4c08-a64f-f5d60fae8743/20241022T020612/cd93e646-e69d-4c08-a64f-f5d60fae8743_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd93e646-e69d-4c08-a64f-f5d60fae8743/20241022T020612/cd93e646-e69d-4c08-a64f-f5d60fae8743_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/73e3050d-1e2c-41e2-bf49-7826ca14189b/20241022T121638/73e3050d-1e2c-41e2-bf49-7826ca14189b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73e3050d-1e2c-41e2-bf49-7826ca14189b/20241022T121638/73e3050d-1e2c-41e2-bf49-7826ca14189b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+46°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
