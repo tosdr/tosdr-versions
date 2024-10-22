@@ -2,9 +2,10 @@ This app works best with JavaScript enabled.
 
 [](https://doodle.com/en/)
 
-* Product
+* Products
     
-* [Why Doodle?](https://doodle.com/en/why-doodle/)
+* Why Doodle?
+    
 * [Pricing](https://doodle.com/en/premium/)
 * [Blog](https://doodle.com/en/resources/)
 * [Contact](https://doodle.com/en/contact-form/)
@@ -237,6 +238,7 @@ Product
 
 Why Doodle?
 
+* [Collect Payments](https://doodle.com/en/integrations/stripe/)
 * [Integrations](https://doodle.com/en/integrations/)
 * [Entepreneurs](https://doodle.com/en/professional/individuals/)
 * [Freelancer](https://doodle.com/en/solutions/consultants/)
