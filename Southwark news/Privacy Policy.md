@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+    
+    ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+    
+    [![Tower of London Ghost tours; Halloween family rave at Woolwich Works](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-10.56-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
+    
+    ### [Halloween half-term: Spooky things to do in Bermondsey, Borough and Woolwich](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
+    
     [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
     
     ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
@@ -47,14 +55,6 @@
     From Lambeth Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/11th-rooftop-space-at-International-House-360x180.jpg)](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
     
     ### [Brixton co-working space could soon include saunas in an attempt to attract more businesses](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
-    
-    [![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-    
-    ### [Could Southwark Lib Dems ever run the council again and what would their leader Victor Chamberlain do?](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-    
-    ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+    
+    ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+    
+    [![Tower of London Ghost tours; Halloween family rave at Woolwich Works](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-10.56-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
+    
+    ### [Halloween half-term: Spooky things to do in Bermondsey, Borough and Woolwich](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
+    
     [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
     
     ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
@@ -128,14 +136,6 @@ View All Result
     From Lambeth Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/11th-rooftop-space-at-International-House-360x180.jpg)](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
     
     ### [Brixton co-working space could soon include saunas in an attempt to attract more businesses](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
-    
-    [![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-    
-    ### [Could Southwark Lib Dems ever run the council again and what would their leader Victor Chamberlain do?](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-    
-    ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -349,18 +349,18 @@ Website
 
 [19th October 2024](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
 
+[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
 [![CGI of new Nine Elms primary school.
 Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
 ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
 [17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-
-[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-
-### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-
-[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
@@ -376,6 +376,12 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 [16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
 
 ### Featured Articles
+
+[![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+
+### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+
+[22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
@@ -406,12 +412,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
 
 [20th October 2024](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
-
-### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
-
-[20th October 2024](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
 
 ### USEFUL PAGES
 
