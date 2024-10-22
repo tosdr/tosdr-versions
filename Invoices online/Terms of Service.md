@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=197063778)  
-OrgChart Hosting Pty Ltd
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=115650014)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=7384019)  
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=166718130)  
+Enhle Oarabile Kea
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=41392798)  
+Imvubu General Trading
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=61828289)  
+Wiselink Broadband Pty Ltd
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=179839022)  
+LEO DEVELOPMENT GROUP
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=77908121)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=140975974)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=55256798)  
+VerdanTech Pty Ltd
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=131530445)  
+Salvage Genie
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=209994535)  
+Little Nutty Professors
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=130629779)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=174007355)  
+Sarabi
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=34048405)  
 Moremi Kitchens Rustenburg
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=158372016)  
-Itroniq (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=87971500)  
+Lion Software Develepment
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=72647795)  
-Well Hung Art
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=137859519)  
-FX ACCOUNTING
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=94854187)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=139205962)  
-Gemini-IT Group
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=88134800)  
-Prosper Park
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=12052047)  
-Peter Salvage Pty Ltd
-
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=35487702)  
-Super Sound Man (PTY) Ltd
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=101283192)  
-Fox Alarms & Security CC
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=129950693)  
-MSPCloud (Pty) Ltd
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=50354954)  
-Qothiphango Mining
-
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=110284698)  
-Redlum Group (Pty) Ltd
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=337ba19742bc94714dd3ed9e8c0effb2469ace922d9c5723b31b1c99b29df37d&c=22863189)  
-Blue Sky Solar Services
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=208122392)  
+NEW BEGINNINGS DESIGNS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
