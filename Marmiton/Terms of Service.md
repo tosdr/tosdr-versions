@@ -60,10 +60,10 @@ Connexion
     ](https://assets.afcdn.com/recipe/20241016/154733_origin.png)
     
     100% Fromages](https://www.marmiton.org/focus-ingredient/cent-pour-cent-fromage-tp121946.html)
-* [![Petit-déj gourmand
-    ](https://assets.afcdn.com/recipe/20241008/154533_origin.svg)
+* [![Halloween
+    ](https://assets.afcdn.com/recipe/20241022/154887_origin.png)
     
-    Petit-déj gourmand](https://www.marmiton.org/dossier-petit-dejeuner-et-brunch) 
+    Halloween](https://www.marmiton.org/halloween/halloween-tp123693.html)
 * [![Actus
     ](https://assets.afcdn.com/recipe/20241008/154531_origin.svg)
     
