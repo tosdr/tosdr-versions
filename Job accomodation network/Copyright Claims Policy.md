@@ -7,7 +7,7 @@
 * [For Others](https://askjan.org/info-by-role.cfm#for-others)
 * [ADA Library](https://askjan.org/ADA-Library.cfm)
 * [A to Z Lists](https://askjan.org/a-to-z.cfm)
-* [Situations & Soltuions](https://askjan.org/sitsol/index.cfm)
+* [Situations & Solutions Finder](https://askjan.org/sitsol/index.cfm)
 * [Publications & Articles](https://askjan.org/publications/index.cfm)
 * [Training](https://askjan.org/events/Training.cfm)
 * [Events](https://askjan.org/events/index.cfm)
