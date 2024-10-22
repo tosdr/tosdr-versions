@@ -36,7 +36,7 @@ Privacy Policy for Antidote’s Sites and Applications
 This privacy policy is meant for those who use one of the Antidote Applications or one of the Websites, as these expressions are defined below:
 
 * Antidote 12 and prior editions for installation on a computer, Antidote Web for access through a browser on antidote.app, as well as Antidote Mobile for iPhone and iPad (the “**Applications**”);
-* the websites [www.antidote.info](https://www.antidote.info/en/en) and [www.druide.com](https://www.druide.com/en) as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://www.antidote.info/en/r/services.druide.com?langue=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/?langue=en) (the “**Websites**”).
+* the websites [www.antidote.info](https://www.antidote.info/en/) and [www.druide.com](https://www.druide.com/en) as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://www.antidote.info/en/r/services.druide.com?langue=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/?langue=en) (the “**Websites**”).
 
 This document uses clear and simple terms to describe the practices and procedures adopted by our company, Druide informatique inc. (“**Druide**”), to protect your personal information.
 
