@@ -660,6 +660,8 @@ Free standard shipping on any purchase, no minimum. Ends 10.22
     Browse By
     ---------
     
+    * [Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
+        
     * New Arrivals
         
         [All New Arrivals](https://www.ulta.com/shop/new-beauty-products)
@@ -706,6 +708,8 @@ Free standard shipping on any purchase, no minimum. Ends 10.22
         
         [All Gifts & Value Sets](https://www.ulta.com/shop/gifts)
         
+        * [### Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
+            
         * [### By Category](https://www.ulta.com/shop/gifts/by-category)
             
             * [Makeup & Nail Gifts](https://www.ulta.com/shop/gifts/by-category/makeup-nail-gifts)
