@@ -31,7 +31,7 @@ Open Menu Close Menu
 
 [Tellmi About It Podcast](https://www.tellmi.help/podcast)
 
-[Tellmi Webinars](https://www.tellmi.help/webinars)
+[Tellmi Webinars](https://www.tellmi.help/tellmi-webinars)
 
 [About Us](https://www.tellmi.help/about)
 
@@ -75,7 +75,7 @@ Open Menu Close Menu
 
 [Tellmi About It Podcast](https://www.tellmi.help/podcast)
 
-[Tellmi Webinars](https://www.tellmi.help/webinars)
+[Tellmi Webinars](https://www.tellmi.help/tellmi-webinars)
 
 [About Us](https://www.tellmi.help/about)
 
@@ -111,7 +111,7 @@ Open Menu Close Menu
 
 [Tellmi About It Podcast](https://www.tellmi.help/podcast)
 
-[Tellmi Webinars](https://www.tellmi.help/webinars)
+[Tellmi Webinars](https://www.tellmi.help/tellmi-webinars)
 
 [About Us](https://www.tellmi.help/about)
 
