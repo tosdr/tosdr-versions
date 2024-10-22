@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0d904caa21bae846a5484d26db3a2874
+fdc43db00322e495ff4055107ed5f138
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Petite Baroque pearl necklace](https://www.sojourner.biz/images/cache/N0068.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/petite-baroque-pearl-necklace.html "Petite Baroque pearl necklace")
+[![18 mm by 9 mm faceted oval coral beads](https://www.sojourner.biz/images/cache/coral/CRL005.200.jpg)](https://www.sojourner.biz/beads/coral/18-mm-by-9-mm-faceted-oval-coral-beads.html "18 mm by 9 mm faceted oval coral beads")
 
-#### [Petite Baroque pearl necklace](https://www.sojourner.biz/jewelry/necklaces/petite-baroque-pearl-necklace.html "Petite Baroque pearl necklace")
+#### [18 mm by 9 mm faceted oval coral beads](https://www.sojourner.biz/beads/coral/18-mm-by-9-mm-faceted-oval-coral-beads.html "18 mm by 9 mm faceted oval coral beads")
 
-$75.00
+$50.00
 
 ### Best Sellers
 
