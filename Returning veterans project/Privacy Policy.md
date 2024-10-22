@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Charlie Schmalenberger](https://cdn.returningveterans.org/images/honor/14_Schmalenberger.jpg)  
+![the US Air Force](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Charlie Schmalenberger**  
-United States Army  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of the US Air Force**  
+United States Air Force  
+Submitted by Wallace Tjader](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/21/24 - 8:26:45  
+Printed 10/22/24 - 2:19:10  
 © 2024 Returning Veterans Project
