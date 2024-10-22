@@ -233,6 +233,12 @@ Chez Crédit Agricole, Paylib passe le relais à ![Logo Wero](/wp-content/themes
 
 [En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
+![Crédit Agricole](https://www.paylib.fr/wp-content/uploads/2020/03/logo-app-paylib-11.png) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez SBE, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
+
  J’accepte que ce numéro de téléphone mobile soit utilisé par Paylib pour me guider dans l’utilisation du service
 
 Merci, un SMS vous a été envoyé pour activer Paylib dans l'application de votre banque
