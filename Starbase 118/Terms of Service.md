@@ -356,6 +356,30 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2013/07/StarfleetAcademyflag-e1648664193765-768x480.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-academy-graduates-459/)
+
+### [New Academy Graduates](https://www.starbase118.net/2024/new-academy-graduates-459/)
+
+FltAdml. Tristan Wolf October 22, 2024
+
+Please welcome our newest Academy graduates to the StarBase 118 fleet: Arus Bex, Imril, Skye Shepherd, and Mylas Bosko!
+
+[Read More »](https://www.starbase118.net/2024/new-academy-graduates-459/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
+
+### [Khitomer Enjoys a Bumpy Shore Leave After the Siege of Deep Space 33](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
+
+Federation News Service October 22, 2024
+
+DEEP SPACE NINE — After surviving the battle of Deep Space 33, the crew of the USS Khitomer retire to Deep Space 9, but not
+
+[Read More »](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
 
 ### [Award winner – Aine Sherlock, USS Chin’toka (Prestigious Service- Security)](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
@@ -365,30 +389,6 @@ srichardsciencenerd118 October 21, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/rr-on-ring-42/)
-
-### [R&R on Ring 42](https://www.starbase118.net/2024/rr-on-ring-42/)
-
-Federation News Service October 20, 2024
-
-DENALI STATION – The crew enjoy some hard earned R&R during shore leave after their escape from an alternate universe. After the challenges of the
-
-[Read More »](https://www.starbase118.net/2024/rr-on-ring-42/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
-
-### [Poll of the Month:  Monster Mash](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
-
-Genkos Adea October 19, 2024
-
-As we inch ever closer to the festival of Hallowe’en, our thoughts naturally turn to the creepy, the kooky, the mysterious and/or the spooky (sorry,
-
-[Read More »](https://www.starbase118.net/2024/poll-of-the-month-monster-mash/)
 
 Ready to get started?
 ---------------------
