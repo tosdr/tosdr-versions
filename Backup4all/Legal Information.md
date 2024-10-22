@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to run a daily incremental and weekly ful ...](https://www.backup4all.com/how-to-run-a-daily-incremental-and-weekly-full-backups-kb.html)  
+* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
     
-* [How to Backup to Azure](https://www.backup4all.com/how-to-backup-to-azure-kb.html)  
+* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
     
-* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
+* [How to backup your data to DDN](https://www.backup4all.com/how-to-backup-your-data-to-ddn-kb.html)  
     
-* [Types of backup](https://www.backup4all.com/backup-types-kb.html)  
+* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
     
-* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
 
 Choose language:
