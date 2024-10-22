@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bongino-rivera-1200x630.jpg)](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-messina-1200-x-628-1200x630.jpg)](https://americanwirenews.com/team-kamala-exhausted-over-being-called-band-of-idiots-says-ex-obama-adviser/)
 
-[Dan Bongino rips Geraldo over Kamala endorsement: ‘She’s a warrior and a peacemaker’](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
+[Team Kamala ‘exhausted’ over being called ‘band of idiots’ says ex-Obama adviser](https://americanwirenews.com/team-kamala-exhausted-over-being-called-band-of-idiots-says-ex-obama-adviser/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elon-musk-1200x630.jpg)](https://americanwirenews.com/elon-musk-ups-security-says-trump-hating-media-actively-encouraging-his-assassination/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-benson-1200x630.jpg)](https://americanwirenews.com/musk-takes-on-michigan-sec-of-state-over-voting-rolls-in-heated-x-feud-she-needed-to-be-scolded/)
 
-[Elon Musk ups security, says Trump-hating media ‘actively encouraging’ his assassination](https://americanwirenews.com/elon-musk-ups-security-says-trump-hating-media-actively-encouraging-his-assassination/)
+[Musk takes on Michigan Sec of State over voting rolls in heated X feud: ‘… she needed to be scolded’](https://americanwirenews.com/musk-takes-on-michigan-sec-of-state-over-voting-rolls-in-heated-x-feud-she-needed-to-be-scolded/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-king-charles-iii-lidia-thorpe-split-1200x630.jpg)](https://americanwirenews.com/youre-not-my-king-radical-indigenous-senator-in-australia-accuses-king-charles-of-genocide/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-charlamagne-lara-trump-1200x630.png)](https://americanwirenews.com/lara-trump-challenges-tha-god-in-bold-exchange-why-is-that-funny-charlamagne/)
 
-[‘You’re not my king!’ Radical ‘indigenous’ senator in Australia accuses King Charles of ‘genocide’](https://americanwirenews.com/youre-not-my-king-radical-indigenous-senator-in-australia-accuses-king-charles-of-genocide/)
+[Lara Trump challenges ‘tha God’ in bold exchange: ‘Why is that funny, Charlamagne?’](https://americanwirenews.com/lara-trump-challenges-tha-god-in-bold-exchange-why-is-that-funny-charlamagne/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-emhoffs-harris-1200x630.jpg)](https://americanwirenews.com/kamalas-in-laws-mark-60th-birthday-with-cringe-worthy-poem/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-rock1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trumps-elated-he-won-the-respect-of-one-major-celeb-who-reached-out-i-never-thought-he-liked-me/)
 
-[Kamala’s in-laws mark 60th birthday with cringe-worthy poem](https://americanwirenews.com/kamalas-in-laws-mark-60th-birthday-with-cringe-worthy-poem/)
+[Trump’s elated he won the respect of one major celeb who reached out: ‘I never thought he liked me’](https://americanwirenews.com/trumps-elated-he-won-the-respect-of-one-major-celeb-who-reached-out-i-never-thought-he-liked-me/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-2-1200x630.jpg)](https://americanwirenews.com/jd-vance-talks-trumps-stage-managed-mcdonalds-shift-kamalas-weird-silence-on-work-history/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2179016526-1-1200x630.jpg)](https://americanwirenews.com/i-have-a-mcgift-for-you-trump-makes-the-most-of-mcdonalds-shift-with-new-merch/)
 
-[JD Vance talks Trump’s ‘stage-managed’ McDonalds shift, Kamala’s ‘weird’ silence on work history](https://americanwirenews.com/jd-vance-talks-trumps-stage-managed-mcdonalds-shift-kamalas-weird-silence-on-work-history/)
+(Photo by Jabin Botsford/The Washington Post via Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dana-white-1-1200x630.jpg)](https://americanwirenews.com/dana-white-exposes-brilliant-narrative-resulting-in-people-trying-to-kill-trump/)
+[‘I have a McGift for you!’ Trump makes the most of McDonald’s shift with new merch](https://americanwirenews.com/i-have-a-mcgift-for-you-trump-makes-the-most-of-mcdonalds-shift-with-new-merch/)
 
-[Dana White exposes ‘brilliant’ narrative resulting in people trying to kill Trump](https://americanwirenews.com/dana-white-exposes-brilliant-narrative-resulting-in-people-trying-to-kill-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hillary-kamala-1200x630.png)](https://americanwirenews.com/making-america-shrill-again-kamala-sounds-a-lot-like-hillary/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-newsom-1200x630.jpg)](https://americanwirenews.com/gop-lawmakers-warn-calif-regulators-set-to-attack-prosperity-with-gas-price-hike-after-election/)
+[Making America shrill again! Kamala sounds a lot like Hillary](https://americanwirenews.com/making-america-shrill-again-kamala-sounds-a-lot-like-hillary/)
 
-[GOP lawmakers warn Calif. regulators set to attack prosperity with gas price hike after election](https://americanwirenews.com/gop-lawmakers-warn-calif-regulators-set-to-attack-prosperity-with-gas-price-hike-after-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-patrick-1200x630.jpg)](https://americanwirenews.com/danica-patrick-reveals-her-voting-record-is-not-something-shes-proud-of-and-what-turned-her-around/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-reeve-1200x630.jpg)](https://americanwirenews.com/losing-coach-of-wnba-finals-blames-referees-this-sht-was-stolen-from-us/)
+[Danica Patrick reveals her voting record is not something she’s proud of and what turned her around](https://americanwirenews.com/danica-patrick-reveals-her-voting-record-is-not-something-shes-proud-of-and-what-turned-her-around/)
 
-[Losing coach of WNBA Finals blames referees: ‘This sh\*t was stolen from us!’](https://americanwirenews.com/losing-coach-of-wnba-finals-blames-referees-this-sht-was-stolen-from-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuban-elon-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/mark-cuban-denies-the-hill-report-that-he-said-kamala-chickened-out-of-live-x-interview-with-musk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jeffrey-marsh-1200x630.jpg)
+[Mark Cuban denies The Hill report that he said Kamala chickened out of live X interview with Musk](https://americanwirenews.com/mark-cuban-denies-the-hill-report-that-he-said-kamala-chickened-out-of-live-x-interview-with-musk/)
 
-### Don Jr proposes hysterical president of ‘White Dudes for Harris’](https://americanwirenews.com/don-jr-proposes-hysterical-president-of-white-dudes-for-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-kamliz-split-1200-x-628-1200x630.jpg)
+
+### Trump suggests ‘Arab voters’ aren’t being fooled by the Kamala-Liz Cheney con job](https://americanwirenews.com/trump-suggests-arab-voters-arent-being-fooled-by-the-kamala-liz-cheney-con-job/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,46 @@ Search for:
 ### [Liz Cheney to join Kamala in late appeal to gullible suburban swing voters](https://americanwirenews.com/liz-cheney-to-join-kamala-in-late-appeal-to-gullible-suburban-swing-voters/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walz-the-view-220x180.jpg)](https://americanwirenews.com/tampon-tim-dragged-for-accusing-trump-of-disrespecting-mcdonalds-workers/)
+
+[‘Tampon Tim’ dragged for accusing Trump of disrespecting McDonald’s workers](https://americanwirenews.com/tampon-tim-dragged-for-accusing-trump-of-disrespecting-mcdonalds-workers/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-156464173-220x180.jpg)](https://americanwirenews.com/central-park-five-latest-to-join-lawfare-assault-on-trump/)
+
+[‘Central Park Five’ latest to join lawfare assault on Trump](https://americanwirenews.com/central-park-five-latest-to-join-lawfare-assault-on-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maya-and-kamala-harris-220x180.jpg)](https://americanwirenews.com/kamala-harriss-sister-is-sidelined-from-her-campaign-due-to-past-behavior/)
+
+[Kamala Harris’s sister is sidelined from her campaign due to past behavior](https://americanwirenews.com/kamala-harriss-sister-is-sidelined-from-her-campaign-due-to-past-behavior/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-mcdonalds-220x180.jpg)](https://americanwirenews.com/mcdonalds-releases-internal-memo-on-kamala-harris-employment/)
+
+[McDonald’s releases internal memo on Kamala Harris employment](https://americanwirenews.com/mcdonalds-releases-internal-memo-on-kamala-harris-employment/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-1-220x180.jpg)](https://americanwirenews.com/trump-demands-cbs-news-release-unedited-60-minutes-harris-transcript-or-face-possible-litigation/)
+
+[Trump demands CBS News release unedited ’60 Minutes’ Harris transcript or face ‘possible litigation’](https://americanwirenews.com/trump-demands-cbs-news-release-unedited-60-minutes-harris-transcript-or-face-possible-litigation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-betting-220x180.jpg)](https://americanwirenews.com/trump-leads-at-60-3-why-polls-dont-matter-now-that-betting-markets-rule/)
+
+[Trump leads at 60.3% — why polls don’t matter now that betting markets rule](https://americanwirenews.com/trump-leads-at-60-3-why-polls-dont-matter-now-that-betting-markets-rule/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-voting-2-220x180.jpg)](https://americanwirenews.com/claims-of-trump-to-kamala-vote-switching-machine-in-texas-county-creates-chaos-on-social-media/)
+
+[Claims of Trump-to-Kamala vote-switching machine in Texas county creates chaos on social media](https://americanwirenews.com/claims-of-trump-to-kamala-vote-switching-machine-in-texas-county-creates-chaos-on-social-media/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wade-220x180.jpg)](https://americanwirenews.com/fanis-boy-toy-nathan-wade-makes-wild-admission-to-congress-about-trump-prosecution/)
+
+[Fani’s boy toy Nathan Wade makes wild admission to Congress about Trump prosecution](https://americanwirenews.com/fanis-boy-toy-nathan-wade-makes-wild-admission-to-congress-about-trump-prosecution/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sandiego-bus-220x180.jpg)](https://americanwirenews.com/migrants-made-not-as-visible-in-relocation-cover-up-to-improve-optics-before-election-official-says/)
+
+[Migrants made not as visible in relocation ‘cover-up’ to improve optics before election, official says](https://americanwirenews.com/migrants-made-not-as-visible-in-relocation-cover-up-to-improve-optics-before-election-official-says/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-patrick-220x180.jpg)](https://americanwirenews.com/danica-patrick-reveals-her-voting-record-is-not-something-shes-proud-of-and-what-turned-her-around/)
+
+[Danica Patrick reveals her voting record is not something she’s proud of and what turned her around](https://americanwirenews.com/danica-patrick-reveals-her-voting-record-is-not-something-shes-proud-of-and-what-turned-her-around/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-norwegian-flag-220x180.jpg)](https://americanwirenews.com/norway-attempt-to-tax-the-rich-results-in-yearly-tax-revenue-loss/)
 
@@ -135,48 +177,6 @@ Image via Instagram
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maga-tattoo-220x180.png)](https://americanwirenews.com/top-heavy-woman-in-thigh-high-boots-who-interrupted-nfl-game-shows-off-maga-face-tattoo/)
 
 [Top-heavy woman in thigh-high boots, who interrupted NFL game, shows off MAGA face tattoo](https://americanwirenews.com/top-heavy-woman-in-thigh-high-boots-who-interrupted-nfl-game-shows-off-maga-face-tattoo/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-shifty1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-not-backing-down-clarifies-that-shifty-schiff-nancy-pelosi-are-the-enemy-within/)
-
-[Trump not backing down, clarifies that Shifty Schiff, Nancy Pelosi are the ‘enemy within’](https://americanwirenews.com/trump-not-backing-down-clarifies-that-shifty-schiff-nancy-pelosi-are-the-enemy-within/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-commanders-220x180.jpg)](https://americanwirenews.com/nfl-team-nixes-restoration-of-redskins-nickname-not-something-were-able-to-do/)
-
-[NFL team nixes restoration of ‘Redskins’ nickname: ‘Not something we’re able to do’](https://americanwirenews.com/nfl-team-nixes-restoration-of-redskins-nickname-not-something-were-able-to-do/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tapper-johnson-220x180.jpg)](https://americanwirenews.com/cnns-jake-tapper-in-denial-despite-fixation-on-golf-legends-penis-i-dont-want-to-be-talking-about-this/)
-
-[CNN’s Jake Tapper in denial despite fixation on golf legend’s penis: ‘I don’t want to be talking about this’](https://americanwirenews.com/cnns-jake-tapper-in-denial-despite-fixation-on-golf-legends-penis-i-dont-want-to-be-talking-about-this/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pxbaydrone-sg-llynch-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
-
-[Chinese drone company repped by former Obama AG Loretta Lynch sues Pentagon](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-trump-burgers-220x180.jpg)](https://americanwirenews.com/she-lied-trump-explains-why-he-will-pull-shift-at-mcdonalds-says-he-will-do-everything/)
-
-[‘She lied’: Trump explains why he will pull shift at McDonald’s, says he will ‘do everything’](https://americanwirenews.com/she-lied-trump-explains-why-he-will-pull-shift-at-mcdonalds-says-he-will-do-everything/)
-
-(Official White House Photo by Joyce N. Boghosian)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-4-220x180.png)](https://americanwirenews.com/its-just-vile-kamala-harris-jokingly-tells-rallygoers-if-jimmy-carter-can-vote-they-can-too/)
-
-[‘It’s just vile’: Kamala Harris jokingly tells rallygoers if Jimmy Carter can vote they can too](https://americanwirenews.com/its-just-vile-kamala-harris-jokingly-tells-rallygoers-if-jimmy-carter-can-vote-they-can-too/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-abrown1-220x180.jpg)](https://americanwirenews.com/former-nfl-star-endorses-trump-mocks-tampon-tim/)
-
-[Former NFL star endorses Trump, mocks ‘Tampon Tim’](https://americanwirenews.com/former-nfl-star-endorses-trump-mocks-tampon-tim/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-stadium-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-to-attend-snf-game-hometown-steelers-ramp-up-security-in-matchup-with-ny-jets/)
-
-[Trump to attend SNF game, hometown Steelers ramp up security in matchup with NY Jets](https://americanwirenews.com/trump-to-attend-snf-game-hometown-steelers-ramp-up-security-in-matchup-with-ny-jets/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-heckler-220x180.jpg)](https://americanwirenews.com/its-real-kamala-sounds-off-after-protester-claims-israel-is-committing-genocide/)
-
-[‘It’s real’: Kamala sounds off after protester claims Israel is committing ‘genocide’](https://americanwirenews.com/its-real-kamala-sounds-off-after-protester-claims-israel-is-committing-genocide/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-dreher-220x180.jpg)](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
-
-[Elon Musk gifting $1M per day to lucky battleground state voters who signs petition](https://americanwirenews.com/elon-musk-gifting-1m-per-day-to-lucky-battleground-state-voters-who-signs-petition/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
