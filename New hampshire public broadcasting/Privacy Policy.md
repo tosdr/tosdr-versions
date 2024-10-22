@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**The Unspoken Rules of Slasher Movies** | Monstrum](https://video.nhpbs.org/video/the-unspoken-rules-of-slasher-movies-dqctkq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Navalny's widow reflects on her husband's legacy** | PBS News Hour](https://video.nhpbs.org/video/patriot-1729534820?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Field Trip with Beekeeper Mary Garrison** | The Key Ingredient](https://video.nhpbs.org/video/field-trip-with-beekeeper-mary-garrison-afza5p?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Do Audiences Love Crime Thrillers?** | Moonflower Murders](https://video.nhpbs.org/video/why-do-audiences-love-crime-thrillers-skv5aa?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Honey-Glazed Chicken Thighs Kitchen Recipe** | The Key Ingredient](https://video.nhpbs.org/video/honey-glazed-chicken-thighs-kitchen-recipe-oie1f1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What is ?** | The Marlow Murder Club](https://video.nhpbs.org/video/what-is-the-marlow-murder-club-j96s8t?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Tokyo Uber Blues** | POV](https://video.nhpbs.org/video/tokyo-uber-blues-gtcppf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer** | American Muslims: A History Revealed](https://video.nhpbs.org/video/american-muslims-a-history-revealed-trailer-of6er8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What Matters Most** | Stories from the Stage](https://video.nhpbs.org/video/what-matters-most-qlzgdw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**E5 Medicine Cabinet, Chimney Crown** | Ask This Old House](https://video.nhpbs.org/video/e5-medicine-cabinet-chimney-crown-ask-this-old-house-FirXn6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Alexander Vindman: The U.S. Will "Decide The Fate of the World" on Nov. 5th** | Amanpour and Company](https://video.nhpbs.org/video/alexander-vindman-the-us-will-decide-the-fate-of-the-world-on-nov-5th-nnd1ij?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
