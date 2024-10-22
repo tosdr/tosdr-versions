@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the difference between bodily injury and personal injury?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-what-is-the-difference-between-bodily-injury-and-personal-injury.jpg "What Is the Difference Between Bodily Injury and Personal Injury?")](https://www.pintas.com/practice-areas/personal-injury/bodily-injury-vs-personal-injury/ "What Is the Difference Between Bodily Injury and Personal Injury?")
+[![Are all talcum powders dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-all-talcum-powders-dangerous.jpg "Are All Talcum Powders Dangerous?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous "Are All Talcum Powders Dangerous?")
 
-[#### What Is the Difference Between Bodily Injury and Personal Injury?](https://www.pintas.com/practice-areas/personal-injury/bodily-injury-vs-personal-injury/)
+[#### Are All Talcum Powders Dangerous?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous)
 
-[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
+[![How long will a mormon church sex abuse case take to settle?](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/ "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")
 
-[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
+[#### How Long Will a Mormon Church Sex Abuse Case Take to Settle?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/)
 
-[![Can you be misdiagnosed with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-you-be-misdiagnosed-with-lung-cancer.jpg "Can You Be Misdiagnosed with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/misdiagnosis "Can You Be Misdiagnosed with Lung Cancer?")
+[![Can you get ptsd from nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-get-ptsd-from-nursing-home-abuse-scaled.jpg "Can You Get PTSD From Nursing Home Abuse?")](https://www.pintas.com/faq/can-you-get-ptsd-from-nursing-home-abuse/ "Can You Get PTSD From Nursing Home Abuse?")
 
-[#### Can You Be Misdiagnosed with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/misdiagnosis)
+[#### Can You Get PTSD From Nursing Home Abuse?](https://www.pintas.com/faq/can-you-get-ptsd-from-nursing-home-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
