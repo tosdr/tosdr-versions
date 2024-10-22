@@ -18,7 +18,13 @@ Businesses
 
 [View All Roofing](https://www.owenscorning.com/en-us/roofing)
 
-[Pick Your Shingles](https://www.owenscorning.com/en-us/roofing/shingles) [Find A Contractor](https://www.owenscorning.com/en-us/roofing/contractors) [Warranty Overview](https://www.owenscorning.com/en-us/roofing/warranty) [Total Protection Roofing System](https://www.owenscorning.com/en-us/roofing/total-protection-roofing-system) [Roofing Components](https://www.owenscorning.com/en-us/roofing/components) [Build Your Roof](https://www.owenscorning.com/en-us/roofing/build-your-roof/shingles) [Nailing Zone Performance](https://www.owenscorning.com/en-us/roofing/nailing-zone-performance) [Duration® Series Shingles](https://www.owenscorning.com/en-us/roofing/duration-series-shingles)
+[Pick Your Shingles](https://www.owenscorning.com/en-us/roofing/shingles) [Find A Contractor](https://www.owenscorning.com/en-us/roofing/contractors) [Warranty Overview](https://www.owenscorning.com/en-us/roofing/warranty) [Total Protection Roofing System](https://www.owenscorning.com/en-us/roofing/total-protection-roofing-system) [Roofing Components](https://www.owenscorning.com/en-us/roofing/components) [Build Your Roof](https://www.owenscorning.com/en-us/roofing/build-your-roof/shingles) [Nailing Zone Performance](https://www.owenscorning.com/en-us/roofing/nailing-zone-performance) [Duration® Series Shingles](https://www.owenscorning.com/en-us/roofing/duration-series-shingles) [](https://www.owenscorning.com/en-us/privacy-policy)[new
+
+![Montage image of rolling hills in the background with grapes, a wine glass and decanter sitting on a barrel in the foreground set against the 2025 Shingle Color of the Year Merlot.](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/5868c3bd-8f81-4ecc-a206-84288babdb89/SCOTY_Merlot)
+
+Shingle Color of the Year
+
+2025 - Merlot](https://www.owenscorning.com/en-us/roofing/design-inspire/2025-color-of-the-year)
 
 #### Insulation 
 
@@ -152,7 +158,13 @@ Businesses
 
 #### Roofing [View All](https://www.owenscorning.com/en-us/roofing)
 
-[Pick Your Shingles](https://www.owenscorning.com/en-us/roofing/shingles) [Find A Contractor](https://www.owenscorning.com/en-us/roofing/contractors) [Warranty Overview](https://www.owenscorning.com/en-us/roofing/warranty) [Total Protection Roofing System](https://www.owenscorning.com/en-us/roofing/total-protection-roofing-system) [Roofing Components](https://www.owenscorning.com/en-us/roofing/components) [Build Your Roof](https://www.owenscorning.com/en-us/roofing/build-your-roof/shingles) [Nailing Zone Performance](https://www.owenscorning.com/en-us/roofing/nailing-zone-performance) [Duration® Series Shingles](https://www.owenscorning.com/en-us/roofing/duration-series-shingles)
+[Pick Your Shingles](https://www.owenscorning.com/en-us/roofing/shingles) [Find A Contractor](https://www.owenscorning.com/en-us/roofing/contractors) [Warranty Overview](https://www.owenscorning.com/en-us/roofing/warranty) [Total Protection Roofing System](https://www.owenscorning.com/en-us/roofing/total-protection-roofing-system) [Roofing Components](https://www.owenscorning.com/en-us/roofing/components) [Build Your Roof](https://www.owenscorning.com/en-us/roofing/build-your-roof/shingles) [Nailing Zone Performance](https://www.owenscorning.com/en-us/roofing/nailing-zone-performance) [Duration® Series Shingles](https://www.owenscorning.com/en-us/roofing/duration-series-shingles) [/en-us/privacy-policy](https://www.owenscorning.com/en-us/privacy-policy) [new
+
+![Montage image of rolling hills in the background with grapes, a wine glass and decanter sitting on a barrel in the foreground set against the 2025 Shingle Color of the Year Merlot.](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/5868c3bd-8f81-4ecc-a206-84288babdb89/SCOTY_Merlot)
+
+Shingle Color of the Year
+
+2025 - Merlot](https://www.owenscorning.com/en-us/roofing/design-inspire/2025-color-of-the-year)
 
 #### Insulation [View All](https://www.owenscorning.com/en-us/insulation)
 
