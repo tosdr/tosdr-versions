@@ -2,6 +2,8 @@
 
 10% off $100!+\* [Download & Open App to Get Code](https://www.zappos.com/c/apps)
 
+Celebrate! Iconic Converse shoes are back in stock. [Shop Converse](https://www.zappos.com/filters/shoes/CK_XAVoDJNwD4gICAQs.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F)
+
 Stocking Stuffer Shoes [Shop The Guide](https://www.zappos.com/c/stocking-stuffer-shoes)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
