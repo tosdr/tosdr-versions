@@ -1,4 +1,12 @@
-EasyChair is Under Upgrade
---------------------------
+Dear EasyChair Users,
+---------------------
 
-The system is currently **under upgrade**. Upgrades normally take only a few minutes. We are sorry for any inconvenience. If this page is shown to you for a long time, click the "reload" button of your browser to check if the upgrade is over.
+EasyChair is currently down due to a hardware problem. The system disk of our third-party service host is malfunctioning. We want to emphasise that **NO** data will be lost as EasyChair has multiple backups.
+
+We are currently migrating to a new server. This will be done in **24 hours or less**, and EasyChair should be fully functional at 6pm London time, October 23rd, at the latest.
+
+We deeply apologize for all the inconvenience caused.
+
+Yours sincerely,
+
+EasyChair LTD
