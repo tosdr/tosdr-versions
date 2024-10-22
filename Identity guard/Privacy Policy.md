@@ -6,13 +6,13 @@
 
 Features
 
-![Chevron](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![Chevron pointing down to expand](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
 [Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-insurance)[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[VPN & Online Privacy](https://www.identityguard.com/vpn)
 
 [Antivirus](https://www.identityguard.com/antivirus)[Password Manager & Vault](https://www.identityguard.com/password-manager)[Spam Call Protection](https://www.identityguard.com/spam-call-message-protection)[Parental Controls & Safe Gaming](https://www.identityguard.com/parental-controls)[Find Your Perfect Plan](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
 
-![Aura Mobile APp which protections are mos important to you?](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/667d3973ba335e59256c67a9_Mask%20group.png)
+![Aura mobile app screen, with one of four tiles highlighted under the question "What protections are most important to you?"](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/667d3973ba335e59256c67a9_Mask%20group.png)
 
 Digital Security 101
 
@@ -24,13 +24,13 @@ Take our simple quiz to discover the best plan for your needs.
 
 Resources
 
-![Chevron](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![Chevron pointing down to expand](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
 [Customer Service](https://www.identityguard.com/customer-service)[FAQ](https://www.identityguard.com/faq)[Help](https://help.aura.com/s/)[Resolution Resources](https://www.identityguard.com/resolution-resources)
 
 [Digital Security 101](https://www.identityguard.com/digital-security-101)[Newsroom](https://www.identityguard.com/press)[Partnerships](https://www.identityguard.com/partnerships)[Aura & AI](https://www.identityguard.com/ai)[Digital Parenthood](https://www.identityguard.com/digital-parenthood)
 
-![Child set in the front door watching the mobile](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/663b6ca7f6a1e13713bfad78_digital-parenthood-img.webp)
+![Light-skinned child sitting on a stoop, using a phone, with a yellow backpack beside them](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/663b6ca7f6a1e13713bfad78_digital-parenthood-img.webp)
 
 Digital Parenthood
 
@@ -449,7 +449,7 @@ Partner With Us
 
 ![Privacy Choices icon, links to the Privacy Choices page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://www.identityguard.com/legal/your-privacy-choices)
 
-[![Logo of LinkedIn](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621668587edc51bed2521952_Facebook.svg)](https://www.linkedin.com/company/auracompany/)[![Logo of X](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65970cca766c2513dd0a31e5_x-logo.svg)](https://twitter.com/Aura_Protects)[![Logo of Instagram](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166858e8e5608c38e472f5_Instagram.svg)](https://www.instagram.com/aura_protects/)[![Logo of Facebook](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166855daff62955d20fc1f_Facebook-1.svg)](https://www.facebook.com/AuraProtects)[![Logo of YouTube](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65422e863a42a95d6e9c6782_youtube.svg)](https://www.youtube.com/@AuraProtects)
+[![LinkedIn logo, link to navigate to Aura's LinkedIn page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621668587edc51bed2521952_Facebook.svg)](https://www.linkedin.com/company/auracompany/)[![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65970cca766c2513dd0a31e5_x-logo.svg)](https://twitter.com/Aura_Protects)[![Instagram logo, link to navigate to Aura's Instagram page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166858e8e5608c38e472f5_Instagram.svg)](https://www.instagram.com/aura_protects/)[![Facebook logo, link to navigate to Aura's Facebook page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166855daff62955d20fc1f_Facebook-1.svg)](https://www.facebook.com/AuraProtects)[![YouTube logo, link to navigate to Aura's YouTube page](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65422e863a42a95d6e9c6782_youtube.svg)](https://www.youtube.com/@AuraProtects)
 
 \*The Identity Theft Insurance is underwritten and administered by American Bankers Insurance Company of Florida, an Assurant company. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions. Review the [Summary of Benefits](https://www.aura.com/legal/insurance-summary-of-benefits).
 
