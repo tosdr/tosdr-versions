@@ -127,6 +127,7 @@
         [Research associates](https://secuso.aifb.kit.edu/english/1247.php)
         
         * [Lukas Aldag](https://secuso.aifb.kit.edu/english/Staff_842.php)
+        * [Bhavana Anna](https://secuso.aifb.kit.edu/english/Staff_2793.php)
         * [Fabian Ballreich](https://secuso.aifb.kit.edu/english/Staff_2116.php)
         * [Anne Hennig](https://secuso.aifb.kit.edu/english/Staff_1466.php)
         * [Tobias Hilt](https://secuso.aifb.kit.edu/english/Staff_2328.php)
