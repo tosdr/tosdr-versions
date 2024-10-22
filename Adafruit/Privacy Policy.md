@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge”
+“ You just stand in the darkness until you can’t endure it any long, and then you move forward until you’re standing in the light”
 
-[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+[Ahmir Questlove Thompson](https://en.wikipedia.org/wiki/Questlove)
 
 [](https://www.adafruit.com/about)
 
