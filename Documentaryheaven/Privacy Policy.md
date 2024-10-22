@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Hackers: Outlaws and Angels](/wp-content/thumbnails/2791-100x70.jpg?x53432)
+* [![A World Unseen: The Revenant](/wp-content/thumbnails/11760-100x70.jpg?x53432)
     
-    Hackers: Outlaws and Angels
+    A World Unseen: The Revenant
     
-    This alarming program reveals the daily battle between the Internet’s outlaws and the hackers who oppose them by warding off system attacks, training IT professionals and police officers, and watching](https://documentaryheaven.com/hackers-outlaws-and-angels/ "Hackers: Outlaws and Angels")
-* [![Millionaire Basement Wars](/wp-content/thumbnails/9801-100x70.jpg?x53432)
+    As many of you may already know, Leonardo DiCaprio's recent blockbuster The Revenant was inspired by real events, it is a film based on the struggle of one 19th century frontiersman named Hugh Glass a](https://documentaryheaven.com/world-unseen-revenant/ "A World Unseen: The Revenant")
+* [![The Infamous Mobb Deep](/wp-content/thumbnails/11877-100x70.jpg?x53432)
     
-    Millionaire Basement Wars
+    The Infamous Mobb Deep
     
-    The super-rich are beginning to take full advantage of their properties located within the hearth of London, maximising their value by building downwards, tearing up the ground and creating mega basem](https://documentaryheaven.com/millionaire-basement-wars/ "Millionaire Basement Wars")
-* [![Gangs in Prison](/wp-content/thumbnails/8563-100x70.jpg?x53432)
+    Mobb Deep is an American Hip Hop duo from Queensbridge, Queens, New York, United States that consists of Havoc and Prodigy. They are considered to be one of the best and most critically acclaimed hard](https://documentaryheaven.com/infamous-mobb-deep/ "The Infamous Mobb Deep")
+* [![Sinkholes: Buried Alive](/wp-content/thumbnails/10200-100x70.jpg?x53432)
     
-    Gangs in Prison
+    Sinkholes: Buried Alive
     
-    Santa Rita Jail near North California is one of the biggest jails in America. Jails can be a dangerous place full of gangs and cliques that bring rivalries from the streets into the jail itself. For m](https://documentaryheaven.com/gangs-in-prison/ "Gangs in Prison")
-* [![Canada’s War on Weed](/wp-content/thumbnails/7118-100x70.jpg?x53432)
+    They can occur suddenly and catastrophically, they have swallowed cars, animals and people. They have destroyed homes and few an unlucky few have become graves. These are sinkholes, all across the glo](https://documentaryheaven.com/sinkholes-buried-alive/ "Sinkholes: Buried Alive")
+* [![To Catch a Predator](/wp-content/thumbnails/1206-100x70.jpg?x53432)
     
-    Canada’s War on Weed
+    To Catch a Predator
     
-    With a reported value of over 6 billion dollars, it's no secret that marijuana in British Columbia is big business. However, due to the recent legalization of weed in Washington and Colorado, the drac](https://documentaryheaven.com/canadas-war-on-weed/ "Canada’s War on Weed")
-* [![The Dark Web: Black Market Boom](/wp-content/thumbnails/16477-100x70.jpg?x53432)
+    Over 40 million Americans have seen Dateline’s ongoing popular series To Catch a Predator, which has caught over two hundred potential child predators. While the show exposed this epidemic, Chris Hans](https://documentaryheaven.com/to-catch-a-predator/ "To Catch a Predator")
+* [![History of World War II: Hiroshima](/wp-content/thumbnails/5880-100x70.jpeg?x53432)
     
-    The Dark Web: Black Market Boom
+    History of World War II: Hiroshima
     
-    AlphaBay Market was a market that was hosted on the Dark Web accessible only via the onion routing service known as Tor network. On 13th July 2017, AlphaBay was shut down after law enforcement execut](https://documentaryheaven.com/dark-web-black-market-boom/ "The Dark Web: Black Market Boom")
+    It was the defining moment of the 20th Century – the scientific, technological, military, and political gamble of the first atomic attack. This drama-documentary attempts to do what no other film has](https://documentaryheaven.com/history-of-world-war-ii-hiroshima/ "History of World War II: Hiroshima")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
