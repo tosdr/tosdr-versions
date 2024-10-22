@@ -1,3 +1,7 @@
+Introducing Asana AI Studio: Build workflows with AI agents to pass off your busywork. [Learn more](https://asana.com/product/ai?utm_medium=website&utm_source=web_banner&utm_content=topbanner&utm_campaign=q3ai)
+
+x icon
+
 [Asana Home](https://asana.com/?noredirect)
 
 * Features chevron-down icon
