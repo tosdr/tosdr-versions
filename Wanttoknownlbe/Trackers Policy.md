@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-disclosure-proces/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/333-222-555-toeval/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
