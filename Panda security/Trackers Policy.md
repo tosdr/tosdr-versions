@@ -11,17 +11,13 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-![image](/rfilescms/Teaser/RET/pandasecurity_teaser_back_to_security_desktop.webp)
+![image](/rfilescms/Teaser-resources/pandasecurity-image-teaser-girl-boxes-transparent-v2.webp)
 
-A malware attack occurs every second.
+50% off Panda Dome for all your devices! For a limited time only!
 
-Take advantage of this limited-time offer and renew your protection.
+\-50%
 
-: :
-
-\-60%
-
-**Renew now**
+[**Buy now**](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&track=190478)
 
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
