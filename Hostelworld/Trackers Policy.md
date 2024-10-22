@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12590 Hostels in 2616 cities.
+We have 12602 Hostels in 2618 cities.
 
 Where do you want to go?
 
@@ -46,7 +46,7 @@ Check In
 
 Check Out
 
-3 nights selected
+4 nights selected
 
 October 2024
 
@@ -1987,7 +1987,7 @@ stefa.ninchen
 
 LondonHostels
 
-from US$13.25
+from US$13.21
 
 [](https://www.hostelworld.com/st/hostels/europe/spain/barcelona/ "Barcelona Hostels")
 
@@ -1995,7 +1995,7 @@ nattaliarr
 
 BarcelonaHostels
 
-from US$19.59
+from US$19.71
 
 [](https://www.hostelworld.com/st/hostels/europe/netherlands/amsterdam/ "Amsterdam Hostels")
 
@@ -2003,7 +2003,7 @@ from US$19.59
 
 AmsterdamHostels
 
-from US$15.37
+from US$15.33
 
 [](https://www.hostelworld.com/st/hostels/europe/france/paris/ "Paris Hostels")
 
@@ -2011,7 +2011,7 @@ ourcolourfuljourney
 
 ParisHostels
 
-from US$18.39
+from US$18.34
 
 [](https://www.hostelworld.com/st/hostels/europe/portugal/lisbon/ "Lisbon Hostels")
 
@@ -2019,19 +2019,19 @@ lauren\_dixon
 
 LisbonHostels
 
-from US$12.07
+from US$12.05
 
 [](https://www.hostelworld.com/st/hostels/europe/germany/berlin/ "Berlin Hostels")
 
 BerlinHostels
 
-from US$15.21
+from US$15.18
 
 [](https://www.hostelworld.com/st/hostels/europe/spain/madrid/ "Madrid Hostels")
 
 MadridHostels
 
-from US$15.37
+from US$15.33
 
 [](https://www.hostelworld.com/st/hostels/europe/italy/rome/ "Rome Hostels")
 
@@ -2039,7 +2039,7 @@ annalisati\_
 
 RomeHostels
 
-from US$37.05
+from US$36.96
 
 ### Top Hostels
 
@@ -2051,7 +2051,7 @@ Paris
 
 7.7
 
-From US$23.03](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
+From US$22.98](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
 
 **St Christopher's Barcelona**
 
@@ -2059,7 +2059,7 @@ Barcelona
 
 8.9
 
-From US$18.16](https://www.hostelworld.com/st/hostels/p/61557/st-christopher-s-barcelona/ "St Christopher's Barcelona")[![Anda Venice](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Anda Venice")
+From US$18.11](https://www.hostelworld.com/st/hostels/p/61557/st-christopher-s-barcelona/ "St Christopher's Barcelona")[![Anda Venice](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Anda Venice")
 
 **Anda Venice**
 
@@ -2067,7 +2067,7 @@ Venice
 
 9.3
 
-From US$19.29](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![ClinkNOORD](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "ClinkNOORD")
+From US$19.24](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![ClinkNOORD](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "ClinkNOORD")
 
 **ClinkNOORD**
 
@@ -2075,7 +2075,7 @@ Amsterdam
 
 8.6
 
-From US$19.76](https://www.hostelworld.com/st/hostels/p/93919/clinknoord/ "ClinkNOORD")[![Wombat's City Hostel London](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel London")
+From US$19.71](https://www.hostelworld.com/st/hostels/p/93919/clinknoord/ "ClinkNOORD")[![Wombat's City Hostel London](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel London")
 
 **Wombat's City Hostel London**
 
@@ -2083,7 +2083,7 @@ London
 
 9.3
 
-From US$32.13](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
+From US$32.03](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
 
 **St Christopher's at The Winston**
 
@@ -2091,7 +2091,7 @@ Amsterdam
 
 8.6
 
-From US$21.81](https://www.hostelworld.com/st/hostels/p/13607/st-christopher-s-at-the-winston/ "St Christopher's at The Winston")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
+From US$24.19](https://www.hostelworld.com/st/hostels/p/13607/st-christopher-s-at-the-winston/ "St Christopher's at The Winston")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
 
 **Wombat's City Hostel Vienna Naschmarkt**
 
@@ -2099,7 +2099,7 @@ Vienna
 
 9.0
 
-From US$23.01](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![Next House Copenhagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Next House Copenhagen")
+From US$22.95](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![Next House Copenhagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Next House Copenhagen")
 
 **Next House Copenhagen**
 
@@ -2107,7 +2107,7 @@ Copenhagen
 
 9.2
 
-From US$18.58](https://www.hostelworld.com/st/hostels/p/310761/next-house-copenhagen/ "Next House Copenhagen")
+From US$18.54](https://www.hostelworld.com/st/hostels/p/310761/next-house-copenhagen/ "Next House Copenhagen")
 
 ### Hostels Worldwide
 
