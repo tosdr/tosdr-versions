@@ -49,12 +49,12 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
-* [![گزارشی از کارگران قالی‌باف شهرستان بوکان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![گزارشی از کارگران قالی‌باف شهرستان بوکان](https://karkhane.org/app/uploads/2021/10/gozaresh-kargaran-e-qalibaf-bukan-95x65.jpg)](https://karkhane.org/3168/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%82%d8%a7%d9%84%db%8c%d8%a8%d8%a7%d9%81-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%88%da%a9%d8%a7%d9%86/)[رَج و رنجِ قالی‌بافان؛ گزارشی از کارگران قالی‌باف شهرستان بوکان](https://karkhane.org/3168/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%82%d8%a7%d9%84%db%8c%d8%a8%d8%a7%d9%81-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%88%da%a9%d8%a7%d9%86/)
-* [![داستان درجه دو - اورهان کمال](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](https://karkhane.org/app/uploads/2020/07/tajamo-e-moalemān-majles-ordibehešt-1399-95x65.jpg)](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)[اعتراضات معلمان غیررسمی در سال ۱۳۹۹: دهها هزار معلم در بلاتکلیفی](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)
+* [![نخواب محبوب من؛ شعری از محمود درویش](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![داستان درجه دو - اورهان کمال](https://karkhane.org/app/uploads/2020/09/orhan-kamal-daraje-do-95x65.jpg)](https://karkhane.org/2150/%d8%af%d8%b1%d8%ac%d9%87-%d8%af%d9%88/)[داستان کوتاه: درجه دو](https://karkhane.org/2150/%d8%af%d8%b1%d8%ac%d9%87-%d8%af%d9%88/)
+    ![نخواب محبوب من؛ شعری از محمود درویش](https://karkhane.org/app/uploads/2023/04/mahmoud-darwish-95x65.jpg)](https://karkhane.org/4897/dont-sleep-my-love-by-mahmud-darwish/)[نخواب محبوب من؛ شعری از محمود درویش](https://karkhane.org/4897/dont-sleep-my-love-by-mahmud-darwish/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
