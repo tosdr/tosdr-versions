@@ -41,7 +41,7 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729522598.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+*  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
@@ -54,7 +54,19 @@
     
     By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
     
-* *  [![Ivanka Trump, Lara Trump, and Tiffany Trump](https://www.women.com/img/gallery/the-biggest-makeup-mistakes-from-the-women-in-the-trump-family/intro-1729288659.jpg)](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
+* *  [![Sam Taylor-Johnson and Aaron Taylor-Johnson](https://www.women.com/img/gallery/there-are-so-many-red-flags-in-sam-and-aaron-taylor-johnsons-relationship/intro-1729291144.jpg)](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [There Are So Many Red Flags In Sam And Aaron Taylor-Johnson's Relationship](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+        
+        Sam and Aaron Taylor-Johnson have long raised eyebrows because of their age gap. However, there are more red flags in the relationship than the age difference.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+        
+    *  [![Ivanka Trump, Lara Trump, and Tiffany Trump](https://www.women.com/img/gallery/the-biggest-makeup-mistakes-from-the-women-in-the-trump-family/intro-1729288659.jpg)](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -66,33 +78,21 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
         
-    *  [![Miley Cyrus smiling](https://www.women.com/img/gallery/celebs-who-took-a-stunning-leap-from-long-to-short-hair/intro-1729283248.jpg)](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [Celebs Who Took A Stunning Leap From Long To Short Hair](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-        
-        It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-        
 
 More Stories
 ------------
 
-*  [![Sam Taylor-Johnson and Aaron Taylor-Johnson](https://www.women.com/img/gallery/there-are-so-many-red-flags-in-sam-and-aaron-taylor-johnsons-relationship/intro-1729291144.jpg)](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+*  [![Miley Cyrus smiling](https://www.women.com/img/gallery/celebs-who-took-a-stunning-leap-from-long-to-short-hair/intro-1729283248.jpg)](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    ### [There Are So Many Red Flags In Sam And Aaron Taylor-Johnson's Relationship](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+    ### [Celebs Who Took A Stunning Leap From Long To Short Hair](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
-    Sam and Aaron Taylor-Johnson have long raised eyebrows because of their age gap. However, there are more red flags in the relationship than the age difference.
+    It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
+    By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
 *  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
     
@@ -102,7 +102,7 @@ More Stories
     
     ### [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
     
-    The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyle's she's rocked so well over the years.
+    The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyles she's rocked so well over the years.
     
     By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
     
