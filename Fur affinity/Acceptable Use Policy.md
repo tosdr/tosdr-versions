@@ -80,6 +80,9 @@ Support ▼
 
 [Support Fur Affinity: Honoring Dragoneer's Legacy. https://gofund.me/0a0b27ba](https://gofund.me/0a0b27ba)
 
+**News:**  
+[Oct 22, 2024 - Upload Policy 2.7 Revision and New Feature](https://www.furaffinity.net/journal/10983144)
+
 [![](/themes/beta/img/banners/logo/fa-banner-fall.jpg)](https://www.furaffinity.net/)
 
 Fur Affinity | Upload Policy
@@ -218,9 +221,25 @@ Content that was neither made by nor for the uploader is not allowed, unless par
 
 ### 2.7 Content Involving Minors
 
-Content featuring minors is not allowed when the minor is in the presence of sexual activity, sexual objects, or nudity, though exceptions may be made for non-sexual depictions of birth and breastfeeding. Presence is defined as being in the same scene, such as sharing a comic panel, contiguous image, reference sheet, or specific section of a story where characters are engaging each other.
+Content featuring minors is not allowed when the minor is in Mature or Adult content outlined by our [Content Guidelines (Section 1.1)](#section_1_1) nor the presence of sexual activity, sexual objects, sexual language, adult themes, nudity, fetish or kink content, or other prohibited content (examples detailed below); however, exceptions may be made for non-sexual depictions of birth and breastfeeding.
 
-Minors may not have detailed bulges or outlines of normal or hyper genitalia, clothed or otherwise. Minors may not be fetishized. Minors may not be depicted as pregnant. Minors are defined as real or fictional humanoids with a childlike body or younger than 18 years old, and any adolescent animals or fantasy creatures.
+Definitions:
+
+* Presence is defined as directly being in or the implication of being in the same scene, such as sharing a comic panel, contiguous image, reference sheet, or specific section of a story where characters are engaging each other.
+* Minors are defined as real or fictional humanoids, animals, or fantasy creatures with a childlike body, the consciousness of a child, or younger than 18 years of age.
+* Fetish is defined as a specific sexual fixation (objects, body parts, activities).
+* Kink is defined as uncommon sexual activities.
+
+Enforcement of this section is done on a case-by-case basis and upon the totality of the content being reviewed, including the upload, submission description, tags, artist/uploader’s comments, profile page, intent, style, and more.
+
+Minors are also not allowed in the following content:
+
+* Genital Bulges. Minors may not have detailed bulges or outlines of normal or hyper genitalia, clothed or otherwise.
+* Pregnancy. Minors may not be depicted as pregnant.
+* Messy Diapers. Minors may not be shown wearing messy (depicted as brown, yellow, leaky, lumpy with excrement, visible wetness/soiled indicator, etc.) diapers. This does not apply to big or puffy clean diapers.
+* Restroom Activity. Minors may not be depicted relieving themselves or in content focused on them using the restroom.
+* Body Part Emphasis. The focus (e.g. zoomed in, primary part of the content) of the content may not be on specific body parts of a minor, such as their feet, groin, butts, clothed or otherwise. This does not apply to content where the focus on these parts is coincidental.
+* Regression. Characters that have been regressed to being minors, physically or mentally, may not be depicted breastfeeding, being born/unbirthed, or having their diapers changed.
 
 ### 2.8 Content Lacking Artistic Merit
 
@@ -334,13 +353,13 @@ If you disagree with the decision of a Moderator, you may appeal his decision by
 
 ![](/themes/beta/img/banners/fa_logo.png?v2)
 
-72212 **Users online** — 2208 **guests**, 11822 **registered** and 58182 **other**
+78637 **Users online** — 2602 **guests**, 16063 **registered** and 59972 **other**
 
 Limit bot activity to periods with less than 10k registered users online.  
   
 **© 2005-2024 Frost Dragon Art LLC**
 
-Server Time: Oct 22, 2024 06:57 AM
+Server Time: Oct 22, 2024 12:58 PM
 
 This website uses cookies to enhance your browsing experience. [Learn More](https://www.furaffinity.net/privacy)
 
