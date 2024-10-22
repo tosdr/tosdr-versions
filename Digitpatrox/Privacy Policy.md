@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, October 21 2024
+Tuesday, October 22 2024
 
 Latest
 
-* [Google Meet just added pronoun support — here’s how to change yours](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
-* [Over 6,000 WordPress hacked to install plugins pushing infostealers](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
-* [News Corp sues Perplexity for ripping off WSJ and New York Post](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
-* [Venom 3 Release Date, Trailer, Cast, Villain and Plot](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
-* [Leaders Staffing notifies 52K people of data breach that compromised SSNs, financial and medical info](https://digitpatrox.com/leaders-staffing-notifies-52k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
-* [Sophos acquires Secureworks for $859 million](https://digitpatrox.com/sophos-acquires-secureworks-for-859-million/)
-* [Microsoft to launch autonomous AI agents in November – Computerworld](https://digitpatrox.com/microsoft-to-launch-autonomous-ai-agents-in-november-computerworld/)
-* [The Sexiest Horror Movies Streaming](https://digitpatrox.com/the-sexiest-horror-movies-streaming/)
-* [How to boot Windows 11 in Safe Mode (2024)](https://digitpatrox.com/how-to-boot-windows-11-in-safe-mode-2024/)
-* [First Drive: Volkswagen ID. Buzz Is at a High Price](https://digitpatrox.com/first-drive-volkswagen-id-buzz-is-at-a-high-price/)
+* [Get 9 Courses on Ethical Hacking for Just $50](https://digitpatrox.com/get-9-courses-on-ethical-hacking-for-just-50/)
+* [NYT Strands today — hints, spangram and answers for game #233 (Tuesday, October 22 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-233-tuesday-october-22-2024/)
+* [Hackers exploit Roundcube webmail flaw to steal email, credentials](https://digitpatrox.com/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
+* [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://digitpatrox.com/disney-plus-and-hulu-wont-let-you-sign-up-through-apple-anymore/)
+* [Snapdragon 8 Elite vs 8 Gen 3: Qualcomm’s Biggest Performance Leap](https://digitpatrox.com/snapdragon-8-elite-vs-8-gen-3-qualcomms-biggest-performance-leap/)
+* [Enterprises are struggling to fill senior cybersecurity roles — and it’s causing staff burnout to skyrocket](https://digitpatrox.com/enterprises-are-struggling-to-fill-senior-cybersecurity-roles-and-its-causing-staff-burnout-to-skyrocket/)
+* [One of the world’s largest book publishers adds AI warnings to its books – Computerworld](https://digitpatrox.com/one-of-the-worlds-largest-book-publishers-adds-ai-warnings-to-its-books-computerworld/)
+* [The Biggest iOS 18.1 Features Launching Next Week](https://digitpatrox.com/the-biggest-ios-18-1-features-launching-next-week/)
+* [Get Rid of the Ads on Windows 11](https://digitpatrox.com/get-rid-of-the-ads-on-windows-11/)
+* [How to Turn On Android’s Theft Protection Feature](https://digitpatrox.com/how-to-turn-on-androids-theft-protection-feature/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/KX28fXJYjf2Pthpm8BwTPD-1200-80.jpg)](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
+* [![](https://assets.techrepublic.com/uploads/2024/05/tr_20240523-penetration-testing-and-ethical-hacking-certification-training-bundle.jpg)](https://digitpatrox.com/get-9-courses-on-ethical-hacking-for-just-50/)
     
-    [Google Meet just added pronoun support — here’s how to change yours](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
+    [Get 9 Courses on Ethical Hacking for Just $50](https://digitpatrox.com/get-9-courses-on-ethical-hacking-for-just-50/)
     
-    2 mins ago
+    8 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg)](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-233-tuesday-october-22-2024/)
     
-    [Over 6,000 WordPress hacked to install plugins pushing infostealers](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
+    [NYT Strands today — hints, spangram and answers for game #233 (Tuesday, October 22 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-233-tuesday-october-22-2024/)
     
-    30 mins ago
+    24 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/7d11B7zWhOLcLN4H2QUGkiTmo5g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472500/STK271_PERPLEXITY_B.jpg)](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/21/email.jpg)](https://digitpatrox.com/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
     
-    [News Corp sues Perplexity for ripping off WSJ and New York Post](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
+    [Hackers exploit Roundcube webmail flaw to steal email, credentials](https://digitpatrox.com/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
     
-    47 mins ago
+    52 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Venom-3-Release-Date-Trailer-Cast-and-Plot.jpg)](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
+* [![](https://cdn.vox-cdn.com/thumbor/8qaDHLnw2ViTrfnZ3JLFCi5bAwg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951316/STK080_VRG_Illo_N_Barclay_9_disney_.jpg)](https://digitpatrox.com/disney-plus-and-hulu-wont-let-you-sign-up-through-apple-anymore/)
     
-    [Venom 3 Release Date, Trailer, Cast, Villain and Plot](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
+    [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://digitpatrox.com/disney-plus-and-hulu-wont-let-you-sign-up-through-apple-anymore/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Indiana-recruitment-firm-notifies-52K-of-data-breach-compromising-SSNs-medical-and-financial-data.jpg)](https://digitpatrox.com/leaders-staffing-notifies-52k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/snapdragon-8-elite-vs-8-gen-3-comparison.jpg)](https://digitpatrox.com/snapdragon-8-elite-vs-8-gen-3-qualcomms-biggest-performance-leap/)
     
-    [Leaders Staffing notifies 52K people of data breach that compromised SSNs, financial and medical info](https://digitpatrox.com/leaders-staffing-notifies-52k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
+    [Snapdragon 8 Elite vs 8 Gen 3: Qualcomm’s Biggest Performance Leap](https://digitpatrox.com/snapdragon-8-elite-vs-8-gen-3-qualcomms-biggest-performance-leap/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [8 mins ago
     
-    ### Google Meet just added pronoun support — here’s how to change yours](https://digitpatrox.com/google-meet-just-added-pronoun-support-heres-how-to-change-yours/)
-* [30 mins ago
+    ### Get 9 Courses on Ethical Hacking for Just $50](https://digitpatrox.com/get-9-courses-on-ethical-hacking-for-just-50/)
+* [24 mins ago
     
-    ### Over 6,000 WordPress hacked to install plugins pushing infostealers](https://digitpatrox.com/over-6000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
-* [47 mins ago
+    ### NYT Strands today — hints, spangram and answers for game #233 (Tuesday, October 22 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-233-tuesday-october-22-2024/)
+* [52 mins ago
     
-    ### News Corp sues Perplexity for ripping off WSJ and New York Post](https://digitpatrox.com/news-corp-sues-perplexity-for-ripping-off-wsj-and-new-york-post/)
+    ### Hackers exploit Roundcube webmail flaw to steal email, credentials](https://digitpatrox.com/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
 
 Most Popular Topics
 
-* [August 27, 2024
+* [August 14, 2024
     
-    ### You Can Get Windows 11 Pro on Sale for $23 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-on-sale-for-23-right-now/)
-* [2 weeks ago
+    ### GitHub wants to stamp out software vulnerabilities once and for all: Copilot Autofix helps developers fix flaws three-times faster than manually](https://digitpatrox.com/github-wants-to-stamp-out-software-vulnerabilities-once-and-for-all-copilot-autofix-helps-developers-fix-flaws-three-times-faster-than-manually/)
+* [September 12, 2024
     
-    ### 10 Best Pale Garden Seeds in Minecraft](https://digitpatrox.com/10-best-pale-garden-seeds-in-minecraft/)
-* [21 hours ago
+    ### Xbox Is Bringing Back Friend Requests, Marking the End of a Decade-Long Absence](https://digitpatrox.com/xbox-is-bringing-back-friend-requests-marking-the-end-of-a-decade-long-absence/)
+* [August 20, 2024
     
-    ### Internet Archive breached again through stolen access tokens](https://digitpatrox.com/internet-archive-breached-again-through-stolen-access-tokens/)
+    ### Guide to setting up a VPN on ASUS router](https://digitpatrox.com/guide-to-setting-up-a-vpn-on-asus-router/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Microsoft to launch autonomous AI agents in November – Computerworld](https://digitpatrox.com/microsoft-to-launch-autonomous-ai-agents-in-november-computerworld/)
-* [3 hours ago
-    
-    ### The Sexiest Horror Movies Streaming](https://digitpatrox.com/the-sexiest-horror-movies-streaming/)
+    ### One of the world’s largest book publishers adds AI warnings to its books – Computerworld](https://digitpatrox.com/one-of-the-worlds-largest-book-publishers-adds-ai-warnings-to-its-books-computerworld/)
 * [4 hours ago
     
-    ### How to boot Windows 11 in Safe Mode (2024)](https://digitpatrox.com/how-to-boot-windows-11-in-safe-mode-2024/)
+    ### The Biggest iOS 18.1 Features Launching Next Week](https://digitpatrox.com/the-biggest-ios-18-1-features-launching-next-week/)
+* [4 hours ago
+    
+    ### Get Rid of the Ads on Windows 11](https://digitpatrox.com/get-rid-of-the-ads-on-windows-11/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 11, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
