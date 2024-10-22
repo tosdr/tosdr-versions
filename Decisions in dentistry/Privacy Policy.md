@@ -182,6 +182,17 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by Brannon Moncrief of McLerran & Associates to delve into the complexities of DSO transactions. Whether you’re contemplating a practice sale or simply curious about the intricacies of these deals, this conversation covers essential topics such as the tricks DSOs might try to pull and the importance of having a sell-side advisor at the table when navigating a sale.⁠
+⁠
+Brannon and Art also discuss the current state of the private equity and DSO world, offering insights into what to expect when investing and transitioning in the dental space. Brannon shares how you can make the best decisions for your practice during exit — and avoid leaving millions on the table — by understanding your “why” and finding a buyer who aligns with your goals. ⁠
+⁠
+Listen via the link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBY_MQgtGWI/) 
+
 [A recent Cochrane review shows that water fluorida ![A recent Cochrane review shows that water fluoridation’s benefits in preventing tooth decay have lessened since fluoride toothpaste became widely available. While it may still reduce decay slightly in children’s teeth, the review raises questions about whether it remains a cost-effective public health strategy today. Link in bio.⁠
 ⁠
 ⁠
@@ -212,13 +223,6 @@ Understanding the oral health implications of substance use and abuse is crucial
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBMHPfZviRx/) 
-
-[Recent advancements have redefined the management ![Recent advancements have redefined the management of peri-implant disease, distinguishing it from periodontitis and emphasizing conservative treatments. Studies highlight the effectiveness of targeted anti-infective surgical therapies over aggressive protocols, underscoring a shift toward minimally invasive approaches to preserve implant health and reduce complications. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBJicc2zS8X/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
