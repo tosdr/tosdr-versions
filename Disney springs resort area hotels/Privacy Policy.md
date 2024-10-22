@@ -137,7 +137,7 @@ Insider News
 
 [![](https://disneyspringshotels.com/wp-content/uploads/2024/08/friends-at-epcot-2.jpg)](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL")
 
-[DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL") RATES START AT $79 AT DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL Stay Steps from the Most Magical Place on Earth LAKE BUENA VISTA, Fla. – (Aug. 9, 2024) – Special rates starting at $79\* are available to book at Disney Springs® Resort Area Hotels beginning August 10 for stays from August 15 through November… [View Article »](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/)
+[DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL") UPDATE RATES START AT $96 AT DISNEY SPRINGS® RESORT AREA HOTELS Stay Steps from the Most Magical Place on Earth this Season LAKE BUENA VISTA, Fla. – (Oct. 21, 2024) – Special rates starting at $96 are available to book at Disney Springs Resort Area Hotels for stays through November 23, 2024. Some blackout dates… [View Article »](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/)
 
 [View All News](https://disneyspringshotels.com/whats-new/ "Link to What's New")
 
