@@ -279,69 +279,44 @@ Ce partenaire permet à des annonceurs/agences sélectionnés par Orange, d'acti
 
 [Xandr](https://www.xandr.com/privacy/platform-privacy-policy/) 
 
-6\. Gérez votre Service Utiq
-----------------------------
+6\. Gérer Utiq
+--------------
 
-Pour retirer votre consentement Utiq uniquement sur ce site, cliquez sur [Retirer le consentement Utiq](javascript: Utiq.API.handleConsentChange(false)).
+Pour retirer votre consentement à l’activation d’Utiq uniquement sur ce site, cliquez sur [Retirer le consentement Utiq](javascript: Utiq.API.handleConsentChange(false)).
 
-Pour consulter et gérer tous vos consentements Utiq, y compris les retirer tous en une seule fois ou individuellement pour chacun des sites partenaires, ou désactiver ou empêcher l'activation du service, accédez au [consenthub](https://consenthub.utiq.com/) d'Utiq.
+Pour consulter et gérer tous les consentements Utiq que vous avez donné jusqu’à présent, accédez au [consenthub](https://consenthub.utiq.com/) d'Utiq.
 
-Si vous avez retiré votre consentement mais souhaitez à nouveau utiliser le Service Utiq, [cliquez sur Pop-Up Consentement Utiq](javascript: showUtiqNotice()).
+**À propos de la technologie Utiq**
 
-**À propos du Service Utiq**
+La technologie Utiq est fournie par Utiq SA/NV, une société européenne d’Adtech, en collaboration avec [des opérateurs télécoms](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators) qui l’alimentent. Nous utilisons cette technologie pour réaliser nos activités de marketing digital.
 
-Le Service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données sur les sites partenaires d'Utiq lorsque vous activez une expérience personnalisée ou des analyses. Dans le cadre du service Utiq, vous avez accès à un portail centralisé en libre-service, appelé [consenthub](https://consenthub.utiq.com/) d'Utiq, qui vous permet de gérer tous vos choix de Service Utiq et vos consentements Utiq ainsi que d’exercer vos droits en matière de protection des données, à tout moment et en un seul endroit.
+Cette technologie n’est pas activée par défaut et nécessite votre consentement pour l’être. Elle ne peut être activée à votre égard que si vous êtes également client d’un des opérateurs télécom partenaires d’Utiq.
 
-Utiq est un service facultatif. Cela signifie qu'il n'est pas activé par défaut et qu'il est uniquement activé lorsque vous donnez votre consentement sur un site participant via la fenêtre pop-up de consentement Utiq dédiée.
+Pour plus d'informations, veuillez consulter la [Politique de protection des données personnelles d’Utiq](https://consenthub.utiq.com/pages/privacy-statement).
 
-En savoir plus sur le service Utiq sur [consenthub.utiq.com](https://consenthub.utiq.com/)
+ 
 
-**À propos de notre partenariat avec Utiq**
+**Notre utilisation de la technologie Utiq**
 
-Le Service Utiq est opéré par Utiq SA/NV et fourni en partenariat avec votre opérateur télécom et des sites partenaires comme le nôtre.
+Nous utilisons la technologie Utiq sur ce site web. Si vous consentez à son activation, nous l’utiliserons pour vous reconnaître en tant que même visiteur et collecter des informations sur votre navigation sur ce site web afin de vous offrir du contenu et de la publicité personnalisés et de réaliser des analyses, dans le respect des consentements que vous nous avez donnés.
 
-Nous sommes des responsables conjoints avec Utiq pour fournir le Service Utiq. Dans le cadre de notre accord de responsables conjoints:
+Nous agissons en tant que responsable de traitement conjoint avec Utiq pour les traitements de vos données effectués dans le cadre de certaines finalités. Dans le cadre de notre accord de responsables conjoints:
 
-* Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons à cette fin sur nos sites web où nous intégrons le Service Utiq.
-* Pour les sites web où le Service Utiq est intégré, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, comment le gérer et vous informer de notre partenariat avec Utiq.
-* Utiq met à votre disposition un portail de confidentialité centralisé ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq, à tout moment et en un seul endroit.
-* Même si vous pouvez toujours exercer vos droits à l’égard de l’un des responsables de traitement, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
+* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
+* Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq. À tout moment. En un seul endroit.
+* Ainsi même si vous pouvez exercer vos droits à l’égard de l’un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
 
-Si vous avez donné votre consentement pour activer le Service Utiq lors de votre première visite sur notre site, Utiq ne partagera avec Orange que deux signaux sécurisés publicitaires. Ils sont appelés **martechpass** et **adtechpass**, ce sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous reconnaître comme le même visiteur. Nous les utiliserons ensuite pour vous fournir du contenu personnalisé, de la publicité ou réaliser des analyses, en fonction des finalités pour lesquelles vous nous avez donné votre consentement. Le **martechpass** et **adtechpass** expirent respectivement après 90 jours ou 24 heures et sont stockées sur votre navigateur avec les cookies associés.
+**En savoir plus sur l’utilisation de la technologie Utiq sur nos sites web**
 
-Vous pouvez trouver plus d'informations sur le service Utiq dans le [consenthub](https://consenthub.utiq.com/) d'Utiq ou dans la [Déclaration de confidentialité d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+Les identifiants Utiq peuvent être utilisés pour vous reconnaitre en tant que même visiteur et utiliser votre historique de navigation sur chaque site web que nous, Orange, opérons, et pour lesquels vous avez également donné votre consentement à l’activation de la technologie Utiq. Techniquement, cela signifie que tous les sites web ci-dessous pour lesquels vous avez donné votre consentement à son activation recevront un même identifiant Utiq et votre activité sur ces sites sera liée à ce même identifiant.
 
-Merci de noter que nous avons deux rôles au sein de l’écosystème Utiq. Pour en savoir plus à ce sujet, vous pouvez visiter notre [Politique de Protection des données personnelles](https://c.orange.fr/pages-juridiques/donnees-personnelles.html#offres_services_specifiques).
+Ci-dessous la liste complète de nos sites web intégrant la technologie Utiq:
+
+* [www.orange.fr](https://www.orange.fr/)
 
 **En savoir plus sur les opérateurs télécoms partenaires d’Utiq**
 
-Veuillez trouver ci-dessous la liste des opérateurs télécom partenaires par pays.
-
-La technologie Utiq ne peut être utilisée que si vous êtes client de l’un de ces opérateurs. Si ce n’est pas le cas, la technologie Utiq ne pourra pas être activée dans votre cas.
-
-Espagne:
-
-* [Jazztel](https://www.orange.es/utiq)
-* [Movistar](http://www.movistar.es/utiq)
-* [Orange](https://www.orange.es/utiq)
-* [Simyo](https://www.orange.es/utiq)
-
-Allemagne:
-
-* [Congstar](https://www.congstar.de/datenschutz/)
-* [Deutsche Telekom](https://www.telekom.de/ueber-das-unternehmen/datenschutz)
-* [Fraenk](https://fraenk.de/datenschutz/)
-* [Vodafone](https://www.vodafone.de/unternehmen/soziale-verantwortung/datenschutz-online.html)
-
-France:
-
-* [Bouygues Telecom](https://www.corporate.bouyguestelecom.fr/mentions-legales/politique-de-confidentialite/#qui-sont-les-destinataires-de-vos-donnees)
-* [Orange](https://c.orange.fr/pages-juridiques/donnees-personnelles.html#offres_services_specifiques)
-* [SFR](https://www.sfr.fr/politique-de-protection-des-donnees-personnelles.html)
-
-Pour plus d’information sur la technologie Utiq, merci de visiter la [Notice d’utilisation des données personnelles d’Utiq](https://consenthub.utiq.com/pages/privacy-statement).
-
-Vous pouvez également visiter la page dédiée de votre opérateur pour en savoir plus sur leur rôle, en cliquant sur leur nom ci-dessus.
+Veuillez trouver la liste des opérateurs télécom partenaires d’Utiq, par pays [ici](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators).
 
 7\. Mise à jour de la politique
 -------------------------------
@@ -357,7 +332,7 @@ Dernière mise à jour le 22 avril 2024
 * [3\. Paramétrer l’utilisation des cookies](#chapitre3)
 * [4\. Les cookies et la protection des données personnelles](#chapitre4)
 * [5\. Cookies d’Orange et de ses partenaires](#chapitre5)
-* [6\. Gérez votre Service Utiq](#chapitre6)
+* [6\. Gérer Utiq](#chapitre6)
 * [7\. Mise à jour de la politique](#chapitre7)
 
 ### Le consentement à l'utilisation de Utiq a été révoqué avec succès
