@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
-
-4 min read
-
-### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
-
-article5 days ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
-### Hubble Captures a New View of Galaxy M90
+### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 
-article4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article5 hours ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Just Keep Roving](https://science.nasa.gov/wp-content/uploads/2024/10/mars-perseverance-nrf-1288-0781283332-488ecm-n0602014ncam13288-01-195j.png)
+
+2 min read
+
+### Just Keep Roving
+
+article5 days ago](https://science.nasa.gov/blog/just-keep-roving/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -241,47 +241,47 @@ Back
 
 ### Featured
 
-[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
 
-5 min read
+2 min read
 
-### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
+### Gateway: Life in a Lunar Module
 
-article 5 days ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 6 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
 
-5 min read
+7 min read
 
-### NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
+### NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 
-article 5 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)
+article 4 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)
 
 ### Highlights
 
-[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Oct. 18, 2024
-
-article 18 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/kidneystones1.png?w=1024)
-
-2 min read
-
-### Risk of Kidney Stone Formation
-
-article 19 hours ago](https://www.nasa.gov/reference/risk-of-kidney-stone-formation/)[![](https://www.nasa.gov/wp-content/uploads/2024/07/medication.png?w=695)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/kelly-1.png?w=1024)
 
 1 min read
 
-### Risk of Ineffective Medications and Toxic Byproducts
+### Risk from Inadequate Sleep and Irregular Schedules
 
-article 19 hours ago](https://www.nasa.gov/reference/risk-of-ineffective-medications-and-toxic-byproducts/)
+article 3 hours ago](https://www.nasa.gov/reference/risk-from-inadequate-sleep-and-irregular-schedules/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/teamwork.png?w=1024)
+
+2 min read
+
+### Risk of inadequate teamwork
+
+article 3 hours ago](https://www.nasa.gov/reference/risk-of-inadequate-teamwork/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/dynamicloads.png?w=1024)
+
+2 min read
+
+### Risk of injury from dynamic loads
+
+article 3 hours ago](https://www.nasa.gov/reference/risk-of-injury-from-dynamic-loads/)
 
 ### Highlights
 
@@ -303,11 +303,17 @@ article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
 
-article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
+article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
 
 ### Highlights
 
-[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
+[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
+
+2 min read
+
+### Gateway: Life in a Lunar Module
+
+article 6 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
 
 2 min read
 
@@ -319,17 +325,17 @@ article 4 days ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields N
 
 ### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 5 days ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
-
-4 min read
-
-### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
-
-article 5 days ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)
+article 5 days ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)
 
 ### Featured
 
-[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
+
+2 min read
+
+### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
+
+article 5 hours ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
@@ -341,35 +347,29 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### NASA’s Hubble Sees a Stellar Volcano
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
-
-3 min read
-
-### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
-
-article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)
+article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)
 
 ### Highlights
 
-[![Four people in neon yellow vests welcome a man in a tan flight suit with a green backpack, standing on a gray tarmac. In the background, top left of the screen is an airplane engine.](https://www.nasa.gov/wp-content/uploads/2024/10/image002.jpg?w=1024)
+[![LEMS](https://science.nasa.gov/wp-content/uploads/2023/04/lems_3-jpg.webp)
 
-7 min read
+1 min read
 
-### S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
+### LEMS
 
-article 4 days ago](https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 2 hours ago](https://science.nasa.gov/lems/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
-### Hubble Captures a New View of Galaxy M90
+### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![A satellite image of green earth with one dark blue lake in the top right corner, and white clouds swirling in diagonally from the top left to the bottom right.](https://www.nasa.gov/wp-content/uploads/2024/10/gsfc-20171208-archive-e000711orig.jpg?w=1024)
+article 5 hours ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![](https://www.nasa.gov/wp-content/uploads/2015/04/icon512x512.png?w=512)
 
-5 min read
+3 min read
 
-### What is Air Quality?
+### Explore International Space Station Research with NASA Mobile Apps
 
-article 4 days ago](https://www.nasa.gov/general/what-is-air-quality/)
+article 1 day ago](https://www.nasa.gov/missions/station/mobile-app-lets-you-explore-the-diverse-ecosystem-of-research-and-technology-on-the-international-space-station/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### Highlights
 
-[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
+[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+
+6 min read
+
+### 2024 NASA Power to Explore Contest Winners
+
+article 6 hours ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/stem/2024-nasa-power-to-explore-contest-winners/)[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Oct. 18, 2024
 
-article 18 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)[![Artist's conception of the Landsat 9 spacecraft, the ninth satellite launched in the long-running Landsat program, high above the U.S.](https://www.nasa.gov/wp-content/uploads/2022/08/landsat_9_release.jpeg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)[![Artist's conception of the Landsat 9 spacecraft, the ninth satellite launched in the long-running Landsat program, high above the U.S.](https://www.nasa.gov/wp-content/uploads/2022/08/landsat_9_release.jpeg?w=1024)
 
 2 min read
 
 ### The View from Space Keeps Getting Better  
 
-article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
-
-4 min read
-
-### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
-
-article 6 days ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)
+article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)
 
 ### Featured
 
@@ -427,25 +427,25 @@ article 2 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/
 
 ### Featured
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/image-edffe7.jpeg?w=1024)
-
-3 min read
-
-### NASA and Partners Scaling to New Heights 
-
-article 4 days ago](https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+[![Jesse Bazley stands in the Mission Control Center during his final shift as a flight controller.](https://www.nasa.gov/wp-content/uploads/2024/10/final-shift-rotated.jpg?w=768)
 
 4 min read
 
-### NASA Pilots Add Perspective to Research
+### Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![NASA astronaut Kathryn C. Thornton on her second spacewalk on STS-61](https://www.nasa.gov/wp-content/uploads/2024/10/women-eva-4-thornton-eva-2-sts-61-eva-2-dec-1993-sts061-77-016.jpg?w=1022)
+article 6 days ago](https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
 
-12 min read
+5 min read
 
-### Five Years Ago: First All Woman Spacewalk
+### NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 
-article 4 days ago](https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/)
+article 5 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)[![Liftoff of Atlantis on the STS-34 mission](https://www.nasa.gov/wp-content/uploads/2024/10/sts-34-11-liftoff-s34-s-023.jpg?w=544)
+
+11 min read
+
+### 35 Years Ago: STS-34 Sends Galileo on its Way to Jupiter
+
+article 1 day ago](https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/)
 
 ### Highlights
 
