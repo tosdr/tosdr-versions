@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Olivia Nuzzi out at New York magazine after RFK Jr. sexting tryst](https://nypost.com/2024/10/21/us-news/olivia-nuzzi-out-at-new-york-magazine-after-rfk-jr-sexting-tryst/)
-
 Privacy Notice Highlights
 =========================
 
