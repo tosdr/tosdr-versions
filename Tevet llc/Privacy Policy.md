@@ -36,7 +36,7 @@ Toggle Menu
     * [Liberty KA / KP](https://liberty.tevet.com/libertyka)
     * [Liberty NP](https://liberty.tevet.com/libertynp)
 
-[](#0)[](#0)[](#0)[](#0)[](#0)[](#0)
+[Facebook](#0) [Instagram](#0) [Linkedin](#0) [X](#0) [YouTube](#0) [Medium](#0)
 
 Last Modified: January 30, 2024
 
@@ -234,6 +234,6 @@ TEST EQUIPMENT
 
 © 2024 TEVET | SDVOSB & HUBZONE
 
-[](https://www.facebook.com/TEVETyourveteransource)[](https://www.linkedin.com/company/tevet-llc/)
+[Facebook](https://www.facebook.com/TEVETyourveteransource) [Linkedin](https://www.linkedin.com/company/tevet-llc/)
 
-[](javascript:)
+[Return to top](javascript:)
