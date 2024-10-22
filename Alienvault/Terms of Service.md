@@ -1,4 +1,4 @@
-be\_ixf;ym\_202410 d\_21; ct\_50
+be\_ixf;ym\_202410 d\_20; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -171,9 +171,9 @@ be\_ixf;ym\_202410 d\_21; ct\_50
             
             Blog: Security Essentials
             
-            ##### A Look at the Social Engineering Element of Spear Phishing Attacks
+            ##### Celebrating Internet Day: The Tech Trifecta Shaping Our Digital Future
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/a-look-at-the-social-engineering-element-of-spear-phishing-attacks)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/celebrating-internet-day-the-tech-trifecta-shaping-our-digital-future)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Adithya Bharath](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David Balaban
+#### Adithya Bharath
 
-Oct 21, 2024
+Oct 19, 2024
 
-### [A Look at the Social Engineering Element of Spear Phishing Attacks](https://cybersecurity.att.com/blogs/security-essentials/a-look-at-the-social-engineering-element-of-spear-phishing-attacks)
+### [Celebrating Internet Day: The Tech Trifecta Shaping Our Digital Future](https://cybersecurity.att.com/blogs/security-essentials/celebrating-internet-day-the-tech-trifecta-shaping-our-digital-future)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
