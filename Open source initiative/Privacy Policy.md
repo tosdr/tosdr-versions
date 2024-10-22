@@ -5,13 +5,7 @@
 * [About](https://opensource.org/about)
 * [Open Source Definition](https://opensource.org/osd)
 * [Licenses](https://opensource.org/licenses)
-* [Blog](https://opensource.org/blog)
-* [Programs](https://opensource.org/programs)
-* [Join](https://members.opensource.org/join/)
-
-* [About](https://opensource.org/about)
-* [Open Source Definition](https://opensource.org/osd)
-* [Licenses](https://opensource.org/licenses)
+* [Open Source AI](https://opensource.org/ai)
 * [Blog](https://opensource.org/blog)
 * [Programs](https://opensource.org/programs)
 * [Join](https://members.opensource.org/join/)
@@ -183,10 +177,11 @@ Open
 Source AI
 ----------------
 
-* [What is Open Source AI](https://opensource.org/what-is-open-source-ai)
+* [Open Source AI](https://opensource.org/ai)
 * [Deep Dive](https://opensource.org/deepdive)
-* [Bi-weekly Townhalls](https://opensource.org/deepdive#townhalls)
-* [Online forum](https://discuss.opensource.org/)
+* [Townhalls recordings](https://opensource.org/ai/townhalls)
+* [FAQs](https://opensource.org/ai/faqs)
+* [Online forum](https://opensource.org/ai/forums)
 * [OSAI Definition Roadshow](https://opensource.org/blog/open-source-ai-definition-on-the-road-looking-back-and-forward)
 
 Licenses
