@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
+    ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
     [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
     
     ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
@@ -51,10 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
     
     ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
-    
-    ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
+    ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
     [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
     
     ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
@@ -132,10 +136,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
     
     ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
-    
-    ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -212,6 +212,12 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 
 [17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
+[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
@@ -224,12 +230,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
 
 [16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
-
-[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
-
-[17th October 2024](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
 
 ### Featured Articles
 
