@@ -500,14 +500,14 @@ Du wechselst in den Kinderbereich und bewegst dich mit deinem Kinderprofil weite
 
 Weiter zum Kinderbereich
 
-![](/static/0.111.2345/img/cmp/det.png)
+![](/static/0.113.2365/img/cmp/det.png)
 
 Datenschutzeinstellungen
 ------------------------
 
 An dieser Stelle würden wir dir gerne die Datenschutzeinstellungen anzeigen. Entweder hast du einen Ad-Blocker oder ähnliches in deinem Browser aktiviert, welcher dies verhindert, oder deine Internetverbindung ist derzeit gestört. Falls du die Datenschutzeinstellungen sehen und bearbeiten möchtest, prüfe, ob ein Ad-Blocker oder ähnliches in deinem Browser aktiv ist und schalte es aus. So lange werden die standardmäßigen Einstellungen bei der Nutzung der ZDFmediathek verwendet. Dies bedeutet, das die Kategorien "Erforderlich" und "Erforderliche Erfolgsmessung" zugelassen sind. Weitere Details erfährst du in unserer Datenschutzerklärung.
 
-![](/static/0.111.2345/img/cmp/det.png)
+![](/static/0.113.2365/img/cmp/det.png)
 
 Datenschutzeinstellungen
 ------------------------
