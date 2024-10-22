@@ -3229,7 +3229,7 @@ Toledo, OH 43623
 sales@sdbullion.com  
 1(800)294-8732
 
-  ![Three Billion Transactions Image](https://sdbullion.com/media/wysiwyg/footer/over-4-billion-in-trusted-transactions_1_.png)
+  ![over 5 billion in trusted transactions](/wysiwyg/footer/over-5-billion-in-trusted-transactions-sd-bullion_1_.png) loading="lazy" />
 
   [![Phone Icon](https://sdbullion.com/media/wysiwyg/footer/phone-icon-min.png)](tel:18002948732)
 
