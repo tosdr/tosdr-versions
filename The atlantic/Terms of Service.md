@@ -76,6 +76,8 @@
 * [Sign In](https://accounts.theatlantic.com/login/) [My Account](https://accounts.theatlantic.com/accounts/details/)
 * [Subscribe](https://www.theatlantic.com/subscribe/navbar/)
 
+[“I need the kind of generals that Hitler had”: Trump’s obsession with dictators and disdain for America’s military is deepening, Jeffrey Goldberg reports.](https://www.theatlantic.com/politics/archive/2024/10/trump-military-generals-hitler/680327/)
+
 Terms & Conditions
 ==================
 
