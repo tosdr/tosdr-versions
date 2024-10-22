@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-188238208612)                      
+![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-188252121224)                      
 
 [Skip to main content](#main-content)
 
@@ -12,7 +12,7 @@ Search
 
 [![National Autism Resources](https://cdn11.bigcommerce.com/s-wkp9y2ej/images/stencil/266x109/national-logo_1717482994__30968.original.png "National Autism Resources")](https://nationalautismresources.com/)
 
-[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/3cf15850-71e7-013d-b035-6aefbe74c9fe/img/header-stk-lg.png)](https://nationalautismresources.com/)
+[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/64452710-72be-013d-1441-523a1da96555/img/header-stk-lg.png)](https://nationalautismresources.com/)
 
 * [Teaching](https://nationalautismresources.com/classroom-materials-teaching-supplies/)
     
@@ -23,7 +23,6 @@ Search
     * [Social Emotional Learning](https://nationalautismresources.com/social-emotional-learning-sel/)
     * [Visual Supports](https://nationalautismresources.com/visual-supports/)
     * [Focus Helpers](https://nationalautismresources.com/focus-helpers/)
-    * [Social Skills](https://nationalautismresources.com/social-skills/)
     * [Life Skills](https://nationalautismresources.com/life-skills/)
     * [Literacy](https://nationalautismresources.com/school-tools/reading-literacy/)
     
@@ -49,15 +48,16 @@ Search
     * [Grade School](https://nationalautismresources.com/gifts/grade-school/)
     * [Preschool](https://nationalautismresources.com/gifts/preschool/)
     * [Toddler](https://nationalautismresources.com/gifts/toddler/)
-    * [Sensory Toys](https://nationalautismresources.com/sensory-ot/sensory-toys/)
-    
     * [Cause & Effect](https://nationalautismresources.com/toys-gifts/cause-and-effect/)
+    
+    * [Sensory Toys](https://nationalautismresources.com/sensory-ot/sensory-toys/)
+    * [Fidgets](https://nationalautismresources.com/fidgets/)
     * [Fine Motor](https://nationalautismresources.com/fine-motor/)
     * [Hand-Eye Coordination](https://nationalautismresources.com/hand-eye-coordination/)
     * [Reinforcer Toys](https://nationalautismresources.com/toys/reinforcer-toys/)
     * [Manipulatives](https://nationalautismresources.com/manipulatives/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/3cf15850-71e7-013d-b035-6aefbe74c9fe/img/cat-2.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/64452710-72be-013d-1441-523a1da96555/img/cat-2.png)
     
     ### Top Toys & Gifts
     
@@ -76,7 +76,7 @@ Search
     * [Headphones](https://nationalautismresources.com/headphones/)
     * [Calm Lighting](https://nationalautismresources.com/calming/calm-lighting/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/3cf15850-71e7-013d-b035-6aefbe74c9fe/img/cat-3.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/64452710-72be-013d-1441-523a1da96555/img/cat-3.png)
     
     ### Calming Favorites
     
@@ -97,7 +97,7 @@ Search
     * [Self Regulation](https://nationalautismresources.com/self-regulation/)
     * [Chewables - Oral Motor](https://nationalautismresources.com/oral-motor/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/3cf15850-71e7-013d-b035-6aefbe74c9fe/img/cat-4.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/64452710-72be-013d-1441-523a1da96555/img/cat-4.png)
     
     ### Sensory Room Furniture
     
@@ -122,7 +122,7 @@ Search
     * [Weighted Vest FAQs](https://nationalautismresources.com/weighted-vest-faqs/)
     * [Weighted Blanket](https://nationalautismresources.com/blog/how-much-weight-should-your-weighted-blanket-have/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/3cf15850-71e7-013d-b035-6aefbe74c9fe/img/cat-5.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/64452710-72be-013d-1441-523a1da96555/img/cat-5.png)
     
     ### 2024 Catalog
     
@@ -164,7 +164,6 @@ Search
     * [Social Emotional Learning](https://nationalautismresources.com/social-emotional-learning-sel/)
     * [Visual Supports](https://nationalautismresources.com/visual-supports/)
     * [Focus Helpers](https://nationalautismresources.com/focus-helpers/)
-    * [Social Skills](https://nationalautismresources.com/social-skills/)
     * [Life Skills](https://nationalautismresources.com/life-skills/)
     * [Literacy](https://nationalautismresources.com/school-tools/reading-literacy/)
     * [Math](https://nationalautismresources.com/teaching-supplies/math/)
@@ -182,6 +181,7 @@ Search
     * [Preschool](https://nationalautismresources.com/gifts/preschool/)
     * [Toddler](https://nationalautismresources.com/gifts/toddler/)
     * [Sensory Toys](https://nationalautismresources.com/sensory-ot/sensory-toys/)
+    * [Fidgets](https://nationalautismresources.com/fidgets/)
     * [Cause & Effect](https://nationalautismresources.com/toys-gifts/cause-and-effect/)
     * [Fine Motor](https://nationalautismresources.com/fine-motor/)
     * [Hand-Eye Coordination](https://nationalautismresources.com/hand-eye-coordination/)
@@ -327,7 +327,7 @@ Join our eNewsletter for updates, tips, and news!
 
 Email Address
 
-![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/3cf15850-71e7-013d-b035-6aefbe74c9fe/img/footer-logo.png)
+![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/a791e650-3b68-013d-7865-764da16fe72f/e/64452710-72be-013d-1441-523a1da96555/img/footer-logo.png)
 
 ### Account
 
