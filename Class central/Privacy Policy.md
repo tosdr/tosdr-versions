@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
-2. [\[2024\] 200+ Free Courses to Learn About History](https://www.classcentral.com/report/history-free-online-courses/)
-3. [\[2024\] 300+ Philosophy Courses You Can Take for Free](https://www.classcentral.com/report/philosophy-free-online-courses/)
-4. [From Zero to Cybersecurity Analyst: How Google’s Certificate Can Launch Your Career](https://www.classcentral.com/report/google-cybersecurity-certificate-launch-your-career/)
-5. [100 Top FutureLearn Courses of All Time](https://www.classcentral.com/report/futurelearn-top-courses/)
+1. [\[2024\] 100 Top Pluralsight Courses of All Time](https://www.classcentral.com/report/pluralsight-top-courses/)
+2. [5 Best Botany Courses for 2024](https://www.classcentral.com/report/best-botany-courses/)
+3. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
+4. [\[2024\] 200+ Free Courses to Learn About History](https://www.classcentral.com/report/history-free-online-courses/)
+5. [\[2024\] 300+ Philosophy Courses You Can Take for Free](https://www.classcentral.com/report/philosophy-free-online-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -418,34 +418,34 @@ Most common
     
 2. graphic design
     
-3. French
+3. web development
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Data Analysis
     
-    13,284 courses](https://www.classcentral.com/subject/web-development)
-2. [Computer Science
+    8,377 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Digital Marketing
     
-    39,298 courses](https://www.classcentral.com/subject/cs)
-3. [Artificial Intelligence
+    5,940 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Ethical Hacking
     
-    12,328 courses](https://www.classcentral.com/subject/ai)
+    2,207 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 ---------------
 
-1. [The Emergence of the Modern Middle East - Part I
+1. [Introducción a la inversión bursátil
     
-    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
-2. [Organic Chemistry 1
+    Universitat Politècnica de València](https://www.classcentral.com/course/stocks-universitat-politecnica-de-valencia-introd-5316)
+2. [Understanding the GDPR
     
-    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
-3. [L'Italiano nel mondo
+    University of Groningen](https://www.classcentral.com/course/general-data-protection-regulation-9403)
+3. [Bitcoin and Cryptocurrency Technologies
     
-    University of Naples Federico II](https://www.classcentral.com/course/italian-universita-degli-studi-di-napoli-federico-9241)
+    Princeton University](https://www.classcentral.com/course/bitcointech-3655)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
