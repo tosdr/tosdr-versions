@@ -305,7 +305,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Красов](https://er.ru/activity/news?tags%5B0%5D=10499) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
 
-Сегодня 16:21
+22.10.24
 
 [![Ирина Яровая: Законопроекты о противодействии нелегальной миграции позволят обеспечить безопасность граждан России](https://cdn.er.ru/media/news/October2024/1aDW0p78SdM4XEq2W1pa-small.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-o-protivodejstvii-nelegalnoj-migracii-pozvolyat-obespechit-bezopasnost-grazhdan-rossii)
 
@@ -313,7 +313,7 @@
 
 [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#миграция](https://er.ru/activity/news?tags%5B0%5D=203) [#миграционнаяполитика](https://er.ru/activity/news?tags%5B0%5D=117360) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
-Сегодня 14:40
+22.10.24
 
 [![«Единая Россия» обеспечит новые жилищные гарантии военнослужащим](https://cdn.er.ru/media/news/October2024/N6UmVwOUjDvhYT1U6SHk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-novye-zhilishnye-garantii-voennosluzhashim)
 
@@ -321,7 +321,7 @@
 
 [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328) [#недвижимость](https://er.ru/activity/news?tags%5B0%5D=1466) [#дети-инвалиды](https://er.ru/activity/news?tags%5B0%5D=7929)
 
-Сегодня 11:34
+22.10.24
 
 [![«Единая Россия» отправила гуманитарную помощь в Белгородскую область](https://cdn.er.ru/media/news/October2024/VKLoHtunPR92XksSIwaC-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-otpravila-gumanitarnuyu-pomosh-v-belgorodskuyu-oblast)
 
@@ -329,7 +329,7 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
 
-Сегодня 09:57
+22.10.24
 
 [![Мир равноправных государств: когда страны Запада смогут присоединиться к БРИКС. Интервью Андрея Климова «Парламентской газете»](https://cdn.er.ru/media/news/October2024/NpmeLYgFVhxB82ELVDFQ-small.jpg)](https://er.ru/activity/news/mir-ravnopravnyh-gosudarstv-kogda-strany-zapada-smogut-prisoedinitsya-k-briks-intervyu-andreya-klimova-parlamentskoj-gazete)
 
@@ -337,7 +337,7 @@
 
 [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#парламентскаягазета](https://er.ru/activity/news?tags%5B0%5D=143617) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#ЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=29001)
 
-Сегодня 09:00
+22.10.24
 
 [![«Единая Россия»: Началась регистрация волонтёров на мероприятия к 80-летию Великой Победы](https://cdn.er.ru/media/news/October2024/AivobEXHGaNwOyOYFYSv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-nachalas-registraciya-volontyorov-na-meropriyatiya-k-80-letiyu-velikoj-pobedy)
 
