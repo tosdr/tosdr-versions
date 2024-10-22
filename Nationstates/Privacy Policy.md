@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (11,811)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (11,811 posts)")
-* [Word association (II) (5,919)](https://forum.nationstates.net/viewtopic.php?t=530261&f=25&view=unread#unread ""Word association (II)" (5,919 posts)")
-* [Change a Letter (2,222)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,222 posts)")
-* [Your favorite part of AN’s forum sig XI (2,947)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,947 posts)")
-* [Acronymize AN’s name (289)](https://forum.nationstates.net/viewtopic.php?t=548523&f=25&view=unread#unread ""Acronymize AN’s name" (289 posts)")
+* [American Politics: Remember, Remember… (2,324)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (2,324 posts)")
+* [Moldova says Yes to the EU 20/10; cou… (24)](https://forum.nationstates.net/viewtopic.php?t=557347&f=20&view=unread#unread ""Moldova says Yes to the EU 20/10; could re-elect Sandu 03/11" (24 posts)")
+* [Ukrainian War VII: Everything has a p… (7,804)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,804 posts)")
+* [GCF T20 World Cup 17: Everything thre… (82)](https://forum.nationstates.net/viewtopic.php?t=556622&f=7&view=unread#unread ""GCF T20 World Cup 17: Everything thread (MD6 posted)" (82 posts)")
+* [911, what is your \[not\] emergency? (716)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (716 posts)")
 
 Advertisement
 
