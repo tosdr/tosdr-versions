@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [\[2024\] 300+ Philosophy Courses You Can Take for Free](https://www.classcentral.com/report/philosophy-free-online-courses/)
-2. [From Zero to Cybersecurity Analyst: How Google’s Certificate Can Launch Your Career](https://www.classcentral.com/report/google-cybersecurity-certificate-launch-your-career/)
-3. [100 Top FutureLearn Courses of All Time](https://www.classcentral.com/report/futurelearn-top-courses/)
-4. [\[2024\] 600+ Free Courses to Learn JavaScript, React, Node](https://www.classcentral.com/report/javascript-online-courses/)
-5. [\[2024\] 200+ edX Courses That Are Completely Free](https://www.classcentral.com/report/edx-free-online-courses/)
+1. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
+2. [\[2024\] 200+ Free Courses to Learn About History](https://www.classcentral.com/report/history-free-online-courses/)
+3. [\[2024\] 300+ Philosophy Courses You Can Take for Free](https://www.classcentral.com/report/philosophy-free-online-courses/)
+4. [From Zero to Cybersecurity Analyst: How Google’s Certificate Can Launch Your Career](https://www.classcentral.com/report/google-cybersecurity-certificate-launch-your-career/)
+5. [100 Top FutureLearn Courses of All Time](https://www.classcentral.com/report/futurelearn-top-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -416,9 +416,9 @@ Most common
 
 1. digital marketing
     
-2. trading
+2. project management
     
-3. html
+3. web development
     
 
 Popular subjects
