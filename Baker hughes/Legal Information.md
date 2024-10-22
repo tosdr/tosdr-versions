@@ -525,7 +525,7 @@ Select your language English日本語
                 
             * [Maintenance Services](https://www.bakerhughes.com/turbomachinery-services/maintenance-services)
                 
-            * [Total Lifecycle Services](https://www.bakerhughes.com/ts/total-lifecycle-services)
+            * [Total Lifecycle Services](https://www.bakerhughes.com/turbomachinery-services/total-lifecycle-services)
                 
             
         * [Centrifugal Pumps](https://www.bakerhughes.com/)
@@ -1488,7 +1488,7 @@ Search
                 
             * [Maintenance Services](https://www.bakerhughes.com/turbomachinery-services/maintenance-services)
                 
-            * [Total Lifecycle Services](https://www.bakerhughes.com/ts/total-lifecycle-services)
+            * [Total Lifecycle Services](https://www.bakerhughes.com/turbomachinery-services/total-lifecycle-services)
                 
             
         * [Centrifugal Pumps](https://www.bakerhughes.com/)
