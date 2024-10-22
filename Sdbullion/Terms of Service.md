@@ -3066,7 +3066,7 @@ An employee of SD Bullion, Inc. will not be eligible to win a giveaway or sweeps
 
 **These terms of use are subject to change at anytime without notice.**
 
-  ![Three Billion Transactions Image](https://sdbullion.com/media/wysiwyg/footer/over-4-billion-in-trusted-transactions_1_.png)
+  ![over 5 billion in trusted transactions](/wysiwyg/footer/over-5-billion-in-trusted-transactions-sd-bullion_1_.png) loading="lazy" />
 
   [![Phone Icon](https://sdbullion.com/media/wysiwyg/footer/phone-icon-min.png)](tel:18002948732)
 
