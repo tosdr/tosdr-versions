@@ -135,6 +135,21 @@ Atos homepage](https://atos.net/en/)
         
 * Insights
     * <<
+    * [Newsroom](https://atos.net/en/newsroom)˅
+        
+        Press releases
+        --------------
+        
+        * [Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance](https://atos.net/en/2024/uncategorized_2024_10_16/atos-launches-its-experience-operations-center-in-partnership-with-nexthink-to-empower-digital-workplace-performance)
+        * [Atos Group and AWS launch Global GenAI Innovation Studio to accelerate AI-powered business transformation](https://atos.net/en/2024/press-release_2024_10_15/atos-group-and-aws-launch-global-genai-innovation-studio-to-accelerate-ai-powered-business-transformation)
+        * [Atos appoints Philippe Salle Chairman of the Board of Directors with effect from October 14, 2024 and Chairman and Chief Executive Officer from February 01, 2025](https://atos.net/en/2024/press-release_2024_10_15/atos-appoints-philippe-salle-chairman-of-the-board-of-directors-with-effect-from-october-14-2024-and-chairman-and-chief-executive-officer-from-february-01-2025)
+        
+        ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Oct 16, 2024
+        
+        ### Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance
+        
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
         * [Atos Research Community](https://atos.net/en/atos-research-community)
@@ -195,21 +210,6 @@ Atos homepage](https://atos.net/en/)
         Oct 24, 2024 - Oct 24, 2024
         
         ### Trefdag Vlaanderen Digitaal
-        
-    * [Newsroom](https://atos.net/en/newsroom)˅
-        
-        Press releases
-        --------------
-        
-        * [Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance](https://atos.net/en/2024/uncategorized_2024_10_16/atos-launches-its-experience-operations-center-in-partnership-with-nexthink-to-empower-digital-workplace-performance)
-        * [Atos Group and AWS launch Global GenAI Innovation Studio to accelerate AI-powered business transformation](https://atos.net/en/2024/press-release_2024_10_15/atos-group-and-aws-launch-global-genai-innovation-studio-to-accelerate-ai-powered-business-transformation)
-        * [Atos appoints Philippe Salle Chairman of the Board of Directors with effect from October 14, 2024 and Chairman and Chief Executive Officer from February 01, 2025](https://atos.net/en/2024/press-release_2024_10_15/atos-appoints-philippe-salle-chairman-of-the-board-of-directors-with-effect-from-october-14-2024-and-chairman-and-chief-executive-officer-from-february-01-2025)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        Oct 16, 2024
-        
-        ### Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance
         
 * ˅[About Us](#)
     * <<
@@ -379,12 +379,6 @@ Atos’ Group Data Protection team creates an annual Data Protection report high
 * [![Follow us on Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.facebook.com/Atos)
 * [![Follow us on Instagram](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.instagram.com/atosinside/)
 * [![Follow us on Youtube](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.youtube.com/user/Atos)
-
-* [Homepage](https://atos.net/en)
-* [Accessibility Statement](https://atos.net/en/accessibility-statement)
-* [Privacy](https://atos.net/en/privacy)
-* [Terms of use](https://atos.net/en/terms-and-conditions)
-* © Atos SE 2024 all rights reserved
 
 * [Homepage](https://atos.net/en)
 * [Accessibility Statement](https://atos.net/en/accessibility-statement)
