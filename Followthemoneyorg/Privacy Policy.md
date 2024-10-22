@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
-
-Microsoft spread its state political giving pretty evenly, 2005-2008.
+[![Independent Spending by Type of Office Targeted, 2009–2016](/assets/Images/teasers/small/IS.JPG)](https://www.followthemoney.org/research/institute-reports/independent-spending-overview-2015-and-2016)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
