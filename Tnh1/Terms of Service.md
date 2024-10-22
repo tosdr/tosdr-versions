@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_cb297ab093.png)
-
-está internado
-
-Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")   [![Faculdade na Jatiúca oferta serviços gratuitos e casamento coletivo nesta terça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/0/csm_casamento_coletivo_eea2b1f27c.jpeg)
-
-veja serviços
-
-Faculdade na Jatiúca oferta serviços gratuitos e casamento coletivo nesta terça](https://www.tnh1.com.br/noticia/nid/faculdade-na-jatiuca-oferta-servicos-gratuitos-e-casamento-coletivo-nesta-terca/ "Faculdade na Jatiúca oferta serviços gratuitos e casamento coletivo nesta terça")   [![Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_suspeitos-arrastoes-praca-skate_dea9ced7aa.jpg)
-
-oito menores
-
-Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde](https://www.tnh1.com.br/noticia/nid/dez-pessoas-sao-detidas-por-arrastao-na-praca-do-skate-e-roubos-na-orla-de-ponta-verde/ "Dez pessoas são detidas por arrastão na Praça do Skate e roubos na orla de Ponta Verde")   [![Homem morre e outro fica ferido após serem atingidos por tiros enquanto conversavam em rua](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_vitima-atentado-tiros-tabuleiro_5d856fb28b.jpg)
-
-Na parte alta
-
-Homem morre e outro fica ferido após serem atingidos por tiros enquanto conversavam em rua](https://www.tnh1.com.br/noticia/nid/homem-morre-e-outro-fica-ferido-apos-serem-atingidos-por-tiros-enquanto-conversavam-em-rua/ "Homem morre e outro fica ferido após serem atingidos por tiros enquanto conversavam em rua")   [![Maceió ganha novas áreas de espera em semáforos para motociclistas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/1/csm_semaforo_motociclistas_ascom_dmtt_41c9659a9c.jpeg)
-
-Motobox
-
-Maceió ganha novas áreas de espera em semáforos para motociclistas](https://www.tnh1.com.br/noticia/nid/maceio-ganha-novas-areas-de-espera-em-semaforos-para-motociclistas/ "Maceió ganha novas áreas de espera em semáforos para motociclistas")   [![Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_capa-pajugamer_d288ae4f79.jpg)
+   [![Carro é destruído por incêndio no Vale do Reginaldo; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_carro_incendio_050355a302.png)
 
 Maceió
 
-Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-2024-confira-o-que-vai-rolar-neste-sabado-no-maceio-shopping/ "Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping")
+Carro é destruído por incêndio no Vale do Reginaldo; veja vídeo](https://www.tnh1.com.br/noticia/nid/carro-e-destruido-por-incendio-no-vale-do-reginaldo-veja-video/ "Carro é destruído por incêndio no Vale do Reginaldo; veja vídeo")   [![Feijoada beneficente arrecadará recursos para time de Futsal Down competir no Rio de Janeiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_time_futsal_amor_21_foto_divulgacao_c1e3a3ee05.jpg)
+
+amor 21
+
+Feijoada beneficente arrecadará recursos para time de Futsal Down competir no Rio de Janeiro](https://www.tnh1.com.br/noticia/nid/feijoada-beneficente-arrecadara-recursos-para-time-de-futsal-down-competir-no-rio-de-janeiro/ "Feijoada beneficente arrecadará recursos para time de Futsal Down competir no Rio de Janeiro")   [![Geladeira é encontrada pendurada em cima de árvore na Fernandes Lima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_geladeira-encontrada-arvore_2fd705bb1f.jpg)
+
+em ciclovia
+
+Geladeira é encontrada pendurada em cima de árvore na Fernandes Lima](https://www.tnh1.com.br/noticia/nid/geladeira-e-encontrada-pendurada-em-cima-de-arvore-na-fernandes-lima/ "Geladeira é encontrada pendurada em cima de árvore na Fernandes Lima")   [![Motociclista morre após ser atingido por carro no bairro de Pescaria](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_acidente_pescaria_-_foto_reproducao_25d6898b7e.jpg)
+
+Em Maceió
+
+Motociclista morre após ser atingido por carro no bairro de Pescaria](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-ser-atingido-por-carro-no-bairro-de-pescaria/ "Motociclista morre após ser atingido por carro no bairro de Pescaria")   [![Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/5/csm_mina_tv_02af3f8bdd.png)
+
+Maceió
+
+Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo](https://www.tnh1.com.br/noticia/nid/mineradora-suspende-preenchimento-da-mina-27-na-lagoa-mundau-entenda-o-motivo/ "Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo ")    [![Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_morto-tiros-caminhada-santos-dumont_ddc00df490.jpg)
+
+No Santos Dumont
+
+Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-morto-e-esposa-fica-ferida-em-atentado-a-tiros-durante-caminhada-em-maceio/ "Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Arena Pajugamer 2024: confira o que vai rolar neste sábado, no Maceió Shopping
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_meteorologia-previsao-alagoas-semarh_ceaa3a4949.png)
+   [![Internada na UTI, criança com síndrome rara é batizada no HGE ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_22102024_SESAU_HGE_BATIZADO_HUMANIZACAO__TA___3__ddd9de800d.jpg)
+
+Dandy-Walker
+
+Internada na UTI, criança com síndrome rara é batizada no HGE](https://www.tnh1.com.br/noticia/nid/internada-na-uti-crianca-com-sindrome-rara-e-batizada-no-hge/ "Internada na UTI, criança com síndrome rara é batizada no HGE ")   [![Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_meteorologia-previsao-alagoas-semarh_ceaa3a4949.png)
 
 Alagoas
 
-Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://www.tnh1.com.br/noticia/nid/confira-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-22/ "Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)")   [![Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/c/csm_macaco-capturado-satuba-reproducao-IMA_f27d53c423.png)
+Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://www.tnh1.com.br/noticia/nid/confira-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-22/ "Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)")   [![Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/c/csm_macaco-capturado-satuba-reproducao-IMA_f27d53c423.png)
 
 EM SATUBA
 
-Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-macaco-bugio-e-capturado-por-equipes-do-ima/ "Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA")   [![Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_policia-cientifica-identifica-corpo-de-caminhoneiro-encontrado-em-palmeira-dos-indios_33cadc09cd.jpeg)
+Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-macaco-bugio-e-capturado-por-equipes-do-ima/ "Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA")   [![Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_policia-cientifica-identifica-corpo-de-caminhoneiro-encontrado-em-palmeira-dos-indios_33cadc09cd.jpeg)
 
 sobrou na pista
 
-Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://www.tnh1.com.br/noticia/nid/caminhoneiro-que-morreu-afogado-apos-acidente-no-interior-de-al-e-identificado/ "Caminhoneiro que morreu afogado após acidente no interior de AL é identificado")   [![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_095402c392.jpg)
+Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://www.tnh1.com.br/noticia/nid/caminhoneiro-que-morreu-afogado-apos-acidente-no-interior-de-al-e-identificado/ "Caminhoneiro que morreu afogado após acidente no interior de AL é identificado")   [![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_095402c392.jpg)
 
 Educação
 
-Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://www.tnh1.com.br/noticia/nid/alagoas-vai-discutir-educacao-no-sistema-prisional-em-encontro-nacional-no-ceara/ "Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará")   [![Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/4/csm_transito_celular_-_foto_fellipe_yuri_ascom_detran_d040c0a8ab.jpg)
+Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://www.tnh1.com.br/noticia/nid/alagoas-vai-discutir-educacao-no-sistema-prisional-em-encontro-nacional-no-ceara/ "Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará")   [![Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_transito_celular_-_foto_fellipe_yuri_ascom_detran_d040c0a8ab.jpg)
 
 Em Alagoas
 
-Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano](https://www.tnh1.com.br/noticia/nid/detran-registra-mais-de-94-mil-infracoes-relacionadas-ao-uso-de-telefone-celular-este-ano/ "Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano")   [![Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/d/csm_com-apoio-do-governo-de-alagoas-praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf_5ad91ee449.jpg)
-
-Alagoas
-
-Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www.tnh1.com.br/noticia/nid/praia-do-frances-recebe-campeonato-alagoano-e-taca-brasil-de-surf/ "Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf")
+Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano](https://www.tnh1.com.br/noticia/nid/detran-registra-mais-de-94-mil-infracoes-relacionadas-ao-uso-de-telefone-celular-este-ano/ "Detran registra mais de 9,4 mil infrações relacionadas ao uso de telefone celular este ano")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Praia do Francês recebe Campeonato Alagoano e Taça Brasil de Surf](https://www
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_adriano_farias_arquivo_pessoal_15c4a2d4a9.png)
+   [![Dupla em moto é suspeita de matar homem durante caminhada; veja linha de investigação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/8/csm_homicidio_santos_dumont_-_foto_pc-al_9b95e587a6.png)
+
+No Santos Dumont
+
+Dupla em moto é suspeita de matar homem durante caminhada; veja linha de investigação](https://www.tnh1.com.br/noticia/nid/dupla-em-moto-e-suspeita-de-matar-homem-durante-caminhada-veja-linha-de-investigacao/ "Dupla em moto é suspeita de matar homem durante caminhada; veja linha de investigação")   [![Vídeo: suspeito de tentar matar motociclista após briga de trânsito é indiciado ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/f/csm_tentativa_homicidio_acidente_234f74f31f.png)
 
 Polícia
 
-Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/policia-civil-indicia-dois-suspeitos-de-participar-da-morte-de-blogueiro-em-junqueiro/ "Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ")   [![Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_homem-preso-frto-qualificado-ponta-verde_56b0e9cc24.png)
+Vídeo: suspeito de tentar matar motociclista após briga de trânsito é indiciado](https://www.tnh1.com.br/noticia/nid/video-suspeito-de-tentar-matar-motociclista-apos-briga-de-transito-e-indiciado/ "Vídeo: suspeito de tentar matar motociclista após briga de trânsito é indiciado ")   [![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_c916caa863.png)
 
-Polícia
+dano em equipamentos
 
-Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-de-invadir-e-furtar-lojas-na-ponta-verde-cameras-flagraram-crimes/ "Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ")   [![Idoso é preso por estuprar menina de 14 anos, filha de mulher com quem se relacionava](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/c/csm_viatura_policia_civil_pc_al_0ce7875128.jpeg)
+Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-de-app-tem-ataque-de-furia-e-causa-destruicao-na-entrada-de-condominio-em-maceio/ "Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió")   [![Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/c/csm_morto-tiros-caminhada-santos-dumont_ddc00df490.jpg)
 
-nesta segunda
+No Santos Dumont
 
-Idoso é preso por estuprar menina de 14 anos, filha de mulher com quem se relacionava](https://www.tnh1.com.br/noticia/nid/idoso-e-preso-por-estuprar-menina-de-14-anos-filha-de-mulher-com-quem-se-relacionava/ "Idoso é preso por estuprar menina de 14 anos, filha de mulher com quem se relacionava")   [![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_cb297ab093.png)
+Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-morto-e-esposa-fica-ferida-em-atentado-a-tiros-durante-caminhada-em-maceio/ "Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió")   [![Após denúncia, polícia encontra cogumelos alucinógenos, cocaína e outras drogas em residência](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/2/csm_equipe_raio_pm_alagoas_-_rep_instagram_e46060f381.jpg)
 
-está internado
+Cidade Universitária
 
-Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")   [![Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_cavalo-maltratado-reproducao_050838da44.jpg)
+Após denúncia, polícia encontra cogumelos alucinógenos, cocaína e outras drogas em residência](https://www.tnh1.com.br/noticia/nid/apos-denuncia-policia-encontra-cogumelos-alucinogenos-cocaina-e-outras-drogas-em-residencia/ "Após denúncia, polícia encontra cogumelos alucinógenos, cocaína e outras drogas em residência")   [![Homem tem sofá e objetos de casa furtados por vizinho enquanto viajava ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_660afc5ab8.jpg)
 
-somente em 2024
+Na Parte Alta
 
-Maceió registra quase 200 casos de maus-tratos a animais em 2024](https://www.tnh1.com.br/noticia/nid/maceio-registra-quase-200-casos-de-maus-tratos-a-animais-em-2024/ "Maceió registra quase 200 casos de maus-tratos a animais em 2024")   [![Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/6/csm_mulher-presa-matar-ex-padrasto_7afd2af19f.jpg)
-
-Golpe na cabeça
-
-Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-suspeita-de-matar-ex-padrasto-com-facao-apos-ela-e-mae-serem-ameacadas/ "Mulher é presa suspeita de matar ex-padrasto com facão após ela e mãe serem ameaçadas")
+Homem tem sofá e objetos de casa furtados por vizinho enquanto viajava](https://www.tnh1.com.br/noticia/nid/homem-tem-sofa-e-objetos-de-casa-furtados-por-vizinho-enquanto-viajava/ "Homem tem sofá e objetos de casa furtados por vizinho enquanto viajava ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -210,7 +210,15 @@ Brasil
 
 Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão
 
-Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_abordagem_da_pm_jacintinho_c4501b0d87.jpg)
+Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/8/csm_governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo_7d1c51df81.jpg)
+
+Educação
+
+Educação
+
+Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”
+
+Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://www.tnh1.com.br/noticia/nid/governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo/ "Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”")[![Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_abordagem_da_pm_jacintinho_c4501b0d87.jpg)
 
 Grota do Cigano
 
@@ -218,57 +226,49 @@ Grota do Cigano
 
 Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência
 
-Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://www.tnh1.com.br/noticia/nid/videos-abordagem-da-pm-termina-em-confusao-e-protesto-em-maceio-comunidade-reclama-de-truculencia/ "Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência")[![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_fd798a520c.png)
+Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://www.tnh1.com.br/noticia/nid/videos-abordagem-da-pm-termina-em-confusao-e-protesto-em-maceio-comunidade-reclama-de-truculencia/ "Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência")[![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_77333cf3bb.png)
 
-está internado
+dano em equipamentos
 
-está internado
+dano em equipamentos
 
-Homem pula do 4º andar para tentar escapar da polícia em Maceió
+Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió
 
-Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")[![Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/7/csm_liam-payne-ultima-foto-reproducao-redes-sociais_cc72f933ed.jpg)
+Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-de-app-tem-ataque-de-furia-e-causa-destruicao-na-entrada-de-condominio-em-maceio/ "Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió")
 
-Tráfico de drogas
+[![Piloto que treinou atores de 'Top Gun' morre após avião cair nos EUA](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_Piloto_que_treinou_atores_de__Top_Gun__morre_apos_aviao_cair_nos_EUA_-_foto_Reproducao_-_Site_Chuck_Coleman_5287d224e7.jpg)
 
-Tráfico de drogas
+maverick
 
-Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista
+maverick
 
-Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://www.tnh1.com.br/noticia/nid/funcionario-do-hotel-pode-ser-indiciado-por-morte-de-liam-payne-revela-revista/ "Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista")
+Piloto que treinou atores de 'Top Gun' morre após avião cair nos EUA
 
-[!['Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_montagem-diddy-liam-reproducao-redes-sociais_a279cd99e0.jpg)
+Piloto que treinou atores de 'Top Gun' morre após avião cair nos EUA](https://www.tnh1.com.br/noticia/nid/piloto-que-treinou-atores-de-top-gun-morre-apos-aviao-cair-nos-eua/ "Piloto que treinou atores de 'Top Gun' morre após avião cair nos EUA")[![Mulher fica presa de cabeça para baixo por 7 horas ao tentar pegar celular](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_Mulher_fica_presa_de_cabeca_para_baixo_por_7_horas_ao_tentar_pegar_celular_-_foto_Reproducao_NSW_Ambulance_669817f6b8.jpg)
 
-perigoso coquetel
+escorregou
 
-perigoso coquetel
+escorregou
 
-'Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy
+Mulher fica presa de cabeça para baixo por 7 horas ao tentar pegar celular
 
-'Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy](https://www.tnh1.com.br/noticia/nid/cocaina-rosa-encontrada-no-corpo-de-liam-payne-tambem-esta-presente-em-processo-do-rapper-diddy/ "'Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy")[![Influenciador é expulso de baile no RJ em confusão com traficantes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_1_hytalo_santos-40861248_f8e461a3a6.jpg)
+Mulher fica presa de cabeça para baixo por 7 horas ao tentar pegar celular](https://www.tnh1.com.br/noticia/nid/mulher-fica-presa-de-cabeca-para-baixo-por-7-horas-ao-tentar-pegar-celular/ "Mulher fica presa de cabeça para baixo por 7 horas ao tentar pegar celular")[![Lula faz nova bateria de exames em hospital após queda no banheiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_Presidente_Lula_-_foto_Ricardo_Stuckert_-_PR_4d4dfa4f74.jpg)
 
-Confusão
+Brasil
 
-Confusão
+Brasil
 
-Influenciador é expulso de baile no RJ em confusão com traficantes
+Lula faz nova bateria de exames em hospital após queda no banheiro
 
-Influenciador é expulso de baile no RJ em confusão com traficantes](https://www.tnh1.com.br/noticia/nid/influenciador-e-expulso-de-baile-no-rj-em-confusao-com-traficantes/ "Influenciador é expulso de baile no RJ em confusão com traficantes")[![Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_Flamenguista_-roqueiro-_exorcista-Natal_11b56ead61.png)
+Lula faz nova bateria de exames em hospital após queda no banheiro](https://www.tnh1.com.br/noticia/nid/lula-faz-nova-bateria-de-exames-em-hospital-apos-queda-no-banheiro/ "Lula faz nova bateria de exames em hospital após queda no banheiro")[![Internada na UTI, criança com síndrome rara é batizada no HGE ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_22102024_SESAU_HGE_BATIZADO_HUMANIZACAO__TA___3__c0f8c0362c.jpg)
 
-foi nomeado
+Dandy-Walker
 
-foi nomeado
+Dandy-Walker
 
-Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal
+Internada na UTI, criança com síndrome rara é batizada no HGE
 
-Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal](https://www.tnh1.com.br/noticia/nid/flamenguista-e-roqueiro-quem-e-o-padre-que-atuara-como-exorcista-em-natal/ "Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal")[![Saiba como identificar se Ozempic e outros medicamentos são falsificados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_csm_ozempic_fa13d14371_fffd996311.jpg)
-
-riscos à saúde
-
-riscos à saúde
-
-Saiba como identificar se Ozempic e outros medicamentos são falsificados
-
-Saiba como identificar se Ozempic e outros medicamentos são falsificados](https://www.tnh1.com.br/noticia/nid/saiba-como-identificar-se-ozempic-e-outros-medicamentos-sao-falsificados/ "Saiba como identificar se Ozempic e outros medicamentos são falsificados")
+Internada na UTI, criança com síndrome rara é batizada no HGE](https://www.tnh1.com.br/noticia/nid/internada-na-uti-crianca-com-sindrome-rara-e-batizada-no-hge/ "Internada na UTI, criança com síndrome rara é batizada no HGE ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
