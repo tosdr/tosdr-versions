@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,21 +53,77 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 256 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 258 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 106 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 86 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 91 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 19 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 9 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 5 files
+* [Seth Jenkins](https://packetstormsecurity.com/files/authors/16492) 4 files
 * [Emiliano Febbi](https://packetstormsecurity.com/files/authors/16637) 4 files
-* [Seth Jenkins](https://packetstormsecurity.com/files/authors/16492) 3 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[NVIDIA Computer Finds Largest Known Prime, Blows Past Record By 16 Million Digits](https://packetstormsecurity.com/news/view/36505/NVIDIA-Computer-Finds-Largest-Known-Prime-Blows-Past-Record-By-16-Million-Digits.html)
+
+Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:48 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36505/) | [View](https://gizmodo.com/nvidia-computer-finds-largest-known-prime-blows-past-record-by-16-million-digits-2000514948)
+
+[Data Storage In Spotlight Of Italian Security Committee After Intesa Breach](https://packetstormsecurity.com/news/view/36504/Data-Storage-In-Spotlight-Of-Italian-Security-Committee-After-Intesa-Breach.html)
+
+Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:46 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [italy](https://packetstormsecurity.com/news/tags/italy)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36504/) | [View](https://www.reuters.com/technology/cybersecurity/data-storage-spotlight-italian-security-committee-after-intesa-breach-2024-10-22/)
+
+[Detective Charged With Purchasing Stolen Credentials](https://packetstormsecurity.com/news/view/36502/Detective-Charged-With-Purchasing-Stolen-Credentials.html)
+
+Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:34 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36502/) | [View](https://www.securityweek.com/us-police-detective-charged-with-purchasing-stolen-credentials/)
+
+[Nidec Confirms Data Stolen In Ransomware Attack](https://packetstormsecurity.com/news/view/36498/Nidec-Confirms-Data-Stolen-In-Ransomware-Attack.html)
+
+Posted [Oct 21, 2024](https://packetstormsecurity.com/news/date/2024-10-21/ "12:32:47 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [japan](https://packetstormsecurity.com/news/tags/japan), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36498/) | [View](https://www.securityweek.com/electric-motor-giant-nidec-confirms-data-stolen-in-ransomware-attack/)
+
+[Cisco Confirms Security Incident After Hacker Offers To Sell Data](https://packetstormsecurity.com/news/view/36497/Cisco-Confirms-Security-Incident-After-Hacker-Offers-To-Sell-Data.html)
+
+Posted [Oct 21, 2024](https://packetstormsecurity.com/news/date/2024-10-21/ "12:32:42 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36497/) | [View](https://www.securityweek.com/cisco-confirms-security-incident-after-hacker-offers-to-sell-data/)
+
+[Grafana Critical Vulnerability Risks Remote Code Execution](https://packetstormsecurity.com/news/view/36496/Grafana-Critical-Vulnerability-Risks-Remote-Code-Execution.html)
+
+Posted [Oct 21, 2024](https://packetstormsecurity.com/news/date/2024-10-21/ "12:32:37 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36496/) | [View](https://www.scworld.com/news/grafana-critical-vulnerability-risks-remote-code-execution)
+
+[Internet Archive Exposed Again – This Time Through Zendesk](https://packetstormsecurity.com/news/view/36495/Internet-Archive-Exposed-Again-This-Time-Through-Zendesk.html)
+
+Posted [Oct 21, 2024](https://packetstormsecurity.com/news/date/2024-10-21/ "12:32:32 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36495/) | [View](https://www.theregister.com/2024/10/21/internet_archive_zendesk_access_attack/)
 
 [North Korean APT Exploited IE Zero Day In Supply Chain Attack](https://packetstormsecurity.com/news/view/36494/North-Korean-APT-Exploited-IE-Zero-Day-In-Supply-Chain-Attack.html)
 
@@ -92,62 +148,6 @@ Posted [Oct 18, 2024](https://packetstormsecurity.com/news/date/2024-10-18/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [apple](https://packetstormsecurity.com/news/tags/apple), [safari](https://packetstormsecurity.com/news/tags/safari)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36492/) | [View](https://www.securityweek.com/microsoft-macos-vulnerability-potentially-exploited-in-adware-attacks/)
-
-[Threat Actors Exploit Zero Days Within 5 Days, Says Mandiant](https://packetstormsecurity.com/news/view/36491/Threat-Actors-Exploit-Zero-Days-Within-5-Days-Says-Mandiant.html)
-
-Posted [Oct 18, 2024](https://packetstormsecurity.com/news/date/2024-10-18/ "14:06:48 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [google](https://packetstormsecurity.com/news/tags/google), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36491/) | [View](https://www.scworld.com/news/threat-actors-exploit-zero-days-within-5-days-says-googles-mandiant)
-
-[Intel Hits Back At China's Accusations It Bakes In NSA Backdoors](https://packetstormsecurity.com/news/view/36490/Intel-Hits-Back-At-Chinas-Accusations-It-Bakes-In-NSA-Backdoors.html)
-
-Posted [Oct 18, 2024](https://packetstormsecurity.com/news/date/2024-10-18/ "14:06:39 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [intel](https://packetstormsecurity.com/news/tags/intel)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36490/) | [View](https://www.theregister.com/2024/10/18/intel_china_security_allegations/)
-
-[Cicada3301 Ransomware Affiliate Program Infiltrated By Security Researchers](https://packetstormsecurity.com/news/view/36489/Cicada3301-Ransomware-Affiliate-Program-Infiltrated-By-Security-Researchers.html)
-
-Posted [Oct 18, 2024](https://packetstormsecurity.com/news/date/2024-10-18/ "14:06:24 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36489/) | [View](https://www.scworld.com/news/cicada3301-ransomware-affiliate-program-infiltrated-by-security-researchers)
-
-[Alleged Bitcoin Hacker Searched 'Signs The FBI Is After You'](https://packetstormsecurity.com/news/view/36488/Alleged-Bitcoin-Hacker-Searched-Signs-The-FBI-Is-After-You.html)
-
-Posted [Oct 18, 2024](https://packetstormsecurity.com/news/date/2024-10-18/ "14:06:07 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [fbi](https://packetstormsecurity.com/news/tags/fbi), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36488/) | [View](https://www.bbc.com/news/articles/c20pvkg35xyo)
-
-[Deepfake Lovers Swindle Victims Out Of $46M In Hong Kong AI Scam](https://packetstormsecurity.com/news/view/36487/Deepfake-Lovers-Swindle-Victims-Out-Of-46M-In-Hong-Kong-AI-Scam.html)
-
-Posted [Oct 17, 2024](https://packetstormsecurity.com/news/date/2024-10-17/ "13:18:10 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [china](https://packetstormsecurity.com/news/tags/china), [botnet](https://packetstormsecurity.com/news/tags/botnet), [fraud](https://packetstormsecurity.com/news/tags/fraud), [scam](https://packetstormsecurity.com/news/tags/scam)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36487/) | [View](https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/)
-
-[F5 BIG-IP Updates Patch High Severity Privilege Escalation](https://packetstormsecurity.com/news/view/36486/F5-BIG-IP-Updates-Patch-High-Severity-Privilege-Escalation.html)
-
-Posted [Oct 17, 2024](https://packetstormsecurity.com/news/date/2024-10-17/ "13:18:05 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36486/) | [View](https://www.securityweek.com/f5-big-ip-updates-patch-high-severity-elevation-of-privilege-vulnerability/)
-
-[Anonymous Sudan DDoS Service Disrupted, Members Charged By US](https://packetstormsecurity.com/news/view/36485/Anonymous-Sudan-DDoS-Service-Disrupted-Members-Charged-By-US.html)
-
-Posted [Oct 17, 2024](https://packetstormsecurity.com/news/date/2024-10-17/ "13:17:59 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [africa](https://packetstormsecurity.com/news/tags/africa)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36485/) | [View](https://www.securityweek.com/anonymous-sudan-ddos-service-disrupted-members-charged-by-us/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2468983105&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2468983105.1729610033.1729610033.1729610033.1%3B%2B__utmz%3D32867617.1729610033.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2198579650&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2198579650.1729631119.1729631119.1729631119.1%3B%2B__utmz%3D32867617.1729631119.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
