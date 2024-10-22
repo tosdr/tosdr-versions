@@ -820,7 +820,7 @@ Other notices and information
 
 ### We have over 27 offices across 4 continents
 
-![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=045c074fac11430daa17b706aa5d540d&hash=5FF54396C1D1C58C956BBE00BF48A792)
+![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=1a2a199976de4266b464b21b8b260f26&hash=08C7A71833F0A0B043FC2CC883536235)
 
 [Find your nearest office](https://www.pinsentmasons.com/office-finder)
 
