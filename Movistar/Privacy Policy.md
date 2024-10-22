@@ -243,7 +243,7 @@ Móvil
 
 * [Tarifas móvil](https://www.movistar.es/tarifas-moviles/ "Tarifas móvil")
 * [Datos ilimitados](https://www.movistar.es/tarifas-moviles/datos-ilimitados/ "Datos ilimitados")
-* [Tarifas prepago](https://www.movistar.es/tarifas-moviles/prepago/ "Tarifas prepago")
+* [2 líneas móvil ilimitadas](https://www.movistar.es/tarifas-moviles/tarifa-ilimitada-2-lineas/ "2 líneas móvil ilimitadas")
 * [Portabilidad móvil](https://www.movistar.es/atencion-cliente/portabilidad "Portabilidad móvil")
 * [Roaming](https://www.movistar.es/tarifas-moviles/roaming/ "Roaming")
 
