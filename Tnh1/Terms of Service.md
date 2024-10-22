@@ -128,11 +128,7 @@ Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](http
 
 Pessoas & Negócios
 
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -206,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
+[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
 
 Tesouro escondido
 
@@ -214,7 +210,7 @@ Tesouro escondido
 
 Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda
 
-Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_velorio_bebe_e064e439ef.png)
+Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_velorio_bebe_e064e439ef.png)
 
 Brasil
 
@@ -222,7 +218,7 @@ Brasil
 
 Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão
 
-Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
+Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
 
 Na Levada
 
@@ -230,7 +226,7 @@ Na Levada
 
 Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas
 
-Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
+Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
 
 Mercado de Trabalho
 
@@ -240,39 +236,39 @@ Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja c
 
 Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")
 
-[![Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/8/csm_governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo_7d1c51df81.jpg)
+[!['Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_montagem-diddy-liam-reproducao-redes-sociais_a279cd99e0.jpg)
 
-Educação
+perigoso coquetel
 
-Educação
+perigoso coquetel
 
-Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”
+'Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy
 
-Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://www.tnh1.com.br/noticia/nid/governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo/ "Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”")[![Arena Pajugamer tem adesão recorde do público na terceira edição do evento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_Arena_Pajugamer_2_29fa179018.jpg)
+'Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy](https://www.tnh1.com.br/noticia/nid/cocaina-rosa-encontrada-no-corpo-de-liam-payne-tambem-esta-presente-em-processo-do-rapper-diddy/ "'Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy")[![Influenciador é expulso de baile no RJ em confusão com traficantes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_1_hytalo_santos-40861248_f8e461a3a6.jpg)
 
-Conteúdo de Marca
+Confusão
 
-Conteúdo de Marca
+Confusão
 
-Arena Pajugamer tem adesão recorde do público na terceira edição do evento
+Influenciador é expulso de baile no RJ em confusão com traficantes
 
-Arena Pajugamer tem adesão recorde do público na terceira edição do evento](https://www.tnh1.com.br/noticia/nid/arena-pajugamer-tem-adesao-recorde-do-publico-na-terceira-edicao-do-evento/ "Arena Pajugamer tem adesão recorde do público na terceira edição do evento")[![Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_adriano_farias_arquivo_pessoal_8df82efc15.png)
+Influenciador é expulso de baile no RJ em confusão com traficantes](https://www.tnh1.com.br/noticia/nid/influenciador-e-expulso-de-baile-no-rj-em-confusao-com-traficantes/ "Influenciador é expulso de baile no RJ em confusão com traficantes")[![Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_Flamenguista_-roqueiro-_exorcista-Natal_11b56ead61.png)
 
-Polícia
+foi nomeado
 
-Polícia
+foi nomeado
 
-Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro
+Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal
 
-Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro](https://www.tnh1.com.br/noticia/nid/policia-civil-indicia-dois-suspeitos-de-participar-da-morte-de-blogueiro-em-junqueiro/ "Polícia Civil indicia dois suspeitos de participar da morte de blogueiro em Junqueiro ")[![Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_homem-preso-frto-qualificado-ponta-verde_ffca39a990.png)
+Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal](https://www.tnh1.com.br/noticia/nid/flamenguista-e-roqueiro-quem-e-o-padre-que-atuara-como-exorcista-em-natal/ "Flamenguista e roqueiro: quem é o padre que atuará como exorcista em Natal")[![Saiba como identificar se Ozempic e outros medicamentos são falsificados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_csm_ozempic_fa13d14371_fffd996311.jpg)
 
-Polícia
+riscos à saúde
 
-Polícia
+riscos à saúde
 
-Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes
+Saiba como identificar se Ozempic e outros medicamentos são falsificados
 
-Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-de-invadir-e-furtar-lojas-na-ponta-verde-cameras-flagraram-crimes/ "Polícia prende suspeito de invadir e furtar lojas na Ponta Verde; câmeras flagraram crimes ")
+Saiba como identificar se Ozempic e outros medicamentos são falsificados](https://www.tnh1.com.br/noticia/nid/saiba-como-identificar-se-ozempic-e-outros-medicamentos-sao-falsificados/ "Saiba como identificar se Ozempic e outros medicamentos são falsificados")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
