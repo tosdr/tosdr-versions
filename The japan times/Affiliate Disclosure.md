@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425784.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.")](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
 
-[Japan's Empress Emerita Michiko turns 90](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
+[Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
 
-  [![Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428836.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ")](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
+  [![Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429047.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.")](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
 
 Editors' Picks
 --------------
@@ -184,13 +184,11 @@ By [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan") 
 
   [![A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425784.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.")](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
-[Japan's Empress Emerita Michiko turns 90](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
+[Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428836.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Empress Emerita Michiko and her husband, Emperor Emeritus Akihito, stroll around the Akasaka Imperial Palace grounds in Tokyo this month. ")](https://www.japantimes.co.jp/news/2024/10/20/japan/empress-emerita-michiko-90-birthday/ "Japan's Empress Emerita Michiko turns 90")
+  [![Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429047.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.")](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
 
 Podcast
 -------
@@ -211,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,19 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Tokyo High Court rejects damages claim over Ontake eruption deaths](https://www.japantimes.co.jp/news/2024/10/21/japan/crime-legal/tokyo-high-court-ontake-ruling/ "Tokyo High Court rejects damages claim over Ontake eruption deaths")
+[Moldova votes in favor of EU membership by thin margin despite influence](https://www.japantimes.co.jp/news/2024/10/22/world/politics/moldova-eu-membership-thin-margin/ "Moldova votes in favor of EU membership by thin margin despite influence")
 
-10 hours ago
+31 mins ago
 
-[Japan to test community-based support systems to aid truant children](https://www.japantimes.co.jp/news/2024/10/21/japan/society/truants-community-support/ "Japan to test community-based support systems to aid truant children")
+[Harris and Trump pick up the pace two weeks before Election Day](https://www.japantimes.co.jp/news/2024/10/22/world/politics/harris-trump-election-day/ "Harris and Trump pick up the pace two weeks before Election Day")
 
-11 hours ago
+53 mins ago
 
-[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+[Shadow of Ukraine war hangs over Putin's BRICS summit in Russia](https://www.japantimes.co.jp/news/2024/10/22/world/politics/ukraine-war-putin-brics-russia/ "Shadow of Ukraine war hangs over Putin's BRICS summit in Russia")
 
-[78% of electric bidet toilet accidents involve older models, report finds](https://www.japantimes.co.jp/news/2024/10/21/japan/society/toilet-seat-damages-injuries/ "78% of electric bidet toilet accidents involve older models, report finds")
+1 hours ago
 
-[Former Olympic gymnast Chieko Tsukahara dies at 77](https://www.japantimes.co.jp/sports/2024/10/21/tsukahara-gymnast-obituary/ "Former Olympic gymnast Chieko Tsukahara dies at 77")
+[F-35B fighter makes first landing on de facto aircraft carrier Kaga](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
+
+1 hours ago
+
+[New cases of political violence roil U.S. before contentious election](https://www.japantimes.co.jp/news/2024/10/22/world/politics/political-violence-cases-us-election/ "New cases of political violence roil U.S. before contentious election")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
