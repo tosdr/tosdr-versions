@@ -43,7 +43,7 @@ About
 * [Careers](https://www.simonsfoundation.org/careers/)
 * [Summer at Simons](https://www.simonsfoundation.org/summer-at-simons/)
 * [Contact Us](https://www.simonsfoundation.org/contact-us/)
-* [COVID-19](https://www.simonsfoundation.org/covid-19/)
+* [COVID-19](https://www.simonsfoundation.org/?page_id=62107/)
 
 [](#search)
 
@@ -79,7 +79,6 @@ About
     * [Careers](https://www.simonsfoundation.org/careers)
     * [Summer at Simons](https://www.simonsfoundation.org/summer-at-simons)
     * [Contact Us](https://www.simonsfoundation.org/contact-us)
-    * [COVID-19](https://www.simonsfoundation.org/covid-19)
 
 Terms and Conditions
 ====================
@@ -767,8 +766,6 @@ Continue
                 
             * [Contact](https://www.simonsfoundation.org/flatiron/about#contact)
                 
-            * [COVID-19](https://www.simonsfoundation.org/flatiron/fi-covid-19/)
-                
             * [Diversity, Equity & Inclusion](#)
                 
                 * [Diversity, Equity & Inclusion](https://www.simonsfoundation.org/diversity-equity-inclusion/)
@@ -860,8 +857,6 @@ Continue
     * [Summer at Simons](https://www.simonsfoundation.org/summer-at-simons/)
         
     * [Contact Us](https://www.simonsfoundation.org/contact-us/)
-        
-    * [COVID-19](https://www.simonsfoundation.org/covid-19/)
         
     
 
