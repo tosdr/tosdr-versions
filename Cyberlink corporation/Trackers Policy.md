@@ -167,12 +167,11 @@ Once the periods in paragraphs (1), (2) and (3) above, each to the extent applic
 Third Party Services
 ====================
 
-When you use our services, you may have access to services provided by third-party service providers. For example, you may upload videos into YouTube via our Mobile App or Computer Software; or enable YouTube Live Streaming services upon usage of our Computer Software. You agree to be bound by the separate and independent privacy policies and/or Terms of Service of these third party service providers shown below:
+When you use our services, you may have access to services provided by third-party service providers. Please read the following sections for certain usage restrictions.
 
-* YouTube API Services Terms of Service ([https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms))
-* Google Privacy Policy ([https://policies.google.com/privacy](https://policies.google.com/privacy))
-* Google's security settings ([https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions))
-* TikTok Privacy Policy ([https://www.tiktok.com/legal/page/row/privacy-policy/en](https://www.tiktok.com/legal/page/row/privacy-policy/en)) and Terms of Service ([https://www.tiktok.com/legal/page/row/terms-of-service/en](https://www.tiktok.com/legal/page/row/terms-of-service/en))
+* For usage of YouTube API services , you agree to be bound by YouTube API Services Terms of Service ([https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms))
+* For usage of Google services, you agree to be bound by Google Privacy Policy ([https://policies.google.com/privacy](https://security.google.com/settings/security/permissions)) and Google's security settings ([https://security.google.com/settings/security/permissions](https://policies.google.com/privacy))
+* For usage of TikTok services, you agree to be bound by TikTok Privacy Policy ([https://www.tiktok.com/legal/page/row/privacy-policy/en](https://www.tiktok.com/legal/page/row/privacy-policy/en)) and Terms of Service ([https://www.tiktok.com/legal/page/row/terms-of-service/en](https://www.tiktok.com/legal/page/row/terms-of-service/en))
 
 Children's guidelines
 =====================
