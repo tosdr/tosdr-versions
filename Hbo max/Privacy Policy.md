@@ -129,6 +129,17 @@ Europe
 
 [Svenska](https://www.hbomax.com/privacy/legal-bases/sv-emea "Europe - Swedish Legal Bases Chart")
 
+Asia Pacific
+------------
+
+### Privacy Policy
+
+[English](https://www.hbomax.com/privacy/en-apac "Asia - English Privacy Policy")
+
+### Legal Bases Chart
+
+[English](https://www.hbomax.com/privacy/legal-bases/en-apac "Asia - English Privacy Policy")
+
 [Privacy Policy](https://www.hbomax.com/privacy)[Children's Privacy Policy](https://www.hbomax.com/privacy/children)[Terms of Use](https://www.hbomax.com/terms-of-use)
 
 [Do Not Sell My Personal Information](#compliance-link)
