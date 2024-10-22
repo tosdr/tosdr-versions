@@ -34,9 +34,9 @@ Navigation
         
         #### [Navy identifies 2 aviators killed in growler crash near Mount Rainier](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
         
-    *  [![](https://media.king5.com/assets/KING/images/438f935a-f781-4567-b168-8b6c4688e0ba/20241021T144402/438f935a-f781-4567-b168-8b6c4688e0ba_16x9.jpg) ![](https://media.king5.com/assets/KING/images/438f935a-f781-4567-b168-8b6c4688e0ba/20241021T144402/438f935a-f781-4567-b168-8b6c4688e0ba_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-lake-alice-homicides/281-596e4109-b25e-4317-a217-f3bde5cc016d)
+    *  [![](https://media.king5.com/assets/KING/images/95f6de15-2e6f-49ab-8ac8-3d75b06c6999/20241022T015335/95f6de15-2e6f-49ab-8ac8-3d75b06c6999_16x9.jpg) ![](https://media.king5.com/assets/KING/images/95f6de15-2e6f-49ab-8ac8-3d75b06c6999/20241022T015335/95f6de15-2e6f-49ab-8ac8-3d75b06c6999_360x203.jpg)](https://www.king5.com/article/news/politics/elections/washington-snohomish-king-skagit-counties-election-transparency-doubters/281-4baf74ad-896e-48fa-8c43-5c8078ba3f3c)
         
-        #### [‘Multiple school-age’ kids among victims in ‘tragic’ Fall City incident](https://www.king5.com/article/news/crime/fall-city-lake-alice-homicides/281-596e4109-b25e-4317-a217-f3bde5cc016d)
+        #### [Washington counties spend millions to make elections more transparent. It might not sway doubters](https://www.king5.com/article/news/politics/elections/washington-snohomish-king-skagit-counties-election-transparency-doubters/281-4baf74ad-896e-48fa-8c43-5c8078ba3f3c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d6c7436d-248e-4351-8fa9-9b75aac17980/20241021T193258/d6c7436d-248e-4351-8fa9-9b75aac17980_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d6c7436d-248e-4351-8fa9-9b75aac17980/20241021T193258/d6c7436d-248e-4351-8fa9-9b75aac17980_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/cd93e646-e69d-4c08-a64f-f5d60fae8743/20241022T020612/cd93e646-e69d-4c08-a64f-f5d60fae8743_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd93e646-e69d-4c08-a64f-f5d60fae8743/20241022T020612/cd93e646-e69d-4c08-a64f-f5d60fae8743_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+52°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
