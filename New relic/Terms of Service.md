@@ -360,7 +360,7 @@ Resources
 * [Press Releases](https://newrelic.com/about/newsroom)
 * [New Relic University](https://learn.newrelic.com/)
 * [Partner Program](https://newrelic.com/solutions/partners)
-* [2023 Observability Forecast](https://newrelic.com/observability-forecast/2023/state-of-observability)
+* [2024 Observability Forecast](https://newrelic.com/resources/report/observability-forecast/2024)
 
 FAQs
 
