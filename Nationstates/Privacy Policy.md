@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Create a word based on last two letters (393)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (393 posts)")
-* [Guess Who BN Is! (5,711)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,711 posts)")
-* [Australians protesting in favour of H… (461)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (461 posts)")
-* [NFL Football Thread 24-25: The Road t… (8,172)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,172 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (11,811)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (11,811 posts)")
+* [Word association (II) (5,919)](https://forum.nationstates.net/viewtopic.php?t=530261&f=25&view=unread#unread ""Word association (II)" (5,919 posts)")
+* [Change a Letter (2,222)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,222 posts)")
+* [Your favorite part of AN’s forum sig XI (2,947)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,947 posts)")
+* [Acronymize AN’s name (289)](https://forum.nationstates.net/viewtopic.php?t=548523&f=25&view=unread#unread ""Acronymize AN’s name" (289 posts)")
 
 Advertisement
 
