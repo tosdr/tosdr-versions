@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kweekvlees-slechter-dan-regulier-vlees/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/kosmisch-kanaal-berry-vincenta-chaos-op-aarde-maakt-andere-wegen-zichtbaar/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
