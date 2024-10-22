@@ -380,10 +380,12 @@ Consent
 * [Responsible disclosure](https://www.carsales.com.au/info/responsible-disclosure-program/?ret=carsales-desktop-footer)
 * [Terms and conditions](https://www.carsales.com.au/info/terms-conditions/?ret=carsales-desktop-footer "Terms and conditions")
 
-Download the carsales app
+Scan to download the carsales app
 
+* [](https://www.carsales.com.au/app?int_source=internal-linking&int_medium=footer&int_campaign=download-the-app&ret=carsales-desktop-footer)
 * [](https://apps.apple.com/au/app/carsales/id389044209?ret=carsales-desktop-footer)
 * [](https://play.google.com/store/apps/details?id=au.com.carsales&ret=carsales-desktop-footer)
+* [Want more info? Here’s our app landing page](https://www.carsales.com.au/app?int_source=internal-linking&int_medium=footer&int_campaign=click-here-download-the-app&ret=carsales-desktop-footer "Want more info? Here’s our app landing page")
 * App Store and the Apple logo are trademarks of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
 
 © carsales.com.au Pty Ltd 1999-2024
