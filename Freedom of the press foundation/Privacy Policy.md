@@ -200,6 +200,8 @@ Sign up to stay up to date and take action to protect journalists and sources ev
 
 Subscribe [See all newsletters](https://freedom.press/newsletters/)
 
+[Go to mailing list subscription page](https://freedom.press/newsletters/)
+
 Thanks for subscribing to Freedom of the Press Foundation's mailing list. We'll send you opportunities to take action on combating government secrecy, protesting mass surveillance, and protecting reporter's rights.
 
 ![A woman holding a Yes to Free Press sign](https://media.freedom.press/media/images/AP665211927868.2e16d0ba.fill-626x494.jpg)
