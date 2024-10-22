@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v119538539.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v120133963.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -813,16 +813,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
 
 Fußbereich
 
@@ -3855,16 +3855,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
 
 Weitere spannende Themen
 
@@ -3875,16 +3875,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
 
 Neueste Tests
 
@@ -3893,16 +3893,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
 
 Service Stiftung Warentest
 
