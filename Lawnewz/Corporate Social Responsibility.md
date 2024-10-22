@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Tara Alexis Sykes (Escambia County Sheriff's Office)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Tara-Alexis-Sykes-Escambia-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/never-seen-anything-quite-like-this-mom-instructed-10-year-old-to-kill-newborn-by-intentionally-dropping-baby-on-hard-tile-floor-police-say/)
+1. [![Donald Trump, Elon Musk](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24281826491357-432x243.jpg)](https://lawandcrime.com/high-profile/doj-aware-of-complaints-that-elon-musks-pro-trump-pac-cash-offer-million-dollar-lottery-for-registered-voters-is-clearly-illegal/)
     
-    ### ['Never seen anything quite like this': Mom instructed 10-year-old to kill newborn by intentionally dropping baby on hard tile floor, police say](https://lawandcrime.com/crime/never-seen-anything-quite-like-this-mom-instructed-10-year-old-to-kill-newborn-by-intentionally-dropping-baby-on-hard-tile-floor-police-say/)
+    ### [DOJ aware of complaints that Elon Musk's pro-Trump PAC million-dollar lottery for registered voters is 'clearly illegal' in this scenario](https://lawandcrime.com/high-profile/doj-aware-of-complaints-that-elon-musks-pro-trump-pac-cash-offer-million-dollar-lottery-for-registered-voters-is-clearly-illegal/)
     
-2. [![Background: Katy Perry arrives at an ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Katy-Perry-Benjamin-Glaze-432x243.jpg)](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
+2. [![Inset: Travis Merrill (Denton County Jail). Background: Authorities on the scene where Merrill allegedly killed a female co-worker (KDFW).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdf-3-432x243.jpg)](https://lawandcrime.com/crime/he-wanted-her-to-feel-pain-man-obsessed-with-co-worker-over-long-breaks-ambushed-and-killed-her-at-work-with-everyone-there-police-say/)
+    
+    ### ['He wanted her to feel pain': Man 'obsessed' with co-worker over long breaks 'ambushed' and killed her 'at work with everyone there,' police say](https://lawandcrime.com/crime/he-wanted-her-to-feel-pain-man-obsessed-with-co-worker-over-long-breaks-ambushed-and-killed-her-at-work-with-everyone-there-police-say/)
+    
+3. [![Zachary Radcliff](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Radcliff-432x243.jpg)](https://lawandcrime.com/crime/trump-loving-church-youth-leader-fawned-over-by-jerry-falwell-jr-had-sex-with-minors-solicited-explicit-photos-cops/)
+    
+    ### [Trump-loving church youth leader fawned over by Jerry Falwell Jr. had sex with minors, solicited explicit photos: Cops](https://lawandcrime.com/crime/trump-loving-church-youth-leader-fawned-over-by-jerry-falwell-jr-had-sex-with-minors-solicited-explicit-photos-cops/)
+    
+4. [![Background: Katy Perry arrives at an ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Katy-Perry-Benjamin-Glaze-432x243.jpg)](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
     
     ### ['American Idol' contestant who kissed Katy Perry in viral moment had child sexual abuse material on his cellphone: Police](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
     
-3. [![Brianna Moore Tampa](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Brianna-Moore-Tampa-432x243.jpg)](https://lawandcrime.com/crime/for-crying-out-loud-college-student-killed-newborn-girl-after-giving-birth-in-dorm-room-dumped-body-in-trash-can-before-taking-a-nap-officials-say/)
+5. [![Carly Gregg, Ashley Smylie, Kevin Gregg](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Carly-Gregg-Ashley-Smylie-Kevin-Gregg-432x243.jpg)](https://lawandcrime.com/crime/killer-teen-carly-gregg-loses-bid-for-new-trial-as-judge-rejects-notion-that-supposedly-new-evidence-would-change-anything/)
     
-    ### ['For crying out loud': College student killed newborn girl after giving birth in dorm room, dumped body in trash can before taking a nap, officials say](https://lawandcrime.com/crime/for-crying-out-loud-college-student-killed-newborn-girl-after-giving-birth-in-dorm-room-dumped-body-in-trash-can-before-taking-a-nap-officials-say/)
-    
-4. [![Donald Trump and Kamala Harris](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-Harris-432x243.jpg)](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
-    
-    ### ['Malicious, intentional and reckless': Exonerated 'Central Park Five' sue Trump for falsely telling 67 million people that they 'killed a person ultimately' and 'pled guilty'](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
-    
-5. [![Left to right: Fulton County Marshal's agents raiding the North Atlanta home and speaking to one of the accused squatters (FCMD).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/ASDF-1-432x243.jpg)](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
-    
-    ### [Throuple allegedly squatting in 'sprawling' Georgia mansion evicted by armed marshals after almost a year](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
+    ### [Killer teen Carly Gregg loses bid for another mom murder trial as judge scoffs at notion that biological dad's interview would have changed anything](https://lawandcrime.com/crime/killer-teen-carly-gregg-loses-bid-for-new-trial-as-judge-rejects-notion-that-supposedly-new-evidence-would-change-anything/)
     
 
 [](http://eepurl.com/c89Jdb)
