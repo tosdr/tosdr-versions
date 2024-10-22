@@ -75,7 +75,7 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![lifestyle image of raspberry pi 5 bumper.](https://cdn-shop.adafruit.com/230x173/6056-03.jpg)[Protective Silicone Bumper for Raspberry Pi 5
+    ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
     
     $3.00](https://www.adafruit.com/product/6056)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You can't see it if you don't look at it”
+“ You don't make progress by standing on the sidelines, whimpering and complaining. You make progress by implementing ideas”
 
-[Dan McKenna](http://books.google.com/books?id=3kY4-HYLqh0C&pg=PA60&lpg=PA60&dq=%22you+can%27t+see+it+if+you+don%27t+look+at+it%22+mckenna&source=bl&ots=oqJNEw26vj&sig=GuUscuvkmfuNbbiA-KaNAmORWmI&hl=en&ei=rKOoTbiQF4q4tweIpNTdBw&sa=X&oi=book_result&ct=result&resnum=1&ve)
+[Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm)
 
 [](https://www.adafruit.com/about)
 
