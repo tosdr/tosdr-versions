@@ -1,6 +1,8 @@
 [Login](https://command.thryv.com/)
 
-[![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
+[![Logo for Thryv small business software](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2084%2034'%3E%3C/svg%3E)
+
+![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
 * * [Products](https://www.thryv.com/)
         
@@ -82,7 +84,9 @@
             * [Small Business Guides](https://www.thryv.com/guides-resources)
             * [Podcasts](https://www.thryv.com/podcast-resources/)
             * [How to Videos](https://www.thryv.com/webinars-and-events/#how-to-thryv)
-        * * ![](/media/map-franchise.png)
+        * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20212%2069'%3E%3C/svg%3E)
+                
+                ![](/media/map-franchise.png)
                 
                 Franchise &  
                 Multi-Location
@@ -116,7 +120,9 @@
     
     [GET A DEMO](https://www.thryv.com/schedule-demo/)
 
-[![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
+[![Logo for Thryv small business software](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2084%2034'%3E%3C/svg%3E)
+
+![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
 menu
 
@@ -139,7 +145,7 @@ menu
         * [CRM](https://www.thryv.com/features/customer-relationship-management/)
         * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
         * [Automated Reviews](https://www.thryv.com/features/automated-reviews/)
-        * [Social Media Content](https://www.thryv.com/features/social-media/)
+        * [Social Media Management](https://www.thryv.com/features/social-media/)
         * [COMMAND CENTER](https://www.thryv.com/command-center/)
             
             See communication from multiple channels in a single easy-to-use inbox.
@@ -204,6 +210,8 @@ menu
     * [Log In](https://command.thryv.com/)
         
     
+
+![Thryv, Inc.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20407%20115'%3E%3C/svg%3E)
 
 ![Thryv, Inc.](/media/logo-thryv_407x115_RGB.png)
 
@@ -295,16 +303,32 @@ Click the link below for the terms that apply to your purchase
 * [Online Listings Management](https://www.thryv.com/solutions/online-listings-management/)
 * [Other Brands Help](https://www.thryv.com/help/)
 
-[![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
+[![Logo for Thryv small business software](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2084%2034'%3E%3C/svg%3E)
+
+![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
+
+![thryver](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2094'%3E%3C/svg%3E)
 
 ![thryver](/media/thryver-peaking2.png)
 
-* [![Facebook logo](/media/facebook-logo.png)](https://www.facebook.com/Thryv)
-* [![Instagram logo](/media/instagram-logo.png)](https://www.instagram.com/getthryv/)
-* [![Youtube logo](/media/youtube-logo.png)](https://www.youtube.com/Thryv)
-* [![Linkedin logo](/media/linkedin-logo.png)](https://www.linkedin.com/company/thryvinc)
-* [![Google logo](/media/google-logo-new.png)](https://g.co/kgs/zUgh9z)
-* [![TikTok logo](/media/tiktok-logo.png)](https://www.tiktok.com/@getthryv)
+* [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Facebook logo](/media/facebook-logo.png)](https://www.facebook.com/Thryv)
+* [![Instagram logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2029'%3E%3C/svg%3E)
+    
+    ![Instagram logo](/media/instagram-logo.png)](https://www.instagram.com/getthryv/)
+* [![Youtube logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2021'%3E%3C/svg%3E)
+    
+    ![Youtube logo](/media/youtube-logo.png)](https://www.youtube.com/Thryv)
+* [![Linkedin logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Linkedin logo](/media/linkedin-logo.png)](https://www.linkedin.com/company/thryvinc)
+* [![Google logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+    
+    ![Google logo](/media/google-logo-new.png)](https://g.co/kgs/zUgh9z)
+* [![TikTok logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2033'%3E%3C/svg%3E)
+    
+    ![TikTok logo](/media/tiktok-logo.png)](https://www.tiktok.com/@getthryv)
 
 Copyright @ 2024 Thryv, Inc.
 
@@ -333,6 +357,10 @@ Why don’t you try Thryv to see if it’s meant to be? Enjoy a 2-week trial on 
 
 [Free Trial](https://www.thryv.com/schedule-demo/)
 
+![Screenshot of the messaging functionality within the Thryv small business management platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20394%20263'%3E%3C/svg%3E)
+
 ![Screenshot of the messaging functionality within the Thryv small business management platform](/media/thryv-product-shot-messaging.png)
+
+![Thryv guy intercom button](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20111'%3E%3C/svg%3E)
 
 ![Thryv guy intercom button](/media/thryv-intercom-launcher2.png)
