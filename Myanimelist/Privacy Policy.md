@@ -50,6 +50,7 @@ View all results for ${ keyword }
     * [Report](https://myanimelist.net/modules.php?go=report&_location=mal_h_m)
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
+* [![Halloween 2024](https://cdn.myanimelist.net/images/event/2023_maloween/icon.png)](https://myanimelist.net/forum/?topicid=2185305&utm_source=MAL&utm_medium=globalmenu&utm_content=announce)
 
 MyAnimeList Privacy Policy
 ==========================
