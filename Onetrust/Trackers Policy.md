@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [PIA and DPIA demo webinar with Data Privacy Group](https://www.onetrust.com/resources/pia-and-dpia-demo-webinar-with-data-privacy-group-webinar/)
 * [Mastering US opt-out requirements: A practical guide for marketers](https://www.onetrust.com/resources/mastering-us-opt-out-requirements-a-practical-guide-for-marketers-ebook/)
 * [Transforming data privacy and governance with OneTrust and Snowflake](https://www.onetrust.com/resources/transforming-data-privacy-and-governance-with-onetrust-and-snowflake-video/)
-* [The marketer's first-party data checklist](https://www.onetrust.com/resources/the-marketers-first-party-data-checklist/)
 
 ### Platform
 
@@ -197,9 +197,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
+* [OneTrust Recognized as Leader in Snowflake’s Modern Marketing Data Stack Report](https://www.onetrust.com/news/onetrust-recognized-as-leader-in-snowflakes-modern-marketing-data-stack-report/)
 * [OneTrust unveils the next generation of DataGuidance Regulatory Research](https://www.onetrust.com/news/onetrust-unveils-the-next-generation-of-dataguidance-regulatory-research/)
 * [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.onetrust.com/news/onetrust-automates-dora-ict-risk-management-and-compliance/)
-* [OneTrust Customers Saw 227% ROI, New Study Reveals](https://www.onetrust.com/news/independent-study-shows-companies-using-onetrust-increased-revenue-and-decreased-costs/)
 
 ### Contact Us
 
