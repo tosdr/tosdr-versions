@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Service Stiftung Warentest
 
