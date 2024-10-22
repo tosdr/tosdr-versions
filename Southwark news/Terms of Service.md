@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
+    ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
+    [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+    
+    ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+    
+    [![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-360x180.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+    
+    ### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+    
+    [![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+    
+    ### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+    
     [![London Ambulance Service was called to Webber Street following reports of a stabbing. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-Ambulance-Service-was-called-to-Webber-Street-following-reports-of-a-stabbing.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
     
     ### [Man rushed to hospital after ‘stabbing’ in Borough](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
@@ -39,22 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
     
     ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
-    
-    ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
-    
-    [![Gloucester Grove leaseholders are urging Southwark Council to get a grip on the estate's heating anomales](https://southwarknews.co.uk/wp-content/uploads/2024/07/Gloucester-Grove-leaseholders-are-urging-Southwark-Council-to-get-a-grip-on-the-estates-heating-anomales-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
-    
-    ### [Could Southwark’s district heating crisis shape the course of national energy policy?](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/athena-kugblenu-360x180.jpg)](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-    
-    ### [Our pick of the best things to do in South London](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-    
-    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
-    
-    ### [‘I’m pushing for breakfast clubs at all primary schools,’ says MP Helen Hayes](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
+    ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
+    
+    [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+    
+    ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+    
+    [![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-360x180.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+    
+    ### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+    
+    [![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+    
+    ### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+    
     [![London Ambulance Service was called to Webber Street following reports of a stabbing. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-Ambulance-Service-was-called-to-Webber-Street-following-reports-of-a-stabbing.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
     
     ### [Man rushed to hospital after ‘stabbing’ in Borough](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
@@ -120,22 +136,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
     
     ### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
-    
-    ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
-    
-    [![Gloucester Grove leaseholders are urging Southwark Council to get a grip on the estate's heating anomales](https://southwarknews.co.uk/wp-content/uploads/2024/07/Gloucester-Grove-leaseholders-are-urging-Southwark-Council-to-get-a-grip-on-the-estates-heating-anomales-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
-    
-    ### [Could Southwark’s district heating crisis shape the course of national energy policy?](https://southwarknews.co.uk/area/peckham/could-southwarks-district-heating-crisis-shape-the-course-of-national-energy-policy/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/athena-kugblenu-360x180.jpg)](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-    
-    ### [Our pick of the best things to do in South London](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-    
-    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
-    
-    ### [‘I’m pushing for breakfast clubs at all primary schools,’ says MP Helen Hayes](https://southwarknews.co.uk/area/dulwich/im-pushing-for-breakfast-clubs-at-all-primary-schools-says-mp-helen-hayes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -216,6 +216,12 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 
 [17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
 
+[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
@@ -229,13 +235,25 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 
 [16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
 
-[![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-
-### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-
-[15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-
 ### Featured Articles
+
+[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+
+[![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-120x86.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+
+### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+
+[21st October 2024](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+
+[![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+
+### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+
+[21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
 [![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
 
@@ -254,24 +272,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
 
 [20th October 2024](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/athena-kugblenu-120x86.jpg)](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-
-### [Our pick of the best things to do in South London](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-
-[20th October 2024](https://southwarknews.co.uk/news/community/our-pick-of-the-best-things-to-do-in-south-london/)
-
-[![CGI image of West Site](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-image-of-West-Site-120x86.jpg)](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
-
-### [Building of more than 500 new homes in Elephant and Castle one step closer](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
-
-[19th October 2024](https://southwarknews.co.uk/featured/building-of-more-than-500-new-homes-in-elephant-and-castle-one-step-closer/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-120x86.png)](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
-
-### [BMX Star Kye Whyte pays visit to pupils at Bermondsey school](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
-
-[19th October 2024](https://southwarknews.co.uk/area/peckham/bmx-star-kye-whyte-pays-visit-to-pupils-at-bermondsey-school/)
 
 ### USEFUL PAGES
 
