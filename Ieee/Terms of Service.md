@@ -274,7 +274,6 @@ Related information
 
 IEEE Help Main Menu
 
-* [Join IEEE or an IEEE Society](https://www.ieee.org/about/help/my-account/join-ieee-or-an-ieee-society.html)
 * [Create an IEEE Account](https://www.ieee.org/about/help/my-account/web-account.html)
 
  The below terms and conditions govern your use of all IEEE Web sites unless noted otherwise by a Web site in its own terms of use.
