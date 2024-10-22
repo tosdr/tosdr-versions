@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 671 1
+0 692 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-gif/hachibi-kurama-and-shukaku-naruto-created-by-aricks137/)
+[](https://yiff-party.com/yiff/copyright-and-etc-created-by-1danielscott/)
 
-[hachibi, kurama, and shukaku (naruto) created by aricks137](https://yiff-party.com/yiff-gif/hachibi-kurama-and-shukaku-naruto-created-by-aricks137/)
+[copyright and etc created by 1danielscott](https://yiff-party.com/yiff/copyright-and-etc-created-by-1danielscott/)
 
-0 3 0
+0 2 0
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/wendell-epic-games-and-etc-created-by-koko2unite/)
+[](https://yiff-party.com/yiff/mythology-created-by-ramzymo/)
 
-[wendell (epic games and etc) created by koko2unite](https://yiff-party.com/yiff/wendell-epic-games-and-etc-created-by-koko2unite/)
+[mythology created by ramzymo](https://yiff-party.com/yiff/mythology-created-by-ramzymo/)
 
-0 76 0
+0 77 0
 
 September 22, 2024
 
-[](https://yiff-party.com/yiff/dogmeat-directed-by-jackson-maxston-director/)
+[](https://yiff-party.com/yiff-ai-premium/death-directed-by-styx343/)
 
-[dogmeat directed by jackson maxston (director)](https://yiff-party.com/yiff/dogmeat-directed-by-jackson-maxston-director/)
+[death directed by styx343](https://yiff-party.com/yiff-ai-premium/death-directed-by-styx343/)
 
-0 131 0
+0 57 0
 
 September 22, 2024
 
