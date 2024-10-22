@@ -153,7 +153,6 @@
     * [Bellroy](https://www.mycoolingstore.com/bellroy.html)
     * [Dometic](https://www.mycoolingstore.com/dometic.html)
     * [Chaheati](https://www.mycoolingstore.com/chaheati.html)
-    * [Poler](https://www.mycoolingstore.com/poler.html)
     * [Outdoor Research Apparel and Gear](https://www.mycoolingstore.com/outdoor-research.html)
     * [Thule Travel Products](https://www.mycoolingstore.com/thule.html)
     * [Kamik](https://www.mycoolingstore.com/kamik.html)
