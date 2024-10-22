@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Donald Trump and Kamala Harris](https://lawandcrime.com/wp-content/uploads/2024/10/Trump-Harris-432x243.jpg)](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
+1. [![Tara Alexis Sykes (Escambia County Sheriff's Office)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Tara-Alexis-Sykes-Escambia-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/never-seen-anything-quite-like-this-mom-instructed-10-year-old-to-kill-newborn-by-intentionally-dropping-baby-on-hard-tile-floor-police-say/)
+    
+    ### ['Never seen anything quite like this': Mom instructed 10-year-old to kill newborn by intentionally dropping baby on hard tile floor, police say](https://lawandcrime.com/crime/never-seen-anything-quite-like-this-mom-instructed-10-year-old-to-kill-newborn-by-intentionally-dropping-baby-on-hard-tile-floor-police-say/)
+    
+2. [![Background: Katy Perry arrives at an ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Katy-Perry-Benjamin-Glaze-432x243.jpg)](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
+    
+    ### ['American Idol' contestant who kissed Katy Perry in viral moment had child sexual abuse material on his cellphone: Police](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
+    
+3. [![Brianna Moore Tampa](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Brianna-Moore-Tampa-432x243.jpg)](https://lawandcrime.com/crime/for-crying-out-loud-college-student-killed-newborn-girl-after-giving-birth-in-dorm-room-dumped-body-in-trash-can-before-taking-a-nap-officials-say/)
+    
+    ### ['For crying out loud': College student killed newborn girl after giving birth in dorm room, dumped body in trash can before taking a nap, officials say](https://lawandcrime.com/crime/for-crying-out-loud-college-student-killed-newborn-girl-after-giving-birth-in-dorm-room-dumped-body-in-trash-can-before-taking-a-nap-officials-say/)
+    
+4. [![Donald Trump and Kamala Harris](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-Harris-432x243.jpg)](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
     
     ### ['Malicious, intentional and reckless': Exonerated 'Central Park Five' sue Trump for falsely telling 67 million people that they 'killed a person ultimately' and 'pled guilty'](https://lawandcrime.com/lawsuit/malicious-intentional-and-reckless-exonerated-central-park-five-sue-trump-for-falsely-telling-67-million-people-that-they-killed-a-person-ultimately-and-pled-guilty/)
     
-2. [![Kyle Coolack and Brad Coolack](https://lawandcrime.com/wp-content/uploads/2024/10/Kyle-Coolack-and-Brad-Coolack-432x243.jpg)](https://lawandcrime.com/crime/you-slept-with-my-wife-man-murdered-soldier-brother-when-confronted-about-affair-with-victims-spouse-while-he-was-deployed-overseas-cops-say/)
-    
-    ### ['You slept with my wife!': Man murdered soldier brother when confronted about affair with victim's spouse while he was deployed overseas, cops say](https://lawandcrime.com/crime/you-slept-with-my-wife-man-murdered-soldier-brother-when-confronted-about-affair-with-victims-spouse-while-he-was-deployed-overseas-cops-say/)
-    
-3. [![Left to right: Fulton County Marshal's agents raiding the North Atlanta home and speaking to one of the accused squatters (FCMD).](https://lawandcrime.com/wp-content/uploads/2024/10/ASDF-1-432x243.jpg)](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
+5. [![Left to right: Fulton County Marshal's agents raiding the North Atlanta home and speaking to one of the accused squatters (FCMD).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/ASDF-1-432x243.jpg)](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
     
     ### [Throuple allegedly squatting in 'sprawling' Georgia mansion evicted by armed marshals after almost a year](https://lawandcrime.com/crime/throuple-allegedly-squatting-in-sprawling-georgia-mansion-evicted-by-armed-marshals-after-almost-a-year/)
-    
-4. [![Donald Trump, Michael Cohen](https://lawandcrime.com/wp-content/uploads/2024/05/Donald-Trump-Michael-Cohen-432x243.jpg)](https://lawandcrime.com/high-profile/michael-cohen-bid-to-revive-lawsuit-against-trump-just-failed-at-the-supreme-court/)
-    
-    ### [Michael Cohen's long shot attempt to sue Trump for 'retaliatory imprisonment' over tell-all book just flopped at the Supreme Court](https://lawandcrime.com/high-profile/michael-cohen-bid-to-revive-lawsuit-against-trump-just-failed-at-the-supreme-court/)
-    
-5. [![Cristian Gasca Martinez and Osvaldo Casas](https://lawandcrime.com/wp-content/uploads/2024/10/Cristian-Gasca-Martinez-and--432x243.jpg)](https://lawandcrime.com/crime/in-retaliation-for-being-rejected-stalking-teen-arrested-for-murdering-girl-crushs-stepfather-whose-baby-was-born-just-3-days-after-he-was-laid-to-rest-cops-say/)
-    
-    ### ['In retaliation for being rejected': Stalking teen arrested for murdering girl crush's stepfather whose baby was born just 3 days after he was laid to rest, cops say](https://lawandcrime.com/crime/in-retaliation-for-being-rejected-stalking-teen-arrested-for-murdering-girl-crushs-stepfather-whose-baby-was-born-just-3-days-after-he-was-laid-to-rest-cops-say/)
     
 
 [](http://eepurl.com/c89Jdb)
