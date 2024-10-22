@@ -10,7 +10,7 @@ The browser version you’re using is no longer supported. Update to a newer ver
 
 [Help](https://www.sixt.com/help-center/)
 
-[Rental information](https://www.sixt.com/rental-information/)
+[Rental information](https://www.sixt.com/pages/rental-information/)
 
 [SIXT for business](https://corporate.sixt.com/?utm_source=sixt.com&utm_medium=retail-website-referral&utm_campaign=US_US_btob_SITEWIDE-FOOTER_ALL_GT&utm_content=Textlink-BusinessCustomer&utm_term=b2b_ref)
 
