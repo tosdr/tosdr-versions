@@ -202,15 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_moedas-guerra-civil-americana-ncg-coins_f979f12197.jpg)
-
-Tesouro escondido
-
-Tesouro escondido
-
-Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda
-
-Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda](https://www.tnh1.com.br/noticia/nid/agricultor-descobre-700-moedas-de-ouro-que-valem-r-18-milhoes-em-fazenda/ "Agricultor descobre 700 moedas de ouro que valem R$ 18 milhões em fazenda ")[![Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_velorio_bebe_e064e439ef.png)
+[![Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_velorio_bebe_e064e439ef.png)
 
 Brasil
 
@@ -218,23 +210,31 @@ Brasil
 
 Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão
 
-Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
+Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_abordagem_da_pm_jacintinho_c4501b0d87.jpg)
 
-Na Levada
+Grota do Cigano
 
-Na Levada
+Grota do Cigano
 
-Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas
+Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência
 
-Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas](https://www.tnh1.com.br/noticia/nid/duas-criancas-sao-encontradas-trancadas-em-barraco-nuas-em-meio-a-fezes-e-famintas/ "Duas crianças são encontradas trancadas em barraco, nuas em meio a fezes e famintas")[![Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior_68ebe3749e.jpeg)
+Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência](https://www.tnh1.com.br/noticia/nid/videos-abordagem-da-pm-termina-em-confusao-e-protesto-em-maceio-comunidade-reclama-de-truculencia/ "Vídeos: abordagem da PM termina em confusão e protesto em Maceió; comunidade reclama de truculência")[![Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_suspeito_pulo_fd798a520c.png)
 
-Mercado de Trabalho
+está internado
 
-Mercado de Trabalho
+está internado
 
-Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos
+Homem pula do 4º andar para tentar escapar da polícia em Maceió
 
-Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-oferece-801-novas-vagas-de-emprego-em-maceio-e-no-interior-veja-cargos/ "Sine Alagoas oferece 801 novas vagas de emprego em Maceió e no interior; veja cargos ")
+Homem pula do 4º andar para tentar escapar da polícia em Maceió](https://www.tnh1.com.br/noticia/nid/homem-pula-do-4o-andar-para-tentar-escapar-da-policia-em-maceio/ "Homem pula do 4º andar para tentar escapar da polícia em Maceió")[![Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/7/csm_liam-payne-ultima-foto-reproducao-redes-sociais_cc72f933ed.jpg)
+
+Tráfico de drogas
+
+Tráfico de drogas
+
+Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista
+
+Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista](https://www.tnh1.com.br/noticia/nid/funcionario-do-hotel-pode-ser-indiciado-por-morte-de-liam-payne-revela-revista/ "Funcionário do hotel pode ser indiciado por morte de Liam Payne, revela revista")
 
 [!['Cocaína rosa' encontrada no corpo de Liam Payne também está presente em processo do rapper Diddy](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_montagem-diddy-liam-reproducao-redes-sociais_a279cd99e0.jpg)
 
