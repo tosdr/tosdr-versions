@@ -390,25 +390,25 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Ask Someone to Hang Out](https://www.wikihow.com/images/thumb/e/e5/Ask-Someone-to-Hang-Out-Step-9.jpg/-crop-126-120-126px-Ask-Someone-to-Hang-Out-Step-9.jpg)
+
+How to  
+Ask Someone to Hang Out](https://www.wikihow.com/Ask-Someone-to-Hang-Out)
+
+[![Choose a Halloween Costume](https://www.wikihow.com/images/thumb/8/82/Choose-a-Halloween-Costume-Step-14.jpg/-crop-126-120-126px-Choose-a-Halloween-Costume-Step-14.jpg)
+
+How to  
+Pick a Halloween Costume that’s Perfect for You](https://www.wikihow.com/Choose-a-Halloween-Costume)
+
+[![Come Up with Good Conversation Topics](https://www.wikihow.com/images/thumb/1/1a/Come-Up-with-Good-Conversation-Topics-Step-17-Version-2.jpg/-crop-126-120-126px-Come-Up-with-Good-Conversation-Topics-Step-17-Version-2.jpg)
+
+How to  
+Come Up with Good Conversation Topics](https://www.wikihow.com/Come-Up-with-Good-Conversation-Topics)
+
 [![Deal with Braces](https://www.wikihow.com/images/thumb/3/37/Deal-with-Braces-Step-13-Version-5.jpg/-crop-126-120-126px-Deal-with-Braces-Step-13-Version-5.jpg)
 
 How to  
 Deal with Braces](https://www.wikihow.com/Deal-with-Braces)
-
-[![Win an I Love You More Argument](https://www.wikihow.com/images/thumb/3/3c/Win-an-I-Love-You-More-Argument-Step-11.jpg/-crop-126-120-126px-Win-an-I-Love-You-More-Argument-Step-11.jpg)
-
-How to  
-Win an "I Love You More" Argument](https://www.wikihow.com/Win-an-I-Love-You-More-Argument)
-
-[![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
-
-How to  
-Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
-
-[![Deal With Rumors](https://www.wikihow.com/images/thumb/f/fc/Deal-With-Rumors-Step-10-Version-2.jpg/-crop-126-120-126px-Deal-With-Rumors-Step-10-Version-2.jpg)
-
-How to  
-Deal With Rumors](https://www.wikihow.com/Deal-With-Rumors)
 
   
 
@@ -451,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-205
+195
