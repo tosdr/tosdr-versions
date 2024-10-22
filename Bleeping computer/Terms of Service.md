@@ -36,6 +36,9 @@
         
         Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
     
+    * [![Get Word, Excel, PowerPoint, and more for life in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get Word, Excel, PowerPoint, and more for life in this deal](https://www.bleepingcomputer.com/offer/deals/get-word-excel-powerpoint-and-more-for-life-in-this-deal/)
     * [![Hackers exploit Roundcube webmail flaw to steal email, credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Hackers exploit Roundcube webmail flaw to steal email, credentials](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
@@ -45,9 +48,6 @@
     * [![Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
-    * [![Bumblebee malware returns after recent law enforcement disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
