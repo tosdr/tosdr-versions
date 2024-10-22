@@ -279,7 +279,15 @@ If you have purchased our service via an app store (such as Google Play Store or
 
 **Right of revocation**
 
-You have the right to revoke this contract within fourteen days without providing any reasons.The revocation period (cancellation period) is fourteen days from the date when you entered into the contract.To exercise your right of revocation, you must inform us (BioWink GmbH, Adalbertstrasse 7-8, 10999 Berlin, or contact Support from within the Clue App) of your decision to revoke this contract. You may use the attached sample revocation form for this purpose, but this is not mandatory.In order to comply with the revocation period, it is sufficient that you send us notification regarding your revocation of the contract before the end of the revocation period.**Consequences of revocation**If you revoke this contract, we shall reimburse all payments we have received from you, including delivery charges (other than any additional charges resulting from your decision to select a different type of delivery than the cheapest standard delivery offered by us), immediately and no later than fourteen days from the date on which we receive notice of your revocation of this contract. For this refund, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; in no event will you be charged for this refund.**Further information**In the case of a contract for the provision of services, the following applies: If you have requested that the services be commenced during the cancellation period, you shall pay us a reasonable amount corresponding to the proportion of the services already provided by the time you inform us of the exercise of the right of cancellation in respect of this contract compared to the total scope of the services provided for in the contract.
+You have the right to revoke this contract within fourteen days without providing any reasons.The revocation period (cancellation period) is fourteen days from the date when you entered into the contract.To exercise your right of revocation, you must inform us (BioWink GmbH, Adalbertstrasse 7-8, 10999 Berlin, or contact Support from within the Clue App) of your decision to revoke this contract. You may use the attached sample revocation form for this purpose, but this is not mandatory.In order to comply with the revocation period, it is sufficient that you send us notification regarding your revocation of the contract before the end of the revocation period.
+
+**Consequences of revocation**
+
+If you revoke this contract, we shall reimburse all payments we have received from you, including delivery charges (other than any additional charges resulting from your decision to select a different type of delivery than the cheapest standard delivery offered by us), immediately and no later than fourteen days from the date on which we receive notice of your revocation of this contract. For this refund, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; in no event will you be charged for this refund.
+
+**Further information**
+
+In the case of a contract for the provision of services, the following applies: If you have requested that the services be commenced during the cancellation period, you shall pay us a reasonable amount corresponding to the proportion of the services already provided by the time you inform us of the exercise of the right of cancellation in respect of this contract compared to the total scope of the services provided for in the contract.
 
 _\- End of the revocation policy -_
 
@@ -308,7 +316,7 @@ _\- End of the revocation policy -_
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: 2c57828842024-10-22 06:41:47
+v: 2c57828842024-10-22 12:13:21
 
 English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
@@ -361,4 +369,4 @@ English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: 2c57828842024-10-22 06:41:47
+v: 2c57828842024-10-22 12:13:21
