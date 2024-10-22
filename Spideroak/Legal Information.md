@@ -48,7 +48,7 @@ Zero-trust security at the edge.
 
 [Contact SpiderOak](https://spideroak.com/contact-us)
 
-[![SpiderOak](https://spideroak.com/wp-content/uploads/elementor/thumbs/xstore-placeholder-qvoybxvgaqfvf82tap0svup2krohvhv6xb1j7na5yg.png)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2024/09/SpiderOak-Logo-v202409-white-10x2.png)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
