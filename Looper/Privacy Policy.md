@@ -112,7 +112,7 @@ Playwire Advertising Policy
 
 All or partial advertising on this Website or App is managed by Playwire LLC. If Playwire publisher advertising services are used, Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes. To learn more about the types of data collected, how data is used and your choices as a user, please visit [https://www.playwire.com/privacy-policy](https://www.playwire.com/privacy-policy).
 
-[About](https://www.looper.com/about/)  •   [Privacy Policy](https://www.static.com/privacy-policy)
+[About](https://www.looper.com/about/)  •   [Privacy Policy](https://www.looper.com/privacy-policy/)
 
 © 2024 [Static Media](https://www.static.com/)® / Looper.com / All Rights Reserved
 
