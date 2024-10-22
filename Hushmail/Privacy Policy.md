@@ -169,11 +169,11 @@ Canada
 
 ### From the Blog
 
-#### [HIPAA Questions and Answers: A Guide for Small Healthcare Practices](https://blog.hushmail.com/blog/hipaa-faqs/)
+#### [Online forms explained: FAQs and insights into Hush™ Secure Forms](https://blog.hushmail.com/blog/hipaa-faqs/)
 
-Published on October 11, 2024
+Published on October 21, 2024
 
-Get clear answers to your top HIPAA questions about email, web forms, telehealth, and more. No jargon, just easy-to-understand guidance. [Read more.](https://blog.hushmail.com/blog/hipaa-faqs/)
+Read this guide for answers to all your questions on using online forms in a small healthcare practice. [Read more.](https://blog.hushmail.com/blog/hipaa-faqs/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -228,7 +228,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=23201C830473EAFC4B52E4DE6A9F33ED)
+![](https://hushforms.com/visitorid?visitorid=B37896B260CA055FD3645AF930AEA3AD)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
