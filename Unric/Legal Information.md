@@ -159,14 +159,6 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
-  [![Soffía and Lukka (left) and Pasang Lhamu Sherpa Akita (right)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
- ![Soffía and Lukka (left) and Pasang Lhamu Sherpa Akita (right)](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/10/Nepal1-100x70.png)](https://unric.org/en/icelandic-and-nepalese-women-join-forces-to-empower-female-sherpas/ "Icelandic and Nepalese women join forces to empower female Sherpas")
-
-### [Icelandic and Nepalese women join forces to empower female Sherpas](https://unric.org/en/icelandic-and-nepalese-women-join-forces-to-empower-female-sherpas/ "Icelandic and Nepalese women join forces to empower female Sherpas")
-
-18/10/2024
-
  [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 ### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
@@ -190,6 +182,12 @@ The information will be used internally only for web site traffic analysis. If t
 ### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
 20/08/2024
+
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+
+### [UNRIC Info Point & Library Newsletter: August 2024](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+
+12/08/2024
 
 [Load more](#)
 
