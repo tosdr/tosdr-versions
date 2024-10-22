@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   81,224.75
+##### SENSEX   81,151.27
 
-+ 218.14
+ -73.48
 
-##### NIFTY   24,854.05
+##### NIFTY   24,781.10
 
-+ 104.20
+ -72.95
 
-##### CRUDEOIL   5,867.00
+##### CRUDEOIL   5,929.00
 
-+ 12.00
+ -3.00
 
-##### GOLD   77,750.00
+##### GOLD   78,030.00
 
-+ 1.00
+ -9.00
 
-##### SILVER   95,470.00
+##### SILVER   97,360.00
 
-+ 68.00
+ -88.00
 
-##### SENSEX   81,224.75
+##### SENSEX   81,151.27
 
-+ 218.14
+ -73.48
 
-##### NIFTY   24,854.05
+##### NIFTY   24,781.10
 
-+ 104.20
+ -72.95
 
-##### NIFTY   24,854.05
+##### NIFTY   24,781.10
 
-+ 104.20
+ -72.95
 
-##### CRUDEOIL   5,867.00
+##### CRUDEOIL   5,929.00
 
-+ 12.00
+ -3.00
 
-##### CRUDEOIL   5,867.00
+##### CRUDEOIL   5,929.00
 
-+ 12.00
+ -3.00
 
-##### GOLD   77,750.00
+##### GOLD   78,030.00
 
-+ 1.00
+ -9.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -707,7 +707,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/stock-market-live-updates-stock-to-buy-today-tech-mahindra-16996/article68765030.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Wipro Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/wipro-stocks-today-wipro-share-price-live-updates-18-oct-2024/article68767754.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) HDFC Bank Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-stocks-today-hdfc-bank-share-price-live-updates-21-oct-2024/article68778010.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Group Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-adani-enterprises-adani-energy-adani-power-adani-green-energy-share-price-live-updates-13-sept-2024/article68637228.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ratan Tata Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/ratan-tata-group-stocks-tcs-tata-motors-tata-power-tata-steel-titan-tata-technologies-tata-communications-share-price-live-updates-11-oct-2024/article68739247.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
