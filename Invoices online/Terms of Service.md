@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Anri van der Linde
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=115650014)  
-Karino Merinos ( PTY ) LTD
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=16924693)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=166718130)  
-Enhle Oarabile Kea
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=127995748)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=41392798)  
-Imvubu General Trading
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=14630180)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=61828289)  
-Wiselink Broadband Pty Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=32036920)  
+Norton Medical & Consult - Namibia
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=179839022)  
-LEO DEVELOPMENT GROUP
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=171602370)  
+Druce Digital
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=77908121)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=165119488)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=140975974)  
-Camp 4 Africa (Pty) Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=49330557)  
+WIP Digital Solutions
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=55256798)  
-VerdanTech Pty Ltd
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=120657490)  
+Three Moons Emporium
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=131530445)  
-Salvage Genie
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=43923702)  
+Website Café (PTY) LTD
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=209994535)  
-Little Nutty Professors
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=70309006)  
+Electro-Heat
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=130629779)  
-INVOICES/JOBCARDS ONLINE
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=135810169)  
+Depot Diesel (Pty) Ltd
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=174007355)  
-Sarabi
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=182818693)  
+Glass and Allied Industries
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=34048405)  
-Moremi Kitchens Rustenburg
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=122148328)  
+Fox Alarms & Security CC
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=87971500)  
-Lion Software Develepment
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=29839303)  
+TRACKFORCE (Pty) Ltd
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=45abe2dbb3c210333ac8bd9a347bbb746de66a31fad15051549b085c4060396e&c=208122392)  
-NEW BEGINNINGS DESIGNS
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=04091bbb55c9c9ce2212223959a16d5a2223aa8845e861b1060ba144bc2d09e2&c=168126331)  
+Quad Biking Cape Town
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
