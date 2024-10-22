@@ -104,6 +104,7 @@ Error
 * [Identity Fraud Notice](#contract-bjksxbw00)
 * [California Credit Disclosure](#contract-bk8o6a-ar)
 * [Authorization](#contract-hywkt6cca)
+* [DISCLOSURE: INVESTIGATIVE CONSUMER REPORT](#contract-ryp4k-vlkl)
 
 Test Contract 2
 ---------------
@@ -6144,6 +6145,35 @@ You have asked [Certn](https://certn.co/) to collect, process and deliver the fo
 It may be necessary for Certn to transfer and process your information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which you made the request. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
 You can withdraw your consent, dispute the accuracy of your credentials, or ask for a correction, deletion or copy of your information at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found in our Privacy Policy ( [https://certn.co/privacy-policy/](https://certn.co/privacy-policy/) ).
+
+DISCLOSURE: INVESTIGATIVE CONSUMER REPORT
+-----------------------------------------
+
+### Version 1.0
+
+##### Effective October 21st 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6716ef2f4040a3546ea20a30.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**DISCLOSURE: INVESTIGATIVE CONSUMER REPORT**
+
+  
+
+{{{company\_name}}} has requested {{{requested\_verification\_check\_names}}} which may be defined as an "investigative consumer report” for the purpose of evaluating your current or potential {{{purpose}}} through [Certn](https://certn.co/), a consumer reporting agency. An "**investigative consumer report**" is a background screening report generated through personal interviews with sources such as your co-workers, managers, references or associates.
+
+In order to complete an investigative consumer report, Certn may collect information regarding your {{{verification\_history\_types}}} history from certain knowledgeable individuals for the benefit of the Company. The information contained in the investigative consumer report may bear upon your character, general reputation, personal characteristics, and/or mode of living.
+
+You have the right, upon written request, to be informed of whether or not an investigative consumer report has been requested. You may inspect and receive a copy of the applicable report by contacting {{{certn\_location}}} 844-987-0690, [compliance@certn.co](mailto:compliance@certn.co). Information regarding Certn's privacy practices (including information about whether any consumer personal information will be sent outside the U.S. or its territories) may be found in our [privacy policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj).
+
+You have the right to request additional information regarding the nature and scope of any "investigative consumer report" directly from the Company.
+
+  
 
 * * *
 
