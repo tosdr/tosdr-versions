@@ -400,11 +400,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada/slika-5.jpg?itok=7ws5pJl_)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/45.jpg?itok=iGFBdpCp)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/52-bijenale-u-veneciji/bijenale-venecija-jovana-stokic-rene-block.jpg?itok=pS1zpKu9)](http://seecult.org/galerija/foto-galerija/foto-arhiva/52-bijenale-u-veneciji)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu/ubns-digi13.jpg?itok=Mn-TJgss)](http://seecult.org/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -420,6 +420,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Slijepčevićev kanski pobednik na otvaranju 20. Slobodne zone](http://seecult.org/vest/slijepcevicev-kanski-pobednik-na-otvaranju-20-slobodne-zone)
 * [Omaž autorstvu, u slavu Puriše Đorđevića](http://seecult.org/vest/omaz-autorstvu-u-slavu-purise-dordevica)
 * [Cvetičanin: (Ne)razumevanje stanja kulture u Srbiji danas](http://seecult.org/vest/cveticanin-nerazumevanje-stanja-kulture-u-srbiji-danas)
 * [Otvoren 60. Oktobarski salon - Šta ostaje?](http://seecult.org/vest/otvoren-60-oktobarski-salon-sta-ostaje)
@@ -429,7 +430,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Upečatljiv program 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-program-43-skopskog-dzez-festivala)
 * [Performisima prvi put u Parizu](http://seecult.org/vest/performisima-prvi-put-u-parizu)
 * [60\. Oktobarski salon i ključna pitanja današnjice](http://seecult.org/vest/60-oktobarski-salon-i-kljucna-pitanja-danasnjice)
-* [Godišnje nagrade reditelja, u junu novi Balkanski festival režije](http://seecult.org/vest/godisnje-nagrade-reditelja-u-junu-novi-balkanski-festival-rezije)
 
 * [Konkursi](#tab1_1)
 
