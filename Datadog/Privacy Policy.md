@@ -227,7 +227,7 @@ Privacy Policy | Datadog
     * [SAP Monitoring](https://www.datadoghq.com/solutions/sap-monitoring/)
     * [OpenTelemetry](https://www.datadoghq.com/solutions/opentelemetry/)
     
-    Use-case
+    Use Case
     
     * [Cloud Migration](https://www.datadoghq.com/solutions/cloud-migration/)
     * [Monitoring Consolidation](https://www.datadoghq.com/solutions/monitoring-consolidation/)
@@ -406,7 +406,7 @@ Toggle navigation
     * [SAP Monitoring](https://www.datadoghq.com/solutions/sap-monitoring/)
     * [OpenTelemetry](https://www.datadoghq.com/solutions/opentelemetry/)
     
-    Use-case
+    Use Case
     
     * [Cloud Migration](https://www.datadoghq.com/solutions/cloud-migration/)
     * [Monitoring Consolidation](https://www.datadoghq.com/solutions/monitoring-consolidation/)
