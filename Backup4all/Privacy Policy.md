@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from DreamObjects u ...](https://www.backup4all.com/how-to-back-up-data-files-from-dreamobjects-using-backup4all-kb.html)  
+* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
     
-* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
+* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
     
-* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
+* [How to restore a backup using WinZip](https://www.backup4all.com/how-to-restore-a-backup-using-winzip-kb.html)  
     
-* [How to backup to Amazon S3](https://www.backup4all.com/backup-your-data-to-amazon-s3-kb.html)  
+* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
     
-* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
+* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
     
 
 Choose language:
