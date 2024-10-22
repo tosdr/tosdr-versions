@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 22, 2024](https://www.japantimes.co.jp/archive/2024/10/22/ "archive page")
+[October 23, 2024](https://www.japantimes.co.jp/archive/2024/10/23/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,28 +131,40 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[The rise of BRICS and the emerging multipolar world](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
-
-  [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
-
 [17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
 
   [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
 
-[Japan hopes electric cars are just a bad dream](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
 
-  [![A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428644.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+  [![Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426334.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+
+[The rise of BRICS and the emerging multipolar world](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+
+  [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
+
+  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
 [The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
 
   [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
 
-[LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
-
-  [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+
+  [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+
+  [![Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426334.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
 
 [COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
@@ -164,17 +176,11 @@ By [Brahma Chellaney](https://www.japantimes.co.jp/author/321/brahma-chellaney/ 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
-  [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Japan hopes electric cars are just a bad dream](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
-
-By [David Fickling](https://www.japantimes.co.jp/author/718/david-fickling/ "David Fickling")  
-
-  [![A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428644.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -183,12 +189,6 @@ By [David Fickling](https://www.japantimes.co.jp/author/718/david-fickling/ "Dav
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
   [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
-
-  [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Ukraine's population has fallen by 10 million since Russia's invasion, U.N. says](https://www.japantimes.co.jp/news/2024/10/22/world/society/ukraine-population-fall-10-million/ "Ukraine's population has fallen by 10 million since Russia's invasion, U.N. says")
+
+3 hours ago
+
+[War has knocked Gaza back to the 1950s, UNDP says](https://www.japantimes.co.jp/news/2024/10/22/world/society/gaza-war-undp-poverty/ "War has knocked Gaza back to the 1950s, UNDP says")
+
+3 hours ago
+
+[JFTC inspects JR Tokai and others for suspected bid-rigging](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/jftc-rail-bid-rigging/ "JFTC inspects JR Tokai and others for suspected bid-rigging")
+
+4 hours ago
+
+[Honda to recall over 720,800 vehicles in U.S. to replace fuel pumps](https://www.japantimes.co.jp/business/2024/10/22/honda-fuel-pump-recall-us/ "Honda to recall over 720,800 vehicles in U.S. to replace fuel pumps")
+
+5 hours ago
+
 [Police drew guns at man who set minivan on fire at Prime Minister's Office](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/police-gun-pm-attack/ "Police drew guns at man who set minivan on fire at Prime Minister's Office")
 
-38 mins ago
-
-[With her sights set on Ishiba's throne, will Takaichi take over the LDP?](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
-
-1 hours ago
-
-[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
-
-1 hours ago
-
-[Mackerel from Norway boosting presence in Japan](https://www.japantimes.co.jp/news/2024/10/22/japan/norway-mackerel-boost-presence/ "Mackerel from Norway boosting presence in Japan")
-
-2 hours ago
-
-[China resumes imports of Japanese koi fish](https://www.japantimes.co.jp/news/2024/10/22/japan/china-import-koi/ "China resumes imports of Japanese koi fish")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
