@@ -642,7 +642,7 @@ Login New customer?[Create an account](https://thepihut.com/account/register)
 
 Huge Range
 
-[7,650+ products](https://thepihut.com/collections/all "/collections/all")
+[7,700+ products](https://thepihut.com/collections/all "/collections/all")
 
 Five Star Service
 
