@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Rate AN's leader attractiveness (165)](https://forum.nationstates.net/viewtopic.php?t=555212&f=25&view=unread#unread ""Rate AN's leader attractiveness" (165 posts)")
-* [School Talk (25)](https://forum.nationstates.net/viewtopic.php?t=556706&f=20&view=unread#unread ""School Talk" (25 posts)")
-* [SETSUZOKU SOCIAL NETWORK V2.0 (MT/OPE… (2,686)](https://forum.nationstates.net/viewtopic.php?t=394396&f=4&view=unread#unread ""SETSUZOKU SOCIAL NETWORK V2.0 (MT/OPEN/IC)" (2,686 posts)")
-* [Change a Letter (2,198)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,198 posts)")
-* [American Politics: Remember, Remember… (2,207)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (2,207 posts)")
+* [Create a word based on last two letters (393)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (393 posts)")
+* [Guess Who BN Is! (5,711)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,711 posts)")
+* [Australians protesting in favour of H… (461)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (461 posts)")
+* [NFL Football Thread 24-25: The Road t… (8,172)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,172 posts)")
 
 Advertisement
 
