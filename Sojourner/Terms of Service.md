@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-982bce3e160f8104af242d30e918a619
+e72ef46a026d840113bf143f9d9c9ad6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm light pink irregular pearls](https://sojourner.biz/images/cache/pearls/PE0026.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-light-pink-irregular-pearls.html "12 mm light pink irregular pearls")
+[![1 mm to 3 mm turquoise chips](https://sojourner.biz/images/cache/stone/TU0008.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/1-mm-to-3-mm-turquoise-chips.html "1 mm to 3 mm turquoise chips")
 
-#### [12 mm light pink irregular pearls](https://sojourner.biz/beads/pearls/12-mm-light-pink-irregular-pearls.html "12 mm light pink irregular pearls")
+#### [1 mm to 3 mm turquoise chips](https://sojourner.biz/beads/stone-m-z/turquoise/1-mm-to-3-mm-turquoise-chips.html "1 mm to 3 mm turquoise chips")
 
-$27.00
+$9.00
 
 ### Best Sellers
 
