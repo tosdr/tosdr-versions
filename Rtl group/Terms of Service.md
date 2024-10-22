@@ -315,6 +315,14 @@ Europe's leading entertainment brand
     
     Fremantle Australia signs an exclusive multi-year partnership with new Australian production company Lantern Pictures.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-x-Lantern-Pictures/)
     
+* [![slide-Eat the World merges with Meet the World](/.galleries/images/Eat-the-World_16-9.jpg?__scale=undefined&description=)
+    
+    Eat the World merges with Meet the World
+    
+    21.10.2024
+    
+    A refreshed brand identity and increasing AI integration: Tour operator Eat the World merges with Meet the World to leverage synergies.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Eat-the-World-merges-with-Meet-the-World/)
+    
 * [![slide-Digitalising <i>Stern</i>](/.galleries/images/Stern_16-9.png?__scale=undefined&description=)
     
     Digitalising _Stern_
@@ -331,6 +339,14 @@ Europe's leading entertainment brand
     
     Fremantle partnered with TF1 in France to launch original psychological reality format _Master of the Game_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-launches-Master-of-the-Game/)
     
+* [![slide-RTL Deutschland uses AI-supported promotions](/.galleries/images/RTL-D_AI-in-advertising_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland uses AI-supported promotions
+    
+    15.10.2024
+    
+    RTL Deutschland is pioneering the use of artificial intelligence in the production of promotional content, marking a milestone in the German TV landscape.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-uses-AI-supported-promotions/)
+    
 * [![slide-RTL Nederland's Content Event](/.galleries/images/RTL-Content-Event_16-9.jpg?__scale=undefined&description=)
     
     RTL Nederland's Content Event
@@ -338,46 +354,6 @@ Europe's leading entertainment brand
     08.10.2024
     
     Innovative partnerships and more local content: RTL Nederland unveils its plans for streaming service Videoland at the 2024 RTL Content Event.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Nederlands-Content-Event/)
-    
-* [![slide-Five questions for Balázs Szabó](/.galleries/images/Five-questions-for-Balazs-Szabo_16-9_final.png?__scale=undefined&description=)
-    
-    Five questions for Balázs Szabó
-    
-    27.09.2024
-    
-    “RTL Hungary made sporting history”, says Chief Content Management Officer Balázs Szabó about bringing the UEFA Champions League closer to Hungarian fans.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Five-questions-for-Balazs-Szabo/)
-    
-* [![slide-A new UFA unit](/.galleries/images/UFA-Mitte_16-9.png?__scale=undefined&description=)
-    
-    A new UFA unit
-    
-    27.09.2024
-    
-    UFA establishes UFA Mitte GmbH in central Germany, aiming to continue successful formats and develop new content in the region.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-UFA-unit/)
-    
-* [![slide-Four wins at the German Television Awards](/.galleries/images/German-Television-Awards-2024_16-9.png?__scale=undefined&description=)
-    
-    Four wins at the German Television Awards
-    
-    26.09.2024
-    
-    RTL Deutschland and UFA have both received two awards at the 2024 Deutscher Fernsehpreis (German Television Awards).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Four-wins-at-the-German-Television-Awards/)
-    
-* [![slide-M6+ and Pluto TV partner in France](/.galleries/images/Groupe-M6_Pluto-TV_1920x1080.png?__scale=undefined&description=)
-    
-    M6+ and Pluto TV partner in France
-    
-    25.09.2024
-    
-    M6+ and Pluto TV have announced a strategic partnership, including an advertising agreement, which will bring new content and channels to both streaming platforms.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/M6-and-Pluto-TV-partner-in-France/)
-    
-* [![slide-Happy birthday, RTL United!](/.galleries/images/Happy-birthday-RTL_16-9.png?__scale=undefined&description=)
-    
-    Happy birthday, RTL United!
-    
-    16.09.2024
-    
-    A trip down memory lane: Milestones from the past three years of the RTL United journey, strengthening RTL as Europe’s leading entertainment brand.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Happy-birthday-RTL-United/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
