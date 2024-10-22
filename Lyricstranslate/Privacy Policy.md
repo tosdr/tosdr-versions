@@ -107,67 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
 
 New song
 
-[Delegation - Put a little love on me](https://lyricstranslate.com/en/delegation-put-little-love-me-lyrics)
+[León Gieco - John el Cowboy](https://lyricstranslate.com/en/leon-gieco-john-el-cowboy-lyrics)
+
+Spanish
+
+[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
+
+New song
+
+[Foo Fighters - Winnebago](https://lyricstranslate.com/en/foo-fighters-winnebago-lyrics)
 
 English
 
-[![ravi.shahenshah](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1171260.jpg)](https://lyricstranslate.com/en/translator/ravishahenshah "ravi.shahenshah")
-
-New translation
-
-[BlackSea4ever - Headache](https://lyricstranslate.com/en/blacksea4ever-headache-spanish)
-
-English → Spanish
-
-[![Stanisław332](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633632-1729351423.png)](https://lyricstranslate.com/en/translator/stanis%C5%82aw332 "Stanisław332")
+[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
 
 New song
 
-[Krasnaya Zelen' - Ах ты сука и блядзь](https://lyricstranslate.com/en/krasnaya-zelen-akh-ty-suka-i-bliadz-lyrics)
+[Annega - Dance Until The Rise](https://lyricstranslate.com/en/annega-dance-until-rise-lyrics)
 
-Belarusian (Trasianka)
+Mauritian Créole
 
-[![Stanisław332](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633632-1729351423.png)](https://lyricstranslate.com/en/translator/stanis%C5%82aw332 "Stanisław332")
-
-New translation
-
-[Krasnaya Zelen' - Ах ты сука и блядзь (Akh ty suka и bliadz')](https://lyricstranslate.com/en/krasnaya-zelen-akh-ty-suka-i-bliadz-english)
-
-Belarusian (Trasianka) → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Daniele Serra - Bocciol di rose](https://lyricstranslate.com/en/daniele-serra-bocciol-di-rose-english)
-
-Italian → English
-
-[![Freigeist](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1249237-1553665246.jpg)](https://lyricstranslate.com/en/translator/freigeist "Freigeist")
-
-New translation
-
-[10cc - Rubber Bullets](https://lyricstranslate.com/en/10cc-rubber-bullets-german)
-
-English → German
-
-[![WinterWindMusic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633429-1729213425.png)](https://lyricstranslate.com/en/translator/winterwindmusic "WinterWindMusic")
-
-New comment
-
-Original is a Hebrew poem written by Haim Gouri ...  [more](https://lyricstranslate.com/en/comment/1170951#comment-1170951)
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
 
 New song
 
-[Daniele Serra - Bocciol di rose](https://lyricstranslate.com/en/daniele-serra-bocciol-di-rose-lyrics)
+[León Gieco - Un día Baltazar](https://lyricstranslate.com/en/leon-gieco-un-dia-baltazar-lyrics)
 
-Italian
+Spanish
+
+[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+
+New translation
+
+[Ofra Haza - Fata Morgana](https://lyricstranslate.com/en/ofra-haza-fata-morgana-english)
+
+English → English
+
+[![Bacho](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1487397-1720835335.png)](https://lyricstranslate.com/en/translator/bacho "Bacho")
+
+New request
+
+[Evin Agassi - پریا (Pariya)](https://lyricstranslate.com/en/request/%D9%BE%D8%B1%DB%8C%D8%A7-0)
+
+Persian → Transliteration
+
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+
+Transcription request fulfilled
+
+[Wat Moet Ik Doen? \[What Have I Done?\]](https://lyricstranslate.com/en/loud-house-ost-wat-moet-ik-doen-what-h-lyrics)
+
+Dutch
+
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+
+New song
+
+[The Loud House (OST) - Wat Moet Ik Doen? \[What Have I Done?\]](https://lyricstranslate.com/en/loud-house-ost-wat-moet-ik-doen-what-h-lyrics)
+
+Dutch
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
