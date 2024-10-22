@@ -140,11 +140,6 @@ disabled Mode
     
 * [Velocity](https://www.virginaustralia.com/au/en/velocity/)
     
-    Partners and offers
-    
-    * [Transfer credit card points](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/partner-cards)
-    * [Points earning credit cards](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/direct-earn-cards)
-    
     The basics
     
     * [Velocity home](https://www.velocityfrequentflyer.com/)
@@ -154,16 +149,26 @@ disabled Mode
     * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points?utm_source=web&utm_medium=multiple&utm_campaign=v2landing&icmpid=va:dig:aem_nav:site_nav_link:bp_ao:)
     * [Status](https://www.velocityfrequentflyer.com/the-basics/status)
     
-    Shopping online
+    Credit Cards
     
-    * [Shop to earn Points](https://estore.velocityfrequentflyer.com/)
-    * [Shop using Points](https://shop.velocityfrequentflyer.com/)
-    * [Velocity Wine Store by Laithewaite's](https://www.velocitywinestore.com.au/)
+    * [Transfer credit card points](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/partner-cards)
+    * [Points earning credit cards](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/direct-earn-cards)
+    
+    Partners & Offers
+    
+    * [All Velocity Partners](https://www.velocityfrequentflyer.com/partners-offers/all-partners)
+    * [Special Offers](https://www.velocityfrequentflyer.com/partners-offers/offers)
     
     Flying and Status
     
     * [How to use Points for flights](https://www.velocityfrequentflyer.com/flying-status/use-points-for-flights)
     * [Status membership](https://www.velocityfrequentflyer.com/the-basics/status)
+    
+    Shopping online
+    
+    * [Shop to earn Points](https://estore.velocityfrequentflyer.com/)
+    * [Shop using Points](https://shop.velocityfrequentflyer.com/)
+    * [Velocity Wine Store by Laithewaite's](https://www.velocitywinestore.com.au/)
     
 
 * [Check-in](https://check-in.virginaustralia.com/checkin/index.html#/login)
