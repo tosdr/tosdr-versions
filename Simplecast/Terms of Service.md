@@ -12,7 +12,7 @@
 * [Pricing](https://www.simplecast.com/pricing?hsLang=en)
 * [Monetization](https://www.simplecast.com/monetization?hsLang=en)
 * [Blog](https://blog.simplecast.com/?hsLang=en)
-* [Support](https://help.simplecast.com/en/)
+* [Support](https://help.simplecast.com/)
 * [Sign In](https://auth.simplecast.com/)
 * [Get Started](https://auth.simplecast.com/signup)
 
