@@ -22,7 +22,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 [Skip to Content](#contentarea)
 
- [![](https://www.thermaltake.com/media/logo/default/logo.png)](https://www.thermaltake.com/)[![](https://www.thermaltake.com/media/logomobile/default/logo_m.png)](https://www.thermaltake.com/)
+ [![Thermaltake](https://www.thermaltake.com/media/logo/default/logo.png)](https://www.thermaltake.com/ "Thermaltake")[![Thermaltake](https://www.thermaltake.com/media/logomobile/default/logo_m.png)](https://www.thermaltake.com/ "Thermaltake")
 
 * [Products](#)
     
