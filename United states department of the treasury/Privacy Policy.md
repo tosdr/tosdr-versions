@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 22, 2024
+    
+    [U.S. Department of the Treasury Releases Final Rules to Strengthen U.S. Semiconductor Industry](https://home.treasury.gov/news/press-releases/jy2664)
+    
     October 21, 2024
     
     [Price Cap Coalition Issues Updated Advisory for Maritime Industry](https://home.treasury.gov/news/press-releases/jy2659)
@@ -563,14 +567,14 @@ MENU MENU
     
     [Treasury International Capital Data for August](https://home.treasury.gov/news/press-releases/jy2655)
     
-    October 17, 2024
-    
-    [U.S. Department of the Treasury Reaches Major Milestone, Approving Over $500 Million to Support Small Businesses in Tribal Nations](https://home.treasury.gov/news/press-releases/jy2653)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    October 22, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at Press Conference Ahead of the 2024 Annual Meetings of the International Monetary Fund and World Bank](https://home.treasury.gov/news/press-releases/jy2665)
     
     October 21, 2024
     
@@ -579,10 +583,6 @@ MENU MENU
     October 18, 2024
     
     [Joint Statement of Janet L. Yellen, Secretary of the Treasury, and Shalanda D. Young, Director of the Office of Management and Budget, on Budget Results for Fiscal Year 2024](https://home.treasury.gov/news/press-releases/jy2657)
-    
-    October 17, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the Council on Foreign Relations](https://home.treasury.gov/news/press-releases/jy2654)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
