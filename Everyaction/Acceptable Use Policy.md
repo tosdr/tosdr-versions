@@ -571,16 +571,6 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![A group of young colleagues gathers around a desk in an office and reviews information on a laptop screen.](/sites/default/files/styles/card_image_short/public/2024-05/1663298209.jpeg?h=f7d9296c&itok=_DyJhsie)
-    
-    ### [Top 10 questions to evaluate and choose CSR software](https://www.everyaction.com/blog/top-10-questions-evaluate-and-choose-csr-software)
-    
-    * Corporate social responsibility
-    * Employee giving
-    * Grant management & grant making
-    * Corporations
-    * Corporate Social Responsibility
-    
 * ![A team wraps up a meeting standing in front of a laptop](/sites/default/files/styles/card_image_short/public/2024-08/1457878227.jpeg?h=9983af2c&itok=HC0csy8f)
     
     ### [3 strategies to unlock your CSR participation potential](https://www.everyaction.com/blog/3-strategies-unlock-your-csr-participation-potential)
@@ -588,6 +578,16 @@ Social impact insights & information
     * Corporate social responsibility
     * Employee giving
     * Employee volunteering
+    * Corporations
+    * Corporate Social Responsibility
+    
+* ![A group of young colleagues gathers around a desk in an office and reviews information on a laptop screen.](/sites/default/files/styles/card_image_short/public/2024-05/1663298209.jpeg?h=f7d9296c&itok=_DyJhsie)
+    
+    ### [Top 10 questions to evaluate and choose CSR software](https://www.everyaction.com/blog/top-10-questions-evaluate-and-choose-csr-software)
+    
+    * Corporate social responsibility
+    * Employee giving
+    * Grant management & grant making
     * Corporations
     * Corporate Social Responsibility
     
