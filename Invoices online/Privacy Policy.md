@@ -126,50 +126,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Shaun Gartshore
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=60967014)  
-Cooper Power South Africa (Pty) LTD
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=120556291)  
+Meyer Towing & Recovery
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=70279030)  
-Oukraal Merino's
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=175549344)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=178185076)  
-Tracknetics
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=112309230)  
+webb it services
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=119877013)  
-Electro-Heat
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=157603422)  
+CGHK Enterprises (PTY) LTD
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=85919198)  
-WIP Digital Solutions
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=73924581)  
+#DiGi3 Marketing & Design
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=78304633)  
-Skinz Printing & Branding
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=151151471)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=179831917)  
-RADIO TYGERBERG 104FM NPC
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=52350424)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=156428758)  
-Gemini-IT Group
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=207307326)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=173590654)  
-J.M. HUMAN RESOURCES
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=75949331)  
+MR Compressors& Industrial Supplies
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=57466921)  
-FJW Security Cc
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=151517862)  
+Westside Car Audio CC
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=46852401)  
-Qothiphango Mining
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=7235643)  
+Wiselink Broadband Pty Ltd
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=119491060)  
-Testpro Laboratory (Pty) Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=36561560)  
+Norton Medical & Consult - Namibia
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=105841738)  
-All Trucking Solutions
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=155991986)  
+Van Der Merwe Olieverspreiders
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=75198534)  
-Moremi Kitchens Rustenburg
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=71662155)  
+Nogana Events and Decor
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=41798034)  
-McKaynine Mobility
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=166259211)  
+Druce Digital
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
