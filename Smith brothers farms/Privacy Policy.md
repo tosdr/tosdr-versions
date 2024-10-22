@@ -188,7 +188,7 @@ Hi
         
     * [New! (85)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (61)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (62)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
         
