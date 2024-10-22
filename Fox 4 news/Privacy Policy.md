@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Carroll Middle School teacher arrested for alleged sex with former student](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/angela-barnes-booking-photo.jpg?ve=1&tl=1)
+
+ ![Carroll Middle School teacher arrested for alleged sex with former student](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/angela-barnes-booking-photo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/carroll-middle-school-angela-barnes-arrest)
+
+### [Carroll Middle School teacher arrested for alleged sex with former student](https://www.fox4news.com/news/carroll-middle-school-angela-barnes-arrest)
+
+ [![Harris vs. Trump: Here's who's winning in the polls with 2 weeks to go](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2170589855.jpg?ve=1&tl=1)
+
+ ![Harris vs. Trump: Here's who's winning in the polls with 2 weeks to go](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2170589855.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-october-22-2024)
+
+### [Harris vs. Trump: Here's who's winning in the polls with 2 weeks to go](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-october-22-2024)
+
+ [![Tom Holland in talks to star in Christopher Nolan film, reports say: What we know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/tom-christopher.jpg?ve=1&tl=1)
+
+ ![Tom Holland in talks to star in Christopher Nolan film, reports say: What we know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/tom-christopher.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/christopher-nolan-tom-holland-film-star-what-to-know-reports)
+
+### [Tom Holland in talks to star in Christopher Nolan film, reports say: What we know](https://www.fox4news.com/news/christopher-nolan-tom-holland-film-star-what-to-know-reports)
+
+ [![Large pallet fire burns near Dallas Love Field, power outages reported](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-empire-central-commercial-fire-4a_00.00.06.42.jpg?ve=1&tl=1)
+
+ ![Large pallet fire burns near Dallas Love Field, power outages reported](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-empire-central-commercial-fire-4a_00.00.06.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pallet-fire-burns-near-dallas-love-field-power-outages-reported)
+
+### [Large pallet fire burns near Dallas Love Field, power outages reported](https://www.fox4news.com/news/pallet-fire-burns-near-dallas-love-field-power-outages-reported)
+
  [![Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dpd-mounted-ofc-state-fair-lawsuit-9p_kdfwcbe1_1_00.00.14.22.jpg?ve=1&tl=1)
 
  ![Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dpd-mounted-ofc-state-fair-lawsuit-9p_kdfwcbe1_1_00.00.14.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-of-texas-horse-lawsuit)
 
 ### [Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://www.fox4news.com/news/state-fair-of-texas-horse-lawsuit)
-
- [![Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-21-17h54m11s920.png?ve=1&tl=1)
-
- ![Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-21-17h54m11s920.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-helicopter-crash)
-
-### [Houston helicopter crash: NTSB investigators continue investigation into deadly crash](https://www.fox4news.com/news/houston-helicopter-crash)
-
- [![Girl Scouts will raise yearly dues to $65 by 2027](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/girl-scout-vest.jpg?ve=1&tl=1)
-
- ![Girl Scouts will raise yearly dues to $65 by 2027](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/girl-scout-vest.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/girl-scouts-will-raise-yearly-dues-65-2027)
-
-### [Girl Scouts will raise yearly dues to $65 by 2027](https://www.fox4news.com/news/girl-scouts-will-raise-yearly-dues-65-2027)
-
- [![Cowboys head coach Mike McCarthy responds to team's criticism from Troy Aikman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/mccarthy-aikman.jpg?ve=1&tl=1)
-
- ![Cowboys head coach Mike McCarthy responds to team's criticism from Troy Aikman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/mccarthy-aikman.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mccarthy-aikman-dallas-cowboys-oct-21)
-
-### [Cowboys head coach Mike McCarthy responds to team's criticism from Troy Aikman](https://www.fox4news.com/sports/mccarthy-aikman-dallas-cowboys-oct-21)
-
- [![4 killed, including 2 children, in wrong-way Texas crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/b4c0630b-Ambulance-sized.jpg?ve=1&tl=1)
-
- ![4 killed, including 2 children, in wrong-way Texas crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/b4c0630b-Ambulance-sized.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/4-killed-including-2-children-wrong-way-texas-crash)
-
-### [4 killed, including 2 children, in wrong-way Texas crash](https://www.fox4news.com/news/4-killed-including-2-children-wrong-way-texas-crash)
 
 ###### [News](https://www.fox4news.com/news)
 
