@@ -164,14 +164,6 @@ Ginger also helps boost bone health, strengthen the immune system, and increase 
 
 [READ MORE](https://www.organicfacts.net/health-benefits/herbs-and-spices/ginger.html)
 
-[![Dried hibiscus leaves and hibiscus tea on a wooden table](data:image/svg+xml,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20525'></svg>)](https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html)
-
-[Hibiscus Tea: Benefits, How to Make & Side Effects](https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html)
-
-Health benefits of hibiscus tea include its ability to control hypertension & reduce high blood pressure, lower blood sugar levels, & improve liver health. Read more!
-
-[READ MORE](https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html)
-
 [![A glass of calamansi lime juice with fresh calamansi lime fruits on a wooden table](data:image/svg+xml,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20525'></svg>)](https://www.organicfacts.net/calamansi-juice.html)
 
 [Calamansi Juice: Benefits, Recipe, and Side Effects](https://www.organicfacts.net/calamansi-juice.html)
@@ -180,7 +172,21 @@ Benefits of calamansi juice include bleaching the skin, detoxifying the body, ai
 
 [READ MORE](https://www.organicfacts.net/calamansi-juice.html)
 
+[![Dried hibiscus leaves and hibiscus tea on a wooden table](data:image/svg+xml,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20525'></svg>)](https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html)
+
+[Hibiscus Tea: Benefits, How to Make & Side Effects](https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html)
+
+Health benefits of hibiscus tea include its ability to control hypertension & reduce high blood pressure, lower blood sugar levels, & improve liver health. Read more!
+
+[READ MORE](https://www.organicfacts.net/health-benefits/beverage/hibiscus-tea.html)
+
 Recent Articles
+
+[](https://www.organicfacts.net/uncategorized/health-benefits-of-lime-clone-2.html)
+
+[Lime: Benefits, Uses, and Side Effects](https://www.organicfacts.net/uncategorized/health-benefits-of-lime-clone-2.html)
+
+[READ MORE](https://www.organicfacts.net/uncategorized/health-benefits-of-lime-clone-2.html)
 
 [![Fresh moringa leaves, moringa fruit or drumsticks, and moringa seeds](data:image/svg+xml,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20525'></svg>)](https://www.organicfacts.net/uncategorized/moringa-clone.html)
 
@@ -211,14 +217,6 @@ Lime has benefits that include weight loss, skin & eye care, improved digestion,
 Barley grass helps strengthen the immune system, detoxify the body, & protects from radiation. It is a nutrient-rich superfood loaded with vitamins A, B, K & E. Read more!
 
 [READ MORE](https://www.organicfacts.net/health-benefits/cereal/barley-grass-clone.html)
-
-[![A whole papaya and a half-ripe papaya with leaves on a table](data:image/svg+xml,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20525'></svg>)](https://www.organicfacts.net/health-benefits/fruit/health-benefits-of-papaya-clone-2.html)
-
-[8 Amazing Benefits of Papaya](https://www.organicfacts.net/health-benefits/fruit/health-benefits-of-papaya-clone-2.html)
-
-Papaya fruit is packed with nutrients that aid in healthy digestion, boosted immunity, and heart health.It is rich in antioxidant nutrients such as carotenes and vitamin C.
-
-[READ MORE](https://www.organicfacts.net/health-benefits/fruit/health-benefits-of-papaya-clone-2.html)
 
 [](https://www.organicfacts.net/)
 
