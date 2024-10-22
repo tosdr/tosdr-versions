@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Mastering US opt-out requirements: A practical guide for marketers](https://www.onetrust.com/resources/mastering-us-opt-out-requirements-a-practical-guide-for-marketers-ebook/)
 * [Transforming data privacy and governance with OneTrust and Snowflake](https://www.onetrust.com/resources/transforming-data-privacy-and-governance-with-onetrust-and-snowflake-video/)
 * [The marketer's first-party data checklist](https://www.onetrust.com/resources/the-marketers-first-party-data-checklist/)
-* [DSAR Product Demo with Data Privacy Group](https://www.onetrust.com/resources/dsar-product-demo-with-data-privacy-group-webinar/)
 
 ### Platform
 
