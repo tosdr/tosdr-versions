@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![](https://s19687.pcdn.co/wp-content/uploads/visiplex_logo5_sm.webp)](https://www.visiplex.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
+
+![](https://s19687.pcdn.co/wp-content/uploads/visiplex_logo5_sm.webp)](https://www.visiplex.com/)
 
 [(847) 229-0250](tel:8472290250)
 
