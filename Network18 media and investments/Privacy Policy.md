@@ -69,12 +69,12 @@ Trending Topics :[Hyundai IPO](https://www.news18.com/business/ipo/hyundai-ipo-l
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 
-[Latest News](https://www.news18.com/news/)[Maharashtra Elections](https://www.news18.com/elections/)[Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[ISL](https://www.news18.com/football/indian-super-league/) [EPL](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)
+[Latest News](https://www.news18.com/news/)[Maharashtra Elections](https://www.news18.com/elections/)[Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)[US Elections](https://www.news18.com/elections/us-election/)[Showsha](https://www.news18.com/entertainment/)[ISL](https://www.news18.com/football/indian-super-league/) [EPL](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)
 
 * [Latest News](https://www.news18.com/news/)
 * ![New Icon](https://images.news18.com/static_news18/ibnlive/pix/NewIcon.svg)[Maharashtra Elections](https://www.news18.com/elections/)
 * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
-* [US Elections](https://www.news18.com/topics/us-election-2024/)
+* [US Elections](https://www.news18.com/elections/us-election/)
 * [Showsha](https://www.news18.com/entertainment/)
 * [ISL](https://www.news18.com/football/indian-super-league/)
 * [EPL](https://www.news18.com/football/epl-english-premier-league/)
