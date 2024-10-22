@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» обеспечит новые жилищные гарантии военнослужащим](https://cdn.er.ru/media/news/October2024/N6UmVwOUjDvhYT1U6SHk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-novye-zhilishnye-garantii-voennosluzhashim)
+
+[«Единая Россия» обеспечит новые жилищные гарантии военнослужащим](https://er.ru/activity/news/edinaya-rossiya-obespechit-novye-zhilishnye-garantii-voennosluzhashim)
+
+[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328) [#недвижимость](https://er.ru/activity/news?tags%5B0%5D=1466) [#дети-инвалиды](https://er.ru/activity/news?tags%5B0%5D=7929)
+
+Сегодня 11:34
+
+[![«Единая Россия» отправила гуманитарную помощь в Белгородскую область](https://cdn.er.ru/media/news/October2024/VKLoHtunPR92XksSIwaC-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-otpravila-gumanitarnuyu-pomosh-v-belgorodskuyu-oblast)
+
+[«Единая Россия» отправила гуманитарную помощь в Белгородскую область](https://er.ru/activity/news/edinaya-rossiya-otpravila-gumanitarnuyu-pomosh-v-belgorodskuyu-oblast)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
+
+Сегодня 09:57
+
+[![Мир равноправных государств: когда страны Запада смогут присоединиться к БРИКС. Интервью Андрея Климова «Парламентской газете»](https://cdn.er.ru/media/news/October2024/NpmeLYgFVhxB82ELVDFQ-small.jpg)](https://er.ru/activity/news/mir-ravnopravnyh-gosudarstv-kogda-strany-zapada-smogut-prisoedinitsya-k-briks-intervyu-andreya-klimova-parlamentskoj-gazete)
+
+[Мир равноправных государств: когда страны Запада смогут присоединиться к БРИКС. Интервью Андрея Климова «Парламентской газете»](https://er.ru/activity/news/mir-ravnopravnyh-gosudarstv-kogda-strany-zapada-smogut-prisoedinitsya-k-briks-intervyu-andreya-klimova-parlamentskoj-gazete)
+
+[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#парламентскаягазета](https://er.ru/activity/news?tags%5B0%5D=143617) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#ЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=29001)
+
+Сегодня 09:00
+
 [![«Единая Россия»: Началась регистрация волонтёров на мероприятия к 80-летию Великой Победы](https://cdn.er.ru/media/news/October2024/AivobEXHGaNwOyOYFYSv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-nachalas-registraciya-volontyorov-na-meropriyatiya-k-80-letiyu-velikoj-pobedy)
 
 [«Единая Россия»: Началась регистрация волонтёров на мероприятия к 80-летию Великой Победы](https://er.ru/activity/news/edinaya-rossiya-nachalas-registraciya-volontyorov-na-meropriyatiya-k-80-letiyu-velikoj-pobedy)
@@ -322,30 +346,6 @@
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Котяков](https://er.ru/activity/news?tags%5B0%5D=144202) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Фетисова](https://er.ru/activity/news?tags%5B0%5D=59593) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Рязанская область](https://er.ru/activity/news?tags%5B0%5D=3400) [#Синица](https://er.ru/activity/news?tags%5B0%5D=81247) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Рыбаков](https://er.ru/activity/news?tags%5B0%5D=39732) [#переобучение](https://er.ru/activity/news?tags%5B0%5D=5398) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
 
 21.10.24
-
-[![«Единая Россия» и Минстрой продолжат законодательно поддерживать сферы строительства и ЖКХ](https://cdn.er.ru/media/news/October2024/v7v6SMaOMbM7T7PfAF0N-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minstroj-prodolzhat-zakonodatelno-podderzhivat-sfery-stroitelstva-i-zhkh)
-
-[«Единая Россия» и Минстрой продолжат законодательно поддерживать сферы строительства и ЖКХ](https://er.ru/activity/news/edinaya-rossiya-i-minstroj-prodolzhat-zakonodatelno-podderzhivat-sfery-stroitelstva-i-zhkh)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#президиумфракции](https://er.ru/activity/news?tags%5B0%5D=142781) [#парламентскийчас](https://er.ru/activity/news?tags%5B0%5D=125666) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#социальнаягазификация](https://er.ru/activity/news?tags%5B0%5D=1092495) [#дольщики](https://er.ru/activity/news?tags%5B0%5D=129905) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#Гордеев](https://er.ru/activity/news?tags%5B0%5D=2510) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-21.10.24
-
-[![Ирина Яровая: Расширение перечня работодателей, имеющих право готовить специалистов по целевому набору, позволит решить задачи стратегического планирования в сфере экономики](https://cdn.er.ru/media/news/October2024/gLUUPYPaDvaUX3jWu3BL-small.jpg)](https://er.ru/activity/news/irina-yarovaya-rasshirenie-perechnya-rabotodatelej-imeyushih-pravo-gotovit-specialistov-po-celevomu-naboru-pozvolit-reshit-zadachi-strategicheskogo-planirovaniya-v-sfere-ekonomiki)
-
-[Ирина Яровая: Расширение перечня работодателей, имеющих право готовить специалистов по целевому набору, позволит решить задачи стратегического планирования в сфере экономики](https://er.ru/activity/news/irina-yarovaya-rasshirenie-perechnya-rabotodatelej-imeyushih-pravo-gotovit-specialistov-po-celevomu-naboru-pozvolit-reshit-zadachi-strategicheskogo-planirovaniya-v-sfere-ekonomiki)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#целевоеобучение](https://er.ru/activity/news?tags%5B0%5D=132982) [#подготовкакадров](https://er.ru/activity/news?tags%5B0%5D=152262) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-21.10.24
-
-[![В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://cdn.er.ru/media/news/October2024/sMNuOEsmqGdlXRu8gu6s-small.JPG)](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
-
-[В День отца активисты «Молодой Гвардии Единой России» поздравили более тысячи пап по всей стране](https://er.ru/activity/news/v-den-otca-aktivisty-molodoj-gvardii-edinoj-rossii-pozdravili-bolee-tysyachi-pap-po-vsej-strane)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
-
-20.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
