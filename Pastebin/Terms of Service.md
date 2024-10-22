@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ FREE giftcards method by Pastebin Team](https://pastebin.com/aQhgChra)
+* [Leaked by Zak](https://pastebin.com/pcvzspLx)
     
-    JavaScript | 10 sec ago | 0.08 KB
+    JavaScript | 3 sec ago | 0.09 KB
     
-* [⭐ giftcards for free by Pastebin Team](https://pastebin.com/txuV3e4t)
+* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/b65mZMPa)
     
-    JavaScript | 17 sec ago | 0.08 KB
+    JavaScript | 5 sec ago | 0.11 KB
     
-* [⭐ FREE giftcards method by Pastebin Team](https://pastebin.com/et7V4rtq)
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/1mQPXdGU)
     
-    JavaScript | 28 sec ago | 0.08 KB
+    JavaScript | 5 sec ago | 0.09 KB
     
-* [⭐ FREE giftcards method by Pastebin Team](https://pastebin.com/urXJ3dxy)
+* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/g5TNUu9w)
     
-    JavaScript | 31 sec ago | 0.08 KB
+    JavaScript | 6 sec ago | 0.11 KB
     
-* [⭐ giftcards for free by Pastebin Team](https://pastebin.com/fcTcDPuK)
+* [Brazzers accounts](https://pastebin.com/x0Qp9U1F)
     
-    JavaScript | 44 sec ago | 0.08 KB
+    JavaScript | 6 sec ago | 0.09 KB
     
-* [⭐ get any gift card for FREE by Pastebin Team](https://pastebin.com/Fp9rjavS)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/VQgcXcJ5)
     
-    JavaScript | 46 sec ago | 0.08 KB
+    JavaScript | 7 sec ago | 0.09 KB
     
-* [⭐ FREE giftcards method by Pastebin Team](https://pastebin.com/V7jHYBsq)
+* [Binance Accounts Leaked](https://pastebin.com/ei2Q5gV6)
     
-    JavaScript | 48 sec ago | 0.08 KB
+    JavaScript | 8 sec ago | 0.09 KB
     
-* [⭐ FREE giftcards method by Pastebin Team](https://pastebin.com/JijX5nvb)
+* [⭐ FREE giftcards method by Pastebin Team](https://pastebin.com/sShhsTHi)
     
-    JavaScript | 54 sec ago | 0.08 KB
+    JavaScript | 8 sec ago | 0.08 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
