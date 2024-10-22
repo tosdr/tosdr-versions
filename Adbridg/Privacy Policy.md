@@ -2,7 +2,12 @@ top of page
 
 [![AdBridg_logo](https://static.wixstatic.com/media/b723fc_0a7cbdf6f63f45d3a62cd17b9430556e~mv2.png/v1/fill/w_246,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AdBridg_IDworkingart1_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png)](https://www.adbridg.com/)
 
-* [Publisher Solutions](https://www.adbridg.com/top-publisher-solutions)
+* Publisher Solutions
+    
+    * [Ad Stack Management](https://www.adbridg.com/ad-stack-management)
+    * [Comprehensive Ad Systems Monitoring](https://www.adbridg.com/comprehensive-ad-systems-monitoring)
+    * [Enhanced Website Revenue Streams](https://www.adbridg.com/enhanced-website)
+    * [Real-Time Ad Optimization Tools](https://www.adbridg.com/real-time-ad-optimization)
 * [Calculator](https://www.adbridg.com/calculator)
 * [Testimonials](https://www.adbridg.com/testimonials)
 * [About](https://www.adbridg.com/aboutus)
