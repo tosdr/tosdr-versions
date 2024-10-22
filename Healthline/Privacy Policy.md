@@ -190,6 +190,15 @@
 
 Subscribe
 
+[#### Psoriasis](https://www.healthline.com/psoriasis)
+
+* [Basics](https://www.healthline.com/psoriasis/basics)
+* [Treatments](https://www.healthline.com/psoriasis/treatment)
+* [Prevention](https://www.healthline.com/psoriasis/management)
+* [What to Eat](https://www.healthline.com/psoriasis/diet)
+* [Psoriatic Arthritis](https://www.healthline.com/psoriasis/psoriatic-arthritis)
+* [Skin care](https://www.healthline.com/psoriasis/skin-care)
+
 Privacy Policy
 ==============
 
