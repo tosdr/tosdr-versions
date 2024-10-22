@@ -35,7 +35,7 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     
     [AICD Board Insights](https://www.aicd.com.au/about-aicd/board-insights.html)
     
-    [Board Advance](https://www.aicd.com.au/about-aicd/consulting.html) Open Sub Menu
+    [For your organisation](https://www.aicd.com.au/about-aicd/consulting.html) Open Sub Menu
     
     * [In-House Governance Development](https://www.aicd.com.au/about-aicd/consulting/in-house-governance.html)
     
@@ -89,8 +89,6 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     [Not-for-Profit Resource Centre](https://www.aicd.com.au/tools-and-resources/nfp-resource-centre.html)
     
     [Self-assessment Tool](https://www.aicd.com.au/tools-and-resources/self-assessment-tool.html)
-    
-    [Governance Analysis Tool](https://www.aicd.com.au/tools-and-resources/governance-analysis-tool.html)
     
     [Director Tools](https://www.aicd.com.au/tools-and-resources/director-tools.html)
     
