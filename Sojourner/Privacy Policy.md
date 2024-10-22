@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-efac03cb0f01a5ca5ae59e1f65b07254
+8397374e98302481fa5059f58667790d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round larimar beads](https://www.sojourner.biz/images/cache/stone/STN043.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
+[![10 mm round fire agate beads](https://www.sojourner.biz/images/cache/stone/FA0002.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/fire-agate/10-mm-round-fire-agate-beads.html "10 mm round fire agate beads")
 
-#### [10 mm round larimar beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
+#### [10 mm round fire agate beads](https://www.sojourner.biz/beads/stone-a-l/fire-agate/10-mm-round-fire-agate-beads.html "10 mm round fire agate beads")
 
-$41.00
+$13.00
 
 ### Best Sellers
 
