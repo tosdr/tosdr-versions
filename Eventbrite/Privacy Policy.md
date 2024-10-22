@@ -4,10 +4,6 @@
 
 Help Center](https://www.eventbrite.com/help/en-us/)
 
-We’re experiencing site issues and are working to fix them as soon as possible. Thank you for your patience.
-
-[Go to status updates](https://www.eventbritestatus.com/)
-
 [Terms and policies](https://www.eventbrite.com/help/en-us/topics/terms-and-policies/)
 
 [Help Center](https://www.eventbrite.com/help/en-us/)
