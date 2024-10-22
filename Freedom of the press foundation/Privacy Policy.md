@@ -103,10 +103,9 @@ In this policy, “FPF” refers to FPF staff, board members, interns, volunteer
 
 FPF does not sell or rent donor or website visitor information under any circumstances, and we do not share donor or visitor information without prior consent except as compelled by law. (See discussion below.)
 
-**Information gathered by FPF**’**s site**
-------------------------------------------
+#### **Information gathered by FPF**’**s site**
 
-### **Logging**
+**Logging**
 
 We generally log website requests and do internal analytical logging for up to 30 days from when the data was collected. Circumstances in which FPF may need to log and retain technical information for longer than 30 days include when we believe it is reasonably necessary for FPF’s mission and functionality, including situations such as:
 
@@ -119,11 +118,11 @@ In those and similar situations, we will delete the information as soon as it is
 
 How FPF internal analytics works: FPF endeavors to gather sufficient information for analyzing our website and how visitors move within it without compromising the privacy of our visitors. FPF’s internal analytical logging involves logging, for up to 30 days, two bytes of the IP address, as well as the referrer page, time stamp, page requested, user agent, language header, website visited, actions taken while on the page (such as selecting particular search filters or clicking particular buttons), and a hash of all of this information. After 30 days we keep only aggregate information from these logs. We also geolocate IP addresses before anonymizing them and store only the country.
 
-### **Cookies**
+**Cookies**
 
 FPF does not set persistent ID cookies on this site. We use session cookies on certain portions of the website. Session cookies expire when you close your browser. You can use [Tor](https://www.torproject.org/) if you wish to keep your connection information anonymous. However, please note that using Tor won’t protect the anonymity of the payment information.
 
-### **Donation information**
+**Donation information**
 
 When you make a donation through the FPF website, you tell us how much money you want to donate, how you want this money distributed (if applicable), and information required by your choice of payment processor, including your name, email address, and billing address.
 
