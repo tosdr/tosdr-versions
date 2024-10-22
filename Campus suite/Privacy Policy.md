@@ -2,9 +2,9 @@
 
 Just Launched: [SchoolStatus Sites & Apps](https://www.schoolstatus.com/products/sites-and-apps)!
 
-![Topbar Close icon](https://www.schoolstatus.com/wp-content/themes/schoolstatus/assets/build/images/topbar-cross.svg)
+![Topbar Close icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
 
-[![Site Logo](https://www.schoolstatus.com/wp-content/themes/schoolstatus/assets/build/images/site-logo.svg)](https://www.schoolstatus.com/)
+[![Site Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.schoolstatus.com/)
 
 * Solutions
     * [Solutions Overview](https://www.schoolstatus.com/solutions)
@@ -204,50 +204,50 @@ Ridgeland, Mississippi 39157
 
 * * *
 
-![Badge, Supes' Choice](https://www.schoolstatus.com/wp-content/uploads/image-22-1.webp)
+![Badge, Supes' Choice](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODIiIGhlaWdodD0iMTgzIiB2aWV3Qm94PSIwIDAgMTgyIDE4MyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Black badge, winner 2023, Top Ed Tech Products.](https://www.schoolstatus.com/wp-content/uploads/image-23-1.webp)
+![Black badge, winner 2023, Top Ed Tech Products.](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODMiIGhlaWdodD0iMTgzIiB2aWV3Qm94PSIwIDAgMTgzIDE4MyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![EdTech Trendsetter Awards Finalist](https://www.schoolstatus.com/wp-content/uploads/edtech-trendsetter-award-finalist-BW-300x424.webp)
+![EdTech Trendsetter Awards Finalist](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNDI0IiB2aWV3Qm94PSIwIDAgMzAwIDQyNCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Codie 2021 Siia Codie Winner](https://www.schoolstatus.com/wp-content/uploads/codie.svg)
+![Codie 2021 Siia Codie Winner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODUiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCAxODUgNjAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)
 
-![Top 100](https://www.schoolstatus.com/wp-content/uploads/MostFlexibleEmployer-Top-100-Badge-BW-300x418.webp)
+![Top 100](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNDE4IiB2aWV3Qm94PSIwIDAgMzAwIDQxOCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![1EdTech Trusted Education App Certified Badge](https://www.schoolstatus.com/wp-content/uploads/1EdTech_TrustEd-Apps-Certified-485x520-BW-300x322.webp)
+![1EdTech Trusted Education App Certified Badge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzIyIiB2aWV3Qm94PSIwIDAgMzAwIDMyMiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Best Meets Requirements Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestMeetsRequirements_MeetsRequirements-2-300x389.webp)
+![Best Meets Requirements Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Best Relationship Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestRelationship_Total-1-1-300x389.webp)
+![Best Relationship Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Best Results Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestResults_Total-300x389.webp)
+![Best Results Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Best Support Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestSupport_QualityOfSupport-300x389.webp)
+![Best Support Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Best Usability Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_BestUsability_Total-300x389.webp)
+![Best Usability Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Easiest to do Business With Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_EasiestToDoBusinessWith_EaseOfDoingBusinessWith-300x389.webp)
+![Easiest to do Business With Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Easiest to Use Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_EasiestToUse_EaseOfUse-300x389.webp)
+![Easiest to Use Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Users Most Likely to Recommend Summer 2024](https://www.schoolstatus.com/wp-content/uploads/ClassroomMessaging_UsersMostLikelyToRecommend_Nps-300x389.webp)
+![Users Most Likely to Recommend Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Easiest Admin Summer 2024](https://www.schoolstatus.com/wp-content/uploads/SchoolManagement_EasiestAdmin_EaseOfAdmin-300x389.webp)
+![Easiest Admin Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Leader Summer 2024](https://www.schoolstatus.com/wp-content/uploads/SchoolManagement_Leader_Leader-300x389.webp)
+![Leader Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Momentum Leader Summer 2024](https://www.schoolstatus.com/wp-content/uploads/SchoolManagement_MomentumLeader_Leader-300x389.webp)
+![Momentum Leader Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Users Love Us Summer 2024](https://www.schoolstatus.com/wp-content/uploads/users-love-us-2-300x389.webp)
+![Users Love Us Summer 2024](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzg5IiB2aWV3Qm94PSIwIDAgMzAwIDM4OSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
 
-![Document icon](https://www.schoolstatus.com/wp-content/uploads/cta_icon.svg)
+![Document icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MSIgaGVpZ2h0PSIxMDMiIHZpZXdCb3g9IjAgMCA5MSAxMDMiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)
 
 Ready to explore the platform for yourself?
 -------------------------------------------
 
 [Request a Demo](https://www.schoolstatus.com/request-a-demo "Request a Demo")
 
-[![Logo](https://www.schoolstatus.com/wp-content/themes/schoolstatus/assets/build/images/site-logo.svg)](https://www.schoolstatus.com/)
+[![Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.schoolstatus.com/)
 
 Want Updates?
 -------------
