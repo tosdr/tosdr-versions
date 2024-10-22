@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                                 
+Terms of service – G FUEL                                                                                                               
 
 [Skip to content](#MainContent)  
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/594/assets/fearfest-search-icon-black.png?v=70690630930442313831729275978)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/595/assets/fearfest-search-icon-black.png?v=70690630930442313831729541944)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/594/assets/fearfest-account-icon.png?v=50085873134992036791729275978) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/594/assets/fearfest-search-icon-black.png?v=70690630930442313831729275978) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/594/assets/bloody-hamburger-menu.png?v=86003260733675859121729275978) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/594/assets/fearfest-cart-icon.png?v=54831520779337061261729275978) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/595/assets/fearfest-account-icon.png?v=50085873134992036791729541944) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/595/assets/fearfest-search-icon-black.png?v=70690630930442313831729541944) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/595/assets/bloody-hamburger-menu.png?v=86003260733675859121729541944) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/595/assets/fearfest-cart-icon.png?v=54831520779337061261729541944) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -234,9 +234,9 @@ Terms of service
 
 **G FUEL** **TERMS & CONDITIONS OF SERVICE**
 
-Last Updated: November 11, 2022
+Last Updated: October 22, 2024
 
-Welcome to G Fuel! G Fuel, LLC d/b/a Gamma Labs (“we”, “us”, “our”, or “G Fuel”) are pleased to provide you with access to our “Services,” which means, collectively, (i) our website [https://gfuel.com/](https://gfuel.com/) and its related domains (“Site”), (ii) our GFUEL device application(s), (iii) any email notifications or other mediums, or portions of such mediums, through which you have accessed these Terms of Service (these “Terms”), and (iv) any information, data, material, and content viewable on, contained in or downloadable from any of the foregoing. Capitalized but undefined terms in these Terms will have the meanings ascribed to them in our [Privacy Policy](https://gfuel.com/policies/privacy-policy "Privacy Policy").
+Welcome to G Fuel! G Fuel, LLC (“we”, “us”, “our”, or “G Fuel”) are pleased to provide you with access to our “Services,” which means, collectively, (i) our website [https://gfuel.com/](https://gfuel.com/) and its related domains (“Site”), (ii) our GFUEL device application(s), (iii) any email notifications or other mediums, or portions of such mediums, through which you have accessed these Terms of Service (these “Terms”), and (iv) any information, data, material, and content viewable on, contained in or downloadable from any of the foregoing. Capitalized but undefined terms in these Terms will have the meanings ascribed to them in our [Privacy Policy](https://gfuel.com/policies/privacy-policy "Privacy Policy").
 
 Please read these Terms carefully before accessing or using our Services. By accessing or using any part of our Services **or by clicking to accept or agree to these Terms when this option is made available to you**, you agree to be bound by these Terms. If you do not agree to all the terms and conditions in these Terms, then you may not access or use the Site or any of our other Services. Any new features or tools which are added to our Services shall also be subject to these Terms.
 
@@ -506,7 +506,22 @@ For purposes of these Terms, (i) the word “_including_”, or any variation th
     
     Use of G FUEL® eGift cards can be redeemed only at gfuel.com and are not redeemable at retail locations or authorized online sellers. This card cannot be exchanged for cash, check or credit. All eGift card sales are final, non-returnable, and non-refundable. There are no additional processing fees for purchasing an eGift card. eGift cards will expire 5 years after the purchase date.
     
-2. **Contact Information**
+2. **Mobile Terms of Service**
+
+The G FUEL mobile message service (the "Service") is operated by G FUEL (“G FUEL”, “we”, or “us”). Your use of the Service constitutes your agreement to these terms and conditions (“Mobile Terms”). We may modify or cancel the Service or any of its features without notice. To the extent permitted by applicable law, we may also modify these Mobile Terms at any time and your continued use of the Service following the effective date of any such changes shall constitute your acceptance of such changes.  
+  
+By consenting to G FUEL’s SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of G FUEL through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list. Text messages may be sent using an automatic telephone dialing system or other technology. Service-related messages may include updates, alerts, and information (e.g., order updates, account alerts, etc.). Promotional messages may include promotions, specials, and other marketing offers (e.g., cart reminders).  
+You understand that you do not have to sign up for this program in order to make any purchases, and your consent is not a condition of any purchase with G FUEL. Your participation in this program is completely voluntary.  
+We do not charge for the Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. Message frequency varies. Message and data rates may apply. Check your mobile plan and contact your wireless provider for details. You are solely responsible for all charges related to SMS/text messages, including charges from your wireless provider.  
+  
+You may opt-out of the Service at any time. Text the single keyword command STOP to 96547 or click the unsubscribe link (where available) in any text message to cancel. You'll receive a one-time opt-out confirmation text message. No further messages will be sent to your mobile device, unless initiated by you. If you have subscribed to other G FUEL mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms.  
+For Service support or assistance, text HELP to 96547 or email [info@gfuel.com](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__mailto-3Ainfo-40gfuel.com%26d%3DDwMFaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3D15zyR4bVOUnpxSWVqebWBA%26m%3DIf5Rk6tegQa5Hyy5CvGj5-qvHNuEgchWKjp1Wk7PXNC_j4OjTYEj5KNNe-h6xfUR%26s%3Dha5lwPYv5RtjzBJgd-5p8mQ9LCILJAs7UhOs_i-nlbE%26e%3D&data=05%7C02%7Cvhana%40gfuel.com%7C01ad24fe5a804128380908dcef9c8934%7Cebb79429a506433dbc98d42f262dd921%7C0%7C0%7C638648704331429738%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=1ADDrgkSMLmoD5AJwG6HO9%2BYfTlwDzPyz3YajVp%2FfN4%3D&reserved=0 "Original URL: https://urldefense.proofpoint.com/v2/url?u=https-3A__mailto-3Ainfo-40gfuel.com&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=15zyR4bVOUnpxSWVqebWBA&m=If5Rk6tegQa5Hyy5CvGj5-qvHNuEgchWKjp1Wk7PXNC_j4OjTYEj5KNNe-h6xfUR&s=ha5lwPYv5RtjzBJgd-5p8mQ9LCILJAs7UhOs_i-nlbE&e=. Click or tap if you trust this link.").  
+  
+We may change any short code or telephone number we use to operate the Service at any time and will notify you of these changes. You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number we have changed may not be received and we will not be responsible for honoring requests made in such messages.  
+The wireless carriers supported by the Service are not liable for delayed or undelivered messages. You agree to provide us with a valid mobile number. If you get a new mobile number, you will need to sign up for the program with your new number.  
+  
+To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service.  
+We respect your right to privacy. To see how we collect and use your personal information, please see our [Privacy Notice](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__gfuel.com_policies_privacy-2Dpolicy%26d%3DDwMFaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3D15zyR4bVOUnpxSWVqebWBA%26m%3DIf5Rk6tegQa5Hyy5CvGj5-qvHNuEgchWKjp1Wk7PXNC_j4OjTYEj5KNNe-h6xfUR%26s%3DEPu2CnR9uQrhhhJcsP0lRvHdAPQpWZLmSzRDn0CZt24%26e%3D&data=05%7C02%7Cvhana%40gfuel.com%7C01ad24fe5a804128380908dcef9c8934%7Cebb79429a506433dbc98d42f262dd921%7C0%7C0%7C638648704331450562%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=al8R28Qj8LLY607EKObkx17SuYYEZeZchyd5NqLjK1c%3D&reserved=0 "Original URL: https://urldefense.proofpoint.com/v2/url?u=https-3A__gfuel.com_policies_privacy-2Dpolicy&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=15zyR4bVOUnpxSWVqebWBA&m=If5Rk6tegQa5Hyy5CvGj5-qvHNuEgchWKjp1Wk7PXNC_j4OjTYEj5KNNe-h6xfUR&s=EPu2CnR9uQrhhhJcsP0lRvHdAPQpWZLmSzRDn0CZt24&e=. Click or tap if you trust this link.").
 
 If you have any questions about these Terms, please contact us in one of the following ways:
 
@@ -575,7 +590,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/594/assets/app-store-badge.svg?v=123926581890561309811729275978)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/594/assets/google-play-badge.png?v=132395384020293405351729275978)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/595/assets/app-store-badge.svg?v=123926581890561309811729541944)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/595/assets/google-play-badge.png?v=132395384020293405351729541944)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
