@@ -34,7 +34,9 @@ Company
 
 [Research & Insights](https://www.goguardian.com/research-and-insights)[Privacy & Trust](https://www.goguardian.com/privacy-information)[Events & Conferences](https://www.goguardian.com/events)[Newsroom](https://www.goguardian.com/newsroom)[GoGuardian Gives](https://www.goguardian.com/goguardian-gives)[Contact Us](https://www.goguardian.com/contact)
 
-[Careers](https://www.goguardian.com/careers)[![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)](https://www.goguardian.com/search)
+[Careers](https://www.goguardian.com/careers)[![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)
+
+Search Page](https://www.goguardian.com/search)
 
 ![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)
 
@@ -380,13 +382,11 @@ Pear Deck Learning
 
 [Your Privacy Rights](javascript:Optanon.ToggleInfoDisplay())
 
-* [![GoGuardian shield](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60e88b112ffc2253bf9f3205_goguardian-shield-2c.svg)
-    
-    link to GoGuardian homepage](https://www.goguardian.com/)
-* [![GoGuardian Facebook account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edee29e69ba074b30c1c93_facebook.svg)](https://www.facebook.com/goguardian/)
-* [![GoGuardian Instagram account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edecb46b8bea360a93c00e_instagram.svg)](https://www.instagram.com/goguardian/)
-* [![GoGuardian Twitter account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edec5977c9e6f949cf13cb_Logo%20black.svg)](https://twitter.com/goguardian)
-* [![GoGuardian YouTube account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edee0baa133b1c6c39421c_youtube.svg)](https://www.youtube.com/goguardian)
-* [![GoGuardian LinkedIn account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edef41b1bbd51abf9cf731_linkedin.svg)](https://www.linkedin.com/company/goguardian)
+* [Home](https://www.goguardian.com/)
+* [Facebook](https://www.facebook.com/goguardian/)
+* [Instagram](https://www.instagram.com/goguardian/)
+* [Twiiter](https://twitter.com/goguardian)
+* [youtube](https://www.youtube.com/goguardian)
+* [Linkedin](https://www.linkedin.com/company/goguardian)
 
 © 2024 Liminex, Inc. doing business as GoGuardian. All rights reserved.
