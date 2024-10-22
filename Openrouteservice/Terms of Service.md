@@ -26,6 +26,7 @@ Toggle navigation
 * [Jobs](https://heigit.org/join-the-team/)
 * [API Playground](https://openrouteservice.org/dev/#/api-docs)
     * [Directions](https://openrouteservice.org/dev/#/api-docs/v2/directions/%7Bprofile%7D/get)
+    * [Export](https://openrouteservice.org/dev/#/api-docs/v2/export/%7Bprofile%7D/post)
     * [Isochrones](https://openrouteservice.org/dev/#/api-docs/v2/isochrones/%7Bprofile%7D/post)
     * [Matrix](https://openrouteservice.org/dev/#/api-docs/v2/matrix/%7Bprofile%7D/post)
     * [Snap](https://openrouteservice.org/dev/#/api-docs/v2/snap/%7Bprofile%7D/post)
