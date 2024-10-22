@@ -275,6 +275,7 @@ Footer
 
 * [Legal](https://www.xero.com/au/legal/terms/)
 * [Privacy notice](https://www.xero.com/au/legal/privacy/)
+* [Sitemap](https://www.xero.com/au/sitemap/)
 * [Accessibility](https://www.xero.com/au/accessibility/)
 
 The current region is AustraliaRegionAustralia (AUD)
