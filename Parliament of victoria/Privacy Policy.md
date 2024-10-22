@@ -91,6 +91,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Lived experience fuels MPs’ disability advocacy](https://parliament.vic.gov.au/link/b06fa93d551a4e10b05e0b88236adcb0.aspx)
+        
+        22 October 2024
+        
     * [Councils await report on local government](https://parliament.vic.gov.au/link/168db32f828340839b07061b5c923e4a.aspx)
         
         21 October 2024
@@ -98,10 +102,6 @@ Main menu
     * [Early legal intervention helps avoid crisis](https://parliament.vic.gov.au/link/bd902199db084709944693a339a321c5.aspx)
         
         18 October 2024
-        
-    * [Report suggests ways to boost the state education system](https://parliament.vic.gov.au/link/94410d2136804990a01299335b81c20d.aspx)
-        
-        15 October 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
