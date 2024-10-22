@@ -304,10 +304,12 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Launch and scale compute workloads on KVM instances featuring hyperfast NVMe SSD storage and best price-to-performance ratio!
+#### Ready to get started?
 
   
-[Get Started](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
+Sign up for a free dynamic DNS account, no credit card needed  
+  
+[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
   
 
 ### News
