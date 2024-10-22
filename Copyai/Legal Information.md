@@ -1,6 +1,6 @@
-Just released: "Future Proofed: **How AI Is Transforming GTM Strategy"**
+AI Plays to Find and Close More Deals
 
-[Get the book](https://copy.ai/book)
+[Join the event on 10/24](https://seamless-ai.zoom.us/webinar/register/4117292722862/WN_4QksAXdbSTmnGS1V0ws__Q#/registration)
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
@@ -48,7 +48,7 @@ By Team
 
 Learn More
 
-[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)[Webinars](https://copy.ai/webinars)
 
 Get Help
 
@@ -120,7 +120,7 @@ By Team
 
 Learn More
 
-[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)[Webinars](https://copy.ai/webinars)
 
 Get Help
 
@@ -527,7 +527,7 @@ By Team
 
 Learn more
 
-[Blog](https://copy.ai/blog)[Events](https://copy.ai/webinars)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[Events](https://copy.ai/webinars)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)[Webinars](https://copy.ai/webinars)
 
 Get help
 
@@ -541,7 +541,7 @@ By Role
 
 Learn
 
-[Home](https://copy.ai/)[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)[Careers](https://jobs.lever.co/CopyAI)
+[Home](https://copy.ai/)[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)[Careers](https://jobs.lever.co/CopyAI)[Free Tools](https://copy.ai/tools)
 
 Get Support
 
