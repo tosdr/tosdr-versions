@@ -4,7 +4,7 @@ Privacy
 Privacy Policy
 ==============
 
-**Last update:**  17\. October 2024
+**Last update:**  21\. October 2024
 
 This data privacy statement applies to (amongst others):
 
@@ -449,7 +449,34 @@ The data is deleted as soon as it is no longer required for our record-keeping p
 
 Cookies are stored on the user’s computer and transmitted to us from there. Hence you as the user have complete control over the use of cookies. By changing the settings in your internet browser, you can deactivate or limit the transmission of cookies. Cookies that have already been stored can be deleted at any time. This can also be carried out automatically. If cookies are deactivated for our website, it is possible that you may no longer be able to use all the functions of the website to their full extent.
 
-### **13\. Remarketing (Marketing Cookies)**
+### **13\. Analysis of user behavior using Mouseflow**
+
+#### **13.1. Scope of the processing of personal data**
+
+On our website we use the tool from Mouseflow ApS, Flaesketorvet 68, 1711 Copenhage, Denmark. The following data is transmitted to the service provider Mouseflow ApS for the purpose of improving user experience: 
+
+* anonymized IP-adress
+* device type
+* date and time of the website visit
+* user behavior on the website
+
+#### **13.2. Legal basis for the data processing**
+
+The legal basis for the processing is Art. 6 para. 1 item a (consent). We obtain this via the cookie banner. 
+
+#### **13.3. Purpose of data processing**
+
+The processing of the personal data of the users enables us to analyse our users’ browsing habits. By evaluating the data obtained, we are able to compile information on the use of the individual components of our website. This helps us to constantly improve our website and its user-friendliness.
+
+#### **13.4. Duration of the storage**
+
+The data is deleted as soon as it is no longer required for our record-keeping purposes. The evaluations are performed using aggregated, and thus no longer personal, data.
+
+#### **13.5. Option to object or request elimination**
+
+Cookies are stored on the user’s computer and transmitted to us from there. Hence you as the user have complete control over the use of cookies. By changing the settings in your internet browser, you can deactivate or limit the transmission of cookies. Cookies that have already been stored can be deleted at any time. This can also be carried out automatically. If cookies are deactivated for our website, it is possible that you may no longer be able to use all the functions of the website to their full extent.
+
+### **14\. Remarketing (Marketing Cookies)**
 
 This website uses Google’s remarketing function. The function serves to present advertisements of interest to the website visitors within the Google advertising network. This technology enables us to display automatically created, target group-oriented advertisements after your visit to our website. The displays are based on the products and services that you clicked on during your last visit to our website. To this end, a so-called “cookie” is stored in the browser of the website visitor, which makes it possible to recognise the visitor when he calls up websites that belong to the Google advertising network. Cookies are small text files that are stored in your browser when you visit our website. Normally, Google stores information such as your web request, the IP address, the browser type, the browser language, the date and the time of your request. This information serves to associate the web browser with a specific computer. On the web pages of the Google advertising network, advertisements can subsequently be presented to the visitor that are related to contents that the visitor previously called up on websites that use Google’s remarketing function.
 
@@ -470,13 +497,13 @@ If you do not change any settings or delete anything in your internet browser, t
 * \_gcl\_au
 * \_fbp
 
-### **14\. Analysis by Jentis GmbH**
+### **15\. Analysis by Jentis GmbH**
 
 For the purpose of analysing the user behaviour of customers and for the purpose of website optimisation, we use services of JENTIS GmbH (Schönbrunner Strasse 231, 1120 Vienna, Austria). This service provider therefore receives access to web analysis data, which are measured, stored and made available by the utilised analysis tools and JENTIS®.
 
 On the one hand, data is transmitted to JENTIS GmbH for analysis purposes, on the other hand JENTIS® on our behalf independently collects data relating to the browser environment or the behaviour of the visitor. JENTIS GmbH only processes data that JENTIS GmbH cannot trace back to a person. IDs set by JENTIS® are merely random products and are used for anonymous recognition. Your IP address will be shortened before storage so that no personal reference is required.
 
-### **15\. LinkedIn Insight Conversion Tool**
+### **16\. LinkedIn Insight Conversion Tool**
 
 We use the LinkedIn Insight Conversion Tool of LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA, which allows us to obtain information about the use of our website and to provide you with advertising content on other websites that is tailored to your interests. For this purpose, a cookie with a validity of 120 days is set in your browser, which enables LinkedIn to recognize you when you visit a website. LinkedIn uses this data to create anonymous reports on ad activity and information about how you interact with our website.
 
@@ -486,7 +513,7 @@ By consenting to the use of marketing cookies, at the same time you agree pursua
 
 Find more information on data protection at LinkedIn here: [https://www.linkedin.com/legal/privacy-policy#choices-oblig](https://www.linkedin.com/legal/privacy-policy#choices-oblig) .
 
-### **16\. Personalization Engine**
+### **17\. Personalization Engine**
 
 In the customer area, in which you can log in as a customer of ours, we use the Personalization Engine tool from Ionos SE, Elgendorfer Str. 57, 56410 Montabaur, Germany (former name: "Ad Server"). This function is used to show you information and personalized offers in the customer area. For this purpose, your following data are transmitted to our service provider Ionos SE:  
 
@@ -513,7 +540,7 @@ On the website, we use the Personalization Engine tool for web tracking of websi
 
 The legal basis for the processing of users' personal data is Art. 6 para. 1 lit. a GDPR (consent). The respective data is deleted 365 days after the last visit.
 
-### **17\. Reddit Pixel (Conversion Tracking)**
+### **18\. Reddit Pixel (Conversion Tracking)**
 
 Purpose: Marketing  
 Recipient country: USA
@@ -528,7 +555,7 @@ The processing of your data is based on your consent within the meaning of Art. 
 
 You can find more information on data protection and your settings options in this regard at [https://www.redditinc.com/policies/privacy-policy](https://www.redditinc.com/policies/privacy-policy)
 
-### **18\. TikTok Pixel**
+### **19\. TikTok Pixel**
 
 On our website, we use the so-called TikTok pixel of the social network TikTok, which is operated by TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland ("TikTok"). The parent company of TikTok is based in China.
 
@@ -546,7 +573,7 @@ The use of the TikTok pixel as well as the storage of "conversion cookies" is ba
 
 For the processing of data for which TikTok acts as a data processor, we have concluded a data processing agreement with TikTok in which we oblige TikTok to protect our customers' data and not to pass it on to third parties.
 
-### **19\. Rights of the data subjects**
+### **20\. Rights of the data subjects**
 
 If you wish to exercise any of your rights mentioned below (lit a to g), please contact us via dataprotection@world4you.com and we will process your request.
 
@@ -601,7 +628,7 @@ You have the right to withdraw the consent granted by you for the processing of 
 
 You also have the right to lodge a complaint with the competent supervisory authority at any time.
 
-**Linz**, on  17\. October 2024
+**Linz**, on  21\. October 2024
 
 [Download as PDF](https://webcache-eu.datareporter.eu/c/9c8088b5-7ae6-4afc-83c3-f1f089b303c8/5Xps5b0vwZQ5/5z5/privacynotice_en.pdf)
 
@@ -632,6 +659,7 @@ Technically necessary cookies are used to enable the technical operation of a we
 | **cookieconsent\_status** | contains the information to what extent the user has confirmed the use of cookies. | DataReporter GmbH | 12 months | www.world4you.com |
 | **mf\_(ID)** | ensures the functionality and usability of the page and is used to track errors. |     | Session | www.world4you.com |
 | **mf\_user** | counts the number of sessions and assigns an anonymous identifier to each visitor. |     | Session | www.world4you.com |
+| **sessionId** | counts the number of sessions and assigns an anonymous identifier to each visitor. |     | Session | my.world4you.com |
 | **ti\_cid** | ensures the functionality and usability of the page and is used to track errors. |     | 12 months | world4you.com |
 | **W4YSESSID** | counts the number of sessions and assigns an anonymous identifier to each visitor. |     | Session | www.world4you.com |
 
@@ -649,9 +677,6 @@ Statistics cookies collect information about how websites are used to improve th
 | **\_gid** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google | 1 day | world4you.com |
 | **jts-rw** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Jentis | 1 year | world4you.com |
 | **jts\_ga** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google | Session | my.world4you.com |
-| **jts\_ga\_HMVMP3XZDE** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google Analytics | Session | my.world4you.com |
-| **MicrosoftApplicationsTelemetryDeviceId** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Microsoft | Session | www.world4you.com |
-| **MicrosoftApplicationsTelemetryFirstLaunchTime** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Microsoft | Session | www.world4you.com |
 
 #### Marketing
 
@@ -659,12 +684,12 @@ Marketing cookies come from external advertising companies and are used to colle
 
 | Surname | Purpose | Creator | Storage time | Domain |
 | --- | --- | --- | --- | --- |
-| **\_bl\_uid** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Kognitiv | Session | my.world4you.com |
 | **\_fbp** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Facebook | 3 months | world4you.com |
 | **\_gcl\_aw** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
 | **\_gcl\_dc** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
 | **\_gcl\_gb** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
 | **\_gcl\_gs** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
+| **\_uetvid** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Microsoft Bing | Session | my.world4you.com |
 | **bcookie** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | LinkedIn | 12 months | linkedin.com |
 | **IDE** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | 1 year | doubleclick.net |
 | **jts-fbp** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. |     | 3 months | world4you.com |
