@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Types of backup](https://www.backup4all.com/backup-types-kb.html)  
+* [Using Backup4all - FAQ 7](https://www.backup4all.com/using-backup4all-faq-7-kb.html)  
     
-* [How to back up data files from Google Drive u ...](https://www.backup4all.com/how-to-back-up-data-files-from-google-drive-using-backup4all-kb.html)  
+* [How to backup your data to Verizon](https://www.backup4all.com/how-to-backup-your-data-to-verizon-kb.html)  
     
-* [How to back up data files from HostEurope usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-hosteurope-using-backup4all-kb.html)  
+* [How to back up data files from CenturyLink us ...](https://www.backup4all.com/how-to-back-up-data-files-from-centurylink-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
+* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
     
-* [FTP backup using SSL encryption](https://www.backup4all.com/ftp-backup-using-ssl-encryption-kb.html)  
+* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
     
 
 Choose language:
