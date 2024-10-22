@@ -280,6 +280,20 @@ The UK ICO has Standard Data Protection Clauses that were issued by the Commissi
 
 Our standard EU Data Processing Agreement incorporating the EU SCCs can be downloaded [here](https://www.kamiapp.com/wp-content/uploads/2022/12/GDPR-2022-KAMI-Data-Processing-Agreement.pdf) to sign upon request but is already incorporated into our Standard Terms of Service.
 
+UK Data Protection Officer (DPO) Representative
+-----------------------------------------------
+
+In case of a dispute or non-resolution related to privacy issues, European users may invoke binding arbitration via your EU data protection authority (DPAs).
+
+**Finally**, we have a **Designated Data Protection Representative** established in an the UK, as required under the UK GDPR.  
+You can contact our local UK representative here:
+
+AGORA GLOBAL PARTNERS LLP at 128, City Road, London EC1V 2NX
+
+Mrs. Ginka Todorova
+
+[agoraglobalpartners@gmail.com](mailto:agoraglobalpartners@gmail.com) or [g.hristova@ilac.eu](mailto:g.hristova@ilac.eu).
+
 California Privacy Rights
 -------------------------
 
@@ -342,6 +356,8 @@ Changes to this Policy
 We reserve the right to amend this Privacy Policy at any time. Please check this page periodically for changes. If we intend to make a material change in the collection, use, or disclosure practices with respect to a Child’s previously-collected personal information to which a school or district has previously has consented, we will contact by email to obtain the consent of the school, district, teacher or parent who registered for the service in connection with the child to such changes.
 
 We also reserve the right to amend the EU Model Contract Clauses in case when the European Commission adopts new ones.
+
+Kami has a published Cookies Policy found [here](https://www.kamipp.com/cookies-policy).
 
 Links to Other Sites
 --------------------
