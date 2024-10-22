@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/fc06a41e-8974-4875-a27f-34ae0040350a/20241022T055735/fc06a41e-8974-4875-a27f-34ae0040350a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc06a41e-8974-4875-a27f-34ae0040350a/20241022T055735/fc06a41e-8974-4875-a27f-34ae0040350a_360x203.jpg)](https://www.king5.com/article/news/local/family-searching-bothell-woman-last-seen-monday-morning/281-f8992880-647d-4d37-9b0c-c2c0fb70908b)
+        
+        #### [Family searching for Bothell woman last seen Monday morning](https://www.king5.com/article/news/local/family-searching-bothell-woman-last-seen-monday-morning/281-f8992880-647d-4d37-9b0c-c2c0fb70908b)
+        
     *  [![](https://media.king5.com/assets/KING/images/bf63c749-3e35-46a6-b017-9a95c7ff1dbb/20241021T174026/bf63c749-3e35-46a6-b017-9a95c7ff1dbb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf63c749-3e35-46a6-b017-9a95c7ff1dbb/20241021T174026/bf63c749-3e35-46a6-b017-9a95c7ff1dbb_360x203.jpg)](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
         
         #### [Navy identifies 2 aviators killed in growler crash near Mount Rainier](https://www.king5.com/article/news/local/navy-aviators-killed-growler-crash-mount-rainier-identified/281-8dfb767c-db4a-4f02-b125-58069727b34b)
-        
-    *  [![](https://media.king5.com/assets/KING/images/95f6de15-2e6f-49ab-8ac8-3d75b06c6999/20241022T015335/95f6de15-2e6f-49ab-8ac8-3d75b06c6999_16x9.jpg) ![](https://media.king5.com/assets/KING/images/95f6de15-2e6f-49ab-8ac8-3d75b06c6999/20241022T015335/95f6de15-2e6f-49ab-8ac8-3d75b06c6999_360x203.jpg)](https://www.king5.com/article/news/politics/elections/washington-snohomish-king-skagit-counties-election-transparency-doubters/281-4baf74ad-896e-48fa-8c43-5c8078ba3f3c)
-        
-        #### [Washington counties spend millions to make elections more transparent. It might not sway doubters](https://www.king5.com/article/news/politics/elections/washington-snohomish-king-skagit-counties-election-transparency-doubters/281-4baf74ad-896e-48fa-8c43-5c8078ba3f3c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+50°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
