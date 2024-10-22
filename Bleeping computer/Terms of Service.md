@@ -26,28 +26,28 @@
     * [![Internet Archive breached again through stolen access tokens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
-    * [![Google Scholar has a 'verified email' for Sir Isaac Newton](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Bumblebee malware returns after recent law enforcement disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google Scholar has a 'verified email' for Sir Isaac Newton](https://www.bleepingcomputer.com/news/security/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
-    * [![Microsoft creates fake Azure tenants to pull phishers into honeypots](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
-    * [![Severe flaws in E2EE cloud storage platforms used by millions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
-    
-    * [![Get Word, Excel, PowerPoint, and more for life in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get Word, Excel, PowerPoint, and more for life in this deal](https://www.bleepingcomputer.com/offer/deals/get-word-excel-powerpoint-and-more-for-life-in-this-deal/)
-    * [![Hackers exploit Roundcube webmail flaw to steal email, credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers exploit Roundcube webmail flaw to steal email, credentials](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
+        Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
     * [![Over 6,000 WordPress hacked to install plugins pushing infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
-    * [![Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft creates fake Azure tenants to pull phishers into honeypots](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
+        Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
+    
+    * [![SEC charges tech companies for downplaying SolarWinds breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        SEC charges tech companies for downplaying SolarWinds breaches](https://www.bleepingcomputer.com/news/security/sec-charges-tech-companies-for-downplaying-solarwinds-breaches/)
+    * [![Learn about free ethical hacking tools and more in this $45 course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Learn about free ethical hacking tools and more in this $45 course deal](https://www.bleepingcomputer.com/offer/deals/learn-about-free-ethical-hacking-tools-and-more-in-this-45-course-deal/)
+    * [![Exploit released for new Windows Server ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
+    * [![VMware fixes bad patch for critical vCenter Server RCE flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,12 +352,12 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
-* [![Bumblebee](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+* [![Isaac Newton Google Scholar](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
+    Google Scholar has a 'verified email' for Sir Isaac Newton](https://www.bleepingcomputer.com/news/security/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
 * [![ASUS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
