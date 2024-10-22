@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/numerologie-en-het-algoritme-van-de-schepping/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/grote-graanformatie-in-hollands-tarwe/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
