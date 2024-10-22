@@ -1324,6 +1324,8 @@ Sök Meny
             
         * [Sveerjen gærhkoen internasjonaale barkoe](https://www.svenskakyrkan.se/sveerjen-grhkoen-internasjonaale-barkoe)
             
+* [Kyrka–Polis i samverkan](https://www.svenskakyrkan.se/kyrka-polis-i-samverkan)
+    
 
 [Tillbaka till startsidan](https://www.svenskakyrkan.se/) [Svenska kyrkans startsida](https://www.svenskakyrkan.se/)
 
