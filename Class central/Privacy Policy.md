@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. digital marketing
+1. python
     
-2. project management
+2. English
     
-3. web development
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Data Analysis
+1. [Web Development
     
-    8,372 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Cybersecurity
+    13,284 courses](https://www.classcentral.com/subject/web-development)
+2. [Computer Science
     
-    16,059 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Digital Marketing
+    39,298 courses](https://www.classcentral.com/subject/cs)
+3. [Artificial Intelligence
     
-    5,938 courses](https://www.classcentral.com/subject/digital-marketing)
+    12,328 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Basic Spanish 1: Getting Started
+1. [The Emergence of the Modern Middle East - Part I
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/language-universitat-politecnica-de-valencia-basi-3698)
-2. [Moralities of Everyday Life
+    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
+2. [Organic Chemistry 1
     
-    Yale University](https://www.classcentral.com/course/moralities-911)
-3. [Songwriting: Writing the Lyrics
+    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
+3. [L'Italiano nel mondo
     
-    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
+    University of Naples Federico II](https://www.classcentral.com/course/italian-universita-degli-studi-di-napoli-federico-9241)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
