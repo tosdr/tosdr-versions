@@ -32,7 +32,7 @@ Declaración de Privacidad y confidencialidad de la información de Mercado Libr
 
 En Mercado Libre entendemos la importancia de proteger los datos de nuestros usuarios para que puedan usar todos los servicios de nuestras plataformas de una manera segura y confiable.
 
-![](https://http2.mlstatic.com/frontend-assets/privacy-notice-frontend/hero-ml-desktop.svg)
+![](https://http2.mlstatic.com/frontend-assets/privacy-notice-frontend/hero-yellowblue_light-desktop.svg)
 
 Esta Declaración de Privacidad forma parte de los [Términos y Condiciones Generales de Mercado Libre](https://www.mercadolibre.com.ar/ayuda/terminos-y-condiciones-de-uso_991).
 
