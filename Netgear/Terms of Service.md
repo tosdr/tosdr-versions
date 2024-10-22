@@ -1155,7 +1155,7 @@ Premium Support covers computers, peripherals, software, and any other computer-
 ##### ADDITIONAL SUBSCRIPTION TERMS FOR NETGEAR GEARHEAD FOR HOME
 
   
-1.    NETGEAR GearHead for Home Services provides remote technical support, where a Technical Support Engineer (TSE) may, with your permission, take over Your computer from the TSE’s remote location. Support for specific computers, peripherals, software, and any other computer-related product are generally described at [https://gearhead.netgear.com/products\_supported.html](https://gearhead.netgear.com/products_supported.html) .  
+1.    NETGEAR GearHead for Home Services provides remote technical support, where a Technical Support Engineer (TSE) may, with your permission, take over Your computer from the TSE’s remote location. Support for specific computers, peripherals, software, and any other computer-related product. .  
   
 2.    A subscription to NETGEAR GearHead for Home Services covers computers designated under Your NETGEAR account. The subscription covers up to three (3) computers in a home, unless You pay for additional computers to be covered under the same subscription. You may request for additional computer support by contacting NETGEAR support at 1-855-432-7432.
 
@@ -1243,13 +1243,13 @@ COMPANY
 * [Certified Refurbished](https://store.netgear.com/refurbished-info/?lang=en_us&referrerpageurl=)
 * [Where To Buy](https://www.netgear.com/home/where-to-buy/)
 
-[![facebook](/cid/fit/2048x1265/https/www.netgear.com/media/facebook_tcm148-94986.png)](https://www.facebook.com/Netgear/)
+[![facebook](/cid/fit/1024x633/https/www.netgear.com/media/facebook_tcm148-94986.png)](https://www.facebook.com/Netgear/)
 
-[![twitter_logo_home_page_smaller](/cid/fit/2048x1265/https/www.netgear.com/media/twitter_logo_home_page_smaller_tcm148-152849.png)](https://twitter.com/NETGEAR)
+[![twitter_logo_home_page_smaller](/cid/fit/1024x633/https/www.netgear.com/media/twitter_logo_home_page_smaller_tcm148-152849.png)](https://twitter.com/NETGEAR)
 
-[![instagram](/cid/fit/2048x1265/https/www.netgear.com/media/instagram_tcm148-94988.png)](https://instagram.com/netgear)
+[![instagram](/cid/fit/1024x633/https/www.netgear.com/media/instagram_tcm148-94988.png)](https://instagram.com/netgear)
 
-[![youtube](/cid/fit/2048x1265/https/www.netgear.com/media/youtube_tcm148-94989.png)](https://www.youtube.com/user/NETGEARChannel)
+[![youtube](/cid/fit/1024x633/https/www.netgear.com/media/youtube_tcm148-94989.png)](https://www.youtube.com/user/NETGEARChannel)
 
 © 1996-2024 NETGEAR®
 
