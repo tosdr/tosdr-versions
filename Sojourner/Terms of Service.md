@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f0028866ef8223238ee1378659b475be
+1649bc56e01c84f2332f3b69ea8aab82
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![7 mm gold-plated tube bead](https://sojourner.biz/images/cache/metalbeads/MET011.200.jpg)](https://sojourner.biz/beads/metal/7-mm-gold-plated-tube-bead.html "7 mm gold-plated tube bead")
+[![12 mm thin Baroque silver pearls](https://sojourner.biz/images/cache/pearls/PE0046.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-thin-baroque-silver-pearls.html "12 mm thin Baroque silver pearls")
 
-#### [7 mm gold-plated tube bead](https://sojourner.biz/beads/metal/7-mm-gold-plated-tube-bead.html "7 mm gold-plated tube bead")
+#### [12 mm thin Baroque silver pearls](https://sojourner.biz/beads/pearls/12-mm-thin-baroque-silver-pearls.html "12 mm thin Baroque silver pearls")
 
-$3.00
+$25.00
 
 ### Best Sellers
 
