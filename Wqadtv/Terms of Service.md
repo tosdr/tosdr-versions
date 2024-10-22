@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b3c46690-6a0e-4957-b044-f5fa4c01e055/20241022T162709/b3c46690-6a0e-4957-b044-f5fa4c01e055_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b3c46690-6a0e-4957-b044-f5fa4c01e055/20241022T162709/b3c46690-6a0e-4957-b044-f5fa4c01e055_360x203.jpg)](https://www.wqad.com/article/news/community/local-news-davenport-firefighters-respond-structure-fire/526-f88ca39c-1bef-47be-a2ef-25e7c74d226d)
         
-        #### [Jackson County residents raise concerns about wind turbines](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
+        #### [3 residents jump to safety during Davenport structure fire](https://www.wqad.com/article/news/community/local-news-davenport-firefighters-respond-structure-fire/526-f88ca39c-1bef-47be-a2ef-25e7c74d226d)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_360x203.jpg)](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_360x203.jpg)](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e)
         
-        #### [They're not ladybugs! What you need to know about Asian Lady Beetles](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
+        #### [Beyond the Badge: Monmouth lieutenant helps students feel safe](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e) [![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_360x203.jpg)](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e)
         
+        #### [Beyond the Badge: Monmouth lieutenant pays it forward by helping teach younger generation](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/29e3e93e-5f95-48b0-9a36-b68d4ba60109/20241021T224022/29e3e93e-5f95-48b0-9a36-b68d4ba60109_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/29e3e93e-5f95-48b0-9a36-b68d4ba60109/20241021T224022/29e3e93e-5f95-48b0-9a36-b68d4ba60109_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/862c04d3-ffca-47db-b330-2f1ee50c3155/20241022T121203/862c04d3-ffca-47db-b330-2f1ee50c3155_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/862c04d3-ffca-47db-b330-2f1ee50c3155/20241022T121203/862c04d3-ffca-47db-b330-2f1ee50c3155_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Showers in the forecast for your Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Showers on track for early Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_360x203.jpg)](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
         
-        #### [Family of Tennessee employee who died in Hurricane Helene flooding files wrongful death lawsuit](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
+        #### [Hurricane Oscar makes landfall in the Bahamas and heads toward Cuba](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+60°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
