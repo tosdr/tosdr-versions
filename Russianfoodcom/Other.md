@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Рубленые котлеты из куриной печени с шампиньонами и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=161750)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -170,6 +166,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Для уюта и настроения. Время ТЫКВЫ (42)](https://www.russianfood.com/reading/?post_id=22759) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/703/sm_702380.jpg)](https://www.russianfood.com/reading/?post_id=22759)
+
+Тыквенный хлеб-гармошка с корицей. Тыква с картошкой, перцем и грибами. Суп из индейки с тыквой и сливками. Кукурузная каша с курицей и тыквой. Тыквенное пюре с цедрой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22759)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22759#comments) | 22.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкуснейшее из простого. Лучшие рецепты ЗАПЕКАНОК (57)](https://www.russianfood.com/reading/?post_id=22758) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/696/sm_695240.jpg)](https://www.russianfood.com/reading/?post_id=22758)
+
+Творожная запеканка с тыквой и маком. Запеканка из печени и гречки. Запеканка с курицей и кабачками. Рыбная запеканка с картофелем. Запеканка с фаршем, грибами и овощами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22758)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22758#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -211,7 +235,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22751#comments) | 21.10.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22751#comments) | 21.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174316#comments) | 17.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Кофейно-сливочный мусс с печеньем и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174383) |     |
-
-[![Фото к рецепту: Кофейно-сливочный мусс с печеньем и орехами](//img1.russianfood.com/dycontent/images_upl/744/sm_743005.jpg "Фото к рецепту: Кофейно-сливочный мусс с печеньем и орехами")](https://www.russianfood.com/recipes/recipe.php?rid=174383)
-
-Кофейно-сливочный мусс с печеньем и орехами - идеальное порционное лакомство. Воздушная кофейная масса соединяется с кремом из взбитых сливок и сгущёнки. Дополняется десерт измельчённым шоколадом и грецкими орехами.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174383)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174383#comments) | 17.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Кексы с виноградом и корицей](https://www.russianfood.com/recipes/recipe.php?rid=174313) |     |
-
-[![Фото к рецепту: Кексы с виноградом и корицей](//img1.russianfood.com/dycontent/images_upl/741/sm_740080.jpg "Фото к рецепту: Кексы с виноградом и корицей")](https://www.russianfood.com/recipes/recipe.php?rid=174313)
-
-Эти аппетитные кексы готовятся из теста на основе молока, сливочного масла и яиц. Добавленная в тесто корица придаст кексам пряный аромат, который прекрасно сочетается с сочными виноградинками на их верхушках. Выпечка получается не только ароматной, но и очень вкусной.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174313)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174313#comments) | 17.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -463,4 +459,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(88)
+(119)
