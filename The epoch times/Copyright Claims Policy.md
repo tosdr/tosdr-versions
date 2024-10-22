@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Americans Who Never Lived in Certain US States Can Cast Ballots There, Courts Rule](https://www.theepochtimes.com/us/americans-who-never-lived-in-states-can-cast-ballots-courts-rule-5745616)
+    
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Americans Who Never Lived in Certain US States Can Cast Ballots There, Courts Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Americans Who Never Lived in Certain US States Can Cast Ballots There, Courts Rule](https://img.theepochtimes.com/assets/uploads/2022/06/21/absentee-ballots-1200x800-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/americans-who-never-lived-in-states-can-cast-ballots-courts-rule-5745616)
+* [Republicans Close Early Voting Gap Compared to 2020](https://www.theepochtimes.com/us/republicans-eat-into-democrats-early-voting-advantage-compared-to-4-years-ago-5745654)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Republicans Close Early Voting Gap Compared to 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Republicans Close Early Voting Gap Compared to 2020](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744982-NV-Vote-Polls_JF_10192024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-eat-into-democrats-early-voting-advantage-compared-to-4-years-ago-5745654)
+* [IRS Unveils New Federal Income Tax Brackets for 2025](https://www.theepochtimes.com/business/irs-unveils-new-federal-income-tax-brackets-for-2025-post-5745672)
+    
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![IRS Unveils New Federal Income Tax Brackets for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![IRS Unveils New Federal Income Tax Brackets for 2025](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705113-08122024-DSC00299-IRS-205x123.jpg.webp)](https://www.theepochtimes.com/business/irs-unveils-new-federal-income-tax-brackets-for-2025-post-5745672)
+* [Swing-State Democrat Bob Casey Uses Trump-Friendly References in Political Ad](https://www.theepochtimes.com/us/swing-state-democrat-bob-casey-uses-trump-friendly-references-in-political-ad-5744348)
+    
+    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Swing-State Democrat Bob Casey Uses Trump-Friendly References in Political Ad](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Swing-State Democrat Bob Casey Uses Trump-Friendly References in Political Ad](https://img.theepochtimes.com/assets/uploads/2023/01/05/Bob-Casey-205x123.jpg.webp)](https://www.theepochtimes.com/us/swing-state-democrat-bob-casey-uses-trump-friendly-references-in-political-ad-5744348)
 * [In Georgia, a Concerning Demographic Trend for Democrats](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
     
-    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745324-GettyImages-2168355911-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
+    ![In Georgia, a Concerning Demographic Trend for Democrats](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745631-GettyImages-2168355911-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-georgia-a-concerning-demographic-trend-for-democrats-5745131)
 * [California Voters Could Decide Whether Republicans Keep the House](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
     
-    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    7hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
     [![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674149-Voter-California-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
+    ![California Voters Could Decide Whether Republicans Keep the House](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745630-Voter-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-could-decide-whether-republicans-keep-the-house-5745214)
 * [Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
     
-    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    7hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740964-FotoJet-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
+    ![Pennsylvania Could Determine Control of the Senate as Bob Casey, Dave McCormick Face Off](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745632-FotoJet-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-could-determine-control-of-the-senate-as-bob-casey-dave-mccormick-face-off-5740949)
 * [Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://www.theepochtimes.com/china/assassinations-targeting-ccp-officials-highlight-rising-tensions-in-china-experts-say-5744491)
     
-    NEW By [Michael Zhuang](https://www.theepochtimes.com/author/michael-zhuang) and [Shawn Lin](https://www.theepochtimes.com/author/shawn-lin)
+    7hr By [Michael Zhuang](https://www.theepochtimes.com/author/michael-zhuang) and [Shawn Lin](https://www.theepochtimes.com/author/shawn-lin)
     
     [![Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Assassinations Targeting CCP Officials Highlight Rising Tensions in China, Experts Say](https://img.theepochtimes.com/assets/uploads/2023/12/03/id5540404-GettyImages-114340067-205x123.jpg.webp)](https://www.theepochtimes.com/china/assassinations-targeting-ccp-officials-highlight-rising-tensions-in-china-experts-say-5744491)
-* [Battleground Wisconsin Starts Early Voting](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
+* [Early Voting Begins in Wisconsin With 17 Million Ballots Already Cast Nationwide](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    7hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Battleground Wisconsin Starts Early Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Early Voting Begins in Wisconsin With 17 Million Ballots Already Cast Nationwide](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Battleground Wisconsin Starts Early Voting](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745522-GettyImages-2180092938-205x123.jpg.webp)](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
+    ![Early Voting Begins in Wisconsin With 17 Million Ballots Already Cast Nationwide](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745760-GettyImages-2180092938-OP-205x123.jpg)](https://www.theepochtimes.com/us/battleground-wisconsin-starts-early-voting-5745280)
 * [Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
     
-    1hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745564-Israel-military-base-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
-* [FTC Rule Banning Fake Reviews Takes Effect With Stiff Penalties](https://www.theepochtimes.com/us/ftc-rule-banning-fake-reviews-takes-effect-with-stiff-penalties-5745340)
-    
-    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![FTC Rule Banning Fake Reviews Takes Effect With Stiff Penalties](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FTC Rule Banning Fake Reviews Takes Effect With Stiff Penalties](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683808-Data_Privacy_Crackdown_22223748361200-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ftc-rule-banning-fake-reviews-takes-effect-with-stiff-penalties-5745340)
-* [Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://www.theepochtimes.com/us/trump-lauds-north-carolinians-who-voted-early-amid-post-hurricane-chaos-5745468)
-    
-    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Lauds North Carolinians Who Voted Early Amid Post-Hurricane Chaos](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745413-10212024-DSC06268-Mike-Stewart-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-lauds-north-carolinians-who-voted-early-amid-post-hurricane-chaos-5745468)
-* [‘Central Park Five’ Sue Trump Over Debate Remarks](https://www.theepochtimes.com/us/central-park-five-sue-trump-over-debate-remarks-5745220)
-    
-    6hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![‘Central Park Five’ Sue Trump Over Debate Remarks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘Central Park Five’ Sue Trump Over Debate Remarks](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711550-3-DSC06131-205x123.jpg.webp)](https://www.theepochtimes.com/us/central-park-five-sue-trump-over-debate-remarks-5745220)
-* [Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://www.theepochtimes.com/us/democrats-lead-republicans-in-fundraising-for-2nd-month-in-a-row-5745365)
-    
-    7hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Democrats Lead Republicans in Fundraising for 2nd Month in a Row](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737079-10072024-DSC03100-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrats-lead-republicans-in-fundraising-for-2nd-month-in-a-row-5745365)
+    ![Israel Arrests 7 Citizens Accused of Spying on Military Bases for Iran](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745634-Israel-military-base-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-arrests-7-citizens-accused-of-spying-on-military-bases-for-iran-5745493)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
