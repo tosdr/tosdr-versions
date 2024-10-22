@@ -1,6 +1,6 @@
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
-* [Join MarketIQ Beta](https://gameanalytics.com/marketiq/)
+* [Discover MarketIQ](https://gameanalytics.com/marketiq/)
 * [Analytics Tools](#)
     
     * Powerful analytics
@@ -368,17 +368,22 @@ Helping the world’s leading studios and game developers turn their data into i
 
  [![ISO 27001 certified by Prescient](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/iso-white-sm.png)](https://www.iafcertsearch.org/certification/0ec9433f-1a3f-503b-a8fa-5586c625eb07 "ISO 27001 certified by Prescient")[![SOC II](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/soc2-type2-sm.png)](https://www.aicpa.org/soc4so "SOC II")[![GameAnalytics is certified by the kidSAFE Seal Program.](https://www.kidsafeseal.com/sealimage/1042858311379296459/game_analytics_svg_whitetm.svg)](https://www.kidsafeseal.com/certifiedproducts/game_analytics.html)[![GameAnalytics is certified by the ePrivacy Seal Program.](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/eprivacy.svg)](https://www.eprivacy.eu/en/customers/awarded-seals/company/gameanalytics-aps/)
 
+Market Research
+---------------
+
+* [MarketIQ](https://gameanalytics.com/marketiq/)
+* [Store Intelligence](https://gameanalytics.com/gameintel/store-intelligence/)
+* [Benchmarks](https://gameanalytics.com/gameintel/benchmarks/)
+
 Analytics
 ---------
 
-* [How it works](https://gameanalytics.com/how-it-works/)
-* [In-depth Analytics](https://gameanalytics.com/analytics-tools)
-* [GameAnalytics PRO](https://gameanalytics.com/pro/)
+* [How it Works](https://gameanalytics.com/how-it-works/)
 * [Indie Program](https://gameanalytics.com/indie-program/)
 * [Web Shop Revenue](https://gameanalytics.com/xsolla/)
 * [Live Ops](https://gameanalytics.com/live-ops/)
 * [Integrations](https://gameanalytics.com/integrations/)
-* [Product updates](https://gameanalytics.com/product-updates/)
+* [Product Updates](https://gameanalytics.com/product-updates/)
 
 Data Tools
 ----------
