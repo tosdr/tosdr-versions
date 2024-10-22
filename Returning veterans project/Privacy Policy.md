@@ -2,15 +2,17 @@
 * [Skip to sub navigation (Press Enter).](#nr-nav-sub)
 * [Skip to main content (Press Enter).](#nr-content)
 
- ≡
-
-[△ TOP △](#nr-mobile-top)
-
 Returning Veterans Project
 
 [Returning Veterans Project](https://returningveterans.org/ "Home")
 
+[Returning Veterans Project](https://returningveterans.org/ "Home")
+
 *  Search 
+* [Subscribe](https://returningveterans.org/about/stay-connected/stay-connected/534)
+* [Donate](https://www3.thedatabank.com/dpg/681/default.asp?formid=donate)
+
+* Search
 * [Subscribe](https://returningveterans.org/about/stay-connected/stay-connected/534)
 * [Donate](https://www3.thedatabank.com/dpg/681/default.asp?formid=donate)
 
@@ -25,12 +27,11 @@ Search Search Search
 [How does volunteering fit into my practice?](https://returningveterans.org/volunteer-providers/how-volunteering-works/)  
 [How can I support RVP?](https://returningveterans.org/help-rvp/)
 
+ Privacy Statement
+
 * [Home](https://returningveterans.org/)
-* [About](https://returningveterans.org/about)
-    
-    About
-    
-    * [About (current page)](https://returningveterans.org/about)
+* About
+    * [About](https://returningveterans.org/about/about)
     * [The Challenge](https://returningveterans.org/about/the-challenge)
     * [Why RVP is Different](https://returningveterans.org/about/why-rvp-is-different)
     * [Meet Our Staff](https://returningveterans.org/about/meet-our-staff)
@@ -41,42 +42,41 @@ Search Search Search
     * [Contact](https://returningveterans.org/about/contact)
     * [Tribute to Our Founder](https://returningveterans.org/about/tribute-to-our-founder)
     * [Impact Report](https://returningveterans.org/about/impact-report)
-    * [Wall of Honor New](https://returningveterans.org/about/wall-of-honor-new)
-    * [Wall of Honor](https://returningveterans.org/wall-of-honor/)
-* [Get Services](https://returningveterans.org/get-services)
-    
-    Get Services
-    
-    * [Get Services](https://returningveterans.org/get-services)
+    * [Wall of Honor New](https://returningveterans.org/wall-of-honor)
+* Get Services
+    * [Get Services](https://returningveterans.org/get-services/get-services)
     * [Find a Provider](https://returningveterans.org/get-services/find-a-provider)
     * [How to Find a Provider](https://returningveterans.org/get-services/how-to-find-a-provider)
     * [How it Works](https://returningveterans.org/get-services/how-it-works)
     * [Is RVP Right for Me?](https://returningveterans.org/get-services/is-rvp-right-for-me)
     * [Meet Our Clients](https://returningveterans.org/get-services/meet-our-clients)
     * [Client FAQ](https://returningveterans.org/get-services/client-faq)
-* [Volunteer Providers](https://returningveterans.org/volunteer-providers)
-    
-    Volunteer Providers
-    
-    * [Volunteer Providers](https://returningveterans.org/volunteer-providers)
+* Volunteer Providers
+    * [Volunteer Providers](https://returningveterans.org/volunteer-providers/volunteer-providers)
     * [Become a Volunteer Provider](https://returningveterans.org/volunteer-providers/become-a-volunteer-provider)
         * [How Volunteering Works](https://returningveterans.org/volunteer-providers/how-volunteering-works)
+            
         * [Eligibility Requirements](https://returningveterans.org/volunteer-providers/eligibility-requirements)
+            
         * [Provider Application](https://returningveterans.org/volunteer-providers/volunteer-application)
+            
         * [Clinic Application](https://returningveterans.org/volunteer-providers/clinic-application)
+            
         * [FAQ](https://returningveterans.org/volunteer-providers/volunteer-faq)
+            
     * [Current Providers](https://returningveterans.org/volunteer-providers/current-providers)
         * [Help Us Grow](https://returningveterans.org/volunteer-providers/help-us-grow)
+            
         * [Tools and Resources](https://returningveterans.org/volunteer-providers/tools-and-trainings)
+            
         * [Call for Stories](https://returningveterans.org/volunteer-providers/call-for-stories)
+            
         * [FAQ](https://returningveterans.org/volunteer-providers/faq)
+            
     * [Volunteer Provider Spotlight](https://returningveterans.org/volunteer-providers/volunteer-provider-spotlight)
     * [Login](https://returningveterans.org/volunteer-providers/login)
-* [Help RVP](https://returningveterans.org/help-rvp)
-    
-    Help RVP
-    
-    * [Help RVP](https://returningveterans.org/help-rvp)
+* Help-RVP
+    * [Help RVP](https://returningveterans.org/help-rvp/help-rvp)
     * [Donate](https://returningveterans.org/help-rvp/donate)
     * [Donate Stock](https://returningveterans.org/help-rvp/donate-stock)
     * [Become a Supporter](https://returningveterans.org/help-rvp/become-a-supporter)
@@ -86,27 +86,23 @@ Search Search Search
     * [Why I Give](https://returningveterans.org/help-rvp/why-i-give)
     * [Share Hope](https://returningveterans.org/help-rvp/share-hope)
     * [Fundraise for RVP](https://returningveterans.org/help-rvp/fundraise-for-rvp)
-* [News](https://returningveterans.org/news)
-    
-    News
-    
-    * [News](https://returningveterans.org/news)
+* News
+    * [News](https://returningveterans.org/news/news)
     * [Get Involved](https://returningveterans.org/news/get-involved)
     * [About RVP](https://returningveterans.org/news/about-rvp)
     * [Veterans, Service Members, & Family](https://returningveterans.org/news/veterans-service-members-family)
     * [Volunteer Providers](https://returningveterans.org/news/volunteer-providers)
     * [RVP In the Community](https://returningveterans.org/news/rvp-in-the-community)
     * [Instagram](https://returningveterans.org/news/instagram)
-* [Events](https://returningveterans.org/events)
-    
-    Events
-    
-    * [Events](https://returningveterans.org/events)
+* Events
+    * [Events](https://returningveterans.org/events/events)
     * [Continuing Education Trainings](https://returningveterans.org/events/continuing-education-training)
     * [Community](https://returningveterans.org/events/community-events)
+    * [Calendar](https://returningveterans.org/events/calendar)
     * [Archive](https://returningveterans.org/events/archive)
-    * [Calendar New](https://returningveterans.org/events/calendar-new)
 * [Calendar](https://returningveterans.org/events/calendar)
+* [Provider Portal](https://returningveterans.org/provider-portal)
+* [Donate](https://www3.thedatabank.com/dpg/681/default.asp?formid=donate)
 
 Privacy Statement
 =================
@@ -170,18 +166,17 @@ Thank you to [NetRaising](https://netraising.com/) for the original draft langua
 
 #### [About](https://returningveterans.org/about/ "About")
 
-* [The Challenge](https://returningveterans.org/about/the-challenge/)
-* [Why RVP is Different](https://returningveterans.org/about/why-rvp-is-different/)
-* [Meet Our Staff](https://returningveterans.org/about/meet-our-staff/)
-* [Board of Directors](https://returningveterans.org/about/board-of-directors/)
-* [Equity Statement](https://returningveterans.org/about/equity-statement/)
-* [Finances](https://returningveterans.org/about/finances/)
-* [FAQs](https://returningveterans.org/about/general-faqs/)
-* [Contact](https://returningveterans.org/about/contact/)
-* [Tribute to Our Founder](https://returningveterans.org/about/tribute-to-our-founder/)
-* [Impact Report](https://returningveterans.org/about/impact-report/)
-* [Wall of Honor New](https://returningveterans.org/about/wall-of-honor-new/)
-* [Wall of Honor](https://returningveterans.org/wall-of-honor/)
+* [The Challenge](https://returningveterans.org//about/the-challenge)
+* [Why RVP is Different](https://returningveterans.org//about/why-rvp-is-different)
+* [Meet Our Staff](https://returningveterans.org//about/meet-our-staff)
+* [Board of Directors](https://returningveterans.org//about/board-of-directors)
+* [Equity Statement](https://returningveterans.org//about/equity-statement)
+* [Finances](https://returningveterans.org//about/finances)
+* [FAQs](https://returningveterans.org//about/general-faqs)
+* [Contact](https://returningveterans.org//about/contact)
+* [Tribute to Our Founder](https://returningveterans.org//about/tribute-to-our-founder)
+* [Impact Report](https://returningveterans.org//about/impact-report)
+* [Wall of Honor New](https://returningveterans.org/wall-of-honor)
 
 Newsletter Signup
 -----------------
@@ -191,10 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Nils Aron Andersson](https://cdn.returningveterans.org/images/honor/Nils_Aron_Andersson.jpg)  
+![Beth Blevens](https://cdn.returningveterans.org/images/honor/Blevens%2C_Beth.jpg)  
 
-**In Memory of Nils Aron Andersson**  
-United States Army  
+**In Honor of Beth Blevens**  
+United States Air Force  
+United States Air National Guard  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -240,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/22/24 - 8:32:22  
+Printed 10/22/24 - 2:21:57  
 © 2024 Returning Veterans Project
