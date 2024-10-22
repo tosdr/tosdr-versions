@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 692 1
+0 702 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/copyright-and-etc-created-by-1danielscott/)
+[](https://yiff-party.com/yiff/salvo-and-vala-created-by-mortisnero/)
 
-[copyright and etc created by 1danielscott](https://yiff-party.com/yiff/copyright-and-etc-created-by-1danielscott/)
+[salvo and vala created by mortisnero](https://yiff-party.com/yiff/salvo-and-vala-created-by-mortisnero/)
 
 0 2 0
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/mythology-created-by-ramzymo/)
+[](https://yiff-party.com/yiff/pipp-petals-directed-by-orangekitsune/)
 
-[mythology created by ramzymo](https://yiff-party.com/yiff/mythology-created-by-ramzymo/)
+[pipp petals directed by orangekitsune](https://yiff-party.com/yiff/pipp-petals-directed-by-orangekitsune/)
 
-0 77 0
+0 132 0
 
 September 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/death-directed-by-styx343/)
+[](https://yiff-party.com/yiff/applejack-and-spike-friendship-is-magic-and-etc-created-by-hooves-art/)
 
-[death directed by styx343](https://yiff-party.com/yiff-ai-premium/death-directed-by-styx343/)
+[applejack and spike (friendship is magic and etc) created by hooves-art](https://yiff-party.com/yiff/applejack-and-spike-friendship-is-magic-and-etc-created-by-hooves-art/)
 
-0 57 0
+0 176 0
 
 September 22, 2024
 
