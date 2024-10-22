@@ -30,15 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b3c46690-6a0e-4957-b044-f5fa4c01e055/20241022T162709/b3c46690-6a0e-4957-b044-f5fa4c01e055_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b3c46690-6a0e-4957-b044-f5fa4c01e055/20241022T162709/b3c46690-6a0e-4957-b044-f5fa4c01e055_360x203.jpg)](https://www.wqad.com/article/news/community/local-news-davenport-firefighters-respond-structure-fire/526-f88ca39c-1bef-47be-a2ef-25e7c74d226d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_360x203.jpg)](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae)
         
-        #### [3 residents jump to safety during Davenport structure fire](https://www.wqad.com/article/news/community/local-news-davenport-firefighters-respond-structure-fire/526-f88ca39c-1bef-47be-a2ef-25e7c74d226d)
+        #### [1 man pleads guilty to role in Rock Island Livestock Auction Barn fire](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae) [![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_360x203.jpg)](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_360x203.jpg)](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e)
+        #### [Man pleads guilty to setting Rock Island Livestock Auction Barn fire](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39)
         
-        #### [Beyond the Badge: Monmouth lieutenant helps students feel safe](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e) [![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b5e1b273-7b36-4b96-a156-470da52ba60e/20241017T222153/b5e1b273-7b36-4b96-a156-470da52ba60e_360x203.jpg)](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e)
+        #### [Building community & connections: Here's how to register for the 2nd annual Farmers of Color Conference](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39) [![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39)
         
-        #### [Beyond the Badge: Monmouth lieutenant pays it forward by helping teach younger generation](https://www.wqad.com/article/news/local/beyond-the-badge-monmouth-lieutenant-joseph-bratcher/526-2d2405c6-b377-41f4-9d4b-b373902ea59e)
+        #### [Closing the gap: Here's how to register for the 2nd annual Farmers of Color Conference](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -87,7 +88,7 @@ Navigation
 
 Davenport, IA »
 
-60°
+73°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
