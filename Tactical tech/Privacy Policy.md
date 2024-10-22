@@ -149,6 +149,16 @@ Shifting the conversation around the impacts of digital technologies
 
 [See our latest news](https://tacticaltech.org/news/latest/)
 
+* ![supercharged banner](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/supercharged-banner.jpg)
+    
+    * Project launches
+    
+    [### Supercharged by AI: A new creative intervention about the effects of AI on our online lives](https://tacticaltech.org/news/project-launches/supercharged-by-ai-effects/)
+    
+    From chatbots to deepfakes, AI-generated content is becoming increasingly common online. New AI tools make it easier, faster and cheaper to generate text, images, videos, and more. In turn, the harms that have always existed online – scams, harassment, polarisation and bias – are now being “supercharged” by AI.
+    
+    [Read more →](https://tacticaltech.org/news/project-launches/supercharged-by-ai-effects/)
+    
 * ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
     
     * Open calls
@@ -178,16 +188,6 @@ Shifting the conversation around the impacts of digital technologies
     In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
     
     [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-september-2024/)
-    
-* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
-    
-    * Open calls
-    
-    [### \[Offener Aufruf zu Partnerschaften\] An Berliner Organisationen, die mit Jugendlichen arbeiten](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
-    
-    Wir sind auf der Suche nach Partnerschaften mit formellen oder informellen, in Berlin ansässigen Jugendorganisationen und -institutionen, vor allem solchen, die mit jungen Menschen (13-18 Jahre) aus traditionell marginalisierten Identitäten oder Hintergründen arbeiten.
-    
-    [Read more →](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
     
 
 Impact stories
