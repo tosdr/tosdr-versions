@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 702 1
+0 723 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/salvo-and-vala-created-by-mortisnero/)
+[](https://yiff-party.com/yiff-ai-premium/big-macintosh-and-fluttershy-directed-by-foxlover7796-2/)
 
-[salvo and vala created by mortisnero](https://yiff-party.com/yiff/salvo-and-vala-created-by-mortisnero/)
+[big macintosh and fluttershy directed by foxlover7796](https://yiff-party.com/yiff-ai-premium/big-macintosh-and-fluttershy-directed-by-foxlover7796-2/)
 
-0 2 0
+0 1 0
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/pipp-petals-directed-by-orangekitsune/)
+[](https://yiff-party.com/yiff-gif/created-by-typicalwalker/)
 
-[pipp petals directed by orangekitsune](https://yiff-party.com/yiff/pipp-petals-directed-by-orangekitsune/)
+[created by typicalwalker](https://yiff-party.com/yiff-gif/created-by-typicalwalker/)
 
-0 132 0
+0 255 0
 
 September 22, 2024
 
-[](https://yiff-party.com/yiff/applejack-and-spike-friendship-is-magic-and-etc-created-by-hooves-art/)
+[](https://yiff-party.com/yiff/billy-brocas-and-gevaudan-cant-see-the-haters-and-etc-created-by-good4life4ever/)
 
-[applejack and spike (friendship is magic and etc) created by hooves-art](https://yiff-party.com/yiff/applejack-and-spike-friendship-is-magic-and-etc-created-by-hooves-art/)
+[billy brocas and gevaudan (can’t see the haters and etc) created by good4life4ever](https://yiff-party.com/yiff/billy-brocas-and-gevaudan-cant-see-the-haters-and-etc-created-by-good4life4ever/)
 
-0 176 0
+0 173 0
 
 September 22, 2024
 
