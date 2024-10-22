@@ -400,11 +400,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/igp4817.jpg?itok=J9j4MdZj)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada/slika-5.jpg?itok=7ws5pJl_)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/maraton-simona-trpceskog/simon3.jpg?itok=kTzGSqe-)](http://seecult.org/galerija/foto-galerija/foto-arhiva/maraton-simona-trpceskog)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/52-bijenale-u-veneciji/bijenale-venecija-jovana-stokic-rene-block.jpg?itok=pS1zpKu9)](http://seecult.org/galerija/foto-galerija/foto-arhiva/52-bijenale-u-veneciji)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
