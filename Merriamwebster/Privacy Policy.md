@@ -9,8 +9,8 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
 * [Thesaurus](https://www.merriam-webster.com/thesaurus)
 * [Join MWU](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU)
 * * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
 * * Settings
     * [My Words](https://www.merriam-webster.com/saved-words)
     * [Recents](https://www.merriam-webster.com/recents)
@@ -18,10 +18,10 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
     * [Log Out](https://www.merriam-webster.com/logout)
 * [More](javascript:void(0);)
     * [Thesaurus](https://www.merriam-webster.com/thesaurus)
-    * [Join MWU ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
+    * [Join MWU ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
     * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
     
     * [Log In](https://www.merriam-webster.com/login)
     * Username
@@ -36,14 +36,13 @@ Est. 1828
 Privacy Policy
 ==============
 
-25 Jan 2024
+14 Jun 2023
 
 * * *
 
-_Last Updated Effective as of: January 26, 2024\*_  
-\*The Services are affiliated with CMI Marketing, Inc., d/b/a Raptive (“Raptive”) for the purposes of placing advertising on the Services, and Raptive will collect and use certain data for advertising purposes. To learn more about Raptive’s data usage, click here: [https://raptive.com/creator-advertising-privacy-statement](https://raptive.com/creator-advertising-privacy-statement).
+_Last Updated and Effective as of: June 16, 2023_  
 
-Your use of our Services is governed by our [Terms of Use](https://www.merriam-webster.com/i/terms-of-use). OUR [TERMS OF USE](https://www.merriam-webster.com/i/terms-of-use) CONTAIN DISCLAIMERS OF WARRANTIES AND LIABILITY, A CHOICE OF LAW PROVISION AND A CLASS ACTION WAIVER. THESE PROVISIONS AFFECT YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH MERRIAM-WEBSTER, INCORPORATED ("MERRIAM") INCLUDING UNDER THIS PRIVACY POLICY. PLEASE REVIEW. YOUR USE OF THE SERVICES IS ACCEPTANCE OF THIS PRIVACY POLICY AND OUR [TERMS OF USE](https://www.merriam-webster.com/info/terms-of-use).
+Your use of our Services is governed by our [Terms of Use](https://www.merriam-webster.com/i/terms-of-use-adt). OUR [TERMS OF USE](https://www.merriam-webster.com/i/terms-of-use-adt) CONTAIN DISCLAIMERS OF WARRANTIES AND LIABILITY, A CHOICE OF LAW PROVISION AND A CLASS ACTION WAIVER. THESE PROVISIONS AFFECT YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH MERRIAM-WEBSTER, INCORPORATED ("MERRIAM") INCLUDING UNDER THIS PRIVACY POLICY. PLEASE REVIEW. YOUR USE OF THE SERVICES IS ACCEPTANCE OF THIS PRIVACY POLICY AND OUR [TERMS OF USE](https://www.merriam-webster.com/info/terms-of-use).
 
 Table of Contents
 -----------------
@@ -76,7 +75,7 @@ Your privacy is important to us. We understand that you are aware of and care ab
 
 Your decision to use the Services and provide your personal data is voluntary. We indicate on our online, mobile, and other registration forms what types of personal data are requested. You may choose not to submit requested information online, or may choose to restrict the use of cookies (see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights & Choices](#toc5) below for more information), but that may limit the services Merriam-Webster is able to provide to you.
 
-The Services are a network of general audience sites, and are not targeted to, and do not knowingly collect personal data from, minors under 16 years of age. We request that these individuals do not provide personal data through the Services.Please see [COPPA Compliance](#tocCOPPA) below for more information.
+The Services are a network of general audience sites, and are not targeted to, and do not knowingly collect personal data from, minors under 16 years of age. We request that these individuals do not provide personal data through the Services. Please see [COPPA Compliance](#tocCOPPA) below for more information.
 
 We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Policy as we undertake new personal data practices or adopt new privacy policies.
 
@@ -109,9 +108,9 @@ Merriam-Webster protects the identity of visitors to the Services by limiting th
     
 * #### Newsletters
     
-    To register for or subscribe to receive a Merriam-Webster newsletter, you must provide us with your email address. We use [Ortto (formerly known as Autopilot)](https://ortto.com/privacy/) and [Salesforce](https://www.salesforce.com/), our third-party service providers, to deliver requested newsletters, such as Word of the Day, to you on our behalf. When you open an email that contains a newsletter, we gather certain statistics, such as number of emails opened and clicks within a newsletter, using industry-standard technologies, including clear gifs, helping us monitor and improve our newsletters. For more information, please see [Ortto's Privacy Policy](https://ortto.com/privacy/) and [Salesforce's Privacy Statement](https://www.salesforce.com/company/privacy/). Except for Ortto and Salesforce, we do not share your voluntarily provided email address with any third party.
+    To register for or subscribe to receive a Merriam-Webster newsletter, you must provide us with your email address. We use [Autopilot by Ortto](https://ortto.com/privacy/) and [Salesforce](https://www.salesforce.com/), our third-party service providers, to deliver requested newsletters, such as Word of the Day, to you on our behalf. When you open an email that contains a newsletter, we gather certain statistics, such as number of emails opened and clicks within a newsletter, using industry-standard technologies, including clear gifs, helping us monitor and improve our newsletters. For more information, please see [Autopilot's Privacy Policy](https://ortto.com/privacy/) and [Salesforce's Privacy Statement](https://www.salesforce.com/company/privacy/). Except for Autopilot and Salesforce, we do not share your voluntarily provided email address with any third party.
     
-    You may manage your Merriam-Webster newsletter subscriptions by subscribing or unsubscribing at any time using the link included in the related newsletter or marketing email or visiting the 'Manage Newsletter'section of your [Account Settings](https://www.merriam-webster.com/preference-center/mw-wotd?contactid=0031O00003C7qb3QAB) page. Please note that if you have set your browser to block cookies, this may have an impact on your ability to unsubscribe. If you have any difficulties managing your email or other communication preferences with Merriam-Webster, please contact [Merriam Customer Support](https://www.merriam-webster.com/contact-us).
+    You may manage your Merriam-Webster newsletter subscriptions by subscribing or unsubscribing at any time using the link included in the related email. Please note that if you have set your browser to block cookies, this may have an impact on your ability to unsubscribe. If you have any difficulties managing your email or other communication preferences with Merriam-Webster, please contact us at [privacy@m-w.com](mailto:privacy@m-w.com).
     
 * #### Communications from our approved, third-party partners and us
     
@@ -121,9 +120,9 @@ Merriam-Webster protects the identity of visitors to the Services by limiting th
     * Emails highlighting new features, content, and usage tips for the Services; and
     * Special offers and other marketing messages
         * From us for additional Merriam-Webster and Encyclopædia Britannica (Merriam-Webster's parent company) products and services, and
-        * From our approved, third-party partners, if you "opt-in" or give us your permission to send them.
+        * From our approved, third-party partners, if you "opt in" or give us your permission to send them.
     
-    When you provide us with your personal information, you can let us know that you do not wish to receive special offers from Merriam-Webster or its third-party partners. Also, each special offer will have information available to allow you to "opt-out" if you no longer wish to receive special offers. We may use [Ortto](https://ortto.com/privacy/) or [Salesforce](https://www.salesforce.com/) to deliver emails to you on our behalf. When you open an email from us, we may gather certain statistics, such as number of emails opened and clicks within the email, using industry-standard technologies, including clear gifs, helping us monitor and improve our Services. For more information, please see [Ortto's Privacy Policy](https://ortto.com/privacy/) and [Salesforce's Privacy Statement](https://www.salesforce.com/company/privacy/). Except for Ortto and Salesforce, we do not share your voluntarily provided email address with any third party.
+    When you provide us with your personal information, you can let us know that you do not wish to receive special offers from Merriam-Webster or its third-party partners. Also, each special offer will have information available to allow you to "opt out" if you no longer wish to receive special offers. We may use [Autopilot](https://ortto.com/privacy/) or [Salesforce](https://www.salesforce.com/) to deliver emails to you on our behalf. When you open an email from us, we may gather certain statistics, such as number of emails opened and clicks within the email, using industry-standard technologies, including clear gifs, helping us monitor and improve our Services. For more information, please see [Autopilot's Privacy Policy](https://ortto.com/privacy/) and [Salesforce's Privacy Statement](https://www.salesforce.com/company/privacy/). Except for Autopilot and Salesforce, we do not share your voluntarily provided email address with any third party.
     
 * #### Surveys
     
@@ -144,7 +143,7 @@ Merriam-Webster protects the identity of visitors to the Services by limiting th
     
     We also use your data for legitimate business purposes that enable us to refine our products and services to better tailor them to your needs, communicate with you about other products and services offered by Merriam-Webster, secure your personal data, or comply with regulatory and legal obligations.
     
-    You can update your personal information and change your marketing preferences at any time by (i) following the instructions at the bottom of any newsletter or marketing email; (ii) visiting your [Account Settings](https://www.merriam-webster.com/preference-center/mw-wotd?contactid=0031O00003C7qb3QAB) page; or (iii) contacting [Merriam Customer Support](https://www.merriam-webster.com/contact-us).
+    You can update your personal information and change your marketing preferences at any time by sending an email to [privacy@m-w.com](mailto:privacy@m-w.com).
     
 * #### Payment card information
     
@@ -154,53 +153,54 @@ Merriam-Webster protects the identity of visitors to the Services by limiting th
 Links to Third-Party Websites or Apps
 -------------------------------------
 
-This Privacy Policy only governs information collected by Merriam-Webster through your use of the Services. You may find advertising or other content on the Services that link to websites, apps, products, or services belonging to our third-party partners, suppliers, advertisers, sponsors, licensors and other third parties, or offer content, functionality, or apps developed and maintained by third parties not controlled by Merriam-Webster, including [https://raptive.com/creator-advertising-privacy-statement>Rapitve](https://raptive.com/creator-advertising-privacy-statement) for the purposes of placing advertising on pages in the Services. These third-party linked websites, apps, products, services and advertisements may use automated means to collect information about you and your use of these features. Merriam-Webster provides these links solely as a convenience to you. Merriam-Webster does not control and is not responsible for the practices employed by websites, apps, products, services, or advertisements linked to or from the Services. Therefore, Merriam-Webster disclaims liability for any information, materials, products or services offered at any third-party website linked to or from the Services.  Such third-party websites, apps, products, or services may have terms and conditions (as well as privacy policies) that are different from those set forth here.
+You may find advertising or other content on the Services that link to websites, apps, products, or services belonging to our third-party partners, suppliers, advertisers, sponsors, licensors and other third parties, or offer content, functionality, or apps developed and maintained by third parties not controlled by Merriam-Webster. These third-party linked websites, apps, products, services and advertisements may use automated means to collect information about you and your use of these features. Merriam-Webster provides these links solely as a convenience to you. Merriam-Webster does not control and is not responsible for the practices employed by websites, apps, products, services, or advertisements linked to or from the Services. Therefore, Merriam-Webster disclaims liability for any information, materials, products or services offered at any third-party website linked to or from the Services.  Such third-party websites, apps, products, or services may have terms and conditions (as well as privacy policies) that are different from those set forth here.
 
-This Privacy Policy does not apply to the activities of Merriam-Webster’s third-party sponsors, advertisers, and other partners that may collect your user information while you access or use such third party’s services in connection with your use of the Services (e.g. social media and sharing services). Merriam-Webster is not responsible for the privacy practices or content of these third-party linked services once you leave the Services, click an advertisement or sign up for a special offer. We encourage you to read and review the privacy statement of each third-party service that you may choose to use and we urge all users of our Services to follow safe internet practices: _Once you leave the Merriam-Webster Services, do not supply personal data to these third-party linked services unless you have verified their security and privacy policies._
+This Privacy Policy does not apply to the activities of Merriam-Webster’s third-party sponsors, advertisers, and other partners that may collect your user information while you access or use such third party’s services in connection with your use of the Services (e.g., social media and sharing services). Merriam-Webster is not responsible for the privacy practices or content of these third-party linked services once you leave the Services, click an advertisement or sign up for a special offer. We encourage you to read and review the privacy statement of each third-party service that you may choose to use, and we urge all users of our Services to follow safe internet practices: _Once you leave the Merriam-Webster Services, do not supply personal data to these third-party linked services unless you have verified their security and privacy policies._
 
 Use of Our Services - Information Collected Automatically & Other Information
 -----------------------------------------------------------------------------
 
 Like other commercial websites, Merriam-Webster and our authorized partners use cookies (small files transferred from a website to its users' hard drives or browsers for record-keeping purposes), including strictly necessary, performance, functional, and personalization cookies, software logs, and other similar information gathering technologies throughout our Services to collect certain information automatically and store it in log files to monitor the use of the Services, gather non-personal informational about our users, and for a variety of other legitimate business interests and purposes. This information may include (but is not limited to) internet protocol (IP) addresses, mobile device identifiers, the region or general location where your computer or device is accessing the internet, browser type (for example, Firefox or Internet Explorer), operating system (for instance, Windows or Macintosh), your internet provider (for example, Comcast), and other usage information about your use of our Services, including a history of the pages you view.
 
-Web beacons, tags, and scripts also may be used on our Services or in email or other electronic communications we send to you. These assist us in delivering cookies, counting visits to our Services, understanding usage and campaign effectiveness and determining whether an email has been opened and acted upon. We may receive reports based on the use of these technologies by our third-party service providers on an individual and aggregated basis.
-
 We may work with DigiTrust to set a cookie (DigiTrust Cookie) in your browser to enable us to collect web-viewing data that includes visits to a Merriam-Webster service and other non-affiliated websites over time.
 
 We also may work with third-party analytics providers, ad networks, and advertisers in order to track your online activities over time and across third party websites, apps and devices, by obtaining information through the automated means (including cookies) mentioned above. The information received by us through these automated methods may include (but is not limited to) information about your activities across unrelated websites and mobile applications, information about the possible relationships between different browsers and devices, information that we receive from our third-party service providers, demographic data, information from social media providers, and information about your interests. We may add this information to the data we have already collected through our Services.
 
-We have a legitimate interest in understanding how our users, subscribers, customers, and potential customers use our Services. Among other things, this assists us in providing more relevant products and services. Please refer to our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights & Choices](#toc5) below for more information.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Services. For more information about cookies, please visit [All About Cookies](https://allaboutcookies.org/).
+Please refer to our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights & Choices](#toc5) below for more information.
 
 * #### Purposes for processing (using) information collected automatically & other information
     
     We may use and disclose information collected automatically through our Services and other information for any purpose, except if it is considered personal data under applicable law. If we combine information collected automatically with the personal data provided by you, we treat the combined information as personal data and use it only in the manner described above. See [Purposes for processing (using) personal data provided directly by you](#purposes1) above.
     
-    On the basis of legitimate interests, we use this information (or combined information) to help us design our Services to better suit our users' needs, to provide and improve our Services, for identification verification, to provide support, for statistical and market research purposes to tailor content to usage patterns, for analytic purposes through tools such as [Google Analytics](https://policies.google.com/privacy?hl=en) and to personalize your experience by presenting content, products, and offers tailored to you. This information, along with other information we gather when you login, also can be used to understand use across websites and devices to further improve our Services, and show you advertisements on the Services or other third-party websites and apps that may be tailored to your individual interests and enable us to offer the Services to you free of charge. We also may use your IP address to help diagnose problems with our servers and to administer our Services, analyze trends, track user movements and gather broad demographic information that assists us in identifying user preferences.
+    On the basis of legitimate interests, we use this information (or combined information) to help us design our Services to better suit our users' needs, to provide and improve our Services, for identification verification, to provide support, for statistical and market research purposes to tailor content to usage patterns, for analytic purposes through tools such as Google Analytics, and to personalize your experience by presenting content, products, and offers tailored to you. This information, along with other information we gather when you login, also can be used to understand use across websites and devices to further improve our Services and show you advertisements on the Services or other third-party websites and apps that may be tailored to your individual interests and enable us to offer the Services to you free of charge. We also may use your IP address to help diagnose problems with our servers and to administer our Services, analyze trends, track user movements and gather broad demographic information that assists us in identifying user preferences.
     
-* * #### Relevant content and recommendations
-        
-        We use Google Analytics Demographics and Interest reporting, which is a [Google Analytics Advertiser](https://policies.google.com/technologies/ads) feature that collects and stores standard internet log and user information on our behalf and gathers information about what pages you visit, how long you are on our sites, how you got here, and what you click on during your visit. This Google Analytics data is not tied to personal information, so this information cannot be used to identify who you are. For our legitimate business interests, we use the data provided by Google Analytics Demographics and Interest reports to develop our services and content around our user demographics, interests, and behavior on our Services. You can opt-out of this Google Analytics Advertiser feature using the Ads Settings located at [](https://www.google.com/settings/ads). In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout) to disable tracking by Google Analytics. To delete these cookies, please see your browser’s privacy settings or follow the above instructions
-        
-    * #### Advertising and interest-based, behavioral advertising
-        
-        Our free (non-subscription) [Merriam-Webster Online](https://www.merriam-webster.com/%22) Service and Merriam-Webster's [Games & Quizzes](https://www.merriam-webster.com/games) are affiliated with CMI Marketing, Inc., d/b/a Raptive (“Raptive”) for the purposes of placing advertising on these Services, and Raptive will collect and use certain data for advertising purposes. To learn more about Raptive’s data usage, click here: [https://raptive.com/creator-advertising-privacy-statement](https://raptive.com/creator-advertising-privacy-statement). Raptive's CMP is LiveRamp with the CMP identification number 3.
-        
-        We also may rely on third-party service providers to do things like: take user-level information, anonymize it through hashing (a hashed email address might look something like this: **e820bb4aba5ad74c5a6ff1aca16641f6**) and match it against other anonymized, people-based identifiers – doing this helps us serve you personalized, relevant advertisements.  Specifically, when you use our ad-supported Services, we may share information that we may collect from you, including your email (in hashed form), IP address or information about your browser or operating system, with our third-party service providers, Index Exchange (IX) and LiveRamp Inc. and its group companies (‘LiveRamp’). IX and LiveRamp may use our first-party cookie on your browser to match your shared information to their marketing databases to provide back a pseudonymous privacy-centric identifier for our use in real time bidding in digital advertising. These third parties may in turn link further demographic or interest-based information to your browser. You have the choice to opt-out of the use of your data by third-party service providers for this purpose at any time.  Please find more information about opting out [below](#toc5).
-        
-        We have a legitimate business interest in monetizing the delivery of our premium content to you in connection with our free (non-subscription) [Merriam-Webster Online](https://www.merriam-webster.com/%22) Service and our premium [Games & Quizzes](https://www.merriam-webster.com/games) as an add-on to all of our Services through the display of advertising. To the extent required by applicable law or contractual obligations, we obtain your consent before using your information for interest-based, behavioral advertising – please see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy).
-        
-        Merriam-Webster does not provide any personal information to third-party advertising service providers, such as Raptive, advertisers or advertising networks about visitors to the Services, however these third parties may use automated means, such as cookies, to collect information, which may include your IP address, directly from you when you use our Services. Our Privacy Policy does not cover the use of information that they may have collected from you on the Services or other websites or the use of data that you provide directly to such third-parties; that usage is governed by each third party's privacy policy. For information about opting out of interest-based, behavioral advertising, please see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights and Choices](#toc5) below.
-        
-    * #### Mobile device identifiers
-        
-        When you use a mobile device like a tablet or cell phone to access our Services, we may access and monitor one or more "device identifiers," which are small data files associated with your mobile device that uniquely identify your mobile device. A device identifier may deliver information to a third-party partner or us about how you browse and use the Services. Some features of the services may not function properly if use or availability of device identifiers is impaired or disabled. For more information, please see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights and Choices](#toc5) below
-        
-    * #### Anonymous aggregated data
-        
-        We may provide anonymous aggregated data may to other companies we do business with for statistical purposes.
-        
+
+* #### Relevant content and recommendations
+    
+    We use Google Analytics Demographics and Interest reporting, which is a Google Analytics Advertiser feature that collects and stores standard internet log and user information on our behalf and gathers information about what pages you visit, how long you are on our sites, how you got here, and what you click on during your visit. This Google Analytics data is not tied to personal information, so this information cannot be used to identify who you are. For our legitimate business interests, we use the data provided by Google Analytics Demographics and Interest reports to develop our services and content around our user demographics, interests, and behavior on our Services.
+    
+* #### Advertising and interest-based, behavioral advertising
+    
+    To provide you with premium content, free-of-charge, Merriam works with third-party service providers to display advertising, including interest-based or behavioral advertising, on the Services.
+    
+    We participate in the IAB Transparency & Consent Framework and comply with its [Specifications and Policies](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Our Consent Management Platform (CMP) is OneTrust LLC with the CMP identification number 28.
+    
+    In addition, some of the pages on the Services may be affiliated with CMI Marketing, Inc., d/b/a Raptive ("Raptive") for the purposes of placing advertising on the Services, and Raptive will collect and use certain data for advertising purposes. Raptive's CMP is LiveRamp with the CMP identification number 3. To learn more about Raptive's data usage and your related rights, click here: [Raptive's Advertising Privacy Statement](https://cafemedia.com/publisher-advertising-privacy-policy/).
+    
+    We also may rely on third-party service providers to do things like: take user-level information, anonymize it through hashing (a hashed email address might look something like this: **e820bb4aba5ad74c5a6ff1aca16641f6**) and match it against other anonymized, people-based identifiers – doing this helps us serve you personalized, relevant advertisements.  Specifically, when you use our ad-supported Services, we may share information that we may collect from you, including your email (in hashed form), IP address or information about your browser or operating system, with our third-party service providers, Index Exchange (IX) and LiveRamp Inc. and its group companies (‘LiveRamp’). IX and LiveRamp may use our first-party cookie on your browser to match your shared information to their marketing databases to provide back a pseudonymous privacy-centric identifier for our use in real time bidding in digital advertising. These third parties may in turn link further demographic or interest-based information to your browser. You have the choice to opt out of the use of your data by third-party service providers for this purpose at any time.  Please find more information about opting out [below](#toc5).
+    
+    Since our Services are provided to you free of charge, we have a legitimate business interest in monetizing the delivery of our premium content to you on the Services through the display of advertising. To the extent required by applicable law or contractual obligations, we obtain your consent before using your information for interest-based, behavioral advertising – please see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy).
+    
+    Merriam-Webster does not provide any personal information to third-party ad networks or advertisers about visitors to the Services, however these third parties may use automated means, such as cookies, to collect information, which may include your IP address, directly from you when you use our Services. Our Privacy Policy does not cover the use of information that they may have collected from you on the Services or other websites or the use of data that you provide directly to such third-party partners; that usage is governed by the third-party partner's privacy policy. For information about opting out of interest-based, behavioral advertising, please see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights and Choices](#toc5) below.
+    
+* #### Mobile device identifiers
+    
+    When you use a mobile device like a tablet or cell phone to access our Services, we may access and monitor one or more "device identifiers," which are small data files associated with your mobile device that uniquely identify your mobile device. A device identifier may deliver information to a third-party partner or us about how you browse and use the Services. Some features of the services may not function properly if use or availability of device identifiers is impaired or disabled. For more information, please see our [Cookie Policy](https://www.merriam-webster.com/cookie-policy) and [Your Rights and Choices](#toc5) below
+    
+* #### Anonymous aggregated data
+    
+    We may provide anonymous aggregated data to other companies we do business with for statistical purposes.
+    
 
 Your Rights & Choices
 ---------------------
@@ -232,7 +232,7 @@ Please read our [Cookie Policy](https://www.merriam-webster.com/cookie-policy), 
     
     Some advertising networks require that we specifically list their opt-out links below. When you opt-out of a network, you may receive an "opt-out" cookie so that the network will know not to assign you new cookies in the future. Please know:
     
-* * **If you opt-out of interest-based, behavioral advertising you will continue to receive ads on our free, ad-supported Services, but not behaviorally targeted ads**. Also, if you opt-out of Merriam-Webster's practices, you may continue to receive interest-based, behavioral advertising through other companies.
+* * **If you opt-out of interest-based, behavioral advertising you will continue to receive ads on our free, ad-supported Services, but not behaviorally targeted ads**. Also, if you opt out of Merriam-Webster's practices, you may continue to receive interest-based, behavioral advertising through other companies.
     * If you erase your browser's cookies, you may need to perform this process again.
     * If you would like to learn more about interest-based, behavioral advertising or to opt-out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt-out of receiving interest-based, behavioral ads from them at [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
     * If you would like to avoid all advertisements on our Services, sign up for a paid-for subscription service or upgrade your mobile application.
@@ -260,7 +260,7 @@ Puku Privacy Notice
 
 Puku is owned and operated by Merriam-Webster, Incorporated. By accessing and using Puku, you confirm that you accept Puku's and our collection, use, and sharing of your data in the manner provided herein. We will not collect, use, or share your information with anyone except as described in this Puku Privacy Notice.
 
-Puku can be downloaded and the free content can be used without requiring a user to subscribe or provide any personal data beyond the usage and analytics data that is necessary to support our internal operations.
+Puku can be downloaded, and the free content can be used without requiring a user to subscribe or provide any personal data beyond the usage and analytics data that is necessary to support our internal operations.
 
 We may send alerts or notifications to your device as part of the usage and features of Puku. These may include prompts or reminders that notify you on your device of details about your child's use of Puku. Also, your child may use Puku to share word lists created by them with others, including friends and teachers, but this information is not collected or used by us. Puku requests that your child creates a unique username and provide their age, however, this information is stored locally in Puku on your device and is not used, collected, accessed, or stored by us.
 
@@ -299,7 +299,7 @@ We may send alerts or notifications to your device as part of the usage and feat
     
 * #### Puku third-party service providers
     
-    To help us provide you with the best service, we work with the following authorized, third-party service providers to include their tracking tools, such as device identifiers, within Puku. See [Mobile device identifiers](#tocMobileDevice) above. Using tracking tools, these third-party service providers collect information automatically on our behalf from about yours and your child's use of Puku, store collected information on their servers, and provide us with both analytics and push notification services. You may opt-out of certain activities performed by our third-party service providers through your mobile device settings, such as your device advertising settings for mobile phones, or as otherwise provided below.
+    To help us provide you with the best service, we work with the following authorized, third-party service providers to include their tracking tools, such as device identifiers, within Puku. See [Mobile device identifiers](#tocMobileDevice) above. Using tracking tools, these third-party service providers collect information automatically on our behalf from about yours and your child's use of Puku, store collected information on their servers, and provide us with both analytics and push notification services. You may opt out of certain activities performed by our third-party service providers through your mobile device settings, such as your device advertising settings for mobile phones, or as otherwise provided below.
     
     * #### Google Inc. analytics services
         
@@ -322,26 +322,19 @@ We may send alerts or notifications to your device as part of the usage and feat
 Security of Your Information
 ----------------------------
 
-Merriam-Webster is committed to keeping your personal information safe and secure. Any personal information collected through the Services is stored on limited-access servers. We maintain a comprehensive information security program and seek to use commercially reasonable organizational, physical, technical and administrative safeguards to protect these servers and the information they store from unauthorized access, use, disclosure, loss or modification. Our security measures include (among others): encryption of data; security controls that protect the entirety of Merriam-Webster's IT infrastructure from external attack and unauthorized access; and internal policies setting out our data security approach and training for employees, including a Data Breach Notification Policy. We update and test our security technology on an ongoing basis. We strive to restrict access to your personal information to those employees who need to know that information to provide benefits or services to you. In addition, we strive to ensure that all our employees are aware of the importance of confidentiality and maintaining the privacy and security of your information.
-
-If there is an unauthorized disclosure of personal information in Merriam-Webster's possession or control, we will take steps in accordance with our written Incident Response Policy to investigate and mitigate the impact of the breach and notify affected customers in the manner required by applicable laws.
+Any personally identifiable information collected through this site is stored on limited-access servers. We maintain safeguards to protect these servers and the information they store. Also, to help protect the privacy of data and personally identifiable information you transmit through the use of our Services, we maintain physical, technical and administrative safeguards. We update and test our security technology on an ongoing basis. We strive to restrict access to your personal data to those employees who need to know that information to provide benefits or services to you. In addition, we strive to educate all our employees about the importance of confidentiality and maintaining the privacy and security of your information.
 
 Data Storage and Retention
 --------------------------
 
-Your personal information is stored by us using Amazon Web Services (AWS) cloud storage solutions in the AWS Cloud – U.S. East (N. Virginia) Region, with backups in the AWS Cloud – Asia Pacific (Singapore) Region and Brazil (Sao Paulo) Region. We retain your information for the duration of your business relationship with us and as long as necessary to permit us to use it for the legitimate business purposes that we have communicated to you and comply with applicable law or regulations. For more information on where and how long your personal information is stored, and for more information on your rights of erasure and portability, please contact Merriam-Webster's data protection officer at [dpo@m-w.com](mailto:dpo@m-w.com).
+Your personal information is stored by us using Amazon Web Services (AWS) cloud storage solutions in the AWS Cloud – U.S. East (N. Virginia) Region, with backups in the AWS Cloud – Asia Pacific (Singapore) Region and Brazil (Sao Paulo) Region. We retain your information for the duration of your business relationship with us and as long as necessary to permit us to use it for the legitimate business purposes that we have communicated to you and comply with applicable law or regulations. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact the Merriam-Webster's data protection officer at [dpo@m-w.com](mailto:dpo@m-w.com).
 
 Consent to Processing and Transfer of Information about You
 -----------------------------------------------------------
 
 Merriam-Webster's headquarters are in the United States. Information we collect from you will be processed in the United States and may be stored, transferred to, and processed in any country where we have facilities or in which we engage service providers. These countries may be outside your country of residence, including the United States, and may have different data protection laws than your country.
 
-If you are located in the European Economic Area (EEA), Merriam-Webster collects and transfers personal information out of the EEA only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest of Merriam-Webster in a manner that does not outweigh your rights and freedoms. Merriam-Webster endeavors to apply suitable safeguards to protect the privacy and security of your personal information and to use it only consistent with your relationship with us and the practices described in this Privacy Policy.
-
-California Residents
---------------------
-
-Please refer to Merriam-Webster's [Privacy Notice for California Residents](https://www.merriam-webster.com/assets/mw/static/info/Merriam-Webster-Online-Privacy-Notice-for-California-Residents.pdf).
+If you are in the European Economic Area (EEA), Merriam collects and transfers personal information out of the EEA only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest of Merriam in a manner that does not outweigh your rights and freedoms. Merriam endeavors to apply suitable safeguards to protect the privacy and security of your personal information and to use it only consistent with your relationship with us and the practices described in this Privacy Policy.
 
 EU Data Subject Rights
 ----------------------
@@ -383,12 +376,26 @@ As we continue to develop our business, we might sell or buy subsidiaries, or bu
 Acceptance of Privacy Policy Terms and Conditions
 -------------------------------------------------
 
-By using the Services, you signify your agreement to the terms and conditions of this Privacy Policy. If you do not agree with our policies, please do not use the Services. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. If we make any material changes to this Privacy Policy that impact your privacy rights, we will notify you by posting a notice on the Services prior to the effective date of such changes with an opportunity for you to review the same, unless otherwise required by applicable law. All non-material amended terms automatically will take effect when they are posted on the Services. Please check this page periodically for any modifications. Your continued use of any of the Services following the posting of any non-material changes to these terms shall mean that you have accepted those changes. All other amended terms will take effect 30 days after you are notified of the same.
+By using the Services, you signify your agreement to the terms and conditions of this Merriam-Webster Privacy Policy. If you do not agree to these terms, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please take a look at the Effective Date at the top of this page to see when this Privacy Policy was last revised. Amended terms that materially impact or modify your privacy rights take effect 30 days after they are initially posted on the site. Your continued use of any of the Services following the posting of any changes to these terms shall mean that you have accepted those changes.
 
 Questions, Comments or Complaints
 ---------------------------------
 
-If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://www.merriam-webster.com/contact-us) page to find email addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [dpo@m-w.com](mailto:dpo@m-w.com). If you have any questions or concerns, please send an email to [privacy@m-w.com](mailto:privacy@m-w.com) or at [dpo@m-w.com](mailto:dpo@m-w.com)
+If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://www.merriam-webster.com/contact-us) page to find email addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [dpo@m-w.com](mailto:dpo@m-w.com). If you have any questions or concerns, please send an email to [privacy@m-w.com](mailto:privacy@m-w.com) or at [dpo@m-w.com](mailto:dpo@m-w.com).
+
+[](https://www.merriam-webster.com/ "Merriam Webster")
+
+#### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
+
+#### [betwixt](https://www.merriam-webster.com/word-of-the-day)
+
+[![Listen to the pronunciation of betwixt](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of betwixt")
+
+[See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
+
+Get Word of the Day daily email!
+
+ 
 
 Love words? Need even more definitions?
 
@@ -436,7 +443,7 @@ Learn a new word every day. Delivered to your inbox!
 * [Advertising Info](https://www.merriam-webster.com/advertising)
 * [Contact Us](https://www.merriam-webster.com/contact-us)
 * [Diversity](https://corporate.britannica.com/diversity)
-* [Privacy Policy](https://www.merriam-webster.com/privacy-policy)
+* [Privacy Policy](https://www.merriam-webster.com/i/privacy-policy-adt)
 * [Terms of Use](https://www.merriam-webster.com/terms-of-use)
 
 * [Facebook](https://www.facebook.com/merriamwebster)
