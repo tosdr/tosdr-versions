@@ -14,8 +14,9 @@
     
     ##### [Sketch series 3D printers](https://www.makerbot.com/3d-printers/)
     
+    * [Sketch Sprint New](https://www.makerbot.com/3d-printers/sketch-sprint/) 
     * [Sketch Standard](https://www.makerbot.com/3d-printers/sketch-standard/) 
-    * [Sketch Large New](https://www.makerbot.com/3d-printers/sketch-large/) 
+    * [Sketch Large](https://www.makerbot.com/3d-printers/sketch-large/) 
     * [Materials](https://www.makerbot.com/3d-printers/materials/) 
     * [PLA colors New](https://www.makerbot.com/3d-printers/materials-new-pla-colors/) 
     
@@ -327,5 +328,3 @@ All other brand names, product names or trademarks belong to their respective ho
 * [Privacy and cookie statement](https://www.makerbot.com/privacy/)
 
  [![](https://www.makerbot.com/wp-content/uploads/2023/07/facebook-1.svg "Facebook")](https://www.facebook.com/makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/twitter-1.svg "Twitter")](https://twitter.com/makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/youtube-1.svg "Youtube")](https://www.youtube.com/@makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/linkedin-1.svg "LinkedIn")](https://www.linkedin.com/company/559815)[![](https://www.makerbot.com/wp-content/uploads/2023/07/instagram-1.svg "Instagram")](https://www.instagram.com/makerbot/)
-
-MakerBot uses functional, analytical and tracking cookies. Tracking cookies enhance your experience on our website and may also collect your personal data outside of MakerBot websites. If you agree with the use of tracking cookies, click “I agree, continue browsing”. You can withdraw your consent at any time. If you do not consent with the use of tracking cookies, click “Refuse”. You can find more information about cookies on our [Privacy and Cookie Policy](https://www.makerbot.com/privacy/ "Privacy Policy") page.[I agree, continue browsing](#)[Refuse](#)
