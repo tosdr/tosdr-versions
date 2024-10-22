@@ -1,6 +1,6 @@
-**Notice:** Due to a scheduled system maintenance, historic statements from online banking will be unavailable between 07:00 am – 12:00 pm ET (04:00 am – 09:00 am PT) on Sunday October 20, 2024. We apologize for any inconvenience.
+**Notice:** To provide an improved user experience, Interac e-Transfer email notifications will have an enhanced look and feel starting October 22nd, 2024. Visit [interac.ca](https://www.interac.ca/en/payments/personal/send-receive-money-with-interac-e-transfer/#interac-e-transfer-email-notifications-refresh) to learn more.
 
-**Attention:** En raison d’une maintenance programmée du système, les relevés passés des services bancaires en ligne ne seront pas disponibles entre 7 h et midi HE (4 h et 9 h HP) le dimanche 20 octobre 2024. Nous sommes désolés des inconvénients.
+**Attention:** Afin d’améliorer l’expérience des utilisateurs, les notifications par courriel du service Virement Interac auront un aspect et une convivialité améliorés à partir du 22 octobre 2024. Pour en savoir plus, allez à l’adresse [interac.ca](https://www.interac.ca/fr/paiements/personnelles/envoyez-et-recevez-de-largent-avec-virement-interac/#actualisation-des-notifications-par-courriel-de-virement-interac).
 
 ### **Website Terms & Conditions of Use**
 
