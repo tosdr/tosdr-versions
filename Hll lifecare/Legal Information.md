@@ -8,6 +8,7 @@ English Hindi
 * [R & D](http://www.lifecarehll.com/page/render/reference/R__D)
 * [Social Marketing](http://www.lifecarehll.com/page/render/reference/Social_Marketing)
 * [Knowledge Centre](http://knowledgeathll.lifecarehll.com/)
+* [MoU Signed](https://www.lifecarehll.com/downloads/view/reference/cb70ab375662576bd1ac5aaf16b3fca4hoOF)
 * [Contact](http://www.lifecarehll.com/default/contact/index)
 
 [![HLL Lifecare Ltd.](http://www.lifecarehll.com/static/images/9b142b91db2669365f61fb2eeb758a3a.png)](http://www.lifecarehll.com/)
