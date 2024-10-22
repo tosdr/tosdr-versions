@@ -34,5 +34,4 @@ Our products
 
 Spyrou Kyprianou 84,  
 4004 Limassol,  
-Cyprus,  
-tel:+35725422410
+Cyprus
