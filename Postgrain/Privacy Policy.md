@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Sua-empresa-tem-uma-equipe-de-Customer-Success-580x290.jpg)](https://postgrain.com/?post_type=post&p=12665)
+[![UI UX - a imagem que ilustra o tema tem o fundo escuro e por cima uma tela de um dispositivo com várias telinhas abertas onde tem escrito UI/UX](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-UI-UX-Guia-para-iniciantes-580x290.jpg)](https://postgrain.com/?post_type=post&p=12673)
 
-[Sua empresa tem uma equipe de Customer Success? Descubra a importância para o sucesso do seu negócio!](https://postgrain.com/?post_type=post&p=12665)
+[UI UX: Por que é importante?](https://postgrain.com/?post_type=post&p=12673)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12665)
+[Leia mais](https://postgrain.com/?post_type=post&p=12673)
 
 Ilustração de um dos personagens do Postgrain
 
