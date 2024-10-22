@@ -878,4 +878,4 @@ TaxAct is committed to making our Privacy Notice accessible to individuals with 
 
 [Terms of Service](https://www.taxact.com/terms-of-service) [Privacy Notice](https://www.taxact.com/privacy-notice) [GLBA Notice](https://www.taxact.com/GLBA-notice) [Do Not Sell or Share My Personal Information](https://www.taxact.com/do-not-sell-or-share)
 
-©1998 - 2024 TaxAct ®
+©2024 TaxAct, Inc., a Taxwell company. All Rights Reserved.
