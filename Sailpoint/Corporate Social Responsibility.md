@@ -1,7 +1,3 @@
-[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to get the summer rate - $1,095 until 8/30](https://www.sailpoint.com/navigate)
-
-Close
-
 [![SailPoint](/images/SailPoint-logo-cropped.svg)](https://www.sailpoint.com/)[Get a demo](https://www.sailpoint.com/demo)Toggle menu
 
 Search
@@ -62,7 +58,7 @@ Use cases
 
 [Accelerate on & offboarding](https://www.sailpoint.com/solutions/onboarding-offboarding)
 
-[Secure work from anywhere](https://www.sailpoint.com/solutions/remote-workforce)
+[Modernization](https://www.sailpoint.com/solutions/modernization)
 
 [Maintain compliance](https://www.sailpoint.com/solutions/maintain-compliance)
 
@@ -222,7 +218,7 @@ Get started quickly with a self-guided tour of our products.
 
 Use cases
 
-[Mitigate cyber risk](https://www.sailpoint.com/solutions/mitigate-cyber-risk)[Improve IT efficiency](https://www.sailpoint.com/solutions/improve-it-efficiency)[Embrace zero trust](https://www.sailpoint.com/solutions/zero-trust)[Accelerate on & offboarding](https://www.sailpoint.com/solutions/onboarding-offboarding)[Secure work from anywhere](https://www.sailpoint.com/solutions/remote-workforce)[Maintain compliance](https://www.sailpoint.com/solutions/maintain-compliance)
+[Mitigate cyber risk](https://www.sailpoint.com/solutions/mitigate-cyber-risk)[Improve IT efficiency](https://www.sailpoint.com/solutions/improve-it-efficiency)[Embrace zero trust](https://www.sailpoint.com/solutions/zero-trust)[Accelerate on & offboarding](https://www.sailpoint.com/solutions/onboarding-offboarding)[Modernization](https://www.sailpoint.com/solutions/modernization)[Maintain compliance](https://www.sailpoint.com/solutions/maintain-compliance)
 
 Industries
 
