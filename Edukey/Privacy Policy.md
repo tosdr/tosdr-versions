@@ -522,8 +522,6 @@ Back to top
         
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
-    * [Test page](https://www.edukey.co.uk/en-gb/for-schools/test-page-001)
-        
     
 * [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
     
