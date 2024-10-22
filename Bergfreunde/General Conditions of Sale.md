@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
 
-Bergfreund Max
+Bergfreund Hannes
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -547,8 +547,8 @@ Menü
     
     Highlights der Saison
     
-    * [Jack Wolfskin: We Live to Discover](https://www.bergfreunde.de/jack-wolfskin-cp/ "Jack")
     * [The North Face: We Play Different](https://www.bergfreunde.de/tnf-cp/ "The")
+    * [Mountain Equipment: Live for the Line](https://www.bergfreunde.de/mountain-equipment-cp/ "Mountain")
     * [ORTOVOX: True. Skitouring.](https://www.bergfreunde.de/ortovox-skitouren-cp/ "Ortovox")
     * [Maloja: The Story](https://www.bergfreunde.de/maloja-story-cp/ "Maloja'")
     * [Polygiene: For Mindful Living](https://www.bergfreunde.de/polygiene-cp/ "Polygiene'")
@@ -690,11 +690,25 @@ oder - sofern kein PayPal-Konto vorliegt, unter
 
 abrufen kann. Der Zahlungsbetrag wird sodann nach Eingabe der erforderlichen Daten und Wahl der bei PayPal vorgesehenen Zahlungsart (Lastschrift, Kreditkarte, Rechnung) über PayPal nach Abschluss der Bestellung vom Konto des Kunden abgebucht.
 
-(3) Zahlungsart Kreditkarte
+(3) Zahlungsart Klarna Payments
+
+Das Angebot der Zahlungsoption „Sofortüberweisung“ erfolgt in Zusammenarbeit mit Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Schweden. Die Belastung des Kontos des Kunden erfolgt hierbei unmittelbar nach Abgabe der Bestellung. Die Nutzung der Zahlungsart setzt eine positive Bonitätsprüfung voraus. Insofern leitet der Verkäufer die Daten des Kunden im Rahmen der Kaufanbahnung und Abwicklung des Kaufvertrages an Klarna zum Zwecke der Adress- und Bonitätsprüfung weiter. Sofern die Bezahlung mittels Sofortüberweisung (z.B. aus Bonitätsgründen, aus technischen Gründen, oder wegen eines Überschreitens von Betragsgrenzen) nicht möglich ist, kann der Verkäufer dem Kunden eine alternative Abrechnungsmöglichkeit anbieten.
+
+Die Zahlungsoption **„Klarna Rechnung"** erfolgt in Zusammenarbeit mit der Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Schweden. Die Nutzung dieser Zahlungsart setzt zunächst eine positive Bonitätsprüfung durch Klarna voraus. Wir leiten daher deine Bestelldaten im Rahmen der Abwicklung des Kaufvertrages über eine technische Schnittstelle an Klarna zum Zwecke der Adress- und Bonitätsprüfung weiter. Mit Bestätigung der Zahlungsart treten wir unseren Anspruch auf Zahlung des Kaufpreises sodann an Klarna ab. Eine direkte schuldbefreiende Zahlung an uns ist daher nicht möglich. Der Zahlungsprozess wird in der Folge über den Dienstleister Klarna zu dessen bestehenden Zahlungsbedingungen abgewickelt.
+
+Sofern die Bezahlung mittels Klarna Rechnung (z.B. aus Bonitätsgründen, aus technischen Gründen, oder wegen eines Überschreitens von Betragsgrenzen) nicht möglich ist, kann der Verkäufer dem Kunden eine alternative Abrechnungsmöglichkeit (z.B. Klarna Sofortüberweisung) anbieten.
+
+Weitere Informationen und Nutzungsbedingungen von Klarna:
+
+[https://cdn.klarna.com/1.0/shared/content/legal/terms/K502554/de\_de/user](https://cdn.klarna.com/1.0/shared/content/legal/terms/K502554/de_de/user)
+
+Allgemeine Informationen zu Klarna: [www.klarna.com](https://www.bergfreunde.de/agb/www.klarna.com).
+
+(4) Zahlungsart Kreditkarte
 
 Im Falle der Zahlung per **Kreditkarte** außerhalb von PayPal wird der Zahlungsbetrag gemäß der vertraglichen Vereinbarung zwischen Kunde und der Kreditkartengesellschaft vom angegebenen Konto des Käufers eingezogen.
 
-(4) Zahlungsart auf Rechnung oder Ratenkauf
+(5) Zahlungsart auf Rechnung oder Ratenkauf
 
 Das Angebot der Zahlungsoption auf **Rechnung oder in Raten** (im Folgenden: "payolution-Bezahlverfahren") erfolgt in Zusammenarbeit mit der payolution GmbH, Am Euro Platz 2, 1120 Wien, Österreich, (im Folgenden: "payolution/Unzer") und der Bank Frick & Co AG, Landstr. 14, 9496 Balzers, Liechtenstein (im Folgenden: "Bank").
 
@@ -716,13 +730,13 @@ g) Sofern Kauf auf Rechnung vereinbart wird, ist die Rechnung unverzüglich nach
 
 h) Wenn die Rechnung nicht spätestens zu einem in der Rechnung genannten kalendermäßig bestimmbaren Datum bezahlt wird, gerät der Kunde auch ohne gesonderte Mahnung in Verzug, es sei denn er hat die Nichtzahlung nicht zu vertreten.
 
-(5) Zahlungsart Apple Pay
+(6) Zahlungsart Apple Pay
 
 Das Angebot der Zahlungsoption „**Apple Pay**“ erfolgt in Zusammenarbeit mit der Apple Inc., Park Way, Cupertino, California, U.S. Bei Auswahl der Zahlungsmethode Apple Pay wird der Verkäufer im Rahmen des Bestellprozess automatisch auf seinen Apple Pay-Account weitergeleitet. Die Zahlung erfolgt nach erfolgreicher Authentifizierung via Apple Pay per Überweisung. Der Zahlbetrag wird daher mit Ausführung der Überweisung direkt vom Konto des Kunden abgebucht. Weitere Informationen zu Apple Pay findet man unter:
 
 [https://www.apple.com/de/apple-pay/](https://www.apple.com/de/apple-pay/)
 
-(6) Informationen zu den Zahlungsarten und den ggf. anfallenden Kosten des ausgewählten Zahlungsmittels finden Sie unter der Übersicht [Zahlungsmittel](https://www.bergfreunde.de/lieferung-und-zahlung/ "Infos über die Zahlungsarten") auf unserer Webseite.
+(7 Informationen zu den Zahlungsarten und den ggf. anfallenden Kosten des ausgewählten Zahlungsmittels finden Sie unter der Übersicht [Zahlungsmittel](https://www.bergfreunde.de/lieferung-und-zahlung/ "Infos über die Zahlungsarten") auf unserer Webseite.
 
 § 6 Versand
 -----------
@@ -731,7 +745,7 @@ Das Angebot der Zahlungsoption „**Apple Pay**“ erfolgt in Zusammenarbeit mit
 
 (2) Die Lieferfrist für Lieferungen wird auf der jeweiligen Angebotsseite angegeben. Der Beginn der Lieferfrist bestimmt sich (abhängig von der gewählten Zahlungsart) nach Abs. 3 bis 4.
 
-(3) Bei Zahlung per Vorkasse/Banküberweisung, Kreditkarte, iDEAL, bancontact oder PayPal beginnt die Lieferfrist einen Tag nach Zahlungsanweisung. Bei allen anderen Zahlungsarten beginnt die Frist einen Tag nach der Bestellung.
+(3) Bei Zahlung per Vorkasse/Banküberweisung, Kreditkarte, iDEAL, bancontact, Klarna Sofort oder PayPal beginnt die Lieferfrist einen Tag nach Zahlungsanweisung. Bei allen anderen Zahlungsarten beginnt die Frist einen Tag nach der Bestellung.
 
 (4) Fällt der Fristbeginn oder das Fristende auf einen Samstag, Sonntag oder einen gesetzlichen Feiertag, so verschieben sich Fristbeginn bzw. Fristende auf den folgenden Werktag.
 
@@ -823,9 +837,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
+![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
 
-"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
+"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -833,11 +847,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43401 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43455 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.401 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.455 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
