@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Giant Meteorite Had Silver Lining for Life](https://www.sciencedaily.com/releases/2024/10/241021170403.htm)
+* [El Nino Oscillation 250 Million Years Old](https://www.sciencedaily.com/releases/2024/10/241021170400.htm)
+* [Role of Climate Change in Drought Intensity](https://www.sciencedaily.com/releases/2024/10/241021123029.htm)
 * [Plant Guard Cells Count Environmental Stimuli](https://www.sciencedaily.com/releases/2024/10/241021122749.htm)
 * [Plant CO2 Uptake Up by Nearly a Third Globally](https://www.sciencedaily.com/releases/2024/10/241021145729.htm)
 * [Rare Fossils of Extinct Elephants: Butchery](https://www.sciencedaily.com/releases/2024/10/241021133245.htm)
@@ -215,9 +218,6 @@ this hour
 * [Scientists Build Modules for Synthetic Cell](https://www.sciencedaily.com/releases/2024/10/241021123151.htm)
 * [Life-Saving Spongelike 'Bandage'](https://www.sciencedaily.com/releases/2024/10/241017113907.htm)
 * [Why Do We Love Carbs? Pre-Neanderthal DNA](https://www.sciencedaily.com/releases/2024/10/241017172950.htm)
-* [Neutron Stars Shrouded in Axions: Dark Matter?](https://www.sciencedaily.com/releases/2024/10/241018131244.htm)
-* [Butterfly Brains and Cognitive Innovation](https://www.sciencedaily.com/releases/2024/10/241018131224.htm)
-* [CO2 Emissions from Forest Fires Up 60%](https://www.sciencedaily.com/releases/2024/10/241017173155.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
-
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+
+[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
+
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [Telecommunications](https://www.sciencedaily.com/news/matter_energy/telecommunications/)
-
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
+[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
   
 
