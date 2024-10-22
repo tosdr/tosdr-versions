@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-4-how-to-improve-lyrics/)
+ [](https://schoolsmusicmarket.com/product/music-notation-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-queen/)
+ [](https://schoolsmusicmarket.com/product/4-easy-singing-rounds-lyrics-pack/)
 
 ###### Browse By Year/Grade
 
