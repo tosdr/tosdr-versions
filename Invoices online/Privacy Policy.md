@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> Thanks Adriaan...
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I have upgraded to the Gold account in order to support you guys!
 
-Johan Botha - Brand Xplosion
+Shaun Gartshore
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=129978340)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=60967014)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=71551708)  
-Kaylas Creations
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=70279030)  
+Oukraal Merino's
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=149700205)  
-National Elite Security Services (PTY) LTD
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=178185076)  
+Tracknetics
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=183282839)  
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=119877013)  
+Electro-Heat
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=85919198)  
+WIP Digital Solutions
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=78304633)  
+Skinz Printing & Branding
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=179831917)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=156428758)  
 Gemini-IT Group
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=121749944)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=94130710)  
-SLOANE STAR MEAT MARKET
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=95104235)  
-Creative Characters
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=187890795)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=176691754)  
-TIGERDSL
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=186212924)  
-LEONARD
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=158130730)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=173643087)  
-Multi CNC Solutions CC
-
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=22516931)  
-Lily Fern & Co
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=208302240)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=09baa743ab6faeea81ce902a1e8e7aef4acf9553faca958bffb2737812480659&c=109344548)  
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=173590654)  
 J.M. HUMAN RESOURCES
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=57466921)  
+FJW Security Cc
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=46852401)  
+Qothiphango Mining
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=119491060)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=105841738)  
+All Trucking Solutions
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=75198534)  
+Moremi Kitchens Rustenburg
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=915ff4391f7e6b39af78f97f5bdd79ef3a2a90a7859525d883a2298ed976bdca&c=41798034)  
+McKaynine Mobility
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
