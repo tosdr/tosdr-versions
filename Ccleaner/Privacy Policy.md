@@ -754,7 +754,7 @@ These are the third-party analytics tools we use for Speccy:
 
 For further information regarding our third-party analytics partners, including their privacy policies, please refer to our [General Privacy Policy](https://www.ccleaner.com/legal/general-privacy-policy).
 
-* [About Piriform](https://www.ccleaner.com/about)
+* About Piriform
 * [Press Releases](https://newsroom.gendigital.com/ccleaner)
 * Offices
 * [Partner Program](https://www.ccleaner.com/partners)
