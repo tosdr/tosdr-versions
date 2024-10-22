@@ -6,7 +6,7 @@
 
  
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -128,12 +128,16 @@
         
     * Services
         
-        [Security Services](https://www.bitdefender.com/en-us/business/services/managed-services)
+        [Managed Services](https://www.bitdefender.com/en-us/business/services/managed-services)
         
-        * [Managed Detection and Response PLUS](https://www.bitdefender.com/en-us/business/products/managed-detection-response-plus)
         * [Managed Detection and Response](https://www.bitdefender.com/en-us/business/products/managed-detection-response-service)
+        * [Managed Detection and Response PLUS](https://www.bitdefender.com/en-us/business/products/managed-detection-response-plus)
         * [Managed Detection and Response for MSPs](https://www.bitdefender.com/en-us/business/products/mdr-for-msp)
-        * [Offensive Security Services](https://www.bitdefender.com/en-us/business/products/offensive-services) _New_
+        
+        Security Services
+        
+        * [Offensive Services](https://www.bitdefender.com/en-us/business/products/offensive-services)
+        * [Support Services](https://www.bitdefender.com/en-us/business/services/support)
         
         [Support Services](https://www.bitdefender.com/en-us/business/services/support)
         
@@ -143,7 +147,9 @@
         
         Quick Links
         
-        * [Inquiry](https://www.bitdefender.com/en-us/business/products/inquire/)
+        * [MDR Insights](https://www.bitdefender.com/en-us/blog/businessinsights/tag/managed-detection-and-response/)
+        * [MITRE Engenuity for MDR](https://www.bitdefender.com/content/dam/bitdefender/business/products/mdr/category/Bitdefender_MITRE_Evaluation_2024_Datasheet_English.pdf)
+        * [Gartner Market Guide for MDR](https://www.bitdefender.com/en-us/business/campaign/2024_gartner_mdr_market_guide)
         
     * Why Bitdefender
         
@@ -344,7 +350,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
 
   [Home](https://www.bitdefender.com/en-us/) [Site](https://www.bitdefender.com/en-us/site) [View](https://www.bitdefender.com/en-us/site/view) [Legal Intellectual Property](https://www.bitdefender.com/en-us/site/view/legal-intellectual-property)
 
