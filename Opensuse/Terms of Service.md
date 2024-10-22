@@ -10,7 +10,7 @@
     
 * [Tools](#)
     
-    [What links here](https://en.opensuse.org/Special:WhatLinksHere/Terms_of_site "A list of all wiki pages that link here [j]")[Related changes](https://en.opensuse.org/Special:RecentChangesLinked/Terms_of_site "Recent changes in pages linked from this page [k]")[Special pages](https://en.opensuse.org/Special:SpecialPages "A list of all special pages [q]")[Printable version](javascript:print(); "Printable version of this page [p]")[Permanent link](https://en.opensuse.org/index.php?title=Terms_of_site&oldid=185577 "Permanent link to this revision of the page")[Page information](https://en.opensuse.org/index.php?title=Terms_of_site&action=info "More information about this page")
+    [What links here](https://en.opensuse.org/Special:WhatLinksHere/Terms_of_site "A list of all wiki pages that link here [j]")[Related changes](https://en.opensuse.org/Special:RecentChangesLinked/Terms_of_site "Recent changes in pages linked from this page [k]")[Special pages](https://en.opensuse.org/Special:SpecialPages "A list of all special pages [q]")[Printable version](javascript:print(); "Printable version of this page [p]")[Permanent link](https://en.opensuse.org/index.php?title=Terms_of_site&oldid=190999 "Permanent link to this revision of the page")[Page information](https://en.opensuse.org/index.php?title=Terms_of_site&action=info "More information about this page")
     
 * [In other languages](#)
     
@@ -41,6 +41,7 @@ Contents
     * [2.1 Contributions to openSUSE](#Contributions_to_openSUSE)
         * [2.1.1 Open Build Service (the “Build Service”)](#Open_Build_Service_(the_“Build_Service”))
         * [2.1.2 Rules of conduct](#Rules_of_conduct)
+        * [2.1.3 Responsibility of Contributors](#Responsibility_of_Contributors)
     * [2.2 Privacy policy](#Privacy_policy)
         * [2.2.1 Monitoring](#Monitoring)
     * [2.3 Trademarks](#Trademarks)
@@ -88,6 +89,20 @@ You may not engage in any activity on this web site that restricts or inhibits a
 You may not post or transmit through this web site advertising or commercial solicitations; promotional materials relating to web site or online services which are competitive with SUSE and/or this web site; software or other materials that contain viruses, worms, time bombs, Trojan horses, or other harmful or disruptive component, political campaign materials; chain letters; mass mailings, spam mail, any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, "data mine", or in any way reproduce or circumvent the navigational structure or presentation of this web site or its contents.
 
 You may not harvest or collect information about web site visitors without their express written consent.
+
+#### Responsibility of Contributors
+
+If you post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, you represent and warrant that:
+
+* The downloading, copying, and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, or trade secret rights, of any third party;
+* If your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
+* You have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+* The Content does not contain or install any viruses, worms, malware, Trojan horses, or other harmful or destructive content;
+* The Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third-party sites or boost the search engine rankings of third-party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+* The Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
+* Your content is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, blogs, websites, and similar unsolicited promotional methods;
+* Your content is not named in a manner that misleads your readers into thinking that you are another person or company; and
+* You have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses, and effects of the materials, whether requested to do so by SUSE or otherwise.
 
 ### Privacy policy
 
@@ -153,13 +168,13 @@ Any person or entity exporting or re-exporting SUSE products directly or indirec
 
 Any Software downloaded from this server for or on behalf of the United States of America, its agencies and/or instrumentalities ("U.S. Government"), is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR 52.227-19, as applicable.
 
-Retrieved from "[https://en.opensuse.org/index.php?title=Terms\_of\_site&oldid=185577](https://en.opensuse.org/index.php?title=Terms_of_site&oldid=185577)"
+Retrieved from "[https://en.opensuse.org/index.php?title=Terms\_of\_site&oldid=190999](https://en.opensuse.org/index.php?title=Terms_of_site&oldid=190999)"
 
 [Category](https://en.opensuse.org/Special:Categories "Special:Categories"):
 
 * [Policies and guidelines](https://en.opensuse.org/Category:Policies_and_guidelines "Category:Policies and guidelines")
 
-This page was last edited on 8 April 2024, at 14:03. Content is available under [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/fdl-1.2.html) unless otherwise noted. This page has been accessed 374,497 times.
+This page was last edited on 22 October 2024, at 12:27. Content is available under [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/fdl-1.2.html) unless otherwise noted. This page has been accessed 374,497 times.
 
 * [Privacy policy](https://en.opensuse.org/openSUSE:Privacy_policy "openSUSE:Privacy policy")
 * [About openSUSE Wiki](https://en.opensuse.org/openSUSE:About "openSUSE:About")
@@ -169,7 +184,7 @@ This page was last edited on 8 April 2024, at 14:03. Content is available under 
 
 Sponsors
 
-[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_amd.png)](https://en.opensuse.org/Sponsors)
+[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_heinlein.png)](https://en.opensuse.org/Sponsors)
 
 ##### Log in
 
