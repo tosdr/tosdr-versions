@@ -780,6 +780,7 @@ SPIEGEL Gruppe
 * [Ukrainekrieg](https://www.spiegel.de/thema/ukraine_konflikt/ "Ukrainekrieg")
 * [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
 * [Debatte](https://www.spiegel.de/debatten/ "Debatte")
+* [SPIEGEL Extra](https://www.spiegel.de/extra "SPIEGEL Extra")
 * [SPIEGEL+](https://www.spiegel.de/plus/ "SPIEGEL+")
 * [Magazine](https://www.spiegel.de/magazine "Magazine")
 * [Meinung](https://www.spiegel.de/thema/meinung/ "Meinung")
