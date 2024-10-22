@@ -34,7 +34,7 @@
         
         Build your brand with top-notch hosting.](https://javapipe.com/reseller-hosting)
     
-* [WordPress](https://javapipe.com/wordpress)
+* [Hosting for WordPress](https://javapipe.com/wordpress)
 * Servers Servers
     
     * [Managed Linux VPS Servers
@@ -259,7 +259,7 @@ Web Hosting
 
 Solutions
 
-* [WordPress](https://javapipe.com/wordpress)
+* [Hosting for WordPress](https://javapipe.com/wordpress)
 * [Domain Names](https://javapipe.com/domains)
 * [Java Tomcat Hosting](https://javapipe.com/java-tomcat-hosting)
 * [Build Your Own Website](https://javapipe.com/website-builder)
