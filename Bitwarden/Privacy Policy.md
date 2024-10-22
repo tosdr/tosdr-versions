@@ -464,7 +464,7 @@ Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
 #### Products
 
-[How Bitwarden Works](https://bitwarden.com/products/)[Download Options](https://bitwarden.com/download/)[Passkeys and Passwordless](https://bitwarden.com/passwordless-passkeys/)[Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)[Bitwarden Send](https://bitwarden.com/products/send/)[Pricing for Business](https://bitwarden.com/pricing/business/)[Pricing for Individuals](https://bitwarden.com/pricing/)[Managed Service Providers](https://bitwarden.com/msp/)[](https://bitwarden.com/self-hosted-password-manager-on-premises/)
+[How Bitwarden Works](https://bitwarden.com/products/)[Download Options](https://bitwarden.com/download/)[Passkeys and Passwordless](https://bitwarden.com/passwordless-passkeys/)[Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)[Bitwarden Send](https://bitwarden.com/products/send/)[Pricing for Business](https://bitwarden.com/pricing/business/)[Pricing for Individuals](https://bitwarden.com/pricing/)[Managed Service Providers](https://bitwarden.com/msp/)[Self-Hosting Bitwarden](https://bitwarden.com/self-hosted-password-manager-on-premises/)
 
 #### Company
 
