@@ -78,6 +78,12 @@
     * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
 * [Take Smart Assessment](https://patients.adhdonline.com/signup)
 
+**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
+
+[![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
+
+[](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3MjkxIiwidG9nZ2xlIjpmYWxzZX0%3D)
+
 ![](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
 
 Terms & Conditions
@@ -284,6 +290,46 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 © 2024 Mentavi Health, Inc. All Rights Reserved. | [Privacy policy](https://adhdonline.com/privacy-policy/) | [Notice of privacy practices](https://adhdonline.com/notice-of-privacy-practices/) | [Terms & conditions](https://adhdonline.com/terms-conditions/) | [No Show & Refund policy](https://adhdonline.com/refund-policy/)
 
 **If you are having suicidal thoughts please immediately call or text the National Suicide Prevention Hotline at [988](tel:988)**
+
+* [Diagnosis](#)
+    * [Smart Assessment](https://adhdonline.com/assessment/)
+    * [More than ADHD](https://adhdonline.com/related-conditions/)
+    * [Anxiety](https://adhdonline.com/anxiety/)
+    * [Depression](https://adhdonline.com/depression/)
+    * [Binge Eating Disorder](https://adhdonline.com/binge-eating-disorder/)
+    * [Social Media and ADHD](https://adhdonline.com/social-media-and-adhd/)
+    * [Loneliness](https://adhdonline.com/loneliness/)
+* [Treatment](#)
+    * [Medical Treatment](https://adhdonline.com/treatment/)
+    * [Mental Wellness Coaching](https://adhdonline.com/mental-wellness-coaching/)
+    * [Therapy](https://adhdonline.com/teletherapy/)
+    * [Prescriptions](https://adhdonline.com/prescriptions/)
+    * [Medications](https://adhdonline.com/medications/)
+* [Pricing](#)
+    * [Assessment](https://adhdonline.com/assessment/#pricing)
+    * [Treatment](https://adhdonline.com/treatment/#pricing)
+    * [Therapy](https://adhdonline.com/teletherapy/#pricing)
+* [Referrals](#)
+    * [Providers](https://adhdonline.com/patient-referral/)
+    * [Student Health Services](https://adhdonline.com/college/)
+* [Resources](#)
+    * [ADHD Resources](https://adhdonline.com/resources/)
+    * [Articles](https://adhdonline.com/articles/)
+    * [Podcasts](https://adhdonline.com/podcasts/)
+    * [Webinars](https://adhdonline.com/webinars/)
+    * [ADHD in the News](https://adhdonline.com/adhd-news/)
+    * [Press Releases](https://adhdonline.com/press-releases/)
+    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
+    * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
+* [Patients](#)
+    * [Patient Login](https://patients.adhdonline.com/login)
+    * [Make an appointment](https://patients.adhdonline.com/dashboard/appointments)
+    * [Updates](https://adhdonline.com/patient-updates/)
+    * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
+
+[Take Smart Assessment](https://id.adhdonline.com/u/signup?state=hKFo2SBLYnJBWmpvWkJaeFVLMVdaVmFaMUZlS0RTVGY4aGxKYaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHRqMzlwd3lReVhrbVY1VHVlOFo4RXNXWUVyX2lKTVZ3o2NpZNkgMUZvTW1RTlpKdk5IZzVwUkwzdnlFd1lkTlJtZjEyZjk)
+
+* [Customer Support Chat](https://adhdonline.com/mobilechat)
 
  ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
 
