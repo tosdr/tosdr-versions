@@ -84,9 +84,10 @@ USA
 
 © 2022 SimpliSafe, Inc.
 
-* [](https://twitter.com/simplisafe)
+* [](https://www.instagram.com/simplisafe/)
 * [](https://www.facebook.com/SimpliSafe)
 * [](https://www.youtube.com/channel/UCJwuGzZokYefxt8LYjW8BDA)
+* [](https://www.tiktok.com/@simplisafe)
 
 * [Legal](https://simplisafe.com/legal)
 * [Privacy Policy](https://simplisafe.com/privacy-policy)
