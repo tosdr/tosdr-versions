@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+    * [European Parliament](https://www.euronews.com/tag/european-parliament)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Germany](https://www.euronews.com/tag/germany)
+    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Cinema](https://www.euronews.com/tag/cinema)
-    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [European Union](https://www.euronews.com/tag/european-union)
     
     * * *
     
     Latest stories
     
-    [![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")
+    [![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")
     
-    ![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](https://static.euronews.com/articles/stories/08/80/45/34/368x207_cmsv2_ceb1f4c9-7518-5383-a296-393150ee6b20-8804534.jpg "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
+    ![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](https://static.euronews.com/articles/stories/08/80/55/46/368x207_cmsv2_3ff7fd1c-2918-5343-ab03-322b4532fa3e-8805546.jpg "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Russian drone strike on Ukraine's Sumy kills at least three](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
+    ### [Hungary calls for former prisoner turned MEP's immunity to be lifted](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
     
-    [![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")
+    [![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")
     
-    ![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](https://static.euronews.com/articles/stories/07/21/04/30/368x207_cmsv2_96ffcab8-9daf-57e9-8d1f-8c1baaa7d252-7210430.jpg "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
-    
-    Now playing Next
-    
-    [Travel News](https://www.euronews.com/travel/travel-news)
-    
-    ### [Italy revives long-awaited dream of suspension bridge to Sicily](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
-    
-    [![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")
-    
-    ![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](https://static.euronews.com/articles/stories/08/80/47/42/368x207_cmsv2_eb2195e2-721c-5e36-a254-513b1ce45c50-8804742.jpg "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+    ![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](https://static.euronews.com/articles/stories/08/80/52/38/368x207_cmsv2_fdd1ab36-1461-503b-9cb7-38231d0057ed-8805238.jpg "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
     
     Now playing Next
     
-    [Culture news](https://www.euronews.com/culture/culture-news)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Why are ‘Blade Runner 2049’ producers suing Elon Musk?](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+    ### [Seoul weighs sending arms to Ukraine as Pyongyang troops join Russia](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
     
-    [![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")
+    [![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")
     
-    ![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](https://static.euronews.com/articles/stories/08/80/45/18/368x207_cmsv2_adee5da7-c412-5212-9159-49447443e996-8804518.jpg "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
+    ![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](https://static.euronews.com/articles/stories/08/80/51/76/368x207_cmsv2_557bdd7e-81ff-5324-9755-caedace6259f-8805176.jpg "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
     
     Now playing Next
     
-    [Business](https://www.euronews.com/business/business)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Disney looks for fairy-tale outcome as it names new chairman](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
+    ### [Bulgaria dismantles major counterfeit money-printing operation](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
+    
+    [![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")
+    
+    ![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](https://static.euronews.com/articles/stories/08/79/71/18/368x207_cmsv2_e5bacd89-c406-54ab-9527-2dae927c1f5a-8797118.jpg "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
+    
+    Now playing Next
+    
+    [USA](https://www.euronews.com/news/america/usa)
+    
+    ### [Concerns grow over Donald Trump's mental and cognitive health](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -78,8 +78,12 @@
     Programmes
     
     * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
+    * [Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
+    * [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
+    * [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
     * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
     * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
+    * [The Europe Conversation](https://www.euronews.com/my-europe/my-europe-series/the-europe-conversation)
     
     * * *
     
@@ -335,6 +339,7 @@ Partner content
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
+* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
 * * *
@@ -358,61 +363,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+* [European Parliament](https://www.euronews.com/tag/european-parliament)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Germany](https://www.euronews.com/tag/germany)
+* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Cinema](https://www.euronews.com/tag/cinema)
-* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [European Union](https://www.euronews.com/tag/european-union)
 
 * * *
 
 Latest stories
 
-[![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")
+[![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")
 
-![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](https://static.euronews.com/articles/stories/08/80/45/34/368x207_cmsv2_ceb1f4c9-7518-5383-a296-393150ee6b20-8804534.jpg "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
+![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](https://static.euronews.com/articles/stories/08/80/55/46/368x207_cmsv2_3ff7fd1c-2918-5343-ab03-322b4532fa3e-8805546.jpg "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Russian drone strike on Ukraine's Sumy kills at least three](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
+### [Hungary calls for former prisoner turned MEP's immunity to be lifted](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
 
 * * *
 
-[![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")
+[![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")
 
-![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](https://static.euronews.com/articles/stories/07/21/04/30/368x207_cmsv2_96ffcab8-9daf-57e9-8d1f-8c1baaa7d252-7210430.jpg "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
+![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](https://static.euronews.com/articles/stories/08/80/52/38/368x207_cmsv2_fdd1ab36-1461-503b-9cb7-38231d0057ed-8805238.jpg "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
 
 Now playing Next
 
-[Travel News](https://www.euronews.com/travel/travel-news)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Italy revives long-awaited dream of suspension bridge to Sicily](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
+### [Seoul weighs sending arms to Ukraine as Pyongyang troops join Russia](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
 
 * * *
 
-[![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")
+[![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")
 
-![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](https://static.euronews.com/articles/stories/08/80/47/42/368x207_cmsv2_eb2195e2-721c-5e36-a254-513b1ce45c50-8804742.jpg "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](https://static.euronews.com/articles/stories/08/80/51/76/368x207_cmsv2_557bdd7e-81ff-5324-9755-caedace6259f-8805176.jpg "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
 
 Now playing Next
 
-[Culture news](https://www.euronews.com/culture/culture-news)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Why are ‘Blade Runner 2049’ producers suing Elon Musk?](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+### [Bulgaria dismantles major counterfeit money-printing operation](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
 
 * * *
 
-[![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")
+[![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")
 
-![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](https://static.euronews.com/articles/stories/08/80/45/18/368x207_cmsv2_adee5da7-c412-5212-9159-49447443e996-8804518.jpg "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
+![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](https://static.euronews.com/articles/stories/08/79/71/18/368x207_cmsv2_e5bacd89-c406-54ab-9527-2dae927c1f5a-8797118.jpg "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[USA](https://www.euronews.com/news/america/usa)
 
-### [Disney looks for fairy-tale outcome as it names new chairman](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
+### [Concerns grow over Donald Trump's mental and cognitive health](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -426,8 +431,12 @@ Categories
 Programmes
 
 * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
+* [Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
+* [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
+* [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
 * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
 * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
+* [The Europe Conversation](https://www.euronews.com/my-europe/my-europe-series/the-europe-conversation)
 
 * * *
 
@@ -685,6 +694,7 @@ Partner content
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
+* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
 * * *
