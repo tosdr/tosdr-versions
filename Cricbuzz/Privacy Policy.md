@@ -8,7 +8,7 @@
 
 [Series](https://www.cricbuzz.com/cricket-schedule/series/all)
 
-[New Zealand tour of India, 2024](https://www.cricbuzz.com/cricket-series/8395/new-zealand-tour-of-india-2024 "New Zealand tour of India, 2024") [India tour of South Africa, 2024](https://www.cricbuzz.com/cricket-series/8404/india-tour-of-south-africa-2024 "India tour of South Africa, 2024") [South Africa tour of Bangladesh, 2024](https://www.cricbuzz.com/cricket-series/9033/south-africa-tour-of-bangladesh-2024 "South Africa tour of Bangladesh, 2024") [ICC Womens T20 World Cup, 2024](https://www.cricbuzz.com/cricket-series/8071/icc-womens-t20-world-cup-2024 "ICC Womens T20 World Cup, 2024") [England tour of West Indies, 2024](https://www.cricbuzz.com/cricket-series/8107/england-tour-of-west-indies-2024 "England tour of West Indies, 2024") [Womens Big Bash League 2024](https://www.cricbuzz.com/cricket-series/8525/womens-big-bash-league-2024 "Womens Big Bash League 2024") [England tour of Pakistan, 2024](https://www.cricbuzz.com/cricket-series/8497/england-tour-of-pakistan-2024 "England tour of Pakistan, 2024") [West Indies tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/9009/west-indies-tour-of-sri-lanka-2024 "West Indies tour of Sri Lanka, 2024") [Ranji Trophy Elite 2024-25](https://www.cricbuzz.com/cricket-series/8339/ranji-trophy-elite-2024-25 "Ranji Trophy Elite 2024-25") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
+[New Zealand tour of India, 2024](https://www.cricbuzz.com/cricket-series/8395/new-zealand-tour-of-india-2024 "New Zealand tour of India, 2024") [India tour of South Africa, 2024](https://www.cricbuzz.com/cricket-series/8404/india-tour-of-south-africa-2024 "India tour of South Africa, 2024") [South Africa tour of Bangladesh, 2024](https://www.cricbuzz.com/cricket-series/9033/south-africa-tour-of-bangladesh-2024 "South Africa tour of Bangladesh, 2024") [England tour of West Indies, 2024](https://www.cricbuzz.com/cricket-series/8107/england-tour-of-west-indies-2024 "England tour of West Indies, 2024") [New Zealand Women tour of India 2024](https://www.cricbuzz.com/cricket-series/9073/new-zealand-women-tour-of-india-2024 "New Zealand Women tour of India 2024") [Womens Big Bash League 2024](https://www.cricbuzz.com/cricket-series/8525/womens-big-bash-league-2024 "Womens Big Bash League 2024") [England tour of Pakistan, 2024](https://www.cricbuzz.com/cricket-series/8497/england-tour-of-pakistan-2024 "England tour of Pakistan, 2024") [West Indies tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/9009/west-indies-tour-of-sri-lanka-2024 "West Indies tour of Sri Lanka, 2024") [Ranji Trophy Elite 2024-25](https://www.cricbuzz.com/cricket-series/8339/ranji-trophy-elite-2024-25 "Ranji Trophy Elite 2024-25") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
 
 [Teams](https://www.cricbuzz.com/cricket-team)
 
@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs RSA - Live](https://www.cricbuzz.com/live-cricket-scores/108417/ban-vs-rsa-1st-test-south-africa-tour-of-bangladesh-2024 "Bangladesh v South Africa, 1st Test - Live")[UAE vs INDA - INDA Won](https://www.cricbuzz.com/live-cricket-scores/107617/uae-vs-inda-8th-match-group-b-acc-mens-t20-emerging-teams-asia-cup-2024 "United Arab Emirates v India A, 8th Match, Group B - INDA Won")[NZW vs RSAW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94703/nzw-vs-rsaw-final-icc-womens-t20-world-cup-2024 "New Zealand Women v South Africa Women, Final - NZW Won")[IND vs NZ - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - NZ Won")[SAUS vs QL - Live](https://www.cricbuzz.com/live-cricket-scores/102864/saus-vs-ql-5th-match-sheffield-shield-2024-25 "South Australia v Queensland, 5th Match - Live")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs RSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/108417/ban-vs-rsa-1st-test-south-africa-tour-of-bangladesh-2024 "Bangladesh v South Africa, 1st Test - Stumps")[SL vs WI - Preview](https://www.cricbuzz.com/live-cricket-scores/108267/sl-vs-wi-2nd-odi-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 2nd ODI - Preview")[ZIM vs RWA - Live](https://www.cricbuzz.com/live-cricket-scores/108483/zim-vs-rwa-9th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Rwanda, 9th Match - Live")[LIONS vs TIT - Preview](https://www.cricbuzz.com/live-cricket-scores/103582/lions-vs-tit-qualifier-1-csa-t20-challenge-2024 "Lions v Titans, Qualifier 1 - Preview")[NZW vs RSAW - NZW Won](https://www.cricbuzz.com/live-cricket-scores/94703/nzw-vs-rsaw-final-icc-womens-t20-world-cup-2024 "New Zealand Women v South Africa Women, Final - NZW Won")
 
 AllLive NowToday
 
@@ -56,17 +56,13 @@ AllLive NowToday
     
     New Zealand v India 2024
     
-    [India vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-v-india-2024 "India v New Zealand, 1st Test - NZ Won")
-    
-    1st Test
-    
-* [India vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/100272/ind-vs-nz-2nd-test-new-zealand-v-india-2024 "India v New Zealand, 2nd Test - Upcoming")
+    [India vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/100272/ind-vs-nz-2nd-test-new-zealand-v-india-2024 "India v New Zealand, 2nd Test - Upcoming")
     
     2nd Test
     
 * South Africa tour of Bangladesh, 2024
     
-    [Bangladesh vs South Africa  LIVE](https://www.cricbuzz.com/live-cricket-scores/108417/ban-vs-rsa-1st-test-south-africa-tour-of-bangladesh-2024 "Bangladesh v South Africa, 1st Test - Live")
+    [Bangladesh vs South Africa](https://www.cricbuzz.com/live-cricket-scores/108417/ban-vs-rsa-1st-test-south-africa-tour-of-bangladesh-2024 "Bangladesh v South Africa, 1st Test - Stumps")
     
     1st Test
     
@@ -82,29 +78,25 @@ AllLive NowToday
     
     1st ODI
     
-* [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108267/sl-vs-wi-2nd-odi-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 2nd ODI - Upcoming")
+* [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108267/sl-vs-wi-2nd-odi-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 2nd ODI - Preview")
     
     2nd ODI
     
 * Quadrangular T20I Series in Bhutan, 2024
     
-    [Indonesia vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108313/idn-vs-thai-4th-match-quadrangular-t20i-series-in-bhutan-2024 "Indonesia v Thailand, 4th Match - THAI Won")
-    
-    4th Match
-    
-* [Thailand vs Maldives](https://www.cricbuzz.com/live-cricket-scores/108321/thai-vs-mdv-5th-match-quadrangular-t20i-series-in-bhutan-2024 "Thailand v Maldives, 5th Match - Complete")
+    [Thailand vs Maldives](https://www.cricbuzz.com/live-cricket-scores/108321/thai-vs-mdv-5th-match-quadrangular-t20i-series-in-bhutan-2024 "Thailand v Maldives, 5th Match - THAI Won")
     
     5th Match
     
-* [Bhutan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/108323/btn-vs-idn-6th-match-quadrangular-t20i-series-in-bhutan-2024 "Bhutan v Indonesia, 6th Match - Preview")
+* [Bhutan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/108323/btn-vs-idn-6th-match-quadrangular-t20i-series-in-bhutan-2024 "Bhutan v Indonesia, 6th Match - BTN Won")
     
     6th Match
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/108329/tbc-vs-tbc-1st-semi-final-quadrangular-t20i-series-in-bhutan-2024 "TBC v TBC, 1st Semi-Final - Upcoming")
+* [Thailand vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/108329/thai-vs-idn-1st-semi-final-quadrangular-t20i-series-in-bhutan-2024 "Thailand v Indonesia, 1st Semi-Final - Upcoming")
     
     1st Semi-Final
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/108331/tbc-vs-tbc-2nd-semi-final-quadrangular-t20i-series-in-bhutan-2024 "TBC v TBC, 2nd Semi-Final - Upcoming")
+* [Bhutan vs Maldives](https://www.cricbuzz.com/live-cricket-scores/108331/btn-vs-mdv-2nd-semi-final-quadrangular-t20i-series-in-bhutan-2024 "Bhutan v Maldives, 2nd Semi-Final - Upcoming")
     
     2nd Semi-Final
     
@@ -120,27 +112,19 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Sub Regional Africa Qualifier Group B, 2024
     
-    [Gambia vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108459/gm-vs-sey-5th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Gambia v Seychelles, 5th Match - Abandon")
-    
-    5th Match
-    
-* [Mozambique vs Zimbabwe](https://www.cricbuzz.com/live-cricket-scores/108457/moz-vs-zim-4th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Mozambique v Zimbabwe, 4th Match - ZIM Won")
-    
-    4th Match
-    
-* [Rwanda vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108465/rwa-vs-ken-6th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Rwanda v Kenya, 6th Match - KEN Won")
+    [Rwanda vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108465/rwa-vs-ken-6th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Rwanda v Kenya, 6th Match - KEN Won")
     
     6th Match
     
-* [Mozambique vs Seychelles  LIVE](https://www.cricbuzz.com/live-cricket-scores/108473/moz-vs-sey-7th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Mozambique v Seychelles, 7th Match - Live")
+* [Mozambique vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108473/moz-vs-sey-7th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Mozambique v Seychelles, 7th Match - MOZ Won")
     
     7th Match
     
-* [Zimbabwe vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/108483/zim-vs-rwa-9th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Rwanda, 9th Match - Preview")
+* [Zimbabwe vs Rwanda  LIVE](https://www.cricbuzz.com/live-cricket-scores/108483/zim-vs-rwa-9th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Rwanda, 9th Match - Live")
     
     9th Match
     
-* [Kenya vs Gambia](https://www.cricbuzz.com/live-cricket-scores/108481/ken-vs-gm-8th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Kenya v Gambia, 8th Match - Preview")
+* [Kenya vs Gambia  LIVE](https://www.cricbuzz.com/live-cricket-scores/108481/ken-vs-gm-8th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Kenya v Gambia, 8th Match - Live")
     
     8th Match
     
@@ -159,6 +143,14 @@ AllLive NowToday
 * [Rwanda vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108507/rwa-vs-sey-13th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Rwanda v Seychelles, 13th Match - Upcoming")
     
     13th Match
+    
+* [Gambia vs Mozambique](https://www.cricbuzz.com/live-cricket-scores/108515/gm-vs-moz-15th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Gambia v Mozambique, 15th Match - Upcoming")
+    
+    15th Match
+    
+* [Kenya vs Zimbabwe](https://www.cricbuzz.com/live-cricket-scores/108513/ken-vs-zim-14th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Kenya v Zimbabwe, 14th Match - Upcoming")
+    
+    14th Match
     
 * T20 LEAGUE
     
@@ -194,17 +186,25 @@ AllLive NowToday
     
     Elite Group C
     
-* [Jammu and Kashmir vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97302/jk-vs-odsa-elite-group-a-ranji-trophy "Jammu and Kashmir v Odisha, Elite Group A - Match drawn")
+* [Maharashtra vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97311/mah-vs-mum-elite-group-a-ranji-trophy "Maharashtra v Mumbai, Elite Group A - MUM Won")
     
     Elite Group A
     
-* [Baroda vs Services](https://www.cricbuzz.com/live-cricket-scores/97295/brd-vs-ser-elite-group-a-ranji-trophy "Baroda v Services, Elite Group A - BRD Won")
+* [Haryana vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97369/har-vs-up-elite-group-c-ranji-trophy "Haryana v Uttar Pradesh, Elite Group C - Match drawn")
+    
+    Elite Group C
+    
+* [Jammu and Kashmir vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97302/jk-vs-odsa-elite-group-a-ranji-trophy "Jammu and Kashmir v Odisha, Elite Group A - Match drawn")
     
     Elite Group A
     
 * [Kerala vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97358/ker-vs-kar-elite-group-c-ranji-trophy "Kerala v Karnataka, Elite Group C - Match drawn")
     
     Elite Group C
+    
+* [Baroda vs Services](https://www.cricbuzz.com/live-cricket-scores/97295/brd-vs-ser-elite-group-a-ranji-trophy "Baroda v Services, Elite Group A - BRD Won")
+    
+    Elite Group A
     
 * [Vidarbha vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97349/vid-vs-pdc-elite-group-b-ranji-trophy "Vidarbha v Puducherry, Elite Group B - VID Won")
     
@@ -238,14 +238,6 @@ AllLive NowToday
     
     Elite Group C
     
-* [Maharashtra vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97311/mah-vs-mum-elite-group-a-ranji-trophy "Maharashtra v Mumbai, Elite Group A - MUM Won")
-    
-    Elite Group A
-    
-* [Haryana vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97369/har-vs-up-elite-group-c-ranji-trophy "Haryana v Uttar Pradesh, Elite Group C - Match drawn")
-    
-    Elite Group C
-    
 * Ranji Trophy Plate
     
     [Sikkim vs Goa](https://www.cricbuzz.com/live-cricket-scores/98112/skm-vs-goa-plate-ranji-trophy-plate "Sikkim v Goa, Plate - GOA Won")
@@ -266,21 +258,17 @@ AllLive NowToday
     
     4th Match
     
-* [South Australia vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102864/saus-vs-ql-5th-match-sheffield-shield-2024-25 "South Australia v Queensland, 5th Match - Live")
+* [South Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102864/saus-vs-ql-5th-match-sheffield-shield-2024-25 "South Australia v Queensland, 5th Match - Stumps")
     
     5th Match
     
-* [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102871/tas-vs-wa-6th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 6th Match - Live")
+* [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102871/tas-vs-wa-6th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 6th Match - Stumps")
     
     6th Match
     
 * ACC Mens T20 Emerging Teams Asia Cup
     
-    [Sri Lanka A vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/107601/sla-vs-hk-5th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Hong Kong, 5th Match, Group A - SLA Won")
-    
-    5th Match, Group A
-    
-* [Bangladesh A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107609/bana-vs-afga-6th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Bangladesh A v Afghanistan A, 6th Match, Group A - AFGA Won")
+    [Bangladesh A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107609/bana-vs-afga-6th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Bangladesh A v Afghanistan A, 6th Match, Group A - AFGA Won")
     
     6th Match, Group A
     
@@ -292,11 +280,11 @@ AllLive NowToday
     
     8th Match, Group B
     
-* [Afghanistan A vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/107625/afga-vs-hk-9th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Afghanistan A v Hong Kong, 9th Match, Group A - Preview")
+* [Afghanistan A vs Hong Kong](https://www.cricbuzz.com/live-cricket-scores/107625/afga-vs-hk-9th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Afghanistan A v Hong Kong, 9th Match, Group A - HK Won")
     
     9th Match, Group A
     
-* [Sri Lanka A vs Bangladesh A](https://www.cricbuzz.com/live-cricket-scores/107627/sla-vs-bana-10th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Bangladesh A, 10th Match, Group A - Preview")
+* [Sri Lanka A vs Bangladesh A](https://www.cricbuzz.com/live-cricket-scores/107627/sla-vs-bana-10th-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Bangladesh A, 10th Match, Group A - Toss")
     
     10th Match, Group A
     
@@ -310,7 +298,11 @@ AllLive NowToday
     
 * The Ford Trophy 2024-25
     
-    [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107273/akl-vs-wel-5th-match-the-ford-trophy-2024-25 "Auckland v Wellington, 5th Match - Preview")
+    [Central Districts vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107275/cd-vs-nk-6th-match-the-ford-trophy-2024-25 "Central Districts v Northern Knights, 6th Match - Preview")
+    
+    6th Match
+    
+* [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107273/akl-vs-wel-5th-match-the-ford-trophy-2024-25 "Auckland v Wellington, 5th Match - Preview")
     
     5th Match
     
@@ -318,13 +310,15 @@ AllLive NowToday
     
     4th Match
     
-* [Central Districts vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107275/cd-vs-nk-6th-match-the-ford-trophy-2024-25 "Central Districts v Northern Knights, 6th Match - Preview")
-    
-    6th Match
-    
 * WOMEN
     
-    ICC Womens T20 World Cup
+    New Zealand Women tour of India 2024
+    
+    [India Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/108673/indw-vs-nzw-1st-odi-new-zealand-women-tour-of-india-2024 "India Women v New Zealand Women, 1st ODI - Upcoming")
+    
+    1st ODI
+    
+* ICC Womens T20 World Cup
     
     [New Zealand Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94703/nzw-vs-rsaw-final-icc-womens-t20-world-cup "New Zealand Women v South Africa Women, Final - NZW Won")
     
@@ -665,41 +659,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132154/verreynne-mulder-fifties-put-south-africa-in-firm-control "Verreynne, Mulder fifties put South Africa in firm control")
+  [](https://www.cricbuzz.com/cricket-news/132160/verreynnes-ton-keeps-south-africa-in-command "Verreynne's ton keeps South Africa in command")
 
-[Verreynne, Mulder fifties put South Africa in firm control](https://www.cricbuzz.com/cricket-news/132154/verreynne-mulder-fifties-put-south-africa-in-firm-control "Verreynne, Mulder fifties put South Africa in firm control")
+[Verreynne's ton keeps South Africa in command](https://www.cricbuzz.com/cricket-news/132160/verreynnes-ton-keeps-south-africa-in-command "Verreynne's ton keeps South Africa in command")
 
-48m ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132153/hathurusinghas-bangladesh-exit-clouded-by-unanswered-questions "Hathurusingha's Bangladesh exit clouded by unanswered questions")
+  [](https://www.cricbuzz.com/cricket-news/132159/washington-added-with-nzs-left-handers-in-mind-says-doeschate "Washington added with NZ's left-handers in mind, says Doeschate")
 
-[Hathurusingha's Bangladesh exit clouded by unanswered questions](https://www.cricbuzz.com/cricket-news/132153/hathurusinghas-bangladesh-exit-clouded-by-unanswered-questions "Hathurusingha's Bangladesh exit clouded by unanswered questions")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132152/la28-olympics-may-hold-cricket-matches-in-new-york "LA28 Olympics may hold cricket matches in New York")
-
-[LA28 Olympics may hold cricket matches in New York](https://www.cricbuzz.com/cricket-news/132152/la28-olympics-may-hold-cricket-matches-in-new-york "LA28 Olympics may hold cricket matches in New York")
+[Washington added with NZ's left-handers in mind, says Doeschate](https://www.cricbuzz.com/cricket-news/132159/washington-added-with-nzs-left-handers-in-mind-says-doeschate "Washington added with NZ's left-handers in mind, says Doeschate")
 
 3h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132151/williamson-out-of-second-test-against-india-as-he-continues-rehabilitation "Williamson out of second Test against India as he continues rehabilitation")
+  [](https://www.cricbuzz.com/cricket-news/132158/rehan-atkinson-in-carse-and-potts-make-way "England bring back Rehan Ahmed and Gus Atkinson for third Test")
 
-[Williamson out of second Test against India as he continues rehabilitation](https://www.cricbuzz.com/cricket-news/132151/williamson-out-of-second-test-against-india-as-he-continues-rehabilitation "Williamson out of second Test against India as he continues rehabilitation")
+[England bring back Rehan Ahmed and Gus Atkinson for third Test](https://www.cricbuzz.com/cricket-news/132158/rehan-atkinson-in-carse-and-potts-make-way "England bring back Rehan Ahmed and Gus Atkinson for third Test")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132157/verreynnes-ton-rabadas-early-strikes-put-south-africa-in-pole-position "Verreynne's ton, Rabada's early strikes put South Africa in pole position")
+
+[Verreynne's ton, Rabada's early strikes put South Africa in pole position](https://www.cricbuzz.com/cricket-news/132157/verreynnes-ton-rabadas-early-strikes-put-south-africa-in-pole-position "Verreynne's ton, Rabada's early strikes put South Africa in pole position")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132156/behind-rachin-ravindras-spin-proficiency "Behind Rachin Ravindra's spin proficiency")
+
+[Behind Rachin Ravindra's spin proficiency](https://www.cricbuzz.com/cricket-news/132156/behind-rachin-ravindras-spin-proficiency "Behind Rachin Ravindra's spin proficiency")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132155/glute-niggle-keeps-mir-hamza-away-from-training "Glute niggle keeps Mir Hamza away from training")
+
+[Glute niggle keeps Mir Hamza away from training](https://www.cricbuzz.com/cricket-news/132155/glute-niggle-keeps-mir-hamza-away-from-training "Glute niggle keeps Mir Hamza away from training")
 
 5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132150/nepal-trounce-lacklustre-usa-to-make-it-a-3-0-cleansweep "Nepal trounce lacklustre USA to make it a 3-0 cleansweep")
-
-[Nepal trounce lacklustre USA to make it a 3-0 cleansweep](https://www.cricbuzz.com/cricket-news/132150/nepal-trounce-lacklustre-usa-to-make-it-a-3-0-cleansweep "Nepal trounce lacklustre USA to make it a 3-0 cleansweep")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132149/shaw-left-out-of-mumbai-squad-over-fitness-issues "Shaw left out of Mumbai squad over fitness issues")
-
-[Shaw left out of Mumbai squad over fitness issues](https://www.cricbuzz.com/cricket-news/132149/shaw-left-out-of-mumbai-squad-over-fitness-issues "Shaw left out of Mumbai squad over fitness issues")
-
-6h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
