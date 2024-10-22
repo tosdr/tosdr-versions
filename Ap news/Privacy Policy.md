@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Blinken arrives in Israel as US looks to renew cease-fire efforts after the killing of Hamas leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
-    * [Peru’s ex-president Toledo gets more than 20 years in prison in case linked to corruption scandal](https://apnews.com/article/peru-toledo-prison-sentence-odebrecht-5f23c3d8fd176dfc6ca8125e96b2e3ec)
-    * [Samoan coast where King Charles will visit worries about the future after ship damaged reef](https://apnews.com/article/samoa-king-charles-zealand-navy-boat-sank-be10fb9b6d85ff74c25f07daaafa9198)
+    * [Israeli strike destroys building near Beirut as Blinken presses for Gaza cease-fire](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
+    * [Ukraine's Zelenskyy says only a US green light on a NATO invitation will sway a reluctant Germany](https://apnews.com/article/russia-ukraine-nato-germany-zelenskyy-dea72695475ebcf3d5b22f3a9c8aecac)
+    * [IMF's view: The global fight against high inflation is 'almost won'](https://apnews.com/article/imf-global-economy-inflation-growth-federal-reserve-715442446ade21f91548095ed46ba312)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Women in states with bans are getting abortions at similar rates as under Roe, report says](https://apnews.com/article/abortion-numbers-telehealth-wecount-pills-bans-663be20ac1a40345ec5c8fe23ab43a60)
+    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
     * [New campus protest rules spur an outcry from college faculty](https://apnews.com/article/campus-free-speech-faculty-protest-14da92667846c2b23a36eec64e1d8ff3)
-    * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
-    * [New Mexico authorities rescue hundreds after flooding strands many in high water and leaves 2 dead](https://apnews.com/article/record-rainfall-roswell-severe-flooding-new-mexico-f86e1d208e468b21f302411e6f69af73)
     
     Newsletters
     
@@ -49,6 +49,12 @@ Menu
     SECTIONS
     
     [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
+    
+    TOP STORIES
+    
+    * [Harris bets her policies can attract Latino voters while Trump touts his time as president to them](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
+    * [How Project 2025 started and where it aims to go next](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
+    * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
     
     Newsletters
     
@@ -67,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Harris bets her policies can attract Latino voters while Trump touts his time as president to them](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
-    * [How Project 2025's rightward vision became a flashpoint in this year's election](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
-    * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
+    * [Harris will campaign in Texas to highlight state's abortion ban in a pitch to battleground voters](https://apnews.com/article/harris-texas-abortion-battlegrounds-election-c6b2c784df537e58d353de54930f588b)
+    * [Those early Zoom meetings got people fired up for Harris. Now they're trying to get them to vote](https://apnews.com/article/kamala-harris-zoom-campaign-organizing-953777ee81887858851e584191859b4f)
     
     Newsletters
     
@@ -86,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Lamar Jackson throws for 281 yards, 5 TDs to lead streaking Ravens to 41-31 victory over Buccaneers](https://apnews.com/article/ravens-buccaneers-jackson-mayfield-score-89d4cbae395e0f823c581989809df1f7)
-    * [Murray runs for a TD, leads Cardinals to game-winning FG and 17-15 win over Chargers](https://apnews.com/article/chargers-cardinals-score-aabd08ce650e37a37f859b4eff6a5f41)
-    * [Deshaun Watson's season is ended by a ruptured Achilles tendon. Browns say QB will have surgery](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
+    * [76ers rule Embiid and George out for the season opener with injuries](https://apnews.com/article/76ers-embiid-george-3e2296ab03c95bccff4b6e5531474a02)
+    * [NBA things to know: As season begins, Celtics chasing Spurs for all-time best record](https://apnews.com/article/nba-season-celtics-spurs-1acdeb3aaf1f90628af0cf80bfc229b9)
+    * [Watkins, Bueckers headline preseason AP All-America team in women's hoops; 3 sophomores for 1st time](https://apnews.com/article/college-basketball-ap-allamerica-team-447452800081a79ebcf587c16e19f35c)
     
     Newsletters
     
@@ -108,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Spielberg, Spike Lee and Queen Latifah among standouts in US arts and humanities honored by Biden](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
-    * [Facing 7 more lawsuits, Sean 'Diddy' Combs protests a 'fresh wave of publicity'](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-0c25d256ee9351a64c30a8398c5a46d4)
-    * [Writer Olivia Nuzzi and New York magazine part ways after relationship with political source revealed](https://apnews.com/article/olivia-nuzzi-reporter-new-york-magazine-kennedy-0eebc8e7a039b3170cfd037a4e0c416e)
+    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
+    * [Russian opposition leader Alexei Navalny's posthumous memoir is a testament to resilience](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
+    * [AARP to honor Glenn Close with Movies for Grownups career achievement award](https://apnews.com/article/glenn-close-aarp-achievement-award-a1b4637da636808d8a689f62f5a9dcfb)
     
 * [Business](https://apnews.com/business)
     
@@ -121,8 +127,8 @@ Menu
     TOP STORIES
     
     * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
-    * [General Motors overcomes US sales drop and China losses to post 3rd quarter profit of $3 billion](https://apnews.com/article/general-motors-earnings-net-income-sales-ad00bcfda9d8e3792d77b9a9818eff2b)
-    * [Stock market today: Global shares mostly fall ahead of earnings reports](https://apnews.com/article/stocks-markets-china-earnings-rates-0323c07ea21f8a000c26b9c7f2a6cb64)
+    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
+    * [IMF's view: The global fight against high inflation is 'almost won'](https://apnews.com/article/imf-global-economy-inflation-growth-federal-reserve-715442446ade21f91548095ed46ba312)
     
 * [Science](https://apnews.com/science)
     
@@ -228,20 +234,20 @@ Menu
     
     TOP STORIES
     
+    * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
+    * [Researchers in a lab near Lake Erie study how toxic algae can damage health](https://apnews.com/article/algae-blooms-lake-erie-ohio-toxic-research-46c619290204edb55174d8de291462b6)
     * [Environmental delegates gather in Colombia for a conference on dwindling global biodiversity](https://apnews.com/article/un-biodiversity-species-extinction-habitats-conservation-a188a2f1c6319e16ad4f7071a0fc8572)
-    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
-    * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
+    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
     * [Teen smoking just hit an all-time low in the U.S., CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
     * [Whooping cough is at a decade-high level in US](https://apnews.com/article/whooping-cough-pertussis-childhood-vaccine-02c66d962115e90c2a9bd9dd9c3138e1)
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
-    * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
-    * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [White House says health insurance needs to fully cover condoms, other over-the-counter birth control](https://apnews.com/article/birth-control-free-insurance-morning-after-pill-f9701dc9137867c62f6a22e1501bebe6)
+    * [Women in states with bans are getting abortions at similar rates as under Roe, report says](https://apnews.com/article/abortion-numbers-telehealth-wecount-pills-bans-663be20ac1a40345ec5c8fe23ab43a60)
     
 * [Tech](https://apnews.com/technology)
     
@@ -251,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * ['Blade Runner 2049' producers sue Elon Musk and Tesla over AI image at robotaxi event](https://apnews.com/article/elon-musk-robotaxi-blade-runner-2049-lawsuit-384c0fbdc536d0c5cfc13794507c3b9f)
     * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
-    * [Biden administration to provide $325 million for new Michigan semiconductor factory](https://apnews.com/article/hemlock-michigan-saginaw-chips-trump-biden-harris-3294f2da8e1faf71e6bb6b3ef682e092)
-    * [FTC's rule banning fake online reviews goes into effect](https://apnews.com/article/ftc-rule-fake-reviews-ban-b7e57e33c1818fa58dd742a921643239)
+    * [Russia is behind viral disinformation targeting Walz, intelligence official says](https://apnews.com/article/walz-russia-disinformation-election-harris-trump-8646b7f354df629cd5d6661ba51e7174)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -263,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [Samoan coast where King Charles will visit worries about the future after ship damaged reef](https://apnews.com/article/samoa-king-charles-zealand-navy-boat-sank-be10fb9b6d85ff74c25f07daaafa9198)
-    * [Asian American boba brand finds opportunity after Simu Liu sparks cultural appropriation debate](https://apnews.com/article/boba-dragons-den-simu-liu-cultural-appropriation-bada290100697529975a1ae0a0a1943d)
-    * [King Charles III's Commonwealth visit to Samoa will highlight climate change ... and dance](https://apnews.com/article/king-charles-samoa-commonwealth-dance-89b658cf3b0529b7a19c0361208a29c8)
+    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
+    * [AARP to honor Glenn Close with Movies for Grownups career achievement award](https://apnews.com/article/glenn-close-aarp-achievement-award-a1b4637da636808d8a689f62f5a9dcfb)
+    * [Hoard of 1,000-year-old coins unearthed in a farmer's field sells for $5.6 million](https://apnews.com/article/uk-norman-silver-coin-hoard-discovery-73e53a20da18ff0ae2963a22765f3ac9)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [About 140 Rohingya Muslims on wooden boat off Indonesia's coast as residents refuse to let them land](https://apnews.com/article/indonesia-aceh-rohingya-muslims-myanmar-refugees-e449e93984ea308c24efedb84be0f6e8)
     * [China and the Vatican agree to extend an agreement on appointing bishops](https://apnews.com/article/china-vatican-agreement-b9cd669a0a91ad3da8fc70fe41611bdb)
     * [Panamanians crawl to reach the Black Christ of Portobelo in annual religious pilgrimage](https://apnews.com/article/panama-black-christ-pilgrimage-religion-portobelo-1394eb0de3ac6b6fe2d77f23e88505b3)
-    * [Hundreds mourn Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-91babd8eb739a110888d69b5d1afef86)
     
     Newsletters
     
@@ -287,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Blinken llega a Israel mientras EEUU trata de impulsar alto el fuego tras muerte de líder de Hamás](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
-    * [Continúa el apagón en Cuba por cuarta jornada; clases y actividades no vitales suspendidas](https://apnews.com/article/cuba-apagon-huracan-oscar-599b9585cf38fca2227de32fc24aea99)
-    * [Putin recibe a los líderes de los BRICS para contrarrestar la influencia de Occidente](https://apnews.com/article/brics-rusia-brasil-china-india-sudafrica-putin-8152ced3465eefa4103bbf4b2f55e2f1)
-    * [¿Cómo se traduce aborto? Las consultas electorales en EEUU son un reto para los traductores](https://apnews.com/article/aborto-eeuu-votacion-referendo-migrantes-traduccion-indigena-ff8e7b074e4a02093b34eeb27dfe2c80)
-    * [Condenan a 20 años y medio a expresidente peruano Alejandro Toledo por corrupción en caso Odebrecht](https://apnews.com/article/peru-expresidente-toledo-condena-corrupcion-odebrecht-4fbb504bf5a20ac50b967cc7375c39e4)
-    * [La tormenta tropical Oscar se dirige a Bahamas tras dejar fuertes lluvias en el este de Cuba](https://apnews.com/article/oscar-tormenta-huracan-cuba-bahamas-24d536224cf7b830e9064f20cbfc8c7d)
+    * [Blinken llega a Israel, su 11va visita a la región en busca de un alto el fuego](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
+    * [La tormenta tropical Oscar se dirige a Bahamas tras dejar 6 muertos en Cuba como huracán](https://apnews.com/article/oscar-tormenta-huracan-cuba-bahamas-24d536224cf7b830e9064f20cbfc8c7d)
+    * [Cuba amanece con mejor cobertura energética, pero la debilidad del sistema persistirá](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
+    * [Putin recibe a los líderes de los BRICS en cumbre para contrarrestar la influencia de Occidente](https://apnews.com/article/brics-rusia-brasil-china-india-sudafrica-putin-8152ced3465eefa4103bbf4b2f55e2f1)
+    * [FBI investiga publicación de documentos confidenciales sobre posible ataque de Israel a Irán](https://apnews.com/article/eeuu-israel-iran-ataque-filtracion-documentos-bd355deb9351ceed4e1db1ed2e925533)
+    * [Qué esperar el día de las elecciones en Florida](https://apnews.com/article/trump-harris-eeuu-elecciones-florida-a8048fb533789d199a63c8422814df1d)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +459,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Blinken arrives in Israel as US looks to renew cease-fire efforts after the killing of Hamas leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
-    * [Peru’s ex-president Toledo gets more than 20 years in prison in case linked to corruption scandal](https://apnews.com/article/peru-toledo-prison-sentence-odebrecht-5f23c3d8fd176dfc6ca8125e96b2e3ec)
-    * [Samoan coast where King Charles will visit worries about the future after ship damaged reef](https://apnews.com/article/samoa-king-charles-zealand-navy-boat-sank-be10fb9b6d85ff74c25f07daaafa9198)
+    * [Israeli strike destroys building near Beirut as Blinken presses for Gaza cease-fire](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
+    * [Ukraine's Zelenskyy says only a US green light on a NATO invitation will sway a reluctant Germany](https://apnews.com/article/russia-ukraine-nato-germany-zelenskyy-dea72695475ebcf3d5b22f3a9c8aecac)
+    * [IMF's view: The global fight against high inflation is 'almost won'](https://apnews.com/article/imf-global-economy-inflation-growth-federal-reserve-715442446ade21f91548095ed46ba312)
     
     Newsletters
     
@@ -471,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Women in states with bans are getting abortions at similar rates as under Roe, report says](https://apnews.com/article/abortion-numbers-telehealth-wecount-pills-bans-663be20ac1a40345ec5c8fe23ab43a60)
+    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
     * [New campus protest rules spur an outcry from college faculty](https://apnews.com/article/campus-free-speech-faculty-protest-14da92667846c2b23a36eec64e1d8ff3)
-    * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
-    * [New Mexico authorities rescue hundreds after flooding strands many in high water and leaves 2 dead](https://apnews.com/article/record-rainfall-roswell-severe-flooding-new-mexico-f86e1d208e468b21f302411e6f69af73)
     
     Newsletters
     
@@ -498,6 +504,12 @@ Submit Search
     
     [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
     
+    TOP STORIES
+    
+    * [Harris bets her policies can attract Latino voters while Trump touts his time as president to them](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
+    * [How Project 2025 started and where it aims to go next](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
+    * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
+    
     Newsletters
     
     [Ground Game
@@ -520,8 +532,8 @@ Submit Search
     TOP STORIES
     
     * [Harris bets her policies can attract Latino voters while Trump touts his time as president to them](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
-    * [How Project 2025's rightward vision became a flashpoint in this year's election](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
-    * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
+    * [Harris will campaign in Texas to highlight state's abortion ban in a pitch to battleground voters](https://apnews.com/article/harris-texas-abortion-battlegrounds-election-c6b2c784df537e58d353de54930f588b)
+    * [Those early Zoom meetings got people fired up for Harris. Now they're trying to get them to vote](https://apnews.com/article/kamala-harris-zoom-campaign-organizing-953777ee81887858851e584191859b4f)
     
     Newsletters
     
@@ -549,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Lamar Jackson throws for 281 yards, 5 TDs to lead streaking Ravens to 41-31 victory over Buccaneers](https://apnews.com/article/ravens-buccaneers-jackson-mayfield-score-89d4cbae395e0f823c581989809df1f7)
-    * [Murray runs for a TD, leads Cardinals to game-winning FG and 17-15 win over Chargers](https://apnews.com/article/chargers-cardinals-score-aabd08ce650e37a37f859b4eff6a5f41)
-    * [Deshaun Watson's season is ended by a ruptured Achilles tendon. Browns say QB will have surgery](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
+    * [76ers rule Embiid and George out for the season opener with injuries](https://apnews.com/article/76ers-embiid-george-3e2296ab03c95bccff4b6e5531474a02)
+    * [NBA things to know: As season begins, Celtics chasing Spurs for all-time best record](https://apnews.com/article/nba-season-celtics-spurs-1acdeb3aaf1f90628af0cf80bfc229b9)
+    * [Watkins, Bueckers headline preseason AP All-America team in women's hoops; 3 sophomores for 1st time](https://apnews.com/article/college-basketball-ap-allamerica-team-447452800081a79ebcf587c16e19f35c)
     
     Newsletters
     
@@ -578,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Spielberg, Spike Lee and Queen Latifah among standouts in US arts and humanities honored by Biden](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
-    * [Facing 7 more lawsuits, Sean 'Diddy' Combs protests a 'fresh wave of publicity'](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-0c25d256ee9351a64c30a8398c5a46d4)
-    * [Writer Olivia Nuzzi and New York magazine part ways after relationship with political source revealed](https://apnews.com/article/olivia-nuzzi-reporter-new-york-magazine-kennedy-0eebc8e7a039b3170cfd037a4e0c416e)
+    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
+    * [Russian opposition leader Alexei Navalny's posthumous memoir is a testament to resilience](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
+    * [AARP to honor Glenn Close with Movies for Grownups career achievement award](https://apnews.com/article/glenn-close-aarp-achievement-award-a1b4637da636808d8a689f62f5a9dcfb)
     
 * [Business](https://apnews.com/business)
     
@@ -595,8 +607,8 @@ Submit Search
     TOP STORIES
     
     * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
-    * [General Motors overcomes US sales drop and China losses to post 3rd quarter profit of $3 billion](https://apnews.com/article/general-motors-earnings-net-income-sales-ad00bcfda9d8e3792d77b9a9818eff2b)
-    * [Stock market today: Global shares mostly fall ahead of earnings reports](https://apnews.com/article/stocks-markets-china-earnings-rates-0323c07ea21f8a000c26b9c7f2a6cb64)
+    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
+    * [IMF's view: The global fight against high inflation is 'almost won'](https://apnews.com/article/imf-global-economy-inflation-growth-federal-reserve-715442446ade21f91548095ed46ba312)
     
 * [Science](https://apnews.com/science)
     
@@ -717,20 +729,20 @@ Submit Search
     
     TOP STORIES
     
+    * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
+    * [Researchers in a lab near Lake Erie study how toxic algae can damage health](https://apnews.com/article/algae-blooms-lake-erie-ohio-toxic-research-46c619290204edb55174d8de291462b6)
     * [Environmental delegates gather in Colombia for a conference on dwindling global biodiversity](https://apnews.com/article/un-biodiversity-species-extinction-habitats-conservation-a188a2f1c6319e16ad4f7071a0fc8572)
-    * [Meet the rangers who protect one of Earth's most remote and biologically diverse reefs](https://apnews.com/article/palau-helen-reef-island-hatohobei-coral-8d6bb9e4b4815d5e5b277d74f1c36277)
-    * [Afro-Colombians fight the effects of gold mining through biodiversity projects in a violent region](https://apnews.com/article/reforestation-mining-gold-illegal-colombia-choco-community-river-bc446829153f86d04f87e4388d50df55)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
+    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
     * [Teen smoking just hit an all-time low in the U.S., CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
     * [Whooping cough is at a decade-high level in US](https://apnews.com/article/whooping-cough-pertussis-childhood-vaccine-02c66d962115e90c2a9bd9dd9c3138e1)
     * [Committee reviewing euthanasia in Canada finds some deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
-    * [Adult day centers offer multicultural hubs for older people of color](https://apnews.com/article/adult-day-center-care-medicare-98943152ebfc62dd898262d93ca32e6f)
-    * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
-    * [White House says health insurance needs to fully cover condoms, other over-the-counter birth control](https://apnews.com/article/birth-control-free-insurance-morning-after-pill-f9701dc9137867c62f6a22e1501bebe6)
+    * [Women in states with bans are getting abortions at similar rates as under Roe, report says](https://apnews.com/article/abortion-numbers-telehealth-wecount-pills-bans-663be20ac1a40345ec5c8fe23ab43a60)
     
 * [Tech](https://apnews.com/technology)
     
@@ -743,9 +755,9 @@ Submit Search
     
     TOP STORIES
     
+    * ['Blade Runner 2049' producers sue Elon Musk and Tesla over AI image at robotaxi event](https://apnews.com/article/elon-musk-robotaxi-blade-runner-2049-lawsuit-384c0fbdc536d0c5cfc13794507c3b9f)
     * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
-    * [Biden administration to provide $325 million for new Michigan semiconductor factory](https://apnews.com/article/hemlock-michigan-saginaw-chips-trump-biden-harris-3294f2da8e1faf71e6bb6b3ef682e092)
-    * [FTC's rule banning fake online reviews goes into effect](https://apnews.com/article/ftc-rule-fake-reviews-ban-b7e57e33c1818fa58dd742a921643239)
+    * [Russia is behind viral disinformation targeting Walz, intelligence official says](https://apnews.com/article/walz-russia-disinformation-election-harris-trump-8646b7f354df629cd5d6661ba51e7174)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -763,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
-    * [Samoan coast where King Charles will visit worries about the future after ship damaged reef](https://apnews.com/article/samoa-king-charles-zealand-navy-boat-sank-be10fb9b6d85ff74c25f07daaafa9198)
-    * [Asian American boba brand finds opportunity after Simu Liu sparks cultural appropriation debate](https://apnews.com/article/boba-dragons-den-simu-liu-cultural-appropriation-bada290100697529975a1ae0a0a1943d)
-    * [King Charles III's Commonwealth visit to Samoa will highlight climate change ... and dance](https://apnews.com/article/king-charles-samoa-commonwealth-dance-89b658cf3b0529b7a19c0361208a29c8)
+    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
+    * [AARP to honor Glenn Close with Movies for Grownups career achievement award](https://apnews.com/article/glenn-close-aarp-achievement-award-a1b4637da636808d8a689f62f5a9dcfb)
+    * [Hoard of 1,000-year-old coins unearthed in a farmer's field sells for $5.6 million](https://apnews.com/article/uk-norman-silver-coin-hoard-discovery-73e53a20da18ff0ae2963a22765f3ac9)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [About 140 Rohingya Muslims on wooden boat off Indonesia's coast as residents refuse to let them land](https://apnews.com/article/indonesia-aceh-rohingya-muslims-myanmar-refugees-e449e93984ea308c24efedb84be0f6e8)
     * [China and the Vatican agree to extend an agreement on appointing bishops](https://apnews.com/article/china-vatican-agreement-b9cd669a0a91ad3da8fc70fe41611bdb)
     * [Panamanians crawl to reach the Black Christ of Portobelo in annual religious pilgrimage](https://apnews.com/article/panama-black-christ-pilgrimage-religion-portobelo-1394eb0de3ac6b6fe2d77f23e88505b3)
-    * [Hundreds mourn Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-91babd8eb739a110888d69b5d1afef86)
     
     Newsletters
     
@@ -787,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Blinken llega a Israel mientras EEUU trata de impulsar alto el fuego tras muerte de líder de Hamás](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
-    * [Continúa el apagón en Cuba por cuarta jornada; clases y actividades no vitales suspendidas](https://apnews.com/article/cuba-apagon-huracan-oscar-599b9585cf38fca2227de32fc24aea99)
-    * [Putin recibe a los líderes de los BRICS para contrarrestar la influencia de Occidente](https://apnews.com/article/brics-rusia-brasil-china-india-sudafrica-putin-8152ced3465eefa4103bbf4b2f55e2f1)
-    * [¿Cómo se traduce aborto? Las consultas electorales en EEUU son un reto para los traductores](https://apnews.com/article/aborto-eeuu-votacion-referendo-migrantes-traduccion-indigena-ff8e7b074e4a02093b34eeb27dfe2c80)
-    * [Condenan a 20 años y medio a expresidente peruano Alejandro Toledo por corrupción en caso Odebrecht](https://apnews.com/article/peru-expresidente-toledo-condena-corrupcion-odebrecht-4fbb504bf5a20ac50b967cc7375c39e4)
-    * [La tormenta tropical Oscar se dirige a Bahamas tras dejar fuertes lluvias en el este de Cuba](https://apnews.com/article/oscar-tormenta-huracan-cuba-bahamas-24d536224cf7b830e9064f20cbfc8c7d)
+    * [Blinken llega a Israel, su 11va visita a la región en busca de un alto el fuego](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
+    * [La tormenta tropical Oscar se dirige a Bahamas tras dejar 6 muertos en Cuba como huracán](https://apnews.com/article/oscar-tormenta-huracan-cuba-bahamas-24d536224cf7b830e9064f20cbfc8c7d)
+    * [Cuba amanece con mejor cobertura energética, pero la debilidad del sistema persistirá](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
+    * [Putin recibe a los líderes de los BRICS en cumbre para contrarrestar la influencia de Occidente](https://apnews.com/article/brics-rusia-brasil-china-india-sudafrica-putin-8152ced3465eefa4103bbf4b2f55e2f1)
+    * [FBI investiga publicación de documentos confidenciales sobre posible ataque de Israel a Irán](https://apnews.com/article/eeuu-israel-iran-ataque-filtracion-documentos-bd355deb9351ceed4e1db1ed2e925533)
+    * [Qué esperar el día de las elecciones en Florida](https://apnews.com/article/trump-harris-eeuu-elecciones-florida-a8048fb533789d199a63c8422814df1d)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
