@@ -66,6 +66,23 @@ Spain - [Español](https://www.hbomax.com/terms-of-use/es-emea) - [English](http
 
 Sweden - [Svenska](https://www.max.com/terms-of-use/sv-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
+Asia Pacific
+------------
+
+Hong Kong - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
+Indonesia - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
+Malaysia - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
+Phillippines - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
+Singapore - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
+Taiwan - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
+Thailand - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+
 [Privacy Policy](https://www.hbomax.com/privacy)[Children's Privacy Policy](https://www.hbomax.com/privacy/children)[Terms of Use](https://www.hbomax.com/terms-of-use)
 
 [Do Not Sell My Personal Information](#compliance-link)
