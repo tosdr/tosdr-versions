@@ -1,3 +1,7 @@
+[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to watch the livestream](https://live-events.sailpoint.com/Ngr8rB?rt=HyET4OIHiUaa4NAt_MNj0g)
+
+Close
+
 [![SailPoint](/images/SailPoint-logo-cropped.svg)](https://www.sailpoint.com/)[Get a demo](https://www.sailpoint.com/demo)Toggle menu
 
 Search
