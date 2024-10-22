@@ -20,16 +20,16 @@ Tuesday, October 22 2024
 
 Latest
 
-* [Review: The Instant Vortex 6-quart Air Fryer Has No Learning Curve](https://digitpatrox.com/review-the-instant-vortex-6-quart-air-fryer-has-no-learning-curve/)
-* [Hey Google, What Song Is This? 7 Ways to Identify Music on Android](https://digitpatrox.com/hey-google-what-song-is-this-7-ways-to-identify-music-on-android/)
-* [5 Best CRM with Project Management for 2024](https://digitpatrox.com/5-best-crm-with-project-management-for-2024/)
-* [How to do the in-and-out abs exercise to build a strong core](https://digitpatrox.com/how-to-do-the-in-and-out-abs-exercise-to-build-a-strong-core/)
-* [Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://digitpatrox.com/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
-* [Google’s taking the extra search box out of your search results](https://digitpatrox.com/googles-taking-the-extra-search-box-out-of-your-search-results/)
-* [Anime Vanguards Update 1 Patch Notes & New Features](https://digitpatrox.com/anime-vanguards-update-1-patch-notes-new-features/)
-* [Asus ExpertBook P5 review | ITPro](https://digitpatrox.com/asus-expertbook-p5-review-itpro/)
-* [AI needs Apple, which is why time is on its side – Computerworld](https://digitpatrox.com/ai-needs-apple-which-is-why-time-is-on-its-side-computerworld/)
-* [How to Time Your Workouts to Boost Productivity and Improve Focus](https://digitpatrox.com/how-to-time-your-workouts-to-boost-productivity-and-improve-focus/)
+* [Why experts are warning businesses to prepare for quantum now – or face critical cyber risks when it arrives](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
+* [Two-thirds of leaders feel Gen AI will reshape entry-level jobs – Computerworld](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
+* [You Can Get This Hisense ULED TV for $300 Off Right Now](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
+* [I Turn Old Tech Into Keychain Charms (And You Can Too)](https://digitpatrox.com/i-turn-old-tech-into-keychain-charms-and-you-can-too/)
+* [“There are other companies around”: AWS CEO Matt Garman says employees pushing back on RTO mandates should quit](https://digitpatrox.com/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit/)
+* [Get Essential Learning with Headway at $45](https://digitpatrox.com/get-essential-learning-with-headway-at-45/)
+* [Apple Intelligence arrive with iOS 18.1 next week — here’s how to skip the waitlist](https://digitpatrox.com/apple-intelligence-arrive-with-ios-18-1-next-week-heres-how-to-skip-the-waitlist/)
+* [Bumblebee malware returns after recent law enforcement disruption](https://digitpatrox.com/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
+* [Celebrity jet-tracking accounts disappear from Threads and Instagram](https://digitpatrox.com/celebrity-jet-tracking-accounts-disappear-from-threads-and-instagram/)
+* [Snapdragon 8 Elite Makes 8 Years of Android Updates a Reality; Can Qualcomm Deliver Though?](https://digitpatrox.com/snapdragon-8-elite-makes-8-years-of-android-updates-a-reality-can-qualcomm-deliver-though/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JAR4VJP5SA12BDHKKY8G22ZS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/review-the-instant-vortex-6-quart-air-fryer-has-no-learning-curve/)
+* [![](https://cdn.mos.cms.futurecdn.net/b9dXDWWgwDFkrV83D7gvid-1200-80.jpg)](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
     
-    [Review: The Instant Vortex 6-quart Air Fryer Has No Learning Curve](https://digitpatrox.com/review-the-instant-vortex-6-quart-air-fryer-has-no-learning-curve/)
+    [Why experts are warning businesses to prepare for quantum now – or face critical cyber risks when it arrives](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
     
-    11 mins ago
+    13 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-woman-listening-to-music-with-her-headphones-music-note-icons-around-and-several-android-logos-in-the-background.jpg)](https://digitpatrox.com/hey-google-what-song-is-this-7-ways-to-identify-music-on-android/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3577799-0-86227000-1729597445-Generatonen_ef002e.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
     
-    [Hey Google, What Song Is This? 7 Ways to Identify Music on Android](https://digitpatrox.com/hey-google-what-song-is-this-7-ways-to-identify-music-on-android/)
+    [Two-thirds of leaders feel Gen AI will reshape entry-level jobs – Computerworld](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
     
-    45 mins ago
+    35 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/AdobeStock_322505888.jpg)](https://digitpatrox.com/5-best-crm-with-project-management-for-2024/)
+* [![](https://lifehacker.com/imagery/articles/01JAR5F1E2FFZ8NAKYPZZMQBXD/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
     
-    [5 Best CRM with Project Management for 2024](https://digitpatrox.com/5-best-crm-with-project-management-for-2024/)
+    [You Can Get This Hisense ULED TV for $300 Off Right Now](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
     
-    2 hours ago
+    1 hour ago
     
-* [How to do the in-and-out abs exercise to build a strong core](https://digitpatrox.com/how-to-do-the-in-and-out-abs-exercise-to-build-a-strong-core/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/rsz_img20241021162839.jpg)](https://digitpatrox.com/i-turn-old-tech-into-keychain-charms-and-you-can-too/)
     
-    2 hours ago
-    
-* [![](https://www.bleepstatic.com/content/hl-images/2024/06/14/asus.jpg)](https://digitpatrox.com/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
-    
-    [Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://digitpatrox.com/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
+    [I Turn Old Tech Into Keychain Charms (And You Can Too)](https://digitpatrox.com/i-turn-old-tech-into-keychain-charms-and-you-can-too/)
     
     2 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/97f3cZNZ65XFNZG5PkEpCL-1200-80.jpg)](https://digitpatrox.com/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit/)
+    
+    [“There are other companies around”: AWS CEO Matt Garman says employees pushing back on RTO mandates should quit](https://digitpatrox.com/there-are-other-companies-around-aws-ceo-matt-garman-says-employees-pushing-back-on-rto-mandates-should-quit/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -206,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 mins ago
+* [13 mins ago
     
-    ### Review: The Instant Vortex 6-quart Air Fryer Has No Learning Curve](https://digitpatrox.com/review-the-instant-vortex-6-quart-air-fryer-has-no-learning-curve/)
-* [45 mins ago
+    ### Why experts are warning businesses to prepare for quantum now – or face critical cyber risks when it arrives](https://digitpatrox.com/why-experts-are-warning-businesses-to-prepare-for-quantum-now-or-face-critical-cyber-risks-when-it-arrives/)
+* [35 mins ago
     
-    ### Hey Google, What Song Is This? 7 Ways to Identify Music on Android](https://digitpatrox.com/hey-google-what-song-is-this-7-ways-to-identify-music-on-android/)
-* [2 hours ago
+    ### Two-thirds of leaders feel Gen AI will reshape entry-level jobs – Computerworld](https://digitpatrox.com/two-thirds-of-leaders-feel-gen-ai-will-reshape-entry-level-jobs-computerworld/)
+* [1 hour ago
     
-    ### 5 Best CRM with Project Management for 2024](https://digitpatrox.com/5-best-crm-with-project-management-for-2024/)
+    ### You Can Get This Hisense ULED TV for $300 Off Right Now](https://digitpatrox.com/you-can-get-this-hisense-uled-tv-for-300-off-right-now/)
 
 Most Popular Topics
 
-* [1 week ago
-    
-    ### Iranian hackers now exploit Windows flaw to elevate privileges](https://digitpatrox.com/iranian-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
 * [August 13, 2024
     
-    ### What’s in the latest build? – Computerworld](https://digitpatrox.com/whats-in-the-latest-build-computerworld/)
-* [September 7, 2024
+    ### How to move a smart home](https://digitpatrox.com/how-to-move-a-smart-home/)
+* [September 8, 2024
     
-    ### Roblox Introduces New Party Features and Communities at RDC 2024](https://digitpatrox.com/roblox-introduces-new-party-features-and-communities-at-rdc-2024/)
+    ### Disney and DirecTV head into a big sports weekend with no carriage deal](https://digitpatrox.com/disney-and-directv-head-into-a-big-sports-weekend-with-no-carriage-deal/)
+* [September 15, 2024
+    
+    ### 9 Best Free CRM Software of 2024](https://digitpatrox.com/9-best-free-crm-software-of-2024/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Anime Vanguards Update 1 Patch Notes & New Features](https://digitpatrox.com/anime-vanguards-update-1-patch-notes-new-features/)
+    ### Apple Intelligence arrive with iOS 18.1 next week — here’s how to skip the waitlist](https://digitpatrox.com/apple-intelligence-arrive-with-ios-18-1-next-week-heres-how-to-skip-the-waitlist/)
+* [3 hours ago
+    
+    ### Bumblebee malware returns after recent law enforcement disruption](https://digitpatrox.com/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
 * [4 hours ago
     
-    ### Asus ExpertBook P5 review | ITPro](https://digitpatrox.com/asus-expertbook-p5-review-itpro/)
-* [5 hours ago
-    
-    ### AI needs Apple, which is why time is on its side – Computerworld](https://digitpatrox.com/ai-needs-apple-which-is-why-time-is-on-its-side-computerworld/)
+    ### Celebrity jet-tracking accounts disappear from Threads and Instagram](https://digitpatrox.com/celebrity-jet-tracking-accounts-disappear-from-threads-and-instagram/)
 
 Most Viewed Topics
 
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
