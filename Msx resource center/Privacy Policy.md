@@ -151,6 +151,7 @@ Latest reactions
 Latest forum posts
 
 * [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
+* [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations "Compilations")
 * [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Popeye arcade conversion for the MSX2](https://www.msx.org/forum/msx-talk/software/popeye-arcade-conversion-for-the-msx2?page=5 "Popeye arcade conversion for the MSX2")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=4 "Carnivore2+ announcements")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
