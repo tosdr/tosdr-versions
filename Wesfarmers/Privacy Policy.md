@@ -267,15 +267,15 @@ Wesfarmers Limited ABN 28 008 984 049
 
 ![](https://px.ads.linkedin.com/collect/?pid=4027457&fmt=gif)
 
-[$71.20
+[$69.62
 
-ASX: 0.00%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
+ASX: \-2.22%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
 
 * [Investor Centre](https://www.wesfarmers.com.au/investor-centre)
 * [Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2024-wesfarmers-annual-report---interactive.pdf?sfvrsn=1bc5e4bb_3)
 * [Sustainability](https://www.wesfarmers.com.au/sustainability/fy2024)
 * [Modern Slavery Statement](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/ethical-sourcing-and-human-rights/modern-slavery-statement)
-* [Code of Conduct](https://www.wesfarmers.com.au/docs/default-source/default-document-library/wesfamers-code-of-conduct.pdf?sfvrsn=181f0ebb_6)
+* [Code of Conduct](https://www.wesfarmers.com.au/7ed76d69-99c8-63f7-bfcc-ff00000e9025)
 
 &amp;amp;amp;amp;amp;amp;amp;amp;lt;img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4027457&amp;amp;amp;amp;amp;amp;amp;amp;amp;fmt=gif" / data-sf-ec-immutable=""&amp;amp;amp;amp;amp;amp;amp;amp;gt;
 
