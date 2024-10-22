@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Field Trip with Beekeeper Mary Garrison** | The Key Ingredient](https://video.nhpbs.org/video/field-trip-with-beekeeper-mary-garrison-afza5p?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Do Audiences Love Crime Thrillers?** | Moonflower Murders](https://video.nhpbs.org/video/why-do-audiences-love-crime-thrillers-skv5aa?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 20, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/october-20-2024-pbs-news-weekend-full-episode-1729439713?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**What is ?** | The Marlow Murder Club](https://video.nhpbs.org/video/what-is-the-marlow-murder-club-j96s8t?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Tokyo Uber Blues** | POV](https://video.nhpbs.org/video/tokyo-uber-blues-gtcppf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trailer** | American Muslims: A History Revealed](https://video.nhpbs.org/video/american-muslims-a-history-revealed-trailer-of6er8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 21, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-21-2024-pbs-news-hour-full-episode-1729483201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**What Matters Most** | Stories from the Stage](https://video.nhpbs.org/video/what-matters-most-qlzgdw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**E5 Medicine Cabinet, Chimney Crown** | Ask This Old House](https://video.nhpbs.org/video/e5-medicine-cabinet-chimney-crown-ask-this-old-house-FirXn6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"American Voices 2024" - Preview** | FRONTLINE](https://video.nhpbs.org/video/american-voices-2024-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Solar System: Wandering Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-wandering-worlds-preview-mqkkut?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Harris, Trump test closing arguments in battleground states** | Washington Week with The Atlantic](https://video.nhpbs.org/video/harris-trump-test-closing-arguments-in-battleground-states-hk1ezf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**TTC Extra: Project 2025** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-project-2025-iwnoaf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Josh Shapiro** | Firing Line](https://video.nhpbs.org/video/josh-shapiro-i6femp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Joy of Burning a Good Gift** | Indie Alaska](https://video.nhpbs.org/video/the-joy-of-burning-a-good-gift-2lje34?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
