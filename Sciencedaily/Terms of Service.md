@@ -251,9 +251,9 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
 [Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Geochemistry](https://www.sciencedaily.com/news/earth_climate/chemistry/)
+
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
   
 
