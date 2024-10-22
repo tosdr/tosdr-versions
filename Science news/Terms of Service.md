@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Science has finally cracked male riflebirds’ flirty secrets](https://www.sciencenews.org/article/male-riflebirds-secrets)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")12 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")18 hours ago
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
