@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_16x9.jpg) ![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_360x203.jpg)](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
+        
+        #### [Railroad crossing in Hearne to close on Friday for planking repairs](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
+        
     *  [![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
         
         #### [Missing 16-year-old last seen in Navasota area safely located, authorities say](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
-        
-    *  [![](https://media.kagstv.com/assets/KENS/images/a3707f74-7417-4261-9a55-005b5cc95970/20240819T203543/a3707f74-7417-4261-9a55-005b5cc95970_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/a3707f74-7417-4261-9a55-005b5cc95970/20240819T203543/a3707f74-7417-4261-9a55-005b5cc95970_360x203.jpg)](https://www.kagstv.com/article/news/politics/elections/ted-cruz-in-lorena-and-college-station-oct-18-2024/500-a77fe333-dbfb-4d52-bb17-b195d1b300a5)
-        
-        #### [Ted Cruz to host two rallies in Lorena, College Station](https://www.kagstv.com/article/news/politics/elections/ted-cruz-in-lorena-and-college-station-oct-18-2024/500-a77fe333-dbfb-4d52-bb17-b195d1b300a5)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-86°
+74°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
