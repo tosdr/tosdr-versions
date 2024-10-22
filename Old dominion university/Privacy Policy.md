@@ -354,7 +354,7 @@ Mega Menu
     
     * [Faculty & Staff Resources](https://ww1.odu.edu/facultystaff)
     * [Faculty/Staff Email](https://ww1.odu.edu/information-technology-services/email/faculty-staff)
-    * [LEO Online](https://leoonline.odu.edu/plsqlweb/twbkwbis.P_GenMenu?name=homepage)
+    * [LEO Online](https://ww1.odu.edu/administrative-banner-systems/leo-online)
     * [Academic Advisors](https://ww1.odu.edu/advising/find-your-advisor)
     * [Human Resources](https://ww1.odu.edu/human-resources)
     * [Technology Services](https://ww1.odu.edu/information-technology-services)
