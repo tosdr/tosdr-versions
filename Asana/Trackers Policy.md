@@ -66,17 +66,18 @@ Solutionschevron-down icon
 ### Industries
 
 * [Healthcare](https://asana.com/industry/healthcare)
+* [Retail](https://asana.com/industry/retail)
 * [Education](https://asana.com/industry/education)
 * [Nonprofit](https://asana.com/industry/nonprofit)
 
-### Uses
+### Use Cases
 
 * [Goal management](https://asana.com/uses/goal-management)
 * [Organizational planning](https://asana.com/uses/organizational-planning)
 * [Project intake](https://asana.com/uses/project-intake)
 * [Resource planning](https://asana.com/uses/resource-planning)
 * [Product launches](https://asana.com/uses/product-launch)
-* [View all usesarrow-right icon](https://asana.com/uses)
+* [View all use casesarrow-right icon](https://asana.com/uses)
 
 ### Featured Reads
 
@@ -89,48 +90,32 @@ Solutionschevron-down icon
 
 Resourceschevron-down icon
 
-### Explore
-
-* [Work management resources
-    
-    Discover best practices, watch webinars, get insights](https://asana.com/resources)
-* [Customer stories
-    
-    See how the world's best organizations drive work innovation with Asana](https://asana.com/customers)
-
 ### Learn
 
-* [Help Center
-    
-    Get lots of tips, tricks, and advice to get the most from Asana](https://asana.com/guide)
-* [Asana Academy
-    
-    Sign up for interactive courses and webinars to learn Asana](https://academy.asana.com/)
-* [Developers
-    
-    Learn more about building apps on the Asana platform](https://asana.com/developers)
-* [Community programs
-    
-    Connect with and learn from Asana customers around the world](https://asana.com/community)
+* [Help Center](https://help.asana.com/)
+* [Asana Academy](https://academy.asana.com/)
+* [Certifications](https://asana.com/certifications)
+* [Forums](https://forum.asana.com/)
 
-### Connect
+### Discover
 
-* [Events
-    
-    Find out about upcoming events near you](https://asana.com/events)
-* [Partners
-    
-    Learn more about our partner programs](https://asana.com/partners)
-* [Asana for nonprofits
-    
-    Get more information on our nonprofit discount program, and apply.](https://asana.com/nonprofit)
+* [Work management hub](https://asana.com/resources)
+* [Customer stories](https://asana.com/customers)
+* [Events](https://asana.com/events)
+
+### SUPPORT & SERVICES
+
+* [Get support](https://help.asana.com/s/#chat)
+* [Developer support](https://asana.com/developers)
+* [Partners](https://asana.com/partners)
+* [Customer Success](https://asana.com/customer-success)
 
 ### Templates
 
-* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
-* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
-* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
-* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
+* [Project plans](https://asana.com/templates/cross-functional-project-plan)
+* [Team goals & objectives](https://asana.com/templates/team-goals-planning-example)
+* [Team continuity](https://asana.com/templates/business-continuity-plan)
+* [Meeting agenda](https://asana.com/templates/qbr-meeting-agenda)
 * [View all templatesarrow-right icon](https://asana.com/templates)
 
 [Enterprise](https://asana.com/enterprise)[Pricing](https://asana.com/pricing)
@@ -192,17 +177,18 @@ Teams
 Industries
 
 * [Healthcare](https://asana.com/industry/healthcare)
+* [Retail](https://asana.com/industry/retail)
 * [Education](https://asana.com/industry/education)
 * [Nonprofit](https://asana.com/industry/nonprofit)
 
-Uses
+Use Cases
 
 * [Goal management](https://asana.com/uses/goal-management)
 * [Organizational planning](https://asana.com/uses/organizational-planning)
 * [Project intake](https://asana.com/uses/project-intake)
 * [Resource planning](https://asana.com/uses/resource-planning)
 * [Product launches](https://asana.com/uses/product-launch)
-* [View all usesarrow-right icon](https://asana.com/uses)
+* [View all use casesarrow-right icon](https://asana.com/uses)
 
 Featured Reads
 
@@ -213,48 +199,32 @@ Featured Reads
     
     ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
-Explore
-
-* [Work management resources
-    
-    Discover best practices, watch webinars, get insights](https://asana.com/resources)
-* [Customer stories
-    
-    See how the world's best organizations drive work innovation with Asana](https://asana.com/customers)
-
 Learn
 
-* [Help Center
-    
-    Get lots of tips, tricks, and advice to get the most from Asana](https://asana.com/guide)
-* [Asana Academy
-    
-    Sign up for interactive courses and webinars to learn Asana](https://academy.asana.com/)
-* [Developers
-    
-    Learn more about building apps on the Asana platform](https://asana.com/developers)
-* [Community programs
-    
-    Connect with and learn from Asana customers around the world](https://asana.com/community)
+* [Help Center](https://help.asana.com/)
+* [Asana Academy](https://academy.asana.com/)
+* [Certifications](https://asana.com/certifications)
+* [Forums](https://forum.asana.com/)
 
-Connect
+Discover
 
-* [Events
-    
-    Find out about upcoming events near you](https://asana.com/events)
-* [Partners
-    
-    Learn more about our partner programs](https://asana.com/partners)
-* [Asana for nonprofits
-    
-    Get more information on our nonprofit discount program, and apply.](https://asana.com/nonprofit)
+* [Work management hub](https://asana.com/resources)
+* [Customer stories](https://asana.com/customers)
+* [Events](https://asana.com/events)
+
+SUPPORT & SERVICES
+
+* [Get support](https://help.asana.com/s/#chat)
+* [Developer support](https://asana.com/developers)
+* [Partners](https://asana.com/partners)
+* [Customer Success](https://asana.com/customer-success)
 
 Templates
 
-* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
-* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
-* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
-* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
+* [Project plans](https://asana.com/templates/cross-functional-project-plan)
+* [Team goals & objectives](https://asana.com/templates/team-goals-planning-example)
+* [Team continuity](https://asana.com/templates/business-continuity-plan)
+* [Meeting agenda](https://asana.com/templates/qbr-meeting-agenda)
 * [View all templatesarrow-right icon](https://asana.com/templates)
 
 [Contact sales](https://asana.com/sales)
@@ -463,68 +433,71 @@ If you have any questions about these Terms, please contact us at [terms-questi
 
 [Asana Home](https://asana.com/?noredirect)
 
-* Asana
-* [Home](https://asana.com/?noredirect)
-* [Product](https://asana.com/product)
-* [What's New](https://asana.com/whats-new)
+* New to Asana?
+* [Product overview](https://asana.com/product)
+* [All features](https://asana.com/features)
+* [Latest feature release](https://asana.com/whats-new)
 * [Pricing](https://asana.com/pricing)
-* [Starter](https://asana.com/plan/starter)
-* [Advanced](https://asana.com/plan/advanced)
+* [Starter plan](https://asana.com/plan/starter)
+* [Advanced plan](https://asana.com/plan/advanced)
 * [Enterprise](https://asana.com/enterprise)
-* [Customer Success](https://asana.com/customer-success)
-* [Asana Templates](https://asana.com/templates)
-* [Trust & Security](https://asana.com/trust)
-* [Status](https://status.asana.com/)
+* [App integrations](https://asana.com/apps)
+* [AI work management](https://asana.com/product/ai)
+* [Project management](https://asana.com/resources/benefits-project-management)
+* [Resource management](https://asana.com/resources/resource-management-plan)
 
-* About Us
-* [Company](https://asana.com/company)
-* [Leadership](https://asana.com/leadership)
-* [Customers](https://asana.com/customers)
-* [Diversity](https://asana.com/diversity-and-inclusion)
-* [Careers](https://asana.com/jobs)
-* [Press](https://asana.com/press)
-* [Wavelength](https://wavelength.asana.com/)
-* [Inside Asana](https://asana.com/inside-asana)
-* [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/inside-asana/site-map)
-* [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
+* Use cases
+* [Campaign management](https://asana.com/uses/campaign-management)
+* [Content calendar](https://asana.com/uses/content-calendar)
+* [Creative production](https://asana.com/uses/creative-production)
+* [Goal management](https://asana.com/uses/goal-management)
+* [New hire onboarding](https://asana.com/uses/employee-onboarding)
+* [Organizational planning](https://asana.com/uses/organizational-planning)
+* [Product launches](https://asana.com/uses/product-launch)
+* [Resource planning](https://asana.com/uses/resource-planning)
+* [Strategic planning](https://asana.com/uses/marketing-strategic-planning)
+* [Project intake](https://asana.com/uses/project-intake)
+* [All use cases](https://asana.com/uses)
 
-* Workflow Solutions
-* [Project Management](https://asana.com/uses/project-management)
-* [Goal Management](https://asana.com/product/goals)
-* [Agile Management](https://asana.com/uses/agile-management)
-* [Task Management](https://asana.com/uses/task-management)
-* [Increase Productivity](https://asana.com/uses/increase-productivity)
-* [Work Management](https://asana.com/uses/work-management)
-* [Project Planning](https://asana.com/uses/project-planning)
-* [To Do Lists](https://asana.com/uses/to-do-list)
-* [See All Uses](https://asana.com/uses)
-* [See All Teams](https://asana.com/teams)
+* Solutions
+* [Marketing](https://asana.com/teams/marketing)
+* [Operations](https://asana.com/teams/operations)
+* [IT](https://asana.com/teams/it)
+* [Product](https://asana.com/teams/product-managers)
+* [Sales](https://asana.com/teams/sales)
+* [Healthcare](https://asana.com/industry/healthcare)
+* [Retail](https://asana.com/industry/retail)
+* [Education](https://asana.com/education)
+* [Nonprofits](https://asana.com/industry/nonprofit)
+* [All teams](https://asana.com/teams)
 
 * Resources
-* [Help Center](https://asana.com/guide)
+* [Help Center](https://help.asana.com/s)
+* [Get support](https://help.asana.com/s/#chat)
+* [Asana Academy](https://academy.asana.com/)
+* [Certifications](https://asana.com/certifications)
 * [Forum](https://forum.asana.com/)
-* [Support](https://asana.com/support)
-* [App Directory](https://asana.com/apps)
-* [Developers & API](https://developers.asana.com/docs/)
+* [Resource hub](https://asana.com/resources)
+* [Project templates](https://asana.com/templates)
+* [Events](https://asana.com/events)
+* [Customer Success](https://asana.com/customer-success)
+* [Developers and API](https://developers.asana.com/docs)
 * [Partners](https://asana.com/partners)
-* [Asana Community](https://asana.com/community)
-* [Events](https://asana.com/events/)
-* [Asana for Nonprofits](https://asana.com/nonprofit)
-* [Asana for Education](https://asana.com/education)
-* [Accessibility](https://asana.com/accessibility)
+* [Sitemap](https://asana.com/site-map)
 
-* Learn
-* [11 Leadership Styles](https://asana.com/resources/leadership-styles)
-* [110 Icebreaker Questions](https://asana.com/resources/icebreaker-questions-team-building)
-* [Executive Summary Tips](https://asana.com/resources/executive-summary-examples)
-* [Impostor Syndrome Tips](https://asana.com/resources/impostor-syndrome)
-* [Prevent Team Burnout](https://asana.com/resources/what-is-burnout)
-* [SWOT Analysis Tips](https://asana.com/resources/swot-analysis)
-* [What are OKRs?](https://asana.com/resources/okr-meaning)
-* [What are SMART Goals?](https://asana.com/resources/smart-goals)
-* [What is Scope Creep?](https://asana.com/resources/what-is-scope-creep)
-* [See All resources](https://asana.com/resources)
+* Company
+* [About us](https://asana.com/company)
+* [Leadership](https://asana.com/leadership)
+* [Customers](https://asana.com/customers)
+* [Careers](https://asana.com/jobs)
+* [Inside Asana](https://asana.com/inside-asana)
+* [Diversity](https://asana.com/diversity-and-inclusion)
+* [Press](https://asana.com/press)
+* [Investor relations](https://investors.asana.com/)
+* [Trust and security](https://asana.com/trust)
+* [Privacy](https://asana.com/privacy)
+* [Supplier responsibility](https://asana.com/terms/modern-slavery-statement)
+* [Sustainability and ESG](https://asana.com/esg)
 
 © 2024 Asana, Inc.
 
