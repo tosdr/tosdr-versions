@@ -205,23 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [The Next Pope!](https://www.somethingawful.com/photoshop-phriday/next-pope-benedict/1/)
-* [Spaghetti-O Menstruation!](https://www.somethingawful.com/awfulvision/obama-poop-art/1/)
-* [STRUT THAT ASS STRUT THAT ASS STRU](https://www.somethingawful.com/awfulvision/strut-that-ass/1/)
-* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
+* [The Flaskfucker And The Fruit Hat](https://www.somethingawful.com/comedy-goldmine/flaskfucker-fruit-hat/1/)
+* [Anagrammed Movies](https://www.somethingawful.com/photoshop-phriday/anagrammed-movies/1/)
+* [Lesser-Known Sleeping Positions!](https://www.somethingawful.com/photoshop-phriday/sleeping-positions-everybody/1/)
+* [How A Taco Bell Competition Changed My Life](https://www.somethingawful.com/news/taco-bell-life/)
+* [Comforting Masculine Gender Affirmations, by Malt Schlitzmann.](https://www.somethingawful.com/news/chill-bros/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Chickencheese is back!](http://forums.somethingawful.com/showthread.php?threadid=4073196 "Chickencheese is back!")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [ITT cool animal facts](http://forums.somethingawful.com/showthread.php?threadid=4073257 "ITT cool animal facts")
 
 ### Random Articles
 
-* [Honest College Course Descriptions](https://www.somethingawful.com/news/honest-college-course/1/)
-* [Question Time](https://www.somethingawful.com/weekend-web/question-time/1/)
-* [P...please do not elect the coffee man](https://www.somethingawful.com/news/coffee-gentle-creature/)
-* [Five Dollar Art Treasures](https://www.somethingawful.com/news/ebay-critique-painting/)
-* [SA Literary Review: Fate Magazine](https://www.somethingawful.com/news/sa-literary-review/)
+* [House of Horrors: Understanding the Bradford Exchange](https://www.somethingawful.com/news/house-horrors-understanding/)
+* [I, Batman's Armor, Am Voting Trump](https://www.somethingawful.com/news/batsuit-trump/)
+* [Something Awful Special Report: BLACK IN AMERICA!!! (Part 83 of 631)](https://www.somethingawful.com/feature-articles/real-black-person/1/)
+* [I DESERVE A CUT OF AVANDIA $3 BILLION FOR MY HEART ATTACKS](https://www.somethingawful.com/levi-johnston/levi-avandia-lawsuit/)
+* [A Link To The Past - Easy Mode](https://www.somethingawful.com/video-game-article/easy-zelda-link/)
 
 [Random!](https://www.somethingawful.com/random/)
 
