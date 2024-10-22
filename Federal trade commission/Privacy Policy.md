@@ -18,13 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -226,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Annual Report to Congress on Agency’s Actions to Protect Older Adults](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults)
+    ### [FTC Denies Motion to Disqualify Administrative Law Judge in H&R Block Case](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-denies-motion-disqualify-administrative-law-judge-hr-block-case)
     
     October 18, 2024
     
@@ -328,13 +323,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
