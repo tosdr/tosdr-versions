@@ -18,7 +18,7 @@ Toggle Main Nav
 * [Investors](https://investors.frontdoorhome.com/)
 * [Careers](https://frontdoor.jobs/)
 
-[Home](https://www.frontdoorhome.com/) / Terms of Use
+Terms of Use
 
 Terms of Use
 ============
