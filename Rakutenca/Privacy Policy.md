@@ -405,7 +405,7 @@ FR
         
         [tentree
         
-        3% Cash Back](https://www.rakuten.ca/ten-tree)[Puma Canada
+        6% Cash Back](https://www.rakuten.ca/ten-tree)[Puma Canada
         
         up to 3% Cash Back](https://www.rakuten.ca/puma-canada)[Sport Chek
         
