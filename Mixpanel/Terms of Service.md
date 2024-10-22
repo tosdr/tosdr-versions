@@ -158,7 +158,7 @@ USE OF THE APPLICATION SERVICES (AS DEFINED BELOW) PROVIDED BY MIXPANEL, INC. (�
 
 ### 1\. USE OF THE APPLICATION SERVICES
 
-1.1 Use of Application Services. Subject to the terms of this Agreement, Mixpanel grants to Customer a limited, non-exclusive, non-transferable, revocable right to access and use the Application Services solely for Customer’s internal business purposes and not for resale or further distribution. Customer’s right to access and use the Application Services shall be subject to Customer’s compliance with the terms and conditions contained herein and limited to the Subscription Plan and the Subscription Term purchased by Customer. Customer is responsible for its configuration and use of the Application Services including, without limitation, decisions: (i) not to use privacy or security settings or features available in the Application Services, and (ii) related to the type of Customer Content (including, if any, Personal Information) transferred to the Application Services through Customer’s configuration of the Application Services.
+1.1 Use of Application Services. Subject to the terms of this Agreement, Mixpanel grants to Customer a limited, non-exclusive, non-transferable, revocable right to access and use the Application Services solely for Customer’s internal business purposes and not for resale or further distribution. Customer’s right to access and use the Application Services shall be subject to Customer’s compliance with the terms and conditions contained herein and limited to the Subscription Plan and the Subscription Term purchased by Customer.
 
 1.2 Authorized Users. Customer may allow Authorized Users to access and use the Application Services; provided Customer shall be responsible for ensuring its Authorized Users use the Application Services in compliance with Customer’s obligations under this Agreement.
 
@@ -344,7 +344,7 @@ All notices to be provided by Mixpanel to Customer under this Agreement may be d
 
 14.17 “**Subscription Term**” means the period of time identified when completing an online purchase or on an Order Form during which time Customer is authorized to access and use the Application Services.
 
-14.18 “**Supplemental Terms**” means product-specific terms that apply only to certain features of the Application Services found at [https://mixpanel.com/legal/gen-ai-service-addendum/](https://mixpanel.com/legal/gen-ai-service-addendum/) .
+14.18 “**Supplemental Terms**” means product-specific terms that apply only to certain features of the Application Services found at [https://mixpanel.com/legal/supplemental-terms/](https://mixpanel.com/legal/supplemental-terms/) .
 
 #### Prior Versions
 
