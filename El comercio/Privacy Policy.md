@@ -31,6 +31,182 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Solo un tercio de Cuba tiene energía eléctrica luego del apagón total
+=====================================================================
+
+El Sistema Eléctrico se encuentra en estado muy precario por la escasez de combustible y frecuentes averías en las obsoletas centrales termoeléctricas.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía del Capitolio a oscuras durante un apagón este domingo 20 de octubre, en La Habana (Cuba).](https://www.elcomercio.com/wp-content/uploads/2024/10/Cuba-apagones.jpg)
+
+El **Gobierno** cubano afirmó que la recuperación del **Sistema Eléctrico Nacional** (SEN) se ha fortalecido este lunes con la entrada en operaciones de varias unidades generadoras. Esto remonta gradualmente el **apagón total del viernes** y las subsiguientes recaídas, aunque aún no alcanza a un tercio del país.
+
+### Más noticias
+
+* [China rompe acuerdos con Cuba](https://www.elcomercio.com/actualidad/mundo/china-rompe-acuerdos-cuba.html "China rompe acuerdos con Cuba")
+* [Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava](https://www.elcomercio.com/actualidad/mundo/regimen-cubano-reporta-tercer-apagon-total-en-tres-dias-la-crisis-energetica-se-agrava.html "Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava")
+* [Cuba en alerta ante el eventual impacto del huracán Oscar](https://www.elcomercio.com/actualidad/mundo/cuba-en-alerta-ante-el-eventual-impacto-del-huracan-oscar.html "Cuba en alerta ante el eventual impacto del huracán Oscar")
+
+El apagón no se ha superado en Cuba
+-----------------------------------
+
+La reanudación del servicio eléctrico se puso en marcha con unidades de las centrales termoeléctricas Antonio Guiteras y Máximo Gómez, de las provincias del oeste Matanzas y Artemisa. También centrales flotantes y motores diesel que han propiciado la recuperación progresiva del servicio en la zona occidental, según informaron directivos del Ministerio de Energía y Minas (Minem) y de la compañía estatal Unión Eléctrica.
+
+Las acciones que se han ejecutado en las **diferentes regiones del país** habían permitido que este lunes el suministro de **energía eléctrica** llegara a más de 1,2 millones clientes. Esto significa que cerca del 30% del total disponía ya de ese servicio, según dijo el titular del Minem, Vicente de la O Levy, a medios estatales.
+
+El domingo ocurrió el **tercer apagón total del Sistema Eléctrico Nacional** (SEN) de Cuba en menos de 72 horas, luego de que el **servicio eléctrico colapsara** dos días antes después de varias semanas de empeoramiento de una crisis energética que arrastra la isla desde hace varios años.
+
+La causa de este **tercer apagón** se produjo por un “fallo de transmisión”, cuando se había logrado conectar en un mismo subsistema a las zonas de Mariel (oeste) y Holguín (este), separadas por más de 600 kilómetros.
+
+Crisis energética cubana
+------------------------
+
+El director de Electricidad del Minem, Lázaro Guerra**, explicó a la televisión estatal** que ahora el sistema eléctrico de la zona occidental “se ha consolidado”. Esto con la estrategia aplicada de fortalecimiento de los sistemas regionales de occidente, centro y oriente.
+
+Además, indicó que la arrancada de la central **Antonio Guiteras** -una de las mayores del país- con una potencia limitada de 120 megavatios (MW) y de otras cuatro unidades generadoras incrementarán la cobertura de electricidad y dará “fortaleza” al SEN para su gradual restauración.
+
+Guerra también señaló que la **interconexión del sistema** “no quiere decir que van a terminar los apagones” porque aún van a existir afectaciones al servicio. Esto debido a que no se podrá disponer de la totalidad de la carga cuando el SEN esté restablecido, pero “habrá una mejor cobertura de electricidad”.
+
+Actualmente**, 769 810 clientes** pertenecientes al 89,3 % de los circuitos de La Habana -con más de 2,2 millones de habitantes- **cuentan ya con servicio eléctrico**, según comunicó la empresa eléctrica de la capital.
+
+El SEN se encuentra en u**n estado muy precario** por la escasez de combustible -fruto de la falta de divisas para importarlo- y las frecuentes averías en las obsoletas centrales termoeléctricas. Esto tras cuatro décadas de explotación **y carencia crónica** de inversiones.
+
+Los apagones son habituales desde hace años, pero la situación se ha agravado en las últimas semanas. En los últimos días, se han registrado jornadas con **tasas de afectación máxima** superiores al 50 %, esto es, momentos en que la mitad del país estaba simultáneamente sin corriente.
+
+Los **frecuentes apagones** dañan la economía cubana -que en 2023 se contrajo un 1,9 % e impulsan el descontento social en una sociedad afectada por una crisis [económica agravada](https://es.wikipedia.org/wiki/Cuba "https://es.wikipedia.org/wiki/Cuba") en los últimos años.
+
+Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos
+====================================================================
+
+Gestión de Riesgos de Cuenca informó también que, a causa de esta actividad, hay presencia de temblores leves en algunas zonas de Cuenca y del país.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El volcán Sangay registra un aumento de actividad con emisión de ceniza.](https://www.elcomercio.com/wp-content/uploads/2024/10/Sangay.jpg)
+
+El **Instituto Geofísico** (IG) de la Escuela Politécnica Nacional detalló, en su último reporte del 21 de octubre de 2024, las condiciones que mantiene el **volcán Sangay**.
+
+### Más noticias
+
+* [Volcán Sangay emitió extensa columna de ceniza y gas](https://www.elcomercio.com/actualidad/ecuador/instituto-geofisico-ceniza-volcan-sangay.html "Volcán Sangay emitió extensa columna de ceniza y gas")
+* [Así funciona el Pico y placa en Quito este martes 22 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-22-de-octubre.html "Así funciona el Pico y placa en Quito este martes 22 de octubre")
+* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
+
+Sangay emite ceniza y lava
+--------------------------
+
+El **Municipio de Cuenca** alertó a los pobladores sobre la actividad reciente que registra el coloso. La Dirección de Gestión de **Riesgos de Cuenca** informó también sobre el aumento en la actividad volcánica.
+
+Basado en el reporte emitido por la **agencia VAAC** (Centro Internacional de Avisos de Cenizas Volcánicas, en inglés), el IG confirmó que el volcán emite de forma continua **gas y ceniza,** desde las primeras horas de la mañana del lunes 21.
+
+Por la noche, el **Instituto Geofísico** dio a conocer el aumento de la actividad, caracterizado por una emisión continua de gas y ceniza que alcanza una altura de **2 km sobre el nivel del cráter**.
+
+Debido a la dirección del viento, **la nube de ceniza se dirigía al este**, por lo que se puede registrar caída de ceniza en las localidades ubicadas al este-sureste del Sangay.
+
+Pobladores reportan bramidos
+----------------------------
+
+También se han reportado desde varias zonas del país que **se escuchan bramidos y estruendos** que estarían asociados con esta actividad.
+
+Esto no se registra por primera vez, pues **fenómenos similares** ya han ocurrido en el Sangay y otros volcanes.
+
+Esto se debe a que las **condiciones atmosféricas** favorecen la transmisión del sonido a grandes distancias. Este fenómeno **ha sido recurrente** en el actual período eruptivo que se inició en mayo de 2019.
+
+La **Dirección de Gestión de Riesgos de Cuenca** informó también que, a causa de esta actividad, hay presencia de **temblores leves** en algunas zonas de Cuenca y del país.
+
+También recalcó que todos los **eventos relacionados** con esta actividad están siendo monitoreados constantemente.
+
+> [#IGAlInstante](https://twitter.com/hashtag/IGAlInstante?src=hash&ref_src=twsrc%5Etfw) Informativo VOLCÁN SANGAY No. 2024-060  
+> LUNES 21 DE OCTUBRE DE 2024  
+> Desde la mañana de hoy 21 de octubre del 2024, se registra un incremento en la actividad del volcán Sangay, caracterizado por una emisión continua de gas y ceniza que alcanza una altura de 2 km sobre… [pic.twitter.com/bP33CIa8n5](https://t.co/bP33CIa8n5)
+> 
+> — Instituto Geofísico (@IGecuador) [October 22, 2024](https://twitter.com/IGecuador/status/1848542391893930085?ref_src=twsrc%5Etfw)
+
+Ceniza del Sangay se dirige al este
+-----------------------------------
+
+De acuerdo con el **monitoreo de las cámaras de vigilancia**, hasta la mañana del lunes 21 de octubre, la emisión alcanzó una altura de 1 200 metros sobre el nivel del cráter.
+
+La ceniza s**e dirige hacia el este y este sur** del país, sin embargo, la Secretaría de Gestión de Riesgos no ha informado que los restos de combustión hayan caído en localidades cercanas.
+
+Hasta la tarde de este lune**s, la actividad en el volcán Sangay** tiene un nivel superficial alto, mientras que la intensidad interna es moderada.
+
+Este volcán de 5 230 metros de altura se ubica en Morona Santiago. Su proceso eruptivo comenzó en 1628, desde ese momento se ha mantenido activo; por ahora tiene alerta [amarilla](https://es.wikipedia.org/wiki/Volc%C3%A1n_Sangay "https://es.wikipedia.org/wiki/Volc%C3%A1n_Sangay").
+
+> 🚨Temblores leves en Cuenca🚨  
+>   
+> La DGR informa que el volcán Sangay presenta un aumento de actividad.  
+> Motivo por el cual hay presencia de temblores leves en algunas zonas de Cuenca y del país, estos fenómenos son normales y están siendo monitoreados. [pic.twitter.com/NOGPWas0J1](https://t.co/NOGPWas0J1)
+> 
+> — Dirección de Gestión de Riesgos (@RiesgosCuenca) [October 22, 2024](https://twitter.com/RiesgosCuenca/status/1848572685648888212?ref_src=twsrc%5Etfw)
+
+  
+
+Así funciona el Pico y placa en Quito este martes 22 de octubre
+===============================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito se encargan de vigilar el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-y-placa-agente.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Cortes de agua en Quito este lunes 21 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-lunes-21-de-octubre.html "Cortes de agua en Quito este lunes 21 de octubre")
+* [Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/nuevo-cierre-vehicular-quito-av-6-de-diciembre-desde-domingo-20-de-octubre.html "Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito")
+* [Tres paradas de la Ecovía se cierran temporalmente, en Quito](https://www.elcomercio.com/actualidad/quito/tres-paradas-ecovia-cerradas-temporalmente-quito.html "Tres paradas de la Ecovía se cierran temporalmente, en Quito")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 Ecuador siente los efectos de la coyuntura económica de China
 =============================================================
 
@@ -61,36 +237,34 @@ A pesar de los esfuerzos del **Gobierno** para estimular la economía mediante u
 
 Los resultados del acuerdo comercial entre **Ecuador y China** se verán en el mediano y largo plazo.
 
-Fellini o el memorial de los sueños
-===================================
+Cartas a Quito/ 22 de octubre de 2024
+=====================================
 
-El maestro dinamitó la narración en el cine desde su prodigiosa y única imaginación.
-------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este martes 22 de octubre de 2024
+-----------------------------------------------------------------
 
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-Se regodeaba en repetir que nació en el viaje de un tren entre dos poblaciones. Acaso quería resaltar que su vida había sido un **camino** incesante al **mundo** elusivo de los **sueños**. Federico Fellini (Italia, 1920-1993) fusionó fábula y **fantasía** en espléndidas columnas de sus **construcciones** fílmicas. La **fábula** es el sustento de la **tragedia**, la fantasía es capaz de vivificar **mundos** del pasado.
+Preocuparse por el pasado es como cortar leña y dejarla podrir
+--------------------------------------------------------------
 
-Su madre pretendió formarlo para cura o abogado, pero él huyó y se enroló en el circo. Las **señales** de su azarosa **infancia** dejaron indeleble huella en su **arcilla** humana. Concilió entonces lo **onírico** con la realidad, lo **poético** con lo extravagante, para levantar una de las propuestas **fílmicas** más trascendentes de la historia del **cine**. Esa pátina de **melancolía** que se desliza por equilibrismos, **piruetas** y risotadas del circo influyó poderosamente en su arte.
+El mundo entero se encuentra sorprendido ante la absurda posición de la nueva presidente de México, exigiendo respuesta a la también absurda carta de su antecesor al rey de España.
 
-A la zaga de los pasos de Chaplin
----------------------------------
+Las posiciones populistas de recurrir a espectacularidades exuberantes, para mostrar un nacionalismo exacerbado, a más de ser completamente irracionales, muestran una escasa madurez de sus promotores.
 
-Fellini aniquila la **narrativa** y se rehúnde en un amasijo **soberbio de estampas y sonidos,** esbozos, dibujos y **pinturas subliminales** que abruman la retina del alma del **espectador**. Imagino al maestro al pie de la luna del poema de Giacomo Leopardi, soñando su última película, _La voz de la luna_, 1990: “Oh cuán dichosa/ es en la **edad temprana**, cuando aún es mucha/ la esperanza, y breve el curso/ de la memoria, el recordar las cosas/ de otro tiempo, aunque ello sea triste,/ y aunque el **dolor persista**”.
+Ningún nacionalismo radical ha demostrado en la historia, en ningún lado, ser beneficioso para nadie. De hecho, las menciones como “en el tiempo de la conquista no existía España como tal”, o, “los afectados y los agresores desaparecieron hace siglos” no hacen más que ridiculizar el pedido y a sus autores. ¿De qué sirven, efectivamente, las disculpas a estas alturas? Absolutamente de nada.
 
-Aclamado por el mundo –considerado uno de los diez mejores directores de cine de la **historia**–, **bibliotecas** y centros de arte llevan su nombre, así como restaurantes, discotecas y calles de su lugar de origen, Rimini, una comarca en la cual –fábula o verdad– vino a la vida.
+Hay una des ubicación, no solamente geográfica, sino también temporal, en personas que piensan que con estas solicitudes van a beneficiar a alguien: ¿A quiénes? ¿Cuál sería el beneficio para los indígenas de México actuales? Por el contrario, con estas maniobras distractoras, típicas de populistas de izquierda, no prestan atención a la situación actual del indigenado en México, víctima de pobreza y de inseguridad, en nada solucionadas por el gobierno, más bien agravadas por actos que dejan muchas dudas sobre su rectitud.
 
-Cuando murió en 1993, la imagen de desamparo de Giulietta Masina, su compañera, llevando en sus manos un rosario, se detuvo en la retina del tiempo. Solidario y solitario, denostado y estoico, creyente en el **mundo paranormal** y en la magia, su **voracidad** desordenada por los libros se oponía a los rigurosos horarios de su oficio.
+Dejémonos de ser inocentes en los sentimientos nacionalistas, hay que ser prácticos y apostar por las medidas que beneficien a esa parte de la población, que ningún beneficio va a sacar con unas disculpas mal planteadas y peor imaginadas.
 
-**Dibujante y retratista**, alguien escribió que su anhelo era ser “otro Picasso”. No fue así, si alguien suscitaba en su espíritu **profunda admiración**, fue Chaplin y su bastón de bambú que lo llevó a los cielos. “Chaplin es el Adán del que todos descendemos”, exclamó. Y en Amarcord, 1973, esculpe su infancia al paso de Chaplin, atándolo a la Italia de posquerrera, anidada de espantajos fascistas, frailes y abuelas alborotadoras. Música de viviendas, recuerdas y adioses en un óleo barnizado de amargura.
+Nadie dice que se debe olvidar el pasado, pero las mentes claras lo utilizan para mejorar, no para deslumbrar con actitudes completamente fuera de lugar, ni tampoco para victimizar a una gran proporción del pueblo, con espectacularidades meramente populistas.
 
-El maestro dinamitó la **narración** en el cine desde su **prodigiosa** y única **imaginación**. Empezó con _La dolce_ _vita_, su primera **película discontinua**, devenida en una espiral de **círculos mágicos**, entre los cuales no hay armonía, sino **perturbaciones** y parálisis, armisticios y rupturas. Marcello Mastroianni –¿el _alter ego_ de Fellini en la encarnación de _Casanova_, 1976?– es un gris periodista que debe perseguir celebridades para hurgar en las fisuras viciadas de la Roma decadente, hora en la cual el animal humano sale a cazar a sus pares para su disfrute. **Anarquismo, fanfarrias y sombras urden la historia**.
+No vemos a ningún afín ideológico de los promotores de estos pedidos, tratar de poner en el plano real a estas solicitudes: signo de que la ideología no deja pensar. Esto sucede cuando las ideologías son llevadas al nivel de dogmas.
 
-_8½_ será su apartamiento definitivo del neorrealismo (traslación de la **realidad** al cine, si es que se quiere enceldarlo en este ismo). Tullio Kezich, su **fervoroso biógrafo,** relieva la **crisis** que afrontó el cineasta ante la expectativa que suscitó con _La dolce vita_: ¿cómo salir del **laberinto** inextricable que había instaurado con este filme? Entonces escudriña en la **esencia** de la **creación**; usa la **cámara** para explorarse a sí mismo. **Desmesura** y **sensibilidad** hilando su aclamado _8½,_ 1963. Obra de un iluminado. Sueño del sueño. Todo es volatilidad. Reminiscencias que ocurren en la **bruma** inexplorable del último sueño, de aquel que se escurre por las **oquedades** del alma.
+Yo recurro a la reflexión de Buda: “preocuparse por el pasado es como cortar leña para dejarla podrir”
 
-Amó el circo y quiso ser _clown_. O, al menos, director de circo. Y lo fue. Su genial **filmografía** le otorgó la dirección de un **circo caótico** y alucinado llamado humanidad. ¿Neoabstracto, neorrealista, neosurrealista…? Nada de eso. O eso y más. La poesía es una **metafísica** rauda y contigua. Un poema –el más escueto– debe entregar una noción del **universo** y divulgar el **misterio** de un **alma**, del ser y de las cosas. Cuando se contiene en el tiempo de la **vida**, es menos que la vida. Principio que une las distancias más insalvables, esa es la poesía. Eso logró Fellini.
-
-“La **luna** ignora que es tranquila y clara y ni siquiera sabe que es la luna; la arena que es la arena” (Borges).
+José M. Jalil Haas
 
 La educación ciudadana y la cultura de paz
 ==========================================
@@ -158,34 +332,36 @@ Aprender a vivir juntos es posible mediante instrumentos que permitan mejorar la
 
 **La educación ciudadana no se agota con un proyecto o campaña.** La paz debe internalizarse en cada niño, joven y adulto para que se irradie en una sociedad anclada a los valores humanos, y de manera especial a la **defensa de la vida, la democracia, el ambiente, la familia y la educación crítica.**
 
-Cartas a Quito/ 22 de octubre de 2024
-=====================================
+Fellini o el memorial de los sueños
+===================================
 
-Estas son las cartas a Quito de este martes 22 de octubre de 2024
------------------------------------------------------------------
+El maestro dinamitó la narración en el cine desde su prodigiosa y única imaginación.
+------------------------------------------------------------------------------------
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
 
-Preocuparse por el pasado es como cortar leña y dejarla podrir
---------------------------------------------------------------
+Se regodeaba en repetir que nació en el viaje de un tren entre dos poblaciones. Acaso quería resaltar que su vida había sido un **camino** incesante al **mundo** elusivo de los **sueños**. Federico Fellini (Italia, 1920-1993) fusionó fábula y **fantasía** en espléndidas columnas de sus **construcciones** fílmicas. La **fábula** es el sustento de la **tragedia**, la fantasía es capaz de vivificar **mundos** del pasado.
 
-El mundo entero se encuentra sorprendido ante la absurda posición de la nueva presidente de México, exigiendo respuesta a la también absurda carta de su antecesor al rey de España.
+Su madre pretendió formarlo para cura o abogado, pero él huyó y se enroló en el circo. Las **señales** de su azarosa **infancia** dejaron indeleble huella en su **arcilla** humana. Concilió entonces lo **onírico** con la realidad, lo **poético** con lo extravagante, para levantar una de las propuestas **fílmicas** más trascendentes de la historia del **cine**. Esa pátina de **melancolía** que se desliza por equilibrismos, **piruetas** y risotadas del circo influyó poderosamente en su arte.
 
-Las posiciones populistas de recurrir a espectacularidades exuberantes, para mostrar un nacionalismo exacerbado, a más de ser completamente irracionales, muestran una escasa madurez de sus promotores.
+A la zaga de los pasos de Chaplin
+---------------------------------
 
-Ningún nacionalismo radical ha demostrado en la historia, en ningún lado, ser beneficioso para nadie. De hecho, las menciones como “en el tiempo de la conquista no existía España como tal”, o, “los afectados y los agresores desaparecieron hace siglos” no hacen más que ridiculizar el pedido y a sus autores. ¿De qué sirven, efectivamente, las disculpas a estas alturas? Absolutamente de nada.
+Fellini aniquila la **narrativa** y se rehúnde en un amasijo **soberbio de estampas y sonidos,** esbozos, dibujos y **pinturas subliminales** que abruman la retina del alma del **espectador**. Imagino al maestro al pie de la luna del poema de Giacomo Leopardi, soñando su última película, _La voz de la luna_, 1990: “Oh cuán dichosa/ es en la **edad temprana**, cuando aún es mucha/ la esperanza, y breve el curso/ de la memoria, el recordar las cosas/ de otro tiempo, aunque ello sea triste,/ y aunque el **dolor persista**”.
 
-Hay una des ubicación, no solamente geográfica, sino también temporal, en personas que piensan que con estas solicitudes van a beneficiar a alguien: ¿A quiénes? ¿Cuál sería el beneficio para los indígenas de México actuales? Por el contrario, con estas maniobras distractoras, típicas de populistas de izquierda, no prestan atención a la situación actual del indigenado en México, víctima de pobreza y de inseguridad, en nada solucionadas por el gobierno, más bien agravadas por actos que dejan muchas dudas sobre su rectitud.
+Aclamado por el mundo –considerado uno de los diez mejores directores de cine de la **historia**–, **bibliotecas** y centros de arte llevan su nombre, así como restaurantes, discotecas y calles de su lugar de origen, Rimini, una comarca en la cual –fábula o verdad– vino a la vida.
 
-Dejémonos de ser inocentes en los sentimientos nacionalistas, hay que ser prácticos y apostar por las medidas que beneficien a esa parte de la población, que ningún beneficio va a sacar con unas disculpas mal planteadas y peor imaginadas.
+Cuando murió en 1993, la imagen de desamparo de Giulietta Masina, su compañera, llevando en sus manos un rosario, se detuvo en la retina del tiempo. Solidario y solitario, denostado y estoico, creyente en el **mundo paranormal** y en la magia, su **voracidad** desordenada por los libros se oponía a los rigurosos horarios de su oficio.
 
-Nadie dice que se debe olvidar el pasado, pero las mentes claras lo utilizan para mejorar, no para deslumbrar con actitudes completamente fuera de lugar, ni tampoco para victimizar a una gran proporción del pueblo, con espectacularidades meramente populistas.
+**Dibujante y retratista**, alguien escribió que su anhelo era ser “otro Picasso”. No fue así, si alguien suscitaba en su espíritu **profunda admiración**, fue Chaplin y su bastón de bambú que lo llevó a los cielos. “Chaplin es el Adán del que todos descendemos”, exclamó. Y en Amarcord, 1973, esculpe su infancia al paso de Chaplin, atándolo a la Italia de posquerrera, anidada de espantajos fascistas, frailes y abuelas alborotadoras. Música de viviendas, recuerdas y adioses en un óleo barnizado de amargura.
 
-No vemos a ningún afín ideológico de los promotores de estos pedidos, tratar de poner en el plano real a estas solicitudes: signo de que la ideología no deja pensar. Esto sucede cuando las ideologías son llevadas al nivel de dogmas.
+El maestro dinamitó la **narración** en el cine desde su **prodigiosa** y única **imaginación**. Empezó con _La dolce_ _vita_, su primera **película discontinua**, devenida en una espiral de **círculos mágicos**, entre los cuales no hay armonía, sino **perturbaciones** y parálisis, armisticios y rupturas. Marcello Mastroianni –¿el _alter ego_ de Fellini en la encarnación de _Casanova_, 1976?– es un gris periodista que debe perseguir celebridades para hurgar en las fisuras viciadas de la Roma decadente, hora en la cual el animal humano sale a cazar a sus pares para su disfrute. **Anarquismo, fanfarrias y sombras urden la historia**.
 
-Yo recurro a la reflexión de Buda: “preocuparse por el pasado es como cortar leña para dejarla podrir”
+_8½_ será su apartamiento definitivo del neorrealismo (traslación de la **realidad** al cine, si es que se quiere enceldarlo en este ismo). Tullio Kezich, su **fervoroso biógrafo,** relieva la **crisis** que afrontó el cineasta ante la expectativa que suscitó con _La dolce vita_: ¿cómo salir del **laberinto** inextricable que había instaurado con este filme? Entonces escudriña en la **esencia** de la **creación**; usa la **cámara** para explorarse a sí mismo. **Desmesura** y **sensibilidad** hilando su aclamado _8½,_ 1963. Obra de un iluminado. Sueño del sueño. Todo es volatilidad. Reminiscencias que ocurren en la **bruma** inexplorable del último sueño, de aquel que se escurre por las **oquedades** del alma.
 
-José M. Jalil Haas
+Amó el circo y quiso ser _clown_. O, al menos, director de circo. Y lo fue. Su genial **filmografía** le otorgó la dirección de un **circo caótico** y alucinado llamado humanidad. ¿Neoabstracto, neorrealista, neosurrealista…? Nada de eso. O eso y más. La poesía es una **metafísica** rauda y contigua. Un poema –el más escueto– debe entregar una noción del **universo** y divulgar el **misterio** de un **alma**, del ser y de las cosas. Cuando se contiene en el tiempo de la **vida**, es menos que la vida. Principio que une las distancias más insalvables, esa es la poesía. Eso logró Fellini.
+
+“La **luna** ignora que es tranquila y clara y ni siquiera sabe que es la luna; la arena que es la arena” (Borges).
 
 Hernán Barcos sufrió una lesión y se pierde la recta final de la liga peruana
 =============================================================================
@@ -853,155 +1029,3 @@ Las aportaciones de **Sergio Busquets y Jordi Alba** desde el año pasado y de L
 Sin embargo, el 10 de la Albiceleste, por lesiones o por estar convocado con la selección de Argentina (sobre todo en la Copa América), solo ha podido jugar este año **19 partidos** de la MLS (15 como titular) con el Inter Miami.
 
 El conjunto de rosa aguantó de manera admirable durante la ausencia de su capitán, pero Messi también respondió a pleno rendimiento en los encuentros en los que sí participó con un increíble registro de **20 goles y 16 asistencias** que le coloca ya acariciando el MVP de la **MLS**.
-
-La Unión exige pruebas a Luz Valdivia por denuncias
-===================================================
-
-El Torneo de Ascenso Nacional entrega dos cupos para la Liga Pro Serie B de 2025.
----------------------------------------------------------------------------------
-
-![Jugadores de La Unión y Luz Valdivia (de espaldas) en el Ascenso 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/union_luz_valdivia_1.jpg)
-
-**La Unión de Cotopaxi** salió al paso de las denuncias de Luz Valdivia de Santa Elena, que este lunes 21 de octubre de 2024, a través de sus redes sociales, mencionó que existen irregularidades en los partidos del Ascenso Nacional.
-
-Los de Santa Elena mencionaron que “(…) rechazan de manera contundente cualquier tipo de comportamiento antideportivo” que, a su criterio, **mancha la puesta en marcha del Ascenso Nacional**, un torneo que está bajo la organización de la Federación Ecuatoriana de Fútbol (FEF).
-
-### Más noticias:
-
-* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
-* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
-* [Segundo Castillo marca supremacía en los Clásicos con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sc-segundo-castillo-emelec-historial-clasico-astillero.html "Segundo Castillo marca supremacía en los Clásicos con Barcelona SC")
-
-“Nos referimos a actos de corrupción e irregularidades que ocurrieron en nuestro último partido”, agregaron, apuntando al duelo de ida de los dieciseisavos de final que mantuvieron con La Unión en Pujilí.
-
-Los locales ganaron por un contundente marcador de 5-0, con lo que la serie quedó prácticamente sentenciada, salvo un milagro futbolístico que se haga efectivo en la revancha a jugarse en Santa Elena.
-
-Ryder Ibarra, Alex González (2) y Bryan Rodríguez (2), este último con pasado en equipos como Libertad de Loja, 9 de Octubre, Macará, **Olmedo, Orense, Atlético Porteño, Olmedo, Aucas**, Norte América, Deportivo Azogues, entre otros, anotaron los goles.
-
-Sin especificar a qué actos de “corrupción” se refieren, Luz Valdivia indicó que tomaron la “drástica decisión” de separar a jugadores de su equipo, y piden a la FEF que se encargue de hacer las respectivas investigaciones “para prevenir que este tipo de acciones se repitan”.
-
-La Unión exige pruebas
-----------------------
-
-Este mismo lunes la respuesta de La Unión, **club directamente aludido**, no se hizo esperar e hizo su descargo en redes sociales.
-
-“Rechazamos profundamente las acusaciones infundadas por el club Luz Valdivia” dijeron en la primera parte del comunicado.
-
-Indicaron que el 5-0 pone en evidencia su “**superioridad en todas las facetas del juego**“, por lo que debe “prepararse para garantizar un mejor espectáculo”.
-
-“Exhortamos a Luz Valdivia F.C. a que presente las evidencias que respalden sus acusaciones. De no hacerlo, **tomaremos acciones legales inmediatas para defender la reputación** y buen nombre de nuestra institución”, dicen en la parte final.
-
-Huaquillas FC **también fue otro de los equipos que denunció irregularidades**. En la ida perdió por 5-0 ante Naranaja Mekánica en el estadio Alejandro Ponce Noboa de Guayaquil.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBU54_dxfzd/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Club Deportivo La Unión (@cdla\_union)](https://www.instagram.com/reel/DBU54_dxfzd/?utm_source=ig_embed&utm_campaign=loading)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Volcán Sangay emitió extensa columna de ceniza y gas
-====================================================
-
-El volcán Sangay se mantiene en alerta amarilla.
-------------------------------------------------
-
-![El volcán Sangay se mantiene constantemente monitoreado por el IG](https://www.elcomercio.com/wp-content/uploads/2024/10/ceniza-volcan-sangay.jpg)
-
-El **Instituto Geofísico** (IG) de la Escuela Politécnica Nacional detalló las condiciones que mantiene el **volcán Sangay** este lunes 21 de octubre de 2024.
-
-Basado en el reporte emitido por la agencia **VAAC** (Centro Internacional de Avisos de Cenizas Volcánicas, en inglés), el IG confirmó que el volcán emite de forma continua **gas y ceniza**, desde las primeras horas de la mañana.
-
-### Más noticias
-
-* [Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia](https://www.elcomercio.com/actualidad/ecuador/rio-cuenca-estiaje-sector-lluvia.html "Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia")
-* [Las quebradas de Quito, el riesgo de las lluvias y la necesaria prevención](https://www.elcomercio.com/actualidad/quito/quebradas-quito-riesgo-prevencion-lluvias.html "Las quebradas de Quito, el riesgo de las lluvias y la necesaria prevención")
-* [Los santos y el clima: una relación que no se abandona en América Latina](https://www.elcomercio.com/actualidad/quito/santos-clima-relacion-america-latina.html "Los santos y el clima: una relación que no se abandona en América Latina")
-
-Ceniza del Sangay se dirige al este
------------------------------------
-
-De acuerdo con el monitoreo de las cámaras de vigilancia, la emisión alcanzo una altura de **1 200 metros** sobre el nivel del cráter.
-
-La ceniza se dirige hacia el **este y este sur** del país, sin embargo, la Secretaría de Gestión de Riesgos no ha informado que los **restos de combustión** hayan caído en localidades cercanas.
-
-Hasta la tarde de este lunes, la actividad en el volcán Sangay tiene un nivel superficial alto, mientras que la intensidad interna es moderada.
-
-Este volcán de 5 230 metros de altura se ubica en **Morona Santiago**. Su proceso eruptivo comenzó en **1628**, desde ese momento se ha mantenido activo; por ahora tiene **alerta amarilla**.
-
-> [#IGAlInstante](https://twitter.com/hashtag/IGAlInstante?src=hash&ref_src=twsrc%5Etfw) Informativo VOLCÁN SANGAY No. 2024-059  
-> LUNES 21 DE OCTUBRE DE 2024  
-> Hoy, lunes 21 de octubre, desde las primeras horas de la mañana, a través de imágenes satelitales (GOES-16), se observa de manera continua una emisión de gas y ceniza desde el volcán Sangay. De… [pic.twitter.com/J3Ib1OIsnc](https://t.co/J3Ib1OIsnc)
-> 
-> — Instituto Geofísico (@IGecuador) [October 21, 2024](https://twitter.com/IGecuador/status/1848447278429966738?ref_src=twsrc%5Etfw)
-
-Volcán El Reventador arrojó piroclastos
----------------------------------------
-
-El Reventador es otro de los **27 volcanes** que permanecen activos en Ecuador.
-
-Este sábado 19 de octubre, el Instituto Geofísico observó el descenso de una corriente de densidad piroclástica (flujo piroclástico).
-
-Esta corriente alcanzó los **800 metros** bajo el nivel del cráter, por el flanco sur-oriental del volcán.
-
-La actividad histórica de este volcán es poco conocida debido a su remota ubicación, su inaccesibilidad y a las persistentes malas condiciones climáticas que impiden observaciones visuales directas.
-
-Sin embargo, se estima que el volcán ha tenido al menos **16 erupciones** entre 1541 y la actualidad, según los estudios del IG.
-
-Este lunes, su actividad superficial se mantuvo en **alta** y su interna en **moderada**. No se registraron cambios en sus tendencias.
-
-> Informe Diario [#ElReventador](https://twitter.com/hashtag/ElReventador?src=hash&ref_src=twsrc%5Etfw) N° 2024-295  
-> lunes 21 de octubre de 2024  
-> Nivel de Actividad:  
-> Superficial: Alta  
-> Tendencia Superficial: Sin cambio  
-> Interna: Moderada  
-> Tendencia Interna: Sin cambio  
-> Revisarlo en: [https://t.co/VigR21bfIH](https://t.co/VigR21bfIH) [pic.twitter.com/JXZ1djJolP](https://t.co/JXZ1djJolP)
-> 
-> — Instituto Geofísico (@IGecuador) [October 21, 2024](https://twitter.com/IGecuador/status/1848403205144907889?ref_src=twsrc%5Etfw)
-
-Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro
-========================================================================
-
-Segundo Alejandro Castillo debutó con Barcelona SC, ganó el Clásico del Astillero ante Emelec y fue elegido el mejor de la Liga Pro.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Segundo Alejandro Castillo, DT de Barcelona SC, después del Clásico del Astillero ante Emelec.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T174612.227.jpg)
-
-La décima fecha de la Liga Pro contó con el Clásico del Astillero entre **Barcelona SC y Emelec**, cotejo en el cual el ‘Ídolo’ vio el debut de su nuevo DT. **Segundo Alejandro Castillo**, nuevo entrenador de los canarios arrancó su ciclo con una victoria y fue elegido como el mejor de la jornada.
-
-Después de la goleada de 3-0 ante **El Nacional** en Quito, los toreros decidieron modificar su cuerpo técnico y se produjo la salida de **Ariel Holan.** En reemplazo del argentino, el ‘Ídolo’ confió en Castillo, un hombre de la casa que también formó parte del equipo de trabajo del exentrenador y antes ya había asumido de forma interina.
-
-### Más noticias:
-
-* [Segundo Castillo marca supremacía en los Clásicos con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sc-segundo-castillo-emelec-historial-clasico-astillero.html "Segundo Castillo marca supremacía en los Clásicos con Barcelona SC")
-* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
-* [Barcelona SC vence a Emelec y se adueña del Clásico del Astillero](https://www.elcomercio.com/deportes/barcelona-emelec-clasico-astillero-fecha-10.html "Barcelona SC vence a Emelec y se adueña del Clásico del Astillero")
-
-A partir de su nombramiento en la escuadra de **Barcelona SC**, el estratega tuvo dos semanas para trabajar con el club a raíz del parón de **eliminatorias**. Asimismo, el arranque de su ciclo estaría marcado por el partido más importante para los dos equipos guayaquileños.
-
-Una vez que llegó el Clásico del Astillero, el ‘Ídolo’ y Castillo se impusieron con contundencia. Los goles de Janner Corozo y Álex Rangel le dieron una victoria de 2-1 ante el ‘Bombillo’, que obtuvo el descuento gracias a Washington Corozo.
-
-Segundo Castillo y su galardón con Barcelona SC
------------------------------------------------
-
-> 📍¡Ganó el partido inmortal! 😎  
->   
-> El DT de la Fecha 🔟 – Fase 2️⃣ es Segundo Castillo de [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw) 🔥  
-> ⠀⠀[#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) 🇪🇨💯 [pic.twitter.com/qj3pvPVr7l](https://t.co/qj3pvPVr7l)
-> 
-> — LigaPro (@LigaProEC) [October 21, 2024](https://twitter.com/LigaProEC/status/1848438277595869618?ref_src=twsrc%5Etfw)
-
-El cotejo entre **Barcelona y Emelec** fue el encargado de cerrar la fecha del 10 de la Liga Pro y hubo otros siete compromisos junto al Clásico del Astillero. Una vez que finalizó la jornada liguera y se contó con todos los resultados, la institución eligió al mejor entrenador.
-
-**Segundo Alejandro Castillo** fue elegido como el estratega que más destacó a partir de su triunfo ante los eléctricos, el planteamiento que utilizó y el rendimiento que le sacó a su equipo. Este se impuso sobre entrenadores como **Pablo ‘Vitamina’ Sánchez** de Liga de Quito o Javier Gandolfi de Independiente del Valle, que también triunfaron.
-
-La victoria de los toreros y del entrenador ecuatoriano se dio junto a otros cuatro equipos. Orense y **Aucas**, al igual que los ya mencionados albos y rayados, se llevaron tres unidades durante la fecha 10 del torneo[.](https://es.wikipedia.org/wiki/Barcelona_Sporting_Club "https://es.wikipedia.org/wiki/Barcelona_Sporting_Club")
-
-¿Qué le espera al ‘Ídolo’ y a su nuevo entrenador?
---------------------------------------------------
-
-Aunque se encuentra distanciado y no se encuentra entre los cinco mejores, el triunfo de **Barcelona SC** le permite aferrarse a sus ilusiones y continuar con posibilidades de ganar la etapa. Eso sí, para ganar la ronda debe esperar por el tropiezo de sus **rivales directos** y mantenerse en la senda vencedora.
-
-Los siguientes choques para el equipo guayaquileño y Segundo Alejandro Castillo serán frente a **Delfín, Aucas, Cumbayá, Técnico Universitario y Mushuc Runa**. El cuadro amarillo se encuentra en la quinta posición de la segunda etapa con 16 puntos, a seis del líder Liga de Quito.
