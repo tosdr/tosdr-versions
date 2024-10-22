@@ -1,6 +1,6 @@
-[Banana Republic: Up to 40% off sale styles + 6% Cash Back
+[Booking.com: Mini break. Maximum memories. Save 15% or more on your 2024 late escape + 5% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/banana-republic-ca?store=banana-republic-ca&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/booking-com?store=booking-com&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -483,7 +483,7 @@ FR
         
         Viator - A TripAdvisor Company
         
-        4% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
+        8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -498,7 +498,7 @@ FR
         
         Viator - A TripAdvisor Company
         
-        4% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
+        8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/spooky-savings "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
