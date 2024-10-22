@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,6 +146,10 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
+Сейчас читают
+
+* [Постный суп с перловкой, фасолью и грибами](https://www.russianfood.com/recipes/recipe.php?rid=173301)
+
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -179,7 +183,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174460#comments) | 22.10.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174460#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -207,7 +211,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174501#comments) | 22.10.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174501#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -221,7 +225,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174521#comments) | 22.10.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174521#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -249,7 +253,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174528#comments) | 22.10.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174528#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -263,7 +267,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174429#comments) | 22.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174429#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -319,7 +323,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173842#comments) | 22.10.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173842#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -333,7 +337,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173757#comments) | 22.10.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173757#comments) | 22.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -448,10 +452,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741746.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174501) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742984.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174429) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742474.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174310) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731603.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173842) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744311.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174466) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744412.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174521) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_741000.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174460) |
-| [Крылышки-гриль в томатном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174501) | [Суп-пюре из чечевицы и нута](https://www.russianfood.com/recipes/recipe.php?rid=174429) | [Запеканка из макарон с курицей и цукини](https://www.russianfood.com/recipes/recipe.php?rid=174310) | [Котлеты из куриного фарша с помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173842) | [Слоёный салат с крабовыми палочками, сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174466) | [Салат с грейпфрутом, беконом, огурцом и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=174521) | [Рис с фаршем, баклажанами и кукурузой (на сковороде)](https://www.russianfood.com/recipes/recipe.php?rid=174460) |
-| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735427.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173314) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736630.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173416) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736725.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173757) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736473.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173448) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174524) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743550.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174528) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743264.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174434) |
-| [Шоколадно-молочное желе с миндалём](https://www.russianfood.com/recipes/recipe.php?rid=173314) | [Рогалики на кефире, с шоколадом](https://www.russianfood.com/recipes/recipe.php?rid=173416) | [Ленивые пирожки на кефире, с творогом, луком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173757) | [Салат с жареными помидорами, зеленью и йогуртовой заправкой](https://www.russianfood.com/recipes/recipe.php?rid=173448) | [Салат с креветками, грейпфрутом и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=174524) | [Мясные тефтели с рисом и гречкой](https://www.russianfood.com/recipes/recipe.php?rid=174528) | [Салат с кальмарами, крабовыми палочками и яичными блинчиками](https://www.russianfood.com/recipes/recipe.php?rid=174434) |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743264.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174434) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742474.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174310) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744412.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174521) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736630.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173416) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736725.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173757) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736473.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173448) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744584.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174524) |
+| [Салат с кальмарами, крабовыми палочками и яичными блинчиками](https://www.russianfood.com/recipes/recipe.php?rid=174434) | [Запеканка из макарон с курицей и цукини](https://www.russianfood.com/recipes/recipe.php?rid=174310) | [Салат с грейпфрутом, беконом, огурцом и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=174521) | [Рогалики на кефире, с шоколадом](https://www.russianfood.com/recipes/recipe.php?rid=173416) | [Ленивые пирожки на кефире, с творогом, луком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173757) | [Салат с жареными помидорами, зеленью и йогуртовой заправкой](https://www.russianfood.com/recipes/recipe.php?rid=173448) | [Салат с креветками, грейпфрутом и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=174524) |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742984.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174429) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741746.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174501) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743550.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174528) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744311.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174466) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_741000.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174460) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735427.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173314) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731603.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173842) |
+| [Суп-пюре из чечевицы и нута](https://www.russianfood.com/recipes/recipe.php?rid=174429) | [Крылышки-гриль в томатном соусе, в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=174501) | [Мясные тефтели с рисом и гречкой](https://www.russianfood.com/recipes/recipe.php?rid=174528) | [Слоёный салат с крабовыми палочками, сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174466) | [Рис с фаршем, баклажанами и кукурузой (на сковороде)](https://www.russianfood.com/recipes/recipe.php?rid=174460) | [Шоколадно-молочное желе с миндалём](https://www.russianfood.com/recipes/recipe.php?rid=173314) | [Котлеты из куриного фарша с помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173842) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -468,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(137)
+(98)
