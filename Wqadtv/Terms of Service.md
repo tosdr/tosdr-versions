@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ac84ee6c-7a1a-4653-9382-3d3579ad6acc/ac84ee6c-7a1a-4653-9382-3d3579ad6acc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ac84ee6c-7a1a-4653-9382-3d3579ad6acc/ac84ee6c-7a1a-4653-9382-3d3579ad6acc_360x203.jpg)](https://www.wqad.com/article/news/local/mike-doi-out-galesburg-public-works-director/526-e4e27845-e69d-4c24-9183-4733c8d5eff0)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
         
-        #### [Galesburg Public Works Director Mike Doi leaves position](https://www.wqad.com/article/news/local/mike-doi-out-galesburg-public-works-director/526-e4e27845-e69d-4c24-9183-4733c8d5eff0)
+        #### [Jackson County Zoning Board discusses wind turbine ordinance](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98) [![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa03a2bd-bced-48c5-b6c3-f3d15605acc3/20241019T012114/aa03a2bd-bced-48c5-b6c3-f3d15605acc3_360x203.jpg)](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
+        #### [Jackson County residents raise concerns about wind turbines](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_360x203.jpg)](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
         
-        #### [QC nonprofit faces setbacks after lumber theft](https://www.wqad.com/article/news/community/qc-nonprofit-lumber-theft-kinnas-house-of-love/526-b5387dbb-c58b-4d71-9ade-eace4737ea39)
+        #### [They're not ladybugs! What you need to know about Asian Lady Beetles](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c12fbfd7-afec-4946-94a9-d3ff7d3b2029/20241021T121208/c12fbfd7-afec-4946-94a9-d3ff7d3b2029_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c12fbfd7-afec-4946-94a9-d3ff7d3b2029/20241021T121208/c12fbfd7-afec-4946-94a9-d3ff7d3b2029_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/29e3e93e-5f95-48b0-9a36-b68d4ba60109/20241021T224022/29e3e93e-5f95-48b0-9a36-b68d4ba60109_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/29e3e93e-5f95-48b0-9a36-b68d4ba60109/20241021T224022/29e3e93e-5f95-48b0-9a36-b68d4ba60109_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Near-record warmth likely Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Showers in the forecast for your Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141/20241019T154254/f8fbcbf2-8ee8-4483-a4ec-ea8d094c1141_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-hurricane-impact-plastics-tennessee-death/522-c8b5437b-7d31-4102-aeab-f19826eb9d07)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-79°
+61°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
