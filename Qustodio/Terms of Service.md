@@ -1,4 +1,4 @@
-**PREMIUM SALE |** Get 15% off your Premium plan today – **BUY NOW**
+[**PREMIUM SALE |** Get 15% off your Premium plan today – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.17.0)](https://www.qustodio.com/en/)
 
@@ -15,7 +15,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-**PREMIUM SALE |** Get 15% off your Premium plan today – **BUY NOW**
+[**PREMIUM SALE |** Get 15% off your Premium plan today – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.17.0)](https://www.qustodio.com/en/)
 
