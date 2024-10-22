@@ -144,6 +144,7 @@ Choose Topic
 
 Spotlight -
 
+* [AAO](https://www.managedhealthcareexecutive.com/conferences/aao)
 * [ID Week 2024](https://www.managedhealthcareexecutive.com/conferences/id-week)
 * [AMCP Nexus 2024](https://www.managedhealthcareexecutive.com/conferences/amcp)
 * [AHIP](https://www.managedhealthcareexecutive.com/conferences/ahip)
