@@ -238,7 +238,7 @@ Menu
     * [Disney](https://www.moonpig.com/uk/disney/)
     * [LEGO](https://www.moonpig.com/uk/gifts/lego/)
     
-* Open Alcohol Gifts dropdown[![Alcohol Gifts](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
+* Open Alcohol Gifts dropdown[![Alcohol Gifts](https://static.web-explore.prod.moonpig.net/_next/static/images/alcohol-9c78ef9dc9c2aa6894cdcae001e89ebe.svg)
     
     Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/all/)
     
