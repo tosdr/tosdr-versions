@@ -868,7 +868,7 @@ Previous Version(s):
 A Publicly Traded Company (BLZE)  
 Backblaze © 2024
 
-[](https://www.linkedin.com/company/backblaze/)[](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[](https://twitter.com/backblaze)[](https://facebook.com/backblaze)
+[](https://www.linkedin.com/company/backblaze/)[](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[](https://x.com/backblaze)[](https://facebook.com/backblaze)
 
 [About Us](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Investor Relations](https://ir.backblaze.com/)[Careers](https://www.backblaze.com/company/jobs)
 
