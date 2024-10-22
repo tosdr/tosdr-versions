@@ -191,9 +191,9 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Matt Vaughn](https://cdn.returningveterans.org/images/honor/22_Vaughn.jpg)  
+![Charlie Schmalenberger](https://cdn.returningveterans.org/images/honor/14_Schmalenberger.jpg)  
 
-**In Honor of Matt Vaughn**  
+**In Honor of Charlie Schmalenberger**  
 United States Army  
 Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/21/24 - 2:22:55  
+Printed 10/21/24 - 8:26:45  
 © 2024 Returning Veterans Project
