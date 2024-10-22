@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Doula care may lead to fewer C-sections or preterm births](https://www.sciencenews.org/article/doula-care-c-section-preterm-birth)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")2 hours ago
+            
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [Is U.S. democracy in decline? Here’s what the science says](https://www.sciencenews.org/article/united-states-democracy-decline-science)
             
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [50 years ago, chronic pain mystified scientists](https://www.sciencenews.org/article/50-years-ago-chronic-pain-update)
             
             By [Aina Abell](https://www.sciencenews.org/author/aina-abell "Posts by Aina Abell")October 18, 2024
-            
-        * [Psychology](https://www.sciencenews.org/topic/psychology)
-            
-            ### [Navigation research often excludes the environment. That’s starting to change](https://www.sciencenews.org/article/navigation-research-exclude-environment)
-            
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 11, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Science has finally cracked male riflebirds’ flirty secrets](https://www.sciencenews.org/article/male-riflebirds-secrets)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")18 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")October 21, 2024
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
