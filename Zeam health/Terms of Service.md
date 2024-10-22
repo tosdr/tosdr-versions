@@ -37,7 +37,7 @@ Request an Appointment
     * [Microneedling](https://www.zeamhealth.com/aesthetics/microneedling/)
     * [Chemical Peels](https://www.zeamhealth.com/aesthetics/chemical-peels/)
     * [Skincare](https://www.zeamhealth.com/aesthetics/skincare/)
-    * [Acne Treatments](https://www.zeamhealth.com/aesthetics/acne/)
+        * [Acne Treatments](https://www.zeamhealth.com/aesthetics/acne/)
 * Patient Resources
     
     * [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
