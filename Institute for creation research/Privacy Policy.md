@@ -96,63 +96,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Q&A
+More Creation Science Update
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_universe_look_old.jpg)](https://www.icr.org/article/does-the-universe-look-old)
+[![](/i/Main%20Stage%20-%201400x1050/DarwinArches_1400x1050.jpg)](https://www.icr.org/article/darwins-fallen-arches)
 
-[Does the Universe Look Old?](https://www.icr.org/article/does-the-universe-look-old/)
+[Darwin’s Fallen Arches](https://www.icr.org/article/darwins-fallen-arches/)
 
-Since distant galaxies are billions of light-years away, some understandably assume that distant starlight must have taken billions of years to reach...
+Natural stone arches are commonly made of sandstone or limestone and are found in coastal cliff areas that can be eroded by wave action. Other arches...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
+[![](/i/Main%20Stage%20-%201400x1050/physicalevidence_1400x1050.jpg)](https://www.icr.org/article/physical-evidence-trumps-evolution)
 
-[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
+[Physical Evidence Trumps Evolution Theory](https://www.icr.org/article/physical-evidence-trumps-evolution/)
 
-Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
+One of the hallmarks of good science is to formulate a cogent theory based on the physical evidence. For example, if the physical evidence (e.g. a fossilized...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[Could You Outrun Goliath?](https://www.icr.org/article/could-you-outrun-goliath/)
+[![](/i/Main%20Stage%20-%201400x1050/ContextBibInterp_1400x1050)](https://www.icr.org/article/importance-of-context-in-sound)
 
-At “six cubits and a span,” Goliath stood over nine feet tall, using a conservative 18-inch cubit. Scripture demonstrates his strength by...
+[The Importance of Context in Sound Biblical Interpretation](https://www.icr.org/article/importance-of-context-in-sound/)
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+During World War II, fighter planes often returned from battle riddled with bullet holes. The Allies analyzed the litany of data and mapped the areas...
 
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
-
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
-
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
