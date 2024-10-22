@@ -324,7 +324,6 @@ Advertise
 
 ### [We haven’t even taken it outside, and we already love this battery](https://www.afr.com/technology/we-haven-t-even-taken-it-outside-and-we-already-love-this-battery-20241017-p5kj3h)
 
-* 53 mins ago
 * John Davidson
 
 * ### [Diary alert: Shows to catch in November](https://www.afr.com/life-and-luxury/arts-and-culture/diary-alert-shows-to-catch-in-november-20240926-p5kdro)
@@ -339,7 +338,6 @@ Advertise
 
 ### [The secret to raising hundreds of millions like these Young Rich](https://www.afr.com/young-rich/the-secret-to-raising-hundreds-of-millions-like-these-young-rich-20241004-p5kfwd)
 
-* 53 mins ago
 * Yolanda Redrup
 
 * ### [The real cost of being a Young Rich founder](https://www.afr.com/wealth/people/the-real-cost-of-being-a-young-rich-founder-20240712-p5jtat)
