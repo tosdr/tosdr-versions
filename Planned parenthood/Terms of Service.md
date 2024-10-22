@@ -6,6 +6,8 @@
 
 * [Learn](https://www.plannedparenthood.org/learn)
     
+    #### Learn
+    
     * [Blog](https://www.plannedparenthood.org/blog)
     * [Abortion](https://www.plannedparenthood.org/learn/abortion)
     * [Birth Control](https://www.plannedparenthood.org/learn/birth-control)
@@ -36,6 +38,7 @@
     * [Planned Parenthood Direct](https://www.plannedparenthood.org/get-care/ppdirect)
     * [Find an Abortion Clinic](https://www.plannedparenthood.org/abortion-access)
     * [Our Services](https://www.plannedparenthood.org/get-care/our-services)
+    * [Paying for Your Care](https://www.plannedparenthood.org/get-care/paying-for-your-care)
     * [Health Insurance](https://www.plannedparenthood.org/get-care/health-insurance)
     
 * [Get Involved](https://www.plannedparenthood.org/get-involved)
@@ -92,6 +95,7 @@
     * [Planned Parenthood Direct](https://www.plannedparenthood.org/get-care/ppdirect)
     * [Find an Abortion Clinic](https://www.plannedparenthood.org/abortion-access)
     * [Our Services](https://www.plannedparenthood.org/get-care/our-services)
+    * [Paying for Your Care](https://www.plannedparenthood.org/get-care/paying-for-your-care)
     * [Health Insurance](https://www.plannedparenthood.org/get-care/health-insurance)
     
 * Get Involved
