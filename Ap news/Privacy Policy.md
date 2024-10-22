@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Lebanon assesses damage after Israel strikes Hezbollah-run financial institution](https://apnews.com/article/israel-palestinians-lebanon-news-10-21-2024-3fe94c75a6d6d44c89f350d7e94785df)
-    * [Israel's wars are expensive. Paying the bill could force tough choices](https://apnews.com/article/israel-hamas-hezbollah-war-cost-military-spending-32a53a86d946418022ca636539a83f4f)
-    * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
+    * [Israel says more strikes are coming against a Hezbollah-run financial institution](https://apnews.com/article/israel-palestinians-lebanon-news-10-21-2024-3fe94c75a6d6d44c89f350d7e94785df)
+    * [What is the Hezbollah-linked financial institution Israel is targeting in Lebanon?](https://apnews.com/article/alqard-alhassan-hezbollah-lebanon-israel-airstrikes-67220b894b55500b0be799a0be4245c3)
+    * [Biden is 'deeply concerned' about the release of secret documents on Israel's possible attack plans](https://apnews.com/article/united-states-israel-iran-classified-documents-5cc9b0f30b7119a039d122599bf0c285)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
+    * [Teen in custody after 5 found dead in shooting at home in Washington state, police say](https://apnews.com/article/fall-city-washington-5-killed-house-shooting-95c41498579ce16783746202e48c269b)
     * [Eyewitness video captures frantic efforts to save lives after deadly collapse of dock walkway](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
-    * [Texas man whose execution was halted by subpoena set to testify to lawmakers](https://apnews.com/article/robert-roberson-texas-execution-shaken-baby-syndrome-1fc3638211444a6117ef2567fedca7e4)
+    * [Prosecutors: Ex-officer's gunshots put people in danger the night of deadly Breonna Taylor raid](https://apnews.com/article/breonna-taylor-brett-hankison-federal-charges-kentucky-b1d0fbd78cbcb718c6be310c28e014b9)
     
     Newsletters
     
@@ -66,9 +66,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris seeks to win over Republicans uneasy about Trump with visits to Midwestern suburbs](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
-    * [In North Carolina, Trump and Harris navigate a hurricane and a rollercoaster governor's race](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386)
-    * [Central Park Five sues Donald Trump for 'defamatory' remarks made at presidential debate](https://apnews.com/article/central-park-five-exonerated-donald-trump-lawsuit-harris-6d7cfa4e5d117fb653d83555423b35f9)
+    * [Trump makes more debunked claims about FEMA as he surveys storm damage in North Carolina](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386)
+    * [Liz Cheney helps Harris seek moderate votes as they paint Trump as a dangerous choice](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
+    * [DeSantis using state money, time and his power to fight abortion rights measure](https://apnews.com/article/abortion-ron-desantis-florida-election-2024-6fa32787580e935a819248504345cb3c)
     
     Newsletters
     
@@ -86,9 +86,9 @@ Menu
     
     TOP STORIES
     
-    * [Browns QB Deshaun Watson ruptured his Achilles tendon and is out for the season, AP source says](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
-    * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
-    * [Duke's Cooper Flagg makes preseason AP All-America team as ACC, Big 12, SEC each place 2 players](https://apnews.com/article/college-basketball-ap-allamerica-team-2b6f3922ae1bee8c6f8c8bb71449e2b1)
+    * [Deshaun Watson's season is ended by a ruptured Achilles tendon. Browns say QB will have surgery](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
+    * [Tua Tagovailoa could return Sunday for Dolphins after medical experts clear him to play](https://apnews.com/article/dolphins-tagovailoa-4ab2a0d417a511c614bc784febc3d3f2)
+    * [WNBA players union decides to opt out of current collective bargaining agreement](https://apnews.com/article/wnba-collective-bargaining-agreement-3fd6c2eb9924689d3a0ea929d309d605)
     
     Newsletters
     
@@ -108,9 +108,9 @@ Menu
     
     TOP STORIES
     
-    * [Steven Spielberg, Spike Lee and Ken Burns among recipients of National Medals of Arts](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
-    * [Book Review: Richard Chizmar tells a creepy occult tale in ‘Memorials'](https://apnews.com/article/memorials-richard-chizmar-book-review-9fde44ca44cb0205c85165032aff22a3)
-    * [Book Reviews: Two new books raise big concerns about innocent men in our prisons](https://apnews.com/article/framed-john-grisham-sing-dan-slepian-review-129367e710fa9b91b684db33e4ef9d69)
+    * [Spielberg, Spike Lee and Queen Latifah among standouts in US arts and humanities honored by Biden](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
+    * [Facing 7 more lawsuits, Sean 'Diddy' Combs protests a 'fresh wave of publicity'](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-0c25d256ee9351a64c30a8398c5a46d4)
+    * [Writer Olivia Nuzzi, New York magazine part ways after relationship with political source revealed](https://apnews.com/article/olivia-nuzzi-reporter-new-york-magazine-kennedy-0eebc8e7a039b3170cfd037a4e0c416e)
     
 * [Business](https://apnews.com/business)
     
@@ -120,9 +120,9 @@ Menu
     
     TOP STORIES
     
-    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
-    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
-    * [Brazil environmental disaster victims take case against mining giant BHP to UK court](https://apnews.com/article/brazil-mine-disaster-bhp-lawsuit-britain-0c56e57e70c92b8dc99b04ac34962cf2)
+    * [In Nevada, immigration is a nuanced issue. But the politics of it is painted in black and white](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
+    * [Disney names Gorman to serve as next chairman; anticipates naming new CEO in early 2026](https://apnews.com/article/disney-gorman-iger-chairman-ceo-a18cba3fd2e21ae374787f24b0d73c96)
+    * [McDonald's agreed to Trump event but says it isn't endorsing a presidential candidate](https://apnews.com/article/mcdonalds-trump-campaign-harris-fries-56a5773528e212df058f85ec0f264578)
     
 * [Science](https://apnews.com/science)
     
@@ -151,23 +151,23 @@ Menu
     
     TOP STORIES
     
+    * [New Zealand airport imposes cuddle cap with 3-minute limit on goodbye hugs to avoid traffic jams](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
     * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
     * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
-    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Funeral home in Poland apologizes after a corpse falls out of a hearse in traffic](https://apnews.com/article/poland-hearse-corpse-apology-21d29f1ddd883fe0bfc2ae278b89be6d)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
     TOP STORIES
     
+    * [Husband-and-wife food bloggers show how two chefs can navigate the home kitchen and stay happy](https://apnews.com/article/sonja-alex-overhiser-couple-cook-wellness-bfc4dba047fe5f7d105f845764508391)
     * [Throwing a dinner party is a way to connect. Rookies, don't be intimidated](https://apnews.com/article/how-to-host-a-dinner-party-menu-7119397411d5ef5fcdaeffc1662da85a)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
-    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
-    * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
-    * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
+    * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -253,7 +253,7 @@ Menu
     
     * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
     * [Biden administration to provide $325 million for new Michigan semiconductor factory](https://apnews.com/article/hemlock-michigan-saginaw-chips-trump-biden-harris-3294f2da8e1faf71e6bb6b3ef682e092)
-    * [How to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
+    * [FTC's rule banning fake online reviews goes into effect](https://apnews.com/article/ftc-rule-fake-reviews-ban-b7e57e33c1818fa58dd742a921643239)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -263,17 +263,17 @@ Menu
     
     TOP STORIES
     
-    * [What to know about Biltmore Estate reopening after Hurricane Helene](https://apnews.com/article/biltmore-estate-reopening-hurricane-helene-asheville-305ea43fc522eb0656e0f4a374f2e4f6)
-    * [Toasted oats add flavor and crunch to hearty maple scones](https://apnews.com/article/toasted-oat-maple-scones-6e3addd883ed3f094efa974c1be2e729)
-    * [What to stream: Bruce Springsteen doc, Halsey album, Billy Crystal on TV and 'Trap' thrills](https://apnews.com/article/stream-tv-movies-music-october-2024-6f97689cd1556453fe82ec8e6ea79699)
+    * [Here's why every Australian can request, and receive, a free portrait of King Charles](https://apnews.com/article/australia-king-charles-portrait-royal-queen-elizabeth-f34aeecd7d289406d54446e555154539)
+    * [McDonald's agreed to Trump event but says it isn't endorsing a presidential candidate](https://apnews.com/article/mcdonalds-trump-campaign-harris-fries-56a5773528e212df058f85ec0f264578)
+    * [Tourists return to NYC's Vessel sculpture after it reopens with netting to prevent deaths](https://apnews.com/article/nyc-vessel-tickets-beehive-09f277e05d6d924004f5698990c23074)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Hundreds mourn Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-91babd8eb739a110888d69b5d1afef86)
+    * [DeSantis using state money, time and his power to fight abortion rights measure](https://apnews.com/article/abortion-ron-desantis-florida-election-2024-6fa32787580e935a819248504345cb3c)
     * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
-    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
-    * [Judge will hear arguments to block Louisiana's Ten Commandments display requirement in schools](https://apnews.com/article/louisiana-ten-commandments-require-school-law-d35f4ababed4adb99315586884432333)
     
     Newsletters
     
@@ -288,11 +288,11 @@ Menu
     TOP STORIES
     
     * [Líbano evalúa los daños tras ataques israelíes contra una institución financiera de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-0e7987eb35e9fce3dc5bb9c212275a17)
-    * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
-    * [El jefe de defensa de EEUU visita Kiev para hablar del apoyo en la lucha contra Rusia](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * [Continúa el apagón en Cuba por cuarta jornada; clases y actividades no vitales suspendidas](https://apnews.com/article/cuba-apagon-huracan-oscar-599b9585cf38fca2227de32fc24aea99)
+    * [Jefe de defensa de EEUU promete a Ucrania lo que requiera en guerra con Rusia, pero no va más allá](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * [Condenan a 20 años y medio a expresidente peruano Alejandro Toledo por corrupción en caso Odebrecht](https://apnews.com/article/peru-expresidente-toledo-condena-corrupcion-odebrecht-4fbb504bf5a20ac50b967cc7375c39e4)
     * [Policía en Haití combate contra coalición de pandillas que trata de apoderarse de la capital](https://apnews.com/article/haiti-pandillas-viv-ansanm-03ce4255816483bb4f03e4a9fbed1412)
-    * ["Usted no es mi rey", grita una senadora australiana al rey Carlos durante su visita oficial](https://apnews.com/article/australia-rey-carlos-protesta-reino-unido-6ff946bd803c16480a766446de679029)
-    * [Despliegue de misiles de EEUU en Filipinas es curial, afirma general estadounidense](https://apnews.com/article/filipinas-misiles-eeuu-indopacifico-d9f92e70c2a7d09dfadb3510e869792b)
+    * [Autoridades de Nuevo México rescatan a cientos de personas tras inundaciones que dejaron 2 muertos](https://apnews.com/article/nuevo-mexico-inundaciones-83cc00ffafa70e7634eefbb59b552150)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Lebanon assesses damage after Israel strikes Hezbollah-run financial institution](https://apnews.com/article/israel-palestinians-lebanon-news-10-21-2024-3fe94c75a6d6d44c89f350d7e94785df)
-    * [Israel's wars are expensive. Paying the bill could force tough choices](https://apnews.com/article/israel-hamas-hezbollah-war-cost-military-spending-32a53a86d946418022ca636539a83f4f)
-    * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
+    * [Israel says more strikes are coming against a Hezbollah-run financial institution](https://apnews.com/article/israel-palestinians-lebanon-news-10-21-2024-3fe94c75a6d6d44c89f350d7e94785df)
+    * [What is the Hezbollah-linked financial institution Israel is targeting in Lebanon?](https://apnews.com/article/alqard-alhassan-hezbollah-lebanon-israel-airstrikes-67220b894b55500b0be799a0be4245c3)
+    * [Biden is 'deeply concerned' about the release of secret documents on Israel's possible attack plans](https://apnews.com/article/united-states-israel-iran-classified-documents-5cc9b0f30b7119a039d122599bf0c285)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Should the minimum wage be lower for workers who get tipped? Two states are set to decide](https://apnews.com/article/minimum-wage-tips-election-arizona-18e51dd6b9a424ef348d64b2b02a8da4)
+    * [Teen in custody after 5 found dead in shooting at home in Washington state, police say](https://apnews.com/article/fall-city-washington-5-killed-house-shooting-95c41498579ce16783746202e48c269b)
     * [Eyewitness video captures frantic efforts to save lives after deadly collapse of dock walkway](https://apnews.com/article/georgia-coast-dock-walkway-collapse-cc67d03b802cc97594d1fb1a591cb408)
-    * [Texas man whose execution was halted by subpoena set to testify to lawmakers](https://apnews.com/article/robert-roberson-texas-execution-shaken-baby-syndrome-1fc3638211444a6117ef2567fedca7e4)
+    * [Prosecutors: Ex-officer's gunshots put people in danger the night of deadly Breonna Taylor raid](https://apnews.com/article/breonna-taylor-brett-hankison-federal-charges-kentucky-b1d0fbd78cbcb718c6be310c28e014b9)
     
     Newsletters
     
@@ -519,9 +519,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris seeks to win over Republicans uneasy about Trump with visits to Midwestern suburbs](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
-    * [In North Carolina, Trump and Harris navigate a hurricane and a rollercoaster governor's race](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386)
-    * [Central Park Five sues Donald Trump for 'defamatory' remarks made at presidential debate](https://apnews.com/article/central-park-five-exonerated-donald-trump-lawsuit-harris-6d7cfa4e5d117fb653d83555423b35f9)
+    * [Trump makes more debunked claims about FEMA as he surveys storm damage in North Carolina](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386)
+    * [Liz Cheney helps Harris seek moderate votes as they paint Trump as a dangerous choice](https://apnews.com/article/kamala-harris-election-2024-gop-c584f9860260f48ddff90ab2dca0433a)
+    * [DeSantis using state money, time and his power to fight abortion rights measure](https://apnews.com/article/abortion-ron-desantis-florida-election-2024-6fa32787580e935a819248504345cb3c)
     
     Newsletters
     
@@ -549,9 +549,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Browns QB Deshaun Watson ruptured his Achilles tendon and is out for the season, AP source says](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
-    * [Yankees and Dodgers meet in World Series for 12th time in matchup of Broadway and Hollywood](https://apnews.com/article/world-series-yankees-dodgers-a0996d2d1906deafe38b2b15dc26ad0b)
-    * [Duke's Cooper Flagg makes preseason AP All-America team as ACC, Big 12, SEC each place 2 players](https://apnews.com/article/college-basketball-ap-allamerica-team-2b6f3922ae1bee8c6f8c8bb71449e2b1)
+    * [Deshaun Watson's season is ended by a ruptured Achilles tendon. Browns say QB will have surgery](https://apnews.com/article/deshaun-watson-browns-nfl-injury-eadeac2774f60f1a0b3490f979c3684e)
+    * [Tua Tagovailoa could return Sunday for Dolphins after medical experts clear him to play](https://apnews.com/article/dolphins-tagovailoa-4ab2a0d417a511c614bc784febc3d3f2)
+    * [WNBA players union decides to opt out of current collective bargaining agreement](https://apnews.com/article/wnba-collective-bargaining-agreement-3fd6c2eb9924689d3a0ea929d309d605)
     
     Newsletters
     
@@ -578,9 +578,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Steven Spielberg, Spike Lee and Ken Burns among recipients of National Medals of Arts](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
-    * [Book Review: Richard Chizmar tells a creepy occult tale in ‘Memorials'](https://apnews.com/article/memorials-richard-chizmar-book-review-9fde44ca44cb0205c85165032aff22a3)
-    * [Book Reviews: Two new books raise big concerns about innocent men in our prisons](https://apnews.com/article/framed-john-grisham-sing-dan-slepian-review-129367e710fa9b91b684db33e4ef9d69)
+    * [Spielberg, Spike Lee and Queen Latifah among standouts in US arts and humanities honored by Biden](https://apnews.com/article/spielberg-bourdain-arts-humanities-medals-biden-59f514ce2282517bb1a23e125fbf9760)
+    * [Facing 7 more lawsuits, Sean 'Diddy' Combs protests a 'fresh wave of publicity'](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-0c25d256ee9351a64c30a8398c5a46d4)
+    * [Writer Olivia Nuzzi, New York magazine part ways after relationship with political source revealed](https://apnews.com/article/olivia-nuzzi-reporter-new-york-magazine-kennedy-0eebc8e7a039b3170cfd037a4e0c416e)
     
 * [Business](https://apnews.com/business)
     
@@ -594,9 +594,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Most voters think the economy is poor, but split on whether Trump or Harris can fix it: AP-NORC poll](https://apnews.com/article/poll-trump-harris-economy-immigration-abortion-bd496f938f9fe8e7e256326f973e8ac8)
-    * [Immigrants help power America's economy. Will the election value or imperil them?](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
-    * [Brazil environmental disaster victims take case against mining giant BHP to UK court](https://apnews.com/article/brazil-mine-disaster-bhp-lawsuit-britain-0c56e57e70c92b8dc99b04ac34962cf2)
+    * [In Nevada, immigration is a nuanced issue. But the politics of it is painted in black and white](https://apnews.com/article/immigration-election-economy-jobs-swing-states-2bc4d845aa12b75e80db94e0e4c0dd85)
+    * [Disney names Gorman to serve as next chairman; anticipates naming new CEO in early 2026](https://apnews.com/article/disney-gorman-iger-chairman-ceo-a18cba3fd2e21ae374787f24b0d73c96)
+    * [McDonald's agreed to Trump event but says it isn't endorsing a presidential candidate](https://apnews.com/article/mcdonalds-trump-campaign-harris-fries-56a5773528e212df058f85ec0f264578)
     
 * [Science](https://apnews.com/science)
     
@@ -631,23 +631,23 @@ Submit Search
     
     TOP STORIES
     
+    * [New Zealand airport imposes cuddle cap with 3-minute limit on goodbye hugs to avoid traffic jams](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
     * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
     * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
-    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Funeral home in Poland apologizes after a corpse falls out of a hearse in traffic](https://apnews.com/article/poland-hearse-corpse-apology-21d29f1ddd883fe0bfc2ae278b89be6d)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
     TOP STORIES
     
+    * [Husband-and-wife food bloggers show how two chefs can navigate the home kitchen and stay happy](https://apnews.com/article/sonja-alex-overhiser-couple-cook-wellness-bfc4dba047fe5f7d105f845764508391)
     * [Throwing a dinner party is a way to connect. Rookies, don't be intimidated](https://apnews.com/article/how-to-host-a-dinner-party-menu-7119397411d5ef5fcdaeffc1662da85a)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
-    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
-    * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
-    * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
+    * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -745,7 +745,7 @@ Submit Search
     
     * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
     * [Biden administration to provide $325 million for new Michigan semiconductor factory](https://apnews.com/article/hemlock-michigan-saginaw-chips-trump-biden-harris-3294f2da8e1faf71e6bb6b3ef682e092)
-    * [How to stay safe from scams](https://apnews.com/article/scams-personal-finance-protection-cybersecurity-e50cd0ce4fce216fcef52a68d110f314)
+    * [FTC's rule banning fake online reviews goes into effect](https://apnews.com/article/ftc-rule-fake-reviews-ban-b7e57e33c1818fa58dd742a921643239)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -763,17 +763,17 @@ Submit Search
     
     TOP STORIES
     
-    * [What to know about Biltmore Estate reopening after Hurricane Helene](https://apnews.com/article/biltmore-estate-reopening-hurricane-helene-asheville-305ea43fc522eb0656e0f4a374f2e4f6)
-    * [Toasted oats add flavor and crunch to hearty maple scones](https://apnews.com/article/toasted-oat-maple-scones-6e3addd883ed3f094efa974c1be2e729)
-    * [What to stream: Bruce Springsteen doc, Halsey album, Billy Crystal on TV and 'Trap' thrills](https://apnews.com/article/stream-tv-movies-music-october-2024-6f97689cd1556453fe82ec8e6ea79699)
+    * [Here's why every Australian can request, and receive, a free portrait of King Charles](https://apnews.com/article/australia-king-charles-portrait-royal-queen-elizabeth-f34aeecd7d289406d54446e555154539)
+    * [McDonald's agreed to Trump event but says it isn't endorsing a presidential candidate](https://apnews.com/article/mcdonalds-trump-campaign-harris-fries-56a5773528e212df058f85ec0f264578)
+    * [Tourists return to NYC's Vessel sculpture after it reopens with netting to prevent deaths](https://apnews.com/article/nyc-vessel-tickets-beehive-09f277e05d6d924004f5698990c23074)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Hundreds mourn Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-91babd8eb739a110888d69b5d1afef86)
+    * [DeSantis using state money, time and his power to fight abortion rights measure](https://apnews.com/article/abortion-ron-desantis-florida-election-2024-6fa32787580e935a819248504345cb3c)
     * [Self-exiled Turkish spiritual leader Fethullah Gülen dies in the US](https://apnews.com/article/fethullah-gulen-turkey-dead-d808184b89acffcd1c9b24ba87d3d5f5)
-    * [Some Jewish voters in presidential swing states reconsider their longtime devotion to Democrats](https://apnews.com/article/jewish-voters-pennsylvania-2024-elections-trump-harris-09297d8c0843ae2b1698c9d2dfb80fd9)
-    * [Judge will hear arguments to block Louisiana's Ten Commandments display requirement in schools](https://apnews.com/article/louisiana-ten-commandments-require-school-law-d35f4ababed4adb99315586884432333)
     
     Newsletters
     
@@ -788,11 +788,11 @@ Submit Search
     TOP STORIES
     
     * [Líbano evalúa los daños tras ataques israelíes contra una institución financiera de Hezbollah](https://apnews.com/article/israel-palestinos-gaza-hamas-libano-hezbollah-guerra-0e7987eb35e9fce3dc5bb9c212275a17)
-    * [Cubanos angustiados esperan llegada de la electricidad tras apagón y ahora enfrentan ciclón](https://apnews.com/article/cuba-apagon-electricidad-f8203a83a24d371ef19f403a140a3843)
-    * [El jefe de defensa de EEUU visita Kiev para hablar del apoyo en la lucha contra Rusia](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * [Continúa el apagón en Cuba por cuarta jornada; clases y actividades no vitales suspendidas](https://apnews.com/article/cuba-apagon-huracan-oscar-599b9585cf38fca2227de32fc24aea99)
+    * [Jefe de defensa de EEUU promete a Ucrania lo que requiera en guerra con Rusia, pero no va más allá](https://apnews.com/article/rusia-ucrania-guerra-austin-zelenskyy-5ff2ea94993dcf210819294b97ed5006)
+    * [Condenan a 20 años y medio a expresidente peruano Alejandro Toledo por corrupción en caso Odebrecht](https://apnews.com/article/peru-expresidente-toledo-condena-corrupcion-odebrecht-4fbb504bf5a20ac50b967cc7375c39e4)
     * [Policía en Haití combate contra coalición de pandillas que trata de apoderarse de la capital](https://apnews.com/article/haiti-pandillas-viv-ansanm-03ce4255816483bb4f03e4a9fbed1412)
-    * ["Usted no es mi rey", grita una senadora australiana al rey Carlos durante su visita oficial](https://apnews.com/article/australia-rey-carlos-protesta-reino-unido-6ff946bd803c16480a766446de679029)
-    * [Despliegue de misiles de EEUU en Filipinas es curial, afirma general estadounidense](https://apnews.com/article/filipinas-misiles-eeuu-indopacifico-d9f92e70c2a7d09dfadb3510e869792b)
+    * [Autoridades de Nuevo México rescatan a cientos de personas tras inundaciones que dejaron 2 muertos](https://apnews.com/article/nuevo-mexico-inundaciones-83cc00ffafa70e7634eefbb59b552150)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
