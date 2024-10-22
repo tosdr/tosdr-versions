@@ -33,7 +33,7 @@ Fedora Legal
 * [ARM Single Board Computers](https://docs.fedoraproject.org/en-US/arm-sbc/)
 * [Ask Fedora SOPs](https://docs.fedoraproject.org/en-US/ask-fedora-sops/)
 * [Community Architecture (CommArch)](https://docs.fedoraproject.org/en-US/community/)
-* [Community Platform Engineering](https://docs.fedoraproject.org/en-US/cpe/)
+* [Community Linux Engineering](https://docs.fedoraproject.org/en-US/cle/)
 * [Defensive Coding Guide](https://docs.fedoraproject.org/en-US/defensive-coding/)
 * [Emerging Fedora Desktops](https://docs.fedoraproject.org/en-US/emerging/)
 * [Engineering Teams](https://docs.fedoraproject.org/en-US/engineering/)
@@ -368,7 +368,7 @@ All Fedora Documentation content available under [CC BY-SA 4.0](http://creativec
 * [Code of Conduct](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
 * [Sponsors](https://getfedora.org/en/sponsors/)
 
-Last build: 2024-10-22 12:50:11 UTC | Last content update: 2023-09-15
+Last build: 2024-10-22 18:50:08 UTC | Last content update: 2023-09-15
 
 ![Sponsored by Red Hat Logo](../../_/img/logo-sponsored-by-red-hat.png)
 
