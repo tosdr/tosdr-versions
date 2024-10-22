@@ -47,7 +47,7 @@ We’re on a mission to accelerate a net-zero carbon future by transforming the 
 Cookie Policy
 =============
 
-Last Updated: 2022-07-28
+Last Updated: 2024-10-06
 
 In this policy we use the term “cookies” to refer to cookies and other similar technologies covered by the EU Directive on privacy in electronic communications.
 
@@ -88,6 +88,12 @@ For some of the functions within our websites we use third party suppliers, for 
 You can choose to reject or block all or specific types of cookies set by virtue of your visit to our website by clicking on the cookie preferences on our website. You can change your preferences for our website and/or the websites of any third party suppliers by changing your browser settings. Please note that most browsers automatically accept cookies. Therefore, if you do not wish cookies to be used, you may need to actively delete or block the cookies. If you reject the use of cookies, you will still be able to visit our websites but some of the functions may not work correctly.
 
 You may also visit the [All About Cookies](https://www.allaboutcookies.org/) website for details on how to delete or reject cookies and for further information on cookies generally. By using our website without deleting or rejecting some or all cookies, you agree that we can place those cookies that you have not deleted or rejected on your device.
+
+### **Amplitude**
+
+* **Description**: We use Amplitude to understand how our media campaigns work and how you interact with our website in order to improve the user experience
+* **Opt-Out Link/More details regarding specific privacy policy:** [https://amplitude.com/privacy](https://amplitude.com/privacy)
+* **Expiry**: 1 year
 
 ### **Bing**
 
