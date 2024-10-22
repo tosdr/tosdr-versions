@@ -26,7 +26,7 @@ Country of collecting the order:
     
     Country of collecting the order
     
-    AlbaniaAlgeriaAustraliaAustria \[AT\]Belgium \[BE\]Bosnia and Herzegovina \[BIH\]Bulgaria \[BG\]CanadaChina Croatia \[HR\]Cyprus \[CY\]Czech Republic \[CZ\]Denmark \[DK\]EgyptEstonia \[EE\]Finland \[FI\]France \[FR\]Germany \[DE\]Greece \[GR\]Hungary \[HU\]Ierland \[IE\]IndiaIsle of ManItaly \[IT\]Latvia \[LV\]Liechtenstein \[LI\]Lithuania \[LT\]Luxembourg \[LU\]Malta \[MT\]Moldova \[MD\]Netherlands \[NL\]New ZealandNorthern Ireland \[NI\]Norway \[NO\]PeruPoland \[PL\]Portugal \[PT\]QatarRomania \[RO\]San MarinoSaudi ArabiaSerbia \[RS\]Slovakia \[SK\]Slovenia \[SI\]Spain \[ES\]Sweden \[SE\]Switzerland \[CH\]TurkeyUAEUkraine \[UA\]United Kingdom \[GB\]United States
+    AlbaniaAlgeriaAustraliaAustria \[AT\]Belgium \[BE\]Bosnia and Herzegovina \[BIH\]Bulgaria \[BG\]CanadaCanary IslandsChina Croatia \[HR\]Cyprus \[CY\]Czech Republic \[CZ\]Denmark \[DK\]EgyptEstonia \[EE\]Finland \[FI\]France \[FR\]Germany \[DE\]Greece \[GR\]Hungary \[HU\]Ierland \[IE\]IndiaIsle of ManItaly \[IT\]Latvia \[LV\]Liechtenstein \[LI\]Lithuania \[LT\]Luxembourg \[LU\]Malta \[MT\]Moldova \[MD\]Netherlands \[NL\]New ZealandNorthern Ireland \[NI\]Norway \[NO\]PeruPoland \[PL\]Portugal \[PT\]QatarRomania \[RO\]San MarinoSaudi ArabiaSerbia \[RS\]Slovakia \[SK\]Slovenia \[SI\]Spain \[ES\]Sweden \[SE\]Switzerland \[CH\]TurkeyUAEUkraine \[UA\]United Kingdom \[GB\]United States
     
 * Apply changes
 
@@ -294,7 +294,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=7c4a927886a870ac9653b89bfe779e55)
+![pixel](https://client4733.idosell.com/checkup.php?c=43efb2dd7a520aba2d1f8f472f57fef4)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
