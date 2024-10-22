@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Flaskfucker And The Fruit Hat](https://www.somethingawful.com/comedy-goldmine/flaskfucker-fruit-hat/1/)
-* [Anagrammed Movies](https://www.somethingawful.com/photoshop-phriday/anagrammed-movies/1/)
-* [Lesser-Known Sleeping Positions!](https://www.somethingawful.com/photoshop-phriday/sleeping-positions-everybody/1/)
-* [How A Taco Bell Competition Changed My Life](https://www.somethingawful.com/news/taco-bell-life/)
-* [Comforting Masculine Gender Affirmations, by Malt Schlitzmann.](https://www.somethingawful.com/news/chill-bros/)
+* [Billboard Bonanza](https://www.somethingawful.com/photoshop-phriday/billboard-bonanza/1/)
+* [Guide to the 6th Annual TrendMax Caveman Business Convention](https://www.somethingawful.com/guides/guide-6th-annual/1/)
+* [Classic Produce Labels](https://www.somethingawful.com/photoshop-phriday/classic-produce-labels/1/)
+* [Movies that Rock (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/movies-that-rock-2/1/)
+* [Modern Girl](https://www.somethingawful.com/photoshop-phriday/modern-girl/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Low budget Halloween costume ideas](http://forums.somethingawful.com/showthread.php?threadid=4073275 "Low budget Halloween costume ideas")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [ITT cool animal facts](http://forums.somethingawful.com/showthread.php?threadid=4073257 "ITT cool animal facts")
 
 ### Random Articles
 
-* [House of Horrors: Understanding the Bradford Exchange](https://www.somethingawful.com/news/house-horrors-understanding/)
-* [I, Batman's Armor, Am Voting Trump](https://www.somethingawful.com/news/batsuit-trump/)
-* [Something Awful Special Report: BLACK IN AMERICA!!! (Part 83 of 631)](https://www.somethingawful.com/feature-articles/real-black-person/1/)
-* [I DESERVE A CUT OF AVANDIA $3 BILLION FOR MY HEART ATTACKS](https://www.somethingawful.com/levi-johnston/levi-avandia-lawsuit/)
-* [A Link To The Past - Easy Mode](https://www.somethingawful.com/video-game-article/easy-zelda-link/)
+* [Aeon Flux Script Leaked!](https://www.somethingawful.com/news/aeon-flux-script/)
+* [MY STORIES IN ENGLISH VERSION](https://www.somethingawful.com/awful-links/awful-link-2423/)
+* [October 26, 2009](https://www.somethingawful.com/forum-fridays/ff10-26-09/)
+* [Oldwallet.com: May Steals & Deals!](https://www.somethingawful.com/news/old-wallet-may/1/)
+* [Bethesda's Open Letter to Fallout 76 Players](https://www.somethingawful.com/video-game-article/bethesda-fallout-letter/)
 
 [Random!](https://www.somethingawful.com/random/)
 
