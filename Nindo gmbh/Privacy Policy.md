@@ -4,8 +4,6 @@
 * Solutions
 [Blog](https://nindo.de/blog)[Charts](https://nindo.de/charts)[Rabatt Codes](https://nindo.de/coupons)[Pakete](https://nindo.de/pricing)
 
-Suche
-
 [Login](https://nindo.de/sign-in)[Registrieren](https://nindo.de/sign-up)
 
 Datenschutz
