@@ -4,7 +4,7 @@
 
 * [Bild-KI](https://bild.de/hey-ki-helfer)
 * [Infos zu BILDplus](https://angebot.bild.de/50cent/)
-* [Wetter IconWetter](https://wetter.bild.de/)
+* [Wetter IconWetter](https://www.bild.de/wetter)
 * [Video IconVideo & Audio](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
 * [Marktplatz](https://marktplatz.bild.de/)
 * [ePaper IconZeitung](https://www.bild.de/bildplus/aboseite/bild-abonnement/bildplus-abo-seite-81057138.bild.html)
