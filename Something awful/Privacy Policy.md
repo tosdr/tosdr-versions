@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Billboard Bonanza](https://www.somethingawful.com/photoshop-phriday/billboard-bonanza/1/)
-* [Guide to the 6th Annual TrendMax Caveman Business Convention](https://www.somethingawful.com/guides/guide-6th-annual/1/)
-* [Classic Produce Labels](https://www.somethingawful.com/photoshop-phriday/classic-produce-labels/1/)
-* [Movies that Rock (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/movies-that-rock-2/1/)
-* [Modern Girl](https://www.somethingawful.com/photoshop-phriday/modern-girl/1/)
+* [Modernized Art II](https://www.somethingawful.com/photoshop-phriday/modernized-art2/1/)
+* [Product Placements 2](https://www.somethingawful.com/photoshop-phriday/product-placements/1/)
+* [Grindhouse Breakfast](https://www.somethingawful.com/photoshop-phriday/grindhouse-breakfast-cereals/1/)
+* [The War for Lake Michigan](https://www.somethingawful.com/news/lake-michigan-war/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Low budget Halloween costume ideas](http://forums.somethingawful.com/showthread.php?threadid=4073275 "Low budget Halloween costume ideas")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [ITT cool animal facts](http://forums.somethingawful.com/showthread.php?threadid=4073257 "ITT cool animal facts")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Low budget Halloween costume ideas](http://forums.somethingawful.com/showthread.php?threadid=4073275 "Low budget Halloween costume ideas")
 
 ### Random Articles
 
-* [Aeon Flux Script Leaked!](https://www.somethingawful.com/news/aeon-flux-script/)
-* [MY STORIES IN ENGLISH VERSION](https://www.somethingawful.com/awful-links/awful-link-2423/)
-* [October 26, 2009](https://www.somethingawful.com/forum-fridays/ff10-26-09/)
-* [Oldwallet.com: May Steals & Deals!](https://www.somethingawful.com/news/old-wallet-may/1/)
-* [Bethesda's Open Letter to Fallout 76 Players](https://www.somethingawful.com/video-game-article/bethesda-fallout-letter/)
+* [Greasnin Goes to California, Pt. 2](https://www.somethingawful.com/news/greasnin-goes-california-2/)
+* [Dogs: A Beginner's Guide](https://www.somethingawful.com/comedy-goldmine/canine-info-byob/)
+* [Let's Draw Xenomorphs!](https://www.somethingawful.com/comedy-goldmine/draw-xenomorphs-mspaint/1/)
+* [Goddess Dreams Celebrity E-mail](https://www.somethingawful.com/awful-links/awful-link-1645/)
+* [The Lucky Dragon](https://www.somethingawful.com/movie-reviews/lucky-dragon/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
