@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [Russia](https://www.euronews.com/tag/russia)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-    * [Spain](https://www.euronews.com/tag/spain)
+    * [European Union](https://www.euronews.com/tag/european-union)
+    * [France](https://www.euronews.com/tag/france)
     
     * * *
     
     Latest stories
     
-    [![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")
+    [![A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024")
     
-    ![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://static.euronews.com/articles/stories/08/80/33/76/368x207_cmsv2_ed54dfa9-b6cc-5a38-bf95-ed5ea1e236e8-8803376.jpg "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-    
-    Now playing Next
-    
-    [Cinema](https://www.euronews.com/culture/culture-series/cinema)
-    
-    ### [Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-    
-    [![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")
-    
-    ![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](https://static.euronews.com/articles/stories/08/80/33/20/368x207_cmsv2_36c7c6d4-834b-56e1-8e01-34e4239c64c7-8803320.jpg "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
+    ![A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024](https://static.euronews.com/articles/stories/08/80/46/30/368x207_cmsv2_fe334b74-d4bd-59d8-9a6e-6cec60a7da9d-8804630.jpg "A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024")](https://www.euronews.com/2024/10/22/us-election-middle-east-conflict-becomes-key-issue-for-harris-and-trump)
     
     Now playing Next
     
     [USA](https://www.euronews.com/news/america/usa)
     
-    ### [Is Musk's $1-million daily giveaway to Trump voters illegal?](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
+    ### [Could the Middle East crisis influence the outcome of the US election?](https://www.euronews.com/2024/10/22/us-election-middle-east-conflict-becomes-key-issue-for-harris-and-trump)
     
-    [![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")
+    [![First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington")
     
-    ![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](https://static.euronews.com/articles/stories/08/80/28/92/368x207_cmsv2_67f3ed17-5c4b-51c2-919f-927aa2c1b17d-8802892.jpg "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Four killed and dozens injured after Russian strikes on Ukraine](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
-    
-    [![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
-    
-    ![Europe in Motion](https://static.euronews.com/articles/stories/08/79/43/56/368x207_cmsv2_1e478bf3-0b02-55e0-b56c-dbc67ae0fe61-8794356.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+    ![First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington](https://static.euronews.com/articles/stories/08/80/46/16/368x207_cmsv2_e02900b7-c57a-53bf-ad8e-57887bcaef80-8804616.jpg "First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington")](https://www.euronews.com/culture/2024/10/22/arts-and-humanities-medals-spielberg-and-queen-latifah-among-artists-honoured-by-president)
     
     Now playing Next
     
-    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Almost 15% of EU youngsters unable to pay rent, new Eurostat data says](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+    ### [Joe Biden: 'A woman can do anything a man can do, and then some'](https://www.euronews.com/culture/2024/10/22/arts-and-humanities-medals-spielberg-and-queen-latifah-among-artists-honoured-by-president)
+    
+    [![Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ")
+    
+    ![Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ](https://static.euronews.com/articles/stories/08/80/42/26/368x207_cmsv2_29df45f1-6420-58a4-aacc-1f38e626c12e-8804226.jpg "Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ")](https://www.euronews.com/2024/10/22/idf-claims-to-have-found-hezbollah-bunker-full-of-cash-and-gold-under-beirut-hospital)
+    
+    Now playing Next
+    
+    [Lebanon](https://www.euronews.com/news/asia/lebanon)
+    
+    ### [IDF claims to have found Hezbollah bunker under Beirut hospital](https://www.euronews.com/2024/10/22/idf-claims-to-have-found-hezbollah-bunker-full-of-cash-and-gold-under-beirut-hospital)
+    
+    [![Original Iron Maiden singer Paul Di'Anno dies aged 66 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Original Iron Maiden singer Paul Di'Anno dies aged 66 ")
+    
+    ![Original Iron Maiden singer Paul Di'Anno dies aged 66 ](https://static.euronews.com/articles/stories/08/80/44/72/368x207_cmsv2_3eb7d178-e63e-5aa9-a159-6294962f01ad-8804472.jpg "Original Iron Maiden singer Paul Di'Anno dies aged 66 ")](https://www.euronews.com/culture/2024/10/22/original-iron-maiden-singer-paul-dianno-dies-aged-66)
+    
+    Now playing Next
+    
+    [Culture news](https://www.euronews.com/culture/culture-news)
+    
+    ### [Original Iron Maiden singer Paul Di'Anno dies aged 66](https://www.euronews.com/culture/2024/10/22/original-iron-maiden-singer-paul-dianno-dies-aged-66)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -312,6 +312,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -356,61 +358,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [European Union](https://www.euronews.com/tag/european-union)
-* [Russia](https://www.euronews.com/tag/russia)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-* [Spain](https://www.euronews.com/tag/spain)
+* [European Union](https://www.euronews.com/tag/european-union)
+* [France](https://www.euronews.com/tag/france)
 
 * * *
 
 Latest stories
 
-[![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")
+[![A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024")
 
-![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://static.euronews.com/articles/stories/08/80/33/76/368x207_cmsv2_ed54dfa9-b6cc-5a38-bf95-ed5ea1e236e8-8803376.jpg "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-
-Now playing Next
-
-[Cinema](https://www.euronews.com/culture/culture-series/cinema)
-
-### [Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-
-* * *
-
-[![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")
-
-![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](https://static.euronews.com/articles/stories/08/80/33/20/368x207_cmsv2_36c7c6d4-834b-56e1-8e01-34e4239c64c7-8803320.jpg "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
+![A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024](https://static.euronews.com/articles/stories/08/80/46/30/368x207_cmsv2_fe334b74-d4bd-59d8-9a6e-6cec60a7da9d-8804630.jpg "A supporter carries signs after Republican presidential nominee former President Donald Trump spoke at a campaign rally at Williams Arena at Mignes Coliseum, 21 October 2024")](https://www.euronews.com/2024/10/22/us-election-middle-east-conflict-becomes-key-issue-for-harris-and-trump)
 
 Now playing Next
 
 [USA](https://www.euronews.com/news/america/usa)
 
-### [Is Musk's $1-million daily giveaway to Trump voters illegal?](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
+### [Could the Middle East crisis influence the outcome of the US election?](https://www.euronews.com/2024/10/22/us-election-middle-east-conflict-becomes-key-issue-for-harris-and-trump)
 
 * * *
 
-[![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")
+[![First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington")
 
-![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](https://static.euronews.com/articles/stories/08/80/28/92/368x207_cmsv2_67f3ed17-5c4b-51c2-919f-927aa2c1b17d-8802892.jpg "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+![First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington](https://static.euronews.com/articles/stories/08/80/46/16/368x207_cmsv2_e02900b7-c57a-53bf-ad8e-57887bcaef80-8804616.jpg "First lady Jill Biden speaks alongside President Joe Biden during a National Arts and Humanities Reception in the East Room at the White House in Washington")](https://www.euronews.com/culture/2024/10/22/arts-and-humanities-medals-spielberg-and-queen-latifah-among-artists-honoured-by-president)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Four killed and dozens injured after Russian strikes on Ukraine](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+### [Joe Biden: 'A woman can do anything a man can do, and then some'](https://www.euronews.com/culture/2024/10/22/arts-and-humanities-medals-spielberg-and-queen-latifah-among-artists-honoured-by-president)
 
 * * *
 
-[![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+[![Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ")
 
-![Europe in Motion](https://static.euronews.com/articles/stories/08/79/43/56/368x207_cmsv2_1e478bf3-0b02-55e0-b56c-dbc67ae0fe61-8794356.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+![Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ](https://static.euronews.com/articles/stories/08/80/42/26/368x207_cmsv2_29df45f1-6420-58a4-aacc-1f38e626c12e-8804226.jpg "Flames and smoke rise from an Israeli airstrike on Dahiyeh, in the southern suburbs of Beirut. ")](https://www.euronews.com/2024/10/22/idf-claims-to-have-found-hezbollah-bunker-full-of-cash-and-gold-under-beirut-hospital)
 
 Now playing Next
 
-[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+[Lebanon](https://www.euronews.com/news/asia/lebanon)
 
-### [Almost 15% of EU youngsters unable to pay rent, new Eurostat data says](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+### [IDF claims to have found Hezbollah bunker under Beirut hospital](https://www.euronews.com/2024/10/22/idf-claims-to-have-found-hezbollah-bunker-full-of-cash-and-gold-under-beirut-hospital)
+
+* * *
+
+[![Original Iron Maiden singer Paul Di'Anno dies aged 66 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Original Iron Maiden singer Paul Di'Anno dies aged 66 ")
+
+![Original Iron Maiden singer Paul Di'Anno dies aged 66 ](https://static.euronews.com/articles/stories/08/80/44/72/368x207_cmsv2_3eb7d178-e63e-5aa9-a159-6294962f01ad-8804472.jpg "Original Iron Maiden singer Paul Di'Anno dies aged 66 ")](https://www.euronews.com/culture/2024/10/22/original-iron-maiden-singer-paul-dianno-dies-aged-66)
+
+Now playing Next
+
+[Culture news](https://www.euronews.com/culture/culture-news)
+
+### [Original Iron Maiden singer Paul Di'Anno dies aged 66](https://www.euronews.com/culture/2024/10/22/original-iron-maiden-singer-paul-dianno-dies-aged-66)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -660,6 +662,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
