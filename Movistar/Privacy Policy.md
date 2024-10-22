@@ -24,11 +24,9 @@ Hola, 
 
 Mi cuenta 
 
-[miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Alarmas](https://www.movistar.es/alarmas-para-casa/ "Enlace a Alarmas") [Ofertas](https://www.movistar.es/ofertas-movistar/ "Enlace a Ofertas") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
+[Ofertas Blue Weeks](https://www.movistar.es/black-friday "Enlace a Ofertas Blue Weeks") [miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
 
 [Autónomos](https://www.movistar.es/autonomos "Enlace a Autónomos")
-
-[Empresas](https://www.telefonicaempresas.es/ "Enlace a Autónomos")
 
 Ofertas para
 
@@ -38,6 +36,10 @@ Ofertas para
 * Centro de privacidad
 
  
+
+[](https://www.movistar.es/black-friday "Ofertas Blue Weeks")
+
+Ofertas Blue Weeks
 
 [](https://www.movistar.es/fibra-y-movil "Fibra, móvil y TV")
 
@@ -64,10 +66,6 @@ Móviles y dispositivos
 [](https://www.movistar.es/alarmas-para-casa/ "Alarmas")
 
 Alarmas
-
-[](https://www.movistar.es/ofertas-movistar/ "Ofertas")
-
-Ofertas
 
 [](https://www.movistar.es/compramos-tu-movil/ "Compramos tu móvil")
 
