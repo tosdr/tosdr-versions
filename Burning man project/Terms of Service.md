@@ -94,18 +94,14 @@ YOU ACKNOWLEDGE THAT YOU HAVE READ AND FULLY UNDERSTAND THESE TERMS AND CONDITIO
 
 [Year-Round Event Terms & Conditions](https://burningman.org/year-round-terms-and-conditions/ "Year-Round Event Terms & Conditions")
 
-* [Curiouser?](https://burningman.org/curiouser/ "Curiouser?")
-* [V.E.S.T. (Virtual Event Support Team)](https://burningman.org/v-e-s-t/ "V.E.S.T. (Virtual Event Support Team)")
 * [Programs](https://burningman.org/programs/ "Programs")
 * [News & Storytelling](https://burningman.org/news/ "News & Storytelling")
 * [Events](https://burningman.org/all-events/ "Events")
 * [Connect & Collaborate](https://burningman.org/connect/ "Connect & Collaborate")
 * [What Is Burning Man?](https://burningman.org/about/ "What Is Burning Man?")
-* [Lost and Found](https://burningman.org/lost-and-found/ "Lost and Found")
 * [Feedback Loop](https://burningman.org/feedback-loop/ "Feedback Loop")
 * [Burning Man Countdown](https://burningman.org/countdown/ "Burning Man Countdown")
 * [Burning Man Project Annual Expenses](https://burningman.org/expenses/ "Burning Man Project Annual Expenses")
-* [Theme Camp Symposium](https://burningman.org/themecamp-symposium/ "Theme Camp Symposium")
 * [Burning Man Privacy Policy](https://burningman.org/privacy-policy/ "Burning Man Privacy Policy")
 
 * [What Is Burning Man?](https://burningman.org/about/)
