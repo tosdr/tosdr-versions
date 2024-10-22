@@ -1,5 +1,9 @@
  [Aller au contenu principal](#main-content)
 
+![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/i%20info_1.png)
+
+Alerte enlèvement. Consultez le site : [www.alerte-enlevement.gouv.fr.](http://www.alerte-enlevement.gouv.fr/) N'intervenez pas vous-même, appelez le 197.
+
 ![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/T%C3%A9l%C3%A9chargement%20app.png)
 
 Téléchargez l'application OUIGO ! 
