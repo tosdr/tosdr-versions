@@ -32,8 +32,8 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | VIC | 272 & 8 /199 |
-    | NSW | 136 |
+    | VIC | 272 & 246 |
+    | NSW | 136 & 6 /185 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250104)
 * [Sheffield Shield
@@ -41,15 +41,15 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | QLD | 308 |
-    | SA  | 314 & 2 /81 |
+    | SA  | 314 & 9 /352 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250105)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | WA  | 4 /219 |
-    | TAS | 277 |
+    | WA  | 332 |
+    | TAS | 277 & 3 /68 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250106)
 * NRL
@@ -120,14 +120,14 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=745)
 * [Formula 1
     
-    Complete
+    26/10 4:30 AEST
     
     |     |
     | --- |
-    | United States Grand Prix |
+    | Mexico City Grand Prix |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=593)
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=594)
 * [MotoGP
     
     25/10 14:45 AEST
@@ -142,34 +142,34 @@ FOX SCORES
     
 * [NFL
     
-    22/10 11:15 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | TB  | –   |
-    | BAL | –   |
+    | TB  | 31  |
+    | BAL | 41  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250730)
 * [NFL
     
-    22/10 12:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ARI | –   |
-    | LAC | –   |
+    | ARI | 17  |
+    | LAC | 15  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250701)
 * Football
     
 * [Premier League
     
-    22/10 6:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NOT | –   |
-    | CRY | –   |
+    | NOT | 1   |
+    | CRY | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250805)
 * [UCL
@@ -192,6 +192,76 @@ FOX SCORES
     | CB  | –   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250301)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GIR | –   |
+    | SB  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250317)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SG  | –   |
+    | LIS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250315)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RMD | –   |
+    | BDM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250313)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ARS | –   |
+    | DON | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250311)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | JUV | –   |
+    | STU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250309)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PSG | –   |
+    | PSV | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250307)
+* [UCL
+    
+    23/10 6:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AVL | –   |
+    | BOL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250305)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
