@@ -396,12 +396,17 @@ Wir holen pro Social Embed Anbieter eine gesonderte Einwilligung ein, die Sie pe
 
 **20\. Unsere Nutzung der Utiq-Technologie**
 
-Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement)) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
+Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators)) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
 
 Wir verwenden die Utiq-Technologie auf unserer Webseite. Wenn Sie der Aktivierung dieser Technologie zustimmen, werden wir sie verwenden, um Sie als denselben Webseiten-Besucher zu erkennen und Erkenntnisse über Ihr Nutzungsverhalten auf unserer Webseite zu sammeln. So können wir Ihnen personalisierte Inhalte und Werbung anbieten oder Analysen durchführen, je nachdem, welche zusätzlichen Einwilligungen Sie uns für diese Zwecke erteilt haben. Wenn Sie die Utiq-Technologie auf einer unserer anderen Webseiten aktivieren (siehe Liste [hier](https://www.spielaffe.de/utiq-verwalten/#manage-utiq-website-list)), können wir die Utiq-Technologie nutzen, um Sie zu erkennen und Ihr Surfverhalten auf diesen Webseiten zu erfassen.
 
 Die Utiq-Technologie ist standardmäßig ausgeschaltet und erfordert Ihre Einwilligung, um aktiviert und verwendet zu werden. Die Technologie ist nur verfügbar, wenn Sie Kunde eines der teilnehmenden Telekommunikationsnetzbetreiber sind.  
-Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als gemeinsamer Datenverantwortlicher. Als Teil dieser gemeinsamen Datenverantwortlichkeit holen wir Ihre Einwilligung zur Nutzung der Utiq-Technologie ein; dies gilt auch für die von Utiq und Ihrem Telekommunikationsnetzbetreiber durchgeführten Verarbeitungsprozesse; stellen wir Ihnen einen speziellen Link am unteren Rand unserer Webseite bereit, über den Sie Informationen über die Technologie und deren Verwaltung erhalten; stellt Utiq Ihnen ein Datenschutzportal ([consenthub](https://consenthub.utiq.com/)) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Einwilligungen bei Utiq zu ermöglichen; zu jeder Zeit, an einem Ort.
+Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als gemeinsamer Datenverantwortlicher. Als Teil dieser gemeinsamen Datenverantwortlichkeit
+
+* holen wir Ihre Einwilligung zur Nutzung der Utiq-Technologie ein; dies gilt auch für die von Utiq und Ihrem Telekommunikationsnetzbetreiber durchgeführten Verarbeitungsprozesse;
+* stellen wir Ihnen einen speziellen Link am unteren Rand unserer Webseite bereit, über den Sie Informationen über die Technologie und deren Verwaltung erhalten;
+* stellt Utiq Ihnen ein Datenschutzportal ([consenthub](https://consenthub.utiq.com/)) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Einwilligungen bei Utiq zu ermöglichen; zu jeder Zeit, an einem Ort.
+* Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
 
 Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
 
@@ -425,7 +430,7 @@ Wenn Sie Fragen zur Verarbeitung Ihrer personenbezogenen Daten oder zur Wahrnehm
 
 **22\. Wie oft aktualisieren wir diese Datenschutzhinweise?**  
 Wir überarbeiten diese Datenschutzhinweise bei Änderungen an unserer Website spielaffe.de oder bei sonstigen Anlässen, die dies erforderlich machen. Die jeweils aktuelle Fassung finden Sie stets auf dieser Seite.  
-Die Datenschutzhinweise wurden zuletzt am 15.10.2024 aktualisiert.
+Die Datenschutzhinweise wurden zuletzt am 22.10.2024 aktualisiert.
 
 [![Spielaffe](#)Spielaffe · Über 3.000 Online-Spiele kostenlos spielen](https://www.spielaffe.de/)[![Medienratgeber](#)Der Medienratgeber für Familien](https://www.schau-hin.info/)[![Co2 neutrale Website](#)](https://www.spielaffe.de/Statisch/co2_neutrales-spielaffe "Co2 neutrale Website")
 
