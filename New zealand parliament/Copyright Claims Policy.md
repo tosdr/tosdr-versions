@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_68420_2024/68420-2024-hon-ginny-andersen-to-the-minister-for-social/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCJUST_ADV_116383_JUST229/new-zealand-police-additional-advice-appendix-1-comparative/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_68420_2024/68420-2024-hon-ginny-andersen-to-the-minister-for-social/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCJUST_ADV_116383_JUST229/new-zealand-police-additional-advice-appendix-1-comparative/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
