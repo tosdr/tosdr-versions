@@ -44,7 +44,7 @@
   
   
 
-1. [GoodGaming Community](https://gg-community.de/) 
+1. [Good Gaming Community](https://gg-community.de/) 
 2. [Registrierung](https://gg-community.de/register/) 
 
 Rechtliche Informationen
