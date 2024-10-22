@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Shaun Gartshore
+Hugo van Sittert
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=120556291)  
-Meyer Towing & Recovery
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=33295402)  
+NGB HOLDINGS PTY LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=175549344)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=192482737)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=112309230)  
-webb it services
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=194523692)  
+SR Travel Services
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=157603422)  
-CGHK Enterprises (PTY) LTD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=209184775)  
+Multi CNC Solutions CC
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=73924581)  
-#DiGi3 Marketing & Design
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=52136241)  
+McKaynine Mobility
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=151151471)  
-Cpower Projects t/a Pro Pure Water
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=102722860)  
+Tracknetics
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=52350424)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=136997832)  
+Electro-Heat
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=207307326)  
-Frequency Fanatics (Pty) Ltd
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=78272603)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=75949331)  
-MR Compressors& Industrial Supplies
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=118961574)  
+Skinz Printing & Branding
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=151517862)  
-Westside Car Audio CC
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=54236752)  
+Mtunzini Group
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=7235643)  
-Wiselink Broadband Pty Ltd
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=214185128)  
+African Roots
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=36561560)  
-Norton Medical & Consult - Namibia
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=206205027)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=155991986)  
-Van Der Merwe Olieverspreiders
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=194146433)  
+Nilbet T/A Waterman
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=71662155)  
-Nogana Events and Decor
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=168355082)  
+TurboFibre
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=62da9fba3f04b550465e0e4b1c189f872367491a4e48edd6b833da827eb3e740&c=166259211)  
-Druce Digital
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=3cfcbd977195e3e4d6be051c1e1a4a77ffcbe49de8a8cf7faaac38d9d9d60c56&c=14890050)  
+APTV Telecoms CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
