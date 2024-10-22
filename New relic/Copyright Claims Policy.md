@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-New Relic Now Dream of innovating more? Start living the dream in October.
+New Relic Now Dream of innovating more? Make it real on 10/31.
 
 [RSVP Now](https://newrelic.com/event/new-relic-now)
 
@@ -109,11 +109,11 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
-    [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
+    [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
-    New Relic Now
+    2024 Observability Forecast
     
-    Meet Intelligent Observability. Say goodbye to digital interruptions.](https://newrelic.com/event/new-relic-now)
+    Power your decisions with invaluable observability insights! Read the report.](https://newrelic.com/resources/report/observability-forecast/2024)
     
     [![Kubernetes icon](/sites/default/files/2024-04/kubernates.svg)
     
@@ -121,11 +121,11 @@ Submit
     
     Discover how Achievers boosted Kubernetes performance 4x for improved scalability and throughput with New Relic.](https://newrelic.com/blog/how-to-relic/load-testing-kubernetes-achievers)
     
-    [![Retail icon](/sites/default/files/2024-04/retail.svg)
+    [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
     
-    Retail Observability
+    New Relic Now
     
-    Enhance your retail strategy with actionable insights from New Relic's State of Observability for Retail report.](https://newrelic.com/resources/report/state-of-observability-retail)
+    Grow your business with more perfect digital experiences. RSVP](https://newrelic.com/event/new-relic-now)
     
     1
     
@@ -197,7 +197,7 @@ Submit
     
     New Relic Now
     
-    Get your ticket to beating IT tickets. RSVP to see Intelligent Observability.](https://newrelic.com/event/new-relic-now)
+    Turn peak traffic into peak opportunity. RSVP to see Intelligent Observability.](https://newrelic.com/event/new-relic-now)
     
     [![Security icon](/sites/default/files/2024-04/security.svg)
     
@@ -248,17 +248,17 @@ Submit
         
         Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     
-    [![Gartner resource icon](/sites/default/files/2024-08/Gartner%20Leader.svg)
+    [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
-    2024 Magic Quadrant™️
+    2024 Observability Forecast
     
-    Download your copy of the Gartner®️ Magic Quadrant™️ for Observability Platforms.](https://newrelic.com/resources/gartner-magic-quadrant-observability)
+    Stay ahead with essential observability insights! Read the report now.](https://newrelic.com/resources/report/observability-forecast/2024)
     
     [![New Relic Now SVG](/sites/default/files/2024-09/LOGO-white_0.svg)
     
     New Relic Now
     
-    Be there when AI meets observability. RSVP.](https://newrelic.com/blog/best-practices/maximizing-the-value-of-observability)
+    The future of observability is coming. Get a sneak peek on 10/31. RSVP now.](https://newrelic.com/event/new-relic-now)
     
     [![Infrastructure](/sites/default/files/2024-04/2-infrastructure.svg)
     
