@@ -117,7 +117,7 @@ Full Menu Menu
         * [Graduation Requirements](https://www.fcps.edu/academics/graduation-requirements-0)
         * [Library](https://www.fcps.edu/academics/library)
         * [Student Tests & Assessments](https://www.fcps.edu/academics/student-tests-assessments)
-        * [Summer Learning](https://www.fcps.edu/academics/summer-learning-0)
+        * [Summer Learning](https://www.fcps.edu/academics/summer-learning)
     * [Curriculum](https://www.fcps.edu/academics/curriculum)
         * [Early Childhood Education](https://www.fcps.edu/academics/curriculum/early-childhood-education-0)
         * [Elementary School (K-6)](https://www.fcps.edu/academics/elementary)
