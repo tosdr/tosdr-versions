@@ -165,11 +165,11 @@ If you access third-party services, such as Facebook, Google, or Twitter, throug
 
 If you choose to engage in public activities on the Sites, you should be aware that any information you share there can be read, collected, or used by other users of these areas.  You should use caution in disclosing personal information while participating in these areas. We are not responsible for the information you choose to submit in these public areas.
 
-**IV. SECURITY**
+**V. SECURITY**
 
 We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.  You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.  Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
 
-**V. YOUR CHOICES**
+**VI. YOUR CHOICES**
 
 You may opt out of our email newsletters by clicking the “unsubscribe” at the bottom of each newsletter and following the subsequent instructions.  You may also opt out of all communications from Pew Research Center by contacting us using the contact information below.
 
@@ -185,7 +185,7 @@ If you wish to lodge a complaint on how we have handled your request, you may co
 
 California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
 
-**VI. THIRD-PARTY ADVERTISING, LINKS, AND CONTENT**
+**VII. THIRD-PARTY ADVERTISING, LINKS, AND CONTENT**
 
 Some of the Sites may contain links to content maintained by third parties that we do not control.  We allow third parties, including business partners, advertising networks, and other advertising service providers, to collect information about your online activities through cookies, pixels, local storage, and other technologies. These third parties may use this information to display advertisements on our Sites and elsewhere online tailored to your interests, preferences, and characteristics.  We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
 
@@ -195,32 +195,31 @@ To opt out of interest-based advertising across browsers and devices from compan
 
 _Do-Not-Track Signals and Similar Mechanisms_. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-**VII. COOKIES**
+**VIII. COOKIES**
 
 Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  For more information, please see our [Cookies Policy](https://www.pewresearch.org/about/cookie-policy/).
 
 We use cookies, Local Shared Objects, and similar technologies for technical reasons to enable the efficient operation of the Sites, to enhance the ease of use of the Sites, and to gather statistics on how you use our Sites.  By using the Sites, you consent to our use of cookies and similar technologies.  You may opt out of cookies and similar technologies in accordance with the “Choices” section above, but please understand that certain functionalities on the Site may no longer function for you if you choose to do so.
 
-**VIII. INTERNATIONAL USERS**
+**IX. INTERNATIONAL USERS**
 
 We maintain information in the United States of America and in accordance with the laws of the United States, which may not provide the same level of protection as the laws in your jurisdiction.  By using the Sites and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Privacy Policy.
 
-**XI. CHILDREN**
+**X. CHILDREN**
 
 We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law.  If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
 
-**X. CHANGES TO THE PRIVACY POLICY**
+**XI. CHANGES TO THE PRIVACY POLICY**
 
 We may update this Policy from time to time. When we update the Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.  We recommend that you review the Privacy Policy each time you visit the Sites to stay informed of our privacy practices.
 
-**XI. CONTACT INFORMATION**
+**XII. CONTACT INFORMATION**
 
 If you have any questions about this Policy or our practices, please contact us at:
 
-Pew Research Center  
-1615 L St. NW  
-Suite 800  
-Washington, D.C. 20036
+901 E St. NW, Suite 300  
+Washington, DC 20004  
+USA
 
 Telephone: (+1) 202-419-4300  
 Email: info@pewresearch.org
