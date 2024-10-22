@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was very impressed with FoxyProxy. We subscribed last December to FilmOn and as soon as that expires will probably be subscribing to FoxyProxy standard or plus. I have downloaded the basic programme but don't really know how to use it - my fault! I am wary of finding free isps after reading pretty bad stories.
+Great service! Been watching Match of the Day and X Factor whilst in Japan! Much faster all round than the slow free proxies available online.
 
-Jo Finn
+James Bevan
