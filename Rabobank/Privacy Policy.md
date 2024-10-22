@@ -1,8 +1,8 @@
 Go directly to:
 
-* [Go directly to: Main navigation](https://www.rabobank.com/privacy?sssieddparamNamexsx=dummy&stop=sssieddstopxsx&phone_number=sssieddphone_numberxsx&upload=sssiedduploadxsx&language=sssieddlanguagexsx&imwidth=sssieddimwidthxsx&value=sssieddvaluexsx&id-input-gzijsl=sssieddid-input-gzijslxsx&prefix=sssieddprefixxsx&err=sssiedderrxsx&saved=sssieddsavedxsx&ref=sssieddrefxsx&action=sssieddactionxsx&folder=sssieddfolderxsx&key=sssieddkeyxsx&main_navigation=sssieddmain_navigationxsx#main_navigation)
-* [Go directly to: Content](https://www.rabobank.com/privacy?sssieddparamNamexsx=dummy&stop=sssieddstopxsx&phone_number=sssieddphone_numberxsx&upload=sssiedduploadxsx&language=sssieddlanguagexsx&imwidth=sssieddimwidthxsx&value=sssieddvaluexsx&id-input-gzijsl=sssieddid-input-gzijslxsx&prefix=sssieddprefixxsx&err=sssiedderrxsx&saved=sssieddsavedxsx&ref=sssieddrefxsx&action=sssieddactionxsx&folder=sssieddfolderxsx&key=sssieddkeyxsx&main_navigation=sssieddmain_navigationxsx#content)
-* [Go directly to: Footer](https://www.rabobank.com/privacy?sssieddparamNamexsx=dummy&stop=sssieddstopxsx&phone_number=sssieddphone_numberxsx&upload=sssiedduploadxsx&language=sssieddlanguagexsx&imwidth=sssieddimwidthxsx&value=sssieddvaluexsx&id-input-gzijsl=sssieddid-input-gzijslxsx&prefix=sssieddprefixxsx&err=sssiedderrxsx&saved=sssieddsavedxsx&ref=sssieddrefxsx&action=sssieddactionxsx&folder=sssieddfolderxsx&key=sssieddkeyxsx&main_navigation=sssieddmain_navigationxsx#footer)
+* [Go directly to: Main navigation](https://www.rabobank.com/privacy#main_navigation)
+* [Go directly to: Content](https://www.rabobank.com/privacy#content)
+* [Go directly to: Footer](https://www.rabobank.com/privacy#footer)
 
 [![Rabo logo](https://media.rabobank.com/m/5c0d2c496819b02f/original/Rabobank-text-logo.png)](https://www.rabobank.com/ "to homepage")
 
