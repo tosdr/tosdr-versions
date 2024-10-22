@@ -40,14 +40,16 @@ Terms of Service
     3. manipulate others, including Guests, Users, the Staff via the Service;
     4. upload, post, email, transmit, link to, or otherwise make available any copyrighted Content without the creator/owner's consent
     5. upload, post, email, transmit, link to, or otherwise make available any unsolicited or unauthorized advertising;
-    6. upload, post, email, transmit, link to, or otherwise make available any pornography, nudity, or other "adult" content; without purchase of adfree plan (which must be maintained at all times);
-    7. upload, post, email, transmit, link to, or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-    8. upload, post, email, transmit, link to, or otherwise make available any illegal copies of software ("Warez");
-    9. gambling or casino related content without purchase of adfree plan (which must be maintained at all times);
-    10. "stalk" or otherwise harass another; or collect or store personal data about other users;
-    11. insult other Users or Guests any way, shape, or form (to "Flame");
-    12. cause (an)other User(s) or Guest(s) to react with a Flame (to "Troll");
-    13. discriminate against someone because of their race, religion, or culture.
+    6. upload, post, email, deep fakes in any format/type
+    7. upload, post, email, transmit, link to, or otherwise make available any pornography, nudity, or other "adult" content; without purchase of adfree plan (which must be maintained at all times);
+    8. upload, post, email, transmit, link to, or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+    9. upload, post, email, transmit, link to, or otherwise make available any illegal copies of software ("Warez");
+    10. gambling or casino related content without purchase of adfree plan (which must be maintained at all times);
+    11. "stalk" or otherwise harass another; or collect or store personal data about other users;
+    12. insult other Users or Guests any way, shape, or form (to "Flame");
+    13. cause (an)other User(s) or Guest(s) to react with a Flame (to "Troll");
+    14. discriminate against someone because of their race, religion, or culture.
+    15. Deemed generally offensive or in poor taste, as defined by Create A Forum
 5. ### CONTENT RESPONSIBILITY
     
     The User understands that all Content, whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that the User is entirely responsible for all Content transmitted via the Service. In **NO WAY** is the Staff or the Service responsible for the Content transmitted.
@@ -76,7 +78,7 @@ Terms of Service
     
     The Create A Forum reserves the right to modify these terms in any way at any time, without notification to any Users or unregistered Users (the "Guests").
     
-    These Terms were last modified on November 17, 2022. However, any revisions to these terms affect all current boards, and all boards must comply to any revisions.
+    These Terms were last modified on October 22, 2024. However, any revisions to these terms affect all current boards, and all boards must comply to any revisions.
     
 11. ### VIOLATIONS
     
