@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Denies Motion to Disqualify Administrative Law Judge in H&R Block Case](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-denies-motion-disqualify-administrative-law-judge-hr-block-case)
+    ### [FTC Issues Annual Report to Congress on Agency’s Actions to Protect Older Adults](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults)
     
     October 18, 2024
     
@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct21
+    Oct23
     
-    ### [Prehearing Scheduling Conference before Judge D. Michael Chappell In the Matter of (Insulin) Caremark Rx, Zinc Health Services, et. al, Docket 9437](https://www.ftc.gov/news-events/events/2024/10/prehearing-scheduling-conference-judge-d-michael-chappell-matter-insulin-caremark-rx-zinc-health)
+    ### [How to Help Your Library Patrons Avoid Holiday Scams](https://www.ftc.gov/news-events/events/2024/10/how-help-your-library-patrons-avoid-holiday-scams)
     
-    Monday, October 21, 2024 | 4:00PM - 4:30PM
+    Wednesday, October 23, 2024 | 12:00PM - 1:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
