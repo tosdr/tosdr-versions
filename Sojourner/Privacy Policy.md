@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-fdc43db00322e495ff4055107ed5f138
+efac03cb0f01a5ca5ae59e1f65b07254
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![18 mm by 9 mm faceted oval coral beads](https://www.sojourner.biz/images/cache/coral/CRL005.200.jpg)](https://www.sojourner.biz/beads/coral/18-mm-by-9-mm-faceted-oval-coral-beads.html "18 mm by 9 mm faceted oval coral beads")
+[![10 mm round larimar beads](https://www.sojourner.biz/images/cache/stone/STN043.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
 
-#### [18 mm by 9 mm faceted oval coral beads](https://www.sojourner.biz/beads/coral/18-mm-by-9-mm-faceted-oval-coral-beads.html "18 mm by 9 mm faceted oval coral beads")
+#### [10 mm round larimar beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
 
-$50.00
+$41.00
 
 ### Best Sellers
 
