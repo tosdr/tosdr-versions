@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Billboard Latin Music Awards ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/25-facts-about-billboard-latin-music-awards/)
+[![30 Facts About Hemusite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22108%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hemusite/)
 
-Entertainment
+Earth Sciences
 
-21 Oct 2024
+22 Oct 2024
 
-[25 Facts About Billboard Latin Music Awards](https://facts.net/lifestyle/entertainment/25-facts-about-billboard-latin-music-awards/)
+[30 Facts About Hemusite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hemusite/)
 
-[![25 Facts About Caspian Expedition Of The Rus ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/25-facts-about-caspian-expedition-of-the-rus/)
+[![28 Facts About Cinema Events ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2290%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/28-facts-about-cinema-events/)
 
-Historical Events
+Events
 
-21 Oct 2024
+22 Oct 2024
 
-[25 Facts About Caspian Expedition Of The Rus](https://facts.net/history/historical-events/25-facts-about-caspian-expedition-of-the-rus/)
+[28 Facts About Cinema Events](https://facts.net/events/28-facts-about-cinema-events/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
