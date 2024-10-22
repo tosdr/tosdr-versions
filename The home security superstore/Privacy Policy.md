@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off SECURITY CAMERAS I Use Code: SC15](https://www.thehomesecuritysuperstore.com/collections/security-cameras?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SECURITY+CAMERAS)
+[Buy 1 Get 1 Free Disguised Knives I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-disguised-knifes?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Disguised+Knives)
 
-Today’s offer: :: | 15% Off SECURITY CAMERAS I Use Code: SC15
+Today’s offer: :: | Buy 1 Get 1 Free Disguised Knives I Click Here!
 
 Today’s offer: : :
 
- 15% Off SECURITY CAMERAS I Use Code: SC15
+ Buy 1 Get 1 Free Disguised Knives I Click Here!
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
