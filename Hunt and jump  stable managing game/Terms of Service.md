@@ -143,6 +143,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/22/2024 2:16 AM EST
+
+### The university is now accepting golden tokens in exchange for synthesized gametes from deceased horses.
+
 10/21/2024 5:28 AM EST
 
 ### Cloning of deceased horses can now be done using golden tokens
@@ -214,32 +218,6 @@ Monster GMT lab sale now on
 ---------------------------
 
 50 genes on special offer in the lab, including 5 phantom genes.👻
-
-10/1/2024 9:30 AM EST
-
-[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**Dense Pheomelanin**  
-![](https://www.huntandjump.com/images/grsExamples/dp.png)  
-**Gulastra Plume**  
-![](https://www.huntandjump.com/images/grsExamples/gp.png)  
-**Snowflake**  
-![](https://www.huntandjump.com/images/grsExamples/snow.png)  
-**Phantom Bats**  
-![](https://www.huntandjump.com/images/grsExamples/phbts.png)  
-**Phantom Ghosts**  
-![](https://www.huntandjump.com/images/grsExamples/phgho.png)  
-**Phantom Spiders**  
-![](https://www.huntandjump.com/images/grsExamples/phspi.png)  
-**Phantom Skulls**  
-![](https://www.huntandjump.com/images/grsExamples/phsku.png)  
-**Phantom Pumpkins**  
-![](https://www.huntandjump.com/images/grsExamples/phpmk.png)  
-**Sunshine**  
-![](https://www.huntandjump.com/images/grsExamples/sun.png)  
-**HMGA2 Height Regulator**  
-![](https://www.huntandjump.com/images/grsExamples/HMGA2.png)  
-**Phantom Will-O-Wisp**  
-![](https://www.huntandjump.com/images/grsExamples/phnwisp.png)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
