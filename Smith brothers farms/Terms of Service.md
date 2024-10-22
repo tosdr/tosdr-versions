@@ -186,13 +186,13 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (85)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (84)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (62)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
         
-    * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -207,9 +207,9 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (13)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (12)](https://www.smithbrothersfarms.com/non-dairy-3)
             
-        * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
+        * [Half & Half, Creamers (16)](https://www.smithbrothersfarms.com/flavored-creamers)
             
         * [Buttermilk & Sour Cream (2)](https://www.smithbrothersfarms.com/buttermilk)
             
@@ -250,14 +250,14 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (85)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (84)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
         * [Fruit (24)](https://www.smithbrothersfarms.com/fruit)
             
-        * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
+        * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
         * [Salad Kits (25)](https://www.smithbrothersfarms.com/salads)
             
