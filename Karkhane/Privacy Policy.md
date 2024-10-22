@@ -31,6 +31,12 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/09/1-95x65.jpg)](https://karkhane.org/5859/abc_of_capitalism/)[الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/)
+* [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
@@ -43,12 +49,6 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/tabas_1-2-95x65.jpg)](https://karkhane.org/5912/death-of-tabas-miners/)[کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/)
-* [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](https://karkhane.org/app/uploads/2020/07/tajamo-e-moalemān-majles-ordibehešt-1399-95x65.jpg)](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)[اعتراضات معلمان غیررسمی در سال ۱۳۹۹: دهها هزار معلم در بلاتکلیفی](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)
@@ -71,12 +71,12 @@ Privacy Policy
 
 ### تازه‌ها
 
+* [در مورد “اعتصابات” کارمندان رسمی شرکت ملی نفت ایران](https://karkhane.org/5952/nioc_white_collars/) اسفند 25، 1400
 * [گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/) اسفند 25، 1400
 * [کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/) اسفند 25، 1400
 * [تجربه‌ی فرش‌بافی در خانه](https://karkhane.org/5899/farshbafi_dar_xane/) اسفند 25، 1400
 * [الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/) اسفند 25، 1400
 * [تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/) اسفند 25، 1400
-* [تجربه‌های زیسته در جامعه‌ی سرمایه‌داری](https://karkhane.org/5825/living_encounters_in_capitalist_society/) اسفند 25، 1400
 
 ### برچسب‌ها
 
@@ -86,14 +86,14 @@ Privacy Policy
 
 * [آموزش](https://karkhane.org/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4/) 3
 * [اعتصاب کارگری](https://karkhane.org/category/%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c/) 5
-* [بخش ویژه](https://karkhane.org/category/%d8%a8%d8%ae%d8%b4-%d9%88%db%8c%da%98%d9%87/) 14
+* [بخش ویژه](https://karkhane.org/category/%d8%a8%d8%ae%d8%b4-%d9%88%db%8c%da%98%d9%87/) 15
 * [تجربه کارگری](https://karkhane.org/category/%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c/) 13
 * [سندیکا](https://karkhane.org/category/%d8%b3%d9%86%d8%af%db%8c%da%a9%d8%a7/) 1
 * [شوراى کارگرى](https://karkhane.org/category/%d8%b4%d9%88%d8%b1%d8%a7%d9%89-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d9%89/) 1
 * [قوانین کارگری](https://karkhane.org/category/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c/) 1
 * [گزارش](https://karkhane.org/category/%da%af%d8%b2%d8%a7%d8%b1%d8%b4/) 78
 * [گوناگون](https://karkhane.org/category/%da%af%d9%88%d9%86%d8%a7%da%af%d9%88%d9%86/) 2
-* [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 137
+* [مقاله‌‌](https://karkhane.org/category/%d9%85%d9%82%d8%a7%d9%84%d9%87/) 138
 * [نوشته‌های رسیده](https://karkhane.org/category/%d9%86%d9%88%d8%b4%d8%aa%d9%87%e2%80%8c%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%db%8c%d8%af%d9%87/) 10
 * [هنر و ادبیات](https://karkhane.org/category/%d9%87%d9%86%d8%b1-%d9%88-%d8%a7%d8%af%d8%a8%db%8c%d8%a7%d8%aa/) 54
 
