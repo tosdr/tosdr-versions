@@ -2,7 +2,7 @@
 
 ![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
 
-[Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
+[Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Our stories](https://www.bms.com/life-and-science.html)
 
 [![bms](/assets/bms/us/en-us/logos/bms-rebrand-logo.svg "null")](https://www.bms.com/) [Skip to main content](#main-content)
 
