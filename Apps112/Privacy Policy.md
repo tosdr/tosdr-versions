@@ -8,12 +8,12 @@
 
 |     |     |     |
 | --- | --- | --- |
-| ![novaPDF](https://www.apps112.com/lib/framework/img/blank.svg "novaPDF") | **[novaPDF Pro](https://novapdf-pro.apps112.com/)**<br><br>PDF creator for Windows | [Download](https://novapdf-pro.apps112.com/) |
+| ![novaPDF](https://www.apps112.com/lib/framework/img/blank.svg "novaPDF") | **[novaPDF Pro](https://novapdf-pro.apps112.com/)**<br><br>PDF creator for Windows | [Read more](https://novapdf-pro.apps112.com/) |
 | Download novaPDF now to create high-quality PDF files from any printable document. It's easy, fast and best of all free...  <br>[**Read more**](https://novapdf-pro.apps112.com/) |     |
 
 |     |     |     |
 | --- | --- | --- |
-| ![Backup4all](https://www.apps112.com/lib/framework/img/blank.svg "Backup4all") | **[Backup4all Pro](https://backup4all-professional.apps112.com/)**<br><br>Data backup software | [Download](https://backup4all-professional.apps112.com/) |
+| ![Backup4all](https://www.apps112.com/lib/framework/img/blank.svg "Backup4all") | **[Backup4all Pro](https://backup4all-professional.apps112.com/)**<br><br>Data backup software | [Read more](https://backup4all-professional.apps112.com/) |
 | Can you imagine what would happen if you lost all your data? Avoid nightmares by installing Backup4all to protect your data...  <br>[**Read more**](https://backup4all-professional.apps112.com/) |     |
 
   
