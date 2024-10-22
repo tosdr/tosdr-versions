@@ -1,10 +1,10 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111255-mid-day-digest-2024-10-21?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111281-mid-day-digest-2024-10-22?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111255-mid-day-digest-2024-10-21?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111281-mid-day-digest-2024-10-22?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -120,20 +120,20 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34402)
+     [](https://patriotpost.us/cartoons/34403)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [E. Calvin Beisner No Nefarious Actor Caused or Influenced Hurricanes Helene and Milton](https://patriotpost.us/opinion/111246-no-nefarious-actor-caused-or-influenced-hurricanes-helene-and-milton-2024-10-21)
-*      [Hans von Spakovsky Are UK Labor Party and Harris Campaign Headed for Legal Jeopardy?](https://patriotpost.us/opinion/111226-are-uk-labor-party-and-harris-campaign-headed-for-legal-jeopardy-2024-10-21)
-*      [Rich Lowry Harris Has No Credibility on Immigration](https://patriotpost.us/opinion/111225-harris-has-no-credibility-on-immigration-2024-10-21)
-*      [Gary Bauer Tip of the Spear](https://patriotpost.us/opinion/111223-tip-of-the-spear-2024-10-21)
-*      [The Washington Stand Biblical Counsel for the Indecisive](https://patriotpost.us/opinion/111234-biblical-counsel-for-the-indecisive-2024-10-21)
-*      [The Babylon Bee Trump Promises to Bring Back the Good Happy Meal Toys](https://patriotpost.us/opinion/111224-trump-promises-to-bring-back-the-good-happy-meal-toys-2024-10-21)
-*      [Guest Commentary Intended or Not, Evil Is Still Evil](https://patriotpost.us/opinion/111247-intended-or-not-evil-is-still-evil-2024-10-21)
-*      [Matthew Continetti America Is Moving Right. But for How Long?](https://patriotpost.us/opinion/111211-america-is-moving-right-but-for-how-long-2024-10-19)
+*      [Salena Zito Unseen Middle-Class Black Voters Move Right](https://patriotpost.us/opinion/111273-unseen-middle-class-black-voters-move-right-2024-10-22)
+*      [Daniel McCarthy Vibes Turn Bad for Kamala Harris](https://patriotpost.us/opinion/111270-vibes-turn-bad-for-kamala-harris-2024-10-22)
+*      [Cal Thomas Harris Appeals for the Anti-Catholic Vote](https://patriotpost.us/opinion/111269-harris-appeals-for-the-anti-catholic-vote-2024-10-22)
+*      [Victor Joecks Why Christians Should Vote for Trump](https://patriotpost.us/opinion/111268-why-christians-should-vote-for-trump-2024-10-22)
+*      [Stephen Moore Will Blacks and Hispanics Vote Their Pocketbooks? Trump Should Hope So!](https://patriotpost.us/opinion/111267-will-blacks-and-hispanics-vote-their-pocketbooks-trump-should-hope-so-2024-10-22)
+*      [Gary Bauer The Final Stretch](https://patriotpost.us/opinion/111266-the-final-stretch-2024-10-22)
+*      [Allen West Are Americans First for the Progressive Socialist Leftists?](https://patriotpost.us/opinion/111274-are-americans-first-for-the-progressive-socialist-leftists-2024-10-22)
+*      [Dennis Prager The Secular Keep Me Religious](https://patriotpost.us/opinion/111271-the-secular-keep-me-religious-2024-10-22)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,15 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
-“Democratical States must always feel before they can see: it is this that makes their Governments slow, but the people will be right at last.” —George Washington (1785)
+“A general dissolution of principles and manners will more surely overthrow the liberties of America than the whole force of the common enemy. While the people are virtuous they cannot be subdued; but when once they lose their virtue then will be ready to surrender their liberties to the first external or internal invader.” —Samuel Adams (1779)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
