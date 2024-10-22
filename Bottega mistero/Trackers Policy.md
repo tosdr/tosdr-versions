@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/sento-che-stiamo-solamente-annunciando-qualcosa-di-piu-oscuro-di-noi-stessi/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/ti-viene-concessa-soltanto-una-piccola-scintilla-di-follia-devi-perderla/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
