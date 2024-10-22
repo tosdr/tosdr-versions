@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You don't make progress by standing on the sidelines, whimpering and complaining. You make progress by implementing ideas”
+“ ...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge”
 
-[Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm)
+[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
 
 [](https://www.adafruit.com/about)
 
