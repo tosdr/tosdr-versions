@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e72ef46a026d840113bf143f9d9c9ad6
+625480804267679174569ecb898c2f19
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![1 mm to 3 mm turquoise chips](https://sojourner.biz/images/cache/stone/TU0008.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/1-mm-to-3-mm-turquoise-chips.html "1 mm to 3 mm turquoise chips")
+[![12 mm pale pink oval pearls](https://sojourner.biz/images/cache/pearls/PE0064.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-pale-pink-oval-pearls.html "12 mm pale pink oval pearls")
 
-#### [1 mm to 3 mm turquoise chips](https://sojourner.biz/beads/stone-m-z/turquoise/1-mm-to-3-mm-turquoise-chips.html "1 mm to 3 mm turquoise chips")
+#### [12 mm pale pink oval pearls](https://sojourner.biz/beads/pearls/12-mm-pale-pink-oval-pearls.html "12 mm pale pink oval pearls")
 
-$9.00
+$27.50
 
 ### Best Sellers
 
