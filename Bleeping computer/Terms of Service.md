@@ -36,6 +36,9 @@
         
         Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
     
+    * [![Hackers exploit Roundcube webmail flaw to steal email, credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers exploit Roundcube webmail flaw to steal email, credentials](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/)
     * [![Over 6,000 WordPress hacked to install plugins pushing infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
@@ -45,9 +48,6 @@
     * [![Bumblebee malware returns after recent law enforcement disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
-    * [![Prepare for your first IT job with this $40 CompTIA course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Prepare for your first IT job with this $40 CompTIA course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-it-job-with-this-40-comptia-course-bundle/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
