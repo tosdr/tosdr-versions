@@ -63,8 +63,6 @@
     * [All WORLD >](https://www.capitalismmagazine.com/world/)
 * [](https://twitter.com/CapitalismMag)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/09/peikkeep-peikoff-free-banner-1.jpg "peikkeep-peikoff-free-banner-1")](https://www.capitalismmagazine.com/2024/09/an-open-letter-from-dr-leonard-peikoff/)
-
 Terms of Use
 ============
 
