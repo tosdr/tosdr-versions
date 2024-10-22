@@ -36,11 +36,11 @@ Cancel
 
 [by Collection](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "by Collection")
 
-[Exclusives](https://www.art.com/gallery/id--b26679/art-print-exclusives-posters.htm "Exclusives")
-
 [Affordable Art](https://www.art.com/gallery/id--b26609/affordable-art-posters.htm "Affordable Art")
 
 [Decorative Art](https://www.art.com/gallery/id--c23945/decorative-art-prints.htm "Decorative Art")
+
+[Exclusives](https://www.art.com/gallery/id--b26679/art-print-exclusives-posters.htm "Exclusives")
 
 [Famous Art](https://www.art.com/gallery/id--b253614/museum-quality-prints-posters.htm "Famous Art")
 
