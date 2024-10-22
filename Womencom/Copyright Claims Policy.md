@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+*  [![](https://www.women.com/img/gallery/romance-books-we-cant-wait-to-get-our-hands-on-in-2025/intro-1729524198.jpg)](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
     
     [Living](https://www.women.com/category/living/)
     
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
     
-    [Are Justin And Hailey Bieber Actually Compatible, According To Astrology?](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-    =====================================================================================================================================================
+    [Romance Books We Can't Wait To Get Our Hands On In 2025](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+    ===========================================================================================================================
     
-    While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
+    There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
     
-    By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+    By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
     
-* *  [![A woman reading](https://www.women.com/img/gallery/romance-books-we-cant-wait-to-get-our-hands-on-in-2025/intro-1729524198.jpg)](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
-        
-        ### [Romance Books We Can't Wait To Get Our Hands On In 2025](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-        
-        There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-        
-    *  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+* *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
         [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [Zahara Jolie's Gorgeous Transformation](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+        ### [Want To Smell Like Florence Pugh? We Know Her Favorite Perfume](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
         
-        Zahara Jolie isn't just the daughter of two famous actors, but a young woman coming into her own. And she's doing it on her own terms.
+        If you adore Florence Pugh and would like to have something in common with this icon, here's a tip: wear her favorite perfume.
         
-        By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+        By Amanda Chatel [Read More](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+        
+    *  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        
+        ### [Are Justin And Hailey Bieber Actually Compatible, According To Astrology?](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+        
+        While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
         
 
 More Stories
 ------------
 
+*  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Zahara Jolie's Gorgeous Transformation](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+    
+    Zahara Jolie isn't just the daughter of two famous actors, but a young woman coming into her own. And she's doing it on her own terms.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
+    
 *  [![Ivanka Trump, Lara Trump, and Tiffany Trump](https://www.women.com/img/gallery/the-biggest-makeup-mistakes-from-the-women-in-the-trump-family/intro-1729288659.jpg)](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -393,18 +405,6 @@ More Stories
     While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
     
     By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
-    
-*  [![Katie Holmes smiling](https://www.women.com/img/gallery/5-katie-holmes-outfits-that-could-have-come-straight-from-joey-potters-closet/intro-1728058628.jpg)](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [5 Katie Holmes Outfits That Could Have Come Straight From Joey Potter's Closet](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
-    
-    Katie Holmes' street style is relaxed, minimal, and classic, just some of our favorite outfits worn by her "Dawson's Creek" character Joey Potter.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
     
 
 Back
