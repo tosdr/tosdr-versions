@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v119538539.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v120133963.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -592,16 +592,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
 
 Fußbereich
 
@@ -2729,16 +2729,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2787,16 +2787,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
 
 Neueste Tests
 
@@ -2805,16 +2805,16 @@ Neueste Tests
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Nicht­raucher-Apps im Test: Digital mit dem Rauchen aufhören](https://www.test.de/nichtraucher-apps-und-programme-im-test-6072606-0/ "Nichtraucher-Apps im Test - Digital mit dem Rauchen aufhören")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
 
 Service Stiftung Warentest
 
