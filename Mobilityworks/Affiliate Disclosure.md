@@ -190,12 +190,6 @@ Ok Deny View preferences Save preferences [View preferences](#)
 
 Manage consent
 
-[![Winter is Coming be prepared with the Toyota Sienna Hybrid AWD Traction, Safety and Control and Fuel Efficiency](https://www.mobilityworks.com/wp-content/uploads/Winter-is-Coming_2.99-APR-1200-X-1200.jpg "Winter is Coming_2.99% APR-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/?make=Toyota&type=New&convmake=Vantage%20Mobility&resetfilters=on)
-
-[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/?make=Toyota&type=New&convmake=Vantage%20Mobility&resetfilters=on)
-
-X
-
 Disclosures
 
 **Prices**  
@@ -268,12 +262,6 @@ Disclosures
 **$44,995 Driverge Quiet Ride**  
 (39) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, and any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2019 or newer Pre-Owned Dodge Grand Caravan with new Driverge Quiet Ride conversion. All vehicles offered with mileage of 50,000 or more. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31, 2024.
 
-**$49,995 – 2021 or Newer Pre-Owned Chrysler Pacifica Touring L with Brand New Driverge® Patriot Conversion  
-**(40) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2021 or newer pre-owned Chrysler Pacifica Touring L with brand new Driverge® Patriot conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31, 2024. Must take delivery of vehicle by October 31, 2024.
-
-**$485 Per Month – 2021 or Newer Pre-Owned Chrysler Pacifica Touring L with Brand New Driverge® Patriot Conversion**  
-(42) Financing promotion require 20% cash down and 120 payments of $485 a month. 7.99% APR (Annual Percentage Rate) for 120 months. Monthly payments are based on sale price of $49.995, down payment and approved credit. Not all buyers will qualify for offer. Approval is based on a credit score of 760 or higher. Must take delivery by October 31, 2024
-
 **2024 Chrysler Pacifica Touring with Brand New Driverge Patriot Conversion for $59,995 and 2024 Chrysler Pacifica Touring L with Brand New Driverge Patriot Conversion for $64,995**  
 (43) Limited quantities available. Prices plus government fees and taxes, any finance charges, any dealer document processing charge, any electronic filing charge, and any emission testing charge. No other rebates or incentives are applicable. Offer only applies to 2024 Chrysler Pacifica Touring and Touring L with Brand New Driverge Patriot Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Offer ends October 31,2024. Must take delivery of vehicle by October 31, 2024.
 
@@ -282,6 +270,12 @@ Disclosures
 
 **Upgrade Your Ride Trade-In Event**  
 (45) To qualify for the bonus the wheelchair accessible vehicle must be appraised for a value of $10,000 or more. Use the $2,000 accessible trade-in bonus on the purchase of any wheelchair accessible vehicle (including pre-owned and promotionally priced) as dealer savings or receive a check from MobilityWorks for the agreed upon price for your wheelchair accessible vehicle plus bonus following an appraisal. Prior trade-in excluded. Bonus must be redeemed by October 31, 2024. Cannot be combined with any other offers. Final appraisal must take place at a MobilityWorks location.
+
+X
+
+[![Winter is Coming be prepared with the Toyota Sienna Hybrid AWD Traction, Safety and Control and Fuel Efficiency](https://www.mobilityworks.com/wp-content/uploads/Winter-is-Coming_2.99-APR-1200-X-1200.jpg "Winter is Coming_2.99% APR-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/?make=Toyota&type=New&convmake=Vantage%20Mobility&resetfilters=on)
+
+[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/?make=Toyota&type=New&convmake=Vantage%20Mobility&resetfilters=on)
 
 X
 
