@@ -514,15 +514,21 @@ CULTS reserves the right to change this percentage in the future, in this case C
 
 CULTS will also charge VAT in certain cases and according to the rules listed in Article II b) of the Terms and Conditions.
 
-The Creator can make withdrawals from his income generated on the platform via three different payment methods, namely PayPal, bank transfer or via Payoneer.
+The Creator can make withdrawals from their generated revenue on the platform via four different payment methods, namely Payoneer, Stripe Connect, PayPal, or bank transfer.
 
-To request a payment via PayPal, the Creator must simply enter the email address of his PayPal account in his personal account.  
-To receive payment by bank transfer, he must enter his bank details in his personal account.  
-Finally, to be paid via Payoneer, he must connect to his Payoneer account via his personal account.
+To be paid via Payoneer, they must synchronize their Payoneer account with their Cults account via their personal space by clicking on the "Connect to Payoneer" button. The Creator must have a valid and verified account with Payoneer.
 
-It is important to note that the Creator is not authorized to make a payment request via PayPal if the amount of his payment exceeds €500. In this case, he/she is invited to use bank transfer or Payoneer to make his/her withdrawal.
+To be paid via Stripe, they must synchronize their Stripe account with their Cults account via their personal space by clicking on the "Connect to Stripe" button. The Creator must have a valid and verified account with Stripe.
 
-Detailed instructions for each payment method are provided on the platform. It is important to respect the rules and limits of payment to avoid any confusion or problems with the platform.
+To request payment via PayPal, the creator must provide the email address of their PayPal account in their personal space. The Creator must have a valid and verified account with PayPal.
+
+To receive payment by bank transfer, they must provide their bank details in their personal space. The holder of the connected bank account must be the same person/entity as the holder of the Cults account (name, address, country... must match the bank account provided).
+
+It is important to note that the Creator is not authorized to request payment via PayPal if the amount of their payment exceeds €500. In this specific case, they are invited to use Payoneer, Stripe, or bank transfer to make their withdrawal.
+
+It is also important to note that the Creator is not authorized to request payment via bank transfer if the amount of their payment has not reached €500. In this specific case, they are invited to use Payoneer, Stripe, or PayPal to make their withdrawal.
+
+Detailed instructions for each payment method are provided on the platform. It is important to follow the rules and limits regarding payments to avoid any confusion or issues with the platform. It is also essential that the Creator has provided all the KYCs requested by the approved payment partners and that they match those provided to Cults.
 
 To accept the payment and withdraw its balance, the CREATOR has a period of one month (period defined by PayPal). After this period, without recovering his balance, the amount of the sale is returned to CULTS, without refund. The statute of limitations for outstanding sales is 5 years. After this period, the designer will no longer be able to claim payment for these obsolete sales.
 
