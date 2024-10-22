@@ -144,40 +144,43 @@
 Privacy Policy
 ==============
 
-Privacy and security are top priorities
+**Privacy at TubeBuddy**
+========================
 
-**INTRODUCTION**
+### **INTRODUCTION**
 
-Hi TubeBuddies! We’re grateful to be your partner, providing you with software and a community of like-minded creators to help you achieve your YouTube dreams.  
-  
-Privacy has gotten complicated these days, with California and Europe passing privacy laws dictating not only what we do, but what we need to disclose in our Privacy Policy. We value your privacy as our customer/user, and when we use other’s software, we want them to respect our privacy as well, so we’re generally in favor of the increased privacy laws.  
-  
-To be good citizens here, we enlisted legal experts to make sure that we are aware of all our responsibilities and are complying with all laws and best practices. Our lawyers came back with the following Privacy Policy.  
-  
+##### _Privacy and security are top priorities_  
+
+Hi TubeBuddies! We’re grateful to be your partner, providing you with software and a community of like-minded creators to help you achieve your YouTube dreams.
+
+Privacy has gotten complicated these days, with California and Europe passing privacy laws dictating not only what we do, but what we need to disclose in our Privacy Policy. We value your privacy as our customer/user, and when we use other’s software, we want them to respect our privacy as well, so we’re generally in favor of the increased privacy laws.
+
+To be good citizens here, we enlisted legal experts to make sure that we are aware of all our responsibilities and are complying with all laws and best practices. Our lawyers came back with the following Privacy Policy.
+
 We know its long, and legalese, so if you have ANY questions at all about this, please email us at [\[email protected\]](https://www.tubebuddy.com/cdn-cgi/l/email-protection)
 
 ### **TUBEBUDDY PRIVACY POLICY**
 
-Effective Date: 06/15/2021  
-  
-This Privacy Policy describes the privacy practices that TubeBuddy, LLC f/k/a Geronimo Systems LLC (“**TubeBuddy**” or “**us**” or “**we**”) follows when collecting and using information about you on our websites (located at [https://www.tubebuddy.com/](https://www.tubebuddy.com/) and [https://www.channelreviews.com/](https://www.channelreviews.com/)), mobile applications, and any other channel or mobile feature that we operate (collectively, the “**Site**”). We ask that you please read this Privacy Policy before using the Site. It describes what information we gather from you and others who visit or use the Site, how we use that information, and what we do to protect it. When you access or use the Site, certain information, including Personal Information may be collected, transferred, processed, stored, and in certain circumstances, disclosed or shared as described in this Privacy Policy.  
-  
-This Privacy Policy complies with the California Consumer Privacy Act of 2018 (“**CCPA**”) and any terms defined in the CCPA have the same meaning when used in this Privacy Policy. Capitalized terms used but not defined in this Privacy Policy have the definitions provided in our Terms of Use (located at [Terms of Use](https://www.tubebuddy.com/termsofuse) or [Enterprise Terms of Use](https://www.tubebuddy.com/enterprise/software-service-agreement/) for Enterprise subscription). Parts of the Terms of Use affect this Privacy Policy, so unless you have already done so, please review the Terms of Use prior to using the Site.  
-  
+Effective Date: 06/15/2021
+
+This Privacy Policy describes the privacy practices that TubeBuddy, LLC f/k/a Geronimo Systems LLC (“**TubeBuddy**” or “**us**” or “**we**”) follows when collecting and using information about you on our websites (located at [https://www.tubebuddy.com/](https://www.tubebuddy.com/) and [https://www.channelreviews.com/](https://www.channelreviews.com/)), mobile applications, and any other channel or mobile feature that we operate (collectively, the “**Site**”). We ask that you please read this Privacy Policy before using the Site. It describes what information we gather from you and others who visit or use the Site, how we use that information, and what we do to protect it. When you access or use the Site, certain information, including Personal Information may be collected, transferred, processed, stored, and in certain circumstances, disclosed or shared as described in this Privacy Policy.
+
+This Privacy Policy complies with the California Consumer Privacy Act of 2018 (“**CCPA**”) and any terms defined in the CCPA have the same meaning when used in this Privacy Policy. Capitalized terms used but not defined in this Privacy Policy have the definitions provided in our Terms of Use (located at [Terms of Use](https://www.tubebuddy.com/termsofuse) or [Enterprise Terms of Use](https://www.tubebuddy.com/enterprise/software-service-agreement/) for Enterprise subscription). Parts of the Terms of Use affect this Privacy Policy, so unless you have already done so, please review the Terms of Use prior to using the Site.
+
 BY CREATING AN ACCOUNT ON OUR SITE OR OTHERWISE PROVIDING US WITH YOURS OR OTHERS’ PERSONAL INFORMATION, YOU EXPRESSLY CONSENT TO THE INFORMATION HANDLING PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND YOU ACKNOWLEDGE AND CONFIRM THAT YOU HAVE PERMISSION TO PROVIDE US WITH ALL PERSONAL INFORMATION PROVIDED. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY OR THE TERMS OF USE, PLEASE DO NOT ACCESS, USE, OR REGISTER FOR AN ACCOUNT ON THE SITE.
 
 ### **1 THE INFORMATION WE COLLECT**
 
 We collect data to provide the products and services you request, ease your navigation on the Site, communicate with you, and improve your experience using the Site. Some of this information is provided directly by you, such as when you sign up for an account on the Site or fill out a contact form. Some of the information is collected through your interactions with the Site. We collect such data using technologies like Cookies, action tags, and other tracking technologies, error reports, and usage data collected when you interact with our Site. Some of the information is collected from your use of, and interactions with, us and others on social media, including but not limited to Facebook®, Instagram®, Twitter®, LinkedIn®, and YouTube® (collectively “**Social Media**”).
 
-After authorizing TubeBuddy access to your Google account, you may revoke that access at any time by visiting the “Your connections to third-party apps & services” section of your Google account security settings at [https://security.google.com/settings](https://security.google.com/settings).  
-  
+_After authorizing TubeBuddy access to your Google account, you may revoke that access at any time by visiting the “Your connections to third-party apps & services” section of your Google account security settings at [https://security.google.com/settings](https://security.google.com/settings)._
+
 The data we collect depends on the products, services, and features of the Site that you use, and includes the following:
 
 ##### **1.1 Personal Information**
 
-When you visit the Site without creating an account, you can browse without submitting Personal Information about yourself. In general, we collect Personal Information that you submit to us in the process of creating or editing your account and user profile on the Site or that you submit to us voluntarily through your use of the Site. Information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household is “**Personal Information.**”  
-  
+When you visit the Site without creating an account, you can browse without submitting Personal Information about yourself. In general, we collect Personal Information that you submit to us in the process of creating or editing your account and user profile on the Site or that you submit to us voluntarily through your use of the Site. Information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household is “**Personal Information.**”
+
 In particular, the Site has collected the following categories of Personal Information from users in the last twelve (12) months. We obtain these categories of Personal Information with the methods described in more detail below.
 
 | Category | Examples | Are Any of These Collected? |
@@ -196,13 +199,15 @@ In particular, the Site has collected the following categories of Personal Infor
 
 Personal Information does not include:
 
-* Publicly available information from government records.
-* De-identified or aggregated consumer information.
+* * Publicly available information from government records.
+
+* * De-identified or aggregated consumer information.
 
 Additionally, the following types of personal information are excluded from the CCPA’s scope:
 
-* Certain health or medical information otherwise covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data; and
-* Personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver’s Privacy Protection Act of 1994.
+* * Certain health or medical information otherwise covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data; and
+
+* * Personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver’s Privacy Protection Act of 1994.
 
 We may also collect Personal Information from third parties, such as Social Media, Payment Processors, product vendors, and other partners. Our collection of this information allows us to provide you with our products and services, establish, maintain and support your user account on the Site, and communicate with you in accordance with our Terms of Use.
 
@@ -210,8 +215,8 @@ We may also collect Personal Information from third parties, such as Social Medi
 
 Similar to other websites, we use tracking technologies to automatically collect certain technical information from your web browser, mobile, or other device when you visit our Site. This data may include, without limitation, your IP address, browser type and language, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, the pages you requested and viewed, the amount of time spent on particular pages, and the date and time of your visits. Our collection of this data, described in more detail below, allows us to provide more personalized services to you and to track usage of the Site.**A. Cookies.**
 
-We automatically derive and collect certain data based on your interactions with the Site using cookies and similar technologies (collectively, “**Cookies**”). Our collection of data through Cookies includes information about your browser and Site usage patterns, which may include your IP address, browser type, browser language, referring/exit pages and URLs, pages viewed, links clicked, whether you opened an email, and information about the device you use to access the Site. Our collection of this information allows us to improve your user experience in various ways, such as to personalize our display of the Site to you, to “remember” whether or not you are signed in, and to provide better technical support to you.  
-  
+We automatically derive and collect certain data based on your interactions with the Site using cookies and similar technologies (collectively, “**Cookies**”). Our collection of data through Cookies includes information about your browser and Site usage patterns, which may include your IP address, browser type, browser language, referring/exit pages and URLs, pages viewed, links clicked, whether you opened an email, and information about the device you use to access the Site. Our collection of this information allows us to improve your user experience in various ways, such as to personalize our display of the Site to you, to “remember” whether or not you are signed in, and to provide better technical support to you.
+
 _Please note:_ If you restrict, disable, or block any or all Cookies from your web browser or mobile or other device, the Site may not operate properly, and you may not have access to certain services or parts of the Site. We will not be liable for any interruption in, or inability to use, the Site or our services or degraded functioning thereof, where such are caused by your settings and choices regarding Cookies.**B. Pixels (aka web beacons/web bugs/javascript).**
 
 “**Pixels**” are tiny graphics (about the size of a period at the end of a sentence) with unique identifiers used to track certain online actions, movements and related information of Site users. Unlike Cookies, which are stored on a user’s computer hard drive, Pixels are embedded invisibly on web pages or in HTML-based emails. We may use Pixels to automatically record certain technical information about your interactions when you visit the Site or otherwise engage with us, to help deliver Cookies on our Site, or count users who have visited the Site. We may also include web beacons in our promotional e-mail messages or newsletters to determine whether you open or act on them for statistical purposes. The data we receive through Pixels allows us to effectively promote the Site to various populations of users, and to optimize external advertisements about the Site that appear on third-party websites.
@@ -236,16 +241,28 @@ If you interact with us or our other users regarding TubeBuddy and its products 
 
 We also use Google Analytics and other third party analytics providers (“**Analytics Providers**”) to collect information about Site usage and the users of the Site. These Analytics Providers use Cookies in order to collect demographic and interest-level information and usage information from users that visit the Site, including information about the pages where users enter and exit the Site and what pages users view on the Site, time spent, browser, operating system, and IP address. Cookies allow Analytics Providers to recognize a user when a user visits the Site and when the user visits other websites. Analytics Providers use the information they collect from the Site and other websites to share with us and other website operators’ information about users including age range, gender, geographic regions, general interests, and details about devices used to visit the Site and other websites and purchase items. For more information regarding our Analytics Providers’ use of Cookies, collection and use of information, and how to opt-out of tracking, see:
 
-* Google
-    * Google’s Privacy Policy is available at [https://policies.google.com/privacy?hl=en.](https://policies.google.com/privacy?hl=en.)
-    * Google Analytics Opt-out Browser Add-on is available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout.).
-    * After authorizing TubeBuddy access to your Google account, you may revoke that access at any time by visiting the “Your connections to third-party apps & services” section of your Google account security settings at [https://security.google.com/settings](https://security.google.com/settings).
-* Facebook
-    * Facebook’s Privacy Policy is available at [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy).
-    * You can manage tracking of off-Facebook activity by Facebook by visiting this page [https://www.facebook.com/off\_facebook\_activity/](https://www.facebook.com/off_facebook_activity/).
-* Twitter
-    * Twitter’s Privacy Policy is available at [https://twitter.com/en/privacy](https://twitter.com/en/privacy).
-    * You can manage your privacy settings with regards to Twitter Personalized Ads here [https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+* * Google
+        
+        * * Google’s Privacy Policy is available at [https://policies.google.com/privacy?hl=en.](https://policies.google.com/privacy?hl=en.)
+        
+        * * Google Analytics Opt-out Browser Add-on is available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout.).
+        
+        * * After authorizing TubeBuddy access to your Google account, you may revoke that access at any time by visiting the “Your connections to third-party apps & services” section of your Google account security settings at [https://security.google.com/settings](https://security.google.com/settings).
+        
+
+* * Facebook
+        
+        * * Facebook’s Privacy Policy is available at [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy).
+        
+        * * You can manage tracking of off-Facebook activity by Facebook by visiting this page [https://www.facebook.com/off\_facebook\_activity/](https://www.facebook.com/off_facebook_activity/).
+        
+
+* * Twitter
+        
+        * * Twitter’s Privacy Policy is available at [https://twitter.com/en/privacy](https://twitter.com/en/privacy).
+        
+        * * You can manage your privacy settings with regards to Twitter Personalized Ads here [https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+        
 
 ### **3 EXTERNAL LINKS.**
 
@@ -257,24 +274,36 @@ The Site contains links to third party websites and services, including links to
 
 We may use or disclose the Personal Information identified above for one or more of the following business purposes (“**Business Purpose**”):
 
-* To fulfill or meet the reason you provided the information (e.g., to help provide products and services to you).
-* To personalize and develop our Site and the services we provide you through the Site and improve our offerings.
-* To provide certain features or functionalities on the Site.
-* For marketing and promotions.
-* To create, maintain, customize, and secure your account with us.
-* To provide you with support, to communicate with you and respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
-* To personalize your experience and to deliver content and product and service offerings, products, and services relevant to your interests, including offers and advertisements through third-party sites, and via email (with your consent, where required by law).
-* To help maintain the safety, security, and integrity of our Site, services, databases, other technology assets, and business.
-* For testing, research, analysis, and product development, including to develop and improve our Site and services.
-* To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
-* To prevent illegal activity, fraud, and abuse.
-* As described to you when collecting your Personal Information or as otherwise set forth in the CCPA.
-* To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us about our users is among the assets transferred or liquidated.
+* * To fulfill or meet the reason you provided the information (e.g., to help provide products and services to you).
+
+* * To personalize and develop our Site and the services we provide you through the Site and improve our offerings.
+
+* * To provide certain features or functionalities on the Site.
+
+* * For marketing and promotions.
+
+* * To create, maintain, customize, and secure your account with us.
+
+* * To provide you with support, to communicate with you and respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
+
+* * To personalize your experience and to deliver content and product and service offerings, products, and services relevant to your interests, including offers and advertisements through third-party sites, and via email (with your consent, where required by law).
+
+* * To help maintain the safety, security, and integrity of our Site, services, databases, other technology assets, and business.
+
+* * For testing, research, analysis, and product development, including to develop and improve our Site and services.
+
+* * To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+
+* * To prevent illegal activity, fraud, and abuse.
+
+* * As described to you when collecting your Personal Information or as otherwise set forth in the CCPA.
+
+* * To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us about our users is among the assets transferred or liquidated.
 
 ##### **4.2 Account-Related Emails.**
 
-When you create an account with us and provide us with your email we may, subject to applicable law, use your email address to send you Site-related notices (including any notices required by law, in lieu of communication by postal mail), updates, news, and marketing messages. For example, when you register, you will receive a welcome email. If the Site or our services are temporarily unavailable, we may also send you an email notice.  
-  
+When you create an account with us and provide us with your email we may, subject to applicable law, use your email address to send you Site-related notices (including any notices required by law, in lieu of communication by postal mail), updates, news, and marketing messages. For example, when you register, you will receive a welcome email. If the Site or our services are temporarily unavailable, we may also send you an email notice.
+
 Email communications you receive from us will generally provide an unsubscribe link or instructions allowing you to opt out of receiving future emails or to change your contact preferences. If you have registered for an account with us, you can also change your contact preferences within your account settings. Please remember that even if you opt out of receiving marketing e-mails, we may still send you important service information related to your account and the Site. If you correspond with us by email, we may retain the content of your email messages, your email address, and our responses.
 
 ##### **4.3 Advertising.**
@@ -297,19 +326,27 @@ When we disclose Personal Information for a Business Purpose, we enter into a co
 
 In the preceding twelve (12) months, we have disclosed the following categories of Personal Information for a Business Purpose, as more fully described in Section 4:
 
-* Category A: Identifiers.
-* Category B: California Customer Records personal information categories.
-* Category D: Commercial information.
-* Category F: Internet or other similar network activity.
-* Category G: Geolocation data.
+* * Category A: Identifiers.
+
+* * Category B: California Customer Records personal information categories.
+
+* * Category D: Commercial information.
+
+* * Category F: Internet or other similar network activity.
+
+* * Category G: Geolocation data.
 
 We disclose your Personal Information for a Business Purpose to the following categories of third parties:
 
-* Our corporate affiliates, including BEN Group, Inc.
-* Analytics Providers.
-* Social Media.
-* Other third party marketing service providers.
-* Affiliated persons or third-party service providers assisting us in the operation, management, improvement, research and analysis of the Site.
+* * Our corporate affiliates, including BEN Group, Inc.
+
+* * Analytics Providers.
+
+* * Social Media.
+
+* * Other third party marketing service providers.
+
+* * Affiliated persons or third-party service providers assisting us in the operation, management, improvement, research and analysis of the Site.
 
 _Please note:_ Affiliated persons or our third party service providers may augment, extend, and combine non-personally identifiable information with data from additional third party sources in order to assist us in our operation of the Site.
 
@@ -343,59 +380,75 @@ We use the Personal Information of our users as needed for the purposes for whic
 
 You may have the right under the CCPA to request that we disclose certain information to you about our collection and use of your Personal Information over the past twelve (12) months. Once we receive and confirm your verifiable consumer request, we will disclose to you:
 
-* The categories of Personal Information that we have collected about you.
-* The categories of sources for the Personal Information that we have collected about you.
-* Our business or commercial purpose for collecting or making available that Personal Information.
-* The categories of third parties with whom we share that Personal Information.
-* The specific pieces of Personal Information that we have collected about you (also called a data portability request).
-* If we disclosed your Personal Information for a Business Purpose, the Business Purpose for which such Personal Information was disclosed, and the Personal Information categories that each category of recipient obtained.
+* * The categories of Personal Information that we have collected about you.
+
+* * The categories of sources for the Personal Information that we have collected about you.
+
+* * Our business or commercial purpose for collecting or making available that Personal Information.
+
+* * The categories of third parties with whom we share that Personal Information.
+
+* * The specific pieces of Personal Information that we have collected about you (also called a data portability request).
+
+* * If we disclosed your Personal Information for a Business Purpose, the Business Purpose for which such Personal Information was disclosed, and the Personal Information categories that each category of recipient obtained.
 
 ##### **6.4 Right to Delete.**
 
-You may have the right under the CCPA to request that we delete any of your Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your Personal Information from our records, or de-identify your Personal Information, unless an exception applies.  
-  
+You may have the right under the CCPA to request that we delete any of your Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your Personal Information from our records, or de-identify your Personal Information, unless an exception applies.
+
 We may deny your deletion request if retaining the information is necessary for us or our service provider(s) or vendor(s) to:
 
-* Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
-* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
-* Debug products to identify and repair errors that impair existing intended functionality.
-* Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-* Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
-* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent.
-* Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
-* Comply with a legal obligation or legal order.
-* Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+* * Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
+
+* * Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+
+* * Debug products to identify and repair errors that impair existing intended functionality.
+
+* * Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+
+* * Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+
+* * Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent.
+
+* * Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+
+* * Comply with a legal obligation or legal order.
+
+* * Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
 
 **6.5 Exercising Your Rights.**
 
-To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by either:  
-  
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by either:
+
 Visiting [California Consumer Privacy Act Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe4QSl09YdbDMzD1yHEotHyV9G-6KqT0xLpYMFrCw95uJDgOQ/viewform)  
-Sending us an e-mail at [\[email protected\]](https://www.tubebuddy.com/cdn-cgi/l/email-protection)  
-  
-Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child.  
-  
-You may only make such a request for access or data portability twice within a twelve-month period. The verifiable consumer request must provide sufficient information that allows us to reasonably verify that you are the person about whom we collected Personal Information or an authorized representative, and describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.  
-  
-We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use Personal Information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.  
-  
-We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to ninety (90) days), we will inform you of the reason and extension period in writing. We will deliver our written response electronically. Any disclosures we provide will only cover the twelve (12) month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your Personal Information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.  
-  
+Sending us an e-mail at [\[email protected\]](https://www.tubebuddy.com/cdn-cgi/l/email-protection)
+
+Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child.
+
+You may only make such a request for access or data portability twice within a twelve-month period. The verifiable consumer request must provide sufficient information that allows us to reasonably verify that you are the person about whom we collected Personal Information or an authorized representative, and describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use Personal Information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+
+We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to ninety (90) days), we will inform you of the reason and extension period in writing. We will deliver our written response electronically. Any disclosures we provide will only cover the twelve (12) month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your Personal Information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+
 We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 
 ##### **6.6 Non-Discrimination.**
 
 We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
 
-* Deny you goods or services.
-* Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
-* Provide you a different level or quality of goods or services.
-* Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+* * Deny you goods or services.
+
+* * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+
+* * Provide you a different level or quality of goods or services.
+
+* * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 ##### **6.7 Online Tracking Choices.**
 
-Most browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a cookie is being sent. However, some features and services of the Site (particularly those that require sign-in) may not function properly if your Cookies are disabled. Similarly, if you choose to delete session objects from our Site, you may not be able to access and use all or part of the site or benefit from some or all of the information or features and services offered.  
-  
+Most browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a cookie is being sent. However, some features and services of the Site (particularly those that require sign-in) may not function properly if your Cookies are disabled. Similarly, if you choose to delete session objects from our Site, you may not be able to access and use all or part of the site or benefit from some or all of the information or features and services offered.
+
 Some web browsers incorporate a “Do Not Track” (“**DNT**”) or similar feature that signals to websites that a user does not want to have the user’s online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about that browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many websites, including the Site, do not respond to DNT signals.
 
 ### **7 SAFETY AND INFORMATION SECURITY MEASURES.**
@@ -418,18 +471,25 @@ Please be aware that we have offices in the United States. The Site is governed 
 
 ### **10 THE GENERAL DATA PROTECTION REGULATION (“GDPR”).**
 
-Residents of the European Economic Area (“**EEA**”) may be entitled to rights under the GDPR. If you qualify, these rights are summarized below.  
-  
+Residents of the European Economic Area (“**EEA**”) may be entitled to rights under the GDPR. If you qualify, these rights are summarized below.
+
 If you request to exercise your rights under the GDPR, we may require verification of your identity before we respond to any such request. If you are entitled to these rights, you may exercise the following rights with respect to your Personal Information that we collect and store:
 
-* the right to withdraw consent to data processing at any time;
-* the right of access to your Personal Information;
-* the right to request a copy of your Personal Information;
-* the right to correct any inaccuracies in t your Personal Information;
-* the right to erase your Personal Information;
-* the right to data portability, meaning to request a transfer of your Personal Information from us to any other person or entity as chosen by you;
-* the right to request restriction of the processing of your Personal Information; and
-* the right to object to processing of your Personal Information.
+* * the right to withdraw consent to data processing at any time;
+
+* * the right of access to your Personal Information;
+
+* * the right to request a copy of your Personal Information;
+
+* * the right to correct any inaccuracies in t your Personal Information;
+
+* * the right to erase your Personal Information;
+
+* * the right to data portability, meaning to request a transfer of your Personal Information from us to any other person or entity as chosen by you;
+
+* * the right to request restriction of the processing of your Personal Information; and
+
+* * the right to object to processing of your Personal Information.
 
 You may exercise these rights free of charge. These rights will be exercisable subject to limitations as provided for by the GDPR. Any requests to exercise the above-listed rights may be made to: [\[email protected\]](https://www.tubebuddy.com/cdn-cgi/l/email-protection). If you are an EEA resident, you have the right to lodge a complaint with a Data Protection Authority about how we process your Personal Information at the following website: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -445,15 +505,24 @@ If you are a California resident who is under age 16 and you are unable to remov
 
 TubeBuddy uses the following Extension Permissions for the purposes outlined below:
 
-* https://www.tubebuddy.com/\* – To create and maintain the Customer’s TubeBuddy account and allow access to TubeBuddy Website Tools.
-* https://\*.youtube.com/\* – To allow TubeBuddy access to the Customer’s YouTube channel and associated data in order to carry out services requested by the Customer.
-* https://\*.google.com/\* – To authenticate the Customer as a user.
-    * After authorizing TubeBuddy access to your Google account, you may revoke that access at any time by visiting the “Your connections to third-party apps & services” section of your Google account security settings at [https://security.google.com/settings](https://security.google.com/settings).
-* https://\*.twitter.com/\* – To allow the Customer to utilize TubeBuddy’s Share on Twitter featuere and to enable Twitter activity monitoring for the Customer via TubeBuddy’s Social Monitor feature.
-* https://\*.facebook.com/\* – To allow the Customer to utilize TubeBuddy’s Publish to Facebook feature.
-* https://\*.reddit.com/\* – To enable Reddit activity monitoring for the Customer via TubeBuddy’s Social Monitor feature.
-* Chrome Storage – To store and retrieve the Customer’s TubeBuddy data and preferences in order to carry out services requested by the Customer.
-* Chrome WebRequest and WebRequestBlocking – To allow TubeBuddy to leverage YouTube’s API on the Customer’s behalf to carry out services requested by the Customer.
+* * https://www.tubebuddy.com/\* – To create and maintain the Customer’s TubeBuddy account and allow access to TubeBuddy Website Tools.
+
+* * https://\*.youtube.com/\* – To allow TubeBuddy access to the Customer’s YouTube channel and associated data in order to carry out services requested by the Customer.
+
+* * https://\*.google.com/\* – To authenticate the Customer as a user.
+        
+        * * After authorizing TubeBuddy access to your Google account, you may revoke that access at any time by visiting the “Your connections to third-party apps & services” section of your Google account security settings at [https://security.google.com/settings](https://security.google.com/settings).
+        
+
+* * https://\*.twitter.com/\* – To allow the Customer to utilize TubeBuddy’s Share on Twitter featuere and to enable Twitter activity monitoring for the Customer via TubeBuddy’s Social Monitor feature.
+
+* * https://\*.facebook.com/\* – To allow the Customer to utilize TubeBuddy’s Publish to Facebook feature.
+
+* * https://\*.reddit.com/\* – To enable Reddit activity monitoring for the Customer via TubeBuddy’s Social Monitor feature.
+
+* * Chrome Storage – To store and retrieve the Customer’s TubeBuddy data and preferences in order to carry out services requested by the Customer.
+
+* * Chrome WebRequest and WebRequestBlocking – To allow TubeBuddy to leverage YouTube’s API on the Customer’s behalf to carry out services requested by the Customer.
 
 ### **14 CHANGES TO THIS PRIVACY POLICY.**
 
@@ -486,7 +555,7 @@ Follow Us On
 * [![](https://www.tubebuddy.com/wp-content/themes/luis/assets/images/social_media/Logo_LinkedIn.svg)](https://www.linkedin.com/company/tubebuddy-com/)
 
 * [Terms Of Use](https://www.tubebuddy.com/termsofuse)
-* [Privacy](https://www.tubebuddy.com/privacy)
+* [Privacy](https://www.tubebuddy.com/privacy-policy)
 * [TubeBuddy Comparisons](https://www.tubebuddy.com/p/software-compare)
 
 Copyright © 2024 TubeBuddy. All rights reserved.
