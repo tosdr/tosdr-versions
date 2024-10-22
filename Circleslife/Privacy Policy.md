@@ -8,11 +8,11 @@ Get Started
 
 20GB
 
-$12/mo
+$10.80/mo
 
 150GB
 
-$15/mo
+$13.50/mo
 
 100GB
 
@@ -24,11 +24,11 @@ Use data across 9 countries
 
 250GB
 
-$18/mo
+$16.20/mo
 
 500GB
 
-$22/mo
+$19.80/mo
 
 1TB
 
@@ -44,15 +44,15 @@ Use data across 9 countries
 
 20GB
 
-$12/mo
+$10.80/mo
 
 150GB
 
-$15/mo
+$13.50/mo
 
 250GB
 
-$18/mo
+$16.20/mo
 
 100GB
 
@@ -138,11 +138,11 @@ From $45.79](https://pages.circles.life/sg/combo-plan-black/iphone_15/)[See all 
 
 150GB
 
-$15/mo
+$13.50/mo
 
 250GB
 
-$18/mo
+$16.20/mo
 
 100GB
 
@@ -152,11 +152,11 @@ $30/mo
 
 250GB
 
-$18/mo
+$16.20/mo
 
 500GB
 
-$22/mo
+$19.80/mo
 
 1TB
 
