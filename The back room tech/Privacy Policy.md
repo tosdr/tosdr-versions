@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/usb-device-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")[Attach a USB Device to a Virtual Machine in VMware](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/verify-freeradius-installation-80x27.png)](https://thebackroomtech.com/2018/08/16/how-to-install-freeradius-on-ubuntu/ "How to Install FreeRADIUS on Ubuntu")[How to Install FreeRADIUS on Ubuntu](https://thebackroomtech.com/2018/08/16/how-to-install-freeradius-on-ubuntu/ "How to Install FreeRADIUS on Ubuntu")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/xp-sp-3-80x44.png)](https://thebackroomtech.com/2008/09/24/how-much-free-disk-space-do-i-need-to-install-windows-xp-sp3/ "How Much Free Disk Space Do I Need to Install Windows XP SP3?")[How Much Free Disk Space Do I Need to Install Windows XP SP3?](https://thebackroomtech.com/2008/09/24/how-much-free-disk-space-do-i-need-to-install-windows-xp-sp3/ "How Much Free Disk Space Do I Need to Install Windows XP SP3?")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/outlook2010commandlineswitch-80x41.png)](https://thebackroomtech.com/2010/08/23/use-command-line-switches-in-outlook-2010/ "Use Command Line Switches in Outlook 2010")[Use Command Line Switches in Outlook 2010](https://thebackroomtech.com/2010/08/23/use-command-line-switches-in-outlook-2010/ "Use Command Line Switches in Outlook 2010")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/notepad-found-80x48.png)](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")[HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/code-1-1-80x46.jpg.optimal.jpg)](https://thebackroomtech.com/2018/05/28/office-365-tenant-get-all-users-list-script/ "Office 365 Tenant – Get All Users List Script")[Office 365 Tenant – Get All Users List Script](https://thebackroomtech.com/2018/05/28/office-365-tenant-get-all-users-list-script/ "Office 365 Tenant – Get All Users List Script")
+    ![](https://s11921.pcdn.co/wp-content/uploads/event-id-1521-80x16.png)](https://thebackroomtech.com/2009/05/19/fix-userenv-event-1521-and-userenv-1511-errors-in-windows-server-2003-application-log/ "Fix: Userenv event 1521 and Userenv 1511 errors in Windows Server 2003 Application log")[Fix: Userenv event 1521 and Userenv 1511 errors in Windows Server 2003 Application log](https://thebackroomtech.com/2009/05/19/fix-userenv-event-1521-and-userenv-1511-errors-in-windows-server-2003-application-log/ "Fix: Userenv event 1521 and Userenv 1511 errors in Windows Server 2003 Application log")
 
 #### Our Publishing Family
 
