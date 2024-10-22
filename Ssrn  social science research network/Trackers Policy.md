@@ -113,11 +113,6 @@ Useful links
 * [View all products](https://www.elsevier.com/products)
 * [Elsevier Connect](https://www.elsevier.com/connect)
 
-Support
-
-* [Customer support](https://www.elsevier.com/support)
-* [Resource center](https://service.elsevier.com/app/overview/elsevier/)
-
 About
 
 * [About Elsevier](https://www.elsevier.com/about)
@@ -125,6 +120,11 @@ About
 * [Global Press Office](https://www.elsevier.com/about/global-press-office)
 * [Advertising, reprints & supplements](https://www.elsmediakits.com/?utm_source=elsevier.com&utm_medium=referral&dgcid=4168448395)
 * [Modern slavery act statement](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/relx-slavery-statement-2024.pdf)
+
+Support
+
+* [Customer support](https://www.elsevier.com/support)
+* [Resource center](https://service.elsevier.com/app/overview/elsevier/)
 
 Global | English
 
