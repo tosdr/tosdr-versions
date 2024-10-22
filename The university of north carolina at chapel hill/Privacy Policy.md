@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/StateService1-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/24-7660-UCM-Decoding-Genetics-Header_D1.1-250x141.jpg)
     
-    Human resources honors longest-serving employees](https://www.unc.edu/posts/2024/10/18/human-resources-honors-longest-serving-employees/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/101724_Hero-250x141.png)
+    Researchers help decode risk for psychiatric disorders](https://www.unc.edu/posts/2024/10/21/researchers-help-decode-risk-for-psychiatric-disorders/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/OperationalExcellenceHERO-250x141.jpg)
     
-    New award funds projects with real-world impact](https://www.unc.edu/posts/2024/10/17/new-award-funds-projects-with-real-world-impact/)
+    Operational Excellence runs on research](https://www.unc.edu/posts/2024/10/21/operational-excellence-runs-on-research/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=743ec4629f&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=fb8b97536f&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
