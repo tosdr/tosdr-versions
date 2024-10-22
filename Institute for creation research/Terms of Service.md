@@ -7,7 +7,7 @@
 
 [![](/i/icr-logo-final-h-color1-100.png)](https://www.icr.org/) [![](/i/icr-DC-logo-h-white-100.png)](http://discoverycenter.icr.org/) [![](/i/icr-store-logo-final-h-rev1-100.png)](https://store.icr.org/) [![](/i/icr-soba-logo-white1-100.png)](https://icr.edu/)
 
-[Donate](https://www.icr.org/donate/)
+[Donate](https://pushpay.com/g/instituteforcreationresearch)
 
 [](#)
 
