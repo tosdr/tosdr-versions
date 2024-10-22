@@ -477,7 +477,8 @@ Thank a researcher today
 
 [Send a note](https://links.e.response.mayoclinic.org/tar2024?sourcecode=24R101WG1DHN90Z17B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devthankaresearcher)
 
-Their crucial work saves lives every day. Let Mayo Clinic researchers know they’re appreciated with a quick message.
+Their crucial work saves lives every day.  
+Let Mayo Clinic researchers know they’re appreciated with a quick message.
 
 [Send a note](https://links.e.response.mayoclinic.org/tar2024?sourcecode=24R101WG1DHN90Z17B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devthankaresearcher)
 
