@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There were seven male white owls that played Hedwig.
+Ginny Weasley’s full first name is Ginevra, not Virginia.
 
 ### Potter History
 
-May 27, 2010 – Entertainment Weekly names Harry Potter one of the Greatest Characters of the Past 20 Years.
+July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
 
 ### Potter Quote
 
-“Kicked out of Hogwarts for endangering human life with a beast. Yet one of your teachers argued strongly against your expulsion. I wonder, what makes Albus Dumbledore so fond of you, Mr. Scamander?”
+“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
 
 [](#)
 
