@@ -275,7 +275,7 @@ From time to time we may offer free trials to, or introductory pricing for, the 
 
 [![Hexanaut](/themes/custom/coolmath/assets/images/promos/Hexanaut_Promo.png)
 
-##### Hexanaut
+Hexanaut
 
 Multiplayer Snake Combat](https://www.coolmathgames.com/0-hexanaut-io)
 
@@ -293,7 +293,7 @@ Get one for free!](https://www.coolmathgames.com/signup)
 
 [![Leaderboards](/themes/custom/coolmath/assets/images/promos/Leaderboards_Promo.png)
 
-##### Leaderboards
+Leaderboards
 
 See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
 
