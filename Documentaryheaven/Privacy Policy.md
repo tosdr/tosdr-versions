@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A World Unseen: The Revenant](/wp-content/thumbnails/11760-100x70.jpg?x53432)
+* [![Battered And Bruised](/wp-content/thumbnails/7647-100x70.jpg?x53432)
     
-    A World Unseen: The Revenant
+    Battered And Bruised
     
-    As many of you may already know, Leonardo DiCaprio's recent blockbuster The Revenant was inspired by real events, it is a film based on the struggle of one 19th century frontiersman named Hugh Glass a](https://documentaryheaven.com/world-unseen-revenant/ "A World Unseen: The Revenant")
-* [![The Infamous Mobb Deep](/wp-content/thumbnails/11877-100x70.jpg?x53432)
+    Family violence has reached epidemic levels in Papua New Guinea, the South Pacific's largest nation.Two out of three women experience domestic violence and 50 per cent of women have experienced fo](https://documentaryheaven.com/battered-bruised/ "Battered And Bruised")
+* [![Promises (2001)](/wp-content/thumbnails/1195-100x70.jpg?x53432)
     
-    The Infamous Mobb Deep
+    Promises (2001)
     
-    Mobb Deep is an American Hip Hop duo from Queensbridge, Queens, New York, United States that consists of Havoc and Prodigy. They are considered to be one of the best and most critically acclaimed hard](https://documentaryheaven.com/infamous-mobb-deep/ "The Infamous Mobb Deep")
-* [![Sinkholes: Buried Alive](/wp-content/thumbnails/10200-100x70.jpg?x53432)
+    Promises presents a powerful portrait of seven Palestinian and Israeli children who live in and around Jerusalem. As filmmaker B.Z. Goldberg, who was raised in Israel, notes, "They live no more than 2](https://documentaryheaven.com/promises-2001/ "Promises (2001)")
+* [![The Boy Who Was Turned Into a Girl](/wp-content/thumbnails/5946-100x70.jpg?x53432)
     
-    Sinkholes: Buried Alive
+    The Boy Who Was Turned Into a Girl
     
-    They can occur suddenly and catastrophically, they have swallowed cars, animals and people. They have destroyed homes and few an unlucky few have become graves. These are sinkholes, all across the glo](https://documentaryheaven.com/sinkholes-buried-alive/ "Sinkholes: Buried Alive")
-* [![To Catch a Predator](/wp-content/thumbnails/1206-100x70.jpg?x53432)
+    In 1965 in the Canadian town of Winnipeg, Janet Reimer gave birth to twin boys - Bruce and Brian. Six months later a bungled circumcision left Bruce without a penis. Based on a radical new theory of g](https://documentaryheaven.com/the-boy-who-was-turned-into-a-girl/ "The Boy Who Was Turned Into a Girl")
+* [![Deportee Purgatory](/wp-content/thumbnails/7308-100x70.jpg?x53432)
     
-    To Catch a Predator
+    Deportee Purgatory
     
-    Over 40 million Americans have seen Dateline’s ongoing popular series To Catch a Predator, which has caught over two hundred potential child predators. While the show exposed this epidemic, Chris Hans](https://documentaryheaven.com/to-catch-a-predator/ "To Catch a Predator")
-* [![History of World War II: Hiroshima](/wp-content/thumbnails/5880-100x70.jpeg?x53432)
+    Each year, more than 30 million people flow between the US and Mexico through the San Ysidro Port of Entry, the busiest land-border crossing in the world. Situated between San Diego and Tijuana, at on](https://documentaryheaven.com/deportee-purgatory/ "Deportee Purgatory")
+* [![The Great Conspiracy: The 9/11 News Special You Never Saw](/wp-content/thumbnails/433-100x70.png?x53432)
     
-    History of World War II: Hiroshima
+    The Great Conspiracy: The 9/11 News Special You Never Saw
     
-    It was the defining moment of the 20th Century – the scientific, technological, military, and political gamble of the first atomic attack. This drama-documentary attempts to do what no other film has](https://documentaryheaven.com/history-of-world-war-ii-hiroshima/ "History of World War II: Hiroshima")
+    “The Great Conspiracy: The 9/11 News Special You Never Saw” is a 70-minute sequel to The Great Deception. That is a ground-breaking 44-minute video also by Barrie Zwicker. He was the first mainstr](https://documentaryheaven.com/the-great-conspiracy-the-911-news-special-you-never-saw/ "The Great Conspiracy: The 9/11 News Special You Never Saw")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
