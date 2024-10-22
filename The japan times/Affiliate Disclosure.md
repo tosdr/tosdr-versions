@@ -131,64 +131,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[The rise of BRICS and the emerging multipolar world](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+
+  [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+
+[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+
+  [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+
+[Japan hopes electric cars are just a bad dream](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+
+  [![A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428644.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+
+[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+
+  [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+
 [LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
   [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
-
-[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
-
-  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
-
-[Gyms in Japan offer laundry, karaoke and hair-removal machines](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
-
-  [![A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425784.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.")](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
-
-[Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
-
-  [![Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429047.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.")](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
 
 Editors' Picks
 --------------
 
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[The rise of BRICS and the emerging multipolar world](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+
+By [Brahma Chellaney](https://www.japantimes.co.jp/author/321/brahma-chellaney/ "Brahma Chellaney")  
+
+  [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+
+  [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Japan hopes electric cars are just a bad dream](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+
+By [David Fickling](https://www.japantimes.co.jp/author/718/david-fickling/ "David Fickling")  
+
+  [![A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428644.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A battery charge technology display at the Engie pavilion at the Paris Motor Show on Tuesday. Japan's EV market share remains significantly lower than in other countries, with only 2.2% of cars sold being battery EVs, compared to 18% in France and 25% in China.")](https://www.japantimes.co.jp/commentary/2024/10/18/japan/japan-electric-cars/ "Japan hopes electric cars are just a bad dream")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+
+By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+
+  [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [LDP shaken by low public support for Ishiba Cabinet](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
 
   [![Prime Minister Shigeru Ishiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428828.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba")](https://www.japantimes.co.jp/news/2024/10/20/japan/politics/ldp-low-public-support/ "LDP shaken by low public support for Ishiba Cabinet")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Kyoto’s most expensive hotel offers inner peace — for a price](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
-
-By [Tan Pin Yen](https://www.japantimes.co.jp/author/5641/tan-pin-yen/ "Tan Pin Yen")  
-
-  [![Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/18/427934.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stays at Aman Kyoto start at around $2,500 (about ¥375,000) and increasing to $4,000 (about ¥600,000) per night, but for the right traveler, it's not money entirely wasted.")](https://www.japantimes.co.jp/life/2024/10/19/travel/aman-kyoto-resort-expensive-meditation/ "Kyoto’s most expensive hotel offers inner peace — for a price")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Gyms in Japan offer laundry, karaoke and hair-removal machines](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
-
-By [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan") and [Lisa Du](https://www.japantimes.co.jp/author/441/lisa-du/ "Lisa Du")  
-
-  [![A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/425784.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A standard Chocozap location is small and unmanned, which has made it easy for Rizap to add locations amid a chronic labor shortage.")](https://www.japantimes.co.jp/business/2024/10/20/gyms-karaoke-laundry/ "Gyms in Japan offer laundry, karaoke and hair-removal machines")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
-
-  [![Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429047.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the NLCS trophy as he celebrates with his teammates following the Dodgers' win over the Mets in Game 6 of the NLCS in Los Angeles on Sunday. The Dodgers advanced to the World Series with the win.")](https://www.japantimes.co.jp/sports/2024/10/21/baseball/mlb/dodgers-advance-to-world-series/ "Dodgers eliminate Mets in Game 6 as Shohei Ohtani reaches first World Series")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Moldova votes in favor of EU membership by thin margin despite influence](https://www.japantimes.co.jp/news/2024/10/22/world/politics/moldova-eu-membership-thin-margin/ "Moldova votes in favor of EU membership by thin margin despite influence")
+[Police drew guns at man who set minivan on fire at Prime Minister's Office](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/police-gun-pm-attack/ "Police drew guns at man who set minivan on fire at Prime Minister's Office")
 
-31 mins ago
+38 mins ago
 
-[Harris and Trump pick up the pace two weeks before Election Day](https://www.japantimes.co.jp/news/2024/10/22/world/politics/harris-trump-election-day/ "Harris and Trump pick up the pace two weeks before Election Day")
-
-53 mins ago
-
-[Shadow of Ukraine war hangs over Putin's BRICS summit in Russia](https://www.japantimes.co.jp/news/2024/10/22/world/politics/ukraine-war-putin-brics-russia/ "Shadow of Ukraine war hangs over Putin's BRICS summit in Russia")
+[With her sights set on Ishiba's throne, will Takaichi take over the LDP?](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
 
 1 hours ago
 
-[F-35B fighter makes first landing on de facto aircraft carrier Kaga](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
+[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
 
 1 hours ago
 
-[New cases of political violence roil U.S. before contentious election](https://www.japantimes.co.jp/news/2024/10/22/world/politics/political-violence-cases-us-election/ "New cases of political violence roil U.S. before contentious election")
+[Mackerel from Norway boosting presence in Japan](https://www.japantimes.co.jp/news/2024/10/22/japan/norway-mackerel-boost-presence/ "Mackerel from Norway boosting presence in Japan")
 
-1 hours ago
+2 hours ago
+
+[China resumes imports of Japanese koi fish](https://www.japantimes.co.jp/news/2024/10/22/japan/china-import-koi/ "China resumes imports of Japanese koi fish")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
