@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Twitch Israel Ban Controversy](https://knowyourmeme.com/memes/events/twitch-blocking-new-users-from-israel-controversy "Twitch Israel Ban Controversy") [Sabra Tier List Antisemitism Controversy](https://knowyourmeme.com/memes/events/ethan-klein-vs-frogan-sabra-tier-list-controversy "Sabra Tier List Antisemitism Controversy") [Imagine You Live In LA With Your Boyfriend](https://knowyourmeme.com/memes/imagine-you-live-in-la-with-your-boyfriend "Imagine You Live In LA With Your Boyfriend") [SFW / NSFW Artists Posting OCs](https://knowyourmeme.com/memes/sfw-artists-posting-about-ocs-vs-nsfw-artists-posting-about-ocs "SFW / NSFW Artists Posting OCs") [Akuma Auntie](https://knowyourmeme.com/memes/akuma-auntie "Akuma Auntie")
+[Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Twitch Israel Ban Controversy](https://knowyourmeme.com/memes/events/twitch-blocking-new-users-from-israel-controversy "Twitch Israel Ban Controversy") [Sabra Tier List Antisemitism Controversy](https://knowyourmeme.com/memes/events/ethan-klein-vs-frogan-sabra-tier-list-controversy "Sabra Tier List Antisemitism Controversy")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### 'lo! You must login or signup first!
 
 |     |     |
 | --- | --- |
