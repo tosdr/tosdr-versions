@@ -1282,6 +1282,7 @@ Gå direkt till :
             * [Biomedicinsk analytiker (BMA)](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker-bma/)
             * [Veterinär med intresse för infektionssjukdomar hos fjäderfä](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/veterinar-med-intresse-for-infektionssjukdomar-hos-fjaderfa/)
             * [Administratör - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/administrator-intermittent-anstallning/)
+            * [Lokalplanerare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lokalplanerare/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
