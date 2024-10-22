@@ -2907,7 +2907,7 @@ Please note, due to the cost of International shipping, SD Bullion will handle I
 
 Thank you for doing business with SD Bullion!
 
-  ![Three Billion Transactions Image](https://sdbullion.com/media/wysiwyg/footer/over-4-billion-in-trusted-transactions_1_.png)
+  ![over 5 billion in trusted transactions](/wysiwyg/footer/over-5-billion-in-trusted-transactions-sd-bullion_1_.png) loading="lazy" />
 
   [![Phone Icon](https://sdbullion.com/media/wysiwyg/footer/phone-icon-min.png)](tel:18002948732)
 
