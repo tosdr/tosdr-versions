@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/maurice-de-hond-boos-om-dodelijk-beleid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/europa-verbiedt-schadelijke-gsms-en-wifi-op-scholen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
