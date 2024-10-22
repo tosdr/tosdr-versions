@@ -53,10 +53,10 @@ Login to your account, make a payment, see benefits and more.
 ### Helpful Tools
 
 * [Make A Payment](https://www.fideliscare.org/Member/Helpful-Tools/Make-A-Payment)
-* [COVID-19 FAQs](https://www.fideliscare.org/Member/Helpful-Tools/Health-Resources/Coronavirus)
 * [Health Resources](https://www.fideliscare.org/Member/Helpful-Tools/Health-Resources)
-* [Find a Doctor](https://www.fideliscare.org/Find-A-Doctor)
+* [Member Pharmacy](https://www.fideliscare.org/Member/Helpful-Tools/Member-Pharmacy)
 * [Member Portal Resources](https://www.fideliscare.org/Member/Member-Portal-Resources)
+* [Find a Doctor](https://www.fideliscare.org/Find-A-Doctor)
 * [Get Coverage](https://www.fideliscare.org/Blog/Year-Round-Health-Insurance)
 
 * * *
