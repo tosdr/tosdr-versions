@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/grote-graanformatie-in-hollands-tarwe/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/janosh-in-welke-soap-ben-ik-terecht-gekomen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
