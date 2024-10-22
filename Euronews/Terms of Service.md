@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [Russia](https://www.euronews.com/tag/russia)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-    * [Spain](https://www.euronews.com/tag/spain)
+    * [Cinema](https://www.euronews.com/tag/cinema)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [European Union](https://www.euronews.com/tag/european-union)
     
     * * *
     
     Latest stories
     
-    [![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")
+    [![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")
     
-    ![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://static.euronews.com/articles/stories/08/80/33/76/368x207_cmsv2_ed54dfa9-b6cc-5a38-bf95-ed5ea1e236e8-8803376.jpg "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-    
-    Now playing Next
-    
-    [Cinema](https://www.euronews.com/culture/culture-series/cinema)
-    
-    ### [Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-    
-    [![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")
-    
-    ![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](https://static.euronews.com/articles/stories/08/80/33/20/368x207_cmsv2_36c7c6d4-834b-56e1-8e01-34e4239c64c7-8803320.jpg "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
-    
-    Now playing Next
-    
-    [USA](https://www.euronews.com/news/america/usa)
-    
-    ### [Is Musk's $1-million daily giveaway to Trump voters illegal?](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
-    
-    [![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")
-    
-    ![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](https://static.euronews.com/articles/stories/08/80/28/92/368x207_cmsv2_67f3ed17-5c4b-51c2-919f-927aa2c1b17d-8802892.jpg "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+    ![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](https://static.euronews.com/articles/stories/08/80/45/34/368x207_cmsv2_ceb1f4c9-7518-5383-a296-393150ee6b20-8804534.jpg "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Four killed and dozens injured after Russian strikes on Ukraine](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+    ### [Russian drone strike on Ukraine's Sumy kills at least three](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
     
-    [![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+    [![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")
     
-    ![Europe in Motion](https://static.euronews.com/articles/stories/08/79/43/56/368x207_cmsv2_1e478bf3-0b02-55e0-b56c-dbc67ae0fe61-8794356.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+    ![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](https://static.euronews.com/articles/stories/07/21/04/30/368x207_cmsv2_96ffcab8-9daf-57e9-8d1f-8c1baaa7d252-7210430.jpg "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
     
     Now playing Next
     
-    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    [Travel News](https://www.euronews.com/travel/travel-news)
     
-    ### [Almost 15% of EU youngsters unable to pay rent, new Eurostat data says](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+    ### [Italy revives long-awaited dream of suspension bridge to Sicily](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
+    
+    [![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")
+    
+    ![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](https://static.euronews.com/articles/stories/08/80/47/42/368x207_cmsv2_eb2195e2-721c-5e36-a254-513b1ce45c50-8804742.jpg "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+    
+    Now playing Next
+    
+    [Culture news](https://www.euronews.com/culture/culture-news)
+    
+    ### [Why are ‘Blade Runner 2049’ producers suing Elon Musk?](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+    
+    [![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")
+    
+    ![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](https://static.euronews.com/articles/stories/08/80/45/18/368x207_cmsv2_adee5da7-c412-5212-9159-49447443e996-8804518.jpg "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
+    
+    Now playing Next
+    
+    [Business](https://www.euronews.com/business/business)
+    
+    ### [Disney looks for fairy-tale outcome as it names new chairman](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -312,6 +312,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -356,61 +358,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [European Union](https://www.euronews.com/tag/european-union)
-* [Russia](https://www.euronews.com/tag/russia)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-* [Spain](https://www.euronews.com/tag/spain)
+* [Cinema](https://www.euronews.com/tag/cinema)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [European Union](https://www.euronews.com/tag/european-union)
 
 * * *
 
 Latest stories
 
-[![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")
+[![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")
 
-![Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://static.euronews.com/articles/stories/08/80/33/76/368x207_cmsv2_ed54dfa9-b6cc-5a38-bf95-ed5ea1e236e8-8803376.jpg "Saoirse Ronan and the offer James Bond producers shouldn’t ignore")](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-
-Now playing Next
-
-[Cinema](https://www.euronews.com/culture/culture-series/cinema)
-
-### [Saoirse Ronan and the offer James Bond producers shouldn’t ignore](https://www.euronews.com/culture/2024/10/21/saoirse-ronan-and-the-offer-james-bond-producers-shouldnt-ignore)
-
-* * *
-
-[![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")
-
-![Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.](https://static.euronews.com/articles/stories/08/80/33/20/368x207_cmsv2_36c7c6d4-834b-56e1-8e01-34e4239c64c7-8803320.jpg "Elon Musk gestures as he speaks at Life Center Church in Harrisburg, Pa., Saturday, 19 October 2024.")](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
-
-Now playing Next
-
-[USA](https://www.euronews.com/news/america/usa)
-
-### [Is Musk's $1-million daily giveaway to Trump voters illegal?](https://www.euronews.com/2024/10/21/is-elon-musks-1-million-daily-giveaway-to-trump-voters-illegal)
-
-* * *
-
-[![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")
-
-![In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.](https://static.euronews.com/articles/stories/08/80/28/92/368x207_cmsv2_67f3ed17-5c4b-51c2-919f-927aa2c1b17d-8802892.jpg "In this photo provided by the Ukrainian Emergency Service on Oct. 21, 2024, rescue workers clear the rubble of a house destroyed by a Russian strike in Kharkiv, Ukraine.")](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+![In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.](https://static.euronews.com/articles/stories/08/80/45/34/368x207_cmsv2_ceb1f4c9-7518-5383-a296-393150ee6b20-8804534.jpg "In this photo provided by the Ukrainian Emergency Service, emergency workers clear the rubble after an overnight Russian attack with guided bombs in Zaporizhzhia, Ukraine.")](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Four killed and dozens injured after Russian strikes on Ukraine](https://www.euronews.com/my-europe/2024/10/21/four-killed-and-dozens-injured-after-russian-strikes-on-ukraine)
+### [Russian drone strike on Ukraine's Sumy kills at least three](https://www.euronews.com/my-europe/2024/10/22/russian-drone-strike-on-ukraines-sumy-kills-at-least-three-amid-onslaught-of-overnight-att)
 
 * * *
 
-[![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+[![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")
 
-![Europe in Motion](https://static.euronews.com/articles/stories/08/79/43/56/368x207_cmsv2_1e478bf3-0b02-55e0-b56c-dbc67ae0fe61-8794356.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+![Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ](https://static.euronews.com/articles/stories/07/21/04/30/368x207_cmsv2_96ffcab8-9daf-57e9-8d1f-8c1baaa7d252-7210430.jpg "Environmentalists say the proposed bridge from Sicily to mainland Italy would damage local ecosystems. ")](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
 
 Now playing Next
 
-[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+[Travel News](https://www.euronews.com/travel/travel-news)
 
-### [Almost 15% of EU youngsters unable to pay rent, new Eurostat data says](https://www.euronews.com/my-europe/2024/10/21/almost-15-of-eu-youngsters-are-struggling-to-pay-their-rent-new-eurostat-data-says)
+### [Italy revives long-awaited dream of suspension bridge to Sicily](https://www.euronews.com/travel/2024/10/22/sicily-and-mainland-italy-might-soon-be-linked-by-the-worlds-longest-suspension-bridge)
+
+* * *
+
+[![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")
+
+![Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ](https://static.euronews.com/articles/stories/08/80/47/42/368x207_cmsv2_eb2195e2-721c-5e36-a254-513b1ce45c50-8804742.jpg "Why are ‘Blade Runner 2049’ producers suing Elon Musk?  ")](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+
+Now playing Next
+
+[Culture news](https://www.euronews.com/culture/culture-news)
+
+### [Why are ‘Blade Runner 2049’ producers suing Elon Musk?](https://www.euronews.com/culture/2024/10/22/why-are-blade-runner-2049-producers-suing-elon-musk)
+
+* * *
+
+[![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")
+
+![Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.](https://static.euronews.com/articles/stories/08/80/45/18/368x207_cmsv2_adee5da7-c412-5212-9159-49447443e996-8804518.jpg "Chairman and CEO of Morgan Stanley, James Gorman, speaks during the Global Financial Leaders' Investment Summit in Hong Kong. 2 November 2022.")](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
+
+Now playing Next
+
+[Business](https://www.euronews.com/business/business)
+
+### [Disney looks for fairy-tale outcome as it names new chairman](https://www.euronews.com/business/2024/10/22/disney-looks-for-fairy-tale-outcome-as-it-names-new-chair-and-sets-out-ceo-timeline)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -660,6 +662,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
