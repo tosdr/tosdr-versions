@@ -279,7 +279,7 @@ Other countries: (425) 204-8069
 
 Online form:
 
-Submit a help request at [https://support.wizards.com](https://support.wizards.com/)
+Submit a help request at [https://docs.hasbro.com/privacy\_rights](https://docs.hasbro.com/privacy_rights)
 
 ESRB:
 
@@ -343,7 +343,7 @@ You also have the right to request the specific pieces of personal information w
 
 In addition, you have the right to correct or delete the personal information we have collected from you. These rights are subject to certain exceptions and also apply to sensitive personal information.
 
-To exercise any of these rights, please submit a request through our online form available at [https://support.wizards.com/](https://support.wizards.com/) or call our toll-free number at (800) 324-6496. If you have an account with us, we may require you to use the account to submit the request. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 business days and respond to your request within 45 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know, correct, or delete.
+To exercise any of these rights, please submit a request through our online form available at [https://docs.hasbro.com/privacy\_rights](https://docs.hasbro.com/privacy_rights) or call our toll-free number at (800) 324-6496. If you have an account with us, we may require you to use the account to submit the request. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 business days and respond to your request within 45 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know, correct, or delete.
 
 **E. Right to Opt-Out of Sales and Sharing**
 
@@ -374,7 +374,7 @@ Customers who are residents of California may request (1) a list of the categori
 **15\. Additional Disclosure for Nevada Residents**
 ---------------------------------------------------
 
-If you are a Nevada consumer, you have the right to direct us not to sell any covered information (as that term is defined by NRS 603A.340) that we have collected or will collect about you. A “sale” under Nevada law is the exchange of covered information for monetary consideration by a business to a third party for the third party to license or sell the covered information to other third parties. If you are a Nevada consumer and wish to exercise this right, please contact us as at [https://support.wizards.com/](https://support.wizards.com/).
+If you are a Nevada consumer, you have the right to direct us not to sell any covered information (as that term is defined by NRS 603A.340) that we have collected or will collect about you. A “sale” under Nevada law is the exchange of covered information for monetary consideration by a business to a third party for the third party to license or sell the covered information to other third parties. If you are a Nevada consumer and wish to exercise this right, please contact us as at [https://docs.hasbro.com/privacy\_rights](https://docs.hasbro.com/privacy_rights).
 
 **16\. ADDITIONAL DISCLOSURES FOR VIRGINIA RESIDENTS**
 ------------------------------------------------------
@@ -388,7 +388,7 @@ Virginia provides additional rights to Virginia residents through the Virginia C
 * To obtain a copy of your personal data that you previously provided to us in a portable and readily usable format; and
 * To opt out of the processing of personal data for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
 
-To exercise any of these rights, please contact us through this [**Form**](https://support.wizards.com/). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
+To exercise any of these rights, please contact us through this [**Form**](https://docs.hasbro.com/privacy_rights). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
 
 If we refuse to take action on a request, you may appeal our decision within a reasonable period of time by contacting us at [privacy@wizards.com](mailto:privacy@wizards.com) and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint to the Virginia Attorney General at [https://www.oag.state.va.us/consumercomplaintform](https://www.oag.state.va.us/consumercomplaintform).
 
@@ -411,7 +411,7 @@ Data Minimization: We must also limit the data we store by reviewing no less tha
 
 Re-Obtaining Consent: We may re-seek consent from you if you have previously opted out from processing activities. If you have not interacted with us for at least one year, we are required by the CPA to re-obtain your affirmative consent to process any of your information.
 
-For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [**Form**](https://support.wizards.com/). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
+For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [**Form**](https://docs.hasbro.com/privacy_rights). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
 
 If we refuse to take action on a request, you may appeal our decision within a reasonable period of time by contacting us at [privacy@wizards.com](mailto:privacy@wizards.com) and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint to the Colorado Attorney General at [https://complaints.coag.gov/s/contact-us](https://complaints.coag.gov/s/contact-us) or by phone at (720) 508-6000.
 
@@ -433,7 +433,7 @@ Data Minimization: We must limit collection of personal data to what is adequate
 
 Children in Connecticut: We may not process children’s personal data for targeted advertising or sell children’s personal data. We must obtain consent to use personal data for targeted advertising or sell personal data from a person aged 13 to 15 when we have actual knowledge that that person is between 13 and 15.
 
-For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [**Form**](https://support.wizards.com/). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
+For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [**Form**](https://docs.hasbro.com/privacy_rights). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
 
 If we refuse to take action on a request, you may appeal our decision within a reasonable period of time by contacting us at [privacy@wizards.com](mailto:privacy@wizards.com) and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint to the Connecticut Attorney General at [https://www.dir.ct.gov/ag/complaint/](https://www.dir.ct.gov/ag/complaint/) or (860) 808-5420.
 
@@ -454,7 +454,7 @@ Data protection laws in Europe require a “lawful basis” for processing perso
 
 If you are a data subject in Europe, you have the right to access, rectify, or erase any personal data we have collected about you through the Service. You also have the right to data portability, right to be forgotten, and the right to restrict or object to our processing of personal data we have collected about you through the Service. In addition, you have the right to ask us not to process your personal data (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
 
-To exercise any of these rights, please submit through this [**Form**](https://support.wizards.com/). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Please note that we store information as necessary to fulfil the purposes for which it was collected and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+To exercise any of these rights, please submit through this [**Form**](https://docs.hasbro.com/privacy_rights). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Please note that we store information as necessary to fulfil the purposes for which it was collected and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
 
 If you have any issues with our compliance, you have the right to lodge a complaint with a European supervisory authority.
 
