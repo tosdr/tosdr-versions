@@ -291,11 +291,19 @@ Congratulations! You'll get your free product discount at checkout.
 
 KEEP SHOPPING [CHECKOUT](https://snuggiestore.com/checkout)
 
+[sale
+
 QUICK ADD
 
 QUICK ADD
 
 This product is SOLD OUT.
+
+SNUGGIE HEATED SHAWL
+
+**$89.99**
+
+**$79.99**](https://snuggiestore.com/products/snuggie-shawl)
 
 ADDED TO CART!
 
