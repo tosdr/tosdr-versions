@@ -185,7 +185,7 @@ Be the first to receive updates on new arrivals, special promos and sales.
 
    Email address 
 
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+This site is protected by hCaptcha and the hCaptcha [Privacy Policy](https://hcaptcha.com/privacy) and [Terms of Service](https://hcaptcha.com/terms) apply.
 
 [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
