@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Ex-Abercrombie & Fitch CEO arrested in sex trafficking probe](https://nypost.com/2024/10/22/us-news/ex-abercrombie-fitch-ceo-mike-jeffries-business-associates-arrested-in-sex-trafficking-probe/)
+[Ex-Abercrombie & Fitch CEO's twisted sex-trafficking ring subjected dozens of young models to horrific abuse: feds](https://nypost.com/2024/10/22/us-news/ex-abercrombie-fitch-ceo-partner-arrested-in-twisted-scheme-to-sexually-exploit-male-models-feds/)
 
 Terms Of Use
 ============
