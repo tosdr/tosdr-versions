@@ -158,7 +158,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        224 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        225 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//shop.4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
@@ -245,7 +245,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Emergency Food Ration Bars
         
-        502 reviews](https://4patriots.com/products/emergency-food-bars-1)
+        503 reviews](https://4patriots.com/products/emergency-food-bars-1)
         
         [![ Food & Fire Emergency Cooking Bundle](//shop.4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
