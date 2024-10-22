@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/politiek-marionet-alias-vera-bergkamp/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kweekvlees-slechter-dan-regulier-vlees/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
