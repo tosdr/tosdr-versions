@@ -150,11 +150,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/10/BBI-Spontaneous-Giving-Report-300X150_MegaMenu.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/bbcon2024-sessions-resources-megamenu-275X135.png)
     
-    New Report | Trends in Spontaneous Giving
+    bbcon 2024 | Sept. 24–26
     
-    [Learn to attract and harness the generosity of spontaneous givers.](https://institute.blackbaud.com/resources/spontaneous-giving?icid=_p-megamenu_t-homepage_c-spontaneous-giving)
+    [Our lineup of 150+ bbcon sessions is live! Explore Sessions.](https://www.bbconference.com/2024/sessions?ICID=bbwebsite-mega-menu-tile-bbcon2024-sessions)
     
     * * *
     
