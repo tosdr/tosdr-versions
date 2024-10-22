@@ -1,15 +1,4 @@
-Monday, October 21 2024
-
-Breaking News
-
-* [Kamala Harris Must Not be Commander in Chief](https://www.conservativedailynews.com/2024/10/kamala-harris-must-not-be-commander-in-chief/)
-* [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/)
-* [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
-* [Medal of Honor Monday: Navy Boatswain’s Mate 1st Class George Cholister](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-navy-boatswains-mate-1st-class-george-cholister/)
-* [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/)
-* [Election Litigation Could Shape The Race In Battleground States. We Won’t Know Until The Votes Are Cast](https://www.conservativedailynews.com/2024/10/election-litigation-could-shape-the-race-in-battleground-states-we-wont-know-until-the-votes-are-cast/)
-* [President Joe Biden’s Schedule for Monday, October 21, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-21-2024/)
-* [White House Press Briefing with Karine Jean-Pierre – 10/21/17](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-21-17/)
+Tuesday, October 22 2024
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -178,16 +167,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: XS Sights’ New Pro Series Big Dot Sights on the Glock 48](https://www.thegunpage.com/tfb-review-xs-sights-new-pro-series-big-dot-sights-on-the-glock-48/10611351)
+* [POTD: AR9 PCCs By Italian Armi Dallera Custom](https://www.thegunpage.com/potd-ar9-pccs-by-italian-armi-dallera-custom/10611352)
+* [The Rimfire Report: Do .22LR Bullet Coatings Matter?](https://www.thegunpage.com/the-rimfire-report-do-22lr-bullet-coatings-matter/10611353)
 * [Is the 45 ACP Good for Self Defense? A Comprehensive Look](https://www.thegunpage.com/is-the-45-acp-good-for-self-defense-a-comprehensive-look/10611343)
+* [Winchester Ammunition, White Flyer At 2024 National Sporting Clays Association Championship](https://www.thegunpage.com/winchester-ammunition-white-flyer-at-2024-national-sporting-clays-association-championship/10611350)
 * [Introducing Beretta's Ultimate Hypergun – The SL2](https://www.thegunpage.com/introducing-berettas-ultimate-hypergun-the-sl2/10611345)
 * [11-Year-Old Boy Shot During West Palm Beach Gun Deal](https://www.thegunpage.com/11-year-old-boy-shot-during-west-palm-beach-gun-deal/10611341)
 * [Celebrating Our Heroes: Metal Madness Aiming For Zero Fundraiser To Be Held In November](https://www.thegunpage.com/celebrating-our-heroes-metal-madness-aiming-for-zero-fundraiser-to-be-held-in-november/10611347)
 * [Bushmaster Adds New V-Radicator AR Varmint Rifles](https://www.thegunpage.com/bushmaster-adds-new-v-radicator-ar-varmint-rifles/10611346)
 * [GOA, GOF Coalition Support Iowa Police Chief Targeted by ATF](https://www.thegunpage.com/goa-gof-coalition-support-iowa-police-chief-targeted-by-atf/10611339)
-* [NY Gov’s Signing of Law Designed So NY Can Track Gun and Ammo Purchases](https://www.thegunpage.com/ny-govs-signing-of-law-designed-so-ny-can-track-gun-and-ammo-purchases/10611338)
-* [Double The Fun With Silencer Central's BOGO Suppressor Deal](https://www.thegunpage.com/double-the-fun-with-silencer-centrals-bogo-suppressor-deal/10611336)
-* [Illinois Lawmakers Continue To Push Restrictive Anti-Gun Laws](https://www.thegunpage.com/illinois-lawmakers-continue-to-push-restrictive-anti-gun-laws/10611334)
-* [TFB Weekly Web Deals 110: Deals for October 21st, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-110-deals-for-october-21st-2024/10611337)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -226,18 +215,6 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
-
-Recent Comments
-
-* charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
-* MarkJ on [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/#comment-782784)
-* Stanley Warner on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782783)
-* Jeff L. on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782767)
-* Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
-* Stanley Warner on [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/#comment-782764)
-* charles wilkins on [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/#comment-782763)
-* Stanley Warner on [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/#comment-782744)
-* KayCee on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782742)
 
 [Close](#)
 
