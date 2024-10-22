@@ -151,7 +151,7 @@ Offerings by Division
 
 [Overview](https://ihsmarkit.com/en/explore-s-p-global/careers)[Our Culture](https://ihsmarkit.com/en/explore-s-p-global/careers/our-culture)[Our Commitment](https://ihsmarkit.com/en/explore-s-p-global/careers/our-commitment)[Our Work](https://ihsmarkit.com/en/explore-s-p-global/careers/our-work)[Search for a Job](https://careers.spglobal.com/)
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -290,7 +290,7 @@ Search EN [Support](https://www.spglobal.com/en/enterprise/about/contact-us.html
 
 [Overview](https://ihsmarkit.com/en/explore-s-p-global/careers)[Our Culture](https://ihsmarkit.com/en/explore-s-p-global/careers/our-culture)[Our Commitment](https://ihsmarkit.com/en/explore-s-p-global/careers/our-commitment)[Our Work](https://ihsmarkit.com/en/explore-s-p-global/careers/our-work)[Search for a Job](https://careers.spglobal.com/)
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -438,7 +438,7 @@ Who We Are
 
 * * *
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -544,7 +544,7 @@ By Topic
 
 * * *
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -651,7 +651,7 @@ Events
 
 [Contact](https://investor.spglobal.com/contact-investor-relations/contact-ir/default.aspx)
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -785,7 +785,7 @@ Back S&P Global
 
 * * *
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -891,7 +891,7 @@ By Topic
 
 * * *
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
@@ -998,7 +998,7 @@ Events
 
 [Contact](https://investor.spglobal.com/contact-investor-relations/contact-ir/default.aspx)
 
-* [S&P Global Home](https://www.spglobal.com/en/)
+* [S&P Global Home](https://ihsmarkit.com/en)
 * [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
