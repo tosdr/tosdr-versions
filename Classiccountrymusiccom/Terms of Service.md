@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Eric Church Honors Toby Keith With...](https://classiccountrymusic.com/eric-church-honors-toby-keith-with-dont-let-the-old-man-in-during-country-music-hall-of-fame-induction/)
-* [Unreleased George Jones Songs Set to...](https://classiccountrymusic.com/unreleased-george-jones-songs-set-to-appear-in-new-album-the-lost-nashville-sessions/)
-* [Three Of Toby Keith’s Most Iconic...](https://classiccountrymusic.com/three-of-toby-keiths-most-iconic-songs-receive-new-platinum-certifications/)
+* [Lavish Tennessee Estate Built By George...](https://classiccountrymusic.com/lavish-tennessee-estate-built-by-george-jones-listed-for-sale-photos/)
+* [Toby Keith’s Wife Accepts His Country...](https://classiccountrymusic.com/toby-keiths-wife-accepts-his-country-music-hall-of-fame-medallion-during-induction-ceremony/)
+* [Blake Shelton Delivers “I Love This...](https://classiccountrymusic.com/blake-shelton-delivers-i-love-this-bar-tribute-to-toby-keith-at-country-music-hall-of-fame-induction/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
