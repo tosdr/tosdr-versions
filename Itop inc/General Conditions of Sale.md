@@ -181,7 +181,7 @@ Oops! Please enter a valid email address.
     
     Partner
     
-    [Become iTop Affiliate](https://www.itopvpn.com/affiliate-solutions) [YouTube Creators](https://www.itopvpn.com/affiliate-solutions) [Free AI Video Generator](https://www.vidnoz.com/?ref=fromenitopfooter)
+    [Become iTop Affiliate](https://www.itopvpn.com/affiliate-solutions) [YouTube Creators](https://www.itopvpn.com/affiliate-solutions)
 
 © 2024 Orange View Limited. All rights reserved.
 
