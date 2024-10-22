@@ -537,6 +537,16 @@ Sales
 
 [Sales Terms and Conditions](https://enphase.com/legal/sales-terms-and-conditions)
 
+Enphase Maintenance Services
+
+[Enphase Services Agreement (Individual Work Order)](https://enphase.com/legal/enphase-services-agreement-individual-work-order)
+
+Enphase Care
+
+[Enphase Care Annual](https://enphase.com/legal/enphase-care-annual)
+
+[Enphase Care Plus](https://enphase.com/legal/enphase-care-plus)
+
 365 Pronto
 
 [365 Pronto Platform Terms of Use](https://enphase.com/legal/365-pronto-platform-terms-use)
@@ -544,10 +554,6 @@ Sales
 [365 Pronto Provider Platform Services Agreement](https://enphase.com/legal/365-pronto-provider-platform-services-agreement)
 
 [365 Pronto Customer Platform Services Agreement](https://enphase.com/legal/365-pronto-customer-platform-services-agreement)
-
-Enphase Care
-
-[Enphase Care Services Agreement](https://enphase.com/legal/enphase-care-services-agreement)
 
 Solargraf Terms of Use
 
