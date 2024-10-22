@@ -1,7 +1,6 @@
 [Skip to content](#MainContent)
 
-15% OFF OFFICE CHAIRS >> [SIGN UP NOW!](https://www.xchair.com/pages/vip-october-flash-sale "VIP October Flash Sale")
----------------------------------------------------------------------------------------------------------------------
+### NEW X-Tech Vegan Leather Colors || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
 
 [](https://www.xchair.com/)
 
@@ -89,7 +88,7 @@ Menu
         
         Learn About The Dynamic Variable Lumbar (DVL)® Support.](https://www.xchair.com/pages/ergonomics)
     
-* [Sale](https://www.xchair.com/pages/vip-october-flash-sale)
+* [Sale](https://www.xchair.com/collections/refurbished)
 
 * [BAG](https://www.xchair.com/cart)
 * [SIGN IN](https://www.xchair.com/account/login)
