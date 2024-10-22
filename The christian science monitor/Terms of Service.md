@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Integrity
+
+### In Europe, a nod to honest leaders](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1022/In-Europe-a-nod-to-honest-leaders "In Europe, a nod to honest leaders")
+
 [Equality
 
 ### Many Nigerian girls have been forced to leave school. Mentors help them return.](https://www.csmonitor.com/World/Making-a-difference/2024/1022/nigeria-education-girls-displaced-wassa-camp "Many Nigerian girls have been forced to leave school. Mentors help them return.")
@@ -99,10 +103,6 @@ Recent Stories
 [Peace
 
 ### In Gaza or Ukraine, peace can look impossible. Here, there’s hope.](https://www.csmonitor.com/World/Europe/2024/1022/Geneva-Peace-Week-United-Nations "In Gaza or Ukraine, peace can look impossible. Here, there’s hope.")
-
-[Responsibility
-
-### What’s engaging these high schoolers? Classes about the election.](https://www.csmonitor.com/USA/Education/2024/1022/2024-election-high-school-students-voting-civics "What’s engaging these high schoolers? Classes about the election.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 21, 2024
+October 22, 2024
 
-Seeking light in Sudan
+A glimpse of a world where peace is growing
 
-Last week, a United Nations task force made an alarming statement: “Never in modern history have so many people faced starvation and famine as in Sudan today.”It is happening largely in the dark. Foreign journalists face difficulties accessing the war-torn area. Local journalists are intimidated or killed. This week, we’re publishing three stories about Sudan, starting today. We are also making a statement. The articles explore how people are surviving the war – where they draw hope and the sense of family and community they’ve fought to retain. But they also ask the world to bring this crisis into the light.
+Every day, news tells the story of how peace seems to be in retreat. The challenges are significant. But there is also another view. Last week, people from around the world gathered in Geneva for Peace Week. Columnist Keith Collins was there and caught a glimpse of what the world looks like when peace is the priority. You can read the story here.   
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Many Nigerian girls have been forced to leave school. Mentors help them return.](https://www.csmonitor.com/World/Making-a-difference/2024/1022/nigeria-education-girls-displaced-wassa-camp "Many Nigerian girls have been forced to leave school. Mentors help them return.")
+[### Europe is trying to cut back migration. Can it find a legal way to do it?](https://www.csmonitor.com/World/Europe/2024/1022/immigration-italy-albania-processing-centers-court "Europe is trying to cut back migration. Can it find a legal way to do it?")
 
-[### In Gaza or Ukraine, peace can look impossible. Here, there’s hope.](https://www.csmonitor.com/World/Europe/2024/1022/Geneva-Peace-Week-United-Nations "In Gaza or Ukraine, peace can look impossible. Here, there’s hope.")
+[### Peru’s former president accepted $35 million in bribes. Now he will serve 20 years.](https://www.csmonitor.com/World/Americas/2024/1022/alejandro-toledo-peru-corruption-scandal-bribes-guilty "Peru’s former president accepted $35 million in bribes. Now he will serve 20 years.")
 
-[### China’s latest drills highlight key strategy to annex Taiwan: Blockade](https://www.csmonitor.com/World/Asia-Pacific/2024/1021/china-taiwan-pla-blockade-unification-us-defense "China’s latest drills highlight key strategy to annex Taiwan: Blockade")
+[### Campus protests face new restrictions this year. Professors are pushing back.](https://www.csmonitor.com/USA/2024/1022/College-Campus-protests-Gaza-Israel-freedom-of-speech "Campus protests face new restrictions this year. Professors are pushing back.")
 
 * * *
 
