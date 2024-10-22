@@ -166,31 +166,121 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Evidence from the Earth Sciences
+
+[![](/i/Main%20Stage%20-%201400x1050/Deepwater_Oil_Fields_1400x1050.jpg)](https://www.icr.org/article/deepwater-oil-fields-small-environmental-footprint)
+
+[Deepwater Oil Fields Have Small Environmental Footprint](https://www.icr.org/article/deepwater-oil-fields-small-environmental-footprint/)
+
+Recently, geologist Harry S. Pettingill has found that deepwater oil and gas fields may be more environmentally friendly than first thought.1 In this day...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Unfounded_Fears_Canyon_1400x1050.jpg)](https://www.icr.org/article/unfounded-fears-arise-from-deep-canyon)
+
+[Unfounded Fears Arise from Deep Canyon](https://www.icr.org/article/unfounded-fears-arise-from-deep-canyon/)
+
+New concerns have surfaced this week about melting ice from within the deepest point on the continents.1 Worry over the rapid melting of the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/stage_248/dinotrack_stage.jpg)](https://www.icr.org/article/does-dinosaur-extinction-encourage)
+
+[Does Dinosaur Extinction Encourage Faith?](https://www.icr.org/article/does-dinosaur-extinction-encourage/)
+
+Many professors at private religious universities cling to secular views of the past despite the clear anti-Christian consequences. Theological inferences...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Earth Sciences Resources
+
+[![](/i/Main%20Stage%20-%201400x1050/Yellowstone_Super_Eruptions_1400x1050.jpg)](https://www.icr.org/article/yellowstone-super-eruptions-declining)
+
+[Yellowstone Super-Eruptions Declining](https://www.icr.org/article/yellowstone-super-eruptions-declining/)
+
+Recently, renewed activity has had scientists, and the general public alike, alarmed about an impending supervolcano eruption at Yellowstone.1...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Great_Unconformity_Global_Flood_1400x1050.jpg)](https://www.icr.org/article/great-unconformity-solved-by-global-flood)
+
+[Great Unconformity Best Solved by Global Flood](https://www.icr.org/article/great-unconformity-solved-by-global-flood/)
+
+The Great Unconformity is one of the most baffling mysteries in the geological sciences.1 It is marked by a massive surface of erosion that...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Origin_Tectonic_Plates_1400x1050.jpg)](https://www.icr.org/article/origin-tectonic-plates-best-explained-by-the-flood)
+
+[Origin of Tectonic Plates Best Explained by the Flood](https://www.icr.org/article/origin-tectonic-plates-best-explained-by-the-flood/)
+
+A new study published in Nature Communications claims to have figured out how the tectonic plates may have originated.1 It’s been over...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
 More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/DarwinArches_1400x1050.jpg)](https://www.icr.org/article/darwins-fallen-arches)
+[![](/i/Main%20Stage%20-%201400x1050/chloroplastconstruction_1400x1050.jpg)](https://www.icr.org/article/chloroplast-construction)
 
-[Darwin’s Fallen Arches](https://www.icr.org/article/darwins-fallen-arches/)
+[Chloroplast Construction Reflects Creation](https://www.icr.org/article/chloroplast-construction/)
 
-Natural stone arches are commonly made of sandstone or limestone and are found in coastal cliff areas that can be eroded by wave action. Other arches...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/physicalevidence_1400x1050.jpg)](https://www.icr.org/article/physical-evidence-trumps-evolution)
-
-[Physical Evidence Trumps Evolution Theory](https://www.icr.org/article/physical-evidence-trumps-evolution/)
-
-One of the hallmarks of good science is to formulate a cogent theory based on the physical evidence. For example, if the physical evidence (e.g. a fossilized...
+Much has been written regarding the critical importance of photosynthesis and how utterly complex this near-universal biochemical process is.1,2...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/ContextBibInterp_1400x1050)](https://www.icr.org/article/importance-of-context-in-sound)
+[![](/i/Main%20Stage%20-%201400x1050/snail-trail-1400x1050)](https://www.icr.org/article/mucin-in-the-mucous)
 
-[The Importance of Context in Sound Biblical Interpretation](https://www.icr.org/article/importance-of-context-in-sound/)
+[Mucin in the Mucous](https://www.icr.org/article/mucin-in-the-mucous/)
 
-During World War II, fighter planes often returned from battle riddled with bullet holes. The Allies analyzed the litany of data and mapped the areas...
+Most readers would rather avoid the topic of mucous. It’s hardly a dinner-table subject! Regardless, our lives depend on this watery, mucilaginous...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/prehistoricreptiles_1400x1050.jpg)](https://www.icr.org/article/prehistoric-reptiles)
+
+[''Prehistoric'' Reptile Designed to Swim](https://www.icr.org/article/prehistoric-reptiles/)
+
+Locomotion in the human and animal world means the power to move from one place to another. Recently, evolutionists have published research regarding...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59496549/file.jpg)
+
+Carved in Stone DVD](https://store.icr.org/carved-in-stone-dvd.html)
+
+$21.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8267104/file.jpg)
+
+The Truth of the Genesis Flood](https://store.icr.org/the-truth-of-the-genesis-flood.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56200791/file.jpg)
+
+Carved in Stone eBook](https://store.icr.org/carved-in-stone-ebook.html)
+
+$19.99
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19343319/file.jpg)
+
+Carved in Stone](https://store.icr.org/carved-in-stone-geological-evidence-of-the-worldwi.html)
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11930827/file.jpg)
+
+Pack: Big Plans for Henry](https://store.icr.org/pack-big-plans-for-henry.html)
+
+$15.99
+
+$21.98
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
