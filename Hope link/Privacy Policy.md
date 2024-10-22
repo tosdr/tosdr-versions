@@ -30,7 +30,6 @@ Site Navigation
     * [Circle of Hope](https://www.hopelink.org/take-action/circle-of-hope/)
 * [Events](https://www.hopelink.org/events/)
     * [Upcoming Events](https://www.hopelink.org/events/)
-    * [Reaching Out Luncheon](https://www.hopelink.org/events/reaching-out-luncheon/)
 * [About Us](https://www.hopelink.org/about-us/)
     * [About Us](https://www.hopelink.org/about-us/)
     * [Blog](https://www.hopelink.org/blog/)
@@ -87,7 +86,6 @@ Open navigation
 
 * [Main Menu](#)
 * [Upcoming Events](https://www.hopelink.org/events/)
-* [Reaching Out Luncheon](https://www.hopelink.org/events/reaching-out-luncheon/)
 
 * [Main Menu](#)
 * [About Us](https://www.hopelink.org/about-us/)
