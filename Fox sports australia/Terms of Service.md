@@ -138,28 +138,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=717)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TB  | 31  |
-    | BAL | 41  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250730)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ARI | 17  |
-    | LAC | 15  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250701)
 * Basketball
     
 * [NBA
@@ -186,94 +164,94 @@ FOX SCORES
     
 * [UCL
     
-    23/10 3:45 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | MCO | –   |
-    | BGD | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250303)
-* [UCL
-    
-    23/10 3:45 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MIL | –   |
-    | CB  | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250301)
-* [UCL
-    
-    23/10 6:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | GIR | –   |
-    | SB  | –   |
+    | GIR | 1   |
+    | SB  | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250317)
 * [UCL
     
-    23/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | SG  | –   |
-    | LIS | –   |
+    | SG  | 0   |
+    | LIS | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250315)
 * [UCL
     
-    23/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | RMD | –   |
-    | BDM | –   |
+    | RMD | 0   |
+    | BDM | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250313)
 * [UCL
     
-    23/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | ARS | –   |
-    | DON | –   |
+    | ARS | 1   |
+    | DON | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250311)
 * [UCL
     
-    23/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | JUV | –   |
-    | STU | –   |
+    | JUV | 0   |
+    | STU | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250309)
 * [UCL
     
-    23/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | PSG | –   |
-    | PSV | –   |
+    | PSG | 0   |
+    | PSV | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250307)
 * [UCL
     
-    23/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | AVL | –   |
-    | BOL | –   |
+    | AVL | 0   |
+    | BOL | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250305)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | MIL | 3   |
+    | CB  | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250301)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | MCO | 5   |
+    | BGD | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250303)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
