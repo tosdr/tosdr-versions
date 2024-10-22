@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/geld/advocaat-laat-banken-miljoenen-kwijtschelden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/boekenverkopers-in-paniek-boek-baudet-tophit/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
