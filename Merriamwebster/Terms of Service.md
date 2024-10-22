@@ -9,8 +9,8 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
 * [Thesaurus](https://www.merriam-webster.com/thesaurus)
 * [Join MWU](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU)
 * * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
 * * Settings
     * [My Words](https://www.merriam-webster.com/saved-words)
     * [Recents](https://www.merriam-webster.com/recents)
@@ -18,10 +18,10 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
     * [Log Out](https://www.merriam-webster.com/logout)
 * [More](javascript:void(0);)
     * [Thesaurus](https://www.merriam-webster.com/thesaurus)
-    * [Join MWU ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
+    * [Join MWU ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
     * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-10-14--21-00-36-vyqvc/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
     
     * [Log In](https://www.merriam-webster.com/login)
     * Username
@@ -270,7 +270,7 @@ Learn a new word every day. Delivered to your inbox!
 * [Advertising Info](https://www.merriam-webster.com/advertising)
 * [Contact Us](https://www.merriam-webster.com/contact-us)
 * [Diversity](https://corporate.britannica.com/diversity)
-* [Privacy Policy](https://www.merriam-webster.com/privacy-policy)
+* [Privacy Policy](https://www.merriam-webster.com/i/privacy-policy-adt)
 * [Terms of Use](https://www.merriam-webster.com/terms-of-use)
 
 * [Facebook](https://www.facebook.com/merriamwebster)
