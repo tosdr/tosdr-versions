@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111256-fries-or-lysteria-2024-10-21)
+     [](https://patriotpost.us/memes/111262-and-fix-the-ice-cream-machine-2024-10-22)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -215,6 +215,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Gary Bauer The Final Stretch](https://patriotpost.us/opinion/111266-the-final-stretch-2024-10-22)
 *      [Allen West Are Americans First for the Progressive Socialist Leftists?](https://patriotpost.us/opinion/111274-are-americans-first-for-the-progressive-socialist-leftists-2024-10-22)
 *      [Dennis Prager The Secular Keep Me Religious](https://patriotpost.us/opinion/111271-the-secular-keep-me-religious-2024-10-22)
+*      [Guest Commentary An Open Letter to All Bible-Believing Christians in America](https://patriotpost.us/opinion/111289-an-open-letter-to-all-bible-believing-christians-in-america-2024-10-22)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +229,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
