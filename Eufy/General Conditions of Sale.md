@@ -16,10 +16,9 @@
     
     1. Latest Tech
     2. Robot Vacuums
-    3. Vacuum Cleaners
-    4. Smart Scales
+    3. Smart Scales
     
-    [All Clean](https://www.eufy.com/collections/clean?ref=navimenu_1_5_copy) [Find the Perfect Robot Vacuum](https://www.eufy.com/how-to-choose-a-robot-vacuum?ref=navimenu_1_6_copy) [Trade in](https://www.eufy.com/appliance-trade-in?ref=navimenu_1_7_copy) [Accessories](https://www.eufy.com/collections/ap-accessory?ref=navimenu_1_8_copy) [Subscription Service for Accessories](https://www.eufy.com/accessories-subscription?ref=navimenu_1_9_copy)
+    [All Clean](https://www.eufy.com/collections/clean?ref=navimenu_1_4_copy) [Find the Perfect Robot Vacuum](https://www.eufy.com/how-to-choose-a-robot-vacuum?ref=navimenu_1_5_copy) [Trade in](https://www.eufy.com/appliance-trade-in?ref=navimenu_1_6_copy) [Accessories](https://www.eufy.com/collections/ap-accessory?ref=navimenu_1_7_copy) [Subscription Service for Accessories](https://www.eufy.com/accessories-subscription?ref=navimenu_1_8_copy)
     
     * [eufy Robot Vacuum Omni S1 Pro
         
@@ -104,57 +103,9 @@
     
     [See More](https://us.eufy.com/eufy-clean-x-series?ref=navimenu_1_2_2_4_copy)
     
-    * [](https://us.eufy.com/collections/homevac?ref=navimenu_1_3_1_copy)
-        
-        [Handheld Vacuums](https://us.eufy.com/collections/homevac?ref=navimenu_1_3_1_copy)
-        
-        Compact, Powerful, and Portable
-        
-        Feature Products
-        
-        [HomeVac H11](https://us.eufy.com/products/t2521?variant=37765862719674&ref=navimenu_1_3_1_1_copy)
-        
-        [Shop Handheld Vacuums](https://us.eufy.com/collections/handheld-vacuum?ref=navimenu_1_3_1_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_1_more_copy)
-        
-    
-    * Robot Vacuum with All-in-One Station
-    * Robovac with Self-Empty Station
-    * Robovac with Auto-Clean Station
-    * Robot Vacuums
-    
-    * [eufy X10 Pro Omni
-        
-        New](https://us.eufy.com/products/t2351111?ref=navimenu_1_3_1_1_img)
-    
-    * [eufy Clean X8 Pro with Self-Empty Station
-        
-        New](https://us.eufy.com/products/t2276111?ref=navimenu_1_3_2_1_img)
-    * [eufy Clean G30 SES](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_2_2_img)
-    * [G40 Hybrid+](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_2_3_img)
-    * [eufy Clean L60 with Self-Empty Station](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_2_4_img)
-    * [eufy Clean L60 Hybrid SES](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_2_5_img)
-    
-    [See More](https://us.eufy.com/collections/self-emptying-robot-vacuum?ref=navimenu_1_3_2_6_copy)
-    
-    * [eufy Clean X9 Pro with Auto-Clean Station
-        
-        New](https://us.eufy.com/products/t2320v11?ref=navimenu_1_3_3_1_img)
-    
-    [See More](https://us.eufy.com/collections/robot-vacuums?Station=Auto-Washing&ref=navimenu_1_3_3_2_copy)
-    
-    * [eufy Clean L60](https://us.eufy.com/products/t2267111?ref=navimenu_1_3_4_1_img)
-    * [eufy Clean X8 Pro
-        
-        New](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_2_img)
-    * [eufy Clean L50](https://us.eufy.com/products/t2265z11?ref=navimenu_1_3_4_3_img)
-    * [eufy Clean 11S](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_4_img)
-    * [15C max](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_5_img)
-    
-    [See More](https://us.eufy.com/collections/robot-vacuums?Feature=Vaccum&ref=navimenu_1_3_4_6_copy)
-    
-    * [eufy Smart Scale P2](https://us.eufy.com/smart-scales?ref=navimenu_1_4_1_img)
-    * [eufy Smart Scale P1](https://us.eufy.com/collections/smart-scale?ref=navimenu_1_4_2_img)
-    * [eufy Smart Scale C1](https://us.eufy.com/products/t9146?ref=navimenu_1_4_3_img)
+    * [eufy Smart Scale P2](https://us.eufy.com/smart-scales?ref=navimenu_1_3_1_img)
+    * [eufy Smart Scale P1](https://us.eufy.com/collections/smart-scale?ref=navimenu_1_3_2_img)
+    * [eufy Smart Scale C1](https://us.eufy.com/products/t9146?ref=navimenu_1_3_3_img)
     
 * Security New
     
