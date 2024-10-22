@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Man tuning DAB radio](/siteassets/resources/images/-news-centre/body-images/2024/turn-up-and-tune-into-small-scale-dab/turn-up-and-tune-into-small-scale-dab-hero-1336--560px.png?width=1920&height=1085&quality=80)
+
+### Hundreds of new local stations take to the digital airwaves
+
+22 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/turn-up-and-tune-into-small-scale-dab/)
+
 [![Anxious woman on phone](/siteassets/resources/images/-news-centre/thumbnail-images/phones/anxious-woman-on-phone.jpg?width=1920&height=1085&quality=80)
 
 ### Ofcom launches investigation into whether Tismi failed to prevent misuse of its phone numbers by scammers
@@ -150,12 +156,6 @@
 ### Countdown to a safer life online
 
 17 October 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/countdown-to-a-safer-life-online/)
-
-[![Family on computer](/siteassets/resources/images/-news-centre/body-images/2024/why-were-supporting-get-online-week/why-were-supporting-get-online-week-hero-1336--560px.png?width=1920&height=1085&quality=80)
-
-### Why we’re supporting Get Online Week
-
-16 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/why-were-supporting-get-online-week/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
