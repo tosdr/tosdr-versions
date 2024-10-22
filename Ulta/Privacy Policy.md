@@ -1,6 +1,6 @@
 [SKIP TO MAIN](#MainWrapper)[SKIP TO FOOTER](#FooterWrapper)
 
-Free standard shipping on any $35 purchase
+Free standard shipping on any purchase, no minimum. Ends 10.22
 
 * Join / Sign in
 * [Community](https://www.ulta.com/community/groups)
