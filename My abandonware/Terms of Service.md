@@ -37,19 +37,39 @@ In case of law pursuits, utopiaweb declines all responsibility relative to the u
 
 Like most websites, we use cookies and other tracking technologies on our MyAbandonware, including HTTP cookies and HTML5 local storage, web beacons/GIFs, embedded scripts and e-tags or cache browsers. We use cookies for various purposes and to enhance your online experience, for example, by keeping you logged in, displaying adult screenshots, or distributing the global server bandwidth equally amongst users.
 
-We also use cookies to collect anonymous statistics through Google Analytics (Site analytics), you can find their privacy policy [here](https://policies.google.com/privacy).
+We also use cookies to collect anonymous statistics through Google Analytics (Site analytics), you can find their privacy policy [here](https://policies.google.com/privacy) .
 
 ### Privacy Policy
 
-You can change you ad consent settings at any time by [clicking here](javascript:void(0);).
+We respect your privacy and are committed to protecting your personal information. This policy explains how we collect, use, and safeguard your data.
 
-This Site is affiliated with Publisher First, Inc. dba Freestar ("Freestar") for the purposes of placing certain advertising on the Site, and Freestar will collect and use certain data for advertising purposes. To learn more about Freestar’s data usage, click [here](https://freestar.com/privacy-policy/).
+#### Information We Collect
 
-When you use our website, we share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our identity partners/service providers, including LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online, in-app, and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click here: [https://optout.liveramp.com/opt\_out](https://optout.liveramp.com/opt_out).
+* IP Addresses: We automatically collect IP addresses from visitors to monitor website performance and ensure security.
+* Registered Users & Newsletter Subscribers: When you register for an account or subscribe to our newsletter, we collect personal information such as your name and email address.
+
+#### How We Use Your Information
+
+* IP Addresses: Used for security purposes, website optimization, and analytics.
+* Registered Users & Newsletter Subscribers: Your contact information is used to manage your account and send newsletters or other communication you opted into.
+
+#### Data Removal Requests
+
+If you are a registered user or newsletter subscriber, you may [contact us](https://www.myabandonware.com/contact/) to request the removal of your personal data from our system.
+
+#### Data Security
+
+We take reasonable measures to protect your data from unauthorized access or disclosure. However, no method of transmission over the internet is 100% secure.
+
+#### Changes to This Policy
+
+We may update this privacy policy periodically. Any changes will be posted here with an updated "Last Updated" date.
 
 ### Hosting
 
 MyAbandonware.com is hosted by OVH SAS - 2 rue Kellermann - 59100 Roubaix - France.
+
+**Last Updated:** October 22, 2024
 
 Follow Us!
 
@@ -85,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Miraculum: The Last Revelation](https://www.myabandonware.com/game/miraculum-the-last-revelation-sxy)
-* [Minimum Nanonic](https://www.myabandonware.com/game/minimum-nanonic-sxx)
-* [Megami Tengoku II](https://www.myabandonware.com/game/megami-tengoku-ii-sxw)
-* [Makeruna! Makendō Z](https://www.myabandonware.com/game/makeruna-makendo-z-sxv)
-* [Lunatic Dawn FX](https://www.myabandonware.com/game/lunatic-dawn-fx-sxu)
+* [Ping Pong](https://www.myabandonware.com/game/ping-pong-5pb)
+* [Zoo Tycoon 2: Ultimate Collection](https://www.myabandonware.com/game/zoo-tycoon-2-ultimate-collection-tal)
+* [Anime Freak FX: Vol.1](https://www.myabandonware.com/game/anime-freak-fx-vol-1-sy6)
+* [Angelique: Tenkū no Requiem](https://www.myabandonware.com/game/angelique-tenku-no-requiem-sy5)
+* [Rururi Ra Rura](https://www.myabandonware.com/game/rururi-ra-rura-sy4)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
