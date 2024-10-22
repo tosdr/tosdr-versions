@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5772 reviews (5772)
+5773 reviews (5773)
 
 $16.00 $29.00
 
@@ -473,6 +473,20 @@ Dark Chocolate
 ADD TO TOTE
 
 CHOOSE Color
+
+[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+
+![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
+
+### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
+
+512 reviews (512)
+
+$8.00
+
+Default Title - $8
+
+ADD TO TOTE
 
 Subtotal
 
