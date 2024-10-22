@@ -168,11 +168,13 @@ Only available for 48 hours!
 
 : :
 
+\*Only for home users
+
 Email 
 
 Customer ID 
 
-Renew at a discount
+Renew Panda Dome
 
 Renew and get 50% off
 
@@ -186,11 +188,13 @@ Only available for 48 hours!
 
 : :
 
+\*Only for home users
+
 Email 
 
 Customer ID 
 
-Renew at a discount
+Renew Panda Dome
 
 Special offer: Renew and get 60% off
 
@@ -202,21 +206,25 @@ Only available for 48 hours!
 
 : :
 
+\*Only for home users
+
 Email 
 
 Customer ID 
 
-Renew at a discount
+Renew Panda Dome
 
 Halloween Special Offer: Renew and get 60% off
 
 Only available for 48 hours!
 
+\*Only for home users
+
 Email 
 
 Customer ID 
 
-Renew at a discount
+Renew Panda Dome
 
 Cookie Policy
 =============
