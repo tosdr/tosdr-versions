@@ -55,7 +55,7 @@
         Integrate with your favourite tools](https://www.toddleapp.com/integrations/)
     * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538-1.svg)Privacy & Security
         
-        Secure your school’s data](https://www.toddleapp.com/privacy-policy/)
+        Secure your school’s data](https://www.toddleapp.com/privacy-center/)
     * [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/take-the-self-guided-platform-tour/)
         
         Explore Toddle for your school
@@ -154,7 +154,7 @@
         Integrate with your favourite tools](https://www.toddleapp.com/integrations/)
     * [![](https://www.toddleapp.com/wp-content/uploads/2024/07/Frame-2610538-1.svg)Privacy & Security
         
-        Secure your school’s data](https://www.toddleapp.com/privacy-policy/)
+        Secure your school’s data](https://www.toddleapp.com/privacy-center/)
     * [Explore Toddle for your school](https://www.toddleapp.com/blog/mega-menu-banners/take-the-self-guided-platform-tour/)
         
         Explore Toddle for your school
@@ -280,7 +280,7 @@ PLATFORM
     
     Privacy & Security
     
-    Secure your school’s data](https://www.toddleapp.com/privacy-policy/)
+    Secure your school’s data](https://www.toddleapp.com/privacy-center/)
 
 ![](https://www.toddleapp.com//wp-content/uploads/2021/02/Icon_close.svg) [![back btn](/wp-content/uploads/2024/07/back-icon.webp)](javascript:void(0);)
 
