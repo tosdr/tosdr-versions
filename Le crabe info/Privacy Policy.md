@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 174 utilisateurs actifs
+##### 751 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Vider tout le cache sur Windows 10 : 8 étapes pour un nettoyage complet](https://lecrabeinfo.net/vider-tout-le-cache-sur-windows-10-8-etapes-pour-un-nettoyage-complet.html)
+* [7 astuces sur l’Explorateur de fichiers de Windows qui vont vous changer la vie](https://lecrabeinfo.net/7-astuces-sur-lexplorateur-de-fichiers-de-windows-qui-vont-vous-changer-la-vie.html)
 * [Google retire uBlock Origin de Chrome : plus de 39 millions d'utilisateurs (dont sans doute vous) impactés !](https://lecrabeinfo.net/google-retire-ublock-origin-de-chrome-plus-de-39-millions-dutilisateurs-dont-sans-doute-vous-impactes.html)
-* [Microsoft bloque la mise à jour 24H2 pour certains joueurs](https://lecrabeinfo.net/microsoft-bloque-la-mise-a-jour-24h2-pour-certains-joueurs.html)
-* [Réparer les icônes de Windows (réinitialiser le cache des icônes)](https://lecrabeinfo.net/reparer-les-icones-de-windows-reinitialiser-le-cache-des-icones.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 767 membres
-* 928 articles
-* 26 766 commentaires
+* 67 769 membres
+* 930 articles
+* 26 768 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
