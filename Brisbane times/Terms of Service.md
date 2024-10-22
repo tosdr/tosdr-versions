@@ -27,6 +27,7 @@ Search Site
 * [Brisbane](https://www.brisbanetimes.com.au/brisbane-news)
 * [Queensland](https://www.brisbanetimes.com.au/national/queensland)
 * [Politics](https://www.brisbanetimes.com.au/politics)Show subsections
+    * [US Votes 2024](https://www.brisbanetimes.com.au/us-votes-2024)
     * [Federal](https://www.brisbanetimes.com.au/politics/federal)
     * [Queensland](https://www.brisbanetimes.com.au/politics/queensland)
     * [NSW](https://www.brisbanetimes.com.au/politics/nsw)
