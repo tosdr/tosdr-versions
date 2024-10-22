@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Service is very good, easy to set up. I have suggested to a few friends to sign up.
+The service is always great. I recommend to all our friends.
 
-David Grant
+Glenn Yeldezian
