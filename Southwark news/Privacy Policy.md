@@ -1,5 +1,3 @@
-                          
-
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
 * [Contact Us](https://southwarknews.co.uk/contact-us/)
@@ -18,6 +16,18 @@
     * [Opinion](https://southwarknews.co.uk/category/news/opinion/)
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
+    
+    [![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+    
+    ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+    
+    [![Residents at Barset Sheltered Housing shared their experiences of a bed bug infestation](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2874-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
+    
+    ### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
+    
+    [![Triptych Bankside external ground level. (JRTE London)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Triptych-Bankside-external-ground-level-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
+    
+    ### [Cafe and ‘micro-gym’ to open at new Bankside development](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
     
     [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
     
@@ -42,19 +52,6 @@
     [![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
     
     ### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
-    
-    [![London Ambulance Service was called to Webber Street following reports of a stabbing. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-Ambulance-Service-was-called-to-Webber-Street-following-reports-of-a-stabbing.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
-    
-    ### [Man rushed to hospital after ‘stabbing’ in Borough](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
-    
-    [![The Mayor of London, Sadiq Khan with the new London Overground map](https://southwarknews.co.uk/wp-content/uploads/2024/07/TfL-Image-The-Mayor-of-London-Sadiq-Khan-with-the-new-London-Overground-map-360x180.jpeg)](https://southwarknews.co.uk/area/london/mayor-says-he-is-confident-that-tube-strikes-in-the-first-half-of-november-will-be-called-off/)
-    
-    ### [Mayor says he is ‘confident’ that Tube strikes in the first half of November will be called off](https://southwarknews.co.uk/area/london/mayor-says-he-is-confident-that-tube-strikes-in-the-first-half-of-november-will-be-called-off/)
-    
-    [![The 11th rooftop space at International House in Brixton, as it looks today. 
-    From Lambeth Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/11th-rooftop-space-at-International-House-360x180.jpg)](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
-    
-    ### [Brixton co-working space could soon include saunas in an attempt to attract more businesses](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +97,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+    
+    ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+    
+    [![Residents at Barset Sheltered Housing shared their experiences of a bed bug infestation](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2874-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
+    
+    ### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
+    
+    [![Triptych Bankside external ground level. (JRTE London)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Triptych-Bankside-external-ground-level-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
+    
+    ### [Cafe and ‘micro-gym’ to open at new Bankside development](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
+    
     [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
     
     ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
@@ -123,19 +132,6 @@ View All Result
     [![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
     
     ### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
-    
-    [![London Ambulance Service was called to Webber Street following reports of a stabbing. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-Ambulance-Service-was-called-to-Webber-Street-following-reports-of-a-stabbing.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
-    
-    ### [Man rushed to hospital after ‘stabbing’ in Borough](https://southwarknews.co.uk/area/borough/man-rushed-to-hospital-after-stabbing-in-borough/)
-    
-    [![The Mayor of London, Sadiq Khan with the new London Overground map](https://southwarknews.co.uk/wp-content/uploads/2024/07/TfL-Image-The-Mayor-of-London-Sadiq-Khan-with-the-new-London-Overground-map-360x180.jpeg)](https://southwarknews.co.uk/area/london/mayor-says-he-is-confident-that-tube-strikes-in-the-first-half-of-november-will-be-called-off/)
-    
-    ### [Mayor says he is ‘confident’ that Tube strikes in the first half of November will be called off](https://southwarknews.co.uk/area/london/mayor-says-he-is-confident-that-tube-strikes-in-the-first-half-of-november-will-be-called-off/)
-    
-    [![The 11th rooftop space at International House in Brixton, as it looks today. 
-    From Lambeth Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/11th-rooftop-space-at-International-House-360x180.jpg)](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
-    
-    ### [Brixton co-working space could soon include saunas in an attempt to attract more businesses](https://southwarknews.co.uk/area/south-london/brixton-co-working-space-could-soon-include-saunas-in-an-attempt-to-attract-more-businesses/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -368,14 +364,25 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 
 [15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
-[![A map of the proposed Bakerloo Line extension to Lewisham. 
-Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-120x86.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+[![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
-### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
+### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
-[16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+[21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
 ### Featured Articles
+
+[![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+
+### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+
+[22nd October 2024](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
+
+[![Residents at Barset Sheltered Housing shared their experiences of a bed bug infestation](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2874-120x86.jpeg)](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
+
+### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
+
+[22nd October 2024](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
 
 [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
@@ -400,18 +407,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
 [21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
-
-[![Cllr Victor Chamberlain, Southwark Liberal Democrat Leader, at the council's Tooley Street offices](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2756-1-scaled-e1729167375934-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-
-### [Could Southwark Lib Dems ever run the council again and what would their leader Victor Chamberlain do?](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-
-[20th October 2024](https://southwarknews.co.uk/area/bermondsey/could-southwark-lib-dems-ever-run-the-council-again-and-what-would-their-leader-victor-chamberlain-do/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/05.-Clock-House-Tavern-copy-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-
-### [Review: Cosy up at the revamped Clock House Tavern in Peckham](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
-
-[20th October 2024](https://southwarknews.co.uk/area/peckham/review-cosy-up-at-the-revamped-clock-house-tavern-in-peckham/)
 
 ### USEFUL PAGES
 
