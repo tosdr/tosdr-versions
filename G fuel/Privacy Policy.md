@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                    
+Privacy policy – G FUEL                                                                                                   
 
 [Skip to content](#MainContent)  
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/594/assets/fearfest-search-icon-black.png?v=70690630930442313831729275978)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/595/assets/fearfest-search-icon-black.png?v=70690630930442313831729541944)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/594/assets/fearfest-account-icon.png?v=50085873134992036791729275978) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/594/assets/fearfest-search-icon-black.png?v=70690630930442313831729275978) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/594/assets/bloody-hamburger-menu.png?v=86003260733675859121729275978) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/594/assets/fearfest-cart-icon.png?v=54831520779337061261729275978) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/595/assets/fearfest-account-icon.png?v=50085873134992036791729541944) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/595/assets/fearfest-search-icon-black.png?v=70690630930442313831729541944) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/595/assets/bloody-hamburger-menu.png?v=86003260733675859121729541944) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/595/assets/fearfest-cart-icon.png?v=54831520779337061261729541944) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -236,9 +236,9 @@ Privacy policy
 
 **G FUEL LLC PRIVACY POLICY**  
 
-Last Updated: November 11, 2022
+Last Updated: October 22, 2024
 
-G Fuel LLC, d/b/a Gamma Labs (“we”, “us”, or “our”) is pleased to provide you with access to our Services. This Privacy Policy describes our practices with respect to the collection, transfer, manipulation, disclosure and other uses of Your Information and certain other information collected by us through our Services. For purposes of this Privacy Policy, “Your Information” means information about you which may be of a confidential nature and may include personally identifiable information, including your first and last name and email address. Capitalized but undefined terms in this Privacy Policy will have the meanings ascribed to them in our [Terms & Conditions of Service](https://gfuel.com/policies/terms-of-service). 
+G Fuel LLC (“we”, “us”, or “our”) is pleased to provide you with access to our Services. This Privacy Policy describes our practices with respect to the collection, transfer, manipulation, disclosure and other uses of Your Information and certain other information collected by us through our Services. For purposes of this Privacy Policy, “Your Information” means information about you which may be of a confidential nature and may include personally identifiable information, including your first and last name and email address. Capitalized but undefined terms in this Privacy Policy will have the meanings ascribed to them in our [Terms & Conditions of Service](https://gfuel.com/policies/terms-of-service). 
 
 This Privacy Policy applies to information collected by us through our Services and through our telephone support number, but does not apply to information collected by any person or entity other than us, even if related to our Services (such as a third-party website, content, application, that may link to or be accessible from or on our Services). 
 
@@ -262,11 +262,11 @@ Information you provide to us: From time to time, you may provide us with cert
 
 Information we receive from third parties:  We may obtain information about you from sources other than you, such as from our social media networks on or through which you may access the Site, and/or from other third party website operators on which we or our third party service providers have placed pixel tags (as defined below) in order to drive traffic to our Services. The information that we will receive depends on the third party and your privacy settings with that third party. All information that you disclose to third parties will be subject to the privacy policies and practices of such third parties. You should review the privacy policies and practices of such third parties prior to disclosing information to them. 
 
-We also collect information on third party platforms such as HubSpot, ShipHero, Google AdWords, Google Analytics, Attentive Mobile Inc, etc.  
+We also collect information on third party platforms such as HubSpot, ShipHero, Google AdWords, Google Analytics, Klaviyo Group, etc.  
 
-Information we collect through automatic data collection technologies: We and third parties acting on our behalf may use various technologies to collect and store information when you use our Services, including sending cookies, web beacons, pixel tags or other anonymous identifiers to your device, or otherwise tracking your activities on our Services over time.
+Information we collect through automatic data collection technologies: We and third parties acting on our behalf may use various technologies to collect and store information when you use our Services, including sending cookies, web beacons, pixel tags or other anonymous identifiers to your device, or otherwise tracking your activities on our Services over time. We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages.
 
-“Cookies” are pieces of data stored on a computer, mobile phone or other device. A “web beacon” is a type of technology that lets us know if you visited a certain page or whether you opened an email. A “pixel tag” is a type of technology placed within a website or e-mail for the purpose of tracking activity, which is often used in combination with Cookies. Other “anonymous identifiers” include random strings of characters used for the same purposes as Cookies, such as with mobile devices where Cookie technology may not be available. These technologies help us know that you are logged on to or using our Services, provide you with features based on your preferences, help us understand when and how you are interacting with our Services and compile other information regarding your use of our Services. We also may use these technologies to collect information about your online activities over time and across third-party websites (a practice known as behavioral tracking). For example, third parties, including Amazon, may place and use pixel tags on our Services to show interest-based ads to you on sites across the Internet. 
+“Cookies” are pieces of data stored on a computer, mobile phone or other device. A “web beacon” is a type of technology that lets us know if you visited a certain page or whether you opened an email. A “pixel tag” is a type of technology placed within a website or e-mail for the purpose of tracking activity, which is often used in combination with Cookies. Other “anonymous identifiers” include random strings of characters used for the same purposes as Cookies, such as with mobile devices where Cookie technology may not be available. These technologies help us know that you are logged on to or using our Services, provide you with features based on your preferences, help us understand when and how you are interacting with our Services and compile other information regarding your use of our Services. We also may use these technologies to collect information about your online activities over time and across third-party websites (a practice known as behavioral tracking). For example, third parties, including Amazon, may place and use pixel tags on our Services to show interest-based ads to you on sites across the Internet. The G FUEL website uses cookies to help keep track of items you put into your shopping cart including when you have abandoned your cart and this information is used to determine when to send cart reminder messages via SMS.  
 
 The information collected through these technologies, standing alone, cannot be used to determine your identity. Such information may, however, be combined in a way that makes it become personally identifiable information (i.e., information that can identify you). For example, we may tie this information to personal information about you that we collect from other sources or that you provide to us. If this happens, we will treat the combined information as personally identifiable information.   
 
@@ -280,7 +280,7 @@ G Fuel, LLC
 100 Wireless Blvd  
 Hauppauge, New York 11788-3955, United States 
 
- In contacting us, you must include the reference to our “Privacy Policy” on the subject line and in the body of the message and include the email or physical address for us to send our response. We reserve the right not to respond to inquiries submitted other than to the address specified above. 
+In contacting us, you must include the reference to our “Privacy Policy” on the subject line and in the body of the message and include the email or physical address for us to send our response. We reserve the right not to respond to inquiries submitted other than to the address specified above. 
 
 Our Collection Practices with Respect to Certain Specific Information: 
 
@@ -313,7 +313,7 @@ General Disclosure of Your Information:  We may disclose the information we co
 * to our affiliates and their respective employees, agents and representatives involved in delivering our Services, products and other services to you. For example, we use (and thus disclose certain of Your Information to): 
     * Google Firebase when you access our Services through our mobile app. Google Firebase usage is subject to Google’s Privacy Policy (link provided above). 
     * LoyaltyLion in order to serve our loyalty and rewards program -- you can read more about how Loyalty Lion uses Your Information here: [https://loyaltylion.com/privacy](https://loyaltylion.com/privacy). 
-    * Attentive Mobile Inc. in order to provide SMS messaging -- you can read more about how Attentive uses Your Information here: [https://www.attentivemobile.com/privacy](https://www.attentivemobile.com/privacy).
+    * Klaviyo Group in order to provide SMS messaging -- you can read more about how Klaviyo uses Your Information here: [https://www.klaviyo.com/legal/privacy/privacy-notice.](https://www.klaviyo.com/legal/privacy/privacy-notice "Klaviyo Privacy Notice")
 * to our third-party vendors or suppliers so that they may provide support for our internal and business operations, including for the handling of the purchase and sale of our products or services, data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials and our Services’ maintenance and security. For example, we use (and thus disclose certain of Your Information to): 
     * Shopify in order to power our online store--you can read more about how Shopify uses Your Information here: [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy). 
     * Google Analytics so that they can help us understand how our customers use the Site – you can read more about how Google uses Your Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). 
@@ -591,7 +591,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/594/assets/app-store-badge.svg?v=123926581890561309811729275978)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/594/assets/google-play-badge.png?v=132395384020293405351729275978)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/595/assets/app-store-badge.svg?v=123926581890561309811729541944)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/595/assets/google-play-badge.png?v=132395384020293405351729541944)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
