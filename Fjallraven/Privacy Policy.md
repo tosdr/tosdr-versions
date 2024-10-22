@@ -280,7 +280,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=9bcb5d45-ad75-4d85-9640-a422e1961e76)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=2732bc4a-1008-491c-b6df-3565154f12bc)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -439,7 +439,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=9bcb5d45-ad75-4d85-9640-a422e1961e76)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=2732bc4a-1008-491c-b6df-3565154f12bc)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -489,6 +489,7 @@ Asia
         * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
         * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
         * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
+        * [Terms and Conditions Fjällräven Polar Discount](https://www.fjallraven.com/us/en-us/legal/terms-and-conditions-polar-discount/)
         
 * * Change Region **English** / **United States** (USD $)
         
@@ -546,6 +547,7 @@ Main Content Starts Here
 * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
 * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
 * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
+* [Terms and Conditions Fjällräven Polar Discount](https://www.fjallraven.com/us/en-us/legal/terms-and-conditions-polar-discount/)
 
 FJÄLLRÄVEN RETAIL USA
 
@@ -807,7 +809,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=9bcb5d45-ad75-4d85-9640-a422e1961e76)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=2732bc4a-1008-491c-b6df-3565154f12bc)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
