@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Госдума приняла в первом чтении законопроект «Единой России» о дополнительных имущественных гарантиях военнослужащим](https://cdn.er.ru/media/news/October2024/AMb3YM2IwuLqW7JyYoxZ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnyh-imushestvennyh-garantiyah-voennosluzhashim)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о дополнительных имущественных гарантиях военнослужащим](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnyh-imushestvennyh-garantiyah-voennosluzhashim)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Красов](https://er.ru/activity/news?tags%5B0%5D=10499) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
+
+Сегодня 16:21
+
+[![Ирина Яровая: Законопроекты о противодействии нелегальной миграции позволят обеспечить безопасность граждан России](https://cdn.er.ru/media/news/October2024/1aDW0p78SdM4XEq2W1pa-small.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-o-protivodejstvii-nelegalnoj-migracii-pozvolyat-obespechit-bezopasnost-grazhdan-rossii)
+
+[Ирина Яровая: Законопроекты о противодействии нелегальной миграции позволят обеспечить безопасность граждан России](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-o-protivodejstvii-nelegalnoj-migracii-pozvolyat-obespechit-bezopasnost-grazhdan-rossii)
+
+[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#миграция](https://er.ru/activity/news?tags%5B0%5D=203) [#миграционнаяполитика](https://er.ru/activity/news?tags%5B0%5D=117360) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
+
+Сегодня 14:40
+
 [![«Единая Россия» обеспечит новые жилищные гарантии военнослужащим](https://cdn.er.ru/media/news/October2024/N6UmVwOUjDvhYT1U6SHk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-novye-zhilishnye-garantii-voennosluzhashim)
 
 [«Единая Россия» обеспечит новые жилищные гарантии военнослужащим](https://er.ru/activity/news/edinaya-rossiya-obespechit-novye-zhilishnye-garantii-voennosluzhashim)
@@ -328,22 +344,6 @@
 [«Единая Россия»: Началась регистрация волонтёров на мероприятия к 80-летию Великой Победы](https://er.ru/activity/news/edinaya-rossiya-nachalas-registraciya-volontyorov-na-meropriyatiya-k-80-letiyu-velikoj-pobedy)
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ДеньПобеды](https://er.ru/activity/news?tags%5B0%5D=40290) [#ВолонтерыПобеды](https://er.ru/activity/news?tags%5B0%5D=1093044) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#патриотическоемероприятие](https://er.ru/activity/news?tags%5B0%5D=142374) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192)
-
-21.10.24
-
-[![В «Единой России» считают необходимым создать госпрограмму по привлечению молодых специалистов в сферу биотехнологий](https://cdn.er.ru/media/news/October2024/CcMXCaUzXI6EXCc5Inn5-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-sozdat-gosprogrammu-po-privlecheniyu-molodyh-specialistov-v-sferu-biotehnologij)
-
-[В «Единой России» считают необходимым создать госпрограмму по привлечению молодых специалистов в сферу биотехнологий](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-sozdat-gosprogrammu-po-privlecheniyu-molodyh-specialistov-v-sferu-biotehnologij)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#биотехнологии](https://er.ru/activity/news?tags%5B0%5D=18708) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
-
-21.10.24
-
-[![Анна Кузнецова: Более 10,5 тысяч человек обратились в «Единую Россию» в неделю приёмов по вопросам защиты прав трудящихся](https://cdn.er.ru/media/news/October2024/xDhyBPLuyNEuedFkhY8O-small.JPG)](https://er.ru/activity/news/anna-kuznecova-bolee-10-5-tysyach-chelovek-obratilis-v-edinuyu-rossiyu-v-nedelyu-priyomov-po-voprosam-zashity-prav-trudyashihsya)
-
-[Анна Кузнецова: Более 10,5 тысяч человек обратились в «Единую Россию» в неделю приёмов по вопросам защиты прав трудящихся](https://er.ru/activity/news/anna-kuznecova-bolee-10-5-tysyach-chelovek-obratilis-v-edinuyu-rossiyu-v-nedelyu-priyomov-po-voprosam-zashity-prav-trudyashihsya)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Котяков](https://er.ru/activity/news?tags%5B0%5D=144202) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Фетисова](https://er.ru/activity/news?tags%5B0%5D=59593) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Рязанская область](https://er.ru/activity/news?tags%5B0%5D=3400) [#Синица](https://er.ru/activity/news?tags%5B0%5D=81247) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Рыбаков](https://er.ru/activity/news?tags%5B0%5D=39732) [#переобучение](https://er.ru/activity/news?tags%5B0%5D=5398) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
 
 21.10.24
 
