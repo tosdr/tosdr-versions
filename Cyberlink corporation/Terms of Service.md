@@ -152,10 +152,8 @@ CyberLink Corporation General Terms of Service
 * Covered by one or more claims of the patents listed at [https://accessadvance.com/hevc-advance-patent-list/](https://accessadvance.com/hevc-advance-patent-list/).
 * THIS PRODUCT IS SOLD WITH A LIMITED LICENSE AND IS AUTHORIZED TO BE USED ONLY IN CONNECTION WITH HEVC CONTENT THAT MEETS EACH OF THE THREE FOLLOWING QUALIFICATIONS: (1) HEVC CONTENT ONLY FOR PERSONAL USE; (2) HEVC CONTENT THAT IS NOT OFFERED FOR SALE; AND (3) HEVC CONTENT THAT IS CREATED BY THE OWNER OF THE PRODUCT. THIS PRODUCT MAY NOT BE USED IN CONNECTION WITH HEVC ENCODED CONTENT CREATED BY A THIRD PARTY, WHICH THE USER HAS ORDERED OR PURCHASED FROM A THIRD PARTY, UNLESS THE USER IS SEPARATELY GRANTED RIGHTS TO USE THE PRODUCT WITH SUCH CONTENT BY A LICENSED SELLER OF THE CONTENT. YOUR USE OF THIS PRODUCT IN CONNECTION WITH HEVC ENCODED CONTENT IS DEEMED ACCEPTANCE OF THE LIMITED AUTHORITY TO USE AS NOTED ABOVE.
 
-7. Use of third party APIs. You may have API access provided by third-party service providers via our Services. For example, you may play YouTube video, or use the search function powered by Microsoft Bing. You agree to be bound by the separate and independent privacy policies and/or terms of service of these third party service providers shown below:
-
-* YouTube Terms of Service at: [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms)
-* Microsoft Privacy Statement at: [https://privacy.microsoft.com/en-us/privacystatement](https://privacy.microsoft.com/en-us/privacystatement).
+7. Use of YouTube API services. For usage of YouTube API services , you agree to be bound by YouTube Terms of Service at: [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms)
+8. Use of Microsoft API services. For usage of Microsoft API services, you agree to be bound by Microsoft Privacy Statement at: [https://privacy.microsoft.com/en-us/privacystatement](https://privacy.microsoft.com/en-us/privacystatement)
 
 6\. Purchase and Payment
 ========================
