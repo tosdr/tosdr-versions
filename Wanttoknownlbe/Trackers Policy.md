@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/333-222-555-toeval/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/bye-bye-blue-sky/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
