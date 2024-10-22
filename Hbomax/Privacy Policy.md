@@ -5,7 +5,7 @@
 We Care About Your Children's Privacy
 =====================================
 
-Our Children’s Privacy Policy explains what information we process when a child uses Max and describes how that information is collected and used. It also includes details about your rights and how to contact us. The Supplements provide additional information for residents of certain states and countries. 
+Our Children’s Privacy Policy explains what information we process when a child uses Max and describes how that information is collected and used. It also includes details about your rights and how to contact us. The Supplements provide additional information for residents of certain states and countries.
 
   
 North America (United States)
@@ -69,6 +69,13 @@ Europe
 [Slovenščina](https://www.max.com/privacy/children/sl-emea)
 
 [Svenska](https://www.max.com/privacy/children/sv-emea)
+
+**Asia Pacific**
+----------------
+
+### **Children Privacy Policy**
+
+[English](https://www.max.com/privacy/children/en-apac "Asia - English Privacy Policy")
 
 [Privacy Policy](https://www.max.com/privacy)[Children's Privacy Policy](https://www.max.com/privacy/children)[Terms of Use](https://www.max.com/terms-of-use)
 
