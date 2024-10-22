@@ -275,7 +275,6 @@ Victoria, BC V8W 2P3
 * [BC Transit Advantage](https://www.bctransit.com/corporate-reports/bc-transit-advantage/)
 
 * [Media](https://www.bctransit.com/media/)
-* [COVID-19 Information](https://www.bctransit.com/covid19/)
 * [Affordability](https://www.bctransit.com/media/affordability/)
 * [Your New Ride](https://ride.bctransit.com/)
 * [Transit Superstars](https://www.bctransit.com/media/transit-superstars/)
