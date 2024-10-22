@@ -1,22 +1,23 @@
 [![AudKit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20122%2033'%3E%3C/svg%3E)](https://www.audkit.com/)
 
-* [Store](https://www.audkit.com/store-center.html)
+* [Store](https://www.audkit.com/store.html)
 * [Products](#)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
         
-        AI Video EditorEasy-to-use AI-powered video editor](https://www.audkit.com/video-editor.html)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E)
+        Spotify Music ConverterDownload and Convert Spotify Music](https://www.audkit.com/spotilab-music-converter.html)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
         
-        AI Video ConverterOptimal video conversion solution](https://www.audkit.com/video-converter.html)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E)
+        Tidal Music ConverterDownload Tidal Music to MP3, FLAC](https://www.audkit.com/tidizer-music-converter.html)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
         
-        AI Audio ConverterAlmighty audio converter tool](https://www.audkit.com/audio-converter.html)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E)
+        Audible AAX ConverterConvert Audible Audiobooks to MP3](https://www.audkit.com/audible-aax-converter.html)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
         
-        AI Audio RecorderRecord Any Audio](https://www.audkit.com/audio-recorder.html)
+        Apple Music ConverterConvert Apple Music to MP3](https://www.audkit.com/apple-music-converter.html)
     
-* [Download Center](https://www.audkit.com/download-center.html)
+* [Resource](https://www.audkit.com/resource/)
+* [Download Center](https://www.audkit.com/download.html)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%20500'%3E%3C/svg%3E)
 
@@ -69,18 +70,19 @@ If you have any questions about these terms of use, please feel free to contact 
 [![AudKit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20122%2033'%3E%3C/svg%3E)](https://www.audkit.com/)
 
 * Products
-    * [AI Video Editor](https://www.audkit.com/video-editor.html)
-    * [AI Video Converter](https://www.audkit.com/video-converter.html)
-    * [AI Audio Recorder](https://www.audkit.com/audio-recorder.html)
-    * [AI Audio Converter](https://www.audkit.com/audio-converter.html)
+    * [Spotify Music Converter](https://www.audkit.com/spotilab-music-converter.html)
+    * [Tidal Music Converter](https://www.audkit.com/tidizer-music-converter.html)
+    * [Audible AAX Converter](https://www.audkit.com/audible-aax-converter.html)
+    * [Apple Music Converter](https://www.audkit.com/apple-music-converter.html)
 * Store & Support
-    * [Store](https://www.audkit.com/store-center.html)
-    * [Download Center](https://www.audkit.com/download-center.html)
+    * [Store](https://www.audkit.com/store.html)
+    * [Download Center](https://www.audkit.com/download.html)
     * [Support Center](https://www.audkit.com/support-center.html)
+    * [How-tos](https://www.audkit.com/resource/)
     * [FAQs](https://www.audkit.com/faqs.html)
 * About AudKit
-    * [About Us](https://www.audkit.com/about-audkit.html)
-    * [Terms & Conditions](https://www.audkit.com/terms-conditions-center.html)
+    * [About Us](https://www.audkit.com/about-us.html)
+    * [Terms & Conditions](https://www.audkit.com/terms-conditions.html)
     * [Refund Policy](https://www.audkit.com/refund-policy.html)
     * [Contact Us](https://www.audkit.com/contact-us.html)
 
