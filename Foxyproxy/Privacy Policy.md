@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service is always great. I recommend to all our friends.
+Thanx for your fantastic support! I am really impressed!
 
-Glenn Yeldezian
+Aleksandra Wenglorz
