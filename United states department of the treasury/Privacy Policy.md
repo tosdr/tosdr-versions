@@ -574,15 +574,15 @@ MENU MENU
     
     October 22, 2024
     
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Institute of International Finance Annual Membership Meeting](https://home.treasury.gov/news/press-releases/jy2667)
+    
+    October 22, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen on Multilateral Development Bank Evolution During the 2024 Annual Meetings of the International Monetary Fund and World Bank](https://home.treasury.gov/news/press-releases/jy2666)
+    
+    October 22, 2024
+    
     [Remarks by Secretary of the Treasury Janet L. Yellen at Press Conference Ahead of the 2024 Annual Meetings of the International Monetary Fund and World Bank](https://home.treasury.gov/news/press-releases/jy2665)
-    
-    October 21, 2024
-    
-    [International Monetary and Financial Committee (IMFC) Statement by Secretary of the Treasury Janet L. Yellen](https://home.treasury.gov/news/press-releases/jy2660)
-    
-    October 18, 2024
-    
-    [Joint Statement of Janet L. Yellen, Secretary of the Treasury, and Shalanda D. Young, Director of the Office of Management and Budget, on Budget Results for Fiscal Year 2024](https://home.treasury.gov/news/press-releases/jy2657)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
