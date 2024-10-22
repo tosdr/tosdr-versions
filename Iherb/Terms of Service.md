@@ -1137,9 +1137,9 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[Mindestens -10% ab 80 US$ Bestellwert 
+[\-10% bis -60% ab 80 US$ Bestellwert 
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=GOLD80)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
 
 [\-20% für Baby & Kind
 
