@@ -451,7 +451,7 @@ Useful links
 
 Follow us
 
-* [Blog](https://blog.wolt.com/fin/)
+* [Blog](https://press.wolt.com/en-WW/tags/blog/)
 * [Engineering Blog](https://careers.wolt.com/en/blog?category=tech)
 * [Instagram](https://instagram.com/woltapp)
 * [Facebook](https://www.facebook.com/woltapp/)
