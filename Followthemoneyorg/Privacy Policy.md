@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Percentage of Competitive Gubernatorial Races, by Incumbency Status, 2001-2016](/assets/Images/teasers/small/competitive-govs.JPG)](https://www.followthemoney.org/research/institute-reports/monetary-competitiveness-in-gubernatorial-elections-2001-2016)
+[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+
+Microsoft spread its state political giving pretty evenly, 2005-2008.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
