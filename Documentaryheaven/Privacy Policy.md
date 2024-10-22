@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Secrets of the Dead: Lost in the Amazon](/wp-content/thumbnails/6145-100x70.jpg?x53432)
+* [![World War II in Colour](/wp-content/thumbnails/6231-100x70.png?x53432)
     
-    Secrets of the Dead: Lost in the Amazon
+    World War II in Colour
     
-    On April 20, 1925, Colonel Percy Fawcett, his elder son Jack Fawcett and Jack’s lifelong friend, Raleigh Rimmell, departed from Cuiabá, the capital city of the Brazilian state of Mato Grosso, to find](https://documentaryheaven.com/secrets-of-the-dead-lost-in-the-amazon/ "Secrets of the Dead: Lost in the Amazon")
-* [![James Burke Connections](/wp-content/thumbnails/6375-100x70.jpg?x53432)
+    A collection of rare and unseen footage of World War II and the very latest colorization techniques come together in World War II in Colour.With satellite-delivered terrain mapping and state-of](https://documentaryheaven.com/world-war-ii-in-colour/ "World War II in Colour")
+* [![The Virtual Revolution](/wp-content/thumbnails/3654-100x70.jpg?x53432)
     
-    James Burke Connections
+    The Virtual Revolution
     
-    Connections is a ten-episode documentary television series created, written and presented by science historian James Burke. The series was produced and directed by Mick Jackson of the BBC Science &](https://documentaryheaven.com/james-burke-connections/ "James Burke Connections")
-* [![The Templar Code](/wp-content/thumbnails/2022-100x70.jpg?x53432)
+    Twenty years on from the invention of the World Wide Web, Dr Aleks Krotoski looks at how it is reshaping almost every aspect of our lives.Joined by some of the web’s biggest names – including the](https://documentaryheaven.com/the-virtual-revolution/ "The Virtual Revolution")
+* [![Ron Paul and Internet Politics](/wp-content/thumbnails/2224-100x70.jpg?x53432)
     
-    The Templar Code
+    Ron Paul and Internet Politics
     
-    For nearly two centuries, the Knights Templar were the most powerful order in the Medieval world, a fearsome and unstoppable Crusader militia. Then came accusations of unspeakable crimes. Who were the](https://documentaryheaven.com/the-templar-code/ "The Templar Code")
-* [![Decoding Neanderthals](/wp-content/thumbnails/10509-100x70.jpg?x53432)
+    At the intersection of the Internet and politics, presidential candidate Ron Paul’s supporters are rewriting the rules of political campaigns. NOW explores how the Texas congressman and his supporters](https://documentaryheaven.com/ron-paul-and-internet-politics/ "Ron Paul and Internet Politics")
+* [![Alan and Marcus Go Forth and Multiply](/wp-content/thumbnails/2950-100x70.jpg?x53432)
     
-    Decoding Neanderthals
+    Alan and Marcus Go Forth and Multiply
     
-    They were the brutes of Ice Age Europe, although a branch of our human family tree they were still viewed upon as a dead end. Deep in our prehistoric past they were called Neanderthals. They](https://documentaryheaven.com/decoding-neanderthals/ "Decoding Neanderthals")
-* [![ISIS: Terror in Iraq](/wp-content/thumbnails/8863-100x70.jpg?x53432)
+    Ever since he was at school, actor and comedian Alan Davies has hated maths. And like many people, he is not much good at it either. But Alan has always had a sneaking suspicion that he was missing ou](https://documentaryheaven.com/alan-and-marcus-go-forth-and-multiply/ "Alan and Marcus Go Forth and Multiply")
+* [![NASA’s Next Generation Space Suit](/wp-content/thumbnails/7418-100x70.jpg?x53432)
     
-    ISIS: Terror in Iraq
+    NASA’s Next Generation Space Suit
     
-    Panorama reports from the heart of the fighting, the battle is against ISIS, a brutal Jihadi group that grew out of Al Qaeda. The group has declared an Islamic state and this documentary investigates](https://documentaryheaven.com/isis-terror-in-iraq/ "ISIS: Terror in Iraq")
+    In this film Vice meets the two guys who are creating the next generation of space suits from scratch, something that has traditionally taken teams of people to achieve.When Ted Southern and Nik M](https://documentaryheaven.com/nasas-next-generation-space-suit/ "NASA’s Next Generation Space Suit")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
