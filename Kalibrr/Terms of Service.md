@@ -14,7 +14,7 @@ menu
 
 [Sign Up](https://www.kalibrr.com/signup)[Sign In](https://www.kalibrr.com/login)
 
-languageENID
+language en id vi
 
 Terms of Use
 ============
@@ -278,4 +278,4 @@ Should any part of these Terms be held invalid or unenforceable, that portion sh
 
 © 2024 Kalibrr, Inc.[Privacy Policy |](https://www.kalibrr.com/privacy) [Terms of Use](https://www.kalibrr.com/terms)
 
-![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=57b00aaf-c3cf-4ad6-b4ff-3967ae4604f2&sid=bfcb30f07f5311efb53a5bf774172e38&vid=bfcbc2207f5311efa28d7dec5a177466&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fterms&r=&lt=500&evt=pageLoad&sv=1&cdb=AQAQ&rn=353754)
+![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=78457a22-a22c-44dc-8bab-45fb6f3c59df&sid=9e122280897d11efb87b8fc97dce9e5d&vid=9e14b9e0897d11ef919c4b596206738c&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fterms&r=&lt=328&evt=pageLoad&sv=1&cdb=AQAQ&rn=771926)
