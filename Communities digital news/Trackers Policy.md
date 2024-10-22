@@ -28,7 +28,7 @@ Search for:
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bongino-rivera-1200x630.jpg)](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
 
-[Dan Bongino rips Geraldo over Kamala endorsement: ‘She’s a a warrior and a peacemaker’](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
+[Dan Bongino rips Geraldo over Kamala endorsement: ‘She’s a warrior and a peacemaker’](https://americanwirenews.com/dan-bongino-rips-geraldo-over-kamala-endorsement-shes-a-a-warrior-and-a-peacemaker/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elon-musk-1200x630.jpg)](https://americanwirenews.com/elon-musk-ups-security-says-trump-hating-media-actively-encouraging-his-assassination/)
 
