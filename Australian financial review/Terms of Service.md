@@ -306,43 +306,46 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.9201%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/57eeffba48f75fbe6bcc236babe669b4f546b12c)](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
+[![A conversation with a career coach helped Canva’s Charlotte Anderson realise she wanted to create a new role for herself.](https://static.ffx.io/images/$zoom_0.4816%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_868%2C$y_198/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6bd5a3f2c0384456e75a518fd9fbf6f9f535150b)](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
 
-### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
+### [The executives who created the jobs they were hired for](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
 
-* Sally Patten
+* 56 mins ago
+* Euan Black
 
-* ### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
+* ### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
     
-* ### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
+* ### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6076%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_174%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0658c61702c96c641676a9fb0bd0e475a12b1cc7)](https://www.afr.com/technology/we-haven-t-even-taken-it-outside-and-we-already-love-this-battery-20241017-p5kj3h)
+[![ ](https://static.ffx.io/images/$zoom_0.1839%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/95fc42561f4927cd89e10ed48bfe2063b2592331)](https://www.afr.com/life-and-luxury/food-and-wine/soak-up-the-melbourne-cup-atmosphere-at-these-top-wine-bars-20241016-p5kiwj)
 
-### [We haven’t even taken it outside, and we already love this battery](https://www.afr.com/technology/we-haven-t-even-taken-it-outside-and-we-already-love-this-battery-20241017-p5kj3h)
+### [Soak up the Melbourne Cup atmosphere at these top wine bars](https://www.afr.com/life-and-luxury/food-and-wine/soak-up-the-melbourne-cup-atmosphere-at-these-top-wine-bars-20241016-p5kiwj)
 
-* John Davidson
+* 56 mins ago
+* Max Allen
 
-* ### [Diary alert: Shows to catch in November](https://www.afr.com/life-and-luxury/arts-and-culture/diary-alert-shows-to-catch-in-november-20240926-p5kdro)
+* ### [The property buyer who very nearly played basketball with Kanye](https://www.afr.com/life-and-luxury/health-and-wellness/the-property-buyer-who-very-nearly-played-basketball-with-kanye-20241015-p5kihj)
     
-* ### [Paris is fast becoming a dream city for cyclists](https://www.afr.com/life-and-luxury/travel/paris-is-fast-becoming-a-dream-city-for-cyclists-20240502-p5fojm)
+* ### [The Aussie at the helm of the world’s wealthiest art museum](https://www.afr.com/life-and-luxury/arts-and-culture/the-aussie-at-the-helm-of-the-world-s-wealthiest-art-museum-20240923-p5kcm2)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c4ed8a3eee4ef524033b1a6f7d4c23c1750e9767)](https://www.afr.com/young-rich/the-secret-to-raising-hundreds-of-millions-like-these-young-rich-20241004-p5kfwd)
+[![ ](https://static.ffx.io/images/$zoom_0.1723%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_33%2C$y_55/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d6ffbe19bbf49514ecad4c9a900057e7a90fd2c6)](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
 
-### [The secret to raising hundreds of millions like these Young Rich](https://www.afr.com/young-rich/the-secret-to-raising-hundreds-of-millions-like-these-young-rich-20241004-p5kfwd)
+### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
 
+* 41 mins ago
 * Yolanda Redrup
 
-* ### [The real cost of being a Young Rich founder](https://www.afr.com/wealth/people/the-real-cost-of-being-a-young-rich-founder-20240712-p5jtat)
+* ### [Meet the 17 new faces on this year’s Young Rich List](https://www.afr.com/young-rich/meet-the-17-new-faces-on-this-year-s-young-rich-list-20241004-p5kfwe)
     
-* ### [This developer cracked the Young Rich List by making warehouses sexy](https://www.afr.com/property/commercial/the-latest-way-to-make-money-building-warehouses-for-influencers-20240918-p5kbhq)
+* ### [‘The biggest divide in Australia is the intergenerational divide’](https://www.afr.com/wealth/personal-finance/the-biggest-divide-in-australia-is-the-intergenerational-divide-20240806-p5jzzu)
     
 
 [The Australian Financial Review](https://www.afr.com/)
