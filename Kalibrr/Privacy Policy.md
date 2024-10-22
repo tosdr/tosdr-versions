@@ -14,7 +14,7 @@ menu
 
 [Sign Up](https://www.kalibrr.com/signup)[Sign In](https://www.kalibrr.com/login)
 
-languageENID
+language en id vi
 
 Kalibrr Privacy Statement
 =========================
@@ -192,6 +192,8 @@ If you wish to change your job notifications settings or update your profile, pl
 
 © 2024 Kalibrr, Inc.[Privacy Policy |](https://www.kalibrr.com/privacy) [Terms of Use](https://www.kalibrr.com/terms)
 
+![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=d0b53cfc-812a-409b-b4b1-c9fe8b5b0419&sid=9e122280897d11efb87b8fc97dce9e5d&vid=9e14b9e0897d11ef919c4b596206738c&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fprivacy&r=&lt=435&evt=pageLoad&sv=1&cdb=AQAQ&rn=288086)
+
 Refers to any information, whether recorded in a material form or not, that reasonably and directly ascertains the identity of an individual, or when put together with other information would directly and certainly identify an individual.
 
 Refers to personal information about an individual’s race, marital status, age, and religious, philosophical or political affiliations; the health, education, genetic or sexual life, or proceeding for any offense; issued by the government peculiar to an individual, health records, licenses, tax returns; and classified information.
@@ -199,5 +201,3 @@ Refers to personal information about an individual’s race, marital status, age
 Refers to data defined as such by the Rules of Court and other pertinent laws.
 
 The collection of features and tools in the Kalibrr website (www.kalibrr.com) that facilitates job matching between jobseeker and recruiter.
-
-![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=9b626b2e-6e07-4d51-bc66-87a068fbd430&sid=bfcb30f07f5311efb53a5bf774172e38&vid=bfcbc2207f5311efa28d7dec5a177466&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Privacy%20Policy&p=http%3A%2F%2F0.0.0.0%3A1864%2Fprivacy&r=&lt=880&evt=pageLoad&sv=1&cdb=AQAQ&rn=514411)
