@@ -1,4 +1,4 @@
-[Exclusive: Trump has a slight edge in Georgia over Harris, latest AJC poll finds](https://www.ajc.com/politics/trump-has-a-slight-edge-in-georgia-over-harris-latest-ajc-poll-finds/LVP66TCGKJCF5CEDNUBAYU3EW4/)
+[Breaking: Kemp proposes new $1B income tax refund from Georgia’s giant surplus](https://www.ajc.com/politics/kemp-proposes-new-1b-income-tax-refund-from-georgias-giant-surplus/6WTSULGFUNC6RIETG3ONUTRB3A/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
