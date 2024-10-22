@@ -163,6 +163,7 @@ United States
 * [Germany](https://www.qobuz.com/de-de/discover)
 * [Ireland](https://www.qobuz.com/ie-en/discover)
 * [Italy](https://www.qobuz.com/it-it/discover)
+* [Japan](https://www.qobuz.com/jp-ja/discover)
 * Luxembourg [Deutsch](https://www.qobuz.com/lu-de/discover) [Français](https://www.qobuz.com/lu-fr/discover)
     
 * [Mexico](https://www.qobuz.com/mx-es/discover)
