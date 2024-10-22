@@ -67,7 +67,7 @@ You are one step away from your 14 day Ryver Trial. Please tell us about yoursel
     *  201+
     
 * 
-* Phone
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
