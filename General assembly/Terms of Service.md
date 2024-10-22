@@ -76,6 +76,8 @@ Close menu"
         
     * [AI for Data Analysis and Visualizations](https://generalassemb.ly/students/courses/ai-for-data-analysis-and-visualizations-workshop)
         
+    * [IT & Cybersecurity Fundamentals](https://generalassemb.ly/students/courses/it-cybersecurity-fundamentals-workshop)
+        
 * [Career Services](https://generalassemb.ly/students/career-services)
     
 * [Financial Aid](https://generalassemb.ly/students/financing)
