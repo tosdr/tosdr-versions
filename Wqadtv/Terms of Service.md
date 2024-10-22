@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
         
-        #### [Jackson County Zoning Board discusses wind turbine ordinance](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98) [![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cd2d724-d97d-492c-a9de-b5d7662b3a8b/20241022T033609/3cd2d724-d97d-492c-a9de-b5d7662b3a8b_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
-        
         #### [Jackson County residents raise concerns about wind turbines](https://www.wqad.com/article/news/local/jackson-county-wind-turbine-ordinance/526-6710f30b-bd11-4ffb-b540-9ed810d2db98)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_360x203.jpg)](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
         
         #### [They're not ladybugs! What you need to know about Asian Lady Beetles](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-61°
+57°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
