@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![The 24 Worst Decisions in the History of Human Kind](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/) [The 24 Worst Decisions in the History of Human Kind](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/)
+    [![2020 memes - they dont want to put me on either - condom talking to a mask cartoon](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/) [30 Memes That Capture the Suck of 2020](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/)
     
-    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
+    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
     
-    [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
+    [![Mike Rowe of Dirty Jobs is a con man who doesn't care about working people](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/) [The Dirty Con Job of Mike Rowe](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/)
     
-    [![hot teacher in grey dress](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/) [Here Is One Great Reason To Stay In School](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/)
+    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
     
 
 * Advertisement
