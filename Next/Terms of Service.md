@@ -1,6 +1,6 @@
 5.38.21
 
-1729586573307
+1729608211916
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1729586070359
+1729607865350
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1729586591141
+1729608750487
 
 You need to enable JavaScript to run this app.
 
@@ -407,7 +407,7 @@ If the item is returned outside of the time periods provided above, we may refus
 
 ### Exceptions to the Returns Policy
 
-The following exceptions apply to our returns policy. We cannot accept any returns through our airport or Fabled stores. . We are unable to accept the return items delivered by 2 person delivery, Beaverbrooks’ products, personalise me (for how to return these see separate heading), and products for return to Gift Experiences. A non-refundable collection charge of £30 will be applied to large homeware, furniture and upholstery items if delivery is refused, or collection is requested, unless the product is faulty or does not fit the description given.. No refunds or exchanges can be given on items made to your specification, made to measure items, or on either unsealed pots of paint including sample pots, unless there is a manufacturing defect or the goods are not as ordered. For hygiene reasons, pierced jewellery items, cosmetics, toiletries and mattresses cannot be returned if unwrapped or unsealed unless faulty. Perishable items such as food, plants, drinks and fresh flowers cannot be returned. Our children's shoe-fitting tool is non-refundable. Where a product has a security sticker warning that the product cannot be returned once the sticker is removed, a refund or exchange will not be given if the seal is broken except in accordance with your legal rights. Gift cards/ eGiftcards/vouchers cannot be returned or exchanged for cash. Returned items which are not in a new or unused condition will not be credited to your account or refunded. This does not affect your right to return faulty items. If you return an item outside of the 28 day period you’ll be refunded with an eVoucher. [Click here](https://zendesk.next.co.uk/hc/en-gb/articles/16963491072913-Our-Returns-Policy) to see more information on our returns policy.
+The following exceptions apply to our returns policy. We cannot accept any returns through our airport or Fabled stores. . We are unable to accept the return items delivered by 2 person delivery, Beaverbrooks’, WatchShop, Diamond Store and Handbag Clinic products, personalise me (for how to return these see separate heading), and products for return to Gift Experiences. A non-refundable collection charge of £30 will be applied to large homeware, furniture and upholstery items if delivery is refused, or collection is requested, unless the product is faulty or does not fit the description given.. No refunds or exchanges can be given on items made to your specification, made to measure items, or on either unsealed pots of paint including sample pots, unless there is a manufacturing defect or the goods are not as ordered. For hygiene reasons, pierced jewellery items, cosmetics, toiletries and mattresses cannot be returned if unwrapped or unsealed unless faulty. Perishable items such as food, plants, drinks and fresh flowers cannot be returned. Our children's shoe-fitting tool is non-refundable. Where a product has a security sticker warning that the product cannot be returned once the sticker is removed, a refund or exchange will not be given if the seal is broken except in accordance with your legal rights. Gift cards/ eGiftcards/vouchers cannot be returned or exchanged for cash. Returned items which are not in a new or unused condition will not be credited to your account or refunded. This does not affect your right to return faulty items. If you return an item outside of the 28 day period you’ll be refunded with an eVoucher. [Click here](https://zendesk.next.co.uk/hc/en-gb/articles/16963491072913-Our-Returns-Policy) to see more information on our returns policy.
 
 ### Refund Cards
 
@@ -549,6 +549,22 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Viktor & Rolf Promotion
+
+The Viktor & Rolf Gift will be automatically added to bag when you buy any selected Viktor & Rolf Fragrance. The Viktor & Rolf Gift contains:
+
+* Viktor & Rolf Flowerbomb Eau de Parfum 7ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Viktor & Rolf Gift will be automatically added once 1 qualifying Viktor & Rolf product has been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
 
 ### Olaplex Promotion
 
@@ -2607,7 +2623,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1729585367536
+1729609094386
 
 ### Our Social Networks
 
