@@ -178,16 +178,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Is the 45 ACP Good for Self Defense? A Comprehensive Look](https://www.thegunpage.com/is-the-45-acp-good-for-self-defense-a-comprehensive-look/10611343)
+* [Introducing Beretta's Ultimate Hypergun – The SL2](https://www.thegunpage.com/introducing-berettas-ultimate-hypergun-the-sl2/10611345)
+* [11-Year-Old Boy Shot During West Palm Beach Gun Deal](https://www.thegunpage.com/11-year-old-boy-shot-during-west-palm-beach-gun-deal/10611341)
+* [Celebrating Our Heroes: Metal Madness Aiming For Zero Fundraiser To Be Held In November](https://www.thegunpage.com/celebrating-our-heroes-metal-madness-aiming-for-zero-fundraiser-to-be-held-in-november/10611347)
+* [Bushmaster Adds New V-Radicator AR Varmint Rifles](https://www.thegunpage.com/bushmaster-adds-new-v-radicator-ar-varmint-rifles/10611346)
 * [GOA, GOF Coalition Support Iowa Police Chief Targeted by ATF](https://www.thegunpage.com/goa-gof-coalition-support-iowa-police-chief-targeted-by-atf/10611339)
 * [NY Gov’s Signing of Law Designed So NY Can Track Gun and Ammo Purchases](https://www.thegunpage.com/ny-govs-signing-of-law-designed-so-ny-can-track-gun-and-ammo-purchases/10611338)
 * [Double The Fun With Silencer Central's BOGO Suppressor Deal](https://www.thegunpage.com/double-the-fun-with-silencer-centrals-bogo-suppressor-deal/10611336)
 * [Illinois Lawmakers Continue To Push Restrictive Anti-Gun Laws](https://www.thegunpage.com/illinois-lawmakers-continue-to-push-restrictive-anti-gun-laws/10611334)
 * [TFB Weekly Web Deals 110: Deals for October 21st, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-110-deals-for-october-21st-2024/10611337)
-* [Sacramento Gun Owners May Be Required To Pay Harm Reduction Fee](https://www.thegunpage.com/sacramento-gun-owners-may-be-required-to-pay-harm-reduction-fee/10611330)
-* [Austin Kiemsteadt Is The Newest Member Of Team Blaser](https://www.thegunpage.com/austin-kiemsteadt-is-the-newest-member-of-team-blaser/10611332)
-* [Hillsdale College Opens Ailes Action Shooting Range](https://www.thegunpage.com/hillsdale-college-opens-ailes-action-shooting-range/10611333)
-* [The 2A Community Can’t Afford To Make Excuses For Cat Killing](https://www.thegunpage.com/the-2a-community-cant-afford-to-make-excuses-for-cat-killing/10611322)
-* [The Best Competition Since 1941: 1956 National Matches](https://www.thegunpage.com/the-best-competition-since-1941-1956-national-matches/10611324)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
