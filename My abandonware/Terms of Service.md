@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Pole Position](https://www.myabandonware.com/game/pole-position-8o)
-* [Pole Position II](https://www.myabandonware.com/game/pole-position-ii-km)
-* [Polaris](https://www.myabandonware.com/game/polaris-758)
-* [Pub Darts](https://www.myabandonware.com/game/pub-darts-6iy)
-* [Pro Tennis: World Court](https://www.myabandonware.com/game/pro-tennis-world-court-f19)
+* [Miraculum: The Last Revelation](https://www.myabandonware.com/game/miraculum-the-last-revelation-sxy)
+* [Minimum Nanonic](https://www.myabandonware.com/game/minimum-nanonic-sxx)
+* [Megami Tengoku II](https://www.myabandonware.com/game/megami-tengoku-ii-sxw)
+* [Makeruna! Makendō Z](https://www.myabandonware.com/game/makeruna-makendo-z-sxv)
+* [Lunatic Dawn FX](https://www.myabandonware.com/game/lunatic-dawn-fx-sxu)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Cobra](https://www.myabandonware.com/game/cobra-hke)
-* [The Toyottes](https://www.myabandonware.com/game/the-toyottes-l3o)
-* [Kool-Aid Man](https://www.myabandonware.com/game/kool-aid-man-ecg)
+* [The Winning Team](https://www.myabandonware.com/game/the-winning-team-k0n)
+* [Löwenzahn 2: Geschichten aus Natur, Umwelt und Technik - Version 2.0](https://www.myabandonware.com/game/loewenzahn-2-geschichten-aus-natur-umwelt-und-technik-version-2-0-pd4)
+* [The Story So Far: Vol 4](https://www.myabandonware.com/game/the-story-so-far-vol-4-6x9)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
