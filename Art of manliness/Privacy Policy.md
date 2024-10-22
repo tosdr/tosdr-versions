@@ -186,6 +186,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
 
+[![Three people stand on a grassy patch by a calm lake, with two of them looking at phones. A bench is nearby, inviting quiet reflection. In the background, a majestic tree stands tall like a great father-in-law, offering silent guidance and shelter.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
+
+[How to Be a Great Father-in-Law](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
+
 [![A dad is lifting a young child in the air. Both are wearing capes and masks, playing in a room with large windows. He embraces his essential role, making kids awesome through imaginative play.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
 
 [Podcast #998: Dad’s Essential Role in Making Kids Awesome](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
@@ -197,10 +201,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A professional meeting with three individuals, where a woman appears to be addressing a man and a woman from across the table using communication techniques.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/how-to-parent-teacher-conference/)
 
 [How to Parent-Teacher Conference](https://www.artofmanliness.com/people/fatherhood/how-to-parent-teacher-conference/)
-
-[![Father holding his daughter's hand outdoors at dusk, embodying the father-daughter relationship.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/5-ways-fathers-hugely-influence-on-their-daughters/)
-
-[5 Ways Fathers Hugely Influence Their Daughters](https://www.artofmanliness.com/people/fatherhood/5-ways-fathers-hugely-influence-on-their-daughters/)
 
 [![A black-and-white vintage wedding photo captures a historic moment of marriage as the groom gazes fondly at the bride, who faces the camera with a beaded tiara and veil.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/fascinating-insights-on-the-state-of-sex-and-marriage-100-years-ago/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/reading/podcast-1032-lee-child-the-writer-jack-reacher-the-character-and-the-enduring-appeal-of-lone-wolves/)
+
+[Podcast #1,032
+
+###### Lee Child the Writer, Jack Reacher the Character, and the Enduring Appeal of Lone Wolves](https://www.artofmanliness.com/living/reading/podcast-1032-lee-child-the-writer-jack-reacher-the-character-and-the-enduring-appeal-of-lone-wolves/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1031-money-can-buy-happiness-if-you-use-it-in-these-ways/)
 
 [Podcast #1,031
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,029
 
 ###### Treat Your To-Do List Like a River, and Other Mindset Shifts for Making Better Use of Your Time](https://www.artofmanliness.com/character/advice/podcast-1029-treat-your-to-do-list-like-a-river-and-other-mindset-shifts-for-making-better-use-of-your-time/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1028-the-5-marks-of-a-man/)
-
-[Podcast #1,028
-
-###### The 5 Marks of a Man](https://www.artofmanliness.com/character/advice/podcast-1028-the-5-marks-of-a-man/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
