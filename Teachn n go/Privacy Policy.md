@@ -150,23 +150,25 @@ If you have any questions about this Privacy Policy, please contact us at [\[ema
 
 ×
 
-### Let's get started making your school more efficient.
+### Let's get you started on Teach 'n Go
 
-Please confirm your role.
+  
+
+Please confirm your role:
 
 * [![admin avatar](/images/school-owner-signup.png)
     
-    School Owner/Administrator](https://app.teachngo.com/register?ref=&role=admin)
+    I am a School Owner/Administrator](https://app.teachngo.com/register?ref=&role=admin)
 * [![teacher avatar](/images/teacher-signup.png)
     
-    Teacher](https://app.teachngo.com/activate)
+    I am a Teacher](https://app.teachngo.com/activate)
 * [![parent avatar](/images/parent-signup.png)
     
-    Parent (or Related Contact)](https://app.teachngo.com/activate)
+    I am a Parent (or Related Contact)](https://app.teachngo.com/activate)
 * [![student avatar](/images/student-signup.png)
     
-    Student](https://app.teachngo.com/activate)
+    I am a Student](https://app.teachngo.com/activate)
 
-**Tip:** Choose School Owner/Administrator if you're creating a school.
+**Tip:** Choose School Owner/Administrator if you're creating a new school on Teach 'n Go.
 
 Already have an account? [**Log in here**](https://app.teachngo.com/login)
