@@ -290,15 +290,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Unlocking Charm (Alohomora) is known as “thief’s friend.”
+Fred and George Weasley were born on April Fools’ Day.
 
 ### Potter History
 
-December 17, 2008 – Scholastic announces that The Tales of Beedle the Bard sold 2.6 million copies worldwide in the first week on sale.
+October 1998 – Warner Bros. secures the rights to the first two Harry Potter books and begins working on production for the first film, Harry Potter and the Philosopher’s/Sorcerer’s Stone.
 
 ### Potter Quote
 
-“She tasted disgusting, worse than Gurdyroots!”
+“Just because it’s taken you three years to notice, Ron, doesn’t mean no one else has spotted I’m a girl!”
 
 [](#)
 
