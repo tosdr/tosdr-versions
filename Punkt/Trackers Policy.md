@@ -86,7 +86,7 @@ Num. Reg. CH-501.3.011.937-5
 
 Invalid basket
 
-[View basket](https://www.punkt.ch/en/cart-a/view-cart/)
+[View basket](https://www.punkt.ch/en/cart-c/view-cart/)
 
 ×
 
