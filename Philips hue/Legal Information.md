@@ -16,13 +16,13 @@
     
     Create your own starter kit](https://www.philips-hue.com/en-us/products/promotions/create-your-own-starter-kit)
     
-    [![Only available at philips-hue.com](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
-    
-    Only available at philips-hue.com](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
-    
     [![Home security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
     Home security](https://www.philips-hue.com/en-us/explore-hue/propositions/smart-home-security)
+    
+    [![Only available at philips-hue.com](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
+    
+    Only available at philips-hue.com](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
     
 * [Products](https://www.philips-hue.com/en-us/products/all-products)
     
