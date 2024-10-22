@@ -18,21 +18,21 @@ FOX SCORES
     
 * [Women's Test
     
-    Full Time
+    23/10 17:30 AEST
     
     |     |     |
     | --- | --- |
-    | NZL | 64  |
-    | AUS | 50  |
+    | NZL | –   |
+    | AUS | –   |
     
-    Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240301)
+    Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240302)
 * Cricket
     
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | VIC | 272 & 4 /90 |
+    | VIC | 272 & 8 /199 |
     | NSW | 136 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250104)
@@ -41,7 +41,7 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | QLD | 308 |
-    | SA  | 314 & 1 /0 |
+    | SA  | 314 & 2 /81 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250105)
 * [Sheffield Shield
@@ -142,14 +142,24 @@ FOX SCORES
     
 * [NFL
     
-    Full Time
+    22/10 11:15 AEST
     
     |     |     |
     | --- | --- |
-    | PIT | 37  |
-    | NYJ | 15  |
+    | TB  | –   |
+    | BAL | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250729)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250730)
+* [NFL
+    
+    22/10 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ARI | –   |
+    | LAC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250701)
 * Football
     
 * [Premier League
@@ -162,18 +172,26 @@ FOX SCORES
     | CRY | –   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250805)
-* Baseball
+* [UCL
     
-* [MLB
-    
-    Final
+    23/10 3:45 AEST
     
     |     |     |
     | --- | --- |
-    | LAD | 10  |
-    | NYM | 5   |
+    | MCO | –   |
+    | BGD | –   |
     
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200212D4A)
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250303)
+* [UCL
+    
+    23/10 3:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIL | –   |
+    | CB  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250301)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -821,7 +839,6 @@ FOX SCORES
 [Rugby](https://www.foxsports.com.au/video/rugby)
 
 * [Wallabies](https://www.foxsports.com.au/video/rugby/wallabies)
-* [The Rugby Championship](https://www.foxsports.com.au/video/rugby/the-rugby-championship)
 * [Rugby](https://www.foxsports.com.au/video/rugby/rugby)
 * [Rugby World Cup](https://www.foxsports.com.au/video/rugby/rugby-world-cup)
 * [Sponsored](https://www.foxsports.com.au/video/rugby/sponsored)
