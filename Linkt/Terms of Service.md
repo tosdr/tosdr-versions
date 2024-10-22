@@ -155,7 +155,7 @@ Legal
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/charge-up-your-savings/brisbane.html)
     * [Win. Choose. Fly! Terms and Conditions](https://www.linkt.com.au/legal/promotions/win-choose-fly-terms/brisbane.html)
     
-* [Rewards See 9 articles](#childnavitem-4)
+* [Rewards See 8 articles](#childnavitem-4)
     
     * [Booking.com Offer Terms and Conditions](https://www.linkt.com.au/legal/rewards/bookingcom/brisbane.html)
     * [Europcar Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/europcar/brisbane.html)
@@ -163,7 +163,6 @@ Legal
     * [Fuel Offer Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-offer/brisbane.html)
     * [Linkt Rewards Terms and Conditions](https://www.linkt.com.au/legal/rewards/customer-rewards/brisbane.html)
     * [mycar Terms and Conditions](https://www.linkt.com.au/legal/rewards/mycar/brisbane.html)
-    * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-up-your-savings/brisbane.html)
     * [Global Escapes Terms and Conditions](https://www.linkt.com.au/legal/rewards/global-escapes/brisbane.html)
     * [Supercheap Auto Terms and Conditions](https://www.linkt.com.au/legal/rewards/supercheapauto/brisbane.html)
     
