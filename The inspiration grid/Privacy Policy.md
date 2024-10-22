@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-jam-bottle-cap-feature.jpg)
+
+[](https://theinspirationgrid.com/bottle-cap-portraits-by-jeffrey-a-meszaros/)
+
+### Bottle Cap Portraits by Jeffrey A. Meszaros
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-andrea-devia-nuno-feature.jpg)
+
+[](https://theinspirationgrid.com/geometry-abstraction-beautiful-illustrations-by-andrea-devia-nuno/)
+
+### Geometry & Abstraction: Beautiful Illustrations by Andrea Devia-Nuño
+
 ![](https://inspgr.id/app/uploads/2024/10/art-stephanie-stutz-feature.jpg)
 
 [](https://theinspirationgrid.com/stunning-digital-landscapes-by-stephanie-stutz/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/ephemeral-bubble-art-installation-by-mad-architects/)
 
 ### Ephemeral Bubble: Art Installation by Mad Architects
-
-![](https://inspgr.id/app/uploads/2024/10/design-sela-feature.jpg)
-
-[](https://theinspirationgrid.com/space-exploration-logo-archive-an-anthology-by-davide-mascioli/)
-
-### Space Exploration Logo Archive: An Anthology by Davide Mascioli
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-leandro-alzate-feature.jpg)
-
-[](https://theinspirationgrid.com/quirky-illustrations-by-leandro-alzate/)
-
-### Quirky Illustrations by Leandro Alzate
 
 Awesome products for creatives
 ------------------------------
