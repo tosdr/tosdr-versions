@@ -470,16 +470,16 @@ Rochester, MN 55905
 507-266-6286  
 [privacyoffice@mayo.edu](mailto:privacyoffice@mayo.edu)
 
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
+![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/03/20/person-physician.svg)
 
-Your gift holds great power – donate today!
--------------------------------------------
+Thank a researcher today
+------------------------
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Send a note](https://links.e.response.mayoclinic.org/tar2024?sourcecode=24R101WG1DHN90Z17B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devthankaresearcher)
 
-Make your tax-deductible gift and be a part of the cutting-edge research and care that's changing medicine.
+Their crucial work saves lives every day. Let Mayo Clinic researchers know they’re appreciated with a quick message.
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Send a note](https://links.e.response.mayoclinic.org/tar2024?sourcecode=24R101WG1DHN90Z17B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devthankaresearcher)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
