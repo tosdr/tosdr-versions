@@ -31,6 +31,533 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Ecuador siente los efectos de la coyuntura económica de China
+=============================================================
+
+China dejó de ser el principal destino de las exportaciones ecuatorianas. Las importaciones desde ese país también han disminuido este 2024.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![China dejó de ser el principal comprador de los productos ecuatorianos. Ideogram](https://www.elcomercio.com/wp-content/uploads/2024/10/editorial-China.jpeg)
+
+**China** dejó de ser el principal comprador de los productos ecuatorianos. En el balance de los primeros siete meses de 2024, la **Unión Europea** le superó por 181 millones de dólares.
+
+Las compras chinas tuvieron un descenso del 16,4 % debido a la reducción de las exportaciones del camarón ecuatoriano. La Unión Europea, en cambio, creció un 30,2 %, según cifras del Ministerio de Producción.
+
+El comportamiento de **China** está relacionado con el panorama de su economía. El 2024 es desafiante porque se espera un crecimiento moderado, a diferencia de años anteriores.
+
+> En el primer trimestre de este 2024, el PIB chino creció un 5,3 %, superando las expectativas, pero en el segundo trimestre la tasa se ralentizó a un 4,7 %, lo que ha generado inquietud entre analistas y mercados internacionales.
+
+Uno de los principales problemas es el desequilibrio estructural de la economía.
+
+¿Eso qué significa? Si bien la oferta se mantiene robusta, la demanda interna sigue siendo débil, lo que limita una recuperación sostenible.
+
+Las exportaciones chinas han mostrado signos de crecimiento, pero las importaciones han caído, reflejando un consumo interno débil.
+
+A pesar de los esfuerzos del **Gobierno** para estimular la economía mediante un paquete de inversión que incluye adelantos presupuestarios y apoyo a pequeñas y medianas empresas, los resultados aún se esperan.
+
+**China** es muy **importante** para el **Ecuador** por el tamaño de su mercado, por las relaciones comerciales y en otros ámbitos y por el inicio del **acuerdo comercial,** que entró en vigor en mayo de 2024.
+
+**Ecuador** también ha comprado menos a **China**. Las importaciones de manufacturas de metales, celulares y automóviles bajaron entre un 9 % y un 24 %, en los siete primeros meses de 2024 con relación al mismo período de 2023.
+
+Los resultados del acuerdo comercial entre **Ecuador y China** se verán en el mediano y largo plazo.
+
+Fellini o el memorial de los sueños
+===================================
+
+El maestro dinamitó la narración en el cine desde su prodigiosa y única imaginación.
+------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Se regodeaba en repetir que nació en el viaje de un tren entre dos poblaciones. Acaso quería resaltar que su vida había sido un **camino** incesante al **mundo** elusivo de los **sueños**. Federico Fellini (Italia, 1920-1993) fusionó fábula y **fantasía** en espléndidas columnas de sus **construcciones** fílmicas. La **fábula** es el sustento de la **tragedia**, la fantasía es capaz de vivificar **mundos** del pasado.
+
+Su madre pretendió formarlo para cura o abogado, pero él huyó y se enroló en el circo. Las **señales** de su azarosa **infancia** dejaron indeleble huella en su **arcilla** humana. Concilió entonces lo **onírico** con la realidad, lo **poético** con lo extravagante, para levantar una de las propuestas **fílmicas** más trascendentes de la historia del **cine**. Esa pátina de **melancolía** que se desliza por equilibrismos, **piruetas** y risotadas del circo influyó poderosamente en su arte.
+
+A la zaga de los pasos de Chaplin
+---------------------------------
+
+Fellini aniquila la **narrativa** y se rehúnde en un amasijo **soberbio de estampas y sonidos,** esbozos, dibujos y **pinturas subliminales** que abruman la retina del alma del **espectador**. Imagino al maestro al pie de la luna del poema de Giacomo Leopardi, soñando su última película, _La voz de la luna_, 1990: “Oh cuán dichosa/ es en la **edad temprana**, cuando aún es mucha/ la esperanza, y breve el curso/ de la memoria, el recordar las cosas/ de otro tiempo, aunque ello sea triste,/ y aunque el **dolor persista**”.
+
+Aclamado por el mundo –considerado uno de los diez mejores directores de cine de la **historia**–, **bibliotecas** y centros de arte llevan su nombre, así como restaurantes, discotecas y calles de su lugar de origen, Rimini, una comarca en la cual –fábula o verdad– vino a la vida.
+
+Cuando murió en 1993, la imagen de desamparo de Giulietta Masina, su compañera, llevando en sus manos un rosario, se detuvo en la retina del tiempo. Solidario y solitario, denostado y estoico, creyente en el **mundo paranormal** y en la magia, su **voracidad** desordenada por los libros se oponía a los rigurosos horarios de su oficio.
+
+**Dibujante y retratista**, alguien escribió que su anhelo era ser “otro Picasso”. No fue así, si alguien suscitaba en su espíritu **profunda admiración**, fue Chaplin y su bastón de bambú que lo llevó a los cielos. “Chaplin es el Adán del que todos descendemos”, exclamó. Y en Amarcord, 1973, esculpe su infancia al paso de Chaplin, atándolo a la Italia de posquerrera, anidada de espantajos fascistas, frailes y abuelas alborotadoras. Música de viviendas, recuerdas y adioses en un óleo barnizado de amargura.
+
+El maestro dinamitó la **narración** en el cine desde su **prodigiosa** y única **imaginación**. Empezó con _La dolce_ _vita_, su primera **película discontinua**, devenida en una espiral de **círculos mágicos**, entre los cuales no hay armonía, sino **perturbaciones** y parálisis, armisticios y rupturas. Marcello Mastroianni –¿el _alter ego_ de Fellini en la encarnación de _Casanova_, 1976?– es un gris periodista que debe perseguir celebridades para hurgar en las fisuras viciadas de la Roma decadente, hora en la cual el animal humano sale a cazar a sus pares para su disfrute. **Anarquismo, fanfarrias y sombras urden la historia**.
+
+_8½_ será su apartamiento definitivo del neorrealismo (traslación de la **realidad** al cine, si es que se quiere enceldarlo en este ismo). Tullio Kezich, su **fervoroso biógrafo,** relieva la **crisis** que afrontó el cineasta ante la expectativa que suscitó con _La dolce vita_: ¿cómo salir del **laberinto** inextricable que había instaurado con este filme? Entonces escudriña en la **esencia** de la **creación**; usa la **cámara** para explorarse a sí mismo. **Desmesura** y **sensibilidad** hilando su aclamado _8½,_ 1963. Obra de un iluminado. Sueño del sueño. Todo es volatilidad. Reminiscencias que ocurren en la **bruma** inexplorable del último sueño, de aquel que se escurre por las **oquedades** del alma.
+
+Amó el circo y quiso ser _clown_. O, al menos, director de circo. Y lo fue. Su genial **filmografía** le otorgó la dirección de un **circo caótico** y alucinado llamado humanidad. ¿Neoabstracto, neorrealista, neosurrealista…? Nada de eso. O eso y más. La poesía es una **metafísica** rauda y contigua. Un poema –el más escueto– debe entregar una noción del **universo** y divulgar el **misterio** de un **alma**, del ser y de las cosas. Cuando se contiene en el tiempo de la **vida**, es menos que la vida. Principio que une las distancias más insalvables, esa es la poesía. Eso logró Fellini.
+
+“La **luna** ignora que es tranquila y clara y ni siquiera sabe que es la luna; la arena que es la arena” (Borges).
+
+La educación ciudadana y la cultura de paz
+==========================================
+
+La violencia escolar se puede revertir con proyectos de educación ciudadana, por una cultura de paz construida por la comunidad educativa. Propuestas didácticas.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La paz como propósito central de la comunidad educativa.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-5.jpg)
+
+**Los orígenes de la violencia son complejos.** Diversos estudios concluyen que las causas más próximas son la **pobreza** -derivada de las desigualdades y discriminaciones de diverso tipo-; la falta de políticas públicas en los ámbitos de **salud, educación y empleo**; y, la crisis profunda en las **familias y el sistema educativo**. A continuación, varios enfoques y líneas didácticas.
+
+A lo anterior se suman otros problemas subyacentes como la **violencia simbólica**, acuñada por el sociólogo francés **Pierre Bourdieu**, que no es sinónimo de la violencia real que causa muertos, heridos y daños materiales.
+
+* **Hegemonía cultural**
+
+**Las prácticas de violencia simbólica son invisibles**, porque corresponden a estrategias construidas socialmente, **que se reproducen en los roles sociales, de género, estatus, estructuras mentales, ideológicas y de poder inconscientes**, y son subterráneas e implícitas porque esconden la matriz comportamental de la sociedad. **Michel Foucault** decía que **“el poder está en todas partes”.** Y solo debemos **“hacer visible lo invisible”.**
+
+Bourdieu y Gramsci fueron los pioneros en reconocer la denominada **hegemonía cultural**; es decir, **“la imposición de un modelo cultural y la reproducción del dominio masculino sobre las mujeres mediante la naturalización de las diferencias entre géneros”**, que alude a dos instituciones básicas: **la familia y la escuela.** Y no solo contra las mujeres, sino contra los que piensan, sienten y actúan de manera diferente. De ahí que **la violencia simbólica sea considerada como la madre de la violencia política, económica y criminal.**
+
+* **El verdadero cambio**
+
+Si su raíz es cultural y radica en la violencia simbólica retratada por Bourdieu, que no se resuelve con tanquetas, armamentos y equipos tecnológicos, es decir, con la violencia institucional, **el verdadero cambio estaría en trabajar en los valores humanos que transmiten las familias y en un nuevo tipo de educación preventiva** -no domesticadora-, que forme y no deforme las conciencias.
+
+Una advertencia previa: **la familia y la escuela no se pueden reformar con decretos, leyes, con talleres o una varita mágica, porque son procesos culturales de largo plazo.** Más, se puede trabajar en universos pequeños, con creatividad y una visión **científica, proactiva y no solo reactiva**.
+
+* **Familia y escuela**
+
+**La crisis de la familia es profunda y polisémica.** La familia es la caja de resonancia del cuerpo social y, a su vez, el retrato de una sociedad permisiva e impregnada por la violencia simbólica, **que está amplificada por las cuatro pantallas: la televisión, los video-juegos, el ordenador y el celular.** Existen estudios sobre los impactos en las sensibilidades de niños y jóvenes.
+
+**La cara oculta de la familia esconde los altos índices de violencia intrafamiliar**, que han desbordado los sistemas legales, judiciales y éticos. Y otros signos preocupantes: **la maternidad prematura, la aparición de nuevos tipos de familia, la migración y la secuela de enfermedades psicosociales** que desbordan la estructura familiar.
+
+**La escuela yace “adormecida”.** Es un espacio de aprendizajes formales, asociados al **currículo**, casi siempre espeso y rígido, que repite modelos de pensamiento memorísticos, con **excesivas asignaturas, que no inciden en las causas de la violencia escolar.**
+
+**Sus acciones reactivas son conocidas:** clases, cursos, asambleas, seminarios, denuncias, protocolos y papeles, mientras la violencia en las aulas prevalece bajo de diversas modalidades, **fortalecida por el silencio y el temor a las represalias:** desde el bullying hasta acosos virtuales y sexuales. **¿Cómo romper este círculo vicioso de la violencia que, al parecer, ha sido “normalizada”?**
+
+* **La educación ciudadana**
+
+**Una cultura de paz debe estar asociada a la realidad de cada comunidad educativa,** e interconectada con otras organizaciones de la sociedad civil que permitan construir -sobre la base del diálogo informado- una **propuesta perfectible de educación ciudadana**, desde la gente y sus problemas antes que impuesta de manera vertical y obligatoria.
+
+**La alternativa es la construcción de un proyecto de educación ciudadana institucional**, elaborado por sus actores, que parta de una línea-base (los problemas de violencia familia-escuela-comunidad), y diseñe **estrategias específicas de cultura de paz, como eje transversal**, que se fundamente en **cuatro ejes**, según **Jacques Delors: aprender a conocer, a hacer, a ser y a vivir juntos.** Y **emprender** juntos acciones de interacción para el enriquecimiento recíproco y el respeto a los demás.
+
+En ese contexto, la educación ciudadana sería un camino, entre otros, para el logro progresivo de una **cultura de paz** integrada a la no violencia activa, con **objetivos claros**: **desarrollar la capacidad crítica, aprender a negociar conflictos reales, compartir el daño ambiental y oponerse de manera radical a los atentados contra la vida y la dignidad humana.**
+
+**La estructura educativa oficial pretende resolver estos problemas mediante asignaturas de Cívica y Ética, pero el tema de la violencia es más que materias sobre valores.** Se necesitan **políticas públicas integradas** a procesos educativos y culturales, que conciernan a toda la sociedad, y de manera especial a las **familias, los docentes, los padres de familia y los medios de comunicación.** Los compromisos para la acción son necesarios, donde se privilegie la cultura de la participación y del diálogo.
+
+* **Intolerancia y derechos humanos**
+
+La UNESCO identifica en un documento oficial los **síntomas de la intolerancia**: denigrar en lenguaje despectivo; utilizar estereotipos y burlas con prejuicios y acusaciones sin fundamento; hostigamiento, discriminaciones, degradación, intimidación, exclusión, segregación, represión y destrucción de adversarios.
+
+También resalta algunos **signos alentadores**, que pueden ayudar a mejorar la convivencia humana: el lenguaje asertivo, el acatamiento de las leyes, el acceso a los beneficios sociales, la igualdad de oportunidades, el respeto a la dignidad humana, a las minorías (indígenas y afrodescendientes) y mayorías; el reconocimiento de los derechos adquiridos y la historia social, así como de las manifestaciones culturales y religiosas.
+
+**Trabajar la intolerancia y los derechos humanos puede ser una estrategia para una educación ciudadana eficiente**, que implique, en la práctica, desarrollar proyectos contra toda forma de discriminación, en razón del **sexismo, el racismo, el etnocentrismo, el nacionalismo, el fascismo, la xenofobia y la explotación de diversa índole.**
+
+* **Un banco de “buenas prácticas”**
+
+Una experiencia valiosa es la creación de un **“banco de buenas prácticas”** de educación para la paz y la no violencia activa -también sugerido por la **UNESCO**\-, que **consiste en recoger ejemplos para la resolución de conflictos en el ámbito escolar, con una perspectiva constructivista.**
+
+No se trata solo de tratar las agresiones, sino canalizar las energías subyacentes -sin juicios de valor-, con **criterios profesionales** y **soluciones nuevas a viejos problemas**, sobre la base del respeto, la comunicación directa y bien informada. **La idea central es prevenir y transformar la violencia en oportunidades de aprendizaje colaborativo en la vida cotidiana, mediante modelos de mediación de conflictos.**
+
+* **Centro de Recursos**
+
+Aprender a vivir juntos es posible mediante instrumentos que permitan mejorar las relaciones en las aulas, para que se ejerciten el aprendizaje en común y la aplicación de ideas positivas. **¡Un Centro de Recursos es una herramienta efectiva!**
+
+**Existen materiales valiosos que podrían servir con el propósito de promover una educación ciudadana para construir una cultura de paz**: folletos, carteles, dibujos, juegos, imágenes, bitácoras, cuentos, debates, guías, historias, periódicos murales, cartas a los diarios, manifiestos, actividades extraescolares, como visita a las ciudades patrimonio; proyectos de innovación educativa, entrevistas a personajes de la vecindad, planes de seguridad humana, clubes de paz, círculos de amigos, pactos de paz en las escuelas, convivencias, campañas en las redes sociales y blogs; bancos de recursos didácticos elaborados por los estudiantes para la educación ciudadana, celebraciones por el Día de los Derechos Humanos, el día mundial de la paz, el día contra el racismo y la xenofobia; programas de radio escolar, concurso de selfis sobre la paz, videos domésticos y video-foros, disco-debates, entre otros.
+
+**La educación ciudadana no se agota con un proyecto o campaña.** La paz debe internalizarse en cada niño, joven y adulto para que se irradie en una sociedad anclada a los valores humanos, y de manera especial a la **defensa de la vida, la democracia, el ambiente, la familia y la educación crítica.**
+
+Cartas a Quito/ 22 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este martes 22 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Preocuparse por el pasado es como cortar leña y dejarla podrir
+--------------------------------------------------------------
+
+El mundo entero se encuentra sorprendido ante la absurda posición de la nueva presidente de México, exigiendo respuesta a la también absurda carta de su antecesor al rey de España.
+
+Las posiciones populistas de recurrir a espectacularidades exuberantes, para mostrar un nacionalismo exacerbado, a más de ser completamente irracionales, muestran una escasa madurez de sus promotores.
+
+Ningún nacionalismo radical ha demostrado en la historia, en ningún lado, ser beneficioso para nadie. De hecho, las menciones como “en el tiempo de la conquista no existía España como tal”, o, “los afectados y los agresores desaparecieron hace siglos” no hacen más que ridiculizar el pedido y a sus autores. ¿De qué sirven, efectivamente, las disculpas a estas alturas? Absolutamente de nada.
+
+Hay una des ubicación, no solamente geográfica, sino también temporal, en personas que piensan que con estas solicitudes van a beneficiar a alguien: ¿A quiénes? ¿Cuál sería el beneficio para los indígenas de México actuales? Por el contrario, con estas maniobras distractoras, típicas de populistas de izquierda, no prestan atención a la situación actual del indigenado en México, víctima de pobreza y de inseguridad, en nada solucionadas por el gobierno, más bien agravadas por actos que dejan muchas dudas sobre su rectitud.
+
+Dejémonos de ser inocentes en los sentimientos nacionalistas, hay que ser prácticos y apostar por las medidas que beneficien a esa parte de la población, que ningún beneficio va a sacar con unas disculpas mal planteadas y peor imaginadas.
+
+Nadie dice que se debe olvidar el pasado, pero las mentes claras lo utilizan para mejorar, no para deslumbrar con actitudes completamente fuera de lugar, ni tampoco para victimizar a una gran proporción del pueblo, con espectacularidades meramente populistas.
+
+No vemos a ningún afín ideológico de los promotores de estos pedidos, tratar de poner en el plano real a estas solicitudes: signo de que la ideología no deja pensar. Esto sucede cuando las ideologías son llevadas al nivel de dogmas.
+
+Yo recurro a la reflexión de Buda: “preocuparse por el pasado es como cortar leña para dejarla podrir”
+
+José M. Jalil Haas
+
+Hernán Barcos sufrió una lesión y se pierde la recta final de la liga peruana
+=============================================================================
+
+El argentino Hernán Barcos fue parte de Liga de Quito en dos campeonatos, en la 2010-2011 y la 2017-2018.
+---------------------------------------------------------------------------------------------------------
+
+![Hernán Barcos, delantero argentino recordado en Ecuador por su paso por Olmedo y Liga de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/hernan-barcos-lesion.jpg)
+
+El delantero **Hernán Barcos** se lesionó y no podrá jugar las últimas jornadas del Torneo Clausura de la liga de **Perú** con su equipo **Alianza Lima**.
+
+El equipo informó esta noticia en la red social X, este lunes 21 de octubre de 2024. Según el comunicado, Barcos sufrió de un desgarro muscular en el **isquiotibial derecho** (muslo) por lo que esta lesión deberá ser tratada bajo rigurosos cuidados del fisioterapista del club.
+
+### Más noticias
+
+* [Polémica en Paraguay por control a niños al ingreso a un estadio](https://www.elcomercio.com/deportes/futbol/paraguay-cateo-ninos-olimpia-libertad.html "Polémica en Paraguay por control a niños al ingreso a un estadio")
+* [Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro")
+* [Lionel Messi iguala récord por ganar premios en la MSL](https://www.elcomercio.com/deportes/lionel-messi-record-premios-mls.html "Lionel Messi iguala récord por ganar premios en la MSL")
+
+El parte médico compartido por Alianza Lima aseguró que “se informará oportunamente de la **evolución** del futbolista”.
+
+Por su parte, el propio jugador argentino, de **40 años**, también publicó un mensaje en el que agradeció el apoyo y **expresó su tristeza**.
+
+“Me gustaría agradecer a todos por los mensajes y los buenos deseos. Es un momento de tristeza por la lesión, pero **acá estoy firme y fuerte** para apoyar desde donde me toque como siempre. Con Alianza siempre”, señaló el delantero junto a una foto luciendo los colores del conjunto íntimo.
+
+> Me gustaría agradecer a todos por los mensajes y los buenos deseos. Es un momento de tristeza por la lesión, pero acá estoy firme y fuerte para apoyar desde donde me toque como siempre.  
+> Con Alianza siempre! 🙏🏻💙💙 [pic.twitter.com/r8pKipJp6i](https://t.co/r8pKipJp6i)
+> 
+> — Hernán Barcos (@Hernanbarcos) [October 21, 2024](https://twitter.com/Hernanbarcos/status/1848482744394731950?ref_src=twsrc%5Etfw)
+
+Hernán Barcos, sexto goleador de Perú
+-------------------------------------
+
+El argentino ha marcado **14 goles** en la liga peruana en lo que va del año, lo que le convierte en el **sexto** jugador que más tantos.
+
+A falta de **tres jornadas** para que acabe el Clausura, Alianza Lima se encuentra en la **segunda posición** con 30 puntos, solo por debajo de Universitario, vigente campeón y que lidera con **33**. 
+
+Hernán Barcos jugó en varios clubes antes de unirse a Alianza Lima. incluyendo **Liga de Quito**, Vélez Sarsfield, Lanús, y equipos en Brasil y China,
+
+Con la selección de su país disputó **cuatro partidos**. Durante su tiempo con el equipo nacional, no anotó goles. Su debut se produjo el 19 de septiembre de 2012 en un amistoso contra Brasil, y participó en encuentros de las eliminatorias para la Copa Mundial de 2014 y otros amistosos.
+
+Elon Musk realiza ‘lotería’ millonaria para ganar votos a favor de Donald Trump
+===============================================================================
+
+El multimillonario empresario, Elon Musk, ofreció un millón de dólares por día a quienes firmen una petición.
+-------------------------------------------------------------------------------------------------------------
+
+![Elon Musk junto al expresidente Donald Trump](https://www.elcomercio.com/wp-content/uploads/2024/10/elon-musk-donald-trump.jpg)
+
+El multimillonario **Elon Musk** prometió dar un **millón de dólares** al día en una suerte de **lotería** a quienes se registren como votantes para las próximas elecciones presidenciales, en varios estados clave.
+
+El sorteo se realiza al azar entre aquellos que firman la petición del ‘**America PAC**‘, el comité de acción política con el que está invirtiendo decenas de millones de dólares en apoyo a **Donald Trump**.
+
+### Más noticias
+
+* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
+* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
+* [Marc Anthony votará por Kamala Harris y alerta a latinos sobre Trump](https://www.elcomercio.com/actualidad/mundo/marc-anthony-votara-kamala-harris-alerta-latinos-trump.html "Marc Anthony votará por Kamala Harris y alerta a latinos sobre Trump")
+
+Según Musk, esto lo hace con el fin de “apoyar la Constitución de los Estados Unidos, especialmente el derecho a la **libertad de expresión** y de portar armas”.
+
+El dueño de **Tesla** aseguró que este premio ya se entrega desde el sábado 19 de octubre de 2024 y que seguirá haciéndose “cada día, hasta las elecciones del **5 de noviembre**“, dijo el magnate.
+
+Legalidad de la acción genera dudas
+-----------------------------------
+
+La ‘lotería’ para los denominados “**estados bisagra**” ha generado abundantes **dudas** sobre su legalidad, según recogieron este lunes los medios estadounidenses.
+
+La cadena CNN, por ejemplo, entrevistó al profesor de Derecho en la Universidad de Notre Dame, **Derek Muller**; el profesional señaló que limitar los premios o regalos solo a votantes inscritos abona las “sospechas de soborno”.
+
+El experto en leyes electorales **Rick Hasen**, de la Facultad de Derecho de la UCLA, entrevistado por la cadena CBS, fue más tajante, y señaló que la acción de Musk “es claramente ilegal” y la calificó como “una compra ilegal de votos”.
+
+El diario **New York Times**, por su parte, recordó que las leyes federales prohíben explícitamente pagar por votar o aún por inscribirse y recogió opiniones encontradas de dos expertos.
+
+**Brendan Fischer**, experto en campañas, cree que la promesa de Musk roza la ilegalidad por condicionar el pago a una inscripción.
+
+El abogado hizo referencia a una ley federal que dice que quien “haga u ofrezca hacer un gasto a cualquier persona ya sea para que vote o retenga su voto, o para que vote a favor o en contra de cualquier candidato podrá hacer frente a multas o penas de prisión”.
+
+Sin embargo, otros expertos, como **Brad Smith**, consideran que Musk **no cae en ilegalidades** porque paga por registrarse, sino solo por firmar una petición (para lo cual hay que inscribirse previamente),
+
+Cronología del caso Reconstrucción de Manabí
+============================================
+
+El 25 de abril de 2019, la Fiscalía recibe una denuncia del Cpccs sobre el presunto abuso de fondos públicos destinados a la reconstrucción.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso reconstrucción de Manabí el pasado 29 de noviembre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-manabi.jpg)
+
+El 26 de abril de 2016, mediante **Decreto Ejecutivo 1004**, se crea el **Comité de Reconstrucción y Reactivación Productiva y del Empleo**. Su finalidad era ejecutar la reconstrucción de infraestructura afectada y reactivar la economía en las zonas afectadas por el **terremoto del 16 de abril**.
+
+### Más noticias
+
+* [Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juicio-contra-21-procesados-inicia-corte-nacional-justicia.html "Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ")
+* [Diana Salazar estuvo presente en la audiencia del caso Plaga](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-en-la-audiencia-del-caso-plaga.html "Diana Salazar estuvo presente en la audiencia del caso Plaga")
+* [Dos nuevos ataques armados se registraron en Manabí](https://www.elcomercio.com/actualidad/seguridad/dos-nuevos-ataques-armados-se-registraron-en-manabi.html "Dos nuevos ataques armados se registraron en Manabí")
+
+El 20 de mayo de 2016, se expide la **Ley Orgánica de Solidaridad y Corresponsabilidad Ciudadana**. Esta ley contempla la recaudación de **contribuciones solidarias de personas naturales y jurídicas**, así como organismos y empresas del **sector público y privado**.
+
+Denuncias y avances en la investigación del caso Reconstrucción de Manabí
+-------------------------------------------------------------------------
+
+El 25 de abril de 2019, la Fiscalía recibe una denuncia del **Consejo de Participación Ciudadana y Control Social (Cpccs**) sobre el **presunto abuso de fondos públicos destinados a la reconstrucción**.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw): En entrevista con Teleamazonas, la fiscal general, Diana Salazar, dijo que han pasado 119 días desde que solicitó audiencia para la formulación de cargos en el caso Reconstrucción de Manabí, en el que es investigado Jorge Glas. “Otra forma de impunidad es que no se… [pic.twitter.com/Gkkd9P2Uzl](https://t.co/Gkkd9P2Uzl)
+> 
+> — Ecuador Chequea (@ECUADORCHEQUEA) [December 18, 2023](https://twitter.com/ECUADORCHEQUEA/status/1736733722785829288?ref_src=twsrc%5Etfw)
+
+El 9 de mayo de 2019, la **Contraloría General del Estado** presenta un informe con indicios de responsabilidad penal en contratos financiados por la **Ley de Solidaridad**. Estos contratos estaban relacionados con la construcción de**l Parque Las Vegas en Portoviejo** y el proyecto tramo Acceso al Puerto de Manta.
+
+El 10 de febrero de 2020, el Cpccs presenta una **nueva denuncia ante la Fiscalía** por el presunto delito de **delincuencia organizada**. La denuncia menciona una reunión celebrada el 22 de mayo de 2017.
+
+En esa reunión participaron **Jorge G.**, expresidente del **Comité de Reconstrucción; Carlos B.**, secretario del Comité; y Pablo O., gerente de la **Empresa Pública Ecuador Estratégico**. En dicha reunión se priorizaron **584 proyectos sin un sustento técnico** que evidenciara la finalidad emergente de reconstrucción.
+
+> En este documento está la lista de “proyectos” de reconstrucción de los 3000M para Manabí. Un montón de contratos firmados por Glas, en emergencia.  
+> .  
+> ¿Donde están las obras? El más indolente: proyecto de energía renovable con 165M de presupuesto. [#Glas](https://twitter.com/hashtag/Glas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zkLZjRJ0RW](https://t.co/zkLZjRJ0RW)
+> 
+> — AndreaGonzalezNader (@AndreGonzalezNa) [December 21, 2023](https://twitter.com/AndreGonzalezNa/status/1737985710773129672?ref_src=twsrc%5Etfw)
+
+El 30 de mayo de 2023, la **Fiscalía unifica el expediente** para dar continuidad a la investigación de los hechos relacionados con las **denuncias del Cpccs y el informe de la Contraloría**.
+
+Formulación de cargos y medidas judiciales
+------------------------------------------
+
+El 1 de junio de 2023, la Fiscalía solicita fecha para **formular cargos contra los exfuncionarios Jorge G., Carlos B. y Pablo O.** por su presunta participación en el delito de peculado. El 5 de enero de 2024, se formulan cargos contra estos tres exfuncionarios.
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | La fiscal general del Estado, [@DianaSalazarM2](https://twitter.com/DianaSalazarM2?ref_src=twsrc%5Etfw), ha solicitado fecha y hora para formular cargos contra Jorge G., Carlos B. y Pablo O., por su presunta participación en el delito de peculado, en el caso [#ReconstrucciónDeManabí](https://twitter.com/hashtag/Reconstrucci%C3%B3nDeManab%C3%AD?src=hash&ref_src=twsrc%5Etfw). [#FiscalíaContraElDelito](https://twitter.com/hashtag/Fiscal%C3%ADaContraElDelito?src=hash&ref_src=twsrc%5Etfw)  
+> Más información ⬇️ [pic.twitter.com/IXwv4W0sec](https://t.co/IXwv4W0sec)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [June 1, 2023](https://twitter.com/FiscaliaEcuador/status/1664362621213057024?ref_src=twsrc%5Etfw)
+
+El juez dicta prisión preventiva para **Jorge G. y Carlos B.**, además de la retención y congelamiento de sus cuentas bancarias, y la prohibición de enajenar bienes por **122 492 990,76 dólare**s a cada uno.
+
+El 21 de febrero de 2024, el Tribunal de la [CNJ](https://es.wikipedia.org/wiki/Corte_Nacional_de_Justicia "https://es.wikipedia.org/wiki/Corte_Nacional_de_Justicia") declara improcedente la apelación a la prisión preventiva de Jorge G. Carlos B. también presentó el recurso, pero el Tribunal declara el abandono por falta de comparecencia, conforme al **numeral 8 del artículo 652 del COIP**.
+
+Nuevas vinculaciones en la investigación
+----------------------------------------
+
+El 12 de abril de 2024, la Fiscalía vincula a seis personas más a la investigación por p**resunto peculado relacionado con la reconstrucción de Manabí**.
+
+Entre los nuevos vinculados se encuentran exministros y exsubsecretarios del Ministerio de Transporte y Obras Públicas. El juez dicta prisión preventiva para **Walter Hipólito S., exministro del MTOP**.
+
+Otros vinculados, como **Boris Sebastián C., Franklin José B., Omar Wilfrido Ch., Víctor Salvador J. y Milton Daniel M.,** deben cumplir con medidas de presentación periódica. Hasta esa fecha, un total de nueve personas son procesadas por el **presunto abuso de fondos destinados a la reconstrucción de Manabí**.
+
+Audiencia preparatoria de juicio
+--------------------------------
+
+La audiencia preparatoria de juicio por presunto peculado en el **caso Reconstrucción de Manabí**, en la que **Jorge G**. es uno de los procesados, fue diferida por quinta vez debido al cambio de defensa del exvicepresidente, quien ha designado a una **nueva abogada**.
+
+La diligencia, que estaba prevista para este miércoles a las 08:30, ha sido reprogramada para el 25 de octubre a las 08:30, en la **Corte Nacional de Justicia**.
+
+Dos especies ‘amenazadas’ de Galápagos con bajas en su reproducción
+===================================================================
+
+Las dos especies de Galápagos con bajas en su reproducción están en una lista roja con la categoría de 'amenazadas'.
+--------------------------------------------------------------------------------------------------------------------
+
+![Dos especies en Galápagos bajan su reproducción.](https://www.elcomercio.com/wp-content/uploads/2024/10/especies-galapagos-reproduccion.jpg)
+
+**Dos especies** “amenazadas” de **Galápagos** registran cifras bajas en su **reproducción**.
+
+Los resultados corresponden al último censo realizado por el **Parque Nacional Galápagos**, la **Fundación Científica Charles Darwin (FCD)** y el **Fondo para el Control de Especies Introducidas en Galápagos (FEIG)**.
+
+### Más noticias:
+
+* [Más de 1 600 especies fueron introducidas en Galápagos](https://www.elcomercio.com/actualidad/ecuador/mas-de-1-600-especies-fueron-introducidas-en-galapagos.html "Más de 1 600 especies fueron introducidas en Galápagos")
+* [En Galápagos se descubre una especie al borde de la extinción](https://www.elcomercio.com/sociedad/galapagos-descubrimiento-especie-borde-extincion-bosque-scalesia.html "En Galápagos se descubre una especie al borde de la extinción")
+
+Las dos especies ‘amenazadas’ en Galápagos con bajas en su reproducción
+-----------------------------------------------------------------------
+
+El Parque Nacional Galápagos, la Fundación y el Fondo realizaron un **censo** de las poblaciones de **pingüinos** de Galápagos y **cormoranes no voladores**, en el oeste del archipiélago.
+
+Durante un recorrido de ocho días por las **islas Isabela, Fernandina y los islotes Las Marielas**, se logró contabilizar **413 pingüinos** y **762 cormoranes**.
+
+El censo reveló que, el **96%** de los pingüinos registrados eran **adultos** y el 1% eran juveniles, mientras que los demás no fueron identificados.
+
+“Estos resultados sugieren una baja en la reproducción de la especie, probablemente por la escasez de **alimento**“, señaló el Parque.
+
+En cuanto a los cormoranes, el **86% fueron adultos**, el 13% juveniles y los demás indeterminados.
+
+En esta actividad, se tomaron **muestras de sangre** a 57 aves para realizar análisis de laboratorio, a fin de detectar posibles enfermedades.
+
+Las dos especies son partes de la **Lista Roja de la Unión Internacional para la Conservación de la Naturaleza (UICN)** como especies “amenazadas”.
+
+Christian Sevilla, responsable del área de Restauración de Ecosistemas Insulares del Parque, señaló que “las zonas de anidación de aves marinas endémicas son altamente sensibles”.
+
+Por esta razón se intensifican las acciones de control, para favorecer su reproducción.
+
+Agregó que se vigilan y observan las áreas donde habitan las aves “para verificar la presencia o no de influenza aviar”.
+
+Aparte de estas dos especies, en el estudio se registraron otras 20 especies de aves marinas.
+
+Entre estas están: piqueros de patas azules, gaviotines y puffinos, alcanzando un total de 12.844 individuos observados.
+
+### Las dos especies
+
+El **pingüino de Galápagos** (spheniscus mendiculus) es la única variedad que vive y anida sobre la línea ecuatorial.
+
+Es una de las **más pequeñas del mundo** con un tamaño promedio de 35 centímetros de altura.
+
+El **cormorán de Galápagos** (phalacrocorax harrisi) es la única ave que ha perdido la capacidad de volar y ha desarrollado grandes **habilidades de buceo**.
+
+El archipiélago de Galápagos, declarado como **patrimonio de la humanidad** por la Unesco en 1978, está formado por 13 islas grandes, 6 menores y 42 islotes.
+
+Tiene una superficie terrestre de un poco más de 8 000 kilómetros cuadrados y 138 000 kilómetros cuadrados de **reserva marina.**
+
+Se calcula que las Galápagos albergan a más de 7 000 **especies endémicas y nativas**.
+
+> \[[#BOLETÍN](https://twitter.com/hashtag/BOLET%C3%8DN?src=hash&ref_src=twsrc%5Etfw)\] 413 pingüinos y 762 cormoranes fueron contabilizados en un censo poblacional realizado por el Parque Nacional Galápagos.  
+>   
+> Boletín completo aquí👇[https://t.co/aZ0ovHYK15](https://t.co/aZ0ovHYK15) [pic.twitter.com/4oqCGYPE8N](https://t.co/4oqCGYPE8N)
+> 
+> — Parque Galápagos (@parquegalapagos) [October 22, 2024](https://twitter.com/parquegalapagos/status/1848518518381187558?ref_src=twsrc%5Etfw)
+
+Autopsia de Liam Payne reveló inquietantes detalles de su muerte
+================================================================
+
+La Policía habló sobre lo que se encontró en el cuerpo sin vida del músico Liam Payne.
+--------------------------------------------------------------------------------------
+
+![Liam Payne falleció el miércoles 16 de octubre de 2024, en Buenos Aires, Argentina](https://www.elcomercio.com/wp-content/uploads/2024/10/autopsia-liam-payne.jpg)
+
+Tras la muerte del cantante británico **Liam Payne**, exintegrante **One Direction**, este lunes 21 de octubre de 2024 se conocieron los primeros detalles de su **autopsia**.
+
+De acuerdo con los portales de noticias **ABC News y TMZ** (espectáculos), fuentes de la Policía de **Argentina** dieron detalles del informe preliminar del examen anatómico practicado a su cuerpo.
+
+Más noticias
+
+* [Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html "Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte")
+* [Emotivo mensaje de la hermana de Liam Payne: ‘Lamento no haber podido salvarte’](https://www.elcomercio.com/tendencias/emotivo-mensaje-de-la-hermana-de-liam-payne-lamento-no-haber-podido-salvarte.html "Emotivo mensaje de la hermana de Liam Payne: ‘Lamento no haber podido salvarte’")
+* [Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’](https://www.elcomercio.com/tendencias/entretenimiento/novia-liam-payne-muerte-one-direction.html "Novia de Liam Payne se pronunció sobre la muerte de su ‘ángel’")
+
+El músico falleció a los **31 años**, el miércoles 16 de octubre, tras **caer del balcón** de su habitación en el hotel Casa Sur Palermo en Buenos Aires.
+
+Antes de su caída, el personal del hotel realizó una llamada al **911** preocupados por el comportamiento “agresivo” de Payne.
+
+En la llamada, mencionaron que él estaba “fuera de sí” por estar presuntamente bajo efectos de **drogas y alcoho**l, y que había “destrozado” su habitación.
+
+10 minutos después, Payne falleció de contado luego de caer desde el **tercer piso** hacia el pateo trasero del lugar donde se hospedaba.
+
+Detalles de la autopsia a Liam Payne
+------------------------------------
+
+A decir por los medios, la autopsia confirmó que Payne sufrió “**traumas múltiples** y hemorragias internas y externas”, siendo las lesiones en la cabeza las más graves y las que provocaron su muerte. 
+
+Se encontraron un total de **25 lesiones** como consecuencia de la caída de gran altura que tuvo, unos **14 metros**.
+
+### Organismo de Payne tenía una ‘mezcla de drogas’
+
+El informe también reveló que el artista tenía varias **sustancias psicotrópicas** en su organismo.
+
+Los datos de la autopsia al cadáver Liam Payne incluyen algunas **drogas**, entre ellas: éxtasis, crack, ketamina y una mezcla de estupefacientes conocida como “cocaína rosa”, asegura ABC y TMZ.
+
+Las pruebas de **toxicología** revelaron, además, que había “cristal” en su sangre, una droga similar a la **metanfetamina**.
+
+Según sus fuentes, la Policía asimismo halló una **botella de alcohol** en la habitación del artista y medicamentos recetados contra la ansiedad.
+
+Muerte del exintegrante de One Direction
+----------------------------------------
+
+La noticia de la muerte de Payne causó gran **conmoción internacional**. En redes sociales, sus fanáticos de todo el mundo se unieron para recordarlo.
+
+Las fotos de cómo quedó la habitación del hotel en Palermo, desde donde cayó el artista se difundieron en Internet.
+
+En las imágenes se veía a la **pantalla del** **televisor destrozada** y un polvo blanquecino sobre una mesa. Además, se halló una pipa de aluminio improvisada en la que consumía las drogas.
+
+**Geoff Payne**, padre del artista, viajó a Argentina al día siguiente de su muerte para la repatriación de su cadáver al Reino Unido, un proceso que podría tardar entre 10 y 15 días. 
+
+Mientras, la policía de Buenos Aires investiga el caso para descartar la posible intervención de un tercero en el **siniestro**. _**Con información de EFE**_.
+
+Polémica en Paraguay por control a niños al ingreso a un estadio
+================================================================
+
+Olimpia es el líder absoluto del Torneo Clausura de Paraguay a falta de seis fechas para su cierre.
+---------------------------------------------------------------------------------------------------
+
+![Roque Santa Cruz (c) con Libertad enfrentando a Olimpia en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/olimpica_libertad_1.jpg)
+
+La revisión corporal de niños a la entrada del estadio donde **Libertad y Olimpia jugaron el partido por la fecha 16 del Torneo Clausura** generó este lunes 21 de octubre de 2024, polémica e indignación en Paraguay, donde además se reportaron 28 detenidos por refriegas entre hinchas.
+
+Luego de un partido del domingo 20 en el que el **Olimpia venció por 1-0 a Libertad en el estadio Defensores del Chaco** de Asunción, medios de comunicación locales difundieron videos donde se observa a agentes de seguridad realizar un chequeo a niños en el control de acceso del escenario deportivo.
+
+### Más noticias:
+
+* [Dos equipos denuncian irregularidades en el Ascenso Nacional de Ecuador](https://www.elcomercio.com/deportes/futbol/denuncias-sobornos-ascenso-nacional-fef.html "Dos equipos denuncian irregularidades en el Ascenso Nacional de Ecuador")
+* [La emotiva reaparición de Neymar en el fútbol tras un año de ausencia](https://www.elcomercio.com/deportes/futbol/emotiva-reaparicion-neymar-futbol-ausencia-lesion.html "La emotiva reaparición de Neymar en el fútbol tras un año de ausencia")
+* [Kendry Páez sumó su segundo partido en la banca de suplentes](https://www.elcomercio.com/deportes/futbol/kendry-paez-sumo-su-segundo-partido-en-la-banca-de-suplentes.html "Kendry Páez sumó su segundo partido en la banca de suplentes")
+
+“No estamos muy contentos al ver este tipo de procedimientos, **no podemos estar orgullosos de este tipo de hechos**“, repudió el comandante de la Policía Nacional de Paraguay, Carlos Benítez, en declaraciones para el canal local NPY.
+
+El comandante aseguró que el hecho “no (se) condicen con la línea de trabajo que baja de la Comandancia de la Policía”.
+
+Igualmente, informó que se ordenó el inicio de una investigación, **en vista de que se observó a un agente policial revisando a un niño**, aunque detalló que en su “mayoría” fueron guardias de seguridad privada los que realizaron la actividad.
+
+También reaccionó el ministro de la Niñez y Adolescencia, Walter Gutiérrez, **quien consideró que la forma del procedimiento** “no corresponde”, además que “no hubo una instrucción” desde la Comandancia de la Policía para ejecutar el control.
+
+Olimpia repudió lo sucedido
+---------------------------
+
+Por su parte, el club Olimpia manifestó en un comunicado “**su enérgica condena y repudio**” a los “graves hechos”, al considerarlos una violación de los derechos de los niños.
+
+“El trato recibido por niñas y niñas causa consternación e indignación no solo en el seno del Club Olimpia, sino en la sociedad entera”, destacó el equipo que además pidió una investigación “exhaustiva”.
+
+Durante los controles previos al partido, la **Policía incautó bebidas alcohólicas dentro del estadi**o y en otro operativo de seguridad detuvo a una veintena de personas de una barra brava que viajaba en un autobús y que protagonizaron disturbios en la ciudad de Limpio, a unos 15 kilómetros de Asunción.
+
+“Posterior al encuentro (de fútbol), en la ciudad de Limpio, también fue incautado un **ómnibus con 28 ocupantes** por hechos de vandalismo; asimismo, se incautaron bebidas alcohólica y otros tipos de sustancias”, refirió el subcomandante de la Policía Nacional, Ramón Morales en NPY.
+
+Las 28 personas, 26 mayores y dos menores de edad, fueron puestas a disposición de la Fiscalía de Paraguay y de un juzgado.
+
+> 📌 La Policía investigará el cateo realizado a niños en el partido Olimpia-Libertad |👮🏼‍♂️  
+>   
+> ♦️ El comandante, Carlos Benítez, mencionó que verificarán si el hecho fue realizado de manera autónoma por el efectivo policial, o si recibió alguna directiva superior.  
+>   
+> ♦️ Alegó además que… [pic.twitter.com/HsVb3kdHoK](https://t.co/HsVb3kdHoK)
+> 
+> — NPY Oficial (@npyoficial) [October 21, 2024](https://twitter.com/npyoficial/status/1848437542829625626?ref_src=twsrc%5Etfw)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Juicio político contra Mónica Palencia al Pleno de la Asamblea esta semana
+==========================================================================
+
+El juicio político Mónica Palencia es el tercer intento del correísmo, luego de no lograr la censura y destitución de Diana Salazar y Gabriela Sommerfeld.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Pleno de la Asamblea requiere de 92 votos para censurar y destituir a Mónica Palencia en el juicio político.](https://www.elcomercio.com/wp-content/uploads/2024/10/monica-palencia-3.jpg)
+
+El **juicio político** contra **Mónica Palencia, ministra del Interior,** será parte del orden del día del **Pleno de la Asamblea** Nacional en **esta semana**[.](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador)
+
+La presidenta de la Asamblea y asambleísta del correísmo, **Viviana Veloz**, realizó la convocatoria.
+
+### Más noticias:
+
+* [Pleno de la Asamblea vota por el juicio a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/informe-juicio-politico-monica-palencia-llega-pleno-asamblea.html "Pleno de la Asamblea vota por el juicio a Mónica Palencia")
+* [Fiscalización votó sobre juicio político contra Mónica Palencia](https://www.elcomercio.com/actualidad/politica/monica-palencia-juicio-politico-fiscalizacion-votacion.html "Fiscalización votó sobre juicio político contra Mónica Palencia")
+
+Juicio político contra Mónica Palencia, tercer intento del correísmo luego de Diana Salazar y Gabriela Sommerfeld
+-----------------------------------------------------------------------------------------------------------------
+
+El juicio político contra Mónica Palencia es el tercer intento del correísmo por la censura y destitución, tras fracasar con **Diana Salazar y Gabriela Sommerfeld**.
+
+Los dos juicios tenían como causal el incumplimiento de funciones y fueron propuestos por **asambleístas del correísmo.**
+
+El **8 de agosto**, con 76 votos afirmativos, el Pleno archivó el trámite del juicio político en contra de la ministra de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld**.
+
+El **10 de septiembre**, 76 legisladores se pronunciaron a favor de archivar el proceso de juicio político contra la fiscal general **Diana Salazar.**
+
+Fecha de convocatoria al Pleno de la Asamblea para conocer juicio político contra la Ministra del Interior
+----------------------------------------------------------------------------------------------------------
+
+El pasado jueves 17 de octubre, **89 asambleístas** en el Pleno de la Asamblea decidieron continuar con el proceso de juicio político contra Mónica Palencia.
+
+La moción fue presentada por la asambleísta del correísmo, **Sofía Espín**.
+
+Esto, tras conocer los informes de posturas de los asambleístas de la **Comisión de Fiscalización**, que no lograron aprobar un informe de mayoría.
+
+Así, el Pleno de la Asamblea es el que tendrá la última palabra sobre la **censura y destitución** de Palencia.
+
+Para censurar y destituir a la Ministra del Interior se requieren **92 votos**, solo tres más de los que se obtuvieron para lograr que continúe el juicio.
+
+Palencia es enjuiciada por los asambleístas del correísmo, **Paola Cabezas y Leonardo Berrezueta**, por incumplimiento de funciones.
+
+Los cargos van desde los índices de violencia e inseguridad en el país hasta la incursión policial en la **Embajada de México en Quito**.
+
+Este último acto derivó en la detención del procesado por la justicia, exvicepresidente y líder del correísmo, **Jorge Glas**.
+
+El **miércoles 23 de octubre, a las 08:30**, Viviana Veloz convocó al Pleno.
+
+El **único punto del orden del día**, después del Himno Nacional, es el juicio político contra la ministra del Interior, Mónica Palencia.
+
 Álex Rangel fue galardonado como el mejor de la fecha 10
 ========================================================
 
@@ -478,585 +1005,3 @@ La victoria de los toreros y del entrenador ecuatoriano se dio junto a otros cua
 Aunque se encuentra distanciado y no se encuentra entre los cinco mejores, el triunfo de **Barcelona SC** le permite aferrarse a sus ilusiones y continuar con posibilidades de ganar la etapa. Eso sí, para ganar la ronda debe esperar por el tropiezo de sus **rivales directos** y mantenerse en la senda vencedora.
 
 Los siguientes choques para el equipo guayaquileño y Segundo Alejandro Castillo serán frente a **Delfín, Aucas, Cumbayá, Técnico Universitario y Mushuc Runa**. El cuadro amarillo se encuentra en la quinta posición de la segunda etapa con 16 puntos, a seis del líder Liga de Quito.
-
-La Copa Ecuador se definirá en la Sierra
-========================================
-
-La Copa Ecuador tendrá su gran final en noviembre, en una sede y estadio aún por definir.
------------------------------------------------------------------------------------------
-
-![José Fajardo con Universidad Católica en la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_1.jpg)
-
-La **Copa Ecuador** entra en su etapa de definiciones con la puesta en marcha de las semifinales para definir a los dos finalistas, que pelearán por los premios deportivos y económicos que entregará la Federación Ecuatoriana de Fútbol (FEF).
-
-Entre el **martes 22 y jueves 31 de octubre de 2024 la Copa Ecuador** tendrá cuatro partidos, puesto que la modalidad en esta etapa deja de ser a partido único, y será de ida y vuelta.
-
-### Más noticias:
-
-* [¿Cómo queda la Liga Pro tras la fecha 10 de la segunda etapa?](https://www.elcomercio.com/deportes/liga-pro-tabla-posiciones-fecha-10.html "¿Cómo queda la Liga Pro tras la fecha 10 de la segunda etapa?")
-* [El ecuatoriano Jefferson Cepeda ficha por el Movistar Team](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-movistar-team-ecuatoriano-ciclismo.html "El ecuatoriano Jefferson Cepeda ficha por el Movistar Team")
-* [Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?](https://www.elcomercio.com/deportes/liga-quito-marco-angulo-inspiracion-tecnico-universitario.html "Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?")
-
-El campeón se llevará un **premio de 340 000 dólares**. Este monto se sumará al que entrega la Conmebol por participar en la Libertadores.
-
-En el 2024 en la fase 1 se entregó 400 000 dólares. En total, el ganador de la Copa Ecuador se asegura un **monto de 740 000 dólares**.
-
-Si avanza de fase el dinero irá en aumento. Por ejemplo, en la **fase 2 el premio es de 500 000 dólares**. En la fase 3 de 600 000. En la fase de grupos el premio es de 3 millones.
-
-Para la edición del 2025 de la Libertadores ya **está clasificado Independiente del Valle**, el ganador de la primera fase de la Liga Pro, como Ecuador 1.
-
-La Copa Ecuador no sale de la Sierra
-------------------------------------
-
-A Independiente del Valle, se suman **El Nacional, Universidad Católica y Mushuc Runa**, todos equipos de la Sierra de donde saldrá el nuevo campeón de la Copa Ecuador.
-
-La primera llave será entre **Universidad Católica vs. Independiente del Valle**, primero en el estadio Olímpico Atahualpa (22/10), y la revancha en el Complejo de los del Valle (29/10).
-
-La segunda llave la protagonizarán **El Nacional vs. Mushuc Runa**. Arrancan en La Cocha (23/10) y la revancha en el Olímpico Atahualpa (31/10).
-
-En el 2022, **9 de Octubre** fue el único representante de la Costa en las semifinales de la Copa Ecuador.
-
-Por la Sierra participaron **Independiente del Valle, El Nacional** y Mushuc Runa.
-
-En el 2019 la configuración se invirtió con supremacía de la Costa: **Barcelona Sporting Club**, Delfín y Emelec. De la Sierra el sobreviviente fue Liga de Quito.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBB4yQNuSDH/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Copa Ecuador (@copaecuadoroficial)](https://www.instagram.com/p/DBB4yQNuSDH/?utm_source=ig_embed&utm_campaign=loading)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Daniel Noboa realizará un nuevo viaje internacional
-===================================================
-
-Presidencia detalló el cronograma del viaje que cumplirá el mandatario y su comitiva en la visita oficial a Brasil.
--------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa durante uno de sus viajes internacionales a El Salvador](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-viaje-brasil.jpg)
-
-El presidente de Ecuador, **Daniel Noboa**, realizará un nuevo **viaje internacional** entre el martes 22 y miércoles 23 de octubre de 2024.
-
-A través del **Decreto Ejecutivo 428** se detalló que el mandatario visitará **Brasil** para cumplir con una agenda oficial que incluye foros y entrevistas.
-
-### Más noticias
-
-* [Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyecto-a-favor-de-la-energia-renovable-pasa-el-primer-debate-en-la-asamblea.html "Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea")
-* [Focos recargables tienen alta demanda en Quito; ¿qué tan fácil es conseguirlos?](https://www.elcomercio.com/uncategorized/focos-recargables-cortes-luz-quito.html "Focos recargables tienen alta demanda en Quito; ¿qué tan fácil es conseguirlos?")
-* [Ministerio de Educación desarrolla plan de emergencias ante cortes de luz](https://www.elcomercio.com/actualidad/ministerio-educacion-desarrolla-plan-emergencias-cortes-de-luz.html "Ministerio de Educación desarrolla plan de emergencias ante cortes de luz")
-
-Viaje a Brasil
---------------
-
-El cronograma difundido por Presidencia detalla que Noboa saldrá a rumbo a **São Paulo**, a las 09:30 de este martes.
-
-Su llegada está prevista a las **15:00 de Ecuador** (17:00 hora de Brasil).
-
-En el primer día, el Presidente únicamente cumplirá con una **entrevista** para el medio Bloomberg.
-
-Mientras que el miércoles 23 de octubre, Noboa realizará **seis actividades** en este país; en la primera de ellas, a las 09:30, se reunirá con el político y empresario **Michael Bloomberg**, exalcalde de Nueva York.
-
-Luego, desde las 10:30 hasta alrededor de las 13:00, Noboa asistirá a **cuatro foros**.
-
-* Foro ‘The Investment Case for Low-Carbon Renewables’, La inversión en energías renovables bajas en carbono.
-* Foro ‘The Economics of Neopopulism’, La economía del neopopulismo.
-* Foro ‘Building the Bank of The Future’, Construyendo el banco del futuro.
-* Foro ‘Climate-Proofing the Economy, La economía a prueba de clima
-
-Tras una última **conferencia** de Katherine Tai, Representante de Comercio de los Estados Unidos, el Presidente y su comitiva retornarán a Ecuador a las **16:00**.
-
-> Conoce la agenda oficial del presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) en Brasil del martes 22 y miércoles 23 de octubre. [#EcuadorEnBrasil2024](https://twitter.com/hashtag/EcuadorEnBrasil2024?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🇧🇷 [pic.twitter.com/uwzah41ysv](https://t.co/uwzah41ysv)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 21, 2024](https://twitter.com/Presidencia_Ec/status/1848470568489693644?ref_src=twsrc%5Etfw)
-
-Comitiva que acompañará a Noboa
--------------------------------
-
-**Siete funcionarios** públicos serán parte de la comitiva que acompañará a Daniel Noboa en su visita a Brasil, entre ellos, **María Sommerfeld**, ministra de Relaciones Exteriores y Movilidad Humana, e **Irene Vélez**, Secretaria General de Comunicación de Presidencia.
-
-Además, de un Edecán Naval, un Jefe de Seguridad, un Subsecretario de Protocolo, uno de Gestión Gubernamental y un Director de Fotografía.
-
-Los viáticos y gastos se cubrirán con el presupuesto de cada institución, detalló el decreto.
-
-Viajes internacionales de Daniel Noboa
---------------------------------------
-
-El Presidente de Ecuador ha visitado **nueve países** y 10 ciudades en **14 vuelos internacionales** desde que asumió el cargo en noviembre de 2023.
-
-Según detalla el portal de viajes de la Presidencia, el mandatario visitó Miami, Madrid, Palm Beach, Tenerife, Washington, Roma, París, entre otras ciudades.
-
-También se suman las visitas **Argentina y El Salvador**, para las investiduras presidenciales de Javier Milei y Nayib Bukele, respectivamente.
-
-La mayoría de estos viajes han sido realizados con los aviones presidenciales Legacy 600 y Falcon 7X, operados por la Fuerza Aérea Ecuatoriana (**FAE**).
-
-Adolescentes compran boletos de ‘Robot salvaje’ para colarse en ‘Terrifier 3’ 
-==============================================================================
-
-La tercera entrega de la saga 'Terrifier' se ha convertido en la película de terror más sangrienta del año.
------------------------------------------------------------------------------------------------------------
-
-![En 'Terrifier 3', Art el payaso asesino regresa en Nochebuena para vengarse de Sienna y Jonathan. Foto: Instagram @officialterrifier3.](https://www.elcomercio.com/wp-content/uploads/2024/10/Terrifier-3.jpg)
-
-Desde su estreno, **‘Terrifier 3’ ha logrado eclipsar a grandes producciones como ‘Joker 2’**, ya que ha recaudado entre 17 y 18 millones de dólares en su primer fin de semana. Esto es notable pues **su presupuesto fue de solo 2 millones**, lo que resalta la efectividad del **cine independiente en el género del terror**, según informa [La Vanguardia](https://www.lavanguardia.com/peliculas-series/peliculas/terrifier-3-1034541 "https://www.lavanguardia.com/peliculas-series/peliculas/terrifier-3-1034541").  
-
-### Más noticias
-
-* [Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’)](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html")
-* [Art, el payaso que venció al Joker y resucita al slasher](https://www.elcomercio.com/tendencias/art-terrifier-slasher.html "https://www.elcomercio.com/tendencias/art-terrifier-slasher.html")
-
-El director Damien Leone, siguiendo con la misma fuente, ha afirmado que **este enfoque le permite mayor libertad creativa**, algo que se traduce en una experiencia auténtica para los espectadores. 
-
-**Sinopsis de ‘Terrifier 3’**  
--------------------------------
-
-La historia de **‘Terrifier 3’** se sitúa en una tranquila **Nochebuena**. Art, el payaso asesino, regresa para sembrar el terror en el condado de Miles.  
-
-La trama inicia con la premisa de que “ninguna festividad es segura”. **Art busca venganza contra Sienna y su hermano Jonathan**, quienes intentan disfrutar de la temporada navideña tras sobrevivir a los horrores de Halloween. Sin embargo, el caos se desata cuando Art convierte su alegría festiva en una nueva pesadilla, de acuerdo con la web [Perfil](https://www.perfil.com/noticias/sociedad/a30-de-horror-terrifier-3-la-pelicula-gore-mas-sangrienta-que-esta-rompiendo-todos-los-records-en-taquilla-y-se-estrenara-en-octubre-2024.phtml "https://www.perfil.com/noticias/sociedad/a30-de-horror-terrifier-3-la-pelicula-gore-mas-sangrienta-que-esta-rompiendo-todos-los-records-en-taquilla-y-se-estrenara-en-octubre-2024.phtml"). 
-
-**Adolescentes burlan la censura** 
------------------------------------
-
-El **éxito de esta película** ha sido tan grande que, según [E-Cartelera](https://www.ecartelera.com/noticias/une-terrifier-robot-salvaje-polemica-relacion-78665/ "https://www.ecartelera.com/noticias/une-terrifier-robot-salvaje-polemica-relacion-78665/"), adolescentes en Estados Unidos **han buscado maneras de verla**, a pesar de estar clasificada como R, lo que significa que **menores de 17 años solo pueden ingresar acompañados por un adulto**.  
-
-Los jóvenes no quieren perderse la última sensación del **cine ‘gore’**. ¿Su estrategia, según The Hollywood Reporter? **Comprar boletos para ‘Robot Salvaje’ y luego colarse en la función del nuevo ‘slasher’**.  
-
-**Características del film** 
------------------------------
-
-**‘Terrifier 3’** se destaca por s**u enfoque en el ‘gore’ y el ‘slasher’**, géneros que han caracterizado a la saga desde sus inicios. Las escenas prometen ser más brutales y sangrientas que las entregas anteriores. Leone ha declarado que **esta será la película más extrema de la serie hasta ahora**, a decir de [Sensacine](https://www.sensacine.com/peliculas/pelicula-310139/ "https://www.sensacine.com/peliculas/pelicula-310139/"). 
-
-**Reparto y producción** 
--------------------------
-
-El elenco incluye a **David Howard Thornton** como **Art the Clown**, Lauren LaVera como Sienna y Elliot Fullam como Jonathan. Además, **personajes de entregas anteriores regresan**, lo que añade continuidad a la historia, segpun recoge la web [RPP](https://rpp.pe/cine/internacional/terrifier-3-fecha-de-estreno-reparto-sinopsis-y-todo-lo-que-sabemos-regreso-de-art-the-clown-trilogia-peliculas-de-terror-cine-noticia-1583254?ref=rpp "https://rpp.pe/cine/internacional/terrifier-3-fecha-de-estreno-reparto-sinopsis-y-todo-lo-que-sabemos-regreso-de-art-the-clown-trilogia-peliculas-de-terror-cine-noticia-1583254?ref=rpp").  
-
-La película se estrenó en Estados Unidos el 11 de octubre y **su estreno en otros países, incluido Ecuador, está programado para el 31 de octubre**, justo a tiempo para Halloween. 
-
-**¿Es necesario ver las películas anteriores?** 
-------------------------------------------------
-
-No es obligatorio haber visto las entregas anteriores para entender ‘Terrifier 3’, aunque sí enriquecerá la experiencia. Las referencias y personajes recurrentes ofrecen un contexto más profundo sobre el personaje de Art y sus motivaciones. 
-
-Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre
-==================================================================================
-
-Con la reducción del IVA en los feriados de noviembre, Daniel Noboa busca la reactivación del turismo.
-------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa redujo el IVA para feriados de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-IVA-feriados-noviembre.jpg)
-
-El presidente **Daniel Noboa** redujo el **Impuesto al Valor Agregado (IVA)** para incentivar el turismo en los **feriados de noviembre** en Ecuador, este lunes 21 de octubre[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-La decisión se dio a través de la firma del **Decreto Ejecutivo N° 429.**
-
-### Más noticias:
-
-* [Feriados que restan en Ecuador para este 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-que-restan-en-ecuador-para-este-2024.html "Feriados que restan en Ecuador para este 2024")
-* [Ministerio de Turismo se pronunció sobre las actividades turísticas por el estado de excepción](https://www.elcomercio.com/actualidad/ecuador/ministerio-turismo-pronuncio-actividades-turisticas-estado-excepcion.html "Ministerio de Turismo se pronunció sobre las actividades turísticas por el estado de excepción")
-
-Decreto de Daniel Noboa para la reducción del IVA en los feriados de noviembre
-------------------------------------------------------------------------------
-
-El presidente Daniel Noboa redujo el IVA en los feriados de noviembre de 2024.
-
-Ecuador tendrá **cuatro días de feriado** en noviembre, del 1 al 4 de noviembre de 2024.
-
-Esto se debe al **Día de los Difuntos**, el 2 de noviembre, y la **Independencia de Cuenca**, el 3 de noviembre.
-
-Aunque estos dos días caen en sábado y domingo, la normativa ecuatoriana vigente establece la extensión al viernes y lunes de ese fin de semana, con el fin de incentivar el turismo.
-
-A esta medida tomada en años pasados, se suma el Decreto Ejecutivo firmado por Daniel Noboa este **lunes**.
-
-En el mismo, Noboa dispuso la reducción del Impuesto al Valor Agregado (IVA) **al 8 %**.
-
-Este beneficio va dirigido a los **servicios turísticos**, durante estos días.
-
-El Gobierno ratifica que “esta medida busca impulsar la **reactivación** del sector turístico”.
-
-Considerando que el turismo es uno de los pilares clave para la **economía** del país.
-
-La reducción del IVA facilita la **accesibilidad** de los ciudadanos a los servicios.
-
-El **Servicio de Rentas Internas (SRI)** será responsable de garantizar el cumplimiento de esta disposición.
-
-Para los feriados de noviembre, los **cortes de luz serán de seis y cuatro horas** diarias, en todo el país y en dos franjas horarias.
-
-Según la **disposición** de reducción de las horas de cortes de luz del Gobierno de Daniel Noboa.
-
-Del 1 al 3 de noviembre corresponden a la **segunda semana**, con seis horas de cortes de luz diarias.
-
-Mientras qué, el 4 de noviembre, corresponde a la **tercera semana**, con cuatro horas de cortes de luz diarias.
-
-(Video) Tomás Lecanda, futbolista de Imbabura, vivió un emotivo reencuentro con su familia
-==========================================================================================
-
-Tomás Lecanda, jugador de Imbabura, recibió la inesperada visita de su familia en el partido frente a Independiente del Valle.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Tomás Lecanda, futbolista de Imbabura, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T160136.102.jpg)
-
-La fecha 10 de la Liga Pro trajo consigo el partido entre **Imbabura** e Independiente del Valle en el que los rayados se impusieron por un marcador de 3-1. Pese a la derrota, **Tomás Lecanda**, futbolista de los gardenios, vivió un emocionante momento.
-
-Para el choque ante el conjunto de Sangolquí, que hizo de local frente al cuadro imbabureño, **Lecanda** partió como titular. El **futbolista argentino** estuvo presente los 90 minutos, sin embargo, los instantes más dulces para él llegaron cuando finalizó el compromiso.
-
-### Más noticias:
-
-* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
-* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
-* [Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?](https://www.elcomercio.com/deportes/liga-quito-marco-angulo-inspiracion-tecnico-universitario.html "Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?")
-
-Una vez que el árbitro dio el silbatazo final y los jugadores partieron hacia los camerinos, **Lecanda** permaneció en la cancha. El jugador fue abordado por uno de los **funcionarios** del equipo, quien lo direccionó hacia la tribuna.
-
-Cuando este se dirigió hacia los graderíos, este se tomó el rostro y apuro el paso. Allí lo esperaba su **familia**, quien se había trasladado desde su país para ver el compromiso.
-
-Una vez que llegó hasta donde se ubicaban, **Lecanda** subió a las gradas y se fundió en un abrazo con sus afectos. Asimismo, le regaló su camiseta a un adolescente que se encontraba junto a ellos.
-
-> [@julietamordacci7](https://www.tiktok.com/@julietamordacci7?refer=embed "@julietamordacci7") No estoy llorando tu estas llorando [#futbol](https://www.tiktok.com/tag/futbol?refer=embed "futbol") [#imbabura](https://www.tiktok.com/tag/imbabura?refer=embed "imbabura") [#reencuentro](https://www.tiktok.com/tag/reencuentro?refer=embed "reencuentro") [♬ Brindis – Soledad](https://www.tiktok.com/music/Brindis-6702739305401436162?refer=embed "♬ Brindis - Soledad")
-
-Un gol anulado para Tomás Lecanda ante Independiente del Valle
---------------------------------------------------------------
-
-El partido de **Tomás Lecanda** ante el Imbabura tuvo una serie de reveses para el defensa central, además de la derrota por 3-1. El futbolista anotó un gol que fue anulado y recibió una tarjeta amarilla tras el festejo en el cual mostró una camiseta en la que dedicaba el tanto a su progenitora por el Día de la Madre (20 de octubre en Argentina)[.](https://en.wikipedia.org/wiki/Imbabura_Province "https://en.wikipedia.org/wiki/Imbabura_Province")
-
-El tanto de Lecanda representaba el primero para el conjunto gardenio en el compromiso, sin embargo, este fue revisado por el **VAR**. Una vez que la jugada fue examinada, esta se invalidó debido a un fuera de juego de parte del **defensa central**.
-
-Pese a que el cuadro imbabureño contaba con un jugador más en la cancha debido a la expulsión de Joaquín Pombo a los dos minutos del cotejo, este no se mostró superior. Independiente del Valle anotó gracias a un doblete de **Jeison Medina** y otro tanto de **Patrik Mercado**, mientras que el descuento de Imbabura llegó por un autogol de Richard Schunke.
-
-Imbabura lucha por mantenerse en la Serie A
--------------------------------------------
-
-El Imbabura de **Tomás Lecanda** busca mantener la categoría en la Liga Pro. El equipo se encuentra en el penúltimo puesto de la tabla acumulada con 23 unidades.
-
-Por debajo del cuadro imbabureño solo se ubican **Cumbayá** con 19 puntos y **Libertad** con 16.
-
-Focos recargables tienen alta demanda en Quito; ¿qué tan fácil es conseguirlos?
-===============================================================================
-
-Los cortes de luz anunciados por el gobierno de Daniel Noboa llevaron a las personas a buscar alternativas como los focos recargables para iluminar sus hogares en Quito.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las ferreterías tienen letreros donde indican la disponibilidad de focos recargables en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Foco-recargable-venta-Quito.jpg)
-
-Los **cortes de luz**, provocados por el estiaje a nivel nacional, han llevado a la gente a buscar alternativas para iluminar sus hogares durante los apagones. **En Quito**, los focos recargables se han convertido en una de las opciones más utilizadas. Los moradores los adquieren en **importadoras**, **ferreterías** y tiendas en línea como Marketplace[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
-
-Más noticias
-------------
-
-* [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
-* [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
-* [Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-asi-seran-nuevos-horarios-desde-lunes-21-en-ecuador.html "Cortes de luz se reducen; así serán los nuevos horarios desde el lunes 21 en Ecuador")
-
-En varios locales y ferreterías del **Centro Histórico de Quito**, un cartel pegado en las puertas se repite: “**No hay focos recargables**“.
-
-Focos recargables escasos en Quito
-----------------------------------
-
-La alta demanda hace que estos productos se agoten en menos de una semana. Este es el caso de **Norma** **Silva**, una comerciante que tiene un local de venta de focos en el Centro Histórico de Quito, quien cuenta que, antes de los cortes de luz, una importación le duraba meses, pero ahora solo días.
-
-La semana pasada trajo 100 **focos** **recargables** y se agotaron en pocos días. Además, menciona que las importadoras también han **incrementado** los **precios**, lo cual dificulta conseguir nueva mercadería. Antes, cada unidad costaba 10 dólares; ahora, 12.
-
-Antes no eran tan caros
------------------------
-
-**Leslie** **Cabrera**, otra comerciante que tiene una ferretería en el **Centro Histórico de Quito**, colocó un letrero en la entrada indicando que **no tiene focos recargables**, pero aun así la gente ingresa para preguntar sobre la **disponibilidad** y el tiempo en que podría traer nuevos productos.
-
-Antes vendía cada foco en 6 dólares, pero ahora los proveedores se los ofrecen a 10 dólares, lo que lo obliga a venderlos al público en 12.
-
-Comenta que la escasez se inició hace unos 20 días. Cuando tenía focos recargables, durante los cortes de luz, vendía ocho al día. Antes de eso, apenas despachaba uno al mes.
-
-Precios altos por la demanda
-----------------------------
-
-Por otro lado, **Marcelo** **Reyes**, dueño de un local de focos, menciona que ya no piensa traer más focos recargables para vender, debido a que los proveedores están cobrando **precios muy altos.**
-
-Dice que la **escasez** se debe a que está difícil sacar de **aduana**. Afirma que las importadoras son las que suben los precios de los focos. Sin embargo, desde el Servicio Nacional de Aduana del Ecuador (Senae) señalaron que no hay ninguna alerta sobre supuestas demoras en los trámites de desaduanización de focos recargables.
-
-De todas formas, se sugieren alternativas como lámparas con **paneles solares**, aunque aclara que iluminar una casa con este sistema cuesta alrededor de 800 dólares, mientras que antes de los cortes de luz el precio era de 400 dólares.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/No-hay-focos-recargables-en-Quito-1024x683.jpg)
-
-Los dueños de los negocios ponen carteles en las puertas de sus locales para indicar que no hay focos recargables en Quito. Foto: Julio Estrella / EL COMERCIO.
-
-¿Por qué la gente busca focos recargables en Quito?
----------------------------------------------------
-
-Los cortes de luz tienen una duración de hasta 10 horas, aunque el presidente de **Ecuador**, **Daniel** **Noboa**, afirmó que las horas de **racionamiento eléctrico** disminuirán paulatinamente con el paso de las semanas.
-
-Mientras tanto, muchas personas deben pasar largos periodos a oscuras. **Elizabeth** **Carrera**, por ejemplo, buscó focos recargables el fin de semana para que sus hijos puedan tener luz durante la noche y realizar sus **deberes**.
-
-**Fernanda** **Valencia**, una mujer de la tercera edad que tiene miedo a la **oscuridad**, recibió de su hijo un **foco** **recargable** el fin de semana para tener luz en su cuarto hasta quedarse dormida.
-
-Duración de los focos recargables
----------------------------------
-
-Según los dueños de ferreterías, los **focos recargables** tienen una duración de cuatro horas encendidos, con un tiempo de recarga de dos horas.
-
-Antes, estos focos se vendían principalmente a personas que se dirigían al **campo** o a lugares sin **electricidad**; ahora, son uno de los productos más buscados por los quiteños.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Foco-recargable-1024x683.jpg)
-
-Algunos locales logran importar focos recargables, pero se acaban rápido. Foto: Julio Estrella / EL COMERCIO.
-
-Kendry Páez sumó su segundo partido en la banca de suplentes
-============================================================
-
-Kendry Páez vive sus últimos meses en Independiente del Valle antes de unirse al Chelsea.
------------------------------------------------------------------------------------------
-
-![Kendry Páez con Independiente del Valle en un encuentro de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_suplente_1.jpg)
-
-**Kendry Páez** es todo un suceso en el fútbol ecuatoriano. Desde su debut en el primer plantel de Independiente del Valle y con la Selección de Ecuador absoluta su nombre no deja de ser un tema de conversación para los futboleros.
-
-Luego de la pandemia del **covid-19 que afectó a Ecuador y al mundo en el 2020**, el nombre de Kendry Páez empezó a sonar con fuerza y rápidamente se viralizó a escala nacional e intencional, por la habilidad con el balón en sus pies.
-
-### Más noticias:
-
-* [El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-delfin-liga-pro-segunda-etapa-fecha-10.html "El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador")
-* [Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1](https://www.elcomercio.com/deportes/formula-1-gran-premio-estados-unidos-leclerc-sainz.html "Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1")
-* [Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último](https://www.elcomercio.com/deportes/aucas-liga-pro-macara-partido.html "Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último")
-
-El 25 de febrero de 2023, **con 15 años, 9 meses, y 21 días**, debutó con Independiente en la Liga Pro. Fue en el estadio La Cocha de Latacunga en la victoria 3-1 ante Mushuc Runa, con un golazo incluido que lo puso definitivamente en el mapa.
-
-Con la Selección de Ecuador también vivió un 2023 lleno de récords ligados a su edad. **Con la sub-17 debutó, con Diego Martínez como DT**, con 15 años, 4 meses y 18 días; y con la sub-20, con Miguel Bravo como entrenador, con 16 años y 16 días jugó el Mundial en Argentina.
-
-Con la absoluta su debut fue con los 16 años, 4 meses y ocho días, **con el español Félix Sánchez en la zona técnica**. A su edad le sumó tener el récord de precocidad de goles en eliminatorias y en la Copa América.
-
-En ese mismo año se anunció su traspaso al Chelsea. Se unirá a los ingleses en junio de 2025, una vez que cumpla los 18 años.
-
-Desde su participación con la Tri en la reciente Copa América su rendimiento no es el esperado, por lo que las críticas han estado a la orden del día, **principalmente por sus convocatorias que**, a criterio de un sector de la prensa e hinchas, no están justificadas.
-
-Páez pierde la titularidad
---------------------------
-
-Javier Gandolfi, entrenador de Independiente, **poco a poco le ha quitado protagonismo a Páez** en el equipo titular, al punto de convocarlo, pero no darle minutos en los últimos dos juegos de la segunda etapa de la Liga Pro.
-
-Ante Mushuc Runa e Imbabura en la **novena y décima fecha, respectivamente**, el guayaquileño vivió los 90 minutos en la banca de suplentes, aspecto que sucedió por primera vez en la temporada.
-
-Las únicas veces que no jugó fue en la cuarta y quinta jornada de la **primera etapa ante Técnico Universitario y Aucas**, pero por estar convocado a la Tri para la gira de amistosos en Estados Unidos en marzo, en donde fue noticia por actos de indisciplina, junto a Gonzalo Plata y Robert Arboleda.
-
-En los ocho partidos previos en la segunda etapa fue titular en tres, pero en ninguno completó los 90 minutos y siempre fue sustituido.
-
-En los cinco restantes no **completó 30 minutos en el terreno de juego**, al que ingresó al cambio.
-
-Su último gol fue en la tercera jornada ante Cumbayá, en el Olímpico Atahualpa.
-
-En las últimas horas, Kendry Páez se volvió tendencia en la red social X, **luego de publicarse un video en donde se lo veía en un concierto**, en Quito, de un grupo de bachata, que se presentó en el Olímpico Atahualpa el sábado 19 y domingo 20 de octubre.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_suplente_2-1024x683.jpg)
-
-Foto: API.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Britney Spears dejó a sus fans en ‘shock’ con un anuncio superíntimo
-====================================================================
-
-Britney Spears recibió críticas a favor y en contra luego de su curioso anuncio.
---------------------------------------------------------------------------------
-
-![Britney Spears dejó en shock a sus fans. Foto: Captura de video](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T163813.695.jpg)
-
-**Britney Spears** dejó a sus fans en ‘shock’ con un anuncio superíntimo. La noticia llegó a través de un video publicado en sus redes sociales.
-
-### **Más noticias:**
-
-* [Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-salto-muerte-bloqueo-one-direction.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front")
-* [Adiós al primer vocalista de Iron Maiden](https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html?source=Internal&ref=Single+Content+Link")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
-
-**Britney Spears**: **una vida llena de altibajos**
----------------------------------------------------
-
-**Britney Spears** nació el 2 de diciembre de 1981 en McComb, Mississippi. Su carrera despegó en 1998 con el lanzamiento de su álbum debut, ‘…Baby One More Time’.
-
-Esese convirtió en un fenómeno mundial, catapultándola a la fama y convirtiéndola en una de las figuras más reconocibles de la cultura pop.
-
-Con su estilo distintivo y su habilidad para fusionar géneros como el pop y el R&B, Britney vendió millones de discos. También acumuló numerosos premios, incluidos varios Grammy.
-
-A lo largo de su carrera, **Britney** ha enfrentado altibajos, incluyendo problemas de salud mental y una muy publicitada tutela que comenzó en 2008.
-
-Esta tutela, que limitó su autonomía y decisiones personales, generó un gran movimiento de apoyo entre sus fans. Se lo conoció como #FreeBritney.
-
-En 2021, tras años de lucha legal, terminó la tutela, lo que marcó un nuevo capítulo en su vida.
-
-**Britney Spears dejó a sus fans en ‘shock’ con un anuncio superíntimo**
-------------------------------------------------------------------------
-
-**Britney Spears** sorprendió a sus seguidores al anunciar que se casó consigo misma. Lo hizo para reivindicar el amor propio y la autoaceptación.
-
-En la publicación, **Spears** reflexionó sobre esta decisión: “Es lo más **brillante** que he hecho nunca”. Destacó la importancia de hablarse a uno mismo de manera positiva.
-
-Este anuncio se produce apenas unos meses después de divorciarse de **Sam Asghari**, lo que llevó a muchos a interpretar la “autoboda” como un acto de empoderamiento personal.
-
-> [#EspectáculosVT](https://twitter.com/hashtag/Espect%C3%A1culosVT?src=hash&ref_src=twsrc%5Etfw)💐 👰‍♀️¡Britney Spears se casó…consigo misma!  
->   
-> En un reel de Instagram compartió un video en donde aparece con un velo y escribió: "¡Trayéndolo de vuelta porque puede parecer embarazoso o estúpido, pero creo que es la cosa más brillante que he hecho nunca!" [pic.twitter.com/BNQz1yPMxV](https://t.co/BNQz1yPMxV)
-> 
-> — xevt – xhvt (@xevtfm) [October 21, 2024](https://twitter.com/xevtfm/status/1848411117342617712?ref_src=twsrc%5Etfw)
-
-A través de esta ceremonia simbólica, busca demostrar que el amor propio es fundamental, especialmente tras haber pasado por relaciones complicadas en el pasado.
-
-**Fans de Britney Spears reaccionan a su boda**
------------------------------------------------
-
-La reacción de sus fans es abrumadora, con miles de “Me gusta” y comentarios de apoyo en su publicación.
-
-Muchos seguidores elogiaron su valentía al priorizar su bienestar emocional y mental.
-
-“Es un mensaje poderoso para todos nosotros”, comentó un fan, destacando cómo **Spears** inspira a otros a valorar su propia felicidad.
-
-La decisión de Spears llega en un momento en que la salud mental y el amor propio son temas cada vez más relevantes en la sociedad.
-
-Ministerio de Educación desarrolla plan de emergencias ante cortes de luz
-=========================================================================
-
-Cortes de luz inciden en la educación en Ecuador. Se prepara un plan.
----------------------------------------------------------------------
-
-![En el régimen Sierra-Amazonía, las clases empezaron de forma oficial el 2 de septiembre. Plantel en cantón Mejía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Clases-desercion-escolar.jpg)
-
-Los **cortes de luz** llegaron con modificaciones en el sistema de educación en Ecuador. La reducción de horarios de las clases es una de estas[.](https://es.wikipedia.org/wiki/Ecuador)
-
-El **Ministerio de Educación** informó a EL COMERCIO que se encuentra en ejecución un plan de emergencias. La respuesta llegó por la consulta de las posibles repercusiones en el aprendizaje por los apagones.
-
-### Más noticias
-
-* [Cambios en cortes de luz llegan con nuevos horarios de clases](https://www.elcomercio.com/actualidad/ecuador/cambios-cortes-luz-llegan-nuevos-horarios-clases.html "Cambios en cortes de luz llegan con nuevos horarios de clases")
-* [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
-* [Sistema educativo enfrenta retos en medio de cortes de luz](https://www.elcomercio.com/?p=1533213)
-
-> 🚨 ATENCIÓN | 50 instituciones educativas retoman clases presenciales en la jornada nocturna. Recuerda que las instituciones que permanecen en modalidad no presencial cuentan con la activación de recursos académicos y guías pedagógicas. 📚  
->   
-> 📝 Listado de instituciones educativas… [pic.twitter.com/vnJXBX2Fdf](https://t.co/vnJXBX2Fdf)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 19, 2024](https://twitter.com/Educacion_Ec/status/1847481746826174870?ref_src=twsrc%5Etfw)
-
-Cortes de luz y la educación
-----------------------------
-
-Las clases de la **jornada vespertina** se redujeron, con la salida a las 18:00. En la nocturna, en cambio, solo 50 escuelas públicas de ocho provincias regresaron a la presencialidad, desde este lunes, 21 de octubre de 2024.
-
-El **[Ministerio de Educación](https://educacion.gob.ec/)** aseguró que experiencias adquiridas en situaciones como el terremoto de 2016 y la pandemia por el **Covid-19** han permitido evaluar y prevenir los posibles retrasos que pueden conllevar las modificaciones o ajustes del proceso educativo.
-
-Sin embargo, desde la institución reconocieron que siempre existe el riesgo de pérdida de **aprendizajes**. De ahí que, dijeron, han elaborado un conjunto de materiales articulados con el currículo.
-
-Esas herramientas están destinadas a apoyar a **docentes y estudiantes**, para mitigar las consecuencias de la educación no presencial.
-
-> \[COMUNICADO\] Informamos a la ciudadanía los lineamientos sobre los horarios escolares para las siguientes tres semanas, con el fin de garantizar la continuidad del proyecto educativo. [pic.twitter.com/6aMCAJNCeX](https://t.co/6aMCAJNCeX)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 19, 2024](https://twitter.com/Educacion_Ec/status/1847480099571974605?ref_src=twsrc%5Etfw)
-
-Un plan de emergencias
-----------------------
-
-De acuerdo con el **Ministerio de Educación**, adicionalmente, el plan de emergencia propone orientaciones dirigidas a los docentes con actividades pedagógicas enfocadas en el desarrollo de los aprendizajes.
-
-También incluirá competencias en situaciones de emergencia con la implementación de **metodologías** que promuevan el aprendizaje de los estudiantes y la adaptación al entorno cambiante.
-
-Lo fundamental, indicaron desde la institución, es la capacidad para gestionar el **aprendizaje** mientras dura la situación de crisis.
-
-![table visualization](https://public.flourish.studio/visualisation/19841235/thumbnail)
-
-Los antecedentes
-----------------
-
-El 10 de marzo de 2023, el **Ministerio de Educación** expidió, mediante acuerdo, el **Currículo Priorizado** con énfasis en competencias Comunicacionales, Matemáticas, Digitales y Socioemocionales.
-
-En ese documento se priorizaron los conocimientos y competencias clave para la vida, incluso, en situaciones de **emergencia** como la crisis energética. Así lo afirmaron desde la entidad.
-
-A la par, está la aplicación de estrategias de educación a distancia y de **aprendizaje** autónomo guiado que aplican las instituciones educativas según sus necesidades y contexto.
-
-También se contempla la flexibilidad en los horarios, la reorganización de las **jornadas escolares** y la aplicación de la modalidad a distancia (no presencial). Eso, acompañado de la reducción de **carga académica**.
-
-La visión de una experta en educación
--------------------------------------
-
-**Mariana Rivera**, experta en educación, explicó que acortar el tiempo para el desarrollo los contenidos puede acarrear afectaciones a corto y mediano plazo.
-
-El contacto con los **docentes** para profundizar en el currículo, el desarrollo de las destrezas y propuestas para un período específico son necesarios.
-
-Rivera también aludió a **flexibilidad curricular**, el uso de guías de aprendizaje y actividades autónomas encaminadas por los docentes.
-
-Agregó que puede presentarse un **impacto psicológico**, como estrés, ansiedad y desmotivación, tanto en estudiantes cuanto en docentes.
-
-Cortes de luz en Guayaquil este martes 22 de octubre
-====================================================
-
-Los cortes de luz en Guayaquil, para este martes 22 de octubre, son programados por CNEL.
------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil este martes 22 de octubre son de hasta ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-martes-22-octubre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **martes 22 de octubre** son de hasta ocho horas.
-
-**CNEL** programó los cortes en dos franjas horarias, en el transcurso de las 24 horas del martes, en la capital.
-
-### Más noticias:
-
-* [Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno](https://www.elcomercio.com/actualidad/negocios/ecuador-cumple-mes-cortes-luz-principales-acciones-gobierno.html "Ecuador cumple un mes de cortes de luz, mire las principales acciones del Gobierno")
-* [Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-21-al-27-octubre.html "Cortes de luz en Ecuador se reducen a ocho horas del 21 al 27 de octubre, estos son los horarios")
-
-Horarios de cortes de luz en Guayaquil este martes 22 de octubre
-----------------------------------------------------------------
-
-Esta semana, **Ecuador** cumple un mes de cortes de luz programados, por disposición del Gobierno de Daniel Noboa.
-
-La principal causa de los cortes de luz en el país es la grave sequía y la dependencia de las **lluvias** para la operación de las **centrales hidroeléctricas**.
-
-El **21 de septiembre**, el Gobierno de Daniel Noboa declaró en alerta roja a 11 provincias, al día siguiente empezaron los cortes de luz en 12 provincias.
-
-Para el 23 del mismo mes, la suspensión del servicio se extendió a todo el país y por **11 horas diarias**.
-
-En el medio de la búsqueda de alternativas como la compra de energía, el Gobierno **redujo** los cortes de luz.
-
-Sin embargo, frente a la persistencia de la sequía, se retomaron los cortes de **larga duración**.
-
-Ahora, sin que los embalses de las hidroeléctricas lleguen a condiciones óptimas; el Gobierno ordenó que, desde este 21 de octubre hasta el 10 de noviembre, se **disminuya paulatinamente** las horas de cortes de luz.
-
-La semana de este 21 al 27 de octubre serán de **ocho horas**, del 28 de octubre al 3 de noviembre de **seis horas** y del 4 de noviembre al 10 de noviembre de **cuatro horas**.
-
-Esto para la **zona residencial**; la zona industrial mantiene los mismos horarios.
-
-Así, los cortes de luz para Guayaquil este martes 22 de octubre son de hasta ocho horas y se dividen en **dos franjas** horarias, dependiendo del sector.
-
-A continuación, los horarios de cortes de luz en **Guayaquil** este martes 22 de octubre:
-
-  
-
-Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte
-====================================================================================
-
-Liam Payne murió el 16 de octubre de 2024 tras caer del tercer piso de un hotel de Buenos Aires, Argentina.
------------------------------------------------------------------------------------------------------------
-
-![El cantante Liam Payne murió a los 31 años. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-21T161442.365.jpg)
-
-La trágica muerte de **Liam Payne**, exintegrante de **[One Direction](https://www.onedirectionmusic.com/gb/home.html "https://www.onedirectionmusic.com/gb/home.html")**, conmocionó a sus seguidores en todo el mundo. Tras su fallecimiento en **Buenos Aires, Argentina**, el 16 de octubre de 2024, los fans organizan tributos en su memoria.
-
-Uno de los gestos más significativos fue la propuesta de ‘bloquear’ el salto del **hotel CasaSur Palermo**, donde **Payne** fue encontrado muerto tras una caída desde su balcón.
-
-### **Más noticias:**
-
-* [Adiós al primer vocalista de Iron Maiden](https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html "https://www.elcomercio.com/tendencias/entretenimiento/iron-maiden-deceso-heavy-metal-vocalista.html")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html?source=Internal&ref=Single+Content+Link")
-
-**Fans de Liam Payne buscan desesperadamente ‘bloquear’ el salto que llevó a su muerte**
-----------------------------------------------------------------------------------------
-
-Los admiradores expresaron su deseo de convertir el lugar en un espacio de **homenaje permanente**. Esta iniciativa busca evitar que otros **fans** realicen saltos similares en un acto de desesperación o tributo.
-
-“Queremos que este lugar sea un símbolo de amor y no de tragedia”, comentó una fan durante una vigilia que se llevó a cabo frente al hotel.
-
-Los seguidores encendieron velas y dejaron flores, creando un ambiente lleno de recuerdos y canciones que marcaron su juventud.
-
-La propuesta generó un debate sobre la salud mental y el impacto del estrellato en la vida personal de los artistas.
-
-> [View this post on Instagram](https://www.instagram.com/reel/C395b7jIN_B/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Liam Payne (@liampayne)](https://www.instagram.com/reel/C395b7jIN_B/?utm_source=ig_embed&utm_campaign=loading)
-
-Muchos fans recordaron las luchas abiertas de **Payne** con la fama y sus problemas de salud mental. Eso llevó a un llamado a mejorar el apoyo disponible para artistas en situaciones similares.
-
-“Es fundamental que aprendamos de esta tragedia y trabajemos juntos para crear un entorno más seguro”, afirmó otro asistente a la vigilia.
