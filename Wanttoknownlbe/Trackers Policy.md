@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/boekenverkopers-in-paniek-boek-baudet-tophit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-disclosure-proces/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
