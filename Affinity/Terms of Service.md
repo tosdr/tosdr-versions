@@ -106,7 +106,7 @@ Company
 * [Press Newsroom](https://affinity.serif.com/en-us/press/)
 * [Press Kits](https://affinity.serif.com/en-us/press/press-kits/)
 * [Contact](https://affinity.serif.com/en-us/contact/)
-* [Careers](https://affinity.serif.com/en-us/careers/)
+* [Careers](https://affinity.serif.com/en-us/careers/) We’re hiring!
 
 Help & Support
 
