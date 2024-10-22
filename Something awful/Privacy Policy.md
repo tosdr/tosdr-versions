@@ -205,10 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Modernized Art II](https://www.somethingawful.com/photoshop-phriday/modernized-art2/1/)
-* [Product Placements 2](https://www.somethingawful.com/photoshop-phriday/product-placements/1/)
-* [Grindhouse Breakfast](https://www.somethingawful.com/photoshop-phriday/grindhouse-breakfast-cereals/1/)
-* [The War for Lake Michigan](https://www.somethingawful.com/news/lake-michigan-war/1/)
+* [STOP MAKING YOURSELF LOOK LIKE A ASS HOLE!](https://www.somethingawful.com/awfulvision/drums-misandry-desu/1/)
+* [Retro SWAT 3](https://www.somethingawful.com/fashion-swat/retro-swat-3/1/)
+* [20 Rejected Hillary Clinton Names for Trump Supporters](https://www.somethingawful.com/news/hillary-clinton-deplorables/)
+* [Memos from Bear Cave: Daddy's Home](https://www.somethingawful.com/news/bear-cave-daddy/)
+* [Animated Lust, DDR Freak, Adult Swim](https://www.somethingawful.com/weekend-web/animated-lust-ddr/1/)
 
 ### Popular Threads
 
@@ -217,11 +218,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Greasnin Goes to California, Pt. 2](https://www.somethingawful.com/news/greasnin-goes-california-2/)
-* [Dogs: A Beginner's Guide](https://www.somethingawful.com/comedy-goldmine/canine-info-byob/)
-* [Let's Draw Xenomorphs!](https://www.somethingawful.com/comedy-goldmine/draw-xenomorphs-mspaint/1/)
-* [Goddess Dreams Celebrity E-mail](https://www.somethingawful.com/awful-links/awful-link-1645/)
-* [The Lucky Dragon](https://www.somethingawful.com/movie-reviews/lucky-dragon/1/)
+* [Double Dragon](https://www.somethingawful.com/token-healthpack/double-dragon/1/)
+* [Boys With Attitude](https://www.somethingawful.com/awful-links/awful-link-1350/)
+* [Chubby Parade](https://www.somethingawful.com/weekend-web/chubby-parade/1/)
+* [Fishing](https://www.somethingawful.com/guides/guide-fishing/1/)
+* [Ask A Dinosaur!](https://www.somethingawful.com/news/ask-dinosaur-questions/)
 
 [Random!](https://www.somethingawful.com/random/)
 
