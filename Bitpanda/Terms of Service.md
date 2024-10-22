@@ -266,7 +266,7 @@ LEGAL
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-card-account-terms-conditions)
     
 
-REGULATORY
+**REGULATORY**
 
 Regulatory Documents
 --------------------
@@ -297,17 +297,15 @@ Regulatory Documents
 
 * **Leverage**
     
-    [L-Token-Long terms](https://cdn.bitpanda.com/media/documents/leverage-assets/CFD_Framework_Agreement_Long_L-Token_Framework_Agreement_EN.pdf)
-
-* **Leverage**
-    
     [Investor information document](https://cdn.bitpanda.com/media/documents/securities/en-investors-information-document.pdf)
 
 * **Leverage**
     
-    [L-Token-Short terms](https://cdn.bitpanda.com/media/documents/leverage-assets/CFD_Framework_Agreement_Short_L-Token_Framework_Agreement_EN.pdf)
+    [L-Token-Long terms](https://cdn.bitpanda.com/media/documents/leverage-assets/CFD_Framework_Agreement_Long_L-Token_Framework_Agreement_EN.pdf)
 
-_To view older versions of these documents, click_ [_here_](https://www.bitpanda.com/en/legal/documents/securities)
+* **Leverage**
+    
+    [L-Token-Short terms](https://cdn.bitpanda.com/media/documents/leverage-assets/CFD_Framework_Agreement_Short_L-Token_Framework_Agreement_EN.pdf)
 
 PRIVACY
 
@@ -332,6 +330,8 @@ PRIVACY
     
     [Read more](https://www.bitpanda.com/en/legal/contis-privacy-policy)
     
+
+_To view older versions of these documents, click_ [_here_](https://www.bitpanda.com/en/legal/documents/securities)
 
 [![](https://a.storyblok.com/f/176646/3912x1183/4a12f4c044/bitpanda_en_trimmed.png)](https://www.bitpanda.com/en)
 
