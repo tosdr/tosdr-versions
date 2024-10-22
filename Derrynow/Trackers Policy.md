@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry woman assaulted mother with 'walking frame and a lamp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman assaulted mother with 'walking frame and a lamp'")](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman assaulted mother with 'walking frame and a lamp'](https://www.derrynow.com/news/local-news/1635610/derry-woman-assaulted-mother-with-walking-frame-and-a-lamp.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend")](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
-
-IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
 
 IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup
@@ -284,46 +268,12 @@ IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial C
 [IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: All smiles for International Credit Union Day in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: All smiles for International Credit Union Day in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
-
-IN PICTURES: All smiles for International Credit Union Day in Derry
+[![Throwback Tuesday: Out and About in Dan's Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About in Dan's Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: All smiles for International Credit Union Day in Derry](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody")](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman 'clearly not prepared to abide by bail conditions' remanded in custody](https://www.derrynow.com/news/local-news/1635510/derry-woman-clearly-not-prepared-to-abide-by-bail-conditions-remanded-in-custody.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man awaiting sentence for hospital sex assault breaches bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man awaiting sentence for hospital sex assault breaches bail")](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man awaiting sentence for hospital sex assault breaches bail](https://www.derrynow.com/news/local-news/1635504/derry-man-awaiting-sentence-for-hospital-sex-assault-breaches-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two PSNI officers injured after vehicle rammed in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two PSNI officers injured after vehicle rammed in Derry")](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
-
-The damage caused to the PSNI vehicle.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two PSNI officers injured after vehicle rammed in Derry](https://www.derrynow.com/news/local-news/1635596/two-psni-officers-injured-after-vehicle-rammed-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
-
-IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Tuesday: Out and About in Dan's Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Kneecap Derry show moves to historic cityside venue after Unionist opposition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap Derry show moves to historic cityside venue after Unionist opposition")](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
 
@@ -334,18 +284,84 @@ Kneecap will play Templemore Sports Complex in November
 [Kneecap Derry show moves to historic cityside venue after Unionist opposition](https://www.derrynow.com/news/local-news/1635892/kneecap-derry-show-moves-to-historic-cityside-venue-after-unionist-opposition.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bail application adjourned for man who co-operated with police and give his PIN number](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail application adjourned for man who co-operated with police and give his PIN number")](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 22 2024](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+
+IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry MLA demands action on residents’ parking scheme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry MLA demands action on residents’ parking scheme")](https://www.derrynow.com/news/local-news/1635857/derry-mla-demands-action-on-residents-parking-scheme.html)
+
+Duncreggan Road, Derry (Photo: GoogleMaps)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Bail application adjourned for man who co-operated with police and give his PIN number](https://www.derrynow.com/news/local-news/1635655/bail-application-adjourned-for-man-who-co-operated-with-police-and-give-his-pin-number.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry MLA demands action on residents’ parking scheme](https://www.derrynow.com/news/local-news/1635857/derry-mla-demands-action-on-residents-parking-scheme.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McLaughlin's Hardware to close at end of November as family sells iconic Derry premises")](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
+
+McLaughlin brothers, Liam, Dessie, and Seamus.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Flood warnings remain as Storm Ashley lashes Britain and Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Flood warnings remain as Storm Ashley lashes Britain and Ireland")](https://www.derrynow.com/news/northern-ireland/1635323/flood-warnings-remain-as-storm-ashley-lashes-britain-and-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Flood warnings remain as Storm Ashley lashes Britain and Ireland](https://www.derrynow.com/news/northern-ireland/1635323/flood-warnings-remain-as-storm-ashley-lashes-britain-and-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![St Columba's Long Tower annual Novena for Our Lady of Perpetual Help](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Columba's Long Tower annual Novena for Our Lady of Perpetual Help")](https://www.derrynow.com/news/local-news/1635612/st-columba-s-long-tower-annual-novena-for-our-lady-of-perpetual-help.html)
+
+The annual Novena for Our Lady of Perpetual Help takes place in St Columba's Long Tower on the nine Sunday's before Christmas.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[St Columba's Long Tower annual Novena for Our Lady of Perpetual Help](https://www.derrynow.com/news/local-news/1635612/st-columba-s-long-tower-annual-novena-for-our-lady-of-perpetual-help.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein employee resigns after damage to DUP portrait](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein employee resigns after damage to DUP portrait")](https://www.derrynow.com/news/national-news/1636002/sinn-fein-employee-resigns-after-damage-to-dup-portrait.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Sinn Fein employee resigns after damage to DUP portrait](https://www.derrynow.com/news/national-news/1636002/sinn-fein-employee-resigns-after-damage-to-dup-portrait.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: DCU celebrates International Credit Union Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: DCU celebrates International Credit Union Day")](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
+
+IN PICTURES: DCU celebrates International Credit Union Day
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: DCU celebrates International Credit Union Day](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About in Dan's Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About in Dan's Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About in Dan's Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap")](https://www.derrynow.com/story-telling/pictures---videos/1635813/in-pictures-people-dive-into-the-treasure-trove-of-free-spooky-outfits-at-the-halloween-costume-swap.html)
 
@@ -414,20 +430,6 @@ PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in De
 
 [PICTURES: Fabulous three-bedroom home 'steeped in history' hits the market in Derry](https://www.derrynow.com/story-telling/property/1633013/pictures-fabulous-three-bedroom-home-steeped-in-history-hits-the-market-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry 'Chat Tea Train' celebrates one year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Chat Tea Train' celebrates one year")](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry 'Chat Tea Train' celebrates one year](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -529,55 +531,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+[![Glen on the precipice of history as they prepare for Derry Senior Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen on the precipice of history as they prepare for Derry Senior Football Championship final")](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Derry Death Notices - Tuesday, October 22 2024](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
+[Glen on the precipice of history as they prepare for Derry Senior Football Championship final](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Internationally acclaimed archaeologist to give Derry lecture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Internationally acclaimed archaeologist to give Derry lecture")](https://www.derrynow.com/news/local-news/1635623/internationally-acclaimed-archaeologist-to-give-derry-lecture.html)
+[![McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McLaughlin's Hardware to close at end of November as family sells iconic Derry premises")](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
 
-Internationally acclaimed archaeologist , Brian Lacey.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Internationally acclaimed archaeologist to give Derry lecture](https://www.derrynow.com/news/local-news/1635623/internationally-acclaimed-archaeologist-to-give-derry-lecture.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season](https://www.derrynow.com/resizer/165/93/true/2024_10_21/MixCollage-21-Oct-2024-03-24-PM-3581-1729520612466.jpg--.jpg?1729520612521 "Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season")](https://www.derrynow.com/news/local-news/1635774/fireworks-sparklers-and-costumes-derry-public-warned-to-follow-key-tips-to-stay-safe-this-spooky-season.html)
-
-Fireworks, sparklers and costumes - People warned to follow key tips to stay safe this spooky season
+McLaughlin brothers, Liam, Dessie, and Seamus.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Fireworks, sparklers and costumes - Derry public warned to follow key tips to stay safe this spooky season](https://www.derrynow.com/news/local-news/1635774/fireworks-sparklers-and-costumes-derry-public-warned-to-follow-key-tips-to-stay-safe-this-spooky-season.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Brand new edition of Paddy Tunney’s memoir relaunched in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Book_launch_1-1729514118716.jpg--.jpg?1729514119714 "Brand new edition of Paddy Tunney’s memoir relaunched in Derry")](https://www.derrynow.com/news/local-news/1635649/brand-new-edition-of-paddy-tunneys-memoir-relaunched-in-derry.html)
+[![Lisa Lavery, Cathal McOscar & Aoife McOscar](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Lisa_Lavery%2C_Cathal_McOscar%2C_Aoife_McOscar-1729503398431.jpg--.jpg?1729503398977 "Lisa Lavery, Cathal McOscar & Aoife McOscar")](https://www.derrynow.com/news/county-derry-post/1635436/county-derry-duo-to-travel-to-south-africa-for-building-blitz.html)
 
-Pictured at the book launch in Studio 2 were, from left, John Tunney, Roise NiMurchu, Brian Mullan, Michael Carey, Kate Forde McKinley and Shannan Forde McKinley. (Photos: Keith Moore)
+Lisa Lavery, Cathal McOscar & Aoife McOscar
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry duo to travel to South Africa for building blitz](https://www.derrynow.com/news/county-derry-post/1635436/county-derry-duo-to-travel-to-south-africa-for-building-blitz.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City Cemetery Lone Moor Road](https://www.derrynow.com/resizer/165/93/true/2024_10_22/Lone_Moor_Road-1729589186625.png--.png?1729589186737 "Derry City Cemetery Lone Moor Road")](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
+
+The Lone Moor entrance to Derry City Cemetery. (Image: Googlemaps)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Road works to begin on City Cemetery's lower main trunk route](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['If western governments are serious about peace they should stop selling arms to Middle East'](https://www.derrynow.com/resizer/165/93/true/2024_10_21/IDNT_24-10-24_Ala_Alsygaly_television-1729519477836.jpg--.jpg?1729519477861 "'If western governments are serious about peace they should stop selling arms to Middle East'")](https://www.derrynow.com/news/local-news/1635765/if-western-governments-are-serious-about-peace-they-should-stop-selling-arms-to-middle-east.html)
+
+Before leaving Yemen Ala worked as a journalist and a television presenter.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Brand new edition of Paddy Tunney’s memoir relaunched in Derry](https://www.derrynow.com/news/local-news/1635649/brand-new-edition-of-paddy-tunneys-memoir-relaunched-in-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['If western governments are serious about peace they should stop selling arms to Middle East'](https://www.derrynow.com/news/local-news/1635765/if-western-governments-are-serious-about-peace-they-should-stop-selling-arms-to-middle-east.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry MLA demands action on residents’ parking scheme](https://www.derrynow.com/resizer/165/93/true/2024_10_21/Duncreggan_Road_Derry-1729524567667.jpg--.jpg?1729524567698 "Derry MLA demands action on residents’ parking scheme")](https://www.derrynow.com/news/local-news/1635857/derry-mla-demands-action-on-residents-parking-scheme.html)
+[![Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](https://www.derrynow.com/resizer/165/93/true/2024_04_06/Bellaghy_v_Ballinderry_%2820_of_69%29-1712433946129.jpg--.jpg?1712433948138 "Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final")](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
 
-Duncreggan Road, Derry (Photo: GoogleMaps)
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry MLA demands action on residents’ parking scheme](https://www.derrynow.com/news/local-news/1635857/derry-mla-demands-action-on-residents-parking-scheme.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Labour Government accused of ‘betraying’ Troubles victims](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_21/1729528508519_0.jpg--.jpg?1729528508686 "Labour Government accused of ‘betraying’ Troubles victims")](https://www.derrynow.com/news/northern-ireland/1635671/labour-government-accused-of-betraying-troubles-victims.html)
-
-[Northern Ireland](https://www.limerickleader.ie/section/2726/northern-ireland)
-
-[Labour Government accused of ‘betraying’ Troubles victims](https://www.derrynow.com/news/northern-ireland/1635671/labour-government-accused-of-betraying-troubles-victims.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
