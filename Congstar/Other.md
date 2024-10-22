@@ -158,7 +158,7 @@
         * [Newsroom](https://newsroom.congstar.de/)
         * [Auszeichnungen](https://www.congstar.de/das-ist-congstar/auszeichnungen/)
         * [Fairnessheld\*innen](https://www.congstar.de/fairnessheldinnen/)
-        * [Für mehr Fair](https://www.congstar.de/fair/)
+        * [Für mehr fair](https://www.congstar.de/fair/)
     
     * [Created - Das congstar Magazin](#)
         * [Zum Magazin](https://created.congstar.de/)
