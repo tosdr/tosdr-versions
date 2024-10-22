@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Rebel Wolves Signs Publishing Deal with Bandai Namco Entertainment for Upcoming Debut Action-RPG, Dawnwalker](https://en.bandainamcoent.eu/news/rebel-wolves-signs-publishing-deal-bandai-namco-entertainment-upcoming-debut-action-rpg)
 * [Dragon Ball DAIMA x DRAGON BALL Z: KAKAROT](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-daima-x-dragon-ball-z-kakarot)
-* [DAIMA Goku (Mini) joins the DRAGON BALL XENOVERSE 2!](https://en.bandainamcoent.eu/dragon-ball/news/daima-goku-mini-joins-the-dragon-ball-xenoverse-2)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
