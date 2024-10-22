@@ -69,6 +69,8 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
     
     [Field of Application](https://msp-medical.com/spare-parts/field-of-application/ "Field of Application")
     
+    [Brand](https://msp-medical.com/spare-parts/brand/ "Brand")
+    
     [Type of Equipment](https://msp-medical.com/spare-parts/batteries/type-of-equipment/ "Type of Equipment")
     
     * [Patient Hoists](https://msp-medical.com/spare-parts/batteries/type-of-equipment/patient-hoists/ "Patient Hoists")
@@ -288,6 +290,11 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
     * [Baths](https://msp-medical.com/spare-parts/field-of-application/baths/ "Baths")
     * [Bedpan Washers](https://msp-medical.com/spare-parts/field-of-application/bedpan-washers/ "Bedpan Washers")
     * [Other](https://msp-medical.com/spare-parts/field-of-application/other/ "Other")
+    
+    * [MSP](https://msp-medical.com/spare-parts/brand/msp/ "MSP")
+    * [Molift](https://msp-medical.com/spare-parts/brand/molift/ "Molift")
+    * [Esense](https://msp-medical.com/spare-parts/brand/esense/ "Esense")
+    * [Liko](https://msp-medical.com/spare-parts/brand/liko/ "Liko")
     
 * [Medical Products](https://msp-medical.com/medical-products/ "Medical Products")
 * close
