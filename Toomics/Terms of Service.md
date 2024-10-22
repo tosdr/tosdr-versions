@@ -396,14 +396,9 @@ Provision
 
 Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our [Privacy Policy](https://toomics.com/en/help/private_terms)
 
-* [Terms of Use](https://toomics.com/en/help/access_terms)
-* [Privacy Policy](https://toomics.com/en/help/private_terms)
-* [Notifications](https://toomics.com/en/help/notice_list)
-* [FAQ](https://toomics.com/en/help/faq)
+[Terms of Use](https://toomics.com/en/help/access_terms) [Privacy Policy](https://toomics.com/en/help/private_terms) [Notifications](https://toomics.com/en/help/notice_list) [FAQ](https://toomics.com/en/help/faq)
 
-Language
-
-[English](#)
+English
 
 * [中文(简体)](https://toomics.com/sc/help/access_terms)
 * [中文(繁體)](https://toomics.com/tc/help/access_terms)
@@ -416,15 +411,15 @@ Language
 * [日本語](https://toomics.com/ja/help/access_terms)
 * [한국어](http://www.toomics.com/ko)
 
-![toomics](/assets/web/img/global/footer-logo_Z.png)
+_Toomics_
 
 Toomics content are all protected by Copyright Law. Any unauthorized use, sharing or duplication may be punished by copyright laws.
 
-Toomics Global Co.,Ltd. | E-mail : en.help@toomicsglobal.com
+E-mail : en.help@toomicsglobal.com
 
-[* facebookToomics  
-    Facebook](https://www.facebook.com/ToomicsWorld/)[* instagramToomics  
-    Instagram](https://www.instagram.com/toomics.en/)
+Toomics Global Co.,Ltd.
+
+[Facebook](https://www.facebook.com/ToomicsWorld/) [Instargram](https://www.instagram.com/toomics.en/)
 
         
 
