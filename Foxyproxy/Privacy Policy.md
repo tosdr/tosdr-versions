@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanx for your fantastic support! I am really impressed!
+I was very impressed with FoxyProxy. We subscribed last December to FilmOn and as soon as that expires will probably be subscribing to FoxyProxy standard or plus. I have downloaded the basic programme but don't really know how to use it - my fault! I am wary of finding free isps after reading pretty bad stories.
 
-Aleksandra Wenglorz
+Jo Finn
