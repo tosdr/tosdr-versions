@@ -74,11 +74,11 @@ Any rights not expressly granted herein are reserved.
 
 ### From the Blog
 
-#### [HIPAA Questions and Answers: A Guide for Small Healthcare Practices](https://blog.hushmail.com/blog/hipaa-faqs/)
+#### [Online forms explained: FAQs and insights into Hush™ Secure Forms](https://blog.hushmail.com/blog/hipaa-faqs/)
 
-Published on October 11, 2024
+Published on October 21, 2024
 
-Get clear answers to your top HIPAA questions about email, web forms, telehealth, and more. No jargon, just easy-to-understand guidance. [Read more.](https://blog.hushmail.com/blog/hipaa-faqs/)
+Read this guide for answers to all your questions on using online forms in a small healthcare practice. [Read more.](https://blog.hushmail.com/blog/hipaa-faqs/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -133,7 +133,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=C77E24C3C1A031977D1F8DF0D5A10271)
+![](https://hushforms.com/visitorid?visitorid=53BBACAD22B1A7F5759A427C894AD2E0)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
