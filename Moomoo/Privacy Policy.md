@@ -1,19 +1,5 @@
 [](https://www.moomoo.com/us)
 
-[Download](https://www.moomoo.com/us/download)
-
-Mobile
-
-![donwloadimg](https://cdn.futustatic.com/upload/onelink/us_download_surl_qcode-92981b306d33a283e2a06b25f5bc3fbf.png?_=1714274457065)
-
-Desktop
-
-![appLogo](https://cdn.futustatic.com/moomoo_common/dist/img/mm_nx_app_logo-dd00f.svg)
-
-[Download now](javascript:;)
-
-[View more versions](https://www.moomoo.com/us/download)
-
 [About us](https://www.moomoo.com/us/about)
 
 * English
@@ -138,9 +124,19 @@ Desktop
 
 Log in
 
-Open Account
+[Download](https://www.moomoo.com/us/download)
 
-Financial services in the moomoo app are provided by Moomoo Financial Inc. You will be redirected to Moomoo Financial Inc's web domain, where the account application pages are hosted.
+Mobile
+
+![donwloadimg](https://cdn.futustatic.com/upload/onelink/us_download_surl_qcode-92981b306d33a283e2a06b25f5bc3fbf.png?_=1714274457065)
+
+Desktop
+
+![appLogo](https://cdn.futustatic.com/moomoo_common/dist/img/mm_nx_app_logo-dd00f.svg)
+
+[Download now](javascript:;)
+
+[View more versions](https://www.moomoo.com/us/download)
 
 Sign up/Log in
 
