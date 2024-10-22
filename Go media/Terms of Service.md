@@ -27,7 +27,7 @@ Main Menu
 Terms of service
 ================
 
-Welcome to G/O Media, Inc., the owner and operator of The A.V. Club, Deadspin, Gizmodo, The Inventory, Jalopnik, Kotaku, Quartz, The Onion, The Root and The Takeout (“G/O” and “the Sites”). These terms of service (“Terms”) serve as an agreement between you and G/O (“G/O,” “We” or the “Company”) and governs your access to and use of the Services, Sites, and Applications offered by G/O. Your access to and use of the Sites is conditioned on your acceptance of and compliance with these Terms.
+Welcome to G/O Media, Inc., the owner and operator of Kotaku, Quartz, The Inventory, and The Root (“G/O” and “the Sites”). These terms of service (“Terms”) serve as an agreement between you and G/O (“G/O,” “We” or the “Company”) and governs your access to and use of the Services, Sites, and Applications offered by G/O. Your access to and use of the Sites is conditioned on your acceptance of and compliance with these Terms.
 
 **User Agreement**
 
@@ -43,7 +43,7 @@ We may amend these Terms at any time in our sole discretion, effective upon post
 
 “**Service**” or “**Services**” shall mean any of the internet based or other services offered by the Company, including, but not limited to, those described in this Agreement, whether through a website owned or controlled by the Company, through a social networking system, a mobile application, on your cellphone or otherwise.
 
-“**Sites**” shall mean any of the sites owned or operated by G/O Media including The A.V. Club, Deadspin, Gizmodo, The Inventory, Jalopnik, Kotaku, Quartz, The Onion, The Root and The Takeout.
+“**Sites**” shall mean any of the sites owned or operated by G/O Media including Kotaku, Quartz, The Inventory and The Root.
 
 “**Content**” shall mean each and every item of content or other material (whether comments, ideas, images, links, documents, text, writings, photographs, graphics, videos, or files) uploaded by a user to the Sites or otherwise integrated into the Sites by a user.
 
@@ -237,4 +237,4 @@ Copyright © 2024  G/O Media Inc.
 
 [Accessibility](https://g-omedia.com/accessibility/) | [Privacy Policy](https://g-omedia.com/privacy-policy/) | [Terms of Service](https://g-omedia.com/terms-of-service/)  
   
-![](https://g-omedia.com/wp-content/uploads/2024/06/G-O-media_brand-footer-6.4.2024.png)
+![](https://g-omedia.com/wp-content/uploads/2024/10/GOMedia_brand-site-squares-footer-10-2024_LARGE.png)
