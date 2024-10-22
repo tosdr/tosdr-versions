@@ -1005,11 +1005,11 @@ If we need to provide you with information about something, whether for legal, m
 
 [![](https://images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1683032139371-EJXDIFM94SFJRJS8KDL8/Site_Badges_2023_bw_webby_nominee.png?format=300w)](https://winners.webbyawards.com/2023/apps-and-software/mobile-ott-app-features/best-user-interface/240027/vero-desktop-app)
 
-VERO — True Social
+VERO Labs, Inc.
 
-101 W 23rd St, Suite 2394,
+228 Park Ave S, Suite 131065,
 
-New York, NY, 10011,
+New York, NY 10003-1502,
 
 USA
 
