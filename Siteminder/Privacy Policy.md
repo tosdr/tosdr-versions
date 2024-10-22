@@ -346,11 +346,6 @@ We recommend that you read this Privacy Notice in full to ensure you are fully i
     The data controller operating the Websites is SiteMinder Limited. Other entities within the SiteMinder group may also be controllers of your personal information, depending on your location and the type of product or service provided.
     
 
-* [Solutions](https://www.siteminder.com/solutions/)
-    * [Increase room revenue](https://www.siteminder.com/increase-room-revenue/)
-    * [Find the right guests](https://www.siteminder.com/find-the-right-guests/)
-    * [Boost guest spend](https://www.siteminder.com/boost-guest-spend/)
-    * [Optimise time](https://www.siteminder.com/optimise-time/)
 * [Platform Features](https://www.siteminder.com/hotel-commerce/)
     * [Hotel channel manager](https://www.siteminder.com/channel-manager/)
     * [Hotel booking engine](https://www.siteminder.com/hotel-booking-engine/)
