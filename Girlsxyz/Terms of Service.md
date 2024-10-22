@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2995 Online
+1931 Online
 
 [Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
@@ -10,43 +10,43 @@
 
 Categories
 
-* [Anal (995 Live)](https://girls.xyz/anal)
-* [Arab (18 Live)](https://girls.xyz/arab)
-* [Asian (54 Live)](https://girls.xyz/asian)
-* [Babes (797 Live)](https://girls.xyz/babes)
-* [BBW (133 Live)](https://girls.xyz/bbw)
-* [Best for Privates (69 Live)](https://girls.xyz/best-for-privates)
-* [Big Ass (816 Live)](https://girls.xyz/big-ass)
-* [Big Tits (580 Live)](https://girls.xyz/big-tits)
-* [Blonde (412 Live)](https://girls.xyz/blonde)
-* [Bondage (395 Live)](https://girls.xyz/bondage)
-* [Brunette (1343 Live)](https://girls.xyz/brunette)
-* [College Girls (688 Live)](https://girls.xyz/college-girls)
-* [Curvy (343 Live)](https://girls.xyz/curvy)
-* [Ebony (243 Live)](https://girls.xyz/ebony)
-* [Fetish (1383 Live)](https://girls.xyz/fetish)
+* [Anal (674 Live)](https://girls.xyz/anal)
+* [Arab (6 Live)](https://girls.xyz/arab)
+* [Asian (65 Live)](https://girls.xyz/asian)
+* [Babes (555 Live)](https://girls.xyz/babes)
+* [BBW (97 Live)](https://girls.xyz/bbw)
+* [Best for Privates (37 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (590 Live)](https://girls.xyz/big-ass)
+* [Big Tits (363 Live)](https://girls.xyz/big-tits)
+* [Blonde (227 Live)](https://girls.xyz/blonde)
+* [Bondage (286 Live)](https://girls.xyz/bondage)
+* [Brunette (895 Live)](https://girls.xyz/brunette)
+* [College Girls (429 Live)](https://girls.xyz/college-girls)
+* [Curvy (245 Live)](https://girls.xyz/curvy)
+* [Ebony (153 Live)](https://girls.xyz/ebony)
+* [Fetish (950 Live)](https://girls.xyz/fetish)
 * [Granny (18 Live)](https://girls.xyz/granny)
-* [Group Sex (1 Live)](https://girls.xyz/group-sex)
-* [Hairy Pussy (218 Live)](https://girls.xyz/hairy-pussy)
-* [Housewives (762 Live)](https://girls.xyz/housewives)
-* [Huge Tits (134 Live)](https://girls.xyz/huge-tits)
-* [Indian (20 Live)](https://girls.xyz/indian)
-* [Latina (749 Live)](https://girls.xyz/latina)
-* [Lesbian (12 Live)](https://girls.xyz/lesbian)
-* [Mature (469 Live)](https://girls.xyz/mature)
-* [Medium Tits (801 Live)](https://girls.xyz/medium-tits)
-* [Muscle (83 Live)](https://girls.xyz/muscle)
-* [Petite (297 Live)](https://girls.xyz/petite)
-* [Pornstar (6 Live)](https://girls.xyz/pornstar)
+* [Group Sex (0 Live)](https://girls.xyz/group-sex)
+* [Hairy Pussy (134 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (510 Live)](https://girls.xyz/housewives)
+* [Huge Tits (97 Live)](https://girls.xyz/huge-tits)
+* [Indian (5 Live)](https://girls.xyz/indian)
+* [Latina (624 Live)](https://girls.xyz/latina)
+* [Lesbian (8 Live)](https://girls.xyz/lesbian)
+* [Mature (274 Live)](https://girls.xyz/mature)
+* [Medium Tits (529 Live)](https://girls.xyz/medium-tits)
+* [Muscle (46 Live)](https://girls.xyz/muscle)
+* [Petite (156 Live)](https://girls.xyz/petite)
+* [Pornstar (4 Live)](https://girls.xyz/pornstar)
 * [Pregnant (2 Live)](https://girls.xyz/pregnant)
-* [Redhead (199 Live)](https://girls.xyz/redhead)
-* [Shaved Pussy (1327 Live)](https://girls.xyz/shaved-pussy)
-* [Small Tits (435 Live)](https://girls.xyz/small-tits)
-* [Smoking (23 Live)](https://girls.xyz/smoking)
-* [Squirt (1078 Live)](https://girls.xyz/squirt)
-* [Teens 18+ (688 Live)](https://girls.xyz/teens-18)
-* [Toys (1436 Live)](https://girls.xyz/toys)
-* [White Girls (870 Live)](https://girls.xyz/white-girls)
+* [Redhead (136 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (813 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (268 Live)](https://girls.xyz/small-tits)
+* [Smoking (20 Live)](https://girls.xyz/smoking)
+* [Squirt (753 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (429 Live)](https://girls.xyz/teens-18)
+* [Toys (956 Live)](https://girls.xyz/toys)
+* [White Girls (404 Live)](https://girls.xyz/white-girls)
 
 History
 
@@ -301,11 +301,11 @@ When enabled, the automatic top-up of the tokens will apply every time when the
 | Subscriber’s last purchase | Tokens amount on the account when Auto Top-up applies | Auto Top-up /new purchase |
 | --- | --- | --- |
 | 49 Tokens for $3.99 | 10 Tokens | 49 Tokens for $3.99 |
-| 114 Tokens for $7.99 | 90 Tokens | 114 Tokens for $7.99 |
+| 115 Tokens for $7.99 | 90 Tokens | 115 Tokens for $7.99 |
 | 294 Tokens for $19.99 | 90 Tokens | 294 Tokens for $19.99 |
 | 522 Tokens for $29.99 | 90 Tokens | 522 Tokens for $29.99 |
-| 926 Tokens for $49.99 | 90 Tokens | 926 Tokens for $49.99 |
-| 1391 Tokens for $74.99 | 90 Tokens | 1391 Tokens for $74.99 |
+| 927 Tokens for $49.99 | 90 Tokens | 927 Tokens for $49.99 |
+| 1394 Tokens for $74.99 | 90 Tokens | 1394 Tokens for $74.99 |
 | 9000 Tokens for $499.00 | 90 Tokens | 9000 Tokens for $499.00 |
 | 17980 Tokens for $990.00 | 90 Tokens | 17980 Tokens for $990.00 |
 | 47801 Tokens for $2,500.00 | 90 Tokens | 47801 Tokens for $2,500.00 |
