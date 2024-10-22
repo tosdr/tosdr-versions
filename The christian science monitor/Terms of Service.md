@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Compassion
+[Equality
 
-### As Israel pounds Lebanon, Gazans empathize, yet feel forgotten](https://www.csmonitor.com/World/Middle-East/2024/1021/gaza-lebanon-israel-palestinians-civilians "As Israel pounds Lebanon, Gazans empathize, yet feel forgotten")
+### Many Nigerian girls have been forced to leave school. Mentors help them return.](https://www.csmonitor.com/World/Making-a-difference/2024/1022/nigeria-education-girls-displaced-wassa-camp "Many Nigerian girls have been forced to leave school. Mentors help them return.")
 
-[Innovation
+[Peace
 
-### Creative nudges for good land use](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1021/Creative-nudges-for-good-land-use "Creative nudges for good land use")
+### In Gaza or Ukraine, peace can look impossible. Here, there’s hope.](https://www.csmonitor.com/World/Europe/2024/1022/Geneva-Peace-Week-United-Nations "In Gaza or Ukraine, peace can look impossible. Here, there’s hope.")
 
-[Hope
+[Responsibility
 
-### A journalist recounts his daughter’s miraculous birth in war-torn Sudan](https://www.csmonitor.com/World/Africa/2024/1021/sudan-civil-war-khartoum-hospital-crisis "A journalist recounts his daughter’s miraculous birth in war-torn Sudan")
+### What’s engaging these high schoolers? Classes about the election.](https://www.csmonitor.com/USA/Education/2024/1022/2024-election-high-school-students-voting-civics "What’s engaging these high schoolers? Classes about the election.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Many Nigerian girls have been forced to leave school. Mentors help them return.](https://www.csmonitor.com/World/Making-a-difference/2024/1022/nigeria-education-girls-displaced-wassa-camp "Many Nigerian girls have been forced to leave school. Mentors help them return.")
+
+[### In Gaza or Ukraine, peace can look impossible. Here, there’s hope.](https://www.csmonitor.com/World/Europe/2024/1022/Geneva-Peace-Week-United-Nations "In Gaza or Ukraine, peace can look impossible. Here, there’s hope.")
+
 [### China’s latest drills highlight key strategy to annex Taiwan: Blockade](https://www.csmonitor.com/World/Asia-Pacific/2024/1021/china-taiwan-pla-blockade-unification-us-defense "China’s latest drills highlight key strategy to annex Taiwan: Blockade")
-
-[### As Israel pounds Lebanon, Gazans empathize, yet feel forgotten](https://www.csmonitor.com/World/Middle-East/2024/1021/gaza-lebanon-israel-palestinians-civilians "As Israel pounds Lebanon, Gazans empathize, yet feel forgotten")
-
-[### Fetullah Gulen, a controversial Turkish cleric, remembered for failed coup attempt](https://www.csmonitor.com/World/Europe/2024/1021/Fetullah-Gulen-dies-coup-Islam-Erdogan-turkey "Fetullah Gulen, a controversial Turkish cleric, remembered for failed coup attempt")
 
 * * *
 
