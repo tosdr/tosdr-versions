@@ -327,4 +327,4 @@ Please refer to [https://www.taxact.com/support/request](https://www.taxact.com
 
 [Terms of Service](https://www.taxact.com/terms-of-service) [Privacy Notice](https://www.taxact.com/privacy-notice) [GLBA Notice](https://www.taxact.com/GLBA-notice) [Do Not Sell or Share My Personal Information](https://www.taxact.com/do-not-sell-or-share)
 
-©1998 - 2024 TaxAct ®
+©2024 TaxAct, Inc., a Taxwell company. All Rights Reserved.
