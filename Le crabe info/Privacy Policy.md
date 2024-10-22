@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 536 utilisateurs actifs
+##### 174 utilisateurs actifs
 
 Chargement en cours
 
@@ -139,7 +139,7 @@ Chargement en cours
 
 * [Télécharger les ISO de Windows 10](https://lecrabeinfo.net/telecharger-iso-windows-10.html)
 * [Télécharger les ISO de Windows 11](https://lecrabeinfo.net/telecharger-iso-windows-11.html)
-* [Créer une clé USB d'installation de Windows 10](https://lecrabeinfo.net/creer-une-cle-usb-dinstallation-de-windows-10.html)
+* [Télécharger et installer Windows 11 24H2 (3 méthodes)](https://lecrabeinfo.net/telecharger-et-installer-windows-11-24h2.html)
 
 ### À propos
 
