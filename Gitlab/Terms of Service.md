@@ -984,7 +984,6 @@
             * [ ]  [Mike Dunninger's README](https://handbook.gitlab.com/handbook/engineering/readmes/mike-dunninger/)
             * [ ]  [MikeL's README](https://handbook.gitlab.com/handbook/engineering/readmes/mike-lockhart/)
             * [ ]  [Nick Veenhof's README](https://handbook.gitlab.com/handbook/engineering/readmes/nick-veenhof/)
-            * [ ]  [Phil Calder's README](https://handbook.gitlab.com/handbook/engineering/readmes/pcalder/)
             * [ ]  [README of Gabriel Yoachum](https://handbook.gitlab.com/handbook/engineering/readmes/gabey/)
             * [ ]  [README of Katrin Leinweber](https://handbook.gitlab.com/handbook/engineering/readmes/katrin-leinweber/)
             * [ ]  [Rebecca Spainhower's README](https://handbook.gitlab.com/handbook/engineering/readmes/rebecca-spainhower/)
