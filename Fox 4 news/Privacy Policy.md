@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Carroll Middle School teacher arrested for alleged sex with former student](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/angela-barnes-booking-photo.jpg?ve=1&tl=1)
+ [![Decomposing body found in South Arlington home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
 
- ![Carroll Middle School teacher arrested for alleged sex with former student](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/angela-barnes-booking-photo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/carroll-middle-school-angela-barnes-arrest)
+ ![Decomposing body found in South Arlington home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/decomposing-body-found-south-arlington-home)
 
-### [Carroll Middle School teacher arrested for alleged sex with former student](https://www.fox4news.com/news/carroll-middle-school-angela-barnes-arrest)
+### [Decomposing body found in South Arlington home](https://www.fox4news.com/news/decomposing-body-found-south-arlington-home)
 
- [![Harris vs. Trump: Here's who's winning in the polls with 2 weeks to go](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2170589855.jpg?ve=1&tl=1)
+ [![Tarrant County reports 2 errors amid high early voting turnout](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/P_DIONNE-TARRANT-CO-ELECTIONS-5P_00.00.01.04.png?ve=1&tl=1)
 
- ![Harris vs. Trump: Here's who's winning in the polls with 2 weeks to go](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2170589855.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-october-22-2024)
+ ![Tarrant County reports 2 errors amid high early voting turnout](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/592/333/P_DIONNE-TARRANT-CO-ELECTIONS-5P_00.00.01.04.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/tarrant-county-reports-2-errors-amid-record-early-voting-turnout)
 
-### [Harris vs. Trump: Here's who's winning in the polls with 2 weeks to go](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-october-22-2024)
+### [Tarrant County reports 2 errors amid high early voting turnout](https://www.fox4news.com/election/tarrant-county-reports-2-errors-amid-record-early-voting-turnout)
 
- [![Tom Holland in talks to star in Christopher Nolan film, reports say: What we know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/tom-christopher.jpg?ve=1&tl=1)
+ [![Wanted child predator later found with another minor sentenced to 60 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cameron-moffett.png?ve=1&tl=1)
 
- ![Tom Holland in talks to star in Christopher Nolan film, reports say: What we know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/tom-christopher.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/christopher-nolan-tom-holland-film-star-what-to-know-reports)
+ ![Wanted child predator later found with another minor sentenced to 60 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cameron-moffett.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wanted-child-predator-later-found-another-minor-sentenced-60-years)
 
-### [Tom Holland in talks to star in Christopher Nolan film, reports say: What we know](https://www.fox4news.com/news/christopher-nolan-tom-holland-film-star-what-to-know-reports)
+### [Wanted child predator later found with another minor sentenced to 60 years](https://www.fox4news.com/news/wanted-child-predator-later-found-another-minor-sentenced-60-years)
 
- [![Large pallet fire burns near Dallas Love Field, power outages reported](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-empire-central-commercial-fire-4a_00.00.06.42.jpg?ve=1&tl=1)
+ [![Honda recalls another 700,000 vehicles, this time for pumps that can crack and leak fuel](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/honda-getty.jpg?ve=1&tl=1)
 
- ![Large pallet fire burns near Dallas Love Field, power outages reported](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-empire-central-commercial-fire-4a_00.00.06.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pallet-fire-burns-near-dallas-love-field-power-outages-reported)
+ ![Honda recalls another 700,000 vehicles, this time for pumps that can crack and leak fuel](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/honda-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/honda-recalls-another-700000-vehicles-pumps-crack-leak-fuel)
 
-### [Large pallet fire burns near Dallas Love Field, power outages reported](https://www.fox4news.com/news/pallet-fire-burns-near-dallas-love-field-power-outages-reported)
+### [Honda recalls another 700,000 vehicles, this time for pumps that can crack and leak fuel](https://www.fox4news.com/news/honda-recalls-another-700000-vehicles-pumps-crack-leak-fuel)
 
- [![Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dpd-mounted-ofc-state-fair-lawsuit-9p_kdfwcbe1_1_00.00.14.22.jpg?ve=1&tl=1)
+ [![Former Abercrombie & Fitch CEO Mike Jeffries arrested on sex trafficking charges](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-75468105.jpg?ve=1&tl=1)
 
- ![Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dpd-mounted-ofc-state-fair-lawsuit-9p_kdfwcbe1_1_00.00.14.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-of-texas-horse-lawsuit)
+ ![Former Abercrombie & Fitch CEO Mike Jeffries arrested on sex trafficking charges](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-75468105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mike-jeffries-abercrombie-fitch-ceo-reportedly-arrested-sex-trafficking-charges)
 
-### [Family of teen knocked out by police horse at State Fair of Texas files lawsuit](https://www.fox4news.com/news/state-fair-of-texas-horse-lawsuit)
+### [Former Abercrombie & Fitch CEO Mike Jeffries arrested on sex trafficking charges](https://www.fox4news.com/news/mike-jeffries-abercrombie-fitch-ceo-reportedly-arrested-sex-trafficking-charges)
 
 ###### [News](https://www.fox4news.com/news)
 
