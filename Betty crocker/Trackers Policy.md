@@ -2,10 +2,12 @@
 
 [](https://www.bettycrocker.com/ "Betty Crocker Home")
 
-Menu
+Search
 
 * [Sign Up](https://www.bettycrocker.com/user-profile/register?returnUrl=%2fcoupons-promotions%2fsweepstakes%2f25th-cookie%2frules&isRegistrationFirstStep=true&esrc=11275&RegAction=HEADERJOINLOGIN)
 * [Log In](https://www.bettycrocker.com/user-profile/login?returnUrl=%2fcoupons-promotions%2fsweepstakes%2f25th-cookie%2frules&isRegistrationFirstStep=false&esrc=11275&RegAction=HEADERJOINLOGIN)
+
+Menu
 
 * [Recipes](https://www.bettycrocker.com/recipes)
     
@@ -43,7 +45,7 @@ Menu
         * [Pasta Salad Recipes](https://www.bettycrocker.com/recipes/dishes/pasta-recipes/pasta-salad)
     * [Dessert](https://www.bettycrocker.com/recipes/courses/dessert-recipes)
         * [Cake Recipes](https://www.bettycrocker.com/recipes/dishes/cake-recipes)
-        * [Cookies Recipes](https://www.bettycrocker.com/recipes/dishes/cookie-recipes)
+        * [Cookie Recipes](https://www.bettycrocker.com/recipes/dishes/cookie-recipes)
         * [Pie Recipes](https://www.bettycrocker.com/recipes/dishes/pie-and-tart-recipes)
         * [Brownie Recipes](https://www.bettycrocker.com/recipes/dishes/brownie-recipes)
         * [Bar Recipes](https://www.bettycrocker.com/recipes/dishes/bar-recipes)
