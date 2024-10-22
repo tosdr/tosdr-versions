@@ -237,7 +237,7 @@ If there are any questions regarding this privacy policy, you may contact us at 
 
   
 
-2024 Contributions: **$144985.69**  
+2024 Contributions: **$145082.81**  
 Goal (tier 2): $150000[](https://artfight.net/donate)
 
 Support
