@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/europa-verbiedt-schadelijke-gsms-en-wifi-op-scholen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/numerologie-en-het-algoritme-van-de-schepping/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
