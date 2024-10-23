@@ -308,9 +308,8 @@ Advertise
 
 [![A conversation with a career coach helped Canva’s Charlotte Anderson realise she wanted to create a new role for herself.](https://static.ffx.io/images/$zoom_0.4816%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_868%2C$y_198/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6bd5a3f2c0384456e75a518fd9fbf6f9f535150b)](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
 
-### [The executives who created the jobs they were hired for](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
+### [How execs create their own jobs](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
 
-* 56 mins ago
 * Euan Black
 
 * ### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
@@ -325,7 +324,6 @@ Advertise
 
 ### [Soak up the Melbourne Cup atmosphere at these top wine bars](https://www.afr.com/life-and-luxury/food-and-wine/soak-up-the-melbourne-cup-atmosphere-at-these-top-wine-bars-20241016-p5kiwj)
 
-* 56 mins ago
 * Max Allen
 
 * ### [The property buyer who very nearly played basketball with Kanye](https://www.afr.com/life-and-luxury/health-and-wellness/the-property-buyer-who-very-nearly-played-basketball-with-kanye-20241015-p5kihj)
@@ -340,7 +338,6 @@ Advertise
 
 ### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
 
-* 41 mins ago
 * Yolanda Redrup
 
 * ### [Meet the 17 new faces on this year’s Young Rich List](https://www.afr.com/young-rich/meet-the-17-new-faces-on-this-year-s-young-rich-list-20241004-p5kfwe)
