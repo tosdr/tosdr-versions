@@ -131,6 +131,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
+[![Skeleton in a relaxed pose sitting at a cluttered desk with fast food waste, symbolizing excessive screen time and neglect of health, as discussed in Podcast #941: Avoid Death by Comfort.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
+
+[Podcast #941: How to Avoid Death by Comfort](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
+
 [![A person in a white shirt demonstrates the Skill of the Week by tending to another's leg injury in a forest. The injured individual, clad in an orange jacket, lies on the ground as they receive care and treatment for shock amidst the tranquil woodland setting.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
 [Skill of the Week: Treat Someone for Shock](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
@@ -142,10 +146,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Chalk drawing of a human head with a clock face inside, surrounded by arrows, a crescent moon, and a sun on a black background, symbolizing circadian rhythm and its role in health and better sleep.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
 
 [Podcast #1,016: Unlock Better Sleep and Health by Harnessing Your Circadian Rhythm](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
-
-[![Blurry image of a fast food restaurant counter with illuminated menu boards offering meals less than 600 calories and high in protein, and a person using a phone in the foreground.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/fast-food-high-protein/)
-
-[5 Fast-Food Meals That Are High in Protein and Less Than 600 Calories](https://www.artofmanliness.com/health-fitness/health/fast-food-high-protein/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
@@ -186,7 +186,7 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
 
-[![Three people stand on a grassy patch by a calm lake, with two of them looking at phones. A bench is nearby, inviting quiet reflection. In the background, a majestic tree stands tall like a great father-in-law, offering silent guidance and shelter.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
+[![Three people, including the great father-in-law, stand under a tree by a lake, with two benches nearby.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
 
 [How to Be a Great Father-in-Law](https://www.artofmanliness.com/people/fatherhood/father-in-law/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
+
+[Podcast #941
+
+###### How to Avoid Death by Comfort](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/reading/podcast-1032-lee-child-the-writer-jack-reacher-the-character-and-the-enduring-appeal-of-lone-wolves/)
 
 [Podcast #1,032
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,030
 
 ###### The Problems With the Cult of Leadership](https://www.artofmanliness.com/career-wealth/leadership/podcast-1030-the-problems-with-the-cult-of-leadership/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1029-treat-your-to-do-list-like-a-river-and-other-mindset-shifts-for-making-better-use-of-your-time/)
-
-[Podcast #1,029
-
-###### Treat Your To-Do List Like a River, and Other Mindset Shifts for Making Better Use of Your Time](https://www.artofmanliness.com/character/advice/podcast-1029-treat-your-to-do-list-like-a-river-and-other-mindset-shifts-for-making-better-use-of-your-time/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
