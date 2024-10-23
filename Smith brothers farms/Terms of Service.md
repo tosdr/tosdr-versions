@@ -186,11 +186,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (84)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (83)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (62)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors (44)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -264,7 +264,7 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (85)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (84)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
@@ -277,7 +277,7 @@ Hi
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (8)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (7)](https://www.smithbrothersfarms.com/desserts)
             
         
     * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
