@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Elevate your brand with an .IT.COM domain for only $4.49!](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Oct%202024&utm_medium=it%20com&drefid=4612)[Stand Out with a .ONE Domain for Just $3.49! 🏆 Claim yours now ➡️](https://www.dynadot.com/domain/one?utm_source=Promobar&utm_campaign=ONE%20Promobar%20Oct%202024&utm_medium=one&drefid=4614)
+[Stand Out with a .ONE Domain for Just $3.49! 🏆 Claim yours now ➡️](https://www.dynadot.com/domain/one?utm_source=Promobar&utm_campaign=ONE%20Promobar%20Oct%202024&utm_medium=one&drefid=4614)
 
 [](https://www.dynadot.com/)
 
