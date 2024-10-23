@@ -56,7 +56,7 @@ Menu
     * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/birthday/photo-upload/)
     * [Funny Cards](https://www.moonpig.com/uk/personalised-cards/birthday/funny/)
     * [Rude Cards](https://www.moonpig.com/uk/personalised-cards/birthday/naughty/)
-    * [Flowers for Mum](https://www.moonpig.com/uk/flowers-and-plants/birthday/for-mum/)
+    * [Flower & Plant Gift Sets](https://www.moonpig.com/uk/flowers-and-plants/gift-sets/)
     * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/birthday/)
     * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/birthday/)
