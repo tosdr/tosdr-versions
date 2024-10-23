@@ -87,6 +87,7 @@
         * [Publications, Guidelines and Codes](https://apfed.org/resources/for-healthcare-providers-and-researchers/publications-and-guidelines/)
         * [Conferences and CME Opportunities](https://apfed.org/conferences-and-cme-opportunities/)
         * [Published Research](https://apfed.org/resources/for-healthcare-providers-and-researchers/published-research/)
+    * [External Resources](https://apfed.org/resources/external-resources/)
 * [Events](https://apfed.org/events/)
     * [World Eosinophilic Disease Day (May 18)](https://apfed.org/events/worldeosday/)
     * [National Eosinophil Awareness Week (May 19-25, 2024)](https://apfed.org/events/national-eosinophil-awareness-week/)
@@ -367,80 +368,44 @@ Connect with patients and caregivers for support.
 
 [Join](https://secure.everyaction.com/ftd5pgna8kqefE3rr87Gmg2)
 
-#### Related Organization Links
+#### About APFED
 
-* [AFA- Allergy and Asthma Foundation of America](http://www.aafa.org/)
-* [AAN - Asthma and Allergy Network](https://www.allergyasthmanetwork.org/)
-* [ausEE, Inc. - Australian Support Network for Eosinophilic oEsophagitis and related disorders](http://www.ausee.org/)
-* [CCFA- Crohn’s and Colitis Foundation of America](http://www.ccfa.org/)
-* [CDF- Celiac Disease Foundation](http://www.celiac.org/)
-* [CVSA- Cyclic Vomiting Syndrome Association](http://www.cvsaonline.org/)
-* [FAACT - Food Allergy & Anaphylaxis Connection Team](http://www.foodallergyawareness.org/)
-* [FARE- Food Allergy R](http://www.foodallergy.org/)[esearch and Education](http://www.foodallergy.org/)
-* [GIRF- Gastrointestinal Research Foundation](http://www.girf.org/)
-* [GPDA- Gastroparesis and Dysmotility Association](http://www.digestivedistress.com/)
-* [IDF- Immune-Deficiency Foundation](http://www.primaryimmune.org/)
-* [IFFGD- International Foundation for Functional Gastrointestinal Disorders](http://www.iffgd.org/)
-* [I-FPIES- International FPIES Association](http://www.fpies.org/)
-* [Kids With Food Allergies](http://www.kidswithfoodallergies.org/)
-* [National Eosinophilia-Myalgia Syndrome Network](http://www.nemsn.org/)
-* [NEASE- National Eczema Association for Science and Education](http://www.nationaleczema.org/)
-* [NORD- National Organization for Rare Diseases](http://www.rarediseases.org/)
-* [Oley Foundation](http://www.oley.org/)
-* [PAK - Protect Allergic Kids](http://www.protectallergickids.com/)
-* [Vasculitis Foundation](https://vasculitisfoundation.org/)
+APFED is a 501(c)3 organization dedicated to patients and their families coping with eosinophilic disorders. APFED educates, creates awareness, funds research and advocates.
 
-#### Links of Professional Associations
+Tax ID: 76-0700153
 
-* [International Eosinophil Society (IES)](http://www.eosinophil-society.org/)
-
-#### Gastroenterology
-
-* [American Gastroenterology Association (AGA)](http://www.gastro.org/)
-* [North American Society for Pediatric Gastroenterology, Hepatology and Nutrition (NASPGHAN)](http://www.naspghan.org/)
-* [American Society for Gastrointestinal Endoscopy (ASGE)](http://www.asge.org/)
-* [National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)](http://www.niddk.nih.gov/)
-
-#### Allergy and Immunology
-
-* [American Academy of Allergy, Asthma and Immunology (AAAAI)](http://www.aaaai.org/)
-* [American College of Allergy Asthma and Immunology (ACAAI)](http://www.acaai.org/)
-* [National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
-
-#### Pathology
-
-* [Society for Pediatric Pathology (SPP)](http://www.spponline.org/)
-* [American Society for Clinical Pathology (ASCP)](http://www.ascp.org/)
-* [US Canadian Academy of Pathology](http://www.uscap.org/)
-
-#### Contact Us
-
-* Mailing Address:  
-    APFED  
-    American Partnership for Eosinophilic Disorders  
-    PO Box 29545  
-    Atlanta, GA 30359  
-      
-    Phone:  
-    Office: 713-493-7749  
-    (8am – 4pm CST, Monday – Friday)  
-      
-    Email:  
-    General Inquiries: [mail@apfed.org](mailto:mail@apfed.org)  
-    Media: [media@apfed.org](mailto:media@apfed.org)  
-    [Press Kit](https://apfed.org/wp-content/uploads/2015/03/APFEDPressKit.pdf)  
-    Fundraising: [fundraise@apfed.org](mailto:fundraise@apfed.org)  
-    Legislative Issues: [pac@apfed.org](mailto:pac@apfed.org)  
-    Corporate Donations / Matching Funds: [fundraise@apfed.org](mailto:fundraise@apfed.org)  
-    For assistance in finding a physician in your area, please visit our [Specialist Finder](https://apfed.org/find-support-treatment/specialist-finder/)  
-    To Report Errors or Problems with Our Site, please contact our [Webmaster](mailto:webmaster@apfed.org?subject=Report%20to%20APFED%20Webmaster).  
-      
-    APFED is a 501(c)3 organization dedicated to patients and their families coping with eosinophilic disorders. APFED educates, creates awareness, funds research and advocates.  
-    Tax ID: 76-0700153
+ 
 
 #### Partner with APFED
 
-* [Corporate partnerships](https://apfed.org/take-action/corporate-partnerships/)
+[Explore Corporate Partnerships](https://apfed.org/take-action/corporate-partnerships/)
+
+#### Contact
+
+Mailing Address:  
+APFED  
+American Partnership for Eosinophilic Disorders  
+PO Box 29545  
+Atlanta, GA 30359  
+
+Phone: (713) 493-7749  
+(9 AM – 5 PM ET, Monday – Friday)
+
+#### Inquiries
+
+**General:** [mail@apfed.org](mailto:mail@apfed.org)  
+**Media:** [media@apfed.org](mailto:media@apfed.org) | [Press Kit](https://apfed.org/wp-content/uploads/2015/03/APFEDPressKit.pdf)  
+**Fundraising, Corporate Donations, Matching Funds:** [fundraise@apfed.org](mailto:fundraise@apfed.org)  
+**Legislative Issues:** [pac@apfed.org](mailto:pac@apfed.org)  
+**Website:** [webmaster@apfed.org](mailto:webmaster@apfed.org)
+
+ 
+
+#### Specialist Finder
+
+For assistance in finding a medical professional in your area, please explore our [**Specialist Finder**](https://apfed.org/find-support-treatment/specialist-finder/)****.****
+
+****
 
 Footer Awards
 
@@ -459,6 +424,12 @@ Copyright © 2001-2024 American Partnership for Eosinophilic Disorders.
 
 [Privacy Policy](https://apfed.org/disclaimer-privacy-policy) | [Terms of Use](https://apfed.org/terms-of-use)
 
-                                     
 
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
+
+
+
+
+
+****
+
+                                     ****We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)****
