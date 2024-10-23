@@ -38,7 +38,7 @@
     
     Improve the security of your business and comply with data protection laws.](https://protonvpn.com/business)
     
-* [Proton for business](https://protonvpn.com/business)
+* [Proton for Business](https://protonvpn.com/business)
 * Who we are
     
     [Proton
@@ -65,7 +65,7 @@
     
     Our non-profit model puts people before profit.](https://protonvpn.com/foundation)
     
-* Resources & support
+* Resources and support
     
     Help
     
@@ -444,7 +444,7 @@ English
 
 English
 
-* [Privacy policy](https://protonvpn.com/legal/privacy)
+* [Privacy Policy](https://protonvpn.com/legal/privacy)
 * [Terms & conditions](https://protonvpn.com/legal/terms)
 * [Transparency report](https://protonvpn.com/legal/transparency)
 * © 2024 Proton AG. All rights reserved.
