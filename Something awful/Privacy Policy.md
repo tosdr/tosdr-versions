@@ -205,21 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Dungeons & Dragons Module B3: "Palace of the Silver Princess" (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/illusion-of-decapus/1/)
-* [Spooky Skeleton GIFs!](https://www.somethingawful.com/comedy-goldmine/spooky-skeleton-gifs/)
-* [Segway Chat, The Student Room, Fart Discussions, and YaHooka](https://www.somethingawful.com/weekend-web/segway-chat-student/1/)
-* [Cakefartin' Steve And Me](https://www.somethingawful.com/news/cakefarts/1/)
+* [DIME, Flash Flash Revolution, MASH, 4chan, and UK Parents](https://www.somethingawful.com/weekend-web/dime-flash-flash/1/)
+* [Pretentious Games](https://www.somethingawful.com/photoshop-phriday/pretentious-games/1/)
+* [Aliens Unlimited: Galaxy Guide (1997)](https://www.somethingawful.com/dungeons-and-dragons/aliens-unlimited-galaxy/1/)
+* [Diaper Dreams and Sissy Kiss](https://www.somethingawful.com/weekend-web/sissykiss-diaper-dreams/1/)
+* [Descrambled](https://www.somethingawful.com/email-pranks/email-spam-descrambled/)
 
 ### Popular Threads
 
 ### Random Articles
 
-* [Legacy of Puns Will Outlive Local Janitor's Mysterious, Gruesome Death](https://www.somethingawful.com/news/freddy-krueger-obit/)
-* [That Side.com Everquest Comi](https://www.somethingawful.com/awful-links/awful-link-547/)
-* [I am the Curator of a Vast Digital Collection of Jackworthy Media](https://www.somethingawful.com/news/curate-internet-collection/)
-* [Elmo Lover's Board, The Corpse, Absolute Anime, and Aliensthetruth](https://www.somethingawful.com/weekend-web/elmo-lovers-board/1/)
-* [Awful Top 10: Keyboard Keys](https://www.somethingawful.com/flash-tub/top-10-keyboard/)
+* [Antonin Scalia, Gaming Hero](https://www.somethingawful.com/news/scalia-video-games/)
+* [Are You the Last Table in the Restaurant?](https://www.somethingawful.com/news/closing-restaurant-last/)
+* [8 Things the Simpsons Predicted for 2016](https://www.somethingawful.com/news/simpsons-predictions-future/)
+* [What Is THREADRIPPER?](https://www.somethingawful.com/news/what-threadripper-amd/)
+* [Unreal 2: The Awakening](https://www.somethingawful.com/game-reviews/unreal-awakening/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
