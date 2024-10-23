@@ -174,7 +174,7 @@ Ask USA.gov a question at
 
 #### Find us on social media
 
- [![Instagram_Icon.svg](/themes/custom/usagov/images/social-media-icons/Instagram_Icon.svg) Facebook](https://www.facebook.com/USAgov)
+ [![Facebook_Icon.svg](/themes/custom/usagov/images/social-media-icons/Facebook_Icon.svg) Facebook](https://www.facebook.com/USAgov)
 
  [![X_Twitter_Icon.svg](/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg) Twitter](https://twitter.com/USAgov)
 
