@@ -178,16 +178,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Armed Citizen Stops A Man Trying To Run Over Three People](https://www.thegunpage.com/armed-citizen-stops-a-man-trying-to-run-over-three-people/10611402)
+* [All American Hunters Should Be Warned by Colorado’s Proposed Ban on Mountain Lion Hunting](https://www.thegunpage.com/all-american-hunters-should-be-warned-by-colorados-proposed-ban-on-mountain-lion-hunting/10611400)
+* [GOA, GOF Coalition Urge Judge to Make Final Ruling on Universal Registration Check Rule](https://www.thegunpage.com/goa-gof-coalition-urge-judge-to-make-final-ruling-on-universal-registration-check-rule/10611401)
+* [IWI Masada Slim Review: Is This the Best Budget Concealed Carry Gun?](https://www.thegunpage.com/iwi-masada-slim-review-is-this-the-best-budget-concealed-carry-gun/10611394)
+* [Colorado Ballot Initiative Would Put 6.5% “Sin Tax” On Guns, Ammo](https://www.thegunpage.com/colorado-ballot-initiative-would-put-6-5-sin-tax-on-guns-ammo/10611392)
+* [Pennsylvania Man Faces 20 Years In Prison For Straw Purchases](https://www.thegunpage.com/pennsylvania-man-faces-20-years-in-prison-for-straw-purchases/10611389)
+* [Premier Body Armor Unveils the Fortis Ballistic Blanket](https://www.thegunpage.com/premier-body-armor-unveils-the-fortis-ballistic-blanket/10611395)
 * [CRPA Files Brief In Nonresident Carry Lawsuit](https://www.thegunpage.com/crpa-files-brief-in-nonresident-carry-lawsuit/10611387)
+* [Chad Heckler Wins Limited Division Title At 2024 IPRF World Championship](https://www.thegunpage.com/chad-heckler-wins-limited-division-title-at-2024-iprf-world-championship/10611391)
 * [Review: Beretta A300 Ultima Competition](https://www.thegunpage.com/review-beretta-a300-ultima-competition/10611386)
-* [TFB Review: Silencer Central BANISH Speed K 5.56](https://www.thegunpage.com/tfb-review-silencer-central-banish-speed-k-5-56/10611382)
-* [POTD: Danish Soldiers With Gevær M/10 C8IUR by Colt Canada](https://www.thegunpage.com/potd-danish-soldiers-with-gevaer-m-10-c8iur-by-colt-canada/10611383)
-* [HOT GAT or FUDD CRAP? Diamonds and Gold or Tired and Old?](https://www.thegunpage.com/hot-gat-or-fudd-crap-diamonds-and-gold-or-tired-and-old/10611384)
-* [B5 Systems Brings the Glow for Halloween](https://www.thegunpage.com/b5-systems-brings-the-glow-for-halloween/10611374)
-* [Everything Gun Owners Need to Know About Trump, Vance, Harris, and Walz Before Voting](https://www.thegunpage.com/everything-gun-owners-need-to-know-about-trump-vance-harris-and-walz-before-voting/10611372)
-* [The FBI’s Revised Crime Stats Were Made On The Sneak](https://www.thegunpage.com/the-fbis-revised-crime-stats-were-made-on-the-sneak/10611370)
-* [Get Loaded For Bear With Hornady Backcountry Defense Ammo](https://www.thegunpage.com/get-loaded-for-bear-with-hornady-backcountry-defense-ammo/10611376)
-* [New Gunpowder, Primer Production In Arkansas](https://www.thegunpage.com/new-gunpowder-primer-production-in-arkansas/10611377)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -229,6 +229,8 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782834)
+* [Concerned](http://cdn/) on [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/#comment-782833)
 * charles wilkins on [Wash Outs](https://www.conservativedailynews.com/2024/10/wash-outs/#comment-782825)
 * KayCee on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782805)
 * Stanley Warner on [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/#comment-782801)
@@ -236,8 +238,6 @@ Recent Comments
 * charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
 * MarkJ on [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/#comment-782784)
 * Stanley Warner on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782783)
-* Jeff L. on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782767)
-* Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
 
 [Close](#)
 
