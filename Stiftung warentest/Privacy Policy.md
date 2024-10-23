@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
 
 Service Stiftung Warentest
 
