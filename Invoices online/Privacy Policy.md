@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Hugo van Sittert
+Kobus Venter
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=111265007)  
-Cooper Logistics (Pty) Ltd
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=127287355)  
+Imvubu General Trading
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=5573093)  
-UMVIKELI PRIVATE SECURITY
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=41175025)  
+Imhoff Equestrian Centre
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=7561900)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=1294088)  
+MR Compressors& Industrial Supplies
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=27213964)  
-TechnoDezi PTY(LTD)
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=94067289)  
+Gemini-IT Group
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=177193401)  
-Moremi Kitchens Rustenburg
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=38002378)  
+Fox Alarms & Security CC
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=60583370)  
-VerdanTech Pty Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=46782073)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=34465305)  
-Lily Fern & Co
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=34699273)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=69554362)  
-Chiron Medical Solutions
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=54795783)  
+OptaServ
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=48227112)  
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=148215421)  
+FlipDesign - Renovation Contracting Firm
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=163401239)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=156375591)  
 Cooper Power Cape Town (Pty) Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=193228898)  
-NGB HOLDINGS PTY LTD
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=42266136)  
+Salvage Genie
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=147106284)  
-Prosper Park
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=6042162)  
+Iurus Inc
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=28169657)  
-Depot Diesel (Pty) Ltd
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=132740510)  
+Echo Recording Studio cc
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=107597433)  
-OrgChart Hosting Pty Ltd
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=64194952)  
-VS Auto Spares and Repairs (Pty) LTD
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=143124929)  
-Blue Bulls Rugby Coaches Association
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=208872410)  
+Turnkey Innovations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
