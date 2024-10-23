@@ -86,17 +86,17 @@ Close
     
     BRIDGE
     
-    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
+     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.j2fuPYRu_Z.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
-    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
-    
-    $3,380.00
-    
-     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
-    
-    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
+    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
     $3,380.00
+    
+     [![Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/wp-content/uploads/2022/01/IMG_0534-scaled-e1645470277366-thegem-product-justified-square-xxs.jpg)](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
+    
+    [Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
+    
+    USD $3,380.00
     
     ITC Extend
     
@@ -110,15 +110,15 @@ Close
     
     Accessories
     
-     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
+     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    $160.00
+    $120.00
     
-     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Wy_jGbrCQj.jpg)](https://www.agragps.com/product/fendt-mount/)
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
     
-    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
     $120.00
     
@@ -228,17 +228,17 @@ Menu
     
     BRIDGE
     
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.j2fuPYRu_Z.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+     [![Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/wp-content/uploads/2022/01/IMG_0534-scaled-e1645470277366-thegem-product-justified-square-xxs.jpg)](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
     
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
-    
-    $3,380.00
-    
-     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
-    
-    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
+    [Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
     
     USD $3,380.00
+    
+     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
+    
+    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
+    
+    $3,380.00
     
     ITC Extend
     
@@ -252,23 +252,23 @@ Menu
     
     Accessories
     
-     [![CRG – GPS receiver](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-gps-receiver/)
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
     
-    [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
-    USD $4,400.00 – $4,600.00
+    $120.00
     
-     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
-    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    $120.00
+    
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
     $160.00
-    
-     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
-    
-    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
-    
-    $960.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
