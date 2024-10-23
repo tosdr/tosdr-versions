@@ -156,6 +156,14 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
         
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/it-brushes-ulta-x-wicked-limited-edition-blush-foundation-makeup-brush-set-pimprod2048162)
+        
+        IT Brushes For ULTA x Wicked
+        
+        New & exclusive! Blush & Foundation Brush Duo
+        
+        [Shop now](https://www.ulta.com/p/it-brushes-ulta-x-wicked-limited-edition-blush-foundation-makeup-brush-set-pimprod2048162)
+        
     * Skin Care
         
         [All Skin Care](https://www.ulta.com/shop/skin-care)
@@ -267,6 +275,14 @@ Free standard shipping on any $35 purchase
         * [Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
             
         
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/beekman-1802-x-wicked-i-look-good-in-green-milky-mud-mask-pimprod2047900?sku=2629713)
+        
+        Beekman 1802
+        
+        New & exclusive! I Look Good in Green Milky Mud Mask
+        
+        [Shop now](https://www.ulta.com/p/beekman-1802-x-wicked-i-look-good-in-green-milky-mud-mask-pimprod2047900?sku=2629713)
+        
     * Hair Care
         
         [All Hair Care](https://www.ulta.com/shop/hair)
@@ -369,7 +385,7 @@ Free standard shipping on any $35 purchase
             
         * [Hair Quiz](https://www.ulta.com/vba/haircare/)
             
-        * [Hair Goals](https://www.ulta.com/discover/hair/aging-hair-care)
+        * [Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
             
         * [Hair Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
             
@@ -379,6 +395,14 @@ Free standard shipping on any $35 purchase
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/donnas-recipe?sort=new_arrivals)
+        
+        DONNA'S RECIPE
+        
+        New! Whipped Vanilla Cream Curl Defining Mousse
+        
+        [Shop now](https://www.ulta.com/brand/donnas-recipe?sort=new_arrivals)
         
     * Fragrance
         
@@ -431,6 +455,14 @@ Free standard shipping on any $35 purchase
             
         * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/fragrance-perfume-crush)
+        
+        Fragrance Crush | Valentino
+        
+        Valentino Born in Roma Fragrances
+        
+        [Shop now](https://www.ulta.com/discover/fragrance-perfume-crush)
         
     * Body Care
         
@@ -531,6 +563,14 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/best-brightest-body-routine-pimprod2047742?sku=2631016)
+        
+        Sol de Janeiro
+        
+        New & exclusive! Best & Brightest Body Routine
+        
+        [Shop now](https://www.ulta.com/p/best-brightest-body-routine-pimprod2047742?sku=2631016)
+        
     * Tools & Brushes
         
         [All Tools & Brushes](https://www.ulta.com/shop/tools-brushes)
@@ -608,10 +648,20 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
             
         
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/duet-blow-dry-2-in-1-hair-dryer-brush-pimprod2045852?sku=2625285)
+        
+        ghd
+        
+        Duet Blow Dry 2-In-1 Hair Dryer Brush
+        
+        [Shop now](https://www.ulta.com/p/duet-blow-dry-2-in-1-hair-dryer-brush-pimprod2045852?sku=2625285)
+        
     
     Browse By
     ---------
     
+    * [Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
+        
     * New Arrivals
         
         [All New Arrivals](https://www.ulta.com/shop/new-beauty-products)
@@ -658,6 +708,8 @@ Free standard shipping on any $35 purchase
         
         [All Gifts & Value Sets](https://www.ulta.com/shop/gifts)
         
+        * [### Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
+            
         * [### By Category](https://www.ulta.com/shop/gifts/by-category)
             
             * [Makeup & Nail Gifts](https://www.ulta.com/shop/gifts/by-category/makeup-nail-gifts)
@@ -989,7 +1041,7 @@ Free standard shipping on any $35 purchase
             
         * [### Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
-        * [### Hair Goals](https://www.ulta.com/discover/hair/aging-hair-care)
+        * [### Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
             
         * [### Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
             
