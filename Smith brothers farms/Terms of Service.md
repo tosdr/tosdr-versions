@@ -292,14 +292,14 @@ Hi
         * [Deli & Charcuterie (16)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (72)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (71)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (31)](https://www.smithbrothersfarms.com/entrees)
             
         * [Sides & Appetizers (16)](https://www.smithbrothersfarms.com/sides-and-apps)
             
-        * [Dips & Spreads (9)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
+        * [Dips & Spreads (8)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
         * [Pizza & Pasta (14)](https://www.smithbrothersfarms.com/pasta)
             
