@@ -540,6 +540,11 @@ Kaiserstr. 89
 
 ### Externe Veranstaltungen
 
+**Sunday, 31 Aug 2025**  
+[MuC25 - Mensch und Computer 2025](https://secuso.aifb.kit.edu/english/77.php/event/53877#calendar_top)
+
+* * *
+
   
 **[Further Events ...](https://secuso.aifb.kit.edu/english/77.php#calendar_top)**
 
@@ -550,6 +555,11 @@ Kaiserstr. 89
 [Bereich II - Informatik, Wirtschaft und Gesellschaft](https://www.kit.edu/b2/index.php)
 
 ### SECUSO Events
+
+**Friday, 08 Nov 2024**  
+[39\. AIK-Symposium](https://secuso.aifb.kit.edu/english/76.php/event/53037#calendar_top)
+
+* * *
 
   
 **[Further Events ...](https://secuso.aifb.kit.edu/english/76.php#calendar_top)**
