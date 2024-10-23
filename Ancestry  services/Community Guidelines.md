@@ -87,7 +87,7 @@ Loading
 
 [](https://www.ancestry.com/)
 
-[English](https://www.ancestry.com/content/ancestry/acom/language-masters/en.html) [Legal](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal.html) [community-rules](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/community-rules.html) [Community Rules](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/community-rules/community-rules.html)
+[English](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en) [Legal](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal) [community-rules](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal/community-rules) [Community Rules](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal/community-rules/community-rules)
 
 Community Rules
 ===============
