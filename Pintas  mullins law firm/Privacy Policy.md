@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can someone be arrested for emotional abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-someone-be-arrested-for-emotional-abuse.jpg "Can Someone Be Arrested for Emotional Abuse?")](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/ "Can Someone Be Arrested for Emotional Abuse?")
+[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
 
-[#### Can Someone Be Arrested for Emotional Abuse?](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/)
+[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
 
-[![Can a ct scan be wrong about cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-a-ct-scan-be-wrong-about-cancer.jpg "Can a CT Scan Be Wrong About Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/ "Can a CT Scan Be Wrong About Cancer?")
+[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
 
-[#### Can a CT Scan Be Wrong About Cancer?](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/)
+[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
 
-[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
+[![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
 
-[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
+[#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
