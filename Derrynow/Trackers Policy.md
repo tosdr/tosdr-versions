@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-22 Oct 2024
+23 Oct 2024
 
 * [Home
     
@@ -266,13 +266,6 @@ Most Popular
 [Throwback Tuesday: Out and About in Dan's Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 22 2024](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McLaughlin's Hardware to close at end of November as family sells iconic Derry premises")](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
 
 McLaughlin brothers, Liam, Dessie, and Seamus.
@@ -282,6 +275,22 @@ McLaughlin brothers, Liam, Dessie, and Seamus.
 [McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 22 2024](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: DCU celebrates International Credit Union Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: DCU celebrates International Credit Union Day")](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
+
+IN PICTURES: DCU celebrates International Credit Union Day
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: DCU celebrates International Credit Union Day](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man in Derry Court following breach of non-molestation order against his partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in Derry Court following breach of non-molestation order against his partner")](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -289,12 +298,21 @@ McLaughlin brothers, Liam, Dessie, and Seamus.
 [Man in Derry Court following breach of non-molestation order against his partner](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone")](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
+[![Magherafelt-based The Oakleaf Group](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt-based The Oakleaf Group")](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+Magherafelt-based The Oakleaf Group
 
-[Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Magherafelt-based The Oakleaf Group has announced the opening date for its newest bar The 40 Thieves Tavern in Cookstown](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Glen on the precipice of history as they prepare for Derry Senior Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen on the precipice of history as they prepare for Derry Senior Football Championship final")](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Glen on the precipice of history as they prepare for Derry Senior Football Championship final](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final")](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
 
@@ -303,12 +321,12 @@ McLaughlin brothers, Liam, Dessie, and Seamus.
 [Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Glen on the precipice of history as they prepare for Derry Senior Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen on the precipice of history as they prepare for Derry Senior Football Championship final")](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
+[![Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone")](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Glen on the precipice of history as they prepare for Derry Senior Football Championship final](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City Cemetery Lone Moor Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City Cemetery Lone Moor Road")](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
 
@@ -318,22 +336,6 @@ The Lone Moor entrance to Derry City Cemetery. (Image: Googlemaps)
 
 [Road works to begin on City Cemetery's lower main trunk route](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Girls creator says ITV AI role is ‘incredibly depressing’ and ‘unethical’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls creator says ITV AI role is ‘incredibly depressing’ and ‘unethical’")](https://www.derrynow.com/news/local-news/1636272/derry-girls-creator-says-itv-ai-role-is-incredibly-depressing-and-unethical.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry Girls creator says ITV AI role is ‘incredibly depressing’ and ‘unethical’](https://www.derrynow.com/news/local-news/1636272/derry-girls-creator-says-itv-ai-role-is-incredibly-depressing-and-unethical.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Translink announce additional services for Derry Halloween](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink announce additional services for Derry Halloween")](https://www.derrynow.com/news/local-news/1635920/translink-announce-additional-services-for-derry-halloween.html)
-
-Mayor of Derry City & Strabane District Council, Cllr Lilian Seenoi-Barr alongside Translink Inspector, Emmet Bonner, encouraging festival-goers to make the most of public transport this Halloween.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Translink announce additional services for Derry Halloween](https://www.derrynow.com/news/local-news/1635920/translink-announce-additional-services-for-derry-halloween.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
