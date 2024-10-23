@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Donald Trump, Elon Musk](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24281826491357-432x243.jpg)](https://lawandcrime.com/high-profile/doj-aware-of-complaints-that-elon-musks-pro-trump-pac-cash-offer-million-dollar-lottery-for-registered-voters-is-clearly-illegal/)
+1. [![Donald Trump does a hand motion in the main image; Fani Willis looks confused inset on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/03/Trump-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
     
-    ### [DOJ aware of complaints that Elon Musk's pro-Trump PAC million-dollar lottery for registered voters is 'clearly illegal' in this scenario](https://lawandcrime.com/high-profile/doj-aware-of-complaints-that-elon-musks-pro-trump-pac-cash-offer-million-dollar-lottery-for-registered-voters-is-clearly-illegal/)
+    ### ['The law doesn't apply to you': Fani Willis' office ripped by sarcastic judge for violating open records laws in case related to Trump RICO prosecution, punishment to come](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
     
-2. [![Inset: Travis Merrill (Denton County Jail). Background: Authorities on the scene where Merrill allegedly killed a female co-worker (KDFW).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdf-3-432x243.jpg)](https://lawandcrime.com/crime/he-wanted-her-to-feel-pain-man-obsessed-with-co-worker-over-long-breaks-ambushed-and-killed-her-at-work-with-everyone-there-police-say/)
+2. [![Rudy Giuliani](https://am21.mediaite.com/lc/cnt/uploads/2024/06/AP20255664139540-432x243.jpg)](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
     
-    ### ['He wanted her to feel pain': Man 'obsessed' with co-worker over long breaks 'ambushed' and killed her 'at work with everyone there,' police say](https://lawandcrime.com/crime/he-wanted-her-to-feel-pain-man-obsessed-with-co-worker-over-long-breaks-ambushed-and-killed-her-at-work-with-everyone-there-police-say/)
+    ### ['Profound irony': Judge orders Rudy Giuliani to quickly transfer his assets to defamed Georgia election workers — including NYC apartment and Trump legal bills](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
     
-3. [![Zachary Radcliff](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Radcliff-432x243.jpg)](https://lawandcrime.com/crime/trump-loving-church-youth-leader-fawned-over-by-jerry-falwell-jr-had-sex-with-minors-solicited-explicit-photos-cops/)
+3. [![Brandy Rachelle Brown (Harris County Jail).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/dsddfsd-432x243.jpg)](https://lawandcrime.com/crime/mom-left-toddler-in-illegally-parked-car-to-go-drinking-at-a-nightclub-child-later-discovered-after-car-towed/)
     
-    ### [Trump-loving church youth leader fawned over by Jerry Falwell Jr. had sex with minors, solicited explicit photos: Cops](https://lawandcrime.com/crime/trump-loving-church-youth-leader-fawned-over-by-jerry-falwell-jr-had-sex-with-minors-solicited-explicit-photos-cops/)
+    ### [Mom left toddler in illegally parked car to go 'drinking at a nightclub,' child later discovered after car towed](https://lawandcrime.com/crime/mom-left-toddler-in-illegally-parked-car-to-go-drinking-at-a-nightclub-child-later-discovered-after-car-towed/)
     
-4. [![Background: Katy Perry arrives at an ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Katy-Perry-Benjamin-Glaze-432x243.jpg)](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
+4. [![Left: Emmanuel Thomas Dennis (Fayette County District Attorney's Office). Right: The apartment complex where Dennis allegedly beat his fiancee's 2-year-old daughter to death (Google Maps).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Left-Emmanuel-Thomas-Dennis-Fayette-County-District-Attorneys-Office.-Right-The-apartment-complex-where-Dennis-allegedly-beat-his-fiancees-2-year-old-daughter-to-death-Google-Maps-432x243.jpg)](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
     
-    ### ['American Idol' contestant who kissed Katy Perry in viral moment had child sexual abuse material on his cellphone: Police](https://lawandcrime.com/crime/american-idol-contestant-who-kissed-katy-perry-in-viral-moment-had-child-sexual-abuse-material-on-his-cellphone-police/)
+    ### [Man repeatedly referred to fiancee's 2-year-old daughter as 'it' when police questioned him about her violent death: Cops](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
     
-5. [![Carly Gregg, Ashley Smylie, Kevin Gregg](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Carly-Gregg-Ashley-Smylie-Kevin-Gregg-432x243.jpg)](https://lawandcrime.com/crime/killer-teen-carly-gregg-loses-bid-for-new-trial-as-judge-rejects-notion-that-supposedly-new-evidence-would-change-anything/)
+5. [![Ryan Routh, Aileen Cannon, Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Routh-432x243.jpg)](https://lawandcrime.com/high-profile/federal-prosecutors-go-to-bat-for-judge-aileen-cannon-as-trump-assassination-attempt-suspect-seeks-her-recusal/)
     
-    ### [Killer teen Carly Gregg loses bid for another mom murder trial as judge scoffs at notion that biological dad's interview would have changed anything](https://lawandcrime.com/crime/killer-teen-carly-gregg-loses-bid-for-new-trial-as-judge-rejects-notion-that-supposedly-new-evidence-would-change-anything/)
+    ### ['Does not cite any authority': Federal prosecutors defend Judge Cannon as Trump assassination attempt suspect demands her recusal](https://lawandcrime.com/high-profile/federal-prosecutors-go-to-bat-for-judge-aileen-cannon-as-trump-assassination-attempt-suspect-seeks-her-recusal/)
     
 
 [](http://eepurl.com/c89Jdb)
