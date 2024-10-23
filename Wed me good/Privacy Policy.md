@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Swati and Aditya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Sneha and Abhay](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Swati and Aditya](https://image.wedmegood.com/resized/250X/uploads/images/04112bd48a184cbb931ace7bb6298467realwedding/W6Large.jpeg?crop=55,525,794,446)
+![Sneha and Abhay](https://image.wedmegood.com/resized/250X/uploads/images/648ecd00a66d4130aaa87198aa524553realwedding/663101739720a80008a94781_1714487667872.jpeg?crop=4,729,859,483)
 
-Swati and Aditya (Kerala)](https://www.wedmegood.com/real_wedding/detail/swati-and-aditya-kerala-malayali-wedding-4410)
+Sneha and Abhay (Mumbai)](https://www.wedmegood.com/real_wedding/detail/sneha-and-abhay-mumbai-cross-culture-wedding-4413)
 
-[![Dinah and Adil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Shivani and Bonish](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Dinah and Adil](https://image.wedmegood.com/resized/250X/uploads/images/ffec5c735ad24a639cbc0f3cd0bef9c4realwedding/Theweddingartist-1288.JPG?crop=207,450,1626,914)
+![Shivani and Bonish](https://image.wedmegood.com/resized/250X/uploads/images/8f47755b68634cf199304dea58c9ef77realwedding/IMG_0055.jpeg?crop=215,326,1626,914)
 
-Dinah and Adil (Ooty)](https://www.wedmegood.com/real_wedding/detail/dinah-and-adil-ooty-christian-wedding-4409)
+Shivani and Bonish (Jaipur)](https://www.wedmegood.com/real_wedding/detail/shivani-and-bonish-jaipur-cross-culture-wedding-4412)
 
 Browse by Category
 
