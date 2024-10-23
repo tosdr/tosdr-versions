@@ -127,8 +127,7 @@
 
 [Request a quote](https://www.makerbot.com/quote-request) [Buy now](https://store.ultimaker.com/3d-printers/sketch-series)
 
-MAKERBOT TERMS OF USE
-=====================
+#MAKERBOT TERMS OF USE
 
 LAST DATE UPDATED: January 03, 2023
 
@@ -140,8 +139,7 @@ IMPORTANT PLEASE READ THESE TERMS OF USE CAREFULLY. THIS IS A LEGAL AGREEMENT BE
 
 The websites located at www.mbot.me and www.thingiverse.com (together, the “Sites“) are copyrighted works belonging to MakerBot Industries, LLC and its affiliates (“Company,” “us,” “our,” and/or “we“). These MakerBot Terms of Use (“Terms of Use”) are a legally binding agreement between you, as an end-user of our Sites (“User,” “you,” and/or “your”), and the Company. The Company provides services through the Sites, including but not limited to a service for Users to share digital designs that can be printed on 3D printers to create physical objects, and offers to sell and deliver products (collectively the “Services“). By accessing the Sites or using any of our Services, you agree to be bound by these Terms of Use. Certain features of the Services or Sites may be subject to additional guidelines, terms, or rules, which will be posted on the Service or Sites in connection with such features. All such additional terms, guidelines, and rules are incorporated (including, but not limited to the MakerBot Terms of Sale, MakerBot Privacy Policy, the MakerBot API License Agreement, the User-to-User Payment Terms, and the Dispute Policy) by reference into and made a part of these Terms of Use.
 
-1\. ACCOUNTS AND PAYMENT
-------------------------
+##1. ACCOUNTS AND PAYMENT
 
 1.1 Account Creation. In order to use certain features of the Sites (e.g., to upload a design and/or to make store purchases), you must register for an account with the Company (“Company Account“) and provide certain information about yourself as prompted by the Site registration form. You represent and warrant that: (a) all required registration information you submit is truthful and accurate; and (b) you will maintain the accuracy of such information. You may delete your Company Account at any time, for any reason, by following the instructions on the Site. The Company may suspend or terminate your Company Account in accordance with Section 10.
 
@@ -149,8 +147,7 @@ The websites located at www.mbot.me and www.thingiverse.com (together, the “Si
 
 1.3 Payment Terms. Company provides access to the payment processing service required to process payments related to certain Services offered through the Sites. Such payments shall be subject to the User-to-User Payment Terms which is incorporated in these Terms of Use in its entirety and made a part hereof.
 
-2\. SITE
---------
+##2. SITE
 
 2.1 License. Subject to these Terms of Use, the Company grants you a nontransferable, nonexclusive, license to use the Sites and Services for your personal and, subject only to Section 6.3.3 below regarding tipping, noncommercial use.
 
@@ -164,8 +161,7 @@ The websites located at www.mbot.me and www.thingiverse.com (together, the “Si
 
 2.6 Consent to Use of Personal Data. By using our Sites or Services, you agree that Company may collect and use personal data about you. Such information collected through the Services or Sites shall only be used in accordance with the MakerBot Privacy Policy.
 
-3\. USER CONTENT
-----------------
+##3. USER CONTENT
 
 3.1 User Content. “User Content” means any and all information and content that a User submits to, or uses with, the Sites or Services (e.g., content in the User’s profile or postings, user-created designs), including any modifications, improvements, or alterations (“Modification”) made to products available by Company or its authorized suppliers through MakerBot Labs (all such products collectively referred to herein as the “MakerBot Experimental Product”) or to any print profiles, modes, or settings created by you using Company products (“Print Profile”). You retain all your intellectual property rights in your User Content. Company does not claim ownership in any User Content. You are solely responsible for your User Content, and you assume all risks associated with use of your User Content, including any reliance on its accuracy, completeness, or usefulness by others, or any disclosure of your User Content by you that makes you or any third party personally identifiable. Unless Company states otherwise in a writing to you, you may not state or imply that your User Content is in any way provided, sponsored, or endorsed by the Company. The Company is not obligated to backup any User Content and User Content may be deleted at any time. You are solely responsible for creating backup copies of your User Content if you desire.
 
@@ -181,20 +177,17 @@ The websites located at www.mbot.me and www.thingiverse.com (together, the “Si
 
 3.5 Feedback. If you provide the Company any feedback or suggestions regarding the Sites or Services (“Feedback“), you hereby assign to the Company all rights in the Feedback and agree that the Company shall have the right to use such Feedback and related information in any manner it deems appropriate. The Company will treat any Feedback you provide to the Company as nonconfidential and nonproprietary. You agree that you will not submit to the Company any information or ideas that you consider to be confidential or proprietary.
 
-4\. SECONDARY LICENSE FOR USER CONTENT AND DESIGNS
---------------------------------------------------
+##4. SECONDARY LICENSE FOR USER CONTENT AND DESIGNS
 
 4.1 When you upload certain User Content to the Sites or Services, you will be asked to select a secondary copyright license, which is additional to the license you grant to the Company and its affiliates and partners under these Terms. This secondary license will instruct other Sites or Services users on how they may use your User Content, and you will be solely responsible for your selection and for complying with and enforcing the terms of the secondary license you select. You may designate this secondary license to be one of the Creative Commons Licenses (see [https://www.creativecommons.org](https://www.creativecommons.org/)) or any other license based on the Company’s discretion. You agree that the Company may make your User Content available to other Users, subject to the terms of the secondary license you select; however, if you select the “All Rights Reserved” secondary copyright license, you agree that it means the Company may display your User Content for public viewing on the Sites and other Sites or Services users must contact you to obtain additional rights, as necessary. While the Company will advise other Users, Sites, Applications or Services users of the secondary license you select and request that the terms of such license be observed, you acknowledge that it is not the Company’s responsibility to enforce this secondary license and the Company cannot guarantee that your secondary license will in fact be observed by other Sites or Services users.
 
 4.2 Section 6.3.2 below sets forth additional information on secondary licenses and how they relate to payments that Users may accrue based on particular licenses selected by a User for his or her User Content on the Sites.
 
-5\. INDEMNITY
--------------
+##5. INDEMNITY
 
 You agree to indemnify and hold the Company (and its officers, employees, and agents) harmless, including costs and attorneys’ fees, from any claim or demand made by any third party due to or arising out of (a) your use of the Sites or Services; (b) your User Content; (c) your violation of these Terms of Use; or (d) your violation of applicable laws or regulations; (e) or your use of any APIs. The Company reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of the Company. The Company will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
 
-6\. THIRD-PARTY SITES & ADS; OTHER USERS; MAKERBOT DEVELOPER PROGRAM
---------------------------------------------------------------------
+##6. THIRD-PARTY SITES & ADS; OTHER USERS; MAKERBOT DEVELOPER PROGRAM
 
 6.1 Third-Party Sites & Ads. The Sites might contain links to third party websites, services, and advertisements for third parties (collectively, “Third Party Sites & Ads“). Such Third-Party Sites & Ads are not under the control of the Company and the Company is not responsible for any Third-Party Sites & Ads. The Company provides these Third-Party Sites & Ads only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third Party Sites & Ads. You use all Third-Party Sites & Ads at your own risk. When you link to a Third-Party Site & Ad, the applicable third party’s terms and policies apply, including the third party’s privacy and data gathering practices. You should make whatever investigation you feel necessary or appropriate before proceeding with any transaction in connection with such Third-Party Sites & Ads.
 
@@ -210,13 +203,11 @@ You agree to indemnify and hold the Company (and its officers, employees, and ag
 
 6.4 Release. You hereby release and forever discharge us (and our officers, employees, agents, parents, affiliates, successors, and assigns) from, and hereby waive and relinquish, each and every past, present, and future dispute, claim, controversy, demand, right, obligation, liability, action, and cause of action of every kind and nature (including personal injuries, death, and property damage), that has arisen or arises directly or indirectly out of, or relates directly or indirectly to, any interactions with, or act or omission of, other Sites or Service users, Third Party Sites & Ads and third party Developers who may have contracted with Company to integrate their applications into our Ecosystem. IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542 IN CONNECTION WITH THE FOREGOING, WHICH STATES: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.”
 
-7\. CUSTOMER SUPPORT
---------------------
+##7. CUSTOMER SUPPORT
 
 As part of the Services, you may be offered “Customer Support”. Please visit [https://support.makerbot.com/](https://support.makerbot.com/) for our current Customer Support options. Customer Support may include an option for you and a Company representative to interact and connect via a desktop computer, tablet, and/or smart device, and the Internet (“Interactive Customer Support”). The Interactive Customer Support is only available to Users who are eighteen (18) years of age or older. The Interactive Customer Support may allow for a monitoring and/or recording feature whereby Company can monitor and/or record audio and visual data between you and a Company employee or contractor. By accessing the Interactive Customer Support and/or agreeing to these Terms, you: (i) represent and warrant that you are at least eighteen (18) years of age, (ii) explicitly consent to Company’s use of a monitoring and/or recording feature whereby Company can record audio and visual data between you and a Company employee or contractor, and (iii) release such recording to Company for our internal use.
 
-8\. DISCLAIMERS
----------------
+##8. DISCLAIMERS
 
 THE SITES AND SERVICES ARE PROVIDED “AS-IS” AND “AS AVAILABLE” AND WE (AND OUR SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR NON INFRINGEMENT. WE (AND OUR SUPPLIERS) MAKE NO WARRANTY THAT THE SITES: (A) WILL MEET YOUR REQUIREMENTS; (B) WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS; OR (C) WILL BE ACCURATE, RELIABLE, FREE OF VIRUSES OR OTHER HARMFUL CODE, COMPLETE, LEGAL, OR SAFE.
 
@@ -228,8 +219,7 @@ COMPANY ASSUMES NO RESPONSIBILITY, NOR WILL BE LIABLE, FOR ANY DAMAGES TO, OR AN
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
 
-9\. LIMITATION ON LIABILITY
----------------------------
+##9. LIMITATION ON LIABILITY
 
 IN NO EVENT SHALL COMPANY (AND OUR SUPPLIERS) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFIT OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THESE TERMS OF USE OR YOUR USE OF, OR INABILITY TO USE, THE SITES OR SERVICES OR THIRD-PARTY SITES & ADS OR APIS EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ACCESS TO, AND USE OF, THE SITES AND SERVICES AND APIS AND OTHER CONTENT ARE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA RESULTING THEREFROM.
 
@@ -237,18 +227,15 @@ NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU 
 
 SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OF CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
 
-10\. TERM AND TERMINATION
--------------------------
+##10. TERM AND TERMINATION
 
 Subject to this Section, these Terms of Use will remain in full force and effect while you use the Sites or Services. We may (a) suspend or terminate your rights to use the Sites or Services (including your Company Account) or parts thereof, or, (b) terminate these Terms of Use, at any time for any reason at our sole discretion, including for any use of the Sites or Services in violation of these Terms of Use. Upon termination of these Terms of Use, your Company Account and right to access and use the Sites and Services will terminate immediately. You understand and agree that any termination of your Company Account involves deletion of your User Content associated therewith from our live databases. The Company will not have any liability whatsoever to you for any termination of these Terms of Use, including for termination of your Company Account or deletion of your User Content. Even after these Terms of Use are terminated, the following provisions will remain in effect: Sections 3.2, 4, 5, 9, 10 and 12.2.
 
-11\. INTELLECTUAL PROPERTY INFRINGEMENT
----------------------------------------
+##11. INTELLECTUAL PROPERTY INFRINGEMENT
 
 We will terminate the accounts of users who repeatedly infringe intellectual property and reserve the right to take down any Content that we conclude, in our sole discretion, may infringe third party rights. See our Intellectual Property Policy.
 
-12\. GENERAL
-------------
+##12. GENERAL
 
 12.1 Changes to Terms of Use. These Terms of Use are subject to occasional revision, and if we make any substantial changes, we may notify you by sending you an email to the last email address you provided to us (if any) and/or by prominently posting notice of the changes on our Sites. Any changes to these Terms of Use will be effective upon the earlier of thirty (30) calendar days following our dispatch of an email notice to you (if applicable) or thirty (30) calendar days following our posting of notice of the changes on our Sites. These changes will be effective immediately for new users of our Sites or Services. You are responsible for providing us with your most current email address. In the event that the last email address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice. Continued use of our Sites or Services following notice of such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
@@ -328,3 +315,5 @@ All other brand names, product names or trademarks belong to their respective ho
 * [Privacy and cookie statement](https://www.makerbot.com/privacy/)
 
  [![](https://www.makerbot.com/wp-content/uploads/2023/07/facebook-1.svg "Facebook")](https://www.facebook.com/makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/twitter-1.svg "Twitter")](https://twitter.com/makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/youtube-1.svg "Youtube")](https://www.youtube.com/@makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/linkedin-1.svg "LinkedIn")](https://www.linkedin.com/company/559815)[![](https://www.makerbot.com/wp-content/uploads/2023/07/instagram-1.svg "Instagram")](https://www.instagram.com/makerbot/)
+
+MakerBot uses functional, analytical and tracking cookies. Tracking cookies enhance your experience on our website and may also collect your personal data outside of MakerBot websites. If you agree with the use of tracking cookies, click “I agree, continue browsing”. You can withdraw your consent at any time. If you do not consent with the use of tracking cookies, click “Refuse”. You can find more information about cookies on our [Privacy and Cookie Policy](https://www.makerbot.com/privacy/ "Privacy Policy") page.[I agree, continue browsing](#)[Refuse](#)
