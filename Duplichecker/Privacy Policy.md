@@ -681,7 +681,7 @@ Subscribe to Our Newsletter
 
 © 2024 Dupli Checker. All Right Reserved.
 
-[![ Facebook](https://www.duplichecker.com/asets/img/facebook.svg)](https://www.facebook.com/duplichecker/) [![Twitter](https://www.duplichecker.com/asets/img/twitter.svg)](https://twitter.com/duplichecker) [![LinkedIn](https://www.duplichecker.com/asets/img/pintrest.svg)](https://www.pinterest.co.uk/duplichecker/) [![LinkedIn](https://www.duplichecker.com/asets/img/instagram.svg)](https://www.instagram.com/duplichecker/) [![LinkedIn](https://www.duplichecker.com/asets/img/reddit.svg)](https://www.reddit.com/user/Duplichecker_com) [![Youtube](https://www.duplichecker.com/asets/img/youtube.svg)](https://www.youtube.com/user/duplichecker1)
+[![ Facebook](https://www.duplichecker.com/asets/img/facebook.svg)](https://www.facebook.com/duplichecker/) [![Twitter](https://www.duplichecker.com/asets/img/twitter-x.svg)](https://x.com/duplichecker) [![LinkedIn](https://www.duplichecker.com/asets/img/pintrest.svg)](https://uk.pinterest.com/duplichecker/) [![LinkedIn](https://www.duplichecker.com/asets/img/instagram.svg)](https://www.instagram.com/duplichecker/) [![Youtube](https://www.duplichecker.com/asets/img/youtube.svg)](https://www.youtube.com/user/duplichecker1)
 
 ![https://www.duplichecker.com/assets/images/progressbar.gif](https://www.duplichecker.com/asets/images/progressbar.gif)
 
