@@ -9,7 +9,6 @@
     * [Pricing](https://www.strivescan.com/#pricing)
     * [Suggest a Fair](https://www.strivescan.com/suggest/)
     * [Student Registration](https://www.strivefair.com/)
-* [Virtual](https://www.strivescan.com/virtual/6x6-2/)
 * [Visits](https://www.strivescan.com/visits/)
     * [Scanning for High School Visits](https://www.strivescan.com/visits/)
     * [Student Registration](https://www.strivevisit.com/)
