@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-luciano-cian-24-feature.jpg)
+
+[](https://theinspirationgrid.com/artworks-24-new-paintings-by-luciano-cian/)
+
+### Artworks 24: New Paintings by Luciano Cian
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-adriana-vala-feature.jpg)
+
+[](https://theinspirationgrid.com/bold-colorful-illustrations-by-adriana-vala/)
+
+### Bold & Colorful Illustrations by Adriana Vala
+
 ![](https://inspgr.id/app/uploads/2024/10/art-jam-bottle-cap-feature.jpg)
 
 [](https://theinspirationgrid.com/bottle-cap-portraits-by-jeffrey-a-meszaros/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/graphic-design-illustrations-by-carly-berry/)
 
 ### Graphic Design & Illustrations by Carly Berry
-
-![](https://inspgr.id/app/uploads/2024/10/art-anand-rk-feature.jpg)
-
-[](https://theinspirationgrid.com/stunning-comic-book-art-by-anand-rk/)
-
-### Stunning Comic Book Art by Anand RK
-
-![](https://inspgr.id/app/uploads/2024/10/art-ma-yansong-feature.jpg)
-
-[](https://theinspirationgrid.com/ephemeral-bubble-art-installation-by-mad-architects/)
-
-### Ephemeral Bubble: Art Installation by Mad Architects
 
 Awesome products for creatives
 ------------------------------
