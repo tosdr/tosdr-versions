@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [STOP MAKING YOURSELF LOOK LIKE A ASS HOLE!](https://www.somethingawful.com/awfulvision/drums-misandry-desu/1/)
-* [Retro SWAT 3](https://www.somethingawful.com/fashion-swat/retro-swat-3/1/)
-* [20 Rejected Hillary Clinton Names for Trump Supporters](https://www.somethingawful.com/news/hillary-clinton-deplorables/)
-* [Memos from Bear Cave: Daddy's Home](https://www.somethingawful.com/news/bear-cave-daddy/)
-* [Animated Lust, DDR Freak, Adult Swim](https://www.somethingawful.com/weekend-web/animated-lust-ddr/1/)
+* [August 16, 2011](https://www.somethingawful.com/twitter-tuesday/tt08-16-2011/1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
+* [May 22, 2012](https://www.somethingawful.com/twitter-tuesday/tt05-22-12/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [ITT cool animal facts](http://forums.somethingawful.com/showthread.php?threadid=4073257 "ITT cool animal facts")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Low budget Halloween costume ideas](http://forums.somethingawful.com/showthread.php?threadid=4073275 "Low budget Halloween costume ideas")
 
 ### Random Articles
 
-* [Double Dragon](https://www.somethingawful.com/token-healthpack/double-dragon/1/)
-* [Boys With Attitude](https://www.somethingawful.com/awful-links/awful-link-1350/)
-* [Chubby Parade](https://www.somethingawful.com/weekend-web/chubby-parade/1/)
-* [Fishing](https://www.somethingawful.com/guides/guide-fishing/1/)
-* [Ask A Dinosaur!](https://www.somethingawful.com/news/ask-dinosaur-questions/)
+* [I need Tauntaun guts.](https://www.somethingawful.com/news/polar-tauntaun/)
+* [Dude, Where's My Dog?](https://www.somethingawful.com/movie-reviews/dude-wheres-dog/)
+* [The Official Website Of Michael Vick](https://www.somethingawful.com/awful-links/michael-vick-official/)
+* [October 13, 2008](https://www.somethingawful.com/forum-fridays/ff10-13-08/1/)
+* [Extremely Overthought Pick Up Lines](https://www.somethingawful.com/news/pick-up-lines/)
 
 [Random!](https://www.somethingawful.com/random/)
 
