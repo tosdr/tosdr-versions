@@ -306,14 +306,16 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Work relationships: bridges and boundaries](https://eslbrains.com/work-relationships-bridges-and-boundaries/ "Work relationships: bridges and boundaries")
-* [Can you weigh in on this?](https://eslbrains.com/can-you-weigh-in-on-this/ "Can you weigh in on this?")
-* [Healthy lifestyle (Present Simple negative)](https://eslbrains.com/healthy-lifestyle-present-simple-negative/ "Healthy lifestyle (Present Simple negative)")
-* [Things we use every day](https://eslbrains.com/things-we-use-every-day-adjective-order/ "Things we use every day")
+* [Hobbies: more than just free time](https://eslbrains.com/hobbies-more-than-just-free-time/ "Hobbies: more than just free time")
+* [An unusual place to live](https://eslbrains.com/an-unusual-place-to-live/ "An unusual place to live")
+* [What’s the weather like?](https://eslbrains.com/whats-the-weather-like/ "What’s the weather like?")
+* [The undersigned hereby agrees to…](https://eslbrains.com/the-undersigned-hereby-agrees-to/ "The undersigned hereby agrees to…")
 
 © ESL Brains 2024
 
 [](https://www.instagram.com/esl_brains)[](https://www.linkedin.com/company/esl-brains/)
+
+![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7643&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=eslbrains.com%2Fterms-and-conditions%2F)
 
                           
 
