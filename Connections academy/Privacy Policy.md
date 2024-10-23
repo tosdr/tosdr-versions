@@ -11,29 +11,29 @@
         
         We’d love to hear from you!](https://www.connectionsacademy.com/about/contact-us/)
         
-        [![Thumbs up icon](/content/dam/pvs/ca/icons/review.svg)
-        
-        ###### Reviews
-        
-        Check out Connections Academy reviews!](https://www.connectionsacademy.com/about/reviews/)
-        
         [![News icon](/content/dam/pvs/ca/icons/news.svg)
         
         ###### News
         
         Catch up on recent happenings and important updates.](https://www.connectionsacademy.com/news/)
         
-        [![Homeschool icon](/content/dam/pvs/ca/icons/homeschool.svg)
-        
-        ###### Homeschool Alternative
-        
-        Learn how we help all students thrive.](https://www.connectionsacademy.com/about/what-to-expect/homeschool/)
-        
         [![Person icon](/content/dam/pvs/ca/icons/person.svg)
         
         ###### Who We Are
         
         Discover the Connections Academy difference.](https://www.connectionsacademy.com/about/what-to-expect/)
+        
+        [![Thumbs up icon](/content/dam/pvs/ca/icons/review.svg)
+        
+        ###### Reviews
+        
+        Check out Connections Academy reviews!](https://www.connectionsacademy.com/about/reviews/)
+        
+        [![Homeschool icon](/content/dam/pvs/ca/icons/homeschool.svg)
+        
+        ###### Homeschool Alternative
+        
+        Learn how we help all students thrive.](https://www.connectionsacademy.com/about/what-to-expect/homeschool/)
         
         [![Career icon](/content/dam/pvs/ca/icons/careers.svg)
         
@@ -117,41 +117,11 @@
         
         Explore associated costs for our tuition-free school.](https://www.connectionsacademy.com/program/cost/)
         
-        [![Accreditation icon](/content/dam/pvs/ca/icons/accreditation.svg)
-        
-        ###### Accreditation
-        
-        The importance of a quality education experience.](https://www.connectionsacademy.com/program/accreditation/)
-        
-        [![Sample Lessons icon](/content/dam/pvs/ca/icons/lessons.svg)
-        
-        ###### Sample Lessons
-        
-        What online learning actually looks like.](https://www.connectionsacademy.com/program/sample-lessons/)
-        
-        [![College and Career Prep icon](/content/dam/pvs/ca/icons/college.svg)
-        
-        ###### College & Career Readiness
-        
-        How we help students prepare for the future.](https://www.connectionsacademy.com/program/college-career-readiness/)
-        
         [![Student Success icon](/content/dam/pvs/ca/icons/success.svg)
         
         ###### Success Stories
         
         Empowering students to learn the way they learn best.](https://www.connectionsacademy.com/program/student-stories/)
-        
-        [![Socialization icon](/content/dam/pvs/ca/icons/socialization.svg)
-        
-        ###### Socialization
-        
-        How students make friends and develop social skills.](https://www.connectionsacademy.com/program/community/)
-        
-        [![Parent Involvement icon](/content/dam/pvs/ca/icons/parent.svg)
-        
-        ###### Parent Involvement
-        
-        Help your child learn and grow as their Learning Coach.](https://www.connectionsacademy.com/program/parents/)
         
         [![Curriculum icon](/content/dam/pvs/ca/icons/curriculam.svg)
         
@@ -159,10 +129,40 @@
         
         Designed to inspire a lifelong passion for learning.](https://www.connectionsacademy.com/program/curriculum/)
         
+        [![Accreditation icon](/content/dam/pvs/ca/icons/accreditation.svg)
+        
+        ###### Accreditation
+        
+        The importance of a quality education experience.](https://www.connectionsacademy.com/program/accreditation/)
+        
+        [![Socialization icon](/content/dam/pvs/ca/icons/socialization.svg)
+        
+        ###### Socialization
+        
+        How students make friends and develop social skills.](https://www.connectionsacademy.com/program/community/)
+        
         * [Elementary Courses](https://www.connectionsacademy.com/program/curriculum/online-elementary-school/)
         * [High School Courses](https://www.connectionsacademy.com/program/curriculum/online-high-school/)
         * [Middle School Courses](https://www.connectionsacademy.com/program/curriculum/online-middle-school/)
         * [Summer Courses](https://www.connectionsacademy.com/program/curriculum/online-summer-school/)
+        
+        [![Sample Lessons icon](/content/dam/pvs/ca/icons/lessons.svg)
+        
+        ###### Sample Lessons
+        
+        What online learning actually looks like.](https://www.connectionsacademy.com/program/sample-lessons/)
+        
+        [![Parent Involvement icon](/content/dam/pvs/ca/icons/parent.svg)
+        
+        ###### Parent Involvement
+        
+        Help your child learn and grow as their Learning Coach.](https://www.connectionsacademy.com/program/parents/)
+        
+        [![College and Career Prep icon](/content/dam/pvs/ca/icons/college.svg)
+        
+        ###### College & Career Readiness
+        
+        How we help students prepare for the future.](https://www.connectionsacademy.com/program/college-career-readiness/)
         
 * [Find Your School](https://www.connectionsacademy.com/schools-near-me/)
     * [![Elementary School icon](/content/dam/pvs/ca/icons/elementary.svg)
@@ -190,29 +190,11 @@
         
         Get answers to your most pressing questions.](https://www.connectionsacademy.com/support/frequently-asked-questions/)
         
-        [![How it Works icon](/content/dam/pvs/ca/icons/howitworks.svg)
-        
-        ###### How it Works
-        
-        How does online school work? Learn here.](https://www.connectionsacademy.com/support/how-it-works/)
-        
-        [![Technology Support icon](/content/dam/pvs/ca/icons/technology.svg)
-        
-        ###### Technology Support
-        
-        We’re here to help.](https://www.connectionsacademy.com/support/technology/)
-        
         [![Resource Hub Blog icon](/content/dam/pvs/ca/icons/hubblog.svg)
         
         ###### Connections Academy Blog
         
         Explore helpful tips, tricks, and more.](https://www.connectionsacademy.com/support/resources/)
-        
-        [![Information Sessions icon](/content/dam/pvs/ca/icons/information.svg)
-        
-        ###### Information Sessions
-        
-        Get to know Connections Academy in an upcoming event.](https://www.connectionsacademy.com/support/events/)
         
         [![Online School eGuide icon](/content/dam/pvs/ca/icons/eguide.svg)
         
@@ -220,11 +202,29 @@
         
         Take a closer look at the online learning experience.](https://www.connectionsacademy.com/support/online-school-eguide/)
         
+        [![How it Works icon](/content/dam/pvs/ca/icons/howitworks.svg)
+        
+        ###### How it Works
+        
+        How does online school work? Learn here.](https://www.connectionsacademy.com/support/how-it-works/)
+        
+        [![Information Sessions icon](/content/dam/pvs/ca/icons/information.svg)
+        
+        ###### Information Sessions
+        
+        Get to know Connections Academy in an upcoming event.](https://www.connectionsacademy.com/support/events/)
+        
         [![School Store icon](/content/dam/pvs/ca/icons/store.svg)
         
         ###### School Store
         
         Show your Connections Academy pride!](https://www.connectionsacademy.com/support/school-store/)
+        
+        [![Technology Support icon](/content/dam/pvs/ca/icons/technology.svg)
+        
+        ###### Technology Support
+        
+        We’re here to help.](https://www.connectionsacademy.com/support/technology/)
         
 
  
