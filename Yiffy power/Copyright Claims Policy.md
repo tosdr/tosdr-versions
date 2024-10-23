@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 757 1
+0 768 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-unknown-director-134/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-yiffyjiffy2-5/)
 
-[directed by unknown director](https://yiff-party.com/yiff-ai-premium/directed-by-unknown-director-134/)
+[directed by yiffyjiffy2](https://yiff-party.com/yiff-ai-premium/directed-by-yiffyjiffy2-5/)
 
 0 2 0
 
 October 23, 2024
 
-[](https://yiff-party.com/yiff/vins-mum-rein-pepper-fyr-jessica-and-etc-mythology-and-etc-created-by-kotobulka/)
+[](https://yiff-party.com/yiff/kyle-and-lenka-created-by-aquafuafu/)
 
-[vin’s mum, rein, pepper, fyr, jessica, and etc (mythology and etc) created by kotobulka](https://yiff-party.com/yiff/vins-mum-rein-pepper-fyr-jessica-and-etc-mythology-and-etc-created-by-kotobulka/)
+[kyle and lenka created by aquafuafu](https://yiff-party.com/yiff/kyle-and-lenka-created-by-aquafuafu/)
 
-0 347 0
+0 97 0
 
 September 23, 2024
 
-[](https://yiff-party.com/yiff/freya-crescent-directed-by-mr-kitsune/)
+[](https://yiff-party.com/yiff/krystal-directed-by-carnivalecloudmuncher/)
 
-[freya crescent directed by mr.kitsune](https://yiff-party.com/yiff/freya-crescent-directed-by-mr-kitsune/)
+[krystal directed by carnivalecloudmuncher](https://yiff-party.com/yiff/krystal-directed-by-carnivalecloudmuncher/)
 
-0 141 0
+0 131 0
 
 September 23, 2024
 
