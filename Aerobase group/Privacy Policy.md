@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Lockheed feels financial pinch from F-35 upgrade, contract delays](https://www.defensenews.com/air/2024/10/22/lockheed-feels-financial-pinch-from-f-35-upgrade-contract-delays/)  
+    10/22/24 02:52pm  
+    
+    Contract delays and software problems with the F-35 are costing Lockheed Martin hundreds of millions of dollars, and the company is trying to get the program back on track and start recouping its costs. (Senior Airman Edgar Grimaldo/U.S. Air Force)
+    
 * [Russia flaunts doomsday weapons to curb Western support for Ukraine](https://www.defensenews.com/global/europe/2024/10/19/russia-flaunts-doomsday-weapons-to-curb-western-support-for-ukraine/)  
     10/19/24 10:00am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/16/24 11:20am  
     
     AeroVironment says its P550 drone, designed for the Army's Long Range Reconnaissance program, can be modified in the field in minutes and without tools. (AeroVironment)
-    
-* [Sending THAAD to Israel adds to strain on US Army, leaders say](https://www.defensenews.com/air/2024/10/15/sending-thaad-air-defense-system-to-israel-adds-to-strain-on-us-army/)  
-    10/15/24 11:32am  
-    
-    A Terminal High Altitude Area Defense (THAAD) missile defense system is displayed outside the White House in 2019. The U.S. is sending a THAAD, along with roughly 100 troops to operate it, to Israel. (Alex Brandon/AP)
     
 
 Recent parts by keyword  
