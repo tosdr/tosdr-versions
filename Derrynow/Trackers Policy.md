@@ -275,13 +275,6 @@ McLaughlin brothers, Liam, Dessie, and Seamus.
 [McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 22 2024](https://www.derrynow.com/news/deaths/1635935/derry-death-notices-tuesday-october-22-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: DCU celebrates International Credit Union Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: DCU celebrates International Credit Union Day")](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
 
 IN PICTURES: DCU celebrates International Credit Union Day
@@ -314,12 +307,12 @@ Magherafelt-based The Oakleaf Group
 [Glen on the precipice of history as they prepare for Derry Senior Football Championship final](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final")](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone")](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
 
@@ -327,6 +320,13 @@ Magherafelt-based The Oakleaf Group
 
 [Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final")](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City Cemetery Lone Moor Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City Cemetery Lone Moor Road")](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
 
@@ -525,6 +525,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![UU and Council look forward to wicked Derry Halloween programme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "UU and Council look forward to wicked Derry Halloween programme")](https://www.derrynow.com/news/local-news/1636709/uu-and-council-look-forward-to-wicked-derry-halloween-programme.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -532,7 +539,7 @@ Advertise with Us
 [UU and Council look forward to wicked Derry Halloween programme](https://www.derrynow.com/news/local-news/1636709/uu-and-council-look-forward-to-wicked-derry-halloween-programme.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![12-hour Organ Marathon to raise funds for new parish hall in Eglinton](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "12-hour Organ Marathon to raise funds for new parish hall in Eglinton")](https://www.derrynow.com/news/local-news/1636616/12-hour-organ-marathon-to-raise-funds-for-new-parish-hall-in-eglinton.html)
+[![12-hour Organ Marathon to raise funds for new parish hall in Eglinton](https://www.derrynow.com/resizer/165/93/true/2024_10_22/unnamed-1729602643767.jpg--.jpg?1729602645823 "12-hour Organ Marathon to raise funds for new parish hall in Eglinton")](https://www.derrynow.com/news/local-news/1636616/12-hour-organ-marathon-to-raise-funds-for-new-parish-hall-in-eglinton.html)
 
 The Rector of St Canice's Church in Eglinton, Rev Canon Paul Hoey
 
@@ -565,15 +572,6 @@ AFBI Freshwater scientist, Faye Shiels with DAERA Minister Andrew Muir
 
 [Man in Derry Court following breach of non-molestation order against his partner](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry MLA welcomes recognition of need for increased respite provision](https://www.derrynow.com/resizer/165/93/true/2017/06/20091527/88734464_markhdurkan.jpg--.jpg "Derry MLA welcomes recognition of need for increased respite provision")](https://www.derrynow.com/news/derry-news/1636316/derry-mla-welcomes-recognition-of-need-for-increased-respite-provision.html)
-
-Mark H Durkan.
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry MLA welcomes recognition of need for increased respite provision](https://www.derrynow.com/news/derry-news/1636316/derry-mla-welcomes-recognition-of-need-for-increased-respite-provision.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
