@@ -14,7 +14,7 @@
         Online store editor](https://www.shopify.com/website/builder)
     * [Customize your store.
         
-        Store themes](https://themes.shopify.com/?locale=en)
+        Store themes](https://themes.shopify.com/)
     * [Find business apps.
         
         Shopify app store](https://apps.shopify.com/)
