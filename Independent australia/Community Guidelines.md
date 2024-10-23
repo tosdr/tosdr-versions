@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Australia’s economic data does not compute](https://independentaustralia.net/article-display/australias-economic-data-does-not-compute,19095 "Permanent Link : Australia’s economic data does not compute")
+* [“Adult Crime, Adult Time” in Queensland: LNP direct their anger toward children](https://independentaustralia.net/article-display/adult-crime-adult-time-in-queensland-lnp-direct-their-anger-toward-children,19099 "Permanent Link : “Adult Crime, Adult Time” in Queensland: LNP direct their anger toward children")
+* [Race to the moon for a business boom](https://independentaustralia.net/article-display/race-to-the-moon-for-a-business-boom,19092 "Permanent Link : Race to the moon for a business boom")
 * [AI surge pricing, coming to a supermarket and entertainment venue near you](https://independentaustralia.net/article-display/ai-surge-pricing-coming-to-a-supermarket-and-entertainment-venue-near-you,19096 "Permanent Link : AI surge pricing, coming to a supermarket and entertainment venue near you")
 * [Treasury's net migration data playing into Dutton's narrative](https://independentaustralia.net/article-display/treasurys-net-migration-data-playing-into-duttons-narrative,19094 "Permanent Link : Treasury's net migration data playing into Dutton's narrative")
 * [Steven Miles’ results boost his claim to Queensland’s top job](https://independentaustralia.net/article-display/steven-miles-results-boost-his-claim-to-queenslands-top-job,19093 "Permanent Link : Steven Miles’ results boost his claim to Queensland’s top job")
 * [POEM: The Holy Creed of Carbonus Rex](https://independentaustralia.net/article-display/poem-the-holy-creed-of-carbonus-rex,19090 "Permanent Link : POEM: The Holy Creed of Carbonus Rex")
-* [Palestinians in a constant state of mourning as second Nakba unfolds](https://independentaustralia.net/article-display/palestinians-in-a-constant-state-of-mourning-as-second-nakba-unfolds,19091 "Permanent Link : Palestinians in a constant state of mourning as second Nakba unfolds")
-* [Twist of fate thwarts dream to wear the Baggy Green](https://independentaustralia.net/article-display/twist-of-fate-thwarts-dream-to-wear-the-baggy-green,19067 "Permanent Link : Twist of fate thwarts dream to wear the Baggy Green")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
