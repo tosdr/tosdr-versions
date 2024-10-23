@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Confusion and clutter are the failure of design, not the attributes of information”
+“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
 
-[Edward Tufte](http://en.wikipedia.org/wiki/Edward_Tufte)
+[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 [](https://www.adafruit.com/about)
 
