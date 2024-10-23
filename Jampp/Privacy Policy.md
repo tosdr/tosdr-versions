@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/671904d9c72aac53b4e868cd_trending-creative-strategies-for-shopping-apps-in-2024-guide.png)
+
+Trending creative strategies for Shopping apps in 2024 \[+GUIDE\]](https://jampp.com/blog/trending-creative-strategies-for-shopping-apps-in-2024-guide)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/6706d6be80bbb2c31a2fbb74_julo-grows-the-penetration-of-financial-products-with-app-retargeting.png)
 
 JULO grows the penetration of financial products with App Retargeting](https://jampp.com/blog/julo-grows-the-penetration-of-financial-products-with-app-retargeting)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66fda0c98d28d26c75eaddb6_what-the-latest-att-metrics-say-about-the-state-of-skan.png)
-
-What the latest ATT metrics say about the state of SKAN](https://jampp.com/blog/what-the-latest-att-metrics-say-about-the-state-of-skan)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
