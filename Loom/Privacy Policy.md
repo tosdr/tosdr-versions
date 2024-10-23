@@ -91,7 +91,7 @@ Choose your language
     
     ### Loom NEW
     
-    Quick, async video updates](https://loom.com/)
+    Quick, async video updates](https://www.loom.com/software/loom)
     
     ##### Developers
     
@@ -171,7 +171,7 @@ Choose your language
     
     ### Loom NEW
     
-    Quick, async video updates](https://loom.com/)
+    Quick, async video updates](https://www.loom.com/software/loom)
     
     ##### Leadership Teams
     
@@ -191,7 +191,7 @@ Choose your language
     
     ### Loom NEW
     
-    Quick, async video updates](https://loom.com/)
+    Quick, async video updates](https://www.loom.com/software/loom)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Align.svg)
     
@@ -360,7 +360,7 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2359)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2360)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -770,7 +770,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2359)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2360)
 
 [Company](https://www.loom.com/company)
 
