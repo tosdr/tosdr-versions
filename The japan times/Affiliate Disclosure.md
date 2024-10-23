@@ -131,68 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[With her sights set on Ishiba's throne, will Takaichi take over the LDP?](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.")](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[F-35B fighter makes first landing on de facto aircraft carrier Kaga](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.")](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
-
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[With her sights set on Ishiba's throne, will Takaichi take over the LDP?](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.")](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
+
+By [Johan Brooks](https://www.japantimes.co.jp/author/4555/johan-brooks/ "Johan Brooks")  
+
+  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[F-35B fighter makes first landing on de facto aircraft carrier Kaga](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.")](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +257,15 @@ Latest News
 
 [U.S. defense chief confirms North Korean troops are in Russia](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/politics/north-korea-russia-us-lloyd-austin/ "U.S. defense chief confirms North Korean troops are in Russia")
 
-4 hours ago
+10 hours ago
 
 [Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
 
-7 hours ago
-
 [In the heart of Tokyo, LDP and CDP rivals duke it out as election day nears](https://www.japantimes.co.jp/news/2024/10/23/japan/media/tokyo-no-1-district/ "In the heart of Tokyo, LDP and CDP rivals duke it out as election day nears")
-
-7 hours ago
 
 [Court orders retrial in 1986 Fukui murder case due to witness coercion](https://www.japantimes.co.jp/news/2024/10/23/japan/crime-legal/fukui-murder-retrial/ "Court orders retrial in 1986 Fukui murder case due to witness coercion")
 
-7 hours ago
-
 [Japan’s lunar ambitions advance with two new astronauts](https://www.japantimes.co.jp/news/2024/10/23/japan/jaxa-astronauts/ "Japan’s lunar ambitions advance with two new astronauts")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
