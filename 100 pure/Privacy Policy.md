@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5773 reviews (5773)
+5773 reviews (5775)
 
 $16.00 $29.00
 
@@ -442,7 +442,7 @@ ADD TO TOTE
 
 ### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
-186 reviews (187)
+188 reviews (188)
 
 $58.00
 
