@@ -592,8 +592,6 @@ Kopieren
 
 [](#)
 
-[![blocktrainer.de](/fileadmin/_processed_/9/e/csm_blocktrainer_box_17e9184473.png)](https://www.blocktrainer.de/unterstuetze-uns)
-
 **Privatsphäre-Einstellungen**
 
 Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
