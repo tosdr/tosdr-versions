@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c91aef13-b1af-4a87-87d1-c11d8f5198b2/20241018T125349/c91aef13-b1af-4a87-87d1-c11d8f5198b2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c91aef13-b1af-4a87-87d1-c11d8f5198b2/20241018T125349/c91aef13-b1af-4a87-87d1-c11d8f5198b2_360x203.jpg)](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
+    *  [![](https://media.king5.com/assets/KING/images/0e53f99d-192d-4fc0-bc51-0045fd3bcc77/20241023T003409/0e53f99d-192d-4fc0-bc51-0045fd3bcc77_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0e53f99d-192d-4fc0-bc51-0045fd3bcc77/20241023T003409/0e53f99d-192d-4fc0-bc51-0045fd3bcc77_360x203.jpg)](https://www.king5.com/article/news/local/parents-fall-city-homicide-identified/281-c7c0f8ab-08d4-41f3-a8c7-ca8253aaf690)
         
-        #### [Arrest made in pregnant Auburn woman's disappearance, police believe more people are involved](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
+        #### [Adult victims in Fall City quintuple homicide identified](https://www.king5.com/article/news/local/parents-fall-city-homicide-identified/281-c7c0f8ab-08d4-41f3-a8c7-ca8253aaf690)
         
-    *  [![](https://media.king5.com/assets/KING/images/ac572e1e-5c89-49cb-968c-7c245c20073b/20241023T015731/ac572e1e-5c89-49cb-968c-7c245c20073b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac572e1e-5c89-49cb-968c-7c245c20073b/20241023T015731/ac572e1e-5c89-49cb-968c-7c245c20073b_360x203.jpg)](https://www.king5.com/article/news/local/historic-auburn-avenue-theater-being-demolished/281-5cc1ad38-538f-4d85-9ef0-c5676459f09c)
+    *  [![](https://media.king5.com/assets/KING/images/b56d8146-36ea-45b9-827b-784ce9e7fdd9/20241023T051208/b56d8146-36ea-45b9-827b-784ce9e7fdd9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b56d8146-36ea-45b9-827b-784ce9e7fdd9/20241023T051208/b56d8146-36ea-45b9-827b-784ce9e7fdd9_360x203.jpg)](https://www.king5.com/article/news/local/marysville-school-district-holds-first-public-meeting-potential-closures/281-7287212f-7152-4d90-b479-199869ade2f2)
         
-        #### [The historic Auburn Avenue Theater is now being demolished](https://www.king5.com/article/news/local/historic-auburn-avenue-theater-being-demolished/281-5cc1ad38-538f-4d85-9ef0-c5676459f09c)
+        #### [Marysville School District holds first community meeting over potential closures](https://www.king5.com/article/news/local/marysville-school-district-holds-first-public-meeting-potential-closures/281-7287212f-7152-4d90-b479-199869ade2f2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+47°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
