@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Plano special education teacher injured in motorcycle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/9pm-tz-plano-isd-teacher-injured_00.00.01.34.jpg?ve=1&tl=1)
+ [![Shohei Ohtani’s 50/50 home run ball sells for nearly $4.4 million at NJ auction house](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-23-07h59m59s795.jpg?ve=1&tl=1)
 
- ![Plano special education teacher injured in motorcycle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/9pm-tz-plano-isd-teacher-injured_00.00.01.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-east-teacher-anthony-ruttenburg-motorcycle-crash)
+ ![Shohei Ohtani’s 50/50 home run ball sells for nearly $4.4 million at NJ auction house](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-23-07h59m59s795.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shohei-ohtanis-50-50-home-run-ball-sells-nearly-4-4-million-nj-auction-house)
 
-### [Plano special education teacher injured in motorcycle crash](https://www.fox4news.com/news/plano-east-teacher-anthony-ruttenburg-motorcycle-crash)
+### [Shohei Ohtani’s 50/50 home run ball sells for nearly $4.4 million at NJ auction house](https://www.fox4news.com/news/shohei-ohtanis-50-50-home-run-ball-sells-nearly-4-4-million-nj-auction-house)
 
- [![Suspicious parents likely stopped pediatrician's assistant from victimizing more children, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1)
+ [![Record heat and no rain: DFW faces second-hottest October in history](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/record-highs.png?ve=1&tl=1)
 
- ![Suspicious parents likely stopped pediatrician's assistant from victimizing more children, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/angel-nunez-little-spurs-pediatrics-potential-victims)
+ ![Record heat and no rain: DFW faces second-hottest October in history](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/record-highs.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dfw-second-warmest-october-record-no-rain-cooldowns-sight)
 
-### [Suspicious parents likely stopped pediatrician's assistant from victimizing more children, police say](https://www.fox4news.com/news/angel-nunez-little-spurs-pediatrics-potential-victims)
+### [Record heat and no rain: DFW faces second-hottest October in history](https://www.fox4news.com/weather/dfw-second-warmest-october-record-no-rain-cooldowns-sight)
 
- [![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mcdonalds-quarter-pounder.jpg?ve=1&tl=1)
+ [![Harvey Weinstein due back in court for hearing ahead of retrial](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/GettyImages-994565124.jpg?ve=1&tl=1)
 
- ![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mcdonalds-quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
+ ![Harvey Weinstein due back in court for hearing ahead of retrial](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/592/333/GettyImages-994565124.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-harvey-weinstein-court-hearing-retrial)
 
-### [1 killed, dozens sick after E.coli outbreak linked to McDonald’s Quarter Pounder, CDC says](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
+### [Harvey Weinstein due back in court for hearing ahead of retrial](https://www.fox4news.com/news/nyc-harvey-weinstein-court-hearing-retrial)
 
- [![Denny’s expects to close 150 locations by end of 2025](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/dennys-getty.jpg?ve=1&tl=1)
+ [![Walmart employee found dead inside walk-in oven at store: police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/walmart.jpg?ve=1&tl=1)
 
- ![Denny’s expects to close 150 locations by end of 2025](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/dennys-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dennys-expects-close-150-locations-end-2025)
+ ![Walmart employee found dead inside walk-in oven at store: police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/walmart.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/walmart-employee-found-dead-inside-walk-in-oven-store-police)
 
-### [Denny’s expects to close 150 locations by end of 2025](https://www.fox4news.com/news/dennys-expects-close-150-locations-end-2025)
+### [Walmart employee found dead inside walk-in oven at store: police](https://www.fox4news.com/news/walmart-employee-found-dead-inside-walk-in-oven-store-police)
 
- [![DoorDash reveals the most popular Halloween candy in every state](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/halloween-candy-gfx.jpg?ve=1&tl=1)
+ [![Dodgers legend Fernando Valenzuela dies at 63](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/getty-fernando-valenzuela.jpg?ve=1&tl=1)
 
- ![DoorDash reveals the most popular Halloween candy in every state](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/halloween-candy-gfx.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/doordash-reveals-most-popular-halloween-candy-every-state)
+ ![Dodgers legend Fernando Valenzuela dies at 63](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/getty-fernando-valenzuela.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/fernando-valenzuela-dodgers-dies)
 
-### [DoorDash reveals the most popular Halloween candy in every state](https://www.fox4news.com/news/doordash-reveals-most-popular-halloween-candy-every-state)
+### [Dodgers legend Fernando Valenzuela dies at 63](https://www.fox4news.com/sports/fernando-valenzuela-dodgers-dies)
 
 ###### [News](https://www.fox4news.com/news)
 
