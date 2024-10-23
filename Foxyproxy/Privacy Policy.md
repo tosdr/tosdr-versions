@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I only had 2 hours downtime for the entire 90 days of my subscription. I'm going to signup again. Thanks FoxyProxy!
+Super fast customer care.
 
-Alblarion155
+Mike Stange
