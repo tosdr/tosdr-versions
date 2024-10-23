@@ -12,9 +12,9 @@
     [Connexion](https://www.microspot.ch/fr/account/login)[S’enregistrer](https://www.microspot.ch/fr/account/registration)[Comparaison de produit](https://www.microspot.ch/fr/comparison)[Liste mémo](https://www.microspot.ch/fr/watchlist)[Panier d\`achat](https://www.microspot.ch/fr/cart)
     
 
-* [DE](https://www.microspot.ch/de/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* [FR](https://www.microspot.ch/fr/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* [IT](https://www.microspot.ch/it/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [DE](https://www.microspot.ch/de?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [FR](https://www.microspot.ch/fr?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [IT](https://www.microspot.ch/it?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
 
 [interdiscount.ch
 
@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/1584.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/6997.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -304,9 +304,9 @@ Programmes partenaires
 
 [![](/next-assets/images/logos/supercard.svg)Supercard](https://www.microspot.ch/fr/cms/supercard)[![](/next-assets/images/logos/euronics.svg)](https://www.euronics.com/)
 
-* [Deutsch](https://www.microspot.ch/de/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* ·[Français](https://www.microspot.ch/fr/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* ·[Italiano](https://www.microspot.ch/it/?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [Deutsch](https://www.microspot.ch/de?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* ·[Français](https://www.microspot.ch/fr?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* ·[Italiano](https://www.microspot.ch/it?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
 
 * © 2024·
 * [CGV](https://www.microspot.ch/fr/cms/entreprise/cgv)·
