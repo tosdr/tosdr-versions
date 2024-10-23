@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-your service, both technically as well as support service has been exceptional the entire time of subscription.
+I love my FoxyProxy, I travel a lot around the Middle East and often find news articles and information blocked, and also many countries block access to my Skype account pages, but FP has never let me down!
 
-Todd Kopecki
+Mal Collins
