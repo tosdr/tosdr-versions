@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Arizona Officials: It Will Take Nearly 2 Weeks to Tabulate 2024 Election in Maricopa](https://www.theepochtimes.com/us/arizona-officials-it-will-take-nearly-2-weeks-to-tabulate-2024-election-in-maricopa-5746395)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Arizona Officials: It Will Take Nearly 2 Weeks to Tabulate 2024 Election in Maricopa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Arizona Officials: It Will Take Nearly 2 Weeks to Tabulate 2024 Election in Maricopa](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690649-GettyImages-1439826650-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/arizona-officials-it-will-take-nearly-2-weeks-to-tabulate-2024-election-in-maricopa-5746395)
+* [Aerospace Facility in Ankara Attacked by Terrorists, Casualties Confirmed: Turkish Officials](https://www.theepochtimes.com/world/aerospace-facility-in-ankara-attacked-by-terrorists-casualties-confirmed-turkish-officials-5746416)
+    
+    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Aerospace Facility in Ankara Attacked by Terrorists, Casualties Confirmed: Turkish Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Aerospace Facility in Ankara Attacked by Terrorists, Casualties Confirmed: Turkish Officials](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746427-GettyImages-2179641848-205x123.jpg.webp)](https://www.theepochtimes.com/world/aerospace-facility-in-ankara-attacked-by-terrorists-casualties-confirmed-turkish-officials-5746416)
+* [More Republicans Voting Early in 2024; More Than 20 Million Ballots Cast](https://www.theepochtimes.com/us/more-republicans-voting-early-in-2024-more-than-20-million-ballots-cast-5746314)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![More Republicans Voting Early in 2024; More Than 20 Million Ballots Cast](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![More Republicans Voting Early in 2024; More Than 20 Million Ballots Cast](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744982-NV-Vote-Polls_JF_10192024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-republicans-voting-early-in-2024-more-than-20-million-ballots-cast-5746314)
+* [Six People Indicted in Ohio for Allegedly Voting as Noncitizens](https://www.theepochtimes.com/us/six-people-indicted-in-ohio-for-allegedly-voting-as-noncitizens-5746277)
+    
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Six People Indicted in Ohio for Allegedly Voting as Noncitizens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Six People Indicted in Ohio for Allegedly Voting as Noncitizens](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712045-GettyImages-1207464500KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/six-people-indicted-in-ohio-for-allegedly-voting-as-noncitizens-5746277)
+* [Wisconsin Election Agency Confirms System ‘Outages’ on First Day of Early Voting](https://www.theepochtimes.com/us/wisconsin-election-agency-confirms-system-outages-on-first-day-of-early-voting-5746335)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Wisconsin Election Agency Confirms System ‘Outages’ on First Day of Early Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Wisconsin Election Agency Confirms System ‘Outages’ on First Day of Early Voting](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745790-Wisconsin-early-voting-GettyImages-2179471535-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-election-agency-confirms-system-outages-on-first-day-of-early-voting-5746335)
+* [Georgia Supreme Court Rejects GOP Bid to Reinstate State Election Rules](https://www.theepochtimes.com/us/georgia-supreme-court-rejects-gop-bid-to-reinstate-state-election-rules-5746180)
+    
+    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Georgia Supreme Court Rejects GOP Bid to Reinstate State Election Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Supreme Court Rejects GOP Bid to Reinstate State Election Rules](https://img.theepochtimes.com/assets/uploads/2024/04/12/id5628153-GettyImages-1230123473-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-supreme-court-rejects-gop-bid-to-reinstate-state-election-rules-5746180)
+* [Over 7,000 Antidepressants Recalled Over Potentially Cancer-Causing Chemical](https://www.theepochtimes.com/us/over-7000-antidepressants-recalled-over-potentially-cancer-causing-chemical-5746178)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Over 7,000 Antidepressants Recalled Over Potentially Cancer-Causing Chemical](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Over 7,000 Antidepressants Recalled Over Potentially Cancer-Causing Chemical](https://img.theepochtimes.com/assets/uploads/2023/06/23/id5351924-Abortion_Pill_Wyoming_23172833853953-205x123.jpg.webp)](https://www.theepochtimes.com/us/over-7000-antidepressants-recalled-over-potentially-cancer-causing-chemical-5746178)
+* [Trump Campaign Files Complaint Accusing UK Labour Party of ‘Foreign Interference’](https://www.theepochtimes.com/us/trump-campaign-files-complaint-accusing-uk-labour-party-of-foreign-interference-5746086)
+    
+    4hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Trump Campaign Files Complaint Accusing UK Labour Party of ‘Foreign Interference’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Campaign Files Complaint Accusing UK Labour Party of ‘Foreign Interference’](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745718-GettyImages-2180039297-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-campaign-files-complaint-accusing-uk-labour-party-of-foreign-interference-5746086)
 * [6 Takeaways from Harris Interview on NBC](https://www.theepochtimes.com/us/6-takeaways-from-harris-interview-on-nbc-5745927)
     
-    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
     [![6 Takeaways from Harris Interview on NBC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![6 Takeaways from Harris Interview on NBC](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745755-GettyImages-2179224084-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/6-takeaways-from-harris-interview-on-nbc-5745927)
-* [Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
+* [Trump’s Mid-October Poll Surge Surfaced 2 Weeks Ago in Predictive Markets](https://www.theepochtimes.com/us/trumps-mid-october-poll-surge-surfaced-2-weeks-ago-in-predictive-markets-5746044)
     
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    11hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump’s Mid-October Poll Surge Surfaced 2 Weeks Ago in Predictive Markets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745553-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
-* [Tulsi Gabbard Announces Switch to GOP](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
-    
-    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Tulsi Gabbard Announces Switch to GOP](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tulsi Gabbard Announces Switch to GOP](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746131-Gabbard-GettyImages-2180363808-205x123.jpg.webp)](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
-* [Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://www.theepochtimes.com/business/tariffs-would-raise-consumer-prices-harm-us-exports-yellen-5745839)
-    
-    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://img.theepochtimes.com/assets/uploads/2024/02/14/id5587413-GettyImages-1910715167-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/tariffs-would-raise-consumer-prices-harm-us-exports-yellen-5745839)
-* [Election Battles for State Legislature Supermajorities Heat Up](https://www.theepochtimes.com/article/election-battles-for-state-legislature-supermajorities-heat-up-5743892)
-    
-    8hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Election Battles for State Legislature Supermajorities Heat Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Election Battles for State Legislature Supermajorities Heat Up](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745903-US_State-supermajorities-205x123.jpg.webp)](https://www.theepochtimes.com/article/election-battles-for-state-legislature-supermajorities-heat-up-5743892)
-* [Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://www.theepochtimes.com/us/biden-highlights-prescription-drug-savings-in-new-hampshire-speech-5746026)
-    
-    9hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5746029-Biden-and-Bernie-Sanders-in-NH-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-highlights-prescription-drug-savings-in-new-hampshire-speech-5746026)
-* [Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://www.theepochtimes.com/china/taiwan-rejects-south-africas-demand-to-move-de-facto-embassy-from-capital-5745652)
-    
-    11hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5746038-Lin-Chia-LungKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-rejects-south-africas-demand-to-move-de-facto-embassy-from-capital-5745652)
-* [5 Exercises to Help You Feel Young in Your 50s](https://www.theepochtimes.com/health/5-exercises-to-help-you-feel-young-in-your-50s-5696162)
-    
-    12hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
-    
-    [![5 Exercises to Help You Feel Young in Your 50s](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Exercises to Help You Feel Young in Your 50s](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742782-GettyImages-1425645837-205x123.jpg.webp)](https://www.theepochtimes.com/health/5-exercises-to-help-you-feel-young-in-your-50s-5696162)
-* [Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://www.theepochtimes.com/article/day-in-photos-a-military-send-off-a-dispersing-flock-of-pigeons-and-a-building-collapse-5745653)
-    
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745977-GettyImages-2179480422-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-military-send-off-a-dispersing-flock-of-pigeons-and-a-building-collapse-5745653)
-* [McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
-    
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/uploads/2022/07/1.download-195-205x123.jpg.webp)](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
+    ![Trump’s Mid-October Poll Surge Surfaced 2 Weeks Ago in Predictive Markets](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720809-trump-kamala-harris-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-mid-october-poll-surge-surfaced-2-weeks-ago-in-predictive-markets-5746044)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
