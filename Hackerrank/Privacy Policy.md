@@ -93,6 +93,10 @@ Discover the universities with top developer talent. Based on 860,000 student te
         
     * Product Help
         
+        * [October Release](https://www.hackerrank.com/release/october-2024)
+            
+            Discover what's new with HackerRank.
+            
         * [Responsible AI](https://www.hackerrank.com/about-us/responsible-ai/)
             
             Learn more about how we work with AI.
