@@ -14,7 +14,6 @@
 * [บอลสเต็ป](https://achiq.org/%e0%b9%81%e0%b8%97%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%9b/)
 * [บอลสด](https://achiq.org/%e0%b9%81%e0%b8%97%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b8%94/)
 * [สมัครสมาชิก](https://achiq.org/%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%aa%e0%b8%a1%e0%b8%b2%e0%b8%8a%e0%b8%b4%e0%b8%81/)
-* [คู่มือใช้งาน](https://achiq.org/category/blog/)
 * [Sitemap](https://achiq.org/sitemap_index.xml)
 
 Menu
@@ -27,7 +26,6 @@ Menu
 * [บอลสเต็ป](https://achiq.org/%e0%b9%81%e0%b8%97%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%9b/)
 * [บอลสด](https://achiq.org/%e0%b9%81%e0%b8%97%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b8%94/)
 * [สมัครสมาชิก](https://achiq.org/%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3%e0%b8%aa%e0%b8%a1%e0%b8%b2%e0%b8%8a%e0%b8%b4%e0%b8%81/)
-* [คู่มือใช้งาน](https://achiq.org/category/blog/)
 * [Sitemap](https://achiq.org/sitemap_index.xml)
 
 แทงบอลออนไลน์ ครบทุกแมตช์ กับ เว็บไซต์ที่ได้มาตรฐาน
