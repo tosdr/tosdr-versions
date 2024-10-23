@@ -10,7 +10,7 @@ Call For a Free Consultation **•** Available 24/7 [253-627-4696](tel:+12536274
     * [Client Testimonials](https://www.pugetlawgroup.com/testimonials/)
     * [Scholarships](https://www.pugetlawgroup.com/scholarships/)
 * [Practice Areas](https://www.pugetlawgroup.com/practice-areas/)
-    * [Criminal Defense](#)
+    * [Criminal Defense](https://www.pugetlawgroup.com/)
         * [Homicide Charges](https://www.pugetlawgroup.com/seattle-wa/homicide-charges-lawyer/)
             * [Murder Defense](https://www.pugetlawgroup.com/seattle-wa/homicide-charges-lawyer/murder/)
             * [Manslaughter](https://www.pugetlawgroup.com/seattle-wa/homicide-charges-lawyer/manslaughter/)
@@ -167,7 +167,7 @@ Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is 
     
     By checking this box I agree to receive communication from Puget Law Group and agree to our [Privacy Policy](https://www.pugetlawgroup.com/privacy-policy/) and [Terms of Use](https://www.pugetlawgroup.com/terms-of-use/).
     
-* Comments
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
