@@ -304,10 +304,10 @@ Trending Now
     
     Quick view](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report")
     
-    [Cardiovascular Report](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report") $29.00 /
+    [Cardiovascular Report](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report") $34.99 /
     
 * [![Circadian Report](//us.dantelabs.com/cdn/shop/files/circadian-report-549583.jpg?v=1714589968&width=20)
     
     Quick view](https://us.dantelabs.com/products/circadian-panel "Circadian Report")
     
-    [Circadian Report](https://us.dantelabs.com/products/circadian-panel "Circadian Report") $29.00 /
+    [Circadian Report](https://us.dantelabs.com/products/circadian-panel "Circadian Report") $34.99 /
