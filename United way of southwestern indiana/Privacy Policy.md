@@ -187,7 +187,7 @@ United Way reserves the right to change this Privacy Policy from time to time. 
 
 If you have questions about this Policy or wish to review, update, correct or delete your information or opt out of receiving future communications, you may contact United Way at 812-422-4100.
 
-![](https://unitedwayswi.org/wp-content/uploads/2020/08/UWSWI_Logo_WebsiteOnly_RGB_Horiz.png)
+![](https://unitedwayswi.org/wp-content/uploads/2024/10/2-LINE-UW-First-RGB-United-Way-Logo-Localization-Tool-1024x353.png)
 
 United Way of Southwestern Indiana  
 318 Main Street, Suite 504  
