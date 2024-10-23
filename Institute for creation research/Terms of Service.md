@@ -166,6 +166,32 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/SandDollar_1400x1050.jpg)](https://www.icr.org/article/sand-dollar-secrets)
+
+[Sand Dollar Secrets](https://www.icr.org/article/sand-dollar-secrets/)
+
+Combing the sea shore for shells is a beloved activity of all ages. Sand dollars are one of the most prized treasures found at the beach. The off-white...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
+[![](/i/Main%20Stage%20-%201400x1050/bigbangunravel_1400x1050.jpg)](https://www.icr.org/article/big-bang-unraveling)
+
+[New York Times Editorial: Big Bang Unraveling?](https://www.icr.org/article/big-bang-unraveling/)
+
+Two physicists have suggested in a recent New York Times guest editorial that Big Bang cosmology ‘may be starting to unravel.’1...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/MartianLander_1400x1050)](https://www.icr.org/article/martian-lander-discovers)
+
+[Martian Lander Discovers "Surprising" Martian.,.](https://www.icr.org/article/martian-lander-discovers/)
+
+The InSight robotic lander found evidence in the interior of Mars for the existence of an active giant mantle plume, a large blob of molten rock that...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
