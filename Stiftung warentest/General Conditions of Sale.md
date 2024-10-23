@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
+* [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 
 test.de entdecken
 
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
+* [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 
 test.de entdecken
 
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
+* [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 
 test.de entdecken
 
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Neueste Tests
 
+* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
+* [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 
 test.de entdecken
 
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Service Stiftung Warentest
 
