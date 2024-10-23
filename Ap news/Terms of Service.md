@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
+    * [Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f)
     * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
-    * [US defense chief Austin says there’s evidence North Korea has sent troops to Russia](https://apnews.com/article/north-korea-russia-troops-ukraine-b664f8c1164e9ef859b7a618ffa92140)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
     * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
-    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
+    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris speaks about creating economic opportunity for Latino men; Trump airs familiar grievances](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
-    * [How Project 2025 started and where it aims to go next](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
-    * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
+    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
+    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Charlie Kirk and his group Turning Point take center stage in Donald Trump's campaign](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
     * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
-    * [A Supreme Court reshaped by Trump has a low profile in this presidential campaign](https://apnews.com/article/supreme-court-presidential-election-trump-harris-ed91f084599d0f25b00f44bb71620528)
-    * [In Pennsylvania, an influx of college graduates could push a key county toward Harris](https://apnews.com/article/election-battleground-centre-county-pennsylvania-harris-trump-99648a481dcd5fca8580a86a271e14dc)
+    * [Efforts by Russia, Iran and China to sway US voters may escalate, new Microsoft report says](https://apnews.com/article/russia-china-iran-disinformation-election-ef9b5155349d496e00513e7b3bc3fc07)
     
     Newsletters
     
@@ -94,7 +94,7 @@ Menu
     
     * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
     * [LeBron and Bronny James make NBA history](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
-    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
+    * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Navalny's memoir details isolation and suffering in a Russian prison — and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
-    * [Harvey Weinstein due back in court for hearing ahead of retrial](https://apnews.com/article/harvey-weinstein-sex-crimes-charges-new-york-d47bcb965b6721ee022ae14da1216bc3)
-    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
+    * [‘Georgie & Mandy’s First Marriage’ expands the 'Big Bang Theory' universe](https://apnews.com/article/georgie-mandys-first-marriage-show-young-sheldon-6886e903b608c8f72ab4bd5ed3251d71)
+    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
+    * [They made 36 million Corn Poppers. Here's how they pick the right ones for the Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
     * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
-    * [Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
-    * [Financial cooperation and BRICS expansion are on the table as Putin hosts Global South leaders](https://apnews.com/article/russia-putin-brics-summit-china-india-d672be9b1ec2ffd0fba608e8a6aca790)
+    * [Boeing reports $6 billion quarterly loss as striking workers vote whether to accept contract offer](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
     
 * [Science](https://apnews.com/science)
     
@@ -181,17 +181,17 @@ Menu
     
     [AP News Alerts
     
-    Keep your pulse on the news with breaking news alerts from The AP.](https://apnews.com/newsletters)[AP Top 25 Poll Alerts
-    
-    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[The Morning Wire
+    Keep your pulse on the news with breaking news alerts from The AP.](https://apnews.com/newsletters)[The Morning Wire
     
     Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[Ground Game
     
     Exclusive insights and key stories from the world of politics.](https://apnews.com/newsletters)[Beyond the Story
     
-    Executive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://apnews.com/newsletters)[The Afternoon Wire
+    Executive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://apnews.com/newsletters)[AP Top 25 Poll Alerts
     
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)
+    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[AP Top 25 Women's Basketball Poll Alerts
+    
+    Women's college basketball poll alerts and updates.](https://apnews.com/newsletters)
     
     [See All Newsletters](https://apnews.com/newsletters)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [As coal plants shut in Romania, some miners transition to green energy while others are reluctant](https://apnews.com/article/coal-energy-transition-romania-715c79d312dc62bf5a5ef0d68e32d6fd)
     * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
     * [Researchers in a lab near Lake Erie study how toxic algae can damage health](https://apnews.com/article/algae-blooms-lake-erie-ohio-toxic-research-46c619290204edb55174d8de291462b6)
-    * [Environmental delegates gather in Colombia for a conference on dwindling global biodiversity](https://apnews.com/article/un-biodiversity-species-extinction-habitats-conservation-a188a2f1c6319e16ad4f7071a0fc8572)
     
 * [Health](https://apnews.com/health)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Orange and black... and pink and purple. Some twists for creative Halloween parties](https://apnews.com/article/creative-halloween-party-ideas-themes-3060475021de38074a1eb80cc6bfb87e)
     * [Edmunds: These are the best lightly used hybrid cars, SUVs and trucks](https://apnews.com/article/used-hybrids-vehicles-buy-shop-1358f02ef28d2a957ef84989106a9790)
     * [US fines American Airlines $50 million over mishandling of disabled passengers and wheelchairs](https://apnews.com/article/american-airlines-fined-disabilities-wheelchairs-ee35b40ac14eb8c79bd0ddea31a1053c)
-    * [A look behind the scenes at the National Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Fallout from 2023 Hamas attack lingers as Jews worldwide prepare for a holiday meant for joy](https://apnews.com/article/simchat-torah-joy-sorrow-october-attack-israel-440b94d8f49838568920e801763f4c4a)
-    * [Malaysia charges 22 members of an Islamic business group, including its CEO, for organized crime](https://apnews.com/article/malaysia-child-sex-abuse-ceo-charged-9ab82ca60b3bd5e9bb15839c46e8ed71)
-    * [Burial held for Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-ca260bfaadc0791f8f07e419f7e4c59a)
+    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
+    * [Peruvian theologian the Rev. Gustavo Gutiérrez, father of influential liberation theology, has died](https://apnews.com/article/liberation-theology-gustavo-gutierrez-peru-catholic-obituary-f12193d0590feb97623dda91f21f42e7)
+    * [Louisiana's 2020 Teacher of the Year is trying to block the state's Ten Commandments law](https://apnews.com/article/louisiana-lawsuit-ten-commandments-school-classroom-ef68c90769b00ac6e6da50c2f81c32b8)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel ataca una ciudad costera libanesa tras la evacuación de residentes](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
+    * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
     * [El secretario de Defensa de EEUU confirma que Corea del Norte ha enviado soldados a Rusia](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
     * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Putin recibe al Sur Global en cumbre de los BRICS que hablará de expansión y cooperación financiera](https://apnews.com/article/cumbre-brics-putin-rusia-china-india-97c2bf581ce3f969b42788a89f975979)
-    * [Boeing reporta enormes pérdidas debido a huelgas](https://apnews.com/article/boeing-perdidas-huelga-5f4c4f3a26c7463113c58faf52e2da2d)
-    * [Un ruso es acusado de matar a puñaladas a dos soldados ucranianos en Alemania](https://apnews.com/article/ucrania-alemania-soldados-muertos-29a195637689263ad9551c7ba0d5d931)
+    * [Tormenta tropical en Filipinas inunda ciudades y causa varios muertos](https://apnews.com/article/filipinas-tormenta-trami-inundaciones-ca92eed033772516a14e030b9f0ae6e8)
+    * [Bielorrusia anuncia elecciones; Lukashenko buscará 7mo mandato](https://apnews.com/article/bielorrusia-elecciones-lukashenko-50da4131f5dddf8134dfa40e6eabb951)
+    * [Anuncio de Harris nuestra a mujer de Texas que casi muere de sepsis por leyes antiaborto](https://apnews.com/article/harris-aborto-eeuu-elecciones-26c77f1839549d33cf57e2160db0246c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -461,8 +461,8 @@ Submit Search
     TOP STORIES
     
     * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
+    * [Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f)
     * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
-    * [US defense chief Austin says there’s evidence North Korea has sent troops to Russia](https://apnews.com/article/north-korea-russia-troops-ukraine-b664f8c1164e9ef859b7a618ffa92140)
     
     Newsletters
     
@@ -480,7 +480,7 @@ Submit Search
     
     * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
     * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
-    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
+    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris speaks about creating economic opportunity for Latino men; Trump airs familiar grievances](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
-    * [How Project 2025 started and where it aims to go next](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
-    * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
+    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
+    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Charlie Kirk and his group Turning Point take center stage in Donald Trump's campaign](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
     * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
-    * [A Supreme Court reshaped by Trump has a low profile in this presidential campaign](https://apnews.com/article/supreme-court-presidential-election-trump-harris-ed91f084599d0f25b00f44bb71620528)
-    * [In Pennsylvania, an influx of college graduates could push a key county toward Harris](https://apnews.com/article/election-battleground-centre-county-pennsylvania-harris-trump-99648a481dcd5fca8580a86a271e14dc)
+    * [Efforts by Russia, Iran and China to sway US voters may escalate, new Microsoft report says](https://apnews.com/article/russia-china-iran-disinformation-election-ef9b5155349d496e00513e7b3bc3fc07)
     
     Newsletters
     
@@ -564,7 +564,7 @@ Submit Search
     
     * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
     * [LeBron and Bronny James make NBA history](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
-    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
+    * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Navalny's memoir details isolation and suffering in a Russian prison — and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
-    * [Harvey Weinstein due back in court for hearing ahead of retrial](https://apnews.com/article/harvey-weinstein-sex-crimes-charges-new-york-d47bcb965b6721ee022ae14da1216bc3)
-    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
+    * [‘Georgie & Mandy’s First Marriage’ expands the 'Big Bang Theory' universe](https://apnews.com/article/georgie-mandys-first-marriage-show-young-sheldon-6886e903b608c8f72ab4bd5ed3251d71)
+    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
+    * [They made 36 million Corn Poppers. Here's how they pick the right ones for the Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
+    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
     * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
-    * [Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
-    * [Financial cooperation and BRICS expansion are on the table as Putin hosts Global South leaders](https://apnews.com/article/russia-putin-brics-summit-china-india-d672be9b1ec2ffd0fba608e8a6aca790)
+    * [Boeing reports $6 billion quarterly loss as striking workers vote whether to accept contract offer](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
     
 * [Science](https://apnews.com/science)
     
@@ -669,17 +669,17 @@ Submit Search
     
     [AP News Alerts
     
-    Keep your pulse on the news with breaking news alerts from The AP.](https://apnews.com/newsletters)[AP Top 25 Poll Alerts
-    
-    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[The Morning Wire
+    Keep your pulse on the news with breaking news alerts from The AP.](https://apnews.com/newsletters)[The Morning Wire
     
     Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[Ground Game
     
     Exclusive insights and key stories from the world of politics.](https://apnews.com/newsletters)[Beyond the Story
     
-    Executive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://apnews.com/newsletters)[The Afternoon Wire
+    Executive Editor Julie Pace brings you behind the scenes of the AP newsroom.](https://apnews.com/newsletters)[AP Top 25 Poll Alerts
     
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)
+    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[AP Top 25 Women's Basketball Poll Alerts
+    
+    Women's college basketball poll alerts and updates.](https://apnews.com/newsletters)
     
     [See All Newsletters](https://apnews.com/newsletters)
     
@@ -731,9 +731,9 @@ Submit Search
     
     TOP STORIES
     
+    * [As coal plants shut in Romania, some miners transition to green energy while others are reluctant](https://apnews.com/article/coal-energy-transition-romania-715c79d312dc62bf5a5ef0d68e32d6fd)
     * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
     * [Researchers in a lab near Lake Erie study how toxic algae can damage health](https://apnews.com/article/algae-blooms-lake-erie-ohio-toxic-research-46c619290204edb55174d8de291462b6)
-    * [Environmental delegates gather in Colombia for a conference on dwindling global biodiversity](https://apnews.com/article/un-biodiversity-species-extinction-habitats-conservation-a188a2f1c6319e16ad4f7071a0fc8572)
     
 * [Health](https://apnews.com/health)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Orange and black... and pink and purple. Some twists for creative Halloween parties](https://apnews.com/article/creative-halloween-party-ideas-themes-3060475021de38074a1eb80cc6bfb87e)
     * [Edmunds: These are the best lightly used hybrid cars, SUVs and trucks](https://apnews.com/article/used-hybrids-vehicles-buy-shop-1358f02ef28d2a957ef84989106a9790)
     * [US fines American Airlines $50 million over mishandling of disabled passengers and wheelchairs](https://apnews.com/article/american-airlines-fined-disabilities-wheelchairs-ee35b40ac14eb8c79bd0ddea31a1053c)
-    * [A look behind the scenes at the National Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Fallout from 2023 Hamas attack lingers as Jews worldwide prepare for a holiday meant for joy](https://apnews.com/article/simchat-torah-joy-sorrow-october-attack-israel-440b94d8f49838568920e801763f4c4a)
-    * [Malaysia charges 22 members of an Islamic business group, including its CEO, for organized crime](https://apnews.com/article/malaysia-child-sex-abuse-ceo-charged-9ab82ca60b3bd5e9bb15839c46e8ed71)
-    * [Burial held for Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-ca260bfaadc0791f8f07e419f7e4c59a)
+    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
+    * [Peruvian theologian the Rev. Gustavo Gutiérrez, father of influential liberation theology, has died](https://apnews.com/article/liberation-theology-gustavo-gutierrez-peru-catholic-obituary-f12193d0590feb97623dda91f21f42e7)
+    * [Louisiana's 2020 Teacher of the Year is trying to block the state's Ten Commandments law](https://apnews.com/article/louisiana-lawsuit-ten-commandments-school-classroom-ef68c90769b00ac6e6da50c2f81c32b8)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel ataca una ciudad costera libanesa tras la evacuación de residentes](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
+    * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
     * [El secretario de Defensa de EEUU confirma que Corea del Norte ha enviado soldados a Rusia](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
     * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Putin recibe al Sur Global en cumbre de los BRICS que hablará de expansión y cooperación financiera](https://apnews.com/article/cumbre-brics-putin-rusia-china-india-97c2bf581ce3f969b42788a89f975979)
-    * [Boeing reporta enormes pérdidas debido a huelgas](https://apnews.com/article/boeing-perdidas-huelga-5f4c4f3a26c7463113c58faf52e2da2d)
-    * [Un ruso es acusado de matar a puñaladas a dos soldados ucranianos en Alemania](https://apnews.com/article/ucrania-alemania-soldados-muertos-29a195637689263ad9551c7ba0d5d931)
+    * [Tormenta tropical en Filipinas inunda ciudades y causa varios muertos](https://apnews.com/article/filipinas-tormenta-trami-inundaciones-ca92eed033772516a14e030b9f0ae6e8)
+    * [Bielorrusia anuncia elecciones; Lukashenko buscará 7mo mandato](https://apnews.com/article/bielorrusia-elecciones-lukashenko-50da4131f5dddf8134dfa40e6eabb951)
+    * [Anuncio de Harris nuestra a mujer de Texas que casi muere de sepsis por leyes antiaborto](https://apnews.com/article/harris-aborto-eeuu-elecciones-26c77f1839549d33cf57e2160db0246c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
