@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/rusland-sancties-volslagen-onzin-brics-sleutel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-verhaal-van-enki-enlil/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
