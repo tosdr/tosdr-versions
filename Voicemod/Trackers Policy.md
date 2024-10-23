@@ -151,7 +151,7 @@ Here are some examples:
 HOW CAN YOU CHANGE THE COOKIES SETTINGS AND REJECT OR DISABLE COOKIES?
 ----------------------------------------------------------------------
 
-Users can configure their consent for certain cookies to be used or not by clicking here, or through the pop-up that appears at the bottom of the page, as soon as they access [voicemod.net](http://voicemod.net/).
+Users can configure their consent for certain cookies to be used or not by clicking here, or through the pop-up that appears at the bottom of the page, as soon as they access [Voicemod.net](https://www.voicemod.net/).
 
 You can also find out how to manage cookies in the most common browsers by clicking on the links below:
 
