@@ -128,7 +128,6 @@
     * [Nutrition Information Nutrition Information](#)
         * [Our Nutrition Story](https://www.pepsico.com/our-brands/creating-smiles/our-nutrition-story)
         * [PepsiCo Smart LabelPepsiCo Smart Label](https://pepsicosmartlabel.com/)
-        * [PepsiCo Beverage FactsPepsiCo Beverage Facts](https://www.pepsicobeveragefacts.com/)
         * [PepsiCo Product FactsPepsiCo Product Facts](https://www.pepsicoproductfacts.com/)
         * [PepsiCo Health and Nutrition SciencesPepsiCo Health and Nutrition Sciences](https://pepsicohealthandnutritionsciences.com/)
     * [Government & Policy Government & Policy](#)
@@ -401,7 +400,7 @@ Close 1-Atoms/icons/close@3x
 © PepsiCo 20 [Terms of Use](https://www.pepsico.com/legal/terms-of-use) [Privacy Policy](https://www.pepsico.com/legal/privacy) [Accessibility Statement](https://www.pepsico.com/legal/accessibility-statement) [About Our Ads](https://www.pepsico.com/legal/about-our-ads) [Modern Slavery Statement](https://www.pepsico.com/docs/default-source/sustainability-and-esg-topics/2023-pepsico-modern-slavery-and-human-trafficking-statement.pdf)
 
 * [Frito Lay](https://www.fritolay.com/)
-* [PepsiCo Beverage Facts](http://www.pepsicobeveragefacts.com/)
+* [PepsiCo Product Facts](https://www.pepsicoproductfacts.com/)
 * [PepsiCo Partners](https://www.pepsicopartners.com/)
 * [PepsiCo Labs](https://labs.pepsico.com/)
 * [PepsiCo Design](http://design.pepsico.com/)
