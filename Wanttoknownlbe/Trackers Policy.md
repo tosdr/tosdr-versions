@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-verhaal-van-enki-enlil/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/moongate/moongate-bizarre-maangeologie-en-atmosfeer/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
