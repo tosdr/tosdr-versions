@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service! Been watching Match of the Day and X Factor whilst in Japan! Much faster all round than the slow free proxies available online.
+Thanks for the quick response, your team is awesome.
 
-James Bevan
+Dennis Cote
