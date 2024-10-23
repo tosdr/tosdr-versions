@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_360x203.jpg)](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ff10bda5-4c74-4821-85f6-5c6c221551bf/ff10bda5-4c74-4821-85f6-5c6c221551bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ff10bda5-4c74-4821-85f6-5c6c221551bf/ff10bda5-4c74-4821-85f6-5c6c221551bf_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/iowa-agritourism-growing-industry-agriculture-pumpkin-patches-apple-orchard/526-885f7727-1eaa-4b42-8bff-6136ade35825)
         
-        #### ['There's anonymity' l Narcan vending machines expand Knox County's push to curb overdoses](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
+        #### [In Iowa, agritourism is growing into a big, booming business](https://www.wqad.com/article/news/local/the-current/iowa-agritourism-growing-industry-agriculture-pumpkin-patches-apple-orchard/526-885f7727-1eaa-4b42-8bff-6136ade35825)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_360x203.jpg)](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae5056b9-25a0-4f60-b264-18dc8bf3ce22/20241023T193249/ae5056b9-25a0-4f60-b264-18dc8bf3ce22_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae5056b9-25a0-4f60-b264-18dc8bf3ce22/20241023T193249/ae5056b9-25a0-4f60-b264-18dc8bf3ce22_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/lady-blues-girls-hockey-high-school-team-home-opener-raising-money-gray-matters-collective/526-df181d9a-899f-49cc-9902-3586f15f752f)
         
-        #### [They're not ladybugs! What you need to know about Asian Lady Beetles](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
+        #### [The Lady Blues girls hockey team will raise money for mental health at home opener](https://www.wqad.com/article/news/local/the-current/lady-blues-girls-hockey-high-school-team-home-opener-raising-money-gray-matters-collective/526-df181d9a-899f-49cc-9902-3586f15f752f)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-55°
+59°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
