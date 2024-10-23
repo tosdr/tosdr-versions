@@ -93,9 +93,7 @@ Any claim related to Marin Bookworks’s Website shall be governed by the laws o
 
 Search for:  
 
-[![](https://www.thebookdesigner.com/wp-content/uploads/2024/05/Sidebar-AAL-2024-Banner-Early-Bird.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20790%201210%22%3E%3C/svg%3E)](https://selfpublishingschool.clickfunnels.com/aal-2024-tickets)
+[![](https://www.thebookdesigner.com/wp-content/uploads/2024/05/Sidebar-AAL-2024-Banner-Early-Bird.jpg)](https://selfpublishingschool.clickfunnels.com/aal-2024-tickets)
 
 [Tweet](https://twitter.com/intent/tweet?text=Terms+of+Service&url=https%3A%2F%2Fwww.thebookdesigner.com%2Fterms%2F)
 
