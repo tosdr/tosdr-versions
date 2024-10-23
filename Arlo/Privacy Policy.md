@@ -32,7 +32,7 @@ Whole Home Protection
 
 From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.html)
 
-[![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw3a3730ef/./assets/images/product-images/bundle-builder.png)
+[![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw8827424b/./assets/images/product-images/bundle-builder.png)
 
 Bundle Builder
 
@@ -159,7 +159,7 @@ Whole Home Protection
 
 From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.html)
 
-[![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw3a3730ef/./assets/images/product-images/bundle-builder.png)
+[![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw8827424b/./assets/images/product-images/bundle-builder.png)
 
 Bundle Builder
 
@@ -298,7 +298,7 @@ Security Plans
             
             From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.html)
             
-        * [![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw3a3730ef/./assets/images/product-images/bundle-builder.png)
+        * [![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw8827424b/./assets/images/product-images/bundle-builder.png)
             
             Bundle Builder
             
