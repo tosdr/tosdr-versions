@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 
-article22 hours ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Just Keep Roving](https://science.nasa.gov/wp-content/uploads/2024/10/mars-perseverance-nrf-1288-0781283332-488ecm-n0602014ncam13288-01-195j.png)
+article1 day ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Just Keep Roving](https://science.nasa.gov/wp-content/uploads/2024/10/mars-perseverance-nrf-1288-0781283332-488ecm-n0602014ncam13288-01-195j.png)
 
 2 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### Gateway: Life in a Lunar Module
 
-article 24 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 1 day ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
@@ -263,25 +263,25 @@ article 5 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-4
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/kelly-1.png?w=1024)
-
-1 min read
-
-### Risk from Inadequate Sleep and Irregular Schedules
-
-article 20 hours ago](https://www.nasa.gov/reference/risk-from-inadequate-sleep-and-irregular-schedules/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/teamwork.png?w=1024)
+[![Furukawa wears a black t-shirt and shorts and tennis shoes. His feet are on a black panel and he is squatting, holding on to a silver bar behind his shoulders. The bar is attached to blue metal poles on either side of him.](https://www.nasa.gov/wp-content/uploads/2024/01/iss070e075241.jpg?w=1024)
 
 2 min read
 
-### Risk of inadequate teamwork
+### Risk of Reduced Cardiorespiratory and Musculoskeletal Fitness
 
-article 20 hours ago](https://www.nasa.gov/reference/risk-of-inadequate-teamwork/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/dynamicloads.png?w=1024)
+article 4 hours ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
 
 2 min read
 
-### Risk of injury from dynamic loads
+###  Risk of Spaceflight-Induced Bone Changes
 
-article 20 hours ago](https://www.nasa.gov/reference/risk-of-injury-from-dynamic-loads/)
+article 4 hours ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
+
+2 min read
+
+### Risk of Injury and Compromised Performance from Extravehicular Activity (EVA)
+
+article 4 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
 
 ### Highlights
 
@@ -297,7 +297,7 @@ article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
+article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
 
 1 min read
 
@@ -307,25 +307,25 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
+[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
+
+3 min read
+
+### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
+
+article 2 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
 
 2 min read
 
 ### Gateway: Life in a Lunar Module
 
-article 24 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
+article 1 day ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
 
 2 min read
 
 ### LExSO
 
-article 5 days ago](https://science.nasa.gov/mission/lexso/)[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
-
-5 min read
-
-### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
-
-article 6 days ago](https://science.nasa.gov/centers-and-facilities/goddard/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)
+article 5 days ago](https://science.nasa.gov/mission/lexso/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 6 days ago](https://science.nasa.gov/centers-and-facilities/goddard/nasa
 
 ### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 
-article 22 hours ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 1 day ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
@@ -347,29 +347,29 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### NASA’s Hubble Sees a Stellar Volcano
 
-article 7 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)
+article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)
 
 ### Highlights
 
-[![LEMS](https://science.nasa.gov/wp-content/uploads/2023/04/lems_3-jpg.webp)
+[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
+
+3 min read
+
+### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
+
+article 2 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![LEMS](https://science.nasa.gov/wp-content/uploads/2023/04/lems_3-jpg.webp)
 
 1 min read
 
 ### LEMS
 
-article 19 hours ago](https://science.nasa.gov/lems/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
+article 1 day ago](https://science.nasa.gov/lems/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
 ### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 
-article 22 hours ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![](https://www.nasa.gov/wp-content/uploads/2015/04/icon512x512.png?w=512)
-
-3 min read
-
-### Explore International Space Station Research with NASA Mobile Apps
-
-article 2 days ago](https://www.nasa.gov/missions/station/mobile-app-lets-you-explore-the-diverse-ecosystem-of-research-and-technology-on-the-international-space-station/)
+article 1 day ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### Highlights
 
-[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
+
+5 min read
+
+### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
+
+article 1 hour ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
 ### 2024 NASA Power to Explore Contest Winners
 
-article 23 hours ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/stem/2024-nasa-power-to-explore-contest-winners/)[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/stem/2024-nasa-power-to-explore-contest-winners/)[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Oct. 18, 2024
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)[![Artist's conception of the Landsat 9 spacecraft, the ninth satellite launched in the long-running Landsat program, high above the U.S.](https://www.nasa.gov/wp-content/uploads/2022/08/landsat_9_release.jpeg?w=1024)
-
-2 min read
-
-### The View from Space Keeps Getting Better  
-
-article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
 
 ### Featured
 
