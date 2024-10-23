@@ -77,7 +77,7 @@ Search
     * [Master Lock Vault](https://www.masterlock.com/smart-solutions/vault)
     * [cLOTO](https://www.masterlock.com/smart-solutions/cloto)
     
-    [Bluetooth Lock Support](https://www.masterlock.com/support/category/bluetooth-electronic-locks) [Vault Support](https://www.masterlock.com/support/category/vault-support) [Smart Solutions Insights](https://www.masterlock.com/insights)
+    [Bluetooth Lock Support](https://www.masterlock.com/support/category/bluetooth-electronic-locks) [Vault Support](https://www.masterlock.com/support/category/vault-support) [Smart Solutions Insights](https://www.masterlock.com/insights?filter=2mWCahc9WlFWeEEEJmAZPY)
     
 * [Support](https://www.masterlock.com/support?support) Toggle Dropdown
     
