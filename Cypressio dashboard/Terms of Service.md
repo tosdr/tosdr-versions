@@ -324,7 +324,7 @@ Developers
 Community
 ---------
 
-[Blog](https://www.cypress.io/blog) [Ambassadors](https://cypress.io/ambassadors) [Events](https://cypress.io/events) [Customer stories](https://cypress.io/customer-stories)
+[Blog](https://cypress.io/blog) [Ambassadors](https://cypress.io/ambassadors) [Events](https://cypress.io/events) [Customer stories](https://cypress.io/customer-stories)
 
 Company
 -------
@@ -339,10 +339,10 @@ Sign up to our newsletter for monthly updates on product releases, news, and art
 
 * © Cypress.io
     
-* [Privacy Policy](https://cypress.io/privacy-policy) [Privacy](https://cypress.io/privacy-policy)
-* [Terms of Use](https://cypress.io/terms-of-use) [Terms](https://cypress.io/terms-of-use)
-* [Security & Compliance](https://cypress.io/security) [Security](https://cypress.io/security)
-* [Cookie Preferences](#) [Cookies](#)
+* [Privacy Policy Privacy](https://cypress.io/privacy-policy)
+* [Terms of Use Terms](https://cypress.io/terms-of-use)
+* [Security & Compliance Security](https://cypress.io/security)
+* [Cookie Preferences Cookies](#)
 
 * [GitHub](https://github.com/cypress-io/cypress)
 * [YouTube](https://www.youtube.com/c/Cypressio)
