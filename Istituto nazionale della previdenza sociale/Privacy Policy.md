@@ -904,6 +904,7 @@ it
             Note di variazione
             
             * [Esplora Note di variazione](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/note-di-variazione.html)
+            * [2024](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/note-di-variazione/2024.html)
             * [2023](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/note-di-variazione/2023.html)
             * [2022](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/note-di-variazione/2022.html)
             * [2021](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/note-di-variazione/2021.html)
