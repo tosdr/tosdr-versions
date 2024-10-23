@@ -25,21 +25,11 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Accessibility](https://www.panopto.com/capabilities/accessibility/)
         * [Powered by AI](https://www.panopto.com/capabilities/powered-by-ai/)
         * [Tracking and Analytics](https://www.panopto.com/capabilities/tracking-and-analytics/)
-    
-* New! Product Add-Ons
-    
-    ![](https://www.panopto.com/wp-content/uploads/2024/06/Navigation-AddOns_2.png)
-    
-    Get the Data to Make a Difference with Panopto Knowledge Insights
-    
-    Turn data into action, identify top creators, and assess the impact of lectures and training with Panopto’s latest product add-on for your VCMS.
-    
-    [Watch On-Demand](https://www.panopto.com/resource/webinar-panopto-knowledge-insights)
-    
     * Product Add-Ons
         * [Panopto Access AI](https://www.panopto.com/product-add-ons/access-ai/)
         * [Panopto Knowledge Insights](https://www.panopto.com/product-add-ons/knowledge-insights/)
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
+        * [\>> See all Add-ons](https://www.panopto.com/add-ons/)
     
 * [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Industries
@@ -212,7 +202,3 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
-
-![](https://www.panopto.com/wp-content/uploads/2024/10/elai_powered-by-ai_genai_3-1.png)
-
-X
