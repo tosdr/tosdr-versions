@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Once-weekly insulin might mean fewer shots for some with diabetes](https://www.sciencenews.org/article/diabetes-blood-sugar-insulin-weekly)
+            ### [A new implant tested in animals reverses drug overdoses](https://www.sciencenews.org/article/implant-reverses-drug-overdoses)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 22, 2024
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")3 hours ago
+            
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [Silk Road cities reached surprising heights in Central Asia’s mountains](https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Doula care may lead to fewer C-sections or preterm births](https://www.sciencenews.org/article/doula-care-c-section-preterm-birth)
+            ### [Once-weekly insulin might mean fewer shots for some with diabetes](https://www.sciencenews.org/article/diabetes-blood-sugar-insulin-weekly)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 22, 2024
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [Is U.S. democracy in decline? Here’s what the science says](https://www.sciencenews.org/article/united-states-democracy-decline-science)
-            
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 18, 2024
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 22, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,6 +116,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [Polar bears are being exposed to more pathogens as the climate warms](https://www.sciencenews.org/article/polar-bears-pathogens-climate-change)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")3 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [Science has finally cracked male riflebirds’ flirty secrets](https://www.sciencenews.org/article/male-riflebirds-secrets)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")October 21, 2024
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
             
             By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")October 18, 2024
-            
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
-            
-            ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
-            
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")October 17, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Tech companies want small nuclear reactors. Here’s how they’d work](https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [JWST spots the first known ‘steam world’](https://www.sciencenews.org/article/jwst-spots-the-first-known-steam-world)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")22 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 22, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
