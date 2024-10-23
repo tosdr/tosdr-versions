@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
+* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
     
-* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
+* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
     
-* [How to restore a backup using WinZip](https://www.backup4all.com/how-to-restore-a-backup-using-winzip-kb.html)  
+* [How to create a shortcut](https://www.backup4all.com/how-to-create-a-shortcut-kb.html)  
     
-* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
+* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
     
-* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
+* [How to restore a backup to OneDrive](https://www.backup4all.com/how-to-restore-a-backup-to-onedrive-kb.html)  
     
 
 Choose language:
