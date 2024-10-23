@@ -981,8 +981,25 @@ it
         * [Bilancio sociale 2012](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2012.html)
         * [Bilancio sociale 2011](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2011.html)
         * [Bilancio sociale 2010](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2010.html)
-        * [Bilancio sociale 2009](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2009.html)
-        * [Bilancio sociale 2007](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007.html)
+        * [Bilancio sociale 2009](#)
+            
+            Bilancio sociale 2009
+            
+            * [Esplora Bilancio sociale 2009](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2009.html)
+            * [L'INPS nel territorio](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2009/l-inps-nel-territorio.html)
+            
+        * [Bilancio sociale 2007](#)
+            
+            Bilancio sociale 2007
+            
+            * [Esplora Bilancio sociale 2007](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007.html)
+            * [Bilancio di genere: avvio di un percorso](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007/bilancio-di-genere--avvio-di-un-percorso.html)
+            * [Indice](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007/indice.html)
+            * [L'azienda sociale INPS](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007/l-azienda-sociale-inps.html)
+            * [L'INPS nel territorio](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007/l-inps-nel-territorio.html)
+            * [L'INPS verso i portatori di interesse esterni](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-esterni.html)
+            * [L'INPS verso i portatori di interesse interni](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-interni.html)
+            
         
     * [SIUSS (ex Casellario dell’assistenza)](#)
         
