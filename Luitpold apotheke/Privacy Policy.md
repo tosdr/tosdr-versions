@@ -269,6 +269,7 @@ Kategorien durchsuchen
 * [Ern채hrung & Gewicht](https://www.medikamente-per-klick.de/ernaehrung-und-gewicht)
 * [Familienplanung](https://www.medikamente-per-klick.de/familienplanung)
 * [Ged채chtnis & Konzentration](https://www.medikamente-per-klick.de/gedaechtnis-und-amp-konzentration)
+* [Geschenkideen](https://www.medikamente-per-klick.de/geschenkideen)
 * [Gesundheit & Wellness](https://www.medikamente-per-klick.de/gesundheit-und-wellness)
 * [Haus- & Reiseapotheke](https://www.medikamente-per-klick.de/haus-und-reiseapotheke)
 * [Haut, Haare & N채gel](https://www.medikamente-per-klick.de/haut-haare-und-naegel)
@@ -662,4 +663,4 @@ Haben Sie bitte auch daf체r Verst채ndnis, dass wir aus Datenschutzgr체nden Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=pqahsitihmtxjcqdyvxsidhnxgfjksdp&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=wkkepqjbmyxgauwrqgmftpicjokiocrr&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
