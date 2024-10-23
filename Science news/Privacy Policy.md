@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Once-weekly insulin might mean fewer shots for some with diabetes](https://www.sciencenews.org/article/diabetes-blood-sugar-insulin-weekly)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")18 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 22, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Doula care may lead to fewer C-sections or preterm births](https://www.sciencenews.org/article/doula-care-c-section-preterm-birth)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")20 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 22, 2024
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
@@ -161,7 +161,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Tech](https://www.sciencenews.org/topic/tech)
+            
+            ### [Tech companies want small nuclear reactors. Here’s how they’d work](https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Radioactive beams give a real-time view of cancer treatment in mice](https://www.sciencenews.org/article/radioactive-ion-cancer-treatment)
             
@@ -173,12 +179,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 8, 2024
             
-        * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
-            
-            ### [The discovery of tools key to machine learning wins the 2024 physics Nobel](https://www.sciencenews.org/article/nobel-physics-2024-machine-learning)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 8, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [JWST spots the first known ‘steam world’](https://www.sciencenews.org/article/jwst-spots-the-first-known-steam-world)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")16 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")22 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
