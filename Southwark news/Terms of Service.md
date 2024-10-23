@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Andre Williams beside the 'Let It Be Me' sculpture. Credit: BUILDHOLLYWOOD](https://southwarknews.co.uk/wp-content/uploads/2024/10/Let-It-Be-Me-SculptureAndreWilliams-12-BUILDHOLLYWOOD-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
+    
+    ### [Colourful sculpture unveiled in Camberwell](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
+    
+    [![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
+    
+    ### [Chris Kaba: Peckham MP says ‘trust in the police remains a serious issue’ after not guilty verdict](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
+    
     [![The entrance to Dawes Street, Walworth, seen from the East Street side. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-entrance-to-Dawes-Street-Walworth-seen-from-the-East-Street-side.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
     
     ### [Firefighters tackle Walworth maisonette fire](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
@@ -46,14 +54,6 @@
     [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
     
     ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
-    
-    [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-    
-    ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-    
-    [![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-360x180.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
-    
-    ### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -101,6 +101,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Andre Williams beside the 'Let It Be Me' sculpture. Credit: BUILDHOLLYWOOD](https://southwarknews.co.uk/wp-content/uploads/2024/10/Let-It-Be-Me-SculptureAndreWilliams-12-BUILDHOLLYWOOD-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
+    
+    ### [Colourful sculpture unveiled in Camberwell](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
+    
+    [![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
+    
+    ### [Chris Kaba: Peckham MP says ‘trust in the police remains a serious issue’ after not guilty verdict](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
+    
     [![The entrance to Dawes Street, Walworth, seen from the East Street side. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-entrance-to-Dawes-Street-Walworth-seen-from-the-East-Street-side.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
     
     ### [Firefighters tackle Walworth maisonette fire](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
@@ -128,14 +136,6 @@ View All Result
     [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
     
     ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
-    
-    [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-    
-    ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-    
-    [![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-360x180.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
-    
-    ### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -230,13 +230,19 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 
 [21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
-[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+[![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
-### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
-[17th October 2024](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+[22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 ### Featured Articles
+
+[![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
+
+### [Chris Kaba: Peckham MP says ‘trust in the police remains a serious issue’ after not guilty verdict](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
+
+[23rd October 2024](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
 
 [![The entrance to Dawes Street, Walworth, seen from the East Street side. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-entrance-to-Dawes-Street-Walworth-seen-from-the-East-Street-side.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
 
@@ -267,12 +273,6 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
 [21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-
-[![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-120x86.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
-
-### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
-
-[21st October 2024](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
 
 ### USEFUL PAGES
 
