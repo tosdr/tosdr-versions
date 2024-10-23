@@ -218,15 +218,15 @@ Educação
 
 Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”
 
-Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://www.tnh1.com.br/noticia/nid/governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo/ "Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”")[![Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_velorio_bebe_e064e439ef.png)
+Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://www.tnh1.com.br/noticia/nid/governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo/ "Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”")[![Influencer brasileira que mora no Japão diz que é confundida com criança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_influencer-brasileira-confundida-crianca-japao-redes-sociais_6782e64faf.jpg)
 
-Brasil
+Fez desabafo
 
-Brasil
+Fez desabafo
 
-Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão
+Influencer brasileira que mora no Japão diz que é confundida com criança
 
-Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão](https://www.tnh1.com.br/noticia/nid/bebe-de-8-meses-e-retirada-do-proprio-velorio-em-santa-catarina-apos-mexer-mao/ "Bebê de 8 meses é retirada do próprio velório em Santa Catarina após mexer mão")[![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_77333cf3bb.png)
+Influencer brasileira que mora no Japão diz que é confundida com criança](https://www.tnh1.com.br/noticia/nid/influencer-brasileira-que-mora-no-japao-diz-que-e-confundida-com-crianca/ "Influencer brasileira que mora no Japão diz que é confundida com criança")[![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_77333cf3bb.png)
 
 dano em equipamentos
 
@@ -236,39 +236,39 @@ Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de
 
 Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-de-app-tem-ataque-de-furia-e-causa-destruicao-na-entrada-de-condominio-em-maceio/ "Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió")
 
-[![Homem é preso após praticar roubos com faca de serra no Centro de Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/2/csm_homem-preso-faca-serra-reproducao-3bpm_1aa23fa834.jpeg)
+[![Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_maos-idosa-reproducao-freepik_6044b65ab7.png)
 
-No Agreste
+Saúde
 
-No Agreste
+Saúde
 
-Homem é preso após praticar roubos com faca de serra no Centro de Arapiraca
+Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo
 
-Homem é preso após praticar roubos com faca de serra no Centro de Arapiraca](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-praticar-roubos-com-faca-de-serra-no-centro-de-arapiraca/ "Homem é preso após praticar roubos com faca de serra no Centro de Arapiraca")[![Vídeo: Jojo Todynho diz que Xuxa é privilegiada e rebate críticas: “Você não tem moral”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_xuxa-jojo-todynho-polemica-reproducao-redes-sociais_a180e8f971.png)
+Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo](https://www.tnh1.com.br/noticia/nid/celulas-velhas-da-pele-podem-afetar-outros-orgaos-do-corpo-diz-estudo/ "Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo")[![Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/f/csm_Kamala_Harris__Joe_Biden_e_Donald_Trump_-_foto_Brazil_Photo_PressFolhapress_ce4b8884f8.jpeg)
 
-polêmica
+5 de novembro
 
-polêmica
+5 de novembro
 
-Vídeo: Jojo Todynho diz que Xuxa é privilegiada e rebate críticas: “Você não tem moral”
+Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos
 
-Vídeo: Jojo Todynho diz que Xuxa é privilegiada e rebate críticas: “Você não tem moral”](https://www.tnh1.com.br/noticia/nid/video-jojo-todynho-diz-que-xuxa-e-privilegiada-e-rebate-criticas-voce-nao-tem-moral/ "Vídeo: Jojo Todynho diz que Xuxa é privilegiada e rebate críticas: “Você não tem moral”")[![Vini Jr. faz hat-trick e comanda virada épica do Real Madrid sobre o Borussia Dortmund na Champions: veja gols ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/7/csm_vini-jr-hat-trick-reproducao-redes-sociais_6fe7c4579b.png)
+Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos](https://www.tnh1.com.br/noticia/nid/quase-18-milhoes-ja-votaram-antecipadamente-ou-por-correio-nos-estados-unidos/ "Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos")[![Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_novo-estudo-estrela-reproducao-simons-foundation_38ba6a0014.jpg)
 
-Bailou
+novo estudo
 
-Bailou
+novo estudo
 
-Vini Jr. faz hat-trick e comanda virada épica do Real Madrid sobre o Borussia Dortmund na Champions: veja gols
+Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira
 
-Vini Jr. faz hat-trick e comanda virada épica do Real Madrid sobre o Borussia Dortmund na Champions: veja gols](https://www.tnh1.com.br/noticia/nid/vini-jr-faz-hat-trick-e-comanda-virada-epica-do-real-madrid-sobre-o-borussia-dortmund-na-champions-veja-gols/ "Vini Jr. faz hat-trick e comanda virada épica do Real Madrid sobre o Borussia Dortmund na Champions: veja gols ")[![PM lança megaoperação em Salvador em meio à onda de violência na cidade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/9/csm_salvador-recebera-o-reforco-de-pelo-menos-120-policiais-do-interior-da-bahia-e-cerca-de-40-viaturas-1729628362489_v2_900x506.jpg_1189948ecc.jpg)
+Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira](https://www.tnh1.com.br/noticia/nid/cientistas-indicam-que-uma-das-estrelas-mais-brilhantes-tem-uma-companheira/ "Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira")[![Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_entretenimento-joao_gomes-casamento-1729578710_a3b8cff5d7.jpg)
 
-REFORÇO POLICIAL
+no altar
 
-REFORÇO POLICIAL
+no altar
 
-PM lança megaoperação em Salvador em meio à onda de violência na cidade
+Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes
 
-PM lança megaoperação em Salvador em meio à onda de violência na cidade](https://www.tnh1.com.br/noticia/nid/pm-lanca-megaoperacao-em-salvador-em-meio-a-onda-de-violencia-na-cidade/ "PM lança megaoperação em Salvador em meio à onda de violência na cidade")
+Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes](https://www.tnh1.com.br/noticia/nid/ary-mirelle-revela-perrengue-por-causa-da-alianca-no-dia-de-seu-casamento-com-joao-gomes/ "Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
