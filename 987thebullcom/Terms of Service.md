@@ -20,22 +20,10 @@
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
-* [Playlist](https://www.987thebull.com/recently-played)
 * [Show Schedule](https://www.987thebull.com/shows)
-* [Advertise With Us](https://radioadvertisingportland.com/)
+* [Advertise With Us](https://www.alphamediausa.com/advertise)
 
-* [Connect With Us](#)
-    * [Facebook](https://www.facebook.com/987TheBull)
-    * [Twitter](https://www.twitter.com/987TheBull)
-    * [Instagram](https://www.instagram.com/987TheBull)
-    * [YouTube](https://www.youtube.com/user/987TheBull)
-    * [Snapchat](https://www.snapchat.com/add/PDX987TheBull)
-* [Listen To Us](#)
-    * [iHeart](https://www.iheart.com/live/987-the-bull-7574/)
-    * [TuneIn](https://tunein.com/radio/987-The-Bull-s35937/)
-    * [Audacy](https://go.audacy.com/987thebull/partner)
-
-[98.7 The Bull ![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/) 
+[98.7 The Bull ![ Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/)](https://www.987thebull.com/) 
 
 * [Look](https://www.987thebull.com/videos/)
     
@@ -61,13 +49,7 @@
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
-* [Facebook](https://www.facebook.com/987TheBull)
-* [Twitter](https://www.twitter.com/987TheBull)
-* [Instagram](https://www.instagram.com/987TheBull)
-* [YouTube](https://www.youtube.com/user/987TheBull)
-* [Snapchat](https://www.snapchat.com/add/PDX987TheBull)
-
-[](https://www.alphamediaplayer.com/987thebull)[](https://www.alphamediaplayer.com/987thebull)
+[](https://www.alphamediaplayer.com/)[](https://www.alphamediaplayer.com/)
 
 [View Playlist History](https://www.987thebull.com/recently-played)
 
@@ -205,34 +187,15 @@ If you have questions concerning this Agreement, the Privacy Policy, and/or the 
 
 © 2016 Alpha Media USA LLC
 
-Recently Played
----------------
-
-|     |
-| --- |
-| BoondocksLittle Big Town<br><br>4:55am |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>4:52am |
-| Single AgainJosh Ross<br><br>4:49am |
-| When She Says BabyJason Aldean<br><br>4:47am |
-| Country HouseSam Hunt<br><br>4:43am |
-
-[View Full Playlist](https://www.987thebull.com/recently-played)
-
-[![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/)
+[![ Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/)](https://www.987thebull.com/)
 
 * [Careers](https://www.alphamediausa.com/careers)
-* [Advertise With Us](https://radioadvertisingportland.com/)
+* [Advertise With Us](https://www.alphamediausa.com/advertise)
 * [Contact Us](https://www.987thebull.com/contact)
 * [Privacy Policy](https://www.987thebull.com/privacy-policy)
 * [Terms Of Use](https://www.987thebull.com/terms-of-use)
 * [Accessibility Statement](https://www.alphamediausa.com/accessibility-statement)
 * [Contest Rules](https://www.987thebull.com/category/contest-rules)
-* [EEO Report](https://www.alphamediausa.com/wp-content/uploads/brand/eeo-report/Alpha_Portland_Oregon_2023-24_EEO_PFR.pdf)
-* [KUPL Public Inspection File](https://publicfiles.fcc.gov/fm-profile/KUPL)
-    
-    If you have a disability preventing you from viewing this file, please contact [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
-    
-* [FCC Applications](https://www.987thebull.com/fcc-applications)
 * [Cookie Preferences](#cc-settings)
 * [![](https://www.987thebull.com/wp-content/themes/blacklab/assets/img/svg/privacyoptions.svg)Your Privacy Choices](https://www.987thebull.com/notice-of-right-to-opt-out)
 * [CA Residents: Notice at Collection](https://www.987thebull.com/privacy-policy/#section-2)
@@ -358,21 +321,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Spanish • Western
+News Talk • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
