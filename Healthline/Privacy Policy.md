@@ -190,12 +190,26 @@
 
 Subscribe
 
-[#### CBD](https://www.healthline.com/cbd)
+[#### Nutrition](https://www.healthline.com/nutrition)
 
-* [CBD 101](https://www.healthline.com/cbd/cbd-basics)
-* [Chronic Conditions](https://www.healthline.com/cbd/cbd-chronic-conditions)
-* [Product Reviews](https://www.healthline.com/reviews/cbd-products)
-* [Types of CBD](https://www.healthline.com/cbd/cbd-types)
+* Meal Kits
+    
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+    
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Privacy Policy
 ==============
