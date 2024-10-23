@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 7](https://www.backup4all.com/using-backup4all-faq-7-kb.html)  
+* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
     
-* [How to backup your data to Verizon](https://www.backup4all.com/how-to-backup-your-data-to-verizon-kb.html)  
+* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
     
-* [How to back up data files from CenturyLink us ...](https://www.backup4all.com/how-to-back-up-data-files-from-centurylink-using-backup4all-kb.html)  
+* [How to restore a backup from Backblaze](https://www.backup4all.com/how-to-restore-a-backup-from-backblaze-kb.html)  
     
-* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
+* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
     
-* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
+* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
     
 
 Choose language:
