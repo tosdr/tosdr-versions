@@ -31,6 +31,20 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
         * [\>> See all Add-ons](https://www.panopto.com/add-ons/)
     
+* Generative AI Video
+    
+    ![](https://www.panopto.com/wp-content/uploads/2024/10/Photo-Half-introducing@2x-1-650x650.png)
+    
+    Experience Elai: Cutting Edge Generative AI Video
+    
+    Panopto has acquired Elai, bringing world-class Generative AI Video Features to the world of Video Training & Learning.
+    
+    [Read More](https://www.panopto.com/de/create-impactful-training-videos-with-elai/)
+    
+    * Generative AI Video
+        * [Elai for Business](https://www.panopto.com/create-impactful-training-videos-with-elai/)
+        * [Elai for Higher Education](https://www.panopto.com/make-video-learning-more-interactive-and-flexible-with-elai/)
+    
 * [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Industries
     
@@ -202,3 +216,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
+
+[![](https://www.panopto.com/wp-content/uploads/2024/10/panopto-elai-pop-up-press-release.png)](https://www.panopto.com/company/news/panopto-acquisition-of-elai/)
+
+X
