@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-242562640a0f9d262b3823785b5bf741
+da8aa0c7c0a297f31ce98fbef9194ce0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![2 mm micro-faceted red jasper beads](https://www.sojourner.biz/images/cache/stone/STN080one.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/2-mm-micro-faceted-red-jasper-beads.html "2 mm micro-faceted red jasper beads")
+[![6 mm round black onyx beads](https://www.sojourner.biz/images/cache/stone/ON0003.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/6-mm-round-black-onyx-beads.html "6 mm round black onyx beads")
 
-#### [2 mm micro-faceted red jasper beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/2-mm-micro-faceted-red-jasper-beads.html "2 mm micro-faceted red jasper beads")
+#### [6 mm round black onyx beads](https://www.sojourner.biz/beads/stone-m-z/onyx/6-mm-round-black-onyx-beads.html "6 mm round black onyx beads")
 
-$17.00
+$11.00
 
 ### Best Sellers
 
