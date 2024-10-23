@@ -38,9 +38,9 @@ IR情報
 
 中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/menu_img_corporate_report_2024.jpg)
 
-Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)[![](/assets/img/menu/menu_img_fr.png)
+Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)[![](/assets/img/menu/menu_img_fr.jpg)
 
-2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
+決算発表](https://jp.weathernews.com/irinfo/announcement/)
 
 採用情報
 
@@ -88,9 +88,9 @@ Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/Cor
 
 中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/menu_img_corporate_report_2024.jpg)
 
-Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)[![](/assets/img/menu/menu_img_fr.png)
+Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)[![](/assets/img/menu/menu_img_fr.jpg)
 
-2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
+決算発表](https://jp.weathernews.com/irinfo/announcement/)
 
 << 戻る[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
