@@ -545,29 +545,29 @@ By subscribing, you agree to our Privacy Policy and consent to receive updates f
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20638%20619'%3E%3C/svg%3E)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20638%20619'%3E%3C/svg%3E)
 
-![](https://choozle.com/wp-content/uploads/2024/04/footer_cion__1.png)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_cion__1.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203328%203328'%3E%3C/svg%3E)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203328%203328'%3E%3C/svg%3E)
 
-![](https://choozle.com/wp-content/uploads/2024/04/footer_icon2.png)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon2.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20769%201000'%3E%3C/svg%3E)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20769%201000'%3E%3C/svg%3E)
 
-![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__3.png)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon__3.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20770%201000'%3E%3C/svg%3E)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20770%201000'%3E%3C/svg%3E)
 
-![](https://choozle.com/wp-content/uploads/2024/04/footer_icon_4.png)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon_4.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20231%20300'%3E%3C/svg%3E)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20231%20300'%3E%3C/svg%3E)
 
-![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__5.png)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon__5.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%20150'%3E%3C/svg%3E)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%20150'%3E%3C/svg%3E)
 
-![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__6.png)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon__6.png)
 
 [Facebook](https://www.facebook.com/choozle) [Instagram](https://www.instagram.com/choozle/) [X-twitter](https://twitter.com/choozle) [Linkedin](https://www.linkedin.com/company/choozle) [Youtube](https://www.youtube.com/@ChoozleDenver)
 
