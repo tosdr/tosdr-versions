@@ -184,231 +184,218 @@
 
 [](#)
 
-Privacy Policy – HUB Terms of Use[WCBS](https://www.wcbs.co.uk/author/wcbs/ "Posts by WCBS")2019-11-13T12:40:24+00:00
+Privacy Policy – WCBS Privacy & Cookies[WCBS](https://www.wcbs.co.uk/author/wcbs/ "Posts by WCBS")2024-10-23T11:35:18+01:00
 
 #### Welcome to our Privacy & Terms page, please navigate to the appropriate policy via the tabs below.
 
 #### If you have any questions about our policies or information that we may hold about you, please contact Neil Butcher our Data Protection Officer. Email [dpo@wcbs.co.uk](mailto:dpo@wcbs.co.uk) or write to us at WCBS, Landmark House, Wirrall Park Road, Glastonbury, Somerset, BA6 9FR.
 
-[WCBS Privacy & Cookies](https://www.wcbs.co.uk/wcbs-privacy-cookies/)
+* [#### Privacy Policy](#tab-33fd51e820b7aa81842)
+* [#### Cookie Policy](#tab-76f37530a4369b5d72b)
 
-[HUB Privacy & Cookies](https://www.wcbs.co.uk/hub-privacy-cookies/)
+* [#### Privacy Policy](#tab-33fd51e820b7aa81842)
 
-[HUB Cookies](https://www.wcbs.co.uk/hub-cookies/)
+**West Country Business Systems (Holdings) Ltd (WCBS)**
 
-HUB Terms of Use
+**Last updated: 22nd October 2024**
 
-### HUB Terms of Use
+**Introduction**
 
-These terms of use (**Terms**) represent a legal agreement between you (**End-user** or **you**) and West Country Business Systems (Holdings) Limited of Landmark House, Wirral Park Road, Glastonbury, Somerset BA6 9FR (**Licensor**, **us**, **our** or **we**).
+At West Country Business Systems (Holdings) Ltd (WCBS), we are committed to protecting and respecting your privacy. This policy explains how we collect, use, and share your personal information when you interact with us through our website, services, or as part of our business operations.
 
-We operate the website and HUB services for the benefit of schools, Local Education Authority (LEAs) or similar organisations, their staff, students and parents (collectively, **Users**).
+WCBS complies with the UK General Data Protection Regulation (UK GDPR) and other relevant data protection legislation.
 
-Access and use of HUB is subject to the relevant terms set out below.
+**Who We Are**
 
-By accessing HUB, creating or accessing a user account, using HUB, and/or completing the necessary action to confirm acceptance of the Terms, these Terms will be binding upon you. If you do not agree to these Terms, you should not use HUB and must not access any of the Services.
+WCBS is a provider of school management systems for independent and international schools. Our registered office is located at:
 
-**We recommend that you print a copy of these Terms for future reference.**
+Unit 1 Landmark House, Wirrall Park Road, Glastonbury, England, BA6 9FR.
 
-**AGREED TERMS**
+For any data protection queries, you can contact us at:
 
-**1.      ACKNOWLEDGEMENTS**
+**Email:** [DPO@wcbs.co.uk](mailto:DPO@wcbs.co.uk)
 
-1.1     These Terms apply to HUB, including any updates or supplements to HUB.
+**Telephone:** +44 (0)1458833055
 
-1.2     We may change these Terms at any time by posting the latest version on HUB. You may be required to read and accept them to continue your use of HUB and, in any event, your continued use of HUB will constitute your acceptance of the amended Terms.
+**The Data We Collect**
 
-1.3     You agree that you are responsible for procuring internet access in order to access HUB and will be responsible for all data charges you incur through use of HUB. You accept responsibility in accordance with these Terms for the use of HUB.
+We may collect and process the following types of personal data:
 
-1.4     The terms of our privacy policy from time to time, see [WCBS Privacy & Cookies Policy](https://www.wcbs.co.uk/wcbs-privacy-cookies/) (**Privacy Policy**) are incorporated into these Terms and apply to your use of HUB. Additionally, by using HUB, you acknowledge and agree that internet transmissions are never completely private or secure. You understand that any message or information you send using HUB may be read or intercepted by others, even if there is a special notice that a particular transmission is encrypted.
+* **Personal Identification Information:** Name, email address, phone number, job title, and school name.
+* **Financial Information:** Payment details, including bank account or credit card information, as needed for transaction processing.
+* **Technical Data:** IP address, browser type, and information from cookies or other tracking technologies used when you interact with our website.
+* **Usage Data:** Information about how you use our services, such as login details, product usage logs, and preferences.
+* **Marketing and Communications Data:** Your communication preferences and details from marketing communications you’ve opted into, including email marketing.
 
-1.5     You acknowledge and agree when creating a new user account that you have not previously been suspended or removed from HUB and that you do not already have a user account.
+**How We Use Your Data**
 
-1.6     We work with a variety of commercial partners that use HUB to interact with you (**Partners**). By interacting with these Partners, you agree that your data (including personal data) may be shared with the Partners and that they may contact you regarding their products and services.
+We use the personal data we collect to:
 
-1.7     HUB may contain links to and content from other independent third-party websites or features, including those of Partners (**Third-party Sites**). Third-party Sites are not under our control, and we are not responsible for and do not endorse their content or their privacy policies (if any). You will need to make your own independent judgement regarding your interaction with any Third-party Sites, including the purchase and use of any products or services accessible through them.
+* Provide you with our products and services.
+* Process transactions and manage billing.
+* Communicate with you regarding updates, changes, or support related to our services.
+* Improve our services by understanding how you use them.
+* Comply with legal obligations and for the protection of our legal rights.
+* Send you marketing communications, where you have consented to receive them.
 
-1.8     Any words following the terms **including**, **include**, **in particular** or **for example** or any similar phrase shall be construed as illustrative and shall not limit the generality of the related general words.
+**Legal Bases for Processing**
 
-**2.      GRANT AND SCOPE OF LICENCE**
+We will only process your personal data when we have a lawful basis to do so, which may include:
 
-2.1     In consideration of you agreeing to abide by these Terms, we grant you a non-transferable, non-exclusive licence to access HUB subject to these Terms and the Privacy Policy. We reserve all other rights.
+* **Contractual Necessity:** To fulfil the terms of a contract we have with you (e.g., to provide our services or process payments).
+* **Consent:** Where you have given clear consent for us to process your personal data for a specific purpose (e.g., receiving marketing communications).
+* **Legitimate Interests:** For purposes necessary for our business, unless overridden by your data protection rights (e.g., improving our services or direct marketing).
+* **Legal Obligation:** When we are required to process your data by law (e.g., for tax compliance or regulatory purposes).
 
-2.2     We reserve the right to modify or terminate your access to HUB for any reason, without notice, at any time, and without liability to you. You can deactivate your user account by contacting us at [sales@wcbs.co.uk](mailto:sales@wcbs.co.uk). If we terminate your access to HUB or you ask us to deactivate your account, all your profile information and all other data will no longer be available to you or accessible through your account, but those materials and data may persist and continue to appear within HUB.
+**How We Share Your Data**
 
-2.3     Please note that in some circumstances, your continued use of HUB may be required by your employer and you may not be able to terminate your account.
+We do not sell your personal data. We may share your personal data with trusted third parties under the following circumstances:
 
-2.4     Your licence to access and use HUB is personal to you and you are responsible for any activity that occurs through your user account. You agree you will not sell, transfer, license or assign your account, username, or any account rights (or attempt to do any of the same). With the exception of parents/guardians who are expressly authorised to create accounts on behalf of their children who are under 13, you agree that you will not create an account for anyone other than yourself.
+* **Service Providers:** We work with third-party providers (e.g., hosting services, payment processors) to support our operations.
+* **Legal Compliance:** We may disclose your data if required by law or in response to valid requests by public authorities.
+* **Business Transfers:** If WCBS is involved in a merger, acquisition, or asset sale, your personal data may be transferred to the new owners.
 
-2.5     You represent that all information you provide or have provided to us upon registration and at all other times will be true, accurate, current and complete and you agree to update your information as necessary to maintain its truth and accuracy.
+We ensure that all third-party service providers only use your personal data for specified purposes and in compliance with data protection laws.
 
-**3.      LICENCE RESTRICTIONS**
+**International Data Transfers**
 
-Except as expressly set out in these Terms or as permitted by any local law, you agree:
+Where your personal data is transferred outside the UK, we ensure that appropriate safeguards are in place, such as using countries with adequacy decisions or contractual clauses that provide sufficient protection for your data.
 
-(a)   not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify HUB;
+**Data Retention**
 
-(b)   not to make alterations to, or modifications of, the whole or any part of HUB; and
+We retain your personal data only for as long as necessary to fulfil the purposes for which it was collected. Once your data is no longer needed, we will securely delete or anonymise it in accordance with our Data Retention Policy.
 
-(c)   not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of HUB or attempt to do any such thing.
+**Your Data Protection Rights**
 
-**4.      USE OF HUB**
+Under UK GDPR, you have the following rights concerning your personal data:
 
-4.1     HUB enables you to create and access a user account for the purposes of connecting and interacting with a school, other users and with Partners, and uploading and posting Content (as defined below) which may be publicly viewable.
+* **Right to Access:** You can request access to your personal data and obtain a copy of it.
+* **Right to Rectification**: You can request that inaccurate or incomplete data be corrected.
+* **Right to Erasure:** You can ask us to delete your personal data in certain circumstances.
+* **Right to Restrict Processing:** You can request that we restrict the processing of your personal data.
+* **Right to Data Portability:** You can request to receive your personal data in a structured, commonly used format for transfer to another organisation.
+* **Right to Object:** You can object to processing based on legitimate interests or direct marketing.
+* **Right to Withdraw Consent:** If we rely on your consent to process your personal data, you can withdraw that consent at any time.
 
-4.2     You warrant and represent that you have the legal right and capacity to enter into these Terms in your jurisdiction.
+To exercise any of these rights, please contact us using the contact details provided on the Contact Us section.
 
-4.3     You warrant and represent that any data, images, photographs, text, information, logos, representations, comments, ideas, concepts, links, graphics, and/or other materials (**Content**) that you upload and post via the Services is your original material, or that you have the legal right to use such Content and sub-license such use to us in accordance with these Terms.
+**Security of Your Data**
 
-4.4     You are responsible for maintaining the security of your user account details, including the username and password. You should change these regularly. You must not disclose any of the same to a third party. If you become aware, or reasonably suspect, that a third party has obtained access to your user account, you must notify us immediately. We reserve the right to suspend or permanently disable access to any user account we reasonably believe has been shared with, or accessed by, a third party.
+We take the security of your personal data seriously. We use technical and organisational measures to protect your data from unauthorised access, disclosure, alteration, or destruction. These measures include encryption, access controls, and regular security assessments.
 
-4.5     You must:
+**Cookies and Tracking Technologies**
 
-(a)   be at least 13 years old to use HUB (if you are under 13, you may access and use HUB only with parental guidance);
+Our website uses cookies and similar tracking technologies to enhance your experience. These may collect information such as your IP address, browser type, and usage data.
 
-(b)   not use HUB in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with these Terms, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, including viruses, or harmful data, into any of the Services;
+* **Essential Cookies:** Necessary for the functioning of the website.
+* **Analytics Cookies:** Help us understand how visitors use our website and improve it.
+* **Marketing Cookies:** Used to deliver relevant advertisements to you.
 
-(c)   not infringe our intellectual property rights or those of any third party in relation to your use of HUB, including by the submission of Content;
+You can manage your cookie preferences through your browser settings. For more information, please see our Cookie Policy.
 
-(d)   not transmit or post any Content that is defamatory, offensive or otherwise objectionable, including but not limited to Content that includes anything of a violent, pornographic, discriminatory, unlawful, hateful or sexual nature, in relation to your use of HUB;
+**Changes to This Privacy Policy**
 
-(e)   not defame, stalk, bully, abuse, harass, threaten, impersonate or intimidate people or entities and you must not post private or confidential information via the Services;
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal obligations. When we make changes, we will update the “Last Updated” date at the top of this page. We encourage you to review this policy periodically.
 
-(f)    be solely responsible for your conduct and any Content that you submit, post or display on or via HUB; or
+**Contact Us**
 
-(g)   comply with any acceptable use or other community policy we have in place, accessible via HUB.
+If you have any questions or concerns about this Privacy Policy or how we handle your data, please contact us at:
 
-4.6     Violation of these Terms may, in our sole discretion, result in suspension or termination of your user account and access to any or all of HUB. You understand and agree that we cannot and will not be responsible for the Content posted on HUB, or for the conduct of other HUB users (including Partners), and your use of HUB is entirely at your own risk.
+* Email: [info@wcbs.co.uk](mailto:info@wcbs.co.uk)
+* Address: WCBS, Unit 1 Landmark House, Wirrall Park Road, Glastonbury, England, BA6 9FR
+* Data Protection Officer (DPO): [dpo@wcbs.co.uk](mailto:dpo@wcbs.co.uk)
 
-4.7     We reserve the right to refuse access to any or all of HUB to anyone for any reason at any time.
+* [#### Cookie Policy](#tab-76f37530a4369b5d72b)
 
-4.8     We may, but shall have no obligation to, remove, edit, block, and/or monitor content or accounts containing content that we determine in our sole discretion violates these Terms. If you become aware of any content which you believe may violate these Terms, please contact us immediately at [sales@wcbs.co.uk](mailto:sales@wcbs.co.uk) with details.
+At **West Country Business Systems (Holdings) Ltd (WCBS)**, we are committed to protecting your privacy and ensuring transparency about the data we collect through our website. This Cookies Policy explains what cookies are, how we use them, and your choices regarding their use.
 
-4.9     You are solely responsible for your interaction with other users of HUB. We reserve the right, but shall have no obligation to, monitor or become involved in disputes between you and other users and take such action as we deem necessary.
+### What Are Cookies?
 
-4.10   In the event that HUB displays advertisements and promotions, you hereby agree to the placement of such advertisements and promotions on HUB as we see fit. You acknowledge and agree that clicking on any advertisement or promotion may take you to Third-party Sites, for which we do not accept any responsibility.
+A **cookie** is a small text file that is placed on your computer or electronic device when you visit a website. Cookies help websites recognize your device and provide enhanced functionality and personalized experiences.
 
-**5.      INTELLECTUAL PROPERTY & OTHER RIGHTS**
+### How We Use Cookies
 
-5.1     You acknowledge that all intellectual property rights in HUB anywhere in the world belong to us or our licensors, and that you have no rights in, or to HUB other than the right to use them in accordance with these Terms.
+We use cookies on our websites to:
 
-5.2     You acknowledge that you have no right to have access to HUB in source-code form.
+* **Recognise You:** Identify you when you return to our website, speeding up your access by not requiring you to log in each time.
+* **Preferences and Usage:** Retain information about your preferences, online movements, and how you use the internet to enhance your experience.
+* **Research and Analysis:** Conduct research and statistical analysis to improve our content, products, and services, and better understand our visitors’ requirements and interests.
+* **Enhance Experience:** Make your online experience more efficient and enjoyable.
 
-5.3     The HUB name and logo are registered trademarks of West Country Business Systems (Holdings) Limited, and may not be copied, imitated or used, in whole or in part, without our prior written permission.
+### Essential Cookies
 
-5.4     You remain the legal owner of any Content you upload and post via HUB. You grant us a non-exclusive, royalty-free, transferable, sub-licensable, perpetual, worldwide licence to use such Content as we see fit. In particular, but without limiting the foregoing, you agree that we may sub-licence the use of your Content to any Partner with which you interact.
+These cookies are necessary for the website to function properly and cannot be switched off in our systems. They are usually set only in response to actions made by you, such as setting your privacy preferences, logging in, or filling in forms.
 
-5.5     You acknowledge and agree that posting any Content via HUB makes such Content publicly available and other users of HUB can view, interact with, exploit and share such Content, whether via HUB, Third-party Sites, or otherwise. We are not responsible for other users’ use of the Content and we hereby disclaim any liability in relation to the same.
+### Analytics Cookies
 
-5.6     We do not represent or warrant that the provision of HUB will be uninterrupted or error-free. There will be occasions when HUB may be interrupted, including for scheduled maintenance or upgrades, for emergency repairs, or due to failure of telecommunications links and/or equipment.
+These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. For example, they help us determine which pages are the most visited and how users navigate through the site.
 
-5.7     We reserve the right to remove any Content from HUB for any reason, without prior notice. Content removed from HUB may continue to be stored by us, including, without limitation, in order to comply with certain legal obligations, but may not be retrievable without a valid court order. We encourage you to maintain your own backup of your Content. You agree that you will not rely on any of HUB for backup or storage purposes. We will not be liable to you for any modification, suspension, or discontinuation of HUB, or the loss of any Content.
+### Marketing Cookies
 
-5.8     Except as otherwise described in our Privacy Policy, as between you and us, your Content will be non-confidential, and we will not be liable for any use or disclosure of Content. You acknowledge and agree that your relationship with us is not a confidential, fiduciary, or other type of special relationship, and that your decision to submit any Content does not place us in a position that is any different from the position held by members of the general public, including with regard to your Content.
+These cookies track visitors across websites to display relevant advertisements to you. They can remember that you have visited a website and this information is shared with other organizations such as advertisers.
 
-**6.      WARRANTIES DISCLAIMER**
+### Third-Party Cookies
 
-6.1     HUB and all content and materials contained or available therein, are provided on an “as is”, “as available” and “with all faults” basis. To the fullest extent permissible by law, neither we nor any of our group companies, employees, officers or agents, make any representations or warranties of any kind, whether express or implied, as to:
+We work with third-party suppliers who may also set cookies on our website, such as **Google Analytics**, **Twitter**, **LinkedIn**, and **YouTube**. These third-party suppliers are responsible for the cookies they set on our site. If you want further information, please visit the respective third-party websites. Below is an example of a third-party cookie we use:
 
-(a)   HUB, its content or functionality; or
+### Google Analytics
 
-(b)   the security associated with the transmission of information to or via HUB.
+* **Owner:** Google Inc.
+* **Purpose:** This web analytics service uses cookies to help us understand how visitors find and use our site. It provides data on visitor behavior, such as pages visited and duration of visits, allowing us to improve user experience.
 
-6.2     We hereby disclaim any and all warranties, whether express or implied, including but not limited to those as to quality, fitness for purpose, non-infringement, title, quiet enjoyment, or freedom from viruses or malware.
+For more information about Google Analytics cookies, you can visit Google’s Privacy Policy.
 
-6.3     We do not warrant or represent that any of the information available via HUB is accurate or complete. You should not rely on any such information for decision-making purposes.
+### How We Obtain Your Consent
 
-6.4     We do not warrant or represent that your use of HUB is lawful in any particular jurisdiction and you are responsible for ensuring that your access and use of HUB complies with all local laws and regulations. You warrant to us that your activities are lawful in every jurisdiction in which you access or use HUB.
+When you first visit our website, a cookie banner will appear, informing you about our use of cookies and providing options to manage your preferences. You can:
 
-**7.      LIMITATION OF LIABILITY**
+**Accept All Cookies:** Allow all cookies to be set.
 
-7.1     You acknowledge that HUB has not been developed to meet your individual requirements.
+**Decline Non-Essential Cookies:** Only essential cookies will be set.
 
-7.2     We will have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity (whether direct or indirect and whether or not foreseeable).
+**Customize Settings:** Choose which types of cookies you want to allow or block.
 
-7.3     Subject to clause 7.5 and to the fullest extent permissible by law, we shall not be liable to you for any losses, whether in contract, tort, statutory duty or otherwise (including but not limited to direct, indirect, special, incidental or consequential losses or damages), that are directly or indirectly related to:
+Your preferences are stored in your browser, so you won’t need to set them again on subsequent visits unless you change them.
 
-(a)   your access and use of HUB or that of third parties;
+### Managing and Deleting Cookies
 
-(b)   the content available on HUB;
+You have the right to manage your cookie preferences at any time. Most browsers allow you to manage cookies through their settings. Please note that disabling cookies may affect the functionality of our website.
 
-(c)   your inability to use HUB;
+### Instructions for Managing Cookies:
 
-(d)   use of your Content by third parties;
+* **Google Chrome:** [Manage Cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB&co=GENIE.Platform%3DDesktop)
+* **Mozilla Firefox:** [Manage Cookies in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+* **Microsoft Edge:** [Manage Cookies in Edge](https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies)
+* **Safari:** [Manage Cookies in Safari](https://support.apple.com/en-us/HT201265)
 
-(e)   any third-party claim of intellectual property infringement in relation to your Content or any other user content;
+For more information about cookies and how to disable them, visit the Information Commissioner’s Office: [https://ico.org.uk/for-the-public/online/cookies/](https://ico.org.uk/for-the-public/online/cookies/).
 
-(f)    any damage to any computer, mobile device, or other equipment or technology, including but not limited to any damage which results from any security breach or from any virus, bug, malware or fraud;
+### Opt-Out of Google Analytics:
 
-(g)   loss of, or damage to, any Content or other data; or
+You can opt out of Google Analytics data use by visiting [Google Analytics Opt-Out](http://tools.google.com/dlpage/gaoptout).
 
-(h)   accuracy of information or results,
+### Cookie Duration
 
-whether or not such losses are foreseeable and regardless of whether we have been advised or, or should have known about, the possibility of such damages.
+* **Session Cookies:** These cookies are temporary and are deleted from your device once you close your browser.
+* **Persistent Cookies:** These cookies remain on your device for a set period or until you delete them manually. They help us remember your preferences and improve your experience over multiple visits.
 
-7.4     Subject to clauses 7.2 and 7.3, our maximum aggregate liability under or in connection with this contract (including your use of HUB) whether in contract, tort (including negligence) or otherwise, shall in all circumstances be limited to £500. This does not apply to the types of loss set out in condition 7.5.
+### Security of Your Data
 
-7.5     Nothing in these Terms shall limit or exclude our liability for:
+The information we obtain from our use of cookies is generally anonymous and does not contain personal data. However, we may collect information about your computer or device, such as your IP address and browser type. This information is used to enhance security and improve our services.
 
-(a)   death or personal injury resulting from our negligence;
+### Changes to This Cookies Policy
 
-(b)   fraud or fraudulent misrepresentation; and
+We may update this Cookies Policy from time to time to reflect changes in our practices or legal requirements. When we make changes, we will update the “Active Date” at the top of this policy and notify you through a notification on our website or an updated cookie banner.
 
-(c)   any other liability that cannot be excluded or limited by English law.
+### Contact Us
 
-**8.      INDEMNITY**
+If you have any questions or concerns about this Cookies Policy or our use of cookies, please contact us at:
 
-You agree to indemnify and hold us harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable legal fees and costs, arising out of or in any way connected with any of the following:
+* **Email:** [info@wcbs.co.uk](mailto:info@wcbs.co.uk)
 
-(a)   your Content or your access to or use of HUB;
-
-(b)   your breach or alleged breach of these Terms;
-
-(c)   your violation of any third-party rights, including without limitation, any intellectual property rights, publicity, confidentiality, property or privacy rights; or
-
-(d)   your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental and quasi-governmental authorities, including, without limitation, all regulatory, administrative and legislative authorities.
-
-**9.      TERMINATION**
-
-9.1     Without prejudice to our other rights and remedies under these Terms and in law, we may terminate your access to the Services immediately by written notice to you:
-
-(a)   if you commit a material or persistent breach of these Terms. For the avoidance of doubt, any breach of clauses 3 or 4 shall be deemed a material breach; or
-
-(b)   if you breach any of the Licence Restrictions or any provisions of our acceptable use or other community policies.
-
-9.2     On termination for any reason:
-
-(a)   all rights granted to you under these Terms shall cease;
-
-(b)   you must immediately cease all activities authorised by these Terms, including your access to any registered user accounts and/or use of HUB; and
-
-(c)   we may deactivate and/or delete your user account and you agree not to attempt to access your user account or create any other user account without our prior written consent.
-
-9.3     You acknowledge and agree that on termination of your rights under these Terms, or otherwise notwithstanding the deletion, deactivation or non-use of your user account, we may continue to store and use your Content in accordance with these Terms.
-
-**10.    COMMUNICATION BETWEEN US**
-
-10.1   If you wish to contact us in writing, or if any condition in these Terms requires you to give us notice in writing, you can send this to us by e-mail or by prepaid post to [sales@wcbs.co.uk](mailto:sales@wcbs.co.uk) or West Country Business Systems (Holdings) Limited, Unit 7, Landmark House, Wirral Park Road, Glastonbury, Somerset BA6 9FR. We will confirm receipt of this by contacting you in writing, normally by e-mail.
-
-10.2   If we have to contact you or give you notice in writing, we will do so by e-mail or by pre-paid post to the address you provide to us.
-
-**11.     EVENTS OUTSIDE OUR CONTROL**
-
-We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under these Terms that is caused by any act or event beyond our reasonable control, including failure of public or private telecommunications networks.
-
-**12.    OTHER IMPORTANT TERMS**
-
-12.1   We may transfer our rights and obligations under these Terms to another organisation, but this will not affect your rights or our obligations under these Terms. You may only transfer your rights or obligations under these Terms to another person if we agree in writing.
-
-12.2   These Terms, together with any documents referred to in them (including, but not limited to, our Privacy Policy) constitute the entire agreement between you and us and govern your use of the Services, superseding any prior agreements between you and us.
-
-12.3   No third party shall have the right to enforce any provision in these Terms.
-
-12.4   If we fail to insist that you perform any of your obligations under these Terms, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you.
-
-12.5   Each of the clauses in these Terms operates separately. If any court or competent authority decides that any of them are unlawful or unenforceable, the remaining provisions will remain in full force and effect.
-
-12.6   Please note that the agreement between us, comprising these Terms, its subject matter and formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction in relation to any claim or dispute arising out of or in connection with it (whether contractual or non-contractual).
+* **Address:** WCBS, Unit 1 Landmark House, Wirrall Park Road, Glastonbury, England, BA6 9FR
+* **Telephone:** +44 (0)1458833055
+* **Data Protection Officer (DPO):** [dpo@wcbs.co.uk](mailto:dpo@wcbs.co.uk)
 
 [![](https://www.wcbs.co.uk/wp-content/uploads/2022/05/Untitled-design-2022-05-17T163417.012.png)](https://www.wcbs.co.uk/)
 
@@ -500,6 +487,6 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-                                                                            
+                                                                              
 
 [Go to Top](#)
