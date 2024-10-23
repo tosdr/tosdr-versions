@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Integrity
+
+### Mozambique’s turn toward integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1023/Mozambique-s-turn-toward-integrity "Mozambique’s turn toward integrity")
+
 [Freedom
 
 ### ‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.](https://www.csmonitor.com/USA/Politics/2024/1023/Argentina-Javier-Milei-socialism-libertarian "‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.")
@@ -99,10 +103,6 @@ Recent Stories
 [Community
 
 ### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
-
-[Integrity
-
-### In Europe, a nod to honest leaders](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1022/In-Europe-a-nod-to-honest-leaders "In Europe, a nod to honest leaders")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Caregivers needed: For children, trees, land, and rivers](https://www.csmonitor.com/World/Points-of-Progress/2024/1023/children-land-trees-rivers-caregiver "Caregivers needed: For children, trees, land, and rivers")
+
 [### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
 
 [### Europe is trying to cut back migration. Can it find a legal way to do it?](https://www.csmonitor.com/World/Europe/2024/1022/immigration-italy-albania-processing-centers-court "Europe is trying to cut back migration. Can it find a legal way to do it?")
-
-[### Peru’s former president accepted $35 million in bribes. Now he will serve 20 years.](https://www.csmonitor.com/World/Americas/2024/1022/alejandro-toledo-peru-corruption-scandal-bribes-guilty "Peru’s former president accepted $35 million in bribes. Now he will serve 20 years.")
 
 * * *
 
