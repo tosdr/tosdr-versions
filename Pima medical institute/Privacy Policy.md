@@ -235,8 +235,6 @@ Ready To Start Your Future In Healthcare?
 
 Request More Information here and a member of our team will get back to you as soon as possible to answer your questions and talk you through the process of enrolling for our on-campus programs. Or give us a call at [(800) 477-7462](tel:8004777462)
 
-                
-
 * Program 
     
     Select ProgramB.S. Health Care AdministrationB.S. Nursing (RN to BSN)B.S. Physical Therapist AssistantB.S. Radiologic SciencesB.S. Respiratory TherapyComputed TomographyDental AssistantDental HygieneDiagnostic Medical SonographyEmergency Medical TechnicianExpanded Duties Dental AssistantHealth Care Administration (Online)Health Care Administration CertificateM.S. Organizational LeadershipMedical AssistantMedical Billing and CodingMedical Laboratory TechnicianNursingNursing Assistant/Nurse AideOccupational Therapy AssistantParamedicPharmacy TechnicianPhlebotomy TechnicianPhysical Therapist AssistantPractical NursingRadiographyRadiography – Bridge (Online)Respiratory TherapySterile Processing TechnicianSurgical TechnologyVeterinary AssistantVeterinary TechnicianUndecided
@@ -275,6 +273,8 @@ Request More Information here and a member of our team will get back to you as s
     0000
     
 * By submitting this form, I agree to the [Privacy Policy](https://pmi.edu/privacy-policy) , which I have read on this website.
+* CAPTCHA
+    
 * 
 * 
 * 
@@ -371,6 +371,8 @@ Next
     0000
     
 * By submitting this form requesting information, I give Pima Medical Institute permission to contact me via email, telephone, mobile phone or text messages. If you prefer to contact us directly call [800-477-7462](tel:8004777462)
+* CAPTCHA
+    
 * 
 * 
 * 
