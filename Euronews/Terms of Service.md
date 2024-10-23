@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [European Parliament](https://www.euronews.com/tag/european-parliament)
     * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
     * [Germany](https://www.euronews.com/tag/germany)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [European Union](https://www.euronews.com/tag/european-union)
     * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
     
     * * *
     
     Latest stories
     
-    [![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")
+    [![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")
     
-    ![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](https://static.euronews.com/articles/stories/08/80/55/46/368x207_cmsv2_3ff7fd1c-2918-5343-ab03-322b4532fa3e-8805546.jpg "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Hungary calls for former prisoner turned MEP's immunity to be lifted](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
-    
-    [![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")
-    
-    ![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](https://static.euronews.com/articles/stories/08/80/52/38/368x207_cmsv2_fdd1ab36-1461-503b-9cb7-38231d0057ed-8805238.jpg "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
+    ![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](https://static.euronews.com/articles/stories/08/80/65/42/368x207_cmsv2_41732407-91f0-5b03-ad2d-e13910a5857e-8806542.jpg "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
     
     Now playing Next
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Seoul weighs sending arms to Ukraine as Pyongyang troops join Russia](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
+    ### [ABBA, The Cure and Radiohead sign AI protest letter](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
     
-    [![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")
+    [![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")
     
-    ![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](https://static.euronews.com/articles/stories/08/80/51/76/368x207_cmsv2_557bdd7e-81ff-5324-9755-caedace6259f-8805176.jpg "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Bulgaria dismantles major counterfeit money-printing operation](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
-    
-    [![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")
-    
-    ![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](https://static.euronews.com/articles/stories/08/79/71/18/368x207_cmsv2_e5bacd89-c406-54ab-9527-2dae927c1f5a-8797118.jpg "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
+    ![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](https://static.euronews.com/articles/stories/08/78/79/16/368x207_cmsv2_32f737dd-a2a5-5a71-ab0c-a45e792b45f1-8787916.jpg "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
     
     Now playing Next
     
-    [USA](https://www.euronews.com/news/america/usa)
+    [Markets](https://www.euronews.com/business/markets)
     
-    ### [Concerns grow over Donald Trump's mental and cognitive health](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
+    ### [What key factors could keep the euro under pressure for some time?](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
+    
+    [![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")
+    
+    ![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](https://static.euronews.com/articles/stories/08/80/63/10/368x207_cmsv2_bce674ca-4d73-5d83-8e29-0fd0fdd393bc-8806310.jpg "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
+    
+    Now playing Next
+    
+    [Lebanon](https://www.euronews.com/news/asia/lebanon)
+    
+    ### [Israeli army says it killed top Hezbollah leader in Beirut airstrike](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
+    
+    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+    
+    ![Euronews](https://static.euronews.com/articles/stories/08/80/46/02/368x207_cmsv2_f94a8042-0587-5b80-a263-57267e7022bc-8804602.jpg "Euronews")](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
+    
+    Now playing Next
+    
+    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+    
+    ### [Are Moldova and Georgia the next Ukraine?](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -316,8 +316,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -363,61 +361,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [European Parliament](https://www.euronews.com/tag/european-parliament)
 * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
 * [Germany](https://www.euronews.com/tag/germany)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [European Union](https://www.euronews.com/tag/european-union)
 * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
 
 * * *
 
 Latest stories
 
-[![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")
+[![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")
 
-![Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ](https://static.euronews.com/articles/stories/08/80/55/46/368x207_cmsv2_3ff7fd1c-2918-5343-ab03-322b4532fa3e-8805546.jpg "Italian activist Ilaria Salis arrives with her father Roberto at their home in Monza, Italy, Saturday, June 15, 2024. ")](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
+![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](https://static.euronews.com/articles/stories/08/80/65/42/368x207_cmsv2_41732407-91f0-5b03-ad2d-e13910a5857e-8806542.jpg "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Hungary calls for former prisoner turned MEP's immunity to be lifted](https://www.euronews.com/my-europe/2024/10/22/hungary-asks-to-lift-immunity-for-mep-it-imprisoned-for-for-attacking-far-right-militants)
+### [ABBA, The Cure and Radiohead sign AI protest letter](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
 
 * * *
 
-[![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")
+[![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")
 
-![FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024](https://static.euronews.com/articles/stories/08/80/52/38/368x207_cmsv2_fdd1ab36-1461-503b-9cb7-38231d0057ed-8805238.jpg "FILE: South Korean mechanised unit personnel parade with their armoured vehicles at Seoul air base in Seongnam, 25 September 2024")](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
+![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](https://static.euronews.com/articles/stories/08/78/79/16/368x207_cmsv2_32f737dd-a2a5-5a71-ab0c-a45e792b45f1-8787916.jpg "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Markets](https://www.euronews.com/business/markets)
 
-### [Seoul weighs sending arms to Ukraine as Pyongyang troops join Russia](https://www.euronews.com/my-europe/2024/10/22/seoul-weighs-sending-arms-to-ukraine-as-north-korean-troops-join-russia)
+### [What key factors could keep the euro under pressure for some time?](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
 
 * * *
 
-[![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")
+[![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")
 
-![FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort](https://static.euronews.com/articles/stories/08/80/51/76/368x207_cmsv2_557bdd7e-81ff-5324-9755-caedace6259f-8805176.jpg "FILE PHOTO- Oct. 20, 2018 Bulgaria's Interior Ministry, a police officer holds items used to print counterfeit money in the basement of a hotel in the Beach Black Sea resort")](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
+![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](https://static.euronews.com/articles/stories/08/80/63/10/368x207_cmsv2_bce674ca-4d73-5d83-8e29-0fd0fdd393bc-8806310.jpg "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Lebanon](https://www.euronews.com/news/asia/lebanon)
 
-### [Bulgaria dismantles major counterfeit money-printing operation](https://www.euronews.com/my-europe/2024/10/22/bulgarian-authorities-dismantle-major-counterfeit-money-printing-operation)
+### [Israeli army says it killed top Hezbollah leader in Beirut airstrike](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
 
 * * *
 
-[![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")
+[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
 
-![Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.](https://static.euronews.com/articles/stories/08/79/71/18/368x207_cmsv2_e5bacd89-c406-54ab-9527-2dae927c1f5a-8797118.jpg "Republican presidential nominee former President Donald Trump speaks at a campaign event in Atlanta, Georgia.")](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
+![Euronews](https://static.euronews.com/articles/stories/08/80/46/02/368x207_cmsv2_f94a8042-0587-5b80-a263-57267e7022bc-8804602.jpg "Euronews")](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
 
 Now playing Next
 
-[USA](https://www.euronews.com/news/america/usa)
+[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
 
-### [Concerns grow over Donald Trump's mental and cognitive health](https://www.euronews.com/2024/10/22/donald-trumps-erratic-behaviour-fuels-concern-for-his-mental-and-cognitive-health)
+### [Are Moldova and Georgia the next Ukraine?](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -671,8 +669,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
