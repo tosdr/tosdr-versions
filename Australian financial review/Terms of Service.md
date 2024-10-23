@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3133%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_83%2C$y_331/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/20199fb6f4821deb4aa6034fb390184c845d6d9f)](https://www.afr.com/young-rich/how-gen-z-fuelled-white-fox-founders-200m-fortune-20241016-p5kiu4)
+[![Dissh CEO Lucy Henry-Hicks has turned around the label and now it’s a staple in Australian women’s wardrobes.](https://static.ffx.io/images/$zoom_0.4019%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_858/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/726b41afad43033289f166f9c54f09aecde48606)](https://www.afr.com/young-rich/lucy-henry-hicks-knows-what-young-women-want-20241004-p5kfx5)
 
-### [How White Fox duo conquered tween fashion and made $200m](https://www.afr.com/young-rich/how-gen-z-fuelled-white-fox-founders-200m-fortune-20241016-p5kiu4)
+### [Lucy Henry-Hicks knows what young women want](https://www.afr.com/young-rich/lucy-henry-hicks-knows-what-young-women-want-20241004-p5kfx5)
 
-* Carrie LaFrenz and Lauren Sams
+* Lauren Sams
 
-* ### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
+* ### [How White Fox duo conquered tween fashion and made $200m](https://www.afr.com/young-rich/how-gen-z-fuelled-white-fox-founders-200m-fortune-20241016-p5kiu4)
     
-* ### [Meet the 17 new faces on this year’s Young Rich List](https://www.afr.com/young-rich/meet-the-17-new-faces-on-this-year-s-young-rich-list-20241004-p5kfwe)
+* ### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
     
 
 [The Australian Financial Review](https://www.afr.com/)
