@@ -31,7 +31,7 @@ Search Search Search
 
 * [Home](https://returningveterans.org/)
 * About
-    * [About](https://returningveterans.org/about/about)
+    * [About](https://returningveterans.org/about)
     * [The Challenge](https://returningveterans.org/about/the-challenge)
     * [Why RVP is Different](https://returningveterans.org/about/why-rvp-is-different)
     * [Meet Our Staff](https://returningveterans.org/about/meet-our-staff)
@@ -44,7 +44,7 @@ Search Search Search
     * [Impact Report](https://returningveterans.org/about/impact-report)
     * [Wall of Honor New](https://returningveterans.org/wall-of-honor)
 * Get Services
-    * [Get Services](https://returningveterans.org/get-services/get-services)
+    * [Get Services](https://returningveterans.org/get-services)
     * [Find a Provider](https://returningveterans.org/get-services/find-a-provider)
     * [How to Find a Provider](https://returningveterans.org/get-services/how-to-find-a-provider)
     * [How it Works](https://returningveterans.org/get-services/how-it-works)
@@ -52,7 +52,7 @@ Search Search Search
     * [Meet Our Clients](https://returningveterans.org/get-services/meet-our-clients)
     * [Client FAQ](https://returningveterans.org/get-services/client-faq)
 * Volunteer Providers
-    * [Volunteer Providers](https://returningveterans.org/volunteer-providers/volunteer-providers)
+    * [Volunteer Providers](https://returningveterans.org/volunteer-providers)
     * [Become a Volunteer Provider](https://returningveterans.org/volunteer-providers/become-a-volunteer-provider)
         * [How Volunteering Works](https://returningveterans.org/volunteer-providers/how-volunteering-works)
             
@@ -76,7 +76,7 @@ Search Search Search
     * [Volunteer Provider Spotlight](https://returningveterans.org/volunteer-providers/volunteer-provider-spotlight)
     * [Login](https://returningveterans.org/volunteer-providers/login)
 * Help-RVP
-    * [Help RVP](https://returningveterans.org/help-rvp/help-rvp)
+    * [Help RVP](https://returningveterans.org/help-rvp)
     * [Donate](https://returningveterans.org/help-rvp/donate)
     * [Donate Stock](https://returningveterans.org/help-rvp/donate-stock)
     * [Become a Supporter](https://returningveterans.org/help-rvp/become-a-supporter)
@@ -87,7 +87,7 @@ Search Search Search
     * [Share Hope](https://returningveterans.org/help-rvp/share-hope)
     * [Fundraise for RVP](https://returningveterans.org/help-rvp/fundraise-for-rvp)
 * News
-    * [News](https://returningveterans.org/news/news)
+    * [News](https://returningveterans.org/news)
     * [Get Involved](https://returningveterans.org/news/get-involved)
     * [About RVP](https://returningveterans.org/news/about-rvp)
     * [Veterans, Service Members, & Family](https://returningveterans.org/news/veterans-service-members-family)
@@ -95,7 +95,7 @@ Search Search Search
     * [RVP In the Community](https://returningveterans.org/news/rvp-in-the-community)
     * [Instagram](https://returningveterans.org/news/instagram)
 * Events
-    * [Events](https://returningveterans.org/events/events)
+    * [Events](https://returningveterans.org/events)
     * [Continuing Education Trainings](https://returningveterans.org/events/continuing-education-training)
     * [Community](https://returningveterans.org/events/community-events)
     * [Calendar](https://returningveterans.org/events/calendar)
@@ -186,12 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Beth Blevens](https://cdn.returningveterans.org/images/honor/Blevens%2C_Beth.jpg)  
+![Meghan Johnson](https://cdn.returningveterans.org/images/honor/26_Meghan_Johnson.jpg)  
 
-**In Honor of Beth Blevens**  
+**In Honor of Meghan Johnson**  
 United States Air Force  
-United States Air National Guard  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -236,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/22/24 - 2:21:57  
+Printed 10/22/24 - 8:17:43  
 © 2024 Returning Veterans Project
