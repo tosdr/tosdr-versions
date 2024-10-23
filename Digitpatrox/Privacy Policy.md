@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, October 22 2024
+Wednesday, October 23 2024
 
 Latest
 
-* [Does remote work fuel wage inequality? Not exactly – staff working from home tend to be higher earners, but they also experience lower wage growth](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
-* [The iPad mini is still the best small tablet around – Computerworld](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
-* [Nine of the Biggest Race Day Mistakes You Should Avoid](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
-* [US gun maker Saeilo hacked by ransomware gang, private info stolen](https://digitpatrox.com/us-gun-maker-saeilo-hacked-by-ransomware-gang-private-info-stolen/)
-* [How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
-* [Best and Worst Phone Plan Providers](https://digitpatrox.com/best-and-worst-phone-plan-providers/)
-* [Blender, Capture One, and Cubase Now Run Natively on Snapdragon X PCs](https://digitpatrox.com/blender-capture-one-and-cubase-now-run-natively-on-snapdragon-x-pcs/)
-* [Organizations warned of the dangers of ‘long-lived’ cloud credentials](https://digitpatrox.com/organizations-warned-of-the-dangers-of-long-lived-cloud-credentials/)
-* [Can You Use A Personal Checking Account For Your Business?](https://digitpatrox.com/can-you-use-a-personal-checking-account-for-your-business/)
-* [I’m a stomach sleeper, here’s why I’m super fussy about my pillows](https://digitpatrox.com/im-a-stomach-sleeper-heres-why-im-super-fussy-about-my-pillows/)
+* [CISA proposes new security requirements to protect govt, personal data](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
+* [WhatsApp Will Finally Lets You Add Contacts from Any Device](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
+* [Ethical hackers are flocking to AI tools, but the technology may be causing more problems than it solves](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
+* [Asana launches AI Studio, a no-code tool for building AI agents – Computerworld](https://digitpatrox.com/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents-computerworld/)
+* [Why I Think the Garmin Forerunner 265 Is the Best Running Watch](https://digitpatrox.com/why-i-think-the-garmin-forerunner-265-is-the-best-running-watch/)
+* [How to Access ChatGPT Advanced Voice Mode](https://digitpatrox.com/how-to-access-chatgpt-advanced-voice-mode/)
+* [Best Stroller and Car Seat Combos](https://digitpatrox.com/best-stroller-and-car-seat-combos/)
+* [Windows Photos App Adds Image Upscaling, With a Catch](https://digitpatrox.com/windows-photos-app-adds-image-upscaling-with-a-catch/)
+* [Cisco confirms attackers stole data, shuts down access to compromised DevHub environment](https://digitpatrox.com/cisco-confirms-attackers-stole-data-shuts-down-access-to-compromised-devhub-environment/)
+* [E.U. Partners With Venture Capital Firms to Boost Tech Investment](https://digitpatrox.com/e-u-partners-with-venture-capital-firms-to-boost-tech-investment/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/g8pWYRer8fptyD7ahYmwoi-1200-80.jpg)](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/CISA.jpg)](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
     
-    [Does remote work fuel wage inequality? Not exactly – staff working from home tend to be higher earners, but they also experience lower wage growth](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
+    [CISA proposes new security requirements to protect govt, personal data](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
     
-    13 mins ago
+    26 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3578437-0-68901100-1729614754-Apple-iPad-mini-hero-241015.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/WhatsApp-to-soon-let-users-add-contacts-from-linked-devices-featured-image.jpg)](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
     
-    [The iPad mini is still the best small tablet around – Computerworld](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
+    [WhatsApp Will Finally Lets You Add Contacts from Any Device](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
     
-    35 mins ago
+    58 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JATDEVCX1YPTE6CZVP46PH9Z/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
+* [![](https://cdn.mos.cms.futurecdn.net/P4cLRcuLgwmPRwmM2UTwDG-1200-80.jpg)](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
     
-    [Nine of the Biggest Race Day Mistakes You Should Avoid](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
+    [Ethical hackers are flocking to AI tools, but the technology may be causing more problems than it solves](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/us-gun-maker-saeilo-hacked-by-ransomware-data-breach.jpg)](https://digitpatrox.com/us-gun-maker-saeilo-hacked-by-ransomware-gang-private-info-stolen/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3578614-0-25707300-1729632522-shutterstock_2472677939.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents-computerworld/)
     
-    [US gun maker Saeilo hacked by ransomware gang, private info stolen](https://digitpatrox.com/us-gun-maker-saeilo-hacked-by-ransomware-gang-private-info-stolen/)
+    [Asana launches AI Studio, a no-code tool for building AI agents – Computerworld](https://digitpatrox.com/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents-computerworld/)
     
-    1 hour ago
+    3 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-11-0xc1900101-error-hero.webp)](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
+* [![](https://lifehacker.com/imagery/articles/01JATQ0S8312WBXZBSQB28TWDT/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/why-i-think-the-garmin-forerunner-265-is-the-best-running-watch/)
     
-    [How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
+    [Why I Think the Garmin Forerunner 265 Is the Best Running Watch](https://digitpatrox.com/why-i-think-the-garmin-forerunner-265-is-the-best-running-watch/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 mins ago
+* [26 mins ago
     
-    ### Does remote work fuel wage inequality? Not exactly – staff working from home tend to be higher earners, but they also experience lower wage growth](https://digitpatrox.com/does-remote-work-fuel-wage-inequality-not-exactly-staff-working-from-home-tend-to-be-higher-earners-but-they-also-experience-lower-wage-growth/)
-* [35 mins ago
+    ### CISA proposes new security requirements to protect govt, personal data](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
+* [58 mins ago
     
-    ### The iPad mini is still the best small tablet around – Computerworld](https://digitpatrox.com/the-ipad-mini-is-still-the-best-small-tablet-around-computerworld/)
-* [1 hour ago
+    ### WhatsApp Will Finally Lets You Add Contacts from Any Device](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
+* [2 hours ago
     
-    ### Nine of the Biggest Race Day Mistakes You Should Avoid](https://digitpatrox.com/nine-of-the-biggest-race-day-mistakes-you-should-avoid/)
+    ### Ethical hackers are flocking to AI tools, but the technology may be causing more problems than it solves](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
 
 Most Popular Topics
 
-* [September 12, 2024
+* [3 weeks ago
     
-    ### Is a Small Pro Phone Worth It?](https://digitpatrox.com/is-a-small-pro-phone-worth-it/)
-* [4 weeks ago
+    ### Windows 11 build 27718 outs with new security feature in Canary Channel](https://digitpatrox.com/windows-11-build-27718-outs-with-new-security-feature-in-canary-channel/)
+* [August 12, 2024
     
-    ### How to Use ‘Productivity Sprints’ to Get More Done](https://digitpatrox.com/how-to-use-productivity-sprints-to-get-more-done/)
-* [August 23, 2024
+    ### Fake X content warnings on Ukraine war, earthquakes used as clickbait](https://digitpatrox.com/fake-x-content-warnings-on-ukraine-war-earthquakes-used-as-clickbait/)
+* [September 17, 2024
     
-    ### 2024 Acura ZDX First Drive Review](https://digitpatrox.com/2024-acura-zdx-first-drive-review/)
+    ### How to watch ‘Agatha All Along’ online, Disney plus deal](https://digitpatrox.com/how-to-watch-agatha-all-along-online-disney-plus-deal/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### Blender, Capture One, and Cubase Now Run Natively on Snapdragon X PCs](https://digitpatrox.com/blender-capture-one-and-cubase-now-run-natively-on-snapdragon-x-pcs/)
-* [3 hours ago
+    ### Best Stroller and Car Seat Combos](https://digitpatrox.com/best-stroller-and-car-seat-combos/)
+* [4 hours ago
     
-    ### Organizations warned of the dangers of ‘long-lived’ cloud credentials](https://digitpatrox.com/organizations-warned-of-the-dangers-of-long-lived-cloud-credentials/)
-* [3 hours ago
+    ### Windows Photos App Adds Image Upscaling, With a Catch](https://digitpatrox.com/windows-photos-app-adds-image-upscaling-with-a-catch/)
+* [5 hours ago
     
-    ### Can You Use A Personal Checking Account For Your Business?](https://digitpatrox.com/can-you-use-a-personal-checking-account-for-your-business/)
+    ### Cisco confirms attackers stole data, shuts down access to compromised DevHub environment](https://digitpatrox.com/cisco-confirms-attackers-stole-data-shuts-down-access-to-compromised-devhub-environment/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
