@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/eu-behandel-patienten-met-alternatieve-medicijnen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/rubberkorrels-op-sportgrasvelden-kankerverwekkender/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
