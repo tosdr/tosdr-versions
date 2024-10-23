@@ -1,10 +1,8 @@
 [Skip to content](#content)
 
-**It's a great time to join the WMFHA Family!**
+**It's Renewal Time!**
 
-Join before October 31 and pay no application fee plus get over $800 in additional benefits!
-
-[CLICK HERE](https://www.wmfha.org/member-benefits) for more details! 
+2025 Membership Invoices will go out the first week of November and are due by January 1st.
 
 ACKNOWLEDGE
 
