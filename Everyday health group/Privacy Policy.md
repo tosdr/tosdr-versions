@@ -971,8 +971,9 @@ EHGLogo](https://www.everydayhealthgroup.com/ "Everyday Health Group")
 * [Do Not Sell My Personal Information](https://www.everydayhealth.com/ccpa-privacy-policy/)
 * [Contact Us](https://www.everydayhealth.com/contact-us/)
 * Health Hubs
-* [Drugs & Supplements](https://www.everydayhealth.com/drugs/)
+* [All Health Topics](https://www.everydayhealth.com/all-health-topics/)
 * [Popular Topics](https://www.everydayhealth.com/most-popular/)
+* [Drugs & Supplements](https://www.everydayhealth.com/drugs/)
 * [Sitemap](https://www.everydayhealth.com/sitemap/)
 * AdChoices![AdChoice](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
     
