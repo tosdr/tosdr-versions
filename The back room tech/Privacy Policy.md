@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2069%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/usb-device-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")[Attach a USB Device to a Virtual Machine in VMware](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/dell-dset-69x52.jpg.webp)](https://thebackroomtech.com/2008/12/29/dell-dset-utility-default-password/ "Dell Dset Utility Default Password")[Dell Dset Utility Default Password](https://thebackroomtech.com/2008/12/29/dell-dset-utility-default-password/ "Dell Dset Utility Default Password")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/xp-sp-3-80x44.png)](https://thebackroomtech.com/2008/09/24/how-much-free-disk-space-do-i-need-to-install-windows-xp-sp3/ "How Much Free Disk Space Do I Need to Install Windows XP SP3?")[How Much Free Disk Space Do I Need to Install Windows XP SP3?](https://thebackroomtech.com/2008/09/24/how-much-free-disk-space-do-i-need-to-install-windows-xp-sp3/ "How Much Free Disk Space Do I Need to Install Windows XP SP3?")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png.webp)](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")[Howto: Mount a Windows share on SLES linux using cifs](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2061%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/notepad-found-80x48.png)](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")[HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/powershell-static-ip-address-61x52.png.webp)](https://thebackroomtech.com/2018/04/16/configure-static-ip-address-on-network-adapter-using-powershell/ "Configure Static IP Address on a Network Adapter using PowerShell")[Configure Static IP Address on a Network Adapter using PowerShell](https://thebackroomtech.com/2018/04/16/configure-static-ip-address-on-network-adapter-using-powershell/ "Configure Static IP Address on a Network Adapter using PowerShell")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/event-id-1521-80x16.png)](https://thebackroomtech.com/2009/05/19/fix-userenv-event-1521-and-userenv-1511-errors-in-windows-server-2003-application-log/ "Fix: Userenv event 1521 and Userenv 1511 errors in Windows Server 2003 Application log")[Fix: Userenv event 1521 and Userenv 1511 errors in Windows Server 2003 Application log](https://thebackroomtech.com/2009/05/19/fix-userenv-event-1521-and-userenv-1511-errors-in-windows-server-2003-application-log/ "Fix: Userenv event 1521 and Userenv 1511 errors in Windows Server 2003 Application log")
+    ![](https://s11921.pcdn.co/wp-content/uploads/powerbuttonaction-80x47.png.webp)](https://thebackroomtech.com/2010/09/01/change-default-log-off-button-in-windows-7-start-menu/ "Change Default Log Off Button in Windows 7 Start Menu")[Change Default Log Off Button in Windows 7 Start Menu](https://thebackroomtech.com/2010/09/01/change-default-log-off-button-in-windows-7-start-menu/ "Change Default Log Off Button in Windows 7 Start Menu")
 
 #### Our Publishing Family
 
