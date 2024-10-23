@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-61567d65b60f389a383ade076ba39538
+7cb330595a7542f81423303746ba8c99
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![13 mm by 20 mm vintage Czech glass oval discs](https://sojourner.biz/images/cache/glass/GL0151.200.jpg)](https://sojourner.biz/beads/glass/13-mm-by-20-mm-vintage-czech-glass-oval-discs.html "13 mm by 20 mm vintage Czech glass oval discs")
+[![Granulated sterling silver and pearl earrings](https://sojourner.biz/images/cache/E0032.200.jpg)](https://sojourner.biz/jewelry/earrings/granulated-sterling-silver-and-pearl-earrings.html "Granulated sterling silver and pearl earrings")
 
-#### [13 mm by 20 mm vintage Czech glass oval discs](https://sojourner.biz/beads/glass/13-mm-by-20-mm-vintage-czech-glass-oval-discs.html "13 mm by 20 mm vintage Czech glass oval discs")
+#### [Granulated sterling silver and pearl earrings](https://sojourner.biz/jewelry/earrings/granulated-sterling-silver-and-pearl-earrings.html "Granulated sterling silver and pearl earrings")
 
-$6.00
+$30.00
 
 ### Best Sellers
 
