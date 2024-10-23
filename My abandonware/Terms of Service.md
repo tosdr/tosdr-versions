@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Das Haus der Rätsel](https://www.myabandonware.com/game/das-haus-der-raetsel-sfj)
-* [Mystic Defender](https://www.myabandonware.com/game/mystic-defender-893)
-* [Mr. Driller](https://www.myabandonware.com/game/mr-driller-d7e)
-* [Mouse Trap](https://www.myabandonware.com/game/mouse-trap-7rz)
-* [NBA Jam Extreme](https://www.myabandonware.com/game/nba-jam-extreme-dm0)
+* [Tekipaki: Working Love FX](https://www.myabandonware.com/game/tekipaki-working-love-fx-syg)
+* [Team Innocent: The Point of No Return](https://www.myabandonware.com/game/team-innocent-the-point-of-no-return-syf)
+* [Anime Freak FX: Vol.6](https://www.myabandonware.com/game/anime-freak-fx-vol-6-sye)
+* [Anime Freak FX: Vol.5](https://www.myabandonware.com/game/anime-freak-fx-vol-5-syd)
+* [Super Power League FX](https://www.myabandonware.com/game/super-power-league-fx-syc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [The Winning Team](https://www.myabandonware.com/game/the-winning-team-k0n)
-* [Löwenzahn 2: Geschichten aus Natur, Umwelt und Technik - Version 2.0](https://www.myabandonware.com/game/loewenzahn-2-geschichten-aus-natur-umwelt-und-technik-version-2-0-pd4)
-* [The Story So Far: Vol 4](https://www.myabandonware.com/game/the-story-so-far-vol-4-6x9)
+* [Fatal Fury: Wild Ambition](https://www.myabandonware.com/game/fatal-fury-wild-ambition-sqr)
+* [Ultimate Super Skidmarks](https://www.myabandonware.com/game/ultimate-super-skidmarks-mfv)
+* [Amiga Classix Gold](https://www.myabandonware.com/game/amiga-classix-gold-jpj)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
