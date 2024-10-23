@@ -1,7 +1,7 @@
 Gay-Torrents.Org - Your Private Gay Torrent Tracker! - User Agreement
 =====================================================================
 
-[](https://gay-torrents.org/index.php "Gay-Torrents.Org - Your private gay torrent tracker!")
+[](https://gay-torrents.org/index.php "Happy Halloween!")
 
 * User: 
 * Password: 
