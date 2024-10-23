@@ -192,7 +192,9 @@ Situs Resmi
 [beton78](https://beton78.site/)  
 [beton365](https://beton365.site/)  
 [betnation888](https://betnation888.site/)  
-[betmen888slot](https://betmen888slot.site/)
+[betmen888slot](https://betmen888slot.site/)  
+[link alternatif zeus4d](https://themarinerormondbeach.com/)  
+[link alternatif zeus4d](https://wisands.com/)
 
 Situs Rekomendasi
 -----------------
