@@ -48,7 +48,7 @@ Return Policy
 
 #### What Can Be Returned
 
-You may return any merchandise in its original condition within 30 days of receiving it for a full product refund. You may return any item due to defective materials or workmanship (normal wear & tear excepted) for up to 6 months from the date of receiving it for a full refund. Other requests will be on a case-by-case basis.
+You may return any merchandise (excluding downloadable products) in original condition within 30 days of receiving it for a full product refund. You may return any item due to defective materials or workmanship (normal wear & tear excepted) for up to 6 months from the date of receiving it for a full refund. Other requests will be on a case-by-case basis. 
 
 #### How To Return An Item
 
@@ -87,6 +87,7 @@ Products with obvious signs of use
 **Refunds (if applicable)**  
 Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.  
 If you are approved, your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within 5 business days.  
+Digital or downloadable products are non-refundable.  
   
 **Late or missing refunds (if applicable)**  
 If you haven’t received an expected refund, please check your bank account and/or your credit card company - there is often processing time before a refund is posted.  
