@@ -4,10 +4,9 @@
 
 [![Seravo](https://seravo.com/wp-content/uploads/2024/06/seravo-logo-512.png)](https://seravo.com/en/)
 
-* Seravo
-    * [About](https://seravo.com/en/about-us/)
+* About
+    * [Company](https://seravo.com/en/about-us/)
     * [Customers](https://seravo.com/en/customers/)
-    * [Partners](https://seravo.com/en/our-partners/)
     * [Why Seravo?](https://seravo.com/en/compare/)
     * [Careers](https://seravo.com/en/careers/)
     * [Open Source](https://seravo.com/en/opensource/)
@@ -27,7 +26,7 @@
     * [Domains](https://seravo.com/en/domains/)
 * Partners
     * [Become a Partner](https://seravo.com/en/partners/)
-    * [Our Partners](https://seravo.com/en/tag/partnership/)
+    * [Our Partners](https://seravo.com/en/our-partners/)
 * Contact
     * [Contact Information](https://seravo.com/en/contact/)
     * [Billing Information](https://seravo.com/en/billing/)
