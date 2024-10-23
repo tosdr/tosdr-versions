@@ -3,7 +3,7 @@
 Terminos y condiciones - Diario El Mundo
 ========================================
 
-Martes 22 De Octubre Del 2024
+Miércoles 23 De Octubre Del 2024
 
 [![logo](https://static.elmundo.sv/kdg-content/featured/logos/diario_el_mundo_hd_black.svg)](https://diario.elmundo.sv/ "Diario El Mundo")
 
