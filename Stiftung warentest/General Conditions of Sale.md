@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
 
 Neueste Tests
 
+* [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
 * [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
 * [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 * [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
 
 Service Stiftung Warentest
 
