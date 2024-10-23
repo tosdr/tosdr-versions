@@ -110,20 +110,20 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 * No article
 
-[![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280c.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
-    
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
-    
-    SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
-* [![【Showdown Edition】Review ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/neogeo-arcade-stick-pro-use-impression-00-1-150x150.jpg "【Showdown Edition】Review ")
-    
-    【Showdown Edition】Review "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-use-impression/ "【Showdown Edition】Review ")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/redbull-white-edition-00-150x150.jpg)
     
     "RedBull THE WHITE EDITION Fresh Breeze" limited term appeared!](https://saiganak.com/review/redbull-te-white-edition-fresh-breeze/)
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/trials-of-mana-demo-play-00-150x150.jpg)
+    
+    "TRIALS of MANA" Trial Version Review! Immersion in a story!](https://saiganak.com/review/trials-of-mana-demo-play/)
+* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+    
+    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+* [![Review! the Feature-Rich ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/02/neogeo-arcade-stick-pro-unbox-00-1-150x150.jpg "Review! the Feature-Rich ")
+    
+    Review! the Feature-Rich "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-unbox/ "Review! the Feature-Rich ")
 * [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
     
     Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
@@ -151,6 +151,7 @@ _saiganak.com_ **[esports media | Saiga NAK](https://saiganak.com/ "esports medi
 * [](https://www.facebook.com/saiganak)
 * [](https://www.instagram.com/saiganak.games)
 * [](https://www.pinterest.com/saiganak/)
+* [](https://flipboard.com/@saiganak)
 * [](https://saiganak.com/feed/)
 
 [© Saiga NAK](https://saiganak.com/)
