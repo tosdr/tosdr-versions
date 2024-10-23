@@ -12,7 +12,7 @@ Menu
     
     TOP STORIES
     
-    * [Israel says it killed a Hezbollah official expected to be the group's next leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
+    * [Israel says it killed a Hezbollah official expected to become the group's next leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
     * [Images capture exact moments an Israeli missile strikes building in Beirut](https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e)
     * [The little airline that could — Lebanon's national carrier braves Israeli airstrikes](https://apnews.com/article/lebanon-israel-hezbollah-middle-east-airlines-mea-4abfae7f6165b7b34083e2512272ce54)
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
+    * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
     * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
-    * [Grieving families of seniors killed when a dock collapsed say the tragedy was preventable](https://apnews.com/article/dock-deaths-georgia-sapelo-island-crump-efd8c31480d1ac91dbb744dc76cfb9f7)
-    * [North Carolina county surrounding Asheville overcounted Helene deaths by as many as 30, sheriff says](https://apnews.com/article/north-carolina-helene-death-count-error-55cf962dfdef14a731d5b37c924b7c16)
     
     Newsletters
     
@@ -52,7 +52,7 @@ Menu
     
     TOP STORIES
     
-    * [Trump airs list of familiar grievances as he and Harris seek Latino votes](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
+    * [Harris speaks about creating economic opportunity for Latino men; Trump airs familiar grievances](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
     * [How Project 2025 started and where it aims to go next](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
     * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump denigrates Harris as 'lazy,' invoking a racist trope against Black people](https://apnews.com/article/trump-kamala-lazy-trope-stereotype-4c2ded1046e492c5d24c7382245d0f7b)
-    * [Trump airs list of familiar grievances as he and Harris seek Latino votes](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
-    * [Harris will campaign in Texas to highlight state's abortion ban in a pitch to battleground voters](https://apnews.com/article/harris-texas-abortion-battlegrounds-election-c6b2c784df537e58d353de54930f588b)
+    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [In Pennsylvania, an influx of college graduates could push a key county toward Harris](https://apnews.com/article/election-battleground-centre-county-pennsylvania-harris-trump-99648a481dcd5fca8580a86a271e14dc)
+    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [NBA things to know: As season begins, Celtics chasing Spurs for all-time best record](https://apnews.com/article/nba-season-celtics-spurs-1acdeb3aaf1f90628af0cf80bfc229b9)
-    * [76ers rule Embiid and George out for opener with injuries. Bucks' Middleton also expected to be out](https://apnews.com/article/76ers-embiid-george-3e2296ab03c95bccff4b6e5531474a02)
-    * [Vinicius Junior scores hat trick as Real Madrid beats Dortmund 5-2 in Champions League](https://apnews.com/article/champions-league-real-madrid-arsenal-psg-707b769bee5d5d305e7f44692506e7df)
+    * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
+    * [LeBron and Bronny James make history as the NBA's first father-son duo to play together](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
+    * [Celtics tie, but don't break, NBA record with 29 3-pointers. Then they miss 13 3s in a row](https://apnews.com/article/boston-celtics-nba-record-3-pointers-d8104885798c6a4d17c7cad7fba4d7af)
     
     Newsletters
     
@@ -115,7 +115,7 @@ Menu
     TOP STORIES
     
     * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
-    * [Navalny's memoir details isolation and suffering in a Russian prison - and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
+    * [Navalny's memoir details isolation and suffering in a Russian prison — and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
     * [A$AP Rocky to go to trial next year on charges he fired a gun at a former friend](https://apnews.com/article/aap-rocky-trial-shooting-rihanna-8137161cb7438e41b3fe6e33f8e41ba2)
     
 * [Business](https://apnews.com/business)
@@ -128,7 +128,7 @@ Menu
     
     * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
     * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
-    * [IMF's view: The global fight against high inflation is 'almost won'](https://apnews.com/article/imf-global-economy-inflation-growth-federal-reserve-715442446ade21f91548095ed46ba312)
+    * [Yellen says isolationism 'made America and the world worse off' in speech to global finance leaders](https://apnews.com/article/imf-world-bank-yellen-global-finance-bd58fde32b3717190429cb439767cddd)
     
 * [Science](https://apnews.com/science)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [A look behind the scenes at the National Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
+    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
-    * [Peloton plans to sell its deluxe stationary bike at Costco to reach holiday shoppers](https://apnews.com/article/peloton-costco-bike-holiday-sales-3f372f05b7af411f63afb75b7718bc5e)
-    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
     
 * [Religion](https://apnews.com/religion)
     
@@ -294,11 +294,11 @@ Menu
     TOP STORIES
     
     * [Israel bombardea edificios cerca de Beirut y hospitales libaneses temen ser atacados](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
-    * [Cuba amanece con mejor cobertura energética, pero la debilidad del sistema persistirá](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
-    * [La tormenta tropical Oscar se disipa en camino a las Bahamas; Kristy adquiere fuerza de huracán](https://apnews.com/article/oscar-tormenta-huracan-cuba-bahamas-24d536224cf7b830e9064f20cbfc8c7d)
-    * [Harris y Trump promocionan políticas económicas; buscan ganarse a los votantes latinos](https://apnews.com/article/eeuu-elecciones-harris-trump-45e71eb1ce77c2a9475af3c0f4d28956)
-    * [México anuncia nuevo plan alimentario que podría regresar al país a la década de 1980](https://apnews.com/article/mexico-tortilla-frijol-alimentos-agricultura-2ab68e1f4f9f20cbd8e7be173fd73227)
-    * [Juez ordena a Giuliani entregar apartamento en NY y 26 relojes a trabajadoras electorales de Georgia](https://apnews.com/article/giuliani-demanda-difamacion-yanquis-bacall-georgia-elecciones-9950b4cc6caac8a0e274ab1746fec3e6)
+    * [Harris habla de oportunidades económicas para los hombres latinos; Trump la insulta](https://apnews.com/article/eeuu-elecciones-harris-trump-45e71eb1ce77c2a9475af3c0f4d28956)
+    * [Cuba reconecta el sistema energético nacional, pero el gobierno admite que seguirá habiendo apagones](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
+    * [Arrestos por cruces ilegales en frontera sur de EEUU caen en septiembre](https://apnews.com/article/frontera-eeuu-cbp-darien-biden-trump-harris-f2861a366f2a0feb4bba68606926ca5e)
+    * [Fallece Fernando Valenzuela, el mexicano que desató la ‘Fernandomanía’ con Dodgers](https://apnews.com/article/valenzuela-fernando-deceso-dodgers-mexicano-17b06aec59a92a5abbcb9c006ccc49a6)
+    * [Aerolínea nacional de Líbano continúa en operaciones pese a bombardeos israelíes](https://apnews.com/article/libano-israel-guerra-52e02cda56dad7c29e9b3730283e2493)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,7 +460,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel says it killed a Hezbollah official expected to be the group's next leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
+    * [Israel says it killed a Hezbollah official expected to become the group's next leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
     * [Images capture exact moments an Israeli missile strikes building in Beirut](https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e)
     * [The little airline that could — Lebanon's national carrier braves Israeli airstrikes](https://apnews.com/article/lebanon-israel-hezbollah-middle-east-airlines-mea-4abfae7f6165b7b34083e2512272ce54)
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
+    * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
     * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
-    * [Grieving families of seniors killed when a dock collapsed say the tragedy was preventable](https://apnews.com/article/dock-deaths-georgia-sapelo-island-crump-efd8c31480d1ac91dbb744dc76cfb9f7)
-    * [North Carolina county surrounding Asheville overcounted Helene deaths by as many as 30, sheriff says](https://apnews.com/article/north-carolina-helene-death-count-error-55cf962dfdef14a731d5b37c924b7c16)
     
     Newsletters
     
@@ -507,7 +507,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump airs list of familiar grievances as he and Harris seek Latino votes](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
+    * [Harris speaks about creating economic opportunity for Latino men; Trump airs familiar grievances](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
     * [How Project 2025 started and where it aims to go next](https://apnews.com/article/project-2025-trump-harris-election-heritage-foundation-9183cf4c36c293e11b59847189d26a87)
     * [In battleground Georgia, some poor people see no reason to vote. That decision could sway election](https://apnews.com/article/georgia-voters-nonvoters-election-34209a5bba0b2697eb6fcdd004dca584)
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump denigrates Harris as 'lazy,' invoking a racist trope against Black people](https://apnews.com/article/trump-kamala-lazy-trope-stereotype-4c2ded1046e492c5d24c7382245d0f7b)
-    * [Trump airs list of familiar grievances as he and Harris seek Latino votes](https://apnews.com/article/harris-trump-latinos-economic-policies-18e99a491ba6df73f61a8c6cca004fd7)
-    * [Harris will campaign in Texas to highlight state's abortion ban in a pitch to battleground voters](https://apnews.com/article/harris-texas-abortion-battlegrounds-election-c6b2c784df537e58d353de54930f588b)
+    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [In Pennsylvania, an influx of college graduates could push a key county toward Harris](https://apnews.com/article/election-battleground-centre-county-pennsylvania-harris-trump-99648a481dcd5fca8580a86a271e14dc)
+    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [NBA things to know: As season begins, Celtics chasing Spurs for all-time best record](https://apnews.com/article/nba-season-celtics-spurs-1acdeb3aaf1f90628af0cf80bfc229b9)
-    * [76ers rule Embiid and George out for opener with injuries. Bucks' Middleton also expected to be out](https://apnews.com/article/76ers-embiid-george-3e2296ab03c95bccff4b6e5531474a02)
-    * [Vinicius Junior scores hat trick as Real Madrid beats Dortmund 5-2 in Champions League](https://apnews.com/article/champions-league-real-madrid-arsenal-psg-707b769bee5d5d305e7f44692506e7df)
+    * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
+    * [LeBron and Bronny James make history as the NBA's first father-son duo to play together](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
+    * [Celtics tie, but don't break, NBA record with 29 3-pointers. Then they miss 13 3s in a row](https://apnews.com/article/boston-celtics-nba-record-3-pointers-d8104885798c6a4d17c7cad7fba4d7af)
     
     Newsletters
     
@@ -592,7 +592,7 @@ Submit Search
     TOP STORIES
     
     * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
-    * [Navalny's memoir details isolation and suffering in a Russian prison - and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
+    * [Navalny's memoir details isolation and suffering in a Russian prison — and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
     * [A$AP Rocky to go to trial next year on charges he fired a gun at a former friend](https://apnews.com/article/aap-rocky-trial-shooting-rihanna-8137161cb7438e41b3fe6e33f8e41ba2)
     
 * [Business](https://apnews.com/business)
@@ -610,7 +610,7 @@ Submit Search
     
     * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
     * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
-    * [IMF's view: The global fight against high inflation is 'almost won'](https://apnews.com/article/imf-global-economy-inflation-growth-federal-reserve-715442446ade21f91548095ed46ba312)
+    * [Yellen says isolationism 'made America and the world worse off' in speech to global finance leaders](https://apnews.com/article/imf-world-bank-yellen-global-finance-bd58fde32b3717190429cb439767cddd)
     
 * [Science](https://apnews.com/science)
     
@@ -777,9 +777,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A look behind the scenes at the National Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
+    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
-    * [Peloton plans to sell its deluxe stationary bike at Costco to reach holiday shoppers](https://apnews.com/article/peloton-costco-bike-holiday-sales-3f372f05b7af411f63afb75b7718bc5e)
-    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
     
 * [Religion](https://apnews.com/religion)
     
@@ -802,11 +802,11 @@ Submit Search
     TOP STORIES
     
     * [Israel bombardea edificios cerca de Beirut y hospitales libaneses temen ser atacados](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
-    * [Cuba amanece con mejor cobertura energética, pero la debilidad del sistema persistirá](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
-    * [La tormenta tropical Oscar se disipa en camino a las Bahamas; Kristy adquiere fuerza de huracán](https://apnews.com/article/oscar-tormenta-huracan-cuba-bahamas-24d536224cf7b830e9064f20cbfc8c7d)
-    * [Harris y Trump promocionan políticas económicas; buscan ganarse a los votantes latinos](https://apnews.com/article/eeuu-elecciones-harris-trump-45e71eb1ce77c2a9475af3c0f4d28956)
-    * [México anuncia nuevo plan alimentario que podría regresar al país a la década de 1980](https://apnews.com/article/mexico-tortilla-frijol-alimentos-agricultura-2ab68e1f4f9f20cbd8e7be173fd73227)
-    * [Juez ordena a Giuliani entregar apartamento en NY y 26 relojes a trabajadoras electorales de Georgia](https://apnews.com/article/giuliani-demanda-difamacion-yanquis-bacall-georgia-elecciones-9950b4cc6caac8a0e274ab1746fec3e6)
+    * [Harris habla de oportunidades económicas para los hombres latinos; Trump la insulta](https://apnews.com/article/eeuu-elecciones-harris-trump-45e71eb1ce77c2a9475af3c0f4d28956)
+    * [Cuba reconecta el sistema energético nacional, pero el gobierno admite que seguirá habiendo apagones](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
+    * [Arrestos por cruces ilegales en frontera sur de EEUU caen en septiembre](https://apnews.com/article/frontera-eeuu-cbp-darien-biden-trump-harris-f2861a366f2a0feb4bba68606926ca5e)
+    * [Fallece Fernando Valenzuela, el mexicano que desató la ‘Fernandomanía’ con Dodgers](https://apnews.com/article/valenzuela-fernando-deceso-dodgers-mexicano-17b06aec59a92a5abbcb9c006ccc49a6)
+    * [Aerolínea nacional de Líbano continúa en operaciones pese a bombardeos israelíes](https://apnews.com/article/libano-israel-guerra-52e02cda56dad7c29e9b3730283e2493)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
