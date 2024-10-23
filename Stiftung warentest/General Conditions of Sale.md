@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Service Stiftung Warentest
 
