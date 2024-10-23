@@ -95,7 +95,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 
 [Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/NavigationClassicLogoWhite_7816ce09-0cd7-407b-9e6d-ba2a13b53178.webp?v=1704293088&width=2000)](https://www.sidemenclothing.com/) 
 
-[ABOUT](https://www.sidemenclothing.com/pages/about-us) [SUPPORT](https://www.sidemenclothing.com/pages/faqs)
+[STORE](https://www.sidemenclothing.com/pages/store) [ABOUT](https://www.sidemenclothing.com/pages/about-us) [SUPPORT](https://www.sidemenclothing.com/pages/faqs)
 
 USD $
 
@@ -447,16 +447,17 @@ SITEMAP
 
 * [NEW](https://www.sidemenclothing.com/collections/new-arrivals)
 * [SDMN x TMNT](https://www.sidemenclothing.com/collections/sdmn-x-tmnt)
-* [SDMN X HOT WHEELS](https://www.sidemenclothing.com/collections/sdmn-x-hot-wheels)
 * [COLLECTIONS](https://www.sidemenclothing.com/collections/newest)
 * [CLOTHING](https://www.sidemenclothing.com/collections/newest)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
 SUPPORT
 
 * [RETURNS](https://www.sidemenclothing.com/pages/returns)
 * [FAQS](https://uk.sidemenclothing.com/pages/faqs)
+* [STORE](https://www.sidemenclothing.com/pages/store)
 * [ABOUT US](https://www.sidemenclothing.com/pages/about-us)
 * [WORK WITH US](https://www.sidemenclothing.com/pages/job-applications)
 * [REPORT A FAKE](https://www.sidemenclothing.com/pages/report-a-fake)
