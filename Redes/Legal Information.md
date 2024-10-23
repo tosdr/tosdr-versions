@@ -149,9 +149,9 @@ Para la ciudadanía
 
 Talento Digital
 
-![Logo FDER](/sites/redes/files/inline-images/LOGO_FDER_transparente_7.png)
+![](/sites/redes/files/inline-images/Logo_PRTR_MRR.jpg)
 
-La iniciativa de Talento Digital tiene como objetivo facilitar la empleabilidad en el ámbito de la economía digital, favoreciendo tanto el acceso, como una mayor...
+La iniciativa de Talento Digital persigue garantizar la formación e inclusión digital de los trabajadores y del conjunto de la ciudadanía, con el fin de impulsar la...
 
 [Talento Digital](http://red.es/es/iniciativas/talento-digital "Ir al contenido de: Talento Digital")
 
