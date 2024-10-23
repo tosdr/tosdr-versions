@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
+* [How to clear the backup](https://www.backup4all.com/how-to-clear-the-backup-kb.html)  
+    
 * [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
     
-* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
+* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
     
-* [How to backup your data to DDN](https://www.backup4all.com/how-to-backup-your-data-to-ddn-kb.html)  
+* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
     
-* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
-    
-* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
+* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
     
 
 Choose language:
