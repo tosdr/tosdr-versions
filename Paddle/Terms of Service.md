@@ -615,7 +615,7 @@ Compare[Stripe](https://www.paddle.com/compare/stripe)[Lemon Squeezy](https://ww
 
 [![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
-[](https://linkedin.com/company/paddle)[](https://x.com/PaddleHQ)[](https://www.youtube.com/@PaddleHQ)[](https://www.glassdoor.co.uk/Overview/Working-at-Paddle-EI_IE988509.11,17.htm)
+[](https://linkedin.com/company/paddle "Paddle's Linkedin page")[](https://x.com/PaddleHQ "Paddle's Twitter page")[](https://www.youtube.com/@PaddleHQ "Paddle's Youtube page")[](https://www.glassdoor.co.uk/Overview/Working-at-Paddle-EI_IE988509.11,17.htm "Paddle's Glassdoor page")
 
 Paddle.com Market Ltd. © 2012—2024
 
