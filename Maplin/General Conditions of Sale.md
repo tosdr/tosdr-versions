@@ -217,6 +217,8 @@ Browse
         * [Lightning to USB-A Charging Cable Kit](https://www.maplin.co.uk/products/maplin-lightning-charging-cable-kit)
         * [HDMI Switch Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-switch-starter-kit)
         * [HDMI Splitter Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-splitter-starter-kit)
+        * [HDMI to SCART Adapter Kit](https://www.maplin.co.uk/products/maplin-hdmi-to-scart-adapter-kit)
+        * [SCART to HDMI Adapter Kit](https://www.maplin.co.uk/products/maplin-scart-to-hdmi-adapter-kit)
         
     * Shop by Brand
         
@@ -1013,6 +1015,8 @@ Browse
     * [Lightning to USB-A Charging Cable Kit](https://www.maplin.co.uk/products/maplin-lightning-charging-cable-kit)
     * [HDMI Switch Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-switch-starter-kit)
     * [HDMI Splitter Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-splitter-starter-kit)
+    * [HDMI to SCART Adapter Kit](https://www.maplin.co.uk/products/maplin-hdmi-to-scart-adapter-kit)
+    * [SCART to HDMI Adapter Kit](https://www.maplin.co.uk/products/maplin-scart-to-hdmi-adapter-kit)
     
     [Shop by Brand](https://www.maplin.co.uk/pages/cables-adapters)
     
