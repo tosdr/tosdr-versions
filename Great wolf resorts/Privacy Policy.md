@@ -623,9 +623,9 @@ We use cookies and similar technologies for a variety of purposes such as improv
 
 Close ![Close](https://cdn.greatwolf.com/content/png/cookie-close-icon.png) 
 
-[](https://www.greatwolf.com/ "Great Wolf Lodge Home")
+[![Great Wolf Lodge Logo](https://cdn.greatwolf.com/content/svg/GWL_Logo_White_Footer.svg "Great Wolf")](https://www.greatwolf.com/ "Great Wolf Lodge Home")
 
- [](https://apps.apple.com/us/app/great-wolf-lodge/id1409843426)[](https://play.google.com/store/apps/details?id=com.greatwolf.app&hl=en_US)
+ [![App Store Logo](https://cdn.greatwolf.com/content/svg/apple.svg "App Store")](https://apps.apple.com/us/app/great-wolf-lodge/id1409843426)[![Play Store Logo](https://cdn.greatwolf.com/content/svg/google-play.svg "Play Store")](https://play.google.com/store/apps/details?id=com.greatwolf.app&hl=en_US)
 
 General Info
 
@@ -667,10 +667,10 @@ Legal Info
 
 © 2024 Great Wolf Resorts, Inc. All rights reserved.
 
-*  [](https://www.facebook.com/GreatWolfWaterPark "Facebook")
-*  [](https://twitter.com/greatwolflodge "X")
-*  [](https://www.tiktok.com/@greatwolflodge "TikTok")
-*  [](https://www.instagram.com/greatwolflodge/ "Instagram")
-*  [](https://www.pinterest.com/GreatWolfLodge/ "Pinterest")
-*  [](https://www.youtube.com/channel/UCxAwV8pBsHpMq-WQo326UnQ "YouTube")
-*  [](https://www.linkedin.com/company/great-wolf-lodge "LinkedIn")
+*  [![Facebook](https://cdn.greatwolf.com/content/svg/facebookV2-white-normal.svg) ![Facebook Hover](https://cdn.greatwolf.com/content/svg/facebookV2-white-hovered.svg)](https://www.facebook.com/GreatWolfWaterPark "Facebook")
+*  [![Twitter](https://cdn.greatwolf.com/content/svg/X-white-normal.svg) ![Twitter Hover](https://cdn.greatwolf.com/content/svg/X-white-hovered.svg)](https://twitter.com/greatwolflodge "X")
+*  [![TikTok](https://cdn.greatwolf.com/content/svg/tiktok-white-normal.svg) ![TikTok Hover](https://cdn.greatwolf.com/content/svg/tiktok-white-hovered.svg)](https://www.tiktok.com/@greatwolflodge "TikTok")
+*  [![Instagram](https://cdn.greatwolf.com/content/svg/instagram-white-normal.svg) ![Instagram Hover](https://cdn.greatwolf.com/content/svg/instagram-white-hovered.svg)](https://www.instagram.com/greatwolflodge/ "Instagram")
+*  [![Pinterest](https://cdn.greatwolf.com/content/svg/pinterest-white-normal.svg) ![Pinterest Hover](https://cdn.greatwolf.com/content/svg/pinterest-white-hovered.svg)](https://www.pinterest.com/GreatWolfLodge/ "Pinterest")
+*  [![YouTube](https://cdn.greatwolf.com/content/svg/youtube-white-normal.svg) ![YouTube Hover](https://cdn.greatwolf.com/content/svg/youtube-white-hovered.svg)](https://www.youtube.com/channel/UCxAwV8pBsHpMq-WQo326UnQ "YouTube")
+*  [![LinkedIn](https://cdn.greatwolf.com/content/svg/linkedin-white-normal.svg) ![LinkedIn Hover](https://cdn.greatwolf.com/content/svg/linkedin-white-hovered.svg)](https://www.linkedin.com/company/great-wolf-lodge "LinkedIn")
