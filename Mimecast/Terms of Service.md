@@ -14,10 +14,6 @@
 
 [](#main)
 
-[M365 Threat Scan](https://www.mimecast.com/free-trial/?nv=true)
-
-[Get a Quote](https://www.mimecast.com/get-a-quote/)
-
 * Why Mimecast
     
     * [![](https://assets.mimecast.com/api/public/content/60dd7f151bb148bcafa3827011a9aec0?v=82fac553)
@@ -216,10 +212,6 @@ Quick Links
     * [Deutsch](https://www.mimecast.com/de/legal/terms-of-use/)
     * [français](https://www.mimecast.com/fr/legal/terms-of-use/)
     
-
-[M365 Threat Scan](https://www.mimecast.com/free-trial/?nv=true)
-
-[Get a Quote](https://www.mimecast.com/get-a-quote/)
 
 Terms of Use
 ============
