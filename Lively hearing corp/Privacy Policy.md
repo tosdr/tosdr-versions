@@ -12,7 +12,7 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 2d : 13h : 12m**](https://www.listenlively.com/product)
+[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 2d : 7h : 8m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -21,8 +21,6 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 [(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
 
@@ -86,13 +84,9 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 **Shop now**](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -169,9 +163,6 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
 
-**Need more information?**  
-Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
-
 [Get started](https://www.listenlively.com/survey)
 
 #### Hearing aids for every budget & lifestyle
@@ -195,7 +186,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* New
+* Latest
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
@@ -328,7 +319,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
