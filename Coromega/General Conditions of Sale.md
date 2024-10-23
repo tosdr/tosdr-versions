@@ -34,7 +34,7 @@ Your cart is empty
 
 [Start shopping](https://coromega.com/collections/all)
 
-[Take 25% Off NEW Max GOLD](https://coromega.com/products/coromega-max-gold "https://coromega.com/products/coromega-max-gold") **🏆** [Code: GOLD25](https://coromega.com/products/coromega-max-gold "https://coromega.com/products/coromega-max-gold")
+FINAL DAY! [Take 25% Off NEW Max GOLD](https://coromega.com/products/coromega-max-gold "https://coromega.com/products/coromega-max-gold") **🏆** [Code: GOLD25](https://coromega.com/products/coromega-max-gold "https://coromega.com/products/coromega-max-gold")
 
 [![Coromega](//coromega.com/cdn/shop/files/2._Coromega_Omega-3Core_-970x300_Slctd_sachet_copy.psd_550x.png?v=1690833114)](https://coromega.com/ "Coromega")
 
