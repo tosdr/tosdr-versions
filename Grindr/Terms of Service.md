@@ -164,7 +164,7 @@ Default
 <p>  
  We recommend that You save a copy of this Agreement for Your records. You may  
  receive a copy of this Agreement by emailing Us at:  
- <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>, Subject: Terms of  
+ <a href="mailto:help@grindr.com">help@grindr.com</a>, Subject: Terms of  
  Service Agreement.  
 </p>  
 <ol>  
@@ -471,7 +471,7 @@ Default
            profiles or content that You believe are from minors or that depict  
            minors on the Grindr Services, and You can report a user directly  
            within the Grindr Services or via email to  
-           <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>;  
+           <a href="mailto:help@grindr.com">help@grindr.com</a>;  
          </li>  
          <li>  
            You will NOT engage in any behavior that violates the Guidelines or  
@@ -677,7 +677,7 @@ Default
        CONTINUE TO HAVE USE OF THE PREMIUM SERVICE FOR THE REST OF THE  
        THEN-CURRENT ANNUAL PERIOD. INSTRUCTIONS FOR CANCELING PREMIUM SERVICES  
        ARE SET FORTH HEREIN, AT THE GRINDR HELP CENTER, AND BY EMAILING  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>.  
+       <a href="mailto:help@grindr.com">help@grindr.com</a>.  
      </li>  
      <li>  
        <u>Trial Premiums and Introductory Pricing.</u> Access to Grindr Premium  
@@ -873,7 +873,7 @@ Default
      <li>  
        If You believe that Grindr has suspended or terminated Your User Account  
        in error, You may contact Us at  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a> at any time.  
+       <a href="mailto:help@grindr.com">help@grindr.com</a> at any time.  
      </li>  
    </ol>  
  </li><li>  
@@ -1424,7 +1424,7 @@ Default
        after the other party receives such Notice, unless an extension is  
        mutually agreed upon by the parties. Notice to Grindr that You intend to  
        initiate a Conference should be sent by email to  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>. The Notice must  
+       <a href="mailto:legal@grindr.com">legal@grindr.com</a>. The Notice must  
        include: (1) Your name, phone number, mailing address, and the email  
        address associated with Your User Account (if You have one); (2) the  
        name, telephone number, mailing address and email address of Your  
@@ -1667,8 +1667,8 @@ Default
        <u>YOU MAY OPT-OUT OF ARBITRATION.</u> IF YOU ARE A NEW GRINDR USER, YOU  
        CAN CHOOSE TO REJECT THE AGREEMENT TO ARBITRATE PROVISION (“OPT-OUT”) BY  
        EMAILING US AN OPT-OUT NOTICE TO  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)"  
-         >[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a  
+       <a href="mailto:arbitrationoptout@grindr.com"  
+         >ARBITRATIONOPTOUT@GRINDR.COM</a  
        >  
        (“OPT-OUT NOTICE”). THE OPT-OUT NOTICE MUST BE RECEIVED WITHIN  
        THIRTY-ONE (31) DAYS AFTER THE DATE YOU ACCEPT THE TERMS OF THIS  
@@ -1685,8 +1685,8 @@ Default
        address(es) associated with Your Account(s) to which the opt-out  
        applies, and an unaltered digital image of Your valid driver’s license  
        to:  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)"  
-         >[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a  
+       <a href="mailto:arbitrationoptout@grindr.com"  
+         >arbitrationoptout@grindr.com</a  
        >. This procedure is the only way You can opt out of the agreement to  
        arbitrate. If You opt out of the agreement to arbitrate, all other parts  
        of this Agreement and this Disputes Section (including Sections 20 (You  
@@ -1814,7 +1814,7 @@ Default
        <br />  
        Attention: Copyright Agent<br />  
        <br />  
-       Email: <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)<br /> </a>For  
+       Email: <a href="mailto:dmca@grindr.com">dmca@grindr.com<br /> </a>For  
        clarity, only notices under this Section should go to the Grindr  
        Designated Copyright Agent. You acknowledge that if You fail to comply  
        with all of the requirements of this Section 23, Your DMCA notice may  
@@ -2024,7 +2024,7 @@ Default
      <u>Our Disclosures; Your Inquiries.</u> The services hereunder are offered  
      by Grindr LLC, PO Box 69176, West Hollywood, CA 90069. If You have a  
      question or complaint, You may reach Us at the address above or at:  
-     <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>. California residents  
+     <a href="mailto:help@grindr.com">help@grindr.com</a>. California residents  
      may reach the Complaint Assistance Unit of the Division of Consumer  
      Services of the California Department of Consumer Affairs by mail at 1625  
      North Market Blvd., Sacramento, CA 95834, or by telephone at (916)  
@@ -2049,7 +2049,7 @@ Default
        fourteen (14) days from the beginning of Your free trial. To exercise  
        the right to cancel Your Premium Services during the fourteen (14) day  
        cancellation period, You must inform Us at  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a> of Your decision to  
+       <a href="mailto:help@grindr.com">help@grindr.com</a> of Your decision to  
        cancel by a clear statement. You may use the Model Withdrawal Form found  
        in Annex I(B) of the Directive on Consumer Rights. We will communicate  
        to You an acknowledgment of receipt of such cancellation by email  
@@ -2128,7 +2128,7 @@ Default
        fourteen (14) days from the beginning of Your free trial. To exercise  
        the right to cancel Your Premium Services during the fourteen (14) day  
        cancellation period, You must inform Us at  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a> of Your decision to  
+       <a href="mailto:help@grindr.com">help@grindr.com</a> of Your decision to  
        cancel by a clear statement. You may use the Model Withdrawal Form found  
        in Annex I(B) of the Directive on Consumer Rights. We will communicate  
        to You an acknowledgment of receipt of such cancellation by email  
@@ -2395,7 +2395,7 @@ Default
        from the beginning of Your free trial. To exercise the right to cancel  
        Your Premium Services during the ten (10) day cancellation period, You  
        must inform Us at  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a> of Your decision to  
+       <a href="mailto:help@grindr.com">help@grindr.com</a> of Your decision to  
        cancel by a clear statement. We will communicate to You an  
        acknowledgment of receipt of such cancellation by email without delay.  
        To meet the cancellation deadline, it is sufficient for You to send Your  
@@ -2427,7 +2427,7 @@ Default
        manifestly illegal shall not be taken down by Grindr unless You provide  
        a judicial notification ordering the takedown of the content in  
        question. Notifications of any sort for these purposes shall be  
-       delivered to <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>.  
+       delivered to <a href="mailto:legal@grindr.com">legal@grindr.com</a>.  
      </li>  
    </ol>  
  </li>  
@@ -2442,7 +2442,7 @@ Default
        cancellation period will expire after seven (7) calendar days from Your  
        purchase of the Grindr Services. To exercise the right to cancel Your  
        Grindr Services during the seven (7) day cancellation period, You must  
-       inform Us at <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a> of  
+       inform Us at <a href="mailto:legal@grindr.com">legal@grindr.com</a> of  
        Your decision to cancel by a clear statement. We will communicate to You  
        an acknowledgment of receipt of such cancellation by email without  
        delay. To meet the cancellation deadline, it is sufficient for You to  
@@ -2532,7 +2532,7 @@ Default
        such individual in full or partial nudity or in any sexual act or  
        conduct, or that in any way impersonates the individual. Any such  
        content may be reported to Grindr by contacting Grindr’s Grievance  
-       Officer (Mr. Brace) via email to [\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection).  
+       Officer (Mr. Brace) via email to help.india@grindr.com.  
      </li>  
      <li>  
        <u>Governmental Assistance.</u> Any personnel of the Indian government  
@@ -2540,7 +2540,7 @@ Default
        information, or report and request Grindr’s assistance with an  
        investigation into cybersecurity incidents or other offenses, by  
        contacting Grindr’s Grievance Officer (Mr. Brace) via email to  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>.  
+       <a href="mailto:help.india@grindr.com">help.india@grindr.com</a>.  
      </li>  
      <li>  
        <u>Prohibited Conduct and Uses.</u> In addition to the prohibited  
@@ -2596,10 +2596,10 @@ Default
        the Grindr Services, including a response to any alleged violation of  
        this Agreement or Community Guidelines, by contacting Grindr’s Grievance  
        Officer (Mr. Brace) via email to  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>. In  
+       <a href="mailto:help.india@grindr.com">help.india@grindr.com</a>. In  
        addition, You or any other individual can also submit any such complaint  
        or grievance directly within the Grindr Services or via email to  
-       <a href="mailto:[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)">[\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection)</a>. In submitting any  
+       <a href="mailto:help@grindr.com">help@grindr.com</a>. In submitting any  
        complaint or grievance, please provide any details that may help Grindr  
        resolve the complaint or grievance. Grindr will acknowledge receipt of  
        the complaint or grievance and resolve it within the time periods  
@@ -2630,7 +2630,7 @@ Default
        period will expire after fourteen (14) calendar days from Your purchase  
        of the Premium Services. To exercise the right to cancel Your Premium  
        Services during the fourteen (14) day cancellation period, You must  
-       inform Us at [\[email protected\]](https://www.grindr.com/cdn-cgi/l/email-protection) of Your decision to cancel by a clear  
+       inform Us at legal@grindr.com of Your decision to cancel by a clear  
        statement. We will communicate to You an acknowledgment of receipt of  
        such cancellation by email without delay. To meet the cancellation  
        deadline, it is sufficient for You to send Your communication concerning  
