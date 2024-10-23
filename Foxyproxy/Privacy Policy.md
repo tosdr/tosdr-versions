@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Super fast customer care.
+Your service is great. No need to change anything. Trying the proxy service before paying is great.
 
-Mike Stange
+Mario Riedel
