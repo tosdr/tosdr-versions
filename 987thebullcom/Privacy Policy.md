@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Play It AgainLuke Bryan<br><br>11:39pm |
-| Back Then Right NowTyler Hubbard<br><br>11:35pm |
-| Pink SkiesZach Bryan<br><br>11:32pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:29pm |
-| Fast CarLuke Combs<br><br>11:25pm |
+| BoondocksLittle Big Town<br><br>4:55am |
+| She'S Somebody'S DaughterDrew Baldridge<br><br>4:52am |
+| Single AgainJosh Ross<br><br>4:49am |
+| When She Says BabyJason Aldean<br><br>4:47am |
+| Country HouseSam Hunt<br><br>4:43am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Top 40 • Pacific NW
+Top 40 • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
