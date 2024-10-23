@@ -25,21 +25,25 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Accessibility](https://www.panopto.com/capabilities/accessibility/)
         * [Powered by AI](https://www.panopto.com/capabilities/powered-by-ai/)
         * [Tracking and Analytics](https://www.panopto.com/capabilities/tracking-and-analytics/)
-    
-* New! Product Add-Ons
-    
-    ![](https://www.panopto.com/wp-content/uploads/2024/06/Navigation-AddOns_2.png)
-    
-    Get the Data to Make a Difference with Panopto Knowledge Insights
-    
-    Turn data into action, identify top creators, and assess the impact of lectures and training with Panopto’s latest product add-on for your VCMS.
-    
-    [Watch On-Demand](https://www.panopto.com/resource/webinar-panopto-knowledge-insights)
-    
     * Product Add-Ons
         * [Panopto Access AI](https://www.panopto.com/product-add-ons/access-ai/)
         * [Panopto Knowledge Insights](https://www.panopto.com/product-add-ons/knowledge-insights/)
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
+        * [\>> See all Add-ons](https://www.panopto.com/add-ons/)
+    
+* Generative AI Video
+    
+    ![](https://www.panopto.com/wp-content/uploads/2024/10/Photo-Half-introducing@2x-1-650x650.png)
+    
+    Experience Elai: Cutting Edge Generative AI Video
+    
+    Panopto has acquired Elai, bringing world-class Generative AI Video Features to the world of Video Training & Learning.
+    
+    [Read More](https://www.panopto.com/de/create-impactful-training-videos-with-elai/)
+    
+    * Generative AI Video
+        * [Elai for Business](https://www.panopto.com/create-impactful-training-videos-with-elai/)
+        * [Elai for Higher Education](https://www.panopto.com/make-video-learning-more-interactive-and-flexible-with-elai/)
     
 * [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Industries
@@ -156,6 +160,6 @@ Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
 
-![](https://www.panopto.com/wp-content/uploads/2024/10/elai_powered-by-ai_genai_3-1.png)
+[![](https://www.panopto.com/wp-content/uploads/2024/10/panopto-elai-pop-up-press-release.png)](https://www.panopto.com/company/news/panopto-acquisition-of-elai/)
 
 X
