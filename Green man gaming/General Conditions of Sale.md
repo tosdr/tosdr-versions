@@ -77,7 +77,15 @@ Toggle navigation
 
 Top Searches
 
+[Space Marine](https://www.greenmangaming.com/games/warhammer-40000-space-marine-2-pc/)
+
+[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xvi-complete-edition-pc/)
+
+[Black Myth](https://www.greenmangaming.com/games/black-myth-wukong-pc/)
+
 [Castlevania](https://www.greenmangaming.com/games/castlevania-dominus-collection-pc/)
+
+[Dragon Quest](https://www.greenmangaming.com/games/dragon-quest-monsters-the-dark-prince-pc/)
 
 [Red Dead](https://www.greenmangaming.com/games/red-dead-redemption-2-pc/)
 
