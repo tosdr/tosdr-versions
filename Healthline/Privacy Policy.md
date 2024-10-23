@@ -190,14 +190,14 @@
 
 Subscribe
 
-[#### Sexual Health](https://www.healthline.com/sexual-health)
+[#### Inflammatory Bowel Disease](https://www.healthline.com/inflammatory-bowel-disease)
 
-* [Birth control](https://www.healthline.com/sexual-health/birth-control)
-* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
-* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
-* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
-* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
-* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
+* [Basics of IBD](https://www.healthline.com/inflammatory-bowel-disease/ibd-basics)
+* [Treatments](https://www.healthline.com/inflammatory-bowel-disease/treating-ibd)
+* [Food & Gut Health](https://www.healthline.com/inflammatory-bowel-disease/food-gut-health)
+* [Live Well with IBD](https://www.healthline.com/inflammatory-bowel-disease/lifestyle-ibd)
+* [Community](https://apps.apple.com/us/app/ibd-healthline/id1459294732)
+* [Newsletter](https://www.healthline.com/newsletter-signup/ibd)
 
 Privacy Policy
 ==============
