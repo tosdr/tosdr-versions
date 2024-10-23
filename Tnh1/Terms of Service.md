@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Protesto de trabalhadores portuários de Maceió deixa o trânsito lento no Jaraguá; vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/8/csm_Protesto_de_trabalhadores_portuarios_trava_o_transito_no_Jaragua_-_foto_Reproducao_69d6c25cbc.jpeg)
+   [![Trem 'Maria Fumaça' ficará exposto em Maceió para visitas da população e de turistas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_maria_fumaca_foto_divulgacao_CBTU_ebf620d3a8.jpeg)
+
+40 anos da CBTU
+
+Trem 'Maria Fumaça' ficará exposto em Maceió para visitas da população e de turistas](https://www.tnh1.com.br/noticia/nid/trem-maria-fumaca-ficara-exposto-em-maceio-para-visitas-da-populacao-e-de-turistas/ "Trem 'Maria Fumaça' ficará exposto em Maceió para visitas da população e de turistas ")   [![Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_suspeito-preso-enxadada_c494cb705f.jpg)
+
+Foi socorrido
+
+Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-com-golpe-de-enxada-na-cabeca-em-briga-por-cachaca-em-paripueira/ "Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira")   [![Apartamento na Ponta Verde pega fogo e vizinhos controlam princípio de incêndio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_apartamento-fogo-ponta-verde_c78f187e89.jpg)
+
+Sem feridos
+
+Apartamento na Ponta Verde pega fogo e vizinhos controlam princípio de incêndio](https://www.tnh1.com.br/noticia/nid/apartamento-na-ponta-verde-pega-fogo-e-vizinhos-controlam-principio-de-incendio/ "Apartamento na Ponta Verde pega fogo e vizinhos controlam princípio de incêndio")   [![Justiça manda soltar empresário que atirou em carro de ex-prefeita de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_andre_miranda_95e18c717f.png)
+
+em guaxuma
+
+Justiça manda soltar empresário que atirou em carro de ex-prefeita de Maceió](https://www.tnh1.com.br/noticia/nid/justica-manda-soltar-empresario-que-atirou-em-carro-de-ex-prefeita-de-maceio/ "Justiça manda soltar empresário que atirou em carro de ex-prefeita de Maceió")   [![Vítima de violência doméstica tem celular quebrado e TV furtada por ex-esposo e ex-cunhada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_central-de-flagrantes-foto-pc_e5fbf5d58e.jpeg)
+
+Eustáquio Gomes
+
+Vítima de violência doméstica tem celular quebrado e TV furtada por ex-esposo e ex-cunhada](https://www.tnh1.com.br/noticia/nid/vitima-de-violencia-domestica-tem-celular-quebrado-e-tv-furtada-por-ex-esposo-e-ex-cunhada/ "Vítima de violência doméstica tem celular quebrado e TV furtada por ex-esposo e ex-cunhada")   [![Protesto de trabalhadores portuários de Maceió deixa o trânsito lento no Jaraguá; vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_Protesto_de_trabalhadores_portuarios_trava_o_transito_no_Jaragua_-_foto_Reproducao_69d6c25cbc.jpeg)
 
 Maceió
 
-Protesto de trabalhadores portuários de Maceió deixa o trânsito lento no Jaraguá; vídeo](https://www.tnh1.com.br/noticia/nid/protesto-de-trabalhadores-portuarios-de-maceio-deixa-o-transito-lento-no-jaragua-video/ "Protesto de trabalhadores portuários de Maceió deixa o trânsito lento no Jaraguá; vídeo")   [![Carro é destruído por incêndio no Vale do Reginaldo; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_carro_incendio_050355a302.png)
-
-Maceió
-
-Carro é destruído por incêndio no Vale do Reginaldo; veja vídeo](https://www.tnh1.com.br/noticia/nid/carro-e-destruido-por-incendio-no-vale-do-reginaldo-veja-video/ "Carro é destruído por incêndio no Vale do Reginaldo; veja vídeo")   [![Feijoada beneficente arrecadará recursos para time de Futsal Down competir no Rio de Janeiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/0/csm_time_futsal_amor_21_foto_divulgacao_c1e3a3ee05.jpg)
-
-amor 21
-
-Feijoada beneficente arrecadará recursos para time de Futsal Down competir no Rio de Janeiro](https://www.tnh1.com.br/noticia/nid/feijoada-beneficente-arrecadara-recursos-para-time-de-futsal-down-competir-no-rio-de-janeiro/ "Feijoada beneficente arrecadará recursos para time de Futsal Down competir no Rio de Janeiro")   [![Geladeira é encontrada pendurada em cima de árvore na Fernandes Lima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/5/csm_geladeira-encontrada-arvore_2fd705bb1f.jpg)
-
-em ciclovia
-
-Geladeira é encontrada pendurada em cima de árvore na Fernandes Lima](https://www.tnh1.com.br/noticia/nid/geladeira-e-encontrada-pendurada-em-cima-de-arvore-na-fernandes-lima/ "Geladeira é encontrada pendurada em cima de árvore na Fernandes Lima")   [![Motociclista morre após ser atingido por carro no bairro de Pescaria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_acidente_pescaria_-_foto_reproducao_25d6898b7e.jpg)
-
-Em Maceió
-
-Motociclista morre após ser atingido por carro no bairro de Pescaria](https://www.tnh1.com.br/noticia/nid/motociclista-morre-apos-ser-atingido-por-carro-no-bairro-de-pescaria/ "Motociclista morre após ser atingido por carro no bairro de Pescaria")   [![Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/5/csm_mina_tv_02af3f8bdd.png)
-
-Maceió
-
-Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo](https://www.tnh1.com.br/noticia/nid/mineradora-suspende-preenchimento-da-mina-27-na-lagoa-mundau-entenda-o-motivo/ "Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo ") 
+Protesto de trabalhadores portuários de Maceió deixa o trânsito lento no Jaraguá; vídeo](https://www.tnh1.com.br/noticia/nid/protesto-de-trabalhadores-portuarios-de-maceio-deixa-o-transito-lento-no-jaragua-video/ "Protesto de trabalhadores portuários de Maceió deixa o trânsito lento no Jaraguá; vídeo")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Mineradora suspende preenchimento da mina 27 na Lagoa Mundaú; entenda o motivo]
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
+   [![Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_extracao_areia_marechal_deodoro_foto_extraida_da_acao_civil_publica_5e838013a4.jpeg)
+
+condenação judicial
+
+Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://www.tnh1.com.br/noticia/nid/licencas-por-mineracao-ilegal-sao-canceladas-em-definitivo-em-marechal-deodoro/ "Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro")   [![Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_cesta_basica_doacao_foto_agreste_saneamento_3efeb7c2ad.jpeg)
+
+Doações
+
+Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://www.tnh1.com.br/noticia/nid/projeto-agreste-solidario-leva-cestas-basicas-para-familias-em-vulnerabilidade-social/ "Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social")   [![Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
 
 marechal deodoro
 
-Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances/ "Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês")   [![Internada na UTI, criança com síndrome rara é batizada no HGE ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/4/csm_22102024_SESAU_HGE_BATIZADO_HUMANIZACAO__TA___3__ddd9de800d.jpg)
+Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances/ "Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês")   [![Internada na UTI, criança com síndrome rara é batizada no HGE ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_22102024_SESAU_HGE_BATIZADO_HUMANIZACAO__TA___3__ddd9de800d.jpg)
 
 Dandy-Walker
 
-Internada na UTI, criança com síndrome rara é batizada no HGE](https://www.tnh1.com.br/noticia/nid/internada-na-uti-crianca-com-sindrome-rara-e-batizada-no-hge/ "Internada na UTI, criança com síndrome rara é batizada no HGE ")   [![Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_meteorologia-previsao-alagoas-semarh_ceaa3a4949.png)
+Internada na UTI, criança com síndrome rara é batizada no HGE](https://www.tnh1.com.br/noticia/nid/internada-na-uti-crianca-com-sindrome-rara-e-batizada-no-hge/ "Internada na UTI, criança com síndrome rara é batizada no HGE ")   [![Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_meteorologia-previsao-alagoas-semarh_ceaa3a4949.png)
 
 Alagoas
 
-Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://www.tnh1.com.br/noticia/nid/confira-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-22/ "Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)")   [![Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/c/csm_macaco-capturado-satuba-reproducao-IMA_f27d53c423.png)
+Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)](https://www.tnh1.com.br/noticia/nid/confira-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-22/ "Confira como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (22)")   [![Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/c/csm_macaco-capturado-satuba-reproducao-IMA_f27d53c423.png)
 
 EM SATUBA
 
-Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-macaco-bugio-e-capturado-por-equipes-do-ima/ "Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA")   [![Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/0/csm_policia-cientifica-identifica-corpo-de-caminhoneiro-encontrado-em-palmeira-dos-indios_33cadc09cd.jpeg)
-
-sobrou na pista
-
-Caminhoneiro que morreu afogado após acidente no interior de AL é identificado](https://www.tnh1.com.br/noticia/nid/caminhoneiro-que-morreu-afogado-apos-acidente-no-interior-de-al-e-identificado/ "Caminhoneiro que morreu afogado após acidente no interior de AL é identificado")   [![Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_sistema_prisional_095402c392.jpg)
-
-Educação
-
-Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará](https://www.tnh1.com.br/noticia/nid/alagoas-vai-discutir-educacao-no-sistema-prisional-em-encontro-nacional-no-ceara/ "Alagoas vai discutir educação no sistema prisional em encontro nacional no Ceará")
+Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-macaco-bugio-e-capturado-por-equipes-do-ima/ "Vídeo mostra momento em que macaco bugio é capturado por equipes do IMA")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Alagoas vai discutir educação no sistema prisional em encontro nacional no Cea
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia prende trio suspeito de aplicar golpes da “troca de cartão” nas proximidades da Praça Centenário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/5/csm_Policia-prende-suspeitos-golpe-troca-de-cartao_aacf02ebd5.jpeg)
+   [![Foragido é preso acusado de matar homem a tiros e roubar R$ 1.700 dele, no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/b/csm_presos-suspeito-assasinato-Junqueiro_677282e91e.jpg)
 
-EM MACEIÓ
+Condenado a 12 anos
 
-Polícia prende trio suspeito de aplicar golpes da “troca de cartão” nas proximidades da Praça Centenário](https://www.tnh1.com.br/noticia/nid/policia-prende-trio-suspeito-de-aplicar-golpes-da-troca-de-cartao-nas-proximidades-da-praca-centenario/ "Polícia prende trio suspeito de aplicar golpes da “troca de cartão” nas proximidades da Praça Centenário")   [![Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/8/csm_homicidio_santos_dumont_-_foto_pc-al_9b95e587a6.png)
+Foragido é preso acusado de matar homem a tiros e roubar R$ 1.700 dele, no interior](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-acusado-de-matar-homem-a-tiros-e-roubar-r-1700-dele-no-interior/ "Foragido é preso acusado de matar homem a tiros e roubar R$ 1.700 dele, no interior")   [![Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_confusao_petropolis_-_foto_video_cdd949b5e4.png)
 
-estava internada
+Ao menos um ferido
 
-Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont](https://www.tnh1.com.br/noticia/nid/morre-mulher-que-foi-baleada-em-atentado-enquanto-caminhava-com-o-marido-no-santos-dumont/ "Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont")   [![Dupla em moto é suspeita de matar homem durante caminhada; veja linha de investigação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_homicidio_santos_dumont_-_foto_pc-al_9b95e587a6.png)
+Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")   [![Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_suspeito-preso-enxadada_c494cb705f.jpg)
 
-No Santos Dumont
+Foi socorrido
 
-Dupla em moto é suspeita de matar homem durante caminhada; veja linha de investigação](https://www.tnh1.com.br/noticia/nid/dupla-em-moto-e-suspeita-de-matar-homem-durante-caminhada-veja-linha-de-investigacao/ "Dupla em moto é suspeita de matar homem durante caminhada; veja linha de investigação")   [![Vídeo: suspeito de tentar matar motociclista após briga de trânsito é indiciado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/f/csm_tentativa_homicidio_acidente_234f74f31f.png)
+Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-com-golpe-de-enxada-na-cabeca-em-briga-por-cachaca-em-paripueira/ "Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira")   [![Homicídios, estupro e violência doméstica: seis pessoas são presas no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_suspeito-preso-interior-operacao_6d66502e0e.jpg)
 
-Polícia
+Mandados judiciais
 
-Vídeo: suspeito de tentar matar motociclista após briga de trânsito é indiciado](https://www.tnh1.com.br/noticia/nid/video-suspeito-de-tentar-matar-motociclista-apos-briga-de-transito-e-indiciado/ "Vídeo: suspeito de tentar matar motociclista após briga de trânsito é indiciado ")   [![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_c916caa863.png)
+Homicídios, estupro e violência doméstica: seis pessoas são presas no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/homicidios-estupro-e-violencia-domestica-seis-pessoas-sao-presas-no-sertao-de-alagoas/ "Homicídios, estupro e violência doméstica: seis pessoas são presas no Sertão de Alagoas")   [![Suspeito se esconde em barbearia, mas é preso com moto roubada e drogas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_arapiraca_-_foto_pm_36a635c9af.jpg)
 
-dano em equipamentos
+Em Arapiraca
 
-Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-de-app-tem-ataque-de-furia-e-causa-destruicao-na-entrada-de-condominio-em-maceio/ "Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió")   [![Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_morto-tiros-caminhada-santos-dumont_ddc00df490.jpg)
+Suspeito se esconde em barbearia, mas é preso com moto roubada e drogas](https://www.tnh1.com.br/noticia/nid/suspeito-se-esconde-em-barbearia-mas-e-preso-com-moto-roubada-e-drogas/ "Suspeito se esconde em barbearia, mas é preso com moto roubada e drogas")   [![Polícia prende dois e apreende um por tentarem matar jovem com facão e machado, em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_prisao_suspeito_rio_largo_-_foto_cortesia_pc_0270e45e9a.jpg)
 
-No Santos Dumont
+Reconhecidos
 
-Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-morto-e-esposa-fica-ferida-em-atentado-a-tiros-durante-caminhada-em-maceio/ "Homem é morto e esposa fica ferida em atentado a tiros durante caminhada em Maceió")
+Polícia prende dois e apreende um por tentarem matar jovem com facão e machado, em Rio Largo](https://www.tnh1.com.br/noticia/nid/policia-prende-dois-e-apreende-um-por-tentarem-matar-jovem-com-facao-e-machado-em-rio-largo/ "Polícia prende dois e apreende um por tentarem matar jovem com facão e machado, em Rio Largo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -210,15 +210,7 @@ Dandy-Walker
 
 Internada na UTI, criança com síndrome rara é batizada no HGE
 
-Internada na UTI, criança com síndrome rara é batizada no HGE](https://www.tnh1.com.br/noticia/nid/internada-na-uti-crianca-com-sindrome-rara-e-batizada-no-hge/ "Internada na UTI, criança com síndrome rara é batizada no HGE ")[![Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/8/csm_governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo_7d1c51df81.jpg)
-
-Educação
-
-Educação
-
-Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”
-
-Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”](https://www.tnh1.com.br/noticia/nid/governador-anuncia-edital-com-100-vagas-para-o-programa-de-intercambio-daqui-pra-o-mundo/ "Governador anuncia edital com 100 vagas para o programa de intercâmbio “Daqui pra o Mundo”")[![Influencer brasileira que mora no Japão diz que é confundida com criança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_influencer-brasileira-confundida-crianca-japao-redes-sociais_6782e64faf.jpg)
+Internada na UTI, criança com síndrome rara é batizada no HGE](https://www.tnh1.com.br/noticia/nid/internada-na-uti-crianca-com-sindrome-rara-e-batizada-no-hge/ "Internada na UTI, criança com síndrome rara é batizada no HGE ")[![Influencer brasileira que mora no Japão diz que é confundida com criança](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_influencer-brasileira-confundida-crianca-japao-redes-sociais_6782e64faf.jpg)
 
 Fez desabafo
 
@@ -226,7 +218,15 @@ Fez desabafo
 
 Influencer brasileira que mora no Japão diz que é confundida com criança
 
-Influencer brasileira que mora no Japão diz que é confundida com criança](https://www.tnh1.com.br/noticia/nid/influencer-brasileira-que-mora-no-japao-diz-que-e-confundida-com-crianca/ "Influencer brasileira que mora no Japão diz que é confundida com criança")[![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_77333cf3bb.png)
+Influencer brasileira que mora no Japão diz que é confundida com criança](https://www.tnh1.com.br/noticia/nid/influencer-brasileira-que-mora-no-japao-diz-que-e-confundida-com-crianca/ "Influencer brasileira que mora no Japão diz que é confundida com criança")[![Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_e2312f41a3.jpg)
+
+marechal deodoro
+
+marechal deodoro
+
+Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês
+
+Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances/ "Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês")[![Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/7/csm_motorista_app_ataque_de_furia_77333cf3bb.png)
 
 dano em equipamentos
 
@@ -236,39 +236,39 @@ Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de
 
 Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-de-app-tem-ataque-de-furia-e-causa-destruicao-na-entrada-de-condominio-em-maceio/ "Vídeo: motorista de app tem ataque de fúria e causa destruição na entrada de condomínio em Maceió")
 
-[![Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_maos-idosa-reproducao-freepik_6044b65ab7.png)
+[![Antonio Cicero, poeta imortal da ABL e irmão de Marina Lima, escolheu morrer de Eutanásia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/d/csm_antonio_cicero_ec0e505fcc.png)
 
-Saúde
+na suiça
 
-Saúde
+na suiça
 
-Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo
+Antonio Cicero, poeta imortal da ABL e irmão de Marina Lima, escolheu morrer de Eutanásia
 
-Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo](https://www.tnh1.com.br/noticia/nid/celulas-velhas-da-pele-podem-afetar-outros-orgaos-do-corpo-diz-estudo/ "Células “velhas” da pele podem afetar outros órgãos do corpo, diz estudo")[![Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/f/csm_Kamala_Harris__Joe_Biden_e_Donald_Trump_-_foto_Brazil_Photo_PressFolhapress_ce4b8884f8.jpeg)
+Antonio Cicero, poeta imortal da ABL e irmão de Marina Lima, escolheu morrer de Eutanásia](https://www.tnh1.com.br/noticia/nid/antonio-cicero-poeta-imortal-da-abl-e-irmao-de-marina-lima-escolheu-morrer-de-eutanasia/ "Antonio Cicero, poeta imortal da ABL e irmão de Marina Lima, escolheu morrer de Eutanásia")[![Homem que agarrou 7 mulheres em SP é denunciado por tentativa de sequestro-relâmpago ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_maniaco_carro_51012cf539.jpeg)
 
-5 de novembro
+'maníaco do carro'
 
-5 de novembro
+'maníaco do carro'
 
-Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos
+Homem que agarrou 7 mulheres em SP é denunciado por tentativa de sequestro-relâmpago
 
-Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos](https://www.tnh1.com.br/noticia/nid/quase-18-milhoes-ja-votaram-antecipadamente-ou-por-correio-nos-estados-unidos/ "Quase 18 milhões já votaram antecipadamente ou por correio nos Estados Unidos")[![Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_novo-estudo-estrela-reproducao-simons-foundation_38ba6a0014.jpg)
+Homem que agarrou 7 mulheres em SP é denunciado por tentativa de sequestro-relâmpago](https://www.tnh1.com.br/noticia/nid/homem-que-agarrou-7-mulheres-em-sp-e-denunciado-por-tentativa-de-sequestro-relampago/ "Homem que agarrou 7 mulheres em SP é denunciado por tentativa de sequestro-relâmpago ")[![Ação do McDonald’s cai após agência dos EUA alertar para surto de infecção com sanduíche](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/2/csm_hamburguer_mc_donald_divulgacao_50434f0b67.jpg)
 
-novo estudo
+E. COLI
 
-novo estudo
+E. COLI
 
-Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira
+Ação do McDonald’s cai após agência dos EUA alertar para surto de infecção com sanduíche
 
-Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira](https://www.tnh1.com.br/noticia/nid/cientistas-indicam-que-uma-das-estrelas-mais-brilhantes-tem-uma-companheira/ "Cientistas indicam que uma das estrelas mais brilhantes tem uma companheira")[![Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_entretenimento-joao_gomes-casamento-1729578710_a3b8cff5d7.jpg)
+Ação do McDonald’s cai após agência dos EUA alertar para surto de infecção com sanduíche](https://www.tnh1.com.br/noticia/nid/acao-do-mcdonalds-cai-apos-agencia-dos-eua-alertar-para-surto-de-infeccao-com-sanduiche/ "Ação do McDonald’s cai após agência dos EUA alertar para surto de infecção com sanduíche")[![Homem mata pai, irmão, policial e deixa 9 feridos a tiros no Rio Grande do Sul  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_homicidios_rs_4b1ab0a2db.png)
 
-no altar
+encontrado morto
 
-no altar
+encontrado morto
 
-Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes
+Homem mata pai, irmão, policial e deixa 9 feridos a tiros no Rio Grande do Sul
 
-Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes](https://www.tnh1.com.br/noticia/nid/ary-mirelle-revela-perrengue-por-causa-da-alianca-no-dia-de-seu-casamento-com-joao-gomes/ "Ary Mirelle revela perrengue por causa da aliança no dia de seu casamento com João Gomes")
+Homem mata pai, irmão, policial e deixa 9 feridos a tiros no Rio Grande do Sul](https://www.tnh1.com.br/noticia/nid/homem-mata-pai-irmao-policial-e-deixa-9-feridos-a-tiros-no-rio-grande-do-sul/ "Homem mata pai, irmão, policial e deixa 9 feridos a tiros no Rio Grande do Sul  ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
