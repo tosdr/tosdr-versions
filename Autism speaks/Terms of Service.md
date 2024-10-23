@@ -364,37 +364,37 @@ Life on the spectrum
 
 ------------------------
 
-[![Kelly wearing a red dress in front of a silver backdrop](/sites/default/files/styles/content_grid/public/Kelly%20wearing%20a%20red%20dress%20in%20front%20of%20a%20silver%20backdrop.jpg.webp?itok=EklTJpS1)](https://guide.autismspeaks.org/profile/meet-kelly-m)
+[![SURFTISMO HERRERA 2](/sites/default/files/styles/content_grid/public/SURFTISMOHERRERA2.jpg.webp?itok=EKz1FD6a)](https://guide.autismspeaks.org/profile/meet-robin-h)
 
-Kelly M. | 33 years old
+Robin H.
 
-Being a fearless autistic adult means not letting your disability limit the possibilities of what you can do with your life.
+By supporting the autism community, I feel very nostalgic seeing these kids feel the most comfortable and happy.
 
-[Read Kelly M.'s Story](https://guide.autismspeaks.org/profile/meet-kelly-m)
+[Read Robin H.'s Story](https://guide.autismspeaks.org/profile/meet-robin-h)
 
-[![Maria and SOVENIA team ](/sites/default/files/styles/content_grid/public/Maria%20y%20equipo%20medico%20y%20nutricionSovenia%5B91%5D_1.jpeg.webp?itok=-eRI7PxH)](https://guide.autismspeaks.org/profile/meet-maria)
+[![Victoria with face paint](/sites/default/files/styles/content_grid/public/Jamaican-musician-playing-the-drums_0.jpg.webp?itok=b9MsRTjb)](https://guide.autismspeaks.org/profile/meet-victoria-b)
 
-Maria
+Victoria B. | 33 years old
 
-The primary motivation to advocate for the autism community in my country was my son.
+National Disability Employment Awareness Month emphasizes the importance of creating opportunities for people like me, with disabilities, to have jobs, be independent and thrive.
 
-[Read Maria's Story](https://guide.autismspeaks.org/profile/meet-maria)
+[Read Victoria B.'s Story](https://guide.autismspeaks.org/profile/meet-victoria-b)
 
-[![Josh smiling in front of a birthday cake on his 32nd birthday](/sites/default/files/styles/content_grid/public/Josh%20smiling%20in%20front%20of%20a%20birthday%20cake%20on%20his%2032nd%20birthday.png.webp?itok=NtiDXDFw)](https://guide.autismspeaks.org/profile/meet-josh-e)
+[![Jessica smiling and wearing a pink blazer](/sites/default/files/styles/content_grid/public/Jessica%20smiling%20and%20wearing%20a%20pink%20blazer.jpg.webp?itok=i5_vIZEg)](https://guide.autismspeaks.org/profile/meet-jessica-j)
 
-Josh E. | 32 years old
+Jessica J. | 36 years old
 
-My time working at the elementary school has shown me the true responsibilities that come from working in special education. I have a much greater appreciation for people working in the field after having seen the heart and discipline involved.
+It took me until my thirties to realize that if I don’t have love and respect for myself, no one else will. Today, I’m independent, strong, resilient and fearless.
 
-[Read Josh E.'s Story](https://guide.autismspeaks.org/profile/meet-josh-e)
+[Read Jessica J.'s Story](https://guide.autismspeaks.org/profile/meet-jessica-j)
 
-[![Blake and his mom](/sites/default/files/styles/content_grid/public/Blake%20and%20his%20mom.jpeg.webp?itok=lJuzIrT6)](https://guide.autismspeaks.org/profile/meet-blake-d)
+[![Karelix headshot](/sites/default/files/styles/content_grid/public/Karelix-Alicea-headshot.jpg.webp?itok=5CoIDXMU)](https://guide.autismspeaks.org/profile/meet-karelix)
 
-Blake D. | 15 years old
+Karelix
 
-I feel that with autism, your brain just works different but not worse. I want people to know I can learn and do things like everyone else.
+It is about bringing people with big hearts who are passionate and want to make a difference. To impact real people, human behavior, families, and communities.
 
-[Read Blake D.'s Story](https://guide.autismspeaks.org/profile/meet-blake-d)
+[Read Karelix's Story](https://guide.autismspeaks.org/profile/meet-karelix)
 
 [Explore more stories](https://guide.autismspeaks.org/profile)
 
