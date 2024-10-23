@@ -1,28 +1,42 @@
 top of page
 
-[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_148,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
+[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_166,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
+
+[BOOK A DEMO](https://www.glui.io/)
+
+MENU
+
+Close
 
 * Solutions
     
     * [Advertisers](https://www.glui.io/advertisers)
+        
     * [Publishers](https://www.glui.io/publishers)
+        
     * [Partners](https://www.glui.io/partners)
+        
 * Platform
     
     * [About Us](https://www.glui.io/about-us)
+        
     * [Real-Time Data Analytics](https://www.glui.io/real-time-data-analytics)
+        
     * [Developer Tools](https://www.glui.io/developer-tools)
+        
 * News
     
     * [Blog](https://www.glui.io/blog)
+        
     * [Case Studies](https://www.glui.io/case-studies)
+        
 * [Demos](https://www.glui.io/demos)
-* More
     
 
-Use tab to navigate through the menu items.
+[contact@wix.com](mailto:contact@wix.com)  
++123-456-789
 
-[BOOK A DEMO](https://www.glui.io/)
+© 2035 by The Clinic.Powered and secured by Wix
 
 #### Legal
 
