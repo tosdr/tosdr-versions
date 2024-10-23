@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 22, 2024**
+**October 23, 2024**
 
 * * *
 
@@ -230,13 +230,13 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
+[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
@@ -244,11 +244,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
-
-[Geochemistry](https://www.sciencedaily.com/news/earth_climate/chemistry/)
-
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
+
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
   
 
