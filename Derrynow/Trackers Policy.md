@@ -259,30 +259,26 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Out and About in Dan's Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About in Dan's Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
+[![Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family")](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Throwback Tuesday: Out and About in Dan's Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McLaughlin's Hardware to close at end of November as family sells iconic Derry premises")](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
+[![Funeral details announced as family pays tribute to Ireland’s Fittest Family teen contestant](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral details announced as family pays tribute to Ireland’s Fittest Family teen contestant")](https://www.derrynow.com/news/national-news/1637582/funeral-details-announced-as-family-pays-tribute-to-irelands-fittest-family-teen-contestant.html)
 
-McLaughlin brothers, Liam, Dessie, and Seamus.
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Funeral details announced as family pays tribute to Ireland’s Fittest Family teen contestant](https://www.derrynow.com/news/national-news/1637582/funeral-details-announced-as-family-pays-tribute-to-irelands-fittest-family-teen-contestant.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[McLaughlin's Hardware to close at end of November as family sells iconic Derry premises](https://www.derrynow.com/news/local-news/1636556/mclaughlin-s-hardware-to-close-at-end-of-november-as-family-sells-iconic-derry-premises.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Devastating update for young Irish father-of-three battling brain tumour in Dubai](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Devastating update for young Irish father-of-three battling brain tumour in Dubai")](https://www.derrynow.com/news/national-news/1636669/devastating-update-for-young-irish-father-of-three-battling-brain-tumour-in-dubai.html)
 
-[![IN PICTURES: DCU celebrates International Credit Union Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: DCU celebrates International Credit Union Day")](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-IN PICTURES: DCU celebrates International Credit Union Day
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: DCU celebrates International Credit Union Day](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Devastating update for young Irish father-of-three battling brain tumour in Dubai](https://www.derrynow.com/news/national-news/1636669/devastating-update-for-young-irish-father-of-three-battling-brain-tumour-in-dubai.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man in Derry Court following breach of non-molestation order against his partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in Derry Court following breach of non-molestation order against his partner")](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
 
@@ -290,6 +286,13 @@ IN PICTURES: DCU celebrates International Credit Union Day
 
 [Man in Derry Court following breach of non-molestation order against his partner](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Magherafelt-based The Oakleaf Group](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt-based The Oakleaf Group")](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
 
@@ -300,42 +303,37 @@ Magherafelt-based The Oakleaf Group
 [Magherafelt-based The Oakleaf Group has announced the opening date for its newest bar The 40 Thieves Tavern in Cookstown](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Glen on the precipice of history as they prepare for Derry Senior Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen on the precipice of history as they prepare for Derry Senior Football Championship final")](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
+[![Fr Paddy O'Kane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fr Paddy O'Kane")](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+Fr Paddy O'Kane
 
-[Glen on the precipice of history as they prepare for Derry Senior Football Championship final](https://www.derrynow.com/news/gaa/1636323/glen-on-the-precipice-of-history-as-they-prepare-for-derry-senior-football-championship-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+[Fr Paddy O'Kane inquest told garden area not included in health and safety assessment](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[![Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024")](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
 
-[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone")](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Fundraiser for Irish toddler Zoe’s 'aggressive cancer' treatment surpasses huge milestone](https://www.derrynow.com/news/national-news/1636391/fundraiser-for-irish-toddler-zoes-aggressive-cancer-treatment-surpasses-huge-milestone.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final")](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Ballinderry excited for 'ding-dong battle' in Derry Intermediate Football Championship final](https://www.derrynow.com/news/gaa/1636309/ballinderry-excited-for-ding-dong-battle-in-derry-intermediate-football-championship-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City Cemetery Lone Moor Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City Cemetery Lone Moor Road")](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
-
-The Lone Moor entrance to Derry City Cemetery. (Image: Googlemaps)
+Ryanair confirm extension of routes
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Road works to begin on City Cemetery's lower main trunk route](https://www.derrynow.com/news/derry-news/1636312/road-works-to-begin-on-city-centres-lower-main-trunk-route.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![McDonald offers ‘full’ apology to teenager sent inappropriate texts by senator](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald offers ‘full’ apology to teenager sent inappropriate texts by senator")](https://www.derrynow.com/news/northern-ireland/1636743/mcdonald-offers-full-apology-to-teenager-sent-inappropriate-texts-by-senator.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[McDonald offers ‘full’ apology to teenager sent inappropriate texts by senator](https://www.derrynow.com/news/northern-ireland/1636743/mcdonald-offers-full-apology-to-teenager-sent-inappropriate-texts-by-senator.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,53 +523,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![UU and Council look forward to wicked Derry Halloween programme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "UU and Council look forward to wicked Derry Halloween programme")](https://www.derrynow.com/news/local-news/1636709/uu-and-council-look-forward-to-wicked-derry-halloween-programme.html)
+[![Call for those affected by Omagh bombing to assist inquiry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call for those affected by Omagh bombing to assist inquiry")](https://www.derrynow.com/news/local-news/1637517/call-for-those-affected-by-omagh-bombing-to-assist-inquiry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[UU and Council look forward to wicked Derry Halloween programme](https://www.derrynow.com/news/local-news/1636709/uu-and-council-look-forward-to-wicked-derry-halloween-programme.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Call for those affected by Omagh bombing to assist inquiry](https://www.derrynow.com/news/local-news/1637517/call-for-those-affected-by-omagh-bombing-to-assist-inquiry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![12-hour Organ Marathon to raise funds for new parish hall in Eglinton](https://www.derrynow.com/resizer/165/93/true/2024_10_22/unnamed-1729602643767.jpg--.jpg?1729602645823 "12-hour Organ Marathon to raise funds for new parish hall in Eglinton")](https://www.derrynow.com/news/local-news/1636616/12-hour-organ-marathon-to-raise-funds-for-new-parish-hall-in-eglinton.html)
+[![Car flag vandalized ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Car flag vandalized ")](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
 
-The Rector of St Canice's Church in Eglinton, Rev Canon Paul Hoey
+Car flag vandalized
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[12-hour Organ Marathon to raise funds for new parish hall in Eglinton](https://www.derrynow.com/news/local-news/1636616/12-hour-organ-marathon-to-raise-funds-for-new-parish-hall-in-eglinton.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry mans car flying local Gaelic team's flag vandalised in Eglinton](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Magherafelt-based The Oakleaf Group](https://www.derrynow.com/resizer/165/93/true/2024_10_22/image0_%282%29-1729605959324.jpeg--.jpeg?1729605959399 "Magherafelt-based The Oakleaf Group")](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
+[![Archibald encourages Mid-Ulster entrepreneurs to help vacant premises get ‘Back in Business’](https://www.derrynow.com/resizer/165/93/true/2024_10_23/Back_in_Business_-_AMC_-_%281%29_-_Oct_2024-1729679982125.JPG--.JPG?1729679982909 "Archibald encourages Mid-Ulster entrepreneurs to help vacant premises get ‘Back in Business’")](https://www.derrynow.com/news/home/1637576/archibald-encourages-mid-ulster-entrepreneurs-to-help-vacant-premises-get-back-in-business.html)
 
-Magherafelt-based The Oakleaf Group
+Finance Minister Dr Caoimhe Archibald with Aisling Stewart, owner of AMC Beauty & Training Academy.
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[Home](https://www.derrynow.com/)
 
-[Magherafelt-based The Oakleaf Group has announced the opening date for its newest bar The 40 Thieves Tavern in Cookstown](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Archibald encourages Mid-Ulster entrepreneurs to help vacant premises get ‘Back in Business’](https://www.derrynow.com/news/home/1637576/archibald-encourages-mid-ulster-entrepreneurs-to-help-vacant-premises-get-back-in-business.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![AFBI Freshwater scientist, Faye Shiels with DAERA Minister Andrew Muir](https://www.derrynow.com/resizer/165/93/true/2024_10_22/Photo_1-1729605405253.jpg--.jpg?1729605405848 "AFBI Freshwater scientist, Faye Shiels with DAERA Minister Andrew Muir")](https://www.derrynow.com/news/county-derry-post/1636693/research-vessel-to-aid-monitoring-of-blue-green-algae-on-lough-neagh.html)
+[![Fr Paddy O'Kane](https://www.derrynow.com/resizer/165/93/true/2022_03_28/_96560124_pruest-1648469089881.jpg--.jpg?1648469089902 "Fr Paddy O'Kane")](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
 
-AFBI Freshwater scientist, Faye Shiels with DAERA Minister Andrew Muir
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Research vessel to aid monitoring of blue green algae on Lough Neagh](https://www.derrynow.com/news/county-derry-post/1636693/research-vessel-to-aid-monitoring-of-blue-green-algae-on-lough-neagh.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man in Derry Court following breach of non-molestation order against his partner](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man in Derry Court following breach of non-molestation order against his partner")](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
+Fr Paddy O'Kane
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man in Derry Court following breach of non-molestation order against his partner](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Fr Paddy O'Kane inquest told garden area not included in health and safety assessment](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Celebrate the Taste of Mid Ulster at The Inn Castledawson](https://www.derrynow.com/resizer/165/93/true/2024_10_23/The_Castledawson_Inn___0002-1729680421228.jpg--.jpg?1729680421307 "Celebrate the Taste of Mid Ulster at The Inn Castledawson")](https://www.derrynow.com/news/home/1637591/celebrate-the-taste-of-mid-ulster-at-the-inn-castledawson.html)
+
+The Inn Castledawson will host the event this Friday.
+
+[Home](https://www.derrynow.com/)
+
+[Celebrate the Taste of Mid Ulster at The Inn Castledawson](https://www.derrynow.com/news/home/1637591/celebrate-the-taste-of-mid-ulster-at-the-inn-castledawson.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Federation of Ulster Local Studies holds 50th Anniversary AGM and Conference in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_23/MixCollage-23-Oct-2024-11-17-AM-9028-1729678629016.jpg--.jpg?1729678629070 "Federation of Ulster Local Studies holds 50th Anniversary AGM and Conference in Derry")](https://www.derrynow.com/story-telling/local-news/1637523/federation-of-ulster-local-studies-holds-50th-anniversary-agm-and-conference-in-derry.html)
+
+Mayor Lillian Seenoi-Barr pictured at the event in City Hotel, Derry. Photo by Jim McCafferty.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Federation of Ulster Local Studies holds 50th Anniversary AGM and Conference in Derry](https://www.derrynow.com/story-telling/local-news/1637523/federation-of-ulster-local-studies-holds-50th-anniversary-agm-and-conference-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
