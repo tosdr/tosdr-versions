@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-273f516978e0254b3a5b25778a185069
+242562640a0f9d262b3823785b5bf741
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm white coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0172.200.jpg)](https://www.sojourner.biz/beads/pearls/10-mm-white-coin-pearls.html "10 mm white coin pearls")
+[![2 mm micro-faceted red jasper beads](https://www.sojourner.biz/images/cache/stone/STN080one.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/2-mm-micro-faceted-red-jasper-beads.html "2 mm micro-faceted red jasper beads")
 
-#### [10 mm white coin pearls](https://www.sojourner.biz/beads/pearls/10-mm-white-coin-pearls.html "10 mm white coin pearls")
+#### [2 mm micro-faceted red jasper beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/2-mm-micro-faceted-red-jasper-beads.html "2 mm micro-faceted red jasper beads")
 
-$25.00
+$17.00
 
 ### Best Sellers
 
