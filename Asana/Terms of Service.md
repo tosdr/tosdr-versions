@@ -4,7 +4,7 @@ x icon
 
 [Asana Home](https://asana.com/?noredirect)
 
-* Features chevron-down icon
+* Product chevron-down icon
 * Solutions chevron-down icon
 * Resources chevron-down icon
 * [Enterprise](https://asana.com/enterprise)
@@ -18,7 +18,7 @@ Choose your preferred language
 
 [Get started](https://asana.com/create-account "Get started")
 
-Featureschevron-down icon
+Productchevron-down icon
 
 ### PLATFORM
 
@@ -487,7 +487,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Customer Success](https://asana.com/customer-success)
 * [Developers and API](https://developers.asana.com/docs)
 * [Partners](https://asana.com/partners)
-* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/site-map)
+* [Sitemap](https://asana.com/site-map)
 
 * Company
 * [About us](https://asana.com/company)
