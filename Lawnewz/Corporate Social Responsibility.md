@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Couy Griffin at the Capitol on Jan. 6, 2021.](https://am23.mediaite.com/lc/cnt/uploads/2022/03/Couy-Griffin-at-Capitol-J6-432x243.jpg)](https://lawandcrime.com/high-profile/breaching-the-restricted-area-suffices-court-shuts-down-cowboys-for-trump-founders-jan-6-conviction-appeal-rejects-argument-he-didnt-know-pence-was-there/)
+1. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
     
-    ### ['Breaching the restricted area suffices': Court shuts down 'Cowboys for Trump' founder's Jan. 6 conviction appeal, rejects argument he didn't know Pence was there](https://lawandcrime.com/high-profile/breaching-the-restricted-area-suffices-court-shuts-down-cowboys-for-trump-founders-jan-6-conviction-appeal-rejects-argument-he-didnt-know-pence-was-there/)
+    ### ['Denied': Georgia Supreme Court unanimously rejects GOP efforts to revive controversial election rules passed by Trump allies](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
     
-2. [![A teenage boy pictured after he's trampled by a police horse at the State Fair of Texas.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/horse-432x243.jpg)](https://lawandcrime.com/lawsuit/police-horse-set-off-by-spilled-soda-ran-wild-through-state-fair-crowd-trampled-teen-boy-who-began-convulsing-on-cement-in-front-of-family-lawsuit/)
+2. [![Inset: Domonique Knowles being arrested (WKYC). Background: The apartment complex where she left her kids unattended for several days (WOIO).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/sdfsfsd-432x243.jpg)](https://lawandcrime.com/crime/remote-work-is-one-thing-remote-mom-is-another-woman-left-3-young-kids-alone-for-days-while-in-miami-for-friends-liposuction-surgery/)
     
-    ### [Police horse set off by spilled soda 'ran wild' through state fair crowd, trampled teen boy who 'began convulsing' on cement in front of family: Lawsuit](https://lawandcrime.com/lawsuit/police-horse-set-off-by-spilled-soda-ran-wild-through-state-fair-crowd-trampled-teen-boy-who-began-convulsing-on-cement-in-front-of-family-lawsuit/)
+    ### ['Remote work is one thing, remote mom is another': Woman left 3 young kids alone for days while in Miami for friend's liposuction surgery](https://lawandcrime.com/crime/remote-work-is-one-thing-remote-mom-is-another-woman-left-3-young-kids-alone-for-days-while-in-miami-for-friends-liposuction-surgery/)
     
-3. [![Rudy Giuliani](https://am21.mediaite.com/lc/cnt/uploads/2024/06/AP20255664139540-432x243.jpg)](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
+3. [![Mark Meadows, Jack Smith](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Meadows-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-cites-basic-defect-while-ending-mark-meadows-lawsuit-against-jack-smith-and-us-archivist-in-search-of-georgia-rico-defense-boost/)
     
-    ### ['Profound irony': Judge orders Rudy Giuliani to quickly transfer his assets to defamed Georgia election workers — including NYC apartment and Trump legal bills](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
+    ### [Trump-appointed judge cites basic 'defect' while ending Mark Meadows' lawsuit against Jack Smith and US Archivist in search of Georgia RICO defense boost](https://lawandcrime.com/high-profile/trump-appointed-judge-cites-basic-defect-while-ending-mark-meadows-lawsuit-against-jack-smith-and-us-archivist-in-search-of-georgia-rico-defense-boost/)
     
-4. [![Left: Emmanuel Thomas Dennis (Fayette County District Attorney's Office). Right: The apartment complex where Dennis allegedly beat his fiancee's 2-year-old daughter to death (Google Maps).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Left-Emmanuel-Thomas-Dennis-Fayette-County-District-Attorneys-Office.-Right-The-apartment-complex-where-Dennis-allegedly-beat-his-fiancees-2-year-old-daughter-to-death-Google-Maps-432x243.jpg)](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
+4. [![Sarah Boone testimony](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/live-trials/accused-suitcase-killer-admits-ignoring-boyfriends-pleas-to-let-him-out-of-zipped-up-luggage-watching-him-suffocate-before-going-to-bed/)
     
-    ### [Man repeatedly referred to fiancee's 2-year-old daughter as 'it' when police questioned him about her violent death: Cops](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
+    ### [Accused suitcase killer admits ignoring boyfriend's pleas to let him out of zipped-up luggage, watching him suffocate before going to bed](https://lawandcrime.com/live-trials/accused-suitcase-killer-admits-ignoring-boyfriends-pleas-to-let-him-out-of-zipped-up-luggage-watching-him-suffocate-before-going-to-bed/)
     
-5. [![Donald Trump does a hand motion in the main image; Fani Willis looks confused inset on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/03/Trump-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
+5. [![Donald Trump Jr., Charlie Kirk](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Trump-Jr-Charlie-Kirk-432x243.jpg)](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
     
-    ### ['The law doesn't apply to you': Fani Willis' office ripped by sarcastic judge for violating open records laws in case related to Trump RICO prosecution, punishment to come](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
+    ### [High school social studies teacher arrested for threatening Donald Trump Jr. and Charlie Kirk after receiving message about Turning Point rally: Cops](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
