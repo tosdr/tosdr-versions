@@ -232,7 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come check out what's behind the curtain.
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [We are over a week away from Halloween, but one town in New Jersey has their Christmas lights up. Only to be beaten to the punch by Drew's neighbor who never took theirs down this year](https://www.fark.com/goto/13436942) ( [catcountry1073.com](https://www.fark.com/goto/13436942) ) » [(13 comments)](https://www.fark.com/comments/13436942/We-are-over-a-week-away-from-Halloween-but-one-town-in-New-Jersey-has-their-Christmas-lights-up-Only-to-be-beaten-to-punch-by-Drews-neighbor-who-never-took-theirs-down-this-year) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13436482) ( [fark.com](https://www.fark.com/goto/13436482) ) » [(25 comments)](https://www.fark.com/comments/13436482/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [The late Jerry West to be given major honors including celebration video, court decal and memorial seat by the LA Clippers, as the other LA team tired of his moods and considered him persona non grata](https://www.fark.com/goto/13437190) ( [espn.com](https://www.fark.com/goto/13437190) ) » [(1 comment)](https://www.fark.com/comments/13437190/The-late-Jerry-West-to-be-given-major-honors-including-celebration-video-court-decal-memorial-seat-by-LA-Clippers-as-other-LA-team-tired-of-his-moods-considered-him-persona-non-grata) |
-| [Business](https://www.fark.com/business/) | [Genuine Parts tanks on legit Q3 earnings miss](https://www.fark.com/goto/13436472) ( [msn.com](https://www.fark.com/goto/13436472) ) » [(1 comment)](https://www.fark.com/comments/13436472/Genuine-Parts-tanks-on-legit-Q3-earnings-miss) |
-| [STEM](https://www.fark.com/stem/) | [Look at this ChatGPT writing those stories like it owns the place](https://www.fark.com/goto/13436808) ( [techxplore.com](https://www.fark.com/goto/13436808) ) » [(1 comment)](https://www.fark.com/comments/13436808/Look-at-this-ChatGPT-writing-those-stories-like-it-owns-place) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["We wrote to the Home Office asking if we could get a replica, and they actually issued Paddington with an official passport"](https://www.fark.com/goto/13436596) ( [theguardian.com](https://www.fark.com/goto/13436596) ) » [(1 comment)](https://www.fark.com/comments/13436596/We-wrote-to-Home-Office-asking-if-we-could-get-a-replica-they-actually-issued-Paddington-with-an-official-passport) |
-| [Fandom](https://www.fark.com/fandom/) | [Just for one night, you can smell this horror movie](https://www.fark.com/goto/13436956) ( [mashable.com](https://www.fark.com/goto/13436956) ) » [(1 comment)](https://www.fark.com/comments/13436956/Just-for-one-night-you-can-smell-this-horror-movie) |
-| [D'awww](https://www.fark.com/dawww/) | [All is not well in the commonwealth: An alpaca has sneezed on king Charles](https://www.fark.com/goto/13437134) ( [nbcnewyork.com](https://www.fark.com/goto/13437134) ) » [(1 comment)](https://www.fark.com/comments/13437134/All-is-not-well-in-commonwealth-An-alpaca-has-sneezed-on-king-Charles) |
-| [Food](https://www.fark.com/food/) | [Simu Liu fêtes boba drink company](https://www.fark.com/goto/13437120) ( [cp24.com](https://www.fark.com/goto/13437120) ) » [(0 comments)](https://www.fark.com/comments/13437120/Simu-Liu-ftes-boba-drink-company) |
-| [Politics](https://www.fark.com/politics/) | ["Where's Christi? Is she around? Christi? Christi? Where am I? Who put this poop in my pants?"](https://www.fark.com/goto/13436830) ( [boingboing.net](https://www.fark.com/goto/13436830) ) » [(23 comments)](https://www.fark.com/comments/13436830/Wheres-Christi-Is-she-around-Christi-Christi-Where-am-I-Who-put-this-poop-in-my-pants) |
+| [Main](https://www.fark.com/) | [Man, talk about being hangry](https://www.fark.com/goto/13437530) ( [wjactv.com](https://www.fark.com/goto/13437530) ) » [(3 comments)](https://www.fark.com/comments/13437530/Man-talk-about-being-hangry) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13436482) ( [fark.com](https://www.fark.com/goto/13436482) ) » [(106 comments)](https://www.fark.com/comments/13436482/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Fernando Valenzuela makes a sudden return to the Angels roster](https://www.fark.com/goto/13437556) ( [espn.com](https://www.fark.com/goto/13437556) ) » [(12 comments)](https://www.fark.com/comments/13437556/Fernando-Valenzuela-makes-a-sudden-return-to-Angels-roster) |
+| [Business](https://www.fark.com/business/) | [Denny's is grand-slamming doors on 150 underperforming restaurants](https://www.fark.com/goto/13437250) ( [apnews.com](https://www.fark.com/goto/13437250) ) » [(6 comments)](https://www.fark.com/comments/13437250/Dennys-is-grand-slamming-doors-on-150-underperforming-restaurants) |
+| [STEM](https://www.fark.com/stem/) | [PSA: If you are a fish that is struggling to migrate, and you live in Stockholm then there's some great news for you](https://www.fark.com/goto/13437090) ( [msn.com](https://www.fark.com/goto/13437090) ) » [(4 comments)](https://www.fark.com/comments/13437090/PSA-If-you-are-a-fish-that-is-struggling-to-migrate-you-live-in-Stockholm-then-theres-some-great-news-for-you) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Farking elections, how do they work?](https://www.fark.com/goto/13437538) ( [consequence.net](https://www.fark.com/goto/13437538) ) » [(12 comments)](https://www.fark.com/comments/13437538/Farking-elections-how-do-they-work) |
+| [Fandom](https://www.fark.com/fandom/) | [Just for one night, you can smell this horror movie](https://www.fark.com/goto/13436956) ( [mashable.com](https://www.fark.com/goto/13436956) ) » [(8 comments)](https://www.fark.com/comments/13436956/Just-for-one-night-you-can-smell-this-horror-movie) |
+| [D'awww](https://www.fark.com/dawww/) | [All is not well in the commonwealth: An alpaca has sneezed on king Charles](https://www.fark.com/goto/13437134) ( [nbcnewyork.com](https://www.fark.com/goto/13437134) ) » [(2 comments)](https://www.fark.com/comments/13437134/All-is-not-well-in-commonwealth-An-alpaca-has-sneezed-on-king-Charles) |
+| [Food](https://www.fark.com/food/) | [Gee, some companies will do anything to hook people in these days](https://www.fark.com/goto/13437054) ( [metro.co.uk](https://www.fark.com/goto/13437054) ) » [(4 comments)](https://www.fark.com/comments/13437054/Gee-some-companies-will-do-anything-to-hook-people-in-these-days) |
+| [Politics](https://www.fark.com/politics/) | [Thanks Obama ... and Eminem](https://www.fark.com/goto/13436938) ( [freep.com](https://www.fark.com/goto/13436938) ) » [(3 comments)](https://www.fark.com/comments/13436938/Thanks-Obama-Eminem) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 22 2024 21:43:43  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 23 2024 03:44:27  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
