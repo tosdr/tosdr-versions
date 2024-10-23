@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Man, talk about being hangry](https://www.fark.com/goto/13437530) ( [wjactv.com](https://www.fark.com/goto/13437530) ) » [(3 comments)](https://www.fark.com/comments/13437530/Man-talk-about-being-hangry) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13436482) ( [fark.com](https://www.fark.com/goto/13436482) ) » [(106 comments)](https://www.fark.com/comments/13436482/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [Fernando Valenzuela makes a sudden return to the Angels roster](https://www.fark.com/goto/13437556) ( [espn.com](https://www.fark.com/goto/13437556) ) » [(12 comments)](https://www.fark.com/comments/13437556/Fernando-Valenzuela-makes-a-sudden-return-to-Angels-roster) |
-| [Business](https://www.fark.com/business/) | [Denny's is grand-slamming doors on 150 underperforming restaurants](https://www.fark.com/goto/13437250) ( [apnews.com](https://www.fark.com/goto/13437250) ) » [(6 comments)](https://www.fark.com/comments/13437250/Dennys-is-grand-slamming-doors-on-150-underperforming-restaurants) |
-| [STEM](https://www.fark.com/stem/) | [PSA: If you are a fish that is struggling to migrate, and you live in Stockholm then there's some great news for you](https://www.fark.com/goto/13437090) ( [msn.com](https://www.fark.com/goto/13437090) ) » [(4 comments)](https://www.fark.com/comments/13437090/PSA-If-you-are-a-fish-that-is-struggling-to-migrate-you-live-in-Stockholm-then-theres-some-great-news-for-you) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Farking elections, how do they work?](https://www.fark.com/goto/13437538) ( [consequence.net](https://www.fark.com/goto/13437538) ) » [(12 comments)](https://www.fark.com/comments/13437538/Farking-elections-how-do-they-work) |
-| [Fandom](https://www.fark.com/fandom/) | [Just for one night, you can smell this horror movie](https://www.fark.com/goto/13436956) ( [mashable.com](https://www.fark.com/goto/13436956) ) » [(8 comments)](https://www.fark.com/comments/13436956/Just-for-one-night-you-can-smell-this-horror-movie) |
-| [D'awww](https://www.fark.com/dawww/) | [All is not well in the commonwealth: An alpaca has sneezed on king Charles](https://www.fark.com/goto/13437134) ( [nbcnewyork.com](https://www.fark.com/goto/13437134) ) » [(2 comments)](https://www.fark.com/comments/13437134/All-is-not-well-in-commonwealth-An-alpaca-has-sneezed-on-king-Charles) |
-| [Food](https://www.fark.com/food/) | [Gee, some companies will do anything to hook people in these days](https://www.fark.com/goto/13437054) ( [metro.co.uk](https://www.fark.com/goto/13437054) ) » [(4 comments)](https://www.fark.com/comments/13437054/Gee-some-companies-will-do-anything-to-hook-people-in-these-days) |
-| [Politics](https://www.fark.com/politics/) | [Thanks Obama ... and Eminem](https://www.fark.com/goto/13436938) ( [freep.com](https://www.fark.com/goto/13436938) ) » [(3 comments)](https://www.fark.com/comments/13436938/Thanks-Obama-Eminem) |
+| [Main](https://www.fark.com/) | [Photoshop this engine driver](https://www.fark.com/goto/13432212) ( [thenicheng.com](https://www.fark.com/goto/13432212) ) » [(9 comments)](https://www.fark.com/comments/13432212/Photoshop-this-engine-driver) |
+| [Discussion](https://www.fark.com/discussion/) | ["My wife asked me to cook more so I have. But when presented with my creations, she defaces them with ketchup or sauces. What do?"](https://www.fark.com/goto/13437966) ( [slate.com](https://www.fark.com/goto/13437966) ) » [(5 comments)](https://www.fark.com/comments/13437966/My-wife-asked-me-to-cook-more-so-I-have-But-when-presented-with-my-creations-she-defaces-them-with-ketchup-sauces-What-do) |
+| [Sports](https://www.fark.com/sports/) | [The Yankees have vindicated George Costanza](https://www.fark.com/goto/13437690) ( [cracked.com](https://www.fark.com/goto/13437690) ) » [(3 comments)](https://www.fark.com/comments/13437690/The-Yankees-have-vindicated-George-Costanza) |
+| [Business](https://www.fark.com/business/) | [Forget meme stonks and crypto. It's gold that's going to the moon, baby](https://www.fark.com/goto/13437790) ( [slate.com](https://www.fark.com/goto/13437790) ) » [(1 comment)](https://www.fark.com/comments/13437790/Forget-meme-stonks-crypto-Its-gold-thats-going-to-moon-baby) |
+| [STEM](https://www.fark.com/stem/) | [Orcas, ocean's badass, have learned how to hunt moose](https://www.fark.com/goto/13437456) ( [forbes.com](https://www.fark.com/goto/13437456) ) » [(6 comments)](https://www.fark.com/comments/13437456/Orcas-oceans-badass-have-learned-how-to-hunt-moose) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Burnt-out Nicole Kidman says 'no more orgasms'. We could call her performance the anti-climax of the year](https://www.fark.com/goto/13437692) ( [metro.co.uk](https://www.fark.com/goto/13437692) ) » [(9 comments)](https://www.fark.com/comments/13437692/Burnt-out-Nicole-Kidman-says-no-more-orgasms-We-could-call-her-performance-anti-climax-of-year) |
+| [Fandom](https://www.fark.com/fandom/) | [Cristin Milioti on her role in Penguin: "Biatch, I escaped a time loop. Of course I could take the Batman"](https://www.fark.com/goto/13437666) ( [denofgeek.com](https://www.fark.com/goto/13437666) ) » [(7 comments)](https://www.fark.com/comments/13437666/Cristin-Milioti-on-her-role-in-Penguin-Biatch-I-escaped-a-time-loop-Of-course-I-could-take-Batman) |
+| [D'awww](https://www.fark.com/dawww/) | [Hey Meathead. Stifle yourself and enjoy this final television appearance of Jean Stapleton (Edith) and Carroll o'Connor (Archie) together from April 24, 2000](https://www.fark.com/goto/13437628) ( [youtube.com](https://www.fark.com/goto/13437628) ) » [(2 comments)](https://www.fark.com/comments/13437628/Hey-Meathead-Stifle-yourself-enjoy-this-final-television-appearance-of-Jean-Stapleton-Edith-Carroll-oConnor-Archie-together-from-April-24-2000) |
+| [Food](https://www.fark.com/food/) | [Arizonans wine about the abnormally hot fall](https://www.fark.com/goto/13437544) ( [azfamily.com](https://www.fark.com/goto/13437544) ) » [(5 comments)](https://www.fark.com/comments/13437544/Arizonans-wine-about-abnormally-hot-fall) |
+| [Politics](https://www.fark.com/politics/) | [Rudy Giuliani is finally starting to find out after years of farking around](https://www.fark.com/goto/13437652) ( [nbcnews.com](https://www.fark.com/goto/13437652) ) » [(9 comments)](https://www.fark.com/comments/13437652/Rudy-Giuliani-is-finally-starting-to-find-out-after-years-of-farking-around) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 23 2024 03:44:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 23 2024 09:42:13  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
