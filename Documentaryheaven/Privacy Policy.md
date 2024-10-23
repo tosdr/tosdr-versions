@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ghosts of the Black Sea](/wp-content/thumbnails/6700-100x70.png?x53432)
+* [![Capoeira: The Art and Soul of Brazil](/wp-content/thumbnails/3970-100x70.jpg?x53432)
     
-    Ghosts of the Black Sea
+    Capoeira: The Art and Soul of Brazil
     
-    Seven years ago, on his third trip to the Black Sea, Dr. Robert Ballard discovered a miraculously well-preserved Byzantine shipwreck, but his team could only take pictures. Now, Ballard returns with s](https://documentaryheaven.com/ghosts-of-the-black-sea/ "Ghosts of the Black Sea")
-* [![The Game: The Documentary 2](/wp-content/thumbnails/10238-100x70.jpg?x53432)
+    This is a short documentary film produced by Travis Manning at Full Sail University about the amazing martial art capoeira featuring the Capoeira Guerreiros Orlando Academy.](https://documentaryheaven.com/capoeira-the-art-and-soul-of-brazil/ "Capoeira: The Art and Soul of Brazil")
+* [![Black Money](/wp-content/thumbnails/3310-100x70.jpg?x53432)
     
-    The Game: The Documentary 2
+    Black Money
     
-    10 years after releasing his debut album The Documentary, Compton rapper, The Game, recently released a double album in two separate installments. The first disk was titled The Documentary 2 and the s](https://documentaryheaven.com/game-documentary-2/ "The Game: The Documentary 2")
-* [![Judgment Day: Intelligent Design on Trial](/wp-content/thumbnails/12584-100x70.jpg?x53432)
+    n Black Money, Frontline correspondent Lowell Bergman investigates this shadowy side of international business, shedding light on multinational companies that have routinely made secret payments — oft](https://documentaryheaven.com/black-money/ "Black Money")
+* [![Blackadder Rides Again](/wp-content/thumbnails/4771-100x70.jpg?x53432)
     
-    Judgment Day: Intelligent Design on Trial
+    Blackadder Rides Again
     
-    Like much of the United States, Dover, Pennsylvania has become a town divided, split between those who accept Charles Darwin's Theory of Evolution and those who reject it. This rift between science an](https://documentaryheaven.com/judgment-day-intelligent-design-on-trial/ "Judgment Day: Intelligent Design on Trial")
-* [![Dub Echoes](/wp-content/thumbnails/5737-100x70.jpg?x53432)
+    A 60 minute documentary produced by Tiger Aspect for the BBC and broadcast on 25 December 2008, to celebrate the 25th anniversary of the show. It featured interviews with all of the major cast membe](https://documentaryheaven.com/blackadder-rides-again/ "Blackadder Rides Again")
+* [![The Lost Book of Nostradamus](/wp-content/thumbnails/927-100x70.jpg?x53432)
     
-    Dub Echoes
+    The Lost Book of Nostradamus
     
-    The documentary “Dub Echoes” shows how the Jamaican invention called dub ended up influencing much of the music we hear today, from electronic music to hip-hop, transforming the studio in a musical in](https://documentaryheaven.com/dub-echoes/ "Dub Echoes")
-* [![Can We Have Unlimited Power?](/wp-content/thumbnails/7089-100x70.jpg?x53432)
+    Could it be that Nostradamus, the “go to” prophet of all time, is reaching forward into the 21st century to give us a last warning? Is it already too late? In 1994, Italian journalist Enza Massa was a](https://documentaryheaven.com/the-lost-book-of-nostradamus/ "The Lost Book of Nostradamus")
+* [![Attack of the Drones](/wp-content/thumbnails/6763-100x70.jpg?x53432)
     
-    Can We Have Unlimited Power?
+    Attack of the Drones
     
-    Michael Mosley takes an informative and ambitious journey exploring how the evolution of scientific understanding is intimately interwoven with society's historical path.We are the most power-hungry](https://documentaryheaven.com/can-we-have-unlimited-power/ "Can We Have Unlimited Power?")
+    The US government’s growing reliance on aerial drones to pursue its war on al-Qaeda and the Taliban in Yemen, Afghanistan and elsewhere is proving controversial – as evidenced by the international rea](https://documentaryheaven.com/attack-of-the-drones/ "Attack of the Drones")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
