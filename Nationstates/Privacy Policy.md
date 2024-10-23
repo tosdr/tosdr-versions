@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Transformers: Electric Trepidation (10,018)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,018 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (1,346)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (1,346 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (31)](https://forum.nationstates.net/viewtopic.php?t=556127&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - IC" (31 posts)")
-* [What Music Are You Listening to? v18 (12,381)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (12,381 posts)")
-* [(R) Deliberate thread derailment via… (6)](https://forum.nationstates.net/viewtopic.php?t=557350&f=16&view=unread#unread ""(R) Deliberate thread derailment via trolling in progress" (6 posts)")
+* [American Politics: Remember, Remember… (2,500)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (2,500 posts)")
+* [Guess Who BN Is! (5,795)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,795 posts)")
+* [Goblins are people. (76)](https://forum.nationstates.net/viewtopic.php?t=557385&f=20&view=unread#unread ""Goblins are people." (76 posts)")
+* [Islamic Discussion Thread ٥: Free Taj… (11,824)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,824 posts)")
+* [What is the saddest thing about AN? (46)](https://forum.nationstates.net/viewtopic.php?t=556962&f=25&view=unread#unread ""What is the saddest thing about AN?" (46 posts)")
 
 Advertisement
 
