@@ -29,6 +29,7 @@
     * [All Categories](https://community.spiceworks.com/categories)
 * [Research](#)
     
+    * [Research Home](https://www.spiceworks.com/research/)
     * [State of IT 2024 Report](https://www.spiceworks.com/research/it-report/)
     * [IT Spend Report](https://www.spiceworks.com/research/it-spend-report/)
     * [Customer Experience Report](https://www.spiceworks.com/research/customer-experience-report/)
