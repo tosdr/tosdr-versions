@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Decomposing body found in South Arlington home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
+ [![Plano special education teacher injured in motorcycle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/9pm-tz-plano-isd-teacher-injured_00.00.01.34.jpg?ve=1&tl=1)
 
- ![Decomposing body found in South Arlington home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/decomposing-body-found-south-arlington-home)
+ ![Plano special education teacher injured in motorcycle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/9pm-tz-plano-isd-teacher-injured_00.00.01.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-east-teacher-anthony-ruttenburg-motorcycle-crash)
 
-### [Decomposing body found in South Arlington home](https://www.fox4news.com/news/decomposing-body-found-south-arlington-home)
+### [Plano special education teacher injured in motorcycle crash](https://www.fox4news.com/news/plano-east-teacher-anthony-ruttenburg-motorcycle-crash)
 
- [![Tarrant County reports 2 errors amid high early voting turnout](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/P_DIONNE-TARRANT-CO-ELECTIONS-5P_00.00.01.04.png?ve=1&tl=1)
+ [![Suspicious parents likely stopped pediatrician's assistant from victimizing more children, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1)
 
- ![Tarrant County reports 2 errors amid high early voting turnout](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/32/18/592/333/P_DIONNE-TARRANT-CO-ELECTIONS-5P_00.00.01.04.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/tarrant-county-reports-2-errors-amid-record-early-voting-turnout)
+ ![Suspicious parents likely stopped pediatrician's assistant from victimizing more children, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/angel-nunez-little-spurs-pediatrics-potential-victims)
 
-### [Tarrant County reports 2 errors amid high early voting turnout](https://www.fox4news.com/election/tarrant-county-reports-2-errors-amid-record-early-voting-turnout)
+### [Suspicious parents likely stopped pediatrician's assistant from victimizing more children, police say](https://www.fox4news.com/news/angel-nunez-little-spurs-pediatrics-potential-victims)
 
- [![Wanted child predator later found with another minor sentenced to 60 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cameron-moffett.png?ve=1&tl=1)
+ [![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mcdonalds-quarter-pounder.jpg?ve=1&tl=1)
 
- ![Wanted child predator later found with another minor sentenced to 60 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cameron-moffett.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wanted-child-predator-later-found-another-minor-sentenced-60-years)
+ ![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mcdonalds-quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
 
-### [Wanted child predator later found with another minor sentenced to 60 years](https://www.fox4news.com/news/wanted-child-predator-later-found-another-minor-sentenced-60-years)
+### [1 killed, dozens sick after E.coli outbreak linked to McDonald’s Quarter Pounder, CDC says](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
 
- [![Honda recalls another 700,000 vehicles, this time for pumps that can crack and leak fuel](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/honda-getty.jpg?ve=1&tl=1)
+ [![Denny’s expects to close 150 locations by end of 2025](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/dennys-getty.jpg?ve=1&tl=1)
 
- ![Honda recalls another 700,000 vehicles, this time for pumps that can crack and leak fuel](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/honda-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/honda-recalls-another-700000-vehicles-pumps-crack-leak-fuel)
+ ![Denny’s expects to close 150 locations by end of 2025](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/dennys-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dennys-expects-close-150-locations-end-2025)
 
-### [Honda recalls another 700,000 vehicles, this time for pumps that can crack and leak fuel](https://www.fox4news.com/news/honda-recalls-another-700000-vehicles-pumps-crack-leak-fuel)
+### [Denny’s expects to close 150 locations by end of 2025](https://www.fox4news.com/news/dennys-expects-close-150-locations-end-2025)
 
- [![Former Abercrombie & Fitch CEO Mike Jeffries arrested on sex trafficking charges](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-75468105.jpg?ve=1&tl=1)
+ [![DoorDash reveals the most popular Halloween candy in every state](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/halloween-candy-gfx.jpg?ve=1&tl=1)
 
- ![Former Abercrombie & Fitch CEO Mike Jeffries arrested on sex trafficking charges](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-75468105.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mike-jeffries-abercrombie-fitch-ceo-reportedly-arrested-sex-trafficking-charges)
+ ![DoorDash reveals the most popular Halloween candy in every state](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/halloween-candy-gfx.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/doordash-reveals-most-popular-halloween-candy-every-state)
 
-### [Former Abercrombie & Fitch CEO Mike Jeffries arrested on sex trafficking charges](https://www.fox4news.com/news/mike-jeffries-abercrombie-fitch-ceo-reportedly-arrested-sex-trafficking-charges)
+### [DoorDash reveals the most popular Halloween candy in every state](https://www.fox4news.com/news/doordash-reveals-most-popular-halloween-candy-every-state)
 
 ###### [News](https://www.fox4news.com/news)
 
