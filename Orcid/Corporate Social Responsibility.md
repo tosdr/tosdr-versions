@@ -60,7 +60,7 @@ MENUMENU
                 * [Open Source Project License](https://info.orcid.org/open-source-project-license/)
                 * [Contract and Invoicing Policy](https://info.orcid.org/our-principles-policies/orcid-contract-policy/)
                 * [ORCID Privacy Policy](https://info.orcid.org/privacy-policy/)
-                * [Public Client Terms of Service](https://info.orcid.org/public-client-terms-of-service/)
+                * [Public APIs Terms of Service](https://info.orcid.org/public-client-terms-of-service/)
                 * [Public Data File Use Policy](https://info.orcid.org/public-data-file-use-policy/)
                 * [Schrems II FAQ](https://info.orcid.org/our-principles-policies/faq-orcid-and-ecj-schrems-ii-decision/)
                 * [Terms of Use](https://info.orcid.org/terms-of-use/)
