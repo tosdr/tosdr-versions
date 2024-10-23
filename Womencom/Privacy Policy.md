@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/romance-books-we-cant-wait-to-get-our-hands-on-in-2025/intro-1729524198.jpg)](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+*  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
     
-    [Living](https://www.women.com/category/living/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
     
-    [Romance Books We Can't Wait To Get Our Hands On In 2025](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
-    ===========================================================================================================================
+    [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    ==============================================================================================================================================================
     
-    There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
+    More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
     
-    By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+    By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
     
-* *  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+* *  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        ### [Taylor Swift's Worst Outfits From Each Of Her Eras](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
         
-        More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+        Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
         
     *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
         
@@ -82,18 +82,6 @@
 More Stories
 ------------
 
-*  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Taylor Swift's Worst Outfits From Each Of Her Eras](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-    
-    Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-    
 *  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
     
     [Living](https://www.women.com/category/living/)
@@ -105,6 +93,18 @@ More Stories
     While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
     
     By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+    
+*  [![A woman reading](https://www.women.com/img/gallery/romance-books-we-cant-wait-to-get-our-hands-on-in-2025/intro-1729524198.jpg)](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [Romance Books We Can't Wait To Get Our Hands On In 2025](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
+    
+    There's truly something for every lover of this big, wide world of romances. And 2025 is coming with some heavyweights.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
     
 *  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
     
