@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=117828999)  
-Karino Merinos ( PTY ) LTD
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=111265007)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=210460501)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=5573093)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=193569375)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=7561900)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=18484558)  
-Waterfinatics Swim School
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=27213964)  
+TechnoDezi PTY(LTD)
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=49623314)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=112646108)  
-VS Auto Spares and Repairs (Pty) LTD
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=191592088)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=185330233)  
-Immediate Health (pty)ltd
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=129464092)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=139540198)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=188569060)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=41856571)  
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=177193401)  
 Moremi Kitchens Rustenburg
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=14206872)  
-Roamfree Boerdery (PTY) LTD
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=60583370)  
+VerdanTech Pty Ltd
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=46080112)  
-Creative Characters
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=34465305)  
+Lily Fern & Co
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=360a7eedb5379e6a2727b72182870cc7e4dfffe91ce0a092e56d9c38a2b609b6&c=180515961)  
-Hydroworld T/A Milliqua
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=69554362)  
+Chiron Medical Solutions
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=48227112)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=193228898)  
+NGB HOLDINGS PTY LTD
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=147106284)  
+Prosper Park
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=28169657)  
+Depot Diesel (Pty) Ltd
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=107597433)  
+OrgChart Hosting Pty Ltd
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=64194952)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=c2b7e2269ffdede49f9ba7f80d9e117687be2f6faea83f0b31ddc687f90debf7&c=143124929)  
+Blue Bulls Rugby Coaches Association
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
