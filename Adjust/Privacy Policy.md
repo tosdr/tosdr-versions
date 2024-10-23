@@ -526,9 +526,11 @@ If personal data is being transferred to countries outside the European Economic
 **Data Privacy Framework**  
 Adjust Inc. complies with the EU-U.S. Data Privacy Framework (“DPF”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. We have certified to the U.S. Department of Commerce that it adheres to the DPF Principles. If there is any conflict between the terms in this privacy policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF program, and to view the certification of Adjust Inc., please visit  [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/)
 
-In compliance with the DPF Principles, we are committed to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our DPF policy should first contact us at: [privacy@adjust.com](mailto:privacy@adjust.com)
+In compliance with the EU-U.S. DPF, Adjust Inc. commits to cooperate and comply with the advice of the panel established by the EU data protection authorities (DPAs) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF. We are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-We have further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved DPF complaints concerning data transferred from the EU. We are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). You have the possibility, under certain conditions, to invoke binding arbitration. Please be aware, that we are required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Furthermore, we take liability in cases of onward transfers to third parties.
+For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website.
+
+If you are an EU, UK, or Swiss individual, where we transfer your personal data to third party servicer providers (see below) who perform services for us or on our behalf, we are responsible for the processing of that data by them and shall remain liable if they process your personal data in a manner inconsistent with the DPF Principles, unless we are not responsible for the event giving rise to the damage. 
 
 ### **2\. Tracking Technologies on our Website**
 
@@ -622,7 +624,7 @@ We use Appzi, a website visitor feedback collection tool on our website. The ser
 
 _Demandbase_
 
-We use Demandbase, an account-based marketing service, on our website. The service is provided by Demandbase, Inc., 222 2nd St., 24th Floor, San Francisco, CA 94105, USA. Demandbase enables us to identify and target B2B prospects who have shown interest in our services. This allows us to optimize and improve our marketing strategy. 
+We use Demandbase, an account-based marketing service, on our website. The service is provided by Demandbase, Inc., 222 2nd St., 24th Floor, San Francisco, CA 94105, USA. Demandbase enables us to identify and target B2B prospects who have shown interest in our services. This allows us to optimize and improve our marketing strategy.
 
 The data shared with Demandbase includes contact details of our clients and prospects (first and last name, company name, title, email. address(es), phone number(s), business address.) and website traffic data collected via Demandbase Tag (IP address, cookie ID, HTTP header, website engagement information). We process this data based on your consent as well as based on our commercial marketing interests. You can find more information about the data processed by Demandbase in their privacy policy at [https://www.demandbase.com/privacy/.](https://www.demandbase.com/privacy/)
 
