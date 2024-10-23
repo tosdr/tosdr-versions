@@ -12,6 +12,8 @@
         * [Jacksonville](https://www.forthepeople.com/office-locations/florida/jacksonville/)
         * [Miami](https://www.forthepeople.com/office-locations/florida/miami/)
         * [Tampa](https://www.forthepeople.com/office-locations/florida/tampa/)
+        * [Tallahassee](https://www.forthepeople.com/office-locations/florida/tallahassee/)
+        * [West Palm Beach](https://www.forthepeople.com/office-locations/florida/west-palm-beach/)
     * Georgia
         * [Atlanta](https://www.forthepeople.com/office-locations/georgia/atlanta/)
         * [Savannah](https://www.forthepeople.com/office-locations/georgia/savannah/)
