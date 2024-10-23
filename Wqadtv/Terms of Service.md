@@ -30,16 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_360x203.jpg)](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
         
-        #### [1 man pleads guilty to role in Rock Island Livestock Auction Barn fire](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae) [![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc90193a-5e1f-4a53-bc52-7f64a399211c/dc90193a-5e1f-4a53-bc52-7f64a399211c_360x203.jpg)](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae)
+        #### [Family of missing Davenport woman speak out](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf) [![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
         
-        #### [Man pleads guilty to setting Rock Island Livestock Auction Barn fire](https://www.wqad.com/article/news/crime/1-man-pleads-guilty-rock-island-livestock-auction-barn-fire-arson/526-df5d4e3b-9344-4537-b412-2e1f43ad2dae)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39)
+        #### [Family of missing Davenport woman asking for public's help locating her](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_360x203.jpg)](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
         
-        #### [Building community & connections: Here's how to register for the 2nd annual Farmers of Color Conference](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39) [![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2f4a896-e15b-415e-a1e5-7da8b380de54/20241022T212034/b2f4a896-e15b-415e-a1e5-7da8b380de54_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39)
+        #### ['There's anonymity' l Narcan vending machines expand Knox County's push to curb overdoses](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9) [![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_360x203.jpg)](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
         
-        #### [Closing the gap: Here's how to register for the 2nd annual Farmers of Color Conference](https://www.wqad.com/article/news/local/the-current/farmers-of-color-conference-midwest-iowa-second-annual-register-urbandale-black/526-75d4b4ab-0d5b-4e96-a466-1d6369995c39)
+        #### [Narcan vending machines now available in Knox County](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -58,9 +58,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/862c04d3-ffca-47db-b330-2f1ee50c3155/20241022T121203/862c04d3-ffca-47db-b330-2f1ee50c3155_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/862c04d3-ffca-47db-b330-2f1ee50c3155/20241022T121203/862c04d3-ffca-47db-b330-2f1ee50c3155_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d4ec2f4d-da27-4720-b38d-7b658702a163/20241022T224817/d4ec2f4d-da27-4720-b38d-7b658702a163_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d4ec2f4d-da27-4720-b38d-7b658702a163/20241022T224817/d4ec2f4d-da27-4720-b38d-7b658702a163_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Showers on track for early Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A comfortable fall day tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_360x203.jpg)](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
         
@@ -88,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-73°
+59°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
