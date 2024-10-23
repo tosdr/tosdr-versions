@@ -38,7 +38,7 @@ Nature's Way
         * [Back to Balance](https://naturesway.com/collections/back-to-balance)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
-        * [Bundle & Save](https://naturesway.com/collections/bundle-save-1)
+        * [Bundle & Save](https://naturesway.com/collections/bundle-save)
         * [Last Chance](https://naturesway.com/collections/last-chance)
         * [Overstock](https://naturesway.com/collections/overstock-sales)
         
@@ -180,7 +180,7 @@ Nature's Way
     * [Back to Balance](https://naturesway.com/collections/back-to-balance)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
-    * [Bundle & Save](https://naturesway.com/collections/bundle-save-1)
+    * [Bundle & Save](https://naturesway.com/collections/bundle-save)
     * [Last Chance](https://naturesway.com/collections/last-chance)
     * [Overstock](https://naturesway.com/collections/overstock-sales)
     
@@ -1510,7 +1510,7 @@ Cart ()
 
 Cart (0)
 
-[Best Sellers](https://naturesway.com/) [Last Chance Sale](https://naturesway.com/) [Value Bundles](https://naturesway.com/)
+[Popular Products](https://naturesway.com/collections/trending-products) [Last Chance](https://naturesway.com/collections/last-chance) [Bundle & Save](https://naturesway.com/collections/bundle-save)
 
 Free shipping on US orders $35+ Spend $35.0 to get free shipping!
 
