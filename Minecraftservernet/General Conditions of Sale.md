@@ -29,13 +29,17 @@ Version All 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.
 
 Active Servers
 
-[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+[![Towny-MC](plugins/MineCraft/icons/25x25xTowny-MC_1729714800.png.pagespeed.ic.xzubyAIewk.png)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
+Towny MC](https://minecraft-server.net/details/Towny-MC/ "Towny MC")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]") [Craftbit](https://minecraft-server.net/details/Craftbit/ "Craftbit") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![MysticNetworkMC](plugins/MineCraft/icons/25x25xMysticNetworkMC_1729054234.png.pagespeed.ic.AboSi7capL.png)
+
+Mystic Network Skyblock](https://minecraft-server.net/details/MysticNetworkMC/ "Mystic Network Skyblock")[![SUSMinecraft](plugins/MineCraft/icons/25x25xSUSMinecraft_1729711032.png.pagespeed.ic.l9s84pnrSo.jpg)
+
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -112,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06342 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0885 - Created by [Debaucus](https://debauc.us/)
