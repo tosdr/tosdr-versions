@@ -1,4 +1,4 @@
-![](https://secure.intelligentdatawisdom.com/788945.png)              
+![](https://secure.intelligentdatawisdom.com/788945.png)          
 
 ![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
 
@@ -1755,6 +1755,7 @@ If you have questions about this notice, or you want to obtain more information 
  
 
 Main navigation
+---------------
 
 * [Home](https://www.bms.com/)
 * [Patients & caregivers](https://www.bms.com/patient-and-caregivers.html)
@@ -1765,6 +1766,7 @@ Main navigation
 * [About us](https://www.bms.com/about-us.html)
 
 Resources
+---------
 
 * [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html)
 * [Legal notice](https://www.bms.com/legal-notice.html)
@@ -1774,6 +1776,7 @@ Resources
 * [UK-CA slavery and human trafficking statement (PDF)](https://www.bms.com/assets/bms/us/english-documents/our-principles/UK-CA-Slavery-Human-Trafficking-Statement.pdf)
 
 Follow us
+---------
 
 * [![Facebook](/assets/bms/us/en-us/icons/Facebook.svg "Facebook")](http://www.facebook.com/BristolMyersSquibb "Facebook")
 * [![Instagram](/assets/bms/us/en-us/icons/Instagram.svg "Instagram")](https://www.instagram.com/bristolmyerssquibb "Instagram")
