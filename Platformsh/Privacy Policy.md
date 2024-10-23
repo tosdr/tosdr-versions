@@ -54,7 +54,6 @@
     Agencies
     
     * [Partner PortalLog in to the Agency Partner Portal.](https://agencypartner.platform.sh/ "Partner Portal")
-    * [EVOLVE Partner SummitnewJoin our team at EVOLVE—the inaugural Platform.sh Partner Summit—come away with strategic, product, and peer insights to catapult your business success.](https://platform.sh/events/evolve-partner-summit-2024/ "EVOLVE Partner Summit")
     
     Resources
     
