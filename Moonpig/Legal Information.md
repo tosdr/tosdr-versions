@@ -191,6 +191,7 @@ Menu
     * [Hampers](https://www.moonpig.com/uk/gifts/hampers/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/)
     * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/all/)
+    * [Balloons](https://www.moonpig.com/uk/gifts/balloons/)
     * [Fun & Novelty](https://www.moonpig.com/uk/gifts/fun-novelty/all/)
     * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/chocolate-sweets/)
     * [Candles & Diffusers](https://www.moonpig.com/uk/gifts/homeware/candles/)
