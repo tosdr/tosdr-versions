@@ -185,8 +185,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**Trailer American Coup: Wilmington 1898** | American Experience](https://video.nhpbs.org/video/trailer-american-coup-wilmington-1898?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Black, Latino and American: An Afro-Latina Voter** | VOCES: Latino Vote 2024](https://video.nhpbs.org/video/black-latino-and-american-an-afro-latina-voter-rwtand?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 22, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-22-2024-pbs-news-hour-full-episode-1729569601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Black, Latino and American: An Afro-Latina Voter** | VOCES: Latino Vote 2024](https://video.nhpbs.org/video/black-latino-and-american-an-afro-latina-voter-rwtand?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Unspoken Rules of Slasher Movies** | Monstrum](https://video.nhpbs.org/video/the-unspoken-rules-of-slasher-movies-dqctkq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Alexander Vindman: The U.S. Will "Decide The Fate of the World" on Nov. 5th** | Amanpour and Company](https://video.nhpbs.org/video/alexander-vindman-the-us-will-decide-the-fate-of-the-world-on-nov-5th-nnd1ij?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Field Trip with Beekeeper Mary Garrison** | The Key Ingredient](https://video.nhpbs.org/video/field-trip-with-beekeeper-mary-garrison-afza5p?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
