@@ -1,6 +1,6 @@
 5.39.0
 
-1729672480681
+1729694421851
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1729671798307
+1729694162641
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1729672531569
+1729693409676
 
 You need to enable JavaScript to run this app.
 
@@ -550,6 +550,26 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
+### 20% off on Selected Estée Lauder Promotion
+
+Up to 20% off on selected Estée Lauder products.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
+### £44 off Selected GHD Promotion
+
+Up to £44 off on selected GHD products.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
 ### Viktor & Rolf Promotion
 
 The Viktor & Rolf Gift will be automatically added to bag when you buy any selected Viktor & Rolf Fragrance. The Viktor & Rolf Gift contains:
@@ -583,16 +603,6 @@ The promotion can only be used by the account holder and you must be logged in t
 This offer is not available to staff.
 
 Offer applies while stocks last.
-
-### Selected £10 Fragrance Mists Bath and Body Works Promotion
-
-Selected Bath and Body Works Fragrance Mists for £10.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
 
 ### 3 Wick Candles for £20 Selected Bath and Body Works Promotion
 
@@ -2623,7 +2633,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1729672485165
+1729693496898
 
 ### Our Social Networks
 
