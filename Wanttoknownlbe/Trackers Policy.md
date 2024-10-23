@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/bye-bye-blue-sky/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/het-oude-en-het-nieuwe-systeem-naast-elkaar/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
