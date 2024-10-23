@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Ginny Weasley’s full first name is Ginevra, not Virginia.
+Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
 
 ### Potter History
 
-July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
+November 17, 2006 – Electronic Arts announces the Harry Potter and the Order of the Phoenix video game.
 
 ### Potter Quote
 
-“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
+“Don’t be silly. Of course I won’t be in three classes at once.”
 
 [](#)
 
