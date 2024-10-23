@@ -50,7 +50,7 @@ Table of Contents
 Privacy Policy
 ==============
 
-Effective July 31st, 2024
+Effective October 22, 2024.
 
 [](#Section__TL_DR "Link to this section")
 
@@ -108,6 +108,8 @@ We use session cookies to recognize that you have already visited individual pag
 In addition, we also use temporary cookies, which are stored on your device for a specified period of time, to optimize user-friendliness and the statistical evaluation of the use of our website. If you visit our website again to use our services, these cookies will automatically recognize that you have already visited us before and what entries and settings you have made, so you do not have to enter them again.
 
 Most browsers accept cookies automatically. However, if you do not wish to accept cookies, you can configure your browser to prevent cookies from being stored on your device or so that a message always appears before a new cookie is created. A general objection to the use of cookies for online marketing purposes can also be declared for many of the services, for example, at [Your Online Choices](http://www.youronlinechoices.com/) or [the opt-out page of the Network Advertising Initiative](http://optout.networkadvertising.org/). However, if you disable cookies, you may not be able to use all the features of our website.
+
+**Third party cookies:** Our website uses external web services and cookies to personalize content and advertising, provide social media features, and analyze web traffic. However, these features are only enabled if you consent to their use. If these features are enabled while you are logged in to your user account, your visits to our website may be associated with your account. Your personal data may be used by Google to personalize ads, and cookies and mobile ad identifiers may be used for both personalized and non-personalised ads. Information about Google’s processing of personal data can be found here. We may also share information about your use of our website with the social media, advertising and analytics services we use. They may combine this information with other information that you have provided to those services or that has been collected as part of your use of the services. Your personal data (e.g. IP address, browser fingerprint, or geolocation) may be transferred to third countries and be accessed there. When data is transferred to other countries, in the absence of appropriate safeguards, there is a risk that this data may be accessed by public authorities without you being informed and without you having any legal remedy against this. There may be no supervisory authority or data processing principles, and EU citizens may not have the same data subject rights as in the EU. By giving your consent, you agree to the use of cookies, the activation of external web services, the transfer of data to other countries, and the display of personalized ads.
 
 [](#Section_Hosting "Link to this section")
 
@@ -577,12 +579,12 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 **View Statistics:**
 
-Past 24 Hours: 50
+Past 24 Hours: 65
 
-Past 7 Days: 324
+Past 7 Days: 344
 
-Past 30 Days: 962
+Past 30 Days: 982
 
-All Time: 82,899
+All Time: 82,919
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F263%2Fen)
