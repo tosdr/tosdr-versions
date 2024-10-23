@@ -173,7 +173,7 @@ Reppublika Data Analytics & Technologies GmbH
 
 [![IAB_Austria.png](https://static.wixstatic.com/media/c61bc3_f85ade8b36554c7bbd10f68db48350c8~mv2.png/v1/fill/w_99,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/IAB_Austria.png)](https://www.bvdw.org/)
 
-[![bvdw_Mitglied_neg.gif](https://static.wixstatic.com/media/c61bc3_c8b4e7256ecd46e692f7a2fd1ab39d4a~mv2.gif)](https://www.bvdw.org/)
+[![bvdw_Mitglied_neg.gif](https://static.wixstatic.com/media/c61bc3_c8b4e7256ecd46e692f7a2fd1ab39d4a~mv2.gif/v1/fill/w_97,h_71,al_c,usm_0.66_1.00_0.01,blur_3,pstr/bvdw_Mitglied_neg_gif.gif)](https://www.bvdw.org/)
 
 ##### Member of IAB Austria and of Germany's  Bundesverband Digitale Wirtschaft
 
