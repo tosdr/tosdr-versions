@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [A new implant tested in animals reverses drug overdoses](https://www.sciencenews.org/article/implant-reverses-drug-overdoses)
+            
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")3 hours ago
+            
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Silk Road cities reached surprising heights in Central Asia’s mountains](https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")21 mins ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Once-weekly insulin might mean fewer shots for some with diabetes](https://www.sciencenews.org/article/diabetes-blood-sugar-insulin-weekly)
             
             By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 22, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Doula care may lead to fewer C-sections or preterm births](https://www.sciencenews.org/article/doula-care-c-section-preterm-birth)
-            
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 22, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Polar bears are being exposed to more pathogens as the climate warms](https://www.sciencenews.org/article/polar-bears-pathogens-climate-change)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")21 mins ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")3 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Tech companies want small nuclear reactors. Here’s how they’d work](https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [JWST spots the first known ‘steam world’](https://www.sciencenews.org/article/jwst-spots-the-first-known-steam-world)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")22 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 22, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
