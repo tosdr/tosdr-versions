@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1723%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_33%2C$y_55/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d6ffbe19bbf49514ecad4c9a900057e7a90fd2c6)](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
+[![ ](https://static.ffx.io/images/$zoom_0.3133%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_83%2C$y_331/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/20199fb6f4821deb4aa6034fb390184c845d6d9f)](https://www.afr.com/young-rich/how-gen-z-fuelled-white-fox-founders-200m-fortune-20241016-p5kiu4)
 
-### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
+### [How White Fox duo conquered tween fashion and made $200m](https://www.afr.com/young-rich/how-gen-z-fuelled-white-fox-founders-200m-fortune-20241016-p5kiu4)
 
-* Yolanda Redrup
+* Carrie LaFrenz and Lauren Sams
 
-* ### [Meet the 17 new faces on this year’s Young Rich List](https://www.afr.com/young-rich/meet-the-17-new-faces-on-this-year-s-young-rich-list-20241004-p5kfwe)
+* ### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
     
-* ### [‘The biggest divide in Australia is the intergenerational divide’](https://www.afr.com/wealth/personal-finance/the-biggest-divide-in-australia-is-the-intergenerational-divide-20240806-p5jzzu)
+* ### [Meet the 17 new faces on this year’s Young Rich List](https://www.afr.com/young-rich/meet-the-17-new-faces-on-this-year-s-young-rich-list-20241004-p5kfwe)
     
 
 [The Australian Financial Review](https://www.afr.com/)
