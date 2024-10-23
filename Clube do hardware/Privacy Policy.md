@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Jordana Rodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254897.thumb.jpeg.d0145cb1b0a62b2e328a50d922e23197.jpeg)](https://www.clubedohardware.com.br/profile/1254897-jordana-rodrigues/ "Ir ao perfil de Jordana Rodrigues")
+    * [![udanznh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/1826418358f3c303665fdf11ff214f59.thumb.jpg.c97f7f0b5ed3d8faf3e68f19fa4f3736.jpg)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
         
         0
         
-        [baixa potência no transmissor fm teletronix 3000w](https://www.clubedohardware.com.br/forums/topic/1700339-baixa-pot%C3%AAncia-no-transmissor-fm-teletronix-3000w/?do=getNewComment "baixa potência no transmissor fm teletronix 3000w")
+        [Qual Distro Linux é melhor para jogos?](https://www.clubedohardware.com.br/forums/topic/1700353-qual-distro-linux-%C3%A9-melhor-para-jogos/?do=getNewComment "Qual Distro Linux é melhor para jogos?")
         
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Jordana Rodrigues](https://www.clubedohardware.com.br/profile/1254897-jordana-rodrigues/ "Ir ao perfil de Jordana Rodrigues")  
-        2 minutos atrás
+        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
+        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
+        36 minutos atrás
         
-    * [![Joao342](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/imported-photo-1201776.thumb.png.97ddea937da46d57ad7dc50ce46ff869.png)](https://www.clubedohardware.com.br/profile/1201776-joao342/ "Ir ao perfil de Joao342")
-        
-        0
-        
-        [Memória de 1600mhz pode ser considerada DDR4?](https://www.clubedohardware.com.br/forums/topic/1700338-mem%C3%B3ria-de-1600mhz-pode-ser-considerada-ddr4/?do=getNewComment "Memória de 1600mhz pode ser considerada DDR4?")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Joao342](https://www.clubedohardware.com.br/profile/1201776-joao342/ "Ir ao perfil de Joao342")  
-        12 minutos atrás
-        
-    * [![Andrey3103](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240857.thumb.png.eb5e5cf32bb036055bb035af41a0f943.png)](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")
+    * [![Lucas Cidiclei](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1063696.thumb.jpeg.858d30528f8ad156c91912c3a5479920.jpeg)](https://www.clubedohardware.com.br/profile/1063696-lucas-cidiclei/ "Ir ao perfil de Lucas Cidiclei")
         
         0
         
-        [Fone de ouvido fazendo ruído ao entrar em jogos.](https://www.clubedohardware.com.br/forums/topic/1700336-fone-de-ouvido-fazendo-ru%C3%ADdo-ao-entrar-em-jogos/?do=getNewComment "Fone de ouvido fazendo ruído ao entrar em jogos.")
+        [Não dá vídeo e placa de vídeo disparando (muito barulho e rápida)](https://www.clubedohardware.com.br/forums/topic/1700352-n%C3%A3o-d%C3%A1-v%C3%ADdeo-e-placa-de-v%C3%ADdeo-disparando-muito-barulho-e-r%C3%A1pida/?do=getNewComment "Não dá vídeo e placa de vídeo disparando (muito barulho e rápida)")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Lucas Cidiclei](https://www.clubedohardware.com.br/profile/1063696-lucas-cidiclei/ "Ir ao perfil de Lucas Cidiclei")  
+        3 horas atrás
+        
+    * [![Dreher](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254907.thumb.jpeg.0fe749b0b213a466089bde8860bcc38d.jpeg)](https://www.clubedohardware.com.br/profile/1254907-dreher/ "Ir ao perfil de Dreher")
+        
+        0
+        
+        [Watercooler argb e fans RGB placa-mãe sem 5v3pinos](https://www.clubedohardware.com.br/forums/topic/1700351-watercooler-argb-e-fans-rgb-placa-m%C3%A3e-sem-5v3pinos/?do=getNewComment "Watercooler argb e fans RGB placa-mãe sem 5v3pinos")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Dreher](https://www.clubedohardware.com.br/profile/1254907-dreher/ "Ir ao perfil de Dreher")  
+        3 horas atrás
+        
+    * [![Karmajk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/images(3).thumb.jpg.b233376f8932ffac1eb6f03e303c730c.jpg)](https://www.clubedohardware.com.br/profile/1250736-karmajk/ "Ir ao perfil de Karmajk")
+        
+        0
+        
+        [PC não reconhece meu fone do nada - AMD high definition audio device](https://www.clubedohardware.com.br/forums/topic/1700350-pc-n%C3%A3o-reconhece-meu-fone-do-nada-amd-high-definition-audio-device/?do=getNewComment "PC não reconhece meu fone do nada - AMD high definition audio device")
         
         [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Andrey3103](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")  
-        32 minutos atrás
+        Por [Karmajk](https://www.clubedohardware.com.br/profile/1250736-karmajk/ "Ir ao perfil de Karmajk")  
+        3 horas atrás
         
-    * [![Andressa Felini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/263251537_229180085998392_5453120525288073069_n.thumb.jpg.205c2511270c31c034e681e19f33469b.jpg)](https://www.clubedohardware.com.br/profile/1254896-andressa-felini/ "Ir ao perfil de Andressa Felini")
+    * [![Richard Moreira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1240119.thumb.jpeg.17825aaffd7b83b5fe0f5c2fb8196bf6.jpeg)](https://www.clubedohardware.com.br/profile/1240119-richard-moreira/ "Ir ao perfil de Richard Moreira")
         
         0
         
-        [Clock da Radeon RX 470 travando meu jogo gente](https://www.clubedohardware.com.br/forums/topic/1700335-clock-da-radeon-rx-470-travando-meu-jogo-gente/?do=getNewComment "Clock da Radeon RX 470 travando meu jogo gente")
+        [Pc de entrada para uma amiga.](https://www.clubedohardware.com.br/forums/topic/1700349-pc-de-entrada-para-uma-amiga/?do=getNewComment "Pc de entrada para uma amiga.")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Andressa Felini](https://www.clubedohardware.com.br/profile/1254896-andressa-felini/ "Ir ao perfil de Andressa Felini")  
-        32 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Richard Moreira](https://www.clubedohardware.com.br/profile/1240119-richard-moreira/ "Ir ao perfil de Richard Moreira")  
+        4 horas atrás
         
-    * [![Manga](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/download(2).thumb.jpeg.cee2d3c6b784c08383d4feba876f9fce.jpeg)](https://www.clubedohardware.com.br/profile/1232368-manga/ "Ir ao perfil de Manga")
-        
-        1
-        
-        [comprei uma Machinist b450 e queria saber se teria como ligar uma fan argb nela](https://www.clubedohardware.com.br/forums/topic/1700330-comprei-uma-machinist-b450-e-queria-saber-se-teria-como-ligar-uma-fan-argb-nela/?do=getNewComment "comprei uma Machinist b450 e queria saber se teria como ligar uma fan argb nela")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Manga](https://www.clubedohardware.com.br/profile/1232368-manga/ "Ir ao perfil de Manga")  
-        1 hora atrás
-        
-    * [![Flavio Aguiar Neto](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462b7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253009-flavio-aguiar-neto/ "Ir ao perfil de Flavio Aguiar Neto")
+    * [![douglas aqui](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46291%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254718-douglas-aqui/ "Ir ao perfil de douglas aqui")
         
         2
         
-        [memória RAM kingston Fury beast DDR4 KF432C16BB/16 de 16g 3200](https://www.clubedohardware.com.br/forums/topic/1700329-mem%C3%B3ria-ram-kingston-fury-beast-ddr4-kf432c16bb16-de-16g-3200/?do=getNewComment "memória RAM kingston Fury beast DDR4 KF432C16BB/16 de 16g 3200")
+        [caixas de tv baratas](https://www.clubedohardware.com.br/forums/topic/1700348-caixas-de-tv-baratas/?do=getNewComment "caixas de tv baratas")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Flavio Aguiar Neto](https://www.clubedohardware.com.br/profile/1253009-flavio-aguiar-neto/ "Ir ao perfil de Flavio Aguiar Neto")  
-        2 horas atrás
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [douglas aqui](https://www.clubedohardware.com.br/profile/1254718-douglas-aqui/ "Ir ao perfil de douglas aqui")  
+        4 horas atrás
         
-    * [![alexandre nokan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254893.thumb.jpeg.86f8272e8362bd59b5a704a3371d832d.jpeg)](https://www.clubedohardware.com.br/profile/1254893-alexandre-nokan/ "Ir ao perfil de alexandre nokan")
+    * [![GuilerminoDP](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/IMG_20221221_203536_587.thumb.jpg.44a8eccb87bc74e74f4e1d55ee814967.jpg)](https://www.clubedohardware.com.br/profile/1249734-guilerminodp/ "Ir ao perfil de GuilerminoDP")
         
-        2
+        0
         
-        [GeForce RTX 3060 1-Click OC Galax cabe nesses dois gabinetes?](https://www.clubedohardware.com.br/forums/topic/1700328-geforce-rtx-3060-1-click-oc-galax-cabe-nesses-dois-gabinetes/?do=getNewComment "GeForce RTX 3060 1-Click OC Galax cabe nesses dois gabinetes?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [alexandre nokan](https://www.clubedohardware.com.br/profile/1254893-alexandre-nokan/ "Ir ao perfil de alexandre nokan")  
-        2 horas atrás
-        
-    * [![SergioP](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1096935.thumb.jpeg.d3630fa85239c0ace53a1d0c60e80125.jpeg)](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")
-        
-        3
-        
-        [Desvincular conta de uma key a minha conta na Microsoft.](https://www.clubedohardware.com.br/forums/topic/1700327-desvincular-conta-de-uma-key-a-minha-conta-na-microsoft/?do=getNewComment "Desvincular conta de uma key a minha conta na Microsoft.")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [SergioP](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")  
-        2 horas atrás
-        
-    * [![NovatoEmTI](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/imported-photo-1068856.thumb.png.80d60ed34cf37d96d8b23195c8a1139f.png)](https://www.clubedohardware.com.br/profile/1068856-novatoemti/ "Ir ao perfil de NovatoEmTI")
-        
-        4
-        
-        [Existe alguma diferença entre a rx 570 de 8gb e a 580 de 8gb?](https://www.clubedohardware.com.br/forums/topic/1700326-existe-alguma-diferen%C3%A7a-entre-a-rx-570-de-8gb-e-a-580-de-8gb/?do=getNewComment "Existe alguma diferença entre a rx 570 de 8gb e a 580 de 8gb?")
+        [CPU sinalizou luz vermelha](https://www.clubedohardware.com.br/forums/topic/1700347-cpu-sinalizou-luz-vermelha/?do=getNewComment "CPU sinalizou luz vermelha")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [NovatoEmTI](https://www.clubedohardware.com.br/profile/1068856-novatoemti/ "Ir ao perfil de NovatoEmTI")  
-        3 horas atrás
+        Por [GuilerminoDP](https://www.clubedohardware.com.br/profile/1249734-guilerminodp/ "Ir ao perfil de GuilerminoDP")  
+        4 horas atrás
         
-    * [![RAFAELYUNES](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254835.thumb.jpeg.fb99c0074c94ebf711fba8e7958d09d2.jpeg)](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")
+    * [![Jonathas de jesus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254903.thumb.png.9a91440c5f98fdc42daf6dfc443db28f.png)](https://www.clubedohardware.com.br/profile/1254903-jonathas-de-jesus/ "Ir ao perfil de Jonathas de jesus")
         
-        3
+        0
         
-        [Faz muita diferença um Ryzen 5 5600 com 35mb vs 32 mb de cache?](https://www.clubedohardware.com.br/forums/topic/1700325-faz-muita-diferen%C3%A7a-um-ryzen-5-5600-com-35mb-vs-32-mb-de-cache/?do=getNewComment "Faz muita diferença um Ryzen 5 5600 com 35mb vs 32 mb de cache?")
+        [Rx580 com mal desempenho](https://www.clubedohardware.com.br/forums/topic/1700346-rx580-com-mal-desempenho/?do=getNewComment "Rx580 com mal desempenho")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [RAFAELYUNES](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")  
-        3 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Jonathas de jesus](https://www.clubedohardware.com.br/profile/1254903-jonathas-de-jesus/ "Ir ao perfil de Jonathas de jesus")  
+        4 horas atrás
+        
+    * [![miguelsouza16012007](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254902.thumb.jpeg.f2655d7b9df6818c96a485b0939463a2.jpeg)](https://www.clubedohardware.com.br/profile/1254902-miguelsouza16012007/ "Ir ao perfil de miguelsouza16012007")
+        
+        0
+        
+        [placa-mãe com possível arranhado e defeito](https://www.clubedohardware.com.br/forums/topic/1700345-placa-m%C3%A3e-com-poss%C3%ADvel-arranhado-e-defeito/?do=getNewComment "placa-mãe com possível arranhado e defeito")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [miguelsouza16012007](https://www.clubedohardware.com.br/profile/1254902-miguelsouza16012007/ "Ir ao perfil de miguelsouza16012007")  
+        4 horas atrás
+        
+    * [![Patati 32](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254901.thumb.jpeg.4d867470be7b15728f15cc7ed70efa71.jpeg)](https://www.clubedohardware.com.br/profile/1254901-patati-32/ "Ir ao perfil de Patati 32")
+        
+        0
+        
+        [Queda de Fps gerada por mouse](https://www.clubedohardware.com.br/forums/topic/1700344-queda-de-fps-gerada-por-mouse/?do=getNewComment "Queda de Fps gerada por mouse")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Patati 32](https://www.clubedohardware.com.br/profile/1254901-patati-32/ "Ir ao perfil de Patati 32")  
+        5 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
