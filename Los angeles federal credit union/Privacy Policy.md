@@ -12,7 +12,7 @@ We use cookies on our site to provide the optimum user experience. By using this
 
 Close Alert
 
-[Open an Account](https://app.loanspq.com/xa/xpressApp.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb72_Hr6oiyvpJAVyDVvCYRDeJVNk0YlEqh-WsOEXoDpjqMfmv8y1-Ta1hMpovPd2LE) [Apply: Vehicle](https://app.loanspq.com/vl/VehicleLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw) [Apply: Visa® Credit Card](https://app.loanspq.com/cc/CreditCard.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw) [Apply: Real Estate](https://lafcu.loanproducer.com/User/Home) [Apply: Personal](https://app.loanspq.com/pl/PersonalLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
+[Open an Account](https://app.loanspq.com/xa/xpressApp.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb72_Hr6oiyvpJAVyDVvCYRDeJVNk0YlEqh-WsOEXoDpjqMfmv8y1-Ta1hMpovPd2LE) [Apply: Vehicle](https://app.loanspq.com/vl/VehicleLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw) [Apply: Visa® Credit Card](https://app.loanspq.com/cc/CreditCard.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw) [Apply: Real Estate](https://borrower-portal.lafcu.org/#/get-started) [Apply: Personal](https://app.loanspq.com/pl/PersonalLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
 
 [![Los Angeles Federal Credit Union: Financing Your Future](/files/lafedcu/1/image/Logos/LAFCU-Logo.png)](https://www.lafcu.org/)
 
@@ -64,7 +64,7 @@ About Us
 * [Open an Account](https://app.loanspq.com/xa/xpressApp.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb72_Hr6oiyvpJAVyDVvCYRDeJVNk0YlEqh-WsOEXoDpjqMfmv8y1-Ta1hMpovPd2LE)
 * [Apply: Vehicle](https://app.loanspq.com/vl/VehicleLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
 * [Apply: Visa® Credit Card](https://app.loanspq.com/cc/CreditCard.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
-* [Apply: Real Estate](https://lafcu.loanproducer.com/User/Home)
+* [Apply: Real Estate](https://borrower-portal.lafcu.org/#/get-started)
 * [Apply: Personal](https://app.loanspq.com/pl/PersonalLoan.aspx?enc=Kw21Wblm1yxpjJabdoZaD6fiIlcQCfshxGII4o1pGb4K7IZT81fAzOYDBsL-GCUl-5KKMduIJnHHBMVztqdjXw)
 
 As of 10-23-24
