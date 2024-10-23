@@ -109,6 +109,8 @@ Analytics and customization
 
 \_gat: Used to throttle request rate.
 
+_**We use Microsoft Clarity to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve our features. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of features and online activity. Additionally, we use this information for site optimization and security purposes. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprivacy.microsoft.com%2Fprivacystatement&data=05%7C02%7CCTLeonar%40fsu.edu%7C97ae746f55c046cb8de308dcf38d1e4b%7Ca36450ebdb0642a78d1b026719f701e3%7C0%7C0%7C638653035155330064%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=N1w%2FUaz5krLy6omWvy%2Ba0au59pKqwEeyBINeoFZc5mY%3D&reserved=0).**_
+
 See What's On …
 
 Click on Live Streams to watch today's LIVE events. Click on TV 24/7 to watch The Florida Channel's TV feed. Click off Live Streams or TV 24/7 to view a combined list of both.
