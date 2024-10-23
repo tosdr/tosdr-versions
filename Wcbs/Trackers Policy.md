@@ -184,141 +184,218 @@
 
 [](#)
 
-Privacy Policy – HUB Privacy & Cookies[WCBS](https://www.wcbs.co.uk/author/wcbs/ "Posts by WCBS")2021-01-06T14:45:44+00:00
+Privacy Policy – WCBS Privacy & Cookies[WCBS](https://www.wcbs.co.uk/author/wcbs/ "Posts by WCBS")2024-10-23T11:35:18+01:00
 
 #### Welcome to our Privacy & Terms page, please navigate to the appropriate policy via the tabs below.
 
 #### If you have any questions about our policies or information that we may hold about you, please contact Neil Butcher our Data Protection Officer. Email [dpo@wcbs.co.uk](mailto:dpo@wcbs.co.uk) or write to us at WCBS, Landmark House, Wirrall Park Road, Glastonbury, Somerset, BA6 9FR.
 
-[WCBS Privacy & Cookies](https://www.wcbs.co.uk/wcbs-privacy-cookies/)
+* [#### Privacy Policy](#tab-33fd51e820b7aa81842)
+* [#### Cookie Policy](#tab-76f37530a4369b5d72b)
 
-HUB Privacy & Cookies
+* [#### Privacy Policy](#tab-33fd51e820b7aa81842)
 
-[HUB Cookies](https://www.wcbs.co.uk/hub-cookies/)
+**West Country Business Systems (Holdings) Ltd (WCBS)**
 
-[HUB Terms of Use](https://www.wcbs.co.uk/hub-terms/)
+**Last updated: 22nd October 2024**
 
-### HUB Privacy & Cookies Policy
+**Introduction**
 
-West Country Business Systems (Holdings) Limited of Landmark House, Wirral Park Road, Glastonbury, Somerset BA6 9FR (“we”, “us”) are committed to protecting and respecting your privacy. We operate the website and HUB services for the benefit of schools, Local Education Authority (LEAs) or similar organisations, their staff, students and parents (collectively, **Users**).
+At West Country Business Systems (Holdings) Ltd (WCBS), we are committed to protecting and respecting your privacy. This policy explains how we collect, use, and share your personal information when you interact with us through our website, services, or as part of our business operations.
 
-This policy (together with our terms of use, see [HUB Terms of Use](https://www.wcbs.co.uk/hub-terms/), and any other documents referred to on it) sets out the basis on which any personal data we collect from Users, or that Users provide to us, will be processed by us.  Please read the following information carefully to understand our views and practices regarding Users’ personal data and how we will treat it. By accessing HUB Users are accepting and consenting to the practices described in this policy.
+WCBS complies with the UK General Data Protection Regulation (UK GDPR) and other relevant data protection legislation.
 
-For the purpose of the Data Protection Act 2018 (and any replacement legislation) and the General Data Protection Regulation (UK) (together the **Data Protection Legislation**), West Country Business Systems (Holdings) Limited is the data controller.
+**Who We Are**
 
-#### INFORMATION ABOUT USERS
+WCBS is a provider of school management systems for independent and international schools. Our registered office is located at:
 
-We may collect and process the following data:
+Unit 1 Landmark House, Wirrall Park Road, Glastonbury, England, BA6 9FR.
 
-* Information Users give us when using HUB. Users may give us information when registering for or logging into HUB, using the services available via HUB, or by corresponding with us by phone, e-mail or otherwise to assist with administration and support of a User’s account. Such information about a User may include name, address, e-mail address and phone number.
-* Information we collect about Users. With regard to each visit to HUB, we may automatically collect the following information:
-    * technical information, including the Internet protocol (IP) address used to connect a User’s computer to the Internet, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-    * information about a User’s visit, including the full Uniform Resource Locators (URL) clickstream to, through and from HUB (including date and time); pages viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our support number.
+For any data protection queries, you can contact us at:
 
-#### HOW WE USE THIS INFORMATION
+**Email:** [DPO@wcbs.co.uk](mailto:DPO@wcbs.co.uk)
 
-We use information held about Users in the following ways:
+**Telephone:** +44 (0)1458833055
 
-* to provide HUB and related services available via HUB to Users;
-* to carry out our obligations arising from any contracts entered into between schools, LEAs or similar organisations and us and to provide Users with the information, products and services requested from us;
-* to provide Users with information about other goods and services we offer that are similar to those that a school has already purchased or enquired about;
-* to notify Users about changes to our service;
-* to ensure that content from HUB is presented in the most effective manner for Users and the computers being used to access HUB;
-* for internal record-keeping and reporting purposes;
-* for the purposes of supporting the provision of HUB and dealing with any support requests or customer queries;
-* for analytical, research, reporting and product development purposes;
-* to administer HUB and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-* to improve HUB to ensure that content is presented in the most effective manner for Users and for Users’ devices;
-* to allow Users to participate in interactive features of our service, when Users choose to do so;
-* as part of our efforts to keep HUB safe and secure;
-* to measure or understand the effectiveness of any advertising we serve to Users and others, and to deliver relevant advertising to Users;
-* to make suggestions and recommendations to Users of HUB about goods or services that may interest Users.
+**The Data We Collect**
 
-#### WHAT ARE COOKIES AND HOW DO WE USE THEM?
+We may collect and process the following types of personal data:
 
-We use cookies to distinguish individual Users of HUB. This helps us to provide Users with a good experience. By visiting and using HUB, Users agree to our use of cookies.
+* **Personal Identification Information:** Name, email address, phone number, job title, and school name.
+* **Financial Information:** Payment details, including bank account or credit card information, as needed for transaction processing.
+* **Technical Data:** IP address, browser type, and information from cookies or other tracking technologies used when you interact with our website.
+* **Usage Data:** Information about how you use our services, such as login details, product usage logs, and preferences.
+* **Marketing and Communications Data:** Your communication preferences and details from marketing communications you’ve opted into, including email marketing.
 
-A cookie is a small file of letters and numbers that we store on your browser, computer, or device. We may use the following cookies:
+**How We Use Your Data**
 
-* Strictly necessary cookies. These are cookies that are required for the operation of HUB. They include, for example, cookies that enable Users to log into secure accounts, use interactive features and services.
-* Analytical/performance cookies. These allow us to recognise and count the number of visitors and Users and see how they use HUB. This helps us to improve the way HUB works, for example, by ensuring that Users are finding what they are looking for easily.
-* Functionality cookies. These are used to recognise Users when they return to HUB. This enables us to personalise our content for Users, greet you by name and remember your preferences.
-* Targeting cookies. These cookies record your visit to HUB, the pages you have visited and the links you have followed. We will use this information to make HUB and the information displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+We use the personal data we collect to:
 
-Please see [HUB Cookies Policy](https://www.wcbs.co.uk/hub-cookies/) which details the cookies we use.
+* Provide you with our products and services.
+* Process transactions and manage billing.
+* Communicate with you regarding updates, changes, or support related to our services.
+* Improve our services by understanding how you use them.
+* Comply with legal obligations and for the protection of our legal rights.
+* Send you marketing communications, where you have consented to receive them.
 
-You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of HUB.
+**Legal Bases for Processing**
 
-#### INFORMATION WE RECEIVE FROM OTHER SOURCES  
+We will only process your personal data when we have a lawful basis to do so, which may include:
 
-We may receive information about a User from third parties we work with (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies).
+* **Contractual Necessity:** To fulfil the terms of a contract we have with you (e.g., to provide our services or process payments).
+* **Consent:** Where you have given clear consent for us to process your personal data for a specific purpose (e.g., receiving marketing communications).
+* **Legitimate Interests:** For purposes necessary for our business, unless overridden by your data protection rights (e.g., improving our services or direct marketing).
+* **Legal Obligation:** When we are required to process your data by law (e.g., for tax compliance or regulatory purposes).
 
-#### HOW WE USE THIS INFORMATION
+**How We Share Your Data**
 
-We may combine this information with information Users give to us and information we collect about Users. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+We do not sell your personal data. We may share your personal data with trusted third parties under the following circumstances:
 
-#### ANONYMISED DATA  
+* **Service Providers:** We work with third-party providers (e.g., hosting services, payment processors) to support our operations.
+* **Legal Compliance:** We may disclose your data if required by law or in response to valid requests by public authorities.
+* **Business Transfers:** If WCBS is involved in a merger, acquisition, or asset sale, your personal data may be transferred to the new owners.
 
-We may use information relating to Users and schools in anonymised format to carry out research and produce reports that we publish and share with third parties. No User or school would be identifiable in such research reports.
+We ensure that all third-party service providers only use your personal data for specified purposes and in compliance with data protection laws.
 
-#### DISCLOSURE OF INFORMATION   
+**International Data Transfers**
 
-We may share User personal data with any member of our Group, which means our subsidiaries, our ultimate Holding Company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+Where your personal data is transferred outside the UK, we ensure that appropriate safeguards are in place, such as using countries with adequacy decisions or contractual clauses that provide sufficient protection for your data.
 
-We may share User personal data with selected third parties including:
+**Data Retention**
 
-* Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or a school.
-* Analytics and search engine providers that assist us in the improvement and optimisation of our site.
-* The school, LEA, or other similar organisation on whose behalf or under whose direction Users access and use HUB.
+We retain your personal data only for as long as necessary to fulfil the purposes for which it was collected. Once your data is no longer needed, we will securely delete or anonymise it in accordance with our Data Retention Policy.
 
-We may disclose personal data to third parties:
+**Your Data Protection Rights**
 
-* In the event that we sell or buy any business or assets, in which case we may disclose User personal data to the prospective seller or buyer of such business or assets.
-* If West Country Business Systems (Holdings) Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about Users will be one of the transferred assets.
-* If we are under a duty to disclose or share personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of West Country Business Systems (Holdings) Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+Under UK GDPR, you have the following rights concerning your personal data:
 
-#### WHERE WE STORE USER PERSONAL DATA 
+* **Right to Access:** You can request access to your personal data and obtain a copy of it.
+* **Right to Rectification**: You can request that inaccurate or incomplete data be corrected.
+* **Right to Erasure:** You can ask us to delete your personal data in certain circumstances.
+* **Right to Restrict Processing:** You can request that we restrict the processing of your personal data.
+* **Right to Data Portability:** You can request to receive your personal data in a structured, commonly used format for transfer to another organisation.
+* **Right to Object:** You can object to processing based on legitimate interests or direct marketing.
+* **Right to Withdraw Consent:** If we rely on your consent to process your personal data, you can withdraw that consent at any time.
 
-The data that we collect from Users will not be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). All information Users provide to us is stored on our secure servers. Where we have given Users (or where you have chosen) a password which enables access to certain parts of HUB, Users are responsible for keeping this password confidential. We ask Users not to share a password with anyone.
+To exercise any of these rights, please contact us using the contact details provided on the Contact Us section.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect User personal data, we cannot guarantee the security of User data transmitted to HUB; any transmission is at Users’ own risk. Once we have received User information, we will use strict procedures and security features to try to prevent unauthorised access.
+**Security of Your Data**
 
-#### DATA RETENTION
+We take the security of your personal data seriously. We use technical and organisational measures to protect your data from unauthorised access, disclosure, alteration, or destruction. These measures include encryption, access controls, and regular security assessments.
 
-Personal data that we process about Users for any purpose shall not be kept for longer than is necessary for that specific purpose.
+**Cookies and Tracking Technologies**
 
-Notwithstanding the other provisions of this Section 6, we will retain documents (including electronic documents) containing personal data:
+Our website uses cookies and similar tracking technologies to enhance your experience. These may collect information such as your IP address, browser type, and usage data.
 
-* to the extent that we are required to do so by law;
-* if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
-* in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+* **Essential Cookies:** Necessary for the functioning of the website.
+* **Analytics Cookies:** Help us understand how visitors use our website and improve it.
+* **Marketing Cookies:** Used to deliver relevant advertisements to you.
 
-#### YOUR RIGHTS & ACCESS TO YOUR DATA
+You can manage your cookie preferences through your browser settings. For more information, please see our Cookie Policy.
 
-You may request from us, details of the personal data we hold about you and how we are processing it, although this should be clear from HUB itself and the permissions/consents you have set.
+**Changes to This Privacy Policy**
 
-Where notified, we will amend your data, including where you provide us with additional information to complete your record.
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal obligations. When we make changes, we will update the “Last Updated” date at the top of this page. We encourage you to review this policy periodically.
 
-Where you have previously consented to us using your data, you may withdraw this consent at any time.
+**Contact Us**
 
-You may request that we restrict the use of your data, where you believe:
+If you have any questions or concerns about this Privacy Policy or how we handle your data, please contact us at:
 
-* the data we hold about you is inaccurate;
-* the processing of your data is not lawful;
-* your data no longer needs to be used for the purpose that it was originally provided; and
-* where you object to the use of your data for specific purposes.
+* Email: [info@wcbs.co.uk](mailto:info@wcbs.co.uk)
+* Address: WCBS, Unit 1 Landmark House, Wirrall Park Road, Glastonbury, England, BA6 9FR
+* Data Protection Officer (DPO): [dpo@wcbs.co.uk](mailto:dpo@wcbs.co.uk)
 
-Should you no longer wish to engage with HUB, you have the right to request erasure of your details from our systems. To complete these requests, please submit in writing to [DPO@wcbs.co.uk](mailto:DPO@wcbs.co.uk).
+* [#### Cookie Policy](#tab-76f37530a4369b5d72b)
 
-Please note that in some circumstances, where we act as a data processor on behalf of a third party, your relationship with the data controller (i.e. the school or LEA), for example, a contract of employment, may result in your not being able to stop engaging with HUB, and/or to have your data erased.
+At **West Country Business Systems (Holdings) Ltd (WCBS)**, we are committed to protecting your privacy and ensuring transparency about the data we collect through our website. This Cookies Policy explains what cookies are, how we use them, and your choices regarding their use.
 
-#### CHANGES TO OUR PRIVACY POLICY
+### What Are Cookies?
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Privacy Policy. If you continue to use HUB following a change to the Privacy Policy, you will be deemed to have accepted the updated Privacy Policy.
+A **cookie** is a small text file that is placed on your computer or electronic device when you visit a website. Cookies help websites recognize your device and provide enhanced functionality and personalized experiences.
 
-#### CONTACT    
+### How We Use Cookies
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to  [DPO@wcbs.co.uk](mailto:DPO@wcbs.co.uk).
+We use cookies on our websites to:
+
+* **Recognise You:** Identify you when you return to our website, speeding up your access by not requiring you to log in each time.
+* **Preferences and Usage:** Retain information about your preferences, online movements, and how you use the internet to enhance your experience.
+* **Research and Analysis:** Conduct research and statistical analysis to improve our content, products, and services, and better understand our visitors’ requirements and interests.
+* **Enhance Experience:** Make your online experience more efficient and enjoyable.
+
+### Essential Cookies
+
+These cookies are necessary for the website to function properly and cannot be switched off in our systems. They are usually set only in response to actions made by you, such as setting your privacy preferences, logging in, or filling in forms.
+
+### Analytics Cookies
+
+These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. For example, they help us determine which pages are the most visited and how users navigate through the site.
+
+### Marketing Cookies
+
+These cookies track visitors across websites to display relevant advertisements to you. They can remember that you have visited a website and this information is shared with other organizations such as advertisers.
+
+### Third-Party Cookies
+
+We work with third-party suppliers who may also set cookies on our website, such as **Google Analytics**, **Twitter**, **LinkedIn**, and **YouTube**. These third-party suppliers are responsible for the cookies they set on our site. If you want further information, please visit the respective third-party websites. Below is an example of a third-party cookie we use:
+
+### Google Analytics
+
+* **Owner:** Google Inc.
+* **Purpose:** This web analytics service uses cookies to help us understand how visitors find and use our site. It provides data on visitor behavior, such as pages visited and duration of visits, allowing us to improve user experience.
+
+For more information about Google Analytics cookies, you can visit Google’s Privacy Policy.
+
+### How We Obtain Your Consent
+
+When you first visit our website, a cookie banner will appear, informing you about our use of cookies and providing options to manage your preferences. You can:
+
+**Accept All Cookies:** Allow all cookies to be set.
+
+**Decline Non-Essential Cookies:** Only essential cookies will be set.
+
+**Customize Settings:** Choose which types of cookies you want to allow or block.
+
+Your preferences are stored in your browser, so you won’t need to set them again on subsequent visits unless you change them.
+
+### Managing and Deleting Cookies
+
+You have the right to manage your cookie preferences at any time. Most browsers allow you to manage cookies through their settings. Please note that disabling cookies may affect the functionality of our website.
+
+### Instructions for Managing Cookies:
+
+* **Google Chrome:** [Manage Cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB&co=GENIE.Platform%3DDesktop)
+* **Mozilla Firefox:** [Manage Cookies in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+* **Microsoft Edge:** [Manage Cookies in Edge](https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies)
+* **Safari:** [Manage Cookies in Safari](https://support.apple.com/en-us/HT201265)
+
+For more information about cookies and how to disable them, visit the Information Commissioner’s Office: [https://ico.org.uk/for-the-public/online/cookies/](https://ico.org.uk/for-the-public/online/cookies/).
+
+### Opt-Out of Google Analytics:
+
+You can opt out of Google Analytics data use by visiting [Google Analytics Opt-Out](http://tools.google.com/dlpage/gaoptout).
+
+### Cookie Duration
+
+* **Session Cookies:** These cookies are temporary and are deleted from your device once you close your browser.
+* **Persistent Cookies:** These cookies remain on your device for a set period or until you delete them manually. They help us remember your preferences and improve your experience over multiple visits.
+
+### Security of Your Data
+
+The information we obtain from our use of cookies is generally anonymous and does not contain personal data. However, we may collect information about your computer or device, such as your IP address and browser type. This information is used to enhance security and improve our services.
+
+### Changes to This Cookies Policy
+
+We may update this Cookies Policy from time to time to reflect changes in our practices or legal requirements. When we make changes, we will update the “Active Date” at the top of this policy and notify you through a notification on our website or an updated cookie banner.
+
+### Contact Us
+
+If you have any questions or concerns about this Cookies Policy or our use of cookies, please contact us at:
+
+* **Email:** [info@wcbs.co.uk](mailto:info@wcbs.co.uk)
+
+* **Address:** WCBS, Unit 1 Landmark House, Wirrall Park Road, Glastonbury, England, BA6 9FR
+* **Telephone:** +44 (0)1458833055
+* **Data Protection Officer (DPO):** [dpo@wcbs.co.uk](mailto:dpo@wcbs.co.uk)
 
 [![](https://www.wcbs.co.uk/wp-content/uploads/2022/05/Untitled-design-2022-05-17T163417.012.png)](https://www.wcbs.co.uk/)
 
@@ -410,6 +487,6 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-                                                                            
+                                                                              
 
 [Go to Top](#)
