@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Over 4 Million People Watched The...](https://classiccountrymusic.com/over-4-million-people-watched-the-premiere-of-rebas-new-sitcom-happys-place/)
+* [Toby Keith’s Wife Remembers Him In...](https://classiccountrymusic.com/toby-keiths-wife-remembers-him-in-emotional-cmhof-speech-he-was-a-wonderful-husband/)
 * [Lavish Tennessee Estate Built By George...](https://classiccountrymusic.com/lavish-tennessee-estate-built-by-george-jones-listed-for-sale-photos/)
-* [Toby Keith’s Wife Accepts His Country...](https://classiccountrymusic.com/toby-keiths-wife-accepts-his-country-music-hall-of-fame-medallion-during-induction-ceremony/)
-* [Blake Shelton Delivers “I Love This...](https://classiccountrymusic.com/blake-shelton-delivers-i-love-this-bar-tribute-to-toby-keith-at-country-music-hall-of-fame-induction/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
