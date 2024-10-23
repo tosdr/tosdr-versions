@@ -1,3 +1,21 @@
+![hamburger-menu](https://website.cdn.speechify.com/hamburger-menu-1.svg?quality=80&width=96)
+
+[![speechify-light](https://website.cdn.speechify.com/speechify-light.svg?quality=80&width=256)](https://speechify.com/)
+
+[Text to Speech](https://speechify.com/text-to-speech-online/)
+
+[AI Voice Generator](https://speechify.com/ai-voice-generator/)
+
+[Teams](https://speechify.com/)
+
+[Education](https://speechify.com/)
+
+[About](https://speechify.com/)
+
+[Log In](https://app.speechify.com/login)[Try For Free](https://speechify.com/onboarding/quiz/intro/?source_page=_privacy_&source_category=privacy)
+
+[Download Now](https://speechify.com/onboarding/quiz/intro/?source_page=_privacy_&source_category=privacy)
+
 Privacy Policy
 ==============
 
@@ -358,8 +376,6 @@ If you have any questions regarding this Policy or how Speechify uses cookies, y
   
 Link to [Previous Version](https://web.archive.org/web/20240406231209/https://speechify.com/privacy/)
 
-;
-
 ![footer-waves](https://website.cdn.speechify.com/footer-waves.svg?quality=80&width=3840)
 
 ![](https://website.cdn.speechify.com/logo.svg?quality=80&width=256)
@@ -528,20 +544,4 @@ Category Sitemap
 * [Y](https://speechify.com/audiobooks/categorylist/y/)
 * [Z](https://speechify.com/audiobooks/categorylist/z/)
 
-![hamburger-menu](https://website.cdn.speechify.com/hamburger-menu-1.svg?quality=80&width=96)
-
-[![speechify-light](https://website.cdn.speechify.com/speechify-light.svg?quality=80&width=256)](https://speechify.com/)
-
-[Text to Speech](https://speechify.com/text-to-speech-online/)
-
-[AI Voice Generator](https://speechify.com/ai-voice-generator/)
-
-[Teams](https://speechify.com/)
-
-[Education](https://speechify.com/)
-
-[About](https://speechify.com/)
-
-[Log In](https://app.speechify.com/login)[Try For Free](https://speechify.com/onboarding/quiz/intro/?source_page=_privacy_&source_category=privacy)
-
-[Download Now](https://speechify.com/onboarding/quiz/intro/?source_page=_privacy_&source_category=privacy)
+;
