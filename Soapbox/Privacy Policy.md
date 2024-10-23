@@ -1,8 +1,8 @@
 [Skip to content](#site-main)
 
-FREE Shipping on all orders $35+
+FREE Shipping on all orders $50+
 
-FREE Shipping on all orders $35+
+FREE Shipping on all orders $50+
 
 Menu icon Menu
 
