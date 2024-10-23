@@ -66,7 +66,6 @@ Menu
 * [TIPS + TOOLS](#)
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
     * [BUCKET LIST TIPS](https://bucketlistjourney.net/category/bucket-list-tips/)
-    * [MOTIVATION](https://bucketlistjourney.net/category/motivation/)
 * [SHOP buck & co.](https://buckandco.net/)
 
 [](#)
@@ -118,7 +117,6 @@ Menu
 * [TIPS + TOOLS](#)
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
     * [BUCKET LIST TIPS](https://bucketlistjourney.net/category/bucket-list-tips/)
-    * [MOTIVATION](https://bucketlistjourney.net/category/motivation/)
 * [SHOP buck & co.](https://buckandco.net/)
 
 [](#)
