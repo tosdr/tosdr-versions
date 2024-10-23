@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[Buy 1 Get 1 Free Disguised Knives I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-disguised-knifes?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Disguised+Knives)
+[15% Off ALL Police Equipment | Code: POLICE15](https://www.thehomesecuritysuperstore.com/collections/police-equipment?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+ALL+Police+Equipment)
 
-Today’s offer: :: | Buy 1 Get 1 Free Disguised Knives I Click Here!
+Today’s offer: :: | 15% Off ALL Police Equipment | Code: POLICE15
 
 Today’s offer: : :
 
- Buy 1 Get 1 Free Disguised Knives I Click Here!
+ 15% Off ALL Police Equipment Code: POLICE15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
