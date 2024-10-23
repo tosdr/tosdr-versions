@@ -88,7 +88,7 @@ Media
 
 Campaigns
 
-[Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill) [Working with Westminster](https://www.nrla.org.uk/campaigns/working-with-westminster) [Adaptations](https://www.nrla.org.uk/campaigns/adaptations) [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency) [Homelessness](https://www.nrla.org.uk/campaigns/homelessness)
+[Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill) [Working with the Government](https://www.nrla.org.uk/campaigns/working-with-the-government) [Adaptations](https://www.nrla.org.uk/campaigns/adaptations) [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency) [Homelessness](https://www.nrla.org.uk/campaigns/homelessness)
 
 Key Issues
 
@@ -108,7 +108,7 @@ Reports & Insight
 
 Who We Are
 
-[Our Story](https://www.nrla.org.uk/about-us) [Governance](https://www.nrla.org.uk/about-us/governance) [The Board](https://www.nrla.org.uk/about-us/who-we-are) [Senior Managers](https://www.nrla.org.uk/about-us/senior-managers) [Our Authors](https://www.nrla.org.uk/news/our-authors) [Vision, Mission, Values](https://www.nrla.org.uk/about-us/our-values) [Sitemap](https://www.nrla.org.uk/sitemap)
+[Our Story](https://www.nrla.org.uk/about-us) [Governance](https://www.nrla.org.uk/about-us/governance) [The Board](https://www.nrla.org.uk/about-us/who-we-are) [Our Authors](https://www.nrla.org.uk/news/our-authors) [Vision, Mission, Values](https://www.nrla.org.uk/about-us/our-values) [Sitemap](https://www.nrla.org.uk/sitemap)
 
 Working For Us
 
@@ -116,7 +116,7 @@ Working For Us
 
 Legal Information
 
-[Terms & Conditions](https://www.nrla.org.uk/about-us/legal-information) [Code of Practice](https://www.nrla.org.uk/about-us/code-of-practice) [Complaints & Feedback](https://www.nrla.org.uk/about-us/complaints-and-feedback) [Annual General Meeting 2024](https://www.nrla.org.uk/about-us/AGM/2024)
+[Terms & Conditions](https://www.nrla.org.uk/about-us/legal-information) [Code of Practice](https://www.nrla.org.uk/about-us/code-of-practice) [Complaints & Feedback](https://www.nrla.org.uk/about-us/complaints-and-feedback)
 
 Contact Us
 
