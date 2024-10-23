@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
 
 Service Stiftung Warentest
 
