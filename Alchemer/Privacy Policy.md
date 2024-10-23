@@ -50,8 +50,6 @@
     
     Industries
     
-      
-    
     [Government](https://www.alchemer.com/government/)
     
     [Education](https://www.alchemer.com/education/)
