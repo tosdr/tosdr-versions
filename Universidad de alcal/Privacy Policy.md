@@ -303,7 +303,7 @@ La UAH tiene una Política de cookies que puedes consultar [**aquí.**](https://
 
 9. **Política de seguridad**
 
-La UAH protege la seguridad de los datos personales, de la información en general y de los servicios y sistemas que utiliza. Puede consultar la **[Política de seguridad](https://uah.es/export/shared/es/conoce-la-uah/organizacion-y-gobierno/.galleries/Secretaria-General/Politica-de-Seguridad-informacion.pdf "Política de seguridad")** 
+La UAH protege la seguridad de los datos personales, de la información en general y de los servicios y sistemas que utiliza. Puede consultar la **[Política de seguridad](https://uah.es/export/shared/es/conoce-la-uah/organizacion-y-gobierno/.galleries/Galeria-Secretaria-General/Politica-de-Seguridad-informacion.pdf "Política de seguridad")** 
 
 [![Logotipo de la Universidad de Alcalá](/export/sites/uah/.galleries/imagenes-estructura/logopie.png "Logotipo de la Universidad de Alcalá")](https://uah.es/)
 
@@ -326,9 +326,9 @@ Contacto UAH
 Ayuda e Información
 -------------------
 
-* [Centro de información](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Centro-de-Informacion/ "Centro de información")
+* [Centro de información](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/Centro-de-Informacion/ "Centro de información")
 * [Secretaría de alumnos](https://uah.es/es/admision-y-ayudas/grados/matricula/secretarias-alumnos/ "Secretaría de alumnos")
-* [Relaciones Internacionales](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Servicio-de-relaciones-internacionales/ "Relaciones Internacionales")
+* [Relaciones Internacionales](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/Servicio-de-relaciones-internacionales/ "Relaciones Internacionales")
 * [Sala de Prensa](https://portalcomunicacion.uah.es/sala-prensa/ "Sala de Prensa")
 * [Redes Sociales](https://portalcomunicacion.uah.es/social-media/ "Redes Sociales")
 
@@ -346,7 +346,7 @@ Acerca de
 ---------
 
 * [Accesibilidad](https://uah.es/es/accesibilidad/)
-* [Acerca de nuestra web](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Servicio-Web-y-de-Informacion-Universitaria-00001/ "Servicio Web")
+* [Acerca de nuestra web](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/Servicio-Web-y-de-Informacion-Universitaria-00001/ "Servicio Web")
 * [Imagen institucional](https://uah.es/es/imagen-institucional/ "Imagen institucional")
 * [Protección de datos](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/equipo-de-direccion/secretaria-general/proteccion-de-datos-de-caracter-personal/ "Protección de datos")
 
