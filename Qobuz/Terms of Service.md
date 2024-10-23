@@ -1229,6 +1229,18 @@ XANDRIE SA reserves the right to cancel or refuse any order from a Customer with
 * ![](https://static-www.qobuz.com/img/common/logo/ic_visa_mastercard.png)
 * ![](https://static-www.qobuz.com/img/common/logo/ic_paypal.png)
 
+![JASRAC](/assets-static/img/external-logos/logo_jasrac.jpg)
+
+許諾番号 9027593002Y30005 9027593003Y58330
+
+![NexTone](/assets-static/img/external-logos/logo_nextone.png)
+
+許諾番号 ID000008799 ID000008800 ID000008801 ID000008802
+
+![lmark](/assets-static/img/external-logos/logo_lmark.png)
+
+このエルマークは、レコード会社・映像制作会社が提供するコンテンツを示す登録商標です RIAJ50054001
+
 © 2024 XANDRIE SA – 45 rue de Delizy, 93692 Pantin CEDEX, France
 
 [Legal notices](https://www.qobuz.com/gb-en/legal/mentions)[CGU & T&C](https://www.qobuz.com/gb-en/legal/terms)[Data protection](https://www.qobuz.com/gb-en/discover/legals/privacy)[Cookies](https://www.qobuz.com/gb-en/page/charte_cookies)
