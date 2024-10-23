@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/592384532/592384532_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/592384532/592384532_360x203.jpg)](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
+        
+        #### [Law enforcement searching for suspects after pursuit ends in crash in Robertson County](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/b7be16d4-416a-41a7-99df-f18dea92dc0e/20241022T210227/b7be16d4-416a-41a7-99df-f18dea92dc0e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/b7be16d4-416a-41a7-99df-f18dea92dc0e/20241022T210227/b7be16d4-416a-41a7-99df-f18dea92dc0e_360x203.jpg)](https://www.kagstv.com/article/news/crime/john-victor-may-sentenced-oct-22-2024/499-03209af9-f825-429f-9cc8-9ba276472457)
         
         #### [Man sentenced to 35 years after plea agreement for meth possession charge in Grimes County](https://www.kagstv.com/article/news/crime/john-victor-may-sentenced-oct-22-2024/499-03209af9-f825-429f-9cc8-9ba276472457)
-        
-    *  [![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_16x9.jpg) ![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_360x203.jpg)](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
-        
-        #### [Railroad crossing in Hearne to close on Friday for planking repairs](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-75°
+69°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
