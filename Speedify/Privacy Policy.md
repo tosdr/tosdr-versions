@@ -137,7 +137,7 @@ Oct 23
 
 10:00 am - 11:00 am EDT
 
-### [10/23 @ 10am EDT – BOND Wifi, 5G, Starlink for the Strongest Event Internet | Ask the CEO your tech questions](https://speedify.com/event/10-23-10am-edt-bond-wifi-5g-starlink-for-the-strongest-event-internet-ask-the-ceo-your-tech-questions/ "10/23 @ 10am EDT – BOND Wifi, 5G, Starlink for the Strongest Event Internet | Ask the CEO your tech questions")
+### [10/23 @ 10am EDT – BOND Wifi, 5G, Starlink for the Strongest Event Internet | Ask the CEO your tech questions](http://speedify.com/event/10-23-10am-edt-bond-wifi-5g-starlink-for-the-strongest-event-internet-ask-the-ceo-your-tech-questions/ "10/23 @ 10am EDT – BOND Wifi, 5G, Starlink for the Strongest Event Internet | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
