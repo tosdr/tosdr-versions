@@ -10,21 +10,21 @@ My Tote
 
 ---
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/2020-bsl_f2e224a8-a639-4ee7-8502-a1ab45f11149.png?crop=center&height=85&v=1697822466&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2020-bsl_f2e224a8-a639-4ee7-8502-a1ab45f11149.png?crop=center&height=85&v=1697822466&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/2021-nl_3c61c11a-4195-4b9a-80fb-359f4a96f13a.png?crop=center&height=85&v=1697823051&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2021-nl_3c61c11a-4195-4b9a-80fb-359f4a96f13a.png?crop=center&height=85&v=1697823051&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/badges2.png?crop=center&height=85&v=1698631226&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/badges2.png?crop=center&height=85&v=1698631226&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-[![coffee-bean-caffeine-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_239x254.webp?v=1724416545)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+[![coffee-bean-caffeine-brightening-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_239x254.webp?v=1724416545)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
 ![ 1FMCBEC_Primary](//www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_220x.webp?v=1724416545)
 
-### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-5773 reviews (5775)
+5776 reviews (5776)
 
 $16.00 $29.00
 
