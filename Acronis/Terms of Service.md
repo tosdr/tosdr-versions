@@ -257,11 +257,11 @@ Menu Close
     
     * [Find an IT provider](https://www.acronis.com/en-us/partners/locator/)
     * [Find a distributor](https://www.acronis.com/en-us/partners/distributor-locator/)
-    * [Partner Certification](https://www.acronis.com/en-us/academy/)
+    * [Partner Certification](https://partners.acronis.training/learn)
         
         Partners now have access to all sales and technical training — a $999 annual value per partner
         
-    * [MSP Academy](https://academy.acronis.com/en-us/catalogue/)
+    * [MSP Academy](https://academy.acronis.com/en-us/)
         
         Vendor-neutral training, covering the A-Z of managing an MSP business
         
@@ -283,7 +283,7 @@ Menu Close
     
     * [Product documentation](https://www.acronis.com/en-us/support/documentation/)
     * [Knowledge Base](https://kb.acronis.com/)
-    * [Acronis Academy](https://www.acronis.com/en-us/academy/)
+    * [MSP Academy](https://academy.acronis.com/en-us/)
     * [Product support lifecycle](https://www.acronis.com/en-us/support/lifecycle/)
     
     Support by category
@@ -332,11 +332,11 @@ Menu Close
     
     Acronis Academy
     
-    * [Partner Certification](https://www.acronis.com/en-us/academy/)
+    * [Partner Certification](https://partners.acronis.training/learn)
         
         Partners now have access to all sales and technical training — a $999 annual value per partner
         
-    * [MSP Academy](https://academy.acronis.com/en-us/catalogue/)
+    * [MSP Academy](https://academy.acronis.com/en-us/)
         
         Vendor-neutral training, covering the A-Z of managing an MSP business
         
