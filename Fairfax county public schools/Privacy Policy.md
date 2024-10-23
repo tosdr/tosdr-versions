@@ -333,7 +333,7 @@ Footer Meta Menu
 ----------------
 
 * [Policies and Regulations](https://www.fcps.edu/about-fcps/policies-regulations-and-notices "Policies, Regulations, and Notices")
-* [Freedom of Information Act](https://www.fcps.edu/about-fcps/policies-regulations-and-notices/virginia-freedom-information-act-vfoia "The Virginia Freedom of Information Act (VFOIA)")
+* [Freedom of Information Act](https://www.fcps.edu/about-fcps/leadership/policies-regulations-notices/virginia-freedom-information-act-vfoia "The Virginia Freedom of Information Act (VFOIA)")
 * [Nondiscrimination](https://www.fcps.edu/department-of-human-resources/office-of-employee-relations/non-discrimination "Nondiscrimination ")
 * [Web Accessibility Guidelines](https://www.fcps.edu/about-fcps/policies-regulations-and-notices/web-accessibility-guidelines "Web Accessibility Guidelines")
 * [Website Feedback](https://www.fcps.edu/submit-question-or-request-about-website)
