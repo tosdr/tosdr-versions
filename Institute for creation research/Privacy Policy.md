@@ -7,7 +7,7 @@
 
 [![](/i/icr-logo-final-h-color1-100.png)](https://www.icr.org/) [![](/i/icr-DC-logo-h-white-100.png)](http://discoverycenter.icr.org/) [![](/i/icr-store-logo-final-h-rev1-100.png)](https://store.icr.org/) [![](/i/icr-soba-logo-white1-100.png)](https://icr.edu/)
 
-[Donate](https://pushpay.com/g/instituteforcreationresearch)
+[Donate](https://www.icr.org/donate/index)
 
 [](#)
 
@@ -96,63 +96,93 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More The Universe Was Created Recently
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/count-your-many-blessings)
+[![](/i/wide/s_africa_fossil_wide.jpg)](https://www.icr.org/article/myths-dressed-science)
 
-[Count Your Many Blessings](https://www.icr.org/article/count-your-many-blessings/)
+[Myths Dressed as Science](https://www.icr.org/article/myths-dressed-science/)
 
-“Thou crownest the year with thy goodness; and thy paths drop fatness.” (Psalm 65:11) At year’s end, a Christian should stop...
+A recent MSN article claims a fossilized hominid called "Little Foot" found in a cave at the Sterkfontein site near Johannesburg, South Africa,...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/eve-saving-seed)
+[![](/i/wide/comet_closeup_wide.jpg)](https://www.icr.org/article/european-spacecrafts-comet-close-up)
 
-[Eve and the Saving Seed](https://www.icr.org/article/eve-saving-seed/)
+[European Spacecraft's Comet Close-up a World First](https://www.icr.org/article/european-spacecrafts-comet-close-up/)
 
-“And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.” (Genesis 4:1) Recent...
+After a ten-year-long flight, the European Space Agency's (ESA) Rosetta spacecraft entered into orbit around a comet. It will soon attempt to actually...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/teaching-universe)
+[![](/i/stage_248/saturnrings-stage.jpg)](https://www.icr.org/article/secular-scientists-dumbfounded-by-saturns)
 
-[Teaching Universe](https://www.icr.org/article/teaching-universe/)
+[Secular Scientists Dumbfounded by Saturn's Young Rings](https://www.icr.org/article/secular-scientists-dumbfounded-by-saturns/)
 
-“The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth...
+Data obtained by an instrument aboard the Cassini space probe have convinced planetary scientists that Saturn’s rings can be no more than a few...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/green-algae-relatives-1400x1050)](https://www.icr.org/article/land-plants-algal-relatives)
+
+[Do Land Plants Have Algal Relatives?](https://www.icr.org/article/land-plants-algal-relatives/)
+
+Evolutionists recently reported observations about a plant group called the Zygnematophyceae (a class of green algae). They claimed to know more about...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/dragonfly-plant-1400x1050)](https://www.icr.org/article/aerial-engineering-dragonfly)
+
+[Aerial Engineering and Physics of the Dragonfly](https://www.icr.org/article/aerial-engineering-dragonfly/)
+
+Dragonflies (order Odonata) are perhaps one of the most studied and appreciated insects in the world today. Like the hummingbird, the dragonfly is a master...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/Seed_Water_Sensor_CET_1400x1050.jpg)](https://www.icr.org/article/seed-water-sensor-cet)
+
+[Seed Water Sensor Confirms CET Design Model](https://www.icr.org/article/seed-water-sensor-cet/)
+
+The sprouting of a seed is crucial to not only the beginning of a plant’s life, but all life on earth. Despite this fundamental process of importance...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
 
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
+
+The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
+
+The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
+
+$34.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373091/file.jpg)
+
+The Ice Age Real and Recent](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent.html)
+
+$7.99
 
 $9.99
 
-$19.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
 
-[](https://store.icr.org/.html)
+The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
 
-$
+$4.99
 
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
-
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
-
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
-
-$14.99
-
-$19.99
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
