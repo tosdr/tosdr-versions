@@ -446,109 +446,127 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
+[The Dan Bongino Show
+
+152K](https://rumble.com/v5jsye5-its-so-bad-they-want-biden-back-ep.-2356-10232024.html "The Dan Bongino Show")
+
+[Bannons War Room
+
+11.1K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Badlands Media
+
+6.84K](https://rumble.com/v5jrsct-badlands-daily-wednesday-october-23-2024.html "Badlands Media")
+
 [NEWSMAX
 
-2.01K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+4.99K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[The Rubin Report
+
+4.63K](https://rumble.com/v5jt715-crowd-stunned-by-tulsi-gabbards-scathing-remarks-during-her-shock-announcem.html "The Rubin Report")
 
 [Lofi Girl
 
-248](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+329](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+[Geeks + Gamers
 
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+265](https://rumble.com/v5jt7od-unknown-9-awakening-the-latest-sweet-baby-inc-fail-acolyte-star-doesnt-care.html "Geeks + Gamers")
 
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+[Caleb Hammer
 
-[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
+264](https://rumble.com/v5jt8s5-failed-camgirl-is-a-literal-clown-financial-audit.html "Caleb Hammer")
 
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
+[barstoolsports
 
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+257](https://rumble.com/v5jsqej-kms-live-october-23-2024.html "barstoolsports")
 
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+[The Kirk Minihane Show
 
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
+169](https://rumble.com/v5jsqej-kms-live-october-23-2024.html "The Kirk Minihane Show")
 
-[New York Post](https://rumble.com/c/NYPost "New York Post")
+[Mostly Sports With Mark Titus and Brandon Walker
 
-[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+90](https://rumble.com/v5jq0at-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
 
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
 
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
 
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
-
-[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
-
-[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
-
-[Havoc](https://rumble.com/c/Havoc "Havoc")
-
-[Major League Fishing](https://rumble.com/c/MajorLeagueFishing "Major League Fishing")
-
-[NHRA](https://rumble.com/c/NHRA "NHRA")
-
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
-
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
-
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
-
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
-
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
-
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
 
 [Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
 
 [Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
 
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
+
+[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+
+[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[Major League Fishing](https://rumble.com/c/MajorLeagueFishing "Major League Fishing")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
+
+[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
 
 ### Theme
 
