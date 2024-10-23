@@ -149,133 +149,134 @@
     
     [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
-    Care at Mayo Clinic
-    
-    [Patient-Centered Care](https://www.mayoclinic.org/patient-centered-care)
-    
-    [About Mayo Clinic](https://www.mayoclinic.org/about-mayo-clinic)
-    
-    [Request Appointment](https://www.mayoclinic.org/appointments)
-    
-    [Find a Doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
-    
-    [Locations](https://www.mayoclinic.org/locations)
-    
-    [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
-    
-    [Connect to Support Groups](https://connect.mayoclinic.org/)
-    
-    [Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
-    
-    [Billing & Insurance](https://www.mayoclinic.org/billing-insurance)
-    
-    [Departments & Centers](https://www.mayoclinic.org/departments-centers)
-    
-    [International Services](https://www.mayoclinic.org/departments-centers/international)
-    
-    [Contact Us](https://www.mayoclinic.org/about-mayo-clinic/contact)
-    
-    [Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
-    
-    ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/pt-visitor-Getty-1419492732-415x275.jpg)
-    
-    Health Library
-    
-    [Diseases & Conditions](https://www.mayoclinic.org/diseases-conditions)
-    
-    [Symptoms](https://www.mayoclinic.org/symptoms)
-    
-    [Tests & Procedures](https://www.mayoclinic.org/tests-procedures)
-    
-    [Drugs & Supplements](https://www.mayoclinic.org/drugs-supplements)
-    
-    [Healthy Lifestyle](https://www.mayoclinic.org/healthy-lifestyle)
-    
-    [Books & Subscriptions](https://mcpress.mayoclinic.org/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=MC-Press&utm_content=MCPRESS)
-    
-    [Diseases & Conditions](https://www.mayoclinic.org/diseases-conditions)
-    
-    ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/disease-conditions-Getty-1334250777-415x275.jpg)
-    
-    For Medical Professionals
-    
-    [Medical Professional Resources](https://www.mayoclinic.org/medical-professionals)
-    
-    [Refer a Patient](https://www.mayoclinic.org/medical-professionals/provider-relations/refer-patient)
-    
-    [Continuing Medical Education](https://ce.mayo.edu/)
-    
-    [AskMayoExpert](https://askmayoexpert.mayoclinic.org/)
-    
-    [Mayo Clinic Laboratories](https://www.mayocliniclabs.com/)
-    
-    [Video Center](https://medprofvideos.mayoclinic.org/)
-    
-    [Journals & Publications](https://www.mayoclinic.org/medical-professionals/publications)
-    
-    [Mayo Clinic Alumni Association](https://alumniassociation.mayo.edu/)
-    
-    [Continuing Medical Education](https://ce.mayo.edu/)
-    
-    ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/cont-ed-1676659-3734290-0048-C-415x275.jpg)
-    
-    Research & Education at Mayo Clinic
-    
-    Research
-    --------
-    
-    [Research at Mayo Clinic](https://www.mayo.edu/research)
-    
-    [Research Faculty](https://www.mayo.edu/research/faculty)
-    
-    [Laboratories](https://www.mayo.edu/research/labs)
-    
-    [Core Facilities](https://www.mayo.edu/research/core-facilities/overview)
-    
-    [Centers & Programs](https://www.mayo.edu/research/centers-programs)
-    
-    [Departments & Divisions](https://www.mayo.edu/research/departments-divisions)
-    
-    [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
-    
-    [Institutional Review Board](https://www.mayo.edu/research/institutional-review-board/overview)
-    
-    [Postdoctoral Fellowships](https://jobs.mayoclinic.org/search-jobs/postdoctoral%20fellowships/33647/1)
-    
-    [Training Grant Programs](https://www.mayo.edu/research/training-grant-programs)
-    
-    Education
-    ---------
-    
-    [Mayo Clinic College of Medicine and Science](https://college.mayo.edu/)
-    
-    [Mayo Clinic Graduate School of Biomedical Sciences](https://college.mayo.edu/academics/biomedical-research-training/)
-    
-    [Mayo Clinic Alix School of Medicine](https://college.mayo.edu/academics/mayo-clinic-alix-school-of-medicine/)
-    
-    [Mayo Clinic School of Graduate Medical Education](https://college.mayo.edu/academics/residencies-and-fellowships/)
-    
-    [Mayo Clinic School of Health Sciences](https://college.mayo.edu/academics/health-sciences-education/)
-    
-    [Mayo Clinic School of Continuous Professional Development](https://ce.mayo.edu/)
-    
-    [Mayo Clinic College of Medicine and Science](https://college.mayo.edu/)
-    
-    ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/mccms-Getty-1082003662-415x275.jpg)
-    
-    Giving to Mayo Clinic
-    
-    [Give Now](https://philanthropy.mayoclinic.org/donateMC)
-    
-    [Giving to Mayo Clinic](https://www.mayoclinic.org/giving-to-mayo-clinic)
-    
-    [Frequently Asked Questions](https://www.mayoclinic.org/giving-to-mayo-clinic/contact-us/frequently-asked-questions)
-    
-    [Contact Us to Give](https://www.mayoclinic.org/giving-to-mayo-clinic/contact-us)
-    
-    [Make a Donation](https://philanthropy.mayoclinic.org/donateMC)
-    
-    ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/10/23/giving-to-mayo-em100063715-p-195580295-415x275.png)
+    * Care at Mayo Clinic
+        
+        [Patient-Centered Care](https://www.mayoclinic.org/patient-centered-care)
+        
+        [About Mayo Clinic](https://www.mayoclinic.org/about-mayo-clinic)
+        
+        [Request Appointment](https://www.mayoclinic.org/appointments)
+        
+        [Find a Doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
+        
+        [Locations](https://www.mayoclinic.org/locations)
+        
+        [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
+        
+        [Connect to Support Groups](https://connect.mayoclinic.org/)
+        
+        [Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
+        
+        [Billing & Insurance](https://www.mayoclinic.org/billing-insurance)
+        
+        [Departments & Centers](https://www.mayoclinic.org/departments-centers)
+        
+        [International Services](https://www.mayoclinic.org/departments-centers/international)
+        
+        [Contact Us](https://www.mayoclinic.org/about-mayo-clinic/contact)
+        
+        [Patient & Visitor Guide](https://www.mayoclinic.org/patient-visitor-guide)
+        
+        ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/pt-visitor-Getty-1419492732-415x275.jpg)
+        
+    * Health Library
+        
+        [Diseases & Conditions](https://www.mayoclinic.org/diseases-conditions)
+        
+        [Symptoms](https://www.mayoclinic.org/symptoms)
+        
+        [Tests & Procedures](https://www.mayoclinic.org/tests-procedures)
+        
+        [Drugs & Supplements](https://www.mayoclinic.org/drugs-supplements)
+        
+        [Healthy Lifestyle](https://www.mayoclinic.org/healthy-lifestyle)
+        
+        [Books & Subscriptions](https://mcpress.mayoclinic.org/?utm_source=MC-DotOrg-Nav&utm_medium=Link&utm_campaign=MC-Press&utm_content=MCPRESS)
+        
+        [Diseases & Conditions](https://www.mayoclinic.org/diseases-conditions)
+        
+        ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/disease-conditions-Getty-1334250777-415x275.jpg)
+        
+    * For Medical Professionals
+        
+        [Medical Professional Resources](https://www.mayoclinic.org/medical-professionals)
+        
+        [Refer a Patient](https://www.mayoclinic.org/medical-professionals/provider-relations/refer-patient)
+        
+        [Continuing Medical Education](https://ce.mayo.edu/)
+        
+        [AskMayoExpert](https://askmayoexpert.mayoclinic.org/)
+        
+        [Mayo Clinic Laboratories](https://www.mayocliniclabs.com/)
+        
+        [Video Center](https://medprofvideos.mayoclinic.org/)
+        
+        [Journals & Publications](https://www.mayoclinic.org/medical-professionals/publications)
+        
+        [Mayo Clinic Alumni Association](https://alumniassociation.mayo.edu/)
+        
+        [Continuing Medical Education](https://ce.mayo.edu/)
+        
+        ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/cont-ed-1676659-3734290-0048-C-415x275.jpg)
+        
+    * Research & Education at Mayo Clinic
+        
+        Research
+        --------
+        
+        [Research at Mayo Clinic](https://www.mayo.edu/research)
+        
+        [Research Faculty](https://www.mayo.edu/research/faculty)
+        
+        [Laboratories](https://www.mayo.edu/research/labs)
+        
+        [Core Facilities](https://www.mayo.edu/research/core-facilities/overview)
+        
+        [Centers & Programs](https://www.mayo.edu/research/centers-programs)
+        
+        [Departments & Divisions](https://www.mayo.edu/research/departments-divisions)
+        
+        [Clinical Trials](https://www.mayo.edu/research/clinical-trials)
+        
+        [Institutional Review Board](https://www.mayo.edu/research/institutional-review-board/overview)
+        
+        [Postdoctoral Fellowships](https://jobs.mayoclinic.org/search-jobs/postdoctoral%20fellowships/33647/1)
+        
+        [Training Grant Programs](https://www.mayo.edu/research/training-grant-programs)
+        
+        Education
+        ---------
+        
+        [Mayo Clinic College of Medicine and Science](https://college.mayo.edu/)
+        
+        [Mayo Clinic Graduate School of Biomedical Sciences](https://college.mayo.edu/academics/biomedical-research-training/)
+        
+        [Mayo Clinic Alix School of Medicine](https://college.mayo.edu/academics/mayo-clinic-alix-school-of-medicine/)
+        
+        [Mayo Clinic School of Graduate Medical Education](https://college.mayo.edu/academics/residencies-and-fellowships/)
+        
+        [Mayo Clinic School of Health Sciences](https://college.mayo.edu/academics/health-sciences-education/)
+        
+        [Mayo Clinic School of Continuous Professional Development](https://ce.mayo.edu/)
+        
+        [Mayo Clinic College of Medicine and Science](https://college.mayo.edu/)
+        
+        ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/06/26/mccms-Getty-1082003662-415x275.jpg)
+        
+    * Giving to Mayo Clinic
+        
+        [Give Now](https://philanthropy.mayoclinic.org/donateMC)
+        
+        [Giving to Mayo Clinic](https://www.mayoclinic.org/giving-to-mayo-clinic)
+        
+        [Frequently Asked Questions](https://www.mayoclinic.org/giving-to-mayo-clinic/contact-us/frequently-asked-questions)
+        
+        [Contact Us to Give](https://www.mayoclinic.org/giving-to-mayo-clinic/contact-us)
+        
+        [Make a Donation](https://philanthropy.mayoclinic.org/donateMC)
+        
+        ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/10/23/giving-to-mayo-em100063715-p-195580295-415x275.png)
+        
     
 
 [Home](https://www.mayoclinic.org/)
