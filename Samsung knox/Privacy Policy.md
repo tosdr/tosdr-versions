@@ -1,6 +1,6 @@
 ![](https://dc.ads.linkedin.com/collect/?pid=468978&fmt=gif)
 
- [![Knox logo](https://kp4-cdn.samsungknox.com/resource/iUxOLMPWhXEJheVY.svg)](https://www.samsungknox.com/en)[Get Started](https://www2.samsungknox.com/register)
+ [![Knox logo](https://kp4-cdn.samsungknox.com/resource/Logo_WpCU.svg)](https://www.samsungknox.com/en)[Get Started](https://www2.samsungknox.com/register)
 
 Back
 
