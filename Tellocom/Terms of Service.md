@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=fcd1f481bdc1298298074239d3621ef4)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=4141c9eb7e830085b9c41dfb6ecb7531)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -659,7 +659,7 @@ From your Tello phone, dial 611
 
 **Email**  
 
-cu​st​om​er​se​rv​ic​e@​te​ll​o.​co​m​
+cust​omer​serv​ice@​tell​o.co​m​
 
 Shop
 
