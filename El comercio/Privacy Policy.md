@@ -31,1002 +31,1004 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Fiscalía presentó peritajes como pruebas en el caso Metástasis
+Diego Forlán sorprende y hará su debut en el tenis profesional
 ==============================================================
 
-Fiscalía empezó con la presentación de pruebas para establecer la responsabilidad y el grado de participación.
---------------------------------------------------------------------------------------------------------------
+Diego Forlán, un futbolista histórico de Uruguay, no se cansa de practicar otros deportes.
+------------------------------------------------------------------------------------------
 
-![Audiencia del caso Metástasis en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/10/cnj.jpg)
+![Diego Forlán debutará en el tenis profesional.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-22T203117.931.jpg)
 
-Con la presencia del **fiscal general del Estado subrogante**, **Wilson Toainga**, se instaló el día 21 de octubre de 2024 la audiencia de juicio por presunta **delincuencia organizada contra 21 procesados**. En esta causa, otras **12 personas** ya fueron sentenciadas mediante **procedimiento abreviado**.
+El exfutbolista uruguayo **Diego Forlán**, quien fue parte de la selección nacional, hará su debut en el mundo del **tenis** profesional el próximo noviembre en el Challenger de Montevideo. A sus 45 años, Forlán competirá junto a **Federico Coria** en lo que será su primer torneo en este deporte.
 
-### Más noticias
-
-* [Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juicio-contra-21-procesados-inicia-corte-nacional-justicia.html "Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ")
-* [Caso Metástasis ya tiene fecha de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-tiene-fecha-juicio.html "Caso Metástasis ya tiene fecha de juicio")
-* [Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?")
-
-Previo a la instalación, el Tribunal indicó que la **etapa de juicio** se encuentra suspendida para el procesado **Armando F.**, quien está registrado como candidato para una **dignidad de elección popular**, además de los **ocho prófugos**.
-
-Contexto de la audiencia en el caso Metástasis
-----------------------------------------------
-
-La **Fiscalía General del Estado** comenzó con la presentación de sus alegatos de apertura. Wilson Toainga destacó que, con base en las pruebas presentadas **durante la audiencia**, se probará la responsabilidad y **participación de los procesados**.
-
-Luego de esto, el fiscal señaló que el juicio representa un paso importante en la lucha contra la **delincuencia organizada** y que la justicia no debe ser secuestrada.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): se reinstala la audiencia de juicio por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). La Jueza ponente dispone que continúe la presentación de los alegatos de apertura de las partes procesales. [pic.twitter.com/c2HjO6bQQG](https://t.co/c2HjO6bQQG)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 21, 2024](https://twitter.com/FiscaliaEcuador/status/1848470575011725335?ref_src=twsrc%5Etfw)
-
-Tras la intervención de la Fiscalía, el Tribunal dio paso a las defensas de los **21 procesados para presentar sus alegatos**. Durante la audiencia, el Tribunal **suspendió el juicio por 45 minutos**, y, tras la reanudación, se continuó con la presentación de alegatos por **parte de las defensas**.
-
-Una vez concluidos los alegatos de apertura, la Fiscalía empezó con la presentación de pruebas para establecer la **responsabilidad y el grado de participación**.
-
-Peritaje de cadenas de custodia en el caso Metástasis
------------------------------------------------------
-
-El peritaje incluyó la **extracción, preservación y análisis de dos cadenas de custodia**. El primer informe relaciona tres teléfonos celulares levantados del CRS Cotopaxi el 6 de octubre de 2022, encontrados en la celda de Leandro Norero después de su muerte
-
-De estos dispositivos se realizó la extracción de registros de llamadas y conversaciones, incluyendo archivos adjuntos de las aplicaciones **Threema y WhatsApp**. Esto se realizó bajo criterios de búsqueda y utilizando **herramientas forenses avaladas**.
-
-El segundo informe se basó en el análisis de información del contenido digital de **20 teléfonos celulares**. En estos se extrajeron contactos, conversaciones, **registros de llamadas y mensajes**.
-
-Durante la audiencia, se presentó el peritaje de la **extracción, preservación y análisis de estos dispositivos, que incluyó 76 videos** (de uno de los teléfonos de Leandro Norero).
-
-En su mayoría, los videos contenían imágenes de aparentes entrenamientos militares y grupos de personas haciendo alusión a **grupos delictivos** como **'ChoneKillers' y 'Ben10'**. También se mostraron personas manipulando paquetes que contendrían droga y conversaciones con personas relacionadas a esta causa.
-
-Joel Ordóñez y Brujas lucharon, pero perdieron ante Milan
-=========================================================
-
-Joel Ordóñez completó su tercer partido en la Champions League con la camiseta del Brujas de Bélgica.
------------------------------------------------------------------------------------------------------
-
-![Joel Ordóñez con el Brujas en un partido en noviembre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/ordonez_milan_1.jpg)
-
-**Joel Ordóñez** volvió a sumar 90 minutos con el Club Brujas de Bélgica en la derrota 3-1 ante el Milan en la tercera fecha de la Champions Leagua, jugada este martes 22 de octubre de 2024, en el estadio San Siro.
-
-Antes que el marcador sufra variaciones, **Joel Ordóñez a punto estuvo de poner el 0-1 en el marcador**, pero su disparo desde fuera del área se estrelló en el horizontal del arco defendido por el francés Mike Maignan.
+Forlán, que marcó 36 goles con Uruguay y pasó por el Manchester United, el Villarreal y el Atlético de Madrid entre otros, ha recibido una invitación junto a Coria para jugar el cuadro de dobles.
 
 ### Más noticias:
 
-* [La emotiva reaparición de Neymar en el fútbol tras un año de ausencia](https://www.elcomercio.com/deportes/futbol/emotiva-reaparicion-neymar-futbol-ausencia-lesion.html "La emotiva reaparición de Neymar en el fútbol tras un año de ausencia")
-* [Kendry Páez sumó su segundo partido en la banca de suplentes](https://www.elcomercio.com/deportes/futbol/kendry-paez-sumo-su-segundo-partido-en-la-banca-de-suplentes.html "Kendry Páez sumó su segundo partido en la banca de suplentes")
-* [La Copa Ecuador se definirá en la Sierra](https://www.elcomercio.com/deportes/futbol/copa-ecuador-semifinales-horarios-estadios.html "La Copa Ecuador se definirá en la Sierra")
+* [Barcelona Sporting Club pone fecha para la Noche Amarilla 2025](https://www.elcomercio.com/deportes/futbol/noche-amarilla2025-barcelona-sporting-club.html "Barcelona Sporting Club pone fecha para la Noche Amarilla 2025")
+* [Los tenis blancos tienen el poder de elevar tu look](https://www.elcomercio.com/afull/tenis-blancos-outfits-combinaciones-moda.html "Los tenis blancos tienen el poder de elevar tu look")
+* [Sinner derrota a Djokovic y espera por Alcaraz o Nadal](https://www.elcomercio.com/deportes/djokovic-sinner-tenis-big-six-slam.html "Sinner derrota a Djokovic y espera por Alcaraz o Nadal")
 
-El Milan poco a poco empezó a inclinar las acciones de juego a su favor. A los **34 minutos el norteamericano Cristian Pulisic anotó el 1-0** con un gol olímpico, con lo que encaminó los primeros tres puntos para los italianos, luego de las dos derrotas de las dos primeras fechas.
+Forlán, de futbolista a tenista
+-------------------------------
 
-Los belgas no bajaron los brazos y presentaron una dura resistencia. A los **51 minutos del segundo tiempo, el defensor Kyriani Sabbe** colocó el 1-1, para preocupación de los locales que veían como se complicaba el desarrollo del compromiso.
+El charrúa **ha jugado varios partidos en el circuito senior de la ITF,** para mayores de treinta años, y ocupa el **puesto 744 del ránking** en la categoría +40 y el 108 en la categoría +45.
 
-Sin embargo, en 10 minutos el Milan tomó un segundo aire y sentenció el juego a **su favor con un doblete del centrocampista neerlandés Tijjani Reijnders** a los 61 y 71 minutos.
+En este 2024 ha jugado once partidos, todos en tierra batida, con un **registro de ocho victorias y tres derrotas.**
 
-El panorama de la visita se complicó a los 40 minutos del primer tiempo, con la expulsión del pivote nigeriano Raphael Onyedika, que vio la tarjeta roja por la intervención del VAR.
+Coria, de 32 años, es el número 101 del ránking y, además, tiene un canal de Youtube, bajo el nombre @fedecoriatenis, en el que muestra la vida de un tenista profesional.
 
-El partido quedará en la historia para **Francesco Camarda, delantero de 16 años**, que sumó sus primeros  
-minutos con el primer equipo del Milan, en lo que se marca como el inicio del camino de una de las nuevas promesas del fútbol base.
+El **Challenger de Montevideo** es el torneo de tenis más importante del país y se disputa del 11 al 17 de noviembre.
 
-A los 88 minutos anotó, pero su **gol fue anulado y se ganó la tarjeta amarilla** por sacarse la camiseta en el momento del festejo.
-
-Brujas se complica en la tabla
-------------------------------
-
-El Milan escaló a la casilla 18 de la tabla de posiciones con 3 puntos y un gol diferencia negativo de -1, mientras que el Brujas descendió, momentáneamente, al puesto 24 con los mismos 3 puntos, pero con un gol diferencia negativo de -4.
-
-En la cuarta fecha, programada para el miércoles 6 de noviembre, los belgas recibirán al Aston Villa en el estadio Jan Breydel, con la obligación de sumar sus tres primeros puntos en su casa, tras la derrota de la primera fecha de 0-3 ante el Borussia Dortmund.
-
-Los italianos, un día antes, irán al Santiago Bernabéu, para visitar al poderoso y complicado Real Madrid.
-
-No te pierdas – El Confesionario
---------------------------------
-
-La crisis eléctrica en Cuba afecta a millones de habitantes
-===========================================================
-
-Lugares como Santiago de Cuba y Guantánamo aún sufren escasez de electricidad.
-------------------------------------------------------------------------------
-
-![Ciudadanos cubanos caminan caminan en La Habana (Cuba).](https://www.elcomercio.com/wp-content/uploads/2024/10/cuba-electricidad-efe.jpg)
-
-Tras cuatro días de apagón en **Cuba**, el gobierno restablece parcialmente el **servicio eléctrico** mientras persiste la emergencia energética, señala Inter Press Service (IPS).
-
-### Más noticias
-
-* [Más de dos tercios de Cuba está conectado al sistema eléctrico, anuncia el Gobierno](https://www.elcomercio.com/actualidad/mundo/dos-tercios-cuba-conectado-sistema-electrico-anuncia-gobierno.html "Más de dos tercios de Cuba está conectado al sistema eléctrico, anuncia el Gobierno")
-* [China rompe acuerdos con Cuba](https://www.elcomercio.com/actualidad/mundo/china-rompe-acuerdos-cuba.html "China rompe acuerdos con Cuba")
-* [Cuba en alerta ante el eventual impacto del huracán Oscar](https://www.elcomercio.com/actualidad/mundo/cuba-en-alerta-ante-el-eventual-impacto-del-huracan-oscar.html "Cuba en alerta ante el eventual impacto del huracán Oscar")
-
-Un país a oscuras
------------------
-
-Cuba enfrenta una **grave crisis eléctrica** tras un apagón que dejó a 10 millones de habitantes sin luz durante cuatro días. Aunque el gobierno comenzó a **restablecer el suministro eléctrico** de manera parcial, la situación sigue siendo crítica, con un estado nacional de **“emergencia energética**” y la **suspensión de clases** y actividades no esenciales.
-
-Según un informe de la estatal **Unión Eléctrica (UNE)**, alrededor del 70% de los clientes ya tiene acceso a electricidad, con **mayor cobertura en provincias como Pinar del Río** y **La Habana**.
-
-Sin embargo, lugares como **Santiago de Cuba y Guantánamo** aún sufren escasez. Elizabeth Martínez, residente de La Habana, expresó su a**nsiedad ante la incertidumbre**, reflejando la desesperación de muchos cubanos que viven día a día sin saber cuándo volverán a perder el suministro eléctrico.
-
-El colapso del sistema eléctrico se debió a la **fallida central termoeléctrica Antonio Guiteras**, cuya avería llevó a una descnexión total. Desde entonces, los cubanos tuvieron que adaptarse a una **nueva normalidad**, donde la **falta de luz afecta no solo la vida cotidiana,** sino también la salud mental de la población. “Entré en un colapso mental”, confesó Martínez a Inter Press Service (IPS).
-
-Futuro incierto
----------------
-
-A pesar de que la UNE trabaja para restaurar el servicio, el **temor de nuevos apagones persiste**. En un contexto de crisis económica, el **déficit energético se volvió crónico**. En 2023, la **generación eléctrica** ha estado muy por debajo de la demanda, que supera los 3,300 megavatios. Esta situación plantea serias dudas sobre la **capacidad del gobierno** para garantizar un suministro eléctrico estable en el futuro.
-
-La f**alta de inversión en infraestructura** y la **dependencia de combustibles** importados han llevado a un círculo vicioso que afecta a toda la isla. Los cubanos, mientras tanto, continúan enfrentando una dura realidad, luchando por sobrellevar la crisis que amenaza con intensificarse.
-
-¿A qué hora se inician las semifinales de la Copa Ecuador?
-==========================================================
-
-La Copa Ecuador iniciará su fase de semifinales con el primer partido entre Independiente del Valle y Universidad Católica.
----------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Independiente del Valle y Universidad Católica en la Liga Pro antes de enfrentarse en Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/20240928129815-fbl-ligapro-ecuabet-independiente-valle-catolica.jpg)
-
-La Copa Ecuador verá su primer partido de semifinales durante este martes 22 de octubre del 2024. El choque entre **Universidad Católica e Independiente del Valle** jugarán la idea de la llave en el Estadio Olímpico Atahualpa de Quito a las 15:00.
-
-El torneo copero del país está por llegar a su cierre y para el mes de noviembre ya contará con sus dos finalistas definidos. Aquellos que arriben al cotejo de definición no solo buscarán el título, sino asegurar un cupo hacia la **Copa Libertadores 2025**.
-
-### Más noticias:
-
-* [La Copa Ecuador se definirá en la Sierra](https://www.elcomercio.com/deportes/futbol/copa-ecuador-semifinales-horarios-estadios.html "La Copa Ecuador se definirá en la Sierra")
-* [El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-delfin-liga-pro-segunda-etapa-fecha-10.html "El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador")
-* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
-
-Los choques entre las escuadras se llevarán a cabo en compromisos de **ida y vuelta**, mientras que la final sí será a partido único. El siguiente primer partido semifinal se llevará a cabo durante el miércoles 23 de octubre del 2024.
-
-Para el choque, **Universidad Católica** arriba tras eliminar a Técnico Universitario, Santa Elena Sumpa y La Paz, estos dos últimos de Segunda Categoría. **Independiente del Valle** superó a Guayaquil City, Cuniburo y Olmedo, de la Serie B y también Segunda.
-
-El partido de vuelta de camarattas y rayados será el martes 29 de octubre del 2024. Aquel choque se llevará a cabo en el Estadio de Independiente del Valle.
-
-Detalles de la primera semifinal de Copa Ecuador
-------------------------------------------------
-
-**Partido**: Universidad Católica vs. Independiente del Valle
-
-**Fecha**: martes 22 de octubre del 2024[.](https://en.wikipedia.org/wiki/Copa_Ecuador "https://en.wikipedia.org/wiki/Copa_Ecuador")
-
-**Hora**: 15:00.
-
-**Estadio**: Olímpico Atahualpa.
-
-¿Cuál es la otra llave semifinal de la Copa Ecuador?
-----------------------------------------------------
-
-En el otro cuadro de la Copa Ecuador se encuentran **El Nacional y Mushuc Runa**. Los puros criollos y el ‘Ponchito’ se medirán durante el miércoles 23 de octubre del 2024 a las 14:00.
-
-El cotejo de ida de los clubes se llevará a cabo en **Latacunga**, donde el ‘Ponchito’ hace de local. La vuelta será el jueves 31 de octubre del 2024 en el Estadio Olímpico Atahualpa de Quito.
-
-Para llegar a tal etapa, El Nacional superó a **Baños Ciudad Fuego** y a **Deportivo Santo Domingo** de la Segunda Categoría. En cuartos de final superó a **Liga de Quito** de la Serie A de la Liga Pro.
-
-Desde el lado de Mushuc Runa, este venció a **Leones del Norte** e **Independiente del Valle** de la Serie B. Su último rival al que superó para llegar a semifinales fue **Libertad**, también de Serie A.
-
-Cortes de agua en Quito este martes 22 de octubre
-=================================================
-
-La restitución del servicio de agua potable se reanudará de forma paulatina a partir del horario señalado en los cortes de agua
--------------------------------------------------------------------------------------------------------------------------------
-
-![Los barrios altos se ven afectados con el corte sel suministro debido a los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/agua-Quito.jpg)
-
-La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
-
-### Más noticias
-
-* [Cierre vehicular en El Trébol se mantiene este martes 22 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/cierre-vehicular-el-trebol-quito-se-mantiene-martes-22-de-octubre.html "Cierre vehicular en El Trébol se mantiene este martes 22 de octubre, en Quito")
-* [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
-* [Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos](https://www.elcomercio.com/actualidad/ecuador/volcan-sangay-aumenta-actividad-riesgos-alerta-temblores-y-bramidos.html "Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos")
-
-¿A qué se deben los cortes de agua?
------------------------------------
-
-La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló este martes 22 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
-
-La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
-
-Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
-
-Barrios afectados en Quito de 09:30 a 14:00
--------------------------------------------
-
-* **Parroquia Cochapamba:** Pablo Arturo Suárez, El Triunfo, Zona de Protección Cochapamba, Atucucho, Ruperto Alarcón
-* **Parroquia Cotocollao:** 23 de Junio
-* **Parroquia El Condado:** El Condado, Paraíso, Hacienda Santa María, San José de Cangahua Bajo, Cona de Protección Condado, Santa Ana ALta, Quito Tennis Club, Mena del Hierro, Santa Rosa de Singuna, Justicia Social, San Jospe Obrero, Francisco Yánez, San Francisco, San Enrique De Velazco, Santa Isabel, Adbón Calderón.
-* **Parroquia Ponceano:** San José del Condado
-* **Parroquia** **Rumipamba:** Ninguilla, Iñaquito Alto, El Bosque, Zona de Protección Rumipamba, Colinas Pichincha.
-* **Parroquia Comité del Pueblo:** Comité del Pueblo, Cristianía, Puertas del Sol, Collaloma 9 de Julio
-* **Parroquia Kennedy:** Santa Lucía Alta
-* **Parroquia San Isidro del Inca:** El Carmen
-* **Parroquia Chilibulo:** Yaguachi, Chilibulo, La Dolorosa, Comuna Marcopamba – Chilibulo – La Raya, Zona De Protección Chilibulo
-* **Parroquia Conocoto:** Ontaneda, San Cristóbal, San José de Conocoto Alto, El Rosario, Valle HErmoso, Monserrat
-* **Parroquia La Argelia:** Aída León, San Carlos, Zona de Protección de La Argelia, Miravalle 2, San Bartolo Bajo y Alto, Oriente Quiteño, Cumbres de Santa María, El Portal de Guajaló, Lucha de los Pobres Alto y Bajo
-* **Parroquia La Ferroviaria:** Ferroviaria Alta y Media, Forestal Alta, La Clemencia, Mirador de Puengasí, San Luis de Miravalle
-* **Parroquia La Libertad:** La Colmena, Libertad Baja, Los Ángeles, Santa Lucía Baja, Cima de La Libertad, San Diego Alto, San José de La Libertad, Josefina Enríquez, Santa Lucía Alta
-* **Parroquia Quitumbe:** San Blas II, Tambo El Inca, San Martín de Porres, El Mirador de Guajaló Alto, Zona de Protección Quitumbe, Valles del Sur, Ciudad Futura, Nuevos Horizontes del Sur
-* **Parroquia Belisario Quevedo:** La Granja, Zona de Protección Belisario, Las Casas, San Vicente, Santa Clara de San Millán (Comuna), La Primavera, Pambachupa, La Gasca
-* **Parroquia Puengasí:** Valle de Puengasí, Bosque IESS, San Isidro, Obrero Independiente 2
-
-Zonas afectadas en Quito de 10:00 a 22:00
------------------------------------------
-
-* **Parroquia Alangasí:** Comuna San Pedro del Tingo, El Tingo, Comuna San Pedro de Alangasí
-* **Parroquia La Merced:** Santa Ana, Praderas de Ilaló, El Huangal, Comuna San Francisco de Baños, Bellavista, San José de Guantugloma, Sarahurco
-* **Parroquia Tumbaco:** San Juan Chuspiyacu
-
-Barrios con cortes de agua de 16:00 a 22:00
--------------------------------------------
-
-* **Parroquia Chilibulo:** Yaguachi, Chilibulo, La Dolorosa, Comuna Marcopamba – Chilibulo – La Raya, Zona De Protección Chilibulo
-* **Parroquia Conocoto:** Ontaneda, San Cristóbal, San José de Conocoto Alto, El Rosario
-* **Parroquia La Argelia:** Aída León, San Carlos, Zona de Protección de La Argelia, Miravalle 2, San Bartolo Alto, Oriente Quiteño, Cumbres de Santa María, Hierba Buena 2
-* **Parroquia La Ferroviaria:** Ferroviaria Alta y Media, Forestal Alta, La Clemencia, Mirador de Puengasí, San Luis de Miravalle
-* **Parroquia La Libertad:** La Colmena, Libertad Baja, Los Ángeles, Santa Lucía Baja, Cima de La Libertad, San Diego Alto, San José de La Libertad, Josefina Enríquez, Santa Lucía Alta
-* **Parroquia Quitumbe:** San Blas II, Tambo El Inca, San Martín de Porres, El Mirador de Guajaló Alto, Zona de Protección Quitumbe, Valles del Sur, Ciudad Futura, Nuevos Horizontes del Sur
-* **Parroquia Comité del Pueblo:** Comité del Pueblo, Cristianía, Puertas del Sol, Collaloma 9 de Julio
-* **Parroquia Kennedy:** Santa Lucía Alta
-* **Parroquia San Isidro del Inca:** El Carmen
-
-La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
-
-Puedes consultar la **programación completa de cortes de agua** en Quito [aquí](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/").
-
-> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable este 22 de octubre de 2024 👉 [https://t.co/Py4LaIiiaz](https://t.co/Py4LaIiiaz)  
->   
-> Conoce si tu sector está afectado a través de:  
->   
-> 📲Mensaje al WhatsApp 096… [pic.twitter.com/BrZL9iLPNp](https://t.co/BrZL9iLPNp)
-> 
-> — Epmaps – Agua de Quito (@aguadequito) [October 22, 2024](https://twitter.com/aguadequito/status/1848747939734094054?ref_src=twsrc%5Etfw)
-
-Más de dos tercios de Cuba están conectados al sistema eléctrico, anuncia el Gobierno
-=====================================================================================
-
-Mientras en La Habana la cobertura ya es total desde el lunes, en Santiago de Cuba (este) es del 9 % y en Holguín (este) llega al 4,5 %.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Personas caminan por una calle del centro en La Habana (Cuba).](https://www.elcomercio.com/wp-content/uploads/2024/10/cuba-luz-efe.jpg)
-
-La estatal **Unión Eléctrica (UNE)** de Cuba informó este martes, 22 de octubre de 2024, que ya **más de dos tercios** de los clientes del país recuperó el servicio, aunque de **forma muy desigual** a lo largo del territorio, tras el **apagón total nacional** sufrido el pasado viernes, 18 de octubre de 2024[.](https://es.wikipedia.org/wiki/Cuba "https://es.wikipedia.org/wiki/Cuba")
-
-### Más noticias
-
-* [Solo un tercio de Cuba tiene energía eléctrica luego del apagón total](https://www.elcomercio.com/actualidad/solo-un-tercio-de-cuba-tiene-energia-electrica-luego-de-apagon-total.html "Solo un tercio de Cuba tiene energía eléctrica luego del apagón total")
-* [China rompe acuerdos con Cuba](https://www.elcomercio.com/actualidad/mundo/china-rompe-acuerdos-cuba.html "China rompe acuerdos con Cuba")
-* [Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava](https://www.elcomercio.com/actualidad/mundo/regimen-cubano-reporta-tercer-apagon-total-en-tres-dias-la-crisis-energetica-se-agrava.html "Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava")
-
-En su primer parte de la mañana la UNE, dependiente del **Ministerio de Energía y Minas** (Minem), indicó que a las 6:00 el **70,89 % de los clientes del país estaban ya conectados** a alguno de los dos grandes subsistemas que se crearon en el país en el proceso de **restauración del servicio eléctrico**.
-
-Por un lado, el subsistema articulado en el tercio oeste llegó a **Pinar del Río**, la **provincia más occidental,** aunque aún de forma muy limitada. Por el otro, se están **interconectando áreas** para alcanzar a la ciudad de **Santiago de Cuba** y enlazarla al subsistema oriental.
-
-Desigualdades regionales
-------------------------
-
-Las desigualdades regionales son, sin embargo, importantes, de acuerdo a las cifras de la UNE. Mientras en La Habana la cobertura ya es total desde el lunes por la tarde, en **Santiago de Cuba** (este) es del 9 % y en Holguín (este) apenas llega al 4,5 %.
-
-El director general de Electricidad del Minem, Lázaro Guerra, advirtió no obstante en la televisión estatal cubana de que la recuperación de la **conexión no implica que haya flujo eléctrico constante** y se superen los apagones, porque la capacidad de generación, igual que antes del **apagón total del viernes**, es insuficiente.
-
-“No va a haber **capacidad de generación** para la demanda”, aseguró Guerra, que avanzó que la UNE tendrá que volver a “manejar las cargas porque **no se puede suplir toda la demanda**“.
-
-Cuba sufre desde hace años una **crisis energética** que se había agravado en las últimas semanas por la carencia de combustibles -fruto de la **falta de divisas para importarlos**– y por las frecuentes averías en sus obsoletas centrales termoeléctricas, con **cuatro décadas de explotación** y un déficit crónico de inversiones.
-
-Precisamente una avería en una central clave, la Antonio Guiteras de Matanzas (oeste), este viernes pasado descompensó el **Sistema Eléctrico Nacional (SEN)** y generó el apagón total en el país del que ahora se está empezando a salir.
-
-En los días previos al apagón total se registraron t**asas máximas de afectación** superiores al 50 %, lo que significa que, en el momento de **mayor demanda** la mitad de los bombillos no encendían.
-
-Los **frecuentes apagones** dañan la economía cubana -que en 2023 **se contrajo un 1,9 %** y sigue por debajo de los niveles de 2019- y azuzan el **descontento social** en una sociedad afectada por una crisis económica agravada en los últimos años.
-
-Valentina Centeno habló sobre el juicio político a Mónica Palencia
-==================================================================
-
-La asambleísta de ADN, Valentina Centeno considera este proceso parte de una 'agenda de desestabilización' en contra del gobierno de Daniel Noboa.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Valentina Centeno en una rueda de prensa para hablar sobre el juicio a Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/centeno.jpg)
-
-La asambleísta de ADN, **Valentina Centeno** emitió declaraciones este martes 22 de octubre sobre el juicio político a la ministra de Gobierno, Mónica Palencia. Destacó que considera que este proceso parte de una **‘agenda de desestabilización**‘ en contra del gobierno de **Daniel Noboa**.
-
-### Más noticias
-
-* [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
-* [Juicio político contra Mónica Palencia al Pleno de la Asamblea esta semana](https://www.elcomercio.com/actualidad/politica/monica-palencia-juicio-politico-pleno-asamblea-esta-semana.html "Juicio político contra Mónica Palencia al Pleno de la Asamblea esta semana")
-* [Pleno de la Asamblea vota por el juicio a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/informe-juicio-politico-monica-palencia-llega-pleno-asamblea.html "Pleno de la Asamblea vota por el juicio a Mónica Palencia")
-
-Centeno se refirió a las acciones del presidente en **materia de seguridad**. Señaló que Noboa emprendió una **lucha frontal contra el narcoterrorismo**, la delincuencia organizada, la minería ilegal y otros actos de violencia en el país.
-
-Según Centeno, las acusaciones presentadas en el **juicio político** no se han probado, mientras que la gestión de Palencia demuestran **resultados positivos en la reducción de homicidio**s y delitos contra la propiedad.
-
-> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
-> La asambleísta [@ValenCenteno](https://twitter.com/ValenCenteno?ref_src=twsrc%5Etfw), acompañada de la [@BancadaADN](https://twitter.com/BancadaADN?ref_src=twsrc%5Etfw), asegura que el juicio político contra la ministra Mónica Palencia es una retaliación hacia el Gobierno, “este juicio inicia por intereses partidistas de la [@BancadaRC5](https://twitter.com/BancadaRC5?ref_src=twsrc%5Etfw) a raíz del caso de la Embajada de México,… [pic.twitter.com/WazfZ8YUQj](https://t.co/WazfZ8YUQj)
-> 
-> — Ecuadorinmediato (@ecuainm\_oficial) [October 22, 2024](https://twitter.com/ecuainm_oficial/status/1848750683555508534?ref_src=twsrc%5Etfw)
-
-“En solo 11 meses de gobierno, se han **reducido significativamente los homicidios, las muertes violentas** en nuestro país en un **17.5%**, lo cual ha sido reconocido por la **comunidad internaciona**l”, afirmó Centeno.
-
-Acusaciones de motivaciones políticas
--------------------------------------
-
-Centeno también acusó a la **bancada de la Revolución Ciudadana** de tener intereses partidistas tras el juicio político. Mencionó el caso de la **Embajada de México** como un factor detonante.
-
-Además, cuestionó la **imparcialidad del proceso**, calificándolo como “viciado” y apuntó directamente a la presidenta de la **Comisión de Fiscalización** por presuntas irregularidades.
-
-“Estaremos muy pendientes de lo que realicen las **demás bancadas y de su votación en el pleno**“, dijo Centeno. También aludió a la importancia de la decisión que tomará la Asamblea **respecto al juicio**.
-
-La asambleísta pidió a sus colegas que prioricen la **seguridad del país en lugar de respaldar una supuesta agenda de desestabilización**.
-
-Barcelona Sporting Club domina el XI ideal de la fecha 10
-=========================================================
-
-Barcelona SC jugará en la fecha 11 de la Liga Pro contra Delfín, nuevamente en el estadio Monumental.
------------------------------------------------------------------------------------------------------
-
-![Jugadores de Barcelona SC en el Clásico del Astillero en el Monumental en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ideal_1.jpg)
-
-**Barcelona Sporting Club** fue uno de los grandes ganadores de la fecha 10 de la segunda etapa de la Liga Pro, al derrotar a Emelec por 2-1 en una nueva edición del Clásico del Astillero.
-
-**Janner Corozo y Álex Rangel** anotaron los dos tantos con los que Barcelona Sporting Club volvió al triunfo en un Clásico del Astillero en el estadio Monumental, cortando una racha de cuatro años de no lograrlo.
-
-### Más noticias:
-
-* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
-* [Segundo Castillo marca supremacía en los Clásicos con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sc-segundo-castillo-emelec-historial-clasico-astillero.html "Segundo Castillo marca supremacía en los Clásicos con Barcelona SC")
-* [La Selección de Ecuador Femenina sub-17 a un paso de cuartos](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 a un paso de cuartos")
-
-El resultado le permitió a **Barcelona SC escalar a la sexta posición en la tabla de posiciones** de la segunda etapa con 16 puntos, mientras que en la acumulada se afianzó en la tercera casilla con con 47, con lo que está asegurando un cupo directo a la fase de grupos de la Copa Libertadores.
-
-Tras la victoria, la Liga Pro anunció en sus redes sociales que **Segundo Alejandro Castillo**, en su nuevo debut como entrenador de Barcelona, fue elegido como el mejor entrenador de la décima fecha.
-
-También dio a conocer que **Álex Rangel fue escogido como el mejor jugador** de toda la jornada, en gran parte por el gol del triunfo, pero también por la sobresaliente actuación que tuvo durante los 90 minutos.
-
-Este martes 22 se dio a conocer el **equipo ideal de la fecha 10**, con la presencia de tres jugadores de BSC, dos de Mushuc Runa, dos de Independiente del Valle, dos de Aucas, uno de El Nacional y uno de Liga de Quito.
-
-Los elegidos de la Liga Pro
----------------------------
-
-Barcelona aporta con **Rangel, Corozo y el uruguayo Jesus Trindade**, su capitán, en el XI ideal de la fecha 10.
-
-Los tres jugadores **fueron claves para ganar el Clásico del Astillero**, en un estadio Monumental que tuvo en sus gradas a más de 40 000 hinchas, pese al mal momento futbolístico de los amarillos en el torneo nacional.
-
-Otra de las grandes figuras es **Michael Carcelén, exjugador de BSC**, Emelec y El Nacional, que fue figura con Aucas en el triunfo 2-1 ante Macará, con un golazo al más puro estilo de Romário, que se caracterizaba por pegarle al balón con la punta de su pie.
-
-La delantera está liderada por el **colombiano Jeison Medina de IDV**, segundo goleador del torneo con 16 goles, cuatro menos que Álex Arce, delantero paraguayo de Independiente del Valle, con 20.
-
-XI ideal – fecha 10
--------------------
-
-Alexis Lemos (Cumbayá); Ángel Gracia (Mushuc Runa), Antonhy Bedoya (El Nacional), Álex Rangel (Barcelona SC) y Juan Cruz González (Aucas); **Jesús Trindade (Barcelona SC), Michael Carcelén (Aucas) y Patrik Mercado (Independiente del Valle)**; Lisandro Alzugaray (Liga de Quito), Janner Corozo (Barcelona SC) y Jeison Medina (Independiente del Valle).
-
-![Jeison Medina, delantero de Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/10/ideal_2-1024x683.jpg)
-
-Jeison Medina, delantero de Independiente del Valle.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Incendios forestales modifican el inicio de las fiestas de Quito
-================================================================
-
-El alcalde, Pabel Muñoz, informó sobre las actividades que se realizarán en Quito durante las fiestas capitalinas por los incendios forestales.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los incendios forestales de septiembre afectaron a miles de hectáreas de vegetación de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Fiestas-de-Quito-incendios-forestales.jpg)
-
-Los **incendios** **forestales** que afectaron a la capital de **Ecuador** en septiembre cambiaron el inicio de las **fiestas de Quito** en 2024[.](https://es.wikipedia.org/wiki/Incendio "https://es.wikipedia.org/wiki/Incendio")
-
-Más noticias
-------------
-
-* [La reforestación tras los incendios en Quito será paso a paso](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html "La reforestación tras los incendios en Quito será paso a paso")
-* [Indignación por quema de desechos donde ya hubo incendio en Quito](https://www.elcomercio.com/actualidad/quito/quito-desechos-bomberos-indignacion-tumbaco.html "Indignación por quema de desechos donde ya hubo incendio en Quito")
-* [Nuevo incendio por quema de desechos en Quito](https://www.elcomercio.com/actualidad/quito/incendio-quema-desechos-quito-bomberos.html "Nuevo incendio por quema de desechos en Quito")
-
-El alcalde **Pabel Muñoz** anunció la fecha del pregón de **fiestas**, que marca el comienzo de las **celebraciones** **capitalinas**, con una novedad importante.
-
-¿Cómo será el pregón de las fiestas de Quito?
----------------------------------------------
-
-El **pregón de fiestas de Quito** es una tradición en la capital, y este año se llevará a cabo el 24 de noviembre.
-
-Asimismo, además de los artistas que participan habitualmente, se organizará una actividad enfocada en ayudar a la recuperación de la ciudad tras los **incendios forestales**.
-
-Durante el programa del Municipio Frecuencia Quiteña, **Pabel Muñoz** afirmó que se priorizará la acción humana para la **recuperación ambiental de Quito.**
-
-De este modo, el Alcalde anunció un **plan de reforestación** como parte del programa Quito más verde que nunca, el cual se realizará conjuntamente con el **pregón**, para que así se inicien las **fiestas de la ciudad**.
-
-Hectáreas afectadas por los incendios forestales
-------------------------------------------------
-
-Pabel Muñoz informó que, debido a los incendios forestales registrados en 2024, se quemaron 1.963 hectáreas de vegetación en todo el **Distrito Metropolitano de Quito.**
-
-Por ello, el 24 de noviembre, fecha del pregón, se intervendrán 1 015 hectáreas con la siembra de 380 000 plantas.
-
-De esta manera, la meta del **Municipio** es sembrar 500 000 plantas, de las cuales 203 000 serán aportadas por el **cabildo** y 297 000 por el **sector** **privado**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendio-forestal-en-Quito-1024x683.jpg)
-
-12 incendios forestales ocurrieron en una semana en septiembre en Quito. Foto: Diego Pallero / EL COMERCIO.
-
-¿Por qué se reforestará en noviembre?
--------------------------------------
-
-**Muñoz** explicó que el proceso de **reforestación** no puede realizarse de manera inmediata tras los incendios, ya que, primero, es necesario esperar a que el suelo se enfríe, limpiar la zona y luego plantar.
-
-La jornada de **reforestación** se realizará en **forma de minga**, y la autoridad invitó, por lo tanto, a la **ciudadanía**, **empresas privadas** y a todos los habitantes de la capital a participar.
-
-Los sitios afectados que serán reforestados incluyen:
-
-* El Panecillo
-* Parque Guangüiltagua
-* San Enrique de Velasco
-* La Toglla
-* Santa Rosa
-* Carapungo
-* Guamaní Alto
-* Chilibulo
-* Perla Quiteña
-
-Convocatoria abierta para participar en los desfiles de la Confraternidad
--------------------------------------------------------------------------
-
-El **Municipio de Quito** anunció que, hasta el 24 de octubre, estarán abiertas las inscripciones para establecimientos educativos, instituciones públicas y privadas, organizaciones artísticas y culturales, asociaciones étnicas y grupos ciudadanos de Quito y de todo el Ecuador que deseen participar en los desfiles de la **Confraternidad**, para celebrar los 490 años de fundación de la ciudad.
-
-Las instituciones podrán inscribirse solo en uno de los tres desfiles de la **Confraternidad**, esto depende del territorio donde se encuentren. En caso de inscribirse en un distrito no correspondiente, el proceso será anulado automáticamente.
-
-Las temáticas de los trabajos a presentar deben estar relacionadas con tres ejes: Quito biodiverso, Quito ciudad de paz, y Quito intercultural. En este sentido,
-
-Desfiles por fiestas de Quito
+Un hombre con muchas pasiones
 -----------------------------
 
-* **Desfile nocturno Mascarada**: Se realizará en la avenida Amazonas el jueves 28 de noviembre, a las 18:00, con la participación de instituciones educativas correspondientes al distrito Centro.
-* **Sector norte**: Tendrá lugar en la avenida de los Shyris el sábado 30 de noviembre de 2024, a las 10:00, con la participación de instituciones educativas de los distritos Noroccidente, Calderón, La Delicia, Norte y Tumbaco.
-* **Sector sur**: Se realizará el domingo 1 de diciembre de 2024, a las 10:00, con la participación de instituciones educativas de los distritos Eloy Alfaro, Quitumbe y Los Chillos.
+Anteriormente, en mayo de 2023, El uruguayo **Diego Forlán arribó hacia Quito para disputar el PGA Tour Latinoamérica** en una nueva faceta como golfista. 
 
-Claudia Sheinbaum niega un ambiente de ‘guerra’ en el sur de México
-===================================================================
+Esa nueva experiencia no fue ajena para el charrúa, pues durante su carrera en el balompié también practicó otras disciplinas, aunque no de manera profesional. Primero encontró al tenis y luego al golf. 
 
-La presidenta de México, Claudia Sheinbaum, negó este martes, 22 de octubre de 2024, que exista un ambiente de “guerra civil” en Chiapas, estado de la frontera sur del país. Esto pese a las denuncias de habitantes indígenas por los asesinatos de defensores de la tierra y pueblos originarios, como el padre Marcelo Pérez Pérez. \[…\]
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hasta los 16 años se dedicó al deporte blanco a la par del fútbol, el cual practicaba en la inferiores de Danubio. Al momento de decidir, este optó por la actividad que lo volvería ídolo en **Uruguay** y figura del balompié mundial. 
 
-![Claudia Sheinbaum durante un discurso.](https://www.elcomercio.com/wp-content/uploads/2024/10/claudia-sheinbaum-discurso-efe.jpg)
+El **golf** lo descubrió en Inglaterra cuando fue traspasado hacia el **Manchester United**. Allí se inició en su práctica y, por precaución ante potenciales lesiones, le dio prioridad antes que el tenis. 
 
-La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/sheinbaum-dice-corresponde-fiscalia-decidir-nvestiga-gobernador-sinaloa.html "https://www.elcomercio.com/actualidad/mundo/sheinbaum-dice-corresponde-fiscalia-decidir-nvestiga-gobernador-sinaloa.html"), negó este martes, 22 de octubre de 2024, que exista un ambiente de **“guerra civil” en Chiapas,** estado de la frontera sur del país. Esto pese a las denuncias de habitantes indígenas por los **asesinatos de defensores de la tierra** y pueblos originarios, como el padre **Marcelo Pérez Pérez.**
+“**Me encantan todos lo deportes**, he tenido la posibilidad de jugarlos y es bueno que Ecuador y Quito tengan una exhibición de un torneo tan prestigioso. Ojalá continúe de tal manera y se abran en otros espacios de Latinoamérica”, sostuvo en una función de su vinculación con el golf y el certamen en el cual participará. 
 
-### Más noticias
+Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?
+================================================================================================
 
-* [Claudia Sheinbaum promete ‘buena relación’ con China](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html "Claudia Sheinbaum promete ‘buena relación’ con China ")
-* [Empresarios de EE.UU. anuncian inversiones a Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/empresarios-ee-uu-anuncian-inversiones-claudia-sheinbaum.html "Empresarios de EE.UU. anuncian inversiones a Claudia Sheinbaum")
-* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.")
+Aunque Cuenca registró lluvias esta tarde, la situación de los ríos de esta ciudad varió el fin de semana.
+----------------------------------------------------------------------------------------------------------
 
-“**No (hay una guerra)**, no lo creo, por la **información que tenemos**. Es importante trabajar para que no vuelva a ocurrir una situación así **(el homicidio del cura)** y que **no haya desplazamientos** y pacificar y evitar extorsiones y **delitos que se están presentando”** respondió a pregunta expresa en su conferencia diaria.
+![Etapa monitorea las lluvias y el caudal de los ríos en Cuenca.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-lluvias.jpg)
 
-El **Congreso Nacional Indígena (CNI)** alertó el lunes en un pronunciamiento de que, “a poco más de dos semanas de la presidencia de Claudia Sheinbaum, **Chiapas está en un escenario de guerra civil**” ante la violencia del **crimen organizado en la región**, que se disputa el **tráfico de drogas** y personas de la frontera sur de México.
+**Cuenca** registró **lluvias** la tarde de este martes 22 de octubre de 2024, pero la situación de sus **ríos** varió desde este fin de semana.
 
-Los pueblos originarios indicaron que el asesinato el domingo del **sacerdote Pérez Pérez**, indígena defensor de las comunidades, refleja la violencia que **padecen los pueblos originarios en la zona**, como el desplazamiento **forzado, homicidios y desapariciones forzadas**.
+La **Empresa Pública Municipal de Telecomunicaciones, Agua Potable, Alcantarillado y Saneamiento** (Etapa) realiza un monitoreo permanente del comportamiento climático en la capital azuaya.
 
-Pero la mandataria, quien asumió el 1 de octubre, aseveró que su **Gobierno “está trabajando”** y que ya se investiga el caso de Pérez Pérez, a quien balearon **sujetos desconocidos** en una motocicleta cuando acaba de dar misa en **San Cristóbal de Las Casas**.
+### Más noticias:
 
-“Quiero comentarles que en el **caso de la muerte del padre** ya se atrajo la investigación por parte de la Fiscalía General de la República”, mencionó sobre el sacerdote, cuyo sepelio es este martes.
+* [Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia](https://www.elcomercio.com/actualidad/ecuador/rio-cuenca-estiaje-sector-lluvia.html "Un río de Cuenca nuevamente entra en estiaje; un sector de la ciudad reportó lluvia")
+* [¿Cuántos días debe llover en Cuenca para superar la sequía?](https://www.elcomercio.com/actualidad/ecuador/cuantos-dias-llover-cuenca-superar-sequia.html "¿Cuántos días debe llover en Cuenca para superar la sequía?")
 
-Violencia en Chiapas
---------------------
+Las lluvias en Cuenca la tarde de este martes y su efecto en el caudal de los ríos que abastecen a las hidroeléctricas
+----------------------------------------------------------------------------------------------------------------------
 
-Las **comunidades indígenas** afines al **Ejército Zapatista de Liberación Nacional** (EZLN) se manifestarán este jueves para denunciar la violencia en Chiapas.
+Aunque Cuenca registró lluvias esta tarde, la situación de los **ríos** de esta ciudad empeoró el **fin de semana.**
 
-¿Quién fue Chuck Coleman, instructor de vuelo de Tom Cruise? 
-=============================================================
+A las 16:47, Etapa informaba que un frente de lluvia se aproximaba hacia la **zona oriental** del cantón Cuenca.
 
-El reconocido piloto acrobático falleció en un accidente aéreo durante un espectáculo en Nuevo México.
-------------------------------------------------------------------------------------------------------
+“Puede registrarse lluvias en diferentes puntos como **Capulispamba, Ucubamaba, Nulti, Paccha y El Descanso**“, señaló.
 
-![Chuck Coleman, ingeniero aeroespacial y experimentado piloto, acumuló más de 10 000 horas de vuelo. Foto: Instagram @chucktcoleman.](https://www.elcomercio.com/wp-content/uploads/2024/10/Chuck-Coleman.jpg)
+Más tarde, a las 17:33, se confirmó lluvia de **baja y moderada intensidad** en el centro y este de la ciudad.
 
-El mundo de la aviación y el cine se encuentra en duelo tras la trágica muerte de **[Charles Thomas ‘Chuck’ Coleman](https://www.instagram.com/chucktcoleman/?utm_source=ig_embed&ig_rid=9ea3a722-caea-4c22-a859-5deb113242c3 "https://www.instagram.com/chucktcoleman/?utm_source=ig_embed&ig_rid=9ea3a722-caea-4c22-a859-5deb113242c3")**, un destacado **piloto acrobático e instructor de vuelo**. 
+El fin de semana, también se dieron lluvias esporádicas en un **sector rural** de Cuenca y en otros cantones de Azuay como **Paute, Gualaceo y Guachapala**.
 
-### Más noticias
+Sin embargo, este mismo martes, a las 06:29, Etapa señaló que los ríos **Tomebamba y Yanuncay** están en **estiaje.**
 
-* [(Video) Muere Chuck Coleman, instructor de vuelo de Tom Cruise en ‘Top Gun: Maverick’](https://www.elcomercio.com/tendencias/entretenimiento/muere-chuck-coleman-instructor-de-vuelo-de-tom-cruise-en-top-gun-maverick.html "https://www.elcomercio.com/tendencias/entretenimiento/muere-chuck-coleman-instructor-de-vuelo-de-tom-cruise-en-top-gun-maverick.html") 
-* [‘Top Gun: Maverick’ bate récord de ventas en formato digital en EE.UU.](https://www.elcomercio.com/tendencias/entretenimiento/top-gun-maverick-tom-cruise-ventas-estados-unidos.html "https://www.elcomercio.com/tendencias/entretenimiento/top-gun-maverick-tom-cruise-ventas-estados-unidos.html")
+Mientras que los ríos **Machángara y Tarqui** están en estado bajo.
 
-Coleman, famoso por su papel como **instructor de vuelo para Tom Cruise en la aclamada película ‘Top Gun: Maverick’**, falleció el 20 de octubre de 2024, durante un espectáculo aéreo en **Las Cruces, Nuevo México**.  
+Hoy, son 102 días de **sequía hidrológica,** con el 50% de probabilidad de lluvia.
 
-Este accidente ha dejado una profunda huella en la **comunidad aeronáutica** y entre sus admiradores. 
-
-**Chuck Coleman: famosos instructor de vuelo** 
------------------------------------------------
-
-Nacido en Ludington, Michigan, **Coleman dedicó su vida a la aviación**. Se graduó como ingeniero en Aeroespacial y Mecánica, acumuló más de 10 000 horas de vuelo a lo largo de su carrera.  
-
-Su experiencia lo llevó a **realizar acrobacias** en cientos de espectáculos aéreos y a entrenar a numerosos pilotos, **incluido el elenco de ‘Top Gun: Maverick’**, donde realizó más de 100 vuelos para preparar a los actores para **volar aviones F-18 Hornet** de la Marina de los Estados Unidos, según informa [El Mundo](https://www.elmundo.es/cultura/2024/10/22/67178fbbe9cf4a1e708b457a.html "https://www.elmundo.es/cultura/2024/10/22/67178fbbe9cf4a1e708b457a.html").  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C41eG5lP9dq/?utm_source=ig_embed&utm_campaign=loading)
+> [#Caudales](https://twitter.com/hashtag/Caudales?src=hash&ref_src=twsrc%5Etfw) | Los ríos Tomebamba y Yanuncay en estiaje. Río Machángara y Tarqui en estado bajo.  
+>   
+> Hoy:  
+>   
+> 👉 102 días de sequía hidrológica.  
+> 👉 50% probabilidad de lluvia.  
+>   
+> 🌡️ Temperatura bordeará los 27°.[#UnaManoPorElAgua](https://twitter.com/hashtag/UnaManoPorElAgua?src=hash&ref_src=twsrc%5Etfw)🤜🏻💦[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [@MunicipioCuenca](https://twitter.com/MunicipioCuenca?ref_src=twsrc%5Etfw) [pic.twitter.com/1geTNFXYNb](https://t.co/1geTNFXYNb)
 > 
-> [Una publicación compartida de Chuck Coleman (@chucktcoleman)](https://www.instagram.com/reel/C41eG5lP9dq/?utm_source=ig_embed&utm_campaign=loading)
+> — ETAPA EP (@ETAPAOficial) [October 22, 2024](https://twitter.com/ETAPAOficial/status/1848688172189860119?ref_src=twsrc%5Etfw)
 
-**El accidente fatal** 
------------------------
+Según el coordinador de la Red Hidrometereológica de Etapa, Rigoberto Guerrero, se requiere que, al menos, llueva durante 10 o 15 días para que el suelo pueda mojarse, saturarse y producir escorrentía. Es decir, que el agua llegue a los cauces de los ríos.
 
-El accidente ocurrió aproximadamente a las 14:30 del domingo durante la **Expo Aeroespacial en el Aeropuerto Internacional de Las Cruces**. Coleman era el único ocupante del **avión Extra Flugzeugbau EA300**, una aeronave diseñada para acrobacias, que s**e estrelló mientras realizaba maniobras acrobáticas**, de acuerdo con revista [Hola!](https://www.hola.com/actualidad/20241022725583/muere-el-instructor-de-vuelo-de-tom-cruise-en-top-gun/ "https://www.hola.com/actualidad/20241022725583/muere-el-instructor-de-vuelo-de-tom-cruise-en-top-gun/") 
-
-**Información de las autoridades** 
------------------------------------
-
-Las autoridades locales han confirmado que **el espectáculo aéreo fue cancelado inmediatamente después del incidente**. La **Policía Estatal de Nuevo México**, junto con la **Administración Federal de Aviación** (FAA) y la **Junta Nacional de Seguridad en el Transporte** (NTSB), llevan a cabo una investigación exhaustiva sobre las circunstancias que rodearon el accidente, a decir de [Los 40](https://los40.com/2024/10/22/muere-chuck-coleman-el-instructor-de-vuelo-de-tom-cruis-para-top-gun-maverick-en-un-accidente-aereo/ "https://los40.com/2024/10/22/muere-chuck-coleman-el-instructor-de-vuelo-de-tom-cruis-para-top-gun-maverick-en-un-accidente-aereo/"). 
-
-El alcalde de Las Cruces, **Eric Enriquez**, expresó sus condolencias a los seres queridos y admiradores de Coleman, y destacó su impacto en la comunidad. 
-
-**Un legado perdurable** 
--------------------------
-
-**Chuck Coleman** no solo fue un piloto excepcional, sino también un mentor para muchos. Su dedicación al **arte del vuelo acrobático** lo convirtió en una **figura respetada** dentro y fuera del cine. Su trabajo en **‘Top Gun: Maverick’** no solo ayudó a los actores a **aprender sobre la aviación militar**, sino que también brindó **autenticidad a las escenas aéreas** que cautivaron al público, según [Infobae](https://www.infobae.com/estados-unidos/2024/10/22/murio-el-instructor-de-vuelo-de-tom-cruise-en-un-accidente-aereo-su-avion-se-estrello-en-un-show-de-acrobacias/ "https://www.infobae.com/estados-unidos/2024/10/22/murio-el-instructor-de-vuelo-de-tom-cruise-en-un-accidente-aereo-su-avion-se-estrello-en-un-show-de-acrobacias/"). 
-
-A lo largo de su carrera, **Coleman participó en más de 3 000 vuelos** en aeronaves acrobáticas, lo que demuestra su pasión y compromiso con el vuelo, de acuerdo con [Telecinco](https://www.telecinco.es/noticias/sociedad/20241022/muere-chuck-coleman-instructor-vuelo-tom-cruise-top-gun-maverick_18_013787791.html "https://www.telecinco.es/noticias/sociedad/20241022/muere-chuck-coleman-instructor-vuelo-tom-cruise-top-gun-maverick_18_013787791.html").  
-
-**Reacciones y tributos** 
---------------------------
-
-La noticia del fallecimiento de Chuck Coleman ha generado una ola de tributos desde diversas partes del mundo. **Muchos colegas y amigos han compartido sus recuerdos y experiencias con él en redes sociales**. La comunidad aeronáutica ha expresado su tristeza por la pérdida de un pionero que inspiró a muchos con su valentía y habilidades excepcionales 
-
-Además, los aficionados al cine han recordado su contribución al éxito de ‘Top Gun: Maverick’, una película que **revitalizó la pasión por la aviación entre las nuevas generaciones**. Las imágenes impactantes y las maniobras audaces que se mostraron en la película son testimonio del talento y dedicación que Coleman aportó al proyecto. 
-
-Expresidente de Abercrombie, arrestado por explotación sexual de jóvenes
-========================================================================
-
-Los cargos indican que jóvenes eran presuntamente obligados a usar drogas y realizar actos sexuales a cambio de ser modelos
----------------------------------------------------------------------------------------------------------------------------
-
-![El ex CEO de Abercrombie fue detenido en EE.UU. este martes 22 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/abercrombie.jpg)
-
-Este martes 22 de octubre de 2024, el FBI arrestó al exdirector ejecutivo de la conocida empresa de moda **Abercrombie & Fitch**, Mike Jeffries, donde trabajó entre 1992 y 2014. Además, arrestó a otros dos hombres involucrados.
-
-### Más noticias
-
-* [Mujeres alquilaban a sus hijas por 5 dólares, en Sangolquí](https://www.elcomercio.com/actualidad/seguridad/mujeres-alquilaban-a-sus-hijas-por-5-dolares-sangolqui.html "Mujeres alquilaban a sus hijas por 5 dólares, en Sangolquí")
-* [(Video) Muere Chuck Coleman, instructor de vuelo de Tom Cruise en ‘Top Gun: Maverick’](https://www.elcomercio.com/tendencias/entretenimiento/muere-chuck-coleman-instructor-de-vuelo-de-tom-cruise-en-top-gun-maverick.html "(Video) Muere Chuck Coleman, instructor de vuelo de Tom Cruise en ‘Top Gun: Maverick’ ")
-* [Javier Milei, el Rey de España y otras autoridades visitarán Ecuador](https://www.elcomercio.com/actualidad/politica/javier-milei-rey-espana-autoridades-visitaran-ecuador.html "Javier Milei, el Rey de España y otras autoridades visitarán Ecuador")
-
-El presunto abuso a los jóvenes
--------------------------------
-
-Los cargos son por **explotar y abusar sexualmente** a hombres jóvenes a los que atraían con la propuesta de convertirlos en **modelos para la compañía**, según señalan los medios.
-
-El presunto **abuso de los jóvenes**, a los que al parecer obligaban a **usar drogas y realizar actos sexuales**, ocurrió en Estados Unidos y otros países. Esto, de acuerdo con un**a querella p**resentada por las víctimas hace un año e investigada por la **Fiscalía federal** para el Distrito Este de Nueva York.
-
-Los otros dos arrestados están identificados como **Matt Smitt, de Florida, y pareja de Jeffries**, y Jim Jacobson, de Wisconsin, quien presuntamente reclutaba a los jóvenes. La Policía los detuvo a ambos en sus respectivos estados.
-
-Su relación con Abercrombie
----------------------------
-
-Jeffries, quien llevó a **Abercrombie** de ser una tradicional marca de ropa en Ohio a una poderosa marca enfocada en los adolescentes, ha sido acusado antes en demandas civiles de explotar a hombres jóvenes con fines sexuales en fiestas que organizaba en su propiedad de los Hamptons, en Nueva York, y en ciudades europeas como Venecia o Londres.
-
-El exdirector ejecutivo de **Abercrombie** se retiró de la empresa con un paquete de jubilación de más de 25 millones de dólares, de acuerdo con el **documento legal citado** por los medios.
-
-Los arrestos se producen un año después de que la **BBC publicara** un informe que denunciaba que Jeffries explotaba a hombres en fiestas sexuales que organizaba.
-
-El artículo citaba a **12 hombres que dijeron haber asistido** u organizado eventos que incluían actos sexuales para el ahora exdirectivo de **Abercrombie y su pareja Smith**, recuerda la cadena NBC.
-
-La [empresa](https://es.wikipedia.org/wiki/Abercrombie_%26_Fitch "https://es.wikipedia.org/wiki/Abercrombie_%26_Fitch") ha contratado un **bufete de abogados** para realizar su propia investigación de las acusaciones.
-
-Mexicanos comienzan a colocar enormes altares para celebrar el Día de Muertos
+Selección de Ecuador Femenina Sub-17 clasificó a cuartos de final del Mundial
 =============================================================================
 
-Se trata de figuras gigantes elaboradas de manera artesanal en diferentes técnicas de cartonería.
--------------------------------------------------------------------------------------------------
+En su primera participación en un Mundial de esta categoría, la selección femenina sub-17 de Ecuador hace historia al avanzar a los cuartos de final.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Fotografía del 19 de octubre de 2024 de un hombre disfrazado de catrín frente a una mega ofrenda de Día de Muertos, en la antigua Hacienda San Mateo del municipio de Atlixco (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/dia-muertos-mexico-efe.jpg)
+![La Selección de Ecuador Femenina Sub-17 clasificó a los cuartos de final del Mundial.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-22T194540.240.jpg)
 
-Los mexicanos comenzaron a colocar **enormes altares** y ofrendas para el [Día de Muertos](https://www.elcomercio.com/actualidad/mundo/america-latina-dia-muertos-pandemia.html "https://www.elcomercio.com/actualidad/mundo/america-latina-dia-muertos-pandemia.html"), uno de los **festejos más emblemáticos** del país, donde el 1 y 2 de noviembre se celebra la muerte y la memoria de los difuntos.
+La Selección de **Ecuador Femenina Sub-17 goleó 4-0 a Nueva Zelanda** en la última jornada de la fase de grupos del Mundial Femenino Sub-17, que se disputa en República Dominicana. Gracias a este triunfo, la ‘Tri’ femenina **logró clasificar a los cuartos de final.**
 
-### Más noticias
+El equipo ecuatoriano finalizó en el segundo lugar del Grupo A con seis puntos, tras dos victorias: una ante República Dominicana, el anfitrión, y otra ante **Nueva Zelanda**. La única derrota fue contra Nigeria.
 
-* [América Latina vivió un Día de los Muertos pleno, sin pandemia](https://www.elcomercio.com/actualidad/mundo/america-latina-dia-muertos-pandemia.html "https://www.elcomercio.com/actualidad/mundo/america-latina-dia-muertos-pandemia.html")
-* [¿Qué se celebra en el Día de Todos los Santos y Día de los Difuntos?](https://www.elcomercio.com/tendencias/entretenimiento/celebracion-dia-santos-muertos-altares.html "https://www.elcomercio.com/tendencias/entretenimiento/celebracion-dia-santos-muertos-altares.html")
-* [Célebre chef evoca a Chespirito para celebrar el Día de los Muertos](https://www.elcomercio.com/tendencias/entretenimiento/chef-washington-chespirito-dia-muertos.html "https://www.elcomercio.com/tendencias/entretenimiento/chef-washington-chespirito-dia-muertos.html")
+### Más noticias:
 
-Uno de los más llamativos es la primera ‘**megaofrenda boutique**‘. Se trata de figuras gigantes elaboradas de manera artesanal en **diferentes técnicas de cartonería**, que se colocó en la **antigua Hacienda San Mateo en el municipio de Atlixco,** en el céntrico estado de Puebla.
+* [La Selección de Ecuador Femenina sub-17 a un paso de cuartos](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 a un paso de cuartos")
+* [¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?](https://www.elcomercio.com/deportes/hora-ecuador-nigeria-mundial-sub-17.html "¿A qué hora juega la Selección de Ecuador Femenina Sub-17 ante Nigeria?")
+* [La Selección de Ecuador Femenina sub-17 fue sorprendida con una carta](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-sub17-carta.html "La Selección de Ecuador Femenina sub-17 fue sorprendida con una carta")
 
-Elementos con frutas
---------------------
+Debido a que el torneo cuenta con pocas selecciones, las dos mejores de cada grupo avanzan directamente a los cuartos de final. El próximo rival de la selección ecuatoriana será **España**, líder del Grupo B.
 
-Esta ofrenda contiene los **elementos esenciales** de un altar tradicional de **Día de Muertos en México**, con frutas como **mandarinas, plátanos, cañas, tejocotes y peras, y dulces típicos** llamados alfeñiques en forma de borregos, únicos de temporada.
+Ecuador y España se **enfrentarán el domingo 27 de octubre**, a las 14:30 (hora de Ecuador), en el Estadio Olímpico Félix Sánchez.
 
-Asimismo, hay **papel picado de colores** y cientos de **macetas de cempasúchil** o ‘flor de muerto’, que se cosechan en Atlixco. Es un reconocido como un **‘pueblo mágico’** por el Gobierno de México al ser un tradicional punto de cultivo de esta planta.
-
-Para hacer extraordinaria la ofrenda en Atlixco, los visitantes pueden solicitar que la **fotografía de sus familiares** o mascotas que ya fallecieron se proyecten en una pantalla colocada en el **nivel más alto** de la ofrenda.
-
-Omar Rangel, coordinador de la ‘megaofrenda’, explicó este lunes que esta idea surgió con el sueño contribuir a mantener viva la tradición del **Día De Muertos**. El objetivo es mostrar los elementos que contiene una ofrenda, como los **objetos que gustaban en vida a los difuntos.**
-
-Gustos clásicos de mexicanos
-----------------------------
-
-“Los gustos más **clásicos de todos los mexicanos**, que pueden ser los cigarritos, la **fruta**, unos cerillos… jugamos un poco con la **nostalgia de la gente**“, detalló.
-
-El elemento más representativo es la **cruz de 4 metros** de alto elaborada con pan tradicional ‘cachetona’ del municipio de Tochimilco, que cuenta con detalles en la masa que la hacen parecer madera tallada.
-
-También aparece una imagen de un **perro Xoloitzcuintle**, considerado por los indígenas prehispánicos como el acompañante de las almas durante su paso por el Mictlán o inframundo.
-
-“Es importante **jugar con estas emociones** y poder llegar al corazón de las personas por medio de estos elementos, como son los **cigarros Faro,** que nos recuerdan a los abuelitos, a los tíos o al primo que ya no está con nosotros, entonces son una manera de recordarlos”, describió Rangel.
-
-La tradición marca que el **1 y el 2 de noviembre** es el tiempo en el que las almas de los parientes fallecidos regresan a casa para **convivir con los familiares vivos**, guiados por las velas y un camino de pétalos de cempasúchil, y para nutrirse de la esencia del alimento que se les ofrece en los **altares u ofrendas.**
-
-Noveno día de protestas en Bolivia
-==================================
-
-También hay dos bloqueos en la región andina de Oruro, uno en la vecina Potosí y otro en Santa Cruz.
-----------------------------------------------------------------------------------------------------
-
-![Fotografía de un letrero durante una protesta por el alza de precios en la carne, en La Paz (Bolivia).](https://www.elcomercio.com/wp-content/uploads/2024/10/bolivia-protetas-noveno-efe.jpg)
-
-Los seguidores del expresidente de Bolivia Evo Morales (2006-2019) cumplen este martes, 22 de octubre de 2024, **nueve días de bloqueos de carreteras**, en especial en el **centro del país**. Mientras tanto la Policía boliviana ejecutó operativos en algunas zonas para intentar **despejar los cortes de rutas**.
-
-### Más noticias
-
-* [En Bolivia se impulsa el primer ‘Huerto Smart’](https://www.elcomercio.com/actualidad/mundo/produccion-sostenible-alimentos-tecnologia-primer-huerto-smart-bolivia.html "En Bolivia se impulsa el primer ‘Huerto Smart’")
-* [En Bolivia no hay tregua y mantienen por cuarto día bloqueos de carreteras](https://www.elcomercio.com/actualidad/mundo/bolivia-tregua-mantienen-cuarto-dia-bloqueos-carreteras.html "En Bolivia no hay tregua y mantienen por cuarto día bloqueos de carreteras")
-
-Según el más reciente reporte de transitabilidad de la estatal **Administradora Boliviana de Carreteras (ABC),** en la región central de Cochabamba hay 16 puntos de **bloqueo. Están instalados** mayormente en una de las **principales rutas** troncales que **unen el oriente** y el occidente del país, y en otra que va hacia el departamento sureño de Chuquisaca.
-
-También hay dos bloqueos en la **región andina de Oruro**, uno en la vecina Potosí y otro en Santa Cruz, el departamento más poblado considerado el **motor económico del país**.
-
-Nuevo bloqueo con piedras y neumático
+Ecuador le pasó por encima a su rival
 -------------------------------------
 
-En la madrugada, un grupo de manifestantes instaló un **nuevo bloqueo con piedras y neumáticos** en desuso en el **municipio de Vint**o. Está a menos de **20 kilómetros de la ciudad de Cochabamba,** la capital de la región homónima.
+Durante el primer tiempo, **Ecuador** fue una avalancha de fútbol ofensivo. Dominó por completo, pero careció de puntería y eficacia en sus llegadas al área, lo que impidió que se abriera el marcador en los primeros minutos.
 
-Horas después llegó un **contingente policial** que logró la **circulación de vehículos** por un carril de la vía, tras dialogar con los dirigentes.
+Finalmente, a los 40 minutos, la Selección Femenina Sub-17 de Ecuador rompió el cero con una gran jugada colectiva. Tras recuperar el balón en el área rival, **Caprice Chiuchiolo** asistió a **Doménica** **Arboleda**, quien definió con clase para poner el 1-0.
 
-Protestas en la próximas horas
-------------------------------
+Solo dos minutos después, Ecuador amplió la ventaja. En esta ocasión, Caprice Chiuchiolo fue la encargada de marcar el segundo tanto. La número 13 disparó desde el sector derecho, y con algo de ayuda de la arquera rival, logró el 2-0.
 
-Los agentes emplearon una **pala mecánica para despejar el paso**, aunque los manifestantes advirtieron con retomar la protesta en las próximas horas.
+En la segunda mitad, Ecuador mantuvo el control total del partido. Las ecuatorianas continuaron siendo agresivas en ataque, mientras que Nueva Zelanda, sin reacción, se replegaba sin mostrar intenciones de **contragolpear**.
 
-También hubo una intervención policial en el bloqueo en Puente Ichilo, una localidad situada en Santa Cruz, en el límite con Cochabamba.
+A los 74 minutos, Caprice **Chiuchiolo** s**elló su doblete y la victoria definitiva**. En una jugada individual, la figura del partido regateó a varias rivales antes de disparar desde fuera del área, superando por completo a la guardameta neozelandesa y marcando el 3-0 final.
 
-Policías y un grupo de jóvenes llegaron hasta el lugar e hicieron **retroceder a los bloqueadores** hasta el pueblo vecino de Bulo Bulo, en Cochabamba.
+En el ocaso del partido, **Dariana Morán** concretó la goleada, con un potente remate para el 4-0.
 
-Gas lacrimógeno a manifestantes
--------------------------------
+La MLS transmitirá a Lionel Messi en TikTok
+===========================================
 
-Los agentes lanzaron **gas lacrimógeno** a los manifestantes, que respondieron con pedradas y detonaciones de petardos hasta lograr que la Policía retorne a **Puente Ichilo.**
-
-Medios locales señalaron que los jóvenes que iban con los agentes pertenecen a la Unión Juvenil Cruceñista, un grupo ciudadano de **jóvenes de Santa Cruz**. El expresidente Morales los tildó de “paramilitares” en una publicación en X, en la que también destacó que el **desbloqueo “fracasó”** por la acción de sus seguidores.
-
-“Estamos frente a un Gobierno insensible, **represor, abusivo e inhumano**. No le tiembla el pulso al momento de atacar a quienes lucharon por la democracia. **Duele mucho ser testigo de esto**“, escribió el también líder del gubernamental Movimiento al Socialismo (MAS) que está distanciado del Gobierno de Luis Arce.
-
-Los sectores oficialistas afines a Morales bloquean **carreteras desde el pasado** lunes ante una posible orden de captura en su contra. Esto por un caso de **trata de personas** y estupro por la supuesta **“violación” de una menor** con la que habría tenido un hijo cuando era **presidente del país**.
-
-También reclaman al Gobierno soluciones a la **escasez de dólares** y combustibles, y al encarecimiento de algunos alimentos, problemas que se **agudizaron como consecuencia** de los bloqueos.
-
-Renuncia de Arce
-
-En la víspera, los manifestantes amenazaron con que los bloqueos persistirán hasta lograr la **renuncia de Arce** y el adelanto de las **elecciones generales previstas para 2025**, en las que también quieren que Morales sea candidato.
-
-Desde que se conoció el proceso de investigación en la Fiscalía, Morales no salió del Trópico de Cochabamba, su bastión sindical y político que está custodiado por sus seguidores.
-
-El conflicto y la denuncia contra el exgobernante se dan en medio de la pugna interna entre Arce y Morales por el control del MAS y el Ejecutivo, y por la definición de la **candidatura presidencial para 2025**.
-
-Lionel Messi, Bad Bunny y un emocionante encuentro
-==================================================
-
-Lionel Messi y Bad Bunny se juntaron para presentar una nueva línea de botines y lo hicieron con un conmovedor video.
----------------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi y Bad Bunny en su colaboración.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-22T104612.983.jpg)
-
-**Lionel Messi**, futbolista del **Inter de Miami** y uno de los mejores jugadores de la historia, se juntó con Bad Bunny, destacado compositor. El argentino y el puertorriqueño realizaron una colaboración para presentar unos nuevos botines de sus auspiciantes.
-
-Mediante una galería de fotos entre los referentes deportivos y musicales y un video entre ambos, tres tipos de zapatillas fueron anunciadas. En la pieza audiovisual se destacó la **trascendencia** de los dos personajes en sus campos.
-
-### Más noticias:
-
-* [Lionel Messi iguala récord por ganar premios en la MSL](https://www.elcomercio.com/deportes/lionel-messi-record-premios-mls.html "Lionel Messi iguala récord por ganar premios en la MSL")
-* [Lionel Messi y Leonardo Campana estarán en el Mundial de Clubes](https://www.elcomercio.com/deportes/lionel-messi-leonardo-campana-mundial-clubes.html "Lionel Messi y Leonardo Campana estarán en el Mundial de Clubes")
-* [Lionel Messi gana un nuevo premio basado en su figura](https://www.elcomercio.com/deportes/lionel-messi-trofeo-premio-marca.html "Lionel Messi gana un nuevo premio basado en su figura")
-
-En la grabación, los **dos participantes** se situaron en una sala junto a cartas enviadas por sus seguidores. Durante el transcurso del video, estos leen una de las misivas, en la cual se pondera su trayectoria e impacto, y alternan su voz.
-
-“Este país no sería el mismo si hubiera nacido en otro. Tuvimos suerte, mucha suerte. Cada año nacen 130 millones de personas y como tú, seguro no volverá a nacer nadie más. Dicen que llenaste cientos de estados, solo para llevar nuestra bandera a lo más alto. **Talento tienen muchos, pero mantenerse tantos años en la cima es para muy pocos (…) Por todo esto te llevamos en el corazón**“, dice un fragmento del video.
-
-A lo largo del audiovisual también se muestran imágenes de **Messi** en los terrenos de juego y con la Selección de Argentina y de Bad Bunny en los escenarios. A su vez, en las tomas se incluyen a los fanáticos de ambos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBY4QnPNACk/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de adidas Football (@adidasfootball)](https://www.instagram.com/reel/DBY4QnPNACk/?utm_source=ig_embed&utm_campaign=loading)
-
-Los nuevos botines de Lionel Messi con Bad Bunny
-------------------------------------------------
-
-Dentro de los tres pares de zapatillas que lanzaron **Lionel Messi y Bad Bunny**, una está diseñada para la actividad futbolística y las dos restantes son casuales. En dos de ellas predomina el color marrón y en otra el café oscuro.
-
-Los zapatos de fútbol obedecen al modelo **F-50** y el color principal es el marrón. Uno de los pares cuenta con tres rayas y detalles celestes, al interior y al exterior, mientras que el otro tiene las mismas características, pero blancas.
-
-Con respecto a los demás **botines**, uno es marrón y cuenta con las tres franjas diagonales blancas. El último se diferencia por el café oscuro y la variante de detalles y de horma.
-
-¿Cuándo estrenará Messi sus zapatos?
-------------------------------------
-
-**Lionel Messi** podrá estrenar los botines de fútbol en su siguiente partido con el Inter de Miami, donde también milita **Leonardo Campana**. Tras finalizar como líder de su conferencia y romper el récord de puntos, el equipo del argentino se clasificó hacia los playoffs nacionales, donde arrancará desde las semifinales debido a su posición.
-
-El sábado **2 de noviembre del 2024** será el estreno del elenco flamingo en el penúltimo partido del torneo estadounidense. La escuadra aún espera por sus rivales.
-
-‘Diddy’ suma una nueva denuncia escalofriante
-=============================================
-
-La denunciante mencionó a dos celebridades.
--------------------------------------------
-
-!['Diddy' suma una nueva denuncia. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-22T114029.451.jpg)
-
-Una nueva denuncia contra el rapero **estadounidense Sean ‘Diddy’ Combs** salió a la luz, sumándose a las más de un centenar de acusaciones de abusos sexuales que enfrenta.
-
-Más noticias:
-
-* [Seis nuevas demandas contra Sean ‘Diddy’ Combs impactan](https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-demandas-abuso-sexual.html "https://www.elcomercio.com/tendencias/trending/sean-diddy-combs-demandas-abuso-sexual.html")
-* [La obsesión de Diddy por los príncipes William y Harry](https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html "https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html")
-* [¿Quién es Diddy?](https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html "https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html")
-
-**¿Dónde está ‘Diddy’?**
-------------------------
-
-**Sean ‘Diddy’ Combs,** actualmente bajo custodia federal, enfrenta cargos de conspiración, crimen organizado, tráfico sexual y transporte para ejercer la prostitución, a los cuales se ha declarado no culpable.
-
-El juicio está programado para comenzar el 5 de mayo de 2025 en Nueva York y podría extenderse durante un mes, con la posibilidad de que se presenten más cargos.
-
-La magnitud de este caso podría marcar un nuevo capítulo en las denuncias de abuso en el ámbito musical, similar al movimiento #MeToo que surgió en 2017.
-
-**‘Diddy’ suma una nueva denuncia escalofriante**
--------------------------------------------------
-
-La demandante, que mantiene su identidad en el anonimato, alega que fue **drogada** y violada por el cantante en presencia de “dos famosos” en 2000. En ese entonces solo tenía 13 años.
-
-Según documentos judiciales recientes, el incidente ocurrió el 7 de septiembre de 2000, durante la ceremonia de los premios MTV en Radio City Hall, Nueva York.
-
-La denunciante relata que intentaba infiltrarse en la fiesta y se acercó a las limusinas de los artistas. Un chófer, supuestamente empleado de **Combs**, la invitó a una fiesta privada tras describirla como “del tipo de lo que **Diddy** buscaba”. Pero, antes de asistir, le solicitaron firmar un acuerdo de confidencialidad.
-
-Una vez en la fiesta, la mujer afirma que ingirió una bebida y comenzó a sentirse mareada. Se retiró a una habitación vacía, donde más tarde se encontró con **Combs** y dos celebridades no identificadas.
-
-Según su relato, ambos hombres la violaron mientras la mujer presente observaba. La denunciante señaló que la fiesta estaba marcada por el consumo de drogas como cocaína.
-
-Desde entonces, la mujer sufre una profunda depresión que impacta cada aspecto de su vida. Por su parte, la defensa de **Combs** calificó la acusación de “oportuna” y pidió que se revele la identidad de la denunciante para poder defenderse adecuadamente.
-
-Ministro de Defensa asegura que 34 países apoyan la lucha contra el crimen organizado
-=====================================================================================
-
-Bloque de Seguridad incluye cooperación de varios países entre las medidas contra el crimen organizado.
+Lionel Messi es el goleador histórico del Inter Miami con 33 goles. Leonardo Campana es segundo con 32.
 -------------------------------------------------------------------------------------------------------
 
-![El ministro de Defensa Nacional, Gian Carlo Loffredo, en rueda de prensa, con otras autoridades del Bloque de Seguridad.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ministro-de-Defensa.jpg)
+![Lionel Messi celebra un gol con el Inter Miami en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/messi_tik_tok_1.jpg)
 
-El **Bloque de Seguridad** dio un nuevo informe sobre las acciones contra la inseguridad en Ecuador. Uno de los datos cruciales se refiere a los países que respaldan la lucha contra el crimen organizado[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+Un día después de ganar el premio al mejor jugador de la semana en la MLS, **Lionel Messi, delantero del Inter Miami**, también se llevó el galardón al mejor futbolista de octubre en la liga estadounidense.
 
-Las autoridades de las **Fuerzas Armadas** y la [**Policía** **Nacional**](https://www.policia.gob.ec/) dieron el reporte este martes, 22 de octubre de 2024.
-
-### Más noticias
-
-* [Bloque de Seguridad informó avances en las operaciones en varias provincias](https://www.elcomercio.com/actualidad/seguridad/bloque-seguridad-informo-avances-operaciones.html "Bloque de Seguridad informó avances en las operaciones en varias provincias")
-* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
-* [Operativos en Durán y Manta se realizan ante la inseguridad](https://www.elcomercio.com/actualidad/seguridad/operativos-duran-manta-inseguridad.html "Operativos en Durán y Manta se realizan ante la inseguridad")
-
-> ¡Si el problema del narcotráfico es transnacional, la cooperación debe ser transnacional! 💪🏻  
->   
-> ➡️El ministro de Defensa Nacional, Gian Carlo Loffredo, destacó en [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw):  
->   
-> ✅34 países americanos apoyarán a Ecuador en la lucha contra el crimen organizado.  
->   
-> ✅Bases… [pic.twitter.com/SXOvdXw94s](https://t.co/SXOvdXw94s)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 22, 2024](https://twitter.com/DefensaEc/status/1848736558159172082?ref_src=twsrc%5Etfw)
-
-Países respaldarán a Ecuador frente al crimen organizado
---------------------------------------------------------
-
-El ministro de Defensa, **Gian Carlo Loffredo**, dijo que, si el problema del **narcotráfico** es transnacional, la cooperación debe ser en la misma línea.
-
-**Gian Carlo Loffredo** indicó que 34 países, incluido Ecuador, están unidos en la lucha contra el crimen organizado.
-
-Según el funcionario, la cooperación se ratificó en la **Conferencia de Ministros de Defensa de América**, a la que asistió la semana pasada. **“Somos 34 países que estamos de acuerdo con apoyarnos en el tema del crimen organizado”**.
-
-El Ministro informó que en el encuentro se definió trazar hojas de ruta. Entre los puntos acordados está el intercambio de información entre fuerzas de inteligencia y la capacitación al personal militar.
-
-Un mensaje a la Asamblea
-------------------------
-
-A la par, el funcionario envió un mensaje a los 137 asambleístas para dar paso a la reforma a la Constitución propuesta por el **presidente Daniel Noboa. Con esta se daría paso al trámite** para permitir la operación de bases militares extranjeras en Ecuador.
-
-De paso, **Gian Carlo Loffredo** se refirió al juicio político a la ministra del Interior, **Mónica Palencia**, que se desarrolla en el Legislativo. “Equipo ganador debe quedar en cacha”. Dejó claro que toda decisión en el Pleno debe tener un fin social más que político.
-
-Detalles desde la Policía
--------------------------
-
-Como parte de las acciones y resultados del **Bloque de Seguridad**, la Policía reportó que, en Durán, este 21 de octubre, **13 personas fueron aprehendidas** durante la operación Tormenta 3.
-
-Las labores incluyeron **allanamientos** en inmuebles que eran utilizados como centro de operaciones de grupos armados organizados.
-
-En el balance también se recordó la presentación de **288 servidores policiales** que conformarán las cápsulas de seguridad para los **binomios presidenciales** en las elecciones 2025.
-
-Por otro lado, el sábado, 19 de octubre de 2024, en **Los Ríos**, los efectivos allanaron un domicilio, donde encontraron **859 paquetes de droga** encaletados. También hallaron cinco armas de fuego y 210 cartuchos.
-
-El viernes, 18 de octubre, en **Azuay**, tras una persecución, se logró la aprehensión en flagrancia de **cinco antisociales**, presuntos implicados en el robo a una joyería.
-
-> ¡Si el problema del narcotráfico es transnacional, la cooperación debe ser transnacional! 💪🏻  
->   
-> ➡️El ministro de Defensa Nacional, Gian Carlo Loffredo, destacó en [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw):  
->   
-> ✅34 países americanos apoyarán a Ecuador en la lucha contra el crimen organizado.  
->   
-> ✅Bases… [pic.twitter.com/SXOvdXw94s](https://t.co/SXOvdXw94s)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 22, 2024](https://twitter.com/DefensaEc/status/1848736558159172082?ref_src=twsrc%5Etfw)
-
-Datos 2024
-----------
-
-La Policía agregó que, en lo que va de 2024, suman 14 304 detenidos con boletas de captura por diferentes tipos de delitos.
-
-Además, **45 753 personas** aprendidas en operativos en **flagrancia** y también bajo investigación a través de los subsistemas de investigativos e inteligencia.
-
-Los efectivos, a su vez, retiraron de las calles **8 615 armas de fuego** y 325 205 municiones, así como 5 049 vehículos recuperados y 7 544 motos.
-
-El balance incluyó 979 casos resueltos por el delito de **secuestro**, 6 404 por **extorsión** y 1 236 personas detenidas por estos.
-
-Deportivo Quito sacó a la venta 12 000 entradas
-===============================================
-
-El Deportivo Quito es parte de los 32 equipos que aún siguen en competencia en el Torneo de Ascenso Nacional.
--------------------------------------------------------------------------------------------------------------
-
-![Luis Celi celebra el gol marcado con el Deportivo Quito a Cantera Orense en Machala.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_entradas_1.jpg)
-
-**Deportivo Quito** prepara la vuelta del partido de vuelta del Torneo de Ascenso Nacional ante Cantera Orense, el actual vicecampeón de la Segunda Categoría de la provincia de El Oro.
-
-El encuentro entre **Deportivo Quito y Cantera Orense** está programado para el domingo 27 de octubre de 2024, desde las 12:00, en el estadio Gonzalo Pozo Ripalda, propiedad de Aucas.
+Pero eso no es todo para **Lionel Messi, puesto que la MLS** anunció este martes 22 de octubre de 2024 que preparó, en vista del arranque de los ‘playoffs’, una cámara especial para seguir cada movimiento del argentino en el terreno de juego.
 
 ### Más noticias:
 
-* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
-* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
-* [La Selección de Ecuador Femenina sub-17 a un paso de cuartos](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 a un paso de cuartos")
+* [Álex Rangel fue galardonado como el mejor de la fecha 10](https://www.elcomercio.com/deportes/alex-rangel-jugador-fecha10-ligapro.html "Álex Rangel fue galardonado como el mejor de la fecha 10")
+* [Polémica en Paraguay por control a niños al ingreso a un estadio](https://www.elcomercio.com/deportes/futbol/paraguay-cateo-ninos-olimpia-libertad.html "Polémica en Paraguay por control a niños al ingreso a un estadio")
+* [Hernán Barcos sufrió una lesión y se pierde la liga peruana](https://www.elcomercio.com/deportes/futbol/hernan-barcos-lesion-torneo-liga-peru.html "Hernán Barcos sufrió una lesión y se pierde la recta final de la liga peruana")
 
-En la ida, jugada el domingo 20, el **Quito sacó un valioso empate 1-1 en su visita a Cantera Orense** en el Mini Estadio Euclides Palacios de Machala, con un tanto Luis Celi para los capitalinos, y de Walter Rodríguez para los orenses.
+Messi fue jugador del **mes de la MLS por segunda vez en esta campaña**, en la que pese a jugar solo 1 485 minutos, sumó 20 goles y 16 asistencias, y mostró que sigue vigente en el cierre de su carrera.
 
-El ganador de esta llave se **clasificará para los octavos de final** y se medirá con el vencedor de Toreros FC (Guayas) y Santa Elena Sumpa (Santa Elena). La ventaja es para los de Guayaquil por 2-1.
+En la última jornada, el argentino anotó un triplete en la última **media hora contra el New England Revolution**, con lo que se convirtió en el goleador histórico del club con 33 tantos, superando al ecuatoriano Leonardo Campana, dueño del récord con 32.
 
-La directiva del Quito espera tener el respaldo masivo de su fiel hinchada, tal como sucedió en el juego de los **treintaidosavos de final ante Santa Elena Sporting Club**, en donde alrededor de 10 000 fanáticos coparon gran parte de las instalaciones del estadio del Independiente del Valle.
+El Inter Miami se llevó tres premios al mejor jugador del mes este curso, pues el uruguayo Luis Suárez lo ganó en febrero/marzo.
 
-Entradas a la venta
--------------------
+Messi invadirá TikTok
+---------------------
 
-Un **total de 12 000 entradas son las que están a la venta**. Hay que recordar que la ‘Caldera del Sur’ tiene una capacidad cercana a la 19 000 personas, pero por un tema de logística salieron a la venta menos entradas de su aforo total.
+Messi se **prepara ahora para debutar en los ‘playoffs’ de la MLS**, un escenario al que el año pasado su club no logró clasificarse. Esta vez, lo hace como protagonista absoluto tras ganar el Supporters’ Shield al mejor equipo de la campaña regular.
 
-Los boletos están a la venta en la **Cooperativa de Ahorro y Crédito Andalucía**, en su sede matriz (Jorge Piedra y Azogues), en la Colón (Av. Colón y Amazonas), y Atahualpa (Av. Alonso de Angulo y Jipijapa).
+El Inter Miami se estrenará el viernes 25 contra el ganador de la llave entre Atlanta United y Montreal.
 
-La **general y preferencia tendrán un valor de 8 dólares**, mientas que la tribuna de 12.
+El encuentro de las ‘Garzas’ tendrán un aditamento especial, **dedicado para los usuarios de la red social TikTok**, con la puesta en escena de una transmisión en directo que estará enfocado íntegramente en el campeón del mundo con Argentina en Catar 2022.
 
-Para niños (hasta los 12 años), **tercera edad y personas con discapacidad**, la venta de los tickets será únicamente el día del partido, presentando la cédula de identidad en las boleterías del estadio.
+Una cámara especial seguirá cada movimiento del argentino en el terreno de juego del Chase Stadium.
 
-Resultados de los treintaidosavos de final – ida
-------------------------------------------------
-
-Juventud Italiana 3-2 La Troncal FC
-
-**Toreros FC 2-1 Santa Elena Sumpa**
-
-Miguel Iturralde 1-1 Olmedo
-
-**Guaranda 0-1 Cuenca Juniors**
-
-Everest 0-0 Aviced
-
-**La Unión 5-0 Luz Valdivia FC**
-
-San Camilo 0-2 22 de Julio FC
-
-**11 de Mayo FC 1-0 Patria**
-
-Huancavilca 2-2 Ecuagenera
-
-**Naranja Mekánica 5-1 Huaquillas FC**
-
-Atlético JBG 0-0 La Paz
-
-**Cantera Orense 1-1 Deportivo Quito**
-
-Jipijapa 0-0 Deportivo Quevedo
-
-**Liga de Portoviejo 1-0 Daquilema FC**
-
-Primero de Mayo 3-0 New Porto
-
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_entradas_2-1024x683.jpg)
-
-Foto: Instagram del club.
+El partido también **estará disponible globalmente a través de Apple TV**, que arrancó el curso pasado una relación de 10 años con la MLS para transmitir sus partidos en todo el mundo a través de ‘MLS Season Pass’.
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Javier Milei, el Rey de España y otras autoridades visitarán Ecuador
-====================================================================
+Las altas temperaturas afectan a Quito. ¿Cuándo vuelve la lluvia?
+=================================================================
 
-El Gobierno de Ecuador espera recibir entre nueve y once jefes de Estado en la XXIX Cumbre Iberoamericana.
-----------------------------------------------------------------------------------------------------------
+El clima seco y acalorado continuará en Quito. Este ambiente se presta para la propagación de incendios forestales. Más noticias En los sectores altos de Quito, algunos barrios sufren falta de abastecimiento de agua potable por hasta dos días, debido a la falta de energía provocada por los cortes de luz relacionados con la sequía \[…\]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Javier Milei y el Rey de España vendrán a Ecuador, según Gabriela Sommerfeld.](https://www.elcomercio.com/wp-content/uploads/2024/10/reymilei.jpg)
+![El clima cálido y la radiación alta continúa en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Clima-de-Quito.jpg)
 
-El **Gobierno de Ecuador** espera recibir entre nueve y once jefes de Estado en la **XXIX Cumbre Iberoamericana**, según anticipó **Gabriela Sommerfeld**, ministra de Relaciones Exteriores, en una entrevista con EFE. Sommerfeld confía en que México envíe una representación.
+El **clima seco** y acalorado continuará en **Quito**. Este ambiente se presta para la propagación de **incendios forestales[.](https://es.wikipedia.org/wiki/Sequ%C3%ADa#:~:text=La%20sequ%C3%ADa%20es%20una%20anomal%C3%ADa,que%20viven%20en%20dicho%20lugar. "https://es.wikipedia.org/wiki/Sequ%C3%ADa#:~:text=La%20sequ%C3%ADa%20es%20una%20anomal%C3%ADa,que%20viven%20en%20dicho%20lugar.")**
 
 ### Más noticias
 
-* [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
-* [Petro critica en ONU a presidente argentino, Javier Milei, y su ‘Viva la libertad, carajo’](https://www.elcomercio.com/actualidad/mundo/petro-critica-en-onu-a-presidente-argentino-javier-milei-y-su-viva-la-libertad-carajo.html "Petro critica en ONU a presidente argentino, Javier Milei, y su ‘Viva la libertad, carajo’")
-* [Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas](https://www.elcomercio.com/actualidad/mundo/milei-asegura-universidad-publica-seguira-arancel-medio-protestas.html "Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas")
+* [La sequía activa los incendios forestales en Ecuador](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-ecuador-danos-autoridades.html "La sequía activa los incendios forestales en Ecuador")
+* [La sequía impide el brote normal de las frutas en Ecuador](https://www.elcomercio.com/actualidad/negocios/la-sequia-impide-el-brote-normal-de-las-frutas.html "La sequía impide el brote normal de las frutas en Ecuador")
+* [Incendios forestales modifican el inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-fiestas-quito-pregon.html "Incendios forestales modifican el inicio de las fiestas de Quito")
 
-La cumbre se celebrará el 14 y 15 de noviembre en Cuenca. Sommerfeld detalló que nueve mandatarios ya confirmaron su presencia, entre ellos el **rey de España, [Felipe VI](https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a "https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a")**; el presidente del Gobierno español, **Pedro Sánchez**; y los presidentes de Argentina, **[Javier Milei](https://es.wikipedia.org/wiki/Javier_Milei "https://es.wikipedia.org/wiki/Javier_Milei")**; Paraguay, **Santiago Peña**; y República Dominicana, **Luis Abinader**.
+En los sectores altos de **Quito**, algunos barrios sufren falta de **abastecimiento** **de agua** **potable** por hasta dos días, debido a la falta de energía provocada por los c**ortes de luz** relacionados con la **sequía** en **Ecuador**.
 
-También se contará con la participación de los **vicepresidentes de El Salvador y Uruguay, así como los cancilleres de Chile y Costa Rica**. Se espera la confirmación escrita de otros dos jefes de Estado que han expresado su intención de asistir.
-
-Llamados al consenso
---------------------
-
-Sommerfeld manifestó su confianza en que el Gobierno de la presidenta de México, **Claudia Sheinbaum**, participe en la cumbre, pese a la **ruptura de relaciones diplomáticas** desde abril pasado, tras el asalto policial a la embajada mexicana en Quito para detener a **Jorge Glas**, exvicepresidente de Rafael Correa.
-
-La ministra recordó que México ha asistido a **varios foros preparatorios** y reiteró su disposición para dialogar y solucionar la controversia. “Ecuador siempre ha estado listo para **conversar y buscar soluciones** con la verdad sobre la mesa”, señaló Sommerfeld.
-
-Soluciones a crimen, desempleo y migración
-------------------------------------------
-
-Sobre la cumbre, Sommerfeld destacó la importancia de alcanzar la **Declaración de Cuenca** con los acuerdos de los foros previos. “Eso demostraría nuestra capacidad de **consensuar**, dejando de lado diferencias extremas y trabajando juntos por el bienestar de nuestros países”, afirmó. También destacó la necesidad de **mantener los canales de comunicación abiertos** y encontrar acuerdos para el desarrollo sostenible.
-
-La ministra coincidió con la **Secretaría General Iberoamericana (Segib)** en la necesidad de buscar soluciones innovadoras para la **crisis migratoria**, el **crimen organizado transnacional y el desempleo juvenil**, problemas que afectan a Ecuador y a toda la región.
-
-“La crisis económica y de seguridad ha generado una amplia diáspora en Latinoamérica, no solo en Ecuador”, comentó Sommerfeld. También se refirió al **desempleo juvenil**, que empuja a los jóvenes hacia la delincuencia organizada ante la falta de oportunidades.
-
-Fondo contra delincuencia trasnacional
+¿Cuándo volverán las lluvias en Quito?
 --------------------------------------
 
-Además, destacó la creación de un fondo común para combatir el **crimen organizado y el terrorismo**, como resultado de un foro previo de seguridad. “Ya se ha tomado conciencia de la corresponsabilidad entre países para enfrentar problemas que **afectan a toda Iberoamérica**”, enfatizó.
+En los días calurosos en Quito, se siente la **radiación alta y muy alta**. Este fenómeno se mantendrá durante toda esta semana, dijo el Inamhi a **EL COMERCIO** este 22 de octubre de 2024.
 
-Sommerfeld señaló que **Cuenca recibirá unas 1 200 personas durante la cumbre** y anticipó la suspensión de los cortes programados de electricidad para garantizar el evento. Finalmente, describió a **Cuenca** como una **ciudad mágica y llena de historia**, donde Ecuador mostrará su cultura a través de la gastronomía, el arte, la danza, la música y las artesanías, brindando una experiencia única a los asistentes.
+**Madeline** **Enríquez,** técnica del **Inamhi**, aseguró que el último registro de lluvia en Quito fue el 11 de octubre de 2024. Es decir, no hay precipitaciones en la capital hace 11 días.
 
-Cierre vehicular en El Trébol se mantiene este martes 22 de octubre, en Quito
-=============================================================================
+Esto se debe a que no hay un ingreso alto de humedad en la capital, a pesar de que este 22 de octubre se están presentando precipitaciones fuertes en la **Amazonía** ecuatoriana.
 
-Los trabajos se realizarán hasta las 12:00 y en la tarde, de 14:00 a 16:00. Circula con precaución, hay hombres trabajando bajo el puente
------------------------------------------------------------------------------------------------------------------------------------------
+La dirección de los vientos impide la lluvia en Quito
+-----------------------------------------------------
 
-![Agentes de tránsito gestionan el flujo vehicular en la zona.](https://www.elcomercio.com/wp-content/uploads/2024/10/cierre-Trebol.jpg)
+La dirección y la velocidad de los vientos hace que no llegue la **humedad** de la Amazonia hasta la Sierra ecuatoriana.
 
-La **Empresa Metropolitana de Obras Públicas** (Epmmop) informó este martes 22 de octubre sobre el cierre vial que se implementó en el sector de El Trébol.
+Según Enríquez, a partir del 27 de octubre esto puede cambiar, pues se prevé la presencia de **precipitaciones más intensas**. Esta lluvia va a durar pocos días.
+
+¿Por qué se producen los incendios forestales en Quito?
+-------------------------------------------------------
+
+Para Christian Rivera, experto en riesgos, cuando hay radiación extremadamente alta no hay humedad y se incrementa la velocidad de los vientos. Esto provoca que los **incendios forestales** se propaguen rápidamente. Acota que el 99% de incendios forestales son provocados por el ser humano, el restante es de origen natural.
+
+Incendios forestales accidentales
+---------------------------------
+
+Los incendios accidentales se dan por diferentes razones:
+
+* **Quemas** **agrícolas**: es cuando las personas recogen los restos de la siembra para quemar, porque no tiene cómo desechar, o creen que con esto se mejora el terreno.
+* **Quema** **de** **basura**: esto ocurre más en zonas rurales o urbanas de difícil acceso.
+* **Fogatas**: esto pasa cuando las personas van a acampar en las montañas y hacen fogatas.
+
+Los afectados por los incendios forestales en Quito
+---------------------------------------------------
+
+Cerca de 30 000 transportistas, entre buses, taxis, no trabajaron con normalidad este miércoles 25 de septiembre de 2024 por los **incendios forestales**, y tuvieron pérdidas. Asimismo, más de 2 000 restaurantes de distintos puntos de la ciudad no tendrán clientes ni ingresos este día.
+
+En el grupo de los **afectados** también están los bares escolares, tiendas y bazares cercanas a colegios, vendedores ambulantes y más.
+
+Según las últimas cifras trimestrales del Instituto Nacional de Estadística y Censos (**INEC**), el 62,3% de la población en edad de trabajar en **Quito** está empleado. Más del 50% de este grupo está en el sector informal y vive con los ingresos que obtienen cada día.
+
+Las **afectaciones económicas** por los más recientes incendios forestales en **Quito** aún no han sido cuantificadas. A estas se suman las pérdidas generadas en el **sector comercial** y empresarial por los cortes de luz.
+
+Los **apagones** se retomaron esta última semana de septiembre de 2024, como respuesta a la **sequía** que impide la adecuada **generación hidroeléctrica** del país.
+
+Según una encuesta de la Cámara de Comercio de Quito (**CCQ**), el 39% de las empresas reporta pérdidas del 21% al 30% por los cortes de energía. Los mayores impactos: pérdida de horas de producción (30%) y menor número de ventas (22%).
+
+Kendry Páez pierde protagonismo en Independiente del Valle
+==========================================================
+
+El segundo semestre de Kendry Páez ha sido una pesadilla, pasando de ser la estrella del equipo a un suplente más.
+------------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez en un partido con Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-22T184833.242.jpg)
+
+**Kendry Páez** tuvo un arranque espectacular en Independiente del Valle a inicios de 2024. Fue una pieza clave en el equipo de Javier Gandolfi, siendo titular indiscutible durante los primeros seis meses de competencia. Sin embargo, todo cambió drásticamente.
+
+Hasta junio de 2024, Páez brillaba en la Liga Pro y la Copa Libertadores, consolidándose como una de las figuras de los ‘Rayados’ a pesar de su corta edad. Pero, tras su participación en la Copa América, disputada en Estados Unidos con la selección ecuatoriana, **su rendimiento ha experimentado un marcado declive.**
+
+### Más noticias:
+
+* [Kendry Páez sumó su segundo partido en la banca de suplentes](https://www.elcomercio.com/deportes/futbol/kendry-paez-sumo-su-segundo-partido-en-la-banca-de-suplentes.html "Kendry Páez sumó su segundo partido en la banca de suplentes")
+* [Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista](https://www.elcomercio.com/deportes/futbol/kendry-paez-entre-los-mejores-talentos-generacionales-segun-prestigiosa-revista.html "Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista")
+* [¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/kendry-paez-merece-titular-con-seleccion-de-ecuador-ante-uruguay.html "¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?")
+
+Kendry Páez sigue perdiendo protagonismo
+----------------------------------------
+
+Durante el primer semestre de competencia, Páez **acumuló 1,370 minutos** entre el campeonato nacional y la Copa Libertadores. Fue titular en 16 de los 21 partidos posibles.
+
+Solo ingresó desde el banco en tres ocasiones y estuvo ausente en dos partidos debido a convocatorias con la **selección ecuatoriana.**
+
+En ese período, el talentoso volante creativo **registró cinco goles y cinco asistencias**, participando en una acción de gol cada 137 minutos, una estadística sobresaliente para un jugador que no era la principal arma ofensiva de Independiente del Valle.
+
+Sin embargo, estos números se desvanecieron en el segundo semestre de la temporada, ya que **Páez** **perdió la titularidad** y dejó de ser la figura del equipo. Se ha visto relegado a la banca en la mayoría de los compromisos.
+
+En la segunda mitad del año, ha **jugado 13 de los 15 partidos posibles**, lo que parece positivo, pero la **cantidad de minutos es considerablemente baja**: solo 630 minutos repartidos entre la Liga Pro, la Copa Ecuador y la Sudamericana. De los 13 encuentros, fue titular en solo siete, y no completó ninguno.
+
+En términos de estadísticas, **ha marcado solo dos goles**, ambos en la segunda etapa de la Liga Pro, lo que resalta su pérdida de protagonismo en el equipo.
+
+Independiente del Valle da un paso en las semifinales de Copa Ecuador
+=====================================================================
+
+Independiente del Valle se impuso por 1-0 en la ida de semifinales de la Copa Ecuador ante Universidad Católica.
+----------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Independiente del Valle celebran un gol ante Universidad Católica en Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241022133725-fbl-copa-ecuador-catolica-independiente-1-scaled.jpg)
+
+Las semifinales de la **Copa Ecuador** arrancaron con el partido de ida entre Independiente del Valle y **Universidad Católica**. El equipo rayado se impuso por un marcador de 1-0 ante el conjunto camaratta en el Estadio Rodrigo Paz Delgado.
+
+Debido a los últimos espectáculos musicales en Estadio Olímpico Atahualpa, las escuadras debieron disputar su cotejo en el reducto de **Liga de Quito**. Pese a que se jugó en cancha neutral, los camarattas hicieron de locales y deberán buscar la remontada en el Estadio de **Independiente del Valle**.
+
+### Más noticias:
+
+* [Liga de Quito e Independiente del Valle buscan la etapa en su recta final](https://www.elcomercio.com/deportes/liga-quito-independiente-valle-candidatos-segunda-etapa.html "Liga de Quito e Independiente del Valle buscan la etapa en su recta final")
+* [Universidad Católica desperdicia la chance de incomodar a los líderes de Liga Pro](https://www.elcomercio.com/deportes/universidad-catolica-liga-pro-cumbaya.html "Universidad Católica desperdicia la chance de incomodar a los líderes de Liga Pro")
+* [Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores](https://www.elcomercio.com/deportes/dragonas-idv-partido-copa-libertadores-boca-juniors-cuarto.html "Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores")
+
+De cara al compromiso, los rayados llegaron tras superar a equipos de la Serie B como **Guayaquil City y Cuniburo y al Olmedo** de la Segunda Categoría. En el caso de la escuadra celeste, esta eliminó a Técnico Universitario, de la **Serie A, y La Paz y Santa Elena Sumpa**, también de Segunda.
+
+Antes del choque copero, los dos equipos ya se habían enfrentado en dos ocasiones durante el 2024 en la Liga Pro. En el primer compromiso igualaron y en el segundo se impuso **Independiente del Valle**.
+
+El partido de vuelta de **Copa Ecuador**, el cuarto entre los dos conjuntos durante la temporada, será el martes 29 de octubre del 2024.
+
+Michael Hoyos, el hombre del gol para Independiente del Valle
+-------------------------------------------------------------
+
+Durante el desarrollo del cotejo entre **Universidad Católica** e **Independiente del Valle**, ambos clubes se mostraron parejos en sus labores. Recién al cierre del cotejo cayó el tanto que marcó la diferencia en el resultado final.
+
+La ‘Chatoleí’ y el ‘Matagigantes propusieron durante el primer tiempo, pero se encontraron con la solidez de los arqueros. La situación más clara la tuvieron los rayados quienes, gracias a un tiro desde fuera del área de **Yaimar Medina**, impactaron un balón en el travesaño[.](https://es.wikipedia.org/wiki/Independiente_del_Valle "https://es.wikipedia.org/wiki/Independiente_del_Valle")
+
+Durante la segunda mitad, un cambio marcó el destino del compromiso. El DT Javier Gandolfi mandó al campo a **Michael Hoyos**, quien apareció al minuto 83 con un golpe de cabeza y puso el 1-0 definitivo del cotejo.
+
+Una semifinal más en la Copa Ecuador
+------------------------------------
+
+El miércoles 23 de octubre del 2024 se llevará a cabo el cruce de ida restante de las semifinales de la Copa Ecuador. El compromiso del torneo será entre **El Nacional y Mushuc Runa** y arrancará a las 15:00 en el Estadio La Cocha de la Latacunga.
+
+Organizaciones sociales cuestionan confidencialidad el TLC entre Ecuador y Canadá
+=================================================================================
+
+La cuarta ronda de negociación del acuerdo comercial entre Ecuador y Canadá comenzó bajo reserva.
+-------------------------------------------------------------------------------------------------
+
+![La cuarta ronde de negociaciones del TLC entre Ecuador y Canadá empezó este 21 de octubre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/canada.jpg)
+
+El acuerdo comercial entre **Ecuador y Canadá** avanza. Este 21 de octubre de 2024 se inició la cuarta ronda de negociación, bajo total reserva. Un grupo de organizaciones sociales cuestiona la confidencialidad de estas conversaciones[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Adulto mayor fue atropellado en la Metrovía, en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/adulto-mayor-atropellado-metrovia-en-guayaquil.html "Adulto mayor fue atropellado en la Metrovía, en Guayaquil")
-* [Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos](https://www.elcomercio.com/actualidad/ecuador/volcan-sangay-aumenta-actividad-riesgos-alerta-temblores-y-bramidos.html "Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos")
-* [Gran jornada de reforestación en Quito se hará en noviembre](https://www.elcomercio.com/actualidad/quito/gran-jornada-de-reforestacion-quito-se-hara-en-noviembre.html "Gran jornada de reforestación en Quito se hará en noviembre")
+* [La Unión Europea celebra 7 años del acuerdo comercial con Ecuador](https://www.elcomercio.com/actualidad/mundo/union-europea-celebra-7-anos-acuerdo-comercial-ecuador.html "La Unión Europea celebra 7 años del acuerdo comercial con Ecuador")
+* [Daniel Noboa mantuvo reuniones enfocadas en los sectores estratégicos en Canadá](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-reuniones-enfocadas-sectores-estrategicos-canada.html "Daniel Noboa mantuvo reuniones enfocadas en los sectores estratégicos en Canadá")
+* [Daniel Noboa mantuvo reuniones con inversionistas del sector minero en Canadá](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reuniones-inversionistas-sector-minero-canada.html "Daniel Noboa mantuvo reuniones con inversionistas del sector minero en Canadá")
 
-El cierre en El Trébol
+Información reservada
+---------------------
+
+Este 22 de octubre de 2024, más de **100 organizacione**s indígenas, campesinas, afroecuatorianas y montubias, de mujeres, sindicales, entre otras, pidieron que la ciudadanía tenga acceso a los avances de los **temas tratados** en las mesas de negociación.
+
+Las conversaciones de este acuerdo están clasificadas como **información reservada**, según la Resolución del Ministerio de Producción, vigente desde el 5 de septiembre de 2024.
+
+Según dicho documento, esta medida busca proteger la **integridad y confidencialidad** de los documentos considerados sensibles por parte del gobierno canadiense, con el fin de asegurar la transparencia y el buen manejo de la política comercial de Ecuador.
+
+![La cuarta ronde de negociaciones del TLC entre Ecuador y Canadá empezó este 21 de octubre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/TLC-Canada-1024x683.jpg)
+
+Organizaciones sociales cuestionan el secreto en las conversaciones entre Ecuador y Canadá. Foto: Cortesía
+
+Según los grupos sociales, un TLC entre Ecuador y Canadá podría intensificar el “extractivismo minero, lo que agravará la conflictividad social ya existente”.
+
+Además, cuestionan que el proceso de las negociaciones haya sido rápido. El grupo recordó que el presidente **Daniel Noboa** fue a Canadá en marzo de este año a formalizar el inicio de las negociaciones. A mediados de octubre ya se realiza la cuarta ronda de negociación, en Quito, y está previsto que en diciembre sea la última ronda en Canadá. Una vez cerrada la etapa de negociación, se pasará a la firma del acuerdo.
+
+Ministerio de Producción avanza con el proceso
+----------------------------------------------
+
+El Ministerio de Producción confirmó que la IV Ronda de negociaciones comerciales entre Ecuador y Canadá se inició este 21 de octubre, en Quito. En la inauguración de las conversaciones participaron el embajador canadiense **Stephen Potter**, el jefe negociador **Doug Forsyth**, el ministro de Producción de Ecuado**r Luis Jaramillo**, el viceministro H**omero Larrea**, el embajador **Carlos Játiva y Edwin Vásquez** como jefe negociador ecuatoriano.
+
+También se reunió el Cuarto Adjunto, compuesto por representantes de los sectores productivos y el equipo negociador, quienes presentaron los avances y temas clave que se tratarán durante esta nueva fase del diálogo comercial. Lo conversado en las mesas no se ha hecho público.
+
+La reserva de la información durará dos años contados a partir de la suscripción de la Resolución, o hasta la fecha de suscripción del Acuerdo Comercial entre Ecuador y Canadá.
+
+Entre los documentos considerados confidenciales están las propuestas bilaterales, cronogramas y listas de negociación. Así como aquellos que hayan sido previamente etiquetados como sensibles por las partes involucradas. La **publicación de cualquier avance de las negociaciones** se limitará a las versiones oficiales que no comprometan los intereses del Ecuador.
+
+Mushuc Runa prioriza el título de la Copa Ecuador
+=================================================
+
+El actual campeón de la Copa Ecuador es Independiente del Valle, uno de los semifinalistas.
+-------------------------------------------------------------------------------------------
+
+![Jugadores de Mushuc Runa en la Liga Pro 2024 en Latacunga.](https://www.elcomercio.com/wp-content/uploads/2024/10/mushuc_copa_1.jpg)
+
+**Mushuc Runa** es uno de los cuatro semifinalistas de la Copa Ecuador, junto a El Nacional, su rival; Independiente del Valle y Universidad Católica, la otra llave en disputa.
+
+El encuentro entre **Mushuc Runa vs. El Nacional** se jugará el miércoles 23 de octubre de 2024, desde las 14:00, en el estadio La Cocha de Latacunga, la nueva ‘casa’ del equipo del Tungurahua.
+
+### Más noticias:
+
+* [Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en Liga](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro") [](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro")[Pro](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro")
+* [Lionel Messi iguala récord por ganar premios en la M](https://www.elcomercio.com/deportes/lionel-messi-record-premios-mls.html "Lionel Messi iguala récord por ganar premios en la MSL")LS
+* [Álex Rangel fue galardonado como el mejor de la fecha 10](https://www.elcomercio.com/deportes/alex-rangel-jugador-fecha10-ligapro.html "Álex Rangel fue galardonado como el mejor de la fecha 10")
+
+La revancha será el jueves 31, desde las 16:00, en el Olímpico Atahualpa, para cerrar las semifinales.
+
+Luis Alfonso Chango, **presidente vitalicio de Mushuc Run**a, fue claro al momento de poner sobre la mesa las prioridades de su club para cerrar la temporada, con la Copa Ecuador como su máximo objetivo.
+
+“Le dije al profesor **Ever Hugo Almeida que prioricemos la Copa Ecuador**, porque estamos a dos partidos de un torneo internacional” sentenció Chango, que aclaró que no dejarán de lado la Liga Pro, donde son protagonistas.
+
+El premio **económico para el campeón será de 340 000 dólares** y en lo deportivo se ganará el boleto para la Copa Libertadores 2025, pero para arrancar desde la primera fase de eliminación, que este año entregó un premio monetario de 400 000 dólares.
+
+El ‘Ponchito’ es quinto en la **tabla de posiciones de la segunda etapa con 17 puntos** y un gol diferencia positivo de +4, fruto de cuatro victorias, cinco empates y tan solo una derrota en las 10 jornadas disputadas.
+
+En la tabla acumulada son séptimos con 37 puntos y un gol diferencia positivo de +5. Esta posición les otorga el último cupo para la Copa Sudamericana de 2025.
+
+Mushuc Runa en la Copa Ecuador
+------------------------------
+
+**Mushuc Runa** debutó en la Copa Ecuador en el 2019. En los dieciseisavos de final le ganó a Manta por un marcador global de 6-0.
+
+En los octavos de final se cruzó con **Delfín y cayó por 1-2 en el marcador global**, con lo que se despidió de la competición ante el subcampeón de esa edición.
+
+En el 2022 también pisó fuerte. En los **dieciseisavos de final le ganó a Olmedo 2-1**; en los octavos de final se deshizo de Cumbayá por 1-0; y en los cuartos de final derrotó a Vargas Torres por 1-0.
+
+En el cuadrangular de **semifinales se quedó en el cuarto puesto**, por detrás de Independiente del Valle, el futuro campeón; 9 de Octubre, el subcampeón; y El Nacional que se quedó con el tercer lugar.
+
+Campeones de la Copa Ecuador
+----------------------------
+
+1970: El Nacional
+
+**2019: Liga de Quito**
+
+2022: Independiente del Valle
+
+2024: ¿?
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/mushuc_copa_2-1024x683.jpg)
+
+Foto: API.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis
+===========================================================================
+
+Se encontraron cerca de 80 videos en uno de los dispositivos que Norero utilizaba mientras estaba recluido en la Cárcel de Cotopaxi.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis este martes 22 de octubre de 2024 en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/10/fiscalia.jpg)
+
+El 22 de octubre de 2024, se retomó en la **Corte Nacional de Justicia (CNJ)** el juicio relacionado con el caso Metástasis. La sesión comenzó a las 09:30, y durante la primera jornada, la Fiscalía y los defensores de los acusados **presentaron sus alegatos iniciales**.
+
+### Más noticias
+
+* [Fiscalía presentó peritajes como pruebas en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-peritaje-prueba-caso-metastasis.html "Fiscalía presentó peritajes como pruebas en el caso Metástasis")
+* [Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?")
+* [Caso Metástasis ya tiene fecha de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-tiene-fecha-juicio.html "Caso Metástasis ya tiene fecha de juicio")
+
+**Jorge Collaguazo**, perito de la Policía Nacional, fue el primer testigo que expuso la información obtenida de los **dispositivos móviles** usados por **Leandro Norero** durante su tiempo en prisión.
+
+Análisis de las pruebas en video
+--------------------------------
+
+El perito Jorge Collaguazo prosiguió con la presentación de dos pericias realizadas sobre los teléfonos de Norero, los cuales contenían videos que **documentaban sus actividades en prisión**.
+
+Se encontraron cerca de **80 videos** en uno de los dispositivos que Norero utilizaba mientras estaba recluido en la Cárcel de Cotopaxi, **entre mayo y octubre de 2022**. Durante la audiencia, estos videos fueron mostrados.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-met-1-1024x683.jpg)
+
+Audiencia en el caso Metástasis este 22 de octubre de 2024. Foto: X Fiscalía
+
+También se proyectaron grabaciones donde se observan familiares de Adolfo Macías Villamar, alias ‘Fito’, quien era uno de los **principales rivales de Norero**. Además, se mostró a alias **‘Ben 10’, líder de Los Chonekillers**, motivando a otros mientras realizaban **ejercicios de entrenamiento en un campo**.
+
+Evidencia gráfica y comunicaciones
+----------------------------------
+
+El segundo día de la audiencia estuvo marcado por la exposición de más de **1 400 imágenes recuperadas de uno de los teléfonos de Norero**. Estas imágenes incluían capturas de pantalla de conversaciones en plataformas como **WhatsApp, Signal y Threema**, las cuales Norero utilizaba para comunicarse con **abogados, familiares y colaboradores**. Las conversaciones proporcionaron detalles significativos sobre sus actividades desde prisión.
+
+Entre las comunicaciones destacadas se encontraba un intercambio entre **Norero y Helive A., quien era su hombre de confianza**. En los mensajes discutían cómo evitar que el nombre de **Landy Párraga**, una modelo asesinada en abril de 2024 y presuntamente vinculada a Norero, fuera mencionado en las investigaciones.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): se reinstala la audiencia de juicio contra 21 personas, a quienes [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) procesa por [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). El fiscal general del Estado (s), Wilson Toainga, continuará con la práctica de la prueba. [pic.twitter.com/nes0Qtgrk8](https://t.co/nes0Qtgrk8)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 22, 2024](https://twitter.com/FiscaliaEcuador/status/1848738247058358365?ref_src=twsrc%5Etfw)
+
+La presentación de estas pruebas tomó varias horas, y se estima que la **exposición de todas las pruebas** periciales **continuará durante varios días debido al volumen de información recopilada**.
+
+La jueza **Mercedes Caicedo** informó que las audiencias se extenderán durante largas jornadas, con recesos a las **13:00 y a las 18:00**. Además, las sesiones continuarán los fines de semana, ya que la Fiscalía tiene previsto presentar más de **60 testimonios**, incluidos testigos y peritos.
+
+Se anticipa que este proceso judicial, que involucra a funcionarios de alto nivel y miembros del sistema judicial, **será extenso y complejo**.
+
+Cortes de luz en Cuenca este miércoles 23 de octubre
+====================================================
+
+Los horarios de cortes de luz en Guayaquil para este miércoles 23 de octubre cambian para el jueves 24.
+-------------------------------------------------------------------------------------------------------
+
+![Este miércoles 23 de octubre, Cuenca tiene cortes de luz de hasta ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-miercoles-23-octubre.jpg)
+
+Los horarios de **cortes de luz** en **Cuenca** este **miércoles 23 de octubre de 2024** se mantienen hasta el sábado 26.
+
+La **crisis energética** en el país persiste y esta semana los cortes de luz son de ocho horas en Cuenca y todo el país.
+
+### Más noticias:
+
+* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
+* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
+
+Los horarios de cortes de luz en Cuenca para este miércoles 23 de octubre
+-------------------------------------------------------------------------
+
+Las consecuencias de la grave **sequía** en Ecuador continúan.
+
+La falta de lluvias continuas provoca el desabastecimiento de los embalses de las **centrales hidroeléctricas** del país.
+
+Mientras, el **Gobierno de Daniel Noboa** toma medidas para palear los efectos de la crisis energética.
+
+Este martes 22 de octubre, el Gobierno informó que dónde salen los 1 598 MW que se incluirán en el **sistema nacional**.
+
+434 MW ya han sido incluidos y están en funcionamiento; 241 MW en generación permanente en **tierra** se incorporan desde noviembre.
+
+300 MW se incorporan en diciembre en renta en tierra, 204 MW en **Toachi Pilatón** se incorporarán desde diciembre.
+
+Además, 419 MW se sumarán en compra de **generación terrestre,** con unidades de generación contenerizadas, el primer cuatrimestre de 2025.
+
+Esta semana, se cumple **un mes** del inicio de cortes de luz programados en Ecuador.
+
+Desde septiembre, esta es la primera semana de una “**reducción paulatina**” de las horas en los cortes de luz.
+
+El Gobierno hizo este **ofrecimiento** por tres semanas, empezando el 21 de octubre y terminando en el 10 de noviembre.
+
+Así, los cortes de luz en Cuenca son de ocho horas, divididas en dos franjas horarias, según la programación de la **Centrosur**.
+
+A continuación, los **cortes de luz en Cuenca este miércoles 23 de octubre de 2024**:
+
+Los cortes de luz han alterado los **horarios escolares**, sobre todo de la jornada nocturna.
+
+Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, **despidos intempestivos brutales** por cierre de empresas por crisis energética”.
+
+La sequía activa los incendios forestales en Ecuador
+====================================================
+
+Los incendios forestales dejaron afectaciones humanas y ambientales en Ecuador.
+-------------------------------------------------------------------------------
+
+![Ecuador tuvo una serie de incendios forestales que dejaron miles de hectáreas afectadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-en-Ecuador-afectados.jpg)
+
+En lo que va del 2024, **Ecuador** ha sido escenario de una devastadora ola de **incendios forestales** que han afectado a 22 provincias[.](https://es.wikipedia.org/wiki/Incendio "https://es.wikipedia.org/wiki/Incendio")
+
+### Más noticias
+
+* [Incendios forestales modifican el inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-fiestas-quito-pregon.html "Incendios forestales modifican el inicio de las fiestas de Quito")
+* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
+* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
+
+La **Secretaría de Gestión** de **Riesgos del Ecuador** realizó un informe sobre cuántos incendios forestales ocurrieron en el país desde el primero de enero hasta el 21 de octubre de 2024.
+
+Los incendios forestales consumieron miles de hectáreas en 2024
+---------------------------------------------------------------
+
+Las llamas consumieron un total de 45 362.74 hectáreas de **cobertura vegetal**. Los incendios, que comenzaron el 1 de enero, han impactado a 163 cantones y 624 parroquias en todo el país y dejaron tras de sí no solo **destrucción medioambiental**, sino también afectaciones a miles de familias ecuatorianas.
+
+Provincias más afectadas por los incendios forestales en Ecuador
+----------------------------------------------------------------
+
+![table visualization](https://public.flourish.studio/visualisation/19929683/thumbnail)
+
+Agosto y septiembre se destacaron como los meses de mayor recurrencia y severidad de los **incendios**, concentrando más del 75% de la cobertura vegetal destruida.
+
+Esta situación ha llevado a la **declaratoria** de **emergencia** en varias localidades, como el Distrito Metropolitano de **Quito** y los cantones **Sigchos (Cotopaxi) y Quilanga** (**Loja**)
+
+Respuesta de las autoridades por incendios forestales en Ecuador
+----------------------------------------------------------------
+
+Los **incendios** han causado, además, la activación de más de 20 Comités de Operaciones de Emergencia (**COE**) a nivel cantonal y provincial, así como la movilización de **brigadas** **especializadas** para combatir las llamas.
+
+En total, en el país, se han realizado 25 activaciones de las Brigadas de Respuesta a Incendios Forestales (**BRIF**) y 86 **intervenciones** **aéreas**, con la colaboración de la Fuerza Aérea del Perú, el Comando Conjunto de las Fuerzas Armadas del Ecuador y cuerpos de bomberos locales.
+
+Consecuencias humanas y materiales por los incendios forestales
+---------------------------------------------------------------
+
+A pesar de los esfuerzos por controlar los **incendios**, el panorama es desalentador. Al 21 de octubre, aún permanecían activos 10 **incendios** **forestales**, con provincias como **Loja**, **Tungurahua** y **Azuay** entre las más afectadas.
+
+La dificultad para acceder a algunas áreas, sumada a las condiciones climáticas adversas, han hecho que la extinción de las **llamas** sea un desafío constante para las **brigadas** **de** **emergencia**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendio-en-Quito-afectada-1024x683.jpg)
+
+El incendio forestal de Guápulo dejó varias viviendas afectadas. Foto: Diego Pallero / EL COMERCIO.
+
+Qué dicen los expertos sobre incendios forestales, según Riesgos
+----------------------------------------------------------------
+
+Los expertos advirtieron sobre el impacto de estos incendios en la **biodiversidad** y el equilibrio ecológico del **Ecuador**.
+
+La afectación a áreas protegidas y **vegetación** **nativa** supone una pérdida incalculable para la flora y fauna ecuatorianas.
+
+Mientras tanto, las autoridades hicieron un llamado a la **población** para evitar actividades de riesgo y denunciar cualquier indicio de **incendios**, con el fin de prevenir nuevos **siniestros** y proteger los **recursos** **naturales**.
+
+Las autoridades continúan monitoreando la situación y planifican nuevas acciones para evitar que el **fuego** siga extendiéndose.
+
+¿Por qué se producen los incendios forestales en Quito?
+-------------------------------------------------------
+
+Para Christian Rivera, experto en riesgos, cuando hay radiación extremadamente alta no hay humedad y se incrementa la velocidad de los vientos. Esto provoca que los incendios forestales se propaguen rápidamente. Acota que el 99% de incendios forestales son provocados por el ser humano, el restante es de origen natural.
+
+Incendios forestales accidentales
+---------------------------------
+
+Los incendios accidentales se dan por diferentes razones:
+
+* **Quemas** **agrícolas**: es cuando las personas recogen los restos de la siembra para quemar, porque no tiene cómo desechar, o creen que con esto se mejora el terreno.
+* **Quema** **de** **basura**: esto ocurre más en zonas rurales o urbanas de difícil acceso.
+* **Fogatas**: esto pasa cuando las personas van a acampar en las montañas y hacen fogatas.
+
+Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores
+================================================================================
+
+La Copa Libertadores entra en su fase final, y solo queda un ecuatoriano en pie, que juega en el Atlético Mineiro de Brasil.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Alan Franco, con el Atlético Mineiro, en la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-22T173757.136.jpg)
+
+Este martes 22 de octubre de 2024, arrancan las semifinales de ida de la **Copa** **Libertadores** con un emocionante encuentro. Atlético Mineiro, equipo en el que milita **Alan Franco**, se enfrenta a River Plate en Brasil.
+
+Franco es el último ecuatoriano que sigue en carrera en la presente edición de la **Libertadores**, por lo que recae en él la responsabilidad de que un nuevo tricolor se corone campeón del torneo más prestigioso de América.
+
+### Más noticias:
+
+* [Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores](https://www.elcomercio.com/deportes/dragonas-idv-partido-copa-libertadores-boca-juniors-cuarto.html "Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores")
+* [Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/diego-aguirre-aucas-penarol-copa-libertadores.html "Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores")
+* [Alan Franco, el único ecuatoriano en carrera por Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-copa-libertadores-atletico-mineiro.html "Alan Franco, el único ecuatoriano en carrera por Copa Libertadores")
+
+Contrario a lo que muchos creen, la última vez que un ecuatoriano ganó la Copa Libertadores no fue en 2008 con Liga de Quito, donde estuvieron múltiples ecuatorianos en la plantilla, sino en 2017, cuando **Miller Bolaños y Michael Arroyo** se consagraron campeones con Gremio.
+
+Aunque ninguno fue determinante, ‘Miller’ jugó en la fase de grupos antes de ser cedido a México debido a una lesión, mientras que ‘Miky’ estuvo en el banco de suplentes en los cuartos de final, pero no llegó a disputar ningún partido en aquella edición.
+
+Atlético Mineiro vs. River Plate
+--------------------------------
+
+El primer choque de **semifinales** entre ambos equipos se disputará este martes 22, a las 19:30 (hora Ecuador), en el Arena MRV de Belo Horizonte, Brasil.
+
+Por su parte, River Plate, con el objetivo de alcanzar su quinto título en la **Copa Libertadores**, desplegará todo su arsenal en Brasil para enfrentar a un Atlético Mineiro que llega motivado tras clasificarse a la final de la Copa do Brasil el pasado sábado, tras eliminar a Vasco da Gama. El equipo brasileño buscará sacar ventaja en casa para encarrilar la eliminatoria.
+
+Ambos clubes llegan en situaciones similares. Mientras que River Plate se mantiene invicto en la competición, **Atlético Mineiro** quiere mantener su racha imbatible como local en la presente edición de la Libertadores, lo que anticipa un duelo muy reñido.
+
+Cortes de luz en Guayaquil este miércoles 23 de octubre
+=======================================================
+
+Los horarios de cortes de luz en Guayaquil para este miércoles 23 de octubre se mantienen hasta el viernes.
+-----------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este miércoles 23 de octubre son de ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-miercoles-23-octubre-1.jpg)
+
+Los horarios de **cortes de luz** en **Guayaquil** este **miércoles 23 de octubre de 2024** se mantienen hasta el sábado 26.
+
+La **crisis energética** en el país persiste y esta semana los cortes de luz son de ocho horas en Guayaquil y todo el país.
+
+### Más noticias:
+
+* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
+* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
+
+Los horarios de cortes de luz en Guayaquil para este miércoles 23 de octubre
+----------------------------------------------------------------------------
+
+Las consecuencias de la grave **sequía** en Ecuador continúan.
+
+La falta de lluvias continuas provoca el desabastecimiento de los embalses de las **centrales hidroeléctricas** del país.
+
+Mientras, el **Gobierno de Daniel Noboa** toma medidas para palear los efectos de la crisis energética.
+
+Este martes 22 de octubre, el Gobierno informó que dónde salen los 1 598 MW que se incluirán en el **sistema nacional**.
+
+434 MW ya han sido incluidos y están en funcionamiento; 241 MW en generación permanente en **tierra** se incorporan desde noviembre.
+
+300 MW se incorporan en diciembre en renta en tierra, 204 MW en **Toachi Pilatón** se incorporarán desde diciembre.
+
+Además, 419 MW se sumarán en compra de **generación terrestre,** con unidades de generación contenerizadas, el primer cuatrimestre de 2025.
+
+Esta semana, se cumple **un mes** del inicio de cortes de luz programados en Ecuador.
+
+Desde septiembre, esta es la primera semana de una “**reducción paulatina**” de las horas en los cortes de luz.
+
+El Gobierno hizo este **ofrecimiento** por tres semanas, empezando el 21 de octubre y terminando en el 10 de noviembre.
+
+Así, los cortes de luz en Guayaquil son de ocho horas, divididas en dos franjas horarias, según la programación de la **CNEL**.
+
+A continuación, los **cortes de luz en Guayaquil este miércoles 23 de octubre de 2024**:
+
+Los cortes de luz han alterado los **horarios escolares**, sobre todo de la jornada nocturna.
+
+Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, **despidos intempestivos brutales** por cierre de empresas por crisis energética”.
+
+WhatsApp refuerza la protección para combatir el ‘phishing’ y el ‘spam’ 
+========================================================================
+
+WhatsApp presenta una nueva función que bloqueará automáticamente mensajes de cuentas desconocidas
+--------------------------------------------------------------------------------------------------
+
+![El ‘phishing’ ha aumentado en los últimos años, ha afectado a millones de usuarios de WhatsApp. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-spam-fishing.jpg)
+
+**WhatsApp** ha anunciado una **nueva función destinada a proteger a sus usuarios** del ‘phishing’ y el ‘spam’.  
+
+### Más noticias
+
+* [Truco para ver mensajes eliminados en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-mensajes-eliminados-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-mensajes-eliminados-tutorial.html") 
+* [En WhatsApp puedes proteger tu privacidad con estos trucos para silenciar las llamadas](https://www.elcomercio.com/tecnologia/whatsapp-silenciar-llamadas-spam.html "https://www.elcomercio.com/tecnologia/whatsapp-silenciar-llamadas-spam.html") 
+
+Esta herramienta busca **mejorar la seguridad de las conversaciones** al bloquear automáticamente mensajes de cuentas desconocidas que envían múltiples mensajes en un corto período de tiempo.  
+
+**¿Qué es el ‘phishing’ en WhatsApp y cómo afecta a los usuarios?** 
+--------------------------------------------------------------------
+
+El **‘phishing’** es una técnica utilizada por estafadores para **engañar a los usuarios y obtener información personal**, como contraseñas o datos bancarios.  
+
+Este tipo de **fraude** se ha incrementado en los últimos años, y **ha afectado a millones de personas en todo el mundo**.  
+
+**WhatsApp**, siendo una de las aplicaciones de mensajería más populares, ha sido blanco frecuente de estas **tácticas maliciosas**. Según informes, muchos usuarios han recibido **mensajes sospechosos** que intentan suplantar la identidad de contactos conocidos o empresas legítimas, de acuerdo con [20 Minutos](https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nueva-funcion-bloquear-mensajes-spam-estafas-5589235/ "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nueva-funcion-bloquear-mensajes-spam-estafas-5589235/").
+
+**La nueva función de WhatsApp** 
+---------------------------------
+
+Esta **nueva funcionalidad permitirá a WhatsApp bloquear mensajes de cuentas desconocidas si estas superan un volumen determinado**. Esto significa que, si un número no guardado en la agenda del usuario **envía varios mensajes en un corto lapso**, estos serán bloqueados automáticamente. Esta medida no solo **protege contra el ‘spam’**, sino que también **mejora el rendimiento del dispositivo** al reducir la carga de mensajes no deseados, de acuerdo con [Xataka](https://www.xataka.com/basics/opcion-whatsapp-para-bloquear-mensajes-spam-estafas-desconocidos-como-funciona-que-limites-tiene-como-activarla "https://www.xataka.com/basics/opcion-whatsapp-para-bloquear-mensajes-spam-estafas-desconocidos-como-funciona-que-limites-tiene-como-activarla"). 
+
+**Beneficios adicionales** 
+---------------------------
+
+Además de **bloquear mensajes sospechosos**, esta función tiene otros beneficios: 
+
+* **Reducción del ‘spam’:** Al limitar la cantidad de mensajes no deseados, se facilita una experiencia más limpia y organizada. 
+
+* **Mejora del rendimiento:** Menos mensajes significan que la aplicación puede funcionar más eficientemente. 
+
+* **Protección contra contenido malicioso:** Al evitar la saturación de mensajes, se minimiza el riesgo de recibir enlaces peligrosos o intentos de ‘phishing’. 
+
+**Cómo activar la nueva función** 
+----------------------------------
+
+Para **activar esta opción**, los usuarios deben asegurarse de t**ener la última versión beta de WhatsApp** instalada. Una vez actualizada, pueden seguir estos pasos: 
+
+* Abrir WhatsApp y acceder a “Ajustes”. 
+
+* Seleccionar “Privacidad”. 
+
+* Buscar la opción para bloquear mensajes de cuentas desconocidas y activarla. 
+
+Es importante mencionar que **esta función aún está en pruebas y puede no estar disponible para todos los usuarios inmediatamente.** 
+
+**Consejos para mantener la seguridad en WhatsApp** 
+----------------------------------------------------
+
+Además de utilizar la nueva función, los usuarios deben adoptar **prácticas seguras al usar WhatsApp**: 
+
+* No abrir enlaces sospechosos. 
+
+* No compartir información personal con desconocidos. 
+
+* Utilizar la verificación en dos pasos para mayor protección 
+
+La introducción de esta nueva función por parte de WhatsApp representa **un paso significativo hacia la protección de sus usuarios** contra el ‘phishing’ y el ‘spam’. A medida que las **amenazas digitales** evolucionan, es crucial que las plataformas también lo hagan para garantizar un entorno seguro para sus usuarios. Con esta herramienta, WhatsApp busca no solo mejorar la experiencia del usuario, sino también fortalecer su compromiso con la **seguridad digital**. 
+
+Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz
+===========================================================================
+
+Gobierno de Daniel Noboa hizo un desglose de la procedencia de MW que se sumarán ante los cortes de luz.
+--------------------------------------------------------------------------------------------------------
+
+![Central Enrique García ya está en operación, según Celec.](https://www.elcomercio.com/wp-content/uploads/2024/10/central.jpg)
+
+El **presidente Daniel Noboa** anunció este martes 22 de octubre de 2024 la incorporación de **1598 MW** para atender la crisis energética que atraviesa Ecuador[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+El pasado El anuncio fue el 17 de octubre de 2024, el **Gobierno** aseguró que se tomarían medidas para paliar la crisis energética que obliga a tener cortes de luz en el país.
+
+### Más noticias
+
+* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
+* [Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz](https://www.elcomercio.com/actualidad/empresarios-acercamiento-gobierno-daniel-noboa-cortes-luz.html "Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz")
+* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
+
+> Conoce las acciones, a mediano plazo,👇que el Gobierno del presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realiza para garantizar un futuro con soberanía energética y sin depender de las hidroeléctricas. [#EcuadorUniendoEsfuerzos](https://twitter.com/hashtag/EcuadorUniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tW93WD3b71](https://t.co/tW93WD3b71)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 18, 2024](https://twitter.com/Presidencia_Ec/status/1847310093487927515?ref_src=twsrc%5Etfw)
+
+Cortes de luz y acciones del Gobierno
+-------------------------------------
+
+El Gobierno anunció que los **1598 MW** se desglosan tomando en cuenta la operación de una barcaza, centrales térmicas, generación permanente en tierra, etc.
+
+**Daniel Noboa** hizo este anuncio acompañado de Inés Manzano, ministra de Energía encargada. Esto acompañado de la difusión de los cortes de luz para las siguientes tres semanas.
+
+Según la información difundida este 22 de octubre, **434 MW** ya han sido incluidos y están funcionando. Estos se generan de la siguiente manera:
+
+* 100 MW mediante alquiler de barcaza.
+* 334 MW recuperados en Centrales Térmicas reparadas:
+* 33 MW Álvaro Tinajero
+* 36 MW Aníbal Santos
+* 8 MW Santa Elena II (reposición de motores)
+* 42 MW Esmeraldas II
+* 34 MW Quevedo II (reposición de motores)
+* 85 MW Trinitaria
+* 96 MW Enrique García
+
+241 MW en generación permanente en tierra se sumarán en noviembre
+-----------------------------------------------------------------
+
+* 91 MW en Esmeraldas.
+* 100 MW en Salitral
+* 50 MW en Quevedo
+
+300 MW en diciembre, en renta en tierra
+---------------------------------------
+
+* 260 MW Pascuales
+* 40 MW Termogas Machala
+
+Otras incorporaciones
+---------------------
+
+Desde el **Gobierno**, además, se detalló que 204 MW en T**oachi Pilatón** se incluirán desde diciembre. Además, se sumarán **419 MW** en el primer cuatrimestre del 2025, en compra de generación terrestre (unidades de generación contenerizadas):
+
+* 100 MW **San Juan de Manta**
+* 152 MW **Térmico Esmeraldas**
+* 17 MW **Santa Elena II**
+* 30 MW **Santa Elena** IV
+* 120 MW Durán
+
+Proyectos futuros
+-----------------
+
+Entre las medidas anunciadas están las encaminadas a cambiar la **matriz energética**, para no depender únicamente del agua.
+
+En esa línea, el **Gobierno** aseguró que durante su administración se han aprobado siete licencias ambientales para proyectos de inversión. Entre estos se han priorizado centrales solares.
+
+* Central **Imbabura** Solar, en el cantón Ibarra: potencia de 120 MW
+* Central **Ambi** Solar, en los cantones Antonio Ante e Ibarra: 60 MW
+* Central **Intiyana** Solar, en el cantón Urcuquí: 60 MW
+* Central **Urcuquí** Solar, en el cantón Urcuquí: 60 MW
+* Central Hidroeléctrica **El Rosario**, en el cantón Gualaquiza: 49,9 MW
+* Central Hidroeléctrica **Santa Rosa**, en el cantón Gualaquiza: 49,9 MW
+* Central Hidroeléctrica **San Jacinto**, en Santo Domingo: 49,9 MW
+    
+
+Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano
+==================================================================================
+
+Este martes, 22 de octubre de 2024, se cumple un mes del inicio de la campaña de bombardeos de Israel contra el Líbano.
+-----------------------------------------------------------------------------------------------------------------------
+
+![La gente se reúne en el lugar de una estructura dañada tras un ataque aéreo israelí en el distrito de Dahieh, al sur de Beirut, Líbano, el 22 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/israel-bombardea-beirut.jpg)
+
+El **Ejército israelí** atacó unos 230 objetivos de la milicia **chií Hezbolá** en el sur del [Líbano](https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html "https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html") durante la jornada de ayer, según indicó en un comunicado este martes.
+
+### Más noticias
+
+* [La muerte de Sinwar será una inspiración para la resistencia contra Israel](https://www.elcomercio.com/actualidad/mundo/muerte-sinwar-inspiracion-resistencia-israel.html "La muerte de Sinwar será una inspiración para la resistencia contra Israel")
+* [Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá](https://www.elcomercio.com/actualidad/mundo/bombardeos-en-beirut-la-madrugada-de-este-4-de-octubre-habrian-herido-a-lider-de-hezbola.html "Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá")
+* [Los ataques de Israel en el Líbano dejan ya más de 2 300 fallecidos en el último año](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-dejan-2-300-fallecidos-ultimo-ano.html "Los ataques de Israel en el Líbano dejan ya más de 2 300 fallecidos en el último año")
+
+“Durante el último día, las **tropas atacaron aproximadamente 230 objetivos terroristas** de Hezbolá en Líbano, incluidos **tres centros de comando** pertenecientes a su unidad aérea que, entre otras cosas, era responsable del **lanzamiento de vehículos aéreos** no tripulados hacia el Estado de Israel”, recoge su nota.
+
+Asimismo, aseguran que las **Divisiones 36 y 146 del Ejército**, desplegadas en el sur del país vecino, “eliminaron a **decenas de terroristas** y desmantelaron grandes cantidades de armamento”.
+
+A primera hora de este martes, las alarmas antiaéreas sonaron en el **norte** y el **centro de Israel,** incluido en Tel Aviv, tras la llegada de una veintena de proyectiles.
+
+Según indicó el Ejército, 15 de ellos **fueron lanzados contra el norte** y los cinco restantes contra el centro del país.
+
+Lanzamiento de proyectiles
+--------------------------
+
+Hezbolá reivindicó en sus **canales el lanzamiento** de estos proyectiles e indicó que entre sus objetivos se encontraba la base de la **unidad de inteligencia militar** ubicada en Gilot, cerca de Tel Aviv, y otra base naval cercana a la ciudad norteña de Haifa.
+
+Medios hebreos informaron de daños a vehículos y a un edificio en el Kibbutz Ma’agan Michael, en el sur de Haifa, por los **restos de metralla del misil antiaéreo israelí,** pero no de heridos.
+
+Bombardeos de Israel contra Líbano
+----------------------------------
+
+Este martes, 22 de octubre de 2024, se cumple un mes del inicio de la **campaña de bombardeos de Israel** contra el Líbano. Causó **miles de muertos** y más de un **millón de desplazado**s tras dejar barrios en ruinas especialmente en el sur del país, donde las **tropas prosiguen con su incursión**, y en los suburbios meridionales de Beirut.
+
+Cortes de luz en Quito este miércoles 23 de octubre
+===================================================
+
+Los horarios de cortes de luz en Quito para este miércoles 23 de octubre se mantienen hasta el sábado.
+------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito para este miércoles 23 de octubre son definidos por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-miercoles-23-octubre.jpg)
+
+Los horarios de cortes de luz en Quito este miércoles 23 de octubre de 2024 se mantienen hasta el sábado 26.
+
+La crisis energética en el país persiste y esta semana los cortes de luz son de ocho horas en Quito y todo el país.
+
+### Más noticias:
+
+* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
+* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
+
+Horarios de cortes de luz en Quito este miércoles 23 de octubre
+---------------------------------------------------------------
+
+Las consecuencias de la grave sequía en Ecuador continúan.
+
+La falta de lluvias continuas provoca el desabastecimiento de los embalses de las centrales hidroeléctricas del país.
+
+Mientras, el Gobierno de Daniel Noboa toma medidas para palear los efectos de la crisis energética.
+
+Este martes 22 de octubre, el Gobierno informó que dónde salen los 1 598 MW que se incluirán en el sistema nacional.
+
+434 MW ya han sido incluidos y están en funcionamiento; 241 MW en generación permanente en tierra se incorporan desde noviembre.
+
+300 MW se incorporan en diciembre en renta en tierra, 204 MW en Toachi Pilatón se incorporarán desde diciembre.
+
+Además, 419 MW se sumarán en compra de generación terrestre, con unidades de generación contenerizadas, el primer cuatrimestre de 2025.
+
+Esta semana, se cumple un mes del inicio de cortes de luz programados en Ecuador.
+
+Desde septiembre, esta es la primera semana de una “reducción paulatina” de las horas en los cortes de luz.
+
+El Gobierno hizo este ofrecimiento por tres semanas, empezando el 21 de octubre y terminando en el 10 de noviembre.
+
+Así, los cortes de luz en Quito son de ocho horas, divididas en dos franjas horarias, según la programación de la Empresa Eléctrica Quito.
+
+A continuación, los cortes de luz en Quito este miércoles 23 de octubre de 2024:
+
+Los cortes de luz han alterado los horarios escolares, sobre todo de la jornada nocturna.
+
+Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, despidos intempestivos brutales por cierre de empresas por crisis energética”.
+
+Bomberos de Quito tendrán su concierto: una oportunidad para homenajearlos
+==========================================================================
+
+Un concierto de ritmos tropicales se llevará a cabo en el Teatro San Gabriel con la Banda Sinfónica del Cuerpo de Bomberos.
+---------------------------------------------------------------------------------------------------------------------------
+
+![La Banda Sinfónica del Cuerpo de Bomberos dará un recital de música tropical.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-15-2.jpg)
+
+Después de los terribles **incendios forestales** de septiembre del 2024, y unos cuantos en este octubre que lograron controlarse a tiempo, entre los **quiteños** nació una **relación de agradecimiento y comunidad** con el **Cuerpo de Bomberos**. Por eso, nada mejor que apoyarlos, en este caso, en el **concierto** que se realizará este **23 de octubre del 2024.**
+
+### Más noticias
+
+* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
+* [Bomberos combaten incendio forestal en Quito](https://www.elcomercio.com/actualidad/quito/bomberos-combaten-incendio-carcelen-bajo-quito.html "Bomberos combaten incendio forestal en Quito")
+* [Megalabs Pharma realizó donaciones a los Bomberos de Quito](https://www.elcomercio.com/empresariales/megalabs-pharma-realizo-donaciones-bomberos-quito.html "Megalabs Pharma realizó donaciones a los Bomberos de Quito")
+
+El concierto de los Bomberos con banda propia
+---------------------------------------------
+
+Los músicos serán de la propia banda del **Cuerpo de Bomberos de Quito.** Esta agrupación se formó en el **2013** cuando la entidad decidió incorporar **47 músicos profesionales** para conformar la **Banda Sinfónica del Cuerpo de Bomberos.**
+
+Para la institución que generó su admiración entre los quiteños por su abnegado trabajo durante los incendios forestales, la **Banda** fomenta la **cultura musical del país** y colabora en diversos eventos, como ceremonias de ascenso, aniversarios de fundación, conciertos didácticos, entre otros.
+
+El género de este recital será de **clasicos de la música tropical**.
+
+¿Cómo acceder a este concierto?
+-------------------------------
+
+La cita será en el **Teatro San Gabriel,** en la **Avenida América y Mariana de Jesús**. Será a las **19:00 de este viernes 23 de octubre.**
+
+Una de las exigencias de la organización es acudir con **traje semiformal.**
+
+Para obtener los **pases**, **[puede hacer click aquí:](http://wa.me/593968148181 "wa.me/593968148181")**
+
+El Cuerpo de Bomberos de Quito invita a la ciudadanía de la capital a participar de este evento musical. Y bien merecido se lo tienen, tras las arduas tareas que debieron enfrentar durante el largo estiaje en Quito y que causó malestar entre los capitalinos.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAj0EQIPSYJ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAj0EQIPSYJ/?utm_source=ig_embed&utm_campaign=loading)
+
+Vladímir Putin intenta romper su aislamiento por la guerra con la cumbre de los BRICS
+=====================================================================================
+
+Durante toda la jornada el líder ruso mantuvo encuentros con los líderes de China, India, Egipto y Sudáfrica.
+-------------------------------------------------------------------------------------------------------------
+
+![Vladímir Putin en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Vladimir-putin-asia-efe.jpg)
+
+El presidente ruso, [Vladímir Putin](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html"), intentó este martes, 22 de octubre de 2024, demostrar a **Occidente** que no está aislado al inaugurar la **cumbre del grupo de economías** emergentes BRICS. Al encuentro acudieron los **líderes de China, India, Irán o Egipto**, los integrantes de lo que el Kremlin llama la nueva “mayoría mundial”.
+
+### Más noticias
+
+* [Vladímir Putin asume su quinto mandato presidencial](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html")
+* [México no detendrá a Vladímir Putin si acude a la investidura de Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/mexico-detendra-vladimir-putin-acude-investidura-sheinbaum.html "https://www.elcomercio.com/actualidad/mundo/mexico-detendra-vladimir-putin-acude-investidura-sheinbaum.html")
+* [Vladímir Putin acusa a Ucrania de ‘provocación a gran escala](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-acusa-ucrania-provocacion-gran-escala.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-acusa-ucrania-provocacion-gran-escala.html")
+
+“En estos años de esfuerzos comunes la **autoridad y la influencia** de nuestra alianza han aumentado. Nosotros nos proponemos seguir **fortaleciendo esta organización**“, dijo Putin.
+
+Primera reunión internacional
+-----------------------------
+
+Esta es la primera reunión internacional que se celebra en Rusia desde el comienzo de la guerra en Ucrania, que convirtió a este país en un paria a ojos del resto del mundo al ser objeto de miles de sanciones.
+
+Durante las últimas semanas el Kremlin destacó que los **países miembros del grupo fundado** en 2006 son una alternativa al **monopolio occidental**, ya que representan **un tercio de la economía mundial** y cerca de la mitad de la población del planeta.
+
+Los invitados de Putin
 ----------------------
 
-La Epmmop realiza trabajos de **iluminación ornamental** en el intercambiador de El Trébol, por lo que su personal se encuentra en la vía.
+Putin, que no acudirá en noviembre a la cumbre del G20 en Brasil debido a la **orden de arresto** dictada por el Tribunal Penal Internacional, recibió en la **capital tártara a una veintena de líderes** de América Latina, Asia y África.
 
-Por ello, mientras **se ejecutan las adecuaciones**, se cerró la circulación vehicular en el carril derecho (sentido sur-norte). La semana pasada, la Empresa de Obras Públicas realizó la colocación de la iluminación ornamental en el carril contrario.
+Con la espectacular mezquita del Kremlin de Kazán como fondo, Putin agasajó a los invitados con una cena informal.
 
-Desde el lunes 21 de octubre, se trabaja en el **carril sur-norte;** sin embargo, el cierre del carril se aplicó solamente en horas de la tarde: de 14:00 a 16:00.
+Durante toda la jornada el líder ruso mantuvo **encuentros con los líderes de China, India, Egipto y Sudáfrica,** además de con la presidenta del Nuevo Banco de Desarrollo de BRICS, Dilma Rouseff.
 
-La **Agencia Metropolitana de Tránsito** (AMT) gestiona el flujo vehicular ante este cierre de la circulación para evitar la congestión en la avenida Velasco Ibarra. **Agentes de tránsito** están desplegados en el intercambiador para precautelar la seguridad de los conductores y del personal.
+El líder chino, Xi Jinping, echó un cable a **Putin al defender la “inquebrantable” amistad con Rusia,** pese a la turbulenta situación internacional.
 
-En esta ocasión se realizan **trabajos a la altura del puente,** donde disminuye la visibilidad. La Epmmop colocó señalética para advertir del cierre a los conductores.
+Además, describió los BRICS como una plataforma que contribuirá al advenimiento de “un orden **multipolar estructurado**” y “una globalización económica accesible para todos”.
 
-**Circula con precaución por la zon**a, hay hombres trabajando en la vía y bajo el puente. Respeta la señalización.
+También Lula, que no acudió a Kazán tras sufrir un **accidente doméstico**, llamó hoy por teléfono al anfitrión, y el líder turco, Recep Tayyip Erdogan, viaja mañana a Rusia, al igual que el secretario general de la ONU, António Guterres, lo que no gustó en Kiev.
 
-Este cierre se realiza por varios días y en diferentes horarios. Este [martes 22 de octubre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") el cierre del carril se hará en **dos jornadas**:
+India pone el dedo en la llaga
+------------------------------
 
-* De 09:30 a 12:00
-* De 14:00 a 16:00
+La guerra en Ucrania estuvo presente en todas las conversaciones. El primer ministro indio, Narendra Modi, le dijo a Putin que su país apoya una **solución del conflicto exclusivamente** por medios pacíficos.
 
-El intercambiador de El Trébol es un**a zona de alta carga vehicular** debido a que al sitio conflujen los automotores que llegan del norte y sur de Quito, además de los del valle de Los Chillos.
+“Como dije en el pasado, consideramos que el problema debe solventarse por **medios pacíficos.** Apoyamos plenamente el pronto restablecimiento de la paz y estabilidad”, afirmó.
 
-> 👷‍♀️💡[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) | HOY hay cierre de la circulación vehicular del intercambiador de [#ElTrébol](https://twitter.com/hashtag/ElTr%C3%A9bol?src=hash&ref_src=twsrc%5Etfw), carril derecho (sentido sur-norte) por trabajos de iluminación ornamental.  
->   
-> HORARIO:  
->   
-> 👉09h30-12h00  
-> 👉14h00-16h00[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1iXw96zHiO](https://t.co/1iXw96zHiO)
-> 
-> — Obras Quito (@ObrasQuito) [October 22, 2024](https://twitter.com/ObrasQuito/status/1848736492853616790?ref_src=twsrc%5Etfw)
+Subrayó que su país siempre concedió **prioridad a la vida humana**, por lo que, con el fin de lograr la paz, está dispuesto “a brindar cualquier ayuda en el futuro”.
+
+“El primer ministro indio subrayó que el **diálogo y la diplomacia** son la vía para lograr una solución al conflicto”, añadió el portavoz del Kremlin, Dmitri Peskov.
+
+El Kremlin admitió también en la **televisión que Putin** y Xi -cuyo país y Brasil presentaron un plan de arreglo de seis puntos rechazado ya por Kiev- también dedicaron **“no poco tiempo”** a abordar el conflicto ucraniano.
+
+Precisamente, Putin señaló a **India, China y Brasil** como posibles mediadores en unas futuras negociaciones de paz con Ucrania, aplazadas indefinidamente por el Kremlin por la ocupación parcial ucraniana de la **región de Kursk.**
+
+Al respecto, Yuri Ushakov, asesor internacional del Kremlin, aseguró que los países miembros de BRICS ya han consensuado una declaración final que incluye una “postura común” sobre Ucrania.
+
+“Nadie ha puesto objeción alguna”, señaló.
+
+La ampliación tendrá que esperar
+--------------------------------
+
+Una de las intrigas de la cumbre era conocer la **identidad de los nuevos miembros del grupo** que recibirán el estatus de estados asociados, pero el Kremlin les echó un jarro de agua fría.
+
+“El tema de la ampliación no figura (en la agenda). Existen diferentes puntos de vista”, dijo Peskov.
+
+El pasado 1 de enero ingresaron en el grupo **Egipto, Irán, Emiratos Árabes Unidos y Etiopía,** mientras Arabia Saudí y Argentina cambiaron de idea en el último momento.
+
+Países como **Turquía, Azerbaiyán o Cuba** mostraron oficialmente interés en ingresar, mientras otros como **Venezuela, Nicaragua, Tailandia y Malasia** también han expresado deseos de adherirse.
+
+Lula aseguró la pasada semana que defenderá el **equilibrio de todas las regiones del mundo** en la ampliación de BRICS, donde para ingresar uno debe **rechazar las sanciones unilaterales** y apoyar la reforma del Consejo de Seguridad de la ONU.
+
+En el seno de BRICS no existe consenso para la ampliación y tampoco parece haberlo a la hora de buscar una **alternativa al dólar**, ya que, según los analistas, **India se niega a que esa divisa sea el yuan chin**o.
