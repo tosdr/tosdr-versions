@@ -196,63 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Kobus Venter
+Shaun Gartshore
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=181389434)  
-Karino Merinos ( PTY ) LTD
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=63766745)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=55099470)  
-Mountain Lion Properties
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=47456871)  
+Little Nutty Professors
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=119203724)  
-Van Der Merwe Olieverspreiders
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=35019052)  
-Brilliant Roof Products
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=180137838)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=168938838)  
-Cooper Power South Africa (Pty) LTD
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=123801655)  
-SLOANE STAR MEAT MARKET
-
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=98890601)  
-Moving Made Easy (PTY) Ltd
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=59376971)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=89291192)  
-FlipDesign - Renovation Contracting Firm
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=33422892)  
-Creative Characters
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=99455548)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=68815244)  
-Cooper Logistics (Pty) Ltd
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=188422081)  
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=73203788)  
 Lion Software Develepment
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=181826402)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=126352096)  
+Echo Recording Studio cc
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=88589338)  
+LEONARD
+
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=205122223)  
+UniTech Solutions Pty Ltd
+
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=65668445)  
+Environment Friendly Toilets (Pty) Ltd
+
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=98387885)  
+AFS Electrical
+
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=84302040)  
+Turnkey Innovations
+
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=67152179)  
+CLEVER STUDENTS
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=7144607)  
+Multi CNC Solutions CC
+
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=68511872)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=160223448)  
+Wiselink Broadband Pty Ltd
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=199514482)  
+Myfinance-Online
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=106718063)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
