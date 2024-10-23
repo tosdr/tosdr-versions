@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Cookie Policy – 100% PURE                                                                                                  
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Cookie Policy – 100% PURE                                                                                                         
 
 My Tote
 -------
@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2399 reviews (2400)
+2401 reviews (2402)
 
 $28.00 $28.00
 
@@ -316,7 +316,7 @@ ADD TO TOTE
 
 ### [Lavender Niacinamide Pore Minimizer Tonique](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
-77 reviews (77)
+78 reviews (78)
 
 $19.00
 
@@ -354,7 +354,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1128 reviews (1128)
+1129 reviews (1129)
 
 $45.00
 
@@ -442,7 +442,7 @@ ADD TO TOTE
 
 ### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
-186 reviews (187)
+188 reviews (188)
 
 $58.00
 
@@ -473,20 +473,6 @@ Dark Chocolate
 ADD TO TOTE
 
 CHOOSE Color
-
-[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
-
-![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
-
-### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
-
-512 reviews (512)
-
-$8.00
-
-Default Title - $8
-
-ADD TO TOTE
 
 Subtotal
 
