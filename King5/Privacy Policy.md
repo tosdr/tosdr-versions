@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_16x9.jpg) ![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_360x203.jpg)](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
+    *  [![](https://media.king5.com/assets/KING/images/61606be8-fc49-473d-be81-747f211e8dde/61606be8-fc49-473d-be81-747f211e8dde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/61606be8-fc49-473d-be81-747f211e8dde/61606be8-fc49-473d-be81-747f211e8dde_360x203.jpg)](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
         
-        #### [Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
+        #### [Missing Auburn woman found alive in Mexico after being kidnapped at gunpoint](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
         
-    *  [![](https://media.king5.com/assets/KING/images/0e53f99d-192d-4fc0-bc51-0045fd3bcc77/20241023T003409/0e53f99d-192d-4fc0-bc51-0045fd3bcc77_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0e53f99d-192d-4fc0-bc51-0045fd3bcc77/20241023T003409/0e53f99d-192d-4fc0-bc51-0045fd3bcc77_360x203.jpg)](https://www.king5.com/article/news/local/parents-fall-city-homicide-identified/281-c7c0f8ab-08d4-41f3-a8c7-ca8253aaf690)
+    *  [![](https://media.king5.com/assets/KING/images/b66913a1-d4d6-474c-b217-6ced80df5671/20241020T030734/b66913a1-d4d6-474c-b217-6ced80df5671_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b66913a1-d4d6-474c-b217-6ced80df5671/20241020T030734/b66913a1-d4d6-474c-b217-6ced80df5671_360x203.jpg)](https://www.king5.com/article/news/local/woman-found-dead-tacoma-family-says-hit-by-bus/281-02e1f4aa-8d6e-4ea3-bff5-916b32b4256b)
         
-        #### [Adult victims in Fall City quintuple homicide identified](https://www.king5.com/article/news/local/parents-fall-city-homicide-identified/281-c7c0f8ab-08d4-41f3-a8c7-ca8253aaf690)
+        #### [A woman was found dead in the road in Tacoma. Her family says she was hit by a bus](https://www.king5.com/article/news/local/woman-found-dead-tacoma-family-says-hit-by-bus/281-02e1f4aa-8d6e-4ea3-bff5-916b32b4256b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+52°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
