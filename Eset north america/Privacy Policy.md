@@ -215,7 +215,9 @@ San Diego, CA 92101
          
     * [Parental Control](https://www.eset.com/us/home/parental-control-android/)  
          
-    * [ESET VPN](https://www.eset.com/us/home/eset-vpn/)
+    * [ESET VPN](https://www.eset.com/us/home/eset-vpn/)  
+         
+    * [Digital Privacy Protection](https://www.eset.com/us/home/digital-privacy-protection/)
     
     [All-in-one protection](https://www.eset.com/us/home/protection-plans/) All-in-one protection
     
@@ -523,6 +525,7 @@ San Diego, California
 * [Small Office Security](https://www.eset.com/us/home/small-business-security/)
 * [Android Security](https://www.eset.com/us/home/mobile-security-android/)
 * [NOD32 Antivirus](https://www.eset.com/us/home/antivirus/)
+* [Identity & Privacy Protection](https://www.eset.com/us/home/digital-privacy-protection/)
 * [Online scanner](https://www.eset.com/us/home/online-scanner/)
 * [Subscription flexibility](https://help.eset.com/home_eset/en-US/products_features.html)
 * [Why ESET?](https://www.eset.com/us/home/why-eset/)
@@ -588,6 +591,7 @@ San Diego, California
 * [Small Office Security](https://www.eset.com/us/home/small-business-security/)
 * [Android Security](https://www.eset.com/us/home/mobile-security-android/)
 * [NOD32 Antivirus](https://www.eset.com/us/home/antivirus/)
+* [Identity & Privacy Protection](https://www.eset.com/us/home/digital-privacy-protection/)
 * [Online scanner](https://www.eset.com/us/home/online-scanner/)
 * [Subscription flexibility](https://help.eset.com/home_eset/en-US/products_features.html)
 * [Why ESET?](https://www.eset.com/us/home/why-eset/)
@@ -650,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/home/library/)
+[United States (EN)](https://www.eset.com/us/business/download/endpoint-antivirus-linux/)
 
 * * *
 
