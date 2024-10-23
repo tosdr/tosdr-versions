@@ -928,7 +928,7 @@ Intuit, QuickBooks, QB, TurboTax, Credit Karma, and Mailchimp are registered tra
 
 Photographs © 2018 Jeremy Bittermann Photography. By accessing and using this page you agree to the terms and conditions.
 
-[About cookies](https://security.intuit.com/index.php/intuit-cookie-policy/)[Manage cookies](javascript:intuit_gdpr.showCookiePreference();)
+[About cookies](https://security.intuit.com/index.php/intuit-cookie-policy/)[Manage cookies](javascript:(function(){   if (typeof OneTrust !== 'undefined' && typeof OneTrust.ToggleInfoDisplay === 'function') {     OneTrust.ToggleInfoDisplay();   } else {     intuit_gdpr.showCookiePreference();   } })();)
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1)](https://privacy.truste.com/privacy-seal/validation?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1)
 
