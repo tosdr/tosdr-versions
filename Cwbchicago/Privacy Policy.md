@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Ashanti-Randolph-326x245.jpg)](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
+
+West Loop
+
+### [Say Cheese! Chicago man charged with murder beams winning smile in police mugshot](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
+
+[October 19, 2024 8:20 AM](https://cwbchicago.com/2024/10)
+
+A Chicago man smiled broadly for his mugshot as prosecutors charged him with murdering a man in the West Loop last month.[](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Keondre-Pitts-326x245.jpg)](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
 
 Goose Island
@@ -262,16 +272,6 @@ Uptown
 [October 18, 2024 7:26 PM](https://cwbchicago.com/2024/10)
 
 A man was shot and critically injured in a McDonald’s parking lot in Uptown on Friday afternoon, Chicago police said. He is the third person shot in Uptown this week.[](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Edgar-Roman-and-Zoraleigh-Ryan-326x245.jpg)](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
-
-River North
-
-### [24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
-
-[October 18, 2024 12:52 PM](https://cwbchicago.com/2024/10)
-
-A judge on Friday morning sentenced a man to 24 years in prison for intentionally running over and killing a woman in front of her daughter in River North four years ago.[](https://cwbchicago.com/2024/10/24-years-for-driver-who-intentionally-ran-over-and-killed-a-woman-in-front-of-her-daughter-in-river-north.html "24 years for driver who intentionally ran over and killed a woman in front of her daughter in River North")
 
 Search
 
