@@ -23,6 +23,7 @@ Click below to view deal
 * [Other](https://stacksocial.com/collections/other)
 * [Freebies](https://stacksocial.com/free)
 * [Expert Picks](https://stacksocial.com/articles)
+* Gift Guides
 * [Login](https://stacksocial.com/sign_in?source=lower+footer+login+link)
 * [Contact](https://stacksocial.com/contact)
 * [Shipping](https://stacksocial.com/help?g=Shipping%20and%20Tracking)
@@ -71,6 +72,13 @@ Click below to view deal
 * [Outdoors](https://stacksocial.com/collections/lifestyle/outdoors)
 * [Other](https://stacksocial.com/collections/lifestyle/other)
 
+* Gift Guides
+* [Gifts for Him](https://stacksocial.com/collections/gifts-for-him)
+* [Gifts for Her](https://stacksocial.com/collections/gifts-for-her)
+* [Gifts for the Techie](https://stacksocial.com/collections/gifts-for-the-techie)
+* [Lowest Price This Year](https://stacksocial.com/collections/lowest-price-this-year)
+* [Customer Favorites](https://stacksocial.com/collections/customer-favorites-perfect-for-gifting)
+
 * * [Apps & Software](https://stacksocial.com/collections/apps-software)
     * * [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
         * [Business](https://stacksocial.com/collections/apps-software/business)
@@ -118,6 +126,12 @@ Click below to view deal
     
 * * [Expert Picks](https://stacksocial.com/articles)
     
+* * [Gift Guides](https://stacksocial.com/collections/category-gift-guides)
+    * * [Gifts for Him](https://stacksocial.com/collections/gifts-for-him)
+        * [Gifts for Her](https://stacksocial.com/collections/gifts-for-her)
+        * [Gifts for the Techie](https://stacksocial.com/collections/gifts-for-the-techie)
+        * [Lowest Price This Year](https://stacksocial.com/collections/lowest-price-this-year)
+        * [Customer Favorites](https://stacksocial.com/collections/customer-favorites-perfect-for-gifting)
 
 Terms and Conditions
 --------------------
