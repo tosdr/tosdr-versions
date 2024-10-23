@@ -240,16 +240,26 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
+#### Great Users
 
   
+
+![Partner](/content/images/content/strip/wyatt.house.png)
+
   
 
-### Free for Open Source Projects
-
-We love open source projects. Contact us with details of your project.  
   
-[Contact Us](https://www.dynu.com/Support/ContactUs)
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
