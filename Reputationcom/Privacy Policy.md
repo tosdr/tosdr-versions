@@ -1,16 +1,4 @@
-✕
-
-[![National Leave a Review Day icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![National Leave a Review Day icon](https://reputation.com/wp-content/uploads/2024/09/nlard-star-whitebox.svg)
-
-National Leave a Review Day, Oct 22
-
-Start the Celebration](https://reputation.com/national-leave-a-review-day/)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAABIAQAAAAA/xdU8AAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tCF+gAAAAAAAAAAAAAAAAAAAAAIDXAEPIAAHYY2qcAAAAAElFTkSuQmCC)
-
-![](https://reputation.com/wp-content/uploads/2024/09/leaderboard-teal-wave-bg.png)
+[](https://reputation.com/)
 
 * [LOGIN](https://app.reputation.com/auth)
 * [CONTACT](https://reputation.com/contact/)
