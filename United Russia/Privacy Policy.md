@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев и Игорь Кобзев обсудили задачи «Единой России» в Иркутской области на 2025 год](https://cdn.er.ru/media/news/October2024/AUDBjQvjEkNshVdhI2Wc-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-i-igor-kobzev-obsudili-zadachi-edinoj-rossii-v-irkutskoj-oblasti-na-2025-god)
+
+[Владимир Якушев и Игорь Кобзев обсудили задачи «Единой России» в Иркутской области на 2025 год](https://er.ru/activity/news/vladimir-yakushev-i-igor-kobzev-obsudili-zadachi-edinoj-rossii-v-irkutskoj-oblasti-na-2025-god)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Брянский](https://er.ru/activity/news?tags%5B0%5D=1095010) [#Кобзев](https://er.ru/activity/news?tags%5B0%5D=12505) [#Иркутская область](https://er.ru/activity/news?tags%5B0%5D=1277) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#выборы-2024](https://er.ru/activity/news?tags%5B0%5D=1095023)
+
+Сегодня 16:48
+
+[![«Единая Россия» вместе с Минэнерго будут работать над привлечением инвестиций в теплоэлектроэнергетику](https://cdn.er.ru/media/news/October2024/4jvx9rnbnR3mikk7IsRD-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-minenergo-budut-rabotat-nad-privlecheniem-investicij-v-teploelektroenergetiku)
+
+[«Единая Россия» вместе с Минэнерго будут работать над привлечением инвестиций в теплоэлектроэнергетику](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-minenergo-budut-rabotat-nad-privlecheniem-investicij-v-teploelektroenergetiku)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#Минэнерго](https://er.ru/activity/news?tags%5B0%5D=4112) [#энергетика](https://er.ru/activity/news?tags%5B0%5D=266) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 15:38
+
+[![«Единая Россия» держит на контроле вопрос обновления лифтового хозяйства в стране](https://cdn.er.ru/media/news/October2024/L1u9BibG8ZHVJFrrEw0Y-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-derzhit-na-kontrole-vopros-obnovleniya-liftovogo-hozyajstva-v-strane)
+
+[«Единая Россия» держит на контроле вопрос обновления лифтового хозяйства в стране](https://er.ru/activity/news/edinaya-rossiya-derzhit-na-kontrole-vopros-obnovleniya-liftovogo-hozyajstva-v-strane)
+
+[#Ревенко](https://er.ru/activity/news?tags%5B0%5D=53034) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#лифтовое оборудование](https://er.ru/activity/news?tags%5B0%5D=91155) [#лифты](https://er.ru/activity/news?tags%5B0%5D=7350) [#многоквартирныедома](https://er.ru/activity/news?tags%5B0%5D=113466) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581)
+
+Сегодня 14:48
+
+[![«Единая Россия» и партия «Белая Русь» отправили гуманитарную помощь в Курск](https://cdn.er.ru/media/news/October2024/yx7GseN9OCAPW4dy1lNu-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-partiya-belaya-rus-otpravili-gumanitarnuyu-pomosh-v-kursk)
+
+[«Единая Россия» и партия «Белая Русь» отправили гуманитарную помощь в Курск](https://er.ru/activity/news/edinaya-rossiya-i-partiya-belaya-rus-otpravili-gumanitarnuyu-pomosh-v-kursk)
+
+[#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Беларусь](https://er.ru/activity/news?tags%5B0%5D=39204) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
+
+Сегодня 14:00
+
+[![Минстрой поддержал предложение «Единой России» по обязательному обеспечению жилищного строительства коммунальной инфраструктурой](https://cdn.er.ru/media/news/October2024/T4NxGIXsy31gVgjhENah-small.jpg)](https://er.ru/activity/news/minstroj-podderzhal-predlozhenie-edinoj-rossii-po-obyazatelnomu-obespecheniyu-zhilishnogo-stroitelstva-kommunalnoj-infrastrukturoj)
+
+[Минстрой поддержал предложение «Единой России» по обязательному обеспечению жилищного строительства коммунальной инфраструктурой](https://er.ru/activity/news/minstroj-podderzhal-predlozhenie-edinoj-rossii-po-obyazatelnomu-obespecheniyu-zhilishnogo-stroitelstva-kommunalnoj-infrastrukturoj)
+
+[#Разворотнева](https://er.ru/activity/news?tags%5B0%5D=11486) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#коммунальная инфраструктура](https://er.ru/activity/news?tags%5B0%5D=41774) [#жилищноестроительство](https://er.ru/activity/news?tags%5B0%5D=110649) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717)
+
+Сегодня 13:55
+
 [![Екатерина Стенякина: Более тысячи бойцов СВО стали участниками программы «Единой России» по социокультурной реабилитации](https://cdn.er.ru/media/news/October2024/tRqn331vezp4dqyrTMYj-small.jpg)](https://er.ru/activity/news/ekaterina-stenyakina-bolee-tysyachi-bojcov-svo-stali-uchastnikami-programmy-edinoj-rossii-po-sociokulturnoj-reabilitacii)
 
 [Екатерина Стенякина: Более тысячи бойцов СВО стали участниками программы «Единой России» по социокультурной реабилитации](https://er.ru/activity/news/ekaterina-stenyakina-bolee-tysyachi-bojcov-svo-stali-uchastnikami-programmy-edinoj-rossii-po-sociokulturnoj-reabilitacii)
@@ -306,46 +346,6 @@
 [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 Сегодня 12:00
-
-[![Евгений Нифантьев: «Единая Россия» подготовила законопроект о передвижных аптечных пунктах](https://cdn.er.ru/media/news/October2024/lgc90D0UTLO1wzhkA9im-small.jpg)](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-podgotovila-zakonoproekt-o-peredvizhnyh-aptechnyh-punktah)
-
-[Евгений Нифантьев: «Единая Россия» подготовила законопроект о передвижных аптечных пунктах](https://er.ru/activity/news/evgenij-nifantev-edinaya-rossiya-podgotovila-zakonoproekt-o-peredvizhnyh-aptechnyh-punktah)
-
-[#Нифантьев](https://er.ru/activity/news?tags%5B0%5D=150020) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#лекарства](https://er.ru/activity/news?tags%5B0%5D=144) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#лекарственноеобеспечение](https://er.ru/activity/news?tags%5B0%5D=132662) [#малыенаселенныепункты](https://er.ru/activity/news?tags%5B0%5D=123447) [#отдаленные села](https://er.ru/activity/news?tags%5B0%5D=32120)
-
-Сегодня 11:20
-
-[![О законопроекте, защищающем временных работников. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/XWWFyU4sxv6VqM8sTnE1-small.JPG)](https://er.ru/activity/news/o-zakonoproekte-zashishayushem-vremennyh-rabotnikov-statya-andreya-isaeva)
-
-[О законопроекте, защищающем временных работников. Статья Андрея Исаева](https://er.ru/activity/news/o-zakonoproekte-zashishayushem-vremennyh-rabotnikov-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#Трудовой кодекс РФ](https://er.ru/activity/news?tags%5B0%5D=17035)
-
-Сегодня 10:00
-
-[![«Единая Россия» и Минобрнауки организуют совместный контроль за программой ремонта общежитий вузов](https://cdn.er.ru/media/news/October2024/pphRaWNLAPtNydGshOIQ-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-i-minobrnauki-organizuyut-sovmestnyj-kontrol-za-programmoj-remonta-obshezhitij-vuzov)
-
-[«Единая Россия» и Минобрнауки организуют совместный контроль за программой ремонта общежитий вузов](https://er.ru/activity/news/edinaya-rossiya-i-minobrnauki-organizuyut-sovmestnyj-kontrol-za-programmoj-remonta-obshezhitij-vuzov)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Минобрнауки](https://er.ru/activity/news?tags%5B0%5D=340) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#совещание](https://er.ru/activity/news?tags%5B0%5D=190) [#контроль](https://er.ru/activity/news?tags%5B0%5D=312) [#общежития](https://er.ru/activity/news?tags%5B0%5D=3688)
-
-Сегодня 09:00
-
-[![Госдума приняла в первом чтении законопроект «Единой России» о дополнительных имущественных гарантиях военнослужащим](https://cdn.er.ru/media/news/October2024/AMb3YM2IwuLqW7JyYoxZ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnyh-imushestvennyh-garantiyah-voennosluzhashim)
-
-[Госдума приняла в первом чтении законопроект «Единой России» о дополнительных имущественных гарантиях военнослужащим](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-dopolnitelnyh-imushestvennyh-garantiyah-voennosluzhashim)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Красов](https://er.ru/activity/news?tags%5B0%5D=10499) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
-
-22.10.24
-
-[![Ирина Яровая: Законопроекты о противодействии нелегальной миграции позволят обеспечить безопасность граждан России](https://cdn.er.ru/media/news/October2024/1aDW0p78SdM4XEq2W1pa-small.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-o-protivodejstvii-nelegalnoj-migracii-pozvolyat-obespechit-bezopasnost-grazhdan-rossii)
-
-[Ирина Яровая: Законопроекты о противодействии нелегальной миграции позволят обеспечить безопасность граждан России](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-o-protivodejstvii-nelegalnoj-migracii-pozvolyat-obespechit-bezopasnost-grazhdan-rossii)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#миграция](https://er.ru/activity/news?tags%5B0%5D=203) [#миграционнаяполитика](https://er.ru/activity/news?tags%5B0%5D=117360) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
-
-22.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
