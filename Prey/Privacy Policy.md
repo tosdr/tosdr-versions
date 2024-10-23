@@ -118,13 +118,13 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![FCC Cybersecurity Pilot Program: A Quick Guide for EDU IT Managers](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/66f5ccc947f7eff9f8227ccb_FCC-Cybersecurity-Pilot-Program_A-Quick-Guide-for-EDU-IT-Managers.png)
+[![Backup and remote wiping procedures](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/67190105eb9c654bc594c9ac_Backup-and-Remote-Wiping-Procedures.png)
 
 Editor's Pick
 
-FCC Cybersecurity Pilot Program: A Quick Guide for EDU IT Managers
+Backup and remote wiping procedures
 
-The Federal Communications Commission (FCC) has launched the 2024 Cybersecurity Pilot Program, a $200 million program to help the most vulnerable schools in America. Learn how to apply.](https://preyproject.com/blog/fcc-cybersecurity-pilot-program-a-quick-guide-for-edu-it-managers)
+Discover strategies for secure backups, data encryption, off-site storage, and remote wipe methods to ensure business continuity and data protection.](https://preyproject.com/blog/backup-and-remote-wiping-procedures)
 
 Menu icon
 
