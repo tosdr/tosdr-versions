@@ -98,7 +98,8 @@
 
 [Legal](https://www.voodoo.io/legal)
 
-### Privacy Policy
+Privacy Policy
+==============
 
 Last updated March 28, 2024
 
@@ -273,6 +274,8 @@ Entertain the world
 
 [](https://twitter.com/voodooplatform)
 
+© 2024 Voodoo
+
 Services
 
 [Publishing](https://www.voodoo.io/publishing)
@@ -289,6 +292,8 @@ About us
 
 [News](https://www.voodoo.io/news)
 
+Legal
+
 [Terms of service](https://www.voodoo.io/terms)
 
 [Privacy](https://www.voodoo.io/privacy)
@@ -299,7 +304,43 @@ About us
 
 Cookie Settings
 
-Copyright © 2024 Voodoo
+Entertain the world
+
+[](https://www.linkedin.com/company/voodoo.io)
+
+[](https://www.instagram.com/voodoo.io/)
+
+[](https://twitter.com/voodooplatform)
+
+© 2024 Voodoo
+
+Services
+
+[Publishing](https://www.voodoo.io/publishing)
+
+[Academy](https://www.voodoo.io/academy)
+
+[Ads](https://www.voodoo.io/ads)
+
+About us
+
+[Company](https://www.voodoo.io/company)
+
+[Careers](https://www.voodoo.io/careers)
+
+[News](https://www.voodoo.io/news)
+
+Legal
+
+[Terms of service](https://www.voodoo.io/terms)
+
+[Privacy](https://www.voodoo.io/privacy)
+
+[Legal](https://www.voodoo.io/legal)
+
+[Cookie Policy](https://www.voodoo.io/cookie-policy)
+
+Cookie Settings
 
 Entertain the world
 
@@ -325,6 +366,8 @@ About us
 
 [News](https://www.voodoo.io/news)
 
+Legal
+
 [Terms of service](https://www.voodoo.io/terms)
 
 [Privacy](https://www.voodoo.io/privacy)
@@ -335,7 +378,7 @@ About us
 
 Cookie Settings
 
-Copyright © 2024 Voodoo
+© 2024 Voodoo
 
 Entertain the world
 
@@ -344,6 +387,8 @@ Entertain the world
 [](https://www.instagram.com/voodoo.io/)
 
 [](https://twitter.com/voodooplatform)
+
+© 2024 Voodoo
 
 Services
 
@@ -361,41 +406,7 @@ About us
 
 [News](https://www.voodoo.io/news)
 
-[Terms of service](https://www.voodoo.io/terms)
-
-[Privacy](https://www.voodoo.io/privacy)
-
-[Legal](https://www.voodoo.io/legal)
-
-[Cookie Policy](https://www.voodoo.io/cookie-policy)
-
-Cookie Settings
-
-Copyright © 2024 Voodoo
-
-Entertain the world
-
-[](https://www.linkedin.com/company/voodoo.io)
-
-[](https://www.instagram.com/voodoo.io/)
-
-[](https://twitter.com/voodooplatform)
-
-Services
-
-[Publishing](https://www.voodoo.io/publishing)
-
-[Academy](https://www.voodoo.io/academy)
-
-[Ads](https://www.voodoo.io/ads)
-
-About us
-
-[Company](https://www.voodoo.io/company)
-
-[Careers](https://www.voodoo.io/careers)
-
-[News](https://www.voodoo.io/news)
+Legal
 
 [Terms of service](https://www.voodoo.io/terms)
 
@@ -406,5 +417,3 @@ About us
 [Cookie Policy](https://www.voodoo.io/cookie-policy)
 
 Cookie Settings
-
-Copyright © 2024 Voodoo
