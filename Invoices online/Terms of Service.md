@@ -196,59 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=33002238)  
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=181389434)  
+Karino Merinos ( PTY ) LTD
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=55099470)  
+Mountain Lion Properties
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=119203724)  
 Van Der Merwe Olieverspreiders
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=4254458)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=35019052)  
+Brilliant Roof Products
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=85930647)  
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=180137838)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=168938838)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=123801655)  
+SLOANE STAR MEAT MARKET
+
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=98890601)  
 Moving Made Easy (PTY) Ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=25591285)  
-SMART GUY PCS (PTY) LTD
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=59376971)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=75797209)  
-MONSTER CONNECT (PTY) LTD
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=89291192)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=151527867)  
-Testpro Laboratory (Pty) Ltd
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=33422892)  
+Creative Characters
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=148037355)  
-SA Security Brokerz (Pty) Ltd
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=99455548)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=26224241)  
-Highlands Auto Engineering
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=68815244)  
+Cooper Logistics (Pty) Ltd
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=164854212)  
-BD Maintenance
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=188422081)  
+Lion Software Develepment
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=186104181)  
-CLEVER STUDENTS
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=39547541)  
-Druce Digital
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=100368978)  
-Immediate Health (pty)ltd
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=100980952)  
-Desygn
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=36194969)  
-CBR Verwe/Paints
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=afd7910df6c7d21e0ee2bcc2debfb4db433202ac9f7d54283ba64410e72f3bf7&c=80287919)  
-Hydroworld T/A Milliqua
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=a2bdc1f2b45bd84fb45833f4cba5be2e21797097ef693faee5925184370962d0&c=181826402)  
+Kinetic Power Solutions (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
