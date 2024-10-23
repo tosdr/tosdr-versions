@@ -12,6 +12,7 @@
 * [](https://www.linkedin.com/in//company/meditofoundation)
 
 * [Donate](https://donate.meditofoundation.org/)
+* [Download](https://medito.app/)
 
 Terms of service
 ================
