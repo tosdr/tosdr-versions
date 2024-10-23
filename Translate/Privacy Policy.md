@@ -1,13 +1,7 @@
-Open menu [**Translate**.com](https://www.translate.com/)
+[**Translate**.com](https://www.translate.com/)
 
 * Solutions
-    * [Zendesk translation](https://www.translate.com/integrations/zendesk)
-    * [Customer Service Outsourcing](https://wow24-7.io/?utm_source=translate.com&utm_medium=referral&utm_campaign=website)
-    * [Localization via JSON](https://www.translate.com/services/json-translation)
-    * [File translation](https://www.translate.com/order)
-    * [Translation API](https://www.translate.com/translation-api)
-    * [Integrations](https://www.translate.com/integrations)
-    * [Localization via Zapier](https://www.translate.com/integrations/zapier)
+    
 * Services
     
     * By content
@@ -17,7 +11,6 @@ Open menu [**Translate**.com](https://www.translate.com/)
     * By use cases
         * [Machine translation](https://www.translate.com/machine-translation)
         * [Human translation](https://www.translate.com/order)
-        * [Localization services](https://www.translate.com/localization)
         * [Technical translation](https://www.translate.com/services/technical-translation)
         * [Medical translation](https://www.translate.com/services/medical-translation)
         * [Business translation](https://www.translate.com/services/business-translation)
@@ -43,14 +36,15 @@ Open menu [**Translate**.com](https://www.translate.com/)
     
 * [Subscription](https://www.translate.com/services/document-translation)
     * [Online Machine Translation](https://www.translate.com/online-machine-translation-pricing)
-    * [API Translation](https://www.translate.com/api-translation-pricing)
-    * [Zendesk Translation](https://www.translate.com/integrations/zendesk)
+    * [API Pricing](https://www.translate.com/api-translation-pricing)
+    * [Zendesk Pricing](https://www.translate.com/integrations/zendesk)
 * Company
     * [About us](https://www.translate.com/about-us)
-    * [Reviews](https://www.translate.com/reviews)
     * [Our clients & case studies](https://www.translate.com/pages/customer_testimonials)
     * [Help center](https://www.translate.com/faq)
     * [Contact us](https://www.translate.com/contact-us)
+    * [Customer Service Outsourcing](https://wow24-7.io/?utm_source=translate.com&utm_medium=referral&utm_campaign=website)
+* [Reviews](https://www.translate.com/reviews)
 * [Become a translator](https://www.translate.com/contact-us?reason=2)
 
 * Sign in
@@ -58,11 +52,12 @@ Open menu [**Translate**.com](https://www.translate.com/)
     * [Sign up](https://www.translate.com/users/customer_create)
 * Translate now
 
-* [File translation](https://www.translate.com/order)
-* [Proofreading](https://www.translate.com/services/proofreading)
-* [Translation API](https://www.translate.com/translation-api)
-* [Localization via Zapier](https://www.translate.com/integrations/zapier)
-* [Zendesk translation](https://www.translate.com/integrations/zendesk)
+* [Document Translator](https://www.translate.com/order)
+* [JSON Translator](https://www.translate.com/order)
+* [Zendesk Integration](https://www.translate.com/integrations/zendesk)
+* [Machine Translation Review](https://www.translate.com/services/proofreading)
+* [API Integration](https://www.translate.com/translation-api)
+* [Zapier Integration](https://www.translate.com/integrations/zapier)
 
 Select a translation service
 
@@ -723,32 +718,33 @@ This Agreement, including these terms and conditions (Terms), constitutes a lega
 15. **Miscellaneous.** The failure of either party to enforce its rights under this Agreement at any time for any period shall not be construed as a waiver of such rights. In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. This Agreement, together with the Privacy Policy at [www.translate.com/legal](https://translate.com/legal), and the pricing schedule at [www.translate.com/pricing](http://translate.com/pricing), and any other legal notices published by us on the Site, shall constitute the entire agreement between you and Company.
     
 
-* [Translate Android App](https://play.google.com/store/apps/details?id=com.sws.translate.subscribe)
-* [Facebook](https://www.facebook.com/go.global.with.translate/)
-* [LinkedIn](https://www.linkedin.com/company/translate-com/)
+[![](/next/images/core/footer_logo.svg)](https://www.translate.com/)
+
+Business time 7 AM to 4 PM (UTC 0), Mon-Fri.
+
+* [![](/next/images/core/social-facebook.svg)](https://www.facebook.com/go.global.with.translate/)
+* [![](/next/images/core/social-linkedin.svg)](https://www.linkedin.com/company/translate-com/)
+* [![](/next/images/core/social-twitter.svg)](https://x.com/translatecom)
+* [![](/next/images/core/social-youtube.svg)](https://www.youtube.com/@TranslatecomOfficial)
 
 For Customers
 
-* [Translate Services](https://www.translate.com/services)
-* [Online Document Translation Service](https://www.translate.com/services/document-translation)
+* [Translate.com Services](https://www.translate.com/services)
+* [Translate Document Online](https://www.translate.com/services/document-translation)
 * [Business translation](https://www.translate.com/services/business-translation)
 * [Medical translation](https://www.translate.com/services/medical-translation)
 * [Technical translation](https://www.translate.com/services/technical-translation)
 * [Email translation](https://www.translate.com/services/email-translation)
-* [JSON translation](https://www.translate.com/services/json-translation)
-* [Language Translation Services](https://www.translate.com/languages)
 * [Proofreading](https://www.translate.com/services/proofreading)
 
 For Business
 
-* [Translation API](https://www.translate.com/translation-api)
-* [Machine Translation Service](https://www.translate.com/machine-translation)
-* [Human translation](https://www.translate.com/order)
-* [Integrations](https://www.translate.com/integrations)
-* [Localization](https://www.translate.com/localization)
-* [Translation rates](https://www.translate.com/translation-rates)
-* [Translation company](https://www.translate.com/translation-company)
-* [Translation agency](https://www.translate.com/translation-agency)
+* [Translate.com API](https://www.translate.com/translation-api)
+* [API Documentation](https://translation-api.translate.com/api/documentation)
+* [Zendesk Integration](https://www.translate.com/integrations/zendesk)
+* [Zapier Integration](https://www.translate.com/integrations/zapier)
+* [All Integrations](https://www.translate.com/integrations)
+* [Translate JSON](https://www.translate.com/services/json-translation)
 
 Resources
 
@@ -759,12 +755,13 @@ Resources
 Company
 
 * [About us](https://www.translate.com/about-us)
-* [Terms of Service](https://www.translate.com/legal)
-* [Our Customers](https://www.translate.com/pages/customer_testimonials)
-* [Help center](https://www.translate.com/faq)
-* [For Translators](https://www.translate.com/translators)
 * [Contact us](https://www.translate.com/contact-us)
 * [Customer Service Outsourcing](https://wow24-7.io/?utm_source=translate.com&utm_medium=referral&utm_campaign=website)
+* [Terms of Service](https://www.translate.com/legal)
+* [Help center](https://www.translate.com/faq)
+* [For Translators](https://www.translate.com/translators)
+
+Copyright ©2011-2024 TranslateLLC. All rights reserved.
 
 Our cookies
 
