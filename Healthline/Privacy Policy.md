@@ -190,14 +190,21 @@
 
 Subscribe
 
-[#### Inflammatory Bowel Disease](https://www.healthline.com/inflammatory-bowel-disease)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* [Basics of IBD](https://www.healthline.com/inflammatory-bowel-disease/ibd-basics)
-* [Treatments](https://www.healthline.com/inflammatory-bowel-disease/treating-ibd)
-* [Food & Gut Health](https://www.healthline.com/inflammatory-bowel-disease/food-gut-health)
-* [Live Well with IBD](https://www.healthline.com/inflammatory-bowel-disease/lifestyle-ibd)
-* [Community](https://apps.apple.com/us/app/ibd-healthline/id1459294732)
-* [Newsletter](https://www.healthline.com/newsletter-signup/ibd)
+* Stages
+    
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
+    
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Privacy Policy
 ==============
