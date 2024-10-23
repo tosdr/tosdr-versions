@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 23, 2024
+    
+    [U.S. Department of the Treasury Announces Awards to Support Development of 26,400 Affordable Housing Units](https://home.treasury.gov/news/press-releases/jy2668)
+    
     October 22, 2024
     
     [U.S. Department of the Treasury Releases Final Rules to Strengthen U.S. Semiconductor Industry](https://home.treasury.gov/news/press-releases/jy2664)
@@ -562,10 +566,6 @@ MENU MENU
     October 21, 2024
     
     [Price Cap Coalition Issues Updated Advisory for Maritime Industry](https://home.treasury.gov/news/press-releases/jy2659)
-    
-    October 17, 2024
-    
-    [Treasury International Capital Data for August](https://home.treasury.gov/news/press-releases/jy2655)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
