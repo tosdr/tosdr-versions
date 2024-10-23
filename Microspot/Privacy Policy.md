@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1584.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -127,7 +127,7 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-04-Oktober-iPad-mini5.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTU4NjB8aW1hZ2UvanBlZ3xhRFk0TDJobVlpOHhNVGd3ZURNMU1GOUpNalJmTURSZlQydDBiMkpsY2w5cFVHRmtYMjFwYm1rMUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOHhNVGd3ZURNMU1GOUpNalJmTURSZlQydDBiMkpsY2w5cFVHRmtYMjFwYm1rMUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDZlNTNmZWUzODEzZWU4NDQ4NGEwMjQwMGZlODc3NWM3NDM0ZmJkOGI0ZjYxYWEyMGE3MmFlZGVjNmViYTZiZmU&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-04-Oktober-iPad-mini5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4MTAwM3xpbWFnZS9qcGVnfGFHWXpMMmc1T1M4NE1qaDRNelV3WDBreU5GOHdORjlQYTNSdlltVnlYMmxRWVdSZmJXbHVhVFV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpneU9IZ3pOVEJmU1RJMFh6QTBYMDlyZEc5aVpYSmZhVkJoWkY5dGFXNXBOUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8MjU2MDcwZDE4Y2Q2NjBiMTg4NzdhYzk0YWU5NTdjZWVjNTY4YTY0NzBiNDkwYmIwZDhmMWU3NjY2Y2I0MzI3Yg&w=2360&q=75)](https://www.microspot.ch/fr/cms/ipad-mini-2024)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-04-Oktober-iPad-mini8.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTYzNzl8aW1hZ2UvanBlZ3xhRFl5TDJnM01pOHhNVGd3ZURNMU1GOUpNalJmTURSZlQydDBiMkpsY2w5cFVHRmtYMjFwYm1rNExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOHhNVGd3ZURNMU1GOUpNalJmTURSZlQydDBiMkpsY2w5cFVHRmtYMjFwYm1rNExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDVjZTMxZDZiY2M2Mjg5ZTY2MTAzZTdmZDIxMGRjZDdlYTI2MWZjY2I1N2IyNTQwYjNkZTM0ODVlOTU1Y2FmNWE&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-04-Oktober-iPad-mini8.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4MTQwNHxpbWFnZS9qcGVnfGFHUTNMMmhrTXk4NE1qaDRNelV3WDBreU5GOHdORjlQYTNSdlltVnlYMmxRWVdSZmJXbHVhVGd1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpneU9IZ3pOVEJmU1RJMFh6QTBYMDlyZEc5aVpYSmZhVkJoWkY5dGFXNXBPQzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGYxYjg1NzRmNGRmNWM1OTMxNTFhYzljYzM5ZDhiYjQ4YjZjNDQ1NmFlMDM5NWEwODY0OGY0N2NjODVkMTA3Yg&w=2360&q=75)](https://www.microspot.ch/fr/cms/ipad-mini-2024)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0692-CM1-Samsung-Cashback5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1MDIzN3xpbWFnZS9qcGVnfGFHUTNMMmc1TVM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFk1TWw5RFRURmZVMkZ0YzNWdVoxOURZWE5vWW1GamF6VXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qa3lYME5OTVY5VFlXMXpkVzVuWDBOaGMyaGlZV05yTlM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGU5NjBmYWExY2UzNzZmYzRiYmRjMjFhYzY3ZTM2ZWU3YjhkNzgxMmI0ZjAxZTI1MDc2OWQ4YzJhNTljMjhjMmE&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0692-CM1-Samsung-Cashback5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0Mzk1NXxpbWFnZS9qcGVnfGFERTVMMmhqWXk4NE1qaDRNelV3WDBreU5GOHdOamt5WDBOTk1WOVRZVzF6ZFc1blgwTmhjMmhpWVdOck5TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPREk0ZURNMU1GOUpNalJmTURZNU1sOURUVEZmVTJGdGMzVnVaMTlEWVhOb1ltRmphelV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGU1NjBmNDIyNjk1ZTA2YjA3ZWFmZTMwYmI1ZjhlY2JkMWU3ZWI0ODQ0NzE3ODQ5OWVkY2FjMTkyNTI4YmI3ZjI&w=2360&q=75)](https://www.microspot.ch/fr/cms/samsung-smartphone)
 
@@ -211,10 +211,6 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Garantie Plus
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
@@ -222,6 +218,10 @@ prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Frais de port gratuits pour livraison
+
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
