@@ -299,4 +299,4 @@ London N1 6NN
 
 [Privacy](https://flourish.studio/privacy)
 
-[Visualizing 100 years of US elections with interactive maps Read our latest blog posts »](https://flourish.studio/blog)
+[Grid maps: where charts meet maps for easy data comparison Read our latest blog posts »](https://flourish.studio/blog)
