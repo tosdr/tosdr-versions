@@ -1,69 +1,3 @@
-[Find designers](http://dribbble.com/hiring)
-
-[Inspiration](https://dribbble.com/shots/popular)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Go Pro](https://dribbble.com/pro)
-
-[](https://dribbble.com/)
-
-[Find designers](http://dribbble.com/hiring)
-
-[Inspiration](https://dribbble.com/shots/popular)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Go Pro](https://dribbble.com/pro)
-
-[](https://dribbble.com/)
-
-[Find designers](http://dribbble.com/hiring)
-
-[Inspiration](https://dribbble.com/shots/popular)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Go Pro](https://dribbble.com/pro)
-
-[](https://dribbble.com/)
-
-[Log in](https://dribbble.com/)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Inspiration](https://dribbble.com/)
-
-[Designer search
-
-Quickly find your next designer](https://dribbble.com/designers)[Post your job
-
-The #1 job board for design talent](https://dribbble.com/jobs/new)
-
-[Go Pro](https://dribbble.com/pro-old)
-
-[Find designers](https://dribbble.com/hiring-old)
-
-[](https://dribbble.com/)
-
-[Log in](https://dribbble.com/)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Inspiration](https://dribbble.com/)
-
-[Designer search
-
-Quickly find your next designer](https://dribbble.com/designers)[Post your job
-
-The #1 job board for design talent](https://dribbble.com/jobs/new)
-
-[Go Pro](https://dribbble.com/pro-old)
-
-[Find designers](https://dribbble.com/hiring-old)
-
-[](https://dribbble.com/)
-
 [Terms of Service](https://dribbble.com/terms-old)
 
 [Privacy Policy](https://dribbble.com/privacy)
@@ -87,6 +21,27 @@ The #1 job board for design talent](https://dribbble.com/jobs/new)
 [Cookies](https://dribbble.com/cookie-policy)
 
 [Conduct](https://dribbble.com/guidelines-2)
+
+Cookies policy
+
+Our cookie policy
+=================
+
+This Cookie Policy takes effect on June 3, 2022. Last updated on August 1, 2023.
+
+Cookies policy
+
+Our cookie policy
+=================
+
+This Cookie Policy takes effect on June 3, 2022. Last updated on August 1, 2023.
+
+Cookies policy
+
+Our cookie policy
+=================
+
+This Cookie Policy takes effect on June 3, 2022. Last updated on August 1, 2023.
 
 Cookies policy
 
