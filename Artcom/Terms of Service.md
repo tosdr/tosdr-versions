@@ -298,9 +298,9 @@ Cancel
 
 [Spooky Chic](https://www.art.com/gallery/id--b42703/spooky-chic-posters.htm "Spooky Chic")
 
-[Winter White](https://www.art.com/gallery/id--b41441/winter-white-posters.htm "Winter White")
+[Vintage Christmas](https://www.art.com/gallery/id--b20120/winter-wonderland-posters.htm "Vintage Christmas")
 
-[Winter Wonderland](https://www.art.com/gallery/id--b20120/winter-wonderland-posters.htm "Winter Wonderland")
+[Winter White](https://www.art.com/gallery/id--b41441/winter-white-posters.htm "Winter White")
 
 [Photography](https://www.art.com/gallery/id--c23946/photography-prints.htm "Photography")
 
