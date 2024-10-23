@@ -129,7 +129,7 @@ mobile-district-nav
         * [Lake Washington High School](https://lwhs.lwsd.org/)
         * [Redmond High School](https://rhs.lwsd.org/)
         * [Tesla STEM High School](https://tesla.lwsd.org/)
-        * [WANIC](https://lwsdorg-1372-us-west1-01.preview.finalsitecdn.com/)
+        * [WANIC](https://wanic.lwsd.org/)
         * [More Info](https://www.lwsd.org/schools/high-schools/more-info)
         
     * [Other Programs](https://www.lwsd.org/schools/other-programs)
@@ -394,7 +394,7 @@ our schools
     * [Lake Washington High School](https://lwhs.lwsd.org/)
     * [Redmond High School](https://rhs.lwsd.org/)
     * [Tesla STEM High School](https://tesla.lwsd.org/)
-    * [WANIC](https://lwsdorg-1372-us-west1-01.preview.finalsitecdn.com/)
+    * [WANIC](https://wanic.lwsd.org/)
     * [More Info](https://www.lwsd.org/schools/high-schools/more-info)
     
 * [Other Programs](https://www.lwsd.org/schools/other-programs)
