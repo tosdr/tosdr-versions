@@ -2716,7 +2716,7 @@ Na przykład Playtika może gromadzić i przechowywać niektóre lub wszystkie p
 * informacje o Twojej aktywności w lub za pośrednictwem aplikacji strony trzeciej;
 * inne informacje udostępnione w aplikacji strony trzeciej;
 * wszelkie inne informacje, które Ty lub dostawca aplikacji strony trzeciej udostępniacie Playtika.
-* Jeśli uzyskujesz dostęp do naszych Usług z aplikacji strony trzeciej lub łączysz nasze Usługi z aplikacją strony trzeciej, powinieneś również przeczytać Warunki świadczenia usług i Politykę prywatności tej strony trzeciej.
+* Jeśli uzyskujesz dostęp do naszych Usług z aplikacji strony trzeciej lub łączysz nasze Usługi z aplikacją strony trzeciej, powinieneś również przeczytać [Warunki świadczenia usług](https://www.playtika.com/terms-service/) i Politykę prywatności tej strony trzeciej.
 
 Jeśli nie masz pewności, jakie informacje udostępnia nam aplikacja strony trzeciej, przejdź do aplikacji strony trzeciej, aby uzyskać więcej informacji na temat jej praktyk ochrony prywatności.
 
@@ -2949,7 +2949,7 @@ Podejmujemy uzasadnione kroki mające na celu ochronę danych osobowych; jednak 
 
 D.    Linki do innych stron/aplikacji
 
-Usługa może zawierać linki do innych stron internetowych i/lub aplikacji, które są własnością innych firm i/lub są przez nie obsługiwane. Wszelkie informacje, które podajesz na takich stronach i/lub aplikacjach, podlegają polityce prywatności takiej strony lub aplikacji, a Playtika nie ponosi odpowiedzialności za treść, politykę prywatności, warunki użytkowania lub praktyki bezpieczeństwa takiej strony i/lub aplikacji. Zapoznaj się z warunkami świadczenia usług i polityką prywatności każdej strony lub aplikacji, do której uzyskujesz dostęp.
+Usługa może zawierać linki do innych stron internetowych i/lub aplikacji, które są własnością innych firm i/lub są przez nie obsługiwane. Wszelkie informacje, które podajesz na takich stronach i/lub aplikacjach, podlegają polityce prywatności takiej strony lub aplikacji, a Playtika nie ponosi odpowiedzialności za treść, politykę prywatności, warunki użytkowania lub praktyki bezpieczeństwa takiej strony i/lub aplikacji. Zapoznaj się z [Warunkami świadczenia usług](https://www.playtika.com/terms-service/) i polityką prywatności każdej strony lub aplikacji, do której uzyskujesz dostęp.
 
 E.     Aktualizacje
 
@@ -3703,6 +3703,8 @@ You have a right to withdraw from the service difference at any time. To do so, 
 * [PL](#pl)
 * [ZH-TW](#zh-tw)
 * [TU](#tu)
+* [HI](#hi)
+* [AR](#ar)
 * [Terms Of Service](https://www.playtika.com/terms-service)
 
 Privacy Notice
@@ -3758,19 +3760,17 @@ _
 
 Different Playtika subsidiaries own and operate our games as set out below. This also means that different Playtika subsidiaries will be the controller of your information, as set out below.
 
-Company & Controller
-
-Games owned and operated
-
 |     |     |
 | --- | --- |
-| Playtika Ltd | Slotomania,<br><br>Caesars Slots,<br><br>World Series of Poker,<br><br>Poker Heat,<br><br>Pirate Kings,<br><br>Board Kings,<br><br>Governor of Poker 3,<br><br>Monopoly Poker,<br><br>Poker World, and<br><br>Vegas Downtown Slots |
-| Playtika UK – House of Fun Limited | House of Fun |
-| Playtika Santa Monia, LLC | Bingo Blitz |
-| Supertreat GmbH | Solitaire Grand Harvest |
-| Seriously Digital Entertainment Oy | Best Fiends, and<br><br>Best Fiends Stars |
-| Reworks Oy | Redecor |
-| GS Innplay Labs Ltd | Animals & Coins, and<br><br>Tiles of Fortune |
+| **_Game_** | **_Responsible Playtika Entity_** |
+| Board Kings <br><br>Governor of Poker 3 <br><br>Caesars Slots <br><br>Monopoly Poker <br><br>Merge Tower Bots <br><br>Pirate Kings <br><br>Poker Heat <br><br>Poker World <br><br>Slotomania <br><br>Vegas Downtown Slots <br><br>World Series of Poker | **Playtika Ltd.** <br><br>8 HaChoshlim St., Herzliya, Israel 4672408 |
+| House of Fun | **Playtika UK - House of Fun Limited** <br><br>4 Thomas More Square, London E1W 1YW, England |
+| Bingo Blitz | **Playtika Santa Monica, LLC** <br><br>2225 Village Walk Dr. Suite 240, Henderson, Nevada 89052 USA |
+| Solitaire Grand Harvest | **Supertreat GmbH** <br><br>Teinfaltstrasse 4/9, Vienna 1010, Austria |
+| Best Fiends <br><br>Best Fiends Stars | **Seriously Digital Entertainment Oy** <br><br>Runeberginkatu 5 00100 Helsinki, Finland |
+| Redecor | **Reworks Oy** <br><br>Runeberginkatu 5 00100 Helsinki, Finland |
+| Animals & Coins <br><br>Tiles of Fortune | **GS InnPlay Labs Ltd.** <br><br>8 HaSadnaot St., Herzliya, Israel |
+| 1v1.LOL | **Justplay. LOL. LTD** <br><br>8 HaChoshlim St., Herzliya, 4672408, Israel |
 
 If you need to contact us about a privacy issue, please use the Contact Us section below. You also can find the postal addresses for each of these companies in the Playtika [Terms of Service](https://www.playtika.com/terms-service/).
 
@@ -4234,12 +4234,6 @@ _In the United States, there are various ways to submit an opt-out request. For 
 If you have any questions, comments or concerns about this Privacy Notice or any other privacy issue please contact Playtika’s Privacy Team via email at [\[email protected\]](https://www.playtika.com/cdn-cgi/l/email-protection) identifying the game(s) that relate to your query. Where applicable, the EU legal representative is Homerun Ciero S.R.L and the UK legal representative is Playtika UK – House of Fun Limited and you can contact by email at [\[email protected\]](https://www.playtika.com/cdn-cgi/l/email-protection).
 
 Alternatively, you can submit queries via our [Playtika Privacy Portal](https://playtikaprod.service-now.com/privacy_security.do), the Privacy Option in the Support Section of our games (if available) or via post at Chief Privacy Officer, 8 Hachoshlim St., Herzliya Pituach 4672408 Israel.
-
-ES
-
-DE
-
-JA
 
 #### Company
 
