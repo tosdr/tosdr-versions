@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Kabuki Klash](https://www.myabandonware.com/game/kabuki-klash-jy5)
+* [Mahjong Block Jongbou](https://www.myabandonware.com/game/mahjong-block-jongbou-9mg)
 * [Magic Johnson's Fast Break](https://www.myabandonware.com/game/magic-johnson-s-fast-break-p2)
 * [Voice Paradise](https://www.myabandonware.com/game/voice-paradise-syp)
 * [Tonari no Princess Rolfee](https://www.myabandonware.com/game/tonari-no-princess-rolfee-syo)
-* [Comicroad](https://www.myabandonware.com/game/comicroad-syn)
-* [Chip Chan Kick!](https://www.myabandonware.com/game/chip-chan-kick-syl)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
