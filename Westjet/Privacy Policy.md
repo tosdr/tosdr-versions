@@ -549,7 +549,7 @@ At the airport
 
 * [Lounges](https://www.westjet.com/en-ca/airport/lounges)
 * [Priority services](https://www.westjet.com/en-ca/airport/priority-services)
-* [Security screening](https://www.westjet.com/en-ca/airport/security-screening)
+* [Priority security](https://www.westjet.com/en-ca/airport/security-screening)
 * [Parking](https://www.westjet.com/en-ca/airport/parking-deals)
 
 In the air
