@@ -309,17 +309,17 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_1.jpg.webp?itok=3BCRcaDU)
+
+News
+
+Der neue Homematic IP Heizkörperthermostat – pure: der ideale Energiesparhelfer für den Winter](https://homematic-ip.com/de/news/heizkoerperthermostat-pure-minimalistisches-design)
+
  [![](/sites/default/files/styles/thumbnail/public/images/teaser-hydraulischer-abgleich.jpg.webp?itok=wTOV4CJx)
 
 News
 
 TÜV Rheinland zertifiziert den automatischen hydraulischen Abgleich mit Homematic IP](https://homematic-ip.com/de/news/tuev-zertifiziert-automatischen-hydraulischen-abgleich)
-
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_0.jpg.webp?itok=dAHAfRh_)
-
-News
-
-Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert](https://homematic-ip.com/de/news/sicherheits-champion-homematic-ip-zum-achten-mal-folge-vom-vde-zertifiziert)
 
 [Okt.
 
