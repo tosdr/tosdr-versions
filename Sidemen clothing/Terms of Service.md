@@ -446,6 +446,7 @@ See also clause 8.3.
 SITEMAP
 
 * [NEW](https://www.sidemenclothing.com/collections/new-arrivals)
+* [SDMN x TMNT](https://www.sidemenclothing.com/collections/sdmn-x-tmnt)
 * [SDMN X HOT WHEELS](https://www.sidemenclothing.com/collections/sdmn-x-hot-wheels)
 * [COLLECTIONS](https://www.sidemenclothing.com/collections/newest)
 * [CLOTHING](https://www.sidemenclothing.com/collections/newest)
