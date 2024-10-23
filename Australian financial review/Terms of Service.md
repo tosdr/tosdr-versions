@@ -320,29 +320,31 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1839%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/95fc42561f4927cd89e10ed48bfe2063b2592331)](https://www.afr.com/life-and-luxury/food-and-wine/soak-up-the-melbourne-cup-atmosphere-at-these-top-wine-bars-20241016-p5kiwj)
+[![ ](https://static.ffx.io/images/$zoom_0.2474%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/34d453cde12a9203c38b2a52d9455ccfa70648cf)](https://www.afr.com/life-and-luxury/fashion-and-style/an-emily-in-paris-bag-men-s-undies-and-a-million-dollar-brooch-20241015-p5kiew)
 
-### [Soak up the Melbourne Cup atmosphere at these top wine bars](https://www.afr.com/life-and-luxury/food-and-wine/soak-up-the-melbourne-cup-atmosphere-at-these-top-wine-bars-20241016-p5kiwj)
+### [An Emily in Paris bag, men’s undies and a million-dollar brooch](https://www.afr.com/life-and-luxury/fashion-and-style/an-emily-in-paris-bag-men-s-undies-and-a-million-dollar-brooch-20241015-p5kiew)
 
-* Max Allen
+* 55 mins ago
+* Eugenie Kelly
 
-* ### [The property buyer who very nearly played basketball with Kanye](https://www.afr.com/life-and-luxury/health-and-wellness/the-property-buyer-who-very-nearly-played-basketball-with-kanye-20241015-p5kihj)
+* ### [Six years on, Lanson Place opens in historic Melbourne building](https://www.afr.com/life-and-luxury/travel/six-years-on-lanson-place-opens-in-historic-melbourne-building-20241011-p5khj6)
     
-* ### [The Aussie at the helm of the world’s wealthiest art museum](https://www.afr.com/life-and-luxury/arts-and-culture/the-aussie-at-the-helm-of-the-world-s-wealthiest-art-museum-20240923-p5kcm2)
+* ### [Off to the races? Jackie Frank’s advice for dressing the part](https://www.afr.com/life-and-luxury/fashion-and-style/off-to-the-races-jackie-frank-s-advice-for-dressing-the-part-20240912-p5k9zh)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Dissh CEO Lucy Henry-Hicks has turned around the label and now it’s a staple in Australian women’s wardrobes.](https://static.ffx.io/images/$zoom_0.4019%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_858/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/726b41afad43033289f166f9c54f09aecde48606)](https://www.afr.com/young-rich/lucy-henry-hicks-knows-what-young-women-want-20241004-p5kfx5)
+[![Melanie Perkins, Cliff Obrecht, Ed Craven; Sam Prince, James Ferguson, Robbie Ferguson.](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d85b40e00a6c85db48f4246bc9cac0e138ffde8d)](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
 
-### [Lucy Henry-Hicks knows what young women want](https://www.afr.com/young-rich/lucy-henry-hicks-knows-what-young-women-want-20241004-p5kfx5)
+### [The 10 richest young Australians revealed](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
 
-* Lauren Sams
+* 55 mins ago
+* Yolanda Redrup
 
-* ### [How White Fox duo conquered tween fashion and made $200m](https://www.afr.com/young-rich/how-gen-z-fuelled-white-fox-founders-200m-fortune-20241016-p5kiu4)
+* ### [How Jason Daniel went from ‘loose kid’ to the Young Rich List](https://www.afr.com/wealth/people/how-jason-daniel-went-from-loose-kid-to-the-young-rich-list-20241003-p5kfl2)
     
-* ### [The brothers making a fortune revolutionising healthcare with AI](https://www.afr.com/wealth/people/the-brothers-making-a-fortune-revolutionising-healthcare-with-ai-20240905-p5k834)
+* ### [From Crazy John’s to Canva, here’s to 21 years of the Young Rich List](https://www.afr.com/wealth/people/from-crazy-john-s-to-canva-here-s-to-21-years-of-the-young-rich-list-20240903-p5k7eg)
     
 
 [The Australian Financial Review](https://www.afr.com/)
