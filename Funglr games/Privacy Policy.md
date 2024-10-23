@@ -100,6 +100,16 @@ This site uses the following services
 
 To review the privacy policy of a third-party company's service, please refer to the URL of the privacy policy of each service.
 
+[](https://www.mywot.com/scorecard/saiganak.com?wot_badge=2_white)
+
+[Verified Site
+
+Trusted by
+
+See Report](https://www.mywot.com/scorecard/saiganak.com?wot_badge=2_white)
+
+[](https://www.mywot.com/scorecard/saiganak.com?wot_badge=2_white)
+
 All the issues and problems will be resolved pursuant to our Japanese Privacy Policy.
 
 ![SaigaNAK](https://assets.saigacdn.com/images/banner_sample336x280.png)
@@ -126,23 +136,23 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 * No article
 
-[![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
+[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
 
-* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
+* [![I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
     
-    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
-* [![SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/12/snk-okinawa-charity-tshirt-00-150x150.jpg "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
+    I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
+* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
     
-    SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://saiganak.com/product/snk-okinawa-charity-tshirt/ "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
-* [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
+    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
+* [![Haomaru's favorite sword ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/snk-samuraispirits2019-150x150.jpg "Haomaru's favorite sword ")
     
-    SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
+    Haomaru's favorite sword "Meito FuguDoku"on sale!](https://saiganak.com/product/meitoh-fugudoku-preorder/ "Haomaru's favorite sword ")
+* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
     
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
+    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
     
-    "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
+    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
 
 [](#top)
 
@@ -167,6 +177,7 @@ _saiganak.com_ **[esports media | Saiga NAK](https://saiganak.com/ "esports medi
 * [](https://www.facebook.com/saiganak)
 * [](https://www.instagram.com/saiganak.games)
 * [](https://www.pinterest.com/saiganak/)
+* [](https://flipboard.com/@saiganak)
 * [](https://saiganak.com/feed/)
 
 [© Saiga NAK](https://saiganak.com/)
