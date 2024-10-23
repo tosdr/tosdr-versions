@@ -347,7 +347,6 @@ Mobile Menu
             * [Rules & Safety](https://www.cityofgp.com/parks-recreation/facilities-venues/coca-cola-centre/rules-safety)
             * [Contact](https://www.cityofgp.com/parks-recreation/facilities-venues/design-works-centre/contact)
         * [Eastlink Centre](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre)
-            * [Annual Aquatics Maintenance Shutdown](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/annual-aquatics-maintenance-shutdown)
             * [Aquatics Careers](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/aquatics-careers)
                 * [National Safe Swimming Recovery Program](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/aquatics-careers/national-safe-swimming-recovery)
             * [Amenities](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/amenities)
