@@ -168,7 +168,7 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (47) \- 87% of the 47 user reviews in the last 30 days are positive.
+Very Positive (46) \- 86% of the 46 user reviews in the last 30 days are positive.
 
 All Reviews:
 
@@ -202,7 +202,7 @@ Very Positive (86% of 18,127) All Time
 
 Recent Reviews:
 
-Very Positive (87% of 47) Recent
+Very Positive (86% of 46) Recent
 
 ![](https://store.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -338,9 +338,7 @@ Age rating for: ESRB
 
 [Visit the website ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.skaterxl.com)  [Instagram ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.instagram.com%2Fskater.xl%2F)  [YouTube ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://www.youtube.com/channel/UCpBQRZl7apZt_LQXKgqKQiQ/)  [Facebook ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2FSkater-XL-199597780921060%2F)  [X ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fx.com%2Fskater_xl)  [View update history](https://store.steampowered.com/newshub/?appids=962730&snr=1_5_9__408) [Read related news](https://store.steampowered.com/newshub/app/962730?snr=1_5_9__408) [View discussions](https://steamcommunity.com/app/962730/discussions/) [Find Community Groups](https://steamcommunity.com/actions/Search?T=ClanAccount&K=Skater%20XL%20-%20The%20Ultimate%20Skateboarding%20Game)
 
-[Share](#) [Embed](#)  [](javascript:void(0))
-
-![](https://store.steamstatic.com/public/shared/images/icon_share_android.svg)
+[Embed](#)  [](javascript:void(0))
 
 [![](https://store.steamstatic.com/public/shared/images/icon_report.svg)](javascript:void(0))
 
@@ -468,7 +466,7 @@ Very Positive (18,127 reviews) ![](https://store.steamstatic.com/public/shared/i
 
 Recent Reviews:
 
-Very Positive (47 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (46 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
@@ -572,10 +570,6 @@ Enter up to 375 characters to add a description to your widget:
 [Create widget](#)
 
 Copy and paste the HTML below into your website to make the above widget appear
-
-[![](https://store.steamstatic.com/public/images/social/facebook_large.png)](https://store.steampowered.com/share/facebook/app/962730 "Share on Facebook")[![](https://store.steamstatic.com/public/images/social/twitter_large.png)](https://store.steampowered.com/share/twitter/app/962730 "Share on X (Twitter)")[![](https://store.steamstatic.com/public/images/social/reddit_large.png)](https://store.steampowered.com/share/reddit/app/962730 "Share on Reddit")
-
-Link to the game's store pagehttps://store.steampowered.com/app/962730/Skater\_XL\_\_The\_Ultimate\_Skateboarding\_Game/
 
 Popular user-defined tags for this product:(?)
 ----------------------------------------------
