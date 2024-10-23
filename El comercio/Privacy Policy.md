@@ -31,6 +31,220 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cuba completa la reconexión de su sistema eléctrico
+===================================================
+
+La recuperación de la conexión no implica que haya flujo eléctrico estable, advirtió el director de Electricidad
+----------------------------------------------------------------------------------------------------------------
+
+![Varios vehículos transitan por una avenida en La Habana (Cuba).](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-8-2.jpg)
+
+La compañía estatal Unión Eléctrica (UNE) **de Cuba** informó que ya logró completar la reconexión de todo el país al Sistema Eléctrico Nacional (SEN). Esto sucedió **cuatro días después del apagón** total que sufrió la isla el pasado viernes.
+
+### Más noticias
+
+* [Oposición cubana en Miami pide renuncia de Díaz-Canel, ante apagones](https://www.elcomercio.com/actualidad/mundo/oposicion-cubana-miami-pide-renuncia-de-diaz-canel-ante-apagones.html "Oposición cubana en Miami pide renuncia de Díaz-Canel, ante apagones")
+* [Solo un tercio de Cuba tiene energía eléctrica luego del apagón total](https://www.elcomercio.com/actualidad/solo-un-tercio-de-cuba-tiene-energia-electrica-luego-de-apagon-total.html "Solo un tercio de Cuba tiene energía eléctrica luego del apagón total")
+* [China rompe acuerdos con Cuba](https://www.elcomercio.com/actualidad/mundo/china-rompe-acuerdos-cuba.html "China rompe acuerdos con Cuba")
+
+La luz se restablece en Cuba
+----------------------------
+
+“A las 2:44 hora local (18:44 GMT) **quedó sincronizado** el Sistema Electroenergético Nacional”, informó en redes sociales la UNE, dependiente del Ministerio de Energía y Minas (Minem).
+
+Horas antes, la UNE había comunicado que **más de un 95% de sus clientes** de la zona occidental tenían ya restablecida la conexión eléctrica. Mientras que en resto del país apenas llegaban a la mitad de los usuarios.
+
+Las disparidades regionales son grandes en este momento. En La Habana la reconexión ha alcanzado casi el 100%, pero en Santiago de Cuba (este), Matanzas (oeste) o Cienfuegos (centro) oscila entre el 40 y el 60%.
+
+El director general de **Electricidad del Minem,** Lázaro Guerra, advirtió no obstante en la televisión estatal cubana de que la recuperación de la conexión **no implica que haya flujo eléctrico estable**.
+
+Tampoco significa que ya se superen los **apagones**, porque la capacidad de generación, igual que antes del apagón total del viernes, es insuficiente.
+
+“No va a haber capacidad de **generación para la demanda”**, aseguró Guerra, que avanzó que la UNE tendrá que volver a “manejar las cargas porque no se puede suplir toda la demanda”.
+
+De hecho, la UNE anunció que debido a**l déficit de generación** en el SEN se afectará el servicio “por emergencia” en La Habana, en circuitos de los municipios Habana del Este, Centro Habana, Arroyo Naranjo y San Miguel del Padrón.
+
+El apagón cubano
+----------------
+
+El pasado viernes, **una avería en una central termoeléctrica cl**ave, la Antonio Guiteras de Matanzas (oeste), provocó la caída del Sistema Eléctrico Nacional (SEN) y generó el apagón masivo en el país.
+
+El proceso de recuperación fue gradual, basado en la **creación de subsistemas** que se fueron ampliando e interconectando. También según en el encendido y sincronizado de las unidades generadoras (centrales termoeléctricas, plantas y motores), y que sufrió varios reveses.
+
+En días anteriores al **apagón total s**e habían registrado tasas máximas de afectación superiores al 50 %, lo que significa que, en el momento de mayor demanda la mitad de los bombillos no encendían.
+
+Los frecuentes apagones dañan la **economía cubana** \-que en 2023 se contrajo un 1,9 % y sigue por debajo de los niveles de 2019- y azuzan el descontento social en una sociedad afectada por una crisis económica agravada en los [últimos años.](https://es.wikipedia.org/wiki/Cuba "https://es.wikipedia.org/wiki/Cuba")
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-9-2-1024x683.jpg)
+
+Fotografía del Capitolio a oscuras durante un apagón este domingo, en La Habana (Cuba). Foto: EFE
+
+Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil
+====================================================================
+
+Los antisociales pedían 100 000 dólares por su liberación. Familiares y amigos comenzaron una cadena de oración
+---------------------------------------------------------------------------------------------------------------
+
+![Amigos y familiares de la chica secuestrada se reunían en el local para orar por su liberación.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-7-1.jpg)
+
+La **Policía Nacional** informó las labores investigativas y **operativas** que desarrolló durante la noche del martes 22 de octubre.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-23-de-octubre.html "Así funciona el Pico y placa en Quito este miércoles 23 de octubre")
+* [Policía detuvo a falsos trabajadores de CNEL en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-falsos-trabajadores-cnel-guayaquil.html "Policía detuvo a falsos trabajadores de CNEL en Guayaquil")
+* [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
+
+El secuestro
+------------
+
+El viernes **18 de octubre de 2024** se conoció que antisociales entraron **a un local comercial** en Cristo del Consuelo, en el sur de Guayaquil.
+
+Tras la irrupción armada, secuestraron a la joven **Ivette Jaramillo** y se la llevaron con rumbo desconocido. Sus familiares difundieron la noticia y pidieron ayuda de las autoridades.
+
+Además, la familia pidió hacer una **cadena de oración** por la protección y liberación de la joven. En las noches, los amigos y vecinos se reunían afuera del local para orar.
+
+Videos de las cámaras de vigilancia mostraron cómo los sujetos **llegaron en una camioneta blanca** y la sacaron del local a la fuerza a la mujer de 22 años.
+
+A pesar de los intentos de Ivette, los hombres lograron meterla al auto y llevársela. Los antisociales se comunicaron con la familia y **pidieron 100 000 dólares por su liberación.**
+
+El hecho **conmocionó a los guayaquileños**, pues visibilizó una vez más la vulnerabilidad de la ciudadanía ante las organizaciones delictivas.
+
+La liberación de Ivette
+-----------------------
+
+La Policía Nacional informó **la noche del martes 22 de octubre** que, gracias a la activación de protocolos y labores de investigación, consiguieron la liberación bajo presión de Ivette.
+
+La institución aún no ha comentado **los detalles de la liberación a**ún ni se pudieron aprehender a los responsables.
+
+El padre de la joven agradeció en redes sociales **la ayuda de todos quienes oraron** por su liberación. Además, compartió que **está en casa sana y salva.**
+
+Ivette estuvo **cuatro días secuestrada** en manos de los antisociales, quienes entraron al local del padre en busca de un secuestro para [extorsionar](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") a la familia.
+
+Noticia en desarrollo…
+
+> VÍCTIMA DE SECUESTRO LIBERADA  
+>   
+> Activación de protocolos y labores de investigación permitieron la liberación bajo presión de la ciudadana Ibeth J., quien fue secuestrada en un local comercial, en el sector Cristo del Consuelo, [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw).[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw)[#NuestraMisiónSigueIntacta](https://twitter.com/hashtag/NuestraMisi%C3%B3nSigueIntacta?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/yDzkcAFMiv](https://t.co/yDzkcAFMiv)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 23, 2024](https://twitter.com/PoliciaEcuador/status/1848946803678331034?ref_src=twsrc%5Etfw)
+
+Mónica Palencia enfrentará un juicio político, ¿cuántos votos se necesita para censurarla?
+==========================================================================================
+
+Este 23 de octubre la ministra del Interior, Mónica Palencia, conocerá si es censurada en su juicio político en la Asamblea Nacional.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Comparecencia de la ministra de Gobierno, Mónica Palencia, en la Comisión de Relaciones Internacionales.](https://www.elcomercio.com/wp-content/uploads/2024/10/monica-palecia.jpg)
+
+La ministra del Interior, **Mónica Palencia**[,](https://es.wikipedia.org/wiki/M%C3%B3nica_Palencia#:~:text=M%C3%B3nica%20Rosa%20Irene%20Palencia%20N%C3%BA%C3%B1ez,y%20funcionaria%20mexicana%2C%20naturalizada%20ecuatoriana. "https://es.wikipedia.org/wiki/M%C3%B3nica_Palencia#:~:text=M%C3%B3nica%20Rosa%20Irene%20Palencia%20N%C3%BA%C3%B1ez,y%20funcionaria%20mexicana%2C%20naturalizada%20ecuatoriana.") enfrentará un **juicio político** este 23 de octubre a partir de las 08:30 en la **Asamblea Nacional**. Más noticias
+
+* [Valentina Centeno habló sobre el juicio político a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/valentina-centeno-hablo-juicio-politico-monica-palencia.html "Valentina Centeno habló sobre el juicio político a Mónica Palencia")
+* [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
+* [Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyecto-a-favor-de-la-energia-renovable-pasa-el-primer-debate-en-la-asamblea.html "Proyecto a favor de la energía renovable pasa el primer debate en la Asamblea")
+
+Este proceso fue impulsado por los asambleístas **Paola Cabezas** y **Leonardo Berrezueta**, ambos del movimiento **Revolución Ciudadana**. Los legisladores acusaron a Palencia de incumplir sus funciones, especialmente en la **lucha contra la inseguridad**.
+
+Los interpelantes señalan que, bajo su gestión, la seguridad pública no mejora de manera significativa, a pesar de medidas como el **incremento del IVA**. Además, se le cuestiona no haber brindado suficiente protección a los funcionarios del sistema penitenciario.
+
+Por otro lado, sectores oficialistas, como la bancada de **Acción Democrática Nacional (ADN)**, argumentan que las acusaciones contra Palencia tienen **motivaciones políticas** y no están suficientemente fundamentadas.
+
+Postura de ADN frente al juicio político de Mónica Palencia
+-----------------------------------------------------------
+
+La asambleísta de ADN, **Valentina Centeno** emitió declaraciones este martes 22 de octubre sobre el juicio político a la ministra de Gobierno, Mónica Palencia. Destacó que considera que este **proceso parte de una ‘agenda de desestabilización‘** en contra del gobierno de Daniel Noboa.
+
+Centeno se refirió a las acciones del presidente en materia de seguridad. Señaló que Noboa emprendió una **lucha frontal contra el narcoterrorismo**, la delincuencia organizada, la minería ilegal y otros actos de violencia en el país.
+
+Acusaciones de motivaciones políticas
+-------------------------------------
+
+Centeno también acusó a la bancada de la **Revolución Ciudadana** de tener intereses partidistas tras el juicio político. Mencionó el caso de la **Embajada de México** como un factor detonante.
+
+Además, cuestionó la imparcialidad del proceso, calificándolo como **“viciado”** y apuntó directamente a la presidenta de la **Comisión de Fiscalización** por presuntas irregularidades.
+
+“Estaremos muy pendientes de lo que realicen las demás bancadas y de su votación en el pleno“, dijo Centeno. También **aludió a la importancia de la decisión que tomará la Asamblea** respecto al juicio.
+
+La asambleísta pidió a sus colegas que prioricen la seguridad del país en lugar de respaldar una supuesta agenda de desestabilización.
+
+Ante esto, el oficialismo ha mostrado su oposición a continuar con el proceso, llegando a conseguir solo **40 votos en contra durante la sesión del 17 de octubre**, frente a los **89 votos a favor de continuar el juicio por parte de las bancadas de Revolución Ciudadana**, Partido Social Cristiano (PSC), Construye y Pachakutik.
+
+El Proceso constitucional y la votación necesaria
+-------------------------------------------------
+
+Según el **artículo 131 de la Constitución de Ecuador,** la Asamblea Nacional puede llevar a cabo un **juicio político a altas autoridades del Estado** por incumplimiento de funciones. Dicho proceso puede ser solicitado por al menos una cuarta parte de los miembros de la Asamblea.
+
+Para proceder con la censura y destitución de la **ministra Mónica Palencia**, se necesita contar con el voto favorable de la mayoría absoluta de los asambleístas, es decir, **92 de los 137 legisladores**.
+
+En caso de obtener estos votos, la censura conllevará la **destitución inmediata de Palencia** y, si se encuentran indicios de responsabilidad penal, el caso será remitido a la **autoridad judicial competente**.
+
+Así funciona el Pico y placa en Quito este miércoles 23 de octubre
+==================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![El pico y placa re una medida de restricción para tratar de controlar el tráfico en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/trafico-Quito.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/nuevo-cierre-vehicular-quito-av-6-de-diciembre-desde-domingo-20-de-octubre.html "Cierre vehicular en av. 6 de Diciembre desde el domingo 20 de octubre, en Quito")
+* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
+* [Cierre vehicular en El Trébol se mantiene este martes 22 de octubre, en Quito](https://www.elcomercio.com/actualidad/quito/cierre-vehicular-el-trebol-quito-se-mantiene-martes-22-de-octubre.html "Cierre vehicular en El Trébol se mantiene este martes 22 de octubre, en Quito")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
 Vigilar y cuidarse de los volcanes, una clara política de prevención
 ====================================================================
 
@@ -60,6 +274,22 @@ La renovación de los equipos permitirá tener un mejor control de los movimient
 Así sea de noche o esté nublado, se sabrá exactamente si hay una salida de material por el conducto de los volcanes. 
 
 Por esa razón es importante que el **Instituto Geofísico** siga mejorando su capacidad de estudio. Y también es vital que los gobiernos de turno y las autoridades sirvan de soporte para sostener la red de monitoreo volcánico y sísmico.
+
+Populismo rencoroso (I)
+=======================
+
+El populismo es teatralidad, y se mueve en el charco del entretenimiento.  
+---------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Una de las patologías del **populismo** es fabricar, **inventar** o crear enemigos, simplificando la **historia** y los hechos, remueve y apela a la **emoción** y **pasiones**, divide la **sociedad** entre buenos y malos. Por un lado, un pueblo bueno, **virtuoso** y sometido; y, por otro lado, los **villanos** ricos, «pelucones», el «imperio», a quienes se atribuye todas las desgracias. Un discurso que **activa** y **potencia** al máximo el rencor y el resentimiento. El **populismo** navega en el **conflicto** del amigo y el enemigo.
+
+El gobernante mexicano, Andrés Manuel López Obrador (AMLO), durante su sexenio en el **poder**, dinamizó el **discurso** de **polarización**.  Brindó un espectáculo vinculado al clientelismo, **autoritarismo** y corrupción. Pero, además, de **connivencia** con los cárteles de la droga, a la que convidó «_abrazos y no balazos»._  Hizo de México la guarida de **funcionarios corruptos** que huyeron de la **justicia** ecuatoriana, para concederles **protección** y **privilegios**. Lo intentó con Glas, pero la firmeza del **gobierno** de **Daniel Noboa** lo frenó.  Para completar la **distracción**, cambió las **reglas** para que los **jueces** sean electos en **comicios populares**, con lo cual, la **justicia** estará en manos del **crimen organizado**. Algo parecido intenta Petro en Colombia.
+
+Como AMLO necesitaba de un **enemigo**, le cayó como anillo al dedo el Reino de España. El 2019 se le ocurrió enviar una carta al rey Felipe VI para que haga un «_relato de agravios y se pida perdón a los pueblos originarios_», igual demandó del pontífice de Roma.  Obviamente, el rey no respondió la **pintoresca misiva** del **gobernante** populista. Imagínense ustedes, si la historia está repleta de **guerras**, **colonizaciones** y **conquistas**, quinientos años después de lo sucedido, se le ocurre que pidan perdón.
+
+No solo se trató de una tosca **descortesía** de AMLO e ingenuidad de su fiel **sucesora** Claudia Sheinbaum, en no invitar al rey Felipe VI a su **posesión** y sí a Pedro Sánchez; sin enterarse de que el **sistema** de **gobierno** de **España** es una **Monarquía constitucional parlamentaria**, donde el rey es el **jefe del Estado** y el símbolo de su **unidad** y **permanencia**. Pero la señora Sheinbaum, no tiene idea.  ¿Creía qué el **parentesco ideológico** de Sánchez, le permitía ir a México? El **populismo** es **teatralidad**, y se mueve en el charco del **entretenimiento**.  
 
 Mensajes
 ========
@@ -97,22 +327,6 @@ Desde la cárcel y allende los mares, los dueños de esta repulsiva agrupación 
 Tomar una revancha contra el Gobierno, sin que importen los intereses del país, desnuda la falta de coherencia política y compromiso con el objetivo nacional: engrandecer y preservar nuestra nación. Quienes han tomado el camino de apoyar esta vendetta, que no Construye si no deconstruye la democracia, llevan a hacerse la inevitable pregunta: ¿a cambio de qué?, pues parecería que han firmado la proscripción política de su partido y han quedado marcados en la arena política ecuatoriana.
 
 Leonardo Cueva Piedra
-
-Populismo rencoroso (I)
-=======================
-
-El populismo es teatralidad, y se mueve en el charco del entretenimiento.  
----------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Una de las patologías del **populismo** es fabricar, **inventar** o crear enemigos, simplificando la **historia** y los hechos, remueve y apela a la **emoción** y **pasiones**, divide la **sociedad** entre buenos y malos. Por un lado, un pueblo bueno, **virtuoso** y sometido; y, por otro lado, los **villanos** ricos, «pelucones», el «imperio», a quienes se atribuye todas las desgracias. Un discurso que **activa** y **potencia** al máximo el rencor y el resentimiento. El **populismo** navega en el **conflicto** del amigo y el enemigo.
-
-El gobernante mexicano, Andrés Manuel López Obrador (AMLO), durante su sexenio en el **poder**, dinamizó el **discurso** de **polarización**.  Brindó un espectáculo vinculado al clientelismo, **autoritarismo** y corrupción. Pero, además, de **connivencia** con los cárteles de la droga, a la que convidó «_abrazos y no balazos»._  Hizo de México la guarida de **funcionarios corruptos** que huyeron de la **justicia** ecuatoriana, para concederles **protección** y **privilegios**. Lo intentó con Glas, pero la firmeza del **gobierno** de **Daniel Noboa** lo frenó.  Para completar la **distracción**, cambió las **reglas** para que los **jueces** sean electos en **comicios populares**, con lo cual, la **justicia** estará en manos del **crimen organizado**. Algo parecido intenta Petro en Colombia.
-
-Como AMLO necesitaba de un **enemigo**, le cayó como anillo al dedo el Reino de España. El 2019 se le ocurrió enviar una carta al rey Felipe VI para que haga un «_relato de agravios y se pida perdón a los pueblos originarios_», igual demandó del pontífice de Roma.  Obviamente, el rey no respondió la **pintoresca misiva** del **gobernante** populista. Imagínense ustedes, si la historia está repleta de **guerras**, **colonizaciones** y **conquistas**, quinientos años después de lo sucedido, se le ocurre que pidan perdón.
-
-No solo se trató de una tosca **descortesía** de AMLO e ingenuidad de su fiel **sucesora** Claudia Sheinbaum, en no invitar al rey Felipe VI a su **posesión** y sí a Pedro Sánchez; sin enterarse de que el **sistema** de **gobierno** de **España** es una **Monarquía constitucional parlamentaria**, donde el rey es el **jefe del Estado** y el símbolo de su **unidad** y **permanencia**. Pero la señora Sheinbaum, no tiene idea.  ¿Creía qué el **parentesco ideológico** de Sánchez, le permitía ir a México? El **populismo** es **teatralidad**, y se mueve en el charco del **entretenimiento**.  
 
 Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?
 ==========================================================================
@@ -712,202 +926,3 @@ Una semifinal más en la Copa Ecuador
 ------------------------------------
 
 El miércoles 23 de octubre del 2024 se llevará a cabo el cruce de ida restante de las semifinales de la Copa Ecuador. El compromiso del torneo será entre **El Nacional y Mushuc Runa** y arrancará a las 15:00 en el Estadio La Cocha de la Latacunga.
-
-Organizaciones sociales cuestionan confidencialidad el TLC entre Ecuador y Canadá
-=================================================================================
-
-La cuarta ronda de negociación del acuerdo comercial entre Ecuador y Canadá comenzó bajo reserva.
--------------------------------------------------------------------------------------------------
-
-![La cuarta ronde de negociaciones del TLC entre Ecuador y Canadá empezó este 21 de octubre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/canada.jpg)
-
-El acuerdo comercial entre **Ecuador y Canadá** avanza. Este 21 de octubre de 2024 se inició la cuarta ronda de negociación, bajo total reserva. Un grupo de organizaciones sociales cuestiona la confidencialidad de estas conversaciones[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [La Unión Europea celebra 7 años del acuerdo comercial con Ecuador](https://www.elcomercio.com/actualidad/mundo/union-europea-celebra-7-anos-acuerdo-comercial-ecuador.html "La Unión Europea celebra 7 años del acuerdo comercial con Ecuador")
-* [Daniel Noboa mantuvo reuniones enfocadas en los sectores estratégicos en Canadá](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-reuniones-enfocadas-sectores-estrategicos-canada.html "Daniel Noboa mantuvo reuniones enfocadas en los sectores estratégicos en Canadá")
-* [Daniel Noboa mantuvo reuniones con inversionistas del sector minero en Canadá](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reuniones-inversionistas-sector-minero-canada.html "Daniel Noboa mantuvo reuniones con inversionistas del sector minero en Canadá")
-
-Información reservada
----------------------
-
-Este 22 de octubre de 2024, más de **100 organizacione**s indígenas, campesinas, afroecuatorianas y montubias, de mujeres, sindicales, entre otras, pidieron que la ciudadanía tenga acceso a los avances de los **temas tratados** en las mesas de negociación.
-
-Las conversaciones de este acuerdo están clasificadas como **información reservada**, según la Resolución del Ministerio de Producción, vigente desde el 5 de septiembre de 2024.
-
-Según dicho documento, esta medida busca proteger la **integridad y confidencialidad** de los documentos considerados sensibles por parte del gobierno canadiense, con el fin de asegurar la transparencia y el buen manejo de la política comercial de Ecuador.
-
-![La cuarta ronde de negociaciones del TLC entre Ecuador y Canadá empezó este 21 de octubre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/TLC-Canada-1024x683.jpg)
-
-Organizaciones sociales cuestionan el secreto en las conversaciones entre Ecuador y Canadá. Foto: Cortesía
-
-Según los grupos sociales, un TLC entre Ecuador y Canadá podría intensificar el “extractivismo minero, lo que agravará la conflictividad social ya existente”.
-
-Además, cuestionan que el proceso de las negociaciones haya sido rápido. El grupo recordó que el presidente **Daniel Noboa** fue a Canadá en marzo de este año a formalizar el inicio de las negociaciones. A mediados de octubre ya se realiza la cuarta ronda de negociación, en Quito, y está previsto que en diciembre sea la última ronda en Canadá. Una vez cerrada la etapa de negociación, se pasará a la firma del acuerdo.
-
-Ministerio de Producción avanza con el proceso
-----------------------------------------------
-
-El Ministerio de Producción confirmó que la IV Ronda de negociaciones comerciales entre Ecuador y Canadá se inició este 21 de octubre, en Quito. En la inauguración de las conversaciones participaron el embajador canadiense **Stephen Potter**, el jefe negociador **Doug Forsyth**, el ministro de Producción de Ecuado**r Luis Jaramillo**, el viceministro H**omero Larrea**, el embajador **Carlos Játiva y Edwin Vásquez** como jefe negociador ecuatoriano.
-
-También se reunió el Cuarto Adjunto, compuesto por representantes de los sectores productivos y el equipo negociador, quienes presentaron los avances y temas clave que se tratarán durante esta nueva fase del diálogo comercial. Lo conversado en las mesas no se ha hecho público.
-
-La reserva de la información durará dos años contados a partir de la suscripción de la Resolución, o hasta la fecha de suscripción del Acuerdo Comercial entre Ecuador y Canadá.
-
-Entre los documentos considerados confidenciales están las propuestas bilaterales, cronogramas y listas de negociación. Así como aquellos que hayan sido previamente etiquetados como sensibles por las partes involucradas. La **publicación de cualquier avance de las negociaciones** se limitará a las versiones oficiales que no comprometan los intereses del Ecuador.
-
-Mushuc Runa prioriza el título de la Copa Ecuador
-=================================================
-
-El actual campeón de la Copa Ecuador es Independiente del Valle, uno de los semifinalistas.
--------------------------------------------------------------------------------------------
-
-![Jugadores de Mushuc Runa en la Liga Pro 2024 en Latacunga.](https://www.elcomercio.com/wp-content/uploads/2024/10/mushuc_copa_1.jpg)
-
-**Mushuc Runa** es uno de los cuatro semifinalistas de la Copa Ecuador, junto a El Nacional, su rival; Independiente del Valle y Universidad Católica, la otra llave en disputa.
-
-El encuentro entre **Mushuc Runa vs. El Nacional** se jugará el miércoles 23 de octubre de 2024, desde las 14:00, en el estadio La Cocha de Latacunga, la nueva ‘casa’ del equipo del Tungurahua.
-
-### Más noticias:
-
-* [Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en Liga](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro") [](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro")[Pro](https://www.elcomercio.com/deportes/segundo-castillo-barcelona-sc-mejor-dt-fecha.html "Segundo Castillo, DT de Barcelona SC, el mejor de la fecha 10 en LigaPro")
-* [Lionel Messi iguala récord por ganar premios en la M](https://www.elcomercio.com/deportes/lionel-messi-record-premios-mls.html "Lionel Messi iguala récord por ganar premios en la MSL")LS
-* [Álex Rangel fue galardonado como el mejor de la fecha 10](https://www.elcomercio.com/deportes/alex-rangel-jugador-fecha10-ligapro.html "Álex Rangel fue galardonado como el mejor de la fecha 10")
-
-La revancha será el jueves 31, desde las 16:00, en el Olímpico Atahualpa, para cerrar las semifinales.
-
-Luis Alfonso Chango, **presidente vitalicio de Mushuc Run**a, fue claro al momento de poner sobre la mesa las prioridades de su club para cerrar la temporada, con la Copa Ecuador como su máximo objetivo.
-
-“Le dije al profesor **Ever Hugo Almeida que prioricemos la Copa Ecuador**, porque estamos a dos partidos de un torneo internacional” sentenció Chango, que aclaró que no dejarán de lado la Liga Pro, donde son protagonistas.
-
-El premio **económico para el campeón será de 340 000 dólares** y en lo deportivo se ganará el boleto para la Copa Libertadores 2025, pero para arrancar desde la primera fase de eliminación, que este año entregó un premio monetario de 400 000 dólares.
-
-El ‘Ponchito’ es quinto en la **tabla de posiciones de la segunda etapa con 17 puntos** y un gol diferencia positivo de +4, fruto de cuatro victorias, cinco empates y tan solo una derrota en las 10 jornadas disputadas.
-
-En la tabla acumulada son séptimos con 37 puntos y un gol diferencia positivo de +5. Esta posición les otorga el último cupo para la Copa Sudamericana de 2025.
-
-Mushuc Runa en la Copa Ecuador
-------------------------------
-
-**Mushuc Runa** debutó en la Copa Ecuador en el 2019. En los dieciseisavos de final le ganó a Manta por un marcador global de 6-0.
-
-En los octavos de final se cruzó con **Delfín y cayó por 1-2 en el marcador global**, con lo que se despidió de la competición ante el subcampeón de esa edición.
-
-En el 2022 también pisó fuerte. En los **dieciseisavos de final le ganó a Olmedo 2-1**; en los octavos de final se deshizo de Cumbayá por 1-0; y en los cuartos de final derrotó a Vargas Torres por 1-0.
-
-En el cuadrangular de **semifinales se quedó en el cuarto puesto**, por detrás de Independiente del Valle, el futuro campeón; 9 de Octubre, el subcampeón; y El Nacional que se quedó con el tercer lugar.
-
-Campeones de la Copa Ecuador
-----------------------------
-
-1970: El Nacional
-
-**2019: Liga de Quito**
-
-2022: Independiente del Valle
-
-2024: ¿?
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/mushuc_copa_2-1024x683.jpg)
-
-Foto: API.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis
-===========================================================================
-
-Se encontraron cerca de 80 videos en uno de los dispositivos que Norero utilizaba mientras estaba recluido en la Cárcel de Cotopaxi.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis este martes 22 de octubre de 2024 en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/10/fiscalia.jpg)
-
-El 22 de octubre de 2024, se retomó en la **Corte Nacional de Justicia (CNJ)** el juicio relacionado con el caso Metástasis. La sesión comenzó a las 09:30, y durante la primera jornada, la Fiscalía y los defensores de los acusados **presentaron sus alegatos iniciales**.
-
-### Más noticias
-
-* [Fiscalía presentó peritajes como pruebas en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-peritaje-prueba-caso-metastasis.html "Fiscalía presentó peritajes como pruebas en el caso Metástasis")
-* [Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?")
-* [Caso Metástasis ya tiene fecha de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-tiene-fecha-juicio.html "Caso Metástasis ya tiene fecha de juicio")
-
-**Jorge Collaguazo**, perito de la Policía Nacional, fue el primer testigo que expuso la información obtenida de los **dispositivos móviles** usados por **Leandro Norero** durante su tiempo en prisión.
-
-Análisis de las pruebas en video
---------------------------------
-
-El perito Jorge Collaguazo prosiguió con la presentación de dos pericias realizadas sobre los teléfonos de Norero, los cuales contenían videos que **documentaban sus actividades en prisión**.
-
-Se encontraron cerca de **80 videos** en uno de los dispositivos que Norero utilizaba mientras estaba recluido en la Cárcel de Cotopaxi, **entre mayo y octubre de 2022**. Durante la audiencia, estos videos fueron mostrados.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-met-1-1024x683.jpg)
-
-Audiencia en el caso Metástasis este 22 de octubre de 2024. Foto: X Fiscalía
-
-También se proyectaron grabaciones donde se observan familiares de Adolfo Macías Villamar, alias ‘Fito’, quien era uno de los **principales rivales de Norero**. Además, se mostró a alias **‘Ben 10’, líder de Los Chonekillers**, motivando a otros mientras realizaban **ejercicios de entrenamiento en un campo**.
-
-Evidencia gráfica y comunicaciones
-----------------------------------
-
-El segundo día de la audiencia estuvo marcado por la exposición de más de **1 400 imágenes recuperadas de uno de los teléfonos de Norero**. Estas imágenes incluían capturas de pantalla de conversaciones en plataformas como **WhatsApp, Signal y Threema**, las cuales Norero utilizaba para comunicarse con **abogados, familiares y colaboradores**. Las conversaciones proporcionaron detalles significativos sobre sus actividades desde prisión.
-
-Entre las comunicaciones destacadas se encontraba un intercambio entre **Norero y Helive A., quien era su hombre de confianza**. En los mensajes discutían cómo evitar que el nombre de **Landy Párraga**, una modelo asesinada en abril de 2024 y presuntamente vinculada a Norero, fuera mencionado en las investigaciones.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): se reinstala la audiencia de juicio contra 21 personas, a quienes [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) procesa por [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). El fiscal general del Estado (s), Wilson Toainga, continuará con la práctica de la prueba. [pic.twitter.com/nes0Qtgrk8](https://t.co/nes0Qtgrk8)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 22, 2024](https://twitter.com/FiscaliaEcuador/status/1848738247058358365?ref_src=twsrc%5Etfw)
-
-La presentación de estas pruebas tomó varias horas, y se estima que la **exposición de todas las pruebas** periciales **continuará durante varios días debido al volumen de información recopilada**.
-
-La jueza **Mercedes Caicedo** informó que las audiencias se extenderán durante largas jornadas, con recesos a las **13:00 y a las 18:00**. Además, las sesiones continuarán los fines de semana, ya que la Fiscalía tiene previsto presentar más de **60 testimonios**, incluidos testigos y peritos.
-
-Se anticipa que este proceso judicial, que involucra a funcionarios de alto nivel y miembros del sistema judicial, **será extenso y complejo**.
-
-Cortes de luz en Cuenca este miércoles 23 de octubre
-====================================================
-
-Los horarios de cortes de luz en Guayaquil para este miércoles 23 de octubre cambian para el jueves 24.
--------------------------------------------------------------------------------------------------------
-
-![Este miércoles 23 de octubre, Cuenca tiene cortes de luz de hasta ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-miercoles-23-octubre.jpg)
-
-Los horarios de **cortes de luz** en **Cuenca** este **miércoles 23 de octubre de 2024** se mantienen hasta el sábado 26.
-
-La **crisis energética** en el país persiste y esta semana los cortes de luz son de ocho horas en Cuenca y todo el país.
-
-### Más noticias:
-
-* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
-* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
-
-Los horarios de cortes de luz en Cuenca para este miércoles 23 de octubre
--------------------------------------------------------------------------
-
-Las consecuencias de la grave **sequía** en Ecuador continúan.
-
-La falta de lluvias continuas provoca el desabastecimiento de los embalses de las **centrales hidroeléctricas** del país.
-
-Mientras, el **Gobierno de Daniel Noboa** toma medidas para palear los efectos de la crisis energética.
-
-Este martes 22 de octubre, el Gobierno informó que dónde salen los 1 598 MW que se incluirán en el **sistema nacional**.
-
-434 MW ya han sido incluidos y están en funcionamiento; 241 MW en generación permanente en **tierra** se incorporan desde noviembre.
-
-300 MW se incorporan en diciembre en renta en tierra, 204 MW en **Toachi Pilatón** se incorporarán desde diciembre.
-
-Además, 419 MW se sumarán en compra de **generación terrestre,** con unidades de generación contenerizadas, el primer cuatrimestre de 2025.
-
-Esta semana, se cumple **un mes** del inicio de cortes de luz programados en Ecuador.
-
-Desde septiembre, esta es la primera semana de una “**reducción paulatina**” de las horas en los cortes de luz.
-
-El Gobierno hizo este **ofrecimiento** por tres semanas, empezando el 21 de octubre y terminando en el 10 de noviembre.
-
-Así, los cortes de luz en Cuenca son de ocho horas, divididas en dos franjas horarias, según la programación de la **Centrosur**.
-
-A continuación, los **cortes de luz en Cuenca este miércoles 23 de octubre de 2024**:
-
-Los cortes de luz han alterado los **horarios escolares**, sobre todo de la jornada nocturna.
-
-Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, **despidos intempestivos brutales** por cierre de empresas por crisis energética”.
