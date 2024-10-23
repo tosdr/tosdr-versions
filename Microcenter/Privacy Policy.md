@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -382,7 +382,7 @@ Product category, brand navigation and general site naviation
         
     * Computers
         
-        Computers options - 7 groups of items - 43 total selections
+        Computers options - 7 groups of items - 45 total selections
         
         * Laptops & Tablets
             
@@ -392,6 +392,7 @@ Product category, brand navigation and general site naviation
             * [Apple Laptops](https://www.microcenter.com/category/4294967288,4294820432/macbook)
             * [iPads / Tablets](https://www.microcenter.com/category/4294954921/ipads-tablets)
             * [Refurbished Laptops](https://www.microcenter.com/category/4294967291,519/refurbished-laptops)
+            * [Microsoft 365 Bundles](https://www.microcenter.com/site/brands/365-bundles.aspx)
         * Desktops
             
             * [All Desktops](https://www.microcenter.com/category/4294967292/desktop-computers)
@@ -400,6 +401,7 @@ Product category, brand navigation and general site naviation
             * [Apple Desktops](https://www.microcenter.com/category/4294967292,4294819353/apple-mac-desktops)
             * [All-in-One Desktops](https://www.microcenter.com/category/4294967292,4294819084/all-in-one-desktops)
             * [Refurbished Desktops](https://www.microcenter.com/category/4294967292,519/refurbished-desktops)
+            * [Microsoft 365 Bundles](https://www.microcenter.com/site/brands/365-bundles.aspx)
         * Computer Monitors
             
             * [All Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
@@ -765,7 +767,7 @@ Product category, brand navigation and general site naviation
         
     * Gaming & Software
         
-        Gaming & Software options - 11 groups of items - 38 total selections
+        Gaming & Software options - 11 groups of items - 39 total selections
         
         * PC & Mac Gaming
             
@@ -809,6 +811,7 @@ Product category, brand navigation and general site naviation
             * [View All DIY Arcade Gaming](https://www.microcenter.com/category/4294811805/view-all-diy-arcade-gaming)
         * Business & Utilities
             
+            * [Microsoft 365 Bundles](https://www.microcenter.com/site/brands/365-bundles.aspx)
             * [Operating Systems](https://www.microcenter.com/category/4294967276/operating-systems)
             * [Office Applications](https://www.microcenter.com/category/4294967278/office-applications)
             * [Utilities, Anti-virus, Security](https://www.microcenter.com/category/4294967277/utilities-anti-virus-security)
