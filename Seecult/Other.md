@@ -223,22 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
-    [11:00 Mila Gvardiol, BG](javascript:void(0);)
-    
-    **11.05.2024 | 11:00**
-    
-    Blok Galerija, Jurija Gagarina 221, Novi Beograd
-    
-    **MILA GVARDIOL** (1979, Beograd): **ARHITEKTONSKE VARIJACIJE** - izložba (10.5.-22.10.2024.)
-    
-    [Mila Gvardiol - Home (weebly.com)](https://gvardiol.weebly.com/)
-    
-    [Facebook](https://www.facebook.com/Gvardiol/)
-    
-    [Mila Gvardiol (@mila.gvardiol) • Instagram photos and videos](https://www.instagram.com/mila.gvardiol/)
-    
-    [https://vymaps.com/RS/BLOK-Galerija-257820474917997/](https://vymaps.com/RS/BLOK-Galerija-257820474917997/)
-    
     [10:00 Ozvezdja mnogoterih želja: ob vzhodnem obzorju, LJ](javascript:void(0);)
     
     **24.05.2024 | 10:00**
@@ -397,14 +381,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
+    [10:00 Šta se krije ispod ravnice, SU](javascript:void(0);)
+    
+    **08.08.2024 | 10:00**
+    
+    Gradski muzej Subotica, Trg sinagoge 3, Subotica
+    
+    **ŠTA SE KRIJE ISPOD RAVNICE?** - geološka izložba (7.8.-31.10.2024.)
+    
+    Autor izložbe: dr Ivan Dulić, geolog, Naučno-tehnološki centar NIS
+    
+    organizacija: Gradski muzej Subotica i Naučno-tehnološki centar NIS
+    
+    [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/45.jpg?itok=iGFBdpCp)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/mi-ne-mozemo-sada-stati/cacak-003.jpg?itok=OuQZma7i)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/mi-ne-mozemo-sada-stati)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu/ubns-digi13.jpg?itok=Mn-TJgss)](http://seecult.org/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bajaga.jpg?itok=jtucVb2I)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -420,6 +418,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
+* [Korugi nagrada Dimitrije Parlić](http://seecult.org/vest/korugi-nagrada-dimitrije-parlic)
 * [Slijepčevićev kanski pobednik na otvaranju 20. Slobodne zone](http://seecult.org/vest/slijepcevicev-kanski-pobednik-na-otvaranju-20-slobodne-zone)
 * [Omaž autorstvu, u slavu Puriše Đorđevića](http://seecult.org/vest/omaz-autorstvu-u-slavu-purise-dordevica)
 * [Cvetičanin: (Ne)razumevanje stanja kulture u Srbiji danas](http://seecult.org/vest/cveticanin-nerazumevanje-stanja-kulture-u-srbiji-danas)
@@ -428,8 +428,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Pejaković novi direktor Drame SNP-a, Aja Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-aja-jung-direktorka-baleta)
 * [Šta bi bio život da nema reči](http://seecult.org/vest/sta-bi-bio-zivot-da-nema-reci)
 * [Upečatljiv program 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-program-43-skopskog-dzez-festivala)
-* [Performisima prvi put u Parizu](http://seecult.org/vest/performisima-prvi-put-u-parizu)
-* [60\. Oktobarski salon i ključna pitanja današnjice](http://seecult.org/vest/60-oktobarski-salon-i-kljucna-pitanja-danasnjice)
 
 * [Konkursi](#tab1_1)
 
