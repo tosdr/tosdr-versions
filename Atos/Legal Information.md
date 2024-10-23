@@ -140,15 +140,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [“Gefion” AI supercomputer, built by Eviden, inaugurated as one of the world’s most powerful in Denmark](https://atos.net/en/2024/press-release_2024_10_23/gefion-ai-supercomputer-built-by-eviden-inaugurated-as-one-of-the-worlds-most-powerful-in-denmark)
         * [Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance](https://atos.net/en/2024/uncategorized_2024_10_16/atos-launches-its-experience-operations-center-in-partnership-with-nexthink-to-empower-digital-workplace-performance)
         * [Atos Group and AWS launch Global GenAI Innovation Studio to accelerate AI-powered business transformation](https://atos.net/en/2024/press-release_2024_10_15/atos-group-and-aws-launch-global-genai-innovation-studio-to-accelerate-ai-powered-business-transformation)
-        * [Atos appoints Philippe Salle Chairman of the Board of Directors with effect from October 14, 2024 and Chairman and Chief Executive Officer from February 01, 2025](https://atos.net/en/2024/press-release_2024_10_15/atos-appoints-philippe-salle-chairman-of-the-board-of-directors-with-effect-from-october-14-2024-and-chairman-and-chief-executive-officer-from-february-01-2025)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 16, 2024
+        Oct 23, 2024
         
-        ### Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance
+        ### “Gefion” AI supercomputer, built by Eviden, inaugurated as one of the world’s most powerful in Denmark
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -165,18 +165,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Are you prepared to secure your data and critical IT infrastructure?](https://atos.net/en/blog/are-you-prepared-to-secure-your-data-and-critical-it-infrastructure)
         * [The role of AI in digital workplace security](https://atos.net/en/blog/the-role-of-ai-in-digital-workplace-security)
         * [Generative AI: Technology matters, but adoption matters more](https://atos.net/en/blog/generative-ai-technology-matters-ai-adoption-matters-more)
         * [DORA and NIS2: The impact of new EU cybersecurity regulations](https://atos.net/en/blog/understanding-new-eu-cybersecurity-regulations-directives-dora-nis2)
-        * [Harnessing data to drive fan engagement](https://atos.net/en/blog/harnessing-data-to-drive-fan-engagement)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 18, 2024
+        Oct 23, 2024
         
-        ### The role of AI in digital workplace security
+        ### Are you prepared to secure your data and critical IT infrastructure?
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
@@ -386,6 +386,7 @@ Atos’ Group Data Protection team creates an annual Data Protection report high
 
 * [Homepage](https://atos.net/en)
 * [Accessibility Statement](https://atos.net/en/accessibility-statement)
-* [Privacy](https://atos.net/en/privacy)
 * [Terms of use](https://atos.net/en/terms-and-conditions)
+* [Integrity Line](https://atos.integrityline.app/)
+* [Privacy](https://atos.net/en/privacy)
 * © Atos SE 2024 all rights reserved
