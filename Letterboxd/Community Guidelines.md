@@ -42,7 +42,7 @@ Press Tab to complete, Enter to create
 
 Rating
 
-Who can view (Help) Anyone (public entry) — Close Friends (selected by you) You (private entry) Draft entry
+Who can view (Help) Anyone (public) — Close Friends (selected by you) You (private) Draft entry
 
  Contains spoilers
 
