@@ -16,6 +16,12 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/10/22/playstation-5-personalized-welcome-hub-canada-launch/)
+    
+    Oct 22, 2024 | 5:21 PM EDT
+    
+    ### [PlayStation 5 personalized ‘Welcome Hub’ rolls out in Canada](https://mobilesyrup.com/2024/10/22/playstation-5-personalized-welcome-hub-canada-launch/)
+    
     [](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
     
     Oct 18, 2024 | 12:26 PM EDT
@@ -46,13 +52,13 @@
     
     ### [Assassin’s Creed concert comes to Montreal and Toronto in April 2025](https://mobilesyrup.com/2024/10/16/assassins-creed-symphonic-adventure-canadian-tour-dates-april-2025/)
     
-    [](https://mobilesyrup.com/2024/10/16/playstation-announces-world-concert-tour-featuring-the-last-of-us-god-of-war-and-more/)
-    
-    Oct 16, 2024 | 1:36 PM EDT
-    
-    ### [PlayStation announces world concert tour featuring The Last of Us, God of War and more](https://mobilesyrup.com/2024/10/16/playstation-announces-world-concert-tour-featuring-the-last-of-us-god-of-war-and-more/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/10/22/playstation-5-personalized-welcome-hub-canada-launch/)
+        
+        Oct 22, 2024 | 5:21 PM EDT
+        
+        ### [PlayStation 5 personalized ‘Welcome Hub’ rolls out in Canada](https://mobilesyrup.com/2024/10/22/playstation-5-personalized-welcome-hub-canada-launch/)
         
         [](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
         
@@ -84,52 +90,76 @@
         
         ### [Assassin’s Creed concert comes to Montreal and Toronto in April 2025](https://mobilesyrup.com/2024/10/16/assassins-creed-symphonic-adventure-canadian-tour-dates-april-2025/)
         
-        [](https://mobilesyrup.com/2024/10/16/playstation-announces-world-concert-tour-featuring-the-last-of-us-god-of-war-and-more/)
-        
-        Oct 16, 2024 | 1:36 PM EDT
-        
-        ### [PlayStation announces world concert tour featuring The Last of Us, God of War and more](https://mobilesyrup.com/2024/10/16/playstation-announces-world-concert-tour-featuring-the-last-of-us-god-of-war-and-more/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/10/18/instagram-stories-android-15/)
+    [](https://mobilesyrup.com/2024/10/22/playstation-5-personalized-welcome-hub-canada-launch/)
     
-    Oct 18, 2024 | 4:42 PM EDT
+    Oct 22, 2024 | 5:21 PM EDT
     
-    ### [Instagram Stories are not working with some Android 15 devices](https://mobilesyrup.com/2024/10/18/instagram-stories-android-15/)
+    ### [PlayStation 5 personalized ‘Welcome Hub’ rolls out in Canada](https://mobilesyrup.com/2024/10/22/playstation-5-personalized-welcome-hub-canada-launch/)
     
-    [](https://mobilesyrup.com/2024/10/18/bluesky-huge-spike-new-users-ruined-blocking-x-twitter/)
+    [](https://mobilesyrup.com/2024/10/22/rogers-prepaid-no-balance-transfer/)
     
-    Oct 18, 2024 | 3:42 PM EDT
+    Oct 22, 2024 | 3:48 PM EDT
     
-    ### [Bluesky sees huge spike in new users as Elon Musk ruins blocking on X (Twitter)](https://mobilesyrup.com/2024/10/18/bluesky-huge-spike-new-users-ruined-blocking-x-twitter/)
+    ### [Rogers reportedly removed ability to transfer prepaid balances ahead of shutdown](https://mobilesyrup.com/2024/10/22/rogers-prepaid-no-balance-transfer/)
     
-    [](https://mobilesyrup.com/2024/10/18/freedom-174-six-month-prepaid-plan-15gb/)
+    [](https://mobilesyrup.com/2024/10/22/qualcomm-snapdragon-cockpit-elite/)
     
-    Oct 18, 2024 | 2:23 PM EDT
+    Oct 22, 2024 | 3:12 PM EDT
     
-    ### [Freedom now has a $174 six month plan with 15GB/mo of 4G data](https://mobilesyrup.com/2024/10/18/freedom-174-six-month-prepaid-plan-15gb/)
+    ### [Qualcomm announces Snapdragon Cockpit Elite and Ride Elite for automotive](https://mobilesyrup.com/2024/10/22/qualcomm-snapdragon-cockpit-elite/)
     
-    [](https://mobilesyrup.com/2024/10/18/google-pixel-camera-update-underwater-mode/)
+    [](https://mobilesyrup.com/2024/10/22/google-pixel-9a-camera-same-as-9-pro-fold/)
     
-    Oct 18, 2024 | 1:42 PM EDT
+    Oct 22, 2024 | 2:23 PM EDT
     
-    ### [Pixel Camera update brings underwater mode, tweaked Panorama interface](https://mobilesyrup.com/2024/10/18/google-pixel-camera-update-underwater-mode/)
+    ### [Google Pixel 9a to sport same rear camera as Pixel 9 Pro Fold: report](https://mobilesyrup.com/2024/10/22/google-pixel-9a-camera-same-as-9-pro-fold/)
     
-    [](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
+    [](https://mobilesyrup.com/2024/10/22/netflix-shuts-down-aaa-game-studio-joseph-staten/)
     
-    Oct 18, 2024 | 12:26 PM EDT
+    Oct 22, 2024 | 1:43 PM EDT
     
-    ### [Amazon’s God of War series has been completely rebooted: report](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
+    ### [Netflix shuts down AAA game studio led by Halo veteran](https://mobilesyrup.com/2024/10/22/netflix-shuts-down-aaa-game-studio-joseph-staten/)
     
-    [](https://mobilesyrup.com/2024/10/18/nintendo-64-banjo-tooie-nintendo-switch-online/)
+    [](https://mobilesyrup.com/2024/10/22/google-pixel-9-pro-camera-bar-loose/)
     
-    Oct 18, 2024 | 11:24 AM EDT
+    Oct 22, 2024 | 12:25 PM EDT
     
-    ### [Nintendo 64 classic Banjo-Tooie coming to Nintendo Switch Online](https://mobilesyrup.com/2024/10/18/nintendo-64-banjo-tooie-nintendo-switch-online/)
+    ### [Pixel 9 Pro owner reports camera bar coming loose](https://mobilesyrup.com/2024/10/22/google-pixel-9-pro-camera-bar-loose/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
+        
+        [](https://mobilesyrup.com/2024/10/22/rogers-prepaid-no-balance-transfer/)
+        
+        Oct 22, 2024 | 3:48 PM EDT
+        
+        ### [Rogers reportedly removed ability to transfer prepaid balances ahead of shutdown](https://mobilesyrup.com/2024/10/22/rogers-prepaid-no-balance-transfer/)
+        
+        [](https://mobilesyrup.com/2024/10/22/public-mobile-34-65gb-4g-plan/)
+        
+        Oct 22, 2024 | 10:14 AM EDT
+        
+        ### [Public Mobile offering some customers $34/65GB 4G plan](https://mobilesyrup.com/2024/10/22/public-mobile-34-65gb-4g-plan/)
+        
+        [](https://mobilesyrup.com/2024/10/21/crtc-affordable-plans-new-strategic-plan/)
+        
+        Oct 21, 2024 | 4:41 PM EDT
+        
+        ### [CRTC promises ‘affordable’ plans in new strategy](https://mobilesyrup.com/2024/10/21/crtc-affordable-plans-new-strategic-plan/)
+        
+        [](https://mobilesyrup.com/2024/10/21/rogers-tv-box-price-increase-criticism/)
+        
+        Oct 21, 2024 | 1:22 PM EDT
+        
+        ### [Rogers criticized for ‘bait and switch’ TV box price increase](https://mobilesyrup.com/2024/10/21/rogers-tv-box-price-increase-criticism/)
+        
+        [](https://mobilesyrup.com/2024/10/21/rogers-chatr-40-100gb-5g-migration-offer/)
+        
+        Oct 21, 2024 | 11:09 AM EDT
+        
+        ### [Rogers offering Chatr customers $40/100GB 5G migration plan](https://mobilesyrup.com/2024/10/21/rogers-chatr-40-100gb-5g-migration-offer/)
         
         [](https://mobilesyrup.com/2024/10/18/freedom-174-six-month-prepaid-plan-15gb/)
         
@@ -137,73 +167,43 @@
         
         ### [Freedom now has a $174 six month plan with 15GB/mo of 4G data](https://mobilesyrup.com/2024/10/18/freedom-174-six-month-prepaid-plan-15gb/)
         
-        [](https://mobilesyrup.com/2024/10/17/rogers-centre-network-upgrades-taylor-swift-eras-tour/)
-        
-        Oct 17, 2024 | 1:28 PM EDT
-        
-        ### [Rogers wraps $8 million 5G network upgrade ahead of Taylor Swift Eras Tour stops](https://mobilesyrup.com/2024/10/17/rogers-centre-network-upgrades-taylor-swift-eras-tour/)
-        
-        [](https://mobilesyrup.com/2024/10/17/chatr-annual-plan-149-30gb/)
-        
-        Oct 17, 2024 | 9:53 AM EDT
-        
-        ### [Chatr rolls out $149/year 30GB plan with unlimited data](https://mobilesyrup.com/2024/10/17/chatr-annual-plan-149-30gb/)
-        
-        [](https://mobilesyrup.com/2024/10/16/telus-icc-partner-special-deals-canadians-canoo-app/)
-        
-        Oct 16, 2024 | 7:07 PM EDT
-        
-        ### [Telus, ICC partner to offer special deals to new Canadians via Canoo app](https://mobilesyrup.com/2024/10/16/telus-icc-partner-special-deals-canadians-canoo-app/)
-        
-        [](https://mobilesyrup.com/2024/10/16/fido-ups-plan-prices-and-autopay-discount/)
-        
-        Oct 16, 2024 | 9:54 AM EDT
-        
-        ### [Fido raised plan prices, increased autopay discount to match](https://mobilesyrup.com/2024/10/16/fido-ups-plan-prices-and-autopay-discount/)
-        
-        [](https://mobilesyrup.com/2024/10/15/fido-offering-customers-special-50-130gb-plans/)
-        
-        Oct 15, 2024 | 6:09 PM EDT
-        
-        ### [Fido offering some customers special $50/130GB, $60/170GB plans](https://mobilesyrup.com/2024/10/15/fido-offering-customers-special-50-130gb-plans/)
-        
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
+        
+        [](https://mobilesyrup.com/2024/10/22/google-pixel-9a-camera-same-as-9-pro-fold/)
+        
+        Oct 22, 2024 | 2:23 PM EDT
+        
+        ### [Google Pixel 9a to sport same rear camera as Pixel 9 Pro Fold: report](https://mobilesyrup.com/2024/10/22/google-pixel-9a-camera-same-as-9-pro-fold/)
+        
+        [](https://mobilesyrup.com/2024/10/22/google-pixel-9-pro-camera-bar-loose/)
+        
+        Oct 22, 2024 | 12:25 PM EDT
+        
+        ### [Pixel 9 Pro owner reports camera bar coming loose](https://mobilesyrup.com/2024/10/22/google-pixel-9-pro-camera-bar-loose/)
+        
+        [](https://mobilesyrup.com/2024/10/21/iphone-16-pro-users-random-reboots/)
+        
+        Oct 21, 2024 | 4:34 PM EDT
+        
+        ### [Some iPhone 16 Pro users report random rebooting](https://mobilesyrup.com/2024/10/21/iphone-16-pro-users-random-reboots/)
+        
+        [](https://mobilesyrup.com/2024/10/21/qualcomm-announces-snapdragon-8-elite-mobile-platform-with-oryon-cpu/)
+        
+        Oct 21, 2024 | 3:00 PM EDT
+        
+        ### [Qualcomm announces Snapdragon 8 Elite mobile platform with Oryon CPU](https://mobilesyrup.com/2024/10/21/qualcomm-announces-snapdragon-8-elite-mobile-platform-with-oryon-cpu/)
+        
+        [](https://mobilesyrup.com/2024/10/21/google-pixel-6-android-15-update-brick/)
+        
+        Oct 21, 2024 | 12:19 PM EDT
+        
+        ### [Some Pixel 6 owners report Android 15 is bricking their phones](https://mobilesyrup.com/2024/10/21/google-pixel-6-android-15-update-brick/)
         
         [](https://mobilesyrup.com/2024/10/16/google-screenshot-app-gemini-extension/)
         
         Oct 16, 2024 | 5:28 PM EDT
         
         ### [Google’s Screenshots app gets a Gemini extension](https://mobilesyrup.com/2024/10/16/google-screenshot-app-gemini-extension/)
-        
-        [](https://mobilesyrup.com/2024/10/15/android-15-now-available/)
-        
-        Oct 15, 2024 | 2:58 PM EDT
-        
-        ### [Android 15 is finally here for Pixel 6 devices and newer](https://mobilesyrup.com/2024/10/15/android-15-now-available/)
-        
-        [](https://mobilesyrup.com/2024/10/10/mobile-klinik-apkudo-partnership/)
-        
-        Oct 10, 2024 | 4:39 PM EDT
-        
-        ### [Mobile Klinik and Apkudo announce partnership to improve device repair process](https://mobilesyrup.com/2024/10/10/mobile-klinik-apkudo-partnership/)
-        
-        [](https://mobilesyrup.com/2024/10/10/android-16-priority-modes/)
-        
-        Oct 10, 2024 | 3:19 PM EDT
-        
-        ### [Possible Android 16 leak reveals new ‘Priority Modes’](https://mobilesyrup.com/2024/10/10/android-16-priority-modes/)
-        
-        [](https://mobilesyrup.com/2024/10/10/qualcomm-confirms-hackers-exploited-security-flaw-over-60-chips/)
-        
-        Oct 10, 2024 | 12:26 PM EDT
-        
-        ### [Qualcomm confirms hackers exploited security flaw in over 60 chips](https://mobilesyrup.com/2024/10/10/qualcomm-confirms-hackers-exploited-security-flaw-over-60-chips/)
-        
-        [](https://mobilesyrup.com/2024/10/10/google-pixel-9-pro-available-canada-pricing/)
-        
-        Oct 10, 2024 | 9:46 AM EDT
-        
-        ### [Google Pixel 9 Pro now available in Canada — here’s how much it costs](https://mobilesyrup.com/2024/10/10/google-pixel-9-pro-available-canada-pricing/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -245,6 +245,12 @@
         
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
         
+        [](https://mobilesyrup.com/2024/10/22/spotify-create-your-own-playlist-art/)
+        
+        Oct 22, 2024 | 9:00 AM EDT
+        
+        ### [Spotify adds new tool to create custom playlist art](https://mobilesyrup.com/2024/10/22/spotify-create-your-own-playlist-art/)
+        
         [](https://mobilesyrup.com/2024/10/18/instagram-stories-android-15/)
         
         Oct 18, 2024 | 4:42 PM EDT
@@ -274,12 +280,6 @@
         Oct 17, 2024 | 11:14 AM EDT
         
         ### [Google files for emergency stay to pause ‘dangerous’ Epic ruling](https://mobilesyrup.com/2024/10/17/google-emergency-stay-pause-epic-games-ruling/)
-        
-        [](https://mobilesyrup.com/2024/10/16/oneplus-13-local-refresh-rates/)
-        
-        Oct 16, 2024 | 2:37 PM EDT
-        
-        ### [OnePlus 13 feature allows it to run different refresh rates on the same display](https://mobilesyrup.com/2024/10/16/oneplus-13-local-refresh-rates/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -321,6 +321,12 @@
         
     * [Automotive](https://mobilesyrup.com/categories/news/news-automotive/)
         
+        [](https://mobilesyrup.com/2024/10/22/qualcomm-snapdragon-cockpit-elite/)
+        
+        Oct 22, 2024 | 3:12 PM EDT
+        
+        ### [Qualcomm announces Snapdragon Cockpit Elite and Ride Elite for automotive](https://mobilesyrup.com/2024/10/22/qualcomm-snapdragon-cockpit-elite/)
+        
         [](https://mobilesyrup.com/2024/10/11/tesla-robot-taxi-van-optimus/)
         
         Oct 11, 2024 | 11:31 AM EDT
@@ -350,12 +356,6 @@
         Aug 9, 2024 | 1:38 PM EDT
         
         ### [Tesla launches Cybertruck in Canada, starting at nearly $140,000](https://mobilesyrup.com/2024/08/09/tesla-cybertruck-launch-canada/)
-        
-        [](https://mobilesyrup.com/2024/08/07/first-tesla-cybertruck-fatality-report/)
-        
-        Aug 7, 2024 | 4:16 PM EDT
-        
-        ### [First Tesla Cybertruck fatality reported after crash and fire](https://mobilesyrup.com/2024/08/07/first-tesla-cybertruck-fatality-report/)
         
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
         
@@ -397,6 +397,12 @@
         
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
         
+        [](https://mobilesyrup.com/2024/10/22/disney-plus-apple-billing-end/)
+        
+        Oct 22, 2024 | 11:28 AM EDT
+        
+        ### [You can no longer sign up for Disney+ through Apple](https://mobilesyrup.com/2024/10/22/disney-plus-apple-billing-end/)
+        
         [](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
         
         Oct 18, 2024 | 12:26 PM EDT
@@ -427,13 +433,13 @@
         
         ### [Bell and Warner Bros. Discovery extend Crave content deal, settle dispute](https://mobilesyrup.com/2024/10/08/bell-warner-bros-discovery-crave-content-exclusivity-deal/)
         
-        [](https://mobilesyrup.com/2024/10/07/narative-short-film-apple-vision-pro-comes-out-this-week/)
-        
-        Oct 7, 2024 | 4:41 PM EDT
-        
-        ### [The first short film for Apple Vision Pro comes out this week](https://mobilesyrup.com/2024/10/07/narative-short-film-apple-vision-pro-comes-out-this-week/)
-        
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
+        
+        [](https://mobilesyrup.com/2024/10/21/blade-runner-2049-producer-tesla-warner-bros-ai-imagery-lawsuit/)
+        
+        Oct 21, 2024 | 2:08 PM EDT
+        
+        ### [Blade Runner 2049 producer sues Tesla, Warner Bros. over AI images](https://mobilesyrup.com/2024/10/21/blade-runner-2049-producer-tesla-warner-bros-ai-imagery-lawsuit/)
         
         [](https://mobilesyrup.com/2024/10/16/google-screenshot-app-gemini-extension/)
         
@@ -465,13 +471,19 @@
         
         ### [Microsoft details new Copilot and AI features coming to Windows 11](https://mobilesyrup.com/2024/10/01/microsoft-copilot-ai-features-windows-11/)
         
-        [](https://mobilesyrup.com/2024/09/26/google-gemini-older-pixel-buds-soon/)
-        
-        Sep 26, 2024 | 3:03 PM EDT
-        
-        ### [Google will bring Gemini to older Pixel Buds ‘soon’](https://mobilesyrup.com/2024/09/26/google-gemini-older-pixel-buds-soon/)
-        
     * [Deals](https://mobilesyrup.com/categories/deals/)
+        
+        [](https://mobilesyrup.com/2024/10/22/public-mobile-34-65gb-4g-plan/)
+        
+        Oct 22, 2024 | 10:14 AM EDT
+        
+        ### [Public Mobile offering some customers $34/65GB 4G plan](https://mobilesyrup.com/2024/10/22/public-mobile-34-65gb-4g-plan/)
+        
+        [](https://mobilesyrup.com/2024/10/21/rogers-chatr-40-100gb-5g-migration-offer/)
+        
+        Oct 21, 2024 | 11:09 AM EDT
+        
+        ### [Rogers offering Chatr customers $40/100GB 5G migration plan](https://mobilesyrup.com/2024/10/21/rogers-chatr-40-100gb-5g-migration-offer/)
         
         [](https://mobilesyrup.com/2024/10/10/koodo-texting-loyalty-offers-50-75gb-plan/)
         
@@ -497,20 +509,26 @@
         
         ### [Prime Day deals drops prices on tons of regular and robot vacuums](https://mobilesyrup.com/2024/10/08/prime-day-deals-robot-vacuums-canada/)
         
-        [](https://mobilesyrup.com/2024/10/08/amazon-canada-apple-watch-series-9-deal/)
-        
-        Oct 8, 2024 | 3:07 PM EDT
-        
-        ### [Amazon Canada offering over $100 off Apple Watch Series 9](https://mobilesyrup.com/2024/10/08/amazon-canada-apple-watch-series-9-deal/)
-        
-        [](https://mobilesyrup.com/2024/10/08/airpods-sale-prime-big-deal-days/)
-        
-        Oct 8, 2024 | 1:53 PM EDT
-        
-        ### [AirPods are on sale for Prime Big Deal Days](https://mobilesyrup.com/2024/10/08/airpods-sale-prime-big-deal-days/)
-        
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
+    
+    [](https://mobilesyrup.com/2024/10/22/ipad-mini-a17-pro-review-small-ipad-smaller-upgrade/)
+    
+    Oct 22, 2024 | 9:00 AM EDT
+    
+    ### [iPad mini (A17 Pro) Review: Small iPad, smaller upgrade](https://mobilesyrup.com/2024/10/22/ipad-mini-a17-pro-review-small-ipad-smaller-upgrade/)
+    
+    [](https://mobilesyrup.com/2024/10/21/fear-the-spotlight-blumhouse-games-cozy-game-pals-ps5-review/)
+    
+    Oct 21, 2024 | 10:00 AM EDT
+    
+    ### [Blumhouse’s Fear the Spotlight is the perfect indie horror experience](https://mobilesyrup.com/2024/10/21/fear-the-spotlight-blumhouse-games-cozy-game-pals-ps5-review/)
+    
+    [](https://mobilesyrup.com/2024/10/21/sonic-x-shadow-generations-review/)
+    
+    Oct 21, 2024 | 9:00 AM EDT
+    
+    ### [Sonic X Shadow Generations delivers the series’ most emotional story since Sonic Adventure 2](https://mobilesyrup.com/2024/10/21/sonic-x-shadow-generations-review/)
     
     [](https://mobilesyrup.com/2024/10/20/samsung-galaxy-tab-s10-ultra-is-an-entertainment-beast/)
     
@@ -529,24 +547,6 @@
     Oct 15, 2024 | 9:00 AM EDT
     
     ### [Super Mario Party Jamboree is some of the most fun I’ve had all year](https://mobilesyrup.com/2024/10/15/super-mario-party-jamboree-nintendo-switch-review/)
-    
-    [](https://mobilesyrup.com/2024/10/14/neva-man-best-friend/)
-    
-    Oct 14, 2024 | 12:01 PM EDT
-    
-    ### [Neva is the wonderfully beautiful tale of Man’s Best Friend](https://mobilesyrup.com/2024/10/14/neva-man-best-friend/)
-    
-    [](https://mobilesyrup.com/2024/10/14/the-google-tv-streamer-review-more-power-and-one-cool-trick/)
-    
-    Oct 14, 2024 | 10:10 AM EDT
-    
-    ### [The Google TV Streamer Review: More power and one cool trick](https://mobilesyrup.com/2024/10/14/the-google-tv-streamer-review-more-power-and-one-cool-trick/)
-    
-    [](https://mobilesyrup.com/2024/10/13/dockcase-magsafe-ssd-review-iphone-log/)
-    
-    Oct 13, 2024 | 2:28 PM EDT
-    
-    ### [The Dockcase MagSafe SSD is perfect for shooting LOG on iPhone](https://mobilesyrup.com/2024/10/13/dockcase-magsafe-ssd-review-iphone-log/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -588,6 +588,12 @@
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/reviews/reviews-tablets/)
         
+        [](https://mobilesyrup.com/2024/10/22/ipad-mini-a17-pro-review-small-ipad-smaller-upgrade/)
+        
+        Oct 22, 2024 | 9:00 AM EDT
+        
+        ### [iPad mini (A17 Pro) Review: Small iPad, smaller upgrade](https://mobilesyrup.com/2024/10/22/ipad-mini-a17-pro-review-small-ipad-smaller-upgrade/)
+        
         [](https://mobilesyrup.com/2024/10/20/samsung-galaxy-tab-s10-ultra-is-an-entertainment-beast/)
         
         Oct 20, 2024 | 11:03 AM EDT
@@ -617,12 +623,6 @@
         Jun 18, 2024 | 12:01 AM EDT
         
         ### [Early impressions of Qualcomm’s Snapdragon X Elite: Good, not great](https://mobilesyrup.com/2024/06/18/early-impressions-snapdragon-x-elite-good-not-great/)
-        
-        [](https://mobilesyrup.com/2024/06/02/ipad-air-m2-would-have-been-a-pro-in-any-other-year/)
-        
-        Jun 2, 2024 | 11:03 AM EDT
-        
-        ### [iPad Air (M2) would have been a pro in any other year](https://mobilesyrup.com/2024/06/02/ipad-air-m2-would-have-been-a-pro-in-any-other-year/)
         
     * [Smart Home](https://mobilesyrup.com/categories/reviews/reviews-smart-home/)
         
@@ -740,6 +740,18 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/10/21/fear-the-spotlight-blumhouse-games-cozy-game-pals-ps5-review/)
+        
+        Oct 21, 2024 | 10:00 AM EDT
+        
+        ### [Blumhouse’s Fear the Spotlight is the perfect indie horror experience](https://mobilesyrup.com/2024/10/21/fear-the-spotlight-blumhouse-games-cozy-game-pals-ps5-review/)
+        
+        [](https://mobilesyrup.com/2024/10/21/sonic-x-shadow-generations-review/)
+        
+        Oct 21, 2024 | 9:00 AM EDT
+        
+        ### [Sonic X Shadow Generations delivers the series’ most emotional story since Sonic Adventure 2](https://mobilesyrup.com/2024/10/21/sonic-x-shadow-generations-review/)
+        
         [](https://mobilesyrup.com/2024/10/15/super-mario-party-jamboree-nintendo-switch-review/)
         
         Oct 15, 2024 | 9:00 AM EDT
@@ -763,18 +775,6 @@
         Sep 25, 2024 | 8:00 AM EDT
         
         ### [The Legend of Zelda: Echoes of Wisdom is both familiar and fresh in the best way](https://mobilesyrup.com/2024/09/25/the-legend-of-zelda-echoes-of-wisdom-nintendo-switch-review/)
-        
-        [](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
-        
-        Sep 22, 2024 | 11:03 AM EDT
-        
-        ### [The GameSir G8 Plus is great to use with my Pixel 9 Pro Fold](https://mobilesyrup.com/2024/09/22/gamesir-g8-plus-foldable/)
-        
-        [](https://mobilesyrup.com/2024/09/05/astro-bot-ps5-review/)
-        
-        Sep 5, 2024 | 8:00 AM EDT
-        
-        ### [Astro Bot is one of the greatest PlayStation games of all time](https://mobilesyrup.com/2024/09/05/astro-bot-ps5-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
@@ -1354,6 +1354,12 @@
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
     
+    [](https://mobilesyrup.com/2024/10/22/disney-plus-apple-billing-end/)
+    
+    Oct 22, 2024 | 11:28 AM EDT
+    
+    ### [You can no longer sign up for Disney+ through Apple](https://mobilesyrup.com/2024/10/22/disney-plus-apple-billing-end/)
+    
     [](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
     
     Oct 18, 2024 | 12:26 PM EDT
@@ -1384,13 +1390,13 @@
     
     ### [Apple TV+ is officially coming to Amazon’s Prime Video](https://mobilesyrup.com/2024/10/10/apple-tv-plus-amazon-prime-video/)
     
-    [](https://mobilesyrup.com/2024/10/08/bell-warner-bros-discovery-crave-content-exclusivity-deal/)
-    
-    Oct 8, 2024 | 11:59 AM EDT
-    
-    ### [Bell and Warner Bros. Discovery extend Crave content deal, settle dispute](https://mobilesyrup.com/2024/10/08/bell-warner-bros-discovery-crave-content-exclusivity-deal/)
-    
     * [Streaming](https://mobilesyrup.com/categories/streaming/)
+        
+        [](https://mobilesyrup.com/2024/10/22/disney-plus-apple-billing-end/)
+        
+        Oct 22, 2024 | 11:28 AM EDT
+        
+        ### [You can no longer sign up for Disney+ through Apple](https://mobilesyrup.com/2024/10/22/disney-plus-apple-billing-end/)
         
         [](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
         
@@ -1421,12 +1427,6 @@
         Oct 10, 2024 | 11:35 AM EDT
         
         ### [Apple TV+ is officially coming to Amazon’s Prime Video](https://mobilesyrup.com/2024/10/10/apple-tv-plus-amazon-prime-video/)
-        
-        [](https://mobilesyrup.com/2024/10/08/bell-warner-bros-discovery-crave-content-exclusivity-deal/)
-        
-        Oct 8, 2024 | 11:59 AM EDT
-        
-        ### [Bell and Warner Bros. Discovery extend Crave content deal, settle dispute](https://mobilesyrup.com/2024/10/08/bell-warner-bros-discovery-crave-content-exclusivity-deal/)
         
     
 * [Videos](https://mobilesyrup.com/videos/)
