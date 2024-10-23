@@ -101,13 +101,13 @@ Search
     
     $14.95](https://www.adafruit.com/product/5980)
     
+    ![Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328 with lots of components, and booklet](https://cdn-shop.adafruit.com/230x173/170-04.jpg)[Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328
+    
+    $84.95](https://www.adafruit.com/product/170)
+    
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
-    
-    ![Angled shot of black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/5890-05.jpg)[Adafruit ItsyBitsy ESP32 - wFL Antenna - 8 MB Flash / 2 MB PSRAM
-    
-    $14.95](https://www.adafruit.com/product/5890)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
+“ If I want to live in a world I like, I have to help create it”
 
-[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
+[Caroline Caldwell](https://www.adafruit.com/quotes)
 
 [](https://www.adafruit.com/about)
 
