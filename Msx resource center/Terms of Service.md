@@ -153,10 +153,12 @@ Latest reactions
 
 Latest forum posts
 
-* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
-* [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=69 "WonderTANG! Who wants to juice up your MSX?")
+* [HIC board in FS-A1MKII - thanks RBSC!](https://www.msx.org/forum/msx-talk/hardware/hic-board-in-fs-a1mkii-thanks-rbsc "HIC board in FS-A1MKII - thanks RBSC!")
 * [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
 * [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
+* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
+* [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
 * [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=5 "CVBasic: New BASIC compiler for MSX")
@@ -164,8 +166,6 @@ Latest forum posts
 * [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
-* [Boot Manager 1.0](https://www.msx.org/forum/msx-talk/software/boot-manager-10?page=1 "Boot Manager 1.0")
-* [SymbOS MSX multitasking operating system - help needed!](https://www.msx.org/forum/development/msx-development/symbos-msx-multitasking-operating-system-help-needed?page=401 "SymbOS MSX multitasking operating system - help needed!")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
