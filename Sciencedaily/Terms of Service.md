@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Wearable Cameras Allow AI to Detect Med Errors](https://www.sciencedaily.com/releases/2024/10/241022132831.htm)
 * [Giant Meteorite Had Silver Lining for Life](https://www.sciencedaily.com/releases/2024/10/241021170403.htm)
 * [El Nino Oscillation 250 Million Years Old](https://www.sciencedaily.com/releases/2024/10/241021170400.htm)
 * [Role of Climate Change in Drought Intensity](https://www.sciencedaily.com/releases/2024/10/241021123029.htm)
@@ -238,7 +239,6 @@ this hour
 * [New Insights Into Air Pollution Formation](https://www.sciencedaily.com/releases/2024/10/241021123308.htm)
 * [Scientists Build Modules for Synthetic Cell](https://www.sciencedaily.com/releases/2024/10/241021123151.htm)
 * [Life-Saving Spongelike 'Bandage'](https://www.sciencedaily.com/releases/2024/10/241017113907.htm)
-* [Why Do We Love Carbs? Pre-Neanderthal DNA](https://www.sciencedaily.com/releases/2024/10/241017172950.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
-
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+
+[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
-
 [Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
 [Geochemistry](https://www.sciencedaily.com/news/earth_climate/chemistry/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
   
 
