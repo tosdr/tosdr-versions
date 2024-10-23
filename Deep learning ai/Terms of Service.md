@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Serverless Agentic Workflows with Amazon Bedrock](https://bit.ly/4gYAp6t)
+✨ New course! Enroll in [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://bit.ly/3A7hyW3)
 
 [](https://www.deeplearning.ai/)
 
