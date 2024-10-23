@@ -141,7 +141,7 @@
     
     [![](https://www.tunedglobal.com/hubfs/chance-the-rapper-sxsw-sydney-2023.jpg)](https://blog.tunedglobal.com/sxsw-sydney-2023-tunedglobal-warner-music-chance-le-rapper-web3?hsLang=en)
     
-    [3 Takeaways From SXSW Sydney: AI, Web3 and Chance The Rapper](https://blog.tunedglobal.com/sxsw-sydney-2023-tunedglobal-warner-music-chance-le-rapper-web3?hsLang=en)
+    [3 Takeaways from SXSW Sydney: AI, Web3 and Chance the Rapper](https://blog.tunedglobal.com/sxsw-sydney-2023-tunedglobal-warner-music-chance-le-rapper-web3?hsLang=en)
     
     [![](https://www.tunedglobal.com/hubfs/AdobeStock_583543137-1-1.jpeg)](https://blog.tunedglobal.com/microstreaming-how-brands-use-niche-music-streaming-to-reach-key-audiences?hsLang=en)
     
