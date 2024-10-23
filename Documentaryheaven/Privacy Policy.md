@@ -123,44 +123,44 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+    
+    Diary of a Porn Virgin
+    
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
     
     Extinct, the very word is chilling it means that a species no longer survives in this world. Already there have been five great extinction events in the history of our planet. What if the next specie...](https://documentaryheaven.com/next-great-extinction-event/ "The Next Great Extinction Event")
-* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
-    
-    Very Young Girls
-    
-    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
 
 ###### Throwback Documentaries
 
-* [![On The Streets](/wp-content/thumbnails/6078-100x70.jpg?x53432)
+* [![Ghosts of the Black Sea](/wp-content/thumbnails/6700-100x70.png?x53432)
     
-    On The Streets
+    Ghosts of the Black Sea
     
-    Filmmaker Penny Woolcock spent eight months in a parallel world, the world of the homeless, befriending people and finding out where they eat, sleep and socialise. While making her film, Woolcock rea](https://documentaryheaven.com/on-the-streets/ "On The Streets")
-* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
+    Seven years ago, on his third trip to the Black Sea, Dr. Robert Ballard discovered a miraculously well-preserved Byzantine shipwreck, but his team could only take pictures. Now, Ballard returns with s](https://documentaryheaven.com/ghosts-of-the-black-sea/ "Ghosts of the Black Sea")
+* [![The Game: The Documentary 2](/wp-content/thumbnails/10238-100x70.jpg?x53432)
     
-    Reality and the Extended Mind
+    The Game: The Documentary 2
     
-    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
-* [![ALL ACCESS: Mayweather vs. McGregor](/wp-content/thumbnails/13435-100x70.png?x53432)
+    10 years after releasing his debut album The Documentary, Compton rapper, The Game, recently released a double album in two separate installments. The first disk was titled The Documentary 2 and the s](https://documentaryheaven.com/game-documentary-2/ "The Game: The Documentary 2")
+* [![Judgment Day: Intelligent Design on Trial](/wp-content/thumbnails/12584-100x70.jpg?x53432)
     
-    ALL ACCESS: Mayweather vs. McGregor
+    Judgment Day: Intelligent Design on Trial
     
-    This four part documentary series from SHOWTIME Sports aims to provide us with an intimate portrait of two of the most compelling personalities in sport right now, that being Floyd Mayweather Jr. and](https://documentaryheaven.com/access-mayweather-vs-mcgregor/ "ALL ACCESS: Mayweather vs. McGregor")
-* [![The Real Sleeping Beauty](/wp-content/thumbnails/8315-100x70.jpg?x53432)
+    Like much of the United States, Dover, Pennsylvania has become a town divided, split between those who accept Charles Darwin's Theory of Evolution and those who reject it. This rift between science an](https://documentaryheaven.com/judgment-day-intelligent-design-on-trial/ "Judgment Day: Intelligent Design on Trial")
+* [![Dub Echoes](/wp-content/thumbnails/5737-100x70.jpg?x53432)
     
-    The Real Sleeping Beauty
+    Dub Echoes
     
-    In 1984, when Sarah Scantlin was just eighteen years old, she was hit by a drunk driver and fell into a coma. Sarah had such severe brain injuries that doctors had to remove the part of her brain that](https://documentaryheaven.com/real-sleeping-beauty/ "The Real Sleeping Beauty")
-* [![Living in the End Times (According to Slavoj Zizek)](/wp-content/thumbnails/4696-100x70.jpg?x53432)
+    The documentary “Dub Echoes” shows how the Jamaican invention called dub ended up influencing much of the music we hear today, from electronic music to hip-hop, transforming the studio in a musical in](https://documentaryheaven.com/dub-echoes/ "Dub Echoes")
+* [![Can We Have Unlimited Power?](/wp-content/thumbnails/7089-100x70.jpg?x53432)
     
-    Living in the End Times (According to Slavoj Zizek)
+    Can We Have Unlimited Power?
     
-    Slovenian philosopher Slavoj Zizek, akaThe Elvis of cultural theory, is given the floor to show of his polemic style and whirlwind-like performance. The Giant of Ljubljana is bombarded with clips of](https://documentaryheaven.com/living-in-the-end-times-slavoj-zizek/ "Living in the End Times (According to Slavoj Zizek)")
+    Michael Mosley takes an informative and ambitious journey exploring how the evolution of scientific understanding is intimately interwoven with society's historical path.We are the most power-hungry](https://documentaryheaven.com/can-we-have-unlimited-power/ "Can We Have Unlimited Power?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
