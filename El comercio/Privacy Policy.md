@@ -31,6 +31,386 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Vigilar y cuidarse de los volcanes, una clara política de prevención
+====================================================================
+
+El mejoramiento de la capacidad de monitoreo de los volcanes es una muestra de la política de prevención del Instituto Geofísico.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Prompt: Prevención y coordinación ante las erupciones volcánicas.](https://www.elcomercio.com/wp-content/uploads/2024/10/EDITORIAL-VOLCANES.jpg)
+
+Cada vez que se renuevan los equipos de vigilancia y monitoreo de los **volcanes de Ecuador** se refuerza la política de **prevención** para cuidarse de los efectos de las erupciones. 
+
+Por eso, es destacable la instalación de más equipos con nueva generación tecnológica en los **volcanes Cotopaxi, Guagua Pichincha, Sangay y Reventador.**
+
+En días recientes, el **Instituto Geofísico de la Escuela Politécnica Nacional** recibió una donación de más de 100 000 dólares en equipos para detectar las señales de una erupción.
+
+> > La existencia de una red de monitoreo de los volcanes y de las zonas sísmicas de Ecuador cumple un papel fundamental en la prevención de erupciones y terremotos.
+
+Mediante la cooperación internacional, **Estados Unidos** entregó este lote de instrumentos, tarea en la cual se involucraron la Cancillería y la Secretaría de Riesgos.
+
+Este equipamiento refuerza la capacidad del **Instituto Geofísico** en su trabajo de monitoreo y procesamiento de información valiosa del comportamiento de los volcanes.
+
+Solo de esa manera es posible estar al día y contar con información que sirve a las autoridades y la comunidad. Así, pueden tomar decisiones oportunas y acertadas ante una eventual erupción de cualquiera de los **20 volcanes que son monitoreados[.](https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador "https://es.wikipedia.org/wiki/Instituto_Geof%C3%ADsico_de_Ecuador")**
+
+Este es un claro mensaje de esa política de prevención, que impulsa el Instituto Geofísico, con el apoyo de sus aliados.
+
+La renovación de los equipos permitirá tener un mejor control de los movimientos de los volcanes **Sangay y Reventador.** Ambos volcanes están en permanente erupción desde 2019 y 2002, respectivamente.
+
+Así sea de noche o esté nublado, se sabrá exactamente si hay una salida de material por el conducto de los volcanes. 
+
+Por esa razón es importante que el **Instituto Geofísico** siga mejorando su capacidad de estudio. Y también es vital que los gobiernos de turno y las autoridades sirvan de soporte para sostener la red de monitoreo volcánico y sísmico.
+
+Mensajes
+========
+
+Con apagones de 10 horas diarias, la crisis ha dejado de ser eléctrica y ha pasado a ser económica y social.
+------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+El mensaje del **presidente Noboa** difundido el jueves 17, en el que anunció la **disminución** en 2 horas los **apagones**, que serán de 8, 6 y 4 horas diarias en las próximas 3 semanas, es uno de los compromisos de **mayor trascendencia política** que ha asumido el jefe de Estado. Habrá sido hecho con **fundamentos fácticos**, seguros e inmutables, porque, de lo contrario, podrá terminar con sus posibilidades de **reelección**.
+
+Bien pudo el presidente anunciar cada semana la **reducción de 2 horas de corte**, con lo cual no ponía en **riesgo** su **credibilidad**, podía continuar el **programa** según las circunstancias y, además, habrían sido 3 anuncios positivos y no uno, solo que se diluye en el **tiempo** y compromete su **futuro electoral**. Pero Noboa y sus **asesores** tendrán razones para el **compromiso global**. No hay que descartar línea directa con San Pedro. Todo es posible en este país de opereta.
+
+También fue un mensaje la **cadena de Noboa** y sus **ministras de Energía** y de la **Producción** y la inmediata dimisión de la ministra García, aduciendo la gastada razón de “**motivos personales**”.  ¿Qué mensaje implica el anuncio de mayor **impacto** en el momento actual con una **ministra** que deja de serlo en las siguientes horas?  Procede la **pregunta** sobre qué ocurre en el **gobierno**. ¿Ausencia de dirección? ¿Desorden? ¿Enfrentamientos internos?
+
+Con **apagones** de 10 horas diarias, la crisis ha dejado de ser **eléctrica** y ha pasado a ser **económica** y social. Los cortes tan extensos han producido la **disrupción** de la **vida social y familiar**, el despido de cientos de **trabajadores**, el cierre de **varios negocios** y la ruina de **mini empresarios**, como sastres, peluqueros, costureras, zapateros, etcétera, que no pueden obtener **ingresos** mínimos para solventar las necesidades diarias de sus familias. Y no existen **soluciones mágicas** para superar la **crisis**. Será necesario enfrentar la verdad desnuda, quemar etapas de **contratación** y puesta en **marcha** de **equipos generadores** y pedir **cooperación** y **resiliencia** a la **ciudadanía**.
+
+Cartas a Quito / 23 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este 23 de octubre de 2024
+----------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+La vendetta, una moneda
+-----------------------
+
+Es inaceptable y decepcionante que personajes políticos a quienes los ciudadanos de buena fe, empezábamos a considerar, hasta hace poco, como una alternativa para sustentar el presente y futuro político del país, se hayan sumado a una causa rebuscada y desestabilizadora -carente de argumentos válidos- que esgrimen los descalificados operadores afines al correísmo, que han hecho costumbre el enjuiciamiento de ministros, por cuya gestión se sienten afectados.
+
+El trabajo que realiza la ministra Mónica Palencia en el Gobierno actual, es fundamental porque demuestra su capacidad y dotes para desempeñar con valentía, seriedad y objetividad dicha cartera, toda vez que maneja con éxito temas sensibles e importantes relacionados con la seguridad y la gobernabilidad. Pero, la oposición, dominada por el prófugo prontuariado, cree lucirse apoyando su enjuiciamiento -aberrante despropósito, en este caso- usando como portavoz a una asambleísta impresentable por su carencia de los más elementales atributos para enfrentar a una ministra que se merece todo respeto.
+
+Desde la cárcel y allende los mares, los dueños de esta repulsiva agrupación han resuelto no perdonar que dicha ministra haya ordenado la extracción y apresamiento de un delincuente común desde la embajada mexicana, acto sobre el cual, la comunidad nacional e internacional ha expresado su conformidad, con excepción de unos pocos países alineados con el caos, la impunidad y el narco.
+
+Tomar una revancha contra el Gobierno, sin que importen los intereses del país, desnuda la falta de coherencia política y compromiso con el objetivo nacional: engrandecer y preservar nuestra nación. Quienes han tomado el camino de apoyar esta vendetta, que no Construye si no deconstruye la democracia, llevan a hacerse la inevitable pregunta: ¿a cambio de qué?, pues parecería que han firmado la proscripción política de su partido y han quedado marcados en la arena política ecuatoriana.
+
+Leonardo Cueva Piedra
+
+Populismo rencoroso (I)
+=======================
+
+El populismo es teatralidad, y se mueve en el charco del entretenimiento.  
+---------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Una de las patologías del **populismo** es fabricar, **inventar** o crear enemigos, simplificando la **historia** y los hechos, remueve y apela a la **emoción** y **pasiones**, divide la **sociedad** entre buenos y malos. Por un lado, un pueblo bueno, **virtuoso** y sometido; y, por otro lado, los **villanos** ricos, «pelucones», el «imperio», a quienes se atribuye todas las desgracias. Un discurso que **activa** y **potencia** al máximo el rencor y el resentimiento. El **populismo** navega en el **conflicto** del amigo y el enemigo.
+
+El gobernante mexicano, Andrés Manuel López Obrador (AMLO), durante su sexenio en el **poder**, dinamizó el **discurso** de **polarización**.  Brindó un espectáculo vinculado al clientelismo, **autoritarismo** y corrupción. Pero, además, de **connivencia** con los cárteles de la droga, a la que convidó «_abrazos y no balazos»._  Hizo de México la guarida de **funcionarios corruptos** que huyeron de la **justicia** ecuatoriana, para concederles **protección** y **privilegios**. Lo intentó con Glas, pero la firmeza del **gobierno** de **Daniel Noboa** lo frenó.  Para completar la **distracción**, cambió las **reglas** para que los **jueces** sean electos en **comicios populares**, con lo cual, la **justicia** estará en manos del **crimen organizado**. Algo parecido intenta Petro en Colombia.
+
+Como AMLO necesitaba de un **enemigo**, le cayó como anillo al dedo el Reino de España. El 2019 se le ocurrió enviar una carta al rey Felipe VI para que haga un «_relato de agravios y se pida perdón a los pueblos originarios_», igual demandó del pontífice de Roma.  Obviamente, el rey no respondió la **pintoresca misiva** del **gobernante** populista. Imagínense ustedes, si la historia está repleta de **guerras**, **colonizaciones** y **conquistas**, quinientos años después de lo sucedido, se le ocurre que pidan perdón.
+
+No solo se trató de una tosca **descortesía** de AMLO e ingenuidad de su fiel **sucesora** Claudia Sheinbaum, en no invitar al rey Felipe VI a su **posesión** y sí a Pedro Sánchez; sin enterarse de que el **sistema** de **gobierno** de **España** es una **Monarquía constitucional parlamentaria**, donde el rey es el **jefe del Estado** y el símbolo de su **unidad** y **permanencia**. Pero la señora Sheinbaum, no tiene idea.  ¿Creía qué el **parentesco ideológico** de Sánchez, le permitía ir a México? El **populismo** es **teatralidad**, y se mueve en el charco del **entretenimiento**.  
+
+Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?
+==========================================================================
+
+La violencia política es uno de los ejes en el camino a las elecciones 2025.
+----------------------------------------------------------------------------
+
+![Este 21 de octubre se presentó al equipo policial que cuidará a binomios presidenciales. En la foto, Diana Atamaint, presidenta del CNE.](https://www.elcomercio.com/wp-content/uploads/2024/10/violencia-elecciones.jpg)
+
+La **violencia política** en Ecuador se manifiesta en diferentes instancias. El camino a las elecciones 2025 no está libre de este panorama.
+
+El **[Código de la Democracia](https://www.cne.gob.ec/wp-content/uploads/2018/10/librocodigodemocracia-1.pdf)** y los reglamentos de Debates y Promoción Electoral contemplan lineamientos sobre las prácticas violentas que se pueden presentar. Hay propuestas de reformas sobre el tema.
+
+### Más noticias
+
+* [Selección de miembros de las juntas para las elecciones 2025 se acerca](https://www.elcomercio.com/elecciones/seleccion-miembros-juntas-receptoras-voto-elecciones-2025-acerca.html "Selección de miembros de las juntas para las elecciones 2025 se acerca")
+* [Dos binomios esperan por un puesto en las elecciones 2025, ¿y para asambleístas?](https://www.elcomercio.com/elecciones/dos-binomios-esperan-elecciones-2025-y-para-asambleistas.html "Dos binomios esperan por un puesto en las elecciones 2025, ¿y para asambleístas?")
+* [Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?](https://www.elcomercio.com/elecciones/ecuador-nuevo-canton-elecciones-2025.html "Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?")
+* [Verónica Abad suma dos denuncias por violencia política de género](https://www.elcomercio.com/actualidad/politica/veronica-abad-nueva-denuncia-reemplazar-daniel-noboa.html "Verónica Abad suma dos denuncias por violencia política de género")
+* [Mujeres proponen cambios al Código de la Democracia por violencia política](https://www.elcomercio.com/actualidad/politica/mujeres-cambios-codigo-democracia-violencia-politica.html "Mujeres proponen cambios al Código de la Democracia por violencia política")
+
+Violencia política, normativas y elecciones
+-------------------------------------------
+
+**Pablo Játiva**, docente de Derecho, alude a que la violencia política se hace presente en las descalificaciones al argumento del contrario, la negativa al diálogo, insultos, burlas y el uso de estereotipos de género.
+
+**Ruth Hidalgo**, director de **Participación Ciudadana**, alerta sobre un repunte de la violencia en las redes sociales. Aunque es a todo nivel, las mujeres que ocupan cargos altos o candidaturas son las más atacadas.
+
+Las **redes sociales** son un espacio **violento** por excelencia. Hidalgo hace esta afirmación por los monitoreos permanentes que realiza la organización.
+
+Si bien los ataques no son exclusivos hacia las mujeres, la **violencia política de género** sigue primando. Esta va de la mano con la potenciación de estereotipos, como que deberían ir a cuidar niños o estar en la cocina.
+
+Se suman comentarios por el origen, la vestimenta y, de cajón, por su condición de mujer.
+
+Ya en la campaña de las elecciones anticipadas 2023, el **Observatorio Ciudadano de Violencia Política** (OCVP) registró las expresiones más comunes utilizadas. Estas incluyeron insinuaciones sexuales, desmerecimiento por apariencia física, calificativos como tonta.
+
+> [#EcuadorDecide2025](https://twitter.com/hashtag/EcuadorDecide2025?src=hash&ref_src=twsrc%5Etfw)🟡🔵🔴  
+>   
+> Ejecutamos las actividades planificadas en el [#CalendarioElectoralEc](https://twitter.com/hashtag/CalendarioElectoralEc?src=hash&ref_src=twsrc%5Etfw).🗓️ Conoce los principales hitos establecidos en el marco de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🗳️  
+>   
+> Visita nuestras cuentas oficiales y accede a los [#ServiciosElectoralesEc](https://twitter.com/hashtag/ServiciosElectoralesEc?src=hash&ref_src=twsrc%5Etfw) de forma presencial o… [pic.twitter.com/PbHzPgE7Uw](https://t.co/PbHzPgE7Uw)
+> 
+> — cnegobec (@cnegobec) [October 22, 2024](https://twitter.com/cnegobec/status/1848814300850221535?ref_src=twsrc%5Etfw)
+
+Código de la Democracia y la violencia política de género
+---------------------------------------------------------
+
+El **Código de la Democracia** define a la violencia política de género como aquella agresión cometida por una persona o un grupo, directa o indirectamente, contra candidatas, militantes, electas, designadas o que ejerzan cargos públicos, defensoras de derechos humanos, feministas, lideresas políticas o sociales, o en contra de su familia.
+
+Esas manifestaciones, dice la **normativa**, están dirigidas a acortar, suspender, impedir o restringir el ejercicio de las funciones propias de su cargo o inducir a una acción u omisión.
+
+A su vez, se incluyen las amenazas en cualquier forma a ellas o a sus familias. Esto con miras a anular sus derechos políticos, incluyendo la renuncia al cargo o función que ejercen o postulan.
+
+> [#EcuadorVotaInformado](https://twitter.com/hashtag/EcuadorVotaInformado?src=hash&ref_src=twsrc%5Etfw) 🗳️📣  
+>   
+> El domingo 9 de febrero de 2025, las y los 🇪🇨 empadronados en territorio nacional y el exterior 🌐 acudiremos de forma presencial a las urnas para elegir:  
+>   
+> ➡️ Binomio presidencial  
+> ➡️ Asambleístas nacionales, provinciales y por el exterior.  
+> ➡️… [pic.twitter.com/5YEnsWvNX7](https://t.co/5YEnsWvNX7)
+> 
+> — cnegobec (@cnegobec) [October 21, 2024](https://twitter.com/cnegobec/status/1848503442727121260?ref_src=twsrc%5Etfw)
+
+Información falsa puede ser violencia
+-------------------------------------
+
+También se considera **violencia política de género** a proporcionar datos falsos a los órganos electorales con objeto de impedir el ejercicio de los derechos políticos de las mujeres.
+
+No se queda fuera la divulgación de imágenes, mensajes o información con base en estereotipos. También evitar que asistan a cualquier actividad que implique la toma de decisiones, en **igualdad** de condiciones.
+
+Como puntualizan desde el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** Este tipo de violencia constituye una infracción electoral grave, establecida en el artículo 279 del Código de la Democracia.
+
+Las sanciones incluyen una multa entre **21 y 70 salarios básicos unificados**. Pero, también puede desembocar en la destitución y/o suspensión de derechos de participación de dos a cuatro años.
+
+El **Código de la Democracia** no sanciona si un hombre ataca a otro.
+
+Las propuestas de reforma
+-------------------------
+
+Frente a esa realidad, colectivos de mujeres propusieron reformas al Código de la Democracia. La iniciativa ya se trata en la **Asamblea Nacional**.
+
+La propuesta plantea seis nuevas causales a continuación del numeral 13 del artículo 280 del Código de la Democracia.
+
+Consta, por ejemplo, la sanción cuando causen o puedan ocasionar la muerte violenta de mujeres debido a su participación o **actividad política**. Así como que agredan físicamente a una o varias mujeres con objeto o resultado de menoscabar o anular sus derechos políticos.
+
+El camino a las urnas
+---------------------
+
+Desde **Participación Ciudadana** avizoran que la violencia en la **campaña electoral 2025** puede escalar. El mayor riesgo es que las expresiones en redes sociales a las agresiones físicas. Este proceso será del 5 de enero al 6 de febrero.
+
+Uno de los antecedentes graves es el asesinato del excandidato a la Presidencia, **Fernando Villavicencio**, en agosto de 2023.
+
+En esa línea, este 21 de octubre de 2024, se presentaron a los **288 servidores policiales** que custodiarán a los **binomios presidenciales**. Se inscribieron 16 en el **CNE**, pero aún resta saber la cifra definitiva. Esta se conocerá el 30 de diciembre.
+
+Cada binomio tendrá una cápsula de seguridad con nueve agentes, dependiendo del **nivel de riesgo**.
+
+Las elecciones generales serán el **9 de febrero de 2025**. Se elegirán a las cabezas de la Presidencia, Vicepresidencia, 151 asambleístas y cinco parlamentarios andinos.
+
+Los parámetros
+--------------
+
+El **Código de la Democracia**, por ejemplo, establece que las precandidaturas no podrán fundamentar sus campañas en ataques personales o acusaciones al resto de postulantes.
+
+En el Reglamento de **Promoción Electoral**, a su vez, se deja claro que los sujetos políticos, a través de los contenidos de la publicidad electoral, pondrán de manifiesto y garantizarán el cumplimiento de los principios que rigen la actividad:
+
+* El fomento de una **cultura de paz** y seguridad integral en el ámbito público y privado
+* La participación popular y pluralismo **ideológico**
+* El respeto a la diferencia e inclusión de los **grupos sociales** excluidos
+* El respeto a la honra, el buen nombre y la vida privada
+
+Estados Unidos y Panamá frenan migración ilegal de ecuatorianos por el Darién
+=============================================================================
+
+El acuerdo entre Estados Unidos y Panamá para frenar la migración ilegal de ecuatorianos y otras nacionalidades está vigente desde julio.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Estados Unidos y Panamá firmaron acuerdo para frenar migración de ecuatorianos y personas de otras nacionalidades por el Darién.](https://www.elcomercio.com/wp-content/uploads/2024/10/estados-unidos-panama-migracion-ecuatorianos-darien.jpg)
+
+**Estados Unidos** y **Panamá** firmaron un acuerdo para frenar la **migración ilegal** de **ecuatorianos** y personas de otras nacionalidades por el **Darién**, según información de la **Embajada de Estados Unidos en Panamá**, este martes 22 de octubre de 2024.
+
+Este acuerdo está vigente desde **julio** y ya muestra una severa **disminución** de la migración ilegal de los compatriotas por ese paso.
+
+### Más noticias:
+
+* [36 ecuatorianos fueron deportados desde Panamá](https://www.elcomercio.com/actualidad/ecuador/ecuatorianos-fueron-deportados-desde-panama-segundo-vuelo.html "36 ecuatorianos fueron deportados desde Panamá")
+* [Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos](https://www.elcomercio.com/actualidad/politica/rafael-correa-jorge-glas-con-prohibicion-de-ingreso-eeuu-corrupcion.html "Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos")
+
+Acuerdo entre Estados Unidos y Panamá frena migración ilegal de ecuatorianos por el Darién
+------------------------------------------------------------------------------------------
+
+A casi tres meses de vigencia entre Estados Unidos y Panamá para frenar la migración ilegal por el Darién ya existen **resultados**.
+
+El acuerdo consiste en la **repatriación** de las personas que intentan un cruce ilegal por ese sitio.
+
+Para octubre, este convenio ha reducido en un **92 % el tránsito por esa selva de ciudadanos ecuatorianos** y en un **65 % el de colombianos**.
+
+Así lo informó la **Embajada de Estados Unidos en Panamá** este martes.
+
+El acuerdo, suscrito el 1 de julio pasado, contempla la repatriación, vía aérea y con base en las leyes panameñas, de migrantes irregulares que hayan llegado a Panamá tras cruzar la **selva fronteriza con Colombia**, con Estados Unidos financiando los vuelos.
+
+“Desde que los vuelos comenzaron, hemos visto una disminución en el cruce de migrantes ecuatorianos y colombianos del 92 % y 65 %, respectivamente, **comparado con los meses de agosto y septiembre del año pasado**“, dijo la **Embajada de Estados Unidos en Panamá** en un comunicado. 
+
+Los colombianos y los ecuatorianos están entre las **principales nacionalidades** de los migrantes irregulares que atraviesan la selva con destino a Norteamérica.
+
+Desde hace varios años la gran mayoría son **venezolanos**, aunque el plan de deportación no se puede aplicar a ellos dada la suspensión, desde finales de julio, de las relaciones diplomáticas entre Panamá y Venezuela.
+
+Hasta el pasado 13 de octubre, 274 444 viajeros irregulares han llegado a Panamá a través de la jungla, un 36,5 % menos que los 432.211 registrados en **el mismo lapso de 2023**, de acuerdo con las estadísticas panameñas.
+
+Caso 800 deportados en 19 vuelos por acuerdo entre Panamá y Estados unidos para detener migración ilegal de ecuatorianos y otros
+--------------------------------------------------------------------------------------------------------------------------------
+
+Las autoridades han deportado a unos 787 migrantes, 19 **vuelos financiados** por 1 140 846 dólares por EE.UU. en operaciones aéreas ejecutadas por Panamá.
+
+La **financiación estadounidense** “cubre el pasaje de los deportados, escoltas, traductores, entre otros gastos relacionados”, de acuerdo con la información oficial.
+
+“El primer vuelo bajo este programa se realizó el 20 de agosto de 2024 y el más reciente se realizó el pasado 19 de octubre. En los primeros tres meses del **plan piloto**, se han deportado o expulsado personas en vuelos charter a Colombia, Ecuador e India.
+
+Además, Estados Unidos y Panamá retornaron a cuatro migrantes irregulares en vuelos comerciales a A**fganistán, Pakistán, Rusia y Turquía**.
+
+La justicia panameña procesó a los migrantes irregulares deportados o expulsados, algunos de ellos con notables a**ntecedentes penales**.
+
+La embajadora de Estados Unidos en Panamá, **Mari Carmen Aponte**, dijo que “Panamá es un estrecho aliado de Estados Unidos”.
+
+Con este acuerdo, Estados Unidos destaca que los migrantes irregulares pueden ser devueltos a sus países, “**aunque logren cruzar** la peligrosa selva de Darién”.
+
+La fuente diplomática remarcó que la migración irregular “solo beneficia al crimen organizado”.
+
+El **Departamento de Estado destinó 6 millones de dólares** al Departamento de Seguridad Nacional del país norteamericano para financiarlo.
+
+Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores
+===========================================================================
+
+Los brasileños consiguieron una importante victoria en su sueño de llegar a una nueva final continental.
+--------------------------------------------------------------------------------------------------------
+
+![Alan Franco en un partido con Atlético Mineiro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-22T205025.267.jpg)
+
+Con **Alan Franco** como titular, **Atlético Mineiro** no tuvo problemas para derrotar 3-0 a River Plate este martes 22 de octubre, en la semifinal de ida de la Copa Conmebol Libertadores.
+
+La gran figura del partido fue el delantero **Deyverson Silva**, quien marcó un doblete y asistió en otro gol en el Arena MRV. Ahora, con una ventaja considerable, deberán esperar el partido de vuelta el próximo martes 29 de octubre en el Monumental de Argentina para **sellar su clasificación a la final** del torneo internacional.
+
+### Más noticias:
+
+* [Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-unico-ecuatoriano-aspiraciones-ganar-copa-libertadores.html "Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores")
+* [Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores](https://www.elcomercio.com/deportes/dragonas-idv-partido-copa-libertadores-boca-juniors-cuarto.html "Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores")
+* [Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-gonzalo-plata-eliminacion-copa-libertadores.html "Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores")
+
+El ecuatoriano **tuvo un partido discreto**, pero cumplió en su función, completando los 90 minutos. Alan **Franco** acertó el 92% de sus pases, ganó seis de once duelos y contribuyó defensivamente con un bloqueo, una intercepción y dos entradas.
+
+Atlético Mineiro goleó a River Plate
+------------------------------------
+
+El encuentro arrancó con polémica en Belo Horizonte, cuando a los pocos minutos se anuló un gol de Deyverson tras la revisión del **VAR**. Sin embargo, el delantero brasileño tendría su revancha a los 22 minutos.
+
+Hulk, en una disputa física con Germán Pezzella, le ganó el esférico y asistió a su compatriota **Deyverson**, quien con un gran gesto técnico eludió a Franco Armani y marcó el 1-0.
+
+> DEYVERSON ELUDIÓ A FRANCO ARMANI Y MARCÓ EL 1-0 DE MINEIRO ANTE RIVER.  
+>   
+> 📺 Mirá las semifinales de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/I1JXsD5x2k](https://t.co/I1JXsD5x2k)
+> 
+> — SportsCenter (@SC\_ESPN) [October 23, 2024](https://twitter.com/SC_ESPN/status/1848890617599758808?ref_src=twsrc%5Etfw)
+
+En la segunda mitad, el partido estuvo parejo, pero cuando River Plate empezó a crecer, Atlético Mineiro sentenció el encuentro. A los 70 minutos, **Deyverson anotó su segundo gol** luego de una gran jugada colectiva. Con un potente remate cruzado en el área, puso el 2-0.
+
+> ¡¡DOBLETE DE DEYVERSON PARA MINEIRO 2-0 RIVER EN BRASIL!!  
+>   
+> 📺 Mirá las semifinales de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/QGpoKoVsE1](https://t.co/QGpoKoVsE1)
+> 
+> — SportsCenter (@SC\_ESPN) [October 23, 2024](https://twitter.com/SC_ESPN/status/1848907868164006117?ref_src=twsrc%5Etfw)
+
+El tanto afectó al equipo argentino, ya que solo cuatro minutos después el ‘**Galo’ completó la goleada**. Esta vez fue Paulinho quien anotó el 3-0 final, tras una asistencia de Deyverson, quien fue sin duda la gran figura del encuentro.
+
+> DISTRACCIÓN DE RIVER Y TERCERO DE MINEIRO: MARCÓ PAULINHO.  
+>   
+> 📺 Mirá las semifinales de la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/nkRv5R8z1W](https://t.co/nkRv5R8z1W)
+> 
+> — SportsCenter (@SC\_ESPN) [October 23, 2024](https://twitter.com/SC_ESPN/status/1848908745071333770?ref_src=twsrc%5Etfw)
+
+Con esta victoria, Atlético Mineiro llega con una **gran ventaja al partido de vuelta en Buenos Aires**, donde buscarán asegurar su lugar en la final de la Copa Libertadores.
+
+Deportivo Quito tiene una deuda de 7 millones y planea reducirla
+================================================================
+
+El Deportivo Quito busca el ascenso hacia la Serie B desde la Segunda Categoría mientras lidia con una deuda que espera reducir.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El equipo de Deportivo Quito en uno de sus partidos en la Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-22T200645.882.jpg)
+
+El **Deportivo Quito** se encuentra en la fase nacional de la Segunda Categoría de Ecuador con el objetivo de retornar a la Serie B. Los chullas oficializaron su nueva directiva en septiembre de 2024 y esta tiene claro el valor de su deuda y hacia cuánto puede bajar.
+
+El arribo del flamante directoria de los chullas coincidió con su inclusión de la escuadra en los cotejos eliminatorios para ascender. A partir de ello, esta oficializó un **cuerpo técnico** y reestructuró el equipo para pelear el ascenso.
+
+### Más noticias:
+
+* [Deportivo Quito sacó a la venta 12 000 entradas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-cantera-orense-entradas.html "Deportivo Quito sacó a la venta 12 000 entradas")
+* [Deportivo Quito iguala con Cantera Orense en dieciseisavos de Segunda](https://www.elcomercio.com/deportes/deportivo-quito-cantera-orense-partido-segunda-categoria.html "Deportivo Quito iguala con Cantera Orense en dieciseisavos de Segunda")
+* [Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/luis-saritama-resalta-el-papel-crucial-de-la-hinchada-del-deportivo-quito.html "Luis Saritama resalta el papel crucial de la hinchada del Deportivo Quito")
+
+A nivel administrativo, el club también busca encontrar estabilidad y realiza trabajos para recuperar su **institucionalidad** y que aquello vaya de la mano con lo deportivo. Una de las principales cuestiones a tener en cuenta es la deuda del equipo.
+
+Los valores pendientes fueron una de las principales causas de la crisis del Deportivo Quito que, inclusive, lo llevó hasta la división amateur del fútbol nacional y lo ha marginado de la primera división durante casi nueve años. A partir de ello, **José Pardo**, presidente de la entidad, conversó con EL COMERCIO y especificó la situación del club.
+
+7 millones de deuda en Deportivo Quito y un margen de reducción
+---------------------------------------------------------------
+
+Pardo especificó el balance en torno a la deuda de **Deportivo Quito** y el monto específico de ella. Pese a esto, él dirigente sostuvo que esta puede bajar en función de prescripciones de los valores de los acreedores.
+
+“Lo hemos manejado bastante bien. Este año no hemos tenido ningún problema y lo seguiremos manejando así. **Las deudas del club, están todas ya registradas. Tenemos una base real de cuánto se debe que son siete millones de dólares, de los cuales pueden bajar porque hay un montón de temas de prescripción y cosas así.** Yo creo que cuatro millones, aproximadamente, es la deuda, no podríamos decir negociable, pero una deuda que tiene el club” señaló, Pardo.
+
+El dirigente también contó que el presupuesto para la plantilla y cuerpo técnico con la que cuenta es de **20 mil dólares**. Asimismo, señaló que lo demás que se consiga con respecto a ingresos se destina para deudas y suspensiones.
+
+El Quito busca los octavos de final de la Segunda Categoría
+-----------------------------------------------------------
+
+El **Deportivo Quito** se encuentra en los dieciseisavos de final de la fase nacional de Segunda Categoría. La etapa previa le dio el pase al equipo tras vencer al **Santa Elena SC**.
+
+En la actual ronda, la ‘AKD’ se encuentra emparejada con **Cantera Orense.** En la ida, la escuadra igualó por 1-1 con sus rivales y definirá su boleto hacia la siguiente ronda durante el 27 de septiembre del 2024 en el Estadio Gonzalo Pozo Ripalda de Quito.
+
+Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz
+===========================================================================================
+
+El acuerdo ministerial para la modificación de la jornada laboral por los cortes de luz establece un consenso entre trabajadores y empleadores.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Ministerio de Trabajo permitió modificar la jornada laboral por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/ministerio-trabajo-acuerdo-modificacion-jornada-laboral-cortes-luz-1.jpg)
+
+El **Ministerio de Trabajo** emitió un acuerdo ministerial para la **modificación** de la **jornada laboral** por los **cortes de luz,** este martes 22 de octubre de 2022[.](https://es.wikipedia.org/wiki/Ministerio_del_Trabajo_(Ecuador))
+
+Así, el Gobierno expidió el procedimiento para registrar acuerdos de modificación de la jornada laboral, también denominado **“Pico y Placa eléctrico”**.
+
+### Más noticias:
+
+* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
+* [Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz](https://www.elcomercio.com/actualidad/empresarios-acercamiento-gobierno-daniel-noboa-cortes-luz.html "Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz")
+
+Modificación de la jornada laboral por cortes de luz deberá partir de un acuerdo
+--------------------------------------------------------------------------------
+
+La modificación de la **jornada laboral** por los cortes de luz deberá partir de un **acuerdo** entre las partes.
+
+El documento está dirigido a **sectores privados** que por la emergencia del sector eléctrico nacional requieren la modificación temporal de una jornada laboral.
+
+El empleador y el trabajador podrán llegar a un acuerdo común y **fijar una jornada** diferente a la establecida en el contrato por “**motivos de emergencia**” del sector eléctrico nacional.
+
+Sin embargo, esto **no significa una modificación definitiva** de la relación laboral.
+
+Con base a este planteamiento, las **jornadas** se distribuirán de la siguiente forma:
+
+De **07h00 a 17h00** (10 horas diarias) para los días lunes, martes, miércoles y jueves.
+
+De **07h00 a 17h00** (10 horas diarias) para los días jueves, viernes, sábado y domingo.
+
+El Ministerio aclara que los acuerdos alcanzados entre las partes no podrán superar las **40 horas** de trabajo semanales.
+
+En caso de sobrepasar dicha jornada deberán cumplirse con los pagos de horas suplementarias o extraordinarias de conformidad al artículo 55 del **Código del Trabajo**.
+
+Además, los empleados que se acojan a esta modificación temporal de su jornada, podrán acceder a un día de **descanso** adicional a las 48 horas consecutivas.
+
 Diego Forlán sorprende y hará su debut en el tenis profesional
 ==============================================================
 
@@ -531,504 +911,3 @@ A continuación, los **cortes de luz en Cuenca este miércoles 23 de octubre de 
 Los cortes de luz han alterado los **horarios escolares**, sobre todo de la jornada nocturna.
 
 Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, **despidos intempestivos brutales** por cierre de empresas por crisis energética”.
-
-La sequía activa los incendios forestales en Ecuador
-====================================================
-
-Los incendios forestales dejaron afectaciones humanas y ambientales en Ecuador.
--------------------------------------------------------------------------------
-
-![Ecuador tuvo una serie de incendios forestales que dejaron miles de hectáreas afectadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-en-Ecuador-afectados.jpg)
-
-En lo que va del 2024, **Ecuador** ha sido escenario de una devastadora ola de **incendios forestales** que han afectado a 22 provincias[.](https://es.wikipedia.org/wiki/Incendio "https://es.wikipedia.org/wiki/Incendio")
-
-### Más noticias
-
-* [Incendios forestales modifican el inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-fiestas-quito-pregon.html "Incendios forestales modifican el inicio de las fiestas de Quito")
-* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
-* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
-
-La **Secretaría de Gestión** de **Riesgos del Ecuador** realizó un informe sobre cuántos incendios forestales ocurrieron en el país desde el primero de enero hasta el 21 de octubre de 2024.
-
-Los incendios forestales consumieron miles de hectáreas en 2024
----------------------------------------------------------------
-
-Las llamas consumieron un total de 45 362.74 hectáreas de **cobertura vegetal**. Los incendios, que comenzaron el 1 de enero, han impactado a 163 cantones y 624 parroquias en todo el país y dejaron tras de sí no solo **destrucción medioambiental**, sino también afectaciones a miles de familias ecuatorianas.
-
-Provincias más afectadas por los incendios forestales en Ecuador
-----------------------------------------------------------------
-
-![table visualization](https://public.flourish.studio/visualisation/19929683/thumbnail)
-
-Agosto y septiembre se destacaron como los meses de mayor recurrencia y severidad de los **incendios**, concentrando más del 75% de la cobertura vegetal destruida.
-
-Esta situación ha llevado a la **declaratoria** de **emergencia** en varias localidades, como el Distrito Metropolitano de **Quito** y los cantones **Sigchos (Cotopaxi) y Quilanga** (**Loja**)
-
-Respuesta de las autoridades por incendios forestales en Ecuador
-----------------------------------------------------------------
-
-Los **incendios** han causado, además, la activación de más de 20 Comités de Operaciones de Emergencia (**COE**) a nivel cantonal y provincial, así como la movilización de **brigadas** **especializadas** para combatir las llamas.
-
-En total, en el país, se han realizado 25 activaciones de las Brigadas de Respuesta a Incendios Forestales (**BRIF**) y 86 **intervenciones** **aéreas**, con la colaboración de la Fuerza Aérea del Perú, el Comando Conjunto de las Fuerzas Armadas del Ecuador y cuerpos de bomberos locales.
-
-Consecuencias humanas y materiales por los incendios forestales
----------------------------------------------------------------
-
-A pesar de los esfuerzos por controlar los **incendios**, el panorama es desalentador. Al 21 de octubre, aún permanecían activos 10 **incendios** **forestales**, con provincias como **Loja**, **Tungurahua** y **Azuay** entre las más afectadas.
-
-La dificultad para acceder a algunas áreas, sumada a las condiciones climáticas adversas, han hecho que la extinción de las **llamas** sea un desafío constante para las **brigadas** **de** **emergencia**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendio-en-Quito-afectada-1024x683.jpg)
-
-El incendio forestal de Guápulo dejó varias viviendas afectadas. Foto: Diego Pallero / EL COMERCIO.
-
-Qué dicen los expertos sobre incendios forestales, según Riesgos
-----------------------------------------------------------------
-
-Los expertos advirtieron sobre el impacto de estos incendios en la **biodiversidad** y el equilibrio ecológico del **Ecuador**.
-
-La afectación a áreas protegidas y **vegetación** **nativa** supone una pérdida incalculable para la flora y fauna ecuatorianas.
-
-Mientras tanto, las autoridades hicieron un llamado a la **población** para evitar actividades de riesgo y denunciar cualquier indicio de **incendios**, con el fin de prevenir nuevos **siniestros** y proteger los **recursos** **naturales**.
-
-Las autoridades continúan monitoreando la situación y planifican nuevas acciones para evitar que el **fuego** siga extendiéndose.
-
-¿Por qué se producen los incendios forestales en Quito?
--------------------------------------------------------
-
-Para Christian Rivera, experto en riesgos, cuando hay radiación extremadamente alta no hay humedad y se incrementa la velocidad de los vientos. Esto provoca que los incendios forestales se propaguen rápidamente. Acota que el 99% de incendios forestales son provocados por el ser humano, el restante es de origen natural.
-
-Incendios forestales accidentales
----------------------------------
-
-Los incendios accidentales se dan por diferentes razones:
-
-* **Quemas** **agrícolas**: es cuando las personas recogen los restos de la siembra para quemar, porque no tiene cómo desechar, o creen que con esto se mejora el terreno.
-* **Quema** **de** **basura**: esto ocurre más en zonas rurales o urbanas de difícil acceso.
-* **Fogatas**: esto pasa cuando las personas van a acampar en las montañas y hacen fogatas.
-
-Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores
-================================================================================
-
-La Copa Libertadores entra en su fase final, y solo queda un ecuatoriano en pie, que juega en el Atlético Mineiro de Brasil.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Alan Franco, con el Atlético Mineiro, en la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-22T173757.136.jpg)
-
-Este martes 22 de octubre de 2024, arrancan las semifinales de ida de la **Copa** **Libertadores** con un emocionante encuentro. Atlético Mineiro, equipo en el que milita **Alan Franco**, se enfrenta a River Plate en Brasil.
-
-Franco es el último ecuatoriano que sigue en carrera en la presente edición de la **Libertadores**, por lo que recae en él la responsabilidad de que un nuevo tricolor se corone campeón del torneo más prestigioso de América.
-
-### Más noticias:
-
-* [Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores](https://www.elcomercio.com/deportes/dragonas-idv-partido-copa-libertadores-boca-juniors-cuarto.html "Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores")
-* [Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/diego-aguirre-aucas-penarol-copa-libertadores.html "Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores")
-* [Alan Franco, el único ecuatoriano en carrera por Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-copa-libertadores-atletico-mineiro.html "Alan Franco, el único ecuatoriano en carrera por Copa Libertadores")
-
-Contrario a lo que muchos creen, la última vez que un ecuatoriano ganó la Copa Libertadores no fue en 2008 con Liga de Quito, donde estuvieron múltiples ecuatorianos en la plantilla, sino en 2017, cuando **Miller Bolaños y Michael Arroyo** se consagraron campeones con Gremio.
-
-Aunque ninguno fue determinante, ‘Miller’ jugó en la fase de grupos antes de ser cedido a México debido a una lesión, mientras que ‘Miky’ estuvo en el banco de suplentes en los cuartos de final, pero no llegó a disputar ningún partido en aquella edición.
-
-Atlético Mineiro vs. River Plate
---------------------------------
-
-El primer choque de **semifinales** entre ambos equipos se disputará este martes 22, a las 19:30 (hora Ecuador), en el Arena MRV de Belo Horizonte, Brasil.
-
-Por su parte, River Plate, con el objetivo de alcanzar su quinto título en la **Copa Libertadores**, desplegará todo su arsenal en Brasil para enfrentar a un Atlético Mineiro que llega motivado tras clasificarse a la final de la Copa do Brasil el pasado sábado, tras eliminar a Vasco da Gama. El equipo brasileño buscará sacar ventaja en casa para encarrilar la eliminatoria.
-
-Ambos clubes llegan en situaciones similares. Mientras que River Plate se mantiene invicto en la competición, **Atlético Mineiro** quiere mantener su racha imbatible como local en la presente edición de la Libertadores, lo que anticipa un duelo muy reñido.
-
-Cortes de luz en Guayaquil este miércoles 23 de octubre
-=======================================================
-
-Los horarios de cortes de luz en Guayaquil para este miércoles 23 de octubre se mantienen hasta el viernes.
------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil este miércoles 23 de octubre son de ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-miercoles-23-octubre-1.jpg)
-
-Los horarios de **cortes de luz** en **Guayaquil** este **miércoles 23 de octubre de 2024** se mantienen hasta el sábado 26.
-
-La **crisis energética** en el país persiste y esta semana los cortes de luz son de ocho horas en Guayaquil y todo el país.
-
-### Más noticias:
-
-* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
-* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
-
-Los horarios de cortes de luz en Guayaquil para este miércoles 23 de octubre
-----------------------------------------------------------------------------
-
-Las consecuencias de la grave **sequía** en Ecuador continúan.
-
-La falta de lluvias continuas provoca el desabastecimiento de los embalses de las **centrales hidroeléctricas** del país.
-
-Mientras, el **Gobierno de Daniel Noboa** toma medidas para palear los efectos de la crisis energética.
-
-Este martes 22 de octubre, el Gobierno informó que dónde salen los 1 598 MW que se incluirán en el **sistema nacional**.
-
-434 MW ya han sido incluidos y están en funcionamiento; 241 MW en generación permanente en **tierra** se incorporan desde noviembre.
-
-300 MW se incorporan en diciembre en renta en tierra, 204 MW en **Toachi Pilatón** se incorporarán desde diciembre.
-
-Además, 419 MW se sumarán en compra de **generación terrestre,** con unidades de generación contenerizadas, el primer cuatrimestre de 2025.
-
-Esta semana, se cumple **un mes** del inicio de cortes de luz programados en Ecuador.
-
-Desde septiembre, esta es la primera semana de una “**reducción paulatina**” de las horas en los cortes de luz.
-
-El Gobierno hizo este **ofrecimiento** por tres semanas, empezando el 21 de octubre y terminando en el 10 de noviembre.
-
-Así, los cortes de luz en Guayaquil son de ocho horas, divididas en dos franjas horarias, según la programación de la **CNEL**.
-
-A continuación, los **cortes de luz en Guayaquil este miércoles 23 de octubre de 2024**:
-
-Los cortes de luz han alterado los **horarios escolares**, sobre todo de la jornada nocturna.
-
-Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, **despidos intempestivos brutales** por cierre de empresas por crisis energética”.
-
-WhatsApp refuerza la protección para combatir el ‘phishing’ y el ‘spam’ 
-========================================================================
-
-WhatsApp presenta una nueva función que bloqueará automáticamente mensajes de cuentas desconocidas
---------------------------------------------------------------------------------------------------
-
-![El ‘phishing’ ha aumentado en los últimos años, ha afectado a millones de usuarios de WhatsApp. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-spam-fishing.jpg)
-
-**WhatsApp** ha anunciado una **nueva función destinada a proteger a sus usuarios** del ‘phishing’ y el ‘spam’.  
-
-### Más noticias
-
-* [Truco para ver mensajes eliminados en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-mensajes-eliminados-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-mensajes-eliminados-tutorial.html") 
-* [En WhatsApp puedes proteger tu privacidad con estos trucos para silenciar las llamadas](https://www.elcomercio.com/tecnologia/whatsapp-silenciar-llamadas-spam.html "https://www.elcomercio.com/tecnologia/whatsapp-silenciar-llamadas-spam.html") 
-
-Esta herramienta busca **mejorar la seguridad de las conversaciones** al bloquear automáticamente mensajes de cuentas desconocidas que envían múltiples mensajes en un corto período de tiempo.  
-
-**¿Qué es el ‘phishing’ en WhatsApp y cómo afecta a los usuarios?** 
---------------------------------------------------------------------
-
-El **‘phishing’** es una técnica utilizada por estafadores para **engañar a los usuarios y obtener información personal**, como contraseñas o datos bancarios.  
-
-Este tipo de **fraude** se ha incrementado en los últimos años, y **ha afectado a millones de personas en todo el mundo**.  
-
-**WhatsApp**, siendo una de las aplicaciones de mensajería más populares, ha sido blanco frecuente de estas **tácticas maliciosas**. Según informes, muchos usuarios han recibido **mensajes sospechosos** que intentan suplantar la identidad de contactos conocidos o empresas legítimas, de acuerdo con [20 Minutos](https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nueva-funcion-bloquear-mensajes-spam-estafas-5589235/ "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nueva-funcion-bloquear-mensajes-spam-estafas-5589235/").
-
-**La nueva función de WhatsApp** 
----------------------------------
-
-Esta **nueva funcionalidad permitirá a WhatsApp bloquear mensajes de cuentas desconocidas si estas superan un volumen determinado**. Esto significa que, si un número no guardado en la agenda del usuario **envía varios mensajes en un corto lapso**, estos serán bloqueados automáticamente. Esta medida no solo **protege contra el ‘spam’**, sino que también **mejora el rendimiento del dispositivo** al reducir la carga de mensajes no deseados, de acuerdo con [Xataka](https://www.xataka.com/basics/opcion-whatsapp-para-bloquear-mensajes-spam-estafas-desconocidos-como-funciona-que-limites-tiene-como-activarla "https://www.xataka.com/basics/opcion-whatsapp-para-bloquear-mensajes-spam-estafas-desconocidos-como-funciona-que-limites-tiene-como-activarla"). 
-
-**Beneficios adicionales** 
----------------------------
-
-Además de **bloquear mensajes sospechosos**, esta función tiene otros beneficios: 
-
-* **Reducción del ‘spam’:** Al limitar la cantidad de mensajes no deseados, se facilita una experiencia más limpia y organizada. 
-
-* **Mejora del rendimiento:** Menos mensajes significan que la aplicación puede funcionar más eficientemente. 
-
-* **Protección contra contenido malicioso:** Al evitar la saturación de mensajes, se minimiza el riesgo de recibir enlaces peligrosos o intentos de ‘phishing’. 
-
-**Cómo activar la nueva función** 
-----------------------------------
-
-Para **activar esta opción**, los usuarios deben asegurarse de t**ener la última versión beta de WhatsApp** instalada. Una vez actualizada, pueden seguir estos pasos: 
-
-* Abrir WhatsApp y acceder a “Ajustes”. 
-
-* Seleccionar “Privacidad”. 
-
-* Buscar la opción para bloquear mensajes de cuentas desconocidas y activarla. 
-
-Es importante mencionar que **esta función aún está en pruebas y puede no estar disponible para todos los usuarios inmediatamente.** 
-
-**Consejos para mantener la seguridad en WhatsApp** 
-----------------------------------------------------
-
-Además de utilizar la nueva función, los usuarios deben adoptar **prácticas seguras al usar WhatsApp**: 
-
-* No abrir enlaces sospechosos. 
-
-* No compartir información personal con desconocidos. 
-
-* Utilizar la verificación en dos pasos para mayor protección 
-
-La introducción de esta nueva función por parte de WhatsApp representa **un paso significativo hacia la protección de sus usuarios** contra el ‘phishing’ y el ‘spam’. A medida que las **amenazas digitales** evolucionan, es crucial que las plataformas también lo hagan para garantizar un entorno seguro para sus usuarios. Con esta herramienta, WhatsApp busca no solo mejorar la experiencia del usuario, sino también fortalecer su compromiso con la **seguridad digital**. 
-
-Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz
-===========================================================================
-
-Gobierno de Daniel Noboa hizo un desglose de la procedencia de MW que se sumarán ante los cortes de luz.
---------------------------------------------------------------------------------------------------------
-
-![Central Enrique García ya está en operación, según Celec.](https://www.elcomercio.com/wp-content/uploads/2024/10/central.jpg)
-
-El **presidente Daniel Noboa** anunció este martes 22 de octubre de 2024 la incorporación de **1598 MW** para atender la crisis energética que atraviesa Ecuador[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-El pasado El anuncio fue el 17 de octubre de 2024, el **Gobierno** aseguró que se tomarían medidas para paliar la crisis energética que obliga a tener cortes de luz en el país.
-
-### Más noticias
-
-* [Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncio-los-nuevos-horarios-en-los-cortes-de-luz-para-las-proximas-tres-semanas.html "Daniel Noboa anunció los nuevos horarios de cortes de luz para las próximas tres semanas")
-* [Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz](https://www.elcomercio.com/actualidad/empresarios-acercamiento-gobierno-daniel-noboa-cortes-luz.html "Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz")
-* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
-
-> Conoce las acciones, a mediano plazo,👇que el Gobierno del presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realiza para garantizar un futuro con soberanía energética y sin depender de las hidroeléctricas. [#EcuadorUniendoEsfuerzos](https://twitter.com/hashtag/EcuadorUniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tW93WD3b71](https://t.co/tW93WD3b71)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 18, 2024](https://twitter.com/Presidencia_Ec/status/1847310093487927515?ref_src=twsrc%5Etfw)
-
-Cortes de luz y acciones del Gobierno
--------------------------------------
-
-El Gobierno anunció que los **1598 MW** se desglosan tomando en cuenta la operación de una barcaza, centrales térmicas, generación permanente en tierra, etc.
-
-**Daniel Noboa** hizo este anuncio acompañado de Inés Manzano, ministra de Energía encargada. Esto acompañado de la difusión de los cortes de luz para las siguientes tres semanas.
-
-Según la información difundida este 22 de octubre, **434 MW** ya han sido incluidos y están funcionando. Estos se generan de la siguiente manera:
-
-* 100 MW mediante alquiler de barcaza.
-* 334 MW recuperados en Centrales Térmicas reparadas:
-* 33 MW Álvaro Tinajero
-* 36 MW Aníbal Santos
-* 8 MW Santa Elena II (reposición de motores)
-* 42 MW Esmeraldas II
-* 34 MW Quevedo II (reposición de motores)
-* 85 MW Trinitaria
-* 96 MW Enrique García
-
-241 MW en generación permanente en tierra se sumarán en noviembre
------------------------------------------------------------------
-
-* 91 MW en Esmeraldas.
-* 100 MW en Salitral
-* 50 MW en Quevedo
-
-300 MW en diciembre, en renta en tierra
----------------------------------------
-
-* 260 MW Pascuales
-* 40 MW Termogas Machala
-
-Otras incorporaciones
----------------------
-
-Desde el **Gobierno**, además, se detalló que 204 MW en T**oachi Pilatón** se incluirán desde diciembre. Además, se sumarán **419 MW** en el primer cuatrimestre del 2025, en compra de generación terrestre (unidades de generación contenerizadas):
-
-* 100 MW **San Juan de Manta**
-* 152 MW **Térmico Esmeraldas**
-* 17 MW **Santa Elena II**
-* 30 MW **Santa Elena** IV
-* 120 MW Durán
-
-Proyectos futuros
------------------
-
-Entre las medidas anunciadas están las encaminadas a cambiar la **matriz energética**, para no depender únicamente del agua.
-
-En esa línea, el **Gobierno** aseguró que durante su administración se han aprobado siete licencias ambientales para proyectos de inversión. Entre estos se han priorizado centrales solares.
-
-* Central **Imbabura** Solar, en el cantón Ibarra: potencia de 120 MW
-* Central **Ambi** Solar, en los cantones Antonio Ante e Ibarra: 60 MW
-* Central **Intiyana** Solar, en el cantón Urcuquí: 60 MW
-* Central **Urcuquí** Solar, en el cantón Urcuquí: 60 MW
-* Central Hidroeléctrica **El Rosario**, en el cantón Gualaquiza: 49,9 MW
-* Central Hidroeléctrica **Santa Rosa**, en el cantón Gualaquiza: 49,9 MW
-* Central Hidroeléctrica **San Jacinto**, en Santo Domingo: 49,9 MW
-    
-
-Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano
-==================================================================================
-
-Este martes, 22 de octubre de 2024, se cumple un mes del inicio de la campaña de bombardeos de Israel contra el Líbano.
------------------------------------------------------------------------------------------------------------------------
-
-![La gente se reúne en el lugar de una estructura dañada tras un ataque aéreo israelí en el distrito de Dahieh, al sur de Beirut, Líbano, el 22 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/israel-bombardea-beirut.jpg)
-
-El **Ejército israelí** atacó unos 230 objetivos de la milicia **chií Hezbolá** en el sur del [Líbano](https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html "https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html") durante la jornada de ayer, según indicó en un comunicado este martes.
-
-### Más noticias
-
-* [La muerte de Sinwar será una inspiración para la resistencia contra Israel](https://www.elcomercio.com/actualidad/mundo/muerte-sinwar-inspiracion-resistencia-israel.html "La muerte de Sinwar será una inspiración para la resistencia contra Israel")
-* [Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá](https://www.elcomercio.com/actualidad/mundo/bombardeos-en-beirut-la-madrugada-de-este-4-de-octubre-habrian-herido-a-lider-de-hezbola.html "Bombardeos en Beirut la madrugada de este 4 de octubre habrían herido a líder de Hezbolá")
-* [Los ataques de Israel en el Líbano dejan ya más de 2 300 fallecidos en el último año](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-dejan-2-300-fallecidos-ultimo-ano.html "Los ataques de Israel en el Líbano dejan ya más de 2 300 fallecidos en el último año")
-
-“Durante el último día, las **tropas atacaron aproximadamente 230 objetivos terroristas** de Hezbolá en Líbano, incluidos **tres centros de comando** pertenecientes a su unidad aérea que, entre otras cosas, era responsable del **lanzamiento de vehículos aéreos** no tripulados hacia el Estado de Israel”, recoge su nota.
-
-Asimismo, aseguran que las **Divisiones 36 y 146 del Ejército**, desplegadas en el sur del país vecino, “eliminaron a **decenas de terroristas** y desmantelaron grandes cantidades de armamento”.
-
-A primera hora de este martes, las alarmas antiaéreas sonaron en el **norte** y el **centro de Israel,** incluido en Tel Aviv, tras la llegada de una veintena de proyectiles.
-
-Según indicó el Ejército, 15 de ellos **fueron lanzados contra el norte** y los cinco restantes contra el centro del país.
-
-Lanzamiento de proyectiles
---------------------------
-
-Hezbolá reivindicó en sus **canales el lanzamiento** de estos proyectiles e indicó que entre sus objetivos se encontraba la base de la **unidad de inteligencia militar** ubicada en Gilot, cerca de Tel Aviv, y otra base naval cercana a la ciudad norteña de Haifa.
-
-Medios hebreos informaron de daños a vehículos y a un edificio en el Kibbutz Ma’agan Michael, en el sur de Haifa, por los **restos de metralla del misil antiaéreo israelí,** pero no de heridos.
-
-Bombardeos de Israel contra Líbano
-----------------------------------
-
-Este martes, 22 de octubre de 2024, se cumple un mes del inicio de la **campaña de bombardeos de Israel** contra el Líbano. Causó **miles de muertos** y más de un **millón de desplazado**s tras dejar barrios en ruinas especialmente en el sur del país, donde las **tropas prosiguen con su incursión**, y en los suburbios meridionales de Beirut.
-
-Cortes de luz en Quito este miércoles 23 de octubre
-===================================================
-
-Los horarios de cortes de luz en Quito para este miércoles 23 de octubre se mantienen hasta el sábado.
-------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito para este miércoles 23 de octubre son definidos por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-miercoles-23-octubre.jpg)
-
-Los horarios de cortes de luz en Quito este miércoles 23 de octubre de 2024 se mantienen hasta el sábado 26.
-
-La crisis energética en el país persiste y esta semana los cortes de luz son de ocho horas en Quito y todo el país.
-
-### Más noticias:
-
-* [Ministra de Trabajo habló sobre despidos por la crisis energética](https://www.elcomercio.com/actualidad/politica/ministra-trabajo-despidos-crisis-energetica.html "Ministra de Trabajo habló sobre despidos por la crisis energética")
-* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
-
-Horarios de cortes de luz en Quito este miércoles 23 de octubre
----------------------------------------------------------------
-
-Las consecuencias de la grave sequía en Ecuador continúan.
-
-La falta de lluvias continuas provoca el desabastecimiento de los embalses de las centrales hidroeléctricas del país.
-
-Mientras, el Gobierno de Daniel Noboa toma medidas para palear los efectos de la crisis energética.
-
-Este martes 22 de octubre, el Gobierno informó que dónde salen los 1 598 MW que se incluirán en el sistema nacional.
-
-434 MW ya han sido incluidos y están en funcionamiento; 241 MW en generación permanente en tierra se incorporan desde noviembre.
-
-300 MW se incorporan en diciembre en renta en tierra, 204 MW en Toachi Pilatón se incorporarán desde diciembre.
-
-Además, 419 MW se sumarán en compra de generación terrestre, con unidades de generación contenerizadas, el primer cuatrimestre de 2025.
-
-Esta semana, se cumple un mes del inicio de cortes de luz programados en Ecuador.
-
-Desde septiembre, esta es la primera semana de una “reducción paulatina” de las horas en los cortes de luz.
-
-El Gobierno hizo este ofrecimiento por tres semanas, empezando el 21 de octubre y terminando en el 10 de noviembre.
-
-Así, los cortes de luz en Quito son de ocho horas, divididas en dos franjas horarias, según la programación de la Empresa Eléctrica Quito.
-
-A continuación, los cortes de luz en Quito este miércoles 23 de octubre de 2024:
-
-Los cortes de luz han alterado los horarios escolares, sobre todo de la jornada nocturna.
-
-Además, la ministra de Trabajo, Ivonne Núñez, ha declarado que esa cartera de Estado no registra, a la fecha, despidos intempestivos brutales por cierre de empresas por crisis energética”.
-
-Bomberos de Quito tendrán su concierto: una oportunidad para homenajearlos
-==========================================================================
-
-Un concierto de ritmos tropicales se llevará a cabo en el Teatro San Gabriel con la Banda Sinfónica del Cuerpo de Bomberos.
----------------------------------------------------------------------------------------------------------------------------
-
-![La Banda Sinfónica del Cuerpo de Bomberos dará un recital de música tropical.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-15-2.jpg)
-
-Después de los terribles **incendios forestales** de septiembre del 2024, y unos cuantos en este octubre que lograron controlarse a tiempo, entre los **quiteños** nació una **relación de agradecimiento y comunidad** con el **Cuerpo de Bomberos**. Por eso, nada mejor que apoyarlos, en este caso, en el **concierto** que se realizará este **23 de octubre del 2024.**
-
-### Más noticias
-
-* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
-* [Bomberos combaten incendio forestal en Quito](https://www.elcomercio.com/actualidad/quito/bomberos-combaten-incendio-carcelen-bajo-quito.html "Bomberos combaten incendio forestal en Quito")
-* [Megalabs Pharma realizó donaciones a los Bomberos de Quito](https://www.elcomercio.com/empresariales/megalabs-pharma-realizo-donaciones-bomberos-quito.html "Megalabs Pharma realizó donaciones a los Bomberos de Quito")
-
-El concierto de los Bomberos con banda propia
----------------------------------------------
-
-Los músicos serán de la propia banda del **Cuerpo de Bomberos de Quito.** Esta agrupación se formó en el **2013** cuando la entidad decidió incorporar **47 músicos profesionales** para conformar la **Banda Sinfónica del Cuerpo de Bomberos.**
-
-Para la institución que generó su admiración entre los quiteños por su abnegado trabajo durante los incendios forestales, la **Banda** fomenta la **cultura musical del país** y colabora en diversos eventos, como ceremonias de ascenso, aniversarios de fundación, conciertos didácticos, entre otros.
-
-El género de este recital será de **clasicos de la música tropical**.
-
-¿Cómo acceder a este concierto?
--------------------------------
-
-La cita será en el **Teatro San Gabriel,** en la **Avenida América y Mariana de Jesús**. Será a las **19:00 de este viernes 23 de octubre.**
-
-Una de las exigencias de la organización es acudir con **traje semiformal.**
-
-Para obtener los **pases**, **[puede hacer click aquí:](http://wa.me/593968148181 "wa.me/593968148181")**
-
-El Cuerpo de Bomberos de Quito invita a la ciudadanía de la capital a participar de este evento musical. Y bien merecido se lo tienen, tras las arduas tareas que debieron enfrentar durante el largo estiaje en Quito y que causó malestar entre los capitalinos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAj0EQIPSYJ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAj0EQIPSYJ/?utm_source=ig_embed&utm_campaign=loading)
-
-Vladímir Putin intenta romper su aislamiento por la guerra con la cumbre de los BRICS
-=====================================================================================
-
-Durante toda la jornada el líder ruso mantuvo encuentros con los líderes de China, India, Egipto y Sudáfrica.
--------------------------------------------------------------------------------------------------------------
-
-![Vladímir Putin en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Vladimir-putin-asia-efe.jpg)
-
-El presidente ruso, [Vladímir Putin](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html"), intentó este martes, 22 de octubre de 2024, demostrar a **Occidente** que no está aislado al inaugurar la **cumbre del grupo de economías** emergentes BRICS. Al encuentro acudieron los **líderes de China, India, Irán o Egipto**, los integrantes de lo que el Kremlin llama la nueva “mayoría mundial”.
-
-### Más noticias
-
-* [Vladímir Putin asume su quinto mandato presidencial](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html")
-* [México no detendrá a Vladímir Putin si acude a la investidura de Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/mexico-detendra-vladimir-putin-acude-investidura-sheinbaum.html "https://www.elcomercio.com/actualidad/mundo/mexico-detendra-vladimir-putin-acude-investidura-sheinbaum.html")
-* [Vladímir Putin acusa a Ucrania de ‘provocación a gran escala](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-acusa-ucrania-provocacion-gran-escala.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-acusa-ucrania-provocacion-gran-escala.html")
-
-“En estos años de esfuerzos comunes la **autoridad y la influencia** de nuestra alianza han aumentado. Nosotros nos proponemos seguir **fortaleciendo esta organización**“, dijo Putin.
-
-Primera reunión internacional
------------------------------
-
-Esta es la primera reunión internacional que se celebra en Rusia desde el comienzo de la guerra en Ucrania, que convirtió a este país en un paria a ojos del resto del mundo al ser objeto de miles de sanciones.
-
-Durante las últimas semanas el Kremlin destacó que los **países miembros del grupo fundado** en 2006 son una alternativa al **monopolio occidental**, ya que representan **un tercio de la economía mundial** y cerca de la mitad de la población del planeta.
-
-Los invitados de Putin
-----------------------
-
-Putin, que no acudirá en noviembre a la cumbre del G20 en Brasil debido a la **orden de arresto** dictada por el Tribunal Penal Internacional, recibió en la **capital tártara a una veintena de líderes** de América Latina, Asia y África.
-
-Con la espectacular mezquita del Kremlin de Kazán como fondo, Putin agasajó a los invitados con una cena informal.
-
-Durante toda la jornada el líder ruso mantuvo **encuentros con los líderes de China, India, Egipto y Sudáfrica,** además de con la presidenta del Nuevo Banco de Desarrollo de BRICS, Dilma Rouseff.
-
-El líder chino, Xi Jinping, echó un cable a **Putin al defender la “inquebrantable” amistad con Rusia,** pese a la turbulenta situación internacional.
-
-Además, describió los BRICS como una plataforma que contribuirá al advenimiento de “un orden **multipolar estructurado**” y “una globalización económica accesible para todos”.
-
-También Lula, que no acudió a Kazán tras sufrir un **accidente doméstico**, llamó hoy por teléfono al anfitrión, y el líder turco, Recep Tayyip Erdogan, viaja mañana a Rusia, al igual que el secretario general de la ONU, António Guterres, lo que no gustó en Kiev.
-
-India pone el dedo en la llaga
-------------------------------
-
-La guerra en Ucrania estuvo presente en todas las conversaciones. El primer ministro indio, Narendra Modi, le dijo a Putin que su país apoya una **solución del conflicto exclusivamente** por medios pacíficos.
-
-“Como dije en el pasado, consideramos que el problema debe solventarse por **medios pacíficos.** Apoyamos plenamente el pronto restablecimiento de la paz y estabilidad”, afirmó.
-
-Subrayó que su país siempre concedió **prioridad a la vida humana**, por lo que, con el fin de lograr la paz, está dispuesto “a brindar cualquier ayuda en el futuro”.
-
-“El primer ministro indio subrayó que el **diálogo y la diplomacia** son la vía para lograr una solución al conflicto”, añadió el portavoz del Kremlin, Dmitri Peskov.
-
-El Kremlin admitió también en la **televisión que Putin** y Xi -cuyo país y Brasil presentaron un plan de arreglo de seis puntos rechazado ya por Kiev- también dedicaron **“no poco tiempo”** a abordar el conflicto ucraniano.
-
-Precisamente, Putin señaló a **India, China y Brasil** como posibles mediadores en unas futuras negociaciones de paz con Ucrania, aplazadas indefinidamente por el Kremlin por la ocupación parcial ucraniana de la **región de Kursk.**
-
-Al respecto, Yuri Ushakov, asesor internacional del Kremlin, aseguró que los países miembros de BRICS ya han consensuado una declaración final que incluye una “postura común” sobre Ucrania.
-
-“Nadie ha puesto objeción alguna”, señaló.
-
-La ampliación tendrá que esperar
---------------------------------
-
-Una de las intrigas de la cumbre era conocer la **identidad de los nuevos miembros del grupo** que recibirán el estatus de estados asociados, pero el Kremlin les echó un jarro de agua fría.
-
-“El tema de la ampliación no figura (en la agenda). Existen diferentes puntos de vista”, dijo Peskov.
-
-El pasado 1 de enero ingresaron en el grupo **Egipto, Irán, Emiratos Árabes Unidos y Etiopía,** mientras Arabia Saudí y Argentina cambiaron de idea en el último momento.
-
-Países como **Turquía, Azerbaiyán o Cuba** mostraron oficialmente interés en ingresar, mientras otros como **Venezuela, Nicaragua, Tailandia y Malasia** también han expresado deseos de adherirse.
-
-Lula aseguró la pasada semana que defenderá el **equilibrio de todas las regiones del mundo** en la ampliación de BRICS, donde para ingresar uno debe **rechazar las sanciones unilaterales** y apoyar la reforma del Consejo de Seguridad de la ONU.
-
-En el seno de BRICS no existe consenso para la ampliación y tampoco parece haberlo a la hora de buscar una **alternativa al dólar**, ya que, según los analistas, **India se niega a que esa divisa sea el yuan chin**o.
