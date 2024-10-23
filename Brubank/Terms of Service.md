@@ -200,6 +200,8 @@ Conocé Brubank
 
 Facilidades
 
+[#### Préstamos y adelantos](https://brubank.com/prestamos)
+
 [#### Transferencia](https://brubank.com//#transferencia)
 
 [#### BruPlus](http://www.brubank.com/bruplus)
@@ -211,8 +213,6 @@ Facilidades
 [#### Seguros](http://www.brubank.com/seguros)
 
 [#### Préstamos Hipotecarios UVA](http://www.brubank.com/prestamos-hipotecarios-uva)
-
-[#### Préstamos y adelantos](https://brubank.com/prestamos)
 
 Promociones
 
