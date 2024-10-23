@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
-
-[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
-
-[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
-
-[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
-
 [![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
 
 [#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
+
+[![How do you know if you have asbestos in your body?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-know-if-you-have-asbestos-in-your-body-scaled.jpg "How Do You Know If You Have Asbestos in Your Body?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-asbestos-in-your-body/ "How Do You Know If You Have Asbestos in Your Body?")
+
+[#### How Do You Know If You Have Asbestos in Your Body?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-asbestos-in-your-body/)
+
+[![What are the symptoms of stage 1 ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-are-the-symptoms-of-stage-1-ovarian-cancer-scaled.jpg "What Are the Symptoms of Stage 1 Ovarian Cancer?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/ "What Are the Symptoms of Stage 1 Ovarian Cancer?")
+
+[#### What Are the Symptoms of Stage 1 Ovarian Cancer?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
