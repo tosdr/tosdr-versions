@@ -27,38 +27,39 @@ SIGN UP & SAVE!
 
 * [Teams](#top-nav0)
     
-    [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)[college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)[mlb](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
+    [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)[College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)[MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
     
-    [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
+    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
     
-    [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
+    [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
     
-* [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
-* [college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
-* [mlb](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
+* [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
+* [College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
+* [MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
 * [Teams](#top-nav4)
     
-    [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
+    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
     
-    [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+    [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
     
-    [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+    [WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-    [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
     
-* [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
-* [nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
-* [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
-* [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
-* [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
-* [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-* [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-* [more](#top-nav12)
-* [sale](#top-nav13)
-* [players](#top-nav14)
-* [](#top-nav15)
+* [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
+* [NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
+* [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
+* [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+* [WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
+* [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+* [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+* [More](#top-nav12)
+* [Sale](#top-nav13)
+* [Players](#top-nav14)
+* [Tickets](https://www.fanatics.com/tickets/tk-90+z-824817536-269893202)
+* [](#top-nav16)
     
 
 We are experiencing higher than normal call volume and appreciate your patience while we continue servicing our customers. If you would like to avoid the wait, please use the chat feature right here on the help desk and we'll be happy to assist there! Thank you!
@@ -558,24 +559,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: a633582c8c13234c
+rc: c2587a5d4f0ba28d
 
-vid: 1acedbf0-9145-11ef-b17b-2b22c483f2b4
+vid: badc9a10-9177-11ef-af1d-17cffb6ffc8d
 
 version: 1.1.0-rc-20241009-4.99553
 
 +
 
-Qualified Experiments #:* 15078:A:0:1
+Qualified Experiments #:* 15078:B:1:1
 * 15097:B:1:1
-* 15100:A:0:1
-Namespaces:* 4:146:0
-* 6:2419:0
-* 7:976:0
-* 8:4312:0
-* 9:1441:0
-* 11:8828:0
-* 2:4435:0
-* 3:4666:0
-* 5:660:0
-* 10:2574:0
+* 15100:B:1:1
+Namespaces:* 2:2126:0
+* 3:1503:0
+* 4:1971:0
+* 6:2108:0
+* 10:3410:0
+* 11:8041:0
+* 5:1630:0
+* 7:1274:0
+* 8:3368:0
+* 9:4051:0
