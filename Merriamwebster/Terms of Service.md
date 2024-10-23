@@ -253,11 +253,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![misspelled quiz cover](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![different halloween monsters in silhouette](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Commonly Misspelled Words Quiz Autocorrect can’t save you now.
+A Monstrous Vocab Quiz Words That Go Bump in the Night
 
-Take the quiz](https://www.merriam-webster.com/games/commonly-misspelled-quiz)
+Take the quiz](https://www.merriam-webster.com/games/monstrous-quiz)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
