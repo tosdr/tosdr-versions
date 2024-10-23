@@ -14,10 +14,6 @@
 
 [](#main)
 
-[M365 Threat Scan](https://www.mimecast.com/free-trial/?nv=true)
-
-[Get a Quote](https://www.mimecast.com/get-a-quote/)
-
 * Why Mimecast
     
     * [![](https://assets.mimecast.com/api/public/content/60dd7f151bb148bcafa3827011a9aec0?v=82fac553)
@@ -216,10 +212,6 @@ Quick Links
     * [Deutsch](https://www.mimecast.com/de/company/mimecast-trust-center/privacy-statement/)
     * [français](https://www.mimecast.com/fr/company/mimecast-trust-center/privacy-statement/)
     
-
-[M365 Threat Scan](https://www.mimecast.com/free-trial/?nv=true)
-
-[Get a Quote](https://www.mimecast.com/get-a-quote/)
 
 Mimecast Privacy Statement
 ==========================
