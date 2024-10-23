@@ -1,3 +1,5 @@
+Is your existing payment provider having an outage? Get emergency assistance. [Contact Us](https://fastspring.com/request-demo/)
+
 [![FastSpring](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/logos/fastspring-logo-orange-gray.svg?2)](https://fastspring.com/)
 
 * [Product](#)
