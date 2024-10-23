@@ -269,7 +269,7 @@ The following personal data is collected every time you access the JobCloud plat
 * Mobile phone device type, if one is used
 * Transfer protocol used, headers e.g. authorization, location, date and content-encoding
 
-This data is used for security purposes and to clarify cases of unauthorized use or cyber-attacks, for error and performance analysis and to optimize our services. Some of these processing operations are carried out by cookies. Read more about this in our [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis).
+This data is used for security purposes and to clarify cases of unauthorized use or cyber-attacks, for error and performance analysis and to optimize our services. Some of these processing operations are carried out by cookies. Read more about this in our [Cookie Notice](https://www.jobcloud.ch/c/en/privacy-policy/#cookie-notice).
 
 **2\. From job seekers in connection with the creation of the JobCloud user account**
 
@@ -286,9 +286,9 @@ We process your email address during the registration period for the following p
 * To manage and maintain the customer relationship
 * To verify access permissions and manage the JobCloud user account
 
-We process your personal data as long as your JobCloud user account exists. To completely delete your JobCloud user account, click on the link in the settings in your profile to be redirected to your OneLog profile and perform the deletion. If you no longer have your JobCloud user account credentials in order to delete it, please contact our support team using the [online contact form](https://www.jobs.ch/de/kontakt/).
+We process your personal data as long as your JobCloud user account exists. To completely delete your JobCloud user account, click on the link in the settings in your profile to be redirected to your OneLog profile and perform the deletion. If you no longer have your JobCloud user account credentials in order to delete it, please contact our support team using the [online contact form](https://www.jobs.ch/en/contact/).
 
-For more information on registration, please refer to the [JobCloud Terms of Service](https://www.jobcloud.ch/c/de-ch/agb/#job-seekers).
+For more information on registration, please refer to the [JobCloud Terms of Service](https://www.jobcloud.ch/c/en/terms/#job-seekers).
 
 **Further options for registration with a Social Media Account**
 
@@ -362,11 +362,11 @@ If you use the salary calculator function, we store data such as the job title, 
 
 **Spotted – Digital Recruiting**
 
-Spotted – Digital Recruiting means that JobCloud analyses and evaluates your personal data, compares it with current job offers and suggests suitable job offers (e.g. by email, SMS or phone). Specific [Spotted Terms of Service](https://www.jobcloud.ch/c/de-ch/nutzungsbedingungen-spotted/) and a specific [Spotted Privacy Policy](https://www.jobcloud.ch/c/de-ch/datenschutzerklaerung-spotted/) apply in this regard.
+Spotted – Digital Recruiting means that JobCloud analyses and evaluates your personal data, compares it with current job offers and suggests suitable job offers (e.g. by email, SMS or phone). Specific [Spotted Terms of Service](https://www.jobcloud.ch/c/en/terms-spotted/) and a specific [Spotted Privacy Policy](https://www.jobcloud.ch/c/en/privacy-notice-spotted/) apply in this regard.
 
 **User Support**
 
-If you contact our support team with your questions about our services using the [online contact form](https://www.jobs.ch/de/kontakt/) on our platforms, we will process your contact details, your name and the content of the message in order to respond to your request and improve our services.
+If you contact our support team with your questions about our services using the [online contact form](https://www.jobs.ch/en/contact/) on our platforms, we will process your contact details, your name and the content of the message in order to respond to your request and improve our services.
 
 **5\. For marketing and market research**
 
@@ -398,11 +398,11 @@ We use personal data in connection with AI applications. For more information on
 
 **10\. Prevention of criminal offences, mediation and compliance with legal requirements**
 
-Your personal data may also be used to detect or prevent fraud or other illegal activities. Reports regarding illegal content can be made to JobCloud either via [https://www.jobs.ch/en/contact/](https://www.jobs.ch/de/kontakt/) [https://www.jobup.ch/en/contact/](https://www.jobup.ch/fr/contact/) or directly to the job advertisement via the button “Report this job”. For details on reporting and remedying illegal content, please refer to the  [Job Seeker Terms of Service](https://www.jobcloud.ch/c/de-ch/agb/#job-seekers). If you make use of your rights as a data subject, we process your personal data for the processing of these inquiries in compliance with the statutory processing and retention periods.
+Your personal data may also be used to detect or prevent fraud or other illegal activities. Reports regarding illegal content can be made to JobCloud either via [https://www.jobs.ch/en/contact/](https://www.jobs.ch/de/kontakt/) or directly to the job advertisement via the button “Report this job”. For details on reporting and remedying illegal content, please refer to the  [Job Seeker Terms of Service](https://www.jobcloud.ch/c/en/terms/#job-seekers). If you make use of your rights as a data subject, we process your personal data for the processing of these inquiries in compliance with the statutory processing and retention periods.
 
 **G. COOKIE AND TRACKING TECHNOLOGIES**
 
-JobCloud uses cookies and other similar tracking technologies, including third party technologies on the JobCloud platforms and the company’s apps, email communications and other online services. They are used to enable, improve, personalize and analyse the use of our services and for the purposes of personalized advertising. Our [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis) explains what these technologies are and why and how we use them, as well as your rights to control our use of these technologies.
+JobCloud uses cookies and other similar tracking technologies, including third party technologies on the JobCloud platforms and the company’s apps, email communications and other online services. They are used to enable, improve, personalize and analyse the use of our services and for the purposes of personalized advertising. Our [Cookie Notice](https://www.jobcloud.ch/c/en/privacy-policy/#cookie-notice) explains what these technologies are and why and how we use them, as well as your rights to control our use of these technologies.
 
 **H. CONDUCTING COMPETITIONS**
 
@@ -456,7 +456,7 @@ We currently use the AI techniques listed specifically below, where we use a pri
 
 **1\. Recommender for job recommendations**
 
-We use your activity data (such as job views, bookmarking, sending application) to enhance job search and recommendations for you and other users of the JobCloud platforms through our recommender system. By analysing your interactions, we can tailor job recommendations to your preferences. The behavioural data is collected by cookies (for more information see the [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis)). We use the data obtained in this way exclusively to improve our statistical model and to display job recommendations tailored to your search behaviour and your interests online or, if you are a registered user, to send you an e-mail.
+We use your activity data (such as job views, bookmarking, sending application) to enhance job search and recommendations for you and other users of the JobCloud platforms through our recommender system. By analysing your interactions, we can tailor job recommendations to your preferences. The behavioural data is collected by cookies (for more information see the [Cookie Notice](https://www.jobcloud.ch/c/en/privacy-policy/#cookie-notice)). We use the data obtained in this way exclusively to improve our statistical model and to display job recommendations tailored to your search behaviour and your interests online or, if you are a registered user, to send you an e-mail.
 
 **2\. Cover letter generator**
 
@@ -472,7 +472,7 @@ There is no automatic decision-making or profiling. The potential match statemen
 
 We use technical and organizational security measures to protect the managed data against accidental or intentional manipulation, loss, destruction or access by unauthorized persons in accordance with the current state of the art. The security procedures are continually enhanced as new technology develops.
 
-We use Google ReCAPTCHA to protect our websites against bots and spam software in the best possible way and to protect them from misuse by non-human visitors. In order to protect and optimize our services and to combat cyber-attacks, certain technical data is collected using cookies. Further information can be found in the [Cookie Notice](https://www.jobcloud.ch/c/de-ch/datenschutzerklarung/#cookie-hinweis) at the end of this Privacy Policy.
+We use Google ReCAPTCHA to protect our websites against bots and spam software in the best possible way and to protect them from misuse by non-human visitors. In order to protect and optimize our services and to combat cyber-attacks, certain technical data is collected using cookies. Further information can be found in the [Cookie Notice](https://www.jobcloud.ch/c/en/privacy-policy/#cookie-notice) at the end of this Privacy Policy.
 
 **O. HOW LONG DO WE KEEP YOUR DATA?**
 
