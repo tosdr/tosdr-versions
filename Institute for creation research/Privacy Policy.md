@@ -96,31 +96,63 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/SandDollar_1400x1050.jpg)](https://www.icr.org/article/sand-dollar-secrets)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/count-your-many-blessings)
 
-[Sand Dollar Secrets](https://www.icr.org/article/sand-dollar-secrets/)
+[Count Your Many Blessings](https://www.icr.org/article/count-your-many-blessings/)
 
-Combing the sea shore for shells is a beloved activity of all ages. Sand dollars are one of the most prized treasures found at the beach. The off-white...
+“Thou crownest the year with thy goodness; and thy paths drop fatness.” (Psalm 65:11) At year’s end, a Christian should stop...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/bigbangunravel_1400x1050.jpg)](https://www.icr.org/article/big-bang-unraveling)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/eve-saving-seed)
 
-[New York Times Editorial: Big Bang Unraveling?](https://www.icr.org/article/big-bang-unraveling/)
+[Eve and the Saving Seed](https://www.icr.org/article/eve-saving-seed/)
 
-Two physicists have suggested in a recent New York Times guest editorial that Big Bang cosmology ‘may be starting to unravel.’1...
+“And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.” (Genesis 4:1) Recent...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/Main%20Stage%20-%201400x1050/MartianLander_1400x1050)](https://www.icr.org/article/martian-lander-discovers)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/teaching-universe)
 
-[Martian Lander Discovers "Surprising" Martian.,.](https://www.icr.org/article/martian-lander-discovers/)
+[Teaching Universe](https://www.icr.org/article/teaching-universe/)
 
-The InSight robotic lander found evidence in the interior of Mars for the existence of an active giant mantle plume, a large blob of molten rock that...
+“The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+
+$9.99
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
+
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
