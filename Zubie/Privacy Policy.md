@@ -49,7 +49,7 @@
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
 
 September 18, 2024
 
@@ -63,7 +63,7 @@ September 18, 2024
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
 
 #### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
@@ -310,7 +310,7 @@ For Support
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
 
 #### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
@@ -324,7 +324,7 @@ Latest Press Release
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
 
 #### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
