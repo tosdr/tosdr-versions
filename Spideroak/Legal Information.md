@@ -5,6 +5,11 @@
 * [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
 * [Product](https://spideroak.com/product/)
+    
+    * [Overview](https://spideroak.com/product/)
+    * [Product Specs](https://spideroak.com/product-documentation/)
+    * [Technical Specs](https://spideroak.com/technical-documentation/)
+    
 * [In the News](https://spideroak.com/news)
 * [Request a Demo](https://spideroak.com/request-a-demo/)
 
@@ -15,6 +20,11 @@
 * [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
 * [Product](https://spideroak.com/product/)
+    
+    * [Overview](https://spideroak.com/product/)
+    * [Product Specs](https://spideroak.com/product-documentation/)
+    * [Technical Specs](https://spideroak.com/technical-documentation/)
+    
 * [In the News](https://spideroak.com/news)
 * [Request a Demo](https://spideroak.com/request-a-demo/)
 
@@ -53,6 +63,9 @@ Zero-trust security at the edge.
 * [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
 * [Product](https://spideroak.com/product/)
+    * [Overview](https://spideroak.com/product/)
+    * [Product Specs](https://spideroak.com/product-documentation/)
+    * [Technical Specs](https://spideroak.com/technical-documentation/)
 * [In the News](https://spideroak.com/news)
 * [Request a Demo](https://spideroak.com/request-a-demo/)
 
