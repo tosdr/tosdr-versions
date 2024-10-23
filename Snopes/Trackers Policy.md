@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=1092931622501594&ev=PageView&noscript=1)  
+
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=38282683&cv=3.6.0&cj=1)
 
 [Become a Member](https://www.snopes.com/join/)
