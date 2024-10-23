@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Blade Indefinite Delay Controversy](https://knowyourmeme.com/memes/events/blade-indefinite-delay-controversy "Blade Indefinite Delay Controversy") [Your Name + Poop Song Trend](https://knowyourmeme.com/memes/your-name-poop-song-trend "Your Name + Poop Song Trend")
 
 Copyright Infringement Notice
 =============================
