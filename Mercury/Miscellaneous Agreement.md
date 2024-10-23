@@ -13,7 +13,21 @@ Have questions about something else? Check out our [Help Center](https://app.mer
 
 IO Charge Card Agreement
 
-Last Updated October 22, 2023
+Last Updated October 22, 2024
+
+| Payment Information |
+| --- |
+| All charges made on this charge card are due and payable at the end of each billing cycle. |
+
+  
+
+| Fees |     |
+| --- | --- |
+| Annual Fee | None |
+| Transaction Fees  <br>• Foreign Transaction | 3% of each transaction in U.S. dollars |
+| Penalty Fees  <br>• Late Payment | None |
+
+  
 
 This IO Charge Card Agreement sets forth the requirements for your participation in the IO Charge Card by Mercury Technologies, Inc program (the “Program”) and the terms that govern your use of the IO Charge Card (“Card”). The Cards are issued by Patriot Bank, N.A. (“Issuer”), the financial institution responsible for extending credit to you pursuant to this agreement. The terms “You” and “your” mean the Company and the Users authorized by you to use Cards. The terms “we,” “us,” and “our” mean Issuer and Issuer’s successors, affiliates, assignees, and service providers. Issuer has entered into an agreement with Mercury Technologies, Inc. (“Mercury”) in which Mercury agrees to provide certain technology services to Issuer related to the Cards and Card accounts (“Card Accounts”). Mercury is responsible for facilitating communication between you and us, but Mercury is not your agent and Mercury has no obligations to you except those set forth in this agreement.
 
