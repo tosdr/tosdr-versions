@@ -153,9 +153,11 @@ Latest reactions
 
 Latest forum posts
 
+* [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
 * [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=5 "CVBasic: New BASIC compiler for MSX")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
-* [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
 * [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations "Compilations")
@@ -164,8 +166,6 @@ Latest forum posts
 * [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
 * [Boot Manager 1.0](https://www.msx.org/forum/msx-talk/software/boot-manager-10?page=1 "Boot Manager 1.0")
 * [SymbOS MSX multitasking operating system - help needed!](https://www.msx.org/forum/development/msx-development/symbos-msx-multitasking-operating-system-help-needed?page=401 "SymbOS MSX multitasking operating system - help needed!")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
-* [National FS-VG501, repair and usage problems](https://www.msx.org/forum/msx-talk/hardware/national-fs-vg501-repair-and-usage-problems?page=2 "National FS-VG501, repair and usage problems")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
