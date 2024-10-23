@@ -89,7 +89,7 @@ Close
     ![People](../assets/images/nav/people-icon-svg.svg "People")**People**
     
     * [Senior Leaders](https://www.teamsatchel.com/people/senior-leaders.html)
-    * [Behaviour Managers](https://www.teamsatchel.com/people/behaviour-managers.html)
+    * [Behaviour Managers](https://www.teamsatchel.com/products/behaviour-management-suite.html)
     * [Wellbeing Officers](https://www.teamsatchel.com/people/wellbeing-officers.html)
     
     ![People](../assets/images/nav/schools-icon-svg.svg "People")**Schools**
@@ -169,7 +169,7 @@ Close
 * [**People & schools**](#)
     * [![](../assets/images/nav/people-icon-svg.svg)People](#)
     * [Senior Leaders](https://www.teamsatchel.com/people/senior-leaders.html)
-    * [Behaviour Managers](https://www.teamsatchel.com/people/behaviour-managers.html)
+    * [Behaviour Managers](https://www.teamsatchel.com/products/behaviour-management-suite.html)
     * [Wellbeing Officers](https://www.teamsatchel.com/people/wellbeing-officers.html)
     * [![](../assets/images/nav/schools-icon-svg.svg)Schools](#)
     * [Secondary Schools](https://www.teamsatchel.com/schools/secondary.html)
