@@ -1,43 +1,44 @@
-[![Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/v6/wp-content/themes/voicemod/inc/assets/img/logo-stick.svg)](https://www.voicemod.net/)
+[Skip to content](#primary)
 
-FEEL THE POWER OF YOUR VOICE!
+[![Voicemod logo](https://www.voicemod.net/new/wp-content/uploads/2024/03/voicemod.png)](https://www.voicemod.net/)
 
-[DOWNLOAD VOICEMOD FOR FREE](https://www.voicemod.net/downloadVoicemodAccount.php)
-
-Connecting issues? Please download the latest Voicemod version [Download Now!](https://voicemod.link/download-now)
-
-[![Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/v6/wp-content/themes/voicemod/inc/assets/img/logo-header.svg)](https://www.voicemod.net/)
-
-* [Voice Changer for PC](https://www.voicemod.net/free-voice-changer-software/ "Voice Changer for PC")
-* [Soundboard](https://www.voicemod.net/soundboard/ "Soundboard")
-* [Text to Song](https://www.voicemod.net/text-to-song/ "Text to Song")
-* [AI Voices](https://www.voicemod.net/ai-voices/ "AI Voices")
-* [Voicelab](https://www.voicemod.net/voicelab/ "Voicelab")
+* [Voice Changer](https://www.voicemod.net/en/voice-changer/ "Voice Changer")
+* [Soundboard](https://www.voicemod.net/en/soundboard/ "Soundboard")
 * [Free Sounds](https://tuna.voicemod.net/?utm_source=VM+Web+Menu&utm_medium=VM+Website&utm_campaign=VM+Website&utm_id=VM+Website "Free Sounds")
-* [About Us](# "About Us")
-    * [Blog](https://www.voicemod.net/blog/ "Blog")
-    * [Developers](https://www.voicemod.net/developers/ "Developers")
-    * [Our Story](https://www.voicemod.com/our-story "Our Story")
-    * [Newsroom](https://www.voicemod.com/newsroom "Newsroom")
-    * [Careers](https://www.voicemod.com/careers "Careers")
-* [FAQ](https://support.voicemod.net/hc/en-us "FAQ")
-* [My Account](https://account.voicemod.net/#/?action=account "My Account")
-* en
-    * [Deutsch](https://www.voicemod.net/de/)
-    * [Français](https://www.voicemod.net/fr/)
-    * [日本語](https://www.voicemod.net/ja/)
-    * [Español](https://www.voicemod.net/es/)
-    * [Português do Brasil](https://www.voicemod.net/pt/)
-    * [Italiano](https://www.voicemod.net/it/)
-    * [한국어](https://www.voicemod.net/ko/)
-    * [中文(繁體)](https://www.voicemod.net/zh/)
+* [Creator Tools](# "Creator Tools")
+    * [Voicelab](https://www.voicemod.net/en/voicelab/ "Voicelab")
+    * [Text to Song](https://www.voicemod.net/en/text-to-song/ "Text to Song")
+
+[Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free") [My Account](https://account.voicemod.net/#/?action=account "My Account")
+
+en
+
+* Select your language
+* [Español](https://www.voicemod.net/es/)
+* [Deutsch](https://www.voicemod.net/de/)
+* [Français](https://www.voicemod.net/fr/)
+* [Italiano](https://www.voicemod.net/it/)
+* [Português do Brasil](https://www.voicemod.net/pt/)
+* [中文(繁體)](https://www.voicemod.net/zh/)
+* [日本語](https://www.voicemod.net/ja/)
+* [한국어](https://www.voicemod.net/ko/)
+
+* [](https://www.tiktok.com/@voicemod "tiktok")
+* [](https://www.youtube.com/voicemod "youtube")
+* [](https://discord.com/invite/voicemod "discord")
+* [](https://www.reddit.com/r/voicemod/ "reddit")
+* [](https://www.instagram.com/voicemod "instagram")
+* [](https://es.linkedin.com/company/voicemod "linkedin")
+
+[Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free")
 
 VOICEMOD COOKIES POLICY
 =======================
 
 Created: 13 September 2023 | Effective: 20 September 2023
 
-### **WHO IS RESPONSIBLE FOR PROCESSING YOUR DATA?**
+WHO IS RESPONSIBLE FOR PROCESSING YOUR DATA?
+--------------------------------------------
 
 Voicemod Inc., Sucursal en España, is the Data Controller responsible for your personal data. We’re located at Obispo Don Jerónimo 10, St. 46003, Valencia (Spain), being duly registered at Registro Mercantil de Valencia, Tomo 11462, Libro 8740, Folio 156, Hoja V-214069, Registration no. 1. If you have any doubts or questions, you can reach us via email at privacy@voicemod.net.
 
@@ -45,13 +46,15 @@ We use cookies to enable the functionality of our services; to analyzeanalyse tr
 
 But for essential cookies we will only use cookies you have clearly opted-in to.
 
-### **WHAT ARE COOKIES?**
+WHAT ARE COOKIES?
+-----------------
 
 Cookies are compressed text files that allow you to store data specifically related to the device you are using when you visit a website or use an app. Cookies are only data, not software or script (code). Cookies are NOT viruses.
 
 Cookies are essential for our services to work. In general, they are useful for the app to adapt to your settings or tastes, and to store data about the visit or to be able to save a browsing session. However, these are not their only purposes.
 
-### **Different types of cookies:**
+Different types of cookies:
+---------------------------
 
 We can define cookies according to criteria such as their ownership or who manages them, and their duration on the equipment; we can find the following categories and types:
 
@@ -145,7 +148,8 @@ Here are some examples:
 | youtube.com | YSC | YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 0   |
 | youtube.com | CONSENT | YouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 6163 days |
 
-### **HOW CAN YOU CHANGE THE COOKIES SETTINGS AND REJECT OR DISABLE COOKIES?**
+HOW CAN YOU CHANGE THE COOKIES SETTINGS AND REJECT OR DISABLE COOKIES?
+----------------------------------------------------------------------
 
 Users can configure their consent for certain cookies to be used or not by clicking here, or through the pop-up that appears at the bottom of the page, as soon as they access [voicemod.net](http://voicemod.net/).
 
@@ -162,21 +166,51 @@ You can also find out how to manage cookies in the most common browsers by click
 
 To find information on other browsers, please visit the website of the browser’s developer.
 
-Let's Connect
+Follow us for more!
 
-[](https://twitter.com/voicemod)[](https://www.tiktok.com/@voicemod)[](https://www.youtube.com/c/Voicemod)[](https://discord.com/invite/voicemod)
+* [](https://www.tiktok.com/@voicemod "tiktok")
+* [](https://www.youtube.com/voicemod "youtube")
+* [](https://discord.com/invite/voicemod "discord")
+* [](https://www.reddit.com/r/voicemod/ "reddit")
+* [](https://www.instagram.com/voicemod "instagram")
+* [](https://es.linkedin.com/company/voicemod "linkedin")
 
-[Our Story](https://www.voicemod.com/our-story) · [Newsroom](https://www.voicemod.com/newsroom) · [Careers](https://www.voicemod.com/careers) · [Blog](https://www.voicemod.net/blog/) · [Support](https://www.voicemod.net/support/) · [Developer Kit](https://www.voicemod.net/developers/)
+1. [Home](https://www.voicemod.net/ "Home")
+2. Cookies Policy
 
-© 2024 Voicemod Inc., Sucursal en España·[Privacy Policy](https://www.voicemod.net/privacy/ "Privacy Policy")·[Terms](https://www.voicemod.net/terms-of-use/)·[Cookies Policy](https://www.voicemod.net/cookies-policy/ "Cookies Policy")·[3rd Party Software Report](https://voicemod.notion.site/3rd-Party-Software-Report-for-Voicemod-Apps-3ce7ec8daebb4d228b2bf2310daeccd5)·[Legal](https://www.voicemod.net/legal/)·
+[![Voicemod logo](https://www.voicemod.net/new/wp-content/uploads/2024/03/voicemod.png)](https://www.voicemod.net/)
 
-English
+* [Base](https://www.voicemod.net/en/base/ "Base")
+* [Developers](https://www.voicemod.net/en/developers/ "Developers")
+* [Newsroom](https://www.voicemod.com/newsroom "Newsroom")
+* [Support](https://www.voicemod.net/en/support/ "Support (FAQ)")
+* [Careers](https://www.voicemod.com/careers "Careers")
 
-* [Deutsch](https://www.voicemod.net/de/)
-* [Français](https://www.voicemod.net/fr/)
-* [日本語](https://www.voicemod.net/ja/)
-* [Español](https://www.voicemod.net/es/)
-* [Português do Brasil](https://www.voicemod.net/pt/)
-* [Italiano](https://www.voicemod.net/it/)
-* [한국어](https://www.voicemod.net/ko/)
-* [中文(繁體)](https://www.voicemod.net/zh/)
+Supercharge your Voice
+----------------------
+
+[Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free")
+
+![](https://www.voicemod.net/new/wp-content/uploads/2024/03/government-investors.png)
+
+© 2024 Voicemod Inc., Sucursal en España
+
+* [Legal](https://www.voicemod.net/en/legal/ "Legal")
+* [Privacy Policy](https://www.voicemod.net/en/privacy/ "Privacy Policy")
+* [Terms of Use](https://www.voicemod.net/en/terms-of-use/ "Terms of Use")
+* [Cookies Policy](https://www.voicemod.net/en/cookies-policy/ "Cookies Policy")
+* [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5 "3rd Party Software")
+
+Facebook Instagram YouTube LinkedIn Tik Tok Discord Reddit
+
+Connecting issues? Please download the latest Voicemod version
+
+[Download Now!](https://voicemod.link/download-now)
+
+This is default text for notification bar
+
+Learn more
+
+[](javascript:void(0))[](javascript:void(0))
+
+[](javascript:void(0))
