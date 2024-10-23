@@ -1,7 +1,5 @@
 ![](https://www.facebook.com/tr?id=962570153851249&ev=PageView&noscript=1)       
 
-  
-
 * [About Us](https://www.dmca.com/About-Us?r=m)
 * [Phone:1-778-747-0442](tel:1-778-747-0442)
 * [Contact](https://www.dmca.com/Contact-Us.aspx?r=m)
@@ -142,7 +140,7 @@ Welcome[](https://www.dmca.com/Accounts)* [DASHBOARD](#)
     
     [Compliance Badge](https://www.dmca.com/compliantsignup.aspx?r=mmcb)
     
-* [Managed Takedowns (0)](https://www.dmca.com/cases/default.aspx?r=mmpp-b)
+* [Managed Takedowns (1)](https://www.dmca.com/cases/default.aspx?r=mmpp-b)
     
     [DIY Takedowns (0)](https://www.dmca.com/Cases/DIY.aspx?r=mmpp-b)
     
@@ -251,6 +249,8 @@ Welcome[](https://www.dmca.com/Accounts)* [DASHBOARD](#)
 * [About Us](https://www.dmca.com/about-us?r=mmabout)
 * [Contact](https://www.dmca.com/Contact-Us.aspx?r=mmabout)
 * [Chat on FB Messenger](https://m.me/DMCAtakedown)
+
+[](https://www.dmca.com/checkout.aspx)
 
 DMCA.com Privacy Policy
 =======================
