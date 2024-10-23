@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/geef-ons-heden-ons-dagelijks-brood/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/eu-behandel-patienten-met-alternatieve-medicijnen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
