@@ -131,6 +131,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+
+  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+
+[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+
+  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+
 [17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
 
   [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
@@ -143,16 +151,24 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
 
-[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
-
-  [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -174,22 +190,6 @@ By [Brahma Chellaney](https://www.japantimes.co.jp/author/321/brahma-chellaney/ 
 
   [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Road traffic law revisions for cycling offenses to kick in next month](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/426551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A cyclist stops to look at an electronic share price board in Tokyo on Sept. 30. From Nov. 1, cyclists who use their cellphones while cycling or ride under the influence of alcohol may be fined or jailed.")](https://www.japantimes.co.jp/news/2024/10/20/japan/crime-legal/revised-road-traffic-law/ "Road traffic law revisions for cycling offenses to kick in next month")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
-
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
-
-  [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
-
 Podcast
 -------
 
@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. pressures India for accountability over Sikh separatist murder plot](https://www.japantimes.co.jp/news/2024/10/23/world/politics/us-india-sikh-separatist-murder/ "U.S. pressures India for accountability over Sikh separatist murder plot")
+[Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
 
-2 mins ago
+57 mins ago
 
-[IMF lowers global growth forecast for 2025, warning of growing risks](https://www.japantimes.co.jp/business/2024/10/23/economy/imf-global-growth-forecast/ "IMF lowers global growth forecast for 2025, warning of growing risks")
-
-39 mins ago
-
-[With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
-
-46 mins ago
-
-[HSBC revamp by new CEO Elhedery stumps staffers and investors alike](https://www.japantimes.co.jp/business/2024/10/23/companies/hsbc-revamp-ceo-elhedery/ "HSBC revamp by new CEO Elhedery stumps staffers and investors alike")
+[In the heart of Tokyo, LDP-CDP rivals duke it out as election day nears](https://www.japantimes.co.jp/news/2024/10/23/japan/media/tokyo-no-1-district/ "In the heart of Tokyo, LDP-CDP rivals duke it out as election day nears")
 
 1 hours ago
 
-[Honda recalling 780,000 vehicles in North America on fuel pump concern](https://www.japantimes.co.jp/business/2024/10/23/honda-fuel-pump-recall-us/ "Honda recalling 780,000 vehicles in North America on fuel pump concern")
+[Court orders retrial in 1986 Fukui murder case due to witness coercion](https://www.japantimes.co.jp/news/2024/10/23/japan/crime-legal/fukui-murder-retrial/ "Court orders retrial in 1986 Fukui murder case due to witness coercion")
+
+1 hours ago
+
+[Japan’s lunar ambitions advance with two new astronauts](https://www.japantimes.co.jp/news/2024/10/23/japan/jaxa-astronauts/ "Japan’s lunar ambitions advance with two new astronauts")
+
+1 hours ago
+
+[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
 1 hours ago
 
