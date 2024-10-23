@@ -1,4 +1,4 @@
-![](https://secure.intelligentdatawisdom.com/788945.png)          
+![](https://secure.intelligentdatawisdom.com/788945.png)              
 
 ![](https://www.bms.com/assets/bms/us/en-us/images/bristol-myers-squibb-new-logo.png)
 
