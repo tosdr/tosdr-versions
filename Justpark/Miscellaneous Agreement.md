@@ -243,6 +243,6 @@ EnglishCymraegAmerican
 
 * [Cancellation policy](https://www.justpark.com/cancellation-policy)
 * [Privacy Policy](https://www.justpark.com/privacy-policy)
-* [Terms of use](https://www.justpark.com/terms-and-conditions)
+* [Terms of service](https://www.justpark.com/terms-and-conditions)
 
 JustPark is the trading name of JustPark Parking Limited Registered in England and Wales No. 05956777 Dunn's Hat Factory, 106 - 110 Kentish Town Road, London, NW1 9PX, UK
