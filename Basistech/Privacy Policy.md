@@ -8,6 +8,7 @@ Main Menu
 * [Team](https://www.basistech.com/team/)
 * [News](https://www.basistech.com/news/)
 * [About](https://www.basistech.com/about/)
+    * [Cantina Frijol](https://www.basistech.com/about/cantina-frijol/)
     * [Events](https://www.basistech.com/events/)
     * [Contact](https://www.basistech.com/contact/)
 * [日本語](https://www.basistech.jp/privacy-policy/)
