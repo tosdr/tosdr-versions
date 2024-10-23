@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Arizona Officials: It Will Take Nearly 2 Weeks to Tabulate 2024 Election in Maricopa](https://www.theepochtimes.com/us/arizona-officials-it-will-take-nearly-2-weeks-to-tabulate-2024-election-in-maricopa-5746395)
+* [US Sanctions Chinese, Pakistan Companies Over Military Links](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![Arizona Officials: It Will Take Nearly 2 Weeks to Tabulate 2024 Election in Maricopa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Arizona Officials: It Will Take Nearly 2 Weeks to Tabulate 2024 Election in Maricopa](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690649-GettyImages-1439826650-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/arizona-officials-it-will-take-nearly-2-weeks-to-tabulate-2024-election-in-maricopa-5746395)
-* [Aerospace Facility in Ankara Attacked by Terrorists, Casualties Confirmed: Turkish Officials](https://www.theepochtimes.com/world/aerospace-facility-in-ankara-attacked-by-terrorists-casualties-confirmed-turkish-officials-5746416)
+    ![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/uploads/2020/09/29/GettyImages-1228664727-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
+* [New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
     
-    NEW By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Aerospace Facility in Ankara Attacked by Terrorists, Casualties Confirmed: Turkish Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Aerospace Facility in Ankara Attacked by Terrorists, Casualties Confirmed: Turkish Officials](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746427-GettyImages-2179641848-205x123.jpg.webp)](https://www.theepochtimes.com/world/aerospace-facility-in-ankara-attacked-by-terrorists-casualties-confirmed-turkish-officials-5746416)
-* [More Republicans Voting Early in 2024; More Than 20 Million Ballots Cast](https://www.theepochtimes.com/us/more-republicans-voting-early-in-2024-more-than-20-million-ballots-cast-5746314)
+    ![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746659-Joyce-Craig-Kelly-Ayotte-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
+* [Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://www.theepochtimes.com/business/boeing-suffers-6-billion-loss-in-3rd-quarter-ceo-calls-for-fundamental-cultural-changes-5746499)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
-    [![More Republicans Voting Early in 2024; More Than 20 Million Ballots Cast](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![More Republicans Voting Early in 2024; More Than 20 Million Ballots Cast](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5744982-NV-Vote-Polls_JF_10192024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-republicans-voting-early-in-2024-more-than-20-million-ballots-cast-5746314)
-* [Six People Indicted in Ohio for Allegedly Voting as Noncitizens](https://www.theepochtimes.com/us/six-people-indicted-in-ohio-for-allegedly-voting-as-noncitizens-5746277)
+    ![Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607323-Boeing-HQ-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-suffers-6-billion-loss-in-3rd-quarter-ceo-calls-for-fundamental-cultural-changes-5746499)
+* [US Manufacturing Slump Continues Amid Economic Uncertainty](https://www.theepochtimes.com/business/us-manufacturing-slump-continues-amid-economic-uncertainty-5746526)
     
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Six People Indicted in Ohio for Allegedly Voting as Noncitizens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Manufacturing Slump Continues Amid Economic Uncertainty](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Six People Indicted in Ohio for Allegedly Voting as Noncitizens](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712045-GettyImages-1207464500KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/six-people-indicted-in-ohio-for-allegedly-voting-as-noncitizens-5746277)
-* [Wisconsin Election Agency Confirms System ‘Outages’ on First Day of Early Voting](https://www.theepochtimes.com/us/wisconsin-election-agency-confirms-system-outages-on-first-day-of-early-voting-5746335)
+    ![US Manufacturing Slump Continues Amid Economic Uncertainty](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746664-GettyImages-1810375379-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-manufacturing-slump-continues-amid-economic-uncertainty-5746526)
+* [Online Grocery Platforms May Lack Crucial Food Labeling Information, Posing Health Risks](https://www.theepochtimes.com/health/the-hidden-health-risks-of-online-grocery-shopping-the-food-information-gap-5745617)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![Wisconsin Election Agency Confirms System ‘Outages’ on First Day of Early Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Online Grocery Platforms May Lack Crucial Food Labeling Information, Posing Health Risks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Wisconsin Election Agency Confirms System ‘Outages’ on First Day of Early Voting](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745790-Wisconsin-early-voting-GettyImages-2179471535-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-election-agency-confirms-system-outages-on-first-day-of-early-voting-5746335)
-* [Georgia Supreme Court Rejects GOP Bid to Reinstate State Election Rules](https://www.theepochtimes.com/us/georgia-supreme-court-rejects-gop-bid-to-reinstate-state-election-rules-5746180)
+    ![Online Grocery Platforms May Lack Crucial Food Labeling Information, Posing Health Risks](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746557-shutterstock_1668309730_online_grocery_shopping_vegetable_fruit-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-hidden-health-risks-of-online-grocery-shopping-the-food-information-gap-5745617)
+* [US Home Prices Rise by ‘Fastest Pace’ Since April](https://www.theepochtimes.com/us/us-home-prices-rise-by-fastest-pace-since-april-5746536)
     
-    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Georgia Supreme Court Rejects GOP Bid to Reinstate State Election Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Home Prices Rise by ‘Fastest Pace’ Since April](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Supreme Court Rejects GOP Bid to Reinstate State Election Rules](https://img.theepochtimes.com/assets/uploads/2024/04/12/id5628153-GettyImages-1230123473-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-supreme-court-rejects-gop-bid-to-reinstate-state-election-rules-5746180)
-* [Over 7,000 Antidepressants Recalled Over Potentially Cancer-Causing Chemical](https://www.theepochtimes.com/us/over-7000-antidepressants-recalled-over-potentially-cancer-causing-chemical-5746178)
+    ![US Home Prices Rise by ‘Fastest Pace’ Since April](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722547-GettyImages-2166343943-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-home-prices-rise-by-fastest-pace-since-april-5746536)
+* [Kyiv Might Consider Peace Talks if Russia Halts Strikes on Infrastructure: Zelenskyy](https://www.theepochtimes.com/world/kyiv-might-consider-peace-talks-if-russia-halts-strikes-on-infrastructure-zelenskyy-5746529)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
-    [![Over 7,000 Antidepressants Recalled Over Potentially Cancer-Causing Chemical](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Kyiv Might Consider Peace Talks if Russia Halts Strikes on Infrastructure: Zelenskyy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Over 7,000 Antidepressants Recalled Over Potentially Cancer-Causing Chemical](https://img.theepochtimes.com/assets/uploads/2023/06/23/id5351924-Abortion_Pill_Wyoming_23172833853953-205x123.jpg.webp)](https://www.theepochtimes.com/us/over-7000-antidepressants-recalled-over-potentially-cancer-causing-chemical-5746178)
-* [Trump Campaign Files Complaint Accusing UK Labour Party of ‘Foreign Interference’](https://www.theepochtimes.com/us/trump-campaign-files-complaint-accusing-uk-labour-party-of-foreign-interference-5746086)
+    ![Kyiv Might Consider Peace Talks if Russia Halts Strikes on Infrastructure: Zelenskyy](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730125-GettyImages-2174425113-205x123.jpg.webp)](https://www.theepochtimes.com/world/kyiv-might-consider-peace-talks-if-russia-halts-strikes-on-infrastructure-zelenskyy-5746529)
+* [Multi-State E. Coli Outbreak Linked to McDonald’s: What You Need to Know](https://www.theepochtimes.com/health/multi-state-e-coli-outbreak-linked-to-mcdonalds-what-you-need-to-know-5746472)
     
-    4hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Campaign Files Complaint Accusing UK Labour Party of ‘Foreign Interference’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Multi-State E. Coli Outbreak Linked to McDonald’s: What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Campaign Files Complaint Accusing UK Labour Party of ‘Foreign Interference’](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745718-GettyImages-2180039297-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-campaign-files-complaint-accusing-uk-labour-party-of-foreign-interference-5746086)
-* [6 Takeaways from Harris Interview on NBC](https://www.theepochtimes.com/us/6-takeaways-from-harris-interview-on-nbc-5745927)
+    ![Multi-State E. Coli Outbreak Linked to McDonald’s: What You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746310-1.download-195-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/multi-state-e-coli-outbreak-linked-to-mcdonalds-what-you-need-to-know-5746472)
+* [Candidates Spar Over Taxes, Border, Middle East in New Jersey US Senate Debate](https://www.theepochtimes.com/us/candidates-spar-over-taxes-border-middle-east-in-new-jersey-us-senate-debate-5746398)
     
-    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![6 Takeaways from Harris Interview on NBC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Candidates Spar Over Taxes, Border, Middle East in New Jersey US Senate Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![6 Takeaways from Harris Interview on NBC](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745755-GettyImages-2179224084-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/6-takeaways-from-harris-interview-on-nbc-5745927)
-* [Trump’s Mid-October Poll Surge Surfaced 2 Weeks Ago in Predictive Markets](https://www.theepochtimes.com/us/trumps-mid-october-poll-surge-surfaced-2-weeks-ago-in-predictive-markets-5746044)
+    ![Candidates Spar Over Taxes, Border, Middle East in New Jersey US Senate Debate](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746631-FotoJetKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/candidates-spar-over-taxes-border-middle-east-in-new-jersey-us-senate-debate-5746398)
+* [New IRS Unit Begins Targeting Pass-Through Businesses](https://www.theepochtimes.com/us/new-irs-unit-begins-targeting-pass-through-businesses-5746408)
     
-    11hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Trump’s Mid-October Poll Surge Surfaced 2 Weeks Ago in Predictive Markets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New IRS Unit Begins Targeting Pass-Through Businesses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump’s Mid-October Poll Surge Surfaced 2 Weeks Ago in Predictive Markets](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720809-trump-kamala-harris-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-mid-october-poll-surge-surfaced-2-weeks-ago-in-predictive-markets-5746044)
+    ![New IRS Unit Begins Targeting Pass-Through Businesses](https://img.theepochtimes.com/assets/uploads/2024/01/05/id5559413-01042024-DSC06056-IRS-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-irs-unit-begins-targeting-pass-through-businesses-5746408)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
