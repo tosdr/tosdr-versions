@@ -105,6 +105,8 @@ Error
 * [California Credit Disclosure](#contract-bk8o6a-ar)
 * [Authorization](#contract-hywkt6cca)
 * [DISCLOSURE: INVESTIGATIVE CONSUMER REPORT](#contract-ryp4k-vlkl)
+* [Tokenized Authorization (B2B) - EN-GB](#contract-robwm0vs)
+* [Wallet Authorization en-GB](#contract-hzugruzvb)
 
 Test Contract 2
 ---------------
@@ -2640,7 +2642,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 21st 2024
+##### Effective October 23rd 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6174,6 +6176,66 @@ You have the right, upon written request, to be informed of whether or not an in
 You have the right to request additional information regarding the nature and scope of any "investigative consumer report" directly from the Company.
 
   
+
+Tokenized Authorization (B2B) - EN-GB
+-------------------------------------
+
+### Version 1.0
+
+##### Effective October 23rd 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6718f314a942382ae471822c.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**AUTHORISATION**
+
+To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”).
+
+  
+
+We will collect the following personal information for the purpose of completing the Services: {{{personal\_information\_list}}}. {{#if data\_providers\_list}}We may collect Personal Information directly from you, the Company, or third parties such as {{{data\_providers\_list}}}{{else}}We may collect Personal Information directly from you or the Company{{/if}}. We will compare information received from different sources for consistency.
+
+  
+
+It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+
+  
+
+You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
+
+  
+
+  
+
+Wallet Authorization en-GB
+--------------------------
+
+### Version 1.0
+
+##### Effective October 23rd 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6718f4f5d0e5d80c88e8f34b.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Authorisation**
+
+  
+
+You have asked [Certn](https://certn.co/) to collect, process and deliver the following verifiable credentials through the MyCertn Wallet: {{{services\_list}}}. In order to complete this request, you will be asked to provide the following personal information; {{{personal\_information\_list}}}. We may collect information regarding you directly from you or third parties such as {{{data\_providers\_list}}}. We will compare information received from different sources for consistency.
+
+It may be necessary for Certn to transfer and process your information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which you made the request. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+
+You can withdraw your consent, dispute the accuracy of your credentials, or ask for a correction, deletion or copy of your information at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found in our Privacy Policy ( [https://certn.co/privacy-policy/](https://certn.co/privacy-policy/) ).
 
 * * *
 
