@@ -7,7 +7,7 @@
 * [Bảng xếp hạng](http://www.scamcallfighters.com/bang-xep-hang/ "Bảng xếp hạng")
 * [Tin tức](http://www.scamcallfighters.com/tin-tuc/ "Tin tức")
 
-[Cược Ngay](https://6686v930.com/) [Cược 6686](https://6686v930.com/)
+[Cược Ngay](https://bet668602.com/) [Cược 6686](https://bet668602.com/)
 
 ![logo](/themes/colatv/assets/image/svg/icon-menu-mb.svg)
 
@@ -335,7 +335,7 @@ Giới thiệu trang phunucodon.me - Saoke. Saoke TV - Trang web xem bóng đá 
 
 ![protect](/themes/colatv/assets/image/CN_cola.png)
 
-Trang web saoketvx6.cc đang chờ đăng ký giấy phép hoạt động.
+Trang web saoketvxa.cc đang chờ đăng ký giấy phép hoạt động.
 
 Điện thoại: [09789234820](tel:09789234820)
 
@@ -345,7 +345,7 @@ Email: [\[email protected\]](http://www.scamcallfighters.com/cdn-cgi/l/email-pr
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
-Copyright 2023 by [saoketvx6.cc](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
+Copyright 2023 by [saoketvxa.cc](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
 
 x
 
