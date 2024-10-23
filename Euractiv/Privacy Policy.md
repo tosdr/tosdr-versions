@@ -488,10 +488,12 @@ If you have any questions about this Privacy Policy, please contact us:
 * [About us](https://www.euractiv.com/about-euractiv)
 * [Podcasts](https://www.euractiv.com/podcast)
 * [Events](https://events.euractiv.com/)
+* [Agenda](https://agenda.euractiv.com/)
 * [Jobs](https://jobs.euractiv.com/)
 * [Mediahuis](https://www.mediahuis.com/en/)
 * [Press releases](http://pr.euractiv.com/company/euractiv-39?_ga=2.205483607.690285834.1726672856-146497519.1726672856)
 * [Submit an opinion](https://www.euractiv.com/about-euractiv/opinion-criteria-structure-and-examples-for-external-contributions/)
+* [Contact us](https://www.euractiv.com/contactus)
 
 ##### Subscriptions
 
