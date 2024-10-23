@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Hessite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2289%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hessite/)
+[![40 Facts About Victorian ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/40-facts-about-victorian/)
+
+Historical Events
+
+23 Oct 2024
+
+[40 Facts About Victorian](https://facts.net/history/historical-events/40-facts-about-victorian/)
+
+[![40 Facts About Huttonite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22114%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-huttonite/)
 
 Earth Sciences
 
-22 Oct 2024
+23 Oct 2024
 
-[30 Facts About Hessite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hessite/)
-
-[![40 Facts About Transmembrane Receptor ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/40-facts-about-transmembrane-receptor/)
-
-Biology
-
-22 Oct 2024
-
-[40 Facts About Transmembrane Receptor](https://facts.net/earth-and-life-science/biology-earth-and-life-science/40-facts-about-transmembrane-receptor/)
+[40 Facts About Huttonite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-huttonite/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
