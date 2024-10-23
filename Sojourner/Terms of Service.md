@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7cb330595a7542f81423303746ba8c99
+a987a648b316158c612402e7f00cd101
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Granulated sterling silver and pearl earrings](https://sojourner.biz/images/cache/E0032.200.jpg)](https://sojourner.biz/jewelry/earrings/granulated-sterling-silver-and-pearl-earrings.html "Granulated sterling silver and pearl earrings")
+[![12 mm black teardrop beads](https://sojourner.biz/images/cache/glass/GL0326.200.jpg)](https://sojourner.biz/beads/glass/12-mm-black-teardrop-beads.html "12 mm black teardrop beads")
 
-#### [Granulated sterling silver and pearl earrings](https://sojourner.biz/jewelry/earrings/granulated-sterling-silver-and-pearl-earrings.html "Granulated sterling silver and pearl earrings")
+#### [12 mm black teardrop beads](https://sojourner.biz/beads/glass/12-mm-black-teardrop-beads.html "12 mm black teardrop beads")
 
-$30.00
+$7.50
 
 ### Best Sellers
 
