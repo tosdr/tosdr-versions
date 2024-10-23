@@ -153,7 +153,7 @@ Effective as of June 25, 2024
 
 1. If you are located in the European Economic Area or in the United Kingdom, JustPark Parking Limited, Dunn's Hat Factory, 106-110 Kentish Town Road London, England, NW1 9PX is the entity responsible for your personal information, and the controller under applicable data protection laws.
 2. If you are located in the United States, Canada or anywhere else in the world, ParkHub, Inc. (which is situated at 1717 McKinney Ave., Suite 800, Dallas, TX, 75202, United States) is the entity responsible for your personal information.
-3. If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by clicking [**here**](https://help.justpark.com/hc/en-us/requests/new).
+3. If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by clicking [here](https://www.justpark.com/help).
 4. If you reside in the European Economic Ares or the United Kingdom, you have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred.
 
 Information
@@ -205,6 +205,6 @@ EnglishCymraegAmerican
 
 * [Cancellation policy](https://www.justpark.com/cancellation-policy)
 * [Privacy Policy](https://www.justpark.com/privacy-policy)
-* [Terms of use](https://www.justpark.com/terms-and-conditions)
+* [Terms of service](https://www.justpark.com/terms-and-conditions)
 
 JustPark is the trading name of JustPark Parking Limited Registered in England and Wales No. 05956777 Dunn's Hat Factory, 106 - 110 Kentish Town Road, London, NW1 9PX, UK
