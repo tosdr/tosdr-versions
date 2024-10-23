@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/4d167fcd-376e-48b0-b341-d40946bd056e/4d167fcd-376e-48b0-b341-d40946bd056e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4d167fcd-376e-48b0-b341-d40946bd056e/4d167fcd-376e-48b0-b341-d40946bd056e_360x203.jpg)](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
+    *  [![](https://media.king5.com/assets/KING/images/c91aef13-b1af-4a87-87d1-c11d8f5198b2/20241018T125349/c91aef13-b1af-4a87-87d1-c11d8f5198b2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c91aef13-b1af-4a87-87d1-c11d8f5198b2/20241018T125349/c91aef13-b1af-4a87-87d1-c11d8f5198b2_360x203.jpg)](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
         
-        #### [Man sentenced to 40 years for attempted murder of Whatcom County deputies](https://www.king5.com/article/news/crime/sentencing-2022-shooting-whatcom-county-deputies/281-4c2351d6-28d5-4e1b-8c01-aa395c01cafe)
+        #### [Arrest made in pregnant Auburn woman's disappearance, police believe more people are involved](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
         
-    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+    *  [![](https://media.king5.com/assets/KING/images/ac572e1e-5c89-49cb-968c-7c245c20073b/20241023T015731/ac572e1e-5c89-49cb-968c-7c245c20073b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac572e1e-5c89-49cb-968c-7c245c20073b/20241023T015731/ac572e1e-5c89-49cb-968c-7c245c20073b_360x203.jpg)](https://www.king5.com/article/news/local/historic-auburn-avenue-theater-being-demolished/281-5cc1ad38-538f-4d85-9ef0-c5676459f09c)
         
-        #### [3 of 4 Let's Go WA Initiatives face significant opposition headed into Nov. election: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        #### [The historic Auburn Avenue Theater is now being demolished](https://www.king5.com/article/news/local/historic-auburn-avenue-theater-being-demolished/281-5cc1ad38-538f-4d85-9ef0-c5676459f09c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/4c24ec9d-e077-4538-9d96-d2957fc3e15b/20241022T200844/4c24ec9d-e077-4538-9d96-d2957fc3e15b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c24ec9d-e077-4538-9d96-d2957fc3e15b/20241022T200844/4c24ec9d-e077-4538-9d96-d2957fc3e15b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d25ff808-c96b-4ddf-aea2-624cc9000484/20241022T233024/d25ff808-c96b-4ddf-aea2-624cc9000484_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d25ff808-c96b-4ddf-aea2-624cc9000484/20241022T233024/d25ff808-c96b-4ddf-aea2-624cc9000484_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-56°
+52°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
