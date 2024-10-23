@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-da8aa0c7c0a297f31ce98fbef9194ce0
+6674879142f4954dc67ad0d57c065155
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![6 mm round black onyx beads](https://www.sojourner.biz/images/cache/stone/ON0003.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/6-mm-round-black-onyx-beads.html "6 mm round black onyx beads")
+[![Gold sahara Swarovski clasp](https://www.sojourner.biz/images/cache/SKU0351variations.200.jpg)](https://www.sojourner.biz/clasps/swarovski/gold-sahara-swarovski-clasp.html "Gold sahara Swarovski clasp")
 
-#### [6 mm round black onyx beads](https://www.sojourner.biz/beads/stone-m-z/onyx/6-mm-round-black-onyx-beads.html "6 mm round black onyx beads")
+#### [Gold sahara Swarovski clasp](https://www.sojourner.biz/clasps/swarovski/gold-sahara-swarovski-clasp.html "Gold sahara Swarovski clasp")
 
-$11.00
+$30.00
 
 ### Best Sellers
 
