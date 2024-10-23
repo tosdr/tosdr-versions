@@ -20,16 +20,16 @@ Wednesday, October 23 2024
 
 Latest
 
-* [CISA proposes new security requirements to protect govt, personal data](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
-* [WhatsApp Will Finally Lets You Add Contacts from Any Device](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
-* [Ethical hackers are flocking to AI tools, but the technology may be causing more problems than it solves](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
-* [Asana launches AI Studio, a no-code tool for building AI agents – Computerworld](https://digitpatrox.com/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents-computerworld/)
-* [Why I Think the Garmin Forerunner 265 Is the Best Running Watch](https://digitpatrox.com/why-i-think-the-garmin-forerunner-265-is-the-best-running-watch/)
-* [How to Access ChatGPT Advanced Voice Mode](https://digitpatrox.com/how-to-access-chatgpt-advanced-voice-mode/)
-* [Best Stroller and Car Seat Combos](https://digitpatrox.com/best-stroller-and-car-seat-combos/)
-* [Windows Photos App Adds Image Upscaling, With a Catch](https://digitpatrox.com/windows-photos-app-adds-image-upscaling-with-a-catch/)
-* [Cisco confirms attackers stole data, shuts down access to compromised DevHub environment](https://digitpatrox.com/cisco-confirms-attackers-stole-data-shuts-down-access-to-compromised-devhub-environment/)
-* [E.U. Partners With Venture Capital Firms to Boost Tech Investment](https://digitpatrox.com/e-u-partners-with-venture-capital-firms-to-boost-tech-investment/)
+* [Can Security Experts Leverage Generative AI Without Prompt Engineering Skills?](https://digitpatrox.com/can-security-experts-leverage-generative-ai-without-prompt-engineering-skills/)
+* [I’ve been testing earbuds for all my life — here’s the 10 best early Black Friday wireless earbuds deals right now](https://digitpatrox.com/ive-been-testing-earbuds-for-all-my-life-heres-the-10-best-early-black-friday-wireless-earbuds-deals-right-now/)
+* [Windows 10 KB5045594 update fixes multi-function printer bugs](https://digitpatrox.com/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/)
+* [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://digitpatrox.com/the-boox-palma-2-has-a-faster-processor-and-adds-a-fingerprint-reader/)
+* [Tom Holland Confirms Spider-Man 4 Officially; Shooting to Start in 2025](https://digitpatrox.com/tom-holland-confirms-spider-man-4-officially-shooting-to-start-in-2025/)
+* [Hackers are stepping up ‘qishing’ attacks by hiding malicious QR codes in PDF email attachments](https://digitpatrox.com/hackers-are-stepping-up-qishing-attacks-by-hiding-malicious-qr-codes-in-pdf-email-attachments/)
+* [AI dominates Gartner’s 2025 predictions](https://digitpatrox.com/ai-dominates-gartners-2025-predictions/)
+* [My Favorite Way to Motivate Myself to Clean a Bit Every Day](https://digitpatrox.com/my-favorite-way-to-motivate-myself-to-clean-a-bit-every-day/)
+* [SUVs and Minivans With the Best Third-Row Seats](https://digitpatrox.com/suvs-and-minivans-with-the-best-third-row-seats/)
+* [The Best Samsung Galaxy S23 FE Cases of 2024](https://digitpatrox.com/the-best-samsung-galaxy-s23-fe-cases-of-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/CISA.jpg)](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241022-generative-ai-security-training.jpg)](https://digitpatrox.com/can-security-experts-leverage-generative-ai-without-prompt-engineering-skills/)
     
-    [CISA proposes new security requirements to protect govt, personal data](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
+    [Can Security Experts Leverage Generative AI Without Prompt Engineering Skills?](https://digitpatrox.com/can-security-experts-leverage-generative-ai-without-prompt-engineering-skills/)
     
-    26 mins ago
+    38 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/WhatsApp-to-soon-let-users-add-contacts-from-linked-devices-featured-image.jpg)](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
+* [![](https://cdn.mos.cms.futurecdn.net/7bQE6RjyxsZFzm255fwZxK-1200-80.jpg)](https://digitpatrox.com/ive-been-testing-earbuds-for-all-my-life-heres-the-10-best-early-black-friday-wireless-earbuds-deals-right-now/)
     
-    [WhatsApp Will Finally Lets You Add Contacts from Any Device](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
+    [I’ve been testing earbuds for all my life — here’s the 10 best early Black Friday wireless earbuds deals right now](https://digitpatrox.com/ive-been-testing-earbuds-for-all-my-life-heres-the-10-best-early-black-friday-wireless-earbuds-deals-right-now/)
     
-    58 mins ago
+    54 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/P4cLRcuLgwmPRwmM2UTwDG-1200-80.jpg)](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
+* [![](https://www.bleepstatic.com/content/hl-images/2021/02/03/Windows-10-headpic.jpg)](https://digitpatrox.com/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/)
     
-    [Ethical hackers are flocking to AI tools, but the technology may be causing more problems than it solves](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
+    [Windows 10 KB5045594 update fixes multi-function printer bugs](https://digitpatrox.com/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/)
+    
+    1 hour ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/Rw6J1m0GLDnfUwdulaaSiw-GbXA=/0x0:1372x915/1200x628/filters:focal(686x458:687x459)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691163/booxpalma3.jpg)](https://digitpatrox.com/the-boox-palma-2-has-a-faster-processor-and-adds-a-fingerprint-reader/)
+    
+    [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://digitpatrox.com/the-boox-palma-2-has-a-faster-processor-and-adds-a-fingerprint-reader/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3578614-0-25707300-1729632522-shutterstock_2472677939.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Tom-Holland-Comfirms-Spider-Man-4-On-The-Tonight-Show.jpg)](https://digitpatrox.com/tom-holland-confirms-spider-man-4-officially-shooting-to-start-in-2025/)
     
-    [Asana launches AI Studio, a no-code tool for building AI agents – Computerworld](https://digitpatrox.com/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents-computerworld/)
+    [Tom Holland Confirms Spider-Man 4 Officially; Shooting to Start in 2025](https://digitpatrox.com/tom-holland-confirms-spider-man-4-officially-shooting-to-start-in-2025/)
     
-    3 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JATQ0S8312WBXZBSQB28TWDT/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/why-i-think-the-garmin-forerunner-265-is-the-best-running-watch/)
-    
-    [Why I Think the Garmin Forerunner 265 Is the Best Running Watch](https://digitpatrox.com/why-i-think-the-garmin-forerunner-265-is-the-best-running-watch/)
-    
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [26 mins ago
+* [38 mins ago
     
-    ### CISA proposes new security requirements to protect govt, personal data](https://digitpatrox.com/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
-* [58 mins ago
+    ### Can Security Experts Leverage Generative AI Without Prompt Engineering Skills?](https://digitpatrox.com/can-security-experts-leverage-generative-ai-without-prompt-engineering-skills/)
+* [54 mins ago
     
-    ### WhatsApp Will Finally Lets You Add Contacts from Any Device](https://digitpatrox.com/whatsapp-will-finally-lets-you-add-contacts-from-any-device/)
-* [2 hours ago
+    ### I’ve been testing earbuds for all my life — here’s the 10 best early Black Friday wireless earbuds deals right now](https://digitpatrox.com/ive-been-testing-earbuds-for-all-my-life-heres-the-10-best-early-black-friday-wireless-earbuds-deals-right-now/)
+* [1 hour ago
     
-    ### Ethical hackers are flocking to AI tools, but the technology may be causing more problems than it solves](https://digitpatrox.com/ethical-hackers-are-flocking-to-ai-tools-but-the-technology-may-be-causing-more-problems-than-it-solves/)
+    ### Windows 10 KB5045594 update fixes multi-function printer bugs](https://digitpatrox.com/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 20, 2024
     
-    ### Windows 11 build 27718 outs with new security feature in Canary Channel](https://digitpatrox.com/windows-11-build-27718-outs-with-new-security-feature-in-canary-channel/)
-* [August 12, 2024
+    ### Here’s What the iPhone 16 Colors Actually Look Like](https://digitpatrox.com/heres-what-the-iphone-16-colors-actually-look-like/)
+* [September 14, 2024
     
-    ### Fake X content warnings on Ukraine war, earthquakes used as clickbait](https://digitpatrox.com/fake-x-content-warnings-on-ukraine-war-earthquakes-used-as-clickbait/)
-* [September 17, 2024
+    ### NYT Connections Today: Hints and Answers for September 15, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-15-2024/)
+* [September 18, 2024
     
-    ### How to watch ‘Agatha All Along’ online, Disney plus deal](https://digitpatrox.com/how-to-watch-agatha-all-along-online-disney-plus-deal/)
+    ### Best International Merchant Accounts for Secure Global Payments](https://digitpatrox.com/best-international-merchant-accounts-for-secure-global-payments/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Best Stroller and Car Seat Combos](https://digitpatrox.com/best-stroller-and-car-seat-combos/)
+    ### AI dominates Gartner’s 2025 predictions](https://digitpatrox.com/ai-dominates-gartners-2025-predictions/)
 * [4 hours ago
     
-    ### Windows Photos App Adds Image Upscaling, With a Catch](https://digitpatrox.com/windows-photos-app-adds-image-upscaling-with-a-catch/)
+    ### My Favorite Way to Motivate Myself to Clean a Bit Every Day](https://digitpatrox.com/my-favorite-way-to-motivate-myself-to-clean-a-bit-every-day/)
 * [5 hours ago
     
-    ### Cisco confirms attackers stole data, shuts down access to compromised DevHub environment](https://digitpatrox.com/cisco-confirms-attackers-stole-data-shuts-down-access-to-compromised-devhub-environment/)
+    ### SUVs and Minivans With the Best Third-Row Seats](https://digitpatrox.com/suvs-and-minivans-with-the-best-third-row-seats/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
