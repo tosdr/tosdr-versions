@@ -71,7 +71,7 @@ Alarmas
 
 Compramos tu móvil
 
-[](https://www.movistar.es/fibra-optica/fibra-fttr "Compramos tu móvil")
+[](https://www.movistar.es/fibra-optica/fibra-fttr/ "Compramos tu móvil")
 
 Fibra FTTR
 
@@ -256,7 +256,7 @@ miMovistar: Fibra, móvil y TV
 
 * [Fibra y móvil](https://www.movistar.es/fibra-y-movil/ "Fibra y móvil")
 * [Contratar Fútbol](https://www.movistar.es/tv/futbol/ "Contratar Fútbol")
-* [Partidos televisados](https://www.movistar.es/tv/agenda-deportiva/calendario-laliga-futbol-partidos-televisados "Partidos televisados")
+* [Partidos televisados](https://www.movistar.es/tv/agenda-deportiva/calendario-laliga-futbol-partidos-televisados/ "Partidos televisados")
 * [Movistar Plus](https://www.movistar.es/tv/movistar-plus/ "Movistar Plus")
 * [Contratar Netflix](https://www.movistar.es/tv/netflix/ "Contratar Netflix")
 
@@ -273,24 +273,24 @@ Móvil
 * [Tarifas móvil](https://www.movistar.es/tarifas-moviles/ "Tarifas móvil")
 * [Datos ilimitados](https://www.movistar.es/tarifas-moviles/datos-ilimitados/ "Datos ilimitados")
 * [2 líneas móvil ilimitadas](https://www.movistar.es/tarifas-moviles/tarifa-ilimitada-2-lineas/ "2 líneas móvil ilimitadas")
-* [Portabilidad móvil](https://www.movistar.es/atencion-cliente/portabilidad "Portabilidad móvil")
+* [Portabilidad móvil](https://www.movistar.es/tarifas-moviles/portabilidad/ "Portabilidad móvil")
 * [Roaming](https://www.movistar.es/tarifas-moviles/roaming/ "Roaming")
 
 Dispositivos
 
+* [Black Friday](https://www.movistar.es/black-friday/ "Black Friday")
 * [Móviles](https://www.movistar.es/moviles/ "Móviles")
-* [Smartwaches](https://www.movistar.es/smartwatches/ "Smartwaches")
-* [Tablets](https://www.movistar.es/tablets/ "Tablets")
-* [Smart TV](https://www.movistar.es/smart-tv/ "Smart TV")
 * [Vender móvil](https://www.movistar.es/compramos-tu-movil/ "Vender móvil")
+* [Smart TV](https://www.movistar.es/smart-tv/ "Smart TV")
+* [Gaming](https://www.movistar.es/gaming/ "Gaming")
 
 Más productos Movistar
 
 * [Alarmas para casa](https://www.movistar.es/alarmas-para-casa/ "Alarmas para casa")
-* [Movistar Prosegur Alarmas](https://www.movistar.es/particulares/movistar-prosegur-alarmas/ "Movistar Prosegur Alarmas")
-* [Placas solares para casa](https://www.movistar.es/mas-servicios/energia/ "Placas solares para casa")
-* [Dónde ver El Clásico](https://www.movistar.es/tv/donde-ver-el-clasico-real-madrid-barcelona "Dónde ver El Clásico")
-* [Fibra FTTR Movistar](https://www.movistar.es/fibra-optica/fibra-fttr "Fibra FTTR Movistar")
+* [Movistar Prosegur Alarmas](https://www.movistar.es/alarmas-para-casa/ "Movistar Prosegur Alarmas")
+* [Placas solares](https://www.movistar.es/mas-servicios/energia/ "Placas solares")
+* [Dónde ver El Clásico](https://www.movistar.es/tv/donde-ver-el-clasico-real-madrid-barcelona/ "Dónde ver El Clásico")
+* [Fibra FTTR Movistar](https://www.movistar.es/fibra-optica/fibra-fttr/ "Fibra FTTR Movistar")
 
 Síguenos
 
