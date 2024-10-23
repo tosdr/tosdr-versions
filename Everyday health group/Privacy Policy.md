@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/vegetarian-diet-associated-lower-risk-heart-disease-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/walking-in-short-bursts-burns-more-calories-1440x810.jpg)
 
-Eating More Fruits and Vegetables Really Can Lower Your Heart Disease Risk](https://www.everydayhealth.com/heart-health/fruits-and-vegetables-can-lower-heart-disease-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Stop-and-Start Walking May Burn More Calories Than Going Nonstop](https://www.everydayhealth.com/fitness/stop-and-start-walking-may-burn-more-calories-than-nonstop/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/younger-colorectal-cancer-patients-have-different-concerns-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/treehouse-foods-recall-1440x810.jpg)
 
-Young Adults With Colon Cancer May Be Hit by More Aggressive Disease](https://www.everydayhealth.com/cancer/young-adults-with-colon-cancer-may-be-hit-by-more-aggressive-disease/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Frozen Waffles and Pancakes Recalled From Walmart, Target, Publix](https://www.everydayhealth.com/infectious-diseases/frozen-waffles-pancakes-recalled-from-walmart-target-publix/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
