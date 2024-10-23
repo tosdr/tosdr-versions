@@ -178,7 +178,7 @@ Source AI
 ----------------
 
 * [Open Source AI](https://opensource.org/ai)
-* [Deep Dive](https://opensource.org/deepdive)
+* [Co-design Process](https://opensource.org/ai/process)
 * [Townhalls recordings](https://opensource.org/ai/townhalls)
 * [FAQs](https://opensource.org/ai/faqs)
 * [Online forum](https://opensource.org/ai/forums)
