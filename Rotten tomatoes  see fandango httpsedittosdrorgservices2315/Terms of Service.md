@@ -107,21 +107,21 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235359/WRB_Tree1Sheet6_RGB_1.jpg)
     
     The Wild Robot (2024)](https://www.fandango.com/the-wild-robot-2024-235359/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234514/VNM3_OnLine_2000x3000_TSR_02_sm.jpg)
+    
+    Venom: The Last Dance (2024)](https://www.fandango.com/venom-the-last-dance-2024-234514/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/FND_poster_Gladiator2-Presale.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235494/Conclave_OfficialPoster.jpg)
+    
+    Conclave (2024)](https://www.fandango.com/conclave-2024-235494/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236735/S2_DOM_2025x3000_ONLINE_TEASER_ONE_SHEET_TORN.jpg)
+    
+    Smile 2 (2024)](https://www.fandango.com/smile-2-2024-236735/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234515/BTLBTL_VERT_MAIN_2764x4096_DOM_REV.jpg)
     
     Beetlejuice Beetlejuice (2024)](https://www.fandango.com/beetlejuice-beetlejuice-2024-234515/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/230936/jokerfolieadeux-posterart.jpg)
-    
-    Joker: Folie à Deux (2024)](https://www.fandango.com/joker-folie-a-deux-2024-230936/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234524/TF1_DOM_Online_Payoff_1-Sheet_05_FIN5_1.jpg)
-    
-    Transformers One (2024)](https://www.fandango.com/transformers-one-2024-234524/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237333/myheroacademia-yourenext-posterart.jpg)
-    
-    My Hero Academia: You're Next (2024)](https://www.fandango.com/my-hero-academia-youre-next-2024-237333/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237168/TERRIFIER-3-Hero-Theatrical-SM.jpg)
     
     Terrifier 3 (2024)](https://www.fandango.com/terrifier-3-2024-237168/movie-overview)
