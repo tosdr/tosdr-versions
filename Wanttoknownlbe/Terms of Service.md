@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/wordt-het-onvoorstelbare-binnenkort-voorstelbaar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/best-wishes/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
