@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/kinderarts-bevestigt-baby-vaccinatieschade/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/geef-ons-heden-ons-dagelijks-brood/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -197,6 +197,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
+
+##### **Arend Zeevat** reacts on:
+
+##### De ‘gruwelijke’, volgende mRNA-ontwikkelingen!!
+
+[Bill Gates mag voor een Nederlandse rechter verschijnen om z…](https://www.wanttoknow.nl/hoofdartikelen/de-gruwelijke-volgende-mrna-ontwikkelingen/comment-page-1/#comment-626344)
 
 ![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
 
@@ -445,14 +453,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Steun genomineerden voor de VVJ-Assange-prijzen!
 
 [Guido…..zet jezelf op de lijst.…](https://www.wanttoknow.nl/overige/steun-genomineerden-voor-de-vvj-assange-prijzen/comment-page-1/#comment-626313)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### Wim Abeln, in memoriam..
-
-[Er schijnt dan geen dood te zijn maar toch maken veel mensen…](https://www.wanttoknow.nl/effetjes/wim-abeln-in-memoriam/comment-page-1/#comment-626312)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
