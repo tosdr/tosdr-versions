@@ -10,9 +10,9 @@
 * [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
 
 1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Data](https://www.thehindu.com/data/)
-3. [Health](https://www.thehindu.com/sci-tech/health/)
-4. [Opinion](https://www.thehindu.com/opinion/)
+2. [Health](https://www.thehindu.com/sci-tech/health/)
+3. [Opinion](https://www.thehindu.com/opinion/)
+4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
 
 [FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton)[GIFT a Subscription![Gift](https://www.thehindu.com/theme/images/th-online/myaccount-gift-black-icon.svg "Icon")](https://www.thehindu.com/subscription/gift/?tpcc=giftasubs) [Subscribe](https://www.thehindu.com/subscription/) LOGIN [ACCOUNT ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/)[PREMIUM ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/) 
@@ -30,9 +30,9 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 ![HamberMenu](https://www.thehindu.com/theme/images/th-online/menu-hamber-icon.svg)
 
 1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Data](https://www.thehindu.com/data/)
-3. [Health](https://www.thehindu.com/sci-tech/health/)
-4. [Opinion](https://www.thehindu.com/opinion/)
+2. [Health](https://www.thehindu.com/sci-tech/health/)
+3. [Opinion](https://www.thehindu.com/opinion/)
+4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
 
 * [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
@@ -43,9 +43,9 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 * [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
 
 1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Data](https://www.thehindu.com/data/)
-3. [Health](https://www.thehindu.com/sci-tech/health/)
-4. [Opinion](https://www.thehindu.com/opinion/)
+2. [Health](https://www.thehindu.com/sci-tech/health/)
+3. [Opinion](https://www.thehindu.com/opinion/)
+4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
 
 * [News](https://www.thehindu.com/news/)
@@ -521,7 +521,7 @@ Read in App
 
 ##### Trending on The Hindu
 
-[News](https://www.thehindu.com/news/) [Full list of Hezbollah, Hamas leaders killed by Israel](https://www.thehindu.com/news/international/hezbollah-hamas-leaders-killed-in-war-full-list/article68767881.ece) [Full list of Haryana ministers](https://www.thehindu.com/elections/haryana-assembly/full-list-of-haryana-cabinet-ministers/article68764828.ece) [‘Grave mistake,’ says Netanyahu](https://www.thehindu.com/news/international/indias-remaining-diplomats-clearly-on-notice-canadas-foreign-minister/article68771706.ece) [BJP MP Tejasvi Surya seeks disciplinary action](https://www.thehindu.com/news/national/bjp-mp-tejasvi-surya-seeks-disciplinary-action-against-opposition-members-for-threatening-chief-of-waqf-bill-panel/article68765298.ece) [19-year-old woman dies in MP after being set on fire](https://www.thehindu.com/news/national/madhya-pradesh/19-year-old-woman-dies-in-madhya-pradesh-after-being-set-on-fire-on-dussehra-for-filing-molestation-case/article68768476.ece) [Omar Abdullah’s Cabinet passes J & K Statehood resolution](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cabinet-passes-statehood-resolution-in-first-meeting/article68772141.ece) [Hyderabad police crack down on Group I aspirants](https://www.thehindu.com/news/cities/Hyderabad/tension-flares-as-hyderabad-police-crack-down-on-group-i-aspirants/article68770376.ece) [BJP, Jan Suraaj Party, HAM(S) name candidates](https://www.thehindu.com/news/national/bihar/bjp-jan-suraaj-party-hams-name-candidates-for-bihar-bypolls-bjp-leader-rcp-singh-to-form-new-party/article68772718.ece) [India Canada row](https://www.thehindu.com/news/international/canadian-opposition-leader-says-justin-trudeau-using-nijjars-murder-to-divert-attention-from-other-controversies/article68769351.ece)
+[News](https://www.thehindu.com/news/) [BRICS 2024 LIVE, 23 Oct](https://www.thehindu.com/news/international/brics-summit-2024-kazan-russia-modi-china-putin-xi-jinping-live-updates-october-23-2024/article68785550.ece) [Cyclone DANA LIVE (23 Oct)](https://www.thehindu.com/news/national/west-bengal/cyclone-dana-odisha-west-bengal-weather-live-updates-october-23-2024/article68785544.ece) [PM Modi Xi Jinping meet](https://www.thehindu.com/news/national/pm-modi-to-hold-bilateral-meeting-with-chinese-president-xi-jinping-on-23-10-204/article68784331.ece) [BJP MP Tejasvi Surya seeks disciplinary action](https://www.thehindu.com/news/national/bjp-mp-tejasvi-surya-seeks-disciplinary-action-against-opposition-members-for-threatening-chief-of-waqf-bill-panel/article68765298.ece) [19-year-old woman dies in MP after being set on fire](https://www.thehindu.com/news/national/madhya-pradesh/19-year-old-woman-dies-in-madhya-pradesh-after-being-set-on-fire-on-dussehra-for-filing-molestation-case/article68768476.ece) [Omar Abdullah’s Cabinet passes J & K Statehood resolution](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cabinet-passes-statehood-resolution-in-first-meeting/article68772141.ece) [Hyderabad police crack down on Group I aspirants](https://www.thehindu.com/news/cities/Hyderabad/tension-flares-as-hyderabad-police-crack-down-on-group-i-aspirants/article68770376.ece) [BJP, Jan Suraaj Party, HAM(S) name candidates](https://www.thehindu.com/news/national/bihar/bjp-jan-suraaj-party-hams-name-candidates-for-bihar-bypolls-bjp-leader-rcp-singh-to-form-new-party/article68772718.ece) [India Canada row](https://www.thehindu.com/news/international/canadian-opposition-leader-says-justin-trudeau-using-nijjars-murder-to-divert-attention-from-other-controversies/article68769351.ece)
 
 ##### Trending on Group sites
 
