@@ -18,17 +18,9 @@ act.org,actprofile.org,act.org,actstudent.org,act.alertline.com,services.actstud
 * [Higher Ed](https://www.act.org/content/act/en/postsecondary-professionals.html)
 * [Blogs](https://www.act.org/content/act/en/act-blogs.html)
 * Open Search Form
-* [MyACT](https://my.act.org/)
+* Open Notifications
 
-   
-
-Search
-
-Search site...
-
-Close Search
-
-[Other ACT Services and Products](https://www.act.org/content/act/en/products-and-services.html)
+* 
 
 Terms of Use
 ============
