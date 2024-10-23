@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop+The Lord of the Rings™ Dwarven Desk Mat
+[Drop + Campfire Audio
 
-For the Dwarves.
+Coming Soon: Earphones with true star power.
 
-PREORDER NOW
+Request Now
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-dwarven-desk-mat)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-campfire-audio-darkstar-iems)
 
 Free Standard Shipping in the US on orders over $99
 
