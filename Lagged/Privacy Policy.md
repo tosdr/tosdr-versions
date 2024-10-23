@@ -237,11 +237,11 @@ Games you might like
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
-[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
+[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
