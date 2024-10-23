@@ -168,7 +168,7 @@
     
     Heatmaps: Visualizing User Engagement for Maximum Conversions](https://vwo.com/webinars/heatmaps-visualizing-user-engagement-maximum-conversions/)
     
-    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
+    [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
     
     Fireside Chat: VWO’s Enhanced Stats Engine and More!](https://vwo.com/webinars/fireside-chat-vwo-enhanced-stats-engine-more/)
     
@@ -186,9 +186,13 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-27-Eye-Opening-Cart-Abandonment-Statistics-You-Need-to-Know.jpg?tr=w-60,h-50)
+    
+    27 Eye-Opening Cart Abandonment Statistics You Need to Know](https://vwo.com/blog/cart-abandonment-statistics/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Key-usability-testing-statistics-to-revamp-your-design.jpg?tr=w-60,h-50)
     
-    Usability Testing Statistics and User Experience Insights to Transform Your Design](https://vwo.com/blog/usability-testing-statistics/)
+    25 Usability Testing Statistics and User Experience Insights to Transform Your Design](https://vwo.com/blog/usability-testing-statistics/)
     
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Leveraging-Session-Recordings_-A-Game-Changer-for-Conversion-Rate-Optimization-2-2.jpg?tr=w-60,h-50)
     
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Uncovering-the-Top-50-Website-Traffic-Statistics-1-1.jpg?tr=w-60,h-50)
     
     Website Traffic Statistics: Uncovering the Top 50 Stats about Web Traffic](https://vwo.com/blog/website-traffic-statistics/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-25-Customer-Data-Platform-Statistics-You-Need-to-Know-2024.jpg?tr=w-60,h-50)
-    
-    25 Customer Data Platform Statistics You Need to Know](https://vwo.com/blog/customer-data-platform-statistics/)
     
     Featured Blogs
     
