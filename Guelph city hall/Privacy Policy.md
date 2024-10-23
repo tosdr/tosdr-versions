@@ -71,7 +71,6 @@ Menu
         * [Available employment land](https://guelph.ca/business/economic-development-office/available-employment-land/)
         * [Bids and tenders](https://guelph.ca/business/bids-and-tenders)
         * [Business directory](https://guelph.ca/business/connect-guelph-business-directory/)
-        * [Community Profile (PDF)](https://guelph.ca/wp-content/uploads/Guelph-Community-Profile.pdf)
         * [Downtown business](https://guelph.ca/?page_id=4046)
     * [Economic Development](https://guelph.ca/business/economic-development-office/)
         * [Community Improvement Plans](https://guelph.ca/business/cip/)
