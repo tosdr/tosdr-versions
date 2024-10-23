@@ -97,33 +97,33 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 768 1
+0 782 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-yiffyjiffy2-5/)
+[](https://yiff-party.com/yiff/bandit-heeler-bob-heeler-radley-heeler-and-stripe-heeler-bluey-series-created-by-alexnik/)
 
-[directed by yiffyjiffy2](https://yiff-party.com/yiff-ai-premium/directed-by-yiffyjiffy2-5/)
+[bandit heeler, bob heeler, radley heeler, and stripe heeler (bluey (series)) created by alexnik](https://yiff-party.com/yiff/bandit-heeler-bob-heeler-radley-heeler-and-stripe-heeler-bluey-series-created-by-alexnik/)
 
-0 2 0
+0 3 0
 
-October 23, 2024
+October 24, 2024
 
-[](https://yiff-party.com/yiff/kyle-and-lenka-created-by-aquafuafu/)
+[](https://yiff-party.com/yiff/twilight-sparkle-rainbow-dash-fluttershy-pinkie-pie-applejack-and-etc-friendship-is-magic-and-etc-created-by-welost/)
 
-[kyle and lenka created by aquafuafu](https://yiff-party.com/yiff/kyle-and-lenka-created-by-aquafuafu/)
+[twilight sparkle, rainbow dash, fluttershy, pinkie pie, applejack, and etc (friendship is magic and etc) created by welost](https://yiff-party.com/yiff/twilight-sparkle-rainbow-dash-fluttershy-pinkie-pie-applejack-and-etc-friendship-is-magic-and-etc-created-by-welost/)
 
-0 97 0
+0 157 0
 
-September 23, 2024
+September 24, 2024
 
-[](https://yiff-party.com/yiff/krystal-directed-by-carnivalecloudmuncher/)
+[](https://yiff-party.com/yiff/theinda-created-by-alna-fratcher/)
 
-[krystal directed by carnivalecloudmuncher](https://yiff-party.com/yiff/krystal-directed-by-carnivalecloudmuncher/)
+[theinda created by alna fratcher](https://yiff-party.com/yiff/theinda-created-by-alna-fratcher/)
 
 0 131 0
 
-September 23, 2024
+September 24, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
