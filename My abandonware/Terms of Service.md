@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Das Haus der Rätsel](https://www.myabandonware.com/game/das-haus-der-raetsel-sfj)
+* [Mystic Defender](https://www.myabandonware.com/game/mystic-defender-893)
+* [Mr. Driller](https://www.myabandonware.com/game/mr-driller-d7e)
 * [Mouse Trap](https://www.myabandonware.com/game/mouse-trap-7rz)
 * [NBA Jam Extreme](https://www.myabandonware.com/game/nba-jam-extreme-dm0)
-* [Ping Pong](https://www.myabandonware.com/game/ping-pong-5pb)
-* [Zoo Tycoon 2: Ultimate Collection](https://www.myabandonware.com/game/zoo-tycoon-2-ultimate-collection-tal)
-* [Anime Freak FX: Vol.1](https://www.myabandonware.com/game/anime-freak-fx-vol-1-sy6)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
