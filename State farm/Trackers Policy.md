@@ -20,7 +20,7 @@ About Our Ads & Tracking
 
 * * *
 
-### We Use Common Tracking Technologies
+We Use Common Tracking Technologies
 
 We, along with our vendors, use several common tracking technologies on our website properties and in our mobile applications to collect information about your computer or device. These may include browser cookies, local shared objects, mobile advertising or device IDs, analytical tools, or other technologies. We use these tools to:
 
@@ -36,19 +36,19 @@ We, along with our vendors, use several common tracking technologies on our webs
 
 * * *
 
-### You Can Control Cookies
+You Can Control Cookies
 
 Your browser may give you the ability to control or reject certain types of browser cookies. How you do so depends on the type of cookie. Browser cookies, which are stored in your browser, can be controlled (deleted or blocked) by using your browser settings. Local shared objects are stored outside of your browser, elsewhere on your computing device. If you block cookies on your browser, certain website features may not work, including mechanisms used to honor advertising opt-out choices you may make.
 
 * * *
 
-### Our Ads May Be Served Based on Tracking
+Our Ads May Be Served Based on Tracking
 
 We may work with online advertising companies to show you relevant and useful ads including ads displayed on our website and the websites of other companies. These ads may be based on information collected by us or other parties (for example, when you register for a site). These ads may also be based on your activities on our website or on other websites. This is called "online behavioral advertising." Some companies that play a role in the online behavioral advertising process may have sufficient information to identify you. To learn more about online behavioral advertising, visit the [Digital Advertising Alliance](https://youradchoices.com/control "External link: YourAdChoices Gives You Control") website.
 
 * * *
 
-### You Can Limit Online Behavioral Advertising
+You Can Limit Online Behavioral Advertising
 
 State Farm® is committed to adhering to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. To limit online behavioral advertising/cross device tracking by participating companies and to learn more, visit the [Digital Advertising Alliance](http://www.aboutads.info/choices/#completed "External Link: Digital Advertising Alliance - Opt out") opt out page.
 
