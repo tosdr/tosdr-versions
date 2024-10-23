@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Shohei Ohtani’s 50/50 home run ball sells for nearly $4.4 million at NJ auction house](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-23-07h59m59s795.jpg?ve=1&tl=1)
+ [![Teen arrested in Dallas for San Antonio Sonic manager's murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1)
 
- ![Shohei Ohtani’s 50/50 home run ball sells for nearly $4.4 million at NJ auction house](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-23-07h59m59s795.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shohei-ohtanis-50-50-home-run-ball-sells-nearly-4-4-million-nj-auction-house)
+ ![Teen arrested in Dallas for San Antonio Sonic manager's murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
 
-### [Shohei Ohtani’s 50/50 home run ball sells for nearly $4.4 million at NJ auction house](https://www.fox4news.com/news/shohei-ohtanis-50-50-home-run-ball-sells-nearly-4-4-million-nj-auction-house)
+### [Teen arrested in Dallas for San Antonio Sonic manager's murder](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
 
- [![Record heat and no rain: DFW faces second-hottest October in history](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/record-highs.png?ve=1&tl=1)
+ [![How gas prices have changed in Dallas in the last week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/03/32/18/gas_pump_generic-1.jpg?ve=1&tl=1)
 
- ![Record heat and no rain: DFW faces second-hottest October in history](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/record-highs.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dfw-second-warmest-october-record-no-rain-cooldowns-sight)
+ ![How gas prices have changed in Dallas in the last week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/03/32/18/592/333/gas_pump_generic-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-gas-prices-have-changed-dallas-last-week)
 
-### [Record heat and no rain: DFW faces second-hottest October in history](https://www.fox4news.com/weather/dfw-second-warmest-october-record-no-rain-cooldowns-sight)
+### [How gas prices have changed in Dallas in the last week](https://www.fox4news.com/news/how-gas-prices-have-changed-dallas-last-week)
 
- [![Harvey Weinstein due back in court for hearing ahead of retrial](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/GettyImages-994565124.jpg?ve=1&tl=1)
+ [![Does your vote count if you die before Election Day?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2159953393.jpg?ve=1&tl=1)
 
- ![Harvey Weinstein due back in court for hearing ahead of retrial](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/592/333/GettyImages-994565124.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-harvey-weinstein-court-hearing-retrial)
+ ![Does your vote count if you die before Election Day?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2159953393.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/does-your-vote-count-if-you-die-before-election-day)
 
-### [Harvey Weinstein due back in court for hearing ahead of retrial](https://www.fox4news.com/news/nyc-harvey-weinstein-court-hearing-retrial)
+### [Does your vote count if you die before Election Day?](https://www.fox4news.com/election/does-your-vote-count-if-you-die-before-election-day)
 
- [![Walmart employee found dead inside walk-in oven at store: police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/walmart.jpg?ve=1&tl=1)
+ [![Golfer killed by falling tree on golf course](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1238845412-scaled.jpg?ve=1&tl=1)
 
- ![Walmart employee found dead inside walk-in oven at store: police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/walmart.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/walmart-employee-found-dead-inside-walk-in-oven-store-police)
+ ![Golfer killed by falling tree on golf course](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1238845412-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/golfer-killed-falling-tree-golf-course)
 
-### [Walmart employee found dead inside walk-in oven at store: police](https://www.fox4news.com/news/walmart-employee-found-dead-inside-walk-in-oven-store-police)
+### [Golfer killed by falling tree on golf course](https://www.fox4news.com/news/golfer-killed-falling-tree-golf-course)
 
- [![Dodgers legend Fernando Valenzuela dies at 63](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/getty-fernando-valenzuela.jpg?ve=1&tl=1)
+ [![17-year-old Arlington boy dies in crash; police say he was not wearing a seatbelt](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
 
- ![Dodgers legend Fernando Valenzuela dies at 63](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/getty-fernando-valenzuela.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/fernando-valenzuela-dodgers-dies)
+ ![17-year-old Arlington boy dies in crash; police say he was not wearing a seatbelt](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/17-year-old-boy-arlington-boy-dies-crash-not-wearing-seatbelt)
 
-### [Dodgers legend Fernando Valenzuela dies at 63](https://www.fox4news.com/sports/fernando-valenzuela-dodgers-dies)
+### [17-year-old Arlington boy dies in crash; police say he was not wearing a seatbelt](https://www.fox4news.com/news/17-year-old-boy-arlington-boy-dies-crash-not-wearing-seatbelt)
 
 ###### [News](https://www.fox4news.com/news)
 
