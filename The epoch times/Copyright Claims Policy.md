@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
+    
+    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745922-Kamala-Harris-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
+* [Tulsi Gabbard Announces Switch to GOP, Cites Trump’s Leadership and Patriotism](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
+    
+    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Tulsi Gabbard Announces Switch to GOP, Cites Trump’s Leadership and Patriotism](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tulsi Gabbard Announces Switch to GOP, Cites Trump’s Leadership and Patriotism](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746131-Gabbard-GettyImages-2180363808-205x123.jpg.webp)](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
+* [Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://www.theepochtimes.com/business/tariffs-would-raise-consumer-prices-harm-us-exports-yellen-5745839)
+    
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://img.theepochtimes.com/assets/uploads/2024/02/14/id5587413-GettyImages-1910715167-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/tariffs-would-raise-consumer-prices-harm-us-exports-yellen-5745839)
+* [Election Battles for State Legislature Supermajorities Heat Up](https://www.theepochtimes.com/article/election-battles-for-state-legislature-supermajorities-heat-up-5743892)
+    
+    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    
+    [![Election Battles for State Legislature Supermajorities Heat Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Election Battles for State Legislature Supermajorities Heat Up](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745903-US_State-supermajorities-205x123.jpg.webp)](https://www.theepochtimes.com/article/election-battles-for-state-legislature-supermajorities-heat-up-5743892)
+* [Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://www.theepochtimes.com/us/biden-highlights-prescription-drug-savings-in-new-hampshire-speech-5746026)
+    
+    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5746029-Biden-and-Bernie-Sanders-in-NH-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-highlights-prescription-drug-savings-in-new-hampshire-speech-5746026)
+* [Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://www.theepochtimes.com/china/taiwan-rejects-south-africas-demand-to-move-de-facto-embassy-from-capital-5745652)
+    
+    5hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    
+    [![Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5746038-Lin-Chia-LungKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-rejects-south-africas-demand-to-move-de-facto-embassy-from-capital-5745652)
+* [5 Exercises to Help You Feel Young in Your 50s](https://www.theepochtimes.com/health/5-exercises-to-help-you-feel-young-in-your-50s-5696162)
+    
+    6hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
+    
+    [![5 Exercises to Help You Feel Young in Your 50s](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Exercises to Help You Feel Young in Your 50s](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742782-GettyImages-1425645837-205x123.jpg.webp)](https://www.theepochtimes.com/health/5-exercises-to-help-you-feel-young-in-your-50s-5696162)
+* [Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://www.theepochtimes.com/article/day-in-photos-a-military-send-off-a-dispersing-flock-of-pigeons-and-a-building-collapse-5745653)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745977-GettyImages-2179480422-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-military-send-off-a-dispersing-flock-of-pigeons-and-a-building-collapse-5745653)
 * [McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/uploads/2024/10/id5737740-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
+    ![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/uploads/2022/07/1.download-195-205x123.jpg.webp)](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
 * [Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://www.theepochtimes.com/business/federal-judge-delays-shutdown-of-us-oil-and-gas-operations-in-gulf-of-mexico-5745800)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://img.theepochtimes.com/assets/uploads/2023/04/03/id5167623-oil-gas-drilling-platform--205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-judge-delays-shutdown-of-us-oil-and-gas-operations-in-gulf-of-mexico-5745800)
-* [Denny’s to Close 150 Underperforming Restaurants by End of 2025](https://www.theepochtimes.com/business/dennys-to-close-150-underperforming-restaurants-by-end-of-2025-post-5745883)
-    
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Denny’s to Close 150 Underperforming Restaurants by End of 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Denny’s to Close 150 Underperforming Restaurants by End of 2025](https://img.theepochtimes.com/assets/uploads/2024/04/15/id5629306-Dennys-205x123.jpg.webp)](https://www.theepochtimes.com/business/dennys-to-close-150-underperforming-restaurants-by-end-of-2025-post-5745883)
-* [US Citizen Calls for Help to Rescue Critically Ill Family Member Jailed for His Faith in China](https://www.theepochtimes.com/china/us-citizen-calls-for-help-to-rescue-critically-ill-family-member-jailed-for-his-faith-in-china-5745720)
-    
-    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
-    
-    [![US Citizen Calls for Help to Rescue Critically Ill Family Member Jailed for His Faith in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Citizen Calls for Help to Rescue Critically Ill Family Member Jailed for His Faith in China](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745721-Karen-Kang-2-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-citizen-calls-for-help-to-rescue-critically-ill-family-member-jailed-for-his-faith-in-china-5745720)
-* [Massive Lithium Deposits Found in Southwestern Arkansas](https://www.theepochtimes.com/us/massive-lithium-deposits-found-in-southwestern-arkansas-5745911)
-    
-    NEW By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
-    
-    [![Massive Lithium Deposits Found in Southwestern Arkansas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Massive Lithium Deposits Found in Southwestern Arkansas](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745974-lithium-mine-GettyImages-1244204108-205x123.jpg)](https://www.theepochtimes.com/us/massive-lithium-deposits-found-in-southwestern-arkansas-5745911)
-* [CDC Warns of Rising Mycoplasma Pneumoniae Levels so Far This Year](https://www.theepochtimes.com/health/cdc-warns-of-rising-mycoplasma-pneumoniae-levels-so-far-this-year-5745850)
-    
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![CDC Warns of Rising Mycoplasma Pneumoniae Levels so Far This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![CDC Warns of Rising Mycoplasma Pneumoniae Levels so Far This Year](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5684895-cdc-headquarters-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-warns-of-rising-mycoplasma-pneumoniae-levels-so-far-this-year-5745850)
-* [Giuliani Ordered to Turn Assets Over to Former Georgia Election Workers](https://www.theepochtimes.com/us/giuliani-ordered-to-turn-assets-over-to-former-georgia-election-workers-5745847)
-    
-    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Giuliani Ordered to Turn Assets Over to Former Georgia Election Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Giuliani Ordered to Turn Assets Over to Former Georgia Election Workers](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607364-12152023-DSC00873-Rudy-Giuliani-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/giuliani-ordered-to-turn-assets-over-to-former-georgia-election-workers-5745847)
-* [People Lacking a Sense of Smell Breathe Differently, Study Finds](https://www.theepochtimes.com/health/people-lacking-a-sense-of-smell-breathe-differently-study-finds-5743744)
-    
-    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
-    
-    [![People Lacking a Sense of Smell Breathe Differently, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![People Lacking a Sense of Smell Breathe Differently, Study Finds](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745902-shutterstock_2521706413_anosmia_smell_breathe_flowers_sense_senses_olfaction_olfactory-205x123.jpg.webp)](https://www.theepochtimes.com/health/people-lacking-a-sense-of-smell-breathe-differently-study-finds-5743744)
-* [Wisconsin Election Commission Sued Over Security Concerns About Its Online Registration System](https://www.theepochtimes.com/us/lawsuit-seeks-to-shut-down-wisconsins-online-voter-registration-system-due-to-security-concerns-5745750)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Wisconsin Election Commission Sued Over Security Concerns About Its Online Registration System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wisconsin Election Commission Sued Over Security Concerns About Its Online Registration System](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5704841-GettyImages-2133610443-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawsuit-seeks-to-shut-down-wisconsins-online-voter-registration-system-due-to-security-concerns-5745750)
-* [Honda Recalls More Than 720,000 Vehicles for High-Pressure Fuel Pump Defect](https://www.theepochtimes.com/us/honda-recalls-more-than-720000-vehicles-for-high-pressure-fuel-pump-defect-5745747)
-    
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Honda Recalls More Than 720,000 Vehicles for High-Pressure Fuel Pump Defect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Honda Recalls More Than 720,000 Vehicles for High-Pressure Fuel Pump Defect](https://img.theepochtimes.com/assets/uploads/2024/05/16/id5651760-Honda-2024-AccordKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/honda-recalls-more-than-720000-vehicles-for-high-pressure-fuel-pump-defect-5745747)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
