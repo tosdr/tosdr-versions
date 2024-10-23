@@ -118,7 +118,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -450,7 +449,7 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 1. \-61%](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam)
+1.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 1. \-62%](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam)
     
     **[Cult of the Lamb PC](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
     
@@ -480,7 +479,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![HELLDIVERS 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-18t175517.723.jpg)   No 4. \-17%](https://www.cdkeys.com/pc/helldivers-2-pc-steam)
+4.    [![HELLDIVERS 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-18t175517.723.jpg)   No 4. \-19%](https://www.cdkeys.com/pc/helldivers-2-pc-steam)
     
     **[HELLDIVERS 2 PC](https://www.cdkeys.com/pc/helldivers-2-pc-steam "HELLDIVERS 2 PC")**
     
