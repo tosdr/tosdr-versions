@@ -178,16 +178,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [B5 Systems Brings the Glow for Halloween](https://www.thegunpage.com/b5-systems-brings-the-glow-for-halloween/10611374)
+* [Everything Gun Owners Need to Know About Trump, Vance, Harris, and Walz Before Voting](https://www.thegunpage.com/everything-gun-owners-need-to-know-about-trump-vance-harris-and-walz-before-voting/10611372)
+* [The FBI’s Revised Crime Stats Were Made On The Sneak](https://www.thegunpage.com/the-fbis-revised-crime-stats-were-made-on-the-sneak/10611370)
+* [Get Loaded For Bear With Hornady Backcountry Defense Ammo](https://www.thegunpage.com/get-loaded-for-bear-with-hornady-backcountry-defense-ammo/10611376)
+* [New Gunpowder, Primer Production In Arkansas](https://www.thegunpage.com/new-gunpowder-primer-production-in-arkansas/10611377)
 * [Six Ways Communities Can Reduce Gun Crimes; Surprisingly None Call for Restrictions on Firearms](https://www.thegunpage.com/six-ways-communities-can-reduce-gun-crimes-surprisingly-none-call-for-restrictions-on-firearms/10611365)
+* [NRA Announces National Matches Venue Changes For 2025](https://www.thegunpage.com/nra-announces-national-matches-venue-changes-for-2025/10611378)
 * [Singapore Police Force Selects Angstadt Arms MDP-9 GEN2](https://www.thegunpage.com/singapore-police-force-selects-angstadt-arms-mdp-9-gen2/10611361)
 * [MI: Court Gives Middle Finger To Supreme Court’s Bruen Standard](https://www.thegunpage.com/mi-court-gives-middle-finger-to-supreme-courts-bruen-standard/10611359)
 * [Galco’s Walkabout 3.0 IWB Holster For SIG-Sauer P365XL](https://www.thegunpage.com/galcos-walkabout-3-0-iwb-holster-for-sig-sauer-p365xl/10611362)
-* [Winter is Coming: Are We Running Out Of Gunpowder?](https://www.thegunpage.com/winter-is-coming-are-we-running-out-of-gunpowder/10611357)
-* [New Zealand gun owners disarmed for thoughtcrimes](https://www.thegunpage.com/new-zealand-gun-owners-disarmed-for-thoughtcrimes/10611355)
-* [Hornady’s New Aeromatch Option: No Adjustments Needed](https://www.thegunpage.com/hornadys-new-aeromatch-option-no-adjustments-needed/10611358)
-* [Review: Mountain Billy Gun Lab GOAT-15 Rifle](https://www.thegunpage.com/review-mountain-billy-gun-lab-goat-15-rifle/10611354)
-* [TFB Review: XS Sights’ New Pro Series Big Dot Sights on the Glock 48](https://www.thegunpage.com/tfb-review-xs-sights-new-pro-series-big-dot-sights-on-the-glock-48/10611351)
-* [POTD: AR9 PCCs By Italian Armi Dallera Custom](https://www.thegunpage.com/potd-ar9-pccs-by-italian-armi-dallera-custom/10611352)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -229,6 +229,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/#comment-782801)
 * charles wilkins on [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/#comment-782799)
 * charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
 * MarkJ on [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/#comment-782784)
@@ -237,7 +238,6 @@ Recent Comments
 * Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
 * Stanley Warner on [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/#comment-782764)
 * charles wilkins on [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/#comment-782763)
-* Stanley Warner on [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/#comment-782744)
 
 [Close](#)
 
