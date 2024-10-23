@@ -77,12 +77,12 @@ Search Search Search
     * [Login](https://returningveterans.org/volunteer-providers/login)
 * Help-RVP
     * [Help RVP](https://returningveterans.org/help-rvp)
-    * [Donate](https://returningveterans.org/help-rvp/donate)
+    * [Donate Today](https://returningveterans.org/help-rvp/donate)
+    * [Become a Monthly Donor](https://returningveterans.org/help-rvp/all-for-one)
     * [Donate Stock](https://returningveterans.org/help-rvp/donate-stock)
     * [Become a Supporter](https://returningveterans.org/help-rvp/become-a-supporter)
-    * [Current Supporters](https://returningveterans.org/help-rvp/current-supporters)
-    * [Join All For One](https://returningveterans.org/help-rvp/all-for-one)
     * [Make a Bequest](https://returningveterans.org/help-rvp/bequest)
+    * [Current Supporters](https://returningveterans.org/help-rvp/current-supporters)
     * [Why I Give](https://returningveterans.org/help-rvp/why-i-give)
     * [Share Hope](https://returningveterans.org/help-rvp/share-hope)
     * [Fundraise for RVP](https://returningveterans.org/help-rvp/fundraise-for-rvp)
@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Ted Cimral](https://cdn.returningveterans.org/images/honor/cogbill_001.jpg)  
+![The Marines](https://cdn.returningveterans.org/images/honor/Marine_Corps.jpg)  
 
-**In Honor of Ted Cimral**  
-United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of The Marines**  
+United States Marine Corps  
+Submitted by David Oschman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/23/24 - 8:19:47  
+Printed 10/23/24 - 2:22:49  
 © 2024 Returning Veterans Project
