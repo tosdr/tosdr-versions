@@ -398,11 +398,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/mi-ne-mozemo-sada-stati/cacak-003.jpg?itok=OuQZma7i)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/mi-ne-mozemo-sada-stati)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/turoristicka-agencija/ta7.jpg?itok=roaNfhHL)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/turoristicka-agencija)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bajaga.jpg?itok=jtucVb2I)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/rezidents.jpg?itok=CoknQnJ2)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
