@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![26 Okra Water Recipes to Control Your Blood Sugar | Okra water is exactly what it sounds like — water infused with slices of fresh okra. It's a natural, plant-based beverage. Also known as lady fingers or gumbo, okra offers many health benefits, from controlling blood sugar levels, to improving digestive and heart health, to hydrating and detoxifying the body. Click to learn how to make homemade okra water, plus 26 unique flavor combinations to satisfy your taste buds.](https://www.merakilane.com/wp-content/uploads/2024/10/4-3.png)](https://www.merakilane.com/26-okra-water-recipes-to-control-your-blood-sugar/)
+    
+    ### [26 Okra Water Recipes to Control Your Blood Sugar](https://www.merakilane.com/26-okra-water-recipes-to-control-your-blood-sugar/)
+    
     [![9 Stretches and Exercises to Improve Your Flexibility | If you feel stiff and inflexible, you’re not alone. Flexibility isn’t just necessary for dancers and gymnasts, it’s essential for everyday movement. Flexibility is also a key component to injury prevention. Not sure how to improve your flexibility? We've got you covered. We're sharing 5 stretches and 4 exercises you can easily add to your daily routine to improve mobility and prevent injury. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/10/1-1.png)](https://www.merakilane.com/9-stretches-and-exercises-to-improve-your-flexibility/)
     
     ### [9 Stretches and Exercises to Improve Your Flexibility](https://www.merakilane.com/9-stretches-and-exercises-to-improve-your-flexibility/)
@@ -74,10 +78,6 @@ Main Menu
     [![15 Heart Healthy Pistachio Butter Recipes Worth Trying | If you love creamy spreads, pistachio butter is a heart-healthy option that is rich in antioxidants, high in protein, and helps with blood sugar control. In this post, you'll learn how to make homemade pistachio butter, and we're also sharing our favorite pistachio butter recipes with a mix of sweet and savory spreads, dishes, and desserts (pistachio cookies are delish!) that are sure to satisfy your tastebuds.](https://www.merakilane.com/wp-content/uploads/2024/10/3-2.png)](https://www.merakilane.com/15-heart-healthy-pistachio-butter-recipes-worth-trying/)
     
     ### [15 Heart Healthy Pistachio Butter Recipes Worth Trying](https://www.merakilane.com/15-heart-healthy-pistachio-butter-recipes-worth-trying/)
-    
-    [![10 Diet and Lifestyle Changes to Make in Your 40s | If you're in perimenopause (or fully in menopause!), weight loss and maintenance requires a different approach as your hormones change. Think: strength training over cardio, prioritizing nutrient-rich foods, nervous system work and stress management, and regular exercise for a healthy body and mind. Whether you’re focusing on fitness, nutrition, or your mental well-being, these tips will help you thrive as you age gracefully.](https://www.merakilane.com/wp-content/uploads/2024/10/7.png)](https://www.merakilane.com/10-diet-and-lifestyle-changes-to-make-in-your-40s/)
-    
-    ### [10 Diet and Lifestyle Changes to Make in Your 40s](https://www.merakilane.com/10-diet-and-lifestyle-changes-to-make-in-your-40s/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
