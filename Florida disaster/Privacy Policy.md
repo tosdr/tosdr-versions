@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, October 22, 2024**
+**Wednesday, October 23, 2024**
 
-**...High Pressure Continues to Domiante Statewide...Isolated Showers To Move Onshore Along Eastern Peninsula; Will Remain Light and Brief...Senstive Wildfire Conditions Across Panhandle and Western Big Bend With Near Critical Relative Humidity Values...Breezy Winds Developing Across Peninsula Throughout the Day...Temperatures Gradually Increasing From Last Few Days...Minor to Moderate Coastal Flooding Persists Along Northeast Coast, Keys and Tidal St. Johns River Due to King Tides and Onshore Winds; Coastal Flood Warning Continues for Tidal St. Johns...Moderate to Major Riverine Flooding Continues Along Withlacoochee, Cypress Creek and St. Johns River...National Hurricane Center (NHC) Continues to Monitor One (1) Named System in the Atlantic Basin; No Direct Threat to Florida...**
+**...High Pressure Continues to Domiante Statewide...Isolated Showers To Move Onshore Along East Coast and I-95 Corridor; Expected to Remain Light and Brief...Sensitive Wildfire Conditions Across Panhandle Following Dry Conditions Over Last Several Days...Minor to Moderate Coastal Flooding Persists Along Northeast Coast, Keys and Tidal St. Johns River Due to King Tides and Onshore Winds; Coastal Flood Warning Continues for Tidal St. Johns...Moderate to Major Riverine Flooding Continues Along Withlacoochee, Cypress Creek and St. Johns River...No Tropical Cyclone Development Expected Over the Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
