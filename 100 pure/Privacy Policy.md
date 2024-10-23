@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2401 reviews (2402)
+2403 reviews (2403)
 
 $28.00 $28.00
 
@@ -354,7 +354,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1129 reviews (1129)
+1130 reviews (1130)
 
 $45.00
 
@@ -490,7 +490,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Free Argan Oil Creamy Cleanser and Argan Oil with any purchase of $75+ USE CODE: ARGAN](https://www.100percentpure.com/products/argan-oil-gwp "https://www.100percentpure.com/products/argan-oil-gwp")
+[FREE 2 PC GIFT WITH PURCHASE OF $120+ USE CODE: PMDUO](https://www.100percentpure.com/products/pm-treatment "https://www.100percentpure.com/products/pm-treatment")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
