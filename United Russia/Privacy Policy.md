@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Брянский](https://er.ru/activity/news?tags%5B0%5D=1095010) [#Кобзев](https://er.ru/activity/news?tags%5B0%5D=12505) [#Иркутская область](https://er.ru/activity/news?tags%5B0%5D=1277) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#выборы-2024](https://er.ru/activity/news?tags%5B0%5D=1095023)
 
-Сегодня 16:48
+23.10.24
 
 [![«Единая Россия» вместе с Минэнерго будут работать над привлечением инвестиций в теплоэлектроэнергетику](https://cdn.er.ru/media/news/October2024/4jvx9rnbnR3mikk7IsRD-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-minenergo-budut-rabotat-nad-privlecheniem-investicij-v-teploelektroenergetiku)
 
@@ -313,7 +313,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#Минэнерго](https://er.ru/activity/news?tags%5B0%5D=4112) [#энергетика](https://er.ru/activity/news?tags%5B0%5D=266) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 15:38
+23.10.24
 
 [![«Единая Россия» держит на контроле вопрос обновления лифтового хозяйства в стране](https://cdn.er.ru/media/news/October2024/L1u9BibG8ZHVJFrrEw0Y-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-derzhit-na-kontrole-vopros-obnovleniya-liftovogo-hozyajstva-v-strane)
 
@@ -321,7 +321,7 @@
 
 [#Ревенко](https://er.ru/activity/news?tags%5B0%5D=53034) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#лифтовое оборудование](https://er.ru/activity/news?tags%5B0%5D=91155) [#лифты](https://er.ru/activity/news?tags%5B0%5D=7350) [#многоквартирныедома](https://er.ru/activity/news?tags%5B0%5D=113466) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581)
 
-Сегодня 14:48
+23.10.24
 
 [![«Единая Россия» и партия «Белая Русь» отправили гуманитарную помощь в Курск](https://cdn.er.ru/media/news/October2024/yx7GseN9OCAPW4dy1lNu-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-partiya-belaya-rus-otpravili-gumanitarnuyu-pomosh-v-kursk)
 
@@ -329,7 +329,7 @@
 
 [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Беларусь](https://er.ru/activity/news?tags%5B0%5D=39204) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
 
-Сегодня 14:00
+23.10.24
 
 [![Минстрой поддержал предложение «Единой России» по обязательному обеспечению жилищного строительства коммунальной инфраструктурой](https://cdn.er.ru/media/news/October2024/T4NxGIXsy31gVgjhENah-small.jpg)](https://er.ru/activity/news/minstroj-podderzhal-predlozhenie-edinoj-rossii-po-obyazatelnomu-obespecheniyu-zhilishnogo-stroitelstva-kommunalnoj-infrastrukturoj)
 
@@ -337,7 +337,7 @@
 
 [#Разворотнева](https://er.ru/activity/news?tags%5B0%5D=11486) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#коммунальная инфраструктура](https://er.ru/activity/news?tags%5B0%5D=41774) [#жилищноестроительство](https://er.ru/activity/news?tags%5B0%5D=110649) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717)
 
-Сегодня 13:55
+23.10.24
 
 [![Екатерина Стенякина: Более тысячи бойцов СВО стали участниками программы «Единой России» по социокультурной реабилитации](https://cdn.er.ru/media/news/October2024/tRqn331vezp4dqyrTMYj-small.jpg)](https://er.ru/activity/news/ekaterina-stenyakina-bolee-tysyachi-bojcov-svo-stali-uchastnikami-programmy-edinoj-rossii-po-sociokulturnoj-reabilitacii)
 
@@ -345,7 +345,7 @@
 
 [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 12:00
+23.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
