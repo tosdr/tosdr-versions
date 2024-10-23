@@ -154,13 +154,8 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-Help Close the Gap
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201109%20624'%3E%3C/svg%3E)
 
-Every dollar you give today keeps fearless, independent news on the air as we head into the most pivotal final days of the election season. Thank you for standing with FSTV at this critical moment. Donate now to help close the gap before it’s too late.  
-**[Donate Now!](https://freespeech.org/donate-all/?utm_source=popup)**
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20645%2097'%3E%3C/svg%3E)
-
-![](https://freespeech.org/wp-content/uploads/2023/06/With-FSTV-5-1024x154.jpg)](https://freespeech.org/donate-all/?utm_source=popup)
+![](https://freespeech.org/wp-content/uploads/2023/06/Untitled-design-1-1-1024x576.png)
 
 ×
