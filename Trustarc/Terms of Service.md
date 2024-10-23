@@ -57,7 +57,7 @@ Javascript must be enabled for the correct page display
     Stay ahead of privacy and compliance regulations. Simplify data privacy management and ensure data governance with cutting-edge apps.
     
     * [PrivacyCentral](https://trustarc.com/products/privacy-data-governance/privacycentral/) Centralize privacy tasks, automate your program, and seamlessly align with laws and regulations.
-    * [Data Inventory Hub & Risk Profile](https://trustarc.com/products/privacy-data-governance/data-inventory-mapping/) Gain full visibility and control of your data and accurately identify and mitigate risks.
+    * [Data Mapping & Risk Manager](https://trustarc.com/products/privacy-data-governance/data-inventory-mapping/) Gain full visibility and control of your data and accurately identify and mitigate risks.
     * [Assessment Manager](https://trustarc.com/products/privacy-data-governance/assessment-manager/) Automate and score privacy assessments like PIAs and AI Risk, streamlining your compliance workflow.
     * [Nymity Research](https://trustarc.com/products/privacy-data-governance/nymity-research/) Get instant access to the latest in privacy regulations, legal summaries, and operational templates.
     
