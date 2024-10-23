@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/using-a-graphics-score-composition-worksheet/)
+ [](https://schoolsmusicmarket.com/product/music-spelling-find-the-missing-letter/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/12-fun-world-christmas-songs-for-kids/)
+ [](https://schoolsmusicmarket.com/product/instrument-family-music-jeopardy-great-for-subs/)
 
 ###### Browse By Year/Grade
 
