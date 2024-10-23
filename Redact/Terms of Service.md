@@ -1,6 +1,6 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in \-147:-40:-57
+Expires in \-162:-36:-23
 
 Redact for Discord is free for users in Russia and Turkey Click for more info](https://carnelian-society-f72.notion.site/How-to-access-Redact-Premium-in-Russia-T-rkiye-for-deleting-discord-free-11a0acb4639c80aa91fbc7ce251822ed)
 
@@ -13,7 +13,6 @@ Services 
 * [Features](https://redact.dev/features)
 * [Pricing](https://redact.dev/pricing)
 * [Business](https://redact.dev/business)
-* [AI Opt out](https://aioptout.co/)
 * [Contact](https://redact.dev/contact)
 * [How it works](https://redact.dev/how-it-works)
 * [Log in](https://redact.dev/login)
@@ -147,11 +146,11 @@ Join our Discord server and we will directly answer your questions in real time!
 
 [Join Redact Discord](https://redact.dev/discord)
 
-[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[AI Opt out](https://aioptout.co/)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)[Contact](https://redact.dev/contact)
+[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)[Contact](https://redact.dev/contact)
 
 Company
 
-[Blog](https://redact.dev/blog)[Contact Us](https://redact.dev/contact)
+[Blog](https://redact.dev/blog)[Contact Us](https://redact.dev/contact)[AI Opt Out](https://aioptout.co/)
 
 Media
 
