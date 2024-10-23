@@ -472,6 +472,7 @@ Ecotricity is recommended by
 * [Greenwashing](https://www.ecotricity.co.uk/our-green-energy/greenwashing)
 * [Our fuel mix](https://www.ecotricity.co.uk/our-green-energy/our-fuel-mix)
 * [Refer a friend and get free account credit](https://www.ecotricity.co.uk/refer-a-friend)
+* [Live generation](https://www.ecotricity.co.uk/our-green-energy/live-generation)
 
 * Your green energy
     
