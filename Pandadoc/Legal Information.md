@@ -1,6 +1,6 @@
-[Log in](https://app.pandadoc.com/login/?lng=en-US) [Help center](https://support.pandadoc.com/hc/en-us) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+[Log in](https://app.pandadoc.com/login/?lng=en-US) [Help center](https://support.pandadoc.com/hc/en-us) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
 
-English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
 
 [PandaDocPandaDoc](https://www.pandadoc.com/)
 
@@ -613,6 +613,6 @@ Company
 * [Instagram](https://www.instagram.com/pandadochq/ "Instagram")
 * [YouTube](https://www.youtube.com/user/thePandaDoc "Youtube")
 
-English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
 
 [Looks like you haven't picked a time for your personalized demo. Book a time!](https://www.pandadoc.com/getdemo/)
