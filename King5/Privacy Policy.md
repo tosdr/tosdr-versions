@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_16x9.jpg) ![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_360x203.jpg)](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
+        
+        #### [Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
+        
     *  [![](https://media.king5.com/assets/KING/images/0e53f99d-192d-4fc0-bc51-0045fd3bcc77/20241023T003409/0e53f99d-192d-4fc0-bc51-0045fd3bcc77_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0e53f99d-192d-4fc0-bc51-0045fd3bcc77/20241023T003409/0e53f99d-192d-4fc0-bc51-0045fd3bcc77_360x203.jpg)](https://www.king5.com/article/news/local/parents-fall-city-homicide-identified/281-c7c0f8ab-08d4-41f3-a8c7-ca8253aaf690)
         
         #### [Adult victims in Fall City quintuple homicide identified](https://www.king5.com/article/news/local/parents-fall-city-homicide-identified/281-c7c0f8ab-08d4-41f3-a8c7-ca8253aaf690)
-        
-    *  [![](https://media.king5.com/assets/KING/images/b56d8146-36ea-45b9-827b-784ce9e7fdd9/20241023T051208/b56d8146-36ea-45b9-827b-784ce9e7fdd9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b56d8146-36ea-45b9-827b-784ce9e7fdd9/20241023T051208/b56d8146-36ea-45b9-827b-784ce9e7fdd9_360x203.jpg)](https://www.king5.com/article/news/local/marysville-school-district-holds-first-public-meeting-potential-closures/281-7287212f-7152-4d90-b479-199869ade2f2)
-        
-        #### [Marysville School District holds first community meeting over potential closures](https://www.king5.com/article/news/local/marysville-school-district-holds-first-public-meeting-potential-closures/281-7287212f-7152-4d90-b479-199869ade2f2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d25ff808-c96b-4ddf-aea2-624cc9000484/20241022T233024/d25ff808-c96b-4ddf-aea2-624cc9000484_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d25ff808-c96b-4ddf-aea2-624cc9000484/20241022T233024/d25ff808-c96b-4ddf-aea2-624cc9000484_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/52392fc7-9172-4aaa-8648-07efc6434aa0/20241023T125719/52392fc7-9172-4aaa-8648-07efc6434aa0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/52392fc7-9172-4aaa-8648-07efc6434aa0/20241023T125719/52392fc7-9172-4aaa-8648-07efc6434aa0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+48°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
