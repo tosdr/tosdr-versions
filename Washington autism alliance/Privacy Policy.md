@@ -130,18 +130,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 * Upcoming Events
     ---------------
     
-    October 2024
-    
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABJAQAAAAD3EuK1AAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUTBUAAAFtAABeE2PfAAAAABJRU5ErkJggg==)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/06/Picture1-2-e1720727584426-150x73.png)](https://washingtonautismalliance.org/events/neurodiversity-employment-860/?occurrence=2024-10-23)
-    
-    Oct 23 2024
-    
-    #### [Neurodiversity & Employment](https://washingtonautismalliance.org/events/neurodiversity-employment-860/?occurrence=2024-10-23)
-    
-    Zoom https://zoom.us (please download the app and check your internet connectivity)
-    
     November 2024
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
