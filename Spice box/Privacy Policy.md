@@ -43,9 +43,9 @@ More
 * [Catalogue](https://www.spicebox.ca/login.php)
 * [](# "Show All")
 
-* * [](http://www.instagram.com/spiceboxtoys)
+* * [](https://www.instagram.com/spiceboxkits)
     * [](https://www.facebook.com/spiceboxtoys)
-    * [](http://youtube.com/@spiceboxtoys3996)
+    * [](https://www.youtube.com/@spiceboxkits)
     * [](https://twitter.com/spiceboxbooks)
 
 * [LOGIN | REGISTER](https://www.spicebox.ca/login.php)
@@ -202,9 +202,9 @@ OK
 
 ##### Let's Stay Connected
 
-* [](http://www.instagram.com/spiceboxtoys)
+* [](https://www.instagram.com/spiceboxkits)
 * [](https://www.facebook.com/spiceboxtoys)
-* [](http://youtube.com/@spiceboxtoys3996)
+* [](https://www.youtube.com/@spiceboxkits)
 * [](https://twitter.com/spiceboxbooks)
 
 ##### [![spicebox.ca](https://cdn11.bigcommerce.com/s-cua30qk4xf/images/stencil/288x100/spicebox_nobg_1616529772__54599.original.png "spicebox.ca")](https://www.spicebox.ca/)
@@ -256,7 +256,7 @@ Account
     
      [Forgot your password?](https://www.spicebox.ca/login.php?action=reset_password) [Create Account](https://www.spicebox.ca/login.php?action=create_account)
     
-* * [](http://www.instagram.com/spiceboxtoys)
+* * [](https://www.instagram.com/spiceboxkits)
     * [](https://www.facebook.com/spiceboxtoys)
-    * [](http://youtube.com/@spiceboxtoys3996)
+    * [](https://www.youtube.com/@spiceboxkits)
     * [](https://twitter.com/spiceboxbooks)
