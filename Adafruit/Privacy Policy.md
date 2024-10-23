@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of unplugged soldering iron.](https://cdn-shop.adafruit.com/230x173/6045-08.jpg)[iFixit FixHub - Power Series Smart Soldering Iron
+    
+    $79.95](https://www.adafruit.com/product/6045)
+    
     ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
     
     $3.00](https://www.adafruit.com/product/6056)
@@ -86,10 +90,6 @@ Search
     ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 19.5V.](https://cdn-shop.adafruit.com/230x173/6033-05.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 20V
     
     $2.25](https://www.adafruit.com/product/6033)
-    
-    ![Angled shot of 2 meter long black woven USB-C cable.](https://cdn-shop.adafruit.com/230x173/6029-02.jpg)[USB C to USB C Cable w/ 100W Watt Display - 2 meter Black Woven
-    
-    $17.95](https://www.adafruit.com/product/6029)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I want to live in a world I like, I have to help create it”
+“ The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves”
 
-[Caroline Caldwell](https://www.adafruit.com/quotes)
+[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
 
 [](https://www.adafruit.com/about)
 
