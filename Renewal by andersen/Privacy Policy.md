@@ -18,31 +18,6 @@
 * [Request a Quote](https://www.andersenwindows.com/request-a-quote/)
     
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271440%27%20height=%27260%27/%3e)![Andersen Windows and Doors Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Andersen Windows and Doors Logo](https://edge.sitecorecloud.io/andersencorporation-c47i754m/media/Project/AndersenCorporation/AndersenWindows/AndersenWindows/images/brand-launch-2020/andersen_logo_tm_rectangle_rgb.svg?h=260&iar=0&w=1440&rev=04a11c712c8e4f5cb1812cec160e6fa6)](https://www.andersenwindows.com/)
-
-* Windows & Doors
-    
-* Inspiration
-    
-* Parts & support
-    
-* [Technical documents](https://www.andersenwindows.com/for-professionals/documents/)
-    
-* For professionals
-    
-* [Request a Quote](https://www.andersenwindows.com/request-a-quote/)
-    
-
-* [My Favorites (0)](https://www.andersenwindows.com/windows-and-doors/your-perfect-match/favorites/)
-* [Contact Us](https://www.andersenwindows.com/support/contact-us/)
-* [Where to Buy](https://locations.andersenwindows.com/where-to-buy/)
-* [Visit Renewal by Andersen](https://www.renewalbyandersen.com/windows-doors/replacement-division.aspx?&Rba_source=Organic%20Web%20%E2%80%93%20Appt%20Request&Rba_Breakdown=Andersen%20Lead&utm_source=andersenwindows.com&utm_medium=referral&utm_content=utility_nav)
-* [Find A Contractor](https://locations.andersenwindows.com/andersen-certified-contractors)
-* [Become A Certified Contractor](https://www.andersenwindows.com/for-professionals/certified-contractor/)
-* [1-800-426-4261](tel:1-800-426-4261)
-
 1. [Home](https://www.andersenwindows.com/)
 2. [Support](https://www.andersenwindows.com/support/)
 3. Privacy
