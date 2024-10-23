@@ -1,15 +1,15 @@
-Tuesday, October 22 2024
+Wednesday, October 23 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Wednesday, October 23, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-23-2024/)
+* [Pentagon’s Trillion Dollar Fighter Jet Program Hasn’t Had Mission-Ready Plane In Six Years, Watchdog Says](https://www.conservativedailynews.com/2024/10/pentagons-trillion-dollar-fighter-jet-program-hasnt-had-mission-ready-plane-in-six-years-watchdog-says/)
+* [Trump’s Polling Momentum Could Be Nail In Coffin For Dem’s Hopes To Hold Senate Majority](https://www.conservativedailynews.com/2024/10/trumps-polling-momentum-could-be-nail-in-coffin-for-dems-hopes-to-hold-senate-majority/)
+* [Bernie Sanders’ Triple Idiocy: Minimum Wage, Hairbrained College Push, Cancel Student Debt & FaceBook’s Meta Enables it.](https://www.conservativedailynews.com/2024/10/bernie-sanders-triple-idiocy-minimum-wage-hairbrained-college-push-cancel-student-debt-facebooks-meta-enables-it/)
+* [Why Trump Is Right About Tariffs — Again](https://www.conservativedailynews.com/2024/10/why-trump-is-right-about-tariffs-again/)
+* [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/)
 * [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
 * [Harris’s Town Hall Moderator Admits Questions Were ‘Predetermined’](https://www.conservativedailynews.com/2024/10/harriss-town-hall-moderator-admits-questions-were-predetermined/)
-* [Like Celebrities, Unions Should Stay Out Of Politics](https://www.conservativedailynews.com/2024/10/like-celebrities-unions-should-stay-out-of-politics/)
-* [President Joe Biden’s Schedule for Tuesday, October 22, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-22-2024/)
-* [Kamala Harris Must Not be Commander in Chief](https://www.conservativedailynews.com/2024/10/kamala-harris-must-not-be-commander-in-chief/)
-* [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/)
-* [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
-* [Medal of Honor Monday: Navy Boatswain’s Mate 1st Class George Cholister](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-navy-boatswains-mate-1st-class-george-cholister/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -127,6 +127,42 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-23-2024/)
+    
+    [President Joe Biden’s Schedule for Wednesday, October 23, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-23-2024/)
+    
+    October 23, 2024
+    
+* [![F-35B taking off from Assault Craft](https://www.conservativedailynews.com/wp-content/uploads/2018/01/F-35B-taking-off-from-Assault-Craft.png)](https://www.conservativedailynews.com/2024/10/pentagons-trillion-dollar-fighter-jet-program-hasnt-had-mission-ready-plane-in-six-years-watchdog-says/)
+    
+    [Pentagon’s Trillion Dollar Fighter Jet Program Hasn’t Had Mission-Ready Plane In Six Years, Watchdog Says](https://www.conservativedailynews.com/2024/10/pentagons-trillion-dollar-fighter-jet-program-hasnt-had-mission-ready-plane-in-six-years-watchdog-says/)
+    
+    October 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/U.S.-Senate-220x150.jfif)](https://www.conservativedailynews.com/2024/10/trumps-polling-momentum-could-be-nail-in-coffin-for-dems-hopes-to-hold-senate-majority/)
+    
+    [Trump’s Polling Momentum Could Be Nail In Coffin For Dem’s Hopes To Hold Senate Majority](https://www.conservativedailynews.com/2024/10/trumps-polling-momentum-could-be-nail-in-coffin-for-dems-hopes-to-hold-senate-majority/)
+    
+    October 22, 2024
+    
+* [![Bernie-Sanders](https://www.conservativedailynews.com/wp-content/uploads/2017/07/Bernie-Sanders-Stupid.jpg)](https://www.conservativedailynews.com/2024/10/bernie-sanders-triple-idiocy-minimum-wage-hairbrained-college-push-cancel-student-debt-facebooks-meta-enables-it/)
+    
+    [Bernie Sanders’ Triple Idiocy: Minimum Wage, Hairbrained College Push, Cancel Student Debt & FaceBook’s Meta Enables it.](https://www.conservativedailynews.com/2024/10/bernie-sanders-triple-idiocy-minimum-wage-hairbrained-college-push-cancel-student-debt-facebooks-meta-enables-it/)
+    
+    October 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/10/why-trump-is-right-about-tariffs-again/)
+    
+    [Why Trump Is Right About Tariffs — Again](https://www.conservativedailynews.com/2024/10/why-trump-is-right-about-tariffs-again/)
+    
+    October 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5681-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/)
+    
+    [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/)
+    
+    October 22, 2024
+    
 * [![Kamala Harris hiding basement](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-bk-basment-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
     
     [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
@@ -139,45 +175,12 @@ Recent Posts
     
     October 22, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/06-dem-outrage-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/genital-madness/)
-    
-    [Genital Madness](https://www.conservativedailynews.com/2024/10/genital-madness/)
-    
-    October 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5670-scaled-e1729527019613-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/like-celebrities-unions-should-stay-out-of-politics/)
-    
-    [Like Celebrities, Unions Should Stay Out Of Politics](https://www.conservativedailynews.com/2024/10/like-celebrities-unions-should-stay-out-of-politics/)
-    
-    October 22, 2024
-    
-* [![Donald Trump McDonalds kamala harris](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv102224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/eating-her-lunch/)
-    
-    [Eating Her Lunch](https://www.conservativedailynews.com/2024/10/eating-her-lunch/)
-    
-    October 22, 2024
-    
-* [![Kamala Harris Liz Cheney 2024 election Joy polls](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/wash-outs/)
-    
-    [Wash Outs](https://www.conservativedailynews.com/2024/10/wash-outs/)
-    
-    October 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-secular-keep-me-religious/)
-    
-    [The Secular Keep Me Religious](https://www.conservativedailynews.com/2024/10/the-secular-keep-me-religious/)
-    
-    October 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/05/Kitchen-Sink-unsplash-220x150.png)](https://www.conservativedailynews.com/2024/10/the-simple-diy-guide-to-conquering-clogged-drains/)
-    
-    [The Simple DIY Guide to Conquering Clogged Drains](https://www.conservativedailynews.com/2024/10/the-simple-diy-guide-to-conquering-clogged-drains/)
-    
-    October 22, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Silencer Central BANISH Speed K 5.56](https://www.thegunpage.com/tfb-review-silencer-central-banish-speed-k-5-56/10611382)
+* [POTD: Danish Soldiers With Gevær M/10 C8IUR by Colt Canada](https://www.thegunpage.com/potd-danish-soldiers-with-gevaer-m-10-c8iur-by-colt-canada/10611383)
+* [HOT GAT or FUDD CRAP? Diamonds and Gold or Tired and Old?](https://www.thegunpage.com/hot-gat-or-fudd-crap-diamonds-and-gold-or-tired-and-old/10611384)
 * [B5 Systems Brings the Glow for Halloween](https://www.thegunpage.com/b5-systems-brings-the-glow-for-halloween/10611374)
 * [Everything Gun Owners Need to Know About Trump, Vance, Harris, and Walz Before Voting](https://www.thegunpage.com/everything-gun-owners-need-to-know-about-trump-vance-harris-and-walz-before-voting/10611372)
 * [The FBI’s Revised Crime Stats Were Made On The Sneak](https://www.thegunpage.com/the-fbis-revised-crime-stats-were-made-on-the-sneak/10611370)
@@ -185,9 +188,6 @@ Recent Posts
 * [New Gunpowder, Primer Production In Arkansas](https://www.thegunpage.com/new-gunpowder-primer-production-in-arkansas/10611377)
 * [Six Ways Communities Can Reduce Gun Crimes; Surprisingly None Call for Restrictions on Firearms](https://www.thegunpage.com/six-ways-communities-can-reduce-gun-crimes-surprisingly-none-call-for-restrictions-on-firearms/10611365)
 * [NRA Announces National Matches Venue Changes For 2025](https://www.thegunpage.com/nra-announces-national-matches-venue-changes-for-2025/10611378)
-* [Singapore Police Force Selects Angstadt Arms MDP-9 GEN2](https://www.thegunpage.com/singapore-police-force-selects-angstadt-arms-mdp-9-gen2/10611361)
-* [MI: Court Gives Middle Finger To Supreme Court’s Bruen Standard](https://www.thegunpage.com/mi-court-gives-middle-finger-to-supreme-courts-bruen-standard/10611359)
-* [Galco’s Walkabout 3.0 IWB Holster For SIG-Sauer P365XL](https://www.thegunpage.com/galcos-walkabout-3-0-iwb-holster-for-sig-sauer-p365xl/10611362)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -229,6 +229,7 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782805)
 * Stanley Warner on [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/#comment-782801)
 * charles wilkins on [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/#comment-782799)
 * charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
@@ -237,7 +238,6 @@ Recent Comments
 * Jeff L. on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782767)
 * Stanley Warner on [Kamala Is Absolutely Correct That Our Nation’s Future Must Not Be Burdened By What Her Administration Has “Been”](https://www.conservativedailynews.com/2024/10/kamala-is-absolutely-correct-that-our-nations-future-must-not-be-burdened-by-what-her-administration-has-been/#comment-782765)
 * Stanley Warner on [How Much Is Too Much Pain](https://www.conservativedailynews.com/2024/10/how-much-is-too-much-pain/#comment-782764)
-* charles wilkins on [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/#comment-782763)
 
 [Close](#)
 
