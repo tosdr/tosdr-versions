@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-625480804267679174569ecb898c2f19
+864e023aa8e519de41e27822116c05aa
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm pale pink oval pearls](https://sojourner.biz/images/cache/pearls/PE0064.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-pale-pink-oval-pearls.html "12 mm pale pink oval pearls")
+[![15 mm to 20 mm fat white stick pearls](https://sojourner.biz/images/cache/pearls/PE0060.200.jpg)](https://sojourner.biz/beads/pearls/15-mm-to-20-mm-fat-white-stick-pearls.html "15 mm to 20 mm fat white stick pearls")
 
-#### [12 mm pale pink oval pearls](https://sojourner.biz/beads/pearls/12-mm-pale-pink-oval-pearls.html "12 mm pale pink oval pearls")
+#### [15 mm to 20 mm fat white stick pearls](https://sojourner.biz/beads/pearls/15-mm-to-20-mm-fat-white-stick-pearls.html "15 mm to 20 mm fat white stick pearls")
 
-$27.50
+$22.00
 
 ### Best Sellers
 
