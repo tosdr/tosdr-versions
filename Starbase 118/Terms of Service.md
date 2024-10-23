@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
+
+### [USS Constitution – Second Officer sounds after attack by imposters](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
+
+Federation News Service October 23, 2024
+
+MARCHLANDS – Red alert sounds as imposters attempt to take over the USS Constitution The crew of the USS Constitution-B NCC 3012-B found themselves in
+
+[Read More »](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2013/07/StarfleetAcademyflag-e1648664193765-768x480.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-academy-graduates-459/)
 
 ### [New Academy Graduates](https://www.starbase118.net/2024/new-academy-graduates-459/)
@@ -377,18 +389,6 @@ Federation News Service October 22, 2024
 DEEP SPACE NINE — After surviving the battle of Deep Space 33, the crew of the USS Khitomer retire to Deep Space 9, but not
 
 [Read More »](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
-
-### [Award winner – Aine Sherlock, USS Chin’toka (Prestigious Service- Security)](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
-
-srichardsciencenerd118 October 21, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-aine-sherlock-uss-chintoka-prestigious-service-security/)
 
 Ready to get started?
 ---------------------
