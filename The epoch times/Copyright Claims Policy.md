@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [6 Takeaways from Harris Interview on NBC](https://www.theepochtimes.com/us/6-takeaways-from-harris-interview-on-nbc-5745927)
+    
+    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    
+    [![6 Takeaways from Harris Interview on NBC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![6 Takeaways from Harris Interview on NBC](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745755-GettyImages-2179224084-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/6-takeaways-from-harris-interview-on-nbc-5745927)
 * [Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745922-Kamala-Harris-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
-* [Tulsi Gabbard Announces Switch to GOP, Cites Trump’s Leadership and Patriotism](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
+    ![Latino Votes at Stake as Trump Hosts Roundtable, Harris Talks Economy](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745553-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/latino-votes-at-stake-as-trump-hosts-roundtable-harris-talks-economy-5746104)
+* [Tulsi Gabbard Announces Switch to GOP](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
     
-    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![Tulsi Gabbard Announces Switch to GOP, Cites Trump’s Leadership and Patriotism](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Tulsi Gabbard Announces Switch to GOP](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tulsi Gabbard Announces Switch to GOP, Cites Trump’s Leadership and Patriotism](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746131-Gabbard-GettyImages-2180363808-205x123.jpg.webp)](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
+    ![Tulsi Gabbard Announces Switch to GOP](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746131-Gabbard-GettyImages-2180363808-205x123.jpg.webp)](https://www.theepochtimes.com/us/tulsi-gabbard-announces-switch-to-gop-cites-trumps-leadership-and-patriotism-5746107)
 * [Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://www.theepochtimes.com/business/tariffs-would-raise-consumer-prices-harm-us-exports-yellen-5745839)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Tariffs Would Raise Consumer Prices, Harm US Exports: Yellen](https://img.theepochtimes.com/assets/uploads/2024/02/14/id5587413-GettyImages-1910715167-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/tariffs-would-raise-consumer-prices-harm-us-exports-yellen-5745839)
 * [Election Battles for State Legislature Supermajorities Heat Up](https://www.theepochtimes.com/article/election-battles-for-state-legislature-supermajorities-heat-up-5743892)
     
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    8hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
     [![Election Battles for State Legislature Supermajorities Heat Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Election Battles for State Legislature Supermajorities Heat Up](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745903-US_State-supermajorities-205x123.jpg.webp)](https://www.theepochtimes.com/article/election-battles-for-state-legislature-supermajorities-heat-up-5743892)
 * [Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://www.theepochtimes.com/us/biden-highlights-prescription-drug-savings-in-new-hampshire-speech-5746026)
     
-    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    9hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Highlights Prescription Drug Cost Savings in New Hampshire Speech](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5746029-Biden-and-Bernie-Sanders-in-NH-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-highlights-prescription-drug-savings-in-new-hampshire-speech-5746026)
 * [Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://www.theepochtimes.com/china/taiwan-rejects-south-africas-demand-to-move-de-facto-embassy-from-capital-5745652)
     
-    5hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    11hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
     [![Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Taiwan Rejects South Africa’s Demand to Move de Facto Embassy From Capital](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5746038-Lin-Chia-LungKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-rejects-south-africas-demand-to-move-de-facto-embassy-from-capital-5745652)
 * [5 Exercises to Help You Feel Young in Your 50s](https://www.theepochtimes.com/health/5-exercises-to-help-you-feel-young-in-your-50s-5696162)
     
-    6hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
+    12hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
     
     [![5 Exercises to Help You Feel Young in Your 50s](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Exercises to Help You Feel Young in Your 50s](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742782-GettyImages-1425645837-205x123.jpg.webp)](https://www.theepochtimes.com/health/5-exercises-to-help-you-feel-young-in-your-50s-5696162)
 * [Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://www.theepochtimes.com/article/day-in-photos-a-military-send-off-a-dispersing-flock-of-pigeons-and-a-building-collapse-5745653)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: A Military Send-Off; a Dispersing Flock of Pigeons; and a Building Collapse](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745977-GettyImages-2179480422-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-military-send-off-a-dispersing-flock-of-pigeons-and-a-building-collapse-5745653)
 * [McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![McDonald’s Removes Quarter Pounder From Menu In Multiple States Due to E. Coli Outbreak](https://img.theepochtimes.com/assets/uploads/2022/07/1.download-195-205x123.jpg.webp)](https://www.theepochtimes.com/business/mcdonalds-removes-quarter-pounder-from-menu-in-multiple-states-due-to-e-coli-outbreak-5745929)
-* [Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://www.theepochtimes.com/business/federal-judge-delays-shutdown-of-us-oil-and-gas-operations-in-gulf-of-mexico-5745800)
-    
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Delays Shutdown of US Oil and Gas Operations in Gulf of Mexico](https://img.theepochtimes.com/assets/uploads/2023/04/03/id5167623-oil-gas-drilling-platform--205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-judge-delays-shutdown-of-us-oil-and-gas-operations-in-gulf-of-mexico-5745800)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
