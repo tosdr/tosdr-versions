@@ -58,7 +58,7 @@ Menu
 Terms of use
 ============
 
-Last edited: Nov 18, 2021
+Last edited: Oct 23, 2024
 
 I. Acceptance of Terms
 ----------------------
@@ -169,7 +169,7 @@ You agree to indemnify, defend, and hold harmless Cornell Lab of Ornithology; it
 VII. Miscellaneous
 ------------------
 
-Any and all disputes, with the exception of copyright claims, arising out of, under or in connection with this Agreement, including without limitation, its validity, interpretation, performance, or breach, shall be settled by final and binding arbitration in Tompkins County New York, pursuant to the rules of the American Arbitration Association. Judgment upon any award rendered may be entered in the highest court of the forum, state or federal, having jurisdiction. This agreement, its validity and effect, shall be interpreted under and governed by the laws of the District of Columbia, without regard to its conflict of laws provisions, and you agree that the arbitrators shall award all costs of arbitration, including reasonable attorneys’ fees plus legal rate-of-interest, to the successful party. Copyright claims shall be brought in the Federal court having jurisdiction. If you are an agent for or an employee of a non-U.S. company but operate in a place of business in the U.S. or its territories, you expressly agree that any dispute regarding this contract shall be adjudicated within the U.S. in the manner described here. If Cornell Lab of Ornithology is obligated to go to court, rather than arbitration, to enforce any of its rights, you agree to reimburse Cornell Lab of Ornithology for its respective legal fees, costs, and disbursements if Cornell Lab of Ornithology is successful.
+Any and all disputes arising out of, under or in connection with this Agreement, including without limitation, its validity, interpretation, performance, or breach, shall be governed and construed with the laws of New York State, without regard to conflict of law principles. All such claims or disputes will be heard and resolved exclusively in the courts of the State of New York in Tompkins County or the United States District Court for the Northern District of New York. You consent to the jurisdiction of those courts, including, but not limited to, the in personam jurisdiction of those courts, and waive any objection to such jurisdiction on the grounds of venue or forum non conveniens, or the absence of in personam jurisdiction.
 
 These Terms and any other operating rules or terms currently posted on the Services constitute the entire agreement between Cornell Lab of Ornithology and the users of the Services, and supersede all previous written or oral agreements between the parties with respect to such subject matter. No action of Cornell Lab of Ornithology may be construed as a waiver of any part of these Terms of Use. Should any of the above paragraphs be unenforceable, the other paragraphs will remain in full force and effect.
 
