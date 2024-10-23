@@ -229,11 +229,11 @@ Móvil
 
 Dispositivos
 
-* [Ofertas móviles](https://www.movistar.es/moviles/ "Ofertas móviles")
-* [Ofertas Smartwaches](https://www.movistar.es/smartwatches/ "Ofertas Smartwaches")
-* [Ofertas Tablets](https://www.movistar.es/tablets/ "Ofertas Tablets")
-* [Ofertas Smart TV](https://www.movistar.es/smart-tv/ "Ofertas Smart TV")
-* [Compramos tu móvil](https://www.movistar.es/compramos-tu-movil/ "Compramos tu móvil")
+* [Móviles](https://www.movistar.es/moviles/ "Móviles")
+* [Smartwaches](https://www.movistar.es/smartwatches/ "Smartwaches")
+* [Tablets](https://www.movistar.es/tablets/ "Tablets")
+* [Smart TV](https://www.movistar.es/smart-tv/ "Smart TV")
+* [Vender móvil](https://www.movistar.es/compramos-tu-movil/ "Vender móvil")
 
 Más productos Movistar
 
