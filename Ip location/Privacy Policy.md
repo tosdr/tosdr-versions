@@ -152,7 +152,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Social Media (68)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (40)](https://www.iplocation.net/blog/category/social-media-marketing)
 * [Software (164)](https://www.iplocation.net/blog/category/software)
-* [Software Development (136)](https://www.iplocation.net/blog/category/software-development)
+* [Software Development (137)](https://www.iplocation.net/blog/category/software-development)
 * [Software Testing (10)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (9)](https://www.iplocation.net/blog/category/mobile-app-development)
 * [Web Development (4)](https://www.iplocation.net/blog/category/web-development)
