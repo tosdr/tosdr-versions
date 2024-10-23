@@ -205,21 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [DIME, Flash Flash Revolution, MASH, 4chan, and UK Parents](https://www.somethingawful.com/weekend-web/dime-flash-flash/1/)
-* [Pretentious Games](https://www.somethingawful.com/photoshop-phriday/pretentious-games/1/)
-* [Aliens Unlimited: Galaxy Guide (1997)](https://www.somethingawful.com/dungeons-and-dragons/aliens-unlimited-galaxy/1/)
-* [Diaper Dreams and Sissy Kiss](https://www.somethingawful.com/weekend-web/sissykiss-diaper-dreams/1/)
-* [Descrambled](https://www.somethingawful.com/email-pranks/email-spam-descrambled/)
+* [World War Mew!](https://www.somethingawful.com/photoshop-phriday/pokemon-war-combat/)
+* [Modern Girl](https://www.somethingawful.com/photoshop-phriday/modern-girl/1/)
+* [The Philadelphia DogSperiment!](https://www.somethingawful.com/photoshop-phriday/dog-travelling-experiment/)
+* [Gaming Website is Totally Unashamed to Announce the 5 Hottest Video Game Butts](https://www.somethingawful.com/news/sexism-gaming-culture/1/)
+* [Hackneyed History](https://www.somethingawful.com/photoshop-phriday/hackneyed-history/1/)
 
 ### Popular Threads
 
 ### Random Articles
 
-* [Antonin Scalia, Gaming Hero](https://www.somethingawful.com/news/scalia-video-games/)
-* [Are You the Last Table in the Restaurant?](https://www.somethingawful.com/news/closing-restaurant-last/)
-* [8 Things the Simpsons Predicted for 2016](https://www.somethingawful.com/news/simpsons-predictions-future/)
-* [What Is THREADRIPPER?](https://www.somethingawful.com/news/what-threadripper-amd/)
-* [Unreal 2: The Awakening](https://www.somethingawful.com/game-reviews/unreal-awakening/1/)
+* [Sizzling Summer Goodies from the Bradford Exchange](https://www.somethingawful.com/news/bradford-exchange-summer/)
+* [Knives & Swords I Use for Defense](https://www.somethingawful.com/news/knife-sword-blade/1/)
+* [Bilderberg](https://www.somethingawful.com/awful-links/awful-link-2296/)
+* [L. Ron Hubbard: The Poet](https://www.somethingawful.com/awful-links/awful-link-1084/)
+* [The Voice Of The Internet: Xbox Live Jerk](https://www.somethingawful.com/flash-tub/voice-internet-xbox/)
 
 [Random!](https://www.somethingawful.com/random/)
 
