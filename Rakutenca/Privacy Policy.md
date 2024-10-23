@@ -1,4 +1,6 @@
-[Booking.com: Mini break. Maximum memories. Save 15% or more on your 2024 late escape + 5% Cash Back
+[Booking.com: Save 15% or more on your end of year getaway! + 5% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/booking-com?store=booking-com&sourceName=sitewide-sticky-header)[Booking.com: Mini break. Maximum memories. Save 15% or more on your 2024 late escape + 5% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/booking-com?store=booking-com&sourceName=sitewide-sticky-header)
 
