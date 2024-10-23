@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander About Kamala’s Catchy Campaign Slogan](https://patriotpost.us/alexander/111329-about-kamalas-catchy-campaign-slogan-2024-10-23)
 *      [Christine Flowers We See What We Want to See With Our Candidates](https://patriotpost.us/opinion/111326-we-see-what-we-want-to-see-with-our-candidates-2024-10-23)
 *      [Gary Bauer Lies of the Left](https://patriotpost.us/opinion/111312-lies-of-the-left-2024-10-23)
 *      [Rich Lowry Mail-In Ballots Have Made Our Election Tallying a National Embarrassment](https://patriotpost.us/opinion/111314-mail-in-ballots-have-made-our-election-tallying-a-national-embarrassment-2024-10-23)
@@ -136,6 +137,7 @@ Last Updated: November 15, 2011.
 *      [Star Parker How Iran Steals Its Citizens’ Wealth to Finance Terror](https://patriotpost.us/opinion/111308-how-iran-steals-its-citizens-wealth-to-finance-terror-2024-10-23)
 *      [John Stossel Play Time/Jail Time](https://patriotpost.us/opinion/111307-play-time-slash-jail-time-2024-10-23)
 *      [Betsy McCaughey New York’s Path to Recovery](https://patriotpost.us/opinion/111306-new-yorks-path-to-recovery-2024-10-23)
+*      [The Washington Stand ‘Jesus Is Lord’? A Tale of Two Rallies](https://patriotpost.us/opinion/111330-jesus-is-lord-a-tale-of-two-rallies-2024-10-23)
 *      [Guest Commentary The Irony of Skylar Deleod](https://patriotpost.us/opinion/111325-the-irony-of-skylar-deleod-2024-10-23)
 
 * [More Opinion >](https://patriotpost.us/opinion)
@@ -150,9 +152,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
