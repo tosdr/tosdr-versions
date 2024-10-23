@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your favorite part of AN’s forum sig XI (3,007)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (3,007 posts)")
-* [CAFA X Everything Thread (21)](https://forum.nationstates.net/viewtopic.php?t=557031&f=7&view=unread#unread ""CAFA X Everything Thread" (21 posts)")
-* [Create a word based on last two letters (415)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (415 posts)")
-* [What religion does AU follow? (OOC) (1,075)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (1,075 posts)")
-* [Your nation's punishment for the abov… (3,056)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (3,056 posts)")
+* [Transformers: Electric Trepidation (10,018)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,018 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (1,346)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (1,346 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (31)](https://forum.nationstates.net/viewtopic.php?t=556127&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - IC" (31 posts)")
+* [What Music Are You Listening to? v18 (12,381)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (12,381 posts)")
+* [(R) Deliberate thread derailment via… (6)](https://forum.nationstates.net/viewtopic.php?t=557350&f=16&view=unread#unread ""(R) Deliberate thread derailment via trolling in progress" (6 posts)")
 
 Advertisement
 
