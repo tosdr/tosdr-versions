@@ -64,36 +64,8 @@ Häufig gesucht
 Hauptnavigation
 ---------------
 
-* [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de)
-* ### [Schwerpunkte](https://www.bundesregierung.de/breg-de/schwerpunkte)
-    
-    * [Krieg in der Ukraine](https://www.bundesregierung.de/breg-de/schwerpunkte/krieg-in-der-ukraine)
-    * [Energie und Klimaschutz](https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz)
-    * [Europa](https://www.bundesregierung.de/breg-de/schwerpunkte/europa)
-    * [Umgang mit Desinformation](https://www.bundesregierung.de/breg-de/schwerpunkte/umgang-mit-desinformation)
-    * [Wir entlasten Deutschland](https://www.bundesregierung.de/breg-de/schwerpunkte/entlastung-fuer-deutschland)
-    
-    [mehr anzeigen](#)
-    
-* ### [Themen](https://www.bundesregierung.de/breg-de/themen)   
-    
-    * [EURO 2024](https://www.bundesregierung.de/breg-de/themen/euro-2024)
-    * [Arbeit und Soziales](https://www.bundesregierung.de/breg-de/themen/arbeit-und-soziales)
-    * [Migration und Integration](https://www.bundesregierung.de/breg-de/themen/migration-und-integration)
-    * [Sicherheit und Verteidigung](https://www.bundesregierung.de/breg-de/themen/sicherheit-und-verteidigung)
-    * [Internationale Zusammenarbeit – G7/G20](https://www.bundesregierung.de/breg-de/themen/internationale-zusammenarbeit-g7-g20)
-    * [Nachhaltigkeit](https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik)
-    * [Forschung](https://www.bundesregierung.de/breg-de/themen/forschung)
-    * [Digitaler Fortschritt](https://www.bundesregierung.de/breg-de/themen/digitalisierung)
-    * [Tipps für Verbraucher](https://www.bundesregierung.de/breg-de/themen/tipps-fuer-verbraucher) 
-    * [Bund-Länder-Beratungen](https://www.bundesregierung.de/breg-de/themen/mpk)
-    * [Deutsche Einheit](https://www.bundesregierung.de/breg-de/themen/deutsche-einheit)
-    * [75 Jahre Grundgesetz](https://www.bundesregierung.de/breg-de/themen/75-jahre-grundgesetz)
-    * [Erinnern und Gedenken](https://www.bundesregierung.de/breg-de/themen/erinnern-und-gedenken)
-    * [Coronavirus in Deutschland](https://www.bundesregierung.de/breg-de/themen/coronavirus)
-    * [KanzlerGESPRÄCH](https://www.bundesregierung.de/breg-de/themen/kanzler-gespraech)  
-    
-    [mehr anzeigen](#)
+* [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de) 
+* ### [Schwerpunkte der Bundesregierung](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung)  
     
 * ### [Bundeskanzler](https://www.bundeskanzler.de/bk-de "Externer Link: Internetseite des Bundeskanzlers (Öffnet neues Fenster)")
     
@@ -215,8 +187,7 @@ Folgen Sie uns
 
 [Zur Übersichtsseite](https://www.bundesregierung.de/breg-de/service "Zurück zur Übersichtsseite")
 
-* [Krieg in der Ukraine](https://www.bundesregierung.de/breg-de/schwerpunkte/krieg-in-der-ukraine)
-* [Energie und Klimaschutz](https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz)
+* [Schwerpunkte der Bundesregierung](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung)  
 * [Regierungsmonitor](https://www.bundesregierung.de/breg-de/bundesregierung/regierungsmonitor)
 * [Bundeskanzler](https://www.bundeskanzler.de/bk-de "Externer Link: Internetseite des Bundeskanzlers (Öffnet neues Fenster)")
 * [Service](https://www.bundesregierung.de/breg-de/service)
@@ -326,7 +297,7 @@ Beitrag teilen
 * [X per X teilen, Datenschutzhinweis](https://x.com/intent/post?text=Datenschutzhinweis&url=https://www.bundesregierung.de/breg-de/service/datenschutzhinweis/datenschutzhinweis-1532578&hashtags=Scholz,BuReg "per X teilen, Datenschutzhinweis")
 * Link kopieren
 
-1. [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de)
+1. [Bundesregierung | Startseite](https://www.bundesregierung.de/breg-de) 
 2. [Service](https://www.bundesregierung.de/breg-de/service)
 3. [Datenschutzhinweis](https://www.bundesregierung.de/breg-de/service/datenschutzhinweis)
 
