@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 22, 2024**
+**October 23, 2024**
 
 * * *
 
@@ -251,25 +251,25 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
-
-[Geochemistry](https://www.sciencedaily.com/news/earth_climate/chemistry/)
-
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
+
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
   
 
