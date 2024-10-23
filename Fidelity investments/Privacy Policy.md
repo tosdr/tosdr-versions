@@ -76,7 +76,7 @@
     * [Crypto](https://digital.fidelity.com/prgw/digital/research/crypto)
     * [Fixed Income, Bonds & CDs](https://fixedincome.fidelity.com/ftgw/fi/FILanding)
     * [ETFs](https://digital.fidelity.com/prgw/digital/research/etf)
-    * [Options](https://researchtools.fidelity.com/ftgw/mloptions/goto/optionChain)
+    * [Options Log In Required](https://digital.fidelity.com/ftgw/digital/options-home/)
     * [Markets & Sectors](https://digital.fidelity.com/prgw/digital/research/market)
     * [IPOs](https://brokerage.fidelity.com/ftgw/brkg/ipo/calendar)
     * [Annuities](https://fundresearch.fidelity.com/fund-screener/annuities/)
