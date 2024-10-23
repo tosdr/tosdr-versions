@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Battered And Bruised](/wp-content/thumbnails/7647-100x70.jpg?x53432)
+* [![On The Streets](/wp-content/thumbnails/6078-100x70.jpg?x53432)
     
-    Battered And Bruised
+    On The Streets
     
-    Family violence has reached epidemic levels in Papua New Guinea, the South Pacific's largest nation.Two out of three women experience domestic violence and 50 per cent of women have experienced fo](https://documentaryheaven.com/battered-bruised/ "Battered And Bruised")
-* [![Promises (2001)](/wp-content/thumbnails/1195-100x70.jpg?x53432)
+    Filmmaker Penny Woolcock spent eight months in a parallel world, the world of the homeless, befriending people and finding out where they eat, sleep and socialise. While making her film, Woolcock rea](https://documentaryheaven.com/on-the-streets/ "On The Streets")
+* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
     
-    Promises (2001)
+    Reality and the Extended Mind
     
-    Promises presents a powerful portrait of seven Palestinian and Israeli children who live in and around Jerusalem. As filmmaker B.Z. Goldberg, who was raised in Israel, notes, "They live no more than 2](https://documentaryheaven.com/promises-2001/ "Promises (2001)")
-* [![The Boy Who Was Turned Into a Girl](/wp-content/thumbnails/5946-100x70.jpg?x53432)
+    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
+* [![ALL ACCESS: Mayweather vs. McGregor](/wp-content/thumbnails/13435-100x70.png?x53432)
     
-    The Boy Who Was Turned Into a Girl
+    ALL ACCESS: Mayweather vs. McGregor
     
-    In 1965 in the Canadian town of Winnipeg, Janet Reimer gave birth to twin boys - Bruce and Brian. Six months later a bungled circumcision left Bruce without a penis. Based on a radical new theory of g](https://documentaryheaven.com/the-boy-who-was-turned-into-a-girl/ "The Boy Who Was Turned Into a Girl")
-* [![Deportee Purgatory](/wp-content/thumbnails/7308-100x70.jpg?x53432)
+    This four part documentary series from SHOWTIME Sports aims to provide us with an intimate portrait of two of the most compelling personalities in sport right now, that being Floyd Mayweather Jr. and](https://documentaryheaven.com/access-mayweather-vs-mcgregor/ "ALL ACCESS: Mayweather vs. McGregor")
+* [![The Real Sleeping Beauty](/wp-content/thumbnails/8315-100x70.jpg?x53432)
     
-    Deportee Purgatory
+    The Real Sleeping Beauty
     
-    Each year, more than 30 million people flow between the US and Mexico through the San Ysidro Port of Entry, the busiest land-border crossing in the world. Situated between San Diego and Tijuana, at on](https://documentaryheaven.com/deportee-purgatory/ "Deportee Purgatory")
-* [![The Great Conspiracy: The 9/11 News Special You Never Saw](/wp-content/thumbnails/433-100x70.png?x53432)
+    In 1984, when Sarah Scantlin was just eighteen years old, she was hit by a drunk driver and fell into a coma. Sarah had such severe brain injuries that doctors had to remove the part of her brain that](https://documentaryheaven.com/real-sleeping-beauty/ "The Real Sleeping Beauty")
+* [![Living in the End Times (According to Slavoj Zizek)](/wp-content/thumbnails/4696-100x70.jpg?x53432)
     
-    The Great Conspiracy: The 9/11 News Special You Never Saw
+    Living in the End Times (According to Slavoj Zizek)
     
-    “The Great Conspiracy: The 9/11 News Special You Never Saw” is a 70-minute sequel to The Great Deception. That is a ground-breaking 44-minute video also by Barrie Zwicker. He was the first mainstr](https://documentaryheaven.com/the-great-conspiracy-the-911-news-special-you-never-saw/ "The Great Conspiracy: The 9/11 News Special You Never Saw")
+    Slovenian philosopher Slavoj Zizek, akaThe Elvis of cultural theory, is given the floor to show of his polemic style and whirlwind-like performance. The Giant of Ljubljana is bombarded with clips of](https://documentaryheaven.com/living-in-the-end-times-slavoj-zizek/ "Living in the End Times (According to Slavoj Zizek)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
