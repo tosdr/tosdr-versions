@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse.jpg)[](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-model-bill-to-allow-independent-permitting-and-inspections.jpg)[](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/ "Read More")
 
-Report Public Safety, Governance
+Issue Brief Economics, Governance
 
-Oct 17 2024
+Oct 22 2024
 
-Report Public Safety, Governance
+Issue Brief Economics, Governance
 
-Oct 17 2024
+Oct 22 2024
 
-### [Not Taking Crime Seriously](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/) California’s Prop 47 Exacerbated Crime and Drug Abuse
+### [A Model Bill to Allow Independent Permitting and Inspections](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
 
-By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **29 mins** [Read More](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
+By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **11 mins** [Read More](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/bidens-missing-electric-vehicle-chargers-union-and-equity-rules-bog-down-rprogram.jpg)[](https://admin.mi52siterestore.com/article/bidens-missing-electric-vehicle-chargers/ "Read More")
+
+Commentary Governance, Economics, Energy Energy
+
+Oct 22 2024
+
+[Biden’s Missing Electric-Vehicle Chargers](https://admin.mi52siterestore.com/article/bidens-missing-electric-vehicle-chargers/)
+
+By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bidens-missing-electric-vehicle-chargers/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/public-safety-is-the-key-to-functioning-nyc-subways.jpg)[](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/ "Read More")
 
@@ -114,35 +124,25 @@ Oct 19 2024
 
 By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/fed-independence-trump-treasury-powell.jpg)[](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-cynics-guide-to-wokeness.jpg)[](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/ "Read More")
 
-Commentary Economics Federal Reserve
+Commentary Culture Culture & Society
 
-Oct 15 2024
+Oct 20 2024
 
-[The Fed Isn’t as Independent as It Seems](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/)
+[The Cynic’s Guide to Wokeness](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/)
 
-By **[Stephen Miran](https://admin.mi52siterestore.com/person/stephen-miran/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/)
+By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/do-black-newborns-fare-better-with-black-doctors-1.jpg)[](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse.jpg)[](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/ "Read More")
 
-Issue Brief Governance, Culture, Health
+Report Public Safety, Governance
 
-Oct 15 2024
+Oct 17 2024
 
-[Do Black Newborns Fare Better with Black Doctors? The Limits of Measuring Racial Concordance](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/)
+[Not Taking Crime Seriously California’s Prop 47 Exacerbated Crime and Drug Abuse](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
 
-By **[George J. Borjas](https://admin.mi52siterestore.com/person/george-j-borjas/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **18 mins** [Read More](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/american-universities-continue-to-underreport-foreign-money.jpg)[](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/ "Read More")
-
-Commentary Education, Economics Higher Ed
-
-Oct 14 2024
-
-[American Universities Continue to Underreport Foreign Money](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/)
-
-By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/)
+By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **29 mins** [Read More](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
 
 Our Policy Areas
 ----------------
