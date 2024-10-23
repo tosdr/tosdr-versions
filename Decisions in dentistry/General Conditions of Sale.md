@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Research from the University of Pittsburgh shows t ![Research from the University of Pittsburgh shows that targeting the immune system with CCL2-loaded microparticles can prevent and treat periodontal diseases by reducing bone loss and promoting repair. This innovative approach offers new hope for patients with aggressive forms of the disease that are resistant to traditional treatments. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBbdIdFtK3e/) 
+
 [In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by Brannon Moncrief of McLerran & Associates to delve into the complexities of DSO transactions. Whether you’re contemplating a practice sale or simply curious about the intricacies of these deals, this conversation covers essential topics such as the tricks DSOs might try to pull and the importance of having a sell-side advisor at the table when navigating a sale.⁠
 ⁠
 Brannon and Art also discuss the current state of the private equity and DSO world, offering insights into what to expect when investing and transitioning in the dental space. Brannon shares how you can make the best decisions for your practice during exit — and avoid leaving millions on the table — by understanding your “why” and finding a buyer who aligns with your goals. ⁠
@@ -172,13 +179,6 @@ Listen via the link in bio.⁠
 
 [EARN 2 CEUs: Oral Manifestations of Commonly Used ![EARN 2 CEUs: Oral Manifestations of Commonly Used Chemical Substances⁠
 Understanding the oral health implications of substance use and abuse is crucial for dentists to provide comprehensive care and support for affected patients. By Edward Ruvins, DDS, MS, MBA, MSF, MSAC, Katie Brydon, LCSW, LAC, MAC, EMDR-c, Mark Stein, DDS, MD and Susanna Kayserman, DDS](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBOlJ0XNVbY/) 
-
-[The ADA Forsyth Institute has received a $6.2 mill ![The ADA Forsyth Institute has received a $6.2 million grant to develop AI-powered dental fillings that can repair themselves and fight off harmful bacteria. This groundbreaking innovation will accelerate dental care advancements, setting the stage for smarter and more durable dental materials. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBMHPfZviRx/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
