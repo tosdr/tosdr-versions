@@ -4,7 +4,7 @@ Gyöngyi
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
 
-6°17°
+6°18°
 
 Menü
 
