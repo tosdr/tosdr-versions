@@ -78,91 +78,21 @@ Search
     
     * * *
     
-    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)Art Curriculum Evaluation Rubric](https://theartofeducation.edu/funding-advocacy/#funding)
     
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)Alignment to Federal Funds](https://theartofeducation.edu/funding-advocacy/#funding)
     
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)How to Fund FLEX + PRO](https://theartofeducation.edu/funding-advocacy/#funding)
     
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)The Visual Arts Advantage](https://theartofeducation.edu/funding-advocacy/#advocacy)
     
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)The Unique Benefits of Fine Art Disciplines in K-12 Education](https://theartofeducation.edu/funding-advocacy/#advocacy)
     
-    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
+    [![How to Advocate for Art Curriculum](https://theartofeducation.edu/wp-content/uploads/2024/07/curriculum-advocacy-webinar-300x169.png)How to Advocate for Art Curriculum](https://theartofeducation.edu/funding-advocacy/#webinars)
     
-    Art Curriculum Evaluation Rubric](https://theartofeducation.edu/funding-advocacy/#funding)
-    
-    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
-    
-    Alignment to Federal Funds](https://theartofeducation.edu/funding-advocacy/#funding)
-    
-    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
-    
-    How to Fund FLEX + PRO](https://theartofeducation.edu/funding-advocacy/#funding)
-    
-    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
-    
-    The Visual Arts Advantage](https://theartofeducation.edu/funding-advocacy/#advocacy)
-    
-    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
-    
-    The Unique Benefits of Fine Art Disciplines in K-12 Education](https://theartofeducation.edu/funding-advocacy/#advocacy)
-    
-    [![How to Advocate for Art Curriculum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![How to Advocate for Art Curriculum](https://theartofeducation.edu/wp-content/uploads/2024/07/curriculum-advocacy-webinar-300x169.png)
-    
-    How to Advocate for Art Curriculum](https://theartofeducation.edu/funding-advocacy/#webinars)
-    
-    [![Asking for Art-Specific PD](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Asking for Art-Specific PD](https://theartofeducation.edu/wp-content/uploads/2024/07/pd-advocacy-webinar-300x169.png)
-    
-    Asking for Art-Specific PD](https://theartofeducation.edu/funding-advocacy/#webinars)
+    [![Asking for Art-Specific PD](https://theartofeducation.edu/wp-content/uploads/2024/07/pd-advocacy-webinar-300x169.png)Asking for Art-Specific PD](https://theartofeducation.edu/funding-advocacy/#webinars)
     
     [](https://theartofeducation.edu/2022/09/sept-what-do-art-teachers-need-to-know-about-grant-writing/)
-    
-    ![day of the dead skulls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![day of the dead skulls](https://theartofeducation.edu/wp-content/uploads/2023/02/nick-fewings-I3C_eojFVQY-unsplash-768x512.jpg)
     
@@ -206,9 +136,7 @@ Search
     
     [](https://artofed.info/3KH2e3I)
     
-    [](https://artofed.info/3KH2e3I)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/03/FLEX_FacebookAd_1-100.jpg)
+    [](https://artofed.info/3KH2e3I)![](https://theartofeducation.edu/wp-content/uploads/2023/03/FLEX_FacebookAd_1-100.jpg)
     
     #### Find Your Fit With FLEX
     
@@ -234,9 +162,7 @@ Search
     
     [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)
     
-    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-A.png)
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-A.png)
     
     #### Back-to-School Success Starts Here
     
@@ -262,9 +188,7 @@ Search
     
     Learn More](https://theartofeducation.edu/now/)
     
-    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
+    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
     
     #### 2025 Winter NOW Conference
     
@@ -292,8 +216,6 @@ Search
     
     [](https://theartofeducation.edu/2024/07/jul-why-art-teachers-stay-a-guide-for-longevity-in-art-education/)
     
-    ![art teacher with student](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![art teacher with student](https://theartofeducation.edu/wp-content/uploads/2024/07/IMG_0676-768x512.jpg)
     
     [Professionalism](https://theartofeducation.edu/magazine/professionalism/)
@@ -318,29 +240,21 @@ Search
     
     Continuing Education Courses
     
-    [](https://theartofeducation.edu/course/ai-in-art-education/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/06/aiinarteducation_rgb_circleNEW-1-300x300.png)
+    [](https://theartofeducation.edu/course/ai-in-art-education/)![](https://theartofeducation.edu/wp-content/uploads/2024/06/aiinarteducation_rgb_circleNEW-1-300x300.png)
     
     ##### AI in Art Education
     
-    [](https://theartofeducation.edu/course/studio-drawing-living-forms/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/06/drawinglivingforms_rgb_circleNEW-300x300.png)
+    [](https://theartofeducation.edu/course/studio-drawing-living-forms/)![](https://theartofeducation.edu/wp-content/uploads/2024/06/drawinglivingforms_rgb_circleNEW-300x300.png)
     
     ##### Studio: Drawing Living Forms
     
-    [](https://theartofeducation.edu/course/design-thinking-for-art-education/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/06/designthinkingforarteducation_rgb_circleNEW-1-300x300.png)
+    [](https://theartofeducation.edu/course/design-thinking-for-art-education/)![](https://theartofeducation.edu/wp-content/uploads/2024/06/designthinkingforarteducation_rgb_circleNEW-1-300x300.png)
     
     ##### Design Thinking for Art Education
     
     [](https://theartofeducation.edu/masters/masters-degree-return-on-investment-calculator/)
     
-    [](https://theartofeducation.edu/masters/masters-degree-return-on-investment-calculator/)![woman's hands typing on a laptop](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![woman's hands typing on a laptop](https://theartofeducation.edu/wp-content/uploads/2023/03/AOE_Raleigh_NC_Web_Photos_33.jpg)
+    [](https://theartofeducation.edu/masters/masters-degree-return-on-investment-calculator/)![woman's hands typing on a laptop](https://theartofeducation.edu/wp-content/uploads/2023/03/AOE_Raleigh_NC_Web_Photos_33.jpg)
     
     #### **Leverage Your Salary Schedule**
     
@@ -384,11 +298,7 @@ Search
     
     Learn More](https://theartofeducation.edu/magazine/)
     
-    [![The Art of Ed Community](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![The Art of Ed Community](https://theartofeducation.edu/wp-content/uploads/2024/09/aoeu-community.png)
-    
-    The Art of Ed Community
+    [![The Art of Ed Community](https://theartofeducation.edu/wp-content/uploads/2024/09/aoeu-community.png)The Art of Ed Community
     
     Connect with K-12 art educators worldwide in a new, dynamic online space. Share ideas, get support, and find inspiration—all for free.
     
@@ -418,9 +328,7 @@ Search
     
     Learn More](https://theartofeducation.edu/magazine/)
     
-    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
+    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
     
     #### 2025 Winter NOW Conference
     
@@ -462,9 +370,7 @@ Search
     
     [](https://theartofeducation.edu/firstyearartteacherguide/)
     
-    [](https://theartofeducation.edu/firstyearartteacherguide/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/03/First-Year-Art-Teacher-Icon_white.png)
+    [](https://theartofeducation.edu/firstyearartteacherguide/)![](https://theartofeducation.edu/wp-content/uploads/2023/03/First-Year-Art-Teacher-Icon_white.png)
     
     ##### First-Year Art Teacher’s Guide
     
@@ -500,17 +406,13 @@ Search
     
     * * *
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://theartofeducation.edu/wp-content/uploads/2023/03/aoeu-map.png)
     
     [FLEX aligns to your state's visual arts standards
     
     Learn More](https://theartofeducation.edu/choose-your-state/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=flex%20evergreen&utm_content=offerings-flex-map)
     
-    [](https://theartofeducation.edu/curriculum-suite?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=flex%20evergreen&utm_content=offerings-f+p=c)![FLEX + PRO = Curriculum Suite](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![FLEX + PRO = Curriculum Suite](https://theartofeducation.edu/wp-content/uploads/2024/01/FLEXPRO-megamenu.png)
+    [](https://theartofeducation.edu/curriculum-suite?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=flex%20evergreen&utm_content=offerings-f+p=c)![FLEX + PRO = Curriculum Suite](https://theartofeducation.edu/wp-content/uploads/2024/01/FLEXPRO-megamenu.png)
     
     [Better Together: The Curriculum Suite
     
@@ -518,9 +420,7 @@ Search
     
     [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)
     
-    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-A.png)
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-A.png)
     
     #### Back-to-School Success Starts Here
     
@@ -546,8 +446,6 @@ Search
     
     * * *
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://theartofeducation.edu/wp-content/uploads/2023/03/aoeu-map.png)
     
     [Learn more about your state's PD requirements
@@ -555,8 +453,6 @@ Search
     Learn More](https://theartofeducation.edu/choose-your-state/)
     
     [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-Growth-Mindset.png)
     
@@ -592,15 +488,11 @@ Search
     
     * * *
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://theartofeducation.edu/wp-content/uploads/2023/03/aoeu-map.png)
     
     [Learn more about your state's accreditation requirements
     
     Learn More](https://theartofeducation.edu/choose-your-state/)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://theartofeducation.edu/wp-content/uploads/2023/03/MAEd-RegainedConfidence-Berta-WY-032423.jpg)
     
@@ -630,17 +522,13 @@ Search
     
     * * *
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://theartofeducation.edu/wp-content/uploads/2023/03/aoeu-map.png)
     
     [Learn more about your state's accreditation requirements
     
     Learn More](https://theartofeducation.edu/choose-your-state/)
     
-    [](https://theartofeducation.edu/palette-perspectives-gallery/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=hied-palette-perspectives-24&utm_content=ad)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/04/AOEU24_StudentArtShow_PalettePerspectives_MegaMenuAd.gif)
+    [](https://theartofeducation.edu/palette-perspectives-gallery/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=hied-palette-perspectives-24&utm_content=ad)![](https://theartofeducation.edu/wp-content/uploads/2024/04/AOEU24_StudentArtShow_PalettePerspectives_MegaMenuAd.gif)
     
     ##### Palette Perspectives
     
@@ -670,17 +558,13 @@ Search
     
     * * *
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://theartofeducation.edu/wp-content/uploads/2023/03/aoeu-map.png)
     
     [Learn more about your state's PD requirements
     
     Learn More](https://theartofeducation.edu/choose-your-state/)
     
-    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
+    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
     
     #### 2025 Winter NOW Conference
     
