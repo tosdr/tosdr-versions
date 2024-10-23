@@ -326,7 +326,7 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Wichtige Links
 
-[FAQ](https://www.ess-erfurt.de/faqs-haeufig-gestellte-fragen/) [E-Mail-Server](https://email.ess-erfurt.de/) [Elternbriefe](https://www.ess-erfurt.de/elternbriefe/) [Vivarium](https://www.ess-erfurt.de/vivarium/) [Schulsportverein](https://www.ess-erfurt.de/schulsportverein/) [SchulShirtShop](https://www.buntstoff.com/Edith-Stein-Schule-Erfurt) [Schulsozialarbeit](https://www.ess-erfurt.de/schulsozialarbeit/) [Schüleranmeldung](https://www.ess-erfurt.de/schueleranmeldung/) [Stellenausschreibung](https://www.himmlische-jobs.de/himmlische-jobangebote/gymnasiallehrer-mwd) [Schulen in freier Trägerschaft](http://www.freie-schulen-thueringen.de/)
+[FAQ](https://www.ess-erfurt.de/faqs-haeufig-gestellte-fragen/) [E-Mail-Server](https://email.ess-erfurt.de/) [Vivarium](https://www.ess-erfurt.de/vivarium/) [Schulsportverein](https://www.ess-erfurt.de/schulsportverein/) [SchulShirtShop](https://www.buntstoff.com/Edith-Stein-Schule-Erfurt) [Schulsozialarbeit](https://www.ess-erfurt.de/schulsozialarbeit/) [Schüleranmeldung](https://www.ess-erfurt.de/schueleranmeldung/) [Stellenausschreibung](https://www.himmlische-jobs.de/himmlische-jobangebote/gymnasiallehrer-mwd) [Schulen in freier Trägerschaft](http://www.freie-schulen-thueringen.de/)
 
 ### Termine
 
