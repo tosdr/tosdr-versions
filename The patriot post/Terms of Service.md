@@ -1,10 +1,10 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111281-mid-day-digest-2024-10-22?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111327-mid-day-digest-2024-10-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111281-mid-day-digest-2024-10-22?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111327-mid-day-digest-2024-10-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -201,20 +201,23 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34403)
+     [](https://patriotpost.us/cartoons/34408)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Salena Zito Unseen Middle-Class Black Voters Move Right](https://patriotpost.us/opinion/111273-unseen-middle-class-black-voters-move-right-2024-10-22)
-*      [Daniel McCarthy Vibes Turn Bad for Kamala Harris](https://patriotpost.us/opinion/111270-vibes-turn-bad-for-kamala-harris-2024-10-22)
-*      [Cal Thomas Harris Appeals for the Anti-Catholic Vote](https://patriotpost.us/opinion/111269-harris-appeals-for-the-anti-catholic-vote-2024-10-22)
-*      [Victor Joecks Why Christians Should Vote for Trump](https://patriotpost.us/opinion/111268-why-christians-should-vote-for-trump-2024-10-22)
-*      [Stephen Moore Will Blacks and Hispanics Vote Their Pocketbooks? Trump Should Hope So!](https://patriotpost.us/opinion/111267-will-blacks-and-hispanics-vote-their-pocketbooks-trump-should-hope-so-2024-10-22)
-*      [Gary Bauer The Final Stretch](https://patriotpost.us/opinion/111266-the-final-stretch-2024-10-22)
-*      [Allen West Are Americans First for the Progressive Socialist Leftists?](https://patriotpost.us/opinion/111274-are-americans-first-for-the-progressive-socialist-leftists-2024-10-22)
-*      [Dennis Prager The Secular Keep Me Religious](https://patriotpost.us/opinion/111271-the-secular-keep-me-religious-2024-10-22)
+*      [Christine Flowers We See What We Want to See With Our Candidates](https://patriotpost.us/opinion/111326-we-see-what-we-want-to-see-with-our-candidates-2024-10-23)
+*      [Gary Bauer Lies of the Left](https://patriotpost.us/opinion/111312-lies-of-the-left-2024-10-23)
+*      [Rich Lowry Mail-In Ballots Have Made Our Election Tallying a National Embarrassment](https://patriotpost.us/opinion/111314-mail-in-ballots-have-made-our-election-tallying-a-national-embarrassment-2024-10-23)
+*      [Hans von Spakovsky No, Elon Musk Is NOT Breaking Federal Election Law](https://patriotpost.us/opinion/111313-no-elon-musk-is-not-breaking-federal-election-law-2024-10-23)
+*      [Ian Haworth Does Kamala Harris Want Israel to Win?](https://patriotpost.us/opinion/111311-does-kamala-harris-want-israel-to-win-2024-10-23)
+*      [Tim Graham ‘60 Minutes’ Has Tortured Republicans for Decades](https://patriotpost.us/opinion/111310-60-minutes-has-tortured-republicans-for-decades-2024-10-23)
+*      [Byron York As Attacks Intensify, Trump Becomes More Popular](https://patriotpost.us/opinion/111309-as-attacks-intensify-trump-becomes-more-popular-2024-10-23)
+*      [Star Parker How Iran Steals Its Citizens’ Wealth to Finance Terror](https://patriotpost.us/opinion/111308-how-iran-steals-its-citizens-wealth-to-finance-terror-2024-10-23)
+*      [John Stossel Play Time/Jail Time](https://patriotpost.us/opinion/111307-play-time-slash-jail-time-2024-10-23)
+*      [Betsy McCaughey New York’s Path to Recovery](https://patriotpost.us/opinion/111306-new-yorks-path-to-recovery-2024-10-23)
+*      [Guest Commentary The Irony of Skylar Deleod](https://patriotpost.us/opinion/111325-the-irony-of-skylar-deleod-2024-10-23)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -232,7 +235,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### The Foundation
 
-“A general dissolution of principles and manners will more surely overthrow the liberties of America than the whole force of the common enemy. While the people are virtuous they cannot be subdued; but when once they lose their virtue then will be ready to surrender their liberties to the first external or internal invader.” —Samuel Adams (1779)
+“Guard against the impostures of pretended patriotism.” —George Washington (1796)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
