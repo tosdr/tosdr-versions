@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Hemusite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22108%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hemusite/)
+[![35 Facts About Danny Casolaro ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-danny-casolaro/)
 
-Earth Sciences
+People
 
-22 Oct 2024
+23 Oct 2024
 
-[30 Facts About Hemusite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-hemusite/)
+[35 Facts About Danny Casolaro](https://facts.net/history/people/35-facts-about-danny-casolaro/)
 
-[![28 Facts About Cinema Events ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2290%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/28-facts-about-cinema-events/)
+[![25 Facts About Florida Tourism ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/25-facts-about-florida-tourism/)
 
 Events
 
-22 Oct 2024
+23 Oct 2024
 
-[28 Facts About Cinema Events](https://facts.net/events/28-facts-about-cinema-events/)
+[25 Facts About Florida Tourism](https://facts.net/events/25-facts-about-florida-tourism/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
