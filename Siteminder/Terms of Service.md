@@ -31,7 +31,6 @@
             * [Hotel Business Intelligence](https://www.siteminder.com/hotel-business-intelligence/)
             * [Property Management Systems](https://www.siteminder.com/pms-property-management-system/)
             * [Groups and Chains](https://www.siteminder.com/groupsandchains/)
-            * [Dynamic Revenue Plus](https://www.siteminder.com/dynamic-revenue-plus/)
     * ![](https://www.siteminder.com/wp-content/uploads/2024/01/sticky-logo.svg)
         
         Findings from over  
