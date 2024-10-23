@@ -43,7 +43,7 @@ The store will not work correctly in the case when cookies are disabled.
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
     * [NEW
         
-        24 Days of Pleasure (Premium Calendar)](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+        24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
     * [NEW
         
         Blend](https://www.womanizer.com/eu/blend)
@@ -368,7 +368,7 @@ Help
 
 Legal
 
-* [Terms & Conditions](https://www.womanizer.com/eu/terms-conditions)
+* [Terms and Conditions and Withdrawal Information](https://www.womanizer.com/eu/terms-conditions)
 * [Privacy Policy](https://www.womanizer.com/eu/privacy-policy)
 * [Legal Notice](https://www.womanizer.com/eu/legal-notice)
 * Cookie Settings
