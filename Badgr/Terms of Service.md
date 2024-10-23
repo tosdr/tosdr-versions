@@ -273,15 +273,15 @@ Main
             * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
-        *   ![](/sites/default/files/styles/small_hq/public/image/2024-06/2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg?itok=cb1Y7Px- "2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg")
+        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
             
-            The EdTech Top 40:
+            The Lifelong Learning Report
             
             #### 
             
-            K-12 EdTech Engagement
+            Trends and Insights from K-12 to Career
             
-            [Learn More](https://info.badgr.com/edtech-top40)
+            [Learn More](https://www.instructure.com/research/lifelong-learning?utm_source=INST&utm_medium=RS&utm_campaign=24Q4-NO-IP-MUL-INST-RS-RE-Lifelong-Learning-Report-2024-Webnav&utm_id=701TU00000IiKaAYAV&CampaignID=701TU00000IiKaAYAV)
             
 * News & Events
     * Column
@@ -534,15 +534,15 @@ Main
             * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
-        *   ![](/sites/default/files/styles/small_hq/public/image/2024-06/2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg?itok=cb1Y7Px- "2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg")
+        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
             
-            The EdTech Top 40:
+            The Lifelong Learning Report
             
             #### 
             
-            K-12 EdTech Engagement
+            Trends and Insights from K-12 to Career
             
-            [Learn More](https://info.badgr.com/edtech-top40)
+            [Learn More](https://www.instructure.com/research/lifelong-learning?utm_source=INST&utm_medium=RS&utm_campaign=24Q4-NO-IP-MUL-INST-RS-RE-Lifelong-Learning-Report-2024-Webnav&utm_id=701TU00000IiKaAYAV&CampaignID=701TU00000IiKaAYAV)
             
 * News & Events
     * Column
