@@ -262,6 +262,12 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
+Functional
+
+ functional
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
 Advertisement
 
  advertisement
@@ -285,11 +291,5 @@ Others
  others
 
 Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
-
-Functional
-
- functional
-
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
 
 Save & Accept
