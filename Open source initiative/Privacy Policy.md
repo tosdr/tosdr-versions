@@ -178,11 +178,11 @@ Source AI
 ----------------
 
 * [Open Source AI](https://opensource.org/ai)
-* [Co-design Process](https://opensource.org/ai/process)
-* [Townhalls recordings](https://opensource.org/ai/townhalls)
+* [OSAI Definition](https://go.opensource.org/osaid-latest)
+* [Process](https://opensource.org/ai/process)
+* [Timeline](https://opensource.org/ai/timeline)
 * [FAQs](https://opensource.org/ai/faqs)
-* [Online forum](https://opensource.org/ai/forums)
-* [OSAI Definition Roadshow](https://opensource.org/blog/open-source-ai-definition-on-the-road-looking-back-and-forward)
+* [Forum](https://opensource.org/ai/forums)
 
 Licenses
 --------
