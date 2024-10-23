@@ -303,7 +303,7 @@ With Ledger Live, you can (including without limitation)
     * Stake your Crypto Assets on Proof-Of-Stake networks
         
 
-**5.1.2 Supported Crypto Assets.** Ledger Live and Ledger Devices are only capable of supporting certain Crypto Assets. A non-exhaustive list of supported Crypto Assets and compatible Wallets is available [here](https://support.ledger.com/hc/en-us/articles/10479755500573-Supported-Coins-and-Tokens-in-Ledger-Live?docs=true). This list is subject to change at the discretion of Ledger.
+**5.1.2 Supported Crypto Assets.** Ledger Live and Ledger Devices are only capable of supporting certain Crypto Assets. A non-exhaustive list of supported Crypto Assets and compatible Wallets is available [here](https://support.ledger.com/article/10479755500573-zd). This list is subject to change at the discretion of Ledger.
 
 **5.1.3 Services availability.** We may change, update or suspend the Services, temporarily or indefinitely, notably to carry out works including, but not limited to: firmware and software updates, maintenance operations, amendments to the servers, bug fixes, etc. We will make reasonable efforts to give you prior notice of any significant disruption of the Services. Ledger does not guarantee the correct functioning of the Services in the event of the installation or use of programs or applications that do not conform to Service specifications and technical standards. Please note that when a Service is unavailable or suspended, you can always recover your Private Keys using your 24-Recovery Phrase on any compatible Wallet.
 
