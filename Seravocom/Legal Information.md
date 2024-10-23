@@ -4,10 +4,9 @@
 
 [![Seravo](https://seravo.com/wp-content/uploads/2024/06/seravo-logo-512.png)](https://seravo.com/fi/)
 
-* Seravo
-    * [Meistä](https://seravo.com/fi/meista/)
+* Meistä
+    * [Yritys](https://seravo.com/fi/meista/)
     * [Asiakkaamme](https://seravo.com/fi/asiakkaat/)
-    * [Kumppanit](https://seravo.com/fi/kumppanit/)
     * [Miksi Seravo?](https://seravo.com/fi/miksi-valita-seravon-wordpress-palvelu/)
     * [Työpaikat](https://seravo.com/fi/tyopaikat/)
     * [Medialle](https://seravo.com/fi/medialle/)
@@ -25,8 +24,9 @@
     * [WP Enterprise](https://seravo.com/fi/wp-enterprise/)
     * [Lisäpalvelut](https://seravo.com/fi/lisapalvelut/)
     * [Verkkotunnukset](https://seravo.com/fi/verkkotunnukset/)
-* Kumppaneille
+* Kumppanit
     * [Liity kumppaniksi](https://seravo.com/fi/yhteistyo/)
+    * [Kumppanimme](https://seravo.com/fi/kumppanit/)
     * [Seravo on erilainen](https://seravo.com/fi/seravo-on-erilainen/)
 * Ota yhteyttä
     * [Yhteystiedot](https://seravo.com/fi/ota-yhteytta/)
