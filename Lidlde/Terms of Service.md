@@ -113,7 +113,7 @@ Main Navigation[Zurück](#)
 11. [Gut gekleidet](https://www.lidl.de/c/gut-gekleidet/s10006980)
 
 1. [WeinweltÖffnen](https://www.lidl.de/c/weinwelt/s10006418)
-2. [Sale](https://www.lidl.de/q/query/supersale?specialty=Schn%C3%A4ppchen&category=Wein+%26+Spirituosen%24h20030203&legacy_ff=Zm9sbG93U2VhcmNoPTk5OTE)
+2. [Sale](https://www.lidl.de/q/query/supersale?discountFlag=1&category=Wein+%26+Spirituosen)
 3. [Themenwelten](https://www.lidl.de/c/weinwelt-themenwelten/s10019834)
 4. [Bier](https://www.lidl.de/h/bier/h10023946?pageId=10006418/10023946)
 5. [Rotweine](https://www.lidl.de/h/rotweine/h10006636?pageId=10006418/10006636)
