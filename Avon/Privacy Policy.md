@@ -1,6 +1,6 @@
 [Blog](https://www.avon.com/blog)ESPAÑOL
 
-* [Find a Rep](https://www.avon.com/findarep)
+* [Find an Ambassador](https://www.avon.com/findarep)
 * Sign In
 
 * Shopping Bag
@@ -26,7 +26,7 @@ DISCOVER
 
 [SPECIAL OFFERS](https://www.avon.com/features/special-offers)
 
-###### LAST UPDATED: August 28, 2023
+###### LAST UPDATED: October 23, 2024
 
 The Avon Company Privacy Statement
 ==================================
@@ -61,7 +61,7 @@ The Avon Company Privacy Statement
 
 [14\. Contacting Us](#contactingus)
 
-[15\. Independent Sales Representatives](#independentsalesrepresentatives)
+[15\. Independent Sales Ambassadors](#independentsalesrepresentatives)
 
 **1\. Introduction; Scope**
 
@@ -69,11 +69,11 @@ The Avon Company (“Avon”, "us," or "we") has created this Privacy Statement 
 
 This Privacy Statement applies to information collected through this website and any mobile sites, applications, widgets, and other interactive features that link to this Privacy Statement (collectively, the "Site"). Except as specifically provided below, this Privacy Statement does not apply to information collected by Avon by or through any other means, such as information collected offline.
 
-Avon grants independent contractors selling rights to its products (hereinafter referred to as “Independent Sales Representatives”). Independent Sales Representatives are not employed by Avon. Therefore, Avon does not control, and is not responsible or liable for the collection, use or disclosure of Personal Information by Independent Sales Representatives, including for their marketing purposes. If you provide information to an Independent Sales Representative through the Site, Avon will have access to it and shall treat it in accordance with this Privacy Statement. Independent Sales Representatives may provide Avon with information regarding their customers, in which case Avon will treat such information, once in its possession, in accordance with this Privacy Statement.
+Avon grants independent contractors selling rights to its products (hereinafter referred to as “Independent Sales Ambassadors”). Independent Sales Ambassadors are not employed by Avon. Therefore, Avon does not control, and is not responsible or liable for the collection, use or disclosure of Personal Information by Independent Sales Ambassadors, including for their marketing purposes. If you provide information to an Independent Sales Ambassador through the Site, Avon will have access to it and shall treat it in accordance with this Privacy Statement. Independent Sales Ambassadors may provide Avon with information regarding their customers, in which case Avon will treat such information, once in its possession, in accordance with this Privacy Statement.
 
-If you are the customer of an Independent Sales Representative, you should check with your Representative directly to learn about her data privacy practices.
+If you are the customer of an Independent Sales Ambassador, you should check with your Ambassador directly to learn about her data privacy practices.
 
-**If you apply to become or are an Independent Sales Representative, in addition to the generally applicable provisions of this Privacy Statement, please review the [**Independent Sales Representative**](#independentsalesrepresentatives) section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.**
+**If you apply to become or are an Independent Sales Ambassador****, in addition to the generally applicable provisions of this Privacy Statement, please review the [Independent Sales Ambassador](#) section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.**
 
 By using the Site, you agree to our [Terms of Use](https://www.avon.com/information/conditions-of-use.html) and to our collection, use and disclosure practices, and other activities as described in this Privacy Statement. If you do not agree and consent, please discontinue use of the Site.
 
@@ -131,7 +131,7 @@ For further information on Tracking Technologies and your choices regarding them
 
 **Information from Other Sources**
 
-We may obtain information about you from other sources, including third-party service providers, Independent Sales Representatives, and Third Party Services, and combine such information with information we have collected about you. To the extent we combine such third party sourced information with Personal Information we have collected about you on the Site, we will treat the combined information as Personal Information under this Privacy Statement. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices.
+We may obtain information about you from other sources, including third-party service providers, Independent Sales Ambassadors, and Third Party Services, and combine such information with information we have collected about you. To the extent we combine such third party sourced information with Personal Information we have collected about you on the Site, we will treat the combined information as Personal Information under this Privacy Statement. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices.
 
 **3\. Use of Information**
 
@@ -147,7 +147,7 @@ We may use information about you, including your Personal Information, for any p
     
 * to allow you to use, communicate and interact with others on our Site;
     
-* to help you find an Independent Sales Representative including suggesting a new Avon Representative if your current Independent Sales Representative has discontinued selling Avon products, and to facilitate the business activities of an Independent Sales Representative;
+* to help you find an Independent Sales Ambassador including suggesting a new Avon Ambassador if your current Independent Sales Ambassador has discontinued selling Avon products, and to facilitate the business activities of an Independent Sales Ambassador;
     
 * for our internal business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
     
@@ -170,7 +170,7 @@ We may disclose information about you, including your Personal Information, for 
     
 * to third-party service providers who provide services to Avon, such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, information technology services, customer service, email delivery services, credit card processing, auditing, training, and other similar services. (These third parties will be supplied with, or have access to, your Personal Information for the purpose of providing these services to us or on our behalf; they are prohibited from using your Personal Information for any purpose other than to provide this assistance, although we may permit them to use aggregate information which does not identify you or de-identified data for other purposes);
     
-* to Independent Sales Representatives, to the extent necessary for them to contact you, fulfill your orders or provide a service to you;
+* to Independent Sales Ambassadors, to the extent necessary for them to contact you, fulfill your orders or provide a service to you;
     
 * to a third party in the event of any proposed or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings); and
     
@@ -193,7 +193,7 @@ Avon may work with third-party service providers who use Tracking Technologies t
 
 The information collected and stored by third parties, whether through our Site, a Third Party Service, a Third Party Feature, or a third party device, remains subject to their own policies and practices, including what information they share with us, your choices on their services and devices, and whether they store information in the U.S. or elsewhere. We are not responsible for the privacy practices of any third parties, including the privacy practices of third party Internet advertising companies. The inclusion of a link on the Site does not imply endorsement of the linked site by us. To the extent we combine information we receive from third parties with Personal Information we collect directly from you on the Site, we will treat the combined information as Personal Information under this Privacy Statement.
 
-Avon's Independent Sales Representatives are solely responsible for their own websites and for any information collected on those websites. If an Independent Sales Representative uses an Avon Site to collect information from you, Avon may have access to that information and shall treat it in accordance with this Privacy Statement.
+Avon's Independent Sales Ambassadors are solely responsible for their own websites and for any information collected on those websites. If an Independent Sales Ambassador uses an Avon Site to collect information from you, Avon may have access to that information and shall treat it in accordance with this Privacy Statement.
 
 **7\. Your Choices**
 
@@ -203,7 +203,7 @@ To opt out of receiving certain marketing and/or promotional communications (ema
 
 If you registered with a Site, you may view, change, modify or remove certain Personal Information contained in your personal profile by using the tools found in the profile or account section of the applicable Site.
 
-We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former Site visitors and users, including Independent Sales Representatives. Finally, we are not responsible for removing information or causing information to be removed from the databases or other records of third parties (including third-party service providers and Independent Sales Representatives) with whom we have already shared your Personal Information. Residents of certain states have additional rights set forth in “Additional State-Specific Privacy Rights” below.
+We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former Site visitors and users, including Independent Sales Ambassadors. Finally, we are not responsible for removing information or causing information to be removed from the databases or other records of third parties (including third-party service providers and Independent Sales Ambassadors) with whom we have already shared your Personal Information. Residents of certain states have additional rights set forth in “Additional State-Specific Privacy Rights” below.
 
 **Tracking Technologies Generally**
 
@@ -345,26 +345,26 @@ From time to time we may change this Privacy Statement. Please take a look at th
 
 If you have any questions about this Privacy Statement, please contact us by email at [avon\_privacy@avonusa.com](mailto:avon_privacy@avonusa.com), or by regular mail at The Avon Company, One Liberty Plaza, 165 Broadway, New York, NY 10006 Attn: Office of the General Counsel. Because email communications are not always secure, please do not include sensitive information in your emails to us.
 
-**15\. Independent Sales Representatives**
+**15\. Independent Sales Ambassador****s**
 
-**The following provisions are applicable only to Avon's Independent Sales Representatives:**
+**The following provisions are applicable only to Avon's Independent Sales Ambassadors:**
 
-This Privacy Statement applies to the Personal Information of Independent Sales Representatives collected by Avon, whether collected online or offline. This information would be collected in addition to any Personal Information we may collect from you as an Avon customer, as described above.
+This Privacy Statement applies to the Personal Information of Independent Sales Ambassadors collected by Avon, whether collected online or offline. This information would be collected in addition to any Personal Information we may collect from you as an Avon customer, as described above.
 
-If you seek to become an Avon Representative we may collect and use your Personal Information to determine your eligibility.
+If you seek to become an Avon Ambassador we may collect and use your Personal Information to determine your eligibility.
 
-In order to be appointed an Avon Representative, you may be required to enter into a separate agreement with Avon ("Representative Agreement"). If you have entered into a Representative Agreement, we may collect, use and disclose your Personal Information in accordance with this Privacy Statement and the terms of your "Representative Agreement." We also may collect, use and disclose your Personal Information as necessary to fulfill our obligations under the Representative Agreement. In the event of a conflict between this Privacy Statement and the Representative Agreement, the terms of the Representative Agreement shall apply. Once you are an Avon Representative (including a sales leader), we may disclose your Personal Information:
+In order to be appointed an Avon Ambassador, you may be required to enter into a separate agreement with Avon ("Ambassador Agreement"). If you have entered into a Ambassador Agreement, we may collect, use and disclose your Personal Information in accordance with this Privacy Statement and the terms of your "Ambassador Agreement." We also may collect, use and disclose your Personal Information as necessary to fulfill our obligations under theAmbassador Agreement. In the event of a conflict between this Privacy Statement and the Ambassador Agreement, the terms of the Ambassador Agreement shall apply. Once you are an Avon Ambassador (including a sales leader), we may disclose your Personal Information:
 
 * to sales consultants or their equivalent, who may be independent contractors to Avon;
     
-* as part of our sales leadership program, to Independent Sales Representatives who are sales leaders;
+* as part of our sales leadership program, to Independent Sales Ambassadors who are sales leaders;
     
-* to current and potential customers who are seeking the assistance of an Avon Representative; and
+* to current and potential customers who are seeking the assistance of an Avon Ambassador; and
     
 * as necessary to comply with legal requirements such as tax and record keeping obligations.
     
 
-We may also combine any other information that we and our third-party service providers collect about your use of our Site (as described above) with your unique Representative account number. We may use the combined information for purposes such as to analyze Independent Sales Representatives' use of our Sites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
+We may also combine any other information that we and our third-party service providers collect about your use of our Site (as described above) with your unique Ambassador account number. We may use the combined information for purposes such as to analyze Independent Sales Ambassador's use of our Sites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
 
 This Statement ©2023 The Avon Company All rights reserved.
 
