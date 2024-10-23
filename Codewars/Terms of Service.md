@@ -1,4 +1,4 @@
-[![Codewars by Andela](https://cdn.prod.website-files.com/6674f0cdb5b7b401612cf015/6674f0cdb5b7b401612cf0ee_codewars-by-andela-dark.svg)](https://www.codewars.com/)
+[![](https://cdn.prod.website-files.com/6674f0cdb5b7b401612cf015/67180821f483344739cfb029_Codewars_red_white.svg)](https://www.codewars.com/)
 
 Dojo
 
@@ -10,7 +10,7 @@ Achieve honor and move up the leaderboards](https://www.codewars.com/users/leade
 
 Learn about all of the different aspects of Codewars](https://docs.codewars.com/)
 
-[Blog](https://www.codewars.com/blog)[For Educators](https://www.codewars.com/partnerships)[For Companies](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)
+[Blog](https://www.codewars.com/blog)[For Educators](https://www.codewars.com/partnerships)[For Companies](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)[Codewars Red](https://www.codewars.com/codewars-red)
 
 [Log in](https://www.codewars.com/users/sign_in)[Join](https://www.codewars.com/join)
 
