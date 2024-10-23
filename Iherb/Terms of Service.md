@@ -1021,8 +1021,6 @@ Wohlbefinden & Pflege
 
 [Enzymedica](https://de.iherb.com/c/enzymedica)
 
-SALE
-
 [Eucerin](https://de.iherb.com/c/eucerin)
 
 [EVLution Nutrition](https://de.iherb.com/c/evlution-nutrition)
@@ -1049,11 +1047,7 @@ SALE
 
 [Life Extension](https://de.iherb.com/c/life-extension)
 
-SALE
-
 [Life-flo](https://de.iherb.com/c/life-flo)
-
-SALE
 
 [Mary Ruth Organics](https://de.iherb.com/c/maryruths)
 
@@ -1070,8 +1064,6 @@ SALE
 [Natural Factors](https://de.iherb.com/c/natural-factors)
 
 [Nature's Bounty](https://de.iherb.com/c/nature-s-bounty)
-
-SALE
 
 [Nature's Way](https://de.iherb.com/c/nature-s-way)
 
@@ -1107,8 +1099,6 @@ SALE
 
 [Swanson](https://de.iherb.com/c/swanson)
 
-SALE
-
 [Sympli Beautiful](https://de.iherb.com/c/sympli-beautiful)
 
 [Thorne](https://de.iherb.com/c/thorne)
@@ -1123,15 +1113,15 @@ SALE
 
 Marken der Woche
 
-[![](https://s3.images-iherb.com/brand/logo/LEX/1647036401.png)](https://de.iherb.com/c/life-extension)
+[![](https://s3.images-iherb.com/brand/logo/NAP/1652391342.png)](https://de.iherb.com/c/naturesplus)
 
-[![](https://s3.images-iherb.com/brand/logo/ENZ/1654297517.png)](https://de.iherb.com/c/enzymedica)
+[![](https://s3.images-iherb.com/brand/logo/FHH/1676394712.png)](https://de.iherb.com/c/fairhaven-health)
 
-[![](https://s3.images-iherb.com/brand/logo/NRT/1657137456.png)](https://de.iherb.com/c/nature-s-bounty)
+[![](https://s3.images-iherb.com/brand/logo/REA/1674754236.png)](https://de.iherb.com/c/reserveage-beauty)
 
-[![](https://s3.images-iherb.com/brand/logo/YUV/1654295106.png)](https://de.iherb.com/c/yumvs)
+[![](https://s3.images-iherb.com/brand/logo/HEC/1719859978.png)](https://de.iherb.com/c/herbs-etc)
 
-[![](https://s3.images-iherb.com/brand/logo/NTA/1652232357.png)](https://de.iherb.com/c/nature-s-answer)
+[![](https://s3.images-iherb.com/brand/logo/PTG/1689798577.png)](https://de.iherb.com/c/natural-vitality)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
@@ -1141,9 +1131,9 @@ Marken der Woche
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
 
-[\-20% für Baby & Kind
+[\-25% auf über 25.000 Supplements
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/baby-kids)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/supplements?pcode=OCTSUPP24)
 
       
 
@@ -1614,6 +1604,7 @@ Ihre E-Mail-Adresse wird verwendet, um Ihnen Gesundheits-Newsletter und E-Mails 
 * [Neu! Shop-Bewertungen](https://de.iherb.com/info/store-reviews)
 * [Prämienprogramm](https://secure.iherb.com/rewards/rewards-program)
 * [Partnerprogramm](https://de.iherb.com/info/affiliates)
+* [Neu! Das Spar-Abo](https://de.iherb.com/info/autoship-save)
 * [Wohltätigkeit](https://de.iherb.com/info/donate)
 
 * Unternehmen
