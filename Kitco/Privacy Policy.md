@@ -58,7 +58,7 @@ Show More
 * [Buy from Kitco](https://online.kitco.com/buy/gold-silver.html?v=201811031 "Buy from Kitco")
     
     * [All Products](https://online.kitco.com/buy/gold-silver.html?v=201811031 "All Products")
-    * [**In Stock Now**](https://online.kitco.com/products/instocknow.html "In Stock Now")
+    * [**In Stock Now**](https://online.kitco.com/search?page=1&q=kitcobullion&minprice=1 "In Stock Now")
     * [**VaultChainTM Gold**](https://online.kitco.com/kitco-vault-chain-gold "Buy VaultChain Gold")
     * [**VaultChainTM Silver**](https://online.kitco.com/kitco-vault-chain-silver "Buy VaultChain Silver")
     * [**Kitco Pool - Metal Accounts**](https://online.kitco.com/kitco-pool "Buy Kitco Pool")
