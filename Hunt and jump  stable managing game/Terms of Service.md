@@ -143,6 +143,12 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/23/2024 8:30 AM EST
+
+### Gift Exchange sign-ups open in less than a month.
+
+Our gift exchange is one of the most fun times of the year, but you must have participated in a number of forum conversations to be eligible. Now is the time to start posting on the forums to make sure you can enter the exchange.
+
 10/22/2024 2:16 AM EST
 
 ### The university is now accepting golden tokens in exchange for synthesized gametes from deceased horses.
@@ -211,13 +217,6 @@ You can now purchase the exact herd helper you are looking for with golden token
 ![](https://www.huntandjump.com/images/grsExamples/belton.png)  
 **Jewel Box**  
 ![](https://www.huntandjump.com/images/grsExamples/tmjb.png)
-
-10/8/2024 3:23 AM EST
-
-Monster GMT lab sale now on
----------------------------
-
-50 genes on special offer in the lab, including 5 phantom genes.👻
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
