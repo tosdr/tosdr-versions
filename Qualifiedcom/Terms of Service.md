@@ -80,22 +80,6 @@ Content
 
 Hear from industry leaders on all things B2B marketing.
 
-AI WOrkforce
-
-[The Rise of the AI Workforce
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/rise-of-the-ai-workforce)[Building SDR Teams in the Age of AI
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/building-winning-sales-development-teams-in-the-age-of-ai)[The Inbound AI SDR Hiring Guide
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-sdr/hiring-guide)[Strategies for Piper the AI SDR
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)[AI Workforce Summit 2024
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-workforce-summit-2024)[Piperfest
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/piperfest2024)
-
 Learning
 
 [Blog
@@ -108,15 +92,37 @@ Learning
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/resources/roi-calculator)
 
+AI WOrkforce
+
+[The Rise of the AI Workforce
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/rise-of-the-ai-workforce)[Building SDR Teams in the Age of AI
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/building-winning-sales-development-teams-in-the-age-of-ai)[The Inbound AI SDR Hiring Guide
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-sdr/hiring-guide)[Strategies for Piper the AI SDR
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)
+
+ON DEMAND EVENTS
+
+[AI Workforce Summit 2024
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-workforce-summit-2024)[Piperfest: AI SDR Event of the Year
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/piperfest2024)[Piper Demo Day: The Art of the Possible
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/piper-demo-day)
+
 Hear from from industry leaders on all things B2B marketing.
 
 [Explore Qualified+](https://www.qualified.com/plus)
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/67069a350960ed217812226a_piper%20the%20ai%20sdr.png)![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6706a5d9ce9b5f53eb3d9b9f_Demo%20Day%20Live%20Nav.svg)
 
-Wednesday, October 23rd, 10-11AM PDT | Virtual Event
+Explore the art of the possible with Piper the AI SDR
 
-[Register NOW](https://www.qualified.com/piper-demo-day)
+[Watch NOW](https://www.qualified.com/piper-demo-day)
 
 Say hello to
 
@@ -553,12 +559,12 @@ Functional Cookies
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66e1f632badac7a6e86fdfe0_Piper%20the%20AI%20SDR.svg)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/670525a673fe86d1ffb3ee9b_hero.svg)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/67052cd790e4a8d2c715a7c4_logo_2.png)
 
-### Wednesday, October 23rd,  
-10-11AM PDT | Virtual Event
+### Explore the art of the possible  
+with Piper the AI SDR
 
-[Register Now](https://www.qualified.com/piper-demo-day)
+[Watch Now](https://www.qualified.com/piper-demo-day)
 
 PRODUCT
 
@@ -602,7 +608,7 @@ LEGAL
 
 EDUCATION
 
-[What is Conversational ABM?](https://www.qualified.com/what-is-conversational-abm)[What is Conversational Marketing?](https://www.qualified.com/what-is-conversational-marketing)[What is a Conversational Marketing Growth Strategy?](https://www.qualified.com/education/conversational-growth-strategy)
+[What is Conversational Marketing?](https://www.qualified.com/what-is-conversational-marketing)[What is an AI SDR?](https://www.qualified.com/blog/blog-posts/what-is-an-ai-sdr-everything-you-need-to-know-about-ai-sales-development-representatives)[Inbound vs. Outbound AI SDRs](https://www.qualified.com/blog/blog-posts/understanding-the-difference-between-inbound-and-outbound-ai-sdrs)[Inbound AI SDR Hiring Guide](https://www.qualified.com/ai-sdr/hiring-guide)
 
 Qualified University
 
