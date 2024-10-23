@@ -2,9 +2,11 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
-[Sign up](#nw-newsletter-subscription-v2) for our mailing list for 20% off your first order. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+[**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
 
-[**Bundles**](https://naturesway.com/collections/bundle-save-1) have landed! Shop curated collections of your favorite products. 
+[**Sign up**](#signup) today to receive 10% off!
+
+[**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
 
      
 
@@ -287,6 +289,8 @@ Item added to your cart
 -----------------------
 
 Check out
+
+Free shipping on US orders $35+ Spend $35.0 to get free shipping! 
 
 My Wishlist ()
 --------------
@@ -1488,22 +1492,60 @@ More Info
 
 †† These indications are based solely on traditional homeopathic use. They have not been evaluated by the Food & Drug Administration.
 
-![Transparency Notice](//naturesway.com/cdn/shop/files/9d9ce6e58ada599922f8cc2c60465ff2.png?v=1716476743&width=600)
-
 Nature's Way Brands | 2024 All Rights Reserved
-
-* [Terms & Conditions](https://naturesway.com/pages/legal/#Terms%20of%20Use)
-* [Privacy Policy](https://naturesway.com/pages/legal)
-* [Sitemap](https://naturesway.com/pages/sitemap)
 
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
 Would you like to visit our Canada Store?
 
 [NATURE’S WAY CANADA](https://shop.natureswaycanada.ca/?utm_source=nwus&utm_campaign=nwgeo&utm_content=modal) Stay on the USA Store
+
+Cart ()
+
+        
+
+Cart (0)
+
+[Best Sellers](https://naturesway.com/) [Last Chance Sale](https://naturesway.com/) [Value Bundles](https://naturesway.com/)
+
+Free shipping on US orders $35+ Spend $35.0 to get free shipping!
+
+Loading...
+
+   
+
+Free shipping on US orders $35+ Spend $35.0 to get free shipping!
+
+### Subtotal
+
+$0.00 USD
+
+Taxes and [shipping](https://naturesway.com/policies/shipping-policy) calculated at checkout
+
+Update
+
+Check out
+
+#### You May Also Like:
+
+##### Loading...
+
+[](#)
+
+Select Options
+
+![](dataimageplaceholder)
+
+[Product Title](https://naturesway.com/)
+
+Price
+
+Options
+
+   Add to cart Out of stock
+
+[View Cart Page](https://naturesway.com/cart)
