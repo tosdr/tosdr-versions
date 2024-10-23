@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
+
 [Integrity
 
 ### In Europe, a nod to honest leaders](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1022/In-Europe-a-nod-to-honest-leaders "In Europe, a nod to honest leaders")
@@ -99,10 +103,6 @@ Recent Stories
 [Equality
 
 ### Many Nigerian girls have been forced to leave school. Mentors help them return.](https://www.csmonitor.com/World/Making-a-difference/2024/1022/nigeria-education-girls-displaced-wassa-camp "Many Nigerian girls have been forced to leave school. Mentors help them return.")
-
-[Peace
-
-### In Gaza or Ukraine, peace can look impossible. Here, there’s hope.](https://www.csmonitor.com/World/Europe/2024/1022/Geneva-Peace-Week-United-Nations "In Gaza or Ukraine, peace can look impossible. Here, there’s hope.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
+
 [### Europe is trying to cut back migration. Can it find a legal way to do it?](https://www.csmonitor.com/World/Europe/2024/1022/immigration-italy-albania-processing-centers-court "Europe is trying to cut back migration. Can it find a legal way to do it?")
 
 [### Peru’s former president accepted $35 million in bribes. Now he will serve 20 years.](https://www.csmonitor.com/World/Americas/2024/1022/alejandro-toledo-peru-corruption-scandal-bribes-guilty "Peru’s former president accepted $35 million in bribes. Now he will serve 20 years.")
-
-[### Campus protests face new restrictions this year. Professors are pushing back.](https://www.csmonitor.com/USA/2024/1022/College-Campus-protests-Gaza-Israel-freedom-of-speech "Campus protests face new restrictions this year. Professors are pushing back.")
 
 * * *
 
