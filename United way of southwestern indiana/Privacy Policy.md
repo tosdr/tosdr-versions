@@ -8,7 +8,7 @@
 
 [GIVE](https://app.mobilecause.com/form/v3w2MA?vid=a7tsm)
 
-[![](https://unitedwayswi.org/wp-content/uploads/2020/08/UWSWI_Logo_WebsiteOnly_RGB_Horiz.png)](https://unitedwayswi.org/)
+[![](https://unitedwayswi.org/wp-content/uploads/2024/10/2-LINE-UW-First-RGB-United-Way-Logo-Localization-Tool.png)](https://unitedwayswi.org/)
 
 [LIVE UNITED
 
