@@ -31,7 +31,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/KCEN/images/592384532/592384532_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/592384532/592384532_360x203.jpg)](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
         
-        #### [Law enforcement searching for suspects after pursuit ends in crash in Robertson County](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
+        #### [One in custody after search for suspects following pursuit crash in Robertson County](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
         
     *  [![](https://media.kagstv.com/assets/KAGS/images/b7be16d4-416a-41a7-99df-f18dea92dc0e/20241022T210227/b7be16d4-416a-41a7-99df-f18dea92dc0e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/b7be16d4-416a-41a7-99df-f18dea92dc0e/20241022T210227/b7be16d4-416a-41a7-99df-f18dea92dc0e_360x203.jpg)](https://www.kagstv.com/article/news/crime/john-victor-may-sentenced-oct-22-2024/499-03209af9-f825-429f-9cc8-9ba276472457)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-70°
+89°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
