@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Freedom
+
+### ‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.](https://www.csmonitor.com/USA/Politics/2024/1023/Argentina-Javier-Milei-socialism-libertarian "‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.")
+
 [Community
 
 ### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
@@ -99,10 +103,6 @@ Recent Stories
 [Integrity
 
 ### In Europe, a nod to honest leaders](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1022/In-Europe-a-nod-to-honest-leaders "In Europe, a nod to honest leaders")
-
-[Equality
-
-### Many Nigerian girls have been forced to leave school. Mentors help them return.](https://www.csmonitor.com/World/Making-a-difference/2024/1022/nigeria-education-girls-displaced-wassa-camp "Many Nigerian girls have been forced to leave school. Mentors help them return.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
