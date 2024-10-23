@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Physicists Discover First 'Black Hole Triple'](https://www.sciencedaily.com/releases/2024/10/241023130914.htm)
+* [How Ethnic Tibetans Thrive in Thin Oxygen](https://www.sciencedaily.com/releases/2024/10/241021170358.htm)
+* [Geometric Mechanics Shape the Dog's Nose](https://www.sciencedaily.com/releases/2024/10/241022153934.htm)
+* [Bilingualism Protects Against Alzheimer's](https://www.sciencedaily.com/releases/2024/10/241022154131.htm)
+* [Ice-Related Injuries On Polar Bear Paws: Warming](https://www.sciencedaily.com/releases/2024/10/241022153851.htm)
 * [Wearable Cameras Allow AI to Detect Med Errors](https://www.sciencedaily.com/releases/2024/10/241022132831.htm)
 * [Giant Meteorite Had Silver Lining for Life](https://www.sciencedaily.com/releases/2024/10/241021170403.htm)
 * [El Nino Oscillation 250 Million Years Old](https://www.sciencedaily.com/releases/2024/10/241021170400.htm)
 * [Role of Climate Change in Drought Intensity](https://www.sciencedaily.com/releases/2024/10/241021123029.htm)
 * [Plant Guard Cells Count Environmental Stimuli](https://www.sciencedaily.com/releases/2024/10/241021122749.htm)
-* [Plant CO2 Uptake Up by Nearly a Third Globally](https://www.sciencedaily.com/releases/2024/10/241021145729.htm)
-* [Rare Fossils of Extinct Elephants: Butchery](https://www.sciencedaily.com/releases/2024/10/241021133245.htm)
-* [New Insights Into Air Pollution Formation](https://www.sciencedaily.com/releases/2024/10/241021123308.htm)
-* [Scientists Build Modules for Synthetic Cell](https://www.sciencedaily.com/releases/2024/10/241021123151.htm)
-* [Life-Saving Spongelike 'Bandage'](https://www.sciencedaily.com/releases/2024/10/241017113907.htm)
 
 Trending Topics
 ---------------
@@ -232,11 +232,11 @@ this week
 
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
@@ -244,11 +244,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
-
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
