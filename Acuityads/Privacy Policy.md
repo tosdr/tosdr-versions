@@ -31,9 +31,9 @@ Check out illumin's brand new Support Center
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Email marketing: then and now](https://illumin.com/wp-content/uploads/2024/10/email-then-and-now-263x300.jpg)
+    * ![With Google in hot water with the DOJ, what exactly are anti-trust laws?](https://illumin.com/wp-content/uploads/2024/10/google-DPJ-263x300.jpg)
         
-        Email marketing: then and now[Read More](https://illumin.com/insights/blog/email-marketing-then-and-now/)
+        With Google in hot water with the DOJ, what exactly are anti-trust laws?[Read More](https://illumin.com/insights/blog/google-and-doj-anti-trust-laws/)
         
 * [Company](#)
     * [Company](#)
