@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Biden calls for Trump to be jailed 14 days before 2024 election](https://nypost.com/2024/10/22/us-news/biden-calls-for-trump-to-be-jailed-14-days-before-2024-election-we-gotta-lock-him-up/)
+
 Privacy Notice Highlights
 =========================
 
