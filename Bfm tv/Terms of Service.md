@@ -585,15 +585,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![La commune de Longjumeau chiffre le coût des inondations à 2,8 millions d'euros.](https://images.bfmtv.com/HJllCFGJCAT20gpjNsH7VgkKVxI=/4x3:1252x705/300x0/images/1244404.jpg)
+1. [![Un brassard de police à Marseille. (Illustration)](https://images.bfmtv.com/3jBkrHfv0xB_YXjvLdRhswUpD08=/4x67:1252x769/300x0/images/-210085.jpg)
     
-    ![La commune de Longjumeau chiffre le coût des inondations à 2,8 millions d'euros.](https://images.bfmtv.com/HJllCFGJCAT20gpjNsH7VgkKVxI=/4x3:1252x705/300x0/images/1244404.jpg)
+    ![Un brassard de police à Marseille. (Illustration)](https://images.bfmtv.com/3jBkrHfv0xB_YXjvLdRhswUpD08=/4x67:1252x769/300x0/images/-210085.jpg)
     
-    ### Inondations, sécheresse... Ces communes qui ne trouvent plus d’assureurs](https://www.bfmtv.com/economie/entreprises/assurance-banque/inondations-secheresse-ces-communes-qui-ne-trouvent-plus-d-assureurs_AV-202410210658.html "Inondations, sécheresse... Ces communes qui ne trouvent plus d’assureurs")
-2. [### 1 million de dollars par jour, pubs ciblées... Elon Musk joue son va-tout pour faire élire Donald Trump](https://www.bfmtv.com/tech/actualites/reseaux-sociaux/1-million-de-dollars-par-jour-pubs-ciblees-elon-musk-joue-son-va-tout-pour-faire-elire-donald-trump_AV-202410210561.html "1 million de dollars par jour, pubs ciblées... Elon Musk joue son va-tout pour faire élire Donald Trump")
-3. [### INFO BFMTV. Dijon: un retraité de 76 ans mis en examen et écroué dans une affaire de viols d'enfants en ligne](https://www.bfmtv.com/police-justice/info-bfmtv-dijon-un-retraite-de-76-ans-mis-en-examen-et-ecroue-dans-une-affaire-de-viols-d-enfants-en-ligne_AN-202410220035.html "INFO BFMTV. Dijon: un retraité de 76 ans mis en examen et écroué dans une affaire de viols d'enfants en ligne")
-4. [### Indonésie: une Italienne tuée par un espadon pendant une séance de surf](https://www.bfmtv.com/international/asie/indonesie-une-italienne-tuee-par-un-espadon-pendant-une-seance-de-surf_AN-202410210800.html "Indonésie: une Italienne tuée par un espadon pendant une séance de surf")
-5. [### Une alerte enlèvement déclenchée pour retrouver Santiago, un bébé de 17 jours disparu à Aulnay-sous-Bois](https://www.bfmtv.com/paris/une-alerte-enlevement-declenchee-pour-retrouver-santiago-un-bebe-de-17-jours-disparu-a-aulnay-sous-bois_AN-202410220187.html "Une alerte enlèvement déclenchée pour retrouver Santiago, un bébé de 17 jours disparu à Aulnay-sous-Bois")
+    ### INFO BFMTV. Enlèvement de Santiago: cinq personnes proches des parents placées en garde à vue](https://www.bfmtv.com/paris/info-bfmtv-enlevement-de-santiago-cinq-personnes-proches-des-parents-placees-en-garde-a-vue_AN-202410220457.html "INFO BFMTV. Enlèvement de Santiago: cinq personnes proches des parents placées en garde à vue")
+2. [### "Des pluies soutenues voire orageuses": de nouvelles intempéries attendues sur le quart sud-est de la France](https://www.bfmtv.com/meteo/intemperies/des-pluies-soutenues-voire-orageuses-de-nouvelles-intemperies-attendues-sur-le-quart-sud-est-de-la-france_AV-202410220331.html ""Des pluies soutenues voire orageuses": de nouvelles intempéries attendues sur le quart sud-est de la France")
+3. [### Sponsor chinois, billetterie prise d'assaut, réseaux sociaux... Le business florissant autour des frères Lebrun, stars du tennis de table français](https://rmcsport.bfmtv.com/tennis-de-table/sponsor-chinois-billetterie-prise-d-assaut-reseaux-sociaux-le-business-florissant-autour-des-freres-lebrun-stars-du-tennis-de-table-francais_AV-202410220862.html "Sponsor chinois, billetterie prise d'assaut, réseaux sociaux... Le business florissant autour des frères Lebrun, stars du tennis de table français")
+4. [### Virée pour une émoticône postée sur Facebook, elle obtient l'annulation de son licenciement en justice](https://www.bfmtv.com/economie/emploi/vie-de-bureau/viree-pour-une-emoticone-postee-sur-facebook-elle-obtient-l-annulation-de-son-licenciement-en-justice_AD-202410220633.html "Virée pour une émoticône postée sur Facebook, elle obtient l'annulation de son licenciement en justice")
+5. [### Call of Duty: un ambitieux concurrent chinois arrive en décembre](https://www.bfmtv.com/tech/gaming/call-of-duty-un-ambitieux-concurrent-chinois-arrive-en-decembre_AV-202410220602.html "Call of Duty: un ambitieux concurrent chinois arrive en décembre")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
