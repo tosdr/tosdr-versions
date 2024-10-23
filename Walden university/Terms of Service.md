@@ -147,6 +147,8 @@ Search Search Close
         * Psychology
             * PSYCHOLOGY MASTER'S PROGRAMS
             * Personalize your studies by selecting from an array of programs.
+            * [Master’s in Applied Behavior Analysis](https://www.waldenu.edu/online-masters-programs/master-in-applied-behavioral-analysis)
+            * [MS in Clinical Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-clinical-psychology)
             * [MS in Developmental Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-developmental-psychology)
             * [MS in Forensic Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-forensic-psychology)
             * [MS in Industrial and Organizational Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-industrial-and-organizational-psychology)
@@ -527,6 +529,8 @@ Call Us: [**8556465286**](tel:8556465286)
             
             * [PSYCHOLOGY MASTER'S PROGRAMS](# "PSYCHOLOGY MASTER'S PROGRAMS")
             * [Personalize your studies by selecting from an array of programs.](# "Personalize your studies by selecting from an array of programs.")
+            * [Master’s in Applied Behavior Analysis](https://www.waldenu.edu/online-masters-programs/master-in-applied-behavioral-analysis "Master’s in Applied Behavior Analysis")
+            * [MS in Clinical Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-clinical-psychology "MS in Clinical Psychology ")
             * [MS in Developmental Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-developmental-psychology "MS in Developmental Psychology")
             * [MS in Forensic Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-forensic-psychology "MS in Forensic Psychology")
             * [MS in Industrial and Organizational Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-industrial-and-organizational-psychology "MS in Industrial and Organizational Psychology")
@@ -734,6 +738,7 @@ Call Us: [**8556465286**](tel:8556465286)
             
             * [PSYCHOLOGY CERTIFICATE PROGRAMS](# "PSYCHOLOGY CERTIFICATE PROGRAMS")
             * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "Refresh your current skills or embark on a new professional path with a Walden certificate.")
+            * [Graduate Certificate in Applied Behavior Analysis (ABA)](https://www.waldenu.edu/online-certificates-programs/applied-behavioral-analysis "Graduate Certificate in Applied Behavior Analysis (ABA)")
             * [Graduate Certificate in Evidence-Based Coaching](https://www.waldenu.edu/online-certificates-programs/evidence-based-coaching "Graduate Certificate in Evidence-Based Coaching")
             * [Post-Master’s Online Teaching in Psychology Certificate](https://www.waldenu.edu/online-certificates-programs/online-teaching-in-psychology-post-masters "Post-Master’s Online Teaching in Psychology Certificate")
             * [All Psychology Programs](https://www.waldenu.edu/programs/psychology "All Psychology Programs")
