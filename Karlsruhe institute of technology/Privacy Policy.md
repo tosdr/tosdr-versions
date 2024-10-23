@@ -539,3 +539,28 @@ Kaiserstr. 89
 ![Karlsruher IT-Sicherheitsinitiative Symbol](/img/kaitsi_transp.png)
 
 ### Externe Veranstaltungen
+
+  
+**[Further Events ...](https://secuso.aifb.kit.edu/english/77.php#calendar_top)**
+
+![](/img/30px-Wiwilogo_klein.gif)
+
+[KIT-Fakultät für Wirtschaftswissenschaften](https://www.wiwi.kit.edu/)
+
+[Bereich II - Informatik, Wirtschaft und Gesellschaft](https://www.kit.edu/b2/index.php)
+
+### SECUSO Events
+
+  
+**[Further Events ...](https://secuso.aifb.kit.edu/english/76.php#calendar_top)**
+
+last change: 2024-02-26
+
+KIT – The Research University in the Helmholtz Association
+
+* [Home](https://secuso.aifb.kit.edu/english/index.php "startpage")
+* [Legals](https://secuso.aifb.kit.edu/english/legals.php)
+* [Privacy Policy](https://secuso.aifb.kit.edu/english/datenschutz.php)
+* [Accessibility](https://www.kit.edu/redirect.php?page=barriere&lang=ENG)
+* [Sitemap](https://secuso.aifb.kit.edu/english/42.php)
+* [KIT](https://www.kit.edu/english/)
