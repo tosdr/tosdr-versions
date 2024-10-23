@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    New Stories to Listen to
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
-
-* * *
-
-* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
-    
-    A Guide to Truman Capote Books
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     How To Read More in 2024
     
     Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
