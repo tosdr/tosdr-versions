@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Remember, Remember… (2,324)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (2,324 posts)")
-* [Moldova says Yes to the EU 20/10; cou… (24)](https://forum.nationstates.net/viewtopic.php?t=557347&f=20&view=unread#unread ""Moldova says Yes to the EU 20/10; could re-elect Sandu 03/11" (24 posts)")
-* [Ukrainian War VII: Everything has a p… (7,804)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,804 posts)")
-* [GCF T20 World Cup 17: Everything thre… (82)](https://forum.nationstates.net/viewtopic.php?t=556622&f=7&view=unread#unread ""GCF T20 World Cup 17: Everything thread (MD6 posted)" (82 posts)")
-* [911, what is your \[not\] emergency? (716)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (716 posts)")
+* [Your favorite part of AN’s forum sig XI (3,007)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (3,007 posts)")
+* [CAFA X Everything Thread (21)](https://forum.nationstates.net/viewtopic.php?t=557031&f=7&view=unread#unread ""CAFA X Everything Thread" (21 posts)")
+* [Create a word based on last two letters (415)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (415 posts)")
+* [What religion does AU follow? (OOC) (1,075)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (1,075 posts)")
+* [Your nation's punishment for the abov… (3,056)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (3,056 posts)")
 
 Advertisement
 
