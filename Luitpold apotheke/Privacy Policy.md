@@ -592,8 +592,6 @@ Unsere Marken
 
 ### Partner
 
-[![Link zum Versandhandels-Register](/images/generic_attachments/attachments/medikamenteperklick/dimdi-logo.png)](https://versandhandel.dimdi.de/websearch/servlet/Gate?accessid=dimdi_var&term=c265109cec97c9684b7db18e4e803819) [![Link zum Versandhandels-Register](/images/generic_attachments/attachments/medikamenteperklick/dimdiVet-logo.png)](https://www.bvl.bund.de/DE/Arbeitsbereiche/05_Tierarzneimittel/04_AntragstellerUnternehmen/12_Haendlerregister/05_Tabelle/tam_haendler_node.html#BVL-H-999)
-
  [![Medizinfuchs-Partnerapotheke](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/footer_zertifikate_medizinfuchs.png)](https://www.medizinfuchs.de/apotheken-profil/medikamente-per-klick.de-15.html)[![Idealo](https://img.idealo.com/folder/Shop/83/7/83722/s1_idealo-partner.png)](https://www.idealo.de/preisvergleich/Shop/83722.html)[![Partner apomio](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/footer_zertifikate_apomio.png)](https://www.apomio.de/bewertung/62-medikamente-per-klick-de.html)[![MediPreis.de Partner-Apotheke](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/footer_zertifikate_medipreis.png)](https://www.medipreis.de/ "MediPreis der Preisvergleich f체r g체nstige Medikamente und Arzneimittel f체hrender Online-Apotheken")[![PCI_DSS_Compliant](https://pci.usd.de/compliance/2494-35A2-2E4C-F992-CF80-044E/seal.png)](https://pci.usd.de/compliance/2494-35A2-2E4C-F992-CF80-044E/details_de.html)[![Partner bei Gebrauchs.info](/images/generic_attachments/attachments/medikamenteperklick/96.png "Partner bei Gebrauchs.info")](https://www.gebrauchs.info/)
 
 ![Ein Unternehmen aus Hochfranken](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/hochfranken_signatur_mpk.png) [![BDVA](/images/generic_attachments/attachments/medikamenteperklick/BDVA_logo_1.jpg)](https://www.bvdva.de/)
@@ -602,11 +600,15 @@ Unsere Marken
 
 [![saniclick](/images/generic_attachments/attachments/medikamenteperklick/partnerlogo_saniklcik.jpg)](https://www.saniklick.de/)
 
+### Zertifikat
+
+[![Link zum Versandhandels-Register](/images/generic_attachments/attachments/medikamenteperklick/dimdi-logo.png)](https://versandhandel.dimdi.de/websearch/servlet/Gate?accessid=dimdi_var&term=c265109cec97c9684b7db18e4e803819) [![Link zum Versandhandels-Register](/images/generic_attachments/attachments/medikamenteperklick/dimdiVet-logo.png)](https://www.bvl.bund.de/DE/Arbeitsbereiche/05_Tierarzneimittel/04_AntragstellerUnternehmen/12_Haendlerregister/05_Tabelle/tam_haendler_node.html#BVL-H-999)
+
 ### Bewerten Sie uns
 
 [![TA-Excellent-Shop-5-Jahre-2023.jpg](/images/generic_attachments/attachments/medikamenteperklick/TA-Excellent-Shop-5-Jahre-2023.jpg)](https://www.trustedshops.de/bewertung/info_X4176AAE688AB24A0DC50958E3B228D5B.html)
 
-[![eKomi - The Feedback Company: Ich kann  die Klick Apotheke mit gutem Gewissen, immer wieder weiterempfehlen.](https://connect.ekomi.de/widget/HCY3GJJW6MSP36F-10.gif "eKomi - The Feedback Company: Ich kann  die Klick Apotheke mit gutem Gewissen, immer wieder weiterempfehlen.")](https://www.ekomi.de/bewertungen-medikamente-per-klickde.html "eKomi - The Feedback Company: Ich kann  die Klick Apotheke mit gutem Gewissen, immer wieder weiterempfehlen.")
+[![eKomi - The Feedback Company: Bestellung konnte einfach 체ber die Internetseite aufgegeben werden. Preise im Vergleich zu anderen Anbietern unschlagbar! Abhandlung ist einfach und schnell mit allem Service und Infos zur Bestellung. Ware ist schneller als angegeben in einwandfreiem Zustand angekommen - vielen Dank.](https://connect.ekomi.de/widget/HCY3GJJW6MSP36F-1.gif "eKomi - The Feedback Company: Bestellung konnte einfach 체ber die Internetseite aufgegeben werden. Preise im Vergleich zu anderen Anbietern unschlagbar! Abhandlung ist einfach und schnell mit allem Service und Infos zur Bestellung. Ware ist schneller als angegeben in einwandfreiem Zustand angekommen - vielen Dank.")](https://www.ekomi.de/bewertungen-medikamente-per-klickde.html "eKomi - The Feedback Company: Bestellung konnte einfach 체ber die Internetseite aufgegeben werden. Preise im Vergleich zu anderen Anbietern unschlagbar! Abhandlung ist einfach und schnell mit allem Service und Infos zur Bestellung. Ware ist schneller als angegeben in einwandfreiem Zustand angekommen - vielen Dank.")
 
 [![Topanbieter](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/topanbieter.png)](https://www.medizinfuchs.de/bewerten/15)
 
@@ -660,4 +662,4 @@ Haben Sie bitte auch daf체r Verst채ndnis, dass wir aus Datenschutzgr체nden Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=yyqximrojkbtwfezmwgycpnukcslzcbd&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=pqahsitihmtxjcqdyvxsidhnxgfjksdp&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
