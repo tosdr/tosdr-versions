@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-864e023aa8e519de41e27822116c05aa
+61567d65b60f389a383ade076ba39538
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![15 mm to 20 mm fat white stick pearls](https://sojourner.biz/images/cache/pearls/PE0060.200.jpg)](https://sojourner.biz/beads/pearls/15-mm-to-20-mm-fat-white-stick-pearls.html "15 mm to 20 mm fat white stick pearls")
+[![13 mm by 20 mm vintage Czech glass oval discs](https://sojourner.biz/images/cache/glass/GL0151.200.jpg)](https://sojourner.biz/beads/glass/13-mm-by-20-mm-vintage-czech-glass-oval-discs.html "13 mm by 20 mm vintage Czech glass oval discs")
 
-#### [15 mm to 20 mm fat white stick pearls](https://sojourner.biz/beads/pearls/15-mm-to-20-mm-fat-white-stick-pearls.html "15 mm to 20 mm fat white stick pearls")
+#### [13 mm by 20 mm vintage Czech glass oval discs](https://sojourner.biz/beads/glass/13-mm-by-20-mm-vintage-czech-glass-oval-discs.html "13 mm by 20 mm vintage Czech glass oval discs")
 
-$22.00
+$6.00
 
 ### Best Sellers
 
