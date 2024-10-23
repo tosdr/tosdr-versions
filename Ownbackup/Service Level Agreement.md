@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[FedRAMP
+
+How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
+
 [Data Security
 
 Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
@@ -139,10 +143,6 @@ Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/bl
 [AI
 
 How to Strengthen Your Salesforce Security in the Age of GenAI](https://www.ownbackup.com/blog/how-to-strengthen-your-salesforce-security-in-the-age-of-genai)
-
-[Data Lifecycle Management
-
-Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[FedRAMP
+
+How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
+
 [Data Security
 
 Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
@@ -367,10 +371,6 @@ Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/bl
 [AI
 
 How to Strengthen Your Salesforce Security in the Age of GenAI](https://www.ownbackup.com/blog/how-to-strengthen-your-salesforce-security-in-the-age-of-genai)
-
-[Data Lifecycle Management
-
-Why Data Lifecycle Management Is the Key to Long-Term Growth](https://www.ownbackup.com/blog/why-data-lifecycle-management-is-the-key-to-long-term-growth)
 
 Company
 
