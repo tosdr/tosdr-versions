@@ -156,10 +156,6 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
-[Pinelands Regional HS
-
-Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
-
 [Berlin HS
 
 Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
@@ -167,6 +163,10 @@ Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/r
 [Simmons MS
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
+
+[Pinelands Regional HS
+
+Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -667,7 +667,7 @@ SDPC
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
 
-[Safety & Security](https://www.smartpass.app/schedule-a-demo---test) are our top priority. All SmartPass products are compliant with data protection regulations and standards.
+[Safety & Security](https://www.smartpass.app/privacy) are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
