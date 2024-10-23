@@ -229,6 +229,7 @@ Resources
 * [Time Management Templates](https://timeular.com/blog/time-management-templates/)
 * [Project Task Tracker Template](https://timeular.com/project-task-tracker-template/)
 * [Average salary](https://timeular.com/average-salary/)
+* [Toxic productivity – Glossary](https://timeular.com/toxic-productivity-glossary/)
 
 Support & Useful links
 
