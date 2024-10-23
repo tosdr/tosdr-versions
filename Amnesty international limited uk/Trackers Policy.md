@@ -1,5 +1,3 @@
-[Skip to main content](#main)
-
 Which language would you like to use this site in?
 
 * [English](https://www.amnesty.org/en/)
@@ -53,9 +51,6 @@ Close
     * [Research](https://www.amnesty.org/en/latest/research/)
     * [Impact](https://www.amnesty.org/en/latest/impact/)
 * [Search](https://www.amnesty.org/en/search/)
-
-COOKIE STATEMENT
-================
 
 Amnesty International’s website, like most websites, uses small text files called cookies. This note provides information on what cookies are, which cookies Amnesty International uses, and how they can be controlled.
 
@@ -206,29 +201,39 @@ im\_access\_token
 
 We use both Facebook and Twitter pixel tags. Pixel tags are used to track conversion from social media to our website. See more information on [**Facebook here**](https://www.facebook.com/business/help/651294705016616) and [**Twitter here**](https://business.twitter.com/help/conversion-tracking-for-websites).
 
-* About Us
-    * [Contact Us](https://www.amnesty.org/en/about-us/contact/)
-    * [How We’re Run](https://www.amnesty.org/en/about-us/#tab-governance)
-    * [Modern Slavery Act Statement](https://www.amnesty.org/en/about-us/modern-slavery-act-transparency-statement/)
-    * [Finances](https://www.amnesty.org/en/about-us/finances-and-pay/)
-* Resources
-    * [Media Centre](https://www.amnesty.org/en/media-centre/)
-    * [Human Rights Education](https://www.amnesty.org/en/human-rights-education/)
-    * [Human Rights Courses](https://academy.amnesty.org/learn)
-    * [Annual report archive](https://www.amnesty.org/en/annual-report-archive/)
-* Get Involved
-    * [Join](https://www.amnesty.org/en/get-involved/join/)
-    * [Take Action](https://www.amnesty.org/en/get-involved/take-action/)
-    * [Volunteer](https://careers.amnesty.org/category/7/38/description/)
-* Latest
-    * [News](https://www.amnesty.org/en/latest/news/)
-    * [Campaigns](https://www.amnesty.org/en/latest/campaigns/)
-    * [Research](https://www.amnesty.org/en/latest/research/)
-* Work With Us
-    
-    If you are talented and passionate about human rights then Amnesty International wants to hear from you.
-    
-    [Jobs & Internships](https://www.amnesty.org/en/careers/)
+#### [About Us](https://www.amnesty.org/en/latest/news/2023/10/about-us/)
+
+* [Contact Us](https://www.amnesty.org/en/about-us/contact/)
+* [How We're Run](https://www.amnesty.org/en/about-us/#tab-governance)
+* [Modern Slavery Act Statement](https://www.amnesty.org/en/about-us/modern-slavery-act-transparency-statement/)
+* [Finances](https://www.amnesty.org/en/about-us/finances-and-pay/)
+
+#### [Resources](https://www.amnesty.org/en/latest/news/2023/10/resources-2/)
+
+* [Media Centre](https://www.amnesty.org/en/media-centre/)
+* [Human Rights Education](https://www.amnesty.org/en/human-rights-education/)
+* [Human Rights Courses](https://academy.amnesty.org/learn)
+* [Annual report archive](https://www.amnesty.org/en/annual-report-archive/)
+
+#### [Get Involved](https://www.amnesty.org/en/latest/news/2023/10/get-ivolved/)
+
+* [Join](https://www.amnesty.org/en/get-involved/join/)
+* [Take Action](https://www.amnesty.org/en/get-involved/take-action/)
+* [Volunteer](https://careers.amnesty.org/category/7/38/description/)
+
+#### [Latest](https://www.amnesty.org/en/latest/news/2023/10/latest-2/)
+
+* [News](https://www.amnesty.org/en/latest/news/)
+* [Campaigns](https://www.amnesty.org/en/latest/campaigns/)
+* [Research](https://www.amnesty.org/en/latest/research/)
+
+#### Work With Us
+
+If you are talented and passionate about human rights then Amnesty International wants to hear from you.
+
+[Jobs & Internships](https://Jobs%20&%20Internships)
+
+* * *
 
 * [Privacy Policy](https://www.amnesty.org/en/privacy-policy/)
 * [Accessibility](https://www.amnesty.org/en/accessibility/)
@@ -242,6 +247,6 @@ Follow us on:
 -------------
 
 * [Facebook](https://www.facebook.com/amnesty)
-* [Twitter](https://twitter.com/amnesty)
-* [YouTube](https://www.youtube.com/user/AmnestyInternational)
 * [Instagram](https://instagram.com/amnesty)
+* [Twitter](https://twitter.com/@amnesty)
+* [YouTube](https://www.youtube.com/user/AmnestyInternational)
