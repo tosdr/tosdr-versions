@@ -335,6 +335,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Screenshot-2024-10-22-at-1.01.57 PM-300x200.png)](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
+    
+    #### [We Have to Clean Up the Mess Ourselves](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Clouds-2.7-300x200.jpg)](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
     
     #### [In the Ashes of the Apparatus](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
@@ -362,10 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-8.16.45 AM-300x200.png)](https://www.theadvocates.org/anything-peaceful/)
     
     #### [Anything Peaceful](https://www.theadvocates.org/anything-peaceful/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-27-at-12.26.38 PM-300x200.png)](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
-    
-    #### [What’s So Great About Polycentricity?](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
