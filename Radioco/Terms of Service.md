@@ -407,6 +407,7 @@ Resources
 * [Bandwidth Calculator](https://radio.co/internet-radio-bandwidth-calculator)
 * [Production Services](https://radio.co/production)
 * [Training Services](https://radio.co/training)
+* [The Podcast Creation Comprehensive](https://radio.co/the-podcast-creation-comprehensive)
 
 Company
 -------
