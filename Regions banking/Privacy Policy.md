@@ -346,7 +346,7 @@ Privacy & Security
 Related Insights
 ----------------
 
-[4 Easy Steps to Financial Management](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/4-steps-to-take-charge-of-your-accounts)
+[How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
 
 [4 Tips for Choosing a Checking Account](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/opening-a-checking-account)
 
