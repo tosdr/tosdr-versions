@@ -34,7 +34,7 @@
         
         [Integrations](https://www.airship.com/partners/)
         
-        [Performance Analytics](https://www.airship.com/product/ai-and-analytics/performance-analytics/)
+        [Performance Analytics](https://www.airship.com/product/performance-analytics/)
         
     * [Accelerate Results with AI](https://www.airship.com/product/accelerate-results-with-ai/)
         
@@ -44,6 +44,8 @@
         
         [](#)
         
+    
+    [![](https://www.airship.com/wp-content/uploads/2024/10/Airship-2024-LinkedIn-Live-Broadcast-LP-Image-30th-APAC-NAM.png)](https://www.airship.com/events/from-fragmented-to-fluid-how-to-improve-mobile-first-cx-for-2025-emea-nam/)
     
     * [Build No-Code Experiences](https://www.airship.com/product/experience-editor/)
         
@@ -74,8 +76,6 @@
         
     * [Mobile Wallet](https://www.airship.com/product/channels/mobile-wallet/)
         
-    
-    [![](https://www.airship.com/wp-content/uploads/2024/09/Airship-Fall-Launch-LinkedI-Live-Navigation-Banner.png)](https://www.linkedin.com/events/7244404083065786369/about/)
     
 * Solutions
     
@@ -631,8 +631,8 @@ _Targeting Cookies_
 
 * [Platform](#)
 * [Airship Experience Platform](https://www.airship.com/platform/app-experience-platform/)
-* [Pricing](https://www.airship.com/app-experience-platform/pricing/)
-* [Partners](https://www.airship.com/app-experience-platform/partners/)
+* [Pricing](https://www.airship.com/pricing/)
+* [Partners](https://www.airship.com/partners/)
 * [Get a Demo](https://www.airship.com/demo-request/)
 
 * [Resources](#)
