@@ -1,20 +1,20 @@
-[![whereby](https://framerusercontent.com/images/byWcaCNWWZsZnXvSlFAudEUbl0.svg)](https://whereby.com/)
+[![whereby](https://framerusercontent.com/modules/4vhu5auio1F3btB69Kmz/OapwzfVmkVCDhgRB42g1/assets/byWcaCNWWZsZnXvSlFAudEUbl0.svg)](https://whereby.com/)
 
 Products
 
-![](https://framerusercontent.com/images/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
+![](https://framerusercontent.com/modules/vrAREzDFqeDSSM8Z0avz/XlMsuyBhWZP0GjST8cbU/assets/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
 
 Pricing
 
-![](https://framerusercontent.com/images/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
+![](https://framerusercontent.com/modules/vrAREzDFqeDSSM8Z0avz/XlMsuyBhWZP0GjST8cbU/assets/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
 
 Developers
 
-![](https://framerusercontent.com/images/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
+![](https://framerusercontent.com/modules/vrAREzDFqeDSSM8Z0avz/XlMsuyBhWZP0GjST8cbU/assets/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
 
 Resources
 
-![](https://framerusercontent.com/images/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
+![](https://framerusercontent.com/modules/vrAREzDFqeDSSM8Z0avz/XlMsuyBhWZP0GjST8cbU/assets/CUZORQQ6t0eqOf8IlcMfnHlyQgo.svg)
 
 [Log in](https://whereby.com/user/login)
 
