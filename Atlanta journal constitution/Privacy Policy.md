@@ -1,5 +1,3 @@
-[Breaking: Kemp proposes new $1B income tax refund from Georgia’s giant surplus](https://www.ajc.com/politics/kemp-proposes-new-1b-income-tax-refund-from-georgias-giant-surplus/6WTSULGFUNC6RIETG3ONUTRB3A/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-where-the-race-for-georgia-stands/QOPBRKCKYJCHFPP3JDZ5K6E624/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
