@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
+* [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
@@ -153,14 +153,14 @@ Latest reactions
 
 Latest forum posts
 
+* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
+* [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
+* [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
 * [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=5 "CVBasic: New BASIC compiler for MSX")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
-* [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
-* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
-* [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations "Compilations")
 * [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [Nyan Cat for MSX](https://www.msx.org/forum/msx-talk/development/nyan-cat-for-msx "Nyan Cat for MSX")
