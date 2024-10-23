@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=256687912825121&ev=PageView&noscript=1)          [Skip to content](#content)
+![](https://www.facebook.com/tr?id=256687912825121&ev=PageView&noscript=1)           [Skip to content](#content)
 
 [Social News Desk](https://www.socialnewsdesk.com/)
 
@@ -7,94 +7,99 @@
 * Features
     
     Close Features Open Features
+    
+    [**Automated scheduling**
+    
+    Automate your publishing with human-centered AI.](https://www.socialnewsdesk.com/ai-powered-automated-social-publishing/)[**Publishing calendar**
+    
+    Keep everyone on the same page with helpful tools.](https://www.socialnewsdesk.com/scheduling-tools-social-media-scheduling-for-teams/)[**Consolidated reporting**
+    
+    Turn data into insights to help you continuously improve.](https://www.socialnewsdesk.com/social-media-reports/)[**Listen and engage**
+    
+    Stay on top of what’s most important to your audience.](https://www.socialnewsdesk.com/listen-engage-stay-connected/)[**Link in bio**
+    
+    Schedule and share with no extra steps needed.](https://www.socialnewsdesk.com/newsin-bio-link-sharing-for-instagram-tiktok/)[**On air display**
+    
+    Real-time monitoring for keeping your audience engaged and informed while on air.](https://www.socialnewsdesk.com/snd-on-air-social-media-live-display/)
+    
+    [![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/ligon.png)](https://www.socialnewsdesk.com/blog/snds-search-and-listen-transforms-mont-belvieus-community-connection/)
+    
+    **Tools for critical social media** engagement
+    
+    _“Social News Desk has been able to elevate our game on all levels. Having an all-in-one dashboard has been a game changer for us. The native listening is fantastic.”_
+    
+      **Brian Ligon**
+    
+      Communications Director
+    
+      Mont Belvieu, TX
+    
+    [Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
+    
 * Customers
     
     Close Customers Open Customers
+    
+    [**Government**
+    
+    Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Universities**
+    
+    Reach, retain and engage with students, faculty and donors.](https://www.socialnewsdesk.com/universities/)[**K-12 Education**
+    
+    Engage parents and celebrate education in your community.](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)[**News & Publishing**
+    
+    Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
+    
+    Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[Customer Stories
+    
+    See what real SND customers have to say about their experience.](https://www.socialnewsdesk.com/snd-customer-stories)
+    
+    [![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/sweetwater.png)](https://www.socialnewsdesk.com/blog/customer-review-city-of-sweetwater-conquers-social-media-chaos-with-snd/)
+    
+    **Trusted by America’s cities, newsrooms and universities**
+    
+    _“Having all of our social media platforms for all of our agencies in one place has really helped. I can give people access easily and oversee what they’re doing.”_ 
+    
+      _**Kathleen Cox**_
+    
+      _Communications Manager_
+    
+      _Sweetwater, TX_
+    
+    [Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
+    
 * Resources
     
     Close Resources Open Resources
-
-[**Automated scheduling**
-
-Automate your publishing with human-centered AI.](https://www.socialnewsdesk.com/ai-powered-automated-social-publishing/)[**Publishing calendar**
-
-Keep everyone on the same page with helpful tools.](https://www.socialnewsdesk.com/scheduling-tools-social-media-scheduling-for-teams/)[**Consolidated reporting**
-
-Turn data into insights to help you continuously improve.](https://www.socialnewsdesk.com/social-media-reports/)[**Listen and engage**
-
-Stay on top of what’s most important to your audience.](https://www.socialnewsdesk.com/listen-engage-stay-connected/)[**Link in bio**
-
-Schedule and share with no extra steps needed.](https://www.socialnewsdesk.com/newsin-bio-link-sharing-for-instagram-tiktok/)[**On air display**
-
-Real-time monitoring for keeping your audience engaged and informed while on air.](https://www.socialnewsdesk.com/snd-on-air-social-media-live-display/)
-
-[![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/ligon.png)](https://www.socialnewsdesk.com/blog/snds-search-and-listen-transforms-mont-belvieus-community-connection/)
-
-**Tools for critical social media** engagement
-
-_“Social News Desk has been able to elevate our game on all levels. Having an all-in-one dashboard has been a game changer for us. The native listening is fantastic.”_
-
-  **Brian Ligon**
-
-  Communications Director
-
-  Mont Belvieu, TX
-
-[Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
-
-[**Government**
-
-Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Universities**
-
-Reach, retain and engage with students, faculty and donors.](https://www.socialnewsdesk.com/universities/)[**K-12 Education**
-
-Engage parents and celebrate education in your community.](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)[**News & Publishing**
-
-Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
-
-Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[Customer Stories
-
-See what real SND customers have to say about their experience.](https://www.socialnewsdesk.com/snd-customer-stories)
-
-[![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/sweetwater.png)](https://www.socialnewsdesk.com/blog/customer-review-city-of-sweetwater-conquers-social-media-chaos-with-snd/)
-
-**Trusted by America’s cities, newsrooms and universities**
-
-_“Having all of our social media platforms for all of our agencies in one place has really helped. I can give people access easily and oversee what they’re doing.”_ 
-
-  _**Kathleen Cox**_
-
-  _Communications Manager_
-
-  _Sweetwater, TX_
-
-[Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
-
-[Ebooks & Templates
-
-Master social media management with free downloadable resources.](https://www.socialnewsdesk.com/snd-downloadable-resource-library)[Webinars & Events
-
-View educational tutorials from experts in social media.](https://www.socialnewsdesk.com/snd-webinars-events)[Blog
-
-Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[About us
-
-Meet the team behind SND and see why we love social media.](https://www.socialnewsdesk.com/about-us/)[Customer support
-
-Access human support for any assistance you need with our platform.](https://support.socialnewsdesk.com/)
-
-[![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/MTSU.png)](https://www.socialnewsdesk.com/blog/mtsu-unlocks-campus-wide-social-media-management-with-snd/)
-
-**Real human support**
-
-_“The customer service with SND is like no other. You can’t go wrong with Social News Desk. It by far blows all the other social media platforms out of the water.”_
-
-  **DeAnn Hays**
-
-  Communications Specialist
-
-  Middle Tennessee State University
-
-[Contact Us](https://www.socialnewsdesk.com/contact/)
+    
+    [Ebooks & Templates
+    
+    Master social media management with free downloadable resources.](https://www.socialnewsdesk.com/snd-downloadable-resource-library)[Webinars & Events
+    
+    View educational tutorials from experts in social media.](https://www.socialnewsdesk.com/snd-webinars-events)[Blog
+    
+    Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[About us
+    
+    Meet the team behind SND and see why we love social media.](https://www.socialnewsdesk.com/about-us/)[Customer support
+    
+    Access human support for any assistance you need with our platform.](https://support.socialnewsdesk.com/)
+    
+    [![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/MTSU.png)](https://www.socialnewsdesk.com/blog/mtsu-unlocks-campus-wide-social-media-management-with-snd/)
+    
+    **Real human support**
+    
+    _“The customer service with SND is like no other. You can’t go wrong with Social News Desk. It by far blows all the other social media platforms out of the water.”_
+    
+      **DeAnn Hays**
+    
+      Communications Specialist
+    
+      Middle Tennessee State University
+    
+    [Contact Us](https://www.socialnewsdesk.com/contact/)
+    
+* [Pricing](https://www.socialnewsdesk.com/pricing-plans)
+    
 
 [Get started](https://www.socialnewsdesk.com/demo)
 
