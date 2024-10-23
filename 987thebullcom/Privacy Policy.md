@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Breaking Up Was Easy In The 90'SSam Hunt<br><br>5:40pm |
-| White HorseChris Stapleton<br><br>5:37pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:34pm |
-| ToesZac Brown Band<br><br>5:24pm |
-| Save MeJelly Roll Ft Lainey Wilson<br><br>5:20pm |
+| Play It AgainLuke Bryan<br><br>11:39pm |
+| Back Then Right NowTyler Hubbard<br><br>11:35pm |
+| Pink SkiesZach Bryan<br><br>11:32pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:29pm |
+| Fast CarLuke Combs<br><br>11:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,11 +495,7 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
@@ -507,9 +503,13 @@ Country • Western
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
+Sports • Midwest
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
