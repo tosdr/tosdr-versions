@@ -144,6 +144,34 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 23, 2024
+
+> Very Responsive and Patient w/ Our Needs!
+
+> Anja has been great in making our travel reservations! She is very quick and responsive (at all hours, I'm not sure when she sleeps)! We went back and forth on 39 emails. Yes, 39 emails for a couple of weeks. She made several different itineraries in ranging prices, types of accommodations, and locations. She was patient through the whole process and provided so much information. We finally decided on our perfect trip!
+
+Amanda Motz
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 21, 2024
+
+> Friendliness
+
+> Friendliness, quick response to my request and understanding of my needs It was only a pleasure dealing with Tanya Lomas.
+
+Alexander van Eeden
+
+,
+
+ZA
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 21, 2024
 
 > Excellent, fast, helpful service
@@ -239,34 +267,6 @@ Stan
 ,
 
 us
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 16, 2024
-
-> Very responsive and accurate
-
-> Very responsive and accurate
-
-Jean
-
-,
-
-fr
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 15, 2024
-
-> Planning Our Family African Safari Experience
-
-> Planning our first trip to Africa was a really big deal for us. After careful review of numerous safari planners, we selected safari.com and worked with Nicole Van der Merwe. There's a lot of parts in putting together such a vacation including ground transfers, hotels, activities, and flights. At each step we had numerous questions and Nicole patiently worked through these with professionalism and care to her customers. I would recommend Nicole and safari.com for anyone planning a trip to South Africa.
-
-KP
-
-,
-
-ca
 
 VIP service
 
