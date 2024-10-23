@@ -341,6 +341,12 @@ Enphase Maintenance Services
 
 [Enphase Services Agreement (Individual Work Order)](https://enphase.com/legal/enphase-services-agreement-individual-work-order)
 
+Enphase Care
+
+[Enphase Care Annual](https://enphase.com/legal/enphase-care-annual)
+
+[Enphase Care Plus](https://enphase.com/legal/enphase-care-plus)
+
 365 Pronto
 
 [365 Pronto Platform Terms of Use](https://enphase.com/legal/365-pronto-platform-terms-use)
