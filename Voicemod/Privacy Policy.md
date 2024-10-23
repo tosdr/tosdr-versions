@@ -399,6 +399,8 @@ Follow us for more!
 * [Newsroom](https://www.voicemod.com/newsroom "Newsroom")
 * [Support](https://www.voicemod.net/en/support/ "Support (FAQ)")
 * [Careers](https://www.voicemod.com/careers "Careers")
+* [Voicemod Key](https://www.voicemod.net/en/vmkey/)
+* [Black Friday](https://www.voicemod.net/en/blackfriday/)
 
 Supercharge your Voice
 ----------------------
