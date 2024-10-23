@@ -54,7 +54,19 @@
     
     By Bernadette Roe [Read More](https://www.women.com/1693310/books-cant-wait-get-hands-on-2025/)
     
-* *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+* *  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        
+        More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        
+    *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -66,22 +78,34 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
         
-    *  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
-        
-        ### [Are Justin And Hailey Bieber Actually Compatible, According To Astrology?](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-        
-        While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
-        
 
 More Stories
 ------------
 
+*  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [Taylor Swift's Worst Outfits From Each Of Her Eras](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
+    
+    Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
+    
+*  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Are Justin And Hailey Bieber Actually Compatible, According To Astrology?](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+    
+    While the Biebers have been going strong for several years, do they make sense together in the long run? Let's consult their birth charts.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
+    
 *  [![Zahara Jolie](https://www.women.com/img/gallery/zahara-jolies-gorgeous-transformation/intro-1729558401.jpg)](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -166,7 +190,7 @@ More Stories
     
     By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
     
-*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729101053.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
+*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729693431.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
@@ -381,30 +405,6 @@ More Stories
     It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
     
     By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
-    
-*  [![Reese Witherspoon holding books](https://www.women.com/img/gallery/the-best-reese-witherspoon-book-club-picks-of-the-2020s/intro-1728486633.jpg)](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [The Best Reese Witherspoon Book Club Picks Of The 2020s](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
-    
-    What sets Reese Witherspoon apart from contemporaries is her book club, which is well endowed with sway and feminist influence.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
-    
-*  [![Ariana Grande at event](https://www.women.com/img/gallery/the-red-flags-in-ariana-grande-ethan-slaters-relationship-we-just-cant-ignore/intro-1728315693.jpg)](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
-    
-    ### [The Red Flags In Ariana Grande & Ethan Slater's Relationship We Just Can't Ignore](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
-    
-    While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
-    
-    By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
     
 
 Back
