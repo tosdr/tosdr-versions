@@ -278,7 +278,7 @@ Close
 
 [Español](https://espanol.verizon.com/)
 
-iPhone 15 Pro Max on us with new line. No trade-in req’d. Online Only. Ends 10.23 l [Buy now.](https://www.verizon.com/smartphones/apple-iphone-15-pro-max/) Or get up to $540 when you [bring your own phone.](https://www.verizon.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
+iPhone 15 Pro Max on us with new line. No trade-in req’d. Online Only. Ends Wednesday. l [Buy now.](https://www.verizon.com/smartphones/apple-iphone-15-pro-max/) Or get up to $540 when you [bring your own phone.](https://www.verizon.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
 
 iPhone: $1,099.99 (256 GB only) device payment or full retail purchase w/ new smartphone line on Unlimited Ultimate or postpaid Unlimited Plus plan (min. $80/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $1,099.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
   
