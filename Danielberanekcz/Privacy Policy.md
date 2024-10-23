@@ -752,7 +752,7 @@ Telefonní číslo: 724501041
 
 [Copywriting?](https://danielberanek.cz/copywriter-copywriting/)
 
-[![SEO specialista a copywriter Daniel Beránek, autor webu danielberanek.cz](https://danielberanek.cz/wp-content/uploads/seo-specialista-copywriter-daniel-beranek.avif "SEO specialista a copywriter Daniel Beránek: SEO a copy s ostrými hroty!")](https://danielberanek.cz/wp-content/uploads/daniel-beranek-full-size-2.avif)
+[![Daniel Beránek - portét](https://danielberanek.cz/wp-content/uploads/seo-specialista-copywriter-daniel-beranek.avif "SEO specialista a copywriter Daniel Beránek: SEO a copy s ostrými hroty!")](https://danielberanek.cz/wp-content/uploads/daniel-beranek-full-size-2.avif)
 
   
 SEO specialista a copywriter Daniel Beránek  
