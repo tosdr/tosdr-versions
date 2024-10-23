@@ -32,14 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
         
-        #### [Family of missing Davenport woman speak out](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf) [![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
+        #### [Family of missing Davenport woman speak out](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
         
-        #### [Family of missing Davenport woman asking for public's help locating her](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_360x203.jpg)](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
         
-        #### ['There's anonymity' l Narcan vending machines expand Knox County's push to curb overdoses](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9) [![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_360x203.jpg)](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
+        #### ['There's anonymity' l Narcan vending machines expand Knox County's push to curb overdoses](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
         
-        #### [Narcan vending machines now available in Knox County](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -88,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-59°
+55°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
