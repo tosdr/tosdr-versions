@@ -190,6 +190,13 @@
 
 Subscribe
 
+[#### CBD](https://www.healthline.com/cbd)
+
+* [CBD 101](https://www.healthline.com/cbd/cbd-basics)
+* [Chronic Conditions](https://www.healthline.com/cbd/cbd-chronic-conditions)
+* [Product Reviews](https://www.healthline.com/reviews/cbd-products)
+* [Types of CBD](https://www.healthline.com/cbd/cbd-types)
+
 Ad & Sponsorship Policy
 =======================
 
