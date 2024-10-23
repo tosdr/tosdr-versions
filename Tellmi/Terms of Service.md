@@ -21,8 +21,6 @@ Open Menu Close Menu
 
 [For Autism](https://www.tellmi.help/tellmi-autism-project)
 
-[For CSR](https://www.tellmi.help/sponsorship)
-
 [News & Research](https://www.tellmi.help/news-research)
 
 [News](https://www.tellmi.help/news)
@@ -65,8 +63,6 @@ Open Menu Close Menu
 
 [For Autism](https://www.tellmi.help/tellmi-autism-project)
 
-[For CSR](https://www.tellmi.help/sponsorship)
-
 [News & Research](https://www.tellmi.help/news-research)
 
 [News](https://www.tellmi.help/news)
@@ -98,8 +94,6 @@ Open Menu Close Menu
 [For The NHS](https://www.tellmi.help/nhs-and-local-authorities)
 
 [For Autism](https://www.tellmi.help/tellmi-autism-project)
-
-[For CSR](https://www.tellmi.help/sponsorship)
 
 [Folder: News & Research](https://www.tellmi.help/news-research)
 
@@ -309,6 +303,8 @@ Except as otherwise stated, any notice to us shall be given by email to support@
 [News & Research](https://www.tellmi.help/news-research)
 
 [Referrals](https://www.tellmi.help/therapy-referral)
+
+[Tellmi Sponsorship](https://www.tellmi.help/sponsorship)
 
 **About**
 
