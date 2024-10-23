@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -341,6 +341,8 @@ Enphase Maintenance Services
 
 [Enphase Services Agreement (Individual Work Order)](https://enphase.com/legal/enphase-services-agreement-individual-work-order)
 
+[Enphase Services Agreement (Fleet Work Order)](https://enphase.com/legal/enphase-services-agreement-fleet-work-order)
+
 Enphase Care
 
 [Enphase Care Annual](https://enphase.com/legal/enphase-care-annual)
@@ -526,7 +528,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage)
+    * [Storage](https://enphase.com/installers/storage/gen2)
     
 * Support
     
