@@ -45,7 +45,15 @@
 * [Glossary](https://www.applovin.com/glossary/)
 * [Events](https://www.applovin.com/events/)
 
-[View all resources](https://www.applovin.com/resource-center/)
+###### More about us
+
+* [Partners](https://www.applovin.com/partners/)
+* [Press](https://www.applovin.com/press/)
+* [Jobs](https://www.applovin.com/jobs/)
+    
+    NEW
+    
+* [About Us](https://www.applovin.com/about/)
 
 ###### Featured posts
 
@@ -57,14 +65,73 @@
 
 ###### New Webinar: Metaplay & Gamification](https://www.applovin.com/blog/new-interactive-ads-webinar-about-metaplay-and-gamification-is-live/)
 
-###### More about us
-
-* [Partners](https://www.applovin.com/partners/)
-* [Press](https://www.applovin.com/press/)
-* [Jobs](https://www.applovin.com/jobs/)
+[View all resources](https://www.applovin.com/resource-center/)
 
 * [Sign Up](https://dash.applovin.com/signup)
 * [Sign In](https://dash.applovin.com/login)
+
+[![AppLovin](/wp-content/uploads/2019/09/applovin-logo-hz-black-2019.svg)](https://www.applovin.com/)
+
+* [Products](#)
+    * [AppDiscovery
+        
+        Acquire your ideal users](https://www.applovin.com/appdiscovery/)
+    * [MAX
+        
+        Monetize your app](https://www.applovin.com/max/)
+    * [SparkLabs
+        
+        Create ads that perform](https://www.applovin.com/sparklabs/)
+    * [AppLovin Exchange
+        
+        Reach your audience](https://www.applovin.com/alx/)
+    * [Array
+        
+        Increase value across customer’s lifecycle](https://www.applovin.com/array/)
+    * [Adjust
+        
+        Measure your marketing](https://www.applovin.com/adjust/)
+    * [Wurl
+        
+        Take control of your CTV strategy](https://www.applovin.com/wurl/)
+* [Solutions](#)
+    * [Increase ARPDAU](https://www.applovin.com/solutions/increase-arpdau/)
+    * [Scale Ad Impressions](https://www.applovin.com/solutions/scale-ad-impressions/)
+    * [Acquire Valuable Users](https://www.applovin.com/solutions/acquire-valuable-users/)
+    * [Increase IAPs](https://www.applovin.com/solutions/increase-iaps/)
+    * [Expand Your Reach](https://www.applovin.com/solutions/expand-your-reach/)
+* [Resources](#)
+    * [Success Stories](https://www.applovin.com/success-stories/)
+    * [Blog](https://www.applovin.com/blog/)
+    * [Video Library](https://www.applovin.com/videos/)
+    * [Guides and Reports](https://www.applovin.com/guides-reports/)
+    * [Glossary](https://www.applovin.com/glossary/)
+    * [Events](https://www.applovin.com/events/)
+    
+    [View all resources](https://www.applovin.com/resource-center/)
+    
+    ###### More about us
+    
+    * [Partners](https://www.applovin.com/partners/)
+    * [Jobs](https://www.applovin.com/jobs/)
+        
+        NEW
+        
+    * [Press](https://www.applovin.com/press/)
+    * [About Us](https://www.applovin.com/about/)
+
+* [Sign Up](https://dash.applovin.com/signup)
+* [Sign In](https://dash.applovin.com/login)
+
+* [![X](/wp-content/themes/applovin/images/social-icon-x-2023.svg)](https://twitter.com/AppLovin)
+* [![Facebook](/wp-content/themes/applovin/images/social-icon-fb-2023.svg)](https://www.facebook.com/AppLovin)
+* [![LinkedIn](/wp-content/themes/applovin/images/social-icon-li-2023.svg)](https://www.linkedin.com/company/applovin)
+* [![Instagram](/wp-content/themes/applovin/images/social-icon-ig-2023.svg)](https://www.instagram.com/applovin)
+
+* [ENG](https://www.applovin.com/)
+* [中文](https://www.applovin.com/cn/)
+* [日本語](https://www.applovin.com/ja/)
+* [한국어](https://www.applovin.com/ko/)
 
 Privacy Policy
 ==============
@@ -454,72 +521,3 @@ Copyright © 2024 AppLovin. All rights reserved.
 * [![Facebook](/wp-content/themes/applovin/images/social-icon-fb-2023.svg)](https://www.facebook.com/AppLovin)
 * [![LinkedIn](/wp-content/themes/applovin/images/social-icon-li-2023.svg)](https://www.linkedin.com/company/applovin)
 * [![Instagram](/wp-content/themes/applovin/images/social-icon-ig-2023.svg)](https://www.instagram.com/applovin)
-
-[![AppLovin](/wp-content/uploads/2019/09/applovin-logo-hz-black-2019.svg)](https://www.applovin.com/)
-
-* [Products](#)
-    * [AppDiscovery
-        
-        The growth engine for your apps](https://www.applovin.com/appdiscovery/)
-    * [MAX
-        
-        A better way to monetize your app](https://www.applovin.com/max/)
-    * [AppLovin Exchange
-        
-        Reach your audience](https://www.applovin.com/alx/)
-    * [Array
-        
-        Maximize your opportunity](https://www.applovin.com/array/)
-    * [SparkLabs
-        
-        Creatives to drive results](https://www.applovin.com/sparklabs/)
-    * [Adjust
-        
-        Measure your marketing](https://www.applovin.com/adjust/)
-    * [Wurl
-        
-        A powerful platform for CTV streaming](https://www.applovin.com/wurl/)
-* [Solutions](#)
-    * [Increase ARPDAU](https://www.applovin.com/solutions/increase-arpdau/)
-    * [Scale Ad Impressions](https://www.applovin.com/solutions/scale-ad-impressions/)
-    * [Acquire Valuable Users](https://www.applovin.com/solutions/acquire-valuable-users/)
-    * [Increase IAPs](https://www.applovin.com/solutions/increase-iaps/)
-    * [Expand Your Reach](https://www.applovin.com/solutions/expand-your-reach/)
-* [Resources](#)
-    * [Success Stories](https://www.applovin.com/success-stories/)
-    * [Blog](https://www.applovin.com/blog/)
-    * [Video Library](https://www.applovin.com/videos/)
-    * [Glossary](https://www.applovin.com/glossary/)
-    * [Events](https://www.applovin.com/events/)
-    * [Partners](https://www.applovin.com/partners/)
-    * [Press](https://www.applovin.com/press/)
-    * [Jobs](https://www.applovin.com/jobs/)
-
-Resources
-
-* [Resource Center](https://www.applovin.com/resource-center/)
-* [Success Stories](https://www.applovin.com/success-stories/)
-* [Blog](https://www.applovin.com/blog/)
-* [Video Library](https://www.applovin.com/videos/)
-* [Events](https://www.applovin.com/events)
-* [Dev\_Source](https://www.applovin.com/dev-source/)
-
-Company
-
-* [About Us](https://www.applovin.com/about/)
-* [Press](https://www.applovin.com/press/)
-* [Jobs](https://www.applovin.com/jobs/)
-* [Investors](https://investors.applovin.com/)
-* [Contact Us](https://www.applovin.com/contact/)
-
-* [Sign in](https://dash.applovin.com/login)
-
-* [![X](/wp-content/themes/applovin/images/social-icon-x-2023.svg)](https://twitter.com/AppLovin)
-* [![Facebook](/wp-content/themes/applovin/images/social-icon-fb-2023.svg)](https://www.facebook.com/AppLovin)
-* [![LinkedIn](/wp-content/themes/applovin/images/social-icon-li-2023.svg)](https://www.linkedin.com/company/applovin)
-* [![Instagram](/wp-content/themes/applovin/images/social-icon-ig-2023.svg)](https://www.instagram.com/applovin)
-
-* [ENG](https://www.applovin.com/)
-* [中文](https://www.applovin.com/cn/)
-* [日本語](https://www.applovin.com/ja/)
-* [한국어](https://www.applovin.com/ko/)
