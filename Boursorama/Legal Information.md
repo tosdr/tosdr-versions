@@ -499,5 +499,5 @@ Boursorama, SA au capital de 53 576 889,20 € – RCS Nanterre 351 058 151 – 
 ![Label B Corp](/bundles/boursoramaui/images/footer/b-corp-fr.png)
 
 * [](https://www.facebook.com/Boursorama-132746953466063 "Boursorama sur Facebook (nouvelle fenêtre)")
-* [](https://twitter.com/boursorama "Boursorama sur Twitter (nouvelle fenêtre)")
+* [](https://x.com/boursorama "Boursorama sur X (nouvelle fenêtre)")
 * [](https://www.youtube.com/channel/UCnJ8fyizHQi6A_5_5Im7cVA "Boursorama sur Youtube (nouvelle fenêtre)")
