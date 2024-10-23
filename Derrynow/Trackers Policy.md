@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family")](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Funeral details announced as family pays tribute to Ireland’s Fittest Family teen contestant](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral details announced as family pays tribute to Ireland’s Fittest Family teen contestant")](https://www.derrynow.com/news/national-news/1637582/funeral-details-announced-as-family-pays-tribute-to-irelands-fittest-family-teen-contestant.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -273,35 +266,12 @@ Most Popular
 [Funeral details announced as family pays tribute to Ireland’s Fittest Family teen contestant](https://www.derrynow.com/news/national-news/1637582/funeral-details-announced-as-family-pays-tribute-to-irelands-fittest-family-teen-contestant.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Devastating update for young Irish father-of-three battling brain tumour in Dubai](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Devastating update for young Irish father-of-three battling brain tumour in Dubai")](https://www.derrynow.com/news/national-news/1636669/devastating-update-for-young-irish-father-of-three-battling-brain-tumour-in-dubai.html)
+[![Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family")](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Devastating update for young Irish father-of-three battling brain tumour in Dubai](https://www.derrynow.com/news/national-news/1636669/devastating-update-for-young-irish-father-of-three-battling-brain-tumour-in-dubai.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man in Derry Court following breach of non-molestation order against his partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in Derry Court following breach of non-molestation order against his partner")](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man in Derry Court following breach of non-molestation order against his partner](https://www.derrynow.com/news/local-news/1636563/man-in-derry-court-following-breach-of-non-molestation-order-against-his-partner.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Magherafelt-based The Oakleaf Group](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt-based The Oakleaf Group")](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
-
-Magherafelt-based The Oakleaf Group
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Magherafelt-based The Oakleaf Group has announced the opening date for its newest bar The 40 Thieves Tavern in Cookstown](https://www.derrynow.com/news/county-derry-post/1636705/magherafelt-based-the-oakleaf-group-has-announced-the-opening-date-for-its-newest-bar-the-40-thieves-tavern-in-cookstown.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Fr Paddy O'Kane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fr Paddy O'Kane")](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
 
@@ -312,34 +282,82 @@ Fr Paddy O'Kane
 [Fr Paddy O'Kane inquest told garden area not included in health and safety assessment](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024")](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
 
-Ryanair confirm extension of routes
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Car flag vandalized ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Car flag vandalized ")](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
+
+Car flag vandalized
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[County Derry mans car flying local Gaelic team's flag vandalised in Eglinton](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman who headbutted her mother given suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman who headbutted her mother given suspended sentence")](https://www.derrynow.com/news/local-news/1637602/derry-woman-who-headbutted-her-mother-given-suspended-sentence.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman who headbutted her mother given suspended sentence](https://www.derrynow.com/news/local-news/1637602/derry-woman-who-headbutted-her-mother-given-suspended-sentence.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rare classic and sports cars from private Irish collections going under the hammer")](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ryanair celebrates over five million passengers through City of Derry Airport ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryanair celebrates over five million passengers through City of Derry Airport ")](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
+
+Ryanair celebrates over five million passengers through City of Derry Airport
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
 [Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![McDonald offers ‘full’ apology to teenager sent inappropriate texts by senator](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald offers ‘full’ apology to teenager sent inappropriate texts by senator")](https://www.derrynow.com/news/northern-ireland/1636743/mcdonald-offers-full-apology-to-teenager-sent-inappropriate-texts-by-senator.html)
+[![Man returned to Derry Crown Court on series of historical sexual abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘No armed groups should exist in this day and age’ – O’Neill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘No armed groups should exist in this day and age’ – O’Neill")](https://www.derrynow.com/news/northern-ireland/1638044/no-armed-groups-should-exist-in-this-day-and-age-oneill.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[McDonald offers ‘full’ apology to teenager sent inappropriate texts by senator](https://www.derrynow.com/news/northern-ireland/1636743/mcdonald-offers-full-apology-to-teenager-sent-inappropriate-texts-by-senator.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[‘No armed groups should exist in this day and age’ – O’Neill](https://www.derrynow.com/news/northern-ireland/1638044/no-armed-groups-should-exist-in-this-day-and-age-oneill.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary")](https://www.derrynow.com/story-telling/pictures---videos/1637583/in-pictures-federation-of-ulster-local-studies-celebrates-50th-anniversary.html)
+
+Photos by Jim McCafferty.
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary](https://www.derrynow.com/story-telling/pictures---videos/1637583/in-pictures-federation-of-ulster-local-studies-celebrates-50th-anniversary.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Mayor hosts reception for Gareth Vaughan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Gareth Vaughan")](https://www.derrynow.com/story-telling/derry-sport/1638104/in-pictures-mayor-hosts-reception-for-gareth-vaughan.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Mayor hosts reception for Gareth Vaughan](https://www.derrynow.com/story-telling/derry-sport/1638104/in-pictures-mayor-hosts-reception-for-gareth-vaughan.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
 
@@ -406,22 +424,6 @@ IN PICTURES: All smiles for International Credit Union Day in Derry
 
 [IN PICTURES: All smiles for International Credit Union Day in Derry](https://www.derrynow.com/story-telling/pictures---videos/1635455/in-pictures-all-smiles-for-international-credit-union-day-in-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend")](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
-
-IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: 'Bridgil for Gaza' held at Peace Bridge in Derry over the weekend](https://www.derrynow.com/story-telling/pictures---videos/1635456/in-pictures-bridgil-for-gaza-held-at-peace-bridge-in-derry-over-the-weekend.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death")](https://www.derrynow.com/news/derry-news/1633411/derry-s-eoghan-quigg-posts-tribute-to-one-direction-s-liam-payne-following-his-death.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry's Eoghan Quigg posts tribute to One Direction's Liam Payne following his death](https://www.derrynow.com/news/derry-news/1633411/derry-s-eoghan-quigg-posts-tribute-to-one-direction-s-liam-payne-following-his-death.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,57 +525,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Call for those affected by Omagh bombing to assist inquiry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call for those affected by Omagh bombing to assist inquiry")](https://www.derrynow.com/news/local-news/1637517/call-for-those-affected-by-omagh-bombing-to-assist-inquiry.html)
+[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Call for those affected by Omagh bombing to assist inquiry](https://www.derrynow.com/news/local-news/1637517/call-for-those-affected-by-omagh-bombing-to-assist-inquiry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Car flag vandalized ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Car flag vandalized ")](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
-
-Car flag vandalized
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[County Derry mans car flying local Gaelic team's flag vandalised in Eglinton](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Archibald encourages Mid-Ulster entrepreneurs to help vacant premises get ‘Back in Business’](https://www.derrynow.com/resizer/165/93/true/2024_10_23/Back_in_Business_-_AMC_-_%281%29_-_Oct_2024-1729679982125.JPG--.JPG?1729679982909 "Archibald encourages Mid-Ulster entrepreneurs to help vacant premises get ‘Back in Business’")](https://www.derrynow.com/news/home/1637576/archibald-encourages-mid-ulster-entrepreneurs-to-help-vacant-premises-get-back-in-business.html)
-
-Finance Minister Dr Caoimhe Archibald with Aisling Stewart, owner of AMC Beauty & Training Academy.
+Wolverhampton Police Station
 
 [Home](https://www.derrynow.com/)
 
-[Archibald encourages Mid-Ulster entrepreneurs to help vacant premises get ‘Back in Business’](https://www.derrynow.com/news/home/1637576/archibald-encourages-mid-ulster-entrepreneurs-to-help-vacant-premises-get-back-in-business.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Magherafelt construction company awarded £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fr Paddy O'Kane](https://www.derrynow.com/resizer/165/93/true/2022_03_28/_96560124_pruest-1648469089881.jpg--.jpg?1648469089902 "Fr Paddy O'Kane")](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
+[!['It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance")](https://www.derrynow.com/news/home/1638019/it-s-not-all-about-tutus-moneymore-professional-ballet-dancer-is-enjoying-a-rewarding-career-in-the-world-of-dance.html)
 
-Fr Paddy O'Kane
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fr Paddy O'Kane inquest told garden area not included in health and safety assessment](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Celebrate the Taste of Mid Ulster at The Inn Castledawson](https://www.derrynow.com/resizer/165/93/true/2024_10_23/The_Castledawson_Inn___0002-1729680421228.jpg--.jpg?1729680421307 "Celebrate the Taste of Mid Ulster at The Inn Castledawson")](https://www.derrynow.com/news/home/1637591/celebrate-the-taste-of-mid-ulster-at-the-inn-castledawson.html)
-
-The Inn Castledawson will host the event this Friday.
+Ruaidhrí Maguire will be among the established stars of the international ballet and dance world performing in Belfast this weekend.
 
 [Home](https://www.derrynow.com/)
 
-[Celebrate the Taste of Mid Ulster at The Inn Castledawson](https://www.derrynow.com/news/home/1637591/celebrate-the-taste-of-mid-ulster-at-the-inn-castledawson.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance](https://www.derrynow.com/news/home/1638019/it-s-not-all-about-tutus-moneymore-professional-ballet-dancer-is-enjoying-a-rewarding-career-in-the-world-of-dance.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Federation of Ulster Local Studies holds 50th Anniversary AGM and Conference in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_23/MixCollage-23-Oct-2024-11-17-AM-9028-1729678629016.jpg--.jpg?1729678629070 "Federation of Ulster Local Studies holds 50th Anniversary AGM and Conference in Derry")](https://www.derrynow.com/story-telling/local-news/1637523/federation-of-ulster-local-studies-holds-50th-anniversary-agm-and-conference-in-derry.html)
+[![SDLP MLA says all-island register is the only way to protect animals](https://www.derrynow.com/resizer/165/93/true/2024_10_23/MixCollage-23-Oct-2024-12-06-PM-1361-1729681523907.jpg--.jpg?1729681523980 "SDLP MLA says all-island register is the only way to protect animals")](https://www.derrynow.com/news/local-news/1637614/foyle-mla-says-all-island-register-is-the-only-way-to-protect-animals.html)
 
-Mayor Lillian Seenoi-Barr pictured at the event in City Hotel, Derry. Photo by Jim McCafferty.
+SDLP MLA says all-island register is the only way to protect animals
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Federation of Ulster Local Studies holds 50th Anniversary AGM and Conference in Derry](https://www.derrynow.com/story-telling/local-news/1637523/federation-of-ulster-local-studies-holds-50th-anniversary-agm-and-conference-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Foyle MLA says all-island register is the only way to protect animals](https://www.derrynow.com/news/local-news/1637614/foyle-mla-says-all-island-register-is-the-only-way-to-protect-animals.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![£13 million a year allocated to improve services for children with disabilities](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_23/1729701308881_0.jpg--.jpg?1729701308915 "£13 million a year allocated to improve services for children with disabilities")](https://www.derrynow.com/news/local-news/1638099/13-million-a-year-allocated-to-improve-services-for-children-with-disabilities.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[£13 million a year allocated to improve services for children with disabilities](https://www.derrynow.com/news/local-news/1638099/13-million-a-year-allocated-to-improve-services-for-children-with-disabilities.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![O’Neill insists she can still lead as First Minister in stormy committee meeting](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_23/1729699503556_0.jpg--.jpg?1729699503719 "O’Neill insists she can still lead as First Minister in stormy committee meeting")](https://www.derrynow.com/news/local-news/1638072/oneill-insists-she-can-still-lead-as-first-minister-in-stormy-committee-meeting.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[O’Neill insists she can still lead as First Minister in stormy committee meeting](https://www.derrynow.com/news/local-news/1638072/oneill-insists-she-can-still-lead-as-first-minister-in-stormy-committee-meeting.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
