@@ -227,6 +227,7 @@ Marketing cookies are used to track visitors across websites. The intention is t
 * [Terms & Policies](https://www.talkingproducts.com/pages/our-terms-conditions-and-policies-1)
 * [Disposal & Recycling](https://www.talkingproducts.com/pages/disposal-and-recycling-weee)
 * [Web Links](https://www.talkingproducts.com/pages/web-links-and-resources)
+* [Product User Guides](https://www.talkingproducts.com/pages/product-user-guides)
 
 ### Get In Touch
 
