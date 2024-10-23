@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Donald Trump does a hand motion in the main image; Fani Willis looks confused inset on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/03/Trump-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
+1. [![Couy Griffin at the Capitol on Jan. 6, 2021.](https://lawandcrime.com/wp-content/uploads/2022/03/Couy-Griffin-at-Capitol-J6-432x243.jpg)](https://lawandcrime.com/high-profile/breaching-the-restricted-area-suffices-court-shuts-down-cowboys-for-trump-founders-jan-6-conviction-appeal-rejects-argument-he-didnt-know-pence-was-there/)
     
-    ### ['The law doesn't apply to you': Fani Willis' office ripped by sarcastic judge for violating open records laws in case related to Trump RICO prosecution, punishment to come](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
+    ### ['Breaching the restricted area suffices': Court shuts down 'Cowboys for Trump' founder's Jan. 6 conviction appeal, rejects argument he didn't know Pence was there](https://lawandcrime.com/high-profile/breaching-the-restricted-area-suffices-court-shuts-down-cowboys-for-trump-founders-jan-6-conviction-appeal-rejects-argument-he-didnt-know-pence-was-there/)
     
-2. [![Rudy Giuliani](https://am21.mediaite.com/lc/cnt/uploads/2024/06/AP20255664139540-432x243.jpg)](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
+2. [![A teenage boy pictured after he's trampled by a police horse at the State Fair of Texas.](https://lawandcrime.com/wp-content/uploads/2024/10/horse-432x243.jpg)](https://lawandcrime.com/lawsuit/police-horse-set-off-by-spilled-soda-ran-wild-through-state-fair-crowd-trampled-teen-boy-who-began-convulsing-on-cement-in-front-of-family-lawsuit/)
+    
+    ### [Police horse set off by spilled soda 'ran wild' through state fair crowd, trampled teen boy who 'began convulsing' on cement in front of family: Lawsuit](https://lawandcrime.com/lawsuit/police-horse-set-off-by-spilled-soda-ran-wild-through-state-fair-crowd-trampled-teen-boy-who-began-convulsing-on-cement-in-front-of-family-lawsuit/)
+    
+3. [![Rudy Giuliani](https://lawandcrime.com/wp-content/uploads/2024/06/AP20255664139540-432x243.jpg)](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
     
     ### ['Profound irony': Judge orders Rudy Giuliani to quickly transfer his assets to defamed Georgia election workers — including NYC apartment and Trump legal bills](https://lawandcrime.com/high-profile/profound-irony-judge-orders-rudy-giuliani-to-quickly-transfer-his-assets-to-defamed-georgia-election-workers-including-nyc-apartment-and-trump-legal-bills/)
     
-3. [![Brandy Rachelle Brown (Harris County Jail).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/dsddfsd-432x243.jpg)](https://lawandcrime.com/crime/mom-left-toddler-in-illegally-parked-car-to-go-drinking-at-a-nightclub-child-later-discovered-after-car-towed/)
-    
-    ### [Mom left toddler in illegally parked car to go 'drinking at a nightclub,' child later discovered after car towed](https://lawandcrime.com/crime/mom-left-toddler-in-illegally-parked-car-to-go-drinking-at-a-nightclub-child-later-discovered-after-car-towed/)
-    
-4. [![Left: Emmanuel Thomas Dennis (Fayette County District Attorney's Office). Right: The apartment complex where Dennis allegedly beat his fiancee's 2-year-old daughter to death (Google Maps).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Left-Emmanuel-Thomas-Dennis-Fayette-County-District-Attorneys-Office.-Right-The-apartment-complex-where-Dennis-allegedly-beat-his-fiancees-2-year-old-daughter-to-death-Google-Maps-432x243.jpg)](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
+4. [![Left: Emmanuel Thomas Dennis (Fayette County District Attorney's Office). Right: The apartment complex where Dennis allegedly beat his fiancee's 2-year-old daughter to death (Google Maps).](https://lawandcrime.com/wp-content/uploads/2024/10/Left-Emmanuel-Thomas-Dennis-Fayette-County-District-Attorneys-Office.-Right-The-apartment-complex-where-Dennis-allegedly-beat-his-fiancees-2-year-old-daughter-to-death-Google-Maps-432x243.jpg)](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
     
     ### [Man repeatedly referred to fiancee's 2-year-old daughter as 'it' when police questioned him about her violent death: Cops](https://lawandcrime.com/crime/man-repeatedly-referred-to-fiancees-2-year-old-daughter-as-it-when-police-questioned-him-about-her-violent-death-cops/)
     
-5. [![Ryan Routh, Aileen Cannon, Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Routh-432x243.jpg)](https://lawandcrime.com/high-profile/federal-prosecutors-go-to-bat-for-judge-aileen-cannon-as-trump-assassination-attempt-suspect-seeks-her-recusal/)
+5. [![Donald Trump does a hand motion in the main image; Fani Willis looks confused inset on the right](https://lawandcrime.com/wp-content/uploads/2024/03/Trump-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
     
-    ### ['Does not cite any authority': Federal prosecutors defend Judge Cannon as Trump assassination attempt suspect demands her recusal](https://lawandcrime.com/high-profile/federal-prosecutors-go-to-bat-for-judge-aileen-cannon-as-trump-assassination-attempt-suspect-seeks-her-recusal/)
+    ### ['The law doesn't apply to you': Fani Willis' office ripped by sarcastic judge for violating open records laws in case related to Trump RICO prosecution, punishment to come](https://lawandcrime.com/high-profile/the-law-doesnt-apply-to-you-fani-willis-office-ripped-by-sarcastic-judge-for-violating-open-records-laws-in-case-related-to-trump-rico-prosecution-punishment-to-come/)
     
 
 [](http://eepurl.com/c89Jdb)
