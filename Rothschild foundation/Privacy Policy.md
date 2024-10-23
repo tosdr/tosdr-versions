@@ -111,7 +111,7 @@ Once employment has ended, we will retain the file in accordance with our statut
 * Right to be forgotten – Information we hold for you will no longer be processed if requested to do so.
 * Right to complain to ICO (Information Commissioners’ Office)
 
-We are happy to answer your queries or concerns regarding your data. Please contact us at [\[email protected\]](https://rothschildfoundation.org.uk/cdn-cgi/l/email-protection)
+We are happy to answer your queries or concerns regarding your data. Please contact us at [\[email protected\]](https://rothschildfoundation.org.uk/cdn-cgi/l/email-protection)
 
 We may ask you to verify your identity before supplying the information. Acceptable forms of ID include:
 
