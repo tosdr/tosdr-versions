@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Tekipaki: Working Love FX](https://www.myabandonware.com/game/tekipaki-working-love-fx-syg)
-* [Team Innocent: The Point of No Return](https://www.myabandonware.com/game/team-innocent-the-point-of-no-return-syf)
-* [Anime Freak FX: Vol.6](https://www.myabandonware.com/game/anime-freak-fx-vol-6-sye)
-* [Anime Freak FX: Vol.5](https://www.myabandonware.com/game/anime-freak-fx-vol-5-syd)
-* [Super Power League FX](https://www.myabandonware.com/game/super-power-league-fx-syc)
+* [Magic Johnson's Fast Break](https://www.myabandonware.com/game/magic-johnson-s-fast-break-p2)
+* [Voice Paradise](https://www.myabandonware.com/game/voice-paradise-syp)
+* [Tonari no Princess Rolfee](https://www.myabandonware.com/game/tonari-no-princess-rolfee-syo)
+* [Comicroad](https://www.myabandonware.com/game/comicroad-syn)
+* [Chip Chan Kick!](https://www.myabandonware.com/game/chip-chan-kick-syl)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
