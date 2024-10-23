@@ -360,11 +360,11 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/09/KAS_Webinar-VSA-Q4-Pro-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/10/K365-Webinar-Advanced-Threat-Protection-1200x800-px-300x200.png)
     
-    VSA Quarterly Product Innovation Update
+    Advanced Threat Protection: Leveraging Kaseya 365 for Enhanced Security
     
-    October 22 - 23
+    October 24
     
     [View All Events](https://www.kaseya.com/events/)
     
