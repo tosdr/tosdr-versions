@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-8397374e98302481fa5059f58667790d
+273f516978e0254b3a5b25778a185069
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round fire agate beads](https://www.sojourner.biz/images/cache/stone/FA0002.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/fire-agate/10-mm-round-fire-agate-beads.html "10 mm round fire agate beads")
+[![10 mm white coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0172.200.jpg)](https://www.sojourner.biz/beads/pearls/10-mm-white-coin-pearls.html "10 mm white coin pearls")
 
-#### [10 mm round fire agate beads](https://www.sojourner.biz/beads/stone-a-l/fire-agate/10-mm-round-fire-agate-beads.html "10 mm round fire agate beads")
+#### [10 mm white coin pearls](https://www.sojourner.biz/beads/pearls/10-mm-white-coin-pearls.html "10 mm white coin pearls")
 
-$13.00
+$25.00
 
 ### Best Sellers
 
