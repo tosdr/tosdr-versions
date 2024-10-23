@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
+* [Tackling your key challenges from the ICO Data Protection Practitioner's Conference](https://www.onetrust.com/resources/tackling-your-key-challenges-from-the-ico-data-protection-practitioners-conference-webinar/)
 * [PIA and DPIA demo webinar with Data Privacy Group](https://www.onetrust.com/resources/pia-and-dpia-demo-webinar-with-data-privacy-group-webinar/)
-* [Mastering US opt-out requirements: A practical guide for marketers](https://www.onetrust.com/resources/mastering-us-opt-out-requirements-a-practical-guide-for-marketers-ebook/)
-* [Transforming data privacy and governance with OneTrust and Snowflake](https://www.onetrust.com/resources/transforming-data-privacy-and-governance-with-onetrust-and-snowflake-video/)
 
 ### Platform
 
