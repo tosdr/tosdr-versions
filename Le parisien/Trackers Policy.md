@@ -73,7 +73,7 @@ Rechercher sur Le Parisien
     * [Présidentielle américaine 2024](https://www.leparisien.fr/international/etats-unis/)
     * [Donald Trump](https://www.leparisien.fr/international/etats-unis/donald-trump/)
     * [Kamala Harris](https://www.leparisien.fr/international/etats-unis/kamala-harris/)
-    * [Guerre Israël-Hamas](https://www.leparisien.fr/international/israel/)
+    * [Guerre au Proche-Orient](https://www.leparisien.fr/international/israel/)
     * [Guerre en Ukraine](https://www.leparisien.fr/crise-ukraine-russie/)
     
 * [Sports](https://www.leparisien.fr/sports/)
@@ -539,9 +539,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=749)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=750)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=749)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=750)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
