@@ -1,44 +1,44 @@
-[![Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/v6/wp-content/themes/voicemod/inc/assets/img/logo-stick.svg)](https://www.voicemod.net/)
+[Skip to content](#primary)
 
-FEEL THE POWER OF YOUR VOICE!
+[![Voicemod logo](https://www.voicemod.net/new/wp-content/uploads/2024/03/voicemod.png)](https://www.voicemod.net/)
 
-[DOWNLOAD VOICEMOD FOR FREE](https://www.voicemod.net/downloadVoicemodAccount.php)
-
-Connecting issues? Please download the latest Voicemod version [Download Now!](https://voicemod.link/download-now)
-
-[![Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/v6/wp-content/themes/voicemod/inc/assets/img/logo-header.svg)](https://www.voicemod.net/)
-
-* [Voice Changer for PC](https://www.voicemod.net/free-voice-changer-software/ "Voice Changer for PC")
-* [Soundboard](https://www.voicemod.net/soundboard/ "Soundboard")
-* [Text to Song](https://www.voicemod.net/text-to-song/ "Text to Song")
-* [AI Voices](https://www.voicemod.net/ai-voices/ "AI Voices")
-* [Voicelab](https://www.voicemod.net/voicelab/ "Voicelab")
+* [Voice Changer](https://www.voicemod.net/en/voice-changer/ "Voice Changer")
+* [Soundboard](https://www.voicemod.net/en/soundboard/ "Soundboard")
 * [Free Sounds](https://tuna.voicemod.net/?utm_source=VM+Web+Menu&utm_medium=VM+Website&utm_campaign=VM+Website&utm_id=VM+Website "Free Sounds")
-* [About Us](# "About Us")
-    * [Blog](https://www.voicemod.net/blog/ "Blog")
-    * [Developers](https://www.voicemod.net/developers/ "Developers")
-    * [Our Story](https://www.voicemod.com/our-story "Our Story")
-    * [Newsroom](https://www.voicemod.com/newsroom "Newsroom")
-    * [Careers](https://www.voicemod.com/careers "Careers")
-* [FAQ](https://support.voicemod.net/hc/en-us "FAQ")
-* [My Account](https://account.voicemod.net/#/?action=account "My Account")
-* en
-    * [Deutsch](https://www.voicemod.net/de/voicemod-privacy-policy-de/)
-    * [Français](https://www.voicemod.net/fr/voicemod-privacy-policy-fr/)
-    * [日本語](https://www.voicemod.net/ja/voicemod-privacy-policy-ja/)
-    * [Español](https://www.voicemod.net/es/privacy-policy/)
-    * [Português do Brasil](https://www.voicemod.net/pt/voicemod-privacy-policy-pt/)
-    * [Italiano](https://www.voicemod.net/it/voicemod-privacy-policy/)
-    * [한국어](https://www.voicemod.net/ko/voicemod-privacy-policy-kr/)
-    * [中文(繁體)](https://www.voicemod.net/zh/voicemod-privacy-policy/)
+* [Creator Tools](# "Creator Tools")
+    * [Voicelab](https://www.voicemod.net/en/voicelab/ "Voicelab")
+    * [Text to Song](https://www.voicemod.net/en/text-to-song/ "Text to Song")
+
+[Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free") [My Account](https://account.voicemod.net/#/?action=account "My Account")
+
+en
+
+* Select your language
+* [Español](https://www.voicemod.net/es/)
+* [Deutsch](https://www.voicemod.net/de/)
+* [Français](https://www.voicemod.net/fr/)
+* [Italiano](https://www.voicemod.net/it/)
+* [Português do Brasil](https://www.voicemod.net/pt/)
+* [中文(繁體)](https://www.voicemod.net/zh/)
+* [日本語](https://www.voicemod.net/ja/)
+* [한국어](https://www.voicemod.net/ko/)
+
+* [](https://www.tiktok.com/@voicemod "tiktok")
+* [](https://www.youtube.com/voicemod "youtube")
+* [](https://discord.com/invite/voicemod "discord")
+* [](https://www.reddit.com/r/voicemod/ "reddit")
+* [](https://www.instagram.com/voicemod "instagram")
+* [](https://es.linkedin.com/company/voicemod "linkedin")
+
+[Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free")
 
 VOICEMOD PRIVACY POLICY
 =======================
 
 Updated: 17/05/2024
 
-**Welcome to Voicemod**
------------------------
+Welcome to Voicemod
+-------------------
 
 If you’re reading this, first thing’s first: **Welcome to Voicemod!** We’re happy to have you here and want to make sure you fully understand our privacy policy and what it means for your information. 
 
@@ -56,8 +56,8 @@ If you don’t agree with our policies, no hard feelings! You can simply leave t
 
 Now, let’s get into the nitty-gritty details. Voicemod Inc., Sucursal en España, with its registered office at Obispo Don Jerónimo 10, St. 46003, Valencia (Spain), being duly registered at Registro Mercantil de Valencia, Tomo 11462, Libro 8740, Folio 156, Hoja V-214069, Registration no. 1 is the controller to the processings of personal data below mentioned. If you have any questions please reach out to us using this [Contact Form](https://www.voicemod.net/support/?letstalk=Legal%20Terms+%26+Privacy).
 
-**Voicemod Products**
----------------------
+Voicemod Products
+-----------------
 
 And finally, here’s a quick rundown of the awesome Voicemod products we often refer to:
 
@@ -72,15 +72,13 @@ And finally, here’s a quick rundown of the awesome Voicemod products we often 
 
 _All the information about our products is available in_ [_www.voicemod.net_](https://www.voicemod.net/) _and in VM Terms of Use (ToU)._
 
-**Information that Voicemod Processes**
----------------------------------------
+Information that Voicemod Processes
+-----------------------------------
 
 Here you can find all the information that Voicemod processes when using our products and services, but first let us tell you that we do not listen to your conversations when you are using the real-time voice changer features in VM Products and we do not listen to any voice recordings you provide for the purposes of AI voice creation.
 
-  
-  
-
-### **Regarding All VM Products**
+Regarding All VM Products
+-------------------------
 
 **Legal basis:** Processing is necessary for the performance of a contract to which the data subject is party 
 
@@ -138,7 +136,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 **Data processed:** Your and the alleged infringer’s name, address, telephone number, e-mail and the potential infringing content and user For more information about this topic you can read VM **Community Guidelines** and **Copyright Policy.** 
 
-### **Websites**
+Websites
+--------
 
 **Legal basis:**  Our legitimate interest 
 
@@ -150,7 +149,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 1\. Browsing data. For more information read our Cookies Policy.
 
-### **Community Content Hub (previously known as Tuna)**
+Community Content Hub (previously known as Tuna)
+------------------------------------------------
 
 **Legal basis:** Processing is necessary for the performance of a contract to which the data subject is party
 
@@ -164,7 +164,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 2\. Metadata related to your downloads of the Content hosted at the Hub. 
 
-### **Voicemod Desktop apps** 
+Voicemod Desktop apps 
+----------------------
 
 **Legal basis:** Processing is necessary for the performance of a contract to which the data subject is party
 
@@ -172,7 +173,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 **Data processed:** behavioural information about your use of the service.
 
-### **Voicemod Controller app for mobile**
+Voicemod Controller app for mobile
+----------------------------------
 
 **Legal basis:** Processing is necessary for the performance of a contract to which the data subject is party.
 
@@ -186,7 +188,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 3\. metadata with regards to the computer from which you operate desktop;
 
-### **Voicemod Go**
+Voicemod Go
+-----------
 
 **Legal basis:** Processing is necessary for the performance of a contract to which the data subject is party
 
@@ -204,7 +207,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 **Note:** _Please keep in mind that we do not access neither to your camera or microphone for any other purpose than letting you directly record your videos and voice files directly with the app, which in any case will be processed locally for you to be able to apply our voice filters and avatars._
 
-### **Voicemod Bot in Discord (previously known as Tuna Bot)**
+Voicemod Bot in Discord (previously known as Tuna Bot)
+------------------------------------------------------
 
 **Legal basis:** Processing is necessary for the performance of a contract to which the data subject is party
 
@@ -216,7 +220,8 @@ Here you can find all the information that Voicemod processes when using our pro
 
 2\. Metadata regarding where you use the Bot and what Voicemod Content you use.
 
-### **VMGram**
+VMGram
+------
 
 VMGram is a client app of Telegram developed by Voicemod that allows Telegram users to enjoy Voicemod functionalities of voice modification and Sound Clips in their Telegram calls and chats. The communication service (calls, messages…) is provided by Telegram and to be able to use it through the VMGram interface you need to have a Telegram account.  
 In this privacy policy we explain you the data collected and processed by the VMGram app, but for full information on privacy of the Telegram service, please refer to the Telegram privacy policy available at [Telegram Privacy Policy](https://telegram.org/privacy/eu), in particular for the data that is processed by Telegram independently from the permissions that you allow in this app, such as, for example, the public nature of your profile name, profile picture and “about” information) that Telegram collects when you create your account.
@@ -255,30 +260,27 @@ And if you grant permission in the app, the app accesses, collects and processes
 
 13\. If you want to record audio messages, the app will ask as well for your permission to record the messages or calls within the app.
 
-**Do not sell my data**
------------------------
+Do not sell my data
+-------------------
 
 We would like you to know that we do not sell any of your information or data to third parties; all information and personal data is processed for the purpose of providing you our Voicemod Products and analyse them so that we can offer you the best possible.
 
-  
-  
-
-**How we disclose your information** 
--------------------------------------
+How we disclose your information 
+---------------------------------
 
 Sometimes we have to team up with other folks to get stuff done. So we might share some information with providers or vendors we bring on board, specifically, payment platforms like Xsolla and Paddle to process any payment regarding our Products. We also have cloud service providers like Google and AWS, which host our data and keep things running smoothly, and some handy tools and software to analyse how our users interact with Voicemod.
 
 We may also share information about you that has been made anonymous, so that it cannot be easily used to identify you. We might use this anonymized information to give our partners or the public an idea of how awesome Voicemod is with some cool user stats.
 
-**Data retention** 
--------------------
+Data retention 
+---------------
 
 We hang on to your personal information for as long as we need it for the purposes we processed it. But there are certain rules and laws that come into play, which we are always mindful of. We might hold onto some data even if we don’t really need it anymore. Why? To make sure we’re covered when it comes to legal obligations, like taxes and other important business matters. We might even have to keep it if the law or the Security Forces or Courts ask us to. But fear not! Once we’re free to let it go, we’ll make sure to delete it for good.
 
 Oh, and just so you know, any data we block and hang onto won’t be used by Voicemod. It’s all anonymized and locked away, far from our reach.
 
-**International data transfers** 
----------------------------------
+International data transfers 
+-----------------------------
 
 Voicemond runs the show from sunny Spain, but we also work with platforms and vendors from all around the world to bring you the best products. 
 
@@ -288,8 +290,8 @@ For EEA residents, please note that our international transfers outside the EEA 
 
 In any case the data transfers that may be carried out will be those necessary to operate and supply the applications, products and services described for the indicated purposes. By using our applications, products and services, you acknowledge and agree that your data will be processed outside your country of residence.
 
-**How we protect your information**
------------------------------------
+How we protect your information
+-------------------------------
 
 We take your privacy very seriously. We are committed to keeping your personal data safe and have all the necessary security measures in place, like top-notch admin, technical, and physical safeguards. We stay up to date with the latest technology to make sure your data doesn’t get messed with, lost, or accessed without permission.
 
@@ -297,13 +299,13 @@ That being said, although we do everything we can to protect your information, n
 
 Keep in mind, sometimes our website or products may have links to third-party sites. These sites have their own policies in place, so it’s always a good idea to check out their terms, privacy policies, and cookie information before using their services. We do our best to pick trustworthy partners, but we can’t control how they handle your information.
 
-**Minors**
-----------
+Minors
+------
 
 Voicemod can only be used if you are at least 16 years old. If you are 16 years old or older but not of legal age, please ask your parents or legal guardian to read this policy with you as they also accept this together with the Terms of Use. They are responsible for your use of Voicemod Products. We´ve drafted this policy as clearly as possible so that it can be easily understood by anyone, but If you have any question or consider that any clause or term is not sufficiently clear to you, contact us or/and your legal guardian to get clarification. 
 
-**How to control your privacy** 
---------------------------------
+How to control your privacy 
+----------------------------
 
 Below is a list of rights that you may exercise to control your privacy. They come from the EU General Regulation on Data Protection (GDPR) and, because we are a people first company, we want to apply it to you even if you are not in the EU, since they are the most protective and comprehensive rights we know of. 
 
@@ -319,18 +321,17 @@ Being that said, here’s information about your rights as per the GDPR and how 
 * **No automated decisions**. You have the right to not be subjected to automated decision-making that could significantly affect you.
 * **To file a complaint before the relevant supervisory authority.** If you’d have grounds to believe that any of your rights have not been properly fulfilled you can file a complaint before the relevant supervisory authority in your country.
 
-  
 These rights are important, and we’re here to ensure that you can exercise them easily. To do so or if you have questions, please reach out to us using this [Contact Form](https://www.voicemod.net/support/?letstalk=Legal%20Terms+%26+Privacy).
 
-**Reach out to us!** 
----------------------
+Reach out to us! 
+-----------------
 
 Need to get in touch? Just contact us through our privacy [Contact Form](https://www.voicemod.net/support/?letstalk=Legal%20Terms+%26+Privacy) and let us know what’s on your mind. We’ll jump right on it and process your request faster than you can say “privacy protection”! We’re all about keeping things GDPR-compliant and following the laws and procedures in place to keep your data safe. 
 
 As our offices are located in Spain, should you like to lodge a complaint, you can do so either before your relevant supervisory authority or the [Spanish Data Protection Agency](https://www.aepd.es/es) (AEPD), which you can reach out at 6, Jorge Juan – 28001 Madrid (Spain) or by calling (+34) 912 663 517. There’s also a [specific channel](https://sedeagpd.gob.es/sede-electronica-web/) you can contact them at for any data privacy needs.
 
-**Special information about Recruiting – Corporate website**
-------------------------------------------------------------
+Special information about Recruiting – Corporate website
+--------------------------------------------------------
 
 Voicemod processes the below data when recruiting candidates. All the information explained above about how we handle and process your data, what your rights are and how to contact us also apply for this processing. 
 
@@ -364,8 +365,8 @@ Voicemod processes the below data when recruiting candidates. All the informatio
 
 1\. CVs, photos, telephone, address, professional experience, ID and any other information that the potential candidate had included in such platforms.
 
-**Special information about Voicemod improvement projects**
------------------------------------------------------------
+Special information about Voicemod improvement projects
+-------------------------------------------------------
 
 Voicemod may run from time to time concrete projects to improve its services. This processing only takes place if you actively opt-in, and this data is anonymised as soon as it’s collected. All the information explained above about how we handle and process your data, what your rights are and how to contact us also apply for this processing. 
 
@@ -379,21 +380,51 @@ Voicemod may run from time to time concrete projects to improve its services. Th
 
 1\. Voice samples of your voice
 
-Let's Connect
+Follow us for more!
 
-[](https://twitter.com/voicemod)[](https://www.tiktok.com/@voicemod)[](https://www.youtube.com/c/Voicemod)[](https://discord.com/invite/voicemod)
+* [](https://www.tiktok.com/@voicemod "tiktok")
+* [](https://www.youtube.com/voicemod "youtube")
+* [](https://discord.com/invite/voicemod "discord")
+* [](https://www.reddit.com/r/voicemod/ "reddit")
+* [](https://www.instagram.com/voicemod "instagram")
+* [](https://es.linkedin.com/company/voicemod "linkedin")
 
-[Our Story](https://www.voicemod.com/our-story) · [Newsroom](https://www.voicemod.com/newsroom) · [Careers](https://www.voicemod.com/careers) · [Blog](https://www.voicemod.net/blog/) · [Support](https://www.voicemod.net/support/) · [Developer Kit](https://www.voicemod.net/developers/)
+1. [Home](https://www.voicemod.net/ "Home")
+2. Privacy Policy
 
-© 2024 Voicemod Inc., Sucursal en España·[Privacy Policy](https://www.voicemod.net/privacy/ "Privacy Policy")·[Terms](https://www.voicemod.net/terms-of-use/)·[Cookies Policy](https://www.voicemod.net/cookies-policy/ "Cookies Policy")·[3rd Party Software Report](https://voicemod.notion.site/3rd-Party-Software-Report-for-Voicemod-Apps-3ce7ec8daebb4d228b2bf2310daeccd5)·[Legal](https://www.voicemod.net/legal/)·
+[![Voicemod logo](https://www.voicemod.net/new/wp-content/uploads/2024/03/voicemod.png)](https://www.voicemod.net/)
 
-English
+* [Base](https://www.voicemod.net/en/base/ "Base")
+* [Developers](https://www.voicemod.net/en/developers/ "Developers")
+* [Newsroom](https://www.voicemod.com/newsroom "Newsroom")
+* [Support](https://www.voicemod.net/en/support/ "Support (FAQ)")
+* [Careers](https://www.voicemod.com/careers "Careers")
 
-* [Deutsch](https://www.voicemod.net/de/voicemod-privacy-policy-de/)
-* [Français](https://www.voicemod.net/fr/voicemod-privacy-policy-fr/)
-* [日本語](https://www.voicemod.net/ja/voicemod-privacy-policy-ja/)
-* [Español](https://www.voicemod.net/es/privacy-policy/)
-* [Português do Brasil](https://www.voicemod.net/pt/voicemod-privacy-policy-pt/)
-* [Italiano](https://www.voicemod.net/it/voicemod-privacy-policy/)
-* [한국어](https://www.voicemod.net/ko/voicemod-privacy-policy-kr/)
-* [中文(繁體)](https://www.voicemod.net/zh/voicemod-privacy-policy/)
+Supercharge your Voice
+----------------------
+
+[Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free")
+
+![](https://www.voicemod.net/new/wp-content/uploads/2024/03/government-investors.png)
+
+© 2024 Voicemod Inc., Sucursal en España
+
+* [Legal](https://www.voicemod.net/en/legal/ "Legal")
+* [Privacy Policy](https://www.voicemod.net/en/privacy/ "Privacy Policy")
+* [Terms of Use](https://www.voicemod.net/en/terms-of-use/ "Terms of Use")
+* [Cookies Policy](https://www.voicemod.net/en/cookies-policy/ "Cookies Policy")
+* [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5 "3rd Party Software")
+
+Facebook Instagram YouTube LinkedIn Tik Tok Discord Reddit
+
+Connecting issues? Please download the latest Voicemod version
+
+[Download Now!](https://voicemod.link/download-now)
+
+This is default text for notification bar
+
+Learn more
+
+[](javascript:void(0))[](javascript:void(0))
+
+[](javascript:void(0))
