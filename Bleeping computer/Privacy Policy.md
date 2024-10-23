@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Internet Archive breached again through stolen access tokens](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Fortinet warns of new critical FortiManager flaw used in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
-    * [![Bumblebee malware returns after recent law enforcement disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
-    * [![Over 6,000 WordPress hacked to install plugins pushing infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
-    * [![Microsoft creates fake Azure tenants to pull phishers into honeypots](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
-    
-    * [![Get an open-box Apple Pencil for only $50 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get an open-box Apple Pencil for only $50 in this deal](https://www.bleepingcomputer.com/offer/deals/get-an-open-box-apple-pencil-for-only-50-in-this-deal/)
-    * [![CISA proposes new security requirements to protect govt, personal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA proposes new security requirements to protect govt, personal data](https://www.bleepingcomputer.com/news/security/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
-    * [![Windows 10 KB5045594 update fixes multi-function printer bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 10 KB5045594 update fixes multi-function printer bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/)
+        Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
     * [![AWS, Azure auth keys found in Android and iOS apps used by millions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         AWS, Azure auth keys found in Android and iOS apps used by millions](https://www.bleepingcomputer.com/news/security/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
+    * [![Hackers exploit 52 zero-days on the first day of Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers exploit 52 zero-days on the first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-52-zero-days-on-the-first-day-of-pwn2own-ireland/)
+    * [![VMware fixes bad patch for critical vCenter Server RCE flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
+    
+    * [![WhatsApp now encrypts contact databases for privacy-preserving synching](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        WhatsApp now encrypts contact databases for privacy-preserving synching](https://www.bleepingcomputer.com/news/security/whatsapp-now-encrypts-contact-databases-for-privacy-preserving-synching/)
+    * [![Replace your monthly WordPress hosting fees with a lifetime subscription](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Replace your monthly WordPress hosting fees with a lifetime subscription](https://www.bleepingcomputer.com/offer/deals/replace-your-monthly-wordpress-hosting-fees-with-a-lifetime-subscription/)
+    * [![Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://www.bleepingcomputer.com/news/security/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
+    * [![Google to let businesses create curated Chrome Web Stores for extensions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Google to let businesses create curated Chrome Web Stores for extensions](https://www.bleepingcomputer.com/news/google/google-to-let-businesses-create-curated-chrome-web-stores-for-extensions/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
+* [![Internet Archive](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
+* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
 * [![Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
-* [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
-* [![ASUS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
 
 ##### Follow us:
 
