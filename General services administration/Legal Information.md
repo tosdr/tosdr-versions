@@ -1101,13 +1101,13 @@ OR
 
 ZIP 
 
-Rates for Alaska, Hawaii, U.S. Territories and Possessions are set by the [Department of Defense](https://www.travel.dod.mil/).
+Rates for Alaska, Hawaii, and U.S. territories and possessions are set by the [Department of Defense.](https://www.travel.dod.mil/)
 
-Rates for foreign countries are set by the [State Department](https://aoprals.state.gov/content.asp?content_id=184&menu_id=78).
+Rates for foreign countries are set by the [Department of State.](https://aoprals.state.gov/content.asp?content_id=184&menu_id=78)
 
 ### 2 Choose a date
 
-Select fiscal year \- Select - 2025 (current fiscal year) 2024 2023
+Select fiscal year \- Select - 2025 (Current fiscal year) 2024 2023
 
 * * *
 
