@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)              
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      Terms & Conditions – Omax Health - Omax Health                   
 
-Terms & Conditions – Omax Health - Omax Health               
+     
 
-               
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3400 reviews](https://omaxhealth.com/pages/reviews)
+[3401 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3080)
+(3081)
 
 5%
 
@@ -321,13 +321,23 @@ Go to product page
 
 1%
 
-(26)
+(27)
 
 2%
 
 (53)
 
 2197
+
+J
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+J.E.
+
+**Freaking unbelievable**
+
+I’ve had leg muscle pain (burning) since childhood. Only remedy was Ibuprofen but I don’t like taking meds so I’d suffer through the pain most of the time unless it was unbearable. This extra strength roll on takes the pain away!!! I’m so happy with this!!!!
 
 J
 
@@ -346,15 +356,5 @@ R
 Robert C.
 
 Best fish oil. Been using it over 10 years.
-
-J
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Joan M.
-
-**Excellent for Pain**
-
-I suffer from severe arthritis in my knees and am scheduled for knee replacement surgery. I apply this product in the morning and at bed and it honestly will change your life. It allows me to bake all day, play golf and walk daily. I have recommended it to many friends and it has helped them as well. Buy it. You will be so happy you did.
 
 Load More
