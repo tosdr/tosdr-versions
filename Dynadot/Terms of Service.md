@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Stand Out with a .ONE Domain for Just $3.49! 🏆 Claim yours now ➡️](https://www.dynadot.com/domain/one?utm_source=Promobar&utm_campaign=ONE%20Promobar%20Oct%202024&utm_medium=one&drefid=4614)
+[Stand Out with a .ONE Domain for Just $3.49! 🏆 Claim yours now ➡️](https://www.dynadot.com/domain/one?utm_source=Promobar&utm_campaign=ONE%20Promobar%20Oct%202024&utm_medium=one&drefid=4614)[Act fast, .LOCKER domains are now available! 🚨 Lock in a .LOCKER today for only $11.49 🔒](https://www.dynadot.com/domain/locker?utm_source=Promobar&utm_campaign=LOCKER%20Promo%20Oct%202024&drefid=4620)
 
 [](https://www.dynadot.com/)
 
