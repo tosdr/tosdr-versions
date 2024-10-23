@@ -7,7 +7,7 @@
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
-Use code **'WOMENPOWER10'** and get **10% off** storewide.
+[National Day Sale](https://mls.om/pages/54th-national-day-sale "54th National Day Sale") is live now!
 
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
 
@@ -33,7 +33,7 @@ Search Search Reset
 Menu
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [National Day Waiting-list](https://mls.om/pages/54th-national-day)
+* [National Day Sale](https://mls.om/pages/54th-national-day-sale)
 * [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
     * Back
