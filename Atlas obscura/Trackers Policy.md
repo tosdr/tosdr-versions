@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Mongolia - Bactrian camel](https://img.atlasobscura.com/cNxMGevFyDT8k8vMr6k9J4MMMXUAcQE9WJPjJREz-SA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zYzNk/MmZlOS0wZDgzLTQ1/NDMtOTMzYS03MjI2/YmI2ODUzMmFlMzlm/ZjM0NjUzMWFlYzgx/MDlfTW9uZ29saWEg/Q2FtZWwgVHJpcCBM/aXN0aW5nIEhlYWRl/ciBQaG90b3MucG5n.png)](https://www.atlasobscura.com/adventures/trips/mongolia-thousand-camel)
+
+Mongolia • 9 days, 8 nights
+
+[NEW - Mongolia's Winter Camel Festival](https://www.atlasobscura.com/adventures/trips/mongolia-thousand-camel)
+
+from
+
+   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
+
+Egypt • 11 days, 10 nights
+
+[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Upcoming Experiences
 
@@ -30,6 +57,10 @@ Members Only
 
 Monster of the Month w/ Colin Dickey: Halloween Monster Mashup](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-halloween-monster-mashup)
 
+   [![](https://img.atlasobscura.com/qCD_zfu1RLyFP5Gm_fQOivD9S5cOVFJ3SNZOfTaCuss/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9lNWUz/NTU4My1kODVhLTRj/OGQtOTA3ZC0wZTMz/ZTUxY2E0ZTYzMzJi/MGVjMDAxYjllOTY2/MTRfNlVXeFlkZkEu/anBn.jpg)
+
+Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-portland)
+
    [![](https://img.atlasobscura.com/47GmlwimpzPiGelKZ8NPUfhFPGMn4DXU85l8m12kxFo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hNjg3/MmE5NS05ZmZjLTRm/YzQtYTg3NS03M2Q3/ZjJjZTIxOTA4MTEx/N2MxZTk1MWE0NmQy/OTBfYXJuZS12ZXJi/aXN0LTB3dTVXYWlL/NnBVLXVuc3BsYXNo/LmpwZw.jpg)
 
 Members Only
@@ -42,35 +73,7 @@ Members Only
 
 Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-6)
 
-   [![](https://img.atlasobscura.com/BtMUa2zrDFXc-OVssjz_wOvaZew_1XXphWiyJnyDX48/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YjU4/YTZlMS1jMDk3LTRh/M2EtOTVmZi1lMTI5/NDE0ZWQwYTBiY2I5/NDY5NjcwMDM3MmUw/MjdfVW50aXRsZWQu/anBn.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
-
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
-
-Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
-
-   [![John Dee Performing an Experiment before Elizabeth I](https://img.atlasobscura.com/sO0W457JMI6a0XrGwH2wbbC4Y5m1vIrbkmgGMqQqKc8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zZjk1/ZTdlZS03NTFkLTQ2/MDYtOTJkNi1kNGI3/OWJkMTQ0YjYyZmM1/YjA1MTU3YzE5Zjdh/M2NfSm9obiBEZWUg/UGVyZm9ybWluZyBh/biBFeHBlcmltZW50/IGJlZm9yZSBFbGl6/YWJldGggSSBIZW5y/eSBHaWxsYXJkIEds/aW5kb25pICgxODUy/LTE5MTMpLCBQdWJs/aWMgRG9tYWluIHZp/YSBXaWtpbWVkaWEg/Q29tbW9ucy5qcGc.jpg)
-
-Poems from the Deep: An Introduction to Scrying With Eliza Swann](https://www.atlasobscura.com/experiences/intro-to-scrying-online-course)
-
-   [![](https://img.atlasobscura.com/ZjsOHnkkEFvBd7N21h6ekpTRB_ovOqotTpnIOKsnpQg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yODY1/OTMzMy02NDNkLTQ4/ODItYTQwZS00ZTIy/OTg1OWFmZTExNDgz/MjQ1M2IzYzBhM2Zl/NjhfUGljdHVyZWQt/IFJhY2hlbCBJLiBC/ZXJtYW4gYXMgQWxp/Y2UgaW4gVEhFTiBT/SEUgRkVMTCBieSBU/aGlyZCBSYWlsIFBy/b2plY3RzLCBDby1B/cnRpc3RpYyBEaXJl/Y3RvcnMgWmFjaCBN/b3JyaXMsIFRvbSBQ/ZWFyc29uLCBhbmQg/SmVubmluZSBXaWxs/ZXR0ICBQaG90byBi/eSBEYXJpYWwgU25l/ZWQuanBlZw.jpg)
-
-Designing Immersive Gatherings With Zach Morris of Third Rail Projects](https://www.atlasobscura.com/experiences/immersive-gatherings-course)
-
-   [![](https://img.atlasobscura.com/h4igLegodufwLGE-1D3Up_c34h5XU0p1JiqZj924kmQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Y2Rh/OTJmZS05OGU3LTRl/YmItYmNhMS01OGE4/YWQxNGNmYWU5YzQ3/N2Y1NmZjNjAyMjFl/YTZfc3RlcGhhbi13/aWR1YS0zWUFJdkJO/bFpNNC11bnNwbGFz/aC5qcGc.jpg)
-
-Cosmic Life: Astrobiology & the Search for Extraterrestrial Life With Dr. Graham Lau](https://www.atlasobscura.com/experiences/astrobiology-course)
-
-   [![](https://img.atlasobscura.com/y9x6Tvc0fCC7F24WyLB5oKxbvXB-JOGRaLMLhNgBIRU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hZmZl/N2M4Yi0yMTkwLTQw/MDgtOGIwYy01YjJh/ZjM1MzA3ZTc0Y2Zk/YzE4NmNiNjA0NzYw/ZDhfRDkzNTExQzQt/MTI4Ni00Mjc0LUI5/NkQtOUNGNDAzMERC/NUMyLmpwZw.jpg)
-
-Nature’s Palette: Foraging Natural Pigments With Hayley Dayis & Alexander Fals](https://www.atlasobscura.com/experiences/foraged-pigments-course)
+Loading...
 
 Top Destinations
 
@@ -124,21 +127,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![Swedish Dancing is popular in front of the Swedish Pavilion at the Midsummer's Day festival.](https://img.atlasobscura.com/YJS3qujk55aZkUqmhnDV9HGitGqIhPygP1kBq7kzC4A/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wMjM5/ZGVkOC0zOTFmLTQz/ODItYTc5Yi00OGJi/OWVhNDQ2NGE3MmU5/YjY2YWExNGM0Zjc4/YzlfUGF2aWxpb24g/U3dlZGlzaCBEYW5j/ZS5KUEc.jpg)
+
+1904 World's Fair Swedish Pavilion](https://www.atlasobscura.com/places/1904-worlds-fair-swedish-pavilion)
+
+   [![](https://img.atlasobscura.com/KLPur14iRi3XWbZU5vagDDxYNm4EJCPwkzyjtXcYM30/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NjBl/NmU0Yy0wYmFmLTRj/YmYtYWRhMS02MDYy/MGQ1ZTBiNDk4NzFm/ZDAyZDVlZjAzMmYx/MDlfR2FyYmFzYXVy/dXM2LmpwZw.jpg)
+
+Garbasaurus](https://www.atlasobscura.com/places/garbasaurus)
+
+   [![](https://img.atlasobscura.com/BT4YIhcMzLCAZqYqvqcExcj7N5WvQFbqXC48wtknys0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNTk3/YzcwYi03YTRiLTRj/ODktYmYyYy03ZDYz/MTY2NTEzYWZkNWQ2/ZWQ2MTVlZDU1MTIx/NDhfSU1HXzgzNTMu/anBlZw.jpg)
+
+Market Lane Toilet Mini Museum](https://www.atlasobscura.com/places/market-lane-toilet-mini-museum)
+
    [![The grave of the cannibal hag.](https://img.atlasobscura.com/RfLi0L4HpI6QQteIbGFEvZOhhzsZWUGxiAuICsP6IsE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYjg0/NmI4MC1iMjMzLTRm/ZTUtYjJjNC0xZjUz/YmUyYWRiYTA0ZjZi/YjM1MjU1OTM3Nzc4/ZDZfRFNDXzAyMDAu/anBlZw.jpg)
 
 Kurozuka (Black Tomb)](https://www.atlasobscura.com/places/kurozuka-black-tomb)
-
-   [![](https://img.atlasobscura.com/OSDrf32H6lEH8Qxs2vh-LqG1yCzaejdgamfNUqFtduI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YTRk/NDU3OC04NjM2LTQz/MDItOGMyYy05NzEy/ZjgxMmY5MzNiYzE4/YWY1ZDYwY2IzY2Q5/NTVfMjAyNDA4MTBf/MTEzMzQ5LmpwZw.jpg)
-
-'Multiplera Skåne'](https://www.atlasobscura.com/places/multiplera-skane)
-
-   [![The galleries above the drill hall.](https://img.atlasobscura.com/LaGkuslAM6zThTHHdpFl7XmvzUffYZiv-pB17-aFoGw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ZTE1/OGRkYy0wZDdiLTQy/NTAtOThiNi1hNzlj/MDgxMmJjMzhmYzAw/ZjA3NWQyOGFlMWZl/YzNfZ2FsbGVyaWVz/Mi5qcGc.jpg)
-
-London Scottish House](https://www.atlasobscura.com/places/london-scottish-house)
-
-   [![](https://img.atlasobscura.com/yW_HRuu0pcVzwL7FubRp7xUR-66DPTHw1kvYBr8W7t8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kODI1/MjE0MS03ZDRhLTQ0/ZjctYTYwYS0zMDkz/YzExZDI4NjdhMmZm/NzUzODMyMjlhNWMz/ZjZfSU1HXzY5NjUu/anBlZw.jpg)
-
-Saint Exupéry Monument](https://www.atlasobscura.com/places/saint-exupery-monument)
 
 Latest Places to Eat & Drink
 
