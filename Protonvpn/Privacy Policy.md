@@ -203,7 +203,7 @@ Geneva, Switzerland
 * [Report a security issue(new window)](https://proton.me/security/response-center?ref=pvpncom)
 * [Request a feature(new window)](https://protonmail.uservoice.com/)
 
-* [Privacy policy](https://protonvpn.com/privacy-policy)
+* [Privacy Policy](https://protonvpn.com/privacy-policy)
 * [Terms & conditions(new window)](https://proton.me/legal/terms?ref=pvpncom)
 * [Transparency report](https://protonvpn.com/blog/transparency-report)
 * © 2024 Proton AG. All rights reserved.
