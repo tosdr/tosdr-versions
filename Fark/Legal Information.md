@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+Come check out what's behind the curtain.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this engine driver](https://www.fark.com/goto/13432212) ( [thenicheng.com](https://www.fark.com/goto/13432212) ) » [(9 comments)](https://www.fark.com/comments/13432212/Photoshop-this-engine-driver) |
-| [Discussion](https://www.fark.com/discussion/) | ["My wife asked me to cook more so I have. But when presented with my creations, she defaces them with ketchup or sauces. What do?"](https://www.fark.com/goto/13437966) ( [slate.com](https://www.fark.com/goto/13437966) ) » [(5 comments)](https://www.fark.com/comments/13437966/My-wife-asked-me-to-cook-more-so-I-have-But-when-presented-with-my-creations-she-defaces-them-with-ketchup-sauces-What-do) |
-| [Sports](https://www.fark.com/sports/) | [The Yankees have vindicated George Costanza](https://www.fark.com/goto/13437690) ( [cracked.com](https://www.fark.com/goto/13437690) ) » [(3 comments)](https://www.fark.com/comments/13437690/The-Yankees-have-vindicated-George-Costanza) |
-| [Business](https://www.fark.com/business/) | [Forget meme stonks and crypto. It's gold that's going to the moon, baby](https://www.fark.com/goto/13437790) ( [slate.com](https://www.fark.com/goto/13437790) ) » [(1 comment)](https://www.fark.com/comments/13437790/Forget-meme-stonks-crypto-Its-gold-thats-going-to-moon-baby) |
-| [STEM](https://www.fark.com/stem/) | [Orcas, ocean's badass, have learned how to hunt moose](https://www.fark.com/goto/13437456) ( [forbes.com](https://www.fark.com/goto/13437456) ) » [(6 comments)](https://www.fark.com/comments/13437456/Orcas-oceans-badass-have-learned-how-to-hunt-moose) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Burnt-out Nicole Kidman says 'no more orgasms'. We could call her performance the anti-climax of the year](https://www.fark.com/goto/13437692) ( [metro.co.uk](https://www.fark.com/goto/13437692) ) » [(9 comments)](https://www.fark.com/comments/13437692/Burnt-out-Nicole-Kidman-says-no-more-orgasms-We-could-call-her-performance-anti-climax-of-year) |
-| [Fandom](https://www.fark.com/fandom/) | [Cristin Milioti on her role in Penguin: "Biatch, I escaped a time loop. Of course I could take the Batman"](https://www.fark.com/goto/13437666) ( [denofgeek.com](https://www.fark.com/goto/13437666) ) » [(7 comments)](https://www.fark.com/comments/13437666/Cristin-Milioti-on-her-role-in-Penguin-Biatch-I-escaped-a-time-loop-Of-course-I-could-take-Batman) |
-| [D'awww](https://www.fark.com/dawww/) | [Hey Meathead. Stifle yourself and enjoy this final television appearance of Jean Stapleton (Edith) and Carroll o'Connor (Archie) together from April 24, 2000](https://www.fark.com/goto/13437628) ( [youtube.com](https://www.fark.com/goto/13437628) ) » [(2 comments)](https://www.fark.com/comments/13437628/Hey-Meathead-Stifle-yourself-enjoy-this-final-television-appearance-of-Jean-Stapleton-Edith-Carroll-oConnor-Archie-together-from-April-24-2000) |
-| [Food](https://www.fark.com/food/) | [Arizonans wine about the abnormally hot fall](https://www.fark.com/goto/13437544) ( [azfamily.com](https://www.fark.com/goto/13437544) ) » [(5 comments)](https://www.fark.com/comments/13437544/Arizonans-wine-about-abnormally-hot-fall) |
-| [Politics](https://www.fark.com/politics/) | [Rudy Giuliani is finally starting to find out after years of farking around](https://www.fark.com/goto/13437652) ( [nbcnews.com](https://www.fark.com/goto/13437652) ) » [(9 comments)](https://www.fark.com/comments/13437652/Rudy-Giuliani-is-finally-starting-to-find-out-after-years-of-farking-around) |
+| [Main](https://www.fark.com/) | [Judge arrested over "aggressive handshake" with police chief in Bath](https://www.fark.com/goto/13438316) ( [myhometowntoday.com](https://www.fark.com/goto/13438316) ) » [(15 comments)](https://www.fark.com/comments/13438316/Judge-arrested-over-aggressive-handshake-with-police-chief-in-Bath) |
+| [Discussion](https://www.fark.com/discussion/) | ["Dreams are not to be converted into reality, that we know; we would not form any, perhaps, were it not for desire." -Marcel Proust. This is your Fark Writer's Thread, Reality Edition](https://www.fark.com/goto/13438256) ( [farkfiction.net](https://www.fark.com/goto/13438256) ) » [(12 comments)](https://www.fark.com/comments/13438256/Dreams-are-not-to-be-converted-into-reality-that-we-know-we-would-not-form-any-perhaps-were-it-not-for-desire-Marcel-Proust-This-is-your-Fark-Writers-Thread-Reality-Edition) |
+| [Sports](https://www.fark.com/sports/) | [Stephen A. and Shannon Sharpe clash over Bronny's debut, but both agree: LeBron will somehow get all the credit](https://www.fark.com/goto/13437930) ( [theshadowleague.com](https://www.fark.com/goto/13437930) ) » [(3 comments)](https://www.fark.com/comments/13437930/Stephen-A-Shannon-Sharpe-clash-over-Bronnys-debut-but-both-agree-LeBron-will-somehow-get-all-credit) |
+| [Business](https://www.fark.com/business/) | [Baby Acapulco is closing the business. Your partner's OnlyFans is still doing great, though](https://www.fark.com/goto/13438034) ( [bizjournals.com](https://www.fark.com/goto/13438034) ) » [(8 comments)](https://www.fark.com/comments/13438034/Baby-Acapulco-is-closing-business-Your-partners-OnlyFans-is-still-doing-great-though) |
+| [STEM](https://www.fark.com/stem/) | [Subby thought the Mythbusters had covered this already, but now a physicist has weighed in](https://www.fark.com/goto/13438140) ( [sciencealert.com](https://www.fark.com/goto/13438140) ) » [(6 comments)](https://www.fark.com/comments/13438140/Subby-thought-Mythbusters-had-covered-this-already-but-now-a-physicist-has-weighed-in) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The 14 earliest animated TV series ever aired, since cartoons do go a long way back](https://www.fark.com/goto/13438266) ( [cracked.com](https://www.fark.com/goto/13438266) ) » [(10 comments)](https://www.fark.com/comments/13438266/The-14-earliest-animated-TV-series-ever-aired-since-cartoons-do-go-a-long-way-back) |
+| [Fandom](https://www.fark.com/fandom/) | [The Day Before developer cancels second Kickstarter after it only get $2,200 of funding, announces next game the day after. No word on what it will do the day after that](https://www.fark.com/goto/13438240) ( [pcgamer.com](https://www.fark.com/goto/13438240) ) » [(0 comments)](https://www.fark.com/comments/13438240/The-Day-Before-developer-cancels-second-Kickstarter-after-it-only-get-$2200-of-funding-announces-next-game-day-after-No-word-on-what-it-will-do-day-after-that) |
+| [D'awww](https://www.fark.com/dawww/) | [An inspiration to all those procrastinating about gettIng their degree](https://www.fark.com/goto/13437914) ( [toronto.ctvnews.ca](https://www.fark.com/goto/13437914) ) » [(1 comment)](https://www.fark.com/comments/13437914/An-inspiration-to-all-those-procrastinating-about-gettIng-their-degree) |
+| [Food](https://www.fark.com/food/) | [Best 50 bars in the world, listed and profiled. Can't see how any barfly could disagree with any of these](https://www.fark.com/goto/13438338) ( [theworlds50best.com](https://www.fark.com/goto/13438338) ) » [(18 comments)](https://www.fark.com/comments/13438338/Best-50-bars-in-world-listed-profiled-Cant-see-how-any-barfly-could-disagree-with-any-of-these) |
+| [Politics](https://www.fark.com/politics/) | [Wise Arab leaders in Michigan know the best way to teach Democrats a lesson is to vote for a guy who wants to deport them](https://www.fark.com/goto/13438310) ( [foxnews.com](https://www.fark.com/goto/13438310) ) » [(7 comments)](https://www.fark.com/comments/13438310/Wise-Arab-leaders-in-Michigan-know-best-way-to-teach-Democrats-a-lesson-is-to-vote-for-a-guy-who-wants-to-deport-them) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 23 2024 09:42:13  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 23 2024 15:42:55  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
