@@ -38,26 +38,26 @@ FOX SCORES
     | NZL | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250302)
-* [Sheffield Shield
+* [Men's Test
     
-    VIC won by 141 runs
-    
-    |     |     |
-    | --- | --- |
-    | VIC | 272 & 246 |
-    | NSW | 136 & 241 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250104)
-* [Sheffield Shield
-    
-    WA won by 6 wkts
+    24/10 16:00 AEST
     
     |     |     |
     | --- | --- |
-    | WA  | 332 & 4 /83 |
-    | TAS | 277 & 137 |
+    | PAK | –   |
+    | ENG | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250106)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250203)
+* [Women's ODI
+    
+    24/10 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250201)
 * [Sheffield Shield
     
     SA won by 129 runs
@@ -156,26 +156,26 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=717)
 * Basketball
     
-* [NBA
+* [NBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOS | 132 |
-    | NY  | 109 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010002/box-score)
-* [NBA
-    
-    Full Time
+    24/10 17:30 AEST
     
     |     |     |
     | --- | --- |
-    | LAL | 110 |
-    | MIN | 103 |
+    | NZB | –   |
+    | SEM | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010004/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060001)
+* [NBL
+    
+    24/10 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ILL | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060002)
 * [NBA
     
     24/10 10:00 AEST
@@ -280,94 +280,94 @@ FOX SCORES
     
 * [UCL
     
-    24/10 3:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BRE | –   |
-    | BLV | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250321)
-* [UCL
-    
-    24/10 3:45 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ATA | –   |
-    | CEL | –   |
+    | ATA | 0   |
+    | CEL | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250319)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | RBL | –   |
-    | LIV | –   |
+    | RBL | 0   |
+    | LIV | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250335)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | BEN | –   |
-    | FEY | –   |
+    | BEN | 0   |
+    | FEY | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250333)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | BAR | –   |
-    | BAY | –   |
+    | BAR | 3   |
+    | BAY | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250331)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | YB  | –   |
-    | INT | –   |
+    | YB  | 0   |
+    | INT | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250329)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | RBS | –   |
-    | DZ  | –   |
+    | RBS | 0   |
+    | DZ  | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250327)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | AMD | –   |
-    | LIL | –   |
+    | AMD | 1   |
+    | LIL | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250325)
 * [UCL
     
-    24/10 6:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | MCI | –   |
-    | SP  | –   |
+    | MCI | 1   |
+    | SP  | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250323)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BRE | 1   |
+    | BLV | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250321)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
