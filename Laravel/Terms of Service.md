@@ -119,6 +119,6 @@ You agree that regardless of any statute or law to the contrary, any claim or ca
 * [Terms of Service](https://vapor.laravel.com/terms)
 * [Data Processing Agreement](https://vapor.laravel.com/agreement)
 
-![](https://d2n6cmh8j179w8.cloudfront.net/002bbe10-1fb3-41f8-bd8a-b03096e7ba68/build/assets/cubes-wide-1497e4f0.png)
+![](https://d2n6cmh8j179w8.cloudfront.net/be8e696d-afdb-4c83-be9b-64e0250f92f2/build/assets/cubes-wide-1497e4f0.png)
 
 Copyright © Laravel Holdings Inc. - 2024
