@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (12) September 2024  (30) August 
 
 ### October 2024
 
-#### Tue, Oct 22
-
-Carmen Ejogo's birthday
-
-Recurs yearly
-
-Seraphina Picquery
-
 #### Thu, Oct 24
 
 Angelina Johnson's birthday
@@ -288,6 +280,14 @@ Recurs yearly
 
 Seamus Finnigan
 
+#### Tue, Oct 29
+
+Robert Hardy's birthday (RIP)
+
+Recurs yearly
+
+Cornelius Fudge
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
 
 ### Potter History
 
-November 17, 2006 – Electronic Arts announces the Harry Potter and the Order of the Phoenix video game.
+December 6, 2013 – Bloomsbury UK announces Jim Kay as the new illustrator of the Harry Potter series.
 
 ### Potter Quote
 
-“Don’t be silly. Of course I won’t be in three classes at once.”
+“I know what you are known as. But to me, I’m afraid, you will always be Tom Riddle. It is one of the irritating things about old teachers. I am afraid that they never quite forget their charges’ youthful beginnings.”
 
 [](#)
 
