@@ -20,16 +20,16 @@ Wednesday, October 23 2024
 
 Latest
 
-* [How to Actually Understand What You’re Buying on the Healthcare Exchange](https://digitpatrox.com/how-to-actually-understand-what-youre-buying-on-the-healthcare-exchange/)
-* [What is the UPS scam and how to avoid it](https://digitpatrox.com/what-is-the-ups-scam-and-how-to-avoid-it/)
-* [How to remove OneDrive page from File Explorer on Windows 11](https://digitpatrox.com/how-to-remove-onedrive-page-from-file-explorer-on-windows-11/)
-* [Best Top-Load Agitator Washing Machines—and the Worst](https://digitpatrox.com/best-top-load-agitator-washing-machines-and-the-worst/)
-* [DSLR Cameras Are Falling Out of Favor, But They’re Still Worth Considering](https://digitpatrox.com/dslr-cameras-are-falling-out-of-favor-but-theyre-still-worth-considering/)
-* [Public cloud does not hold all the answers](https://digitpatrox.com/public-cloud-does-not-hold-all-the-answers/)
-* [How Your Business Can Benefit from a Data Handling Policy](https://digitpatrox.com/how-your-business-can-benefit-from-a-data-handling-policy/)
-* [Runway just changed filmmaking forever — Act-1 lets you control AI characters](https://digitpatrox.com/runway-just-changed-filmmaking-forever-act-1-lets-you-control-ai-characters/)
-* [AWS, Azure auth keys found in Android and iOS apps used by millions](https://digitpatrox.com/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
-* [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://digitpatrox.com/apple-is-concerned-about-ai-turning-real-photos-into-fantasy/)
+* [Westcon-Comstor and UiPath agree new UK distribution deal](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
+* [Ericsson’s return-to-office policy is causing trouble](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
+* [My Favorite Amazon Deal of the Day: The Apple Watch Series 10](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
+* [IT company ATSG Inc notifies 900K+ people of data breach that compromised SSNs](https://digitpatrox.com/it-company-atsg-inc-notifies-900k-people-of-data-breach-that-compromised-ssns/)
+* [I tried upscaling pictures with Super Resolution in Photos, and it’s a disappointment](https://digitpatrox.com/i-tried-upscaling-pictures-with-super-resolution-in-photos-and-its-a-disappointment/)
+* [Best Automatic Soap Dispensers – Consumer Reports](https://digitpatrox.com/best-automatic-soap-dispensers-consumer-reports/)
+* [Your Amazon Prime Now Includes Gas Savings](https://digitpatrox.com/your-amazon-prime-now-includes-gas-savings/)
+* [What are the benefits of a mini PC?](https://digitpatrox.com/what-are-the-benefits-of-a-mini-pc/)
+* [Threat Actors Are Exploiting Vulnerabilities Faster Than Ever](https://digitpatrox.com/threat-actors-are-exploiting-vulnerabilities-faster-than-ever/)
+* [Ultenic D10 robot vacuum review: Super-affordable hands-free everyday vacuum and mop](https://digitpatrox.com/ultenic-d10-robot-vacuum-review-super-affordable-hands-free-everyday-vacuum-and-mop/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JATEH5H53C1R6EPPFAWEYMGM/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-actually-understand-what-youre-buying-on-the-healthcare-exchange/)
+* [![](https://cdn.mos.cms.futurecdn.net/JnqyfYytN2ZKjWdJMjBgyW-1200-80.jpg)](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
     
-    [How to Actually Understand What You’re Buying on the Healthcare Exchange](https://digitpatrox.com/how-to-actually-understand-what-youre-buying-on-the-healthcare-exchange/)
+    [Westcon-Comstor and UiPath agree new UK distribution deal](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
     
-    6 mins ago
+    18 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/What-is-the-UPS-scam-and-how-to-avoid-it.jpg)](https://digitpatrox.com/what-is-the-ups-scam-and-how-to-avoid-it/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3582979-0-16996400-1729699911-mp-ericsson-hq-signage-07-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
     
-    [What is the UPS scam and how to avoid it](https://digitpatrox.com/what-is-the-ups-scam-and-how-to-avoid-it/)
-    
-    14 mins ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/file-explorer-onedrive-removed-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-remove-onedrive-page-from-file-explorer-on-windows-11/)
-    
-    [How to remove OneDrive page from File Explorer on Windows 11](https://digitpatrox.com/how-to-remove-onedrive-page-from-file-explorer-on-windows-11/)
-    
-    27 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1547217310/prod/content/dam/CRO%20Images%202019/Appliances/01January/CR-Appliances-Ininehero-best-and-worst-agitator-toploaders-0119)](https://digitpatrox.com/best-top-load-agitator-washing-machines-and-the-worst/)
-    
-    [Best Top-Load Agitator Washing Machines—and the Worst](https://digitpatrox.com/best-top-load-agitator-washing-machines-and-the-worst/)
-    
-    37 mins ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/canon-eos-1300d.jpg)](https://digitpatrox.com/dslr-cameras-are-falling-out-of-favor-but-theyre-still-worth-considering/)
-    
-    [DSLR Cameras Are Falling Out of Favor, But They’re Still Worth Considering](https://digitpatrox.com/dslr-cameras-are-falling-out-of-favor-but-theyre-still-worth-considering/)
+    [Ericsson’s return-to-office policy is causing trouble](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
     
     40 mins ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JAX1MMBPX3ERNZ9R71XAQ713/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
+    
+    [My Favorite Amazon Deal of the Day: The Apple Watch Series 10](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/ATSG-Inc-notifies-900K-people-of-data-breach-that-compromised-SSNs.jpg)](https://digitpatrox.com/it-company-atsg-inc-notifies-900k-people-of-data-breach-that-compromised-ssns/)
+    
+    [IT company ATSG Inc notifies 900K+ people of data breach that compromised SSNs](https://digitpatrox.com/it-company-atsg-inc-notifies-900k-people-of-data-breach-that-compromised-ssns/)
+    
+    1 hour ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/photos-super-resolution-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/i-tried-upscaling-pictures-with-super-resolution-in-photos-and-its-a-disappointment/)
+    
+    [I tried upscaling pictures with Super Resolution in Photos, and it’s a disappointment](https://digitpatrox.com/i-tried-upscaling-pictures-with-super-resolution-in-photos-and-its-a-disappointment/)
+    
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 mins ago
+* [18 mins ago
     
-    ### How to Actually Understand What You’re Buying on the Healthcare Exchange](https://digitpatrox.com/how-to-actually-understand-what-youre-buying-on-the-healthcare-exchange/)
-* [14 mins ago
+    ### Westcon-Comstor and UiPath agree new UK distribution deal](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
+* [40 mins ago
     
-    ### What is the UPS scam and how to avoid it](https://digitpatrox.com/what-is-the-ups-scam-and-how-to-avoid-it/)
-* [27 mins ago
+    ### Ericsson’s return-to-office policy is causing trouble](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
+* [1 hour ago
     
-    ### How to remove OneDrive page from File Explorer on Windows 11](https://digitpatrox.com/how-to-remove-onedrive-page-from-file-explorer-on-windows-11/)
+    ### My Favorite Amazon Deal of the Day: The Apple Watch Series 10](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
 
 Most Popular Topics
 
+* [August 25, 2024
+    
+    ### How to watch US Open 2024: live stream tennis online from anywhere, seeds, schedule](https://digitpatrox.com/how-to-watch-us-open-2024-live-stream-tennis-online-from-anywhere-seeds-schedule/)
+* [4 weeks ago
+    
+    ### Hands-On With AI for Workspace](https://digitpatrox.com/hands-on-with-ai-for-workspace/)
 * [2 weeks ago
     
-    ### Why you should want face-recognition glasses – Computerworld](https://digitpatrox.com/why-you-should-want-face-recognition-glasses-computerworld/)
-* [2 weeks ago
-    
-    ### Why Is My 5G Connection So Slow?](https://digitpatrox.com/why-is-my-5g-connection-so-slow/)
-* [August 17, 2024
-    
-    ### Who owns your VPN and why is it important?](https://digitpatrox.com/who-owns-your-vpn-and-why-is-it-important/)
+    ### I’m a deals writer and these are the 29 Prime Day deals I’d shop ahead of the holidays](https://digitpatrox.com/im-a-deals-writer-and-these-are-the-29-prime-day-deals-id-shop-ahead-of-the-holidays/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### How Your Business Can Benefit from a Data Handling Policy](https://digitpatrox.com/how-your-business-can-benefit-from-a-data-handling-policy/)
-* [2 hours ago
+    ### Your Amazon Prime Now Includes Gas Savings](https://digitpatrox.com/your-amazon-prime-now-includes-gas-savings/)
+* [3 hours ago
     
-    ### Runway just changed filmmaking forever — Act-1 lets you control AI characters](https://digitpatrox.com/runway-just-changed-filmmaking-forever-act-1-lets-you-control-ai-characters/)
-* [2 hours ago
+    ### What are the benefits of a mini PC?](https://digitpatrox.com/what-are-the-benefits-of-a-mini-pc/)
+* [3 hours ago
     
-    ### AWS, Azure auth keys found in Android and iOS apps used by millions](https://digitpatrox.com/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
+    ### Threat Actors Are Exploiting Vulnerabilities Faster Than Ever](https://digitpatrox.com/threat-actors-are-exploiting-vulnerabilities-faster-than-ever/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 12, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 28, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
