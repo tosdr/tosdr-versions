@@ -493,6 +493,8 @@ Folgen sie uns
 
 [![Zur Duden-Startseite](/sites/default/res/duden.svg)](https://www.duden.de/)
 
+ [![Trusted Shops Guarantee](https://cdn.duden.de/public_files/2019-02/e.svg)](https://www.trustedshops.de/guetesiegel/)
+
 © Cornelsen Verlag GmbH, 2024
 
 [AGB](https://www.duden.de/service/agb "Allgemeine Geschäftsbedingungen") 　[Datenschutz­erklärung](https://www.duden.de/service/datenschutz "Datenschutzerklärung") 　[Impressum](https://www.duden.de/service/impressum "Impressum") 　[Privacy Manager](https://www.duden.de/service/datenschutz#prvcmgr) 　[Widerrufsrecht](https://www.duden.de/service/widerrufsrecht "Widerrufsrecht") 　[Sitemap](https://www.duden.de/sitemap-ueberblick) 　[Stichwörter](https://www.duden.de/sitemap-lexeme)
