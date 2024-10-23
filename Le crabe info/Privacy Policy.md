@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 176 utilisateurs actifs
+##### 757 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Des pirates peuvent désinstaller les correctifs de sécurité de Windows et réintroduire d'anciennes vulnérabilités](https://lecrabeinfo.net/des-pirates-peuvent-desinstaller-les-correctifs-de-securite-de-windows-et-reintroduire-danciennes-vulnerabilites.html)
 * [Vider tout le cache sur Windows 10 : 8 étapes pour un nettoyage complet](https://lecrabeinfo.net/vider-tout-le-cache-sur-windows-10-8-etapes-pour-un-nettoyage-complet.html)
 * [7 astuces sur l’Explorateur de fichiers de Windows qui vont vous changer la vie](https://lecrabeinfo.net/7-astuces-sur-lexplorateur-de-fichiers-de-windows-qui-vont-vous-changer-la-vie.html)
-* [Google retire uBlock Origin de Chrome : plus de 39 millions d'utilisateurs (dont sans doute vous) impactés !](https://lecrabeinfo.net/google-retire-ublock-origin-de-chrome-plus-de-39-millions-dutilisateurs-dont-sans-doute-vous-impactes.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 67 845 membres
-* 930 articles
+* 931 articles
 * 26 778 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
