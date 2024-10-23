@@ -251,23 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ukraine's population has fallen by 10 million since Russia's invasion, U.N. says](https://www.japantimes.co.jp/news/2024/10/22/world/society/ukraine-population-fall-10-million/ "Ukraine's population has fallen by 10 million since Russia's invasion, U.N. says")
+[U.S. pressures India for accountability over Sikh separatist murder plot](https://www.japantimes.co.jp/news/2024/10/23/world/politics/us-india-sikh-separatist-murder/ "U.S. pressures India for accountability over Sikh separatist murder plot")
 
-9 hours ago
+2 mins ago
 
-[War has knocked Gaza back to the 1950s, UNDP says](https://www.japantimes.co.jp/news/2024/10/22/world/society/gaza-war-undp-poverty/ "War has knocked Gaza back to the 1950s, UNDP says")
+[IMF lowers global growth forecast for 2025, warning of growing risks](https://www.japantimes.co.jp/business/2024/10/23/economy/imf-global-growth-forecast/ "IMF lowers global growth forecast for 2025, warning of growing risks")
 
-9 hours ago
+39 mins ago
 
-[JFTC inspects JR Central and others for suspected bid-rigging](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/jftc-rail-bid-rigging/ "JFTC inspects JR Central and others for suspected bid-rigging")
+[With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
 
-10 hours ago
+46 mins ago
 
-[Honda to recall over 720,800 vehicles in U.S. to replace fuel pumps](https://www.japantimes.co.jp/business/2024/10/22/honda-fuel-pump-recall-us/ "Honda to recall over 720,800 vehicles in U.S. to replace fuel pumps")
+[HSBC revamp by new CEO Elhedery stumps staffers and investors alike](https://www.japantimes.co.jp/business/2024/10/23/companies/hsbc-revamp-ceo-elhedery/ "HSBC revamp by new CEO Elhedery stumps staffers and investors alike")
 
-11 hours ago
+1 hours ago
 
-[Police drew guns at man who set minivan on fire at Prime Minister's Office](https://www.japantimes.co.jp/news/2024/10/22/japan/crime-legal/police-gun-pm-attack/ "Police drew guns at man who set minivan on fire at Prime Minister's Office")
+[Honda recalling 780,000 vehicles in North America on fuel pump concern](https://www.japantimes.co.jp/business/2024/10/23/honda-fuel-pump-recall-us/ "Honda recalling 780,000 vehicles in North America on fuel pump concern")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
