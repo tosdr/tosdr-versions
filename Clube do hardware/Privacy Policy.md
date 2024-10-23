@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![VictorDiniz1202](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1235549.thumb.jpeg.cbeb2d4b6a2759baf43483970ed7aa27.jpeg)](https://www.clubedohardware.com.br/profile/1235549-victordiniz1202/ "Ir ao perfil de VictorDiniz1202")
+    * [![Jordana Rodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254897.thumb.jpeg.d0145cb1b0a62b2e328a50d922e23197.jpeg)](https://www.clubedohardware.com.br/profile/1254897-jordana-rodrigues/ "Ir ao perfil de Jordana Rodrigues")
         
-        2
+        0
         
-        [Compensa pagar 200 reais a mais pela rx 6750xt](https://www.clubedohardware.com.br/forums/topic/1700312-compensa-pagar-200-reais-a-mais-pela-rx-6750xt/?do=getNewComment "Compensa pagar 200 reais a mais pela rx 6750xt")
+        [baixa potência no transmissor fm teletronix 3000w](https://www.clubedohardware.com.br/forums/topic/1700339-baixa-pot%C3%AAncia-no-transmissor-fm-teletronix-3000w/?do=getNewComment "baixa potência no transmissor fm teletronix 3000w")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Jordana Rodrigues](https://www.clubedohardware.com.br/profile/1254897-jordana-rodrigues/ "Ir ao perfil de Jordana Rodrigues")  
+        2 minutos atrás
+        
+    * [![Joao342](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/imported-photo-1201776.thumb.png.97ddea937da46d57ad7dc50ce46ff869.png)](https://www.clubedohardware.com.br/profile/1201776-joao342/ "Ir ao perfil de Joao342")
+        
+        0
+        
+        [Memória de 1600mhz pode ser considerada DDR4?](https://www.clubedohardware.com.br/forums/topic/1700338-mem%C3%B3ria-de-1600mhz-pode-ser-considerada-ddr4/?do=getNewComment "Memória de 1600mhz pode ser considerada DDR4?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Joao342](https://www.clubedohardware.com.br/profile/1201776-joao342/ "Ir ao perfil de Joao342")  
+        12 minutos atrás
+        
+    * [![Andrey3103](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240857.thumb.png.eb5e5cf32bb036055bb035af41a0f943.png)](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")
+        
+        0
+        
+        [Fone de ouvido fazendo ruído ao entrar em jogos.](https://www.clubedohardware.com.br/forums/topic/1700336-fone-de-ouvido-fazendo-ru%C3%ADdo-ao-entrar-em-jogos/?do=getNewComment "Fone de ouvido fazendo ruído ao entrar em jogos.")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Andrey3103](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")  
+        32 minutos atrás
+        
+    * [![Andressa Felini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/263251537_229180085998392_5453120525288073069_n.thumb.jpg.205c2511270c31c034e681e19f33469b.jpg)](https://www.clubedohardware.com.br/profile/1254896-andressa-felini/ "Ir ao perfil de Andressa Felini")
+        
+        0
+        
+        [Clock da Radeon RX 470 travando meu jogo gente](https://www.clubedohardware.com.br/forums/topic/1700335-clock-da-radeon-rx-470-travando-meu-jogo-gente/?do=getNewComment "Clock da Radeon RX 470 travando meu jogo gente")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [VictorDiniz1202](https://www.clubedohardware.com.br/profile/1235549-victordiniz1202/ "Ir ao perfil de VictorDiniz1202")  
-        30 minutos atrás
+        Por [Andressa Felini](https://www.clubedohardware.com.br/profile/1254896-andressa-felini/ "Ir ao perfil de Andressa Felini")  
+        32 minutos atrás
         
-    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
-        
-        2
-        
-        [Excluir nomes de login (tem como?)](https://www.clubedohardware.com.br/forums/topic/1700309-excluir-nomes-de-login-tem-como/?do=getNewComment "Excluir nomes de login (tem como?)")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        52 minutos atrás
-        
-    * [![tetchelex](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c49b%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/751694-tetchelex/ "Ir ao perfil de tetchelex")
-        
-        0
-        
-        Outro [Adequação tabela entrada Power Bi (Gestão de Recursos)](https://www.clubedohardware.com.br/forums/topic/1700308-adequa%C3%A7%C3%A3o-tabela-entrada-power-bi-gest%C3%A3o-de-recursos/?do=getNewComment "Adequação tabela entrada Power Bi (Gestão de Recursos)")
-        
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [tetchelex](https://www.clubedohardware.com.br/profile/751694-tetchelex/ "Ir ao perfil de tetchelex")  
-        55 minutos atrás
-        
-    * [![CristianCDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247041.thumb.jpeg.d087c51a2322ac7f4e0e8a325ce3d158.jpeg)](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")
-        
-        0
-        
-        [Teclado Keychron K8 Pro é bom?](https://www.clubedohardware.com.br/forums/topic/1700307-teclado-keychron-k8-pro-%C3%A9-bom/?do=getNewComment "Teclado Keychron K8 Pro é bom?")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [CristianCDS](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")  
-        1 hora atrás
-        
-    * [![Ewerton de Miranda](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237d62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/839848-ewerton-de-miranda/ "Ir ao perfil de Ewerton de Miranda")
-        
-        0
-        
-        Word [Código VBA para usar a primeira linha do texto para nomear arquivo ao Salvar.](https://www.clubedohardware.com.br/forums/topic/1700306-c%C3%B3digo-vba-para-usar-a-primeira-linha-do-texto-para-nomear-arquivo-ao-salvar/?do=getNewComment "Código VBA para usar a primeira linha do texto para nomear arquivo ao Salvar.")
-        
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [Ewerton de Miranda](https://www.clubedohardware.com.br/profile/839848-ewerton-de-miranda/ "Ir ao perfil de Ewerton de Miranda")  
-        1 hora atrás
-        
-    * [![Erick trade](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254882.thumb.jpeg.6a00624ac76a4e27d42cdb111d6f627a.jpeg)](https://www.clubedohardware.com.br/profile/1254882-erick-trade/ "Ir ao perfil de Erick trade")
-        
-        2
-        
-        [Baixo FPS no CS2 no Ryzen 5 4650G e Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1700305-baixo-fps-no-cs2-no-ryzen-5-4650g-e-radeon-rx-6600/?do=getNewComment "Baixo FPS no CS2 no Ryzen 5 4650G e Radeon RX 6600")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Erick trade](https://www.clubedohardware.com.br/profile/1254882-erick-trade/ "Ir ao perfil de Erick trade")  
-        1 hora atrás
-        
-    * [![TabascoDF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254881.thumb.jpeg.5ace1911564155612b2118c1fad56b71.jpeg)](https://www.clubedohardware.com.br/profile/1254881-tabascodf/ "Ir ao perfil de TabascoDF")
+    * [![Manga](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/download(2).thumb.jpeg.cee2d3c6b784c08383d4feba876f9fce.jpeg)](https://www.clubedohardware.com.br/profile/1232368-manga/ "Ir ao perfil de Manga")
         
         1
         
-        [Gabinete KBM! Gaming GN210 é bom?](https://www.clubedohardware.com.br/forums/topic/1700304-gabinete-kbm-gaming-gn210-%C3%A9-bom/?do=getNewComment "Gabinete KBM! Gaming GN210 é bom?")
+        [comprei uma Machinist b450 e queria saber se teria como ligar uma fan argb nela](https://www.clubedohardware.com.br/forums/topic/1700330-comprei-uma-machinist-b450-e-queria-saber-se-teria-como-ligar-uma-fan-argb-nela/?do=getNewComment "comprei uma Machinist b450 e queria saber se teria como ligar uma fan argb nela")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Manga](https://www.clubedohardware.com.br/profile/1232368-manga/ "Ir ao perfil de Manga")  
+        1 hora atrás
+        
+    * [![Flavio Aguiar Neto](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462b7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253009-flavio-aguiar-neto/ "Ir ao perfil de Flavio Aguiar Neto")
+        
+        2
+        
+        [memória RAM kingston Fury beast DDR4 KF432C16BB/16 de 16g 3200](https://www.clubedohardware.com.br/forums/topic/1700329-mem%C3%B3ria-ram-kingston-fury-beast-ddr4-kf432c16bb16-de-16g-3200/?do=getNewComment "memória RAM kingston Fury beast DDR4 KF432C16BB/16 de 16g 3200")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Flavio Aguiar Neto](https://www.clubedohardware.com.br/profile/1253009-flavio-aguiar-neto/ "Ir ao perfil de Flavio Aguiar Neto")  
+        2 horas atrás
+        
+    * [![alexandre nokan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254893.thumb.jpeg.86f8272e8362bd59b5a704a3371d832d.jpeg)](https://www.clubedohardware.com.br/profile/1254893-alexandre-nokan/ "Ir ao perfil de alexandre nokan")
+        
+        2
+        
+        [GeForce RTX 3060 1-Click OC Galax cabe nesses dois gabinetes?](https://www.clubedohardware.com.br/forums/topic/1700328-geforce-rtx-3060-1-click-oc-galax-cabe-nesses-dois-gabinetes/?do=getNewComment "GeForce RTX 3060 1-Click OC Galax cabe nesses dois gabinetes?")
         
         [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [TabascoDF](https://www.clubedohardware.com.br/profile/1254881-tabascodf/ "Ir ao perfil de TabascoDF")  
-        1 hora atrás
-        
-    * [![daniel godinho de moraes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-966355.thumb.png.33ea2cb9b0b841bb3a90585b51ac3f74.png)](https://www.clubedohardware.com.br/profile/966355-daniel-godinho-de-moraes/ "Ir ao perfil de daniel godinho de moraes")
-        
-        1
-        
-        [Placa lst12 não encontra agitação no atuador](https://www.clubedohardware.com.br/forums/topic/1700303-placa-lst12-n%C3%A3o-encontra-agita%C3%A7%C3%A3o-no-atuador/?do=getNewComment "Placa lst12 não encontra agitação no atuador")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [daniel godinho de moraes](https://www.clubedohardware.com.br/profile/966355-daniel-godinho-de-moraes/ "Ir ao perfil de daniel godinho de moraes")  
+        Por [alexandre nokan](https://www.clubedohardware.com.br/profile/1254893-alexandre-nokan/ "Ir ao perfil de alexandre nokan")  
         2 horas atrás
         
-    * [![dossinj](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238a62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1108372-dossinj/ "Ir ao perfil de dossinj")
+    * [![SergioP](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1096935.thumb.jpeg.d3630fa85239c0ace53a1d0c60e80125.jpeg)](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")
         
-        2
+        3
         
-        [Vender meu PS5. Qual seria um valor justo?](https://www.clubedohardware.com.br/forums/topic/1700302-vender-meu-ps5-qual-seria-um-valor-justo/?do=getNewComment "Vender meu PS5. Qual seria um valor justo?")
+        [Desvincular conta de uma key a minha conta na Microsoft.](https://www.clubedohardware.com.br/forums/topic/1700327-desvincular-conta-de-uma-key-a-minha-conta-na-microsoft/?do=getNewComment "Desvincular conta de uma key a minha conta na Microsoft.")
         
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [dossinj](https://www.clubedohardware.com.br/profile/1108372-dossinj/ "Ir ao perfil de dossinj")  
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [SergioP](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")  
         2 horas atrás
         
-    * [![RodrigoR5](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1115738.thumb.png.daa371f29427b3a55796f11c0a4d0844.png)](https://www.clubedohardware.com.br/profile/1115738-rodrigor5/ "Ir ao perfil de RodrigoR5")
+    * [![NovatoEmTI](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/imported-photo-1068856.thumb.png.80d60ed34cf37d96d8b23195c8a1139f.png)](https://www.clubedohardware.com.br/profile/1068856-novatoemti/ "Ir ao perfil de NovatoEmTI")
         
-        1
+        4
         
-        [Recomendação de controle para PS4 e PC](https://www.clubedohardware.com.br/forums/topic/1700300-recomenda%C3%A7%C3%A3o-de-controle-para-ps4-e-pc/?do=getNewComment "Recomendação de controle para PS4 e PC")
+        [Existe alguma diferença entre a rx 570 de 8gb e a 580 de 8gb?](https://www.clubedohardware.com.br/forums/topic/1700326-existe-alguma-diferen%C3%A7a-entre-a-rx-570-de-8gb-e-a-580-de-8gb/?do=getNewComment "Existe alguma diferença entre a rx 570 de 8gb e a 580 de 8gb?")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [RodrigoR5](https://www.clubedohardware.com.br/profile/1115738-rodrigor5/ "Ir ao perfil de RodrigoR5")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [NovatoEmTI](https://www.clubedohardware.com.br/profile/1068856-novatoemti/ "Ir ao perfil de NovatoEmTI")  
+        3 horas atrás
+        
+    * [![RAFAELYUNES](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254835.thumb.jpeg.fb99c0074c94ebf711fba8e7958d09d2.jpeg)](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")
+        
+        3
+        
+        [Faz muita diferença um Ryzen 5 5600 com 35mb vs 32 mb de cache?](https://www.clubedohardware.com.br/forums/topic/1700325-faz-muita-diferen%C3%A7a-um-ryzen-5-5600-com-35mb-vs-32-mb-de-cache/?do=getNewComment "Faz muita diferença um Ryzen 5 5600 com 35mb vs 32 mb de cache?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [RAFAELYUNES](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")  
         3 horas atrás
         
     
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
