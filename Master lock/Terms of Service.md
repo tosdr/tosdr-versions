@@ -62,6 +62,23 @@ Search
     
     Find a lock [Vault Support](https://www.masterlock.com/support/category/vault-support) [Support For Business](https://www.masterlock.com/support-links) [Insights](https://www.masterlock.com/insights)
     
+* [Smart](https://www.masterlock.com/smart-solutions?smart-solutions) Toggle Dropdown
+    
+    Hardware
+    --------
+    
+    * [Bluetooth Padlocks](https://www.masterlock.com/products/bluetooth-electronic-locks/padlocks?business)
+    * [Bluetooth Lock Boxes](https://www.masterlock.com/products/bluetooth-electronic-locks/lock-boxes?business)
+    * [Bluetooth Door Hardware](https://www.masterlock.com/products/bluetooth-electronic-locks?business&term=&bestUsedFor=Doors&bestUsedFor=Entry+Doors&productType=BUSINESS&productType=BUSINESS&productCategoryOne=Bluetooth%20&%20Electronic%20Locks&ajax=1&sortBy=directToConsumer.keyword&sortByOrder=DESC&pageSize=12)
+    
+    Software
+    --------
+    
+    * [Master Lock Vault](https://www.masterlock.com/smart-solutions/vault)
+    * [cLOTO](https://www.masterlock.com/smart-solutions/cloto)
+    
+    [Bluetooth Lock Support](https://www.masterlock.com/support/category/bluetooth-electronic-locks) [Vault Support](https://www.masterlock.com/support/category/vault-support) [Smart Solutions Insights](https://www.masterlock.com/insights)
+    
 * [Support](https://www.masterlock.com/support?support) Toggle Dropdown
     
     Product Support
@@ -263,6 +280,9 @@ _\*Only customers in the U.S. will receive these emails from Master Lock._
 * [Product Selector](#)
 * [Where to Buy](https://www.masterlock.com/where-to-buy/distributors)
 * [Distributor Ordering](https://www.masterlockshop.com/OA_HTML/mlc_ibeCAcdLogin.jsp)
+
+[Smart](https://www.masterlock.com/smart-solutions)
+---------------------------------------------------
 
 [Support](https://www.masterlock.com/support?support)
 -----------------------------------------------------
