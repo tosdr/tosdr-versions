@@ -2,11 +2,12 @@
 
 * [Home](https://www.moneyprodigy.com/)
 * [Shop](https://www.moneyprodigy.com/shop/)
+* [☆ Start Here ☆](https://www.moneyprodigy.com/welcome-parents/)
+    * [I’m a Parent](https://www.moneyprodigy.com/welcome-parents/)
+    * [I’m an Educator](https://www.moneyprodigy.com/welcome-educators/)
 * [Blog](https://www.moneyprodigy.com/blog/)
     * [About](https://www.moneyprodigy.com/about/)
     * [Contact](https://www.moneyprodigy.com/contact/)
-* [I’m a Parent](https://www.moneyprodigy.com/welcome-parents/)
-* [I’m an Educator](https://www.moneyprodigy.com/welcome-educators/)
 * [Teen Budget Binder](https://www.moneyprodigy.com/teen-budget-binder/)
 
 [![Money Prodigy](https://www.moneyprodigy.com/wp-content/uploads/2023/10/logo-background-no-outline-teach-kids-money-2.png)](https://www.moneyprodigy.com/ "Money Prodigy")
