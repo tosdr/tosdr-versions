@@ -21,14 +21,7 @@ Search  Search
 [Find a Club](https://www.toastmasters.org/find-a-club)
 
 * [About](https://www.toastmasters.org/about)
-* [Education](https://www.toastmasters.org/education)
-    
-    [Education](https://www.toastmasters.org/education)
-    
-    * [Education](https://www.toastmasters.org/education)
-    
-    * [Pathways learning experience](https://www.toastmasters.org/pathways-overview)
-    
+* [Education Programs](https://www.toastmasters.org/education)
 * [Membership](https://www.toastmasters.org/membership)
 * [Resources](https://www.toastmasters.org/resources)
 * [Magazine](https://www.toastmasters.org/magazine)
