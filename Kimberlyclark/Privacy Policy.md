@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 10/08/2024
+Last Updated : 10/23/2024
 
 [](javascript:void(0))
 
@@ -501,7 +501,7 @@ If you have any questions, we want to hear from you. You can find our contact in
 What Personal Information We Collect
 ------------------------------------
 
-**Personal Information.** Personal information means any information that can be used to directly or indirectly identify a specific individual. We may collect personal information from a variety of sources. These sources include personal information that:
+**Personal Information.** Personal information (“PI”) means any information that can be used to directly or indirectly identify a specific individual. We may collect personal information from a variety of sources. These sources include personal information that:
 
 * **you give to us directly** (e.g., when you sign up for things like newsletters, sweepstakes, surveys or promotions or register for an account on our Sites and provide information like your name, email address and date of birth);
 * **we collect automatically** (e.g., when you browse our Site and interact with us online, we (or our partners) may use cookies and tracking technologies to obtain your personal information); and
@@ -563,6 +563,7 @@ We may share information about you with our brands as well as third parties in c
 * **Law Enforcement and Legal Reasons.** Subject to applicable contractual restrictions and other internal procedures limiting disclosures to law enforcement (discussed above), we also may disclose personal information (1) if we are required to do so by law or legal process (such as a court order or subpoena); (2) in response to requests by government agencies (such as law enforcement or regulatory authorities); (3) to establish, exercise or defend our legal rights; (4) when we believe disclosure is necessary or appropriate to prevent physical or other harm or financial loss or to protect your other vital interests; or (5) in connection with an investigation of suspected or actual illegal activity;
 * **Business Transactions.** We reserve the right to transfer any personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution, or liquidation); and/or
 * **International Data Transfers.** We may transfer your personal information with our brands and trusted-third parties outside of the country or territory from where you reside. When these third countries do not offer the same level of data protection as your country, we (or our service providers or their contractors/sub-processors) take steps to make sure that there are adequate safeguards are in place to protect your personal information. For example, these adequate safeguards may include your consent or involve binding the third party transferring your personal information to a contract that requires the same level of standards as the country from which the data was collected. In addition, we comply with certain national or country “localization” laws that, among other things, require personal information about their residents to be collected, processed and/or stored inside the country before being transferred internationally.
+* **Generative Artificial Intelligence (AI) Tools.** K-C may use generative artificial intelligence (AI) technology to, without limitation, improve our products and services and better utilize the data you provide to us. K-C maintains a rigorous review process for deployment of generative AI solutions and rules governing our employees’ and contractors’ use of generative AI, including setting limitations on the purposes for which personal data may be processed by generative AI technology. K-C may require vendors whose services to us include the use of generative AI tools to agree to contractual limitations designed to protect the privacy of personal information when such tools are used.
 
 Read more Read less
 
@@ -649,11 +650,11 @@ Our Policy on Cookies and Similar Tracking Technologies
     
     * These technologies help us (1) remember your information so you do not have to re-enter it; (2) track and understand how you use and interact with our Site; (3) tailor the Site around your preferences for marketing and advertising; (4) measure the usability of our Site or mobile applications and the effectiveness of our communications; and (5) otherwise manage our business, enhance our services and help ensure they are working properly.
     
-    * We use session replay/screen capture tools to better understand our users’ needs and to optimize our websites and the end user experience. Those parties use cookies, pixels and similar technologies to track users’ activity on the websites (i.e., to learn how you use and navigate the services).
-    * We may periodically use services like YouTube’s service to host video content, and embed YouTube's player in our web pages to allow you to watch the video without leaving our website. This mode may set cookies or otherwise collect information once you click on the YouTube video player. This mode may set cookies on your computer once you click on the YouTube video player.
+    * We use session replay/screen capture tools with your consent to better understand our users’ needs and to optimize our websites and the end user experience. We and/or our service providers use cookies, pixels, and similar technologies to track users’ activity on the websites (i.e., to learn how you use and navigate the services) to provide this information.
+    * We may periodically use services like YouTube’s service to host video content and embed YouTube's player on our Site to allow you to watch the video without leaving our Site. This functionality may set cookies or otherwise collect information once you click on the YouTube video player.
 
 * **Controlling or Deleting Cookies.**
-    * We provide cookie management and consent tools on our Sites, where required by applicable law. These tools typically deploy a “cookie settings” option that permits you to control which non-essential cookies we and our providers place on your device. If cookie management tools are deployed on the Site you are visiting, you can view and choose the cookies (like those described above) set by us or by our third-party providers whose services we have added to our pages.
+    * We provide tracking technology management and consent tools on our Sites, where required by applicable law. These tools typically deploy a “cookie settings” option that permits you to control which non-essential cookies and similar technologies we and our providers place on your device. If tracking technology management tools are deployed on the Site you are visiting, you can view and choose the cookies (like those described above) set by us or by our third-party providers whose services we have added to our pages.
     * Please also refer to the “[Your Privacy Rights](#unsubscribe)” and “[State- or Country-Specific Disclosures](#disclosures)” sections of this Policy to learn about available rights and tools to control or limit targeted advertising, online tracking, and personal information sharing (as applicable).
     * You may also be able to disable Kimberly-Clark or third-party cookies using your browser settings.
     * For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your mobile device.
@@ -901,10 +902,48 @@ Read more Read less
 1. data not processed based on your consent, but collected to fulfill our contractual obligations to you is retained while we have a relationship with you plus a period of no more than 10 years after that relationship ends, except when the retention of the data is necessary to enforce or defend our rights or comply with law; and
 2. data collected for marketing purposes according to your consent is retained for a maximum period of 5 years after your relationship with us ends or until you withdraw your consent (although in many circumstances we retain that information for a shorter period, as required by law).  Read more Read less
 
+Montana
+-------
+
+This portion of our Policy only applies to residents of the state of Montana. This portion of our Policy advises Montana residents of rights provided in the Montana Consumer’s Data Privacy Act (MTDCPA) and how Montana residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. If we decline to take action regarding your exercise of any of the rights described in this section, you may appeal our decision not to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+
+* **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
+  
+* **Right to Correct.** You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+  
+* **Right to Delete.**You have the right to delete personal information provided by or obtained about you;
+  
+* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by Contacting Us or by going to Manage My Privacy. Please note that KC does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.  
+      
+    Right to obtain a list of “specified third parties” to whom a controller disclosed personal data.
+
+Read more Read less
+
 Nevada
 ------
 
 As a Nevada resident, you have the right to ask certain companies not to sell your personal information in exchange for money under the Nevada’s privacy law, SB260. Consistent with this Policy, we do not engage in such sales for monetary consideration, without your consent.
+
+Oregon
+------
+
+This portion of our Policy only applies to residents of the state of Oregon. This portion of our Policy advises Oregon residents of rights provided in the Oregon Consumer’s Privacy Act (OCPA) and how Oregon residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. If we decline to take action regarding your exercise of any of the rights described in this section, you may appeal our decision not to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+
+* **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
+  
+* **Right to Correct.** You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+  
+* **Right to Delete.** You have the right to delete personal information provided by or obtained about you;
+  
+* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by Contacting Us or by going to Manage My Privacy. Please note that Kimberly-Clark does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+  
+* **Right to obtain a list of “specified third parties” to whom a controller disclosed personal data.** Upon request from a consumer, a controller must provide details on personal data disclosures to third parties. The controller can choose to provide (i) the list of third parties to which the controller has disclosed the consumers personal data to or (ii) the list of third parties to which the controller has disclosed any consumer's personal data.
+
+**Right to request the purpose of processing information from a controller.**
+
+* **Right to consent to controller’s collection of sensitive personal information prior to it being collected.** Consumers have a right to consent prior to any collection of the following: Racial, ethnic, national origin, religious beliefs, mental/physical health condition, diagnosis, medical history and/or treatment, diagnosis by HC, sexual orientation and status as transgender/nonbinary, citizenship/immigration status, genetic or biometric data, personal data of a known child, precise geolocation, or status as victim of a crime.
+
+Read more Read less
 
 Quebec
 ------
@@ -913,10 +952,25 @@ If you reside in Quebec, you may request access to, or correction of, the person
 
 Our Data Privacy Officer may be contacted at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
 
+Texas
+-----
+
+This portion of our Policy only applies to residents of the state of Texas. This portion of our Policy advises Texas residents of rights provided in the Texas Data Privacy and Security Act (TDPSA) and how Texas residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. If we decline to take action regarding your exercise of any of the rights described in this section, you may appeal our decision not to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+
+* **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information, and you have the right to access such personal information;
+  
+* **Right to Correct.** You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
+  
+* **Right to Delete.** You have the right to delete personal information provided by or obtained about you; and
+  
+* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by Contacting Us or by going to Manage My Privacy. Please note that KC does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+
+Read more Read less
+
 Virginia
 --------
 
-This portion of our Policy only applies to residents of the state of Virginia after January 1, 2023. This portion of our Policy advises Virginia residents of rights provided in the Virginia Consumer Data Protection Act (the “VCDPA”) and how Virginia residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available [here](https://privacyportal-de.onetrust.com/webform/99096bff-8366-4b94-a7e2-97f3efa52243/7bd88bdd-3733-4bc4-97a8-7c84a0687c07). If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+This portion of our Policy only applies to residents of the state of Virginia. This portion of our Policy advises Virginia residents of rights provided in the Virginia Consumer Data Protection Act (the “VCDPA”) and how Virginia residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available [here](https://privacyportal-de.onetrust.com/webform/99096bff-8366-4b94-a7e2-97f3efa52243/7bd88bdd-3733-4bc4-97a8-7c84a0687c07). If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
 
 * **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
   
