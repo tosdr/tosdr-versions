@@ -272,6 +272,7 @@ IN ADDITION, WE HEREBY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, B
 * [Terms & Policies](https://www.talkingproducts.com/pages/our-terms-conditions-and-policies-1)
 * [Disposal & Recycling](https://www.talkingproducts.com/pages/disposal-and-recycling-weee)
 * [Web Links](https://www.talkingproducts.com/pages/web-links-and-resources)
+* [Product User Guides](https://www.talkingproducts.com/pages/product-user-guides)
 
 ### Get In Touch
 
