@@ -307,6 +307,22 @@ Europe's leading entertainment brand
 
  
 
+* [![slide- 32 Eyes & Ears Awards for RTL Deutschland](/.galleries/images/Eyes-Ears-2024_16-9.jpg?__scale=undefined&description=)
+    
+    32 Eyes & Ears Awards for RTL Deutschland
+    
+    23.10.2024
+    
+    14 Gold, nine Silver, eight Bronze and one Special Award: RTL Deutschland and its partners were recognised a total of 32 times at the 2024 Eyes & Ears Awards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/32-Eyes-Ears-Awards-for-RTL-Deutschland/)
+    
+* [![slide-We Are Era educates young people on AI](/.galleries/images/WAE_AI-campaign_16-9.jpg?__scale=undefined&description=)
+    
+    We Are Era educates young people on AI
+    
+    23.10.2024
+    
+    We Are Era’s Mesh Collective partners with the Vodafone Foundation in Germany for the cross-country campaign #MeMyselfandAI.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/We-Are-Era-educates-young-people-on-AI/)
+    
 * [![slide-Fremantle x Lantern Pictures](/.galleries/images/Fremantle_Lantern-Pictures_16-9.jpg?__scale=undefined&description=)
     
     Fremantle x Lantern Pictures
@@ -338,22 +354,6 @@ Europe's leading entertainment brand
     16.10.2024
     
     Fremantle partnered with TF1 in France to launch original psychological reality format _Master of the Game_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-launches-Master-of-the-Game/)
-    
-* [![slide-RTL Deutschland uses AI-supported promotions](/.galleries/images/RTL-D_AI-in-advertising_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland uses AI-supported promotions
-    
-    15.10.2024
-    
-    RTL Deutschland is pioneering the use of artificial intelligence in the production of promotional content, marking a milestone in the German TV landscape.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-uses-AI-supported-promotions/)
-    
-* [![slide-RTL Nederland's Content Event](/.galleries/images/RTL-Content-Event_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Nederland's Content Event
-    
-    08.10.2024
-    
-    Innovative partnerships and more local content: RTL Nederland unveils its plans for streaming service Videoland at the 2024 RTL Content Event.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Nederlands-Content-Event/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
