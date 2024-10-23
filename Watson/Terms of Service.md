@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)12°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,23 +54,23 @@
 
 Thèmes du moment
 
+* [Sport en direct](https://www.watson.ch/fr/sport-en-direct/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
-* [Ligue des champions](https://www.watson.ch/fr/ligue-des-champions/)
-* [Young Boys](https://www.watson.ch/fr/young-boys/)
-* [Inter Milan](https://www.watson.ch/fr/inter-milan/)
+* [mort](https://www.watson.ch/fr/mort/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Terrorisme](https://www.watson.ch/fr/terrorisme/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Sciences](https://www.watson.ch/fr/sciences/)
-* [Israël](https://www.watson.ch/fr/israel/)
-* [républicain](https://www.watson.ch/fr/republicain/)
-* [Gaza](https://www.watson.ch/fr/gaza/)
 * [France](https://www.watson.ch/fr/france/)
+* [Turquie](https://www.watson.ch/fr/turquie/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [républicain](https://www.watson.ch/fr/republicain/)
+* [Films](https://www.watson.ch/fr/films/)
 * [elisabeth baume-schneider](https://www.watson.ch/fr/elisabeth-baume-schneider/)
-* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Justice](https://www.watson.ch/fr/justice/)
