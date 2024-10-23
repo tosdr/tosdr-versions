@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 23, 2024](https://www.japantimes.co.jp/archive/2024/10/23/ "archive page")
+[October 24, 2024](https://www.japantimes.co.jp/archive/2024/10/24/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,64 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426334.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[The rise of BRICS and the emerging multipolar world](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-  [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[17 Vietnamese women arrested over illegal girls bars in Tokyo](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/429131.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Items confiscated by police in connection with several girls bars in Tokyo that operated without authorization in violation of the adult entertainment business law")](https://www.japantimes.co.jp/news/2024/10/21/japan/japan-girls-bar-arrests/ "17 Vietnamese women arrested over illegal girls bars in Tokyo")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-  [![Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426334.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prominent food critic Yukio Hattori has died after collapsing at his cooking school in Tokyo, it was learned Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
 [COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[The rise of BRICS and the emerging multipolar world](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-By [Brahma Chellaney](https://www.japantimes.co.jp/author/321/brahma-chellaney/ "Brahma Chellaney")  
+By F.D. Flam  
 
-  [![Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/20/428701.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian President Vladimir Putin attends a BRICS business forum in Moscow on Friday.")](https://www.japantimes.co.jp/commentary/2024/10/20/world/brics-effect/ "The rise of BRICS and the emerging multipolar world")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 Podcast
 -------
@@ -209,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[U.S. defense chief confirms North Korean troops are in Russia](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/politics/north-korea-russia-us-lloyd-austin/ "U.S. defense chief confirms North Korean troops are in Russia")
+
+4 hours ago
+
 [Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
 
-57 mins ago
+7 hours ago
 
-[In the heart of Tokyo, LDP-CDP rivals duke it out as election day nears](https://www.japantimes.co.jp/news/2024/10/23/japan/media/tokyo-no-1-district/ "In the heart of Tokyo, LDP-CDP rivals duke it out as election day nears")
+[In the heart of Tokyo, LDP and CDP rivals duke it out as election day nears](https://www.japantimes.co.jp/news/2024/10/23/japan/media/tokyo-no-1-district/ "In the heart of Tokyo, LDP and CDP rivals duke it out as election day nears")
 
-1 hours ago
+7 hours ago
 
 [Court orders retrial in 1986 Fukui murder case due to witness coercion](https://www.japantimes.co.jp/news/2024/10/23/japan/crime-legal/fukui-murder-retrial/ "Court orders retrial in 1986 Fukui murder case due to witness coercion")
 
-1 hours ago
+7 hours ago
 
 [Japan’s lunar ambitions advance with two new astronauts](https://www.japantimes.co.jp/news/2024/10/23/japan/jaxa-astronauts/ "Japan’s lunar ambitions advance with two new astronauts")
 
-1 hours ago
-
-[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
