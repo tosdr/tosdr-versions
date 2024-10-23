@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Lobbyists](/assets/Images/teasers/small/company-lobbyists-pie-chart-new3.png)](https://www.followthemoney.org/research/institute-research/buying-broadband-a-boost)
+[![Scorecard: Essential Disclosure Requirements for Independent Spending, 2014](/assets/Images/teasers/full/Independent-Spending-Scorecard-2014.png)](http://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-independent-spending-2014/)
 
-Telecom companies hire 1,000s of state lobbyists.
+Independent Spending Scorecard, 2014
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
