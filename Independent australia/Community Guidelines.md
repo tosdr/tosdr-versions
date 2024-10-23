@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Dutton’s divisive agenda a threat to social cohesion](https://independentaustralia.net/article-display/politics-display/duttons-divisive-agenda-a-threat-to-social-cohesion,19081)
+['Adult Crime, Adult Time' in Qld: LNP direct anger toward children](https://independentaustralia.net/article-display/adult-crime-adult-time-in-queensland-lnp-direct-their-anger-toward-children,19099)
 
-[Labor fights the trend as election day looms in Queensland](https://independentaustralia.net/article-display/labor-fights-the-trend-as-election-day-looms-in-queensland,19080)
+[Australia’s economic data does not compute](https://independentaustralia.net/article-display/australias-economic-data-does-not-compute,19095)
 
-[Coalition and Murdoch press hypocritical on Labor's asylum management](https://independentaustralia.net/article-display/coalition-and-murdoch-press-hypocritical-on-labors-asylum-management,19079)
+[Steven Miles’ results boost his claim to Queensland’s top job](https://independentaustralia.net/article-display/steven-miles-results-boost-his-claim-to-queenslands-top-job,19093)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Australia’s economic data does not compute](https://independentaustralia.net/article-display/australias-economic-data-does-not-compute,19095 "Permanent Link : Australia’s economic data does not compute")
+* [EXCLUSIVE: One Nation only wants to control women’s bodies some of the time](https://independentaustralia.net/article-display/exclusive-one-nation-only-wants-to-control-womens-bodies-some-of-the-time,19100 "Permanent Link : EXCLUSIVE: One Nation only wants to control women’s bodies some of the time")
 * ['Adult Crime, Adult Time' in Queensland: LNP direct their anger toward children](https://independentaustralia.net/article-display/adult-crime-adult-time-in-queensland-lnp-direct-their-anger-toward-children,19099 "Permanent Link : 'Adult Crime, Adult Time' in Queensland: LNP direct their anger toward children")
 * [Race to the moon for a business boom](https://independentaustralia.net/article-display/race-to-the-moon-for-a-business-boom,19092 "Permanent Link : Race to the moon for a business boom")
 * [AI surge pricing, coming to a supermarket and entertainment venue near you](https://independentaustralia.net/article-display/ai-surge-pricing-coming-to-a-supermarket-and-entertainment-venue-near-you,19096 "Permanent Link : AI surge pricing, coming to a supermarket and entertainment venue near you")
+* [Australia’s economic data does not compute](https://independentaustralia.net/article-display/australias-economic-data-does-not-compute,19095 "Permanent Link : Australia’s economic data does not compute")
 * [Treasury's net migration data playing into Dutton's narrative](https://independentaustralia.net/article-display/treasurys-net-migration-data-playing-into-duttons-narrative,19094 "Permanent Link : Treasury's net migration data playing into Dutton's narrative")
 * [Steven Miles’ results boost his claim to Queensland’s top job](https://independentaustralia.net/article-display/steven-miles-results-boost-his-claim-to-queenslands-top-job,19093 "Permanent Link : Steven Miles’ results boost his claim to Queensland’s top job")
-* [POEM: The Holy Creed of Carbonus Rex](https://independentaustralia.net/article-display/poem-the-holy-creed-of-carbonus-rex,19090 "Permanent Link : POEM: The Holy Creed of Carbonus Rex")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
