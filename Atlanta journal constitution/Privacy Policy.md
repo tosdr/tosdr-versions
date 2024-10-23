@@ -1,3 +1,5 @@
+[Exclusive: Many voters in Georgia don’t believe this year’s election will be fair](https://www.ajc.com/politics/election/ajc-poll-changes-to-georgias-election-system-have-not-eased-voters-distrust/5HD6JYUFPZARVIVIL2CRCRMBAE/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
@@ -14,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-hello-again-hawks/JMQL646OTVHBXGGXG2AM6FGLRM/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
