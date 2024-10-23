@@ -36,6 +36,9 @@
         
         Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
     
+    * [![Get an open-box Apple Pencil for only $50 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get an open-box Apple Pencil for only $50 in this deal](https://www.bleepingcomputer.com/offer/deals/get-an-open-box-apple-pencil-for-only-50-in-this-deal/)
     * [![CISA proposes new security requirements to protect govt, personal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         CISA proposes new security requirements to protect govt, personal data](https://www.bleepingcomputer.com/news/security/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
@@ -45,9 +48,6 @@
     * [![AWS, Azure auth keys found in Android and iOS apps used by millions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         AWS, Azure auth keys found in Android and iOS apps used by millions](https://www.bleepingcomputer.com/news/security/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
-    * [![SEC charges tech companies for downplaying SolarWinds breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        SEC charges tech companies for downplaying SolarWinds breaches](https://www.bleepingcomputer.com/news/security/sec-charges-tech-companies-for-downplaying-solarwinds-breaches/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
