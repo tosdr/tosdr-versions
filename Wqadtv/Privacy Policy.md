@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7526848-2e48-4673-99f5-7c4e378f94ac/20241023T030615/f7526848-2e48-4673-99f5-7c4e378f94ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
-        
-        #### [Family of missing Davenport woman speak out](https://www.wqad.com/article/news/local/public-safety/family-missing-davenport-woman-olivia-harrison-speak-out/526-3084e57d-ce45-4e02-a73d-7864780061bf)
-        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1830e92e-bd21-4ac7-85e2-b10713e4d20d/20241023T031340/1830e92e-bd21-4ac7-85e2-b10713e4d20d_360x203.jpg)](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
         
         #### ['There's anonymity' l Narcan vending machines expand Knox County's push to curb overdoses](https://www.wqad.com/article/news/local/narcan-vending-machines-knox-county-reduce-overdose-deaths/526-473e4532-0620-4395-ab25-5bd1e9115fb9)
+        
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c24cee5b-0d20-4988-b90b-c81679e0f7fa/20241021T230924/c24cee5b-0d20-4988-b90b-c81679e0f7fa_360x203.jpg)](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
+        
+        #### [They're not ladybugs! What you need to know about Asian Lady Beetles](https://www.wqad.com/article/news/local/asian-lady-beetles-ladybugs/526-7603d57c-5d5b-46f1-8eaa-7f40e2e02a97)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d4ec2f4d-da27-4720-b38d-7b658702a163/20241022T224817/d4ec2f4d-da27-4720-b38d-7b658702a163_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d4ec2f4d-da27-4720-b38d-7b658702a163/20241022T224817/d4ec2f4d-da27-4720-b38d-7b658702a163_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1996a794-f454-4ea4-8c72-3c9b10fd1d99/20241023T121203/1996a794-f454-4ea4-8c72-3c9b10fd1d99_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1996a794-f454-4ea4-8c72-3c9b10fd1d99/20241023T121203/1996a794-f454-4ea4-8c72-3c9b10fd1d99_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A comfortable fall day tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Sunny skies for this afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_360x203.jpg)](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
         
@@ -88,7 +88,7 @@ Davenport, IA »
 
 55°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
