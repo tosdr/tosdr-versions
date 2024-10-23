@@ -345,7 +345,7 @@ Log In
 
 [Become a Member](https://www.myiacp.org/)
 
-![IACP 2024 900 x 500](/sites/default/files/styles/square_large__scale__ar_9_5/public/2024-03/IACP%202024%20White%20Logo%20900x500.png?itok=gOzAk7oG)
+![IACP 2025](/sites/default/files/styles/square_large__scale__ar_9_5/public/2024-10/IACP%202025%20900x500.jpg?itok=vuHuaVtR)
 
 [Learn More](https://www.theiacpconference.org/)
 
