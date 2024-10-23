@@ -562,7 +562,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Cult of the Lamb PC](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
     
-    Special Price $9.99 RRP $25.89
+    Special Price $9.69 RRP $25.29
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -572,7 +572,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Train Sim World 4: Flying Scotsman Centenary Edition PC](https://www.cdkeys.com/pc/train-sim-world-4-flying-scotsman-centenary-edition-pc "Train Sim World 4: Flying Scotsman Centenary Edition PC")**
     
-    Special Price $19.89 RRP $39.89
+    Special Price $19.49 RRP $38.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -582,7 +582,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Dark Souls III 3 PC](https://www.cdkeys.com/pc/dark-souls-iii-3-pc-cd-key-steam "Dark Souls III 3 PC")**
     
-    Special Price $24.59 RRP $66.49
+    Special Price $23.99 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -592,7 +592,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[HELLDIVERS 2 PC](https://www.cdkeys.com/pc/helldivers-2-pc-steam "HELLDIVERS 2 PC")**
     
-    Special Price $33.19 RRP $39.99
+    Special Price $32.49 RRP $39.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -604,7 +604,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Life is Strange: Double Exposure PC](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam "Life is Strange: Double Exposure PC")**
     
-    Special Price $46.49 RRP $66.49
+    Special Price $45.49 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
