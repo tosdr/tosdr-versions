@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [European Parliament](https://www.euronews.com/tag/european-parliament)
     * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Germany](https://www.euronews.com/tag/germany)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
     
     * * *
     
     Latest stories
     
-    [![Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ")
+    [![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")
     
-    ![Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ](https://static.euronews.com/articles/stories/08/80/58/70/368x207_cmsv2_b2705a8c-cdcd-516d-8e12-e55acbbc6f3e-8805870.jpg "Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ")](https://www.euronews.com/next/2024/10/22/this-french-start-up-can-turn-your-petrol-car-into-an-electric-hybrid-in-a-day)
-    
-    Now playing Next
-    
-    [Mobility](https://www.euronews.com/next/mobility)
-    
-    ### [This French start-up can convert your car into a hybrid EV in a day](https://www.euronews.com/next/2024/10/22/this-french-start-up-can-turn-your-petrol-car-into-an-electric-hybrid-in-a-day)
-    
-    [![Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024")
-    
-    ![Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024](https://static.euronews.com/articles/stories/08/80/52/98/368x207_cmsv2_37292f99-0192-5c72-b493-962f3a47b682-8805298.jpg "Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024")](https://www.euronews.com/video/2024/10/22/alexei-navalnys-posthumous-memoir-released-in-germany)
+    ![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](https://static.euronews.com/articles/stories/08/80/65/42/368x207_cmsv2_41732407-91f0-5b03-ad2d-e13910a5857e-8806542.jpg "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
     
     Now playing Next
     
-    [No Comment](https://www.euronews.com/nocomment)
+    [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Alexei Navalny's posthumous memoir released in Germany](https://www.euronews.com/video/2024/10/22/alexei-navalnys-posthumous-memoir-released-in-germany)
+    ### [ABBA, The Cure and Radiohead sign AI protest letter](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
     
-    [![V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive")
+    [![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")
     
-    ![V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive](https://static.euronews.com/articles/stories/08/80/58/84/368x207_cmsv2_e22189fb-923a-5fb6-b1c1-c3e9a7d07590-8805884.jpg "V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive")](https://www.euronews.com/culture/2024/10/22/vas-new-east-storehouse-to-display-over-90000-david-bowie-items)
-    
-    Now playing Next
-    
-    [Art](https://www.euronews.com/culture/art)
-    
-    ### [Are you ready for the new David Bowie Centre?](https://www.euronews.com/culture/2024/10/22/vas-new-east-storehouse-to-display-over-90000-david-bowie-items)
-    
-    [![EU minimum wage rules are due to take effect in November 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "EU minimum wage rules are due to take effect in November 2024")
-    
-    ![EU minimum wage rules are due to take effect in November 2024](https://static.euronews.com/articles/stories/08/80/58/00/368x207_cmsv2_d547a4ab-d768-5d93-87f7-cdff7bc9102a-8805800.jpg "EU minimum wage rules are due to take effect in November 2024")](https://www.euronews.com/my-europe/2024/10/22/these-seven-countries-arent-respecting-eu-minimum-wage-rules-according-to-trade-unions)
+    ![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](https://static.euronews.com/articles/stories/08/78/79/16/368x207_cmsv2_32f737dd-a2a5-5a71-ab0c-a45e792b45f1-8787916.jpg "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
     
     Now playing Next
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    [Markets](https://www.euronews.com/business/markets)
     
-    ### [Seven countries not respecting EU minimum wage rules: trade union](https://www.euronews.com/my-europe/2024/10/22/these-seven-countries-arent-respecting-eu-minimum-wage-rules-according-to-trade-unions)
+    ### [What key factors could keep the euro under pressure for some time?](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
+    
+    [![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")
+    
+    ![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](https://static.euronews.com/articles/stories/08/80/63/10/368x207_cmsv2_bce674ca-4d73-5d83-8e29-0fd0fdd393bc-8806310.jpg "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
+    
+    Now playing Next
+    
+    [Lebanon](https://www.euronews.com/news/asia/lebanon)
+    
+    ### [Israeli army says it killed top Hezbollah leader in Beirut airstrike](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
+    
+    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+    
+    ![Euronews](https://static.euronews.com/articles/stories/08/80/46/02/368x207_cmsv2_f94a8042-0587-5b80-a263-57267e7022bc-8804602.jpg "Euronews")](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
+    
+    Now playing Next
+    
+    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+    
+    ### [Are Moldova and Georgia the next Ukraine?](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -361,61 +361,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [European Parliament](https://www.euronews.com/tag/european-parliament)
 * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Germany](https://www.euronews.com/tag/germany)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
 
 * * *
 
 Latest stories
 
-[![Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ")
+[![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")
 
-![Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ](https://static.euronews.com/articles/stories/08/80/58/70/368x207_cmsv2_b2705a8c-cdcd-516d-8e12-e55acbbc6f3e-8805870.jpg "Eric Planchais, program director with Green Energy Korporation, stands with a vehicle retrofitted with the Twin E kit at the Paris Motor Show on October 18, 2024. ")](https://www.euronews.com/next/2024/10/22/this-french-start-up-can-turn-your-petrol-car-into-an-electric-hybrid-in-a-day)
+![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](https://static.euronews.com/articles/stories/08/80/65/42/368x207_cmsv2_41732407-91f0-5b03-ad2d-e13910a5857e-8806542.jpg "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
 
 Now playing Next
 
-[Mobility](https://www.euronews.com/next/mobility)
+[Culture news](https://www.euronews.com/culture/culture-news)
 
-### [This French start-up can convert your car into a hybrid EV in a day](https://www.euronews.com/next/2024/10/22/this-french-start-up-can-turn-your-petrol-car-into-an-electric-hybrid-in-a-day)
+### [ABBA, The Cure and Radiohead sign AI protest letter](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
 
 * * *
 
-[![Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024")
+[![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")
 
-![Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024](https://static.euronews.com/articles/stories/08/80/52/98/368x207_cmsv2_37292f99-0192-5c72-b493-962f3a47b682-8805298.jpg "Copies of former Russian opposition leader Alexeï Navalny's memoirs, entitled "Patriot", in a bookshop in Berlin, Germany, 22.10.2024")](https://www.euronews.com/video/2024/10/22/alexei-navalnys-posthumous-memoir-released-in-germany)
+![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](https://static.euronews.com/articles/stories/08/78/79/16/368x207_cmsv2_32f737dd-a2a5-5a71-ab0c-a45e792b45f1-8787916.jpg "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
 
 Now playing Next
 
-[No Comment](https://www.euronews.com/nocomment)
+[Markets](https://www.euronews.com/business/markets)
 
-### [Alexei Navalny's posthumous memoir released in Germany](https://www.euronews.com/video/2024/10/22/alexei-navalnys-posthumous-memoir-released-in-germany)
+### [What key factors could keep the euro under pressure for some time?](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
 
 * * *
 
-[![V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive")
+[![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")
 
-![V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive](https://static.euronews.com/articles/stories/08/80/58/84/368x207_cmsv2_e22189fb-923a-5fb6-b1c1-c3e9a7d07590-8805884.jpg "V&A’s new East Storehouse to display over 90,000 items from David Bowie’s archive")](https://www.euronews.com/culture/2024/10/22/vas-new-east-storehouse-to-display-over-90000-david-bowie-items)
+![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](https://static.euronews.com/articles/stories/08/80/63/10/368x207_cmsv2_bce674ca-4d73-5d83-8e29-0fd0fdd393bc-8806310.jpg "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
 
 Now playing Next
 
-[Art](https://www.euronews.com/culture/art)
+[Lebanon](https://www.euronews.com/news/asia/lebanon)
 
-### [Are you ready for the new David Bowie Centre?](https://www.euronews.com/culture/2024/10/22/vas-new-east-storehouse-to-display-over-90000-david-bowie-items)
+### [Israeli army says it killed top Hezbollah leader in Beirut airstrike](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
 
 * * *
 
-[![EU minimum wage rules are due to take effect in November 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "EU minimum wage rules are due to take effect in November 2024")
+[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
 
-![EU minimum wage rules are due to take effect in November 2024](https://static.euronews.com/articles/stories/08/80/58/00/368x207_cmsv2_d547a4ab-d768-5d93-87f7-cdff7bc9102a-8805800.jpg "EU minimum wage rules are due to take effect in November 2024")](https://www.euronews.com/my-europe/2024/10/22/these-seven-countries-arent-respecting-eu-minimum-wage-rules-according-to-trade-unions)
+![Euronews](https://static.euronews.com/articles/stories/08/80/46/02/368x207_cmsv2_f94a8042-0587-5b80-a263-57267e7022bc-8804602.jpg "Euronews")](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
 
-### [Seven countries not respecting EU minimum wage rules: trade union](https://www.euronews.com/my-europe/2024/10/22/these-seven-countries-arent-respecting-eu-minimum-wage-rules-according-to-trade-unions)
+### [Are Moldova and Georgia the next Ukraine?](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
 
 [Europe](https://www.euronews.com/my-europe)
 
