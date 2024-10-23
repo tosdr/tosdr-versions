@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Capoeira: The Art and Soul of Brazil](/wp-content/thumbnails/3970-100x70.jpg?x53432)
+* [![Megaship – OOCL Atlanta](/wp-content/thumbnails/3422-100x70.jpg?x53432)
     
-    Capoeira: The Art and Soul of Brazil
+    Megaship – OOCL Atlanta
     
-    This is a short documentary film produced by Travis Manning at Full Sail University about the amazing martial art capoeira featuring the Capoeira Guerreiros Orlando Academy.](https://documentaryheaven.com/capoeira-the-art-and-soul-of-brazil/ "Capoeira: The Art and Soul of Brazil")
-* [![Black Money](/wp-content/thumbnails/3310-100x70.jpg?x53432)
+    Climb aboard the cargo ship OOCL Atlanta as she journeys from Hong Kong to Singapore. How does a minimal crew keep this 1,000ft-long vessel afloat in treacherous seas?Join a voyage of discovery aboa](https://documentaryheaven.com/megaship-oocl-atlanta/ "Megaship – OOCL Atlanta")
+* [![The Rise and Fall of Nokia](/wp-content/thumbnails/14084-100x70.jpg?x53432)
     
-    Black Money
+    The Rise and Fall of Nokia
     
-    n Black Money, Frontline correspondent Lowell Bergman investigates this shadowy side of international business, shedding light on multinational companies that have routinely made secret payments — oft](https://documentaryheaven.com/black-money/ "Black Money")
-* [![Blackadder Rides Again](/wp-content/thumbnails/4771-100x70.jpg?x53432)
+    Nokia is a Finnish multinational company, originally founded in 1865 as a pulp mill the company became famous for its rubber products. In the 1970's Nokia expanded its operations into mobile phones an](https://documentaryheaven.com/rise-fall-of-nokia/ "The Rise and Fall of Nokia")
+* [![Why We Fight](/wp-content/thumbnails/30-100x70.png?x53432)
     
-    Blackadder Rides Again
+    Why We Fight
     
-    A 60 minute documentary produced by Tiger Aspect for the BBC and broadcast on 25 December 2008, to celebrate the 25th anniversary of the show. It featured interviews with all of the major cast membe](https://documentaryheaven.com/blackadder-rides-again/ "Blackadder Rides Again")
-* [![The Lost Book of Nostradamus](/wp-content/thumbnails/927-100x70.jpg?x53432)
+    Why We Fight (2005) is a documentary film directed by Eugene Jarecki about the United States's relationship with war. Its title is an allusion to the World War II-era newsreels of the same name, which](https://documentaryheaven.com/why-we-fight/ "Why We Fight")
+* [![The Assassination of Abraham Lincoln](/wp-content/thumbnails/6036-100x70.jpg?x53432)
     
-    The Lost Book of Nostradamus
+    The Assassination of Abraham Lincoln
     
-    Could it be that Nostradamus, the “go to” prophet of all time, is reaching forward into the 21st century to give us a last warning? Is it already too late? In 1994, Italian journalist Enza Massa was a](https://documentaryheaven.com/the-lost-book-of-nostradamus/ "The Lost Book of Nostradamus")
-* [![Attack of the Drones](/wp-content/thumbnails/6763-100x70.jpg?x53432)
+    On July 7, 1865, three men and one woman were hanged for the crime of conspiring to assassinate President Abraham Lincoln.After the surrender of Confederate general Robert E. Lee and the announcemen](https://documentaryheaven.com/the-assassination-of-abraham-lincoln/ "The Assassination of Abraham Lincoln")
+* [![The Syrian Revolution](/wp-content/thumbnails/6527-100x70.jpg?x53432)
     
-    Attack of the Drones
+    The Syrian Revolution
     
-    The US government’s growing reliance on aerial drones to pursue its war on al-Qaeda and the Taliban in Yemen, Afghanistan and elsewhere is proving controversial – as evidenced by the international rea](https://documentaryheaven.com/attack-of-the-drones/ "Attack of the Drones")
+    A very raw inside look into the Syrian revolution. This documentary is more of a collection of mobile footage from the inside of Syria itself.This documentary contains scenes, some views may find](https://documentaryheaven.com/the-syrian-revolution/ "The Syrian Revolution")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
