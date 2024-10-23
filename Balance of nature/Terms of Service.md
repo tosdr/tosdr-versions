@@ -1,23 +1,24 @@
-Main header navigation
+[Skip to content](#MainContent)
 
-[Home pageBalance of Nature](https://www.balanceofnature.com/ "Balance of Nature")
+Free shipping with orders over $100
 
-Toggle main navigation
+Close
 
-[Order now **1.800.246.8751**](tel:1-800-246-8751) [Login](https://www.balanceofnature.com/login "Login") [Order Now](https://www.balanceofnature.com/products "Order Now")
+ [![Balance of Nature](//balanceofnature.com/cdn/shop/files/BoN-Logo-R.png?v=1671727989) Balance of Nature](https://www.balanceofnature.com/)
 
-![](https://storage.googleapis.com/bon_cms_strapi/terms_of_service_1_601e59a152/terms_of_service_1_601e59a152.png)
+Main Menu
+
+* [Order Now: 1.800.246.8751](tel:18002468751)
+* [Log in](https://www.balanceofnature.com/account/login)
+* [Cart (0) + Checkout](https://www.balanceofnature.com/cart) [Order Now](https://www.balanceofnature.com/collections/all)
+* [Order Now: 1.800.246.8751](tel:18002468751)
 
 Terms of Service
 ================
 
-Please read our terms of service.
+### **OVERVIEW**
 
-### **TERMS OF SERVICE**
-
-#### **OVERVIEW**
-
-Balance of Nature® ("Balance of Nature") is the sole and exclusive owner and operator of the website balanceofnature.com. Throughout the website and this document, the terms “we”, “us” and “our” refer to Balance of Nature®. Balance of Nature® offers the website, including all information, tools and services available from this website to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+Balance of Nature® ("Balance of Nature") is the sole and exclusive owner and operator of the website [balanceofnature.com](https://www.balanceofnature.com/). Throughout the website and this document, the terms “we”, “us” and “our” refer to Balance of Nature®. Balance of Nature® offers the website, including all information, tools and services available from this website to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
 By visiting the website and/or purchasing goods or services from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the website, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
 
@@ -193,51 +194,39 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 Questions about the Terms of Service should be sent to us at info@balanceofnature.com
 
-Balance of Nature
------------------
+ [![Balance of Nature](//balanceofnature.com/cdn/shop/files/bon-logo.svg?v=1722275045&width=270) Balance of Nature](https://www.balanceofnature.com/) [1.800.246.8751](tel:1-800-246-8751)
 
-[1.800.246.8751 Call now to order](tel:1-800-246-8751)
+Call now to order
 
-### Shop & Learn
+Shop & Learn
 
-* [All Products](https://www.balanceofnature.com/products)
+* [All Products](https://www.balanceofnature.com/collections/all)
 * [Fruits & Veggies Supplements](https://www.balanceofnature.com/products/fruits-veggies)
-* [Fiber & Spice Supplement](https://www.balanceofnature.com/products/fiber-spice)
+* [Fiber & Spice Supplements](https://www.balanceofnature.com/products/fiber-spice)
 * [Whole Health System Supplements](https://www.balanceofnature.com/products/whole-health-system)
 
-### Support
+Support
 
-* [My Account](https://www.balanceofnature.com/dashboard)
-* [Customer Support](https://support.balanceofnature.com/support/home)
-* [Blog Posts](https://www.balanceofnature.com/blog)
+* [My Account](https://balanceofnature.myshopify.com/account)
+* [Customer Support](https://www.balanceofnature.com/pages/help-center)
+* [Blog Posts](https://www.balanceofnature.com/blogs/news)
 
-### Company
+Company
 
-* [About Us](https://www.balanceofnature.com/balance-of-nature-about)
-* [Our Story](https://www.balanceofnature.com/our-story)
-* [Our Process](https://www.balanceofnature.com/our-process)
-* [Careers](https://www.balanceofnature.com/careers)
-* [News Releases](https://www.balanceofnature.com/news-releases)
-* [Consent Decree](https://www.balanceofnature.com/consent-decree)
-
-Balance of Nature
------------------
+* [About Us](https://www.balanceofnature.com/pages/about-us)
+* [Our Story](https://www.balanceofnature.com/pages/our-story)
+* [Our Process](https://www.balanceofnature.com/pages/our-process)
+* [Careers](https://www.balanceofnature.com/pages/careers)
+* [News Releases](https://www.balanceofnature.com/pages/news-releases)
+* [Consent Decree](https://www.balanceofnature.com/pages/consent-decree)
 
 \* These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.
 
-* [Instagram](https://www.instagram.com/balanceofnaturehealth)
-* [Youtube](https://www.youtube.com/user/balanceofnature1)
-* [Twitter](https://twitter.com/balanceofnature)
-* [LinkedIn](https://www.linkedin.com/company/balance-of-nature)
-* [Facebook](https://www.facebook.com/balanceofnature)
+* [Facebook](https://www.facebook.com/balanceofnature "Balance of Nature on Facebook")
+* [Twitter](https://twitter.com/balanceofnature "Balance of Nature on Twitter")
+* [Pinterest](https://www.pinterest.com/balanceofnature/ "Balance of Nature on Pinterest")
+* [Instagram](https://www.instagram.com/balanceofnaturehealth "Balance of Nature on Instagram")
+* [Linkedin](https://www.linkedin.com/company/balance-of-nature "Balance of Nature on Linkedin")
+* [YouTube](https://www.youtube.com/user/balanceofnature1 "Balance of Nature on YouTube")
 
-\* These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.  
-©2024 Balance of Nature
-
-© 2024 Balance of Nature. All rights reserved.
-
-* [Instagram](https://www.instagram.com/balanceofnaturehealth)
-* [Youtube](https://www.youtube.com/user/balanceofnature1)
-* [Twitter](https://twitter.com/balanceofnature)
-* [LinkedIn](https://www.linkedin.com/company/balance-of-nature)
-* [Facebook](https://www.facebook.com/balanceofnature)
+© 2024, Balance of Nature
