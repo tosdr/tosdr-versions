@@ -340,6 +340,10 @@ Germany, Austria and Switzerland
 
 [**France**](https://atos.net/fr/vie-privee)
 
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+[**Netherlands**](https://atos.net/nl/nl-local-netherlands-statement)
+
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)  
 [**Portugal**](https://atos.net/pt-pt/politica-de-privacidade)
 
