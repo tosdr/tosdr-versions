@@ -21,9 +21,9 @@ You are here » [Home](https://www.seymourlerhn.com/) » Privacy Policy
 The Small Print…
 ----------------
 
-### Seymour & Lerhn Privacy Policy | May 2018
+### Seymour & Lerhn Privacy Policy | October 2024
 
-#### **Privacy Policy – Issue April 2021**
+#### **Privacy Policy – Issue October 2024**
 
 **Introduction**
 
@@ -67,8 +67,6 @@ If you make a purchase through the online store, you will be served third-party 
 
 You can find out more about third-party data policies here:
 
-[Woocommerce](https://automattic.com/privacy/)
-
 [Stripe](https://stripe.com/gb/privacy)
 
 **User Accounts**
@@ -78,10 +76,6 @@ By creating an account, you agree to the use of your data in line with this Priv
 In order to register an account, you will be required to supply certain personal information. This information is securely stored within the website and is only accessible to key personnel for the purposes of managing your account.
 
 If you create an account, you will be served third-party cookies to enable access to otherwise restricted parts of the website. These cookies are only used for core functionality and will not track your activity or serve targeted advertising once you have left the website.
-
-You can find out more about these cookies here:
-
-[Woocommerce](https://automattic.com/privacy/)
 
 **Online Education Platform**
 
@@ -138,12 +132,12 @@ This Policy and Services do not apply anyone under the age of 16. We do not know
 **Provisions to comply with the General Data Protection Regulation**
 
 1. UK Data Protection Law will change on 25 May 2018 when the EU General Data Protection Regulation ((EU) 2016/679) takes effect.
-2. Either you and/or your affiliates, including subsidiaries and holding companies, have a sub-contract, supply agreement, consultancy agreement or other contractual agreement in place with a company within the Oasis Studio Group (Oasis Urban Estates Ltd).
-3. The provisions of this Addendum will come into force between you and the Oasis Studio Group (Oasis Urban Estates Ltd), from 25 May 2018, to coincide with the taking effect of the GDPR.
+2. Either you and/or your affiliates, including subsidiaries and holding companies, have a sub-contract, supply agreement, consultancy agreement or other contractual agreement in place with Seymour & Lerhn Ltd
+3. The provisions of this Addendum will come into force between you and Seymour & Lerhn Ltd, from 25 May 2018, to coincide with the taking effect of the GDPR.
 
-**Oasis Urban Estates Ltd:** whose registered office is at Unit 4, Chatsworth Technology Park, Dunston Road, Chesterfield, S41 8XA and its subsidiaries from time to time.
+**Seymour & Lerhn Ltd:** whose registered office is at Unit 4, Chatsworth Technology Park, Dunston Road, Chesterfield, S41 8XA and its subsidiaries from time to time.
 
-**Contract:** the sub-contract, supply agreement, consultancy agreement or other contractual agreement in place between you and the Oasis Studio Group.
+**Contract:** the sub-contract, supply agreement, consultancy agreement or other contractual agreement in place between you and Seymour & Lerhn Ltd
 
 **Data Controller, Data Processor, Data Subject, Personal Data:** have the meanings ascribed to them in the GDPR.
 
@@ -158,12 +152,12 @@ This Policy and Services do not apply anyone under the age of 16. We do not know
 1. Both parties will comply with all applicable requirements of the Data Protection Legislation. This clause is in addition to, and does not relieve, remove or replace, a party’s obligations under the Data Protection Legislation.
 2. Where we make available Personal Data to you in relation to the performance of the Contract:
 
-* * the parties acknowledge that for the purposes of the Data Protection Legislation, the Relevant Oasis Studio Company is the Data Controller and you are the Data Processor.
-    * the Relevant Oasis Studio Company will ensure that it has all necessary appropriate consents and notices in place to enable lawful transfer of Personal Data to you for the duration and purposes of the Contract.
+* * the parties acknowledge that for the purposes of the Data Protection Legislation, Seymour & Lerhn Ltd is the Data Controller and you are the Data Processor.
+    * Seymour & Lerhn Ltd will ensure that it has all necessary appropriate consents and notices in place to enable lawful transfer of Personal Data to you for the duration and purposes of the Contract.
 
 3. Where you make available Personal Data to us in relation to the performance of the Contract:
 
-* * the parties acknowledge that for the purposes of the Data Protection Legislation, you are the Data Controller and the Relevant Oasis Studio Company is the Data Processor.
+* * the parties acknowledge that for the purposes of the Data Protection Legislation, you are the Data Controller and Seymour & Lerhn Ltd is the Data Processor.
     * you will ensure that you have all necessary appropriate consents and notices in place to enable lawful transfer of Personal Data to us for the duration and purposes of the Contract.
 
 4. In relation to any Personal Data processed in connection with the performance by either party of its obligations under the Contract, the parties confirm that:
