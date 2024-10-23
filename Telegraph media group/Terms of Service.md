@@ -315,7 +315,7 @@ We may prospectively change these Terms and Additional Terms by posting new or c
 **Grants and Limitations of Rights**
 
 * We only grant you a limited revocable license to use the Service subject to rules and limitations. [More](#terms1)
-* You grant us a broad license to the content you submit and to your profile. You retain ownership of and responsibility for your content. We have the right to manage our Service to keep its content appropriate. [More](#terms2)
+* You grant us a broad license to the content you submit and to your profile. You retain ownership of and responsibility for your content. We have the right to manage our Service to keep its content appropriate. [More](#submission)
 * Your use of our Service is subject to various restrictions designed to protect the Service and users. [More](#terms3)  
     
 
