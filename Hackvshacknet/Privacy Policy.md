@@ -220,18 +220,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
+* [![akiuara](/data/avatars/s/108/108029.jpg?1729670143)](http://hackvshack.net/members/akiuara.108029/)
+* [![Duper_HH](/data/avatars/s/108/108028.jpg?1729667530)](http://hackvshack.net/members/duper_hh.108028/)
+* [![firebox](/data/avatars/s/108/108027.jpg?1729662658)](http://hackvshack.net/members/firebox.108027/)
+* [![ddd232323](/data/avatars/s/108/108026.jpg?1729661908)](http://hackvshack.net/members/ddd232323.108026/)
+* [![Aboba5005](/data/avatars/s/108/108025.jpg?1729659978)](http://hackvshack.net/members/aboba5005.108025/)
+* [![ELISAlisa88](/data/avatars/s/108/108024.jpg?1729658711)](http://hackvshack.net/members/elisalisa88.108024/)
+* [](http://hackvshack.net/members/adotk24.108023/)
+* [](http://hackvshack.net/members/snowbound.108022/)
+* [![byhehetben](/data/avatars/s/108/108021.jpg?1729653969)](http://hackvshack.net/members/byhehetben.108021/)
 * [](http://hackvshack.net/members/atari.108020/)
 * [![killua2small](/data/avatars/s/108/108019.jpg?1729648249)](http://hackvshack.net/members/killua2small.108019/)
 * [](http://hackvshack.net/members/oniichan.108018/)
-* [](http://hackvshack.net/members/jugi.108017/)
-* [![oneinakrill2](/data/avatars/s/108/108016.jpg?1729644228)](http://hackvshack.net/members/oneinakrill2.108016/)
-* [![elmasPicante](/data/avatars/s/108/108015.jpg?1729641639)](http://hackvshack.net/members/elmaspicante.108015/)
-* [](http://hackvshack.net/members/furkansa158-gma.108014/)
-* [![wizowizo](/data/avatars/s/108/108013.jpg?1729639862)](http://hackvshack.net/members/wizowizo.108013/)
-* [![koltz](/data/avatars/s/108/108011.jpg?1729639697)](http://hackvshack.net/members/koltz.108011/)
-* [](http://hackvshack.net/members/naval.108010/)
-* [![LeigtBot2](/data/avatars/s/108/108009.jpg?1729637891)](http://hackvshack.net/members/leigtbot2.108009/)
-* [](http://hackvshack.net/members/dedzik.108008/)
 
 ### Partners
 
@@ -251,19 +251,19 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 Threads
 
-2,666
+2,667
 
 Messages
 
-22,754
+22,756
 
 Members
 
-108,020
+108,029
 
 Latest member
 
-[atari](http://hackvshack.net/members/atari.108020/)
+[akiuara](http://hackvshack.net/members/akiuara.108029/)
 
 Most visitors online was 4044 , on 21 Oct 2024
 
@@ -271,15 +271,15 @@ Most visitors online was 4044 , on 21 Oct 2024
 
 Members online
 
-25
+26
 
 Guests online
 
-300
+326
 
 Total visitors
 
-325
+352
 
 Totals may include hidden visitors.
 
