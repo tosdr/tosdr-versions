@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [\[2024\] 100 Top Pluralsight Courses of All Time](https://www.classcentral.com/report/pluralsight-top-courses/)
-2. [5 Best Botany Courses for 2024](https://www.classcentral.com/report/best-botany-courses/)
-3. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
-4. [\[2024\] 200+ Free Courses to Learn About History](https://www.classcentral.com/report/history-free-online-courses/)
-5. [\[2024\] 300+ Philosophy Courses You Can Take for Free](https://www.classcentral.com/report/philosophy-free-online-courses/)
+1. [10 Best Docker Courses for 2024](https://www.classcentral.com/report/best-docker-courses/)
+2. [\[2024\] 100 Top Pluralsight Courses of All Time](https://www.classcentral.com/report/pluralsight-top-courses/)
+3. [5 Best Botany Courses for 2024](https://www.classcentral.com/report/best-botany-courses/)
+4. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
+5. [\[2024\] 200+ Free Courses to Learn About History](https://www.classcentral.com/report/history-free-online-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. c
     
-2. excel
+2. psychology
     
-3. web development
+3. project management
     
 
 Popular subjects
@@ -426,26 +426,26 @@ Popular subjects
 
 1. [Data Analysis
     
-    8,377 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Digital Marketing
+    8,382 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Graphic Design
     
-    5,940 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Ethical Hacking
+    4,227 courses](https://www.classcentral.com/subject/graphic-design)
+3. [Computer Science
     
-    2,207 courses](https://www.classcentral.com/subject/ethical-hacking)
+    39,338 courses](https://www.classcentral.com/subject/cs)
 
 Popular courses
 ---------------
 
-1. [Introducción a la inversión bursátil
+1. [Literature of the English Country House
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/stocks-universitat-politecnica-de-valencia-introd-5316)
-2. [Understanding the GDPR
+    The University of Sheffield](https://www.classcentral.com/course/country-house-literature-2028)
+2. [A Scuola con Raffaello
     
-    University of Groningen](https://www.classcentral.com/course/general-data-protection-regulation-9403)
-3. [Bitcoin and Cryptocurrency Technologies
+    University of Urbino](https://www.classcentral.com/course/independent-a-scuola-con-raffaello-21210)
+3. [Python for Data Science
     
-    Princeton University](https://www.classcentral.com/course/bitcointech-3655)
+    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
