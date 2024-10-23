@@ -205,23 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [August 16, 2011](https://www.somethingawful.com/twitter-tuesday/tt08-16-2011/1/)
 * [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
-* [May 22, 2012](https://www.somethingawful.com/twitter-tuesday/tt05-22-12/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Dungeons & Dragons Module B3: "Palace of the Silver Princess" (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/illusion-of-decapus/1/)
+* [Spooky Skeleton GIFs!](https://www.somethingawful.com/comedy-goldmine/spooky-skeleton-gifs/)
+* [Segway Chat, The Student Room, Fart Discussions, and YaHooka](https://www.somethingawful.com/weekend-web/segway-chat-student/1/)
+* [Cakefartin' Steve And Me](https://www.somethingawful.com/news/cakefarts/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [Low budget Halloween costume ideas](http://forums.somethingawful.com/showthread.php?threadid=4073275 "Low budget Halloween costume ideas")
-
 ### Random Articles
 
-* [I need Tauntaun guts.](https://www.somethingawful.com/news/polar-tauntaun/)
-* [Dude, Where's My Dog?](https://www.somethingawful.com/movie-reviews/dude-wheres-dog/)
-* [The Official Website Of Michael Vick](https://www.somethingawful.com/awful-links/michael-vick-official/)
-* [October 13, 2008](https://www.somethingawful.com/forum-fridays/ff10-13-08/1/)
-* [Extremely Overthought Pick Up Lines](https://www.somethingawful.com/news/pick-up-lines/)
+* [Legacy of Puns Will Outlive Local Janitor's Mysterious, Gruesome Death](https://www.somethingawful.com/news/freddy-krueger-obit/)
+* [That Side.com Everquest Comi](https://www.somethingawful.com/awful-links/awful-link-547/)
+* [I am the Curator of a Vast Digital Collection of Jackworthy Media](https://www.somethingawful.com/news/curate-internet-collection/)
+* [Elmo Lover's Board, The Corpse, Absolute Anime, and Aliensthetruth](https://www.somethingawful.com/weekend-web/elmo-lovers-board/1/)
+* [Awful Top 10: Keyboard Keys](https://www.somethingawful.com/flash-tub/top-10-keyboard/)
 
 [Random!](https://www.somethingawful.com/random/)
 
