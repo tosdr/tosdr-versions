@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel says it killed a Hezbollah official expected to become the group's next leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
-    * [Images capture exact moments an Israeli missile strikes building in Beirut](https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e)
-    * [The little airline that could — Lebanon's national carrier braves Israeli airstrikes](https://apnews.com/article/lebanon-israel-hezbollah-middle-east-airlines-mea-4abfae7f6165b7b34083e2512272ce54)
+    * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
+    * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
+    * [US defense chief Austin says there’s evidence North Korea has sent troops to Russia](https://apnews.com/article/north-korea-russia-troops-ukraine-b664f8c1164e9ef859b7a618ffa92140)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
+    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
     * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
-    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
+    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [A Supreme Court reshaped by Trump has a low profile in this presidential campaign](https://apnews.com/article/supreme-court-presidential-election-trump-harris-ed91f084599d0f25b00f44bb71620528)
     * [In Pennsylvania, an influx of college graduates could push a key county toward Harris](https://apnews.com/article/election-battleground-centre-county-pennsylvania-harris-trump-99648a481dcd5fca8580a86a271e14dc)
-    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
-    * [LeBron and Bronny James make history as the NBA's first father-son duo to play together](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
-    * [Celtics tie, but don't break, NBA record with 29 3-pointers. Then they miss 13 3s in a row](https://apnews.com/article/boston-celtics-nba-record-3-pointers-d8104885798c6a4d17c7cad7fba4d7af)
+    * [LeBron and Bronny James make NBA history](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
+    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
     * [Navalny's memoir details isolation and suffering in a Russian prison — and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
-    * [A$AP Rocky to go to trial next year on charges he fired a gun at a former friend](https://apnews.com/article/aap-rocky-trial-shooting-rihanna-8137161cb7438e41b3fe6e33f8e41ba2)
+    * [Harvey Weinstein due back in court for hearing ahead of retrial](https://apnews.com/article/harvey-weinstein-sex-crimes-charges-new-york-d47bcb965b6721ee022ae14da1216bc3)
+    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
-    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
-    * [Yellen says isolationism 'made America and the world worse off' in speech to global finance leaders](https://apnews.com/article/imf-world-bank-yellen-global-finance-bd58fde32b3717190429cb439767cddd)
+    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
+    * [Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
+    * [Financial cooperation and BRICS expansion are on the table as Putin hosts Global South leaders](https://apnews.com/article/russia-putin-brics-summit-china-india-d672be9b1ec2ffd0fba608e8a6aca790)
     
 * [Science](https://apnews.com/science)
     
@@ -242,11 +242,11 @@ Menu
     
     TOP STORIES
     
+    * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
     * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
     * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
-    * [Teen smoking just hit an all-time low in the U.S., CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     
 * [Tech](https://apnews.com/technology)
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Edmunds: These are the best lightly used hybrid cars, SUVs and trucks](https://apnews.com/article/used-hybrids-vehicles-buy-shop-1358f02ef28d2a957ef84989106a9790)
+    * [US fines American Airlines $50 million over mishandling of disabled passengers and wheelchairs](https://apnews.com/article/american-airlines-fined-disabilities-wheelchairs-ee35b40ac14eb8c79bd0ddea31a1053c)
     * [A look behind the scenes at the National Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
-    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
-    * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Fallout from 2023 Hamas attack lingers as Jews worldwide prepare for a holiday meant for joy](https://apnews.com/article/simchat-torah-joy-sorrow-october-attack-israel-440b94d8f49838568920e801763f4c4a)
+    * [Malaysia charges 22 members of an Islamic business group, including its CEO, for organized crime](https://apnews.com/article/malaysia-child-sex-abuse-ceo-charged-9ab82ca60b3bd5e9bb15839c46e8ed71)
     * [Burial held for Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-ca260bfaadc0791f8f07e419f7e4c59a)
-    * [About 140 Rohingya Muslims on wooden boat off Indonesia's coast as residents refuse to let them land](https://apnews.com/article/indonesia-aceh-rohingya-muslims-myanmar-refugees-e449e93984ea308c24efedb84be0f6e8)
-    * [China and the Vatican agree to extend an agreement on appointing bishops](https://apnews.com/article/china-vatican-agreement-b9cd669a0a91ad3da8fc70fe41611bdb)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel bombardea edificios cerca de Beirut y hospitales libaneses temen ser atacados](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
-    * [Harris habla de oportunidades económicas para los hombres latinos; Trump la insulta](https://apnews.com/article/eeuu-elecciones-harris-trump-45e71eb1ce77c2a9475af3c0f4d28956)
-    * [Cuba reconecta el sistema energético nacional, pero el gobierno admite que seguirá habiendo apagones](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
-    * [Arrestos por cruces ilegales en frontera sur de EEUU caen en septiembre](https://apnews.com/article/frontera-eeuu-cbp-darien-biden-trump-harris-f2861a366f2a0feb4bba68606926ca5e)
-    * [Fallece Fernando Valenzuela, el mexicano que desató la ‘Fernandomanía’ con Dodgers](https://apnews.com/article/valenzuela-fernando-deceso-dodgers-mexicano-17b06aec59a92a5abbcb9c006ccc49a6)
-    * [Aerolínea nacional de Líbano continúa en operaciones pese a bombardeos israelíes](https://apnews.com/article/libano-israel-guerra-52e02cda56dad7c29e9b3730283e2493)
+    * [Israel ataca una ciudad costera libanesa tras la evacuación de residentes](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
+    * [El secretario de Defensa de EEUU confirma que Corea del Norte ha enviado soldados a Rusia](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
+    * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
+    * [Putin recibe al Sur Global en cumbre de los BRICS que hablará de expansión y cooperación financiera](https://apnews.com/article/cumbre-brics-putin-rusia-china-india-97c2bf581ce3f969b42788a89f975979)
+    * [Boeing reporta enormes pérdidas debido a huelgas](https://apnews.com/article/boeing-perdidas-huelga-5f4c4f3a26c7463113c58faf52e2da2d)
+    * [Un ruso es acusado de matar a puñaladas a dos soldados ucranianos en Alemania](https://apnews.com/article/ucrania-alemania-soldados-muertos-29a195637689263ad9551c7ba0d5d931)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel says it killed a Hezbollah official expected to become the group's next leader](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-22-2024-5a8d5a051e05267007192ac5c8d80efd)
-    * [Images capture exact moments an Israeli missile strikes building in Beirut](https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e)
-    * [The little airline that could — Lebanon's national carrier braves Israeli airstrikes](https://apnews.com/article/lebanon-israel-hezbollah-middle-east-airlines-mea-4abfae7f6165b7b34083e2512272ce54)
+    * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
+    * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
+    * [US defense chief Austin says there’s evidence North Korea has sent troops to Russia](https://apnews.com/article/north-korea-russia-troops-ukraine-b664f8c1164e9ef859b7a618ffa92140)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
+    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
     * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
-    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
+    * [Georgia Supreme Court rejects Republican attempt to quickly reinstate invalidated election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-dea9c9c35e4392b9a0b0d76960436cad)
     
     Newsletters
     
@@ -533,8 +533,8 @@ Submit Search
     TOP STORIES
     
     * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [A Supreme Court reshaped by Trump has a low profile in this presidential campaign](https://apnews.com/article/supreme-court-presidential-election-trump-harris-ed91f084599d0f25b00f44bb71620528)
     * [In Pennsylvania, an influx of college graduates could push a key county toward Harris](https://apnews.com/article/election-battleground-centre-county-pennsylvania-harris-trump-99648a481dcd5fca8580a86a271e14dc)
-    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
     
     Newsletters
     
@@ -563,8 +563,8 @@ Submit Search
     TOP STORIES
     
     * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
-    * [LeBron and Bronny James make history as the NBA's first father-son duo to play together](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
-    * [Celtics tie, but don't break, NBA record with 29 3-pointers. Then they miss 13 3s in a row](https://apnews.com/article/boston-celtics-nba-record-3-pointers-d8104885798c6a4d17c7cad7fba4d7af)
+    * [LeBron and Bronny James make NBA history](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
+    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
     * [Navalny's memoir details isolation and suffering in a Russian prison — and how he never lost hope](https://apnews.com/article/navalny-memoir-putin-russia-opposition-patriot-8e12b158f1ae44e8274eebbdad194847)
-    * [A$AP Rocky to go to trial next year on charges he fired a gun at a former friend](https://apnews.com/article/aap-rocky-trial-shooting-rihanna-8137161cb7438e41b3fe6e33f8e41ba2)
+    * [Harvey Weinstein due back in court for hearing ahead of retrial](https://apnews.com/article/harvey-weinstein-sex-crimes-charges-new-york-d47bcb965b6721ee022ae14da1216bc3)
+    * [Tears for Fears are in full bloom with a concert film, a live album, new songs and Vegas dates](https://apnews.com/article/tears-for-fears-live-concert-film-2024-cbcabea7e352f5a8cb6dbae2d803b9ab)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Lower-priced new cars are gaining popularity, and not just for cash-poor buyers](https://apnews.com/article/cars-vehicles-autos-affordable-suvs-compact-price-a9547c1d9a52199a492676f8ef2d5891)
-    * [Former Abercrombie & Fitch chief Mike Jeffries arrested on federal sex trafficking charges](https://apnews.com/article/abercrombie-fitch-ceo-jeffries-sex-charges-f95f6b480dcb41e5365fa9b49f6206bd)
-    * [Yellen says isolationism 'made America and the world worse off' in speech to global finance leaders](https://apnews.com/article/imf-world-bank-yellen-global-finance-bd58fde32b3717190429cb439767cddd)
+    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
+    * [Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
+    * [Financial cooperation and BRICS expansion are on the table as Putin hosts Global South leaders](https://apnews.com/article/russia-putin-brics-summit-china-india-d672be9b1ec2ffd0fba608e8a6aca790)
     
 * [Science](https://apnews.com/science)
     
@@ -739,11 +739,11 @@ Submit Search
     
     TOP STORIES
     
+    * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
     * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
     * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
-    * [Teen smoking just hit an all-time low in the U.S., CDC reports](https://apnews.com/article/teen-smoking-cdc-vaping-cigarettes-875da45925b500cddda7ed4c19591c30)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     
 * [Tech](https://apnews.com/technology)
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Edmunds: These are the best lightly used hybrid cars, SUVs and trucks](https://apnews.com/article/used-hybrids-vehicles-buy-shop-1358f02ef28d2a957ef84989106a9790)
+    * [US fines American Airlines $50 million over mishandling of disabled passengers and wheelchairs](https://apnews.com/article/american-airlines-fined-disabilities-wheelchairs-ee35b40ac14eb8c79bd0ddea31a1053c)
     * [A look behind the scenes at the National Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
-    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
-    * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Fallout from 2023 Hamas attack lingers as Jews worldwide prepare for a holiday meant for joy](https://apnews.com/article/simchat-torah-joy-sorrow-october-attack-israel-440b94d8f49838568920e801763f4c4a)
+    * [Malaysia charges 22 members of an Islamic business group, including its CEO, for organized crime](https://apnews.com/article/malaysia-child-sex-abuse-ceo-charged-9ab82ca60b3bd5e9bb15839c46e8ed71)
     * [Burial held for Catholic priest and Indigenous peace activist killed in southern Mexico](https://apnews.com/article/mexico-violence-chiapas-priest-activist-killed-ca260bfaadc0791f8f07e419f7e4c59a)
-    * [About 140 Rohingya Muslims on wooden boat off Indonesia's coast as residents refuse to let them land](https://apnews.com/article/indonesia-aceh-rohingya-muslims-myanmar-refugees-e449e93984ea308c24efedb84be0f6e8)
-    * [China and the Vatican agree to extend an agreement on appointing bishops](https://apnews.com/article/china-vatican-agreement-b9cd669a0a91ad3da8fc70fe41611bdb)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel bombardea edificios cerca de Beirut y hospitales libaneses temen ser atacados](https://apnews.com/article/israel-hamas-hezbollah-oriente-medio-guerra-87f7c9a4eb805e6eb3f703fec749ee93)
-    * [Harris habla de oportunidades económicas para los hombres latinos; Trump la insulta](https://apnews.com/article/eeuu-elecciones-harris-trump-45e71eb1ce77c2a9475af3c0f4d28956)
-    * [Cuba reconecta el sistema energético nacional, pero el gobierno admite que seguirá habiendo apagones](https://apnews.com/article/cuba-energia-apagon-ciclon-oscar-226d211764c46031a5d4eb2f8918eb72)
-    * [Arrestos por cruces ilegales en frontera sur de EEUU caen en septiembre](https://apnews.com/article/frontera-eeuu-cbp-darien-biden-trump-harris-f2861a366f2a0feb4bba68606926ca5e)
-    * [Fallece Fernando Valenzuela, el mexicano que desató la ‘Fernandomanía’ con Dodgers](https://apnews.com/article/valenzuela-fernando-deceso-dodgers-mexicano-17b06aec59a92a5abbcb9c006ccc49a6)
-    * [Aerolínea nacional de Líbano continúa en operaciones pese a bombardeos israelíes](https://apnews.com/article/libano-israel-guerra-52e02cda56dad7c29e9b3730283e2493)
+    * [Israel ataca una ciudad costera libanesa tras la evacuación de residentes](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
+    * [El secretario de Defensa de EEUU confirma que Corea del Norte ha enviado soldados a Rusia](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
+    * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
+    * [Putin recibe al Sur Global en cumbre de los BRICS que hablará de expansión y cooperación financiera](https://apnews.com/article/cumbre-brics-putin-rusia-china-india-97c2bf581ce3f969b42788a89f975979)
+    * [Boeing reporta enormes pérdidas debido a huelgas](https://apnews.com/article/boeing-perdidas-huelga-5f4c4f3a26c7463113c58faf52e2da2d)
+    * [Un ruso es acusado de matar a puñaladas a dos soldados ucranianos en Alemania](https://apnews.com/article/ucrania-alemania-soldados-muertos-29a195637689263ad9551c7ba0d5d931)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
