@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![SO1 Patrick Feeks, Navy Seal](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Ted Cimral](https://cdn.returningveterans.org/images/honor/cogbill_001.jpg)  
 
-**In Memory of SO1 Patrick Feeks, Navy Seal**  
-United States Navy  
-Submitted by Matthew Corey](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Ted Cimral**  
+United States Army  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/23/24 - 2:15:33  
+Printed 10/23/24 - 8:19:47  
 © 2024 Returning Veterans Project
