@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Jannie Schutte - myFinance-Online.co.za
+Hugo van Sittert
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=102608013)  
-MONSTER SECURITY GUARDING
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=183899789)  
+MONSTER SECURITY SERVICES
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=70574575)  
-Super Sound Man (PTY) Ltd
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=67405063)  
+Calonet
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=202436327)  
-Imvubu General Trading
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=101576159)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=159211686)  
-Sportspro Group (Pty) Ltd
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=172001668)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=135178569)  
-Lemba Truck Stop
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=156861737)  
+AquariumSmiths
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=91930600)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=148602571)  
+Repairs In Motion
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=92061661)  
-Moving Made Easy (PTY) Ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=168657681)  
+AFS Electrical
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=78882014)  
-Qothiphango Mining
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=95481321)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=142331689)  
-Enhle Oarabile Kea
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=125099849)  
+FJW Security Cc
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=192754205)  
-ELLIE'S CLEANING CHICKS
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=51488000)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=189463875)  
-Little Nutty Professors
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=117848230)  
+Goju-Ryu Pretoria East
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=208844250)  
-Tagline Brands
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=209693523)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=118488839)  
-Cape Adventure Zone
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=120230179)  
+United Paintball Federation
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=102343739)  
-Dr V Naik Consult
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=107367416)  
+SR Travel Services
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=62249950)  
-TechnoDezi PTY(LTD)
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=4266a6340129733f5fd01a961185bcfbb4173633c4722e2ac69438fdacc9d975&c=30720677)  
+Chiron Medical Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
