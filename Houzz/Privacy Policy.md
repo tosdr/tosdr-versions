@@ -525,13 +525,39 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[FREE SHIPPING EVENT Sale](https://www.houzz.com/shop-houzz/free-shipping-event)
+[Holiday Shop Sale](https://www.houzz.com/sales)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/eb81522e0710ba06_9449-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales)
+[Holiday Shop](https://www.houzz.com/sales)
+
+[![Gifts for Him](https://st.hzcdn.com/fimgs/f711cfa3071a155c_2652-w150-h150-b0-p0--home-design.jpg)
+
+GIFT GUIDE
+
+Gifts for Him](https://www.houzz.com/ideabooks/55692261) 
+
+[![Gifts for Her](https://st.hzcdn.com/fimgs/c661d89d071a1556_2646-w150-h150-b0-p0--home-design.jpg)
+
+GIFT GUIDE
+
+Gifts for Her](https://www.houzz.com/ideabooks/55947209) 
+
+[![Gifts for the Entertainer](https://st.hzcdn.com/fimgs/ea91023a071a155a_2650-w150-h150-b0-p0--home-design.jpg)
+
+GIFT GUIDE
+
+Gifts for the Entertainer](https://www.houzz.com/ideabooks/113304747) 
+
+[![Gifts for the Home](https://st.hzcdn.com/fimgs/7261c2a5071a155d_2654-w150-h150-b0-p0--home-design.jpg)
+
+GIFT GUIDE
+
+Gifts for the Home](https://www.houzz.com/ideabooks/141527221) 
+
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/bcb138d0071a187d_3456-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -559,7 +585,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28827068/pic/houzz_logo.svg?v=28827068)
+![Houzz Logo Print](//www.houzz.com/res/28828606/pic/houzz_logo.svg?v=28828606)
 
 **PRIVACY POLICY**
 ==================
