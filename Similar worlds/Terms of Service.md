@@ -19,7 +19,7 @@ Email ![](https://images.similarworlds.com/social/google.svg) Google ![](https:/
 Terms of Service
 
 This agreement was written in English (US).  
-Date of Last Revision: January 30, 2024  
+Date of Last Revision: October 22, 2024  
   
 Please read the [Terms of Service](https://similarworlds.com/legal/terms) and [Privacy Policy](https://similarworlds.com/legal/privacy) carefully.
 
@@ -47,7 +47,7 @@ Sharing Your Content and Information
 
 You own all of the content and information you post on SimilarWorlds. In addition:
 
-1. For content that is covered by intellectual property rights, like photos ("IP content"), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use, reproduce, modify, adapt, and display any IP content that you post on or in connection with SimilarWorlds ("IP License"), for the purposes of operating the platform and providing related services. This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+1. For content that is covered by intellectual property rights, like photos ("IP content"), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use, reproduce, copy, modify, adapt, and display any IP content that you post on or in connection with SimilarWorlds ("IP License"), for the purposes of operating the platform and providing related services. This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
 2. When you delete IP content, your removed content may persist in the database and backup copies for a reasonable period of time (but will not be available to others).
 3. When you publish content or information on a group, it means that everyone, including people off of SimilarWorlds, will have access to that information and we may not have control over what they do with it.
 4. We always appreciate your feedback or other suggestions about SimilarWorlds, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).
@@ -83,7 +83,7 @@ Acceptable Behavior & Protecting Other People's Rights
 We respect other people's rights and expect you to do the same.
 
 1. You agree to follow our [Acceptable Behavior guidelines](https://similarworlds.com/help/47-What-is-the-acceptable-behavior-on-Similar-Worlds).
-2. You will not post content or take any action on SimilarWorlds that infringes or violates someone else's rights or otherwise violates the law.
+2. You will not upload, post, or otherwise make content available that infringes or violates someone else's rights or otherwise violates the law.
 3. You will not submit or upload material that is copyrighted, protected by trade secret or otherwise subject to third-party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant SimilarWorlds all of the license rights granted herein.
 4. You will not publish falsehoods or misrepresentations that could damage SimilarWorlds or any third party.
 5. We can remove any content or information you post on SimilarWorlds if we believe that it violates this Statement.
@@ -180,7 +180,7 @@ You can also select the options below:
 Copyright Guidelines
 
 **User Responsibilities**  
-Users are solely responsible for ensuring that any content they upload, share, or post on the platform complies with copyright laws and regulations. Users must either hold the necessary rights to the content they share or have obtained the proper authorization from the copyright owner.  
+Users are solely responsible for ensuring that any content they upload, share, or post on the platform complies with copyright laws and regulations. Users must either own the rights to the content or have the necessary licenses, rights, consents, and permissions to upload, publish, and distribute it on the platform.  
   
 **Prohibited Content**  
 Users are prohibited from posting, sharing, or distributing copyrighted material without the explicit permission of the copyright owner, unless such use falls under fair use or other applicable exceptions as defined by copyright law.  
@@ -234,8 +234,8 @@ To the extent permitted by law, we shall not be liable for any direct, indirect,
 
 Disputes
 
-If anyone brings a claim against us related to your actions, content or information on SimilarWorlds, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.  
-Any dispute, claim, or controversy arising out of or relating to these terms or your use of our platform shall be resolved through good-faith negotiation.
+You agree to indemnify and hold SimilarWorlds harmless from and against all damages, losses, liabilities, and expenses of any kind (including reasonable legal fees and costs) arising from any claims related to your actions, content, or information on the platform.  
+You also agree that any dispute, claim, or controversy arising out of or relating to these Terms of Service or your use of the platform shall be resolved through good-faith negotiation.
 
 Severability
 
