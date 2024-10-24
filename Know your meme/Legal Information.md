@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Blade Indefinite Delay Controversy](https://knowyourmeme.com/memes/events/blade-indefinite-delay-controversy "Blade Indefinite Delay Controversy") [Trump "Macarena" Remix](https://knowyourmeme.com/memes/trump-macarena-remix-kamalas-never-gonna-beat-me-in-november "Trump "Macarena" Remix") [Your Name + Poop Song Trend](https://knowyourmeme.com/memes/your-name-poop-song-trend "Your Name + Poop Song Trend")
+[Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Blade Indefinite Delay Controversy](https://knowyourmeme.com/memes/events/blade-indefinite-delay-controversy "Blade Indefinite Delay Controversy") [Trump "Macarena" Remix](https://knowyourmeme.com/memes/trump-macarena-remix-kamalas-never-gonna-beat-me-in-november "Trump "Macarena" Remix") [Your Name + Poop Song Trend](https://knowyourmeme.com/memes/your-name-poop-song-trend "Your Name + Poop Song Trend") [Internet Archive](https://knowyourmeme.com/memes/sites/internet-archive "Internet Archive")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
