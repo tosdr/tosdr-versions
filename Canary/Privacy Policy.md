@@ -1,4 +1,4 @@
-Free Shipping on All Orders
+Free Shipping for Premium Bundles
 
 [Canary
 ======](https://canary.is/)
