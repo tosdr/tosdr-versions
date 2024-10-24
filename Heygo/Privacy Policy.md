@@ -482,6 +482,12 @@ Holiday destinations
 Where to travel abroad by month...
 ----------------------------------
 
+[![10 of the best travel destinations to visit in January](https://media.restless.co.uk/uploads/2024/10/the-best-travel-destinations-to-visit-in-january-768x432.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-january/)
+
+### [10 of the best travel destinations to visit in January](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-january/)
+
+[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-january/)
+
 [![12 best holiday destinations to visit in Europe in December](https://media.restless.co.uk/uploads/2023/09/best-holiday-destinations-to-visit-in-europe-in-december-768x512.jpg)](https://restless.co.uk/travel/best-holiday-destinations-to-visit-in-europe-in-december/)
 
 ### [12 best holiday destinations to visit in Europe in December](https://restless.co.uk/travel/best-holiday-destinations-to-visit-in-europe-in-december/)
@@ -529,12 +535,6 @@ Where to travel abroad by month...
 ### [10 of the best travel destinations to visit in August](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-august/)
 
 [Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-august/)
-
-[![14 of the best travel destinations to visit in April](https://media.restless.co.uk/uploads/2023/11/the-best-travel-destinations-to-visit-in-april-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
-
-### [14 of the best travel destinations to visit in April](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
-
-[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
 
 New in travel
 -------------
