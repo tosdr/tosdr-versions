@@ -426,7 +426,7 @@ JCB
 
 Maestro
 
-Sofort Banking
+Klarna
 
 Visa Debit
 
