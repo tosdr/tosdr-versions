@@ -197,61 +197,72 @@ We are committed to handling your information responsibly. Your information is k
 Featured
 --------
 
-[* * *
-
-Online Privacy Policy
-
-Information on children's online privacy, data retention, document accessibility, info collected from e-mail and online forms, and third party websites.
-
-* * *](https://www.census.gov/about/policies/privacy/privacy-policy.html "Online Privacy Policy")[* * *
-
-Data Stewardship
-
-Information about the Census Bureau's data stewardship program.
-
-* * *](https://www.census.gov/about/policies/privacy/data_stewardship.html "Data Stewardship")[* * *
-
-Our Privacy Principles
-
-Information about the U.S. Census Bureau's privacy principles.
-
-* * *](https://www.census.gov/about/policies/privacy/data_stewardship/our_privacy_principles.html "Our Privacy Principles")
+* * * *
+    
+    [Online Privacy Policy
+    
+    Information on children's online privacy, data retention, document accessibility, info collected from e-mail and online forms, and third party websites.](https://www.census.gov/about/policies/privacy/privacy-policy.html "Online Privacy Policy")
+    
+    * * *
+    
+* * * *
+    
+    [Data Stewardship
+    
+    Information about the Census Bureau's data stewardship program.](https://www.census.gov/about/policies/privacy/data_stewardship.html "Data Stewardship")
+    
+    * * *
+    
+* * * *
+    
+    [Our Privacy Principles
+    
+    Information about the U.S. Census Bureau's privacy principles.](https://www.census.gov/about/policies/privacy/data_stewardship/our_privacy_principles.html "Our Privacy Principles")
+    
+    * * *
+    
 
 Survey Information
 ------------------
 
-[* * *
-
-Are You in a Survey? Help for Survey Participants
-
-Did the Census Bureau contact you about participating in a survey? This site provides answers about our surveys and who to contact for more information.
-
-* * *](https://www.census.gov/surveyhelp "Are You in a Survey?  Help for Survey Participants")[* * *
-
-Our Surveys & Programs
-
-Our surveys provide periodic and comprehensive statistics about the nation. This data is critical for government programs, policies, and decision-making.
-
-* * *](https://www.census.gov/programs-surveys.html "Our Surveys & Programs")
+* * * *
+    
+    [Are You in a Survey? Help for Survey Participants
+    
+    Did the Census Bureau contact you about participating in a survey? This site provides answers about our surveys and who to contact for more information.](https://www.census.gov/programs-surveys/surveyhelp.html "Are You in a Survey?  Help for Survey Participants")
+    
+    * * *
+    
+* * * *
+    
+    [Our Surveys & Programs
+    
+    Our surveys provide periodic and comprehensive statistics about the nation. This data is critical for government programs, policies, and decision-making.](https://www.census.gov/programs-surveys.html "Our Surveys & Programs")
+    
+    * * *
+    
 
 Checking the Facts
 ------------------
 
-[* * *
+* * * *
+    
+    [Trust & Safety Team
+    
+    Learn how the Trust & Safety Team helps you get the facts about our surveys and censuses and fights misinformation and disinformation.](https://www.census.gov/about/trust-and-safety.html "Trust & Safety Team")
+    
+    * * *
+    
+* * * *
+    
+    [Fighting Census Rumors
+    
+    Learn how the U.S. Census Bureau's Trust & Safety Team protected the 2020 Census count by reporting inaccurate, suspicious, and fraudulent information.](https://www.census.gov/newsroom/rumors.html "Fighting Census Rumors")
+    
+    * * *
+    
 
-Trust & Safety Team
-
-Learn how the Trust & Safety Team helps you get the facts about our surveys and censuses and fights misinformation and disinformation.
-
-* * *](https://www.census.gov/about/trust-and-safety.html "Trust & Safety Team")[* * *
-
-Fighting Census Rumors
-
-Learn how the U.S. Census Bureau's Trust & Safety Team protected the 2020 Census count by reporting inaccurate, suspicious, and fraudulent information.
-
-* * *](https://www.census.gov/newsroom/rumors.html "Fighting Census Rumors")
-
-Page Last Revised - July 7, 2022
+Page Last Revised - October 22, 2024
 
 ✕
 
