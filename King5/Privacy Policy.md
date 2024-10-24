@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d18ade83-b9b1-4028-85ea-387dfa8653fa/20241023T170946/d18ade83-b9b1-4028-85ea-387dfa8653fa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d18ade83-b9b1-4028-85ea-387dfa8653fa/20241023T170946/d18ade83-b9b1-4028-85ea-387dfa8653fa_360x203.jpg)](https://www.king5.com/article/news/local/survivor-fall-city-quintuple-homicide-released-hospital/281-fc1d4206-d36a-45ab-83ee-36ee50c6af14)
+    *  [![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
         
-        #### [Surviving victim in Fall City quintuple homicide released from hospital](https://www.king5.com/article/news/local/survivor-fall-city-quintuple-homicide-released-hospital/281-fc1d4206-d36a-45ab-83ee-36ee50c6af14)
+        #### [Boeing machinists reject company's contract offer, remain on strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
         
-    *  [![](https://media.king5.com/assets/KING/images/85d37ab3-94cf-42ba-8223-fbf44079d12d/20241024T051055/85d37ab3-94cf-42ba-8223-fbf44079d12d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/85d37ab3-94cf-42ba-8223-fbf44079d12d/20241024T051055/85d37ab3-94cf-42ba-8223-fbf44079d12d_360x203.jpg)](https://www.king5.com/article/news/local/vigil-held-west-seattle-gas-station-man-shot-to-death-inside-vehicle/281-52a76ec8-374f-4e51-a95b-8e6b96fd1e81)
+    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
         
-        #### [Vigil held at West Seattle gas station where man was shot to death inside vehicle](https://www.king5.com/article/news/local/vigil-held-west-seattle-gas-station-man-shot-to-death-inside-vehicle/281-52a76ec8-374f-4e51-a95b-8e6b96fd1e81)
+        #### [3 of 4 Let's Go WA Initiatives face significant opposition headed into Nov. election: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a11c5518-38c0-466a-98c4-57c443d5ede4/20241024T122306/a11c5518-38c0-466a-98c4-57c443d5ede4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a11c5518-38c0-466a-98c4-57c443d5ede4/20241024T122306/a11c5518-38c0-466a-98c4-57c443d5ede4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/19944e29-e630-46bb-87f5-45cb69b8c0cd/20241024T200331/19944e29-e630-46bb-87f5-45cb69b8c0cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/19944e29-e630-46bb-87f5-45cb69b8c0cd/20241024T200331/19944e29-e630-46bb-87f5-45cb69b8c0cd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
