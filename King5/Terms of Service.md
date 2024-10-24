@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/61606be8-fc49-473d-be81-747f211e8dde/61606be8-fc49-473d-be81-747f211e8dde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/61606be8-fc49-473d-be81-747f211e8dde/61606be8-fc49-473d-be81-747f211e8dde_360x203.jpg)](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
+    *  [![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
         
-        #### [Missing Auburn woman found alive in Mexico after being kidnapped at gunpoint](https://www.king5.com/article/news/local/arrest-made-in-auburn-woman-disappearance/281-192e4a9b-7284-4e95-97b6-7782de592770)
+        #### [Boeing machinists reject company's contract offer, remain on strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380) [![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
         
-    *  [![](https://media.king5.com/assets/KING/images/b66913a1-d4d6-474c-b217-6ced80df5671/20241020T030734/b66913a1-d4d6-474c-b217-6ced80df5671_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b66913a1-d4d6-474c-b217-6ced80df5671/20241020T030734/b66913a1-d4d6-474c-b217-6ced80df5671_360x203.jpg)](https://www.king5.com/article/news/local/woman-found-dead-tacoma-family-says-hit-by-bus/281-02e1f4aa-8d6e-4ea3-bff5-916b32b4256b)
+        #### [Did Boeing machinists approve a new contract?](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
+    *  [![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_16x9.jpg) ![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_360x203.jpg)](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
         
-        #### [A woman was found dead in the road in Tacoma. Her family says she was hit by a bus](https://www.king5.com/article/news/local/woman-found-dead-tacoma-family-says-hit-by-bus/281-02e1f4aa-8d6e-4ea3-bff5-916b32b4256b)
+        #### [Boeing reports $6 billion quarterly loss as union strike continues](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/52392fc7-9172-4aaa-8648-07efc6434aa0/20241023T125719/52392fc7-9172-4aaa-8648-07efc6434aa0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/52392fc7-9172-4aaa-8648-07efc6434aa0/20241023T125719/52392fc7-9172-4aaa-8648-07efc6434aa0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f678136a-b8f5-433a-8647-99613a9f71f2/20241024T003940/f678136a-b8f5-433a-8647-99613a9f71f2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f678136a-b8f5-433a-8647-99613a9f71f2/20241024T003940/f678136a-b8f5-433a-8647-99613a9f71f2_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+50°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
