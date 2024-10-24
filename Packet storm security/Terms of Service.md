@@ -53,10 +53,10 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 276 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 266 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 97 files
 * [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 90 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 22 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 23 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 12 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
@@ -69,6 +69,22 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Cisco Patches Vulnerability Exploited In Large Scale Brute Force Campaign](https://packetstormsecurity.com/news/view/36516/Cisco-Patches-Vulnerability-Exploited-In-Large-Scale-Brute-Force-Campaign.html)
+
+Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:51 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36516/) | [View](https://www.securityweek.com/cisco-patches-vulnerability-exploited-in-large-scale-brute-force-campaign/)
+
+[SEC Fines 4 Firms Related To SolarWinds Case](https://packetstormsecurity.com/news/view/36515/SEC-Fines-4-Firms-Related-To-SolarWinds-Case.html)
+
+Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:49 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36515/) | [View](https://www.scworld.com/news/sec-fines-4-firms-for-sloppy-incident-disclosures-related-to-solarwinds-case)
+
 [FortiGate Admins Report Active Exploitation 0-Day. Vendor Isn't Talking.](https://packetstormsecurity.com/news/view/36510/FortiGate-Admins-Report-Active-Exploitation-0-Day.-Vendor-Isnt-Talking..html)
 
 Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:47 UTC")
@@ -76,6 +92,38 @@ Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36510/) | [View](https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/)
+
+[White Hat Hackers Earn $500,000 On First Day Of Pwn2Own Ireland 2024](https://packetstormsecurity.com/news/view/36509/White-Hat-Hackers-Earn-500-000-On-First-Day-Of-Pwn2Own-Ireland-2024.html)
+
+Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:44 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [ireland](https://packetstormsecurity.com/news/tags/ireland), [conference](https://packetstormsecurity.com/news/tags/conference)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36509/) | [View](https://www.securityweek.com/white-hat-hackers-earn-500000-on-first-day-of-pwn2own-ireland-2024/)
+
+[Russia Hit By DDoS During BRICS Summit](https://packetstormsecurity.com/news/view/36508/Russia-Hit-By-DDoS-During-BRICS-Summit.html)
+
+Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:32 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [russia](https://packetstormsecurity.com/news/tags/russia), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36508/) | [View](https://www.reuters.com/world/europe/russia-says-unprecedented-cyber-attack-hits-foreign-ministry-amid-brics-summit-2024-10-23/)
+
+[Avast Releases Free Decryptor For Mallox Ransomware](https://packetstormsecurity.com/news/view/36507/Avast-Releases-Free-Decryptor-For-Mallox-Ransomware.html)
+
+Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:18 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36507/) | [View](https://www.securityweek.com/avast-releases-free-decryptor-for-mallox-ransomware/)
+
+[Millions At Risk From Hardcoded Creds In Popular iOS And Android Apps](https://packetstormsecurity.com/news/view/36506/Millions-At-Risk-From-Hardcoded-Creds-In-Popular-iOS-And-Android-Apps.html)
+
+Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:11 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [google](https://packetstormsecurity.com/news/tags/google), [password](https://packetstormsecurity.com/news/tags/password), [apple](https://packetstormsecurity.com/news/tags/apple)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36506/) | [View](https://www.theregister.com/2024/10/23/android_ios_security/)
 
 [NVIDIA Computer Finds Largest Known Prime, Blows Past Record By 16 Million Digits](https://packetstormsecurity.com/news/view/36505/NVIDIA-Computer-Finds-Largest-Known-Prime-Blows-Past-Record-By-16-Million-Digits.html)
 
@@ -100,54 +148,6 @@ Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36503/) | [View](https://www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/)
-
-[Detective Charged With Purchasing Stolen Credentials](https://packetstormsecurity.com/news/view/36502/Detective-Charged-With-Purchasing-Stolen-Credentials.html)
-
-Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:34 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36502/) | [View](https://www.securityweek.com/us-police-detective-charged-with-purchasing-stolen-credentials/)
-
-[macOS HM Surf Vuln Might Already Be Under Exploit By Malware](https://packetstormsecurity.com/news/view/36501/macOS-HM-Surf-Vuln-Might-Already-Be-Under-Exploit-By-Malware.html)
-
-Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:29 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [flaw](https://packetstormsecurity.com/news/tags/flaw), [spyware](https://packetstormsecurity.com/news/tags/spyware), [apple](https://packetstormsecurity.com/news/tags/apple)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36501/) | [View](https://www.theregister.com/2024/10/21/microsoft_macos_hm_surf/)
-
-[Researchers Discover Flaws In 5 End-To-End Encrypted Cloud Services](https://packetstormsecurity.com/news/view/36500/Researchers-Discover-Flaws-In-5-End-To-End-Encrypted-Cloud-Services.html)
-
-Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:16 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36500/) | [View](https://www.scworld.com/news/researchers-discover-flaws-in-5-end-to-end-encrypted-cloud-services)
-
-[Google Warns Of Samsung Zero Day Exploited In The Wild](https://packetstormsecurity.com/news/view/36499/Google-Warns-Of-Samsung-Zero-Day-Exploited-In-The-Wild.html)
-
-Posted [Oct 22, 2024](https://packetstormsecurity.com/news/date/2024-10-22/ "15:31:09 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw), [google](https://packetstormsecurity.com/news/tags/google), [zero day](https://packetstormsecurity.com/news/tags/zero_day), [samsung](https://packetstormsecurity.com/news/tags/samsung)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36499/) | [View](https://www.securityweek.com/google-warns-of-samsung-zero-day-exploited-in-the-wild/)
-
-[Nidec Confirms Data Stolen In Ransomware Attack](https://packetstormsecurity.com/news/view/36498/Nidec-Confirms-Data-Stolen-In-Ransomware-Attack.html)
-
-Posted [Oct 21, 2024](https://packetstormsecurity.com/news/date/2024-10-21/ "12:32:47 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [japan](https://packetstormsecurity.com/news/tags/japan), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36498/) | [View](https://www.securityweek.com/electric-motor-giant-nidec-confirms-data-stolen-in-ransomware-attack/)
-
-[Cisco Confirms Security Incident After Hacker Offers To Sell Data](https://packetstormsecurity.com/news/view/36497/Cisco-Confirms-Security-Incident-After-Hacker-Offers-To-Sell-Data.html)
-
-Posted [Oct 21, 2024](https://packetstormsecurity.com/news/date/2024-10-21/ "12:32:42 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cisco](https://packetstormsecurity.com/news/tags/cisco)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36497/) | [View](https://www.securityweek.com/cisco-confirms-security-incident-after-hacker-offers-to-sell-data/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2290611692&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2290611692.1729760275.1729760275.1729760275.1%3B%2B__utmz%3D32867617.1729760275.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2384938318&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2384938318.1729782067.1729782067.1729782067.1%3B%2B__utmz%3D32867617.1729782067.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
