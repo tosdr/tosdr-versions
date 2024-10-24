@@ -128,13 +128,13 @@ AllLive NowToday
     
     10th Match
     
-* [Zimbabwe vs Gambia](https://www.cricbuzz.com/live-cricket-scores/108505/zim-vs-gm-12th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Gambia, 12th Match - ZIM Won")
-    
-    12th Match
-    
 * [Rwanda vs Mozambique](https://www.cricbuzz.com/live-cricket-scores/108497/rwa-vs-moz-11th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Rwanda v Mozambique, 11th Match - MOZ Won")
     
     11th Match
+    
+* [Zimbabwe vs Gambia](https://www.cricbuzz.com/live-cricket-scores/108505/zim-vs-gm-12th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Gambia, 12th Match - ZIM Won")
+    
+    12th Match
     
 * [Rwanda vs Seychelles](https://www.cricbuzz.com/live-cricket-scores/108507/rwa-vs-sey-13th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Rwanda v Seychelles, 13th Match - Preview")
     
@@ -233,6 +233,18 @@ AllLive NowToday
 * [Canterbury vs Otago](https://www.cricbuzz.com/live-cricket-scores/107265/cntbry-vs-otg-4th-match-the-ford-trophy-2024-25 "Canterbury v Otago, 4th Match - CNTBRY Won")
     
     4th Match
+    
+* [Wellington vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107289/wel-vs-cd-9th-match-the-ford-trophy-2024-25 "Wellington v Central Districts, 9th Match - Upcoming")
+    
+    9th Match
+    
+* [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107283/cntbry-vs-nk-8th-match-the-ford-trophy-2024-25 "Canterbury v Northern Knights, 8th Match - Upcoming")
+    
+    8th Match
+    
+* [Auckland vs Otago](https://www.cricbuzz.com/live-cricket-scores/107281/akl-vs-otg-7th-match-the-ford-trophy-2024-25 "Auckland v Otago, 7th Match - Upcoming")
+    
+    7th Match
     
 * WOMEN
     
@@ -577,37 +589,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [All-round Sri Lanka wrap up series win against West Indies](https://www.cricbuzz.com/cricket-news/132176/all-round-sri-lanka-wrap-up-series-win-against-west-indies "All-round Sri Lanka wrap up series win against West Indies")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132175/sri-lanka-restrict-west-indies-despite-rutherford-motie-rearguard "Sri Lanka restrict West Indies despite Rutherford-Motie rearguard")
 
 [Sri Lanka restrict West Indies despite Rutherford-Motie rearguard](https://www.cricbuzz.com/cricket-news/132175/sri-lanka-restrict-west-indies-despite-rutherford-motie-rearguard "Sri Lanka restrict West Indies despite Rutherford-Motie rearguard")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132174/maharaj-confident-of-south-africa-getting-the-job-done "Maharaj confident of South Africa getting the job done")
 
 [Maharaj confident of South Africa getting the job done](https://www.cricbuzz.com/cricket-news/132174/maharaj-confident-of-south-africa-getting-the-job-done "Maharaj confident of South Africa getting the job done")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132173/will-young-and-the-meaning-between-the-milestones "Will Young and the meaning between the milestones")
 
 [Will Young and the meaning between the milestones](https://www.cricbuzz.com/cricket-news/132173/will-young-and-the-meaning-between-the-milestones "Will Young and the meaning between the milestones")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132172/removed-from-selection-panel-gillespie-embraces-role-as-match-day-strategist "Removed from selection panel, Gillespie embraces role as 'match day strategist'")
 
 [Removed from selection panel, Gillespie embraces role as 'match day strategist'](https://www.cricbuzz.com/cricket-news/132172/removed-from-selection-panel-gillespie-embraces-role-as-match-day-strategist "Removed from selection panel, Gillespie embraces role as 'match day strategist'")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132171/full-circle-moment-awaits-pakistan-and-england-in-rawalpindi-test-cricket "Full-circle moment awaits Pakistan and England in Rawalpindi")
 
 [Full-circle moment awaits Pakistan and England in Rawalpindi](https://www.cricbuzz.com/cricket-news/132171/full-circle-moment-awaits-pakistan-and-england-in-rawalpindi-test-cricket "Full-circle moment awaits Pakistan and England in Rawalpindi")
 
-9h ago
+15h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
