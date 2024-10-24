@@ -117,63 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Kobus Venter
+Henry Venter
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=127287355)  
-Imvubu General Trading
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=124935087)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=41175025)  
-Imhoff Equestrian Centre
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=142114263)  
+Brilliant Roof Products
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=1294088)  
-MR Compressors& Industrial Supplies
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=153934668)  
+African Roots
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=94067289)  
-Gemini-IT Group
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=188033256)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=38002378)  
-Fox Alarms & Security CC
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=195375195)  
+ARCHITEK PTY LTD
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=46782073)  
-Entidee Enterprise PTY (ltd)
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=31959524)  
+NWET Pty LTD
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=34699273)  
-CHARLIEX CONSTRUCTIONS
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=213092256)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=54795783)  
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=198767917)  
 OptaServ
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=148215421)  
-FlipDesign - Renovation Contracting Firm
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=163401239)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=156375591)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=42266136)  
-Salvage Genie
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=6042162)  
-Iurus Inc
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=132740510)  
-Echo Recording Studio cc
-
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=e9631249559e759edbe189f25497ea60efd410abb90f11a4803c147c903b4b9a&c=208872410)  
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=73714934)  
 Turnkey Innovations
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=25873722)  
+Imvubu General Trading
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=101056037)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=162905114)  
+Sonic Electrical Services PTY Ltd
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=202235081)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=56922110)  
+Fox Alarms & Security
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=15568504)  
+Safe-Train Consulting (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
