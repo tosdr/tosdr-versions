@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1025118027568010&ev=PageView&noscript=1)        play like search twitter-square facebook-square thumbs-o-up google-plus-square youtube-square vimeo-square hisamitsu
+![](https://www.facebook.com/tr?id=1025118027568010&ev=PageView&noscript=1)       play like search twitter-square facebook-square thumbs-o-up google-plus-square youtube-square vimeo-square hisamitsu
 
 [Visit the Professional Site](https://salonpaspro.com/) [Global Site](http://global.hisamitsu/)
 
