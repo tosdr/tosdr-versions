@@ -267,7 +267,7 @@ company
 * [company information](https://www.lelo.com/company-information)
 * [industry awards](https://www.lelo.com/industry-awards)
 * [press room](https://www.lelo.com/press-room)
-* [careers](https://lelo.talentlyft.com/)
+* [careers](https://www.lelo.com/careers)
 * [privacy policy](https://www.lelo.com/privacy-policy)
 * [cookie policy](https://www.lelo.com/cookie-policy)
 * [terms of use](https://www.lelo.com/terms-of-use)
