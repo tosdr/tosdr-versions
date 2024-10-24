@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Bioengineering Plants to Make Food in the Dark](https://www.sciencedaily.com/releases/2024/10/241023131024.htm)
+* [What Standing On One Leg Can Tell You](https://www.sciencedaily.com/releases/2024/10/241023171600.htm)
+* [Healthy Reef Sounds May Help Coral Larvae, Reefs](https://www.sciencedaily.com/releases/2024/10/241023130930.htm)
+* [Cardio-Immunotherapy for Heart Failure Patients](https://www.sciencedaily.com/releases/2024/10/241023130919.htm)
+* [Capturing Carbon from the Air Just Got Easier](https://www.sciencedaily.com/releases/2024/10/241023130908.htm)
+* [3 Neurons for Decision to Eat](https://www.sciencedaily.com/releases/2024/10/241023130903.htm)
+* [Flipping Genes On and Off for Selected Organs](https://www.sciencedaily.com/releases/2024/10/241023130924.htm)
 * [Physicists Discover First 'Black Hole Triple'](https://www.sciencedaily.com/releases/2024/10/241023130914.htm)
 * [How Ethnic Tibetans Thrive in Thin Oxygen](https://www.sciencedaily.com/releases/2024/10/241021170358.htm)
 * [Geometric Mechanics Shape the Dog's Nose](https://www.sciencedaily.com/releases/2024/10/241022153934.htm)
-* [Bilingualism Protects Against Alzheimer's](https://www.sciencedaily.com/releases/2024/10/241022154131.htm)
-* [Ice-Related Injuries On Polar Bear Paws: Warming](https://www.sciencedaily.com/releases/2024/10/241022153851.htm)
-* [Wearable Cameras Allow AI to Detect Med Errors](https://www.sciencedaily.com/releases/2024/10/241022132831.htm)
-* [Giant Meteorite Had Silver Lining for Life](https://www.sciencedaily.com/releases/2024/10/241021170403.htm)
-* [El Nino Oscillation 250 Million Years Old](https://www.sciencedaily.com/releases/2024/10/241021170400.htm)
-* [Role of Climate Change in Drought Intensity](https://www.sciencedaily.com/releases/2024/10/241021123029.htm)
-* [Plant Guard Cells Count Environmental Stimuli](https://www.sciencedaily.com/releases/2024/10/241021122749.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
-
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
-
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
   
 
