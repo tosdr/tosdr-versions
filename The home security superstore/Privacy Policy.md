@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off ALL Police Equipment | Code: POLICE15](https://www.thehomesecuritysuperstore.com/collections/police-equipment?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+ALL+Police+Equipment)
+[15% Off SPY CAMERAS I Use Code: SPY15](https://www.thehomesecuritysuperstore.com/collections/spy-cameras?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SPY+CAMERAS)
 
-TODAY'S OFFER: :: | 15% Off ALL Police Equipment | Code: POLICE15
+TODAY'S OFFER: :: | 15% Off SPY CAMERAS I Use Code: SPY15
 
 TODAY'S OFFER: : :
 
- 15% Off ALL Police Equipment Code: POLICE15
+ 15% Off SPY CAMERAS I Use Code: SPY15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
