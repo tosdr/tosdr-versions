@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Customized implant maintenance is crucial for prev ![Customized implant maintenance is crucial for preventing complications such as peri-implantitis. Patients with different dental and medical histories require distinct care regimens to ensure long-term success and implant health. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBeB7cVNLKF/) 
+
 [Research from the University of Pittsburgh shows t ![Research from the University of Pittsburgh shows that targeting the immune system with CCL2-loaded microparticles can prevent and treat periodontal diseases by reducing bone loss and promoting repair. This innovative approach offers new hope for patients with aggressive forms of the disease that are resistant to traditional treatments. Link in bio.⁠
 ⁠
 ⁠
@@ -220,9 +227,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBRJ9qgtQ84/) 
-
-[EARN 2 CEUs: Oral Manifestations of Commonly Used ![EARN 2 CEUs: Oral Manifestations of Commonly Used Chemical Substances⁠
-Understanding the oral health implications of substance use and abuse is crucial for dentists to provide comprehensive care and support for affected patients. By Edward Ruvins, DDS, MS, MBA, MSF, MSAC, Katie Brydon, LCSW, LAC, MAC, EMDR-c, Mark Stein, DDS, MD and Susanna Kayserman, DDS](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBOlJ0XNVbY/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
