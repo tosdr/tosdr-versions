@@ -52,6 +52,9 @@ Close
     * [Impact](https://www.amnesty.org/en/latest/impact/)
 * [Search](https://www.amnesty.org/en/search/)
 
+Privacy policy
+==============
+
 ### Introduction
 
 Amnesty International is committed to ensuring the privacy of all our users. We have long campaigned for the right to privacy and against government surveillance and intrusion. This policy represents our commitment as an organisation to your right to privacy, giving you a clear explanation about how we use your information and your rights over that information.
