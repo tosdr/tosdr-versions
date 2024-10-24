@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Владимир Якушев и Игорь Кобзев обсудили задачи «Единой России» в Иркутской области на 2025 год](https://cdn.er.ru/media/news/October2024/AUDBjQvjEkNshVdhI2Wc-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-i-igor-kobzev-obsudili-zadachi-edinoj-rossii-v-irkutskoj-oblasti-na-2025-god)
+[![Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
 
-[Владимир Якушев и Игорь Кобзев обсудили задачи «Единой России» в Иркутской области на 2025 год](https://er.ru/activity/news/vladimir-yakushev-i-igor-kobzev-obsudili-zadachi-edinoj-rossii-v-irkutskoj-oblasti-na-2025-god)
+[Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Брянский](https://er.ru/activity/news?tags%5B0%5D=1095010) [#Кобзев](https://er.ru/activity/news?tags%5B0%5D=12505) [#Иркутская область](https://er.ru/activity/news?tags%5B0%5D=1277) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#выборы-2024](https://er.ru/activity/news?tags%5B0%5D=1095023)
+[#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#отдыхдетей](https://er.ru/activity/news?tags%5B0%5D=130852) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055)
 
-23.10.24
+Сегодня 12:50
 
-[![«Единая Россия» вместе с Минэнерго будут работать над привлечением инвестиций в теплоэлектроэнергетику](https://cdn.er.ru/media/news/October2024/4jvx9rnbnR3mikk7IsRD-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-minenergo-budut-rabotat-nad-privlecheniem-investicij-v-teploelektroenergetiku)
+[![«Единая Россия» предложила Минфину предусмотреть льготы регионам при списании бюджетной задолженности для финансирования приоритетных проектов](https://cdn.er.ru/media/news/October2024/571J7DZxHOYUy74UKGKS-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-predlozhila-minfinu-predusmotret-lgoty-regionam-pri-spisanii-byudzhetnoj-zadolzhennosti-dlya-finansirovaniya-prioritetnyh-proektov)
 
-[«Единая Россия» вместе с Минэнерго будут работать над привлечением инвестиций в теплоэлектроэнергетику](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-minenergo-budut-rabotat-nad-privlecheniem-investicij-v-teploelektroenergetiku)
+[«Единая Россия» предложила Минфину предусмотреть льготы регионам при списании бюджетной задолженности для финансирования приоритетных проектов](https://er.ru/activity/news/edinaya-rossiya-predlozhila-minfinu-predusmotret-lgoty-regionam-pri-spisanii-byudzhetnoj-zadolzhennosti-dlya-finansirovaniya-prioritetnyh-proektov)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#Минэнерго](https://er.ru/activity/news?tags%5B0%5D=4112) [#энергетика](https://er.ru/activity/news?tags%5B0%5D=266) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328) [#задолженность](https://er.ru/activity/news?tags%5B0%5D=836) [#списание](https://er.ru/activity/news?tags%5B0%5D=7690) [#финансирование](https://er.ru/activity/news?tags%5B0%5D=1213) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764)
 
-23.10.24
+Сегодня 12:47
 
-[![«Единая Россия» держит на контроле вопрос обновления лифтового хозяйства в стране](https://cdn.er.ru/media/news/October2024/L1u9BibG8ZHVJFrrEw0Y-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-derzhit-na-kontrole-vopros-obnovleniya-liftovogo-hozyajstva-v-strane)
+[![Александр Жуков: Бюджет на предстоящую трёхлетку сбалансирован и позволяет профинансировать все приоритетные направления](https://cdn.er.ru/media/news/October2024/nI6JM5skAyPtlftyxKIu-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-byudzhet-na-predstoyashuyu-tryohletku-sbalansirovan-i-pozvolyaet-profinansirovat-vse-prioritetnye-napravleniya)
 
-[«Единая Россия» держит на контроле вопрос обновления лифтового хозяйства в стране](https://er.ru/activity/news/edinaya-rossiya-derzhit-na-kontrole-vopros-obnovleniya-liftovogo-hozyajstva-v-strane)
+[Александр Жуков: Бюджет на предстоящую трёхлетку сбалансирован и позволяет профинансировать все приоритетные направления](https://er.ru/activity/news/aleksandr-zhukov-byudzhet-na-predstoyashuyu-tryohletku-sbalansirovan-i-pozvolyaet-profinansirovat-vse-prioritetnye-napravleniya)
 
-[#Ревенко](https://er.ru/activity/news?tags%5B0%5D=53034) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#лифтовое оборудование](https://er.ru/activity/news?tags%5B0%5D=91155) [#лифты](https://er.ru/activity/news?tags%5B0%5D=7350) [#многоквартирныедома](https://er.ru/activity/news?tags%5B0%5D=113466) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-23.10.24
+Сегодня 10:40
 
-[![«Единая Россия» и партия «Белая Русь» отправили гуманитарную помощь в Курск](https://cdn.er.ru/media/news/October2024/yx7GseN9OCAPW4dy1lNu-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-partiya-belaya-rus-otpravili-gumanitarnuyu-pomosh-v-kursk)
+[![«Женское движение Единой России» организовало экскурсию в подмосковный парк «Патриот» для участников СВО](https://cdn.er.ru/media/news/October2024/r7qYnbwxzMjB3AA6GX6v-small.jpg)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-ekskursiyu-v-podmoskovnyj-park-patriot-dlya-uchastnikov-svo)
 
-[«Единая Россия» и партия «Белая Русь» отправили гуманитарную помощь в Курск](https://er.ru/activity/news/edinaya-rossiya-i-partiya-belaya-rus-otpravili-gumanitarnuyu-pomosh-v-kursk)
+[«Женское движение Единой России» организовало экскурсию в подмосковный парк «Патриот» для участников СВО](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-ekskursiyu-v-podmoskovnyj-park-patriot-dlya-uchastnikov-svo)
 
-[#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Беларусь](https://er.ru/activity/news?tags%5B0%5D=39204) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
+[#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#экскурсия](https://er.ru/activity/news?tags%5B0%5D=12368) [#паркпатриот](https://er.ru/activity/news?tags%5B0%5D=150145) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765)
 
-23.10.24
+Сегодня 10:33
 
-[![Минстрой поддержал предложение «Единой России» по обязательному обеспечению жилищного строительства коммунальной инфраструктурой](https://cdn.er.ru/media/news/October2024/T4NxGIXsy31gVgjhENah-small.jpg)](https://er.ru/activity/news/minstroj-podderzhal-predlozhenie-edinoj-rossii-po-obyazatelnomu-obespecheniyu-zhilishnogo-stroitelstva-kommunalnoj-infrastrukturoj)
+[![Андрей Исаев: Бюджет остаётся социальным – все обязательства государства будут исполнены в полном объёме](https://cdn.er.ru/media/news/October2024/8qTbaGRCJ9cCnEu0peY3-small.jpg)](https://er.ru/activity/news/andrej-isaev-byudzhet-ostayotsya-socialnym-vse-obyazatelstva-gosudarstva-budut-ispolneny-v-polnom-obyome)
 
-[Минстрой поддержал предложение «Единой России» по обязательному обеспечению жилищного строительства коммунальной инфраструктурой](https://er.ru/activity/news/minstroj-podderzhal-predlozhenie-edinoj-rossii-po-obyazatelnomu-obespecheniyu-zhilishnogo-stroitelstva-kommunalnoj-infrastrukturoj)
+[Андрей Исаев: Бюджет остаётся социальным – все обязательства государства будут исполнены в полном объёме](https://er.ru/activity/news/andrej-isaev-byudzhet-ostayotsya-socialnym-vse-obyazatelstva-gosudarstva-budut-ispolneny-v-polnom-obyome)
 
-[#Разворотнева](https://er.ru/activity/news?tags%5B0%5D=11486) [#Файзуллин](https://er.ru/activity/news?tags%5B0%5D=13629) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#коммунальная инфраструктура](https://er.ru/activity/news?tags%5B0%5D=41774) [#жилищноестроительство](https://er.ru/activity/news?tags%5B0%5D=110649) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныерасходы](https://er.ru/activity/news?tags%5B0%5D=125208) [#пенсии](https://er.ru/activity/news?tags%5B0%5D=219) [#пособия](https://er.ru/activity/news?tags%5B0%5D=2010) [#МРОТ](https://er.ru/activity/news?tags%5B0%5D=4973) [#социальныйконтракт](https://er.ru/activity/news?tags%5B0%5D=133432) [#долговременный уход](https://er.ru/activity/news?tags%5B0%5D=120504)
 
-23.10.24
+Сегодня 10:10
 
-[![Екатерина Стенякина: Более тысячи бойцов СВО стали участниками программы «Единой России» по социокультурной реабилитации](https://cdn.er.ru/media/news/October2024/tRqn331vezp4dqyrTMYj-small.jpg)](https://er.ru/activity/news/ekaterina-stenyakina-bolee-tysyachi-bojcov-svo-stali-uchastnikami-programmy-edinoj-rossii-po-sociokulturnoj-reabilitacii)
+[![Владимир Якушев: «Единая Россия» поддержит проект бюджета в первом чтении](https://cdn.er.ru/media/news/October2024/CTwoNQMtEe6NMwBzHTHV-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-proekt-byudzheta-v-pervom-chtenii)
 
-[Екатерина Стенякина: Более тысячи бойцов СВО стали участниками программы «Единой России» по социокультурной реабилитации](https://er.ru/activity/news/ekaterina-stenyakina-bolee-tysyachi-bojcov-svo-stali-uchastnikami-programmy-edinoj-rossii-po-sociokulturnoj-reabilitacii)
+[Владимир Якушев: «Единая Россия» поддержит проект бюджета в первом чтении](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-proekt-byudzheta-v-pervom-chtenii)
 
-[#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#оборона](https://er.ru/activity/news?tags%5B0%5D=5346) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666)
 
-23.10.24
+Сегодня 09:49
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
