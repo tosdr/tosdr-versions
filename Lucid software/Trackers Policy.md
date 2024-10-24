@@ -365,7 +365,7 @@ Cookies
 | SSORedirect | Lucid Software Inc | ESSENTIAL | This cookie is used to track the last used Single Sign On method. This allows users to be redirected to their previously used Identity Provider, such as Google, Microsoft, or SAML Identity Provider. | 365 Days |
 | \_ssuma | Basis Technologies | MARKETING | Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers. | 30 days |
 | successfullyRenderedWithGl | Lucid Software Inc | ESSENTIAL | Used to indicate we've rendered with WebGL properly. | 1 week |
-| SupportPins | Lucid Software Inc | ESSENTIAL | This cookie is used to authorize a Lucid Support user to impersonate users that have USE\_IMPERSONATION\_PIN permissions. | 12 hours |
+| SupportPins | Lucid Software Inc | ESSENTIAL | This cookie is used to authorize a Lucid Support user to impersonate users that have USE\_IMPERSONATION\_PIN permissions. | 180 days (6 months) |
 | ^t$ | Gainsight Inc | ESSENTIAL | Internal cookie set for internal community analytics events - session value | Session |
 | taboola\_fp\_td\_user\_id | Taboola Inc | MARKETING | Indicates that the user clicked on an item that was recommended by Taboola’s Services. This is used for reporting and analytics purposes. | 1 year |
 | taboola global:last-external | Taboola Inc | MARKETING | Used for attribution purposes to see what link or page led a user to the current page. | Local Storage (deleted when the user deletes it) |
