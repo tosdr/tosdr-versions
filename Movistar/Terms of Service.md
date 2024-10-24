@@ -41,6 +41,8 @@ Ofertas para
 
 Ofertas Blue Weeks
 
+   Novedad   
+
 [](https://www.movistar.es/fibra-y-movil "Fibra, móvil y TV")
 
 miMovistar: Fibra, móvil y TV
@@ -48,8 +50,6 @@ miMovistar: Fibra, móvil y TV
 [](https://www.movistar.es/fibra-optica/ "Fibra")
 
 Fibra
-
-   Promoción   
 
 [](https://www.movistar.es/tarifas-moviles/ "Tarifas móviles")
 
