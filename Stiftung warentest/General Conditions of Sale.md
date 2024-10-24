@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
 
 Service Stiftung Warentest
 
