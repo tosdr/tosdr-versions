@@ -41,18 +41,18 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+*  [![Prince Harry and Meghan Markle](https://www.women.com/img/gallery/weird-things-about-meghan-markle-prince-harrys-relationship-we-cant-ignore/intro-1729696483.jpg)](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
     
     [Relationships](https://www.women.com/category/relationships/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
     
-    [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
-    ==============================================================================================================================================================
+    [Weird Things About Meghan Markle & Prince Harry's Relationship We Can't Ignore](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    =================================================================================================================================================================================
     
-    More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+    Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
     
-    By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
     
 * *  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
         
@@ -66,22 +66,46 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
         
-    *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+    *  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Wellness](https://www.women.com/category/wellness/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
         
-        ### [Want To Smell Like Florence Pugh? We Know Her Favorite Perfume](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+        ### [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
         
-        If you adore Florence Pugh and would like to have something in common with this icon, here's a tip: wear her favorite perfume.
+        Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
         
-        By Amanda Chatel [Read More](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+        By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
         
 
 More Stories
 ------------
 
+*  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    
+    More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    
+*  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Want To Smell Like Florence Pugh? We Know Her Favorite Perfume](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+    
+    If you adore Florence Pugh and would like to have something in common with this icon, here's a tip: wear her favorite perfume.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
+    
 *  [![Hailey and Justin Bieber](https://www.women.com/img/gallery/are-justin-and-hailey-bieber-actually-compatible-according-to-astrology/intro-1729538339.jpg)](https://www.women.com/1693699/justin-hailey-bieber-compatible-astrology/)
     
     [Living](https://www.women.com/category/living/)
@@ -381,30 +405,6 @@ More Stories
     Livvy Dunne is undoubtedly an influencer, but her outfits haven't always been on-trend. Occasionally, Dunne's ensembles have looked outdated or out of place.
     
     By Emily Hutchinson [Read More](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
-    
-*  [![Carrie Fisher on the red carpet](https://www.women.com/img/gallery/5-inspiring-celebrity-memoirs-about-mental-health/intro-1727812011.jpg)](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
-    
-    ### [5 Inspiring Celebrity Memoirs About Mental Health](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
-    
-    For World Mental Health Day, we've put together a list of celebrity memoirs that are helping to raise awareness and challenge stigma.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
-    
-*  [![Jane Fonda](https://www.women.com/img/gallery/5-older-women-in-hollywood-who-are-still-embracing-celebrating-their-sexuality/intro-1728400367.jpg)](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [5 Older Women In Hollywood Who Are Still Embracing & Celebrating Their Sexuality](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
-    
-    It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
     
 
 Back
