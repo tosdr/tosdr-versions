@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [An introduction to heat pumps](https://xworld.org/home-improvement/an-introduction-to-heat-pumps/)
+* [How Do School Catchment Areas Work?](https://xworld.org/education/how-do-school-catchment-areas-work/)
 * [The Art of Choosing the Right Sedan for Your Needs](https://xworld.org/automotive/choosing-the-right-sedan-for-your-needs/)
 * [What is a PR Campaign?](https://xworld.org/business/what-is-a-pr-campaign/)
 * [Italian Herbs & Spices](https://xworld.org/health/italian-herbs-spices/)
-* [Fire Safety Around Your Home](https://xworld.org/home-improvement/fire-safety-around-your-home/)
-* [Loft Conversion Safety](https://xworld.org/home-improvement/loft-conversion-safety/)
 
 ### Categories
 
