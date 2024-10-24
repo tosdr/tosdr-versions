@@ -84,7 +84,7 @@ Solutions
 Close panel
 
 [Generative AI
--------------](https://www.elastic.co/enterprise-search/generative-ai)[](https://www.elastic.co/enterprise-search/generative-ai)[](https://www.elastic.co/enterprise-search/generative-ai)[](https://www.elastic.co/enterprise-search/generative-ai)[](https://www.elastic.co/enterprise-search/generative-ai)
+-------------](https://www.elastic.co/generative-ai)[](https://www.elastic.co/generative-ai)[](https://www.elastic.co/generative-ai)[](https://www.elastic.co/generative-ai)[](https://www.elastic.co/generative-ai)
 
 Prototype and integrate with LLMs faster using search AI.
 
@@ -517,7 +517,7 @@ Follow us
 * About us
     --------
     
-    [About Elastic](https://www.elastic.co/about/)[Our story](https://www.elastic.co/about/history-of-elasticsearch)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)[Newsroom](https://www.elastic.co/about/press)
+    [About Elastic](https://www.elastic.co/about/)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)[Newsroom](https://www.elastic.co/about/press)
     
 * Join us
     -------
@@ -533,7 +533,7 @@ Follow us
 * Trust & Security
     ----------------
     
-    [Trust center](https://www.elastic.co/trust)[EthicsPoint portal](https://secure.ethicspoint.com/domain/media/en/gui/74447/index.html)[ECCN report](https://www.elastic.co/about/trust#international-trade-compliance%E2%80%94eccn-information)[Ethics email](mailto:ethics@elastic.co)
+    [Trust center](https://www.elastic.co/trust)[EthicsPoint portal](https://secure.ethicspoint.com/domain/media/en/gui/74447/index.html)[ECCN report](https://www.elastic.co/trust/business-integrity#international-trade-compliance%E2%80%94eccn-information)[Ethics email](mailto:ethics@elastic.co)
     
 
 * Investor relations
@@ -550,7 +550,7 @@ Follow us
 About us
 --------
 
-[About Elastic](https://www.elastic.co/about/)[Our story](https://www.elastic.co/about/history-of-elasticsearch)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)[Newsroom](https://www.elastic.co/about/press)
+[About Elastic](https://www.elastic.co/about/)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)[Newsroom](https://www.elastic.co/about/press)
 
 Join us
 -------
@@ -565,7 +565,7 @@ Partners
 Trust & Security
 ----------------
 
-[Trust center](https://www.elastic.co/trust)[EthicsPoint portal](https://secure.ethicspoint.com/domain/media/en/gui/74447/index.html)[ECCN report](https://www.elastic.co/about/trust#international-trade-compliance%E2%80%94eccn-information)[Ethics email](mailto:ethics@elastic.co)
+[Trust center](https://www.elastic.co/trust)[EthicsPoint portal](https://secure.ethicspoint.com/domain/media/en/gui/74447/index.html)[ECCN report](https://www.elastic.co/trust/business-integrity#international-trade-compliance%E2%80%94eccn-information)[Ethics email](mailto:ethics@elastic.co)
 
 Investor relations
 ------------------
