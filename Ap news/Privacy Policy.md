@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
-    * [Israel accuses 6 Al Jazeera journalists in Gaza of being Palestinian militants](https://apnews.com/article/al-jazeera-journalists-hamas-islamic-jihad-israel-983215f9904bffa7f3d5518235e19e86)
-    * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
+    * [Palestinian officials say an Israeli strike on a school-turned-shelter in Gaza has killed 17](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-24-2024-ab2b634abca70923712a655cd097a421)
+    * [Massive displacement from Israel-Hezbollah war transforms Beirut’s famed commercial street](https://apnews.com/article/lebanon-israel-hezbollah-displaced-hamra-beirut-582c617d6d3b8639c8c8ddec4a6916b7)
+    * [Turkey strikes Kurdish militant targets in Syria and Iraq for a second day](https://apnews.com/article/turkey-strikes-pkk-targets-syria-iraq-8b8c5e09716e2d3e3a29809b4082854d)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
+    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
     * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
-    * [North Carolina government calculates Hurricane Helene damages, needs at least $53B](https://apnews.com/article/north-carolina-hurricane-helene-damage-estimate-1c32acaf158bf17eae815926ea682c0e)
-    * [50 years after Philadelphia halted prison medical testing, families seek reparations](https://apnews.com/article/philadelphia-prison-experiments-black-reparations-ff8a08483fb13d1b949d938d7ae29656)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris says she's ready if Trump tries to prematurely declare victory, isn't worried about sexism](https://apnews.com/article/kamala-harris-election-2024-trump-659809558d0b6a022a5b028138a0dcfd)
-    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
-    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [Harris says Trump 'is a fascist' after John Kelly says the former president wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Donald Trump tells supporters to 'just vote' at Georgia rally organized by Charlie Kirk](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
+    * [Abortion bans are top of mind for young women in North Carolina as they consider Harris or Trump](https://apnews.com/article/abortion-election-harris-trump-women-north-carolina-f14edf1e33c367a430784f7848834514)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris says Trump 'is a fascist' after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Harris to give her campaign's closing argument at the Ellipse, where Trump helped spark Capitol riot](https://apnews.com/article/harris-election-town-hall-pennsylvania-a92fd0dbad3cf635fb4d5c920d471967)
-    * [The top election official in a politically crucial Nevada county says she was forced out](https://apnews.com/article/nevada-election-2024-washoe-county-registrar-039a3bb745e7461ffd5bdce0682ac860)
+    * [The RNC is rebuilding its legal operation after Trump allies' failed effort to undo the 2020 race](https://apnews.com/article/trump-rnc-jan-6-legal-team-lawsuits-13d24822cc4899e5934a07661fe649e3)
+    * [Abortion bans are top of mind for young women in North Carolina as they consider Harris or Trump](https://apnews.com/article/abortion-election-harris-trump-women-north-carolina-f14edf1e33c367a430784f7848834514)
+    * [Voters trust Harris on a number of issues. But is that what they'll vote on?](https://apnews.com/article/harris-economy-issues-polls-trump-voters-e5c5e76e7d235cc6032e70aeeb5cd560)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Durant, Beal lead Suns to 116-113 OT victory over Clippers, spoiling LA's Intuit Dome opener](https://apnews.com/article/suns-clippers-score-durant-beal-harden-cc25cfe225cf026a770a08abd446cb1a)
     * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
     * [Panthers QB Bryce Young will start against Broncos after Andy Dalton sprains thumb in car crash](https://apnews.com/article/panthers-quarterback-bryce-young-andy-dalton-car-crash-d6d33e3acf2acf0be159e191f9d00fd3)
-    * [At Aaron Judge's urging, the Yankees have minted a new vibe](https://apnews.com/article/world-series-yankees-statue-of-liberty-8e982b899987e216b1f1cd61c6c843e1)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Samuel L. Jackson lauded at MoMA film benefit by close family and friends](https://apnews.com/article/samuel-l-jackson-moma-benefit-d67da3d489618f2f848ed6af82f3a42d)
+    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
     * [Lana Del Rey did marry alligator swamp tour guide Jeremy Dufrene in Louisiana, document shows](https://apnews.com/article/lana-del-rey-marriage-license-jeremy-dufrene-fa5e39ef60eeea4285d71b1cbcf66626)
-    * [Ron Ely, TV's 'Tarzan' in the 1960s, dies at 86](https://apnews.com/article/ron-ely-dies-tarzan-c178710bd441325a8d242b5349454df3)
-    * [Before Taylor Swift show in New Orleans, a homeless encampment is forced to move](https://apnews.com/article/new-orleans-homeless-taylor-swift-concert-superdome-44e24ffe79ba87b2c809dab4f3fea75e)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Boeing factory workers vote to reject contract and continue 6-week strike](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
-    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
-    * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
+    * [No end for Boeing labor strike as workers reject latest contract proposal](https://apnews.com/article/boeing-strike-vote-ca1326b3512b577bba76bee9e9e66a17)
+    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
+    * [Stock market today: Wall Street slumps to a rare 3-day losing streak](https://apnews.com/article/stock-markets-rates-tokyo-yen-acd1c0b379dbe53978f2e3e6d05e588e)
     
 * [Science](https://apnews.com/science)
     
@@ -247,7 +247,7 @@ Menu
     * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
-    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [EPA imposes stricter standards to protect children from exposure to lead paint](https://apnews.com/article/lead-paint-poisoning-children-health-epa-12805d2eb5f15bd3987835fcce2650da)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [Apple and Goldman Sachs must pay $89 million for mishandling Apple Card transactions, CFPB orders](https://apnews.com/article/apple-card-goldman-sachs-89-million-fine-e991849da050a5b072ba2a7a016af310)
-    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
-    * [Tim Burton talks about his dread of AI as an exhibition of his work opens in London](https://apnews.com/article/tim-burton-exhibition-london-e7573131723cd2266de04b90d655a1c7)
+    * [One Tech Tip: How to prepare your online accounts in case you die](https://apnews.com/article/apple-google-instagram-facebook-tiktok-03f23c18e54e2d81edc66c3adf6e3838)
+    * [New rules for US national security agencies balance AI's promise with need to protect against risks](https://apnews.com/article/artificial-intelligence-national-security-spy-agencies-abuses-a542119faf6c9f5e77c2e554463bff5a)
+    * [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
+    * [LinkedIn hit with 310 million euro fine for data privacy violations from Irish watchdog](https://apnews.com/article/linkedin-microsoft-privacy-european-union-ireland-6769ae3b83ea0d83cab8d8cfd1fa7e68)
     * [New York City doesn't require hotels to be licensed. That's likely changing soon](https://apnews.com/article/nyc-hotel-licensing-973684093d0d65fc4fd82d1c1b51958c)
-    * [Orange and black... and pink and purple. Some twists for creative Halloween parties](https://apnews.com/article/creative-halloween-party-ideas-themes-3060475021de38074a1eb80cc6bfb87e)
-    * [Charles gets a warm welcome on his first visit as king to Samoa. But uneasy questions await](https://apnews.com/article/king-charles-samoa-chogm-commonwealth-britain-camilla-23e166fdddf6f8fbc4d57d7f29166e0f)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
-    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
-    * [Peruvian theologian the Rev. Gustavo Gutiérrez, father of influential liberation theology, has died](https://apnews.com/article/liberation-theology-gustavo-gutierrez-peru-catholic-obituary-f12193d0590feb97623dda91f21f42e7)
+    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
+    * [Evangelicals emerge as a potent lobby for US support of Ukraine](https://apnews.com/article/ukraine-evangelicals-russia-republicans-congress-09965635881f15b44fab2ac8fa2be2b5)
+    * [Pope Francis denounces a world 'losing its heart' in 4th encyclical of his papacy](https://apnews.com/article/pope-encyclical-global-conflicts-consumerism-algorithms-love-c9099f3cd0e69b793b4d53eda47c4123)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
+    * [Líderes opositores venezolanos ganan el máximo galardón de la UE para derechos humanos](https://apnews.com/article/europa-sajarov-premio-venezuela-78fbcd0fc3e18ca2c17d5406a8968e0e)
+    * [Francia y otros países anuncian un gran paquete de ayuda para Líbano en conferencia internacional](https://apnews.com/article/francia-libano-guerra-ayuda-israel-hezbollah-d6cf92d74e9177eabac6995c9ee9f647)
     * [EEUU confirma que Norcorea ha enviado unos 3.000 soldados a Rusia para entrenamiento militar](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
-    * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Israel acusa a seis periodistas de Al Jazeera en Gaza de pertenecer a milicias palestinas](https://apnews.com/article/israel-al-jazeera-prensa-hamas-9b34da27a7bc9b270076b839f05c29d3)
-    * [Turquía ataca blancos kurdos en Irak y Siria tras atentado letal en compañía de defensa](https://apnews.com/article/turquia-explosion-empresa-45e45ec5103dd321043b018108dc0800)
-    * [¿Salario mínimo más bajo para trabajadores que reciben propinas? Una decisión pendiente en 2 estados](https://apnews.com/article/salario-minimo-trabajadores-propina-eeuu-estados-arizona-massachusetts-576b2f4d05f789be8c3a70f4ba99a018)
+    * [Putin preside una cumbre de los BRICS con vistas a ampliar la influencia rusa](https://apnews.com/article/brics-rusia-putin-china-india-1478544f8f0a34e8dceebc1841a44349)
+    * [Legisladores rusos ratifican pacto con Norcorea mientras EEUU confirma que Kim mandó tropas a Rusia](https://apnews.com/article/rusia-norcorea-tropas-ucrania-tratado-ratificacion-96afcdefb65793206ec53736cd4f162a)
+    * [Provincia afgana prohíbe a los medios mostrar imágenes de seres vivos para cumplir leyes talibanes](https://apnews.com/article/afganistan-medios-moral-d66052f169e49c57dfd171e0991fbc4a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
-    * [Israel accuses 6 Al Jazeera journalists in Gaza of being Palestinian militants](https://apnews.com/article/al-jazeera-journalists-hamas-islamic-jihad-israel-983215f9904bffa7f3d5518235e19e86)
-    * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
+    * [Palestinian officials say an Israeli strike on a school-turned-shelter in Gaza has killed 17](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-24-2024-ab2b634abca70923712a655cd097a421)
+    * [Massive displacement from Israel-Hezbollah war transforms Beirut’s famed commercial street](https://apnews.com/article/lebanon-israel-hezbollah-displaced-hamra-beirut-582c617d6d3b8639c8c8ddec4a6916b7)
+    * [Turkey strikes Kurdish militant targets in Syria and Iraq for a second day](https://apnews.com/article/turkey-strikes-pkk-targets-syria-iraq-8b8c5e09716e2d3e3a29809b4082854d)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
+    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
     * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
-    * [North Carolina government calculates Hurricane Helene damages, needs at least $53B](https://apnews.com/article/north-carolina-hurricane-helene-damage-estimate-1c32acaf158bf17eae815926ea682c0e)
-    * [50 years after Philadelphia halted prison medical testing, families seek reparations](https://apnews.com/article/philadelphia-prison-experiments-black-reparations-ff8a08483fb13d1b949d938d7ae29656)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris says she's ready if Trump tries to prematurely declare victory, isn't worried about sexism](https://apnews.com/article/kamala-harris-election-2024-trump-659809558d0b6a022a5b028138a0dcfd)
-    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
-    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [Harris says Trump 'is a fascist' after John Kelly says the former president wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Donald Trump tells supporters to 'just vote' at Georgia rally organized by Charlie Kirk](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
+    * [Abortion bans are top of mind for young women in North Carolina as they consider Harris or Trump](https://apnews.com/article/abortion-election-harris-trump-women-north-carolina-f14edf1e33c367a430784f7848834514)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris says Trump 'is a fascist' after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Harris to give her campaign's closing argument at the Ellipse, where Trump helped spark Capitol riot](https://apnews.com/article/harris-election-town-hall-pennsylvania-a92fd0dbad3cf635fb4d5c920d471967)
-    * [The top election official in a politically crucial Nevada county says she was forced out](https://apnews.com/article/nevada-election-2024-washoe-county-registrar-039a3bb745e7461ffd5bdce0682ac860)
+    * [The RNC is rebuilding its legal operation after Trump allies' failed effort to undo the 2020 race](https://apnews.com/article/trump-rnc-jan-6-legal-team-lawsuits-13d24822cc4899e5934a07661fe649e3)
+    * [Abortion bans are top of mind for young women in North Carolina as they consider Harris or Trump](https://apnews.com/article/abortion-election-harris-trump-women-north-carolina-f14edf1e33c367a430784f7848834514)
+    * [Voters trust Harris on a number of issues. But is that what they'll vote on?](https://apnews.com/article/harris-economy-issues-polls-trump-voters-e5c5e76e7d235cc6032e70aeeb5cd560)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Durant, Beal lead Suns to 116-113 OT victory over Clippers, spoiling LA's Intuit Dome opener](https://apnews.com/article/suns-clippers-score-durant-beal-harden-cc25cfe225cf026a770a08abd446cb1a)
     * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
     * [Panthers QB Bryce Young will start against Broncos after Andy Dalton sprains thumb in car crash](https://apnews.com/article/panthers-quarterback-bryce-young-andy-dalton-car-crash-d6d33e3acf2acf0be159e191f9d00fd3)
-    * [At Aaron Judge's urging, the Yankees have minted a new vibe](https://apnews.com/article/world-series-yankees-statue-of-liberty-8e982b899987e216b1f1cd61c6c843e1)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Samuel L. Jackson lauded at MoMA film benefit by close family and friends](https://apnews.com/article/samuel-l-jackson-moma-benefit-d67da3d489618f2f848ed6af82f3a42d)
+    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
     * [Lana Del Rey did marry alligator swamp tour guide Jeremy Dufrene in Louisiana, document shows](https://apnews.com/article/lana-del-rey-marriage-license-jeremy-dufrene-fa5e39ef60eeea4285d71b1cbcf66626)
-    * [Ron Ely, TV's 'Tarzan' in the 1960s, dies at 86](https://apnews.com/article/ron-ely-dies-tarzan-c178710bd441325a8d242b5349454df3)
-    * [Before Taylor Swift show in New Orleans, a homeless encampment is forced to move](https://apnews.com/article/new-orleans-homeless-taylor-swift-concert-superdome-44e24ffe79ba87b2c809dab4f3fea75e)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Boeing factory workers vote to reject contract and continue 6-week strike](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
-    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
-    * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
+    * [No end for Boeing labor strike as workers reject latest contract proposal](https://apnews.com/article/boeing-strike-vote-ca1326b3512b577bba76bee9e9e66a17)
+    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
+    * [Stock market today: Wall Street slumps to a rare 3-day losing streak](https://apnews.com/article/stock-markets-rates-tokyo-yen-acd1c0b379dbe53978f2e3e6d05e588e)
     
 * [Science](https://apnews.com/science)
     
@@ -744,7 +744,7 @@ Submit Search
     * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
-    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [EPA imposes stricter standards to protect children from exposure to lead paint](https://apnews.com/article/lead-paint-poisoning-children-health-epa-12805d2eb5f15bd3987835fcce2650da)
     
 * [Tech](https://apnews.com/technology)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Apple and Goldman Sachs must pay $89 million for mishandling Apple Card transactions, CFPB orders](https://apnews.com/article/apple-card-goldman-sachs-89-million-fine-e991849da050a5b072ba2a7a016af310)
-    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
-    * [Tim Burton talks about his dread of AI as an exhibition of his work opens in London](https://apnews.com/article/tim-burton-exhibition-london-e7573131723cd2266de04b90d655a1c7)
+    * [One Tech Tip: How to prepare your online accounts in case you die](https://apnews.com/article/apple-google-instagram-facebook-tiktok-03f23c18e54e2d81edc66c3adf6e3838)
+    * [New rules for US national security agencies balance AI's promise with need to protect against risks](https://apnews.com/article/artificial-intelligence-national-security-spy-agencies-abuses-a542119faf6c9f5e77c2e554463bff5a)
+    * [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
+    * [LinkedIn hit with 310 million euro fine for data privacy violations from Irish watchdog](https://apnews.com/article/linkedin-microsoft-privacy-european-union-ireland-6769ae3b83ea0d83cab8d8cfd1fa7e68)
     * [New York City doesn't require hotels to be licensed. That's likely changing soon](https://apnews.com/article/nyc-hotel-licensing-973684093d0d65fc4fd82d1c1b51958c)
-    * [Orange and black... and pink and purple. Some twists for creative Halloween parties](https://apnews.com/article/creative-halloween-party-ideas-themes-3060475021de38074a1eb80cc6bfb87e)
-    * [Charles gets a warm welcome on his first visit as king to Samoa. But uneasy questions await](https://apnews.com/article/king-charles-samoa-chogm-commonwealth-britain-camilla-23e166fdddf6f8fbc4d57d7f29166e0f)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
-    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
-    * [Peruvian theologian the Rev. Gustavo Gutiérrez, father of influential liberation theology, has died](https://apnews.com/article/liberation-theology-gustavo-gutierrez-peru-catholic-obituary-f12193d0590feb97623dda91f21f42e7)
+    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
+    * [Evangelicals emerge as a potent lobby for US support of Ukraine](https://apnews.com/article/ukraine-evangelicals-russia-republicans-congress-09965635881f15b44fab2ac8fa2be2b5)
+    * [Pope Francis denounces a world 'losing its heart' in 4th encyclical of his papacy](https://apnews.com/article/pope-encyclical-global-conflicts-consumerism-algorithms-love-c9099f3cd0e69b793b4d53eda47c4123)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
+    * [Líderes opositores venezolanos ganan el máximo galardón de la UE para derechos humanos](https://apnews.com/article/europa-sajarov-premio-venezuela-78fbcd0fc3e18ca2c17d5406a8968e0e)
+    * [Francia y otros países anuncian un gran paquete de ayuda para Líbano en conferencia internacional](https://apnews.com/article/francia-libano-guerra-ayuda-israel-hezbollah-d6cf92d74e9177eabac6995c9ee9f647)
     * [EEUU confirma que Norcorea ha enviado unos 3.000 soldados a Rusia para entrenamiento militar](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
-    * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Israel acusa a seis periodistas de Al Jazeera en Gaza de pertenecer a milicias palestinas](https://apnews.com/article/israel-al-jazeera-prensa-hamas-9b34da27a7bc9b270076b839f05c29d3)
-    * [Turquía ataca blancos kurdos en Irak y Siria tras atentado letal en compañía de defensa](https://apnews.com/article/turquia-explosion-empresa-45e45ec5103dd321043b018108dc0800)
-    * [¿Salario mínimo más bajo para trabajadores que reciben propinas? Una decisión pendiente en 2 estados](https://apnews.com/article/salario-minimo-trabajadores-propina-eeuu-estados-arizona-massachusetts-576b2f4d05f789be8c3a70f4ba99a018)
+    * [Putin preside una cumbre de los BRICS con vistas a ampliar la influencia rusa](https://apnews.com/article/brics-rusia-putin-china-india-1478544f8f0a34e8dceebc1841a44349)
+    * [Legisladores rusos ratifican pacto con Norcorea mientras EEUU confirma que Kim mandó tropas a Rusia](https://apnews.com/article/rusia-norcorea-tropas-ucrania-tratado-ratificacion-96afcdefb65793206ec53736cd4f162a)
+    * [Provincia afgana prohíbe a los medios mostrar imágenes de seres vivos para cumplir leyes talibanes](https://apnews.com/article/afganistan-medios-moral-d66052f169e49c57dfd171e0991fbc4a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
