@@ -106,7 +106,7 @@ Mobile Navigation
     
     [September 2024
     
-    Diagnosed in Adulthood](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+    Diagnosed as an Adult](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
     
     It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
     
@@ -429,7 +429,7 @@ Magazine
 
 [September 2024
 
-Diagnosed in Adulthood](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+Diagnosed as an Adult](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
 
 It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
 
