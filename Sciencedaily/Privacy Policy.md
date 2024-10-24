@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 23, 2024**
+**October 24, 2024**
 
 * * *
 
@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* ['Paleo-Robots' and Fish Walking On Land](https://www.sciencedaily.com/releases/2024/10/241023141806.htm)
+* [Colorado 'Swamp Dweller' Lived Alongside Dinos](https://www.sciencedaily.com/releases/2024/10/241023141759.htm)
 * [Bats: Fighting Deadly White-Nose Syndrome](https://www.sciencedaily.com/releases/2024/10/241023131034.htm)
 * [Rocky Planets Orbiting Small Stars: ...](https://www.sciencedaily.com/releases/2024/10/241023131045.htm)
 * [Bioengineering Plants to Make Food in the Dark](https://www.sciencedaily.com/releases/2024/10/241023131024.htm)
@@ -216,8 +218,6 @@ this hour
 * [Cardio-Immunotherapy for Heart Failure Patients](https://www.sciencedaily.com/releases/2024/10/241023130919.htm)
 * [Capturing Carbon from the Air Just Got Easier](https://www.sciencedaily.com/releases/2024/10/241023130908.htm)
 * [3 Neurons for Decision to Eat](https://www.sciencedaily.com/releases/2024/10/241023130903.htm)
-* [Flipping Genes On and Off for Selected Organs](https://www.sciencedaily.com/releases/2024/10/241023130924.htm)
-* [Physicists Discover First 'Black Hole Triple'](https://www.sciencedaily.com/releases/2024/10/241023130914.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
 [Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
-[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
-
-[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
-
 [Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
   
 
