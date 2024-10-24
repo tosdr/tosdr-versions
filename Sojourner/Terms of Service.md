@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-96743565f948538f7ef4df1f2aa0d08a
+53b2d74a423f39d41cb6a401a3867317
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Zebra stripe four sided oval beads](https://sojourner.biz/images/cache/glass/GL0044.200.jpg)](https://sojourner.biz/beads/glass/zebra-stripe-four-sided-oval-beads.html "Zebra stripe four sided oval beads")
+[![13 mm triangle milk glass with blue beads](https://sojourner.biz/images/cache/glass/GL0243.200.jpg)](https://sojourner.biz/beads/glass/13-mm-triangle-milk-glass-with-blue-beads.html "13 mm triangle milk glass with blue beads")
 
-#### [Zebra stripe four sided oval beads](https://sojourner.biz/beads/glass/zebra-stripe-four-sided-oval-beads.html "Zebra stripe four sided oval beads")
+#### [13 mm triangle milk glass with blue beads](https://sojourner.biz/beads/glass/13-mm-triangle-milk-glass-with-blue-beads.html "13 mm triangle milk glass with blue beads")
 
-$12.00
+$5.00
 
 ### Best Sellers
 
@@ -160,12 +160,12 @@ $12.00
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
+6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
-8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
 10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
