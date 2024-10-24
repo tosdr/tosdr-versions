@@ -127,9 +127,9 @@ Identifies popular characters or artworks in visuals across IP domains](https://
 
 Generate images using text prompts](https://thehive.ai/apis/image-generation)
 
-[Image Captioning
+[Image and Video Captioning
 
-Generate image descriptions and ask questions about image details](https://thehive.ai/apis/image-captioning)
+Generate descriptions and ask questions about image and video details](https://thehive.ai/apis/image-video-captioning)
 
 [Text Generation
 
