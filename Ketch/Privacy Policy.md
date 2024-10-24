@@ -1,8 +1,8 @@
-[**🆕 Ketch launches Third Party Risk Intelligence! Learn More**
+[**🆕 Are hidden website trackers putting your brand at risk? Find out now! 🔎**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/third-party-risk-intelligence)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://content.ketch.com/privacy-stress-test)
 
-[![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)](https://www.ketch.com/)
+[![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a5cb463dbb74061221ee1_sail.svg)](https://www.ketch.com/)
 
 Platform
 
@@ -22,79 +22,166 @@ Data and AI Governance
 
 [AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for responsible AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
 
-[Book a Live Demo
+[Featured
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a0efa689e385b8caecb95_arrow_right_sunset.svg)](https://content.ketch.com/request-demo)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a54c93b1fdf948acbbadf_Feature%20image%20Free.webp)
 
-Customers
+Try Ketch for Free
+
+Dive into unlimited everything CMP–no hidden fees, no limits, just freedom  
+
+Sign up now
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://www.ketch.com/ketch-free-cookie-banner)
+
+Solutions
 
 By role
 
-[For legal teams](https://www.ketch.com/customers/legal-teams)[For marketers](https://www.ketch.com/customers/marketing-teams)[For engineers](https://www.ketch.com/customers/engineering-teams)
+[For legal teams](https://www.ketch.com/solutions/legal-teams)
+
+[For marketers](https://www.ketch.com/solutions/marketing-teams)[For engineers](https://www.ketch.com/solutions/engineering-teams)
 
 By vertical
 
-[For retail & ecommerce](https://www.ketch.com/customers/retail-consumer-goods)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)
+[For retail & ecommerce](https://www.ketch.com/solutions/retail-ecommerce)[For technology](https://www.ketch.com/solutions/technology)[For communications & media](https://www.ketch.com/solutions/communications-and-media)[For financial services](https://www.ketch.com/solutions/financial-services)
 
-[Product, News
+By use case
 
-Ketch Data Permissioning for Media Companies
+[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/67196875bc59478b8cc56e10_o_globe.svg)
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/data-permissioning-media-companies)
+Website tracker scanning
 
-[Download our compliance guide for retail and eCommerce brands
+Popular
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/66466ca97e7162d302b883d0_o_download_v.svg)
+Get total visibility and control over cookies and tags](https://www.ketch.com/solutions/website-tracker-scanning)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671971cb0bfcb67cb778c147_o_gpp.svg)
 
-Download the Guide](https://content.ketch.com/retail-ecommerce-guide)
+Global Privacy Platform (GPP)
 
-Learn
+Popular
 
-[Resource
+Integrate consent management with IAB framworks](https://www.ketch.com/solutions/iab-global-privacy-platform)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671971b6be6bd6d6f8b66104_o_dontsell.svg)
 
-ROI Calculator
+Do Not Sell or Share
 
-Take this five minute assessment to calculate the business value of modernizing your privacy program
+Popular
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a0efa68e0aa1b9ac00650_arrow_right_darkdusk.svg)](https://www.ketch.com/ketch-privacy-program-roi-calculator)
+Respect visitor opt-outs and choices across systems and campaigns](https://www.ketch.com/solutions/do-not-sell-or-share)
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/64e8e2ae4adfc66c2815d3d7_ic_enterprise_darkdusk.svg)
+
+[Global Privacy Platform (GPP)](https://www.ketch.com/solutions/retail-ecommerce)
+
+Integrate consent management with IAB framworks
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/64e8e2ae4adfc66c2815d3d7_ic_enterprise_darkdusk.svg)
+
+[Global Privacy Control (GPC)](https://www.ketch.com/solutions/retail-ecommerce)
+
+Enforce browser opt-out signals
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/64e8e2ae4adfc66c2815d3d7_ic_enterprise_darkdusk.svg)
+
+[System Integrations](https://www.ketch.com/solutions/retail-ecommerce)
+
+Connect privacy choices and requests to your data ecosystem
+
+[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6717d2b6b2777f57fd379a44_Time.png)
+
+“The Ketch privacy request workflow builder did more than streamline our processes–it enabled us to fundamentally redesign how we handle DSRs.”
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/time-brings-ease-and-automation-to-privacy-requests-with-ketch)
 
 Resources
 
-[Blog](https://www.ketch.com/blog)[News](https://www.ketch.com/news)[Regulatory compliance hub](https://www.ketch.com/regulatory-compliance-hub)[Practical guide to privacy](https://www.ketch.com/practical-guide-to-privacy)[Thought leadership](https://www.ketch.com/thought-leadership)[Integrations](https://www.ketch.com/integrations)
+Privacy insights
 
-Engage
+[Blog
 
-[Developers](https://www.ketch.com/developers)[Documentation ↗](https://docs.ketch.com/)
+Trend watching, best practices, case studies, and more](https://www.ketch.com/blog)[The Privacy Huddle
+
+Weekly data privacy news video series with experts from Ketch and Kelley Drye](https://www.ketch.com/privacy-huddle)[Content library
+
+Media hub for videos, guides, downloadable content and more](https://www.ketch.com/thought-leadership)
+
+Regulatory compliance hub
+
+[GDPR (EU)](https://www.ketch.com/regulatory-compliance/gdpr)[CCPA/CPRA (California)](https://www.ketch.com/regulatory-compliance/ccpa)[CPA (Colorado)](https://www.ketch.com/regulatory-compliance/colorado-privacy-act)[VCPDA (Virginia)](https://www.ketch.com/regulatory-compliance/virginia-consumer-data-protection-act)[See all regulations
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://www.ketch.com/regulatory-compliance-hub)
+
+Help, tutorials and documentation
+
+[Practical guide to privacy](https://www.ketch.com/practical-guide-to-privacy)[Documentation ↗](https://docs.ketch.com/)
+
+[Featured
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a54ed9461babe994ac4d0_Feature%20image%20stress%20test.webp)
+
+Run your Free Privacy Health Check
+
+Are hidden website trackers putting your brand at risk? Find out now  
+
+Check your compliance score
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://content.ketch.com/privacy-stress-test)
+
+[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a54f884292e0a4d75d07e_Feature%20image%20ROI.webp)
+
+ROI Calculator
+
+Take this five minute quiz to calculate the benefits of modernizing your privacy program  
+
+Calculate your ROI now
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://www.ketch.com/ketch-privacy-program-roi-calculator)
 
 [Pricing](https://www.ketch.com/pricing)
 
-new
+New
 
 Company
 
 [Who we are
 
-Our privacy promise
+Vision & mission
 
-Join us in adhering to these five principles, which we believe every business should adopt.
+Learn about Ketch's vision and mission for responsible data stewardship.
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a0efa68e0aa1b9ac00650_arrow_right_darkdusk.svg)](https://www.ketch.com/privacy-promise)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a0efa68e0aa1b9ac00650_arrow_right_darkdusk.svg)](https://www.ketch.com/vision-and-mission)
 
-[About](https://www.ketch.com/about)[Vision & mission](https://www.ketch.com/vision-and-mission)[Careers](https://www.ketch.com/careers)[Contact us](https://www.ketch.com/contact-us)
+Who we are
 
-[Regulations
+[About](https://www.ketch.com/about)[News](https://www.ketch.com/news)
 
-"Do Not Sell" and what it means Under CCPA and CPRA
+Get in touch
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/do-not-sell-and-what-it-means-under-ccpa-and-cpra)
+[Partners](https://www.ketch.com/partnerships)[Careers](https://www.ketch.com/careers)[Contact us](https://www.ketch.com/contact-us)
 
-[2024's data privacy trend landscape. Get your definitive guide now!
+[Featured
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/66466ca97e7162d302b883d0_o_download_v.svg)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a552844152a4e5c1d99b9_Preview%20Blog%20(2).webp)
 
-Download the Guide](https://content.ketch.com/privacy-trend-report-2024)
+Data Permissioning for Digital Media Brands
 
-[Log In](https://app.ketch.com/)[Request a Demo](https://content.ketch.com/request-demo-nav)
+Ketch unveils industry-first data permissioning for media companies  
+
+**Read the latest**
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://www.ketch.com/blog/posts/data-permissioning-media-companies)
+
+[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/671a550f8eea95626350fce6_Feature%20image%20webinar.webp)
+
+**Preference Based Personalization**
+
+_On-Demand Event  
+‍_Learn how brands are balancing privacy requirements with marketing personalization initiatives.  
+
+Watch now
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://youtu.be/GjIB3bXR6OI?si=br9lC04Uy076JVPj&t=2)
+
+[Sign up Free](https://app.ketch.com/sign-up?utm_campaign=plg&utm_source=website&utm_medium=nav&utm_term=desktop)[Request a Demo](https://content.ketch.com/request-demo-nav)
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/655cd3cab38d87a85d29127e_search.svg)
 
@@ -120,43 +207,75 @@ Platform
 
 [AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for responsible AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
 
-Customers
+Solutions
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633f8deed294ae4dcf829c8d_ic_drop_steel.svg)
 
 [By vertical](#)
 
-[For retail & ecommerce](https://www.ketch.com/customers/retail-consumer-goods)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)[For partnerships](https://www.ketch.com/customers/partnerships)
+[For retail & ecommerce](https://www.ketch.com/solutions/retail-ecommerce)[For technology](https://www.ketch.com/solutions/technology)[For communications & media](https://www.ketch.com/solutions/communications-and-media)[For financial services](https://www.ketch.com/solutions/financial-services)
 
 [By role](#)
 
-[For legal teams](https://www.ketch.com/customers/legal-teams)[For marketers](https://www.ketch.com/customers/marketing-teams)[For engineers](https://www.ketch.com/customers/engineering-teams)
+[For legal teams](https://www.ketch.com/solutions/legal-teams)
 
-Learn
+[For marketers](https://www.ketch.com/solutions/marketing-teams)[For engineers](https://www.ketch.com/solutions/engineering-teams)
+
+[By use case](#)
+
+[Website tracker scanning](https://www.ketch.com/solutions/website-tracker-scanning)
+
+Popular
+
+[Do Not Sell or Share](https://www.ketch.com/solutions/do-not-sell-or-share)
+
+Popular
+
+[Global Privacy Platform (GPP)](https://www.ketch.com/solutions/iab-global-privacy-platform)
+
+Popular
+
+Resources
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633f8deed294ae4dcf829c8d_ic_drop_steel.svg)
 
-[Resources](#)
+[Privacy insights](#)
 
-[Blog](https://www.ketch.com/blog)[News](https://www.ketch.com/news)[Regulatory compliance hub](https://www.ketch.com/regulatory-compliance-hub)[Practical guide to privacy](https://www.ketch.com/practical-guide-to-privacy)[Thought leadership](https://www.ketch.com/thought-leadership)[Integrations](https://www.ketch.com/integrations)
+[Blog](https://www.ketch.com/blog)
+
+[The Privacy Huddle](https://www.ketch.com/privacy-huddle)
+
+[Content library](https://www.ketch.com/thought-leadership)
+
+[Regulatory compliance hub](#)
+
+[GDPR (EU)](https://www.ketch.com/regulatory-compliance/gdpr)[CCPA/CPRA (California)](https://www.ketch.com/regulatory-compliance/ccpa)[CPA (Colorado)](https://www.ketch.com/regulatory-compliance/colorado-privacy-act)[VCPDA (Virginia)](https://www.ketch.com/regulatory-compliance/virginia-consumer-data-protection-act)[See all regulations →](https://www.ketch.com/regulatory-compliance-hub)
 
 [Engage](#)
 
-[Developers](https://www.ketch.com/developers)[**Documentation ↗**](https://docs.ketch.com/)
+[Practical guide to privacy](https://www.ketch.com/practical-guide-to-privacy)[**Documentation ↗**](https://docs.ketch.com/)
 
 [Pricing](https://www.ketch.com/pricing)
 
-new
+New
 
 Company
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633f8deed294ae4dcf829c8d_ic_drop_steel.svg)
 
-[About](https://www.ketch.com/about)[Privacy promise](https://www.ketch.com/privacy-promise)[Vision & mission](https://www.ketch.com/vision-and-mission)[**Careers ↗**](https://jobs.lever.co/Ketch)[Contact Us](https://www.ketch.com/contact-us)
+[Vision & mission](https://www.ketch.com/vision-and-mission)
+
+[Who we are](#)
+
+[About](https://www.ketch.com/about)[News](https://www.ketch.com/news)
+
+[Get in touch](#)
+
+[Partners](https://www.ketch.com/partnerships)[**Careers ↗**](https://jobs.lever.co/Ketch)[Contact Us](https://www.ketch.com/contact-us)
 
 [![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c53046008112716cd312_ic_twitter.svg)](https://twitter.com/Ketch_Digital)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52f4fdb8f0f858091b9_ic_linkedin.svg)](https://www.linkedin.com/company/ketchdigital/)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52e8cdc7cf2f303b856_ic_youtube.svg)](https://www.youtube.com/channel/UCYMaETSDcyTS6pFE5jAQJcw)
 
-[Request a Demo](https://content.ketch.com/request-demo-nav)[Sign Up](https://app.ketch.com/sign-up?utm_campaign=Pricing&utm_source=plg&utm_medium=mobile&utm_term=free)
+[Request a Demo](https://content.ketch.com/request-demo-nav)[Sign Up for Free](https://app.ketch.com/sign-up?utm_campaign=plg&utm_source=website&utm_medium=nav&utm_term=mobile)
 
 Privacy Policy
 ==============
@@ -605,7 +724,7 @@ Data and AI Governance
 
 Customers
 
-[Retail & ecommerce](https://www.ketch.com/customers/retail-consumer-goods)[Technology](https://www.ketch.com/customers/technology)[Communications & media](https://www.ketch.com/customers/communications-and-media)[Financial services](https://www.ketch.com/customers/financial-services)[Partnerships](https://www.ketch.com/customers/partnerships)
+[Retail & ecommerce](https://www.ketch.com/solutions/retail-ecommerce)[Technology](https://www.ketch.com/solutions/technology)[Communications & media](https://www.ketch.com/solutions/communications-and-media)[Financial services](https://www.ketch.com/solutions/financial-services)[Partnerships](https://www.ketch.com/partnerships)
 
 Resources
 
