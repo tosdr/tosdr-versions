@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/konstruisane-stvarnosti/02.jpg?itok=3oxYMqme)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/konstruisane-stvarnosti)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project/belgrade.?itok=vmT9HGjj)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-amp-ljetno-kino-big-band/ljetno-kinojpg-011.?itok=_bhF8JKJ)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-ljetno-kino-big)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/jesenja-aukcija-madlarta121105-quotmadlenianumquot-otvaranje-izlozbe-041105/pertov.jpg?itok=kFE9H2cG)](http://seecult.org/galerija/foto-galerija/foto-arhiva/jesenja-aukcija-madlarta121105-madlenianum-otvaranje-izlozbe)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
