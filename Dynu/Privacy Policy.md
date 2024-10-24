@@ -244,19 +244,19 @@ Please check back frequently to see any updates or changes to our privacy policy
 
   
 
-![Partner](/content/images/content/strip/medicoweb.com.png)
+![Partner](/content/images/content/strip/Strip-Charter.png)
 
   
 
-![Partner](/content/images/content/strip/mediastar.id.png)
+![Partner](/content/images/content/strip/Strip-BMW.png)
 
   
 
-![Partner](/content/images/content/strip/businesspcsupport.com.png)
+![Partner](/content/images/content/strip/Strip-certifyeu.png)
 
   
 
-![Partner](/content/images/content/strip/erp-sarajevo.com.png)
+![Partner](/content/images/content/strip/Strip-Estructuras.png)
 
 ### News
 
