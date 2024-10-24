@@ -162,11 +162,11 @@
 
 [Log in](https://webflow.com/dashboard/login)[Contact sales](https://webflow.com/contact-sales)[Get started — it's free](https://webflow.com/dashboard/signup)
 
-![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db705673548d_66391d9a71c12ac3525ae540_sign-in-designer.webp)![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db7056735494_66391d9d71c12ac3525aea59_sign-in-designer-mobile.webp)
+![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209b3b_66391d9a71c12ac3525ae540_sign-in-designer.webp)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209b62_66391d9d71c12ac3525aea59_sign-in-designer-mobile.webp)
 
 Trusted by teams at
 
-![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db7056735498_ideo.svg)![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db7056735499_monday.com.svg)![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db705673549a_bbdo.svg)![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db705673549b_nytimes.svg)![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db705673549c_TED.svg)![](https://cdn.prod.website-files.com/671a6e788f66db7056735380/671a6e788f66db705673549d_philips.svg)
+![Ideo](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c2c_ideo.svg)![Monday.com](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c7a_monday.com.svg)![BBDO](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209cc2_bbdo.svg)![The New York Times](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209ce7_nytimes.svg)![Ted](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cef_TED.svg)![Philips](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cf9_philips.svg)
 
 Menu
 
@@ -480,6 +480,7 @@ Company
     
     We're Hiring](https://webflow.com/careers)
 * [Press](https://webflow.com/press)
+* [Webflow Ventures](https://webflow.com/webflow-ventures)
 * [Webflow Shop](https://shop.webflow.com/)
 * [Terms of Service](https://webflow.com/legal/terms)
 * [Privacy policy](https://webflow.com/legal/privacy)
