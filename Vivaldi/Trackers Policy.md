@@ -1,16 +1,43 @@
 [](https://vivaldi.com/is/ "Vivaldi")
 
-* [Vafri](https://vivaldi.com/is/)
+* [Vafri](https://vivaldi.com/is/desktop/)
+    
+    * [Vivaldi á borðtölvu](https://vivaldi.com/is/desktop/)
+    * [Vivaldi fyrir Android](https://vivaldi.com/is/android/)
+    * [Vivaldi fyrir iOS](https://vivaldi.com/is/ios/)
+    * [Automotive](https://vivaldi.com/is/android/automotive/)
+    * [Niðurhal](https://vivaldi.com/is/download/)
+    
 * [Póstkerfi](https://vivaldi.com/is/features/mail/)
+    
+    * [Póstkerfi](https://vivaldi.com/is/features/mail/)
+    * [Dagatal](https://vivaldi.com/is/features/calendar/)
+    * [Lesari fyir strauma](https://vivaldi.com/is/features/feed-reader/)
+    
 * [Fréttir](https://vivaldi.com/is/blog/)
+    
+    * [Nýjustu fréttir](https://vivaldi.com/is/blog/)
+    * [Borðtölva](https://vivaldi.com/is/blog/desktop/)
+    * [Android](https://vivaldi.com/is/blog/android/)
+    * [iOS](https://vivaldi.com/is/blog/ios/)
+    
 * [Samfélag](https://vivaldi.net/)
-* [Um](https://vivaldi.com/is/company/)
+    
+    * [Vivaldi Social](https://social.vivaldi.net/)
+    * [Samfélag](https://vivaldi.net/)
+    * [Spjallborð](https://forum.vivaldi.net/)
+    * [Þemu](https://themes.vivaldi.net/)
+    * [Hjálp/FAQ](https://help.vivaldi.com/)
+    
+* [Um](https://vivaldi.com/is/)
+    
+    * [Um Vivaldi](https://vivaldi.com/is/company/)
+    * [Berjumst fyrir betri vef](https://vivaldi.com/is/for-a-better-web/)
+    * [Við virðum friðhelgi þína](https://vivaldi.com/is/we-respect-your-privacy/)
+    * [Styrkja með framlagi](https://vivaldi.com/is/donate/)
+    
 
 [Sækja](https://vivaldi.com/is/download/)
-
-Friðhelgi og skilmálar
-
-[Um](https://vivaldi.com/is/company/)[Friðhelgi og skilmálar](https://vivaldi.com/is/privacy/)[Öryggismál](https://vivaldi.com/is/security/)[Press](https://vivaldi.com/is/press/)
 
 Cookie Policy
 =============
@@ -70,19 +97,6 @@ These cookies allow us to count visits and traffic sources, so we can measure an
     * [Privacy policy - websites](https://vivaldi.com/is/privacy/vivaldi-s-websites/)
     * [Cookie Policy](https://vivaldi.com/is/privacy/cookie-policy/)
 
-Vivaldi Help
-------------
-
- 
-
-[Help articles](https://help.vivaldi.com/)
-
-[Kennsluefni](https://help.vivaldi.com/tutorials)
-
-[Ask the community](https://forum.vivaldi.net/)
-
-[Report a bug](https://vivaldi.com/is/bugreport/)
-
 [**Gerast áskrifandi að fréttabréfinu okkar**](https://vivaldi.com/is/newsletter/)
 
 [](https://social.vivaldi.net/@Vivaldi "Vivaldi Social")[](https://www.threads.net/@vivaldibrowser "Threads")[](https://x.com/vivaldibrowser "Twitter")[](https://www.youtube.com/channel/UCHG0CNxmtdl7cXhAV7AZKkQ "Youtube")[](https://www.instagram.com/vivaldibrowser/ "Instagram")[](https://www.facebook.com/vivaldi.browser/ "Facebook")[](https://linkedin.com/company/vivaldi-technologies "LinkedIn")[](https://t.me/vivaldibrowser "Telegram")[](https://www.reddit.com/r/vivaldibrowser/ "Reddit")
@@ -93,8 +107,14 @@ Vivaldi Help
 * [Android](https://vivaldi.com/is/android/)
 * [iOS](https://vivaldi.com/is/ios/)
 * [Automotive](https://vivaldi.com/is/android/automotive/)
-* [Download Vivaldi](https://vivaldi.com/is/download/)
+* [Niðurhal](https://vivaldi.com/is/download/)
+
+**Eiginleikar**
+
 * [Eiginleikar](https://vivaldi.com/is/features/)
+* [Flipar](https://vivaldi.com/is/features/tab-management/)
+* [Vinnusvæði](https://vivaldi.com/is/features/workspaces/)
+* [Auglýsingavörn](https://vivaldi.com/is/features/ad-blocker/)
 * [Berðu saman vafra](https://vivaldi.com/is/compare/)
 
 **Póstkerfi**
@@ -108,40 +128,44 @@ Vivaldi Help
 
 * [Vivaldi blogg](https://vivaldi.com/is/blog/)
 * [Prófunarútgáfur fyrir tölvu](https://vivaldi.com/is/blog/desktop/snapshots/)
-* [Mobile Snapshots](https://vivaldi.com/is/blog/mobile/snapshots/)
+* [Prófunarútgáfa fyrir Android](https://vivaldi.com/is/blog/android/snapshots/)
+* [iOS prófunarútgáfur](https://vivaldi.com/is/blog/ios/snapshots/)
+
+**Samfélag**
+
+* [Vivaldi Social](https://social.vivaldi.net/)
+* [Samfélag](https://vivaldi.net/)
+* [Spjallborð](https://forum.vivaldi.net/)
+* [Þemu](https://themes.vivaldi.net/)
+* [Styrkja](https://vivaldi.net/contribute/)
+* [Vörur](https://store.vivaldi.com/)
 
 **Hjálp**
 
-* [Vivaldi Help Pages](https://help.vivaldi.com/)
+* [Hjálp/FAQ](https://help.vivaldi.com/)
 * [Kennsluefni](https://help.vivaldi.com/tutorials/)
 * [Tilkynna villu/bögg](https://vivaldi.com/is/bugreport/)
 * [Hafa samband](https://vivaldi.com/is/contact/)
 
-**Samfélag**
+**Fjölmiðlar**
 
-* [Vivaldi samfélag](https://vivaldi.net/)
-* [Blogs](https://blogs.vivaldi.net/)
-* [Spjallborð](https://forum.vivaldi.net/)
-* [Þemu](https://themes.vivaldi.net/)
-* [Social](https://social.vivaldi.net/)
-* [Styrkja](https://vivaldi.net/contribute/)
-* [Vörur](https://store.vivaldi.com/)
-* [Borðar](https://vivaldi.com/is/banners/)
+* [Fjölmiðlar](https://vivaldi.com/is/press/)
+* [Fréttatilkynningar](https://vivaldi.com/is/press/releases/)
+* [Fréttir](https://vivaldi.com/is/press-coverage/)
+* [Linux útgáfur](https://vivaldi.com/is/partners/linux/)
 
 **Um**
 
-* [What We Believe](https://vivaldi.com/is/company/)
-* [We Respect Your Privacy](https://vivaldi.com/is/zerotracking/)
-* [Friðhelgi og skilmálar](https://vivaldi.com/is/privacy/browser/)
-* [Öryggismál](https://vivaldi.com/is/security/)
+* [Um Vivaldi](https://vivaldi.com/is/company/)
 * [Teymið okkar](https://vivaldi.com/is/team/)
 * [Störf](https://vivaldi.com/is/jobs/)
-* [Fjölmiðlar](https://vivaldi.com/is/press/)
-* [Linux útgáfur](https://vivaldi.com/is/partners/linux/)
-* [Staða](https://vivaldistatus.com/)
+* [Berjumst fyrir betri vef](https://vivaldi.com/is/for-a-better-web/)
+* [Við virðum friðhelgi þína](https://vivaldi.com/is/we-respect-your-privacy/)
+* [Friðhelgi og skilmálar](https://vivaldi.com/is/privacy/browser/)
+* [Öryggismál](https://vivaldi.com/is/security/)
 
 AfrikaansAzərbaycancaбългарскиCatalàČeštinaDanskDeutschEnglishEspañolفارسیSuomiFrançaisGalegoMagyarIndonesiaÍslenskaItaliano日本語関西弁TaqbaylitKurdish한국어NederlandsNorsk bokmålpolskiPortuguês (Brasil)Português (Europeu)РусскийSlovenčinaSlovenščinaСрпскиSrpskiSvenskaTürkçeUkrainian简体中文繁體中文
 
-© Vivaldi Technologies™ — Allur réttur áskilinn.
+© Vivaldi Technologies™ — Allur réttur áskilinn. | [Staða](https://vivaldistatus.com/)
 
 ![](https://vivaldi.com/rep/rep?idsite=4&rec=1)
