@@ -31,6 +31,7 @@
         
         * [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
         * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+        * [1-Click Models](https://www.digitalocean.com/products/ai-ml/1-click-models)
         
         Backups & Snapshots
         
@@ -215,6 +216,10 @@
         Questions?
         
         * [Talk to an expert](https://www.digitalocean.com/company/contact/sales?referrer=mainmenu/partners)
+        
+        New Partnerships
+        
+        * [1-Click Models powered by Hugging Face](https://www.digitalocean.com/products/ai-ml/1-click-models)
         
     
 * [Pricing](https://www.digitalocean.com/pricing)
