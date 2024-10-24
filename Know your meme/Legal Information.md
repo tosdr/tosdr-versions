@@ -97,6 +97,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/339/jenna_marbs.jpg "Where Are They Now? Here's What Jenna Marbles Has Been Up To Since She Quit YouTube In 2020")
+    
+    Where Are They Now? Here's What Jenna Marbles Has Been Up To Since She Quit YouTube In 2020](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-jenna-marbles-has-been-up-to-since-she-quit-youtube-in-2020)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/338/trump-mcdonalds-meme-explainer.jpg "Why Is Donald Trump Working At McDonald's? Memes About The President's 2024 Pennsylvania Photo Op Explained")
     
     Why Is Donald Trump Working At McDonald's? Memes About The President's 2024 Pennsylvania Photo Op Explained](https://knowyourmeme.com/editorials/guides/why-is-donald-trump-working-at-mcdonalds-memes-about-the-presidents-2024-pennsylvania-photo-op-explained)
@@ -113,14 +117,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     What Is 'MILF Messenger' And Is It Really More Popular Than Twitter? The Viral iPhone App Explained](https://knowyourmeme.com/editorials/guides/what-is-milf-messenger-and-is-it-really-more-popular-than-twitter-the-viral-iphone-app-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/334/shaq_time_out.jpg "What's The 'Shaq Timeout' Meme? The Photo And Reaction Image Of Shaquille O'Neal Signaling 'Time Out' Explained")
-    
-    What's The 'Shaq Timeout' Meme? The Photo And Reaction Image Of Shaquille O'Neal Signaling 'Time Out' Explained](https://knowyourmeme.com/editorials/guides/whats-the-shaq-timeout-meme-the-photo-and-reaction-image-of-shaquille-oneal-signaling-time-out-explained)
-    
 
 ##### Also Trending:
 
-[Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Trump "Macarena" Remix](https://knowyourmeme.com/memes/trump-macarena-remix-kamalas-never-gonna-beat-me-in-november "Trump "Macarena" Remix")
+[#KamalaGropedMe](https://knowyourmeme.com/memes/kamalagropedme "#KamalaGropedMe") [Trump "Macarena" Remix](https://knowyourmeme.com/memes/trump-macarena-remix-kamalas-never-gonna-beat-me-in-november "Trump "Macarena" Remix") [Stacey Williams' Donald Trump Groping Allegation](https://knowyourmeme.com/memes/events/stacey-williams-donald-trump-groping-allegation "Stacey Williams' Donald Trump Groping Allegation") [Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
