@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Thu, Oct 24, 2024
+Fri, Oct 25, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
-    * [Cyclone Dana](https://www.news18.com/india/cyclone-dana-tracker-news-odisha-bengal-landfall-evacuation-ndrf-cm-mohan-majhi-mamata-banerjee-trains-cancelled-schools-closed-9095586.html)
+    * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-says-thanks-after-nimrat-kaur-comments-marriages-dont-last-viral-9097948.html)
     * [Maharashtra Elections](https://www.news18.com/elections/)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-blushes-over-15-year-marriage-with-aishwarya-nimrat-kaur-says-really-viral-9096602.html)
-    * [Salman Khan](https://www.news18.com/movies/salman-khan-comment-on-blackbuck-case-goes-viral-i-wasnt-the-one-who-shot-9095352.html)
+    * [Noel Tata](https://www.news18.com/business/noel-tata-cannot-become-the-chairman-of-tata-sons-because-of-a-rule-ratan-tata-made-in-2022-9097058.html)
+    * [Kriti Sanon](https://www.news18.com/movies/kriti-sanon-recalls-relatives-treating-her-and-nupur-differently-it-angered-me-exclusive-9096659.html)
     * [Diwali 2024](https://www.news18.com/topics/diwali/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -171,11 +171,11 @@ Follow us on
 In Trends:
 
 * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
-* [Cyclone Dana](https://www.news18.com/india/cyclone-dana-tracker-news-odisha-bengal-landfall-evacuation-ndrf-cm-mohan-majhi-mamata-banerjee-trains-cancelled-schools-closed-9095586.html)
+* [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-says-thanks-after-nimrat-kaur-comments-marriages-dont-last-viral-9097948.html)
 * [Maharashtra Elections](https://www.news18.com/elections/)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-blushes-over-15-year-marriage-with-aishwarya-nimrat-kaur-says-really-viral-9096602.html)
-* [Salman Khan](https://www.news18.com/movies/salman-khan-comment-on-blackbuck-case-goes-viral-i-wasnt-the-one-who-shot-9095352.html)
+* [Noel Tata](https://www.news18.com/business/noel-tata-cannot-become-the-chairman-of-tata-sons-because-of-a-rule-ratan-tata-made-in-2022-9097058.html)
+* [Kriti Sanon](https://www.news18.com/movies/kriti-sanon-recalls-relatives-treating-her-and-nupur-differently-it-angered-me-exclusive-9096659.html)
 * [Diwali 2024](https://www.news18.com/topics/diwali/)
 
 * Follow Us
@@ -304,7 +304,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Oct 24, 2024
+Oct 25, 2024
 
 [View All](https://www.news18.com/short-news/)
 
