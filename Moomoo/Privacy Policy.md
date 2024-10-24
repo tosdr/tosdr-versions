@@ -290,7 +290,7 @@ Terms & Conditions
 
 Careers / Contact:
 
-[hr@us.moomoo.com](mailto:hr@us.moomoo.com)
+[Apply Now](https://apply.workable.com/moomoo)[hr@us.moomoo.com](mailto:hr@us.moomoo.com)
 
 The moomoo app is an online trading platform offered by Moomoo Technologies Inc. Securities, brokerage products and related services available through the moomoo app are offered by including but not limited to the following brokerage firms: Moomoo Financial Inc. regulated by the U.S. Securities and Exchange Commission (SEC), Moomoo Financial Singapore Pte. Ltd. regulated by the Monetary Authority of Singapore (MAS), Futu Securities International (Hong Kong) Limited regulated by the Securities and Futures Commission of Hong Kong (SFC), Moomoo Financial Canada Inc. regulated by the Canadian Investment Regulatory Organization (CIRO) and Moomoo Securities Australia Ltd regulated by the Australian Securities and Investments Commission (ASIC).
 
