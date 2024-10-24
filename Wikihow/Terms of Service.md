@@ -15,7 +15,7 @@ Skip to Content
     
     [Tech Help Pro](https://www.wikihow.com/Tech-Help-Pro)[About Us](https://www.wikihow.com/wikiHow:About-wikiHow)[Random Article](https://www.wikihow.com/Special:Randomizer)[Quizzes](https://www.wikihow.com/Quizzes)
     
-    [Request a New Article](https://www.wikihow.com/Special:RequestTopic)[Community Dashboard](https://www.wikihow.com/Special:CommunityDashboard)[This Or That Game](https://www.wikihow.com/Games/This-Or-That)[Happiness Hub](https://www.wikihow.com/Academy/Shawn-Achor)
+    [Request a New Article](https://www.wikihow.com/Special:RequestTopic)[Community Dashboard](https://www.wikihow.com/Special:CommunityDashboard)[This Or That Game](https://www.wikihow.com/Games/This-Or-That)[Forums](https://www.wikihow.com/Forums)
     
     [Popular Categories](https://www.wikihow.com/Special:CategoryListing)
     
@@ -70,6 +70,7 @@ Skip to Content
 * [Browse Articles](https://www.wikihow.com/Special:CategoryListing)
 * Learn Something New
 * [QuizzesHot](https://www.wikihow.com/Quizzes)
+* [Forums](https://www.wikihow.com/Forum)
 * [Courses](https://www.wikihow.com/Course/Explore)
 * [Happiness Hub](https://www.wikihow.com/Academy/Shawn-Achor)
 * Play Games
@@ -390,24 +391,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Fall Asleep Fast](https://www.wikihow.com/images/thumb/2/29/Fall-Asleep-Fast-Step-30.jpg/-crop-126-120-126px-Fall-Asleep-Fast-Step-30.jpg)
+
+How to  
+Fall Asleep Faster & Sleep Better at Night](https://www.wikihow.com/Fall-Asleep-Fast)
+
+[![Be Stylish](https://www.wikihow.com/images/thumb/4/45/Be-Stylish-Step-20-Version-4.jpg/-crop-126-120-126px-Be-Stylish-Step-20-Version-4.jpg)
+
+How to  
+Be Stylish](https://www.wikihow.com/Be-Stylish)
+
+[![Decorate a Pumpkin Without Carving It](https://www.wikihow.com/images/thumb/a/a0/Decorate-a-Pumpkin-Without-Carving-It-Step-23.jpg/-crop-126-120-126px-Decorate-a-Pumpkin-Without-Carving-It-Step-23.jpg)
+
+How to  
+Decorate a Pumpkin Without Carving It](https://www.wikihow.com/Decorate-a-Pumpkin-Without-Carving-It)
+
 [![Likable Person Test](https://www.wikihow.com/images/thumb/b/b8/Likeable_person_quiz.png/-crop-126-120-126px-Likeable_person_quiz.png)
 
 Am I a Likable Person Quiz](https://www.wikihow.com/Likable-Person-Test)
-
-[![Communicate With Body Language](https://www.wikihow.com/images/thumb/5/56/Communicate-With-Body-Language-Step-15-Version-3.jpg/-crop-126-120-126px-Communicate-With-Body-Language-Step-15-Version-3.jpg)
-
-How to  
-Improve Body Language to Send the Right Message](https://www.wikihow.com/Communicate-With-Body-Language)
-
-[![Sleep Better](https://www.wikihow.com/images/thumb/e/e3/Sleep-Better-Step-27-Version-5.jpg/-crop-126-120-126px-Sleep-Better-Step-27-Version-5.jpg)
-
-How to  
-Sleep Better](https://www.wikihow.com/Sleep-Better)
-
-[![Ask Someone to Hang Out](https://www.wikihow.com/images/thumb/e/e5/Ask-Someone-to-Hang-Out-Step-9.jpg/-crop-126-120-126px-Ask-Someone-to-Hang-Out-Step-9.jpg)
-
-How to  
-Ask Someone to Hang Out](https://www.wikihow.com/Ask-Someone-to-Hang-Out)
 
   
 
@@ -450,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-189
+185
