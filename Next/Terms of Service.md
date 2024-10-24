@@ -1,6 +1,6 @@
 5.39.0
 
-1729758743144
+1729780524549
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1729759458952
+1729779935991
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1729758239496
+1729781376704
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,47 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Clinique Promotion
+
+The Clinique 6-piece Beauty Gift Set will be automatically added to bag when you buy any 2 selected Clinique products, one of which must be skincare or foundation. The Clinique Gift contains:
+
+* All About Clean Liquid Facial Soap Mild 200ml
+* Dramatically Different Moisturizing Lotion+ 30ml
+* All About Eyes 5ml
+* Almost Lipstick in Pink Honey 1.2g
+* High Impact Mascara in Black 3.5ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Clinique Gift will be automatically added once 2 qualifying Clinique products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### Clarins Promotion
+
+The Clarins Gift of Beauty will be automatically added to bag when you buy any 2 selected Clarins products, one of which must be skincare or foundation. The Clarins Gift contains:
+
+* Hydra-Essentiel Cream 15ml
+* Hydra-Essentiel Night Cream 15ml
+* Hydra-Essentiel Serum 10ml
+* Blue Orchid Face Treatment Oil 5ml
+* Lip Comfort Oil 04 1.4ml
+* Supra Lift & Curl Mascara 3ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Clarins Gift will be automatically added once 2 qualifying Clarins products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
 
 ### 20% off on Selected Estée Lauder Promotion
 
@@ -2633,7 +2674,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1729759107278
+1729780070906
 
 ### Our Social Networks
 
