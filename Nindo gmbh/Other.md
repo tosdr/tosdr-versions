@@ -16,7 +16,7 @@ Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
 
 Iimpressum
 
-[Statistiken](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Kanäle](https://nindo.de/impressum)[Netzwerk](https://nindo.de/impressum/network)[Demografie](https://nindo.de/impressum/demography/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Botting](https://nindo.de/impressum/botting/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Brandsafety](https://nindo.de/impressum/brandsafety)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
+[Statistiken](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Übersicht](https://nindo.de/impressum)[Netzwerk](https://nindo.de/impressum/network)[Demografie](https://nindo.de/impressum/demography/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Botting](https://nindo.de/impressum/botting/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Brandsafety](https://nindo.de/impressum/brandsafety)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
 
 Kanalübersicht
 --------------
