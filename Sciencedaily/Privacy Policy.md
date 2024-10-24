@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Better Brain-Machine Interfaces, Pacemakers](https://www.sciencedaily.com/releases/2024/10/241024145233.htm)
+* [Gut Bacterial Enzyme's Wide-Ranging Functions](https://www.sciencedaily.com/releases/2024/10/241024145501.htm)
+* [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 * ['Paleo-Robots' and Fish Walking On Land](https://www.sciencedaily.com/releases/2024/10/241023141806.htm)
 * [Colorado 'Swamp Dweller' Lived Alongside Dinos](https://www.sciencedaily.com/releases/2024/10/241023141759.htm)
 * [Bats: Fighting Deadly White-Nose Syndrome](https://www.sciencedaily.com/releases/2024/10/241023131034.htm)
@@ -215,9 +218,6 @@ this hour
 * [Bioengineering Plants to Make Food in the Dark](https://www.sciencedaily.com/releases/2024/10/241023131024.htm)
 * [What Standing On One Leg Can Tell You](https://www.sciencedaily.com/releases/2024/10/241023171600.htm)
 * [Healthy Reef Sounds May Help Coral Larvae, Reefs](https://www.sciencedaily.com/releases/2024/10/241023130930.htm)
-* [Cardio-Immunotherapy for Heart Failure Patients](https://www.sciencedaily.com/releases/2024/10/241023130919.htm)
-* [Capturing Carbon from the Air Just Got Easier](https://www.sciencedaily.com/releases/2024/10/241023130908.htm)
-* [3 Neurons for Decision to Eat](https://www.sciencedaily.com/releases/2024/10/241023130903.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
-[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+
+[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
-
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
-
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
 [Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
   
 
