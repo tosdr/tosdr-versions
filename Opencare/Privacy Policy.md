@@ -4,6 +4,8 @@ Refer a friend. Get ${{referralValue}}.
 
 Close
 
+* [Find a Dentist](https://www.opencare.com/%7B%7BsearchV2AppUrl%7D%7D/recommendation/welcome/)
+* [Claim Offer](https://www.opencare.com/claim-offer/)
 * [Patient Acquisition](https://www.opencare.com/for-dentists/patient-acquisition/)
 * [Your Guide to Dental Marketing](https://www.opencare.com/for-dentists/dental-marketing-guide/)
 * [The Opencare Difference](https://www.opencare.com/for-dentists/the-opencare-difference/)
@@ -11,6 +13,9 @@ Close
 * [Learning Center](https://www.opencare.com/blog/)
 * [About Us](https://www.opencare.com/about/)
 * [Careers We're hiring!](https://www.opencare.com/careers/)
+* [For Patients](https://www.opencare.com/)
+    * [Find a Dentist](https://www.opencare.com/%7B%7BsearchV2AppUrl%7D%7D/recommendation/welcome/)
+    * [Claim Offer](https://www.opencare.com/claim-offer/)
 * [For Dentists](https://www.opencare.com/for-dentists/patient-acquisition/)
     * [Patient Acquisition](https://www.opencare.com/for-dentists/patient-acquisition/)
     * [Your Guide to Dental Marketing](https://www.opencare.com/for-dentists/dental-marketing-guide/)
@@ -441,7 +446,7 @@ Opencare
 * [Careers](https://www.opencare.com/careers/)
 * [Learning center](https://www.opencare.com/blog/)
 * [Log in](https://patient.opencare.com/#/login/)
-* [Referrals](https://www.opencare.com/privacy/%7B%7BpatientAppUrl%7D%7D/#/referrals/?source={{linkSource}}) [Referrals](https://www.opencare.com/affiliates/?source=search-app-header)
+* [Referrals](https://www.opencare.com/%7B%7BpatientAppUrl%7D%7D/#/referrals/?source={{linkSource}}) [Referrals](https://www.opencare.com/affiliates/?source=search-app-header)
 * [Sitemap](https://www.opencare.com/site-map/)
 
 For Dentists
