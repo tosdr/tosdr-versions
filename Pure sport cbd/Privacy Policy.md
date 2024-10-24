@@ -20,7 +20,11 @@ Update
 
 Check out
 
-[Rated average 4.9 stars (5832 reviews)](https://puresportcbd.com/en-us/pages/reviews)
+[Rated average 4.9 stars (5933 reviews)](https://puresportcbd.com/en-us/pages/reviews)
+
+[Free UK Shipping + Vit D3 Trial Pack on orders over £50](https://puresportcbd.com/en-us/collections/all)
+
+[Complimentary Sports Bottle on orders over £75](https://puresportcbd.com/en-us/collections/all)
 
  Search 
 
