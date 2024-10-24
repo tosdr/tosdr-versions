@@ -4,7 +4,7 @@
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111327-mid-day-digest-2024-10-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111362-mid-day-digest-2024-10-24?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111327-mid-day-digest-2024-10-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111362-mid-day-digest-2024-10-24?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -201,20 +201,22 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34408)
+     [](https://patriotpost.us/cartoons/34411)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Ben Shapiro Why Trump at McDonald’s Matters](https://patriotpost.us/opinion/111350-why-trump-at-mcdonalds-matters-2024-10-24)
+*      [Laura Hollis For Kamala Harris, Abortion Isn’t About Freedom; It’s About Force](https://patriotpost.us/opinion/111349-for-kamala-harris-abortion-isnt-about-freedom-its-about-force-2024-10-24)
+*      [Larry Elder Kamala’s Closing Argument: ‘I’m Obviously Not Joe Biden’](https://patriotpost.us/opinion/111346-kamalas-closing-argument-im-obviously-not-joe-biden-2024-10-24)
+*      [Gary Bauer God’s Hand](https://patriotpost.us/opinion/111341-gods-hand-2024-10-24)
+*      [Cal Thomas The Marijuana Campaign](https://patriotpost.us/opinion/111352-the-marijuana-campaign-2024-10-24)
+*      [Armstrong Williams The President Is Not a King or Queen: Down-Ballot Races Matter](https://patriotpost.us/opinion/111347-the-president-is-not-a-king-or-queen-down-ballot-races-matter-2024-10-24)
+*      [Ann Coulter Central Park Five: Be Careful What You Sue For](https://patriotpost.us/opinion/111343-central-park-five-be-careful-what-you-sue-for-2024-10-24)
 *      [Tony Perkins On Border Policy, Compassion Is Rooted in Justice](https://patriotpost.us/opinion/111331-on-border-policy-compassion-is-rooted-in-justice-2024-10-24)
 *      [Rich Lowry Yes, Kamala Harris Wants You Out of Your Gas-Powered Car](https://patriotpost.us/opinion/111315-yes-kamala-harris-wants-you-out-of-your-gas-powered-car-2024-10-24)
 *      [Jeff Jacoby Hispanic Voters Flock to the GOP, Exploding the ‘Great Replacement’ Theory](https://patriotpost.us/opinion/111328-hispanic-voters-flock-to-the-gop-exploding-the-great-replacement-theory-2024-10-24)
-*      [Mark Alexander About Kamala’s Catchy Campaign Slogan](https://patriotpost.us/alexander/111329-about-kamalas-catchy-campaign-slogan-2024-10-23)
-*      [Christine Flowers We See What We Want to See With Our Candidates](https://patriotpost.us/opinion/111326-we-see-what-we-want-to-see-with-our-candidates-2024-10-23)
-*      [Gary Bauer Lies of the Left](https://patriotpost.us/opinion/111312-lies-of-the-left-2024-10-23)
-*      [Rich Lowry Mail-In Ballots Have Made Our Election Tallying a National Embarrassment](https://patriotpost.us/opinion/111314-mail-in-ballots-have-made-our-election-tallying-a-national-embarrassment-2024-10-23)
-*      [Hans von Spakovsky No, Elon Musk Is NOT Breaking Federal Election Law](https://patriotpost.us/opinion/111313-no-elon-musk-is-not-breaking-federal-election-law-2024-10-23)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,13 +230,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“Guard against the impostures of pretended patriotism.” —George Washington (1796)
+“During the course of administration, and in order to disturb it, the artillery of the press has been levelled against us, charged with whatsoever its licentiousness could devise or dare. These abuses of an institution so important to freedom and science are deeply to be regretted, inasmuch as they tend to lessen its usefulness and to sap its safety.” —Thomas Jefferson (1805)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
