@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_360x203.jpg)](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
         
-        #### [Residents question officials on utility fee at Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565) [![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_360x203.jpg)](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
+        #### [Residents question officials on utility fee at Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
         
-        #### [Residents raise questions about new utility fee during Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/fc4189e6-781a-4c94-8b98-ce5f6f34038f/20241024T032035/fc4189e6-781a-4c94-8b98-ce5f6f34038f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc4189e6-781a-4c94-8b98-ce5f6f34038f/20241024T032035/fc4189e6-781a-4c94-8b98-ce5f6f34038f_360x203.jpg)](https://www.wqad.com/article/money/davenport-public-works-employees-demand-higher-wages/526-2c38080b-928b-4870-abee-acce2f3c7a00)
         
         #### [Davenport Public Works employees calling for wage increases](https://www.wqad.com/article/money/davenport-public-works-employees-demand-higher-wages/526-2c38080b-928b-4870-abee-acce2f3c7a00)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-40°
+34°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
