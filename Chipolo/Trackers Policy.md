@@ -163,7 +163,7 @@ Learn
 
 Support
 
-[Customer support](https://support.chipolo.net/) [Renewal program](https://chipolo.net/en-us/pages/renewal) [CARD Spot and CARD Point renewal program](https://chipolo.net/en-us/pages/chipolo-spot-point-renewal)
+[Customer support](https://support.chipolo.net/hc/en-us) [Renewal program](https://chipolo.net/en-us/pages/renewal) [CARD Spot and CARD Point renewal program](https://chipolo.net/en-us/pages/chipolo-spot-point-renewal)
 
 Connect with us:
 
