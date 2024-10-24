@@ -14,34 +14,7 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Mongolia - Bactrian camel](https://img.atlasobscura.com/cNxMGevFyDT8k8vMr6k9J4MMMXUAcQE9WJPjJREz-SA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zYzNk/MmZlOS0wZDgzLTQ1/NDMtOTMzYS03MjI2/YmI2ODUzMmFlMzlm/ZjM0NjUzMWFlYzgx/MDlfTW9uZ29saWEg/Q2FtZWwgVHJpcCBM/aXN0aW5nIEhlYWRl/ciBQaG90b3MucG5n.png)](https://www.atlasobscura.com/adventures/trips/mongolia-thousand-camel)
-
-Mongolia • 9 days, 8 nights
-
-[NEW - Mongolia's Winter Camel Festival](https://www.atlasobscura.com/adventures/trips/mongolia-thousand-camel)
-
-from
-
-   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
-
-Egypt • 11 days, 10 nights
-
-[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Loading...
 
