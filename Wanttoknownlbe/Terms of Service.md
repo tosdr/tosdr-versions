@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/n-verbijsterend-grand-canyon-verhaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/hoe-onze-overheid-jou-ongeldig-laat-stemmen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
