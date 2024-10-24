@@ -46,17 +46,19 @@ Search for:
 
 [Clay Travis says Facebook blocked Trump interview, along with Tyrus’ interview with GOP nominee](https://americanwirenews.com/clay-travis-says-facebook-blocked-trump-interview-along-with-tyrus-interview-with-gop-nominee/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-unision-1200x630.jpg)](https://americanwirenews.com/pathetic-pandering-race-baiter-kamala-tells-latinos-trump-doesnt-care-about-them/)
+[![](https://americanwirenews.com/wp-content/uploads/2021/11/GettyImages-493247111-1200x630.jpg)](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
 
-[Pathetic pandering race-baiter Kamala tells Latinos Trump doesn’t care about them](https://americanwirenews.com/pathetic-pandering-race-baiter-kamala-tells-latinos-trump-doesnt-care-about-them/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tulsi-gabbard-1200x630.png)](https://americanwirenews.com/fmr-democrat-presidential-candidate-surprises-trump-at-rally-by-announcing-switch-to-republican-party/)
+[Charges pending after harassment over pro-Trump sign leads to shooting in Vegas](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
 
-[Fmr Democrat presidential candidate surprises Trump at rally by announcing switch to Republican Party](https://americanwirenews.com/fmr-democrat-presidential-candidate-surprises-trump-at-rally-by-announcing-switch-to-republican-party/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kunce-kinzinger-gamboa-1200x630.jpg)](https://americanwirenews.com/idiocy-josh-hawleys-dem-opponent-touts-great-day-at-the-range-after-reporter-struck-by-bullet/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bob-woodward-1200x630.jpg)](https://americanwirenews.com/unhinged-bob-woodward-calls-for-biden-to-get-nobel-peace-prize-for-ukraine/)
+[‘Idiocy’: Josh Hawley’s Dem opponent touts ‘great day at the range’ after reporter struck by bullet](https://americanwirenews.com/idiocy-josh-hawleys-dem-opponent-touts-great-day-at-the-range-after-reporter-struck-by-bullet/)
 
-[Unhinged Bob Woodward calls for Biden to get Nobel Peace Prize for Ukraine](https://americanwirenews.com/unhinged-bob-woodward-calls-for-biden-to-get-nobel-peace-prize-for-ukraine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-walz-dumbdumber-1200x630.jpg)](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
+
+[Meta Oversight Board frees Harris and Walz ‘Dumb and Dumber’ meme from Facebook jail](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wonky-neighbor-1200x630.jpg)
 
@@ -86,19 +88,9 @@ Search for:
 
 [Obama’s perplexed over how America ‘got so toxic and divided’ – X lends a hand](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-walz-dumbdumber-220x180.jpg)](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
-
-[Meta Oversight Board frees Harris and Walz ‘Dumb and Dumber’ meme from Facebook jail](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-davi-keaton-220x180.jpg)](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
 
 [‘Shame on him’: Actor Robert Davi has epic response to Michael Keaton anti-Trump rant](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2021/11/GettyImages-493247111-220x180.jpg)](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
-
-[Charges pending after harassment over pro-Trump sign leads to shooting in Vegas](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
-
-Getty Images
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-michelle-obama-2-220x180.jpg)](https://americanwirenews.com/left-looking-to-michelle-obama-to-be-kamala-harris-ultimate-weapon-in-homestretch/)
 
@@ -113,10 +105,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whoopi-goldberg-220x180.jpg)](https://americanwirenews.com/whoopi-huffs-over-missing-trump-hairnet-as-leftist-mcdonalds-meltdown-continues/)
 
 [Whoopi huffs over missing Trump hairnet as leftist McDonald’s meltdown continues](https://americanwirenews.com/whoopi-huffs-over-missing-trump-hairnet-as-leftist-mcdonalds-meltdown-continues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kunce-kinzinger-gamboa-220x180.jpg)](https://americanwirenews.com/idiocy-josh-hawleys-dem-opponent-touts-great-day-at-the-range-after-reporter-struck-by-bullet/)
-
-[‘Idiocy’: Josh Hawley’s Dem opponent touts ‘great day at the range’ after reporter struck by bullet](https://americanwirenews.com/idiocy-josh-hawleys-dem-opponent-touts-great-day-at-the-range-after-reporter-struck-by-bullet/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sykes-220x180.jpg)](https://americanwirenews.com/residency-challenge-could-prevent-vulnerable-house-dem-from-voting-for-herself/)
 
@@ -154,31 +142,41 @@ Getty Images
 
 [DHS official caught using social media to promote illegal immigration tips in ‘utter betrayal of the American people’](https://americanwirenews.com/dhs-official-caught-using-social-media-to-promote-illegal-immigration-tips-in-utter-betrayal-of-the-american-people/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-levell-abrams-220x180.jpg)](https://americanwirenews.com/ga-business-leader-says-stacey-abrams-rhetoric-wont-work-predicts-historic-and-epic-black-turnout-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bob-woodward-220x180.jpg)](https://americanwirenews.com/unhinged-bob-woodward-calls-for-biden-to-get-nobel-peace-prize-for-ukraine/)
 
-[Ga. business leader says Stacey Abrams’ rhetoric won’t work, predicts ‘historic and epic’ Black turnout for Trump](https://americanwirenews.com/ga-business-leader-says-stacey-abrams-rhetoric-wont-work-predicts-historic-and-epic-black-turnout-for-trump/)
+[Unhinged Bob Woodward calls for Biden to get Nobel Peace Prize for Ukraine](https://americanwirenews.com/unhinged-bob-woodward-calls-for-biden-to-get-nobel-peace-prize-for-ukraine/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kelly-all-in-220x180.jpg)](https://americanwirenews.com/you-know-shes-a-lawyer-right-megyn-kelly-delivers-masterclass-on-destroying-the-trump-is-a-felon-trope/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tulsi-gabbard-220x180.png)](https://americanwirenews.com/fmr-democrat-presidential-candidate-surprises-trump-at-rally-by-announcing-switch-to-republican-party/)
 
-[‘You know she’s a lawyer right?’ Megyn Kelly delivers masterclass on destroying the ‘Trump is a felon’ trope](https://americanwirenews.com/you-know-shes-a-lawyer-right-megyn-kelly-delivers-masterclass-on-destroying-the-trump-is-a-felon-trope/)
+[Fmr Democrat presidential candidate surprises Trump at rally by announcing switch to Republican Party](https://americanwirenews.com/fmr-democrat-presidential-candidate-surprises-trump-at-rally-by-announcing-switch-to-republican-party/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bret-baier-alec-220x180.jpg)](https://americanwirenews.com/bret-baier-reacts-to-snl-skit-of-his-kamala-interview-floats-an-offer-for-the-actor/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-unision-220x180.jpg)](https://americanwirenews.com/pathetic-pandering-race-baiter-kamala-tells-latinos-trump-doesnt-care-about-them/)
 
-[Bret Baier reacts to SNL skit of his Kamala interview, floats an offer for the actor](https://americanwirenews.com/bret-baier-reacts-to-snl-skit-of-his-kamala-interview-floats-an-offer-for-the-actor/)
+[Pathetic pandering race-baiter Kamala tells Latinos Trump doesn’t care about them](https://americanwirenews.com/pathetic-pandering-race-baiter-kamala-tells-latinos-trump-doesnt-care-about-them/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donalds-220x180.jpg)](https://americanwirenews.com/byron-donalds-schools-gaslighting-jim-acosta-in-heated-battle-over-the-enemy-within/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-1-220x180.jpg)](https://americanwirenews.com/kamalas-knucklehead-calls-elon-musk-a-dipsht-so-much-for-decorum/)
 
-[Byron Donalds schools gaslighting Jim Acosta in heated battle over the ‘enemy within’](https://americanwirenews.com/byron-donalds-schools-gaslighting-jim-acosta-in-heated-battle-over-the-enemy-within/)
+[Kamala’s Knucklehead calls Elon Musk a ‘dipsh\*t’ – so much for decorum](https://americanwirenews.com/kamalas-knucklehead-calls-elon-musk-a-dipsht-so-much-for-decorum/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-khelif-gold-220x180.jpg)](https://americanwirenews.com/female-athletes-lost-staggering-amount-of-medals-to-biological-males-study-finds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pizza2-220x180.png)](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
 
-[Female athletes lost staggering amount of medals to biological males, study finds](https://americanwirenews.com/female-athletes-lost-staggering-amount-of-medals-to-biological-males-study-finds/)
+[DC pizza chain declared ‘racist’ over ‘hella disrespectful’ dessert named after former mayor](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/04/GettyImages-1137802287-220x180.jpg)](https://americanwirenews.com/sex-trafficking-minors-rapidly-becoming-largest-criminal-enterprise-in-america-report-reveals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-obama-eminem-220x180.jpg)](https://americanwirenews.com/trump-calls-rappin-obama-a-real-jerk-after-insult-filled-rally-featuring-slim-shady/)
 
-[Sex trafficking minors rapidly becoming largest criminal enterprise in America, report reveals](https://americanwirenews.com/sex-trafficking-minors-rapidly-becoming-largest-criminal-enterprise-in-america-report-reveals/)
+[Trump calls rappin’ Obama ‘a real jerk’ after insult-filled rally featuring Slim Shady](https://americanwirenews.com/trump-calls-rappin-obama-a-real-jerk-after-insult-filled-rally-featuring-slim-shady/)
 
-Getty Images
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-john-kelly-220x180.jpg)](https://americanwirenews.com/backstabbing-ex-white-house-chief-of-staff-spins-another-trump-hitler-yarn/)
+
+[Backstabbing ex-White House chief of staff spins another Trump-Hitler yarn](https://americanwirenews.com/backstabbing-ex-white-house-chief-of-staff-spins-another-trump-hitler-yarn/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe_nh1-1200-x-628-220x180.jpg)](https://americanwirenews.com/we-gotta-lock-him-up-biden-fesses-up-to-targeting-trump-with-lawfare-to-take-him-out/)
+
+[‘We gotta lock him up’: Biden fesses up to targeting Trump with lawfare to take him out](https://americanwirenews.com/we-gotta-lock-him-up-biden-fesses-up-to-targeting-trump-with-lawfare-to-take-him-out/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kayleighoutnumbered-1200-x-628-220x180.jpg)](https://americanwirenews.com/kayleigh-praises-trump-for-remaking-the-gop-into-the-party-of-diversity/)
+
+[Kayleigh praises Trump for remaking the GOP into the ‘Party of Diversity’](https://americanwirenews.com/kayleigh-praises-trump-for-remaking-the-gop-into-the-party-of-diversity/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
