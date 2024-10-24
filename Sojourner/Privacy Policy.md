@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6bc882bbb7d5c93da7f28e6d6d7a9be9
+14a2f15cc1182f6b2e04b42dde565c41
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Vintage German snail shell beads](https://www.sojourner.biz/images/cache/glass/GL0226strand.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-german-snail-shell-beads.html "Vintage German snail shell beads")
+[![Blue Sunstone stone chips](https://www.sojourner.biz/images/cache/blue_sunstone_twist.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/blue-sunstone-stone-chips.html "Blue Sunstone stone chips")
 
-#### [Vintage German snail shell beads](https://www.sojourner.biz/beads/glass/vintage-german-snail-shell-beads.html "Vintage German snail shell beads")
+#### [Blue Sunstone stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/blue-sunstone-stone-chips.html "Blue Sunstone stone chips")
 
-$10.00
+$5.00
 
 ### Best Sellers
 
