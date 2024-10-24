@@ -366,7 +366,7 @@ Privacy Notice
 ==============
 
 **_Published on: 23 May 2018  
-Last updated on: 8 July 2024_**
+Last updated on: 23 October 2024_**
 
 This is the Privacy Notice for the F5 and NGINX brands. It explains the way that F5, Inc. and its affiliates (collectively "F5") handle information about you that is collected in the contexts described below. 
 
@@ -566,7 +566,7 @@ f5.dpo@fieldfisher.com
 
 _(vi) Independent dispute resolution_
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, F5, Inc. commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/file-a-dpf-claim](https://www.jamsadr.com/file-a-dpf-claim) for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, F5, Inc commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
 
 _(vii) The type or identity of third parties to which we disclose personal information under the Data Privacy Framework, and the purposes for which we do so_
 
