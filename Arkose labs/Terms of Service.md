@@ -16,8 +16,8 @@
         * [API Protection](https://www.arkoselabs.com/solutions/api-protection)
         * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)
         * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
-    * Phishing
-        * [MFA Compromise Man-in-the-Middle Reverse Proxy Phishing](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
+    * Reverse Proxy Phishing (Man-in-the-Middle)
+        * [MFA Compromise](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
     
     Experienced a bot attack?
     
@@ -137,8 +137,8 @@
         * [API Protection](https://www.arkoselabs.com/solutions/api-protection)
         * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)
         * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
-    * Phishing
-        * [MFA Compromise Man-in-the-Middle Reverse Proxy Phishing](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
+    * Reverse Proxy Phishing (Man-in-the-Middle)
+        * [MFA Compromise](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
 * Industries
     * [![Finance & Fintech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
@@ -305,7 +305,7 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
     * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
     * [Fake Listings/Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/ "Fake Listings/Reviews")
     
-    Phishing* [MFA Compromise Man-in-the-Middle Reverse Proxy Phishing](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "MFA Compromise Man-in-the-Middle Reverse Proxy Phishing")
+    Reverse Proxy Phishing (Man-in-the-Middle)* [MFA Compromise](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "MFA Compromise")
     
 * Industries
     
