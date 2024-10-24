@@ -266,12 +266,12 @@ Most Popular
 [Throwback Thursday: Partytime in Derry's Metro Bar (2008)](https://www.derrynow.com/story-telling/pictures---videos/1637374/throwback-thursday-partytime-in-derry-s-metro-bar-2008.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rare classic and sports cars from private Irish collections going under the hammer")](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
+[![Woman charged with assaulting hospital staff and drug possession jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with assaulting hospital staff and drug possession jailed")](https://www.derrynow.com/news/local-news/1638681/woman-charged-with-assaulting-hospital-staff-and-drug-possession-jailed.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman charged with assaulting hospital staff and drug possession jailed](https://www.derrynow.com/news/local-news/1638681/woman-charged-with-assaulting-hospital-staff-and-drug-possession-jailed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police investigating assault at Derry's Magee campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating assault at Derry's Magee campus")](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
 
@@ -280,22 +280,6 @@ Most Popular
 [Police investigating assault at Derry's Magee campus](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman who headbutted her mother given suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman who headbutted her mother given suspended sentence")](https://www.derrynow.com/news/local-news/1637602/derry-woman-who-headbutted-her-mother-given-suspended-sentence.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman who headbutted her mother given suspended sentence](https://www.derrynow.com/news/local-news/1637602/derry-woman-who-headbutted-her-mother-given-suspended-sentence.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
-
-Wolverhampton Police Station
-
-[Home](https://www.derrynow.com/)
-
-[Magherafelt construction company awarded £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -303,14 +287,12 @@ Wolverhampton Police Station
 [Derry Death Notices - Thursday, October 24 2024](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man returned to Derry Crown Court on series of historical sexual abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+[![late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late ")](https://www.derrynow.com/news/arts---entertainment/1638775/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
 
-Derry Magistrate's Court
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](https://www.derrynow.com/news/arts---entertainment/1638775/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Musician who told female hospital patient that he had healing hands granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Musician who told female hospital patient that he had healing hands granted bail")](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
 
@@ -319,27 +301,59 @@ Derry Magistrate's Court
 [Musician who told female hospital patient that he had healing hands granted bail](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with arson in which three dogs died bail hearing adjourned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with arson in which three dogs died bail hearing adjourned")](https://www.derrynow.com/news/local-news/1638623/derry-man-charged-with-arson-in-which-three-dogs-died-bail-hearing-adjourned.html)
+[![Two men returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1638644/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with arson in which three dogs died bail hearing adjourned](https://www.derrynow.com/news/local-news/1638623/derry-man-charged-with-arson-in-which-three-dogs-died-bail-hearing-adjourned.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1638644/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary")](https://www.derrynow.com/story-telling/pictures---videos/1637583/in-pictures-federation-of-ulster-local-studies-celebrates-50th-anniversary.html)
+[![Changes to Derry's cemetery opening and closing times](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Changes to Derry's cemetery opening and closing times")](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
 
-Photos by Jim McCafferty.
+Cemeteries will revert to winter opening hours from this weekend
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary](https://www.derrynow.com/story-telling/pictures---videos/1637583/in-pictures-federation-of-ulster-local-studies-celebrates-50th-anniversary.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Changes to Derry's cemetery opening and closing times](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with wounding with intent to cause grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with wounding with intent to cause grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Counterfeit goods worth over £200K seized by Trading Standards Officers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Counterfeit goods worth over £200K seized by Trading Standards Officers")](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
+
+Seized goods
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Counterfeit goods worth over £200K seized by Trading Standards Officers](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry GAA Minors gala presentation night at the Elk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry GAA Minors gala presentation night at the Elk")](https://www.derrynow.com/story-telling/pictures---videos/1638612/in-pictures-derry-gaa-minors-gala-presentation-night-at-the-elk.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry GAA Minors gala presentation night at the Elk](https://www.derrynow.com/story-telling/pictures---videos/1638612/in-pictures-derry-gaa-minors-gala-presentation-night-at-the-elk.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit")](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
+
+A sea of red and white as Hollybush Primary School welcomes Derry City players, Mark Connolly, Shane McEleney and Danny Mullen on Tuesday afternoon. (Photos: Jim McCafferty Photography)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Thursday: Partytime in Derry's Metro Bar (2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime in Derry's Metro Bar (2008)")](https://www.derrynow.com/story-telling/pictures---videos/1637374/throwback-thursday-partytime-in-derry-s-metro-bar-2008.html)
 
@@ -402,24 +416,6 @@ IN PICTURES: School of Rock - Schools in Derry visit GeoEnergy Discovery Centre
 
 [IN PICTURES: School of Rock - Schools in Derry visit GeoEnergy Discovery Centre](https://www.derrynow.com/story-telling/pictures---videos/1635652/in-pictures-school-of-rock-schools-in-derry-visit-geoenergy-discovery-centre.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
-
-IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Boys from 2015 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635576/in-pictures-boys-from-2015-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup")](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
-
-IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Boys from 2017 age category take part in the Sean O'Kane Memorial Cup](https://www.derrynow.com/story-telling/pictures---videos/1635540/in-pictures-boys-from-2017-age-category-take-part-in-the-sean-o-kane-memorial-cup.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,51 +517,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Woman charged with assaulting hospital staff and drug possession jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with assaulting hospital staff and drug possession jailed")](https://www.derrynow.com/news/local-news/1638681/woman-charged-with-assaulting-hospital-staff-and-drug-possession-jailed.html)
+[![Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans")](https://www.derrynow.com/news/home/1639058/glenshane-community-development-limited-celebrates-35-years-of-community-impact-and-announces-future-plans.html)
+
+The newly appointed committee pictured at the recent AGM.
+
+[Home](https://www.derrynow.com/)
+
+[Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans](https://www.derrynow.com/news/home/1639058/glenshane-community-development-limited-celebrates-35-years-of-community-impact-and-announces-future-plans.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner")](https://www.derrynow.com/news/local-news/1638981/francis-bradley-inquest-use-of-lethal-force-in-1986-shooting-was-justified-coroner.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Woman charged with assaulting hospital staff and drug possession jailed](https://www.derrynow.com/news/local-news/1638681/woman-charged-with-assaulting-hospital-staff-and-drug-possession-jailed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner](https://www.derrynow.com/news/local-news/1638981/francis-bradley-inquest-use-of-lethal-force-in-1986-shooting-was-justified-coroner.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Special train and coach services running for Derry City FC fans travelling to FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Special train and coach services running for Derry City FC fans travelling to FAI Cup Final")](https://www.derrynow.com/news/sport/1638049/special-train-and-coach-services-running-for-derry-city-fc-fans-travelling-to-fai-cup-final.html)
-
-Special train and coach services running for Derry City FC fans travelling to FAI Cup Final
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[Special train and coach services running for Derry City FC fans travelling to FAI Cup Final](https://www.derrynow.com/news/sport/1638049/special-train-and-coach-services-running-for-derry-city-fc-fans-travelling-to-fai-cup-final.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1638644/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+[![UPDATE: Derry City Cemetery road repair works](https://www.derrynow.com/resizer/165/93/true/2024_10_22/Lone_Moor_Road-1729589186625.png--.png?1729589186737 "UPDATE: Derry City Cemetery road repair works")](https://www.derrynow.com/news/local-news/1638915/update-derrycity-cemetery-road-repair-works.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1638644/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[UPDATE: Derry City Cemetery road repair works](https://www.derrynow.com/news/local-news/1638915/update-derrycity-cemetery-road-repair-works.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Musician who told female hospital patient that he had healing hands granted bail](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Musician who told female hospital patient that he had healing hands granted bail")](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Musician who told female hospital patient that he had healing hands granted bail](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Changes to Derry's cemetery opening and closing times](https://www.derrynow.com/resizer/165/93/true/2018/04/30155734/Lead-pic8.jpg--.jpg "Changes to Derry's cemetery opening and closing times")](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
-
-Cemeteries will revert to winter opening hours from this weekend
+[![Visitors advised to plan ahead for Derry Halloween celebrations](https://www.derrynow.com/resizer/165/93/true/2024_10_24/Derry-Halloween-2-1729780249749.jpg--.jpg?1729780251266 "Visitors advised to plan ahead for Derry Halloween celebrations")](https://www.derrynow.com/news/local-news/1638863/visitors-advised-to-plan-ahead-for-derry-halloween-celebrations.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Changes to Derry's cemetery opening and closing times](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Visitors advised to plan ahead for Derry Halloween celebrations](https://www.derrynow.com/news/local-news/1638863/visitors-advised-to-plan-ahead-for-derry-halloween-celebrations.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with arson in which three dogs died bail hearing adjourned](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man charged with arson in which three dogs died bail hearing adjourned")](https://www.derrynow.com/news/local-news/1638623/derry-man-charged-with-arson-in-which-three-dogs-died-bail-hearing-adjourned.html)
+[![Counterfeit goods worth over £200K seized by Trading Standards Officers](https://www.derrynow.com/resizer/165/93/true/2024_10_24/20241017_105258-1729773748840.jpg--.jpg?1729773749476 "Counterfeit goods worth over £200K seized by Trading Standards Officers")](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
+
+Seized goods
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with arson in which three dogs died bail hearing adjourned](https://www.derrynow.com/news/local-news/1638623/derry-man-charged-with-arson-in-which-three-dogs-died-bail-hearing-adjourned.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Counterfeit goods worth over £200K seized by Trading Standards Officers](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man charged with wounding with intent to cause grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
