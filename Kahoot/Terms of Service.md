@@ -10,7 +10,7 @@ Kahoot! at work product resources
 * [Kahoot! Glossary](https://trust.kahoot.com/kahoot-glossary/)
 * [Terms and Conditions](https://trust.kahoot.com/terms-and-conditions/)
 * [User Guides](https://kahoot.com/library/)
-* [Enterprise Agreement](https://trust.kahoot.com/enterprise-agreement/)
+* [Kahoot! Master Service Agreement](https://trust.kahoot.com/kahoot-master-service-agreement/)
 
 [Return to Trust Center](https://trust.kahoot.com/)
 
