@@ -1,16 +1,43 @@
 [](https://vivaldi.com/ "Vivaldi")
 
-* [Browser](https://vivaldi.com/)
+* [Browser](https://vivaldi.com/desktop/)
+    
+    * [Vivaldi on Desktop](https://vivaldi.com/desktop/)
+    * [Vivaldi on Android](https://vivaldi.com/android/)
+    * [Vivaldi on iOS](https://vivaldi.com/ios/)
+    * [Automotive](https://vivaldi.com/android/automotive/)
+    * [Download](https://vivaldi.com/download/)
+    
 * [Mail](https://vivaldi.com/features/mail/)
+    
+    * [Mail](https://vivaldi.com/features/mail/)
+    * [Calendar](https://vivaldi.com/features/calendar/)
+    * [Feed Reader](https://vivaldi.com/features/feed-reader/)
+    
 * [News](https://vivaldi.com/blog/)
+    
+    * [Latest news](https://vivaldi.com/blog/)
+    * [Desktop](https://vivaldi.com/blog/desktop/)
+    * [Android](https://vivaldi.com/blog/android/)
+    * [iOS](https://vivaldi.com/blog/ios/)
+    
 * [Community](https://vivaldi.net/)
-* [About](https://vivaldi.com/company/)
+    
+    * [Vivaldi Social](https://social.vivaldi.net/)
+    * [Community](https://vivaldi.net/)
+    * [Forum](https://forum.vivaldi.net/)
+    * [Themes](https://themes.vivaldi.net/)
+    * [Help/FAQ](https://help.vivaldi.com/)
+    
+* [About](https://vivaldi.com/)
+    
+    * [About Vivaldi](https://vivaldi.com/company/)
+    * [Fight for a better web](https://vivaldi.com/for-a-better-web/)
+    * [We respect your privacy](https://vivaldi.com/we-respect-your-privacy/)
+    * [Donate](https://vivaldi.com/donate/)
+    
 
 [Download](https://vivaldi.com/download/)
-
-Privacy & Terms
-
-[About](https://vivaldi.com/company/)[Privacy & Terms](https://vivaldi.com/privacy/)[Security](https://vivaldi.com/security/)[Press](https://vivaldi.com/press/)
 
 Community - Terms of use
 ========================
@@ -157,19 +184,6 @@ Last modified and effective: November 17, 2022
     * [Websites Privacy policy](https://vivaldi.com/privacy/vivaldi-s-websites/)
     * [Cookie Policy](https://vivaldi.com/privacy/cookie-policy/)
 
-Vivaldi Help
-------------
-
- 
-
-[Help articles](https://help.vivaldi.com/)
-
-[Tutorials](https://help.vivaldi.com/tutorials)
-
-[Ask the community](https://forum.vivaldi.net/)
-
-[Report a bug](https://vivaldi.com/bugreport/)
-
 [**Subscribe to our newsletter**](https://vivaldi.com/newsletter/)
 
 [](https://social.vivaldi.net/@Vivaldi "Vivaldi Social")[](https://www.threads.net/@vivaldibrowser "Threads")[](https://x.com/vivaldibrowser "Twitter")[](https://www.youtube.com/channel/UCHG0CNxmtdl7cXhAV7AZKkQ "Youtube")[](https://www.instagram.com/vivaldibrowser/ "Instagram")[](https://www.facebook.com/vivaldi.browser/ "Facebook")[](https://linkedin.com/company/vivaldi-technologies "LinkedIn")[](https://t.me/vivaldibrowser "Telegram")[](https://www.reddit.com/r/vivaldibrowser/ "Reddit")
@@ -180,8 +194,14 @@ Vivaldi Help
 * [Android](https://vivaldi.com/android/)
 * [iOS](https://vivaldi.com/ios/)
 * [Automotive](https://vivaldi.com/android/automotive/)
-* [Download Vivaldi](https://vivaldi.com/download/)
+* [Download](https://vivaldi.com/download/)
+
+**Features**
+
 * [Features](https://vivaldi.com/features/)
+* [Tabs](https://vivaldi.com/features/tab-management/)
+* [Workspaces](https://vivaldi.com/features/workspaces/)
+* [Ad Blocker](https://vivaldi.com/features/ad-blocker/)
 * [Compare browsers](https://vivaldi.com/compare/)
 
 **Mail**
@@ -195,40 +215,44 @@ Vivaldi Help
 
 * [Vivaldi Blog](https://vivaldi.com/blog/)
 * [Desktop Snapshots](https://vivaldi.com/blog/desktop/snapshots/)
-* [Mobile Snapshots](https://vivaldi.com/blog/mobile/snapshots/)
+* [Android Snapshots](https://vivaldi.com/blog/android/snapshots/)
+* [iOS Snapshots](https://vivaldi.com/blog/ios/snapshots/)
+
+**Community**
+
+* [Vivaldi Social](https://social.vivaldi.net/)
+* [Community](https://vivaldi.net/)
+* [Forum](https://forum.vivaldi.net/)
+* [Themes](https://themes.vivaldi.net/)
+* [Contribute](https://vivaldi.net/contribute/)
+* [Merchandise](https://store.vivaldi.com/)
 
 **Help**
 
-* [Vivaldi Help Pages](https://help.vivaldi.com/)
+* [Help/FAQ](https://help.vivaldi.com/)
 * [Tutorials](https://help.vivaldi.com/tutorials/)
 * [Report a Bug](https://vivaldi.com/bugreport/)
 * [Contact](https://vivaldi.com/contact/)
 
-**Community**
+**Press & Media**
 
-* [Vivaldi Community](https://vivaldi.net/)
-* [Blogs](https://blogs.vivaldi.net/)
-* [Forum](https://forum.vivaldi.net/)
-* [Themes](https://themes.vivaldi.net/)
-* [Social](https://social.vivaldi.net/)
-* [Contribute](https://vivaldi.net/contribute/)
-* [Merchandise](https://store.vivaldi.com/)
-* [Banners](https://vivaldi.com/banners/)
+* [Press & Media](https://vivaldi.com/press/)
+* [Press Releases](https://vivaldi.com/press/releases/)
+* [Press Coverage](https://vivaldi.com/press-coverage/)
+* [Linux Distributions](https://vivaldi.com/partners/linux/)
 
 **About**
 
-* [What We Believe](https://vivaldi.com/company/)
-* [We Respect Your Privacy](https://vivaldi.com/zerotracking/)
-* [Privacy & Terms](https://vivaldi.com/privacy/browser/)
-* [Security](https://vivaldi.com/security/)
+* [About Vivaldi](https://vivaldi.com/company/)
 * [Our Team](https://vivaldi.com/team/)
 * [Jobs](https://vivaldi.com/jobs/)
-* [Press & Media](https://vivaldi.com/press/)
-* [Linux Distributions](https://vivaldi.com/partners/linux/)
-* [Status](https://vivaldistatus.com/)
+* [Fight for a better web](https://vivaldi.com/for-a-better-web/)
+* [We respect your privacy](https://vivaldi.com/we-respect-your-privacy/)
+* [Privacy & Terms](https://vivaldi.com/privacy/browser/)
+* [Security](https://vivaldi.com/security/)
 
 AfrikaansAzərbaycancaбългарскиCatalàČeštinaDanskDeutschEnglishEspañolفارسیSuomiFrançaisGalegoMagyarIndonesiaÍslenskaItaliano日本語関西弁TaqbaylitKurdish한국어NederlandsNorsk bokmålpolskiPortuguês (Brasil)Português (Europeu)РусскийSlovenčinaSlovenščinaСрпскиSrpskiSvenskaTürkçeUkrainian简体中文繁體中文
 
-© Vivaldi Technologies™ — All rights reserved.
+© Vivaldi Technologies™ — All rights reserved. | [Status](https://vivaldistatus.com/)
 
 ![](https://vivaldi.com/rep/rep?idsite=4&rec=1)
