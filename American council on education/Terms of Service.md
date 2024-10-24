@@ -58,7 +58,7 @@ Professional Learning & Communities
 
 [For Employers & Training Providers](https://www.acenet.edu/Programs-Services/Pages/Credit-Transcripts/Employers-Training-Providers.aspx) [For Colleges & Universities](https://www.acenet.edu/Programs-Services/Pages/Credit-Transcripts/Colleges-Universities.aspx) [For Students](https://www.acenet.edu/Programs-Services/Pages/Credit-Transcripts/Students.aspx) [For Faculty](https://www.acenet.edu/Programs-Services/Pages/Credit-Transcripts/Faculty.aspx) [The ACE National Guide](https://www.acenet.edu/National-Guide/Pages/default.aspx) [The ACE Military Guide](https://www.acenet.edu/Programs-Services/Pages/Credit-Transcripts/Military-Guide-Online.aspx)
 
-[Annual Meeting](https://www.aceannualmeeting.org/)
+[ACE Experience](https://acexperience.vfairs.com/)
 
 [Awards](https://www.acenet.edu/Programs-Services/Pages/Annual-Meeting/ACE-Awards.aspx) [Sponsorship Opportunities](https://www.acenet.edu/Membership-Advancement/Pages/Advancement/Annual-Meeting-Opportunities.aspx)
 
