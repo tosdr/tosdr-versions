@@ -2,7 +2,7 @@
 
 Wait: content loading
 
-![Image of an American Flag by a fence](/assets/content/P7QOm6R0/2014/10/08/heroFlagOptimized2.jpg)
+![Image of an American Flag by a fence](/assets/content/5QmVf0H4/heroFlagOptimized2.jpg)
 
 [Legend Bank. Logo links to homepage.](https://www.legend.bank/ "Legend Bank, Bowie, TX")
 
@@ -79,7 +79,6 @@ Search (for mobile)  Submit (mobile) search
     * [Financial Literacy Program](https://www.legend.bank/financial-literacy-program)
     * [Legend Bank Scholarship](https://www.legend.bank/scholarship-application)
     * [Fraud Prevention & Scams](https://www.legend.bank/resources/fraud-prevention)
-    * [Security Information](https://www.legend.bank/resources/security-information)
     * [Financial Calculators](https://www.legend.bank/resources/financial-calculators)
     * [Personal Banking Tools](https://www.legend.bank/resources/personal-banking-tools)
     * [eNotary Service](https://www.legend.bank/enotary-service)
