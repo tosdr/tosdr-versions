@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/walking-in-short-bursts-burns-more-calories-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/women-need-know-about-preventing-first-stroke-1440x810.jpg)
 
-Stop-and-Start Walking May Burn More Calories Than Going Nonstop](https://www.everydayhealth.com/fitness/stop-and-start-walking-may-burn-more-calories-than-nonstop/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+What Women Need to Know About Preventing a First Stroke](https://www.everydayhealth.com/heart-health/what-women-need-to-know-about-preventing-a-first-stroke/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/treehouse-foods-recall-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/e-coli-outbreak-mcdonalds-quarter-pounders-1440x810.jpg)
 
-Frozen Waffles and Pancakes Recalled From Walmart, Target, Publix](https://www.everydayhealth.com/infectious-diseases/frozen-waffles-pancakes-recalled-from-walmart-target-publix/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Multistate E. Coli Outbreak Tied to McDonald’s Quarter Pounders](https://www.everydayhealth.com/infectious-diseases/multistate-e-coli-outbreak-tied-to-mcdonalds/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
