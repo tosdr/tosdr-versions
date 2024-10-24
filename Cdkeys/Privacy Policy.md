@@ -558,53 +558,73 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 1. \-62%](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam)
+1.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 1. \-77%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
     
-    **[Cult of the Lamb PC](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
+    **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
     
-    Special Price $9.69 RRP $25.29
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Train Sim World 4: Flying Scotsman Centenary Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/s/tsm4ce-steam.jpg)   No 2. \-50%](https://www.cdkeys.com/pc/train-sim-world-4-flying-scotsman-centenary-edition-pc)
-    
-    **[Train Sim World 4: Flying Scotsman Centenary Edition PC](https://www.cdkeys.com/pc/train-sim-world-4-flying-scotsman-centenary-edition-pc "Train Sim World 4: Flying Scotsman Centenary Edition PC")**
-    
-    Special Price $19.49 RRP $38.99
+    Special Price $14.89 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Dark Souls III 3 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/0/5050013391782.jpg)   No 3. \-63%](https://www.cdkeys.com/pc/dark-souls-iii-3-pc-cd-key-steam)
+2.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 2. \-30%
     
-    **[Dark Souls III 3 PC](https://www.cdkeys.com/pc/dark-souls-iii-3-pc-cd-key-steam "Dark Souls III 3 PC")**
+    Pre-order DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
     
-    Special Price $23.99 RRP $64.99
+    **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![HELLDIVERS 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-18t175517.723.jpg)   No 4. \-19%](https://www.cdkeys.com/pc/helldivers-2-pc-steam)
-    
-    **[HELLDIVERS 2 PC](https://www.cdkeys.com/pc/helldivers-2-pc-steam "HELLDIVERS 2 PC")**
-    
-    Special Price $32.49 RRP $39.99
+    Special Price $29.89 RRP $42.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Life is Strange: Double Exposure PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange.jpg)   No 5. \-30%
+3.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 3. \-63%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
     
-    Pre-order](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam)
+    **[Warhammer 40,000: Rogue Trader PC](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam "Warhammer 40,000: Rogue Trader PC")**
     
-    **[Life is Strange: Double Exposure PC](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam "Life is Strange: Double Exposure PC")**
+    Special Price $19.49 RRP $51.99
     
-    Special Price $45.49 RRP $64.99
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Worshippers of Cthulhu PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/o/worshippers_of_cthulhu.png)   No 4. \-41%](https://www.cdkeys.com/pc/worshippers-of-cthulhu-pc-steam)
+    
+    **[Worshippers of Cthulhu PC](https://www.cdkeys.com/pc/worshippers-of-cthulhu-pc-steam "Worshippers of Cthulhu PC")**
+    
+    Special Price $16.19 RRP $27.29
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Just Dance 2025 Edition Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/j/u/just_dance_2025_edition_1.png)   No 5. \-33%](https://www.cdkeys.com/xbox-live/just-dance-2025-edition-xbox-series-x-s-ww)
+    
+    **[Just Dance 2025 Edition Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/just-dance-2025-edition-xbox-series-x-s-ww "Just Dance 2025 Edition Xbox Series X|S (WW)")**
+    
+    Special Price $38.99 RRP $58.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Call of Duty: Black Ops 6 - Vault Edition Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_vault_edition_1.jpg)   No 6. \-34%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-vault-edition-xbox-one-and-xbox-series-x-s-ww)
+    
+    **[Call of Duty: Black Ops 6 - Vault Edition Xbox One & Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-vault-edition-xbox-one-and-xbox-series-x-s-ww "Call of Duty: Black Ops 6 - Vault Edition Xbox One & Xbox Series X|S (WW)")**
+    
+    Special Price $85.79 RRP $129.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_cross-gen_bundle_1.jpg)   No 7. \-33%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww)
+    
+    **[Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww "Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)")**
+    
+    Special Price $61.09 RRP $90.99
     
     [Add to Wish List](# "Add to Wish List")
     
