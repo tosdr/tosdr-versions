@@ -159,5 +159,3 @@ About PortableApps.com
 [© 2024](https://portableapps.com/about/copyrights_and_trademarks)  |  [Privacy & Cookie Policy](https://portableapps.com/about/privacy)  |  [Site Terms of Use and Forum Guidelines](https://portableapps.com/forums/guidelines)  
 Developed by [Rare Ideas, LLC](http://rareideas.com/)  |  Designed by DIVIDED and [Rare Ideas, LLC](http://rareideas.com/)  
 Donate with [Credit or Debit Card](https://portableapps.com/donate), [PayPal](https://portableapps.com/donate), [Check / Money Order](https://portableapps.com/donate), [Cryptocurrency](https://portableapps.com/donate)
-
-x
