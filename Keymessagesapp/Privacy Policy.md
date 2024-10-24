@@ -306,23 +306,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDd1WC9tR3kwRU0wZWcyS2hyQ3loL2c9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKwG5Q)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/mg7fg0oHkqa-8djwpLrxt-qn978IW9qYLo6miSZfLD-lJYYgxv0rpG-gRifXDmgh_z0Z=s64)
-
-MailTime: Secure Email Inbox
-
-MailTime
-
-4.1_star_](https://play.google.com/store/apps/details?id=com.mailtime.android)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
-
-Handcent Next SMS messenger
-
-Handcent
-
-4.5_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGxyZmtwMnRHK1I3L1JLSHJzMHgvRWc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljK-VHk)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -332,13 +316,53 @@ Delicious
 
 4.3_star_](https://play.google.com/store/apps/details?id=com.textra)
 
+[![Thumbnail image](https://play-lh.googleusercontent.com/b-QYjEXw_eKbpJfjarg46g-aaBKqtROaQA4LNN_ac6GYvLs0rkPYd2WivyVNCQKcDQ=s64)
+
+ShearShare: Find Space to Work
+
+ShearShare, Inc.
+
+4.5_star_](https://play.google.com/store/apps/details?id=com.shearshare.android)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/I1rEarjkcHM2Yq13tYxJtg8idaYLK6kGXI0AMSm5VLMl5_nPwVuR4UFhAOSZo83CBe8=s64)
+
+Pushbullet: SMS on PC and more
+
+Pushbullet
+
+4.3_star_](https://play.google.com/store/apps/details?id=com.pushbullet.android)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/C1_cSejkK2lK3nf2Unhg1u0WfaktlK20_J5cOswPvvY9gWnrgg_yNyAj_UlkOOKpTMQ=s64)
+
+REVE Antivirus Mobile Security
+
+REVE Antivirus
+
+3.0_star_](https://play.google.com/store/apps/details?id=com.revesoft.reveantivirus)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/37EO8DNvEuJr0EnE6J3uNLXP0hnYOBZeekXwvK0Of8iampCmwD9Z7XOZrEzH8vngjvwQ=s64)
+
+SimpleTexting
+
+SimpleTexting LLC
+
+4.1_star_](https://play.google.com/store/apps/details?id=com.simpletexting.mobile)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/TsoAC0y8wLyWiX19Jh3Q-Fs2EJDHCAxFhGwEsIxjel5AQs73j7g4OdRa6EYx8F2O=s64)
+
+textPlus: Text Message + Call
+
+textPlus
+
+4.0_star_](https://play.google.com/store/apps/details?id=com.gogii.textplus)
+
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
 Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Points](https://play.google.com/store/points/enroll)[Gift cards](https://play.google.com/about/giftcards)[Redeem](https://play.google.com/redeem)[Refund policy](https://support.google.com/googleplay/answer/134336)
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -350,4 +374,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English (United States))
+United States (English)
