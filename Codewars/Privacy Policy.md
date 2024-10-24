@@ -10,7 +10,7 @@ Achieve honor and move up the leaderboards](https://www.codewars.com/users/leade
 
 Learn about all of the different aspects of Codewars](https://docs.codewars.com/)
 
-[Blog](https://www.codewars.com/blog)[For Educators](https://www.codewars.com/partnerships)[For Companies](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)[Codewars Red](https://www.codewars.com/codewars-red)
+[Blog](https://www.codewars.com/blog)[For Educators](https://www.codewars.com/partnerships)[For Companies](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)[Codewars Red](https://www.codewars.com/subscription)
 
 [Log in](https://www.codewars.com/users/sign_in)[Join](https://www.codewars.com/join)
 
