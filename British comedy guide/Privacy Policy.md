@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![The Two Ronnies. Image shows from L to R: Ronnie Corbett, Ronnie Barker. Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_two_ronnies.jpg "The Two Ronnies. Image shows from L to R: Ronnie Corbett, Ronnie Barker. Copyright: BBC")](https://www.comedy.co.uk/quiz/329/) Quiz
+
+[British Comedy Quiz #329](https://www.comedy.co.uk/quiz/329/)
+
 [![Mr Sleepybum. Jody Kamali. Credit: Igor Emerich](https://cdn.comedy.co.uk/images/library/misc/300x200/m/mr_sleepybum.jpg "Mr Sleepybum. Jody Kamali. Credit: Igor Emerich")](https://www.comedy.co.uk/live/random8/jody-kamali/) Live
 
 [Random 8: Jody Kamali](https://www.comedy.co.uk/live/random8/jody-kamali/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Daniel Foxx](https://cdn.comedy.co.uk/images/library/people/300x200/d/daniel_foxx.jpg "Daniel Foxx")](https://www.comedy.co.uk/live/features/daniel-foxx-interview/) Live
 
 [Sketches, stationery and swears - Q&A with Daniel Foxx](https://www.comedy.co.uk/live/features/daniel-foxx-interview/)
-
-[![Image shows left to right: Derek Nimmo, Bill Maynard](https://cdn.comedy.co.uk/images/library/misc/300x200/d/derek_nimmo_bill_maynard.jpg "Image shows left to right: Derek Nimmo, Bill Maynard")](https://www.comedy.co.uk/features/comedy_chronicles/stage-fight/) Features
-
-[Comedy Chronicles: Stage Fight - When comics fall out in plain sight](https://www.comedy.co.uk/features/comedy_chronicles/stage-fight/)
 
 #### Subscribe to our newsletters
 
