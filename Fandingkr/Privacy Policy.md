@@ -35,7 +35,7 @@
 
 [#### **Fanding 개인 정보 처리 방침**](#fanding-개인-정보-처리-방침)
 
-The English personal information processing policy is written at the bottom
+English Privacy Policy is written at the bottom
 
 ● 1. 개인정보 처리방침의 기본 방향
 
@@ -220,6 +220,8 @@ o 단, 귀하께서 쿠키 설치를 거부하였을 경우 서비스 제공에 
 ③ 내부관리계획의 수립 및 시행
 
 개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다.
+
+[#### Fanding Privacy Policy](#fanding-privacy-policy)
 
 ● 1. Basic direction of personal information processing policy
 
@@ -406,5 +408,6 @@ We are implementing measures to manage personal information by designating emplo
 We have established and implemented an internal management plan for the safe processing of personal information.
 
 * [Fanding 개인 정보 처리 방침](#fanding-개인-정보-처리-방침)
+* [Fanding Privacy Policy](#fanding-privacy-policy)
 
 목차
