@@ -306,41 +306,46 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![A conversation with a career coach helped Canva’s Charlotte Anderson realise she wanted to create a new role for herself.](https://static.ffx.io/images/$zoom_0.4816%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_868%2C$y_198/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6bd5a3f2c0384456e75a518fd9fbf6f9f535150b)](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
+[![BHP and ANZ director Christine O’Reilly; Macquarie Group director Rebecca McGrath and AUB chair and CBA director Peter Harmer.](https://static.ffx.io/images/$zoom_0.1695%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fd40025c54d0d873f2ee6ab77659b220a35c0259)](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
 
-### [How execs create their own jobs](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
+### [2024’s most powerful and influential directors revealed](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
 
-* Euan Black
+* 53 mins ago
+* Patrick Durkin
 
-* ### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
+* ### [How execs create their own jobs](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
     
-* ### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
+* ### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2474%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/34d453cde12a9203c38b2a52d9455ccfa70648cf)](https://www.afr.com/life-and-luxury/fashion-and-style/an-emily-in-paris-bag-men-s-undies-and-a-million-dollar-brooch-20241015-p5kiew)
+[![   ](https://static.ffx.io/images/$zoom_0.8126%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1027%2C$y_123/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/198d372855e7c2acdeb481ff0f566cd6d428090a)](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
 
-### [An Emily in Paris bag, men’s undies and a million-dollar brooch](https://www.afr.com/life-and-luxury/fashion-and-style/an-emily-in-paris-bag-men-s-undies-and-a-million-dollar-brooch-20241015-p5kiew)
+### [Michelle Payne can finally enjoy the weekend before Melbourne Cup](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
 
-* Eugenie Kelly
+* 53 mins ago
+* Hannah Tattersall
 
-* ### [Six years on, Lanson Place opens in historic Melbourne building](https://www.afr.com/life-and-luxury/travel/six-years-on-lanson-place-opens-in-historic-melbourne-building-20241011-p5khj6)
+* ### [Bentley puts forward its new face of luxury with a V8 hybrid](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/bentley-puts-forward-its-new-face-of-luxury-with-a-v8-hybrid-20241010-p5khbx)
     
-* ### [Off to the races? Jackie Frank’s advice for dressing the part](https://www.afr.com/life-and-luxury/fashion-and-style/off-to-the-races-jackie-frank-s-advice-for-dressing-the-part-20240912-p5k9zh)
+* ### [The hidden Mediterranean beach where cows outnumber people](https://www.afr.com/life-and-luxury/travel/the-hidden-mediterranean-beach-where-cows-outnumber-people-20240923-p5kcp9)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![xx](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/76090a246e2ff263ffaedcf5fec97f4631c3c53b)](https://www.afr.com/markets/equity-markets/westpac-splits-from-aba-attempted-kidnapping-next-battle-for-offices-20241024-p5kl1h)
+[![ ](https://static.ffx.io/images/$zoom_0.9233%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a7da95b4442cc2d0e83d81fdb073cb0d94dd85aa)](https://www.afr.com/wealth/people/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
-### [Westpac splits from ABA; Attempted kidnapping; Next battle for offices](https://www.afr.com/markets/equity-markets/westpac-splits-from-aba-attempted-kidnapping-next-battle-for-offices-20241024-p5kl1h)
+### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/wealth/people/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
-* ### [Crypto casino Rich Lister victim of attempted kidnapping](https://www.afr.com/wealth/people/crypto-casino-rich-lister-victim-of-attempted-kidnapping-20241024-p5kkyn)
+* 6 mins ago
+* Yolanda Redrup, Lauren Sams and Matthew Drummond
+
+* ### [Australia’s richest people 40 and under break record](https://www.afr.com/wealth/people/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
     
-* ### [The 10 richest young Australians revealed](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
+* ### [Young Rich tells tale of Australia’s technology fortunes](https://www.afr.com/technology/young-rich-tells-tale-of-australia-s-technology-fortunes-20241023-p5kkjg)
     
 
 [The Australian Financial Review](https://www.afr.com/)
