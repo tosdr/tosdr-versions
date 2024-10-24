@@ -547,6 +547,7 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
     * [Public events](https://www.mpi-hd.mpg.de/mpi/en/public/translate-to-english-oeffentliche-veranstaltungen "Public events")
         * [Saturday Morning Physics](https://www.mpi-hd.mpg.de/mpi/en/press-and-public-relations/public-events "Saturday Morning Physics")
         * [„Die Formel des Widerstands“ – Lesung/Buchvorstellung mit Astrid Viciano](https://www.mpi-hd.mpg.de/mpi/en/presse-und-oeffentlichkeit/oeffentliche-veranstaltungen/die-formel-des-widerstands-lesung/buchvorstellung-mit-astrid-viciano "„Die Formel des Widerstands“ – Lesung/Buchvorstellung mit Astrid Viciano")
+        * [Talking Heads](https://www.mpi-hd.mpg.de/mpi/en/public/translate-to-english-oeffentliche-veranstaltungen/talking-heads "Talking Heads")
         * [Advent-Event](https://www.mpi-hd.mpg.de/mpi/en/public/translate-to-english-oeffentliche-veranstaltungen/advent-event "Advent-Event")
     * [News](https://www.mpi-hd.mpg.de/mpi/en/public-relations/news "News")
     * [Reports and Information Material](https://www.mpi-hd.mpg.de/mpi/en/public/reports-and-information-material "Reports and Information Material")
