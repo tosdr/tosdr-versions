@@ -391,24 +391,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Live a Healthy Lifestyle](https://www.wikihow.com/images/thumb/5/5b/Live-a-Healthy-Lifestyle-Step-1-Version-3.jpg/-crop-126-120-126px-Live-a-Healthy-Lifestyle-Step-1-Version-3.jpg)
+
+17 Pro Tips to Start Living a Healthier Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle)
+
+[![Get your Boyfriend to Fall in Love with You](https://www.wikihow.com/images/thumb/0/07/Get-your-Boyfriend-to-Fall-in-Love-with-You-Step-13.jpg/-crop-126-120-126px-Get-your-Boyfriend-to-Fall-in-Love-with-You-Step-13.jpg)
+
+How to  
+Get your Boyfriend to Fall in Love with You](https://www.wikihow.com/Get-your-Boyfriend-to-Fall-in-Love-with-You)
+
+[![Tell Your Dog No](https://www.wikihow.com/images/thumb/8/82/Tell-Your-Dog-No-Step-12-Version-2.jpg/-crop-126-120-126px-Tell-Your-Dog-No-Step-12-Version-2.jpg)
+
+How to  
+Tell Your Dog No](https://www.wikihow.com/Tell-Your-Dog-No)
+
 [![Fall Asleep Fast](https://www.wikihow.com/images/thumb/2/29/Fall-Asleep-Fast-Step-30.jpg/-crop-126-120-126px-Fall-Asleep-Fast-Step-30.jpg)
 
 How to  
 Fall Asleep Faster & Sleep Better at Night](https://www.wikihow.com/Fall-Asleep-Fast)
-
-[![Be Stylish](https://www.wikihow.com/images/thumb/4/45/Be-Stylish-Step-20-Version-4.jpg/-crop-126-120-126px-Be-Stylish-Step-20-Version-4.jpg)
-
-How to  
-Be Stylish](https://www.wikihow.com/Be-Stylish)
-
-[![Decorate a Pumpkin Without Carving It](https://www.wikihow.com/images/thumb/a/a0/Decorate-a-Pumpkin-Without-Carving-It-Step-23.jpg/-crop-126-120-126px-Decorate-a-Pumpkin-Without-Carving-It-Step-23.jpg)
-
-How to  
-Decorate a Pumpkin Without Carving It](https://www.wikihow.com/Decorate-a-Pumpkin-Without-Carving-It)
-
-[![Likable Person Test](https://www.wikihow.com/images/thumb/b/b8/Likeable_person_quiz.png/-crop-126-120-126px-Likeable_person_quiz.png)
-
-Am I a Likable Person Quiz](https://www.wikihow.com/Likable-Person-Test)
 
   
 
@@ -451,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-185
+199
