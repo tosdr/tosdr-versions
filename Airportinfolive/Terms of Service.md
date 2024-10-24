@@ -73,7 +73,7 @@ Any claim related to Airportinfo.live's Website shall be governed by the laws of
 
 [![Airportinfo.live Trustpilot](/images/trustpilot.png)](https://de.trustpilot.com/review/airportinfo.live)
 
-[![Erfahrungen & Bewertungen zu Airportinfo.live](/images/provenexpert.png)](https://www.provenexpert.com/airportinfo-live/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget "Kundenbewertungen & Erfahrungen zu Airportinfo.live. Mehr Infos anzeigen.")
+[![Erfahrungen & Bewertungen zu Airportinfo.live](/images/provenexpert.png)](https://www.provenexpert.com/airportinfo-live/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget "Kundenbewertungen & Erfahrungen zu Airportinfo.live. Mehr Infos anzeigen.") 
 
 Do not share my Personal Information.
 
