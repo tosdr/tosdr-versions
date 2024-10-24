@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Northrop expects next B-21 contract by year’s end](https://www.defensenews.com/air/2024/10/24/northrop-expects-next-b-21-contract-by-years-end/)  
+    10/24/24 01:22pm  
+    
+    Northrop Grumman is trying to bring costs down on the B-21 Raider, which incurred a nearly $1.6 billion loss at the end of 2023. (Giancarlo Casem/Air Force)
+    
 * [Strike, fixed-price contracts leave Boeing defense bleeding cash](https://www.defensenews.com/air/2024/10/23/strike-fixed-price-contracts-leave-boeing-defense-bleeding-cash/)  
     10/23/24 05:11pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/19/24 10:00am  
     
     In this image taken from video released by Russian Defense Ministry Press Service in October 2022, a Yars intercontinental ballistic missile is test-fired as part of Russia's nuclear drills from a launch site in Plesetsk. (Russian Defense Ministry Press Service via AP)
-    
-* [No pilots, all cargo: Airbus tests loading of autonomous helicopter](https://www.defensenews.com/air/2024/10/16/no-pilots-all-cargo-airbus-tests-loading-of-autonomous-helicopter/)  
-    10/16/24 01:00pm  
-    
-    The nose of Airbus's autonomous variant of the UH-72 Lakota would open up, allowing Marines to front load weapons or large cargo. (Airbus)
     
 
 Recent parts by keyword  
