@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Megaship – OOCL Atlanta](/wp-content/thumbnails/3422-100x70.jpg?x53432)
+* [![A Nuclear Family](/wp-content/thumbnails/7399-100x70.jpg?x53432)
     
-    Megaship – OOCL Atlanta
+    A Nuclear Family
     
-    Climb aboard the cargo ship OOCL Atlanta as she journeys from Hong Kong to Singapore. How does a minimal crew keep this 1,000ft-long vessel afloat in treacherous seas?Join a voyage of discovery aboa](https://documentaryheaven.com/megaship-oocl-atlanta/ "Megaship – OOCL Atlanta")
-* [![The Rise and Fall of Nokia](/wp-content/thumbnails/14084-100x70.jpg?x53432)
+    In 1973, a woman walked out on her husband and children. Filmmaker Ian Hawkins was one of those children.A Nuclear Family is the poignant story of an ordinary family dealing with divorce. It’s als](https://documentaryheaven.com/nuclear-family/ "A Nuclear Family")
+* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
     
-    The Rise and Fall of Nokia
+    David Attenborough’s Madagascar
     
-    Nokia is a Finnish multinational company, originally founded in 1865 as a pulp mill the company became famous for its rubber products. In the 1970's Nokia expanded its operations into mobile phones an](https://documentaryheaven.com/rise-fall-of-nokia/ "The Rise and Fall of Nokia")
-* [![Why We Fight](/wp-content/thumbnails/30-100x70.png?x53432)
+    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
+* [![Baadasssss Cinema](/wp-content/thumbnails/2458-100x70.jpg?x53432)
     
-    Why We Fight
+    Baadasssss Cinema
     
-    Why We Fight (2005) is a documentary film directed by Eugene Jarecki about the United States's relationship with war. Its title is an allusion to the World War II-era newsreels of the same name, which](https://documentaryheaven.com/why-we-fight/ "Why We Fight")
-* [![The Assassination of Abraham Lincoln](/wp-content/thumbnails/6036-100x70.jpg?x53432)
+    With archive film clips and interviews, this brief look at a frequently overlooked historical period of filmmaking acts as an introduction rather than a complete record. Features interviews with some](https://documentaryheaven.com/baadasssss-cinema/ "Baadasssss Cinema")
+* [![Paris Is Burning](/wp-content/thumbnails/6532-100x70.jpg?x53432)
     
-    The Assassination of Abraham Lincoln
+    Paris Is Burning
     
-    On July 7, 1865, three men and one woman were hanged for the crime of conspiring to assassinate President Abraham Lincoln.After the surrender of Confederate general Robert E. Lee and the announcemen](https://documentaryheaven.com/the-assassination-of-abraham-lincoln/ "The Assassination of Abraham Lincoln")
-* [![The Syrian Revolution](/wp-content/thumbnails/6527-100x70.jpg?x53432)
+    Paris Is Burning is a 1990 documentary film directed by Jennie Livingston. Filmed in the mid-to-late 1980s, it chronicles the ball culture of New York City and the African American, Latino,](https://documentaryheaven.com/paris-is-burning/ "Paris Is Burning")
+* [![The Counterfeiter](/wp-content/thumbnails/14404-100x70.jpg?x53432)
     
-    The Syrian Revolution
+    The Counterfeiter
     
-    A very raw inside look into the Syrian revolution. This documentary is more of a collection of mobile footage from the inside of Syria itself.This documentary contains scenes, some views may find](https://documentaryheaven.com/the-syrian-revolution/ "The Syrian Revolution")
+    A ESPN 30 for 30 short documentary film which examines the bizarre tale of Greg Marino, a man who has been classed as the worlds greatest counterfeiter by no only those in the industry but also those](https://documentaryheaven.com/counterfeiter/ "The Counterfeiter")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
