@@ -1,7 +1,3 @@
-![Close](https://www.crayon.co/hubfs/Header%20Images/close-ic.svg)
-
-**Ignite your Competitive Enablement Program with Sparks, Crayon's New AI-Research Tool [Register for the webinar!](https://www.crayon.co/sparks/ignite-competitive-enablement)**
-
  [![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg) ![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg)](https://www.crayon.co/)
 
 * [Product](https://www.crayon.co/competitive-intelligence-analysis)
