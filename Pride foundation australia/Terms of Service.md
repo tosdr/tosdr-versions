@@ -40,6 +40,8 @@
     
     [Past Large Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
     
+    [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login)
+    
     ##### Small Grants
     
     [Small Grants Program](https://pridefoundation.org.au/small-grants/)
@@ -161,7 +163,7 @@ This document was last updated on April 4, 2021
 
 ![](https://pridefoundation.org.au/wp-content/uploads/2021/04/pridefoundationlogo-small.png)
 
-![](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-ppij9remiz8dkrb9viwbqvxts33f3g0ywspsjv1knk.png "ACNC-Registered-Charity-Logo_RGB.png")
+![](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-qw0v4m138wsl7vgeutm2yb81482m4qqvmaivge7ftc.png "ACNC-Registered-Charity-Logo_RGB.png")
 
 Pride Foundation Australia acknowledges the traditional custodians of the land on which we operate, in so-called Australia. We acknowledge that sovereignty has never been ceded by Aboriginal and Torres Strait Islander people and that it always was, and always will be Aboriginal land. We pay our respects to the Elders past and present. 
 
@@ -241,7 +243,7 @@ Subscribe
 
 ![](https://pridefoundation.org.au/wp-content/uploads/2021/04/pridefoundationlogo-small.png)
 
-![](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-ppij9remiz8dkrb9viwbqvxts33f3g0ywspsjv1knk.png "ACNC-Registered-Charity-Logo_RGB.png")
+![](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-qw0v4m138wsl7vgeutm2yb81482m4qqvmaivge7ftc.png "ACNC-Registered-Charity-Logo_RGB.png")
 
 Pride Foundation Australia acknowledges the traditional custodians of the land on which we operate, in so-called Australia. We acknowledge that sovereignty has not been ceded to First Nations and remains stolen. We pay our respects to the Elders past, present and emerging. 
 
@@ -266,6 +268,7 @@ Website designed & built by [Twopence Digital](https://twopence.digital/)
 * [Home](https://pridefoundation.org.au/)
 * [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
+* [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login/)
 * [About](#)
     * [About Us](https://pridefoundation.org.au/about-pride-foundation-australia/)
     * [Our Impact](https://pridefoundation.org.au/our-impact/)
