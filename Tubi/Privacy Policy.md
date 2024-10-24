@@ -19,7 +19,7 @@ Slash
 
 privacy
 
-[Facebook](https://www.facebook.com/tubitv)[Instagram](https://www.instagram.com/tubi)[Twitter](https://twitter.com/tubi)[LinkedIn](https://www.linkedin.com/company/tubi-tv/)
+[Facebook](https://www.facebook.com/tubitv/)[Instagram](https://www.instagram.com/tubi)[Twitter](https://x.com/Tubi)[LinkedIn](https://www.linkedin.com/company/tubi-tv/)
 
 * COMPANY
 * [About Us](https://corporate.tubitv.com/)
@@ -60,6 +60,6 @@ Copyright © 2024 Tubi, Inc.
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: 7113d9e2-829a-4e8c-98bf-17e0b5391d2a
+Device ID: 7b9c3dc5-98e5-4516-9c42-6ba354ef086c
 
 Made with Heart in San Francisco
