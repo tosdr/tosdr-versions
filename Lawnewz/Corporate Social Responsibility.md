@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
+1. [![Elon Musk, on the left; embraced by Donald Trump, on the right.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/AP24279764658084-432x243.jpg)](https://lawandcrime.com/high-profile/elon-musks-pro-trump-pac-has-reportedly-been-warned-by-the-feds-over-1-million-lottery-prize-for-registered-voters/)
+    
+    ### [Elon Musk's pro-Trump PAC has reportedly been warned by the feds over $1 million lottery prize for registered voters](https://lawandcrime.com/high-profile/elon-musks-pro-trump-pac-has-reportedly-been-warned-by-the-feds-over-1-million-lottery-prize-for-registered-voters/)
+    
+2. [![U.S. Army Sgt. Sarah Roque](https://am24.mediaite.com/lc/cnt/uploads/2024/10/US.-Army-Sgt.-Sarah-Roque-432x243.jpg)](https://lawandcrime.com/crime/tremendous-void-missing-army-soldier-found-dead-after-mysteriously-disappearing-from-base/)
+    
+    ### ['Tremendous void': Missing Army soldier found dead after mysteriously disappearing from base](https://lawandcrime.com/crime/tremendous-void-missing-army-soldier-found-dead-after-mysteriously-disappearing-from-base/)
+    
+3. [![Alexandria Griste (Oxford, Mississippi Police Dept.)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/adsfadfasdfadf-432x243.jpg)](https://lawandcrime.com/crime/it-went-from-a-heart-in-a-text-message-to-a-bullet-in-his-heart-man-bringing-home-mcdonalds-killed-by-girlfriend-who-warned-hed-be-dead-if-he-returned/)
+    
+    ### ['It went from a heart in a text message to a bullet in his heart': Man bringing home McDonald's killed by girlfriend who warned he'd be 'dead' if he returned](https://lawandcrime.com/crime/it-went-from-a-heart-in-a-text-message-to-a-bullet-in-his-heart-man-bringing-home-mcdonalds-killed-by-girlfriend-who-warned-hed-be-dead-if-he-returned/)
+    
+4. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
     ### [Judge Cannon's Mar-a-Lago dismissal apparently has Trump eyeing her to replace Jack Smith's boss — and an accused would-be assassin noticed](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
-2. [![Inset: Addison Jenkins (Boyd Funeral Home). Background: Boyd Funeral Home (Google Street View).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/boyd-1-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
+5. [![Adiah Roberson and Daniel Shrewsbury](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Adiah-Roberson-and-Daniel-Shrewsbury-432x243.jpg)](https://lawandcrime.com/crime/teen-girl-murdered-sonic-drive-in-manager-after-she-tried-to-use-counterfeit-money-to-pay-for-food-cops/)
     
-    ### [Funeral home shows grieving family wrong body in casket dressed in their father's suit, then insists it's really him: Lawsuit](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
-    
-3. [![Donald Trump Jr., Charlie Kirk](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Trump-Jr-Charlie-Kirk-432x243.jpg)](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
-    
-    ### [High school social studies teacher arrested for threatening Donald Trump Jr. and Charlie Kirk after receiving message about Turning Point rally: Cops](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
-    
-4. [![Inset: Jeffrey Newcomb. Background: A ](https://am22.mediaite.com/lc/cnt/uploads/2024/10/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/bullets-are-expensive-jan-6-rioters-used-mans-massive-700-trump-sign-like-a-battering-ram-against-police-at-the-capitol-feds-say/)
-    
-    ### ['Bullets are expensive': Jan. 6 rioters used man's massive $700 'Trump' sign 'like a battering ram' against police at the Capitol, feds say](https://lawandcrime.com/high-profile/bullets-are-expensive-jan-6-rioters-used-mans-massive-700-trump-sign-like-a-battering-ram-against-police-at-the-capitol-feds-say/)
-    
-5. [![Popular post image](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Yelm-Middle-School-432x243.jpg)](https://lawandcrime.com/high-profile/go-sit-down-teacher-denied-menstruating-middle-school-student-bathroom-access-teen-says/)
-    
-    ### ['Go sit down': Teacher denied menstruating middle-school student bathroom access, teen says](https://lawandcrime.com/high-profile/go-sit-down-teacher-denied-menstruating-middle-school-student-bathroom-access-teen-says/)
+    ### [Teen girl murdered Sonic Drive-In manager after she tried to use counterfeit money to pay for food: Cops](https://lawandcrime.com/crime/teen-girl-murdered-sonic-drive-in-manager-after-she-tried-to-use-counterfeit-money-to-pay-for-food-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
