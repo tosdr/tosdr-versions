@@ -323,6 +323,12 @@ October 1, 2024
 Related Content
 ---------------
 
+### [U.S. Green Ribbon Schools Honorees](https://www2.ed.gov/node/7234)
+
+Find U.S. Green Ribbon Schools Honorees from 2012 through our most recent awards.
+
+October 24, 2024
+
 ### [Negotiated Rulemaking for Higher Education 2018-19](https://www2.ed.gov/node/7211)
 
 This Web page provides the public with background information regarding the Department’s negotiated rulemaking effort to make changes to the regulations for the programs authorized by Title IV of the Higher Education Act of 1965, as amended, in 2018-2019.
@@ -334,12 +340,6 @@ October 21, 2024
 Read Secretary Cardona’s Dear Colleague Letter to state and local government leaders with suggested actions to take to ensure state and local employees have access to Public Service Loan Forgiveness (PSLF).
 
 October 17, 2024
-
-### [Dear Colleague Letter: Executive Order on Supporting HSIs](https://www2.ed.gov/node/7190)
-
-Read Secretary Cardona's Dear Colleague Letter about how Executive Order 14124 reinforces ED's commitment to address inequities faced by HSIs and the students they serve.
-
-October 16, 2024
 
 [Return to top](#)
 
