@@ -35,7 +35,7 @@ Nature's Way
         
     * FEATURED
         
-        * [Back to Balance](https://naturesway.com/collections/back-to-balance)
+        * [Boo-tiful Deals](https://naturesway.com/collections/promotions)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -133,6 +133,7 @@ Nature's Way
         
         * [Alive!®](https://naturesway.com/collections/alive)
         * [Fortify®](https://naturesway.com/collections/fortify)
+        * [Pearls®](https://naturesway.com/collections/pearls)
         * [Sambucus](https://naturesway.com/collections/sambucus)
         * [Umcka®](https://naturesway.com/collections/umcka)
         * [Integrative Therapeutics®](https://naturesway.com/collections/integrative-therapeutics)
@@ -177,7 +178,7 @@ Nature's Way
     
     FEATURED
     
-    * [Back to Balance](https://naturesway.com/collections/back-to-balance)
+    * [Boo-tiful Deals](https://naturesway.com/collections/promotions)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
     * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -266,6 +267,7 @@ Nature's Way
     
     * [Alive!®](https://naturesway.com/collections/alive)
     * [Fortify®](https://naturesway.com/collections/fortify)
+    * [Pearls®](https://naturesway.com/collections/pearls)
     * [Sambucus](https://naturesway.com/collections/sambucus)
     * [Umcka®](https://naturesway.com/collections/umcka)
     * [Integrative Therapeutics®](https://naturesway.com/collections/integrative-therapeutics)
@@ -745,7 +747,11 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 #### Promotions
 
- Up to 25% off Overstock items
+Take 25% off with code SPOOKY25 
+
+Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. Use code SPOOKY25 at checkout. Code good from 10/24 @ 12:01am CDT to 10/31 at 11:59pm CDT. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited. 
+
+Up to 25% off Overstock items
 
 Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/overstock](https://naturesway.com/collections/overstock)\]. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited.  
 
@@ -1305,7 +1311,11 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
- Up to 25% off Overstock items
+Take 25% off with code SPOOKY25 
+
+Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. Use code SPOOKY25 at checkout. Code good from 10/24 @ 12:01am CDT to 10/31 at 11:59pm CDT. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited. 
+
+Up to 25% off Overstock items
 
 Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/overstock](https://naturesway.com/collections/overstock)\]. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited.  
 
