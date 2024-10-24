@@ -116,6 +116,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Marketing](https://fliphtml5.com/learning-center/solution-marketing/)
     * [Education](https://fliphtml5.com/learning-center/solution-edu/)
     * [Embed PDF](https://fliphtml5.com/learning-center/solution-embed-pdf/)
+    * [Chat with PDF](https://fliphtml5.com/features/chat-with-pdf/)
     
     * [Real Estate](https://fliphtml5.com/learning-center/solution-real-estate/)
     * [Travel](https://fliphtml5.com/learning-center/solution-travel/)
@@ -292,6 +293,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
         * [Marketing](https://fliphtml5.com/learning-center/solution-marketing/)
         * [Education](https://fliphtml5.com/learning-center/solution-edu/)
         * [Embed PDF](https://fliphtml5.com/learning-center/solution-embed-pdf/)
+        * [Chat with PDF](https://fliphtml5.com/features/chat-with-pdf/)
     * Industries
         
         * [Real Estate](https://fliphtml5.com/learning-center/solution-real-estate/)
