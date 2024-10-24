@@ -395,6 +395,7 @@ Copyright © Social News Desk, Inc. All Rights Reserved. | [Privacy Policy](http
     * [Blog](https://www.socialnewsdesk.com/resources/)
     * [About Us](https://www.socialnewsdesk.com/about-us/)
     * [Customer Support](https://support.socialnewsdesk.com/)
+* [Pricing](https://www.socialnewsdesk.com/pricing-plans/)
 
 Stay Connected
 
