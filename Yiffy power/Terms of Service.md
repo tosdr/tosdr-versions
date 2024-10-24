@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 782 1
+0 794 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/bandit-heeler-bob-heeler-radley-heeler-and-stripe-heeler-bluey-series-created-by-alexnik/)
+[](https://yiff-party.com/yiff/juno-and-legoshi-beastars-created-by-sugene/)
 
-[bandit heeler, bob heeler, radley heeler, and stripe heeler (bluey (series)) created by alexnik](https://yiff-party.com/yiff/bandit-heeler-bob-heeler-radley-heeler-and-stripe-heeler-bluey-series-created-by-alexnik/)
+[juno and legoshi (beastars) created by sugene](https://yiff-party.com/yiff/juno-and-legoshi-beastars-created-by-sugene/)
 
-0 3 0
+0 2 0
 
 October 24, 2024
 
-[](https://yiff-party.com/yiff/twilight-sparkle-rainbow-dash-fluttershy-pinkie-pie-applejack-and-etc-friendship-is-magic-and-etc-created-by-welost/)
+[](https://yiff-party.com/yiff/cristyfur-created-by-barggmel/)
 
-[twilight sparkle, rainbow dash, fluttershy, pinkie pie, applejack, and etc (friendship is magic and etc) created by welost](https://yiff-party.com/yiff/twilight-sparkle-rainbow-dash-fluttershy-pinkie-pie-applejack-and-etc-friendship-is-magic-and-etc-created-by-welost/)
+[cristyfur created by barggmel](https://yiff-party.com/yiff/cristyfur-created-by-barggmel/)
 
-0 157 0
+0 152 0
 
 September 24, 2024
 
-[](https://yiff-party.com/yiff/theinda-created-by-alna-fratcher/)
+[](https://yiff-party.com/yiff-ai-premium/judy-hopps-directed-by-geidra/)
 
-[theinda created by alna fratcher](https://yiff-party.com/yiff/theinda-created-by-alna-fratcher/)
+[judy hopps directed by geidra](https://yiff-party.com/yiff-ai-premium/judy-hopps-directed-by-geidra/)
 
-0 131 0
+0 70 0
 
 September 24, 2024
 
