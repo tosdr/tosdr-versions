@@ -1,3 +1,7 @@
+Valley is impacted by a nationwide shortage of IV fluids as a result of Hurricane Helene. We are watching the situation closely and working hard to conserve available supplies, but because of the shortage, we may need to reschedule non-emergency surgeries or change some of our hospital procedures. We are committed to continuing to give all patients the highest quality of care. We appreciate your understanding and hope to be back to normal operations soon.
+
+![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
+
 [![uwm-vmc-logo.024c223a](/globalassets/valley-medical/images/uwm-vmc-logo.024c223a.svg)](https://www.valleymed.org/) [![uwm-vmc-logo.024c223a](/contentassets/061a7d3df7f84affbaf7a9d5f8e2ab18/uw-mobile-logo.png)](https://www.valleymed.org/)
 
 * [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
