@@ -1,4 +1,4 @@
-![Facebook Pixel](https://www.facebook.com/tr?id=132824537379946&ev=PageView&noscript=1)        
+![Facebook Pixel](https://www.facebook.com/tr?id=132824537379946&ev=PageView&noscript=1)                
 
 The store will not work correctly when cookies are disabled.
 
