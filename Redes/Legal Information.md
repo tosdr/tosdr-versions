@@ -114,17 +114,17 @@ Noticia
 
 Internacionalización
 
-Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras
+Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
 
-[Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras](http://red.es/es/actualidad/noticias/siete-startups-mujeres-segunda-edicion-desafia-san-francisco "Ir al contenido de: Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras")
+[Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
 
 Noticia
 
 Internacionalización
 
-Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
+Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
 
-[Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
+[Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
