@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Would You Rather Chill with AU or AAU? (80)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (80 posts)")
-* [Would you Live in AN'S (3,801)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (3,801 posts)")
-* [Compliment the Above Nation III (7,239)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (7,239 posts)")
-* [The country game(a roleplay) (8,073)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,073 posts)")
-* [American Politics: Remember, Remember… (2,905)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (2,905 posts)")
+* [Create a word based on last two letters (423)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (423 posts)")
+* [Write a movie/show based in AN's sett… (48)](https://forum.nationstates.net/viewtopic.php?t=555728&f=25&view=unread#unread ""Write a movie/show based in AN's settings" (48 posts)")
+* [UK Politics Thread: Conservative Lead… (11,741)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,741 posts)")
+* [AI Art, Chatbots, and the morality of… (85)](https://forum.nationstates.net/viewtopic.php?t=557028&f=20&view=unread#unread ""AI Art, Chatbots, and the morality of their use." (85 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (12,094)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (12,094 posts)")
 
 Advertisement
 
