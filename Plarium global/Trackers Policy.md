@@ -288,12 +288,12 @@ SwitchCancel
 ##### Vacancies
 
 * [Israel - Herzliya](https://company.plarium.com/en/studio/israel-herzliya/)
-* [Finland - Helsinki](https://company.plarium.com/en/about/)
+* [Finland - Helsinki](https://company.plarium.com/en/studio/finland-helsinki/)
 * [Poland - Warsaw](https://company.plarium.com/en/studio/poland-warsaw/)
 * [Ukraine - Lviv](https://company.plarium.com/en/studio/ukraine-lviv/)
 * [Ukraine - Kyiv](https://company.plarium.com/en/studio/ukraine-kyiv/)
 * [Ukraine - Kharkiv](https://company.plarium.com/en/studio/ukraine-kharkiv/)
-* [Spain - Barcelona](https://company.plarium.com/en/about/)
+* [Spain - Barcelona](https://company.plarium.com/en/studio/spain-barcelona/)
 
 ##### Games
 
