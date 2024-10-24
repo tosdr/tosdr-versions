@@ -189,6 +189,14 @@ Press Releases
 
 [See all press releases](https://www.unitedwayri.org/about-us/newsroom/)
 
+24 Oct
+
+#### [United Way of Rhode Island Receives $20,000 from Point32Health Foundation to Support “United We Vote RI” Campaign](https://www.unitedwayri.org/press-release/united-way-appoints-new-board-members-p-r-2/ "United Way of Rhode Island Receives $20,000 from Point32Health Foundation to Support “United We Vote RI” Campaign")
+
+Providence, R.I. (October 15, 2024) – United Way of Rhode Island has received $20,000 from Point32Health Foundation to support its ongoing “United We Vote RI” campaign as the November election draws closer. The grant is part of a larger investment by the foundation to support advocacy work to promote policies that include the perspective of \[…\]
+
+[Read more](https://www.unitedwayri.org/press-release/united-way-appoints-new-board-members-p-r-2/ "United Way of Rhode Island Receives $20,000 from Point32Health Foundation to Support “United We Vote RI” Campaign")
+
 17 Oct
 
 #### [United Way of Rhode Island Elects New Members to its Board of Directors](https://www.unitedwayri.org/press-release/united-way-appoints-new-board-members-p-r/ "United Way of Rhode Island Elects New Members to its Board of Directors")
@@ -204,14 +212,6 @@ United Way of Rhode Island has installed a slate of five new members to its Boar
 United Way of Rhode Island has named a new chair of its Board of Directors, appointing Paola Fernandez to the volunteer leadership position. Fernandez is SVP, Community Development Officer for Centreville Bank and succeeds Dolph Johnson, retired EVP and Chief Human Resources Officer of Hasbro, Inc., who recently completed his three-year term as chair. Read \[…\]
 
 [Read more](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
-
-16 Sep
-
-#### [United Way Hires Tiffany Reed as Chief Development Officer](https://www.unitedwayri.org/press-release/united-way-hires-tiffany-reed-as-chief-development-officer/ "United Way Hires Tiffany Reed as Chief Development Officer")
-
-United Way of Rhode Island has welcomed a new chief development officer (CDO) to its team. The organization today announced the hiring of Tiffany Reed, who officially began her new role on Sept. 5. Most recently, Reed served as CDO for Tufts Medicine after holding the position of vice president, development, at Tufts Medical Center.
-
-[Read more](https://www.unitedwayri.org/press-release/united-way-hires-tiffany-reed-as-chief-development-officer/ "United Way Hires Tiffany Reed as Chief Development Officer")
 
 UPCOMING EVENTS
 ---------------
