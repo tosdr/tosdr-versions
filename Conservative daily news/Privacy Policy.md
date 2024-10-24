@@ -181,6 +181,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NRA Debuts Smallbore Position Championship, Service Rifle Shooter Dominates High Power Field: 1957 National Matches](https://www.thegunpage.com/nra-debuts-smallbore-position-championship-service-rifle-shooter-dominates-high-power-field-1957-national-matches/10611414)
+* [Classic SSUSA: Steel Magnolias](https://www.thegunpage.com/classic-ssusa-steel-magnolias/10611415)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 6](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-6/10611409)
 * [Wheelgun Wednesday: Ruger New Model Blackhawk Convertible](https://www.thegunpage.com/wheelgun-wednesday-ruger-new-model-blackhawk-convertible/10611410)
 * [POTD: Jack Carr – Bravo Company USA](https://www.thegunpage.com/potd-jack-carr-bravo-company-usa/10611411)
@@ -189,8 +191,6 @@ Recent Posts
 * [Mimic Your Match Rifle Loads With Hornady Aeromatch Bullets](https://www.thegunpage.com/mimic-your-match-rifle-loads-with-hornady-aeromatch-bullets/10611406)
 * [KRG Now Shipping Echo Chassis for Tikka Rifles](https://www.thegunpage.com/krg-now-shipping-echo-chassis-for-tikka-rifles/10611407)
 * [2025 NRA National Indoor Sectional Championships: Tournament Sanctioning To Begin Dec. 1, 2024](https://www.thegunpage.com/2025-nra-national-indoor-sectional-championships-tournament-sanctioning-to-begin-dec-1-2024/10611408)
-* [All American Hunters Should Be Warned by Colorado’s Proposed Ban on Mountain Lion Hunting](https://www.thegunpage.com/all-american-hunters-should-be-warned-by-colorados-proposed-ban-on-mountain-lion-hunting/10611400)
-* [GOA, GOF Coalition Urge Judge to Make Final Ruling on Universal Registration Check Rule](https://www.thegunpage.com/goa-gof-coalition-urge-judge-to-make-final-ruling-on-universal-registration-check-rule/10611401)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
