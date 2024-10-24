@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/wilson-sheridan-mcdonalds-041A-b-Mark-Weyermuller--326x245.jpg)](https://cwbchicago.com/2024/10/update-man-shot-on-mcdonalds-parking-lot-has-died.html "Update: Man shot on McDonald’s parking lot has died")
+
+Uptown
+
+### [Update: Man shot on McDonald’s parking lot has died](https://cwbchicago.com/2024/10/update-man-shot-on-mcdonalds-parking-lot-has-died.html "Update: Man shot on McDonald’s parking lot has died")
+
+[October 19, 2024 9:46 AM](https://cwbchicago.com/2024/10)
+
+The man shot while sitting in a McDonald’s parking lot in Uptown on Friday afternoon has died.[](https://cwbchicago.com/2024/10/update-man-shot-on-mcdonalds-parking-lot-has-died.html "Update: Man shot on McDonald’s parking lot has died")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Angel-Ayala-Brenndon-Struck-and-Nichole-Osborne.-Chicago-Police-Department-GoFundMe-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-32-years-for-murdering-woman-during-puerto-rican-fest-celebrations.html "Man gets 32 years for murdering woman during Puerto Rican Fest celebrations")
+
+Humboldt Park
+
+### [Man gets 32 years for murdering woman during Puerto Rican Fest celebrations](https://cwbchicago.com/2024/10/man-gets-32-years-for-murdering-woman-during-puerto-rican-fest-celebrations.html "Man gets 32 years for murdering woman during Puerto Rican Fest celebrations")
+
+[October 19, 2024 9:19 AM](https://cwbchicago.com/2024/10)
+
+A judge on Friday sentenced a man to 32 years in prison for murdering a woman and shooting a tourist during Puerto Rican Fest celebrations in Humboldt Park three years ago.[](https://cwbchicago.com/2024/10/man-gets-32-years-for-murdering-woman-during-puerto-rican-fest-celebrations.html "Man gets 32 years for murdering woman during Puerto Rican Fest celebrations")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Ashanti-Randolph-326x245.jpg)](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
 
 West Loop
@@ -252,26 +272,6 @@ West Loop
 [October 19, 2024 8:20 AM](https://cwbchicago.com/2024/10)
 
 A Chicago man smiled broadly for his mugshot as prosecutors charged him with murdering a man in the West Loop last month.[](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Keondre-Pitts-326x245.jpg)](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
-
-Goose Island
-
-### [Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
-
-[October 18, 2024 8:01 PM](https://cwbchicago.com/2024/10)
-
-A man with two carjacking cases pending in juvenile court teamed up with a 13-year-old to carjack a man at gunpoint near Goose Island, officials say.[](https://cwbchicago.com/2024/10/man-teamed-up-with-armed-13-year-old-to-carjack-driver-near-goose-island-prosecutors-say.html "Man teamed up with armed 13-year-old to carjack driver near Goose Island, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/wilson-sheridan-mcdonalds-041A-Mark-Weyermuller-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
-
-Uptown
-
-### [Man shot, critically wounded on McDonald’s parking lot in Uptown](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
-
-[October 18, 2024 7:26 PM](https://cwbchicago.com/2024/10)
-
-A man was shot and critically injured in a McDonald’s parking lot in Uptown on Friday afternoon, Chicago police said. He is the third person shot in Uptown this week.[](https://cwbchicago.com/2024/10/man-shot-critically-wounded-on-mcdonalds-parking-lot-in-uptown.html "Man shot, critically wounded on McDonald’s parking lot in Uptown")
 
 Search
 
