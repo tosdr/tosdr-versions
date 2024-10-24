@@ -842,11 +842,11 @@ The content of the table above is for your general information and use only. Coo
 
 GET IN TOUCH
 
-[![](https://images.smartproxy.com/support_icon_footer_4b408c63fa/support_icon_footer_4b408c63fa.svg)](https://direct.lc.chat/12092754)[\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection)[![](https://images.smartproxy.com/skype_1_c22723b656/skype_1_c22723b656.png?format=webp)](https://join.skype.com/invite/bZDHw4NZg2G9)[![](https://images.smartproxy.com/telegram_app_1_de96c88237/telegram_app_1_de96c88237.svg)](https://t.me/smartproxy_com)
+[![](https://images.smartproxy.com/support_icon_footer_4b408c63fa/support_icon_footer_4b408c63fa.svg)](https://direct.lc.chat/12092754)[\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection)[![](https://images.smartproxy.com/skype_1_c22723b656/skype_1_c22723b656.png?format=webp)](https://join.skype.com/invite/bZDHw4NZg2G9)[![](https://images.smartproxy.com/telegram_app_1_7575238128/telegram_app_1_7575238128.svg)](https://t.me/smartproxy_com)
 
 FOLLOW US
 
-[![](https://images.smartproxy.com/youtube_327e2e9c54/youtube_327e2e9c54.svg)](https://www.youtube.com/smartproxy)[![](https://images.smartproxy.com/github_c8c0750fcd/github_c8c0750fcd.svg)](https://github.com/Smartproxy)[![](https://images.smartproxy.com/linkedin_4e946cf61e/linkedin_4e946cf61e.svg)](https://www.linkedin.com/company/smartproxy/)[![](https://images.smartproxy.com/discord_81c117eec2/discord_81c117eec2.svg)](https://discord.com/invite/gvJhWJPaB4)
+[![](https://images.smartproxy.com/youtube_327e2e9c54/youtube_327e2e9c54.svg)](https://www.youtube.com/smartproxy)[![](https://images.smartproxy.com/github_c8c0750fcd/github_c8c0750fcd.svg)](https://github.com/Smartproxy)[![](https://images.smartproxy.com/linkedin_4e946cf61e/linkedin_4e946cf61e.svg)](https://www.linkedin.com/company/smartproxy/)[![](https://images.smartproxy.com/discord_50c6cf0687/discord_50c6cf0687.svg)](https://discord.com/invite/gvJhWJPaB4)
 
 COMPANY
 
