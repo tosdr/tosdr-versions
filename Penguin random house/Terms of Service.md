@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
     
-    Books Bans Are on the Rise in America
+    33 Halloween Books for Little Pumpkins
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     New Stories to Listen to
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
-
-* * *
-
-* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
-    
-    33 Halloween Books for Little Pumpkins
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
 
 * <
     
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[A Guide to Truman Capote Books
+[A Guide to Stephen King Books
 
-Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
