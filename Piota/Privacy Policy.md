@@ -1,57 +1,66 @@
-![](https://px.ads.linkedin.com/collect/?pid=5112322&fmt=gif)                  Data Protection Policy | Piota Apps                      
+[Skip to content](#main)
 
-top of page
+[](https://www.piota.co.uk/)
+
+* [School Apps](https://www.piota.co.uk/student-performance/)
+    * [School App Features](https://www.piota.co.uk/school-app-features/)
+* [Charity Apps](https://www.piota.co.uk/charity-apps/)
+    * [Charity App Features](https://www.piota.co.uk/charity-app-features/)
+* [Community Apps](https://www.piota.co.uk/community-apps/)
+    * [Community App Features](https://www.piota.co.uk/community-app-features/)
+* [Guides & Resources](https://www.piota.co.uk/guides-resources/)
+    * [Case Studies](https://www.piota.co.uk/case-studies/)
+* [Contact Us](https://www.piota.co.uk/contact-us/)
+
+Book Appointment Now
 
 [Free Trial](https://www.piota.co.uk/free-trial)
 
-[![White Horiz.png](https://static.wixstatic.com/media/ed9ffe_57e6f452c19e46c9aa50073fe711aee3~mv2.png/v1/fill/w_207,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/White%20Horiz.png)](https://www.piota.co.uk/)
+[](#)[](#)[](#)
 
-[![!Primary White SP.png](https://static.wixstatic.com/media/8f7070_37a8161d9cff4cdf99529d144a01770d~mv2.png/v1/fill/w_249,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/!Primary%20White%20SP.png)](https://www.siliconpractice.co.uk/?utm_source=Piota&utm_medium=Website+&utm_campaign=x)
+[![Piota](https://www.piota.co.uk/wp-content/uploads/2024/06/Piota-logo.png)](https://www.piota.co.uk/)
 
-[Request Quote](https://www.piota.co.uk/get-a-free-quote)
+* [School Apps](https://www.piota.co.uk/student-performance/)
+    * [School App Features](https://www.piota.co.uk/school-app-features/)
+* [Charity Apps](https://www.piota.co.uk/charity-apps/)
+    * [Charity App Features](https://www.piota.co.uk/charity-app-features/)
+* [Community Apps](https://www.piota.co.uk/community-apps/)
+    * [Community App Features](https://www.piota.co.uk/community-app-features/)
+* [Guides & Resources](https://www.piota.co.uk/guides-resources/)
+    * [Case Studies](https://www.piota.co.uk/case-studies/)
+* [Contact Us](https://www.piota.co.uk/contact-us/)
 
-* [Home](https://www.piota.co.uk/)
-* [School](https://www.piota.co.uk/school-apps)
-* [Healthcare](https://www.piota.co.uk/healthcare-apps)
-    * [Patient Feedback](https://www.piota.co.uk/patient-feedback)
-    * [Primary Care](https://www.piota.co.uk/primary-care)
-* [Case Studies](https://www.piota.co.uk/case-studies)
-* [About Us](https://www.piota.co.uk/about-piota)
-* [Webinars](https://www.piota.co.uk/webinars)
-* [Guides & Resources](https://www.piota.co.uk/guides-resources)
-* [Contact Us](https://www.piota.co.uk/contact-us)
-* [Services](https://www.piota.co.uk/)
-* More
-    
+[Free Trial](https://www.piota.co.uk/free-trial)
 
-Use tab to navigate through the menu items.
+[![Piota](https://www.piota.co.uk/wp-content/uploads/2024/06/Piota-logo.png)](https://www.piota.co.uk/)
 
-Data Protection Policy – Schappit Ltd / Piota Apps
-==================================================
+Menu
 
-​​
-==
+[Home](https://www.piota.co.uk/) Data Protection Policy
 
-1. Introduction
-    
+Data Protection Policy – Schappit Ltd / Piota Apps ​​
+-----------------------------------------------------
+
+![](https://www.piota.co.uk/wp-content/uploads/2024/08/Data-Protection.png)
+
+Data Protection Policy – Schappit Ltd / Piota Apps ​​
+-----------------------------------------------------
+
+September 2024  
+  
+  **1. Introduction**
 
 This Policy sets out the obligations of Schappit Ltd (trading as Piota Apps), a company registered in the United Kingdom under number 09084187, whose registered office is at Oak Business Centre, 79-93 Radcliffe Road, Sileby, Leicester, LE12 7PU (“the Company” or “Us”) regarding data protection and the rights of clients, end users of our app products, and Schappit’s employees and contracted personnel (“data subjects”) in respect of their personal data under UK General Data Protection Regulation (“GDPR”) and the Data Protection Act 2018 (amended).
 
 The GDPR defines “personal data” as any information relating to an identified or identifiable natural person (a “data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person.
 
-​
+​The Company is a data controller in respect of information such as Company personnel data and marketing data, and a data processor in respect of information such as data transmitted and displayed on its mobile app products supplied to clients (see Part 20).
 
-The Company is a data controller in respect of information such as Company personnel data and marketing data, and a data processor in respect of information such as data transmitted and displayed on its mobile app products supplied to clients (see Part 20).
-
-​
-
-This Policy sets the Company’s obligations as a data controller and data processor regarding the collection, processing, transfer, storage, and disposal of personal data. The procedures and principles set out herein must be followed at all times by the Company, its employees, agents, contractors, or other parties working on behalf of the Company.
+​This Policy sets the Company’s obligations as a data controller and data processor regarding the collection, processing, transfer, storage, and disposal of personal data. The procedures and principles set out herein must be followed at all times by the Company, its employees, agents, contractors, or other parties working on behalf of the Company.
 
 The Company is committed not only to the letter of the law, but also to the spirit of the law and places high importance on the correct, lawful, and fair handling of all personal data, respecting the legal rights, privacy, and trust of all individuals with whom it deals.
 
-​
-
-2\. The Data Protection Principles
+**​2\. The Data Protection Principles**
 
 This Policy aims to ensure compliance with the GDPR. The GDPR sets out the following principles with which any party handling personal data must comply. All personal data must be:
 
@@ -67,7 +76,7 @@ This Policy aims to ensure compliance with the GDPR. The GDPR sets out the follo
 
 (f) Processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction, or damage, using appropriate technical or organisational measures
 
-3\. The Rights of Data Subjects
+**3\. The Rights of Data Subjects**
 
 The GDPR sets out the following rights applicable to data subjects (please refer to the parts of this policy indicated for further details):
 
@@ -87,11 +96,7 @@ The GDPR sets out the following rights applicable to data subjects (please refer
 
 (h) Rights with respect to automated decision-making (Part 19).
 
-​
-
-​
-
-4\. Lawful, Fair, and Transparent Data Processing
+**​4\. Lawful, Fair, and Transparent Data Processing**
 
  (a) The GDPR seeks to ensure that personal data is processed lawfully, fairly, and transparently, without adversely affecting the rights of the data subject. The GDPR states that processing of personal data shall be lawful if at least one of the following applies:
 
@@ -129,7 +134,7 @@ The GDPR sets out the following rights applicable to data subjects (please refer
 
 (x) The processing is necessary for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes in accordance with Article 89(1) of the GDPR based on EU or EU Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection, and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.
 
-5\. Specified, Explicit, and Legitimate Purposes
+**5\. Specified, Explicit, and Legitimate Purposes**
 
 (a) The Company collects and processes the personal data set out in Part 20 of this Policy.
 
@@ -143,11 +148,11 @@ This includes:
 
 (c) Data subjects are kept informed at all times of the purpose or purposes for which the Company uses their personal data. Please refer to Part 12 for more information on keeping data subjects informed.
 
-6\. Adequate, Relevant, and Limited Data Processing
+**6\. Adequate, Relevant, and Limited Data Processing**
 
 The Company will only collect and process personal data for and to the extent necessary for the specific purpose or purposes of which data subjects have been informed (or will be informed) as under Part 5, above, and as set out in Part 20, below.
 
-7\. Accuracy of Data and Keeping Data Up-to-Date
+**7\. Accuracy of Data and Keeping Data Up-to-Date**
 
 (a) In cases when the Company is the data controller:
 
@@ -157,29 +162,29 @@ The Company will only collect and process personal data for and to the extent ne
 
 (b) In cases when the Company is the data processor the Company shall not check that all personal data processed, and held by it is accurate and up-to-date. but will assist the data controller to rectify personal data at the request of a data subject, as set out in Part 14, below, if required.
 
-8\. Data Retention
+**8\. Data Retention**
 
 (a) The Company shall not keep personal data for any longer than is necessary in light of the purpose or purposes for which that personal data was originally collected, held, and processed.
 
 (b) When personal data is no longer required, all reasonable steps will be taken to erase or otherwise dispose of it within 2 months thereafter, subject to any legal obligation on Schappit to retain the personal data.
 
-9\. Secure Processing
+**9\. Secure Processing**
 
 The Company shall ensure that all personal data collected, held, and processed is kept secure and protected against unauthorised or unlawful processing and against accidental loss, destruction, or damage. Further details of the technical and organisational measures which shall be taken are provided in Parts 21 to 28 of this Policy.
 
-10\. Accountability and Record-Keeping
+**10\. Accountability and Record-Keeping**
 
-(a) The Company’s Data Protection Officer (DPO) is Andrew Snow, [asnow@ukprivacyconsultants.co.uk, 07711080188](mailto:asnow@ukprivacyconsultants.co.uk).
+(a) The Company’s Data Protection Officer (DPO) is Andrew Snow, [asnow@ukprivacyconsultants.co.uk, 07711080188](mailto:asnow@ukprivacyconsultants.co.uk).
 
 (b) The Data Protection Officer shall be responsible for overseeing the implementation of this Policy and for monitoring compliance with this Policy, the Company’s other data protection-related policies, and with the GDPR and other applicable data protection legislation.
 
 (c) In appointing a Data Protection Officer we have considered the following sources amongst others:
 
-(i) Articles 37, 38 and 39 of the [GDPR Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) of the European Parliament, 27 April 2016
+(i) Articles 37, 38 and 39 of the [GDPR Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) of the European Parliament, 27 April 2016
 
-(ii) ICO website, in particular the [Data Protection Officers section](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers/)
+(ii) ICO website, in particular the [Data Protection Officers section](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-officers/)
 
-(iii) The Article 29 Working Party [guidelines on](http://ec.europa.eu/newsroom/document.cfm?doc_id=47741) Data Protection Officers, 5 April 2017
+(iii) The Article 29 Working Party [guidelines on](http://ec.europa.eu/newsroom/document.cfm?doc_id=47741) Data Protection Officers, 5 April 2017
 
 (d) The Company shall keep written internal records of all personal data collection, holding, and processing, which shall incorporate the following information:
 
@@ -195,9 +200,7 @@ The Company shall ensure that all personal data collected, held, and processed i
 
 (vi) Detailed descriptions of all technical and organisational measures taken by the Company to ensure the security of personal data.
 
-​
-
-11\. Data Protection Impact Assessments
+**​11\. Data Protection Impact Assessments**
 
 (a) The Company shall carry out Data Protection Impact Assessments for any and all new projects and/or new uses of personal data which might result in a high risk to the rights and freedoms of data subjects under the GDPR.
 
@@ -221,7 +224,7 @@ The Company shall ensure that all personal data collected, held, and processed i
 
 (ix) Proposed measures to minimise and handle identified risks.
 
-12\. Keeping Data Subjects Informed
+**12\. Keeping Data Subjects Informed**
 
 (a) The Company shall provide the information set out in Part 12.2 to every data subject:
 
@@ -261,7 +264,7 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (xii) Details of any automated decision-making or profiling that will take place using the personal data, including information on how decisions will be made, the significance of those decisions, and any consequences.
 
-13\. Data Subject Access
+**13\. Data Subject Access**
 
 (a) Data subjects may make subject access requests (“SARs”) at any time to find out more about the personal data which the Company holds about them, what it is doing with that personal data, and why.
 
@@ -271,9 +274,9 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (d) All SARs received shall be handled by the Company’s Data Protection Officer.
 
-(e) The Company charges no fees for the handling of a normal SAR, or an Education or Health SAR.[.](https://ico.org.uk/media/for-organisations/documents/2014223/subject-access-code-of-practice.pdf).) The Company reserves the right to charge reasonable fees for additional copies of information that has already been supplied to a data subject, and for requests that are manifestly unfounded or excessive, particularly where such requests are repetitive.
+(e) The Company charges no fees for the handling of a normal SAR, or an Education or Health SAR.[.](https://ico.org.uk/media/for-organisations/documents/2014223/subject-access-code-of-practice.pdf).) The Company reserves the right to charge reasonable fees for additional copies of information that has already been supplied to a data subject, and for requests that are manifestly unfounded or excessive, particularly where such requests are repetitive.
 
-14\. Rectification of Personal Data
+**14\. Rectification of Personal Data**
 
 (a) Data subjects have the right to require the Company to rectify any of their personal data that is inaccurate or incomplete.
 
@@ -281,7 +284,7 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (c) In the event that any affected personal data has been disclosed to third parties, those parties shall be informed of any rectification that must be made to that personal data.
 
-15\. Erasure of Personal Data
+**15\. Erasure of Personal Data**
 
 (a) Data subjects have the right to request that the Company erases the personal data it holds about them in the following circumstances:
 
@@ -301,13 +304,13 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (c) In the event that any personal data that is to be erased in response to a data subject’s request has been disclosed to third parties, those parties shall be informed of the erasure (unless it is impossible or would require disproportionate effort to do so).
 
-16\. Restriction of Personal Data Processing
+**16\. Restriction of Personal Data Processing**
 
 (a) Data subjects may request that the Company ceases processing the personal data it holds about them. If a data subject makes such a request, the Company shall retain only the amount of personal data concerning that data subject (if any) that is necessary to ensure that the personal data in question is not processed further.
 
 (b) In the event that any affected personal data has been disclosed to third parties, those parties shall be informed of the applicable restrictions on processing it (unless it is impossible or would require disproportionate effort to do so).
 
-17\. Data Portability
+**17\. Data Portability**
 
 (a) The Company processes personal data using automated means, for example automatically uploading personal data daily to the app’s database.
 
@@ -319,7 +322,7 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (e) All requests for copies of personal data shall be complied with within one month of the data subject’s request. The period can be extended by up to two months in the case of complex or numerous requests. If such additional time is required, the data subject shall be informed.
 
-18\. Objections to Personal Data Processing
+ **18\. Objections to Personal Data Processing**
 
 (a) Data subjects have the right to object to the Company processing their personal data based on legitimate interests, direct marketing (including profiling), and processing for scientific and/or historical research and statistics purposes.
 
@@ -329,7 +332,7 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (d) Where a data subject objects to the Company processing their personal data for scientific and/or historical research and statistics purposes, the data subject must, under the GDPR, “demonstrate grounds relating to his or her particular situation”. The Company is not required to comply if the research is necessary for the performance of a task carried out for reasons of public interest.
 
-19\. Automated Decision-Making
+**19\. Automated Decision-Making**
 
 (a) The Company uses personal data in automated decision-making processes, for example in its email marketing activities.
 
@@ -343,7 +346,7 @@ C. as soon as reasonably possible and in any event not more than one month after
 
 (iii) The data subject has given their explicit consent.
 
-20\. Personal Data Collected, Held, and Processed
+**20\. Personal Data Collected, Held, and Processed**
 
 The following personal data is collected, held, and processed by the Company:
 
@@ -365,7 +368,7 @@ The following personal data is collected, held, and processed by the Company:
 
 (iv) CMS Forms and Surveys. Details contained in eg absence reports, sickness reports, change of contact forms, consent forms, surveys. All may include personal information if the data controller chooses to ask for it. (Reason for processing: Streamlining admin tasks via the app)
 
-21\. Personal Data Shared With Sub-Processors
+**21\. Personal Data Shared With Sub-Processors**
 
 The following Sub-Processors are used by the Company to collect, hold, and process data of which it is data controller and/or data processor. The Company will not use the services of any Sub-Processor which cannot demonstrate compliance with GDPR and other applicable data legislation.
 
@@ -395,7 +398,7 @@ The following Sub-Processors are used by the Company to collect, hold, and proce
 
 (m) Groupcall: Family name; first name; year; class; group; connected persons’ phone numbers and email addresses. (Reason for processing: App end user registration)
 
-22\. Data Security – Transferring Personal Data and Communications
+**22\. Data Security – Transferring Personal Data and Communications**
 
 The Company shall ensure that the following measures are taken with respect to all communications and other transfers involving personal data:
 
@@ -411,7 +414,7 @@ The Company shall ensure that the following measures are taken with respect to a
 
 (f) All personal data to be transferred physically, whether in hardcopy form or on removable electronic media shall be transferred in a suitable container marked “confidential”.
 
-23\. Data Security – Storage
+ **23\. Data Security – Storage**
 
 The Company shall ensure that the following measures are taken with respect to the storage of personal data:
 
@@ -425,11 +428,11 @@ The Company shall ensure that the following measures are taken with respect to t
 
 (e) Personal data may only be transferred to devices belonging to agents, contractors, or other parties working on behalf of the Company where the party in question has agreed to comply fully with the letter and spirit of this Policy and of the GDPR.
 
-24\. Data Security – Disposal
+**24\. Data Security – Disposal**
 
 When any personal data is to be erased or otherwise disposed of for any reason (including where copies have been made and are no longer needed), it should be securely deleted and disposed of.
 
-25\. Data Security – Use of Personal Data
+ **25\. Data Security – Use of Personal Data**
 
 The Company shall ensure that the following measures are taken with respect to the use of personal data:
 
@@ -443,7 +446,7 @@ The Company shall ensure that the following measures are taken with respect to t
 
 (e) Where personal data held by the Company is used for marketing purposes, it shall be the responsibility of the Marketing Director to ensure that the appropriate consent is obtained and that no data subjects have opted out, whether directly or via a third-party service such as the TPS.
 
-26\. Data Security – IT Security
+ **26\. Data Security – IT Security**
 
 The Company shall ensure that the following measures are taken with respect to IT and information security:
 
@@ -457,7 +460,7 @@ The Company shall ensure that the following measures are taken with respect to I
 
 (e) A log will be maintained of all Company-owned devices and personal devices used by any employees, agents, contractors, or other parties working on behalf of the Company and appropriate device settings activated such that the Company can remotely delete data from any devices lost or stolen.
 
-27\. Organisational Measures
+**27\. Organisational Measures**
 
 The Company shall ensure that the following measures are taken with respect to the collection, holding, and processing of personal data:
 
@@ -483,9 +486,7 @@ The Company shall ensure that the following measures are taken with respect to t
 
 (k) Where any agent, contractor or other party working on behalf of the Company handling personal data fails in their obligations under this Policy that party shall indemnify and hold harmless the Company against any costs, liability, damages, loss, claims or proceedings which may arise out of that failure.
 
-​
-
-28\. Transferring Personal Data to a Country Outside the EEA
+**​28\. Transferring Personal Data to a Country Outside the EEA**
 
 (a) The Company will take all reasonable measures to ensure data remains inside the EEA region but it may from time to time transfer (‘transfer’ includes making available remotely) personal data to countries outside of the EEA. For example, internet networks are designed to transmit email messages by the most efficient route available at the time without regard to geography.
 
@@ -509,7 +510,7 @@ The Company shall ensure that the following measures are taken with respect to t
 
 (ix) The transfer is made from a register that, under UK or EU law, is intended to provide information to the public and which is open for access by the public in general or otherwise to those who are able to show a legitimate interest in accessing the register.
 
-29\. Data Breach Notification
+**29\. Data Breach Notification**
 
 (a) All personal data breaches must be reported immediately to the Company’s Data Protection Officer.
 
@@ -529,47 +530,34 @@ The Company shall ensure that the following measures are taken with respect to t
 
 (v) Details of the measures taken, or proposed to be taken, by the Company to address the breach including, where appropriate, measures to mitigate its possible adverse effects.
 
-30\. Implementation of Policy
+**30\. Implementation of Policy**
 
 This Policy shall be deemed effective as of 16 March 2018. No part of this Policy shall have retroactive effect and shall thus apply only to matters occurring on or after this date.
 
-March 2022
+### Have any questions?
 
-© 2024 Piota
+#### Feel free to contact us anytime - (+44) 01702 780051
 
-​
+About Us
+--------
+
+Piota brings engagement into the digital age for organisations of all description. Whether it's schools, charities  or even local sports teams and youth clubs, our apps can reach networks far and wide to deliver the information your community needs directly and instantly.
+
+![](https://piota.nedtechnology.co.in/wp-content/uploads/2024/07/put.png)
+
+![](https://piota.nedtechnology.co.in/wp-content/uploads/2024/06/Piota-logo-1024x297.png)
+
+Address
+-------
 
 Oak Business Centre  
 79-93 Ratcliffe Road  
-Sileby
-
+Sileby  
 Leicester  
 LE12 7PU
 
-​
-
 01702 780051
 
-* [](https://www.linkedin.com/company/piota)
-* [](https://www.youtube.com/@piotaapps)
-* [](https://twitter.com/PiotaApps)
+[Privacy Policy](https://www.piota.co.uk/privacy-cookies-policy-piota-app/) | [Terms & Conditions](https://www.piota.co.uk/terms/) | [Data Protection Policy](https://www.piota.co.uk/data-protection-policy/) | [Accessibility Statement](https://www.piota.co.uk/copy-of-accessibility-statement/) | [Terms and Conditions of Website Use](https://www.piota.co.uk/terms-and-conditions-of-website-use/)
 
-![piota horiz white.png](https://static.wixstatic.com/media/ed9ffe_5266c6e19b5f402aaa8f76ae06ded1ed~mv2.png/v1/crop/x_212,y_230,w_2675,h_1071/fill/w_144,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/piota%20horiz%20white.png)
-
-![piota-strapline-whitetrans.png](https://static.wixstatic.com/media/0143de_b9b937d4f98f4beca0a7eac044aa8c60~mv2.png/v1/fill/w_258,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/piota-strapline-whitetrans.png)
-
-Terms and Conditions of Website Use
-
-[Privacy Policy](https://www.piota.co.uk/privacy-cookies-policy-piota-app)  |  [Terms & Conditions](https://www.piota.co.uk/terms)  |  [Data Protection Policy](https://www.piota.co.uk/data-protection-policy)  
-
-[Terms and Conditions of Website Use](https://www.piota.co.uk/terms-and-conditions-of-website-use)   
-
-[|  Accessibility Statement](https://www.piota.co.uk/copy-of-accessibility-statement) 
-
-[![!Primary White SP.png](https://static.wixstatic.com/media/8f7070_37a8161d9cff4cdf99529d144a01770d~mv2.png/v1/fill/w_263,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/!Primary%20White%20SP.png)](https://www.siliconpractice.co.uk/?utm_source=Piota&utm_medium=Website+&utm_campaign=x)
-
-bottom of page
-
-                                            
-
-![](https://px.ads.linkedin.com/collect/?pid=2304969&fmt=gif)
+Copyright © 2024 - Piota
