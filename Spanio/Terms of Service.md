@@ -24,11 +24,11 @@ Why SPAN?
 
 [Adding or existing home battery systems
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e79d1d0fe6894a9645f_Category%20tile.png)](https://www.span.io/battery-install)[Adding an EV, heat pump, & more
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e79d1d0fe6894a9645f_Category%20tile.avif)](https://www.span.io/battery-install)[Adding an EV, heat pump, & more
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e8624fc87e446767e1d_Category%20tile-1.png)](https://www.span.io/appliance-install)[Renovations & New Construction
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e8624fc87e446767e1d_Category%20tile-1.avif)](https://www.span.io/appliance-install)[Renovations & New Construction
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e95e25bc1321259bfb4_Category%20tile-2.png)](https://www.span.io/major-construction)[Electrification savings calculator
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e95e25bc1321259bfb4_Category%20tile-2.avif)](https://www.span.io/major-construction)[Electrification savings calculator
 
 Identify rebates and tax credits available for your project](https://www.span.io/calculator)
 
@@ -36,9 +36,9 @@ Professionals
 
 [Installers
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02c77bc85e9e7156affb_installers.png)](https://www.span.io/installers)[Builders
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02c77bc85e9e7156affb_installers.avif)](https://www.span.io/installers)[Builders
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.png)](https://www.span.io/builders)[Utilities
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.avif)](https://www.span.io/builders)[Utilities
 
 ![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.png)](https://www.span.io/utilities)
 
@@ -104,11 +104,11 @@ Why SPAN?
 
 [Adding or existing home battery systems
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e79d1d0fe6894a9645f_Category%20tile.png)](https://www.span.io/battery-install)[Adding an EV, heat pump, & more
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e79d1d0fe6894a9645f_Category%20tile.avif)](https://www.span.io/battery-install)[Adding an EV, heat pump, & more
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e8624fc87e446767e1d_Category%20tile-1.png)](https://www.span.io/appliance-install)[Renovations & New Construction
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e8624fc87e446767e1d_Category%20tile-1.avif)](https://www.span.io/appliance-install)[Renovations & New Construction
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e95e25bc1321259bfb4_Category%20tile-2.png)](https://www.span.io/major-construction)[Electrification savings calculator
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e95e25bc1321259bfb4_Category%20tile-2.avif)](https://www.span.io/major-construction)[Electrification savings calculator
 
 Identify rebates and tax credits available for your project](https://www.span.io/calculator)
 
@@ -116,9 +116,9 @@ Professionals
 
 [Installers
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02c77bc85e9e7156affb_installers.png)](https://www.span.io/installers)[Builders
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02c77bc85e9e7156affb_installers.avif)](https://www.span.io/installers)[Builders
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.png)](https://www.span.io/builders)[Utilities
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.avif)](https://www.span.io/builders)[Utilities
 
 ![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.png)](https://www.span.io/utilities)
 
