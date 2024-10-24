@@ -382,7 +382,7 @@ FSA/HSA ELIGIBLE
 
 WUSH™ PRO Ear Cleaner
 
-602
+600
 
 Color
 
