@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e43f966f-ff13-4526-a4cd-136da7bbd528/20241023T211119/e43f966f-ff13-4526-a4cd-136da7bbd528_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e43f966f-ff13-4526-a4cd-136da7bbd528/20241023T211119/e43f966f-ff13-4526-a4cd-136da7bbd528_360x203.jpg)](https://www.wqad.com/article/news/local/weird-smell-around-quad-cities-heres-what-experts-think/526-cf7f7826-5f4f-440e-9bb5-e020dec7475d)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/a121a1b5-1890-4743-b8f9-8d64c359e234/a121a1b5-1890-4743-b8f9-8d64c359e234_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/a121a1b5-1890-4743-b8f9-8d64c359e234/a121a1b5-1890-4743-b8f9-8d64c359e234_360x203.jpg)](https://www.wqad.com/article/news/local/body-found-mississippi-river-davenport-iowa/526-d5cff241-5be7-4245-96f5-f8578045a17a)
         
-        #### [Noticed a weird smell around the Quad Cities? Here's what experts think it was](https://www.wqad.com/article/news/local/weird-smell-around-quad-cities-heres-what-experts-think/526-cf7f7826-5f4f-440e-9bb5-e020dec7475d)
+        #### [Body of female found in Mississippi River near Davenport](https://www.wqad.com/article/news/local/body-found-mississippi-river-davenport-iowa/526-d5cff241-5be7-4245-96f5-f8578045a17a)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_360x203.jpg)](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
+    *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
         
-        #### [Residents question officials on utility fee at Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
+        #### [Storms, much-needed rain forecasted to move into the Quad Cities region Thursday night](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
+        
+        #### [Storms, much-needed rain forecasted to move into the Quad Cities region Thursday night](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/3d5dadb4-f601-4aaa-b519-be5653ad88ad/20241024T121431/3d5dadb4-f601-4aaa-b519-be5653ad88ad_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3d5dadb4-f601-4aaa-b519-be5653ad88ad/20241024T121431/3d5dadb4-f601-4aaa-b519-be5653ad88ad_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Showers and storms developing this evening.](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/CCT/images/d7105c03-73bb-418a-a49f-5d859fa3c1af/20241024T123156/d7105c03-73bb-418a-a49f-5d859fa3c1af_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d7105c03-73bb-418a-a49f-5d859fa3c1af/20241024T123156/d7105c03-73bb-418a-a49f-5d859fa3c1af_360x203.jpg)](https://www.wqad.com/article/news/nation-world/russia-amplified-hurricane-disinformation/507-e9126f6a-c461-4f1c-bd6c-16515d0026d2)
-        
-        #### [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://www.wqad.com/article/news/nation-world/russia-amplified-hurricane-disinformation/507-e9126f6a-c461-4f1c-bd6c-16515d0026d2)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-58°
+63°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
