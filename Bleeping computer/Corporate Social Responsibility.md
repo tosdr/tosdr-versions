@@ -36,6 +36,9 @@
         
         VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
     
+    * [![Get 15 months of Microsoft 365 on all your devices — now under $50](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get 15 months of Microsoft 365 on all your devices — now under $50](https://www.bleepingcomputer.com/offer/deals/get-15-months-of-microsoft-365-on-all-your-devices-now-under-50/)
     * [![Mandiant says new Fortinet flaw has been exploited since June](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Mandiant says new Fortinet flaw has been exploited since June](https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/)
@@ -45,9 +48,6 @@
     * [![WhatsApp now encrypts contact databases for privacy-preserving synching](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         WhatsApp now encrypts contact databases for privacy-preserving synching](https://www.bleepingcomputer.com/news/security/whatsapp-now-encrypts-contact-databases-for-privacy-preserving-synching/)
-    * [![Replace your monthly WordPress hosting fees with a lifetime subscription](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Replace your monthly WordPress hosting fees with a lifetime subscription](https://www.bleepingcomputer.com/offer/deals/replace-your-monthly-wordpress-hosting-fees-with-a-lifetime-subscription/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -310,9 +310,9 @@ Popular Stories
 * [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
-* [![Bumblebee](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
+    CISA proposes new security requirements to protect govt, personal data](https://www.bleepingcomputer.com/news/security/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
 
 ##### Follow us:
 
