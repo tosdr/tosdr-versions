@@ -1,5 +1,5 @@
 * [Blog](https://www.recordedfuture.com/blog)
-* [Careers](https://www.recordedfuture.com/)
+* [Careers](https://www.recordedfuture.com/careers)
 * [Contact Us](https://www.recordedfuture.com/contact)
 * [Login](https://app.recordedfuture.com/live/login/)
 
