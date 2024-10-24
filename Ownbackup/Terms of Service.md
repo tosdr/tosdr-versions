@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Compliance
+
+Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+
+[Microsoft Dynamics CRM
+
+The Hidden Risks of Citizen Development in Power Platform](https://www.ownbackup.com/blog/the-hidden-risks-of-citizen-development-in-power-platform)
+
 [FedRAMP
 
 How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
-
-[Data Security
-
-Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
-
-[AI
-
-How to Strengthen Your Salesforce Security in the Age of GenAI](https://www.ownbackup.com/blog/how-to-strengthen-your-salesforce-security-in-the-age-of-genai)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Compliance
+
+Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+
+[Microsoft Dynamics CRM
+
+The Hidden Risks of Citizen Development in Power Platform](https://www.ownbackup.com/blog/the-hidden-risks-of-citizen-development-in-power-platform)
+
 [FedRAMP
 
 How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
-
-[Data Security
-
-Most Salesforce Insider Threats are Human Mistakes](https://www.ownbackup.com/blog/most-salesforce-insider-threats-are-human-mistakes)
-
-[AI
-
-How to Strengthen Your Salesforce Security in the Age of GenAI](https://www.ownbackup.com/blog/how-to-strengthen-your-salesforce-security-in-the-age-of-genai)
 
 Company
 
