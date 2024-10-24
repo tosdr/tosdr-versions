@@ -189,13 +189,15 @@ Search
 
 Search
 
+Copyright © 2024, All Rights Reserved, [Freeware Files](https://www.freewarefiles.com/)
+
 * [Home](https://www.freewarefiles.com/)
 * [Privacy Policy](https://www.freewarefiles.com/privacy-policy/)
 * [Disclaimer](https://www.freewarefiles.com/disclaimer/)
 * [Terms and Conditions](https://www.freewarefiles.com/terms-and-conditions/)
 * [Contact](https://www.freewarefiles.com/contact/)
 
-Copyright © 2024, All Rights Reserved, [Freeware Files](https://www.freewarefiles.com/)
+freewarefiles.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 * [Home](https://www.freewarefiles.com/)
 * [Software](https://www.freewarefiles.com/software/)
