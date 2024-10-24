@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[Viral staged accident on NYC's Belt Parkway probed by NYPD — as experts warn fraud crash cases are on the rise](https://nypost.com/2024/10/23/us-news/viral-staged-accident-in-nyc-probed-by-nypd-as-experts-warn-fraud-crash-cases-are-on-the-rise/)
-
 Privacy Notice Highlights
 =========================
 
