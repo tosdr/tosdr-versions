@@ -145,3 +145,5 @@ Our mission is to produce engaging articles like reviews, tips and tricks, game 
 [Privacy & Disclaimer](https://www.ultraboardgames.com/privacy.php)
 
 © 2020 Ultra BoardGames. All rights reserved.
+
+x
