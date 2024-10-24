@@ -41,7 +41,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3286 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3287 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -72,7 +72,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Meat Medley Jumbo Meat - Jumbo Can
         
-        43 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        44 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -97,7 +97,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3286 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3287 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//shop.4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
