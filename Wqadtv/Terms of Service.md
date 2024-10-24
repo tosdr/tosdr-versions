@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ff10bda5-4c74-4821-85f6-5c6c221551bf/ff10bda5-4c74-4821-85f6-5c6c221551bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ff10bda5-4c74-4821-85f6-5c6c221551bf/ff10bda5-4c74-4821-85f6-5c6c221551bf_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/iowa-agritourism-growing-industry-agriculture-pumpkin-patches-apple-orchard/526-885f7727-1eaa-4b42-8bff-6136ade35825)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_360x203.jpg)](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
         
-        #### [In Iowa, agritourism is growing into a big, booming business](https://www.wqad.com/article/news/local/the-current/iowa-agritourism-growing-industry-agriculture-pumpkin-patches-apple-orchard/526-885f7727-1eaa-4b42-8bff-6136ade35825)
+        #### [Residents question officials on utility fee at Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565) [![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_360x203.jpg)](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae5056b9-25a0-4f60-b264-18dc8bf3ce22/20241023T193249/ae5056b9-25a0-4f60-b264-18dc8bf3ce22_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae5056b9-25a0-4f60-b264-18dc8bf3ce22/20241023T193249/ae5056b9-25a0-4f60-b264-18dc8bf3ce22_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/lady-blues-girls-hockey-high-school-team-home-opener-raising-money-gray-matters-collective/526-df181d9a-899f-49cc-9902-3586f15f752f)
+        #### [Residents raise questions about new utility fee during Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fc4189e6-781a-4c94-8b98-ce5f6f34038f/20241024T032035/fc4189e6-781a-4c94-8b98-ce5f6f34038f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc4189e6-781a-4c94-8b98-ce5f6f34038f/20241024T032035/fc4189e6-781a-4c94-8b98-ce5f6f34038f_360x203.jpg)](https://www.wqad.com/article/money/davenport-public-works-employees-demand-higher-wages/526-2c38080b-928b-4870-abee-acce2f3c7a00)
         
-        #### [The Lady Blues girls hockey team will raise money for mental health at home opener](https://www.wqad.com/article/news/local/the-current/lady-blues-girls-hockey-high-school-team-home-opener-raising-money-gray-matters-collective/526-df181d9a-899f-49cc-9902-3586f15f752f)
+        #### [Davenport Public Works employees calling for wage increases](https://www.wqad.com/article/money/davenport-public-works-employees-demand-higher-wages/526-2c38080b-928b-4870-abee-acce2f3c7a00)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1996a794-f454-4ea4-8c72-3c9b10fd1d99/20241023T121203/1996a794-f454-4ea4-8c72-3c9b10fd1d99_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1996a794-f454-4ea4-8c72-3c9b10fd1d99/20241023T121203/1996a794-f454-4ea4-8c72-3c9b10fd1d99_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/35533bf1-e52e-4a5a-8002-8135c36ab039/20241023T225333/35533bf1-e52e-4a5a-8002-8135c36ab039_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/35533bf1-e52e-4a5a-8002-8135c36ab039/20241023T225333/35533bf1-e52e-4a5a-8002-8135c36ab039_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Sunny skies for this afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Thunderstorms and showers expected late Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_360x203.jpg)](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-59°
+40°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
