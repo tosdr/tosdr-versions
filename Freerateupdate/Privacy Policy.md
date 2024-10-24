@@ -1,4 +1,4 @@
-![](//bat.bing.com/action/0?ti=5202883&Ver=2)  
+![](//bat.bing.com/action/0?ti=5202883&Ver=2)    
 
 ![](
 			https://www.facebook.com/tr?id=787007714737985&ev=PageView&noscript=1)
