@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Danny Casolaro ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-danny-casolaro/)
+[![35 Facts About Trepanation ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2276%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-trepanation/)
+
+Medicine
+
+24 Oct 2024
+
+[35 Facts About Trepanation](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-trepanation/)
+
+[![35 Facts About Dutch Schultz ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22104%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-dutch-schultz/)
 
 People
 
-23 Oct 2024
+24 Oct 2024
 
-[35 Facts About Danny Casolaro](https://facts.net/history/people/35-facts-about-danny-casolaro/)
-
-[![25 Facts About Florida Tourism ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/25-facts-about-florida-tourism/)
-
-Events
-
-23 Oct 2024
-
-[25 Facts About Florida Tourism](https://facts.net/events/25-facts-about-florida-tourism/)
+[35 Facts About Dutch Schultz](https://facts.net/history/people/35-facts-about-dutch-schultz/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
