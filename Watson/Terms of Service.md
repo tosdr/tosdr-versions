@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)15°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
+* [Faits divers](https://www.watson.ch/fr/faits-divers/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Police](https://www.watson.ch/fr/police/)
 * [CFF](https://www.watson.ch/fr/cff/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Genève](https://www.watson.ch/fr/geneve/)
-* [People](https://www.watson.ch/fr/people/)
+* [train](https://www.watson.ch/fr/train/)
+* [Santé](https://www.watson.ch/fr/sante/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Transports](https://www.watson.ch/fr/transports/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Valais](https://www.watson.ch/fr/valais/)
+* [France](https://www.watson.ch/fr/france/)
 * [Nouvelle-Zélande](https://www.watson.ch/fr/nouvelle-zelande/)
+* [nourriture](https://www.watson.ch/fr/nourriture/)
 * [Prix](https://www.watson.ch/fr/prix/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [France](https://www.watson.ch/fr/france/)
 * [guerre](https://www.watson.ch/fr/guerre/)
-* [Corée du Nord](https://www.watson.ch/fr/coree-du-nord/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
