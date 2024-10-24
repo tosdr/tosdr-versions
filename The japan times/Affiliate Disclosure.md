@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 24, 2024](https://www.japantimes.co.jp/archive/2024/10/24/ "archive page")
+[October 25, 2024](https://www.japantimes.co.jp/archive/2024/10/25/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,28 +131,44 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
-  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
 [Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
   [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
-[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
-  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
+  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
-[With her sights set on Ishiba's throne, will Takaichi take over the LDP?](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
+[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
-  [![Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.")](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
+  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
 [Former _ozeki_ Asahikuni, also a trailblazing stablemaster, dies at age 77](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
 
   [![Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ")](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
 
+[Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
+
+  [![People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429636.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.")](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
+
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
+
+By [Johan Brooks](https://www.japantimes.co.jp/author/4555/johan-brooks/ "Johan Brooks")  
+
+  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -162,30 +178,6 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[With her sights set on Ishiba's throne, will Takaichi take over the LDP?](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.")](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
-
 [SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
 
 [Former _ozeki_ Asahikuni, also a trailblazing stablemaster, dies at age 77](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
@@ -193,6 +185,14 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
 
   [![Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ")](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
+
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+
+  [![People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429636.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.")](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
 
 Podcast
 -------
@@ -257,23 +257,23 @@ Latest News
 
 [Masato Kanda, former top currency diplomat, sole candidate to head ADB](https://www.japantimes.co.jp/business/2024/10/24/economy/kanda-sole-candidate-adb/ "Masato Kanda, former top currency diplomat, sole candidate to head ADB")
 
-39 mins ago
+6 hours ago
 
 [Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
 
-1 hours ago
+7 hours ago
 
 [At Putin-hosted summit, one guest stood out: Erdogan](https://www.japantimes.co.jp/news/2024/10/24/world/politics/putin-summit-turkey-erdogan/ "At Putin-hosted summit, one guest stood out: Erdogan")
 
-1 hours ago
+7 hours ago
 
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
-2 hours ago
+8 hours ago
 
 [Electric vehicles may be struggling. GM’s leader is still a believer.](https://www.japantimes.co.jp/business/2024/10/24/companies/electric-vehicles-gm-leader/ "Electric vehicles may be struggling. GM’s leader is still a believer.")
 
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
