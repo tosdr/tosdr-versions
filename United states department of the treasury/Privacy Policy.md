@@ -555,17 +555,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 24, 2024
+    
+    [Treasury Sanctions Sudanese Armed Forces Weapons Procurement Director](https://home.treasury.gov/news/press-releases/jy2672)
+    
+    October 24, 2024
+    
+    [U.S. Department of the Treasury Releases Final Rules to Onshore Clean Energy Technologies, Strengthen Critical Minerals Supply Chains, and Expand U.S. Manufacturing Base as Part of Investing in America Agenda](https://home.treasury.gov/news/press-releases/jy2671)
+    
     October 23, 2024
     
     [U.S. Department of the Treasury Announces Awards to Support Development of 26,400 Affordable Housing Units](https://home.treasury.gov/news/press-releases/jy2668)
-    
-    October 22, 2024
-    
-    [U.S. Department of the Treasury Releases Final Rules to Strengthen U.S. Semiconductor Industry](https://home.treasury.gov/news/press-releases/jy2664)
-    
-    October 21, 2024
-    
-    [Price Cap Coalition Issues Updated Advisory for Maritime Industry](https://home.treasury.gov/news/press-releases/jy2659)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
