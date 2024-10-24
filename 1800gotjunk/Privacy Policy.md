@@ -3,6 +3,7 @@ Check Availability - Mega menu (Mobile)
 * [24/7 Customer Service 1-800-468-5865](tel:1-800-468-5865)
 * [Franchise Info 1-866-877-3033](tel:1-866-877-3033)
 * CHECK AVAILABILITY
+* SIGN IN
 
 [Image
 
@@ -19,6 +20,7 @@ Check Availability - Mega menu (Upper)
 * [24/7 Customer Service 1-800-468-5865](tel:1-800-468-5865)
 * [Franchise Info 1-866-877-3033](tel:1-866-877-3033)
 * CHECK AVAILABILITY
+* SIGN IN
 
 * [For Home](https://www.1800gotjunk.com/us_en) Toggle submenu
     
@@ -632,22 +634,6 @@ Calvin Bass Calgary 12/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
-
-Tiffany Wyatt Calgary 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great experience. Both gentleman were friendly & pleasant. They were quick and efficient, got my couch, chair & stool in a snap!
-
-Julie Eckert Calgary 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 The guys made it so easy. They were very agreeable to work with & we really appreciated how quickly they took everything.
 
 Anne Garnett Calgary 11/10/2024
@@ -659,6 +645,22 @@ Anne Garnett Calgary 11/10/2024
 Very polite. Very efficient.
 
 Art Rae Calgary 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
+
+Tiffany Wyatt Calgary 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great experience. Both gentleman were friendly & pleasant. They were quick and efficient, got my couch, chair & stool in a snap!
+
+Julie Eckert Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -864,17 +866,17 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Max and kiani were very professional and quick removing two couches for me. Highly recommend.
+Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
 
-Olivia Becker Wisconsin 19/10/2024
+Alexis D. Cincinnati 19/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Brandon did an amazing job! 100/10 would recommend them anytime! Definitely call them for any junk needs!
+Max and kiani were very professional and quick removing two couches for me. Highly recommend.
 
-cydney ryals Naples 19/10/2024
+Olivia Becker Wisconsin 19/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -896,6 +898,14 @@ Kyle Southern Naples 19/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Steven and Brandon did an amazing job! 100/10 would recommend them anytime! Definitely call them for any junk needs!
+
+cydney ryals Naples 19/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Steven and Brandon were amazing! They deserve a raise!!😂 Would highly recommend them!!!
 
 Amy Seaman Naples 19/10/2024
@@ -904,9 +914,9 @@ Amy Seaman Naples 19/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
+Steeve and gio did an amazing job
 
-Alexis D. Cincinnati 19/10/2024
+juliaslp Naples 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -944,14 +954,6 @@ Michelle Madison 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-They were great, quick and courteous. Would use them again the next time I've got junk! See you in hell, old exercise machine!
-
-Luke Herr Columbus 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 André and Sam were courteous, friendly and efficient! Thank you for another great take away!!
 
 Mary Wisconsin 18/10/2024
@@ -968,17 +970,9 @@ Brandon Wisconsin 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Shawn and Patrick showed up on time and very professional.
+They were great, quick and courteous. Would use them again the next time I've got junk! See you in hell, old exercise machine!
 
-Antonio Cecin Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steeve and gio did an amazing job
-
-Duke Downey Naples 18/10/2024
+Luke Herr Columbus 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -992,17 +986,25 @@ Julie Tower Austin 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steeve and gio did an amazing job
+Excellent and polite, friendly service from Foug & Ignacio
 
-juliaslp Naples 18/10/2024
+Moira Ross LA Metro 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent and polite, friendly service from Foug & Ignacio
+Crew was on time and did a great job
 
-Moira Ross LA Metro 18/10/2024
+Terry Klein Austin 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Shawn and Patrick showed up on time and very professional.
+
+Antonio Cecin Naples 18/10/2024
 
 ### 
 
