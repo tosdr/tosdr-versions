@@ -109,10 +109,11 @@ CORPORATE
 CUSTOMER
 
 * [Account](https://www.seekdiscomfort.com/pages/account)
+* [Returns & Exchanges](https://www.seekdiscomfort.com/pages/returns-exchanges)
+* [Track your order](https://www.seekdiscomfort.com/apps/parcelpanel)
 * [Contact Us](https://www.seekdiscomfort.com/pages/contact-us)
 * [FAQ](https://www.seekdiscomfort.com/pages/faq)
 * [Accessibility](https://www.seekdiscomfort.com/pages/accessibility)
-* [Track your order](https://www.seekdiscomfort.com/apps/parcelpanel)
 
 [![](//www.seekdiscomfort.com/cdn/shop/files/SD1.png?v=1715789258&width=300)](https://www.seekdiscomfort.com/pages/spark-adventure)
 
@@ -130,7 +131,7 @@ Your cart
 
 Close
 
-Spend **$125.00** more for **free shipping**!
+Spend **$85.00** more for **free shipping**!
 
 Your order is eligible for free shipping!
 
