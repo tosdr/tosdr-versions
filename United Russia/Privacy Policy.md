@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
 
-Сегодня 13:54
+24.10.24
 
 [![Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://cdn.er.ru/media/news/October2024/Eyn90wPxXNH0ycPs7ehC-small.jpg)](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
 
@@ -313,7 +313,7 @@
 
 [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#отдыхдетей](https://er.ru/activity/news?tags%5B0%5D=130852) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055)
 
-Сегодня 12:50
+24.10.24
 
 [![«Единая Россия» предложила Минфину предусмотреть льготы регионам при списании бюджетной задолженности для финансирования приоритетных проектов](https://cdn.er.ru/media/news/October2024/571J7DZxHOYUy74UKGKS-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-predlozhila-minfinu-predusmotret-lgoty-regionam-pri-spisanii-byudzhetnoj-zadolzhennosti-dlya-finansirovaniya-prioritetnyh-proektov)
 
@@ -321,7 +321,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328) [#задолженность](https://er.ru/activity/news?tags%5B0%5D=836) [#списание](https://er.ru/activity/news?tags%5B0%5D=7690) [#финансирование](https://er.ru/activity/news?tags%5B0%5D=1213) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764)
 
-Сегодня 12:47
+24.10.24
 
 [![Александр Жуков: Бюджет на предстоящую трёхлетку сбалансирован и позволяет профинансировать все приоритетные направления](https://cdn.er.ru/media/news/October2024/nI6JM5skAyPtlftyxKIu-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-byudzhet-na-predstoyashuyu-tryohletku-sbalansirovan-i-pozvolyaet-profinansirovat-vse-prioritetnye-napravleniya)
 
@@ -329,7 +329,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:40
+24.10.24
 
 [![«Женское движение Единой России» организовало экскурсию в подмосковный парк «Патриот» для участников СВО](https://cdn.er.ru/media/news/October2024/r7qYnbwxzMjB3AA6GX6v-small.jpg)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-ekskursiyu-v-podmoskovnyj-park-patriot-dlya-uchastnikov-svo)
 
@@ -337,7 +337,7 @@
 
 [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#экскурсия](https://er.ru/activity/news?tags%5B0%5D=12368) [#паркпатриот](https://er.ru/activity/news?tags%5B0%5D=150145) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765)
 
-Сегодня 10:33
+24.10.24
 
 [![Андрей Исаев: Бюджет остаётся социальным – все обязательства государства будут исполнены в полном объёме](https://cdn.er.ru/media/news/October2024/8qTbaGRCJ9cCnEu0peY3-small.jpg)](https://er.ru/activity/news/andrej-isaev-byudzhet-ostayotsya-socialnym-vse-obyazatelstva-gosudarstva-budut-ispolneny-v-polnom-obyome)
 
@@ -345,7 +345,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныерасходы](https://er.ru/activity/news?tags%5B0%5D=125208) [#пенсии](https://er.ru/activity/news?tags%5B0%5D=219) [#пособия](https://er.ru/activity/news?tags%5B0%5D=2010) [#МРОТ](https://er.ru/activity/news?tags%5B0%5D=4973) [#социальныйконтракт](https://er.ru/activity/news?tags%5B0%5D=133432) [#долговременный уход](https://er.ru/activity/news?tags%5B0%5D=120504)
 
-Сегодня 10:10
+24.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
