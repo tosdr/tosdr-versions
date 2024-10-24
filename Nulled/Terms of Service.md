@@ -23,7 +23,7 @@ ALERT!
 
  [![](https://media.nulled.to/public/style_images/images/user_register.png) Create Account](https://www.nulled.to/misc.php?app=core&module=global&section=register "Create Account")
 
-[![Nulled Logo](/public/assets/logo.svg)](https://www.nulled.to/ "Go to community index")
+ [![Nulled Logo](/public/assets/logo.svg)](https://www.nulled.to/ "Go to community index")
 
 1. [Nulled](https://www.nulled.to/)
 2. Help Documents
