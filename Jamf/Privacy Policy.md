@@ -31,7 +31,7 @@ Toggle Navigation
     
     [Mobile Device Management (MDM)](https://www.jamf.com/solutions/device-management/)
     
-    [Identity and access management](https://www.jamf.com/solutions/identity-based-access/)
+    [Identity-Based Access](https://www.jamf.com/solutions/identity-based-access/)
     
     [Threat prevention and remediation](https://www.jamf.com/solutions/threat-prevention-remediation/)
     
@@ -401,7 +401,7 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 * [App management](https://www.jamf.com/solutions/app-lifecycle-management/)
 * [Inventory management](https://www.jamf.com/solutions/inventory-management/)
 * [Self Service](https://www.jamf.com/solutions/self-service/)
-* [Identity and access management](https://www.jamf.com/solutions/identity-based-access/)
+* [Identity-Based Access](https://www.jamf.com/solutions/identity-based-access/)
 * [Endpoint protection](https://www.jamf.com/solutions/endpoint-protection/)
 * [Threat prevention and remediation](https://www.jamf.com/solutions/threat-prevention-remediation/)
 * [Content filtering and safe internet](https://www.jamf.com/solutions/content-filtering/)
