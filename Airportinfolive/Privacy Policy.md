@@ -2,7 +2,7 @@
 
   ![](/images/search.svg)
 
-02:46 pm  
+08:45 pm  
 Thu 10/24/2024
 
 ![ Abflug](/images/header-background-right.png)
@@ -326,7 +326,7 @@ You can change your privacy settings by clicking the following button: Manage Co
 
 [![Airportinfo.live Trustpilot](/images/trustpilot.png)](https://de.trustpilot.com/review/airportinfo.live)
 
-[![Erfahrungen & Bewertungen zu Airportinfo.live](/images/provenexpert.png)](https://www.provenexpert.com/airportinfo-live/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget "Kundenbewertungen & Erfahrungen zu Airportinfo.live. Mehr Infos anzeigen.")
+[![Erfahrungen & Bewertungen zu Airportinfo.live](/images/provenexpert.png)](https://www.provenexpert.com/airportinfo-live/?utm_source=Widget&utm_medium=Widget&utm_campaign=Widget "Kundenbewertungen & Erfahrungen zu Airportinfo.live. Mehr Infos anzeigen.") 
 
 Do not share my Personal Information.
 
@@ -343,7 +343,7 @@ How do you rate Airportinfo.live?
 ☆☆☆☆☆
 
 Thank you!  
-Would you support us by rating us at Trustpilot? Of course No thanks
+Would you support us by rating us at Google? Of course No thanks
 
 **Thank you!**  
 What can we do to improve your rating? Send Close
