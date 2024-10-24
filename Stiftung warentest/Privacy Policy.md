@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
 
 Service Stiftung Warentest
 
