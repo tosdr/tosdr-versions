@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-b6d9aff41714ca1e5d29faf82331224cb6d9aff41714ca1e5d29faf82331224c54c95f6c984e3361b7842161d6bac935
+a264daa78b7292a4bff5c492aaa1f701a264daa78b7292a4bff5c492aaa1f701
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -304,7 +304,7 @@ Offers
     not available on this landing page
     
 
-[More](https://www.gaiaonline.com/world/)
+[More](https://www.gaiaonline.com/payments/)
 
 Get Items
 
@@ -533,6 +533,6 @@ Play with Platinum
     win a new item with every spin
     
 
-[More](https://www.gaiaonline.com/world/)
+[More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1729734951)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1729756391)
