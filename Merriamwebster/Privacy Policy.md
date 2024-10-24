@@ -387,9 +387,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [palaver](https://www.merriam-webster.com/word-of-the-day)
+#### [garnish](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of palaver](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of palaver")
+[![Listen to the pronunciation of garnish](/dist-cross-dungarees/2024-10-22--15-06-50-k5lvhk/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of garnish")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
