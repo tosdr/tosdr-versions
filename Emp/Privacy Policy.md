@@ -154,7 +154,7 @@ Katalog durchsuchen  löschen Packstation suchen
 
 [](https://www.emp.de/autumn-must-haves/)
 
-Gratis Versand ab 99€!
+Highway to Herbst: Alles für deine Dark Season!
 
 [Schlag zu!](https://www.emp.de/autumn-must-haves/ "Schlag zu!")
 
