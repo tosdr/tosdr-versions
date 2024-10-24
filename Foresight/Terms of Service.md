@@ -14,7 +14,7 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [78k+ Downloads](https://foresight.is/users/)
-* [Updates 7](#)
+* [Updates 6](#)
     
     * [Changelog](https://foresight.is/changelog/)
     * [Last Cap Table Masterclass cohort for 2024](https://foresight.is/changelog/#2024-10-17-nov-2024-masterclass)
@@ -24,7 +24,6 @@ Popular products
     * [Docs](https://foresight.is/docs/)
     * [Cohorts](https://foresight.is/docs/cohort-modeling/)
     * [Virality](https://foresight.is/docs/virality/)
-    * [Exit Waterfalls with Unconverted Convertibles](https://foresight.is/docs/waterfall-unconverted-convertibles/)
     
 * [Docs](https://foresight.is/docs/)
 
