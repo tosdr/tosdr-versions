@@ -24,7 +24,7 @@ Latin America & Caribbean
 Europe
 ------
 
-Andorra - [Español](https://www.hbomax.com/terms-of-use/es-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
+Andorra - [Español](https://www.hbomax.com/terms-of-use/es-ad-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
 Bosnia - [Hrvatski](https://www.hbomax.com/terms-of-use/hr-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
@@ -62,7 +62,7 @@ Slovakia - [Slovenčina](https://www.hbomax.com/terms-of-use/sk-emea) - [English
 
 Slovenia - [Slovenščina](https://www.hbomax.com/terms-of-use/sl-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
-Spain - [Español](https://www.hbomax.com/terms-of-use/es-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
+Spain - [Español](https://www.hbomax.com/terms-of-use/es-emea) - [English](https://www.hbomax.com/terms-of-use/en-es-emea)
 
 Sweden - [Svenska](https://www.max.com/terms-of-use/sv-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
