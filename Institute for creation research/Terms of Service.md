@@ -7,7 +7,7 @@
 
 [![](/i/icr-logo-final-h-color1-100.png)](https://www.icr.org/) [![](/i/icr-DC-logo-h-white-100.png)](http://discoverycenter.icr.org/) [![](/i/icr-store-logo-final-h-rev1-100.png)](https://store.icr.org/) [![](/i/icr-soba-logo-white1-100.png)](https://icr.edu/)
 
-[Donate](https://www.icr.org/donate/index)
+[Donate](https://pushpay.com/g/instituteforcreationresearch)
 
 [](#)
 
@@ -67,9 +67,8 @@
     * [Our Speakers](https://www.icr.org/events/speakers)
     * [How to Host an Event](https://www.icr.org/events-host)
     * [Kids on Mission](https://www.icr.org/kids-on-mission)
-* [Give](http://www.icr.org/donate/)
-    * [Donate Now](http://www.icr.org/donate/)
-    * [Donate Monthly](https://www.icr.org/donate_monthly)
+* [Give](https://www.icr.org/donate/)
+    * [Donate](https://pushpay.com/g/instituteforcreationresearch)
     * [Planned Giving](https://icrgiving.org/)
     * [Public Financial Disclosures](http://www.icr.org/publicdisclosures/)
 * [Store](http://store.icr.org/)
@@ -166,69 +165,83 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More The Earth Is Unique
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/life-immortality)
+[![](/i/Main%20Stage%20-%201400x1050/Nature_Hiking_1400x1050.jpg)](https://www.icr.org/article/sweden-fun-in-the-sun-nature-hiking)
 
-[Life and Immortality](https://www.icr.org/article/life-immortality/)
+[Sweden’s Fun in the Sun, Nature Hiking](https://www.icr.org/article/sweden-fun-in-the-sun-nature-hiking/)
 
-“But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to...
+Sweden is encouraging Hittaut (recreational nature hiking) with the added encouragement of exploring places to find specific checkpoints along the hike.1 With...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/whom-shall-i-fear?)
+[![](/i/Main%20Stage%20-%201400x1050/Sunflower_Heliotropism_1400x1050.jpg)](https://www.icr.org/article/sunflower-heliotropism-august-sunlight-making-seed)
 
-[Whom Shall I Fear?](https://www.icr.org/article/whom-shall-i-fear?/)
+[Sunflower Heliotropism: August Sunlight for Making Tons.,.](https://www.icr.org/article/sunflower-heliotropism-august-sunlight-making-seed/)
 
-“The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?” (Psalm 27:1) David...
+August is an important month for sunflowers—those gigantic, bright-yellow flowers with brownish, round seed heads bordered by radiating yellow ligules...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+[![](/i/Main%20Stage%20-%201400x1050/Origin_Tectonic_Plates_1400x1050.jpg)](https://www.icr.org/article/origin-tectonic-plates-best-explained-by-the-flood)
+
+[Origin of Tectonic Plates Best Explained by the Flood](https://www.icr.org/article/origin-tectonic-plates-best-explained-by-the-flood/)
+
+A new study published in Nature Communications claims to have figured out how the tectonic plates may have originated.1 It’s been over...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+More The Earth Itself
+
+[![](/i/wide/solar_system_wide.jpg)](https://www.icr.org/article/astronomers-speak-our-solar-system-special)
+
+[Astronomers Speak: Our Solar System Is "Special"](https://www.icr.org/article/astronomers-speak-our-solar-system-special/)
+
+New research is shedding surprising light on the uniqueness of our solar system. Over 250 planet-like objects (mostly gas giants) have been observed in...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/earth_special_place_wide.jpg)](https://www.icr.org/article/earth-special-place)
+
+[Earth: A Special Place](https://www.icr.org/article/earth-special-place/)
+
+Secularists like to consider earth as just one of many millions of planets, occupying an obscure place in an insignificant galaxy in a sea of nothingness....
 
 BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/song-praise-creator)
+[![](/i/Main%20Stage%20-%201400x1050/Titan_Receding_1400x1050.jpg)](https://www.icr.org/article/titan-receding-from-saturn-faster-than-expected)
 
-[Song of Praise to the Creator](https://www.icr.org/article/song-praise-creator/)
+[Titan Receding from Saturn Faster than Expected](https://www.icr.org/article/titan-receding-from-saturn-faster-than-expected/)
 
-“Rejoice in the LORD, O ye righteous: for praise is comely for the upright. Praise the LORD with harp: sing unto him with the psaltery and...
+Data obtained from the Cassini space probe show that Saturn’s largest moon, Titan, is receding away from Saturn a hundred times faster than scientists...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-Shop Related Products
+More Impact
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/FiveRulesFloodPale.jpg)](https://www.icr.org/article/five-rules-of-flood-paleontology)
 
-Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
+[The Five Rules of Flood Paleontology](https://www.icr.org/article/five-rules-of-flood-paleontology/)
 
-$16.99
+Most people assume that both geological and fossil evidence support the story of evolution. Geology textbooks portray the formation of canyons, mountains,...
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/geneticrecombination_1400x1050.jpg)](https://www.icr.org/article/genetic-recombination-regulated-designed)
 
-$9.99
+[Genetic Recombination: A Regulated and Designed Chromos.,.](https://www.icr.org/article/genetic-recombination-regulated-designed/)
 
-$15.99
+According to the evolutionary paradigm, complex genetic information in the form of genes and regulatory DNA can randomly evolve through mutations and...
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/homo_erectus_apeman_wasnt.jpg)](https://www.icr.org/article/homo-erectus-the-ape-man-that-wasnt)
 
-$7.99
+[Homo erectus: The Ape Man That Wasn't](https://www.icr.org/article/homo-erectus-the-ape-man-that-wasnt/)
 
-$9.99
+The archaic human species Homo erectus has been portrayed as an important ape-to-man transitional link. However, these fossils don’t provide any...
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
-
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
@@ -300,8 +313,7 @@ Content ©2024 Institute for Creation Research
     * [Kids on Mission](https://www.icr.org/kids-on-mission/)
 * [Give](https://www.icr.org/donate/)
     
-    * [Donate Now](https://www.icr.org/donate/)
-    * [Donate Monthly](https://www.icr.org/donate_monthly/)
+    * [Donate](https://pushpay.com/g/instituteforcreationresearch)
     * [Planned Giving](http://icr.giftlegacy.com/)
     * [Public Financial Disclosures](https://www.icr.org/publicdisclosures/)
 
