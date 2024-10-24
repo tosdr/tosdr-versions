@@ -1,8 +1,8 @@
-Menu [![BFMTV](/assets/v6/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
+Menu [![BFMTV](/assets/v7/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
 
-[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v6/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
+[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v7/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
 
-Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v6/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
+Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v7/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
 DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
 
@@ -22,17 +22,17 @@ DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Newsletters](https://www.bfmtv.com/newsletters/ "Newsletters")
 * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
 
-[![Regarder BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
+[![Regarder BFMTV](/assets/v7/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v6/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
+Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v7/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
 
 Regarder BFM2](https://www.bfmtv.com/en-direct/bfm2/ "Regarder BFM2")
 
-![Écouter BFM Radio](/assets/v6/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+![Écouter BFM Radio](/assets/v7/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
 Écouter BFM Radio
 
-[![Replay BFMTV](/assets/v6/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+[![Replay BFMTV](/assets/v7/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -71,16 +71,16 @@ BFM Régions
 
 Précédent
 
-* [![BFM Paris IDF](/assets/v6/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
-* [![BFM Marseille](/assets/v6/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
-* [![BFM Lyon](/assets/v6/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
-* [![BFM Lille](/assets/v6/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
-* [![BFM Littoral](/assets/v6/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
-* [![BFM DICI](/assets/v6/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
-* [![BFM Var](/assets/v6/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
-* [![BFM Côte d'Azur](/assets/v6/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
-* [![BFM Alsace](/assets/v6/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
-* [![BFM Normandie](/assets/v6/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
+* [![BFM Paris IDF](/assets/v7/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
+* [![BFM Marseille](/assets/v7/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
+* [![BFM Lyon](/assets/v7/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
+* [![BFM Lille](/assets/v7/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
+* [![BFM Littoral](/assets/v7/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
+* [![BFM DICI](/assets/v7/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
+* [![BFM Var](/assets/v7/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
+* [![BFM Côte d'Azur](/assets/v7/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
+* [![BFM Alsace](/assets/v7/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
+* [![BFM Normandie](/assets/v7/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
 
 Suivant
 
@@ -110,7 +110,7 @@ Rubriques
 
 Suivez-nous sur
 
-[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v6/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v6/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v6/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v6/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
+[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v7/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v7/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v7/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v7/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
 
 Les sites du groupe
 
@@ -120,7 +120,7 @@ Précédent
 * BFM Régions
 * BFM Bourse
 * Tech&Co
-*  ![Iconic Business](/assets/v6/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
+*  ![Iconic Business](/assets/v7/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
 * RMC
 * RMC Sport
 * RMC Conso
@@ -409,7 +409,7 @@ Les plus lus
 4. [### Casinos en ligne: risque d'addiction, vulnérabilité des jeunes... pourquoi leur légalisation inquiète](https://www.bfmtv.com/sante/risque-d-addiction-vulnerabilite-des-jeunes-pourquoi-une-legalisation-des-casinos-en-ligne-inquiete_AV-202410230043.html "Casinos en ligne: risque d'addiction, vulnérabilité des jeunes... pourquoi leur légalisation inquiète")
 5. [### Le coût des inondations des 17 et 18 octobre évalué entre 350 et 420 millions d'euros](https://www.bfmtv.com/economie/entreprises/assurance-banque/le-cout-des-inondations-des-17-et-18-octobre-evalue-entre-350-et-420-millions-d-euros_AD-202410230750.html "Le coût des inondations des 17 et 18 octobre évalué entre 350 et 420 millions d'euros")
 
-![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
+![BFMTV](/assets/v7/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
 première sur l'info
 
