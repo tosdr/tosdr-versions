@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A new implant tested in animals reverses drug overdoses](https://www.sciencenews.org/article/implant-reverses-drug-overdoses)
             
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")8 hours ago
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")15 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Silk Road cities reached surprising heights in Central Asia’s mountains](https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")11 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")18 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Polar bears are being exposed to more pathogens as the climate warms](https://www.sciencenews.org/article/polar-bears-pathogens-climate-change)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")8 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")15 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Tech companies want small nuclear reactors. Here’s how they’d work](https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")13 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
