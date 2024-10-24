@@ -36,6 +36,9 @@
         
         VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
     
+    * [![Windows 11 KB5044380 preview update lets you remap the Copilot key](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Windows 11 KB5044380 preview update lets you remap the Copilot key](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
     * [![WhatsApp now encrypts contact databases for privacy-preserving synching](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         WhatsApp now encrypts contact databases for privacy-preserving synching](https://www.bleepingcomputer.com/news/security/whatsapp-now-encrypts-contact-databases-for-privacy-preserving-synching/)
@@ -45,9 +48,6 @@
     * [![Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://www.bleepingcomputer.com/news/security/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
-    * [![Google to let businesses create curated Chrome Web Stores for extensions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google to let businesses create curated Chrome Web Stores for extensions](https://www.bleepingcomputer.com/news/google/google-to-let-businesses-create-curated-chrome-web-stores-for-extensions/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -357,10 +357,10 @@ Popular Stories
     Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Over 6,000 WordPress hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-hacked-to-install-plugins-pushing-infostealers/)
-* [![Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Over 6,000 WordPress sites hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-sites-hacked-to-install-plugins-pushing-infostealers/)
+* [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
+    Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
 
 ##### Follow us:
 
