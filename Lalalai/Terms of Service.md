@@ -1,3 +1,5 @@
+![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) ️Limited Time: Phantom Pack ![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) 650 Minutes for only $40! ![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) 
+
 [](https://www.lalal.ai/)
 
 Products New
