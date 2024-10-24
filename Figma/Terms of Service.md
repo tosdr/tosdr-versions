@@ -227,11 +227,11 @@ Customer and User Agreements
 
 Community and Developer Terms
 
-[Terms of Service](https://www.figma.com/legal/tos/)[Creator Agreement](https://www.figma.com/legal/creator-agreement/)[Figma Developer Terms](https://www.figma.com/legal/developer-terms/)
+[Terms of Service](https://www.figma.com/legal/tos/)[Creator Agreement](https://www.figma.com/legal/creator-agreement/)[Figma Developer Terms](https://www.figma.com/legal/developer-terms/)[Figma Live Events](https://www.figma.com/legal/events-tos/)
 
 Policies, Notices and Guidelines
 
-[Acceptable Use Policy](https://www.figma.com/legal/aup/)[Modern UK Slavery Act Statement ↗](https://static.figma.com/uploads/160c9cb21d6020c9eacaff67ac1450eb05d48c3b)[Transparency in Coverage (TiC) Rules for US Health Plans](https://www.figma.com/legal/transparency-in-coverage-tic-rules-for-us-health-plans/)
+[Acceptable Use Policy](https://www.figma.com/legal/aup/)[Modern UK Slavery Act Statement ↗](https://static.figma.com/uploads/160c9cb21d6020c9eacaff67ac1450eb05d48c3b)[Transparency in Coverage (TiC) Rules for US Health Plans](https://www.figma.com/legal/transparency-in-coverage-tic-rules-for-us-health-plans/)[Figma Live Events ↗](https://www.figma.com/legal/events-tos/)
 
 Privacy and Data Protection
 
