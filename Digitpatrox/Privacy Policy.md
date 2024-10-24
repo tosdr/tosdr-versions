@@ -20,16 +20,16 @@ Thursday, October 24 2024
 
 Latest
 
-* [This software company says ditching the cloud was worth $10 million in savings — and there’s still more to come](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
-* [Qualcomm’s license battle with Arm puts many AI-enabled Copilot+ PCs in peril – Computerworld](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
-* [This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
-* [2025 Jeep Compass First Drive Review](https://digitpatrox.com/2025-jeep-compass-first-drive-review/)
-* [9 Tips to Get Perfect Excel Printouts](https://digitpatrox.com/9-tips-to-get-perfect-excel-printouts/)
-* [Mimecast appoints Amol Kulkarni to its board of directors](https://digitpatrox.com/mimecast-appoints-amol-kulkarni-to-its-board-of-directors/)
-* [Public Boards Seek a Balance Between Innovation and Risk](https://digitpatrox.com/public-boards-seek-a-balance-between-innovation-and-risk/)
-* [iOS 18.2 developer beta is live with Visual Intelligence, Image Playground and ChatGPT — all the new AI features for your iPhone](https://digitpatrox.com/ios-18-2-developer-beta-is-live-with-visual-intelligence-image-playground-and-chatgpt-all-the-new-ai-features-for-your-iphone/)
-* [Windows 11 KB5044380 preview update lets you remap the Copilot key](https://digitpatrox.com/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
-* [Dodge Chargers with semi-solid-state batteries may hit the road in 2026](https://digitpatrox.com/dodge-chargers-with-semi-solid-state-batteries-may-hit-the-road-in-2026/)
+* [Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
+* [Automatic emergency braking is getting better at preventing crashes](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
+* [How to Collaborate on Instagram](https://digitpatrox.com/how-to-collaborate-on-instagram/)
+* [“I have yet to find anyone who’s had a transformational experience with Microsoft Copilot”: Salesforce CEO Marc Benioff hits out at Microsoft’s AI assistant once again – and he isn’t holding back](https://digitpatrox.com/i-have-yet-to-find-anyone-whos-had-a-transformational-experience-with-microsoft-copilot-salesforce-ceo-marc-benioff-hits-out-at-microsofts-ai-assistant-once-again-and-he-isnt-h/)
+* [Are humans reading your AI conversations? – Computerworld](https://digitpatrox.com/are-humans-reading-your-ai-conversations-computerworld/)
+* [The Weirdest Movies You Won’t Believe Actually Exist](https://digitpatrox.com/the-weirdest-movies-you-wont-believe-actually-exist/)
+* [Best Heated Blankets | Electric Blankets](https://digitpatrox.com/best-heated-blankets-electric-blankets/)
+* [How to Capture Your Screen in Linux with OBS Studio](https://digitpatrox.com/how-to-capture-your-screen-in-linux-with-obs-studio/)
+* [IBM just launched powerful new open source AI models – here’s what you need to know](https://digitpatrox.com/ibm-just-launched-powerful-new-open-source-ai-models-heres-what-you-need-to-know/)
+* [Claude 3.5 Sonnet Can Control Your Computer](https://digitpatrox.com/claude-3-5-sonnet-can-control-your-computer/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/gvZ5pRwHumEBEES28aLvkE-1200-80.jpg)](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg)](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
     
-    [This software company says ditching the cloud was worth $10 million in savings — and there’s still more to come](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
+    [Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
     
-    1 hour ago
+    15 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3583351-0-63843700-1729711941-shutterstock_2366647495-100963142-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/UW6rXlACohjHUbFOg_3kBRzyMDU=/0x0:4941x3298/1200x628/filters:focal(2471x1649:2472x1650)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693285/2177315273.jpg)](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
     
-    [Qualcomm’s license battle with Arm puts many AI-enabled Copilot+ PCs in peril – Computerworld](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
+    [Automatic emergency braking is getting better at preventing crashes](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
+    
+    32 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/10/How-to-add-collaborators-on-Instagram.jpg)](https://digitpatrox.com/how-to-collaborate-on-instagram/)
+    
+    [How to Collaborate on Instagram](https://digitpatrox.com/how-to-collaborate-on-instagram/)
+    
+    47 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/sVNWn2diJk3TJiPCd8nV34-1200-80.jpg)](https://digitpatrox.com/i-have-yet-to-find-anyone-whos-had-a-transformational-experience-with-microsoft-copilot-salesforce-ceo-marc-benioff-hits-out-at-microsofts-ai-assistant-once-again-and-he-isnt-h/)
+    
+    [“I have yet to find anyone who’s had a transformational experience with Microsoft Copilot”: Salesforce CEO Marc Benioff hits out at Microsoft’s AI assistant once again – and he isn’t holding back](https://digitpatrox.com/i-have-yet-to-find-anyone-whos-had-a-transformational-experience-with-microsoft-copilot-salesforce-ceo-marc-benioff-hits-out-at-microsofts-ai-assistant-once-again-and-he-isnt-h/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JAX7Z30KVF210PHT4A5ZZ860/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3574984-0-20984500-1729677768-privacy_breach_hacked_vulnerability_binary_eye-100747409-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/are-humans-reading-your-ai-conversations-computerworld/)
     
-    [This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
-    
-    2 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729000609/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Jeep-Compass-f-driving-10-24)](https://digitpatrox.com/2025-jeep-compass-first-drive-review/)
-    
-    [2025 Jeep Compass First Drive Review](https://digitpatrox.com/2025-jeep-compass-first-drive-review/)
-    
-    2 hours ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-excel-spreadsheet-and-a-paper-with-the-same-spreadsheet-printed.jpg)](https://digitpatrox.com/9-tips-to-get-perfect-excel-printouts/)
-    
-    [9 Tips to Get Perfect Excel Printouts](https://digitpatrox.com/9-tips-to-get-perfect-excel-printouts/)
+    [Are humans reading your AI conversations? – Computerworld](https://digitpatrox.com/are-humans-reading-your-ai-conversations-computerworld/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 hour ago
+* [15 mins ago
     
-    ### This software company says ditching the cloud was worth $10 million in savings — and there’s still more to come](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
-* [2 hours ago
+    ### Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
+* [32 mins ago
     
-    ### Qualcomm’s license battle with Arm puts many AI-enabled Copilot+ PCs in peril – Computerworld](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
-* [2 hours ago
+    ### Automatic emergency braking is getting better at preventing crashes](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
+* [47 mins ago
     
-    ### This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
+    ### How to Collaborate on Instagram](https://digitpatrox.com/how-to-collaborate-on-instagram/)
 
 Most Popular Topics
 
-* [August 24, 2024
+* [September 21, 2024
     
-    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
-* [2 weeks ago
+    ### How to watch Man City vs Arsenal live streams 2024/5](https://digitpatrox.com/how-to-watch-man-city-vs-arsenal-live-streams-2024-5/)
+* [September 16, 2024
     
-    ### A file extension bug in Microsoft 365 can delete Word documents – Computerworld](https://digitpatrox.com/a-file-extension-bug-in-microsoft-365-can-delete-word-documents-computerworld/)
-* [August 26, 2024
+    ### Best Double Strollers of 2024](https://digitpatrox.com/best-double-strollers-of-2024/)
+* [September 19, 2024
     
-    ### The phrase ‘Open Source AI’ gets a definition – Computerworld](https://digitpatrox.com/the-phrase-open-source-ai-gets-a-definition-computerworld/)
+    ### How to watch Anthony Joshua vs Daniel Dubois Online](https://digitpatrox.com/how-to-watch-anthony-joshua-vs-daniel-dubois-online/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Public Boards Seek a Balance Between Innovation and Risk](https://digitpatrox.com/public-boards-seek-a-balance-between-innovation-and-risk/)
+    ### Best Heated Blankets | Electric Blankets](https://digitpatrox.com/best-heated-blankets-electric-blankets/)
 * [4 hours ago
     
-    ### iOS 18.2 developer beta is live with Visual Intelligence, Image Playground and ChatGPT — all the new AI features for your iPhone](https://digitpatrox.com/ios-18-2-developer-beta-is-live-with-visual-intelligence-image-playground-and-chatgpt-all-the-new-ai-features-for-your-iphone/)
+    ### How to Capture Your Screen in Linux with OBS Studio](https://digitpatrox.com/how-to-capture-your-screen-in-linux-with-obs-studio/)
 * [4 hours ago
     
-    ### Windows 11 KB5044380 preview update lets you remap the Copilot key](https://digitpatrox.com/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
+    ### IBM just launched powerful new open source AI models – here’s what you need to know](https://digitpatrox.com/ibm-just-launched-powerful-new-open-source-ai-models-heres-what-you-need-to-know/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
