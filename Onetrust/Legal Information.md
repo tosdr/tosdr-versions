@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Privacy beyond compliance: Driving business value through responsible data use](https://www.onetrust.com/resources/privacy-beyond-compliance-driving-business-value-through-responsible-data-use-webinar/)
 * [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 * [Tackling your key challenges from the ICO Data Protection Practitioner's Conference](https://www.onetrust.com/resources/tackling-your-key-challenges-from-the-ico-data-protection-practitioners-conference-webinar/)
-* [PIA and DPIA demo webinar with Data Privacy Group](https://www.onetrust.com/resources/pia-and-dpia-demo-webinar-with-data-privacy-group-webinar/)
 
 ### Platform
 
