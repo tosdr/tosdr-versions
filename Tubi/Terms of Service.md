@@ -19,7 +19,7 @@ Slash
 
 terms
 
-[Facebook](https://www.facebook.com/tubitv)[Instagram](https://www.instagram.com/tubi)[Twitter](https://twitter.com/tubi)[LinkedIn](https://www.linkedin.com/company/tubi-tv/)
+[Facebook](https://www.facebook.com/tubitv/)[Instagram](https://www.instagram.com/tubi)[Twitter](https://x.com/Tubi)[LinkedIn](https://www.linkedin.com/company/tubi-tv/)
 
 * COMPANY
 * [About Us](https://corporate.tubitv.com/)
@@ -60,6 +60,6 @@ Copyright © 2024 Tubi, Inc.
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: 3b10f8c9-9d49-49e8-8a71-b4915778cd80
+Device ID: 82f3bfc9-4104-4728-b240-911b54fc5dc1
 
 Made with Heart in San Francisco
