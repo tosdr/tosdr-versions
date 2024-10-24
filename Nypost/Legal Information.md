@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Powerball player wins $478M jackpot — snapping state’s 8-year unlucky streak](https://nypost.com/2024/10/24/us-news/powerball-478m-jackpot-winning-ticket-sold-in-georgia-drawing-numbers/)
+
 Privacy Notice Highlights
 =========================
 
