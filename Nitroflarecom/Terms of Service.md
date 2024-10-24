@@ -277,4 +277,4 @@ Nitroflare is the best and fastest service for uploading, storing, and safe shar
 
 ![](img/symbol.png)
 
-![visa](img/icons/footerCredits/visa.png) ![mastercard](img/icons/footerCredits/mastercard.png) ![amex](img/icons/footerCredits/amex.png) ![discover](img/icons/footerCredits/discover.png) ![bitcoin](img/icons/footerCredits/bitcoin.png) [![www.megastock.com](img/icons/acc_blue_on_white_en.png)](http://www.megastock.com/) ![Cashu](img/icons/footerCredits/cashu.png) ![Onecard](img/icons/footerCredits/onecard.png) ![Qiwi](img/icons/footerCredits/qiwi.png) ![Yandex](img/icons/footerCredits/yandex.png)
+![visa](img/icons/footerCredits/visa.png) ![mastercard](img/icons/footerCredits/mastercard.png) ![amex](img/icons/footerCredits/amex.png) ![discover](img/icons/footerCredits/discover.png)    ![bitcoin](img/icons/footerCredits/bitcoin.png)  [![www.megastock.com](img/icons/acc_blue_on_white_en.png)](http://www.megastock.com/)   ![Cashu](img/icons/footerCredits/cashu.png) ![Onecard](img/icons/footerCredits/onecard.png)   ![Qiwi](img/icons/footerCredits/qiwi.png) ![Yandex](img/icons/footerCredits/yandex.png)
