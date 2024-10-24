@@ -15,7 +15,7 @@ Toggle
 Utility
 -------
 
-* [![Icon illustration representing a telephone](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&itok=hi2M6TVZ&q=1)
+* [![Icon illustration representing a telephone](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.png?w=65&itok=hi2M6TVZ)
     
     Contact Us](https://www.usertesting.com/contact-us)
     
@@ -33,17 +33,17 @@ Utility
 Sign in
 -------
 
-* ![Icon illustration representing a person](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&itok=fWjiji6c&q=1)
+* ![Icon illustration representing a person](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.png?crop=yes&k=c&w=88&h=88&itok=fWjiji6c)
     
     * [Sign in to
         
-        ![UserTesting-Outside North America logo](https://usertesting.widen.net/content/a9f2c27e-cc9a-4e25-84c2-bf9220bcaba4/webp/LOGO-2022-UserTesting-Outside%20North%20America-1479x380.webp?w=180&itok=VWV4uT1R&q=1)](https://app.usertesting.com/users/sign_in)
+        ![UserTesting-Outside North America logo](https://usertesting.widen.net/content/a9f2c27e-cc9a-4e25-84c2-bf9220bcaba4/webp/LOGO-2022-UserTesting-Outside%20North%20America-1479x380.png?w=180&itok=VWV4uT1R)](https://app.usertesting.com/users/sign_in)
     * [Sign in to
         
         ![UserZoom logo](/sites/default/files/usertestingv3/styles/logo_slide/public/2023-09/UserZoom%20Logo.png.webp?itok=XxsRdW2T)](https://manager.userzoom.com/)
     * [Sign in to
         
-        ![Logo Userzoom Go](https://usertesting.widen.net/content/74a9f7d2-80ad-4f2b-9db7-2be1590971c5/webp/Logo-userzoom-go-107x29.webp?w=107&itok=JxW_8Avs&q=1)](https://go.userzoom.com/login)
+        ![Logo Userzoom Go](https://usertesting.widen.net/content/74a9f7d2-80ad-4f2b-9db7-2be1590971c5/webp/Logo-userzoom-go-107x29.png?w=107&itok=JxW_8Avs)](https://go.userzoom.com/login)
     * [Sign in to
         
         ![EnjoyHQ logo](/sites/default/files/usertestingv3/styles/logo_slide/public/2023-09/EnjoyHQ_logo.png.webp?itok=bwiVlIkm)](https://app.enjoyhq.com/users/sign_in)
