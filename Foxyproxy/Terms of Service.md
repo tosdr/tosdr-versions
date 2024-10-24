@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I found the service to be good, I was travelling in New Zealand for the end of the trip and wanted to access ITV's player. I was very happy to be able to do so.
+Was pleased with your service. Thank you.
 
-Malcolm Lee
+Andr Sirois
