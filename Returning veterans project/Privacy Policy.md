@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![The Marines](https://cdn.returningveterans.org/images/honor/Marine_Corps.jpg)  
+![Phil Gioia](https://cdn.returningveterans.org/images/honor/Phil_Gioia.jpg)  
 
-**In Honor of The Marines**  
-United States Marine Corps  
-Submitted by David Oschman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Phil Gioia**  
+United States Army  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/23/24 - 2:22:49  
+Printed 10/23/24 - 8:16:29  
 © 2024 Returning Veterans Project
