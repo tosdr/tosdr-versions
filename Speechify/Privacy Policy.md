@@ -358,6 +358,8 @@ If you have any questions regarding this Policy or how Speechify uses cookies, y
   
 Link to [Previous Version](https://web.archive.org/web/20240406231209/https://speechify.com/privacy/)
 
+;
+
 ![footer-waves](https://website.cdn.speechify.com/footer-waves.svg?quality=80&width=3840)
 
 ![](https://website.cdn.speechify.com/logo.svg?quality=80&width=256)
@@ -525,8 +527,6 @@ Category Sitemap
 * [X](https://speechify.com/audiobooks/categorylist/x/)
 * [Y](https://speechify.com/audiobooks/categorylist/y/)
 * [Z](https://speechify.com/audiobooks/categorylist/z/)
-
-;
 
 ![hamburger-menu](https://website.cdn.speechify.com/hamburger-menu-1.svg?quality=80&width=96)
 
