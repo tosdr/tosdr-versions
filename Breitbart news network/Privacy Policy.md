@@ -55,10 +55,10 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
-* [McDonald Trump](https://www.breitbart.com/tag/mcdonalds/)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Sinwar Dead](https://www.breitbart.com/tag/israel/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
+* [Fake News Frenzy](https://www.breitbart.com/the-media/)
+* [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
 ========================
