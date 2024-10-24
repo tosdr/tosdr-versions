@@ -402,9 +402,21 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1)
+ [![How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-dna-technology-cold-case-murder-9p_00.01.15.08.jpg?ve=1&tl=1)
 
- ![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
+ ![How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-dna-technology-cold-case-murder-9p_00.01.15.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-new-dna-technology-helped-solve-16-year-old-grand-prairie-cold-case)
+
+### [How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://www.fox4news.com/news/how-new-dna-technology-helped-solve-16-year-old-grand-prairie-cold-case)
+
+ [![Dallas pharmacy owner with aspiring Hollywood career sentenced to federal prison for healthcare scam](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-dallas-pharmacy-owner-insurance-fraud-9p_00.00.21.04.jpg?ve=1&tl=1)
+
+ ![Dallas pharmacy owner with aspiring Hollywood career sentenced to federal prison for healthcare scam](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-dallas-pharmacy-owner-insurance-fraud-9p_00.00.21.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ivor-jallah-pharmacy-healthcare-scam-federal-prison-sentence)
+
+### [Dallas pharmacy owner with aspiring Hollywood career sentenced to federal prison for healthcare scam](https://www.fox4news.com/news/ivor-jallah-pharmacy-healthcare-scam-federal-prison-sentence)
+
+ [![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-san-antonio-murder-suspect-9p_00.01.30.14.jpg?ve=1&tl=1)
+
+ ![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-san-antonio-murder-suspect-9p_00.01.30.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
 
 ### [Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
 
@@ -419,18 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mcdonalds-quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
 
 ### [1 killed, dozens sick after E.coli outbreak linked to McDonald’s Quarter Pounder, CDC says](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
-
- [![Dallas delays funding for Dallas Black Dance Theatre amid firing controversy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-lori-dallas-black-dance-theater-funding-530p_00.00.18.54.jpg?ve=1&tl=1)
-
- ![Dallas delays funding for Dallas Black Dance Theatre amid firing controversy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-lori-dallas-black-dance-theater-funding-530p_00.00.18.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-delays-funding-dallas-black-dance-theatre)
-
-### [Dallas delays funding for Dallas Black Dance Theatre amid firing controversy](https://www.fox4news.com/news/dallas-delays-funding-dallas-black-dance-theatre)
-
- [![Fort Worth police chief tells city council rape kit backlog is number one priority](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/b522bf0a-Rape20kit_1444171164679_314288_ver1.0.jpg?ve=1&tl=1)
-
- ![Fort Worth police chief tells city council rape kit backlog is number one priority](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/b522bf0a-Rape20kit_1444171164679_314288_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-chief-tells-city-council-rape-kit-backlog-is-number-one-priority)
-
-### [Fort Worth police chief tells city council rape kit backlog is number one priority](https://www.fox4news.com/news/fort-worth-police-chief-tells-city-council-rape-kit-backlog-is-number-one-priority)
 
 ###### [News](https://www.fox4news.com/news)
 
