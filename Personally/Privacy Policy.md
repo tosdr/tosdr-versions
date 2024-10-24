@@ -152,7 +152,7 @@ Welcome to Personally, accept our cookies or customise your journey in settings
 
 Accept
 
-           Cookie Settings
+            Cookie Settings
 
 Close GDPR Cookie Settings
 
