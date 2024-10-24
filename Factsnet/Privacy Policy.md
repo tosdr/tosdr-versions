@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Victorian ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/40-facts-about-victorian/)
+[![35 Facts About New York City Halloween ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/35-facts-about-new-york-city-halloween/)
 
-Historical Events
+Events
 
-23 Oct 2024
+24 Oct 2024
 
-[40 Facts About Victorian](https://facts.net/history/historical-events/40-facts-about-victorian/)
+[35 Facts About New York City Halloween](https://facts.net/events/35-facts-about-new-york-city-halloween/)
 
-[![40 Facts About Huttonite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22114%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-huttonite/)
+[![35 Facts About Denali Brehmer ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-denali-brehmer/)
 
-Earth Sciences
+People
 
-23 Oct 2024
+24 Oct 2024
 
-[40 Facts About Huttonite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-huttonite/)
+[35 Facts About Denali Brehmer](https://facts.net/history/people/35-facts-about-denali-brehmer/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
