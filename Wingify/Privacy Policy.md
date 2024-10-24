@@ -1,6 +1,6 @@
 **This website works best with JavaScript enabled**. [Learn how to enable JavaScript](https://enable-javascript.com/).
 
-* [+1 415-349-0105](tel:+14153490105) [+44 800-088-5450](tel:+448000885450) [+1 844-822-8378](tel:+18448228378) [+61 1-800-614-417](tel:+611800614417)
+* [+1 415-349-3207](tel:+14153493207)
 * [Contact Us](https://vwo.com/contact-us/)
 * Login
     
@@ -457,7 +457,7 @@
     
 * [Request Demo](https://vwo.com/demo/)
     
-    [+1 415-349-0105](tel:+14153490105) [+44 800-088-5450](tel:+448000885450) [+1 844-822-8378](tel:+18448228378) [+61 1-800-614-417](tel:+611800614417)
+    [+1 415-349-3207](tel:+14153493207)
     
 
 * Languages
@@ -876,21 +876,9 @@ Scroll To Top
 
 Talk to a sales representative
 
-![USA Flag Icon](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/icon-us-flag1.svg) USA
-
-[+1 844-822-8378 (Toll free)](tel:+18448228378)
-
-![UK Flag Icon](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/icon-gb-flag.svg) UK
-
-[+44 800-088-5450 (Toll free)](tel:+448000885450)
-
-![Australia Flag Icon](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/icon-australia.svg) Australia
-
-[+61 1-800-614-417 (Toll free)](tel:+611800614417)
-
 World Wide
 
-[+1 415-349-0105](tel:+14153490105)
+[+1 415-349-3207](tel:+14153493207)
 
 You can also email us at [support@vwo.com](mailto:support@vwo.com)
 
