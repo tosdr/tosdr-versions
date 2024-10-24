@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Indiana Jones and The Temple of Doom](https://www.myabandonware.com/game/indiana-jones-and-the-temple-of-doom-od)
+* [Ivan 'Ironman' Stewart's Super Off Road](https://www.myabandonware.com/game/ivan-ironman-stewart-s-super-off-road-x2)
+* [Indoor Soccer](https://www.myabandonware.com/game/indoor-soccer-6v8)
 * [Kabuki Klash](https://www.myabandonware.com/game/kabuki-klash-jy5)
 * [Mahjong Block Jongbou](https://www.myabandonware.com/game/mahjong-block-jongbou-9mg)
-* [Magic Johnson's Fast Break](https://www.myabandonware.com/game/magic-johnson-s-fast-break-p2)
-* [Voice Paradise](https://www.myabandonware.com/game/voice-paradise-syp)
-* [Tonari no Princess Rolfee](https://www.myabandonware.com/game/tonari-no-princess-rolfee-syo)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
