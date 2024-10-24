@@ -2,7 +2,7 @@
 
 collective for technology
 
-Search  
+Search  Search 
 
 * [υπηρεσίες web](https://stinpriza.org/ypiresia/internet)
 * [portfolio](https://stinpriza.org/portfolio)
