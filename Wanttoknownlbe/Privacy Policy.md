@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/gewoon-even-helpen-en-verbinden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/sp-en-cda-willen-eindelijk-daden-maar-eerst-woorden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
