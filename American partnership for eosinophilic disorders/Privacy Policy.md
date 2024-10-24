@@ -475,13 +475,11 @@ For assistance in finding a medical professional in your area, please explore ou
 
 Footer Awards
 
-  [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)            [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)               [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)               [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20147%20110'%3E%3C/svg%3E)
+[![NORD Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20107%20100'%3E%3C/svg%3E)
 
-![](https://apfed.org/wp-content/uploads/2018/12/new-badge.jpg)](http://greatnonprofits.org/org/apfed)          [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)           [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)[](http://greatnonprofits.org/org/apfed)      [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20131%20122'%3E%3C/svg%3E)
+![NORD Member](https://apfed.org/wp-content/uploads/2024/10/NORD_MembershipLogo_PLAT_2024_RGB-01.webp)](http://www.rarediseases.org/)[![Guidestar Badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://apfed.org/wp-content/uploads/2023/01/NORD_Logo-e1573864766540.jpg)](http://www.rarediseases.org/)       [](https://www.healthonnet.org/HONcode/Conduct.html?HONConduct163859)            [](http://www.rarediseases.org/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://widgets.guidestar.org/gximage2?o=8203250&l=v4)](https://www.guidestar.org/profile/76-0700153)
+![Guidestar Badge](https://widgets.guidestar.org/gximage2?o=8203250&l=v4)](https://www.guidestar.org/profile/76-0700153)
 
 copyright
 
