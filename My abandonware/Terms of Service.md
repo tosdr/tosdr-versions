@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Indiana Jones and The Temple of Doom](https://www.myabandonware.com/game/indiana-jones-and-the-temple-of-doom-od)
-* [Ivan 'Ironman' Stewart's Super Off Road](https://www.myabandonware.com/game/ivan-ironman-stewart-s-super-off-road-x2)
-* [Indoor Soccer](https://www.myabandonware.com/game/indoor-soccer-6v8)
-* [Kabuki Klash](https://www.myabandonware.com/game/kabuki-klash-jy5)
-* [Mahjong Block Jongbou](https://www.myabandonware.com/game/mahjong-block-jongbou-9mg)
+* [Air Battle](https://www.myabandonware.com/game/air-battle-t00)
+* [Kokū Hyōryō Nirgends](https://www.myabandonware.com/game/koku-hyoryo-nirgends-syy)
+* [Chōshin Heiki Zeroigar](https://www.myabandonware.com/game/choshin-heiki-zeroigar-syx)
+* [Ginga Ojōsama Densetsu Yuna FX: Kanashimi no Sirene](https://www.myabandonware.com/game/ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-syw)
+* [Fushigi no Kuni no Angelique](https://www.myabandonware.com/game/fushigi-no-kuni-no-angelique-p95)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Fatal Fury: Wild Ambition](https://www.myabandonware.com/game/fatal-fury-wild-ambition-sqr)
-* [Ultimate Super Skidmarks](https://www.myabandonware.com/game/ultimate-super-skidmarks-mfv)
-* [Amiga Classix Gold](https://www.myabandonware.com/game/amiga-classix-gold-jpj)
+* [SoulCalibur III](https://www.myabandonware.com/game/soulcalibur-iii-snb)
+* [Ultra Resort Keroncuel](https://www.myabandonware.com/game/ultra-resort-keroncuel-c60)
+* [Four Trax](https://www.myabandonware.com/game/four-trax-s0y)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
