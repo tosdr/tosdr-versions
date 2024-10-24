@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-lobby-tegen-iran-op-volle-toeren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/buitengewoon-zintuigelijke-ervaringen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
