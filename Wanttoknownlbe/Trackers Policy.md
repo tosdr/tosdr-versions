@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/buitengewoon-zintuigelijke-ervaringen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/100-redenen-waarom-911-doorgestoken-kaart-is/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
