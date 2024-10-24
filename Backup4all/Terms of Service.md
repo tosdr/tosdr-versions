@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/halloween/ghost.png?ek79cy)
 
-#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
+#### Halloween sale: 40% Discount for Backup4all Pro to unlock new features (Save US$ 20.00)
 
-Buy (US$ 93.33)
+Buy (US$ 29.99)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
+* [How do browsers handle revoked SSL/TLS certif ...](https://www.backup4all.com/how-do-browsers-handle-revoked-ssl-tls-certificates-kb.html)  
     
-* [How to restore a backup from Backblaze](https://www.backup4all.com/how-to-restore-a-backup-from-backblaze-kb.html)  
+* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
     
-* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
+* [Using Backup4all - FAQ 7](https://www.backup4all.com/using-backup4all-faq-7-kb.html)  
     
-* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
+* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
     
 
 Choose language:
