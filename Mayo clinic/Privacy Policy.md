@@ -509,7 +509,7 @@ Let Mayo Clinic researchers know they’re appreciated with a quick message.
     
 * [News Network](https://newsnetwork.mayoclinic.org/)
     
-* [Price Transparency](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance/price-estimates/chargemaster)
+* [Price Transparency](https://www.mayoclinic.org/billing-insurance/price-estimates/chargemaster)
     
 
 [Medical Professionals](https://www.mayoclinic.org/medical-professionals)
@@ -614,18 +614,18 @@ Let Mayo Clinic researchers know they’re appreciated with a quick message.
 * [International Locations & Offices](https://www.mayoclinic.org/departments-centers/international/locations)
     
 
-[Charitable Care & Financial Assistance](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance/financial-assistance)
+[Charitable Care & Financial Assistance](https://www.mayoclinic.org/billing-insurance/financial-assistance)
 
 
--------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 
 [Community Health Needs Assessment](https://www.communityengagement.mayoclinic.org/community-health-needs-assessment)
 
-* [Financial Assistance Documents – Arizona](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance/financial-assistance/arizona-documents)
+* [Financial Assistance Documents – Arizona](https://www.mayoclinic.org/billing-insurance/financial-assistance/arizona-documents)
     
-* [Financial Assistance Documents – Florida](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance/financial-assistance/florida-documents)
+* [Financial Assistance Documents – Florida](https://www.mayoclinic.org/billing-insurance/financial-assistance/florida-documents)
     
-* [Financial Assistance Documents – Minnesota](https://www.mayoclinic.org/patient-visitor-guide/billing-insurance/financial-assistance/minnesota-documents)
+* [Financial Assistance Documents – Minnesota](https://www.mayoclinic.org/billing-insurance/financial-assistance/minnesota-documents)
     
 
 * * *
