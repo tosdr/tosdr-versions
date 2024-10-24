@@ -247,13 +247,13 @@ Back
 
 ### Gateway: Life in a Lunar Module
 
-article 1 day ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
+article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
 
 2 min read
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
 
 7 min read
 
@@ -269,19 +269,19 @@ article 5 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-4
 
 ### Risk of Reduced Cardiorespiratory and Musculoskeletal Fitness
 
-article 4 hours ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
+article 11 hours ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
 
 2 min read
 
 ###  Risk of Spaceflight-Induced Bone Changes
 
-article 4 hours ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
+article 11 hours ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
 
 2 min read
 
 ### Risk of Injury and Compromised Performance from Extravehicular Activity (EVA)
 
-article 4 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
+article 11 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
 
-article 2 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
 
 2 min read
 
 ### Gateway: Life in a Lunar Module
 
-article 1 day ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
+article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
 
 2 min read
 
@@ -341,7 +341,7 @@ article 1 day ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
 
 3 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Highlights
 
-[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
+[![For Your Consideration: Our Alien Earth, a NASA+ Original Series](https://science.nasa.gov/wp-content/uploads/2024/08/ouralienearth-keyart-vert.png)
+
+1 min read
+
+### For Your Consideration: Our Alien Earth, a NASA+ Original Series
+
+article 5 hours ago](https://science.nasa.gov/for-your-consideration-our-alien-earth-a-nasa-original-series/)[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
 
 3 min read
 
 ### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
 
-article 2 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![LEMS](https://science.nasa.gov/wp-content/uploads/2023/04/lems_3-jpg.webp)
+article 9 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![LEMS](https://science.nasa.gov/wp-content/uploads/2023/04/lems_3-jpg.webp)
 
 1 min read
 
 ### LEMS
 
-article 1 day ago](https://science.nasa.gov/lems/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
-
-2 min read
-
-### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
-
-article 1 day ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)
+article 1 day ago](https://science.nasa.gov/lems/)
 
 ### Highlights
 
@@ -385,7 +385,7 @@ article 5 days ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-man
 
 ### NASA Pilots Add Perspective to Research
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 3 min read
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 1 hour ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 8 hours ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
@@ -433,7 +433,7 @@ article 2 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/
 
 ### Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/)[![An illustration of a black hole with a dark circle surrounded by light discs.](https://www.nasa.gov/wp-content/uploads/2024/10/black-hole-corona.jpg?w=1024)
 
 5 min read
 
@@ -455,13 +455,13 @@ article 2 days ago](https://www.nasa.gov/history/35-years-ago-sts-34-sends-galil
 
 ### Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
 
 2 min read
 
