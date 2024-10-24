@@ -324,7 +324,6 @@ Advertise
 
 ### [An Emily in Paris bag, men’s undies and a million-dollar brooch](https://www.afr.com/life-and-luxury/fashion-and-style/an-emily-in-paris-bag-men-s-undies-and-a-million-dollar-brooch-20241015-p5kiew)
 
-* 55 mins ago
 * Eugenie Kelly
 
 * ### [Six years on, Lanson Place opens in historic Melbourne building](https://www.afr.com/life-and-luxury/travel/six-years-on-lanson-place-opens-in-historic-melbourne-building-20241011-p5khj6)
@@ -335,16 +334,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Melanie Perkins, Cliff Obrecht, Ed Craven; Sam Prince, James Ferguson, Robbie Ferguson.](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d85b40e00a6c85db48f4246bc9cac0e138ffde8d)](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
+[![Crypto billionaire Tim Heath has an estimated worth of $2.27 billion.](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_226%2C$y_53/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/594345fadd2bc1fcca4a82c7689fe0a471fd92c2)](https://www.afr.com/wealth/people/crypto-casino-rich-lister-victim-of-attempted-kidnapping-20241024-p5kkyn)
 
-### [The 10 richest young Australians revealed](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
+### [Crypto casino Rich Lister victim of attempted kidnapping](https://www.afr.com/wealth/people/crypto-casino-rich-lister-victim-of-attempted-kidnapping-20241024-p5kkyn)
 
-* 55 mins ago
+* 56 mins ago
 * Yolanda Redrup
 
-* ### [How Jason Daniel went from ‘loose kid’ to the Young Rich List](https://www.afr.com/wealth/people/how-jason-daniel-went-from-loose-kid-to-the-young-rich-list-20241003-p5kfl2)
+* ### [The 10 richest young Australians revealed](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
     
-* ### [From Crazy John’s to Canva, here’s to 21 years of the Young Rich List](https://www.afr.com/wealth/people/from-crazy-john-s-to-canva-here-s-to-21-years-of-the-young-rich-list-20240903-p5k7eg)
+* ### [How Jason Daniel went from ‘loose kid’ to the Young Rich List](https://www.afr.com/wealth/people/how-jason-daniel-went-from-loose-kid-to-the-young-rich-list-20241003-p5kfl2)
     
 
 [The Australian Financial Review](https://www.afr.com/)
