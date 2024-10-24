@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming for “Harry Potter and the Half-Blood Prince”, Rupert Grint caught swine flu.
+Fred and George Weasley were born on April Fools’ Day.
 
 ### Potter History
 
-July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
+November 18, 2005 – Harry Potter and the Goblet of Fire film is released in the United States and United Kingdom, receiving positive reviews from critics and fans alike.
 
 ### Potter Quote
 
-“And what in the name of Merlin’s most baggy Y-fronts was that about?”
+“Honestly, if you were any slower, you’d be going backward.”
 
 [](#)
 
