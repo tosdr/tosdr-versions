@@ -1383,192 +1383,192 @@ Selecting a region changes the language and/or content on teamviewer.com
 
 * ### Americas
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         Americas - English](https://www.teamviewer.com/ams/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         América Latina - Español](https://www.teamviewer.com/latam/legal/privacy-and-cookies/?language-switched=true)
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Brazil)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Brazil)
         
         Brasil - Português](https://www.teamviewer.com/pt-br/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Canada)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Canada)
         
         Canada - English](https://www.teamviewer.com/en-ca/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Canada)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Canada)
         
         Canada - Français](https://www.teamviewer.com/fr-ca/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_United_States)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_the_United_States)
         
         United States - English](https://www.teamviewer.com/en-us/legal/privacy-and-cookies/?language-switched=true)
 * ### Asia Pacific
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         Asia Pacific - English](https://www.teamviewer.com/apac/legal/privacy-and-cookies/?language-switched=true)
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Australia)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Australia)
         
         Australia - English](https://www.teamviewer.com/en-au/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Peoples_Republic_of_China)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_the_Peoples_Republic_of_China)
         
         中国 - 中⽂（简体）](https://www.teamviewer.cn/cn/legal/privacy-and-cookies/?language-switched=true)
     * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Hong_Kong)
         
         香港 - 繁體中文](https://www.teamviewer.com/hk/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_India)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_India)
         
         India - English](https://www.teamviewer.com/en-in/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Japan)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Japan)
         
         日本 - ⽇本語](https://www.teamviewer.com/ja/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_New_Zealand)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_New_Zealand)
         
         New Zealand - English](https://www.teamviewer.com/en-nz/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_South_Korea)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_South_Korea)
         
         대한민국 - 한국어](https://www.teamviewer.com/ko/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         台灣-繁體中文](https://www.teamviewer.com/tw/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Thailand)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Thailand)
         
         ประเทศไทย - ภาษาไทย](https://www.teamviewer.com/th/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Vietnam)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Vietnam)
         
         Việt Nam - Tiếng Việt](https://www.teamviewer.com/vi/legal/privacy-and-cookies/?language-switched=true)
 * ### Commonwealth of Independent States
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         CIS - English](https://www.teamviewer.com/en-cis/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         СНГ - Русский](https://www.teamviewer.com/ru-cis/legal/privacy-and-cookies/?language-switched=true)
 * ### Europe
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         Europe - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Belgium)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Belgium)
         
         Belgique - Français](https://www.teamviewer.com/fr/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Belgium)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Belgium)
         
         België - Nederlands](https://www.teamviewer.com/nl/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Bulgaria)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Bulgaria)
         
         Bulgaria - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Croatia)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Croatia)
         
         Croatia - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Cyprus)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Cyprus)
         
         Cyprus - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Czech_Republic)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_the_Czech_Republic)
         
         Czechia - Čeština](https://www.teamviewer.com/cs/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Denmark)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Denmark)
         
         Denmark - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Germany)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Germany)
         
         Deutschland - Deutsch](https://www.teamviewer.com/de/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Spain)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Spain)
         
         España - Español](https://www.teamviewer.com/es/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Estonia)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Estonia)
         
         Estonia - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Finland)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Finland)
         
         Finland - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_France)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_France)
         
         France - Français](https://www.teamviewer.com/fr/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Greece)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Greece)
         
         Greece - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Ireland)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Ireland)
         
         Ireland - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Italy)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Italy)
         
         Italia - Italiano](https://www.teamviewer.com/it/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Latvia)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Latvia)
         
         Latvia - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Liechtenstein)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Liechtenstein)
         
         Liechtenstein - Deutsch](https://www.teamviewer.com/de/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Liechtenstein)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Liechtenstein)
         
         Liechtenstein - Français](https://www.teamviewer.com/fr/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Liechtenstein)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Liechtenstein)
         
         Liechtenstein - Italiano](https://www.teamviewer.com/it/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Lithuania)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Lithuania)
         
         Lithuania - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Luxembourg)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Luxembourg)
         
         Luxembourg - Français](https://www.teamviewer.com/fr/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Hungary)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Hungary)
         
         Magyarország - Magyar](https://www.teamviewer.com/hu/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Malta)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Malta)
         
         Malta - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Netherlands)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_the_Netherlands)
         
         Nederland - Nederlands](https://www.teamviewer.com/nl/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/norway)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/norway)
         
         Norway - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Austria)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Austria)
         
         Österreich - Deutsch](https://www.teamviewer.com/de/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Poland)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Poland)
         
         Polska - Polski](https://www.teamviewer.com/pl/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Portugal)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Portugal)
         
         Portugal - Português](https://www.teamviewer.com/pt/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Romania)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Romania)
         
         Romania - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Switzerland)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Switzerland)
         
         Schweiz - Deutsch](https://www.teamviewer.com/de/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Switzerland)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Switzerland)
         
         Suisse - Français](https://www.teamviewer.com/fr/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Switzerland)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Switzerland)
         
         Svizzera - Italiano](https://www.teamviewer.com/it/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Slovakia)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Slovakia)
         
         Slovakia - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Slovenia)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Slovenia)
         
         Slovenia - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Sweden)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Sweden)
         
         Sweden - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Turkey)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_Turkey)
         
         Türkiye - Türkçe](https://www.teamviewer.com/tr/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_United_Kingdom)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/Flag_of_the_United_Kingdom)
         
         United Kingdom - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
 * ### Middle East Africa
     
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         Middle East Africa - English](https://www.teamviewer.com/en-mea/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
+    * [![](https://teamviewer.scene7.com/is/content/teamviewergmbh/TeamViewer%20Globe)
         
         Middle East Africa - Français](https://www.teamviewer.com/fr-mea/legal/privacy-and-cookies/?language-switched=true)
 
