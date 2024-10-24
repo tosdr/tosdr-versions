@@ -294,10 +294,10 @@ The Class Action Waiver is material and essential to the arbitration of any disp
 * [Website Terms](https://www.siriusxm.com/sxm-web-terms-of-use)
 * [Customer Agreement](https://www.siriusxm.com/customeragreement)
 * [Privacy Policy](https://www.siriusxm.com/privacy-policy)
-* [Your Privacy Choices![CCPA Opt-Out Icon](/content/dam/sxm-com/icons/ccpa-opt-out-icon/privacyoptions.svg)](http://www.siriusxm.com/yourprivacychoices)
+* [Your Privacy Choices](http://www.siriusxm.com/yourprivacychoices)
 * [Your Ad Choices](https://www.siriusxm.com/youradchoices)
 * [FCC Public File](https://publicfiles.fcc.gov/sdars-profile/sirius/)
 * [FCC Info](https://www.siriusxm.com/fccinfo)
-* Manage Cookies
+* [Manage Cookies](#)
 
 ©2024 Sirius XM Radio LLC
