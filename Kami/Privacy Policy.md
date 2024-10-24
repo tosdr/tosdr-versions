@@ -48,7 +48,7 @@ To summarize our data privacy commitment  in plain English:
 * We do not host third-party cookies or trackers that would allow those third parties to track you  on our site to advertise or market their products or services to you.
 * We use the data you share with Kami solely to provide you the Kami service, to improve it, and to keep you updated about new developments. And we only use third party services that have made the same commitment to us.
 * If you ever want to be forgotten, simply email us at [privacy@kamiapp.com](mailto:privacy@kamiapp.com) and all your data will be completely removed from our system.
-* Security and Data Protection Measures document can be found [here.](https://www.kamiapp.com/wp-content/uploads/2023/05/Kami-Security-and-Data-Protection-Measures.pdf)
+* Security and Data Protection Measures document can be found [here.](https://www.kamiapp.com/wp-content/uploads/2024/10/Kami-Security-and-Data-Protection-Measures.pdf)
 
 COPPA, FERPA, SOPPA & SOPIPA in the USA
 ---------------------------------------
@@ -233,7 +233,7 @@ When we process your data we apply high-standard technical and organizational me
 For further information you can contact either [privacy@kamiapp.com](mailto:privacy@kamiapp.com) or our local EU GDPR representative at [dpo@dpa.bg](mailto:dpo@dpa.bg)
 
 **Transfer**  
-**The GDPR requires that when any EU user’s personal data is hosted or processed outside of the European Economic Area, it must remain protected to an adequate standard in line with EU law. Here is our [Data Transfer Agreement](https://www.kamiapp.com/wp-content/uploads/2022/12/GDPR-2022-Transfer-Kami-Agreement.docx.pdf) as well below there are a few ways that Kami achieves this:**
+**The GDPR requires that when any EU user’s personal data is hosted or processed outside of the European Economic Area, it must remain protected to an adequate standard in line with EU law. Here is our [Data Transfer Agreement](https://www.kamiapp.com/wp-content/uploads/2024/10/GDPR-2022-Transfer-Kami-Agreement.docx.pdf) as well below there are a few ways that Kami achieves this:**
 
 **First,** some of our EU customers’ data is processed in New Zealand (where our Headquarters are located). New Zealand is recognized by the EU as a territory that ensures an adequate level of data protection decided by 2013/65/EU: Commission Implementing Decision of 19  
 December 2012 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data by New Zealand (notified under document C(2012) 9557) Text with EEA relevance. 
