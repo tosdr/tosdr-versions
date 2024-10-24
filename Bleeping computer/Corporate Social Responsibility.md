@@ -36,6 +36,9 @@
         
         VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
     
+    * [![Mandiant says new Fortinet flaw has been exploited since June](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Mandiant says new Fortinet flaw has been exploited since June](https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/)
     * [![Windows 11 KB5044380 preview update lets you remap the Copilot key](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 KB5044380 preview update lets you remap the Copilot key](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
@@ -45,9 +48,6 @@
     * [![Replace your monthly WordPress hosting fees with a lifetime subscription](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Replace your monthly WordPress hosting fees with a lifetime subscription](https://www.bleepingcomputer.com/offer/deals/replace-your-monthly-wordpress-hosting-fees-with-a-lifetime-subscription/)
-    * [![Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://www.bleepingcomputer.com/news/security/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Internet Archive](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Over 6,000 WordPress sites hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-sites-hacked-to-install-plugins-pushing-infostealers/)
 * [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
+* [![Bumblebee](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
 
 ##### Follow us:
 
