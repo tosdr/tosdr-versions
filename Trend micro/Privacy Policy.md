@@ -900,7 +900,7 @@ Resources
 
 * [AI Security](https://www.trendmicro.com/en_us/business/ai.html)
 * [Trend Micro vs. Competition](https://www.trendmicro.com/en_us/about/compare.html)
-* [Cyber Risk Index/Assessment](https://www.trendmicro.com/en_us/security-intelligence/breaking-news/cyber-risk-index.html)
+* [Cyber Risk Assessments](https://resources.trendmicro.com/security-assessment-service-us.html?_ga=2.66788462.1559035223.1729522833-1050444116.1727452407)
 * [What Is?](https://www.trendmicro.com/en_us/what-is.html)
 * [Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/)
 * [Cyber Insurance](https://www.trendmicro.com/en_us/business/capabilities/solutions-for/cyber-insurance.html)
