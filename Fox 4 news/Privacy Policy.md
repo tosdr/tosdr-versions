@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Teen arrested in Dallas for San Antonio Sonic manager's murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1)
+ [![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1)
 
- ![Teen arrested in Dallas for San Antonio Sonic manager's murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
+ ![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/adiah-namir-roberson-dallas-co-mug-e1729707651703.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
 
-### [Teen arrested in Dallas for San Antonio Sonic manager's murder](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
+### [Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
 
- [![How gas prices have changed in Dallas in the last week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/03/32/18/gas_pump_generic-1.jpg?ve=1&tl=1)
+ [!['Beetlejuice' iconic home is now available on Airbnb](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/beetlejuice-house.jpg?ve=1&tl=1)
 
- ![How gas prices have changed in Dallas in the last week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/03/32/18/592/333/gas_pump_generic-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-gas-prices-have-changed-dallas-last-week)
+ !['Beetlejuice' iconic home is now available on Airbnb](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/beetlejuice-house.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/beetlejuice-iconic-home-available-airbnb)
 
-### [How gas prices have changed in Dallas in the last week](https://www.fox4news.com/news/how-gas-prices-have-changed-dallas-last-week)
+### ['Beetlejuice' iconic home is now available on Airbnb](https://www.fox4news.com/news/beetlejuice-iconic-home-available-airbnb)
 
- [![Does your vote count if you die before Election Day?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2159953393.jpg?ve=1&tl=1)
+ [![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mcdonalds-quarter-pounder.jpg?ve=1&tl=1)
 
- ![Does your vote count if you die before Election Day?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2159953393.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/does-your-vote-count-if-you-die-before-election-day)
+ ![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mcdonalds-quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
 
-### [Does your vote count if you die before Election Day?](https://www.fox4news.com/election/does-your-vote-count-if-you-die-before-election-day)
+### [1 killed, dozens sick after E.coli outbreak linked to McDonald’s Quarter Pounder, CDC says](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
 
- [![Golfer killed by falling tree on golf course](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1238845412-scaled.jpg?ve=1&tl=1)
+ [![Dallas delays funding for Dallas Black Dance Theatre amid firing controversy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-lori-dallas-black-dance-theater-funding-530p_00.00.18.54.jpg?ve=1&tl=1)
 
- ![Golfer killed by falling tree on golf course](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1238845412-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/golfer-killed-falling-tree-golf-course)
+ ![Dallas delays funding for Dallas Black Dance Theatre amid firing controversy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-lori-dallas-black-dance-theater-funding-530p_00.00.18.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-delays-funding-dallas-black-dance-theatre)
 
-### [Golfer killed by falling tree on golf course](https://www.fox4news.com/news/golfer-killed-falling-tree-golf-course)
+### [Dallas delays funding for Dallas Black Dance Theatre amid firing controversy](https://www.fox4news.com/news/dallas-delays-funding-dallas-black-dance-theatre)
 
- [![17-year-old Arlington boy dies in crash; police say he was not wearing a seatbelt](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
+ [![Fort Worth police chief tells city council rape kit backlog is number one priority](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/b522bf0a-Rape20kit_1444171164679_314288_ver1.0.jpg?ve=1&tl=1)
 
- ![17-year-old Arlington boy dies in crash; police say he was not wearing a seatbelt](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/17-year-old-boy-arlington-boy-dies-crash-not-wearing-seatbelt)
+ ![Fort Worth police chief tells city council rape kit backlog is number one priority](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/b522bf0a-Rape20kit_1444171164679_314288_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-chief-tells-city-council-rape-kit-backlog-is-number-one-priority)
 
-### [17-year-old Arlington boy dies in crash; police say he was not wearing a seatbelt](https://www.fox4news.com/news/17-year-old-boy-arlington-boy-dies-crash-not-wearing-seatbelt)
+### [Fort Worth police chief tells city council rape kit backlog is number one priority](https://www.fox4news.com/news/fort-worth-police-chief-tells-city-council-rape-kit-backlog-is-number-one-priority)
 
 ###### [News](https://www.fox4news.com/news)
 
