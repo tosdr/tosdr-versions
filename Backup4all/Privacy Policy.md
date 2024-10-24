@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/halloween/ghost.png?ek79cy)
 
-#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
+#### Halloween sale: 40% Discount for Backup4all Pro to unlock new features (Save US$ 20.00)
 
-Buy (US$ 93.33)
+Buy (US$ 29.99)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
+* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
     
-* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
+* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [How to create a shortcut](https://www.backup4all.com/how-to-create-a-shortcut-kb.html)  
+* [Explanation of the backup job icons](https://www.backup4all.com/the-backup-job-icons-meaning-kb.html)  
     
-* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
+* [How to create a continuous backup](https://www.backup4all.com/how-to-create-a-continuous-backup-kb.html)  
     
-* [How to restore a backup to OneDrive](https://www.backup4all.com/how-to-restore-a-backup-to-onedrive-kb.html)  
+* [How to activate Backup4all online](https://www.backup4all.com/how-to-activate-kb.html)  
     
 
 Choose language:
