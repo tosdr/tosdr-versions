@@ -41,26 +41,21 @@
     
 * [Solutions](#)
     
-    By Use Case
+    BY BUSINESS NEED
     
     * [Composable Architecture](https://cloudinary.com/solutions/composable-architecture)
-    * [Omnichannel](https://cloudinary.com/solutions/omnichannel)
-    * [Headless DAM](https://cloudinary.com/solutions/headless)
+    * [Content Velocity](https://cloudinary.com/solutions/content_velocity)
+    * [Customization](https://cloudinary.com/solutions/customization)
+    * [Headless DAM](https://cloudinary.com/solutions/headless-dam)
+    * [Immersive Experiences](https://cloudinary.com/solutions/immersive_experiences)
+    
+    * [Omnichannel Journeys](https://cloudinary.com/solutions/omnichannel)
     * [Performance Optimization](https://cloudinary.com/solutions/performance_optimization)
-    * [UGC](https://cloudinary.com/solutions/user-generated-content)
-    * [Video Experiences](https://cloudinary.com/solutions/video)
-    
-    By Function
-    
-    * [CX Professionals](https://cloudinary.com/solutions/cx-professionals)
-    * [Developers](https://cloudinary.com/developers)
-    * [E-commerce](https://cloudinary.com/solutions/e-commerce-teams)
-    * [IT Teams](https://cloudinary.com/solutions/it-teams)
-    * [Marketers](https://cloudinary.com/solutions/marketer)
-    * [Product and Engineering](https://cloudinary.com/solutions/product-and-engineering-teams)
+    * [Video](https://cloudinary.com/solutions/video)
     
     By Industry
     
+    * [E-commerce](https://cloudinary.com/solutions/ecommerce)
     * [Media & Entertainment](https://cloudinary.com/solutions/industries/media_entertainment)
     * [Non-Profits](https://cloudinary.com/solutions/industries/cloudinary-for-nonprofits)
     * [Retail](https://cloudinary.com/solutions/retail)
