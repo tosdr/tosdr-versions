@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Doug Emhoff’s ex speaks out about alleged 2012 assault at Cannes Film Festival](https://nypost.com/2024/10/24/us-news/second-gentleman-doug-emhoffs-ex-speaks-out-about-2012-assault-at-cannes-film-festival-i-saw-his-dark-side/)
-
 Privacy Notice Highlights
 =========================
 
