@@ -42,7 +42,7 @@ Can we help? Close
         Because when it comes to your money, every little bit counts.](https://www.ing.com.au/everyday-banking.html)
     * [###### Orange Everyday Youth bank account
         
-        Helping teens aged 15 to 17 to start out right.](https://www.ing.com.au/everyday-banking/orange-everyday-youth.html)
+        We are no longer accepting applications for this account.](https://www.ing.com.au/everyday-banking/orange-everyday-youth.html)
     
     [###### Personal Savings](# "Personal Savings")
     
