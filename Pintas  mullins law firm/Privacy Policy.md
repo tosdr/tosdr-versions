@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the main cause of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-what-is-the-main-cause-of-mesothelioma-scaled.jpg "What Is the Main Cause of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/ "What Is the Main Cause of Mesothelioma?")
+[![Who can file a sex abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "Who Can File a Sex Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/ "Who Can File a Sex Abuse Claim Against the Mormon Church?")
 
-[#### What Is the Main Cause of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/)
+[#### Who Can File a Sex Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/)
 
-[![How do doctors check for mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-do-doctors-check-for-mesothelioma-lung-cancer-scaled.jpg "How Do Doctors Check for Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/ "How Do Doctors Check for Mesothelioma Lung Cancer?")
+[![What are the four stages of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-four-stages-of-lung-cancer.jpg "What Are the Four Stages of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/stages "What Are the Four Stages of Lung Cancer?")
 
-[#### How Do Doctors Check for Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/)
+[#### What Are the Four Stages of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/stages)
 
-[![Power outages: nursing homes’ temperature safety](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages-scaled.jpg "Power Outages: Nursing Homes’ Temperature Safety")](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/ "Power Outages: Nursing Homes’ Temperature Safety")
+[![Tactics of emotionally abusive care staff](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use-scaled.jpg "Tactics of Emotionally Abusive Care Staff")](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/ "Tactics of Emotionally Abusive Care Staff")
 
-[#### Power Outages: Nursing Homes’ Temperature Safety](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/)
+[#### Tactics of Emotionally Abusive Care Staff](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/)
 
 ### Injured?  
 Tell Us What Happened.
