@@ -52,9 +52,11 @@ Site navigation
 * [Drugs A-Z](https://www.drugs.com/drug_information.html)
 * [Pill Identifier](https://www.drugs.com/pill_identification.html)
 * [Interaction Checker](https://www.drugs.com/drug_interactions.html)
-* [News & Alerts](https://www.drugs.com/news.html)
+* [Compare Drugs](https://www.drugs.com/compare/)
+* [News](https://www.drugs.com/news.html)
 * [Pro Edition](https://www.drugs.com/professionals.html)
-* [More Resources](https://www.drugs.com/sitemap.html)
+* [More](https://www.drugs.com/sitemap.html)
+* [Help & Support](https://www.drugs.com/support/)
 
 Close
 
