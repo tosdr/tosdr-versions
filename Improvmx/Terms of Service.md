@@ -80,6 +80,25 @@ ImprovMX has no control over, and assumes no responsibility for, the content, pr
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party websites or services that you visit.
 
+Logo and brand assets usage rights
+----------------------------------
+
+By using ImprovMX’s services, you grant ImprovMX and its affiliated companies a worldwide, royalty-free, non-exclusive, transferable, and sublicensable license to use, reproduce, distribute, display, and publish your company name, logo, trademarks, and other brand assets (collectively “Brand Assets”) for marketing, promotional, and reference purposes. This includes, but is not limited to:
+
+1. Displaying your Brand Assets on ImprovMX’s website, marketing materials, and promotional content
+2. Including your Brand Assets in customer testimonials, case studies, and success stories
+3. Using your Brand Assets in presentations, trade shows, and other industry events
+4. Featuring your Brand Assets in ImprovMX’s customer portfolio or partner showcase
+
+ImprovMX commits to:
+
+1. Using your Brand Assets in a professional manner that reflects positively on your brand
+2. Removing your Brand Assets from our marketing materials within 30 days of receiving a written request
+
+You warrant that you have the necessary rights and authority to grant this license and that the use of your Brand Assets as described above will not infringe upon any third party’s intellectual property rights.
+
+This license shall remain in effect for the duration of your use of ImprovMX’s services and for a reasonable period thereafter.
+
 Termination
 -----------
 
