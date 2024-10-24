@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I appreciate the responsive customer service and will plan to re-subscribe.
+We had set this proxy up for a test run during the British Elections to access BBC News. It worked really well, it just would get stuck and need to be refreshed every 15-20 mins. but I'm sure that was due to browser limitations or extra high load/traffic due to the election. We don't run programs during the summer and so won't need it again for a few months. We'll definitely purchase another subscription in the future! IT Manager Center for European Studies Harvard University
 
-Anita Bathija
+Paul K Dzus
