@@ -309,7 +309,7 @@ If you have any questions about our use of cookies, you can find the most releva
     
     *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,399 other subscribers
+    Join 10,398 other subscribers
     
         
     
@@ -318,7 +318,6 @@ If you have any questions about our use of cookies, you can find the most releva
     * Already have a WordPress.com account? [Log in now.](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fautomattic.com%252Fcookies%252F)
         
     
-* [Privacy](#)
 * *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     * [Customize](https://automattic.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fcookies%2F)
     * Subscribe Subscribed
