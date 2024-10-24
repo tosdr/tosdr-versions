@@ -1,8 +1,8 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[Get the Soltera.2 Now for Just $999!](https://www.aventon.com/products/soltera-2-ebike)
+[Free Accessories with Abound Purchase Ends Tonight!](https://www.aventon.com/products/abound-ebike)
 
-— —
+——
 
 View All Offers 4
 
