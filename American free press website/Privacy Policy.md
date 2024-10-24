@@ -276,10 +276,10 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Comments
 
+* Helen on [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/#comment-55179)
 * Eric on [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/#comment-55012)
 * Deanna McClane on [Kamala Presidency Would Be Disaster for America](https://americanfreepress.net/kamala-presidency-would-be-disaster-for-america/#comment-54988)
 * Stephen Aradjan on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54642)
-* Sad News on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54295)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=717596676)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1386788799)
