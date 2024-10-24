@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
+[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
+
+  [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
+
 [Tokyo Metro might be too much railroad for some investors](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
 
   [![Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ticket vending machines at a Tokyo Metro subway station. Tokyo Metro's network connects with nine of the 10 busiest stations in the capital. ")](https://www.japantimes.co.jp/business/2024/10/22/companies/tokyo-metro-ipo-growth/ "Tokyo Metro might be too much railroad for some investors")
@@ -143,13 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.")](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
 
-[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
+[Former _ozeki_ Asahikuni, also a trailblazing stablemaster, dies at age 77](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
 
-  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
-
-[F-35B fighter makes first landing on de facto aircraft carrier Kaga](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
-
-  [![An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.")](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
+  [![Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ")](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
 
 Editors' Picks
 --------------
@@ -161,6 +161,14 @@ Editors' Picks
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -178,21 +186,13 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
   [![Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former economic security minister Sanae Takaichi stumps in the city of Nara on Sunday.")](https://www.japantimes.co.jp/news/2024/10/22/japan/politics/ldp-sanae-takaichi/ "With her sights set on Ishiba's throne, will Takaichi take over the LDP?")
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
 
-[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
+[Former _ozeki_ Asahikuni, also a trailblazing stablemaster, dies at age 77](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
 
-By [Johan Brooks](https://www.japantimes.co.jp/author/4555/johan-brooks/ "Johan Brooks")  
+By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
 
-  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[F-35B fighter makes first landing on de facto aircraft carrier Kaga](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An F-35B stealth fighter jet lands on the Maritime Self-Defense Force's Kaga helicopter carrier during a test on Sunday of the southern coast of California.")](https://www.japantimes.co.jp/news/2024/10/22/japan/kaga-aircraft-carrier-f35b/ "F-35B fighter makes first landing on de facto aircraft carrier Kaga")
+  [![Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ")](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Germany is courting India as ties with China sour: What to watch](https://www.japantimes.co.jp/news/2024/10/24/world/politics/germany-india-ties-china/ "Germany is courting India as ties with China sour: What to watch")
+[Masato Kanda, former top currency diplomat, sole candidate to head ADB](https://www.japantimes.co.jp/business/2024/10/24/economy/kanda-sole-candidate-adb/ "Masato Kanda, former top currency diplomat, sole candidate to head ADB")
 
-7 mins ago
+39 mins ago
 
-[Facing buyout bid, Seven & I tells investors sales will double by 2030](https://www.japantimes.co.jp/business/2024/10/24/seven-i-investors-double-revenue/ "Facing buyout bid, Seven & I tells investors sales will double by 2030")
-
-36 mins ago
-
-[Brazil's business leaders reluctant to pick between U.S. and China ties](https://www.japantimes.co.jp/news/2024/10/24/world/politics/brazil-us-china-polarized-world/ "Brazil's business leaders reluctant to pick between U.S. and China ties")
-
-44 mins ago
-
-[TSMC cuts off client after discovering chips sent to Huawei](https://www.japantimes.co.jp/business/2024/10/24/tech/tsmc-client-chips-huawei/ "TSMC cuts off client after discovering chips sent to Huawei")
+[Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
 
 1 hours ago
 
-[U.S. says North Korean troops in Russia, possibly to fight in Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
+[At Putin-hosted summit, one guest stood out: Erdogan](https://www.japantimes.co.jp/news/2024/10/24/world/politics/putin-summit-turkey-erdogan/ "At Putin-hosted summit, one guest stood out: Erdogan")
 
 1 hours ago
+
+['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+
+2 hours ago
+
+[Electric vehicles may be struggling. GM’s leader is still a believer.](https://www.japantimes.co.jp/business/2024/10/24/companies/electric-vehicles-gm-leader/ "Electric vehicles may be struggling. GM’s leader is still a believer.")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
