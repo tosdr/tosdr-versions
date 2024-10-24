@@ -3,7 +3,8 @@
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [Instagram](#)
 
 * [News](https://ygorganization.com/category/news/)
-    * [OCG & TCG](https://ygorganization.com/category/news/ocg-tcg/)
+    * [OCG & TCG](https://ygorganization.com/category/ocg-tcg/)
+    * [Master Duel](https://ygorganization.com/category/master-duel/)
     * [Rush Duel](https://ygorganization.com/category/news/rush-duel/)
     * [Set Spoilers](https://ygorganization.com/category/news/spoilers/)
     * [Forbidden & Limited Lists](https://ygorganization.com/category/news/f-and-l/)
@@ -135,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/doublefusionpromo/ "The Next V Jump Promo Is… [VJMP]")
+[](https://ygorganization.com/the-remaining-five-cards-suda/ "The Remaining Five Cards [SUDA]")
 
-#### [The Next V Jump Promo Is… \[VJMP\]](https://ygorganization.com/doublefusionpromo/)
+#### [The Remaining Five Cards \[SUDA\]](https://ygorganization.com/the-remaining-five-cards-suda/)
 
-September 19, 2024
+October 24, 2024
 
-[](https://ygorganization.com/tournamentpackyugo/ "[24TP] Tournament Pack 2024 Vol. 4 (Round 2)")
+[](https://ygorganization.com/asia-campus-league-2024-playmat-ocg/ "Asia Campus League 2024 Playmat [OCG]")
 
-#### [\[24TP\] Tournament Pack 2024 Vol. 4 (Round 2)](https://ygorganization.com/tournamentpackyugo/)
+#### [Asia Campus League 2024 Playmat \[OCG\]](https://ygorganization.com/asia-campus-league-2024-playmat-ocg/)
 
-September 19, 2024
+October 24, 2024
 
-[](https://ygorganization.com/cdp_malisslivetwin/ "CDP: Maliss Live Twin Cynet, ft. DBCB Support")
+[](https://ygorganization.com/potentialmandragonedition/ "Details About Triple Build Pack: Evolution Impact [RUSH DUEL]")
 
-#### [CDP: Maliss Live Twin Cynet, ft. DBCB Support](https://ygorganization.com/cdp_malisslivetwin/)
+#### [Details About Triple Build Pack: Evolution Impact \[RUSH DUEL\]](https://ygorganization.com/potentialmandragonedition/)
 
-September 18, 2024
+October 23, 2024
 
-[](https://ygorganization.com/yourfirststepintoalargerworld/ "Alternative Artworks Confirmed For World Premiere Pack 2024 [WPP5]")
+[](https://ygorganization.com/more-quarter-century-nostalgia-reprints-tcg/ "More Quarter Century Nostalgia Reprints [TCG]")
 
-#### [Alternative Artworks Confirmed For World Premiere Pack 2024 \[WPP5\]](https://ygorganization.com/yourfirststepintoalargerworld/)
+#### [More Quarter Century Nostalgia Reprints \[TCG\]](https://ygorganization.com/more-quarter-century-nostalgia-reprints-tcg/)
 
-September 18, 2024
+October 23, 2024
 
-[](https://ygorganization.com/1812overture/ "Counterattack With “Ancient Gear Barrage”! [RD/LGP2]")
+[](https://ygorganization.com/cdp_abcunionfuse/ "CDP: ABC XYZ Cyber Union, with Eosvarog, Forger of the Dawn and Union Pilot")
 
-#### [Counterattack With “Ancient Gear Barrage”! \[RD/LGP2\]](https://ygorganization.com/1812overture/)
+#### [CDP: ABC XYZ Cyber Union, with Eosvarog, Forger of the Dawn and Union Pilot](https://ygorganization.com/cdp_abcunionfuse/)
 
-September 18, 2024
+October 23, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
