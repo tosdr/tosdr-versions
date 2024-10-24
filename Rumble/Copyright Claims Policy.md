@@ -59,129 +59,121 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
+[The Jimmy Dore Show
 
-158K](https://rumble.com/v5jxogd-kamala-has-a-plan-for-election-night-and-it-isnt-good-ep.-2357-10242024.html "The Dan Bongino Show")
+9.99K](https://rumble.com/v5jzb59-kamala-fumbles-cnn-interview-china-and-india-resolve-border-dispute-w-tim-p.html "The Jimmy Dore Show")
 
 [Bannons War Room
 
-12.7K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-6.39K](https://rumble.com/v5jwszh-badlands-daily-thursday-october-24-2024.html "Badlands Media")
+8.73K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
 [NEWSMAX
 
-4.92K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+3.35K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[The Rubin Report
+[Kimberly Guilfoyle
 
-2.85K](https://rumble.com/v5jxzkl-kamalas-latest-attack-proves-she-is-grasping-at-straws-and-getting-desperat.html "The Rubin Report")
+1.14K](https://rumble.com/v5jzgyl-delusion-and-desperation-the-kamala-harris-story-interviews-with-roger-ston.html "Kimberly Guilfoyle")
 
-[Due Dissidence
+[Vivek Ramaswamy
 
-1.46K](https://rumble.com/v5jwgss-kamala-squirms-on-cnn-atlantic-smears-trump-dnc-orders-tavis-smiley-to-gril.html "Due Dissidence")
-
-[Major League Fishing
-
-544](https://rumble.com/v5jq1l1-live-general-tire-team-series-patriot-cup-day-1.html "Major League Fishing")
+528](https://rumble.com/v5jz7zp-message-to-arizona-go-vote-now.html "Vivek Ramaswamy")
 
 [Lofi Girl
 
-316](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+254](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Geeks + Gamers
+[TruthStream with Joe and Scott
 
-214](https://rumble.com/v5jxwpt-geeks-gamers-daily-texas-meet-up-recap.html "Geeks + Gamers")
+149](https://rumble.com/v5jthi9-dr-david-martin-our-12-senses-live-2pm-pacific5pm-eastern-1024.html "TruthStream with Joe and Scott")
 
-[barstoolsports
+[Major League Fishing
 
-191](https://rumble.com/v5jxeyl-kms-live-october-24-2024.html "barstoolsports")
+140](https://rumble.com/v5jq1l1-live-general-tire-team-series-patriot-cup-day-1.html "Major League Fishing")
 
-[The Kirk Minihane Show
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
 
-102](https://rumble.com/v5jxeyl-kms-live-october-24-2024.html "The Kirk Minihane Show")
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
 
-[Mostly Sports With Mark Titus and Brandon Walker
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
 
-89](https://rumble.com/v5jv2zn-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
 
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
 
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
 
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
-
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
-
-[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
-
-[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
 
 [Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
 
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
 
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
 
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
-
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
 
 [Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
 
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
 
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
 
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
+[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
 
-[Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+
+[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
+
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
 
 ### Theme
 
