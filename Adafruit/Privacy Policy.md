@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea”
+“ Either I win or I learn”
 
-[Antoine de Saint-Exupery](http://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
+[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 [](https://www.adafruit.com/about)
 
