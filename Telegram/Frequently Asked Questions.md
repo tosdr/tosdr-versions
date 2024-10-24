@@ -299,7 +299,7 @@ Thanks to this structure, we can ensure that no single government or block of li
 
 To this day, we have disclosed 0 bytes of user messages to third parties, including governments.
 
-> For more information on how your data is protected, please see the [Telegram Privacy Policy](https://telegram.org/privacy) and [this post](https://t.me/durov/344) by the Telegram CEO.
+> For more information on how your data is protected, please see the [Telegram Privacy Policy](https://telegram.org/privacy) and [this post](https://t.me/durov/345) by the Telegram CEO.
 
 ### [](#telegram-basics)Telegram Basics
 
