@@ -104,8 +104,6 @@ Team
 
 [Careers](https://fibery.io/blog/we-are-hiring/ "Careers")
 
-![Fibery loader image](/img/fibery-loader.gif)
-
 Schedule a demo
 
 [Log in](https://fibery.io/login)
@@ -326,8 +324,6 @@ Team
 [Startup diary](https://fibery.io/blog/startup-diary/ "Startup diary")
 
 [Careers](https://fibery.io/blog/we-are-hiring/ "Careers")
-
-![Fibery loader image](/img/fibery-loader.gif)
 
 © Fibery Limited[Terms](https://fibery.io/terms)[Privacy Policy](https://fibery.io/privacy-policy)[Cookies Policy](https://fibery.io/cookies-policy)
 
