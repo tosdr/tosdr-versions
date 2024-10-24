@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-14a2f15cc1182f6b2e04b42dde565c41
+6dca3f4636efbde0f4e5bfd02fb54d3b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Blue Sunstone stone chips](https://www.sojourner.biz/images/cache/blue_sunstone_twist.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/blue-sunstone-stone-chips.html "Blue Sunstone stone chips")
+[![Tourmaline Sparkler necklace](https://www.sojourner.biz/images/cache/jewelry/N0071.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/tourmaline-sparkler-necklace.html "Tourmaline Sparkler necklace")
 
-#### [Blue Sunstone stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/blue-sunstone-stone-chips.html "Blue Sunstone stone chips")
+#### [Tourmaline Sparkler necklace](https://www.sojourner.biz/jewelry/necklaces/tourmaline-sparkler-necklace.html "Tourmaline Sparkler necklace")
 
-$5.00
+$99.00
 
 ### Best Sellers
 
@@ -189,12 +189,12 @@ $5.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
+6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
-8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
 10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
