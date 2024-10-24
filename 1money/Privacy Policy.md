@@ -53,7 +53,6 @@ The General Data Protection Regulation (GDPR) require us to explain the valid le
 
 Vendors, Consultants, and Other Third-Party Service Providers. We may share your data with third-party vendors, service providers, contractors, or agents ('third parties') who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organisation apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct. The third parties we may share personal information with are as follows:
 
-* Advertising, Direct Marketing, and Lead Generation: [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * Allow Users to Connect to Their Third-Party Accounts: [Google Account](https://www.google.com/policies/privacy/), [Apple Account](https://www.apple.com/legal/privacy/data/en/sign-in-with-apple/)
 * Functionality and Infrastructure Optimisation: [Firebase Realtime Database](https://firebase.google.com/support/privacy)
 * User Account Registration and Authentication: [Firebase Authentication](https://firebase.google.com/support/privacy), [Google Sign-In](https://www.google.com/policies/privacy/), [Apple Sign-In](https://www.apple.com/legal/privacy/data/en/sign-in-with-apple/)
@@ -63,7 +62,7 @@ Vendors, Consultants, and Other Third-Party Service Providers. We may share your
 
 **WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
 
-The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
+The Services may link to third-party websites, online services, or mobile applications that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
 **HOW DO WE HANDLE YOUR SOCIAL LOGINS?**
 
@@ -102,4 +101,4 @@ We may update this privacy notice from time to time. Thus, you are advised to re
 
 You may contact our Data Protection Officer (DPO): Svyatoslav Vlasov, by email at support@pixelrush.org, or by post at Russia, 198260, Sankt-Peterburg, ul. Soldata Korzuna 5, 244
 
-Latest update: 2023-09-30
+Latest update: 2024-10-24
