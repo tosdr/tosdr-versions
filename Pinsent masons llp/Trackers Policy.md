@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings) 
@@ -304,7 +304,7 @@ Your cookies settings were saved
 
 \*Your selections will be automatically saved and you may navigate away from the Cookie Policy.
 
-If you have any queries concerning our use of your personal information, please email [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Please also visit our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy), which explains how we collect your personal information, what we do with it and your rights in respect of it.
+If you have any queries concerning our use of your personal information, please email [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Please also visit our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy), which explains how we collect your personal information, what we do with it and your rights in respect of it.
 
 1\. What are cookies?
 ---------------------
@@ -316,7 +316,7 @@ You can find more information about cookies and similar technologies at [www.a
 2\. The types of cookies that we use
 ------------------------------------
 
-This section sets out information about the cookie technology that we use on our site for which we are responsible. Where 'personal data' is processed by these cookies, Pinsent Masons LLP is the 'data controller' of that information, within the meaning of applicable data protection legislation. For an explanation of the meaning of these and other data protection legislation terms, and for comprehensive information about our responsibilities when handling personal data - including transfers of personal data across the Pinsent Masons business worldwide - and your rights in respect of any personal information of yours that we process, please see our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy).
+This section sets out information about the cookie technology that we use on our site for which we are responsible. Where 'personal data' is processed by these cookies, Pinsent Masons LLP is the 'data controller' of that information, within the meaning of applicable data protection legislation. For an explanation of the meaning of these and other data protection legislation terms, and for comprehensive information about our responsibilities when handling personal data - including transfers of personal data across the Pinsent Masons business worldwide - and your rights in respect of any personal information of yours that we process, please see our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy).
 
 Third party providers of the cookie technology that we use may process data collected by the cookies on our site, in an aggregated form, for their own purposes. If this is the case in respect of any of the third party cookie providers that we use, we have indicated as much in the tables set out in this section.
 
@@ -482,23 +482,23 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
