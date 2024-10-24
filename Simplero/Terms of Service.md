@@ -212,7 +212,7 @@ To access the account billing page, login at simplero.com. If you have more than
 
 If you are not satisfied with the service, we are happy to provide a full refund within 30 days of the end of your first payment. After that, we don't do refunds, and you're paying for availability, so even if you don't use the service, you still have to pay us.
 
-Make sure the credit card and contact information for your account is always up-to-date. That's your responsibility.
+Make sure the credit card and contact information for your account is always up-to-date. That's your responsibility. It is also your responsibility to make sure that your account is on the Plan that you want it to be on. You can see the options at simplero.com/pricing.
 
 All charges are automatically invoiced and charged to the card on file. You'll get an email invoice when that happens.
 
