@@ -27,10 +27,6 @@ If you see someone harass, troll, or spam anywhere in the freeCodeCamp community
 
 Also, no bots are allowed in the freeCodeCamp community without prior written permission from **[Quincy Larson](https://www.twitter.com/ossia)**.
 
-ADVERTISEMENT
-
-ADVERTISEMENT
-
 * * *
 
 If you read this far, thank the author to show them you care. Say Thanks
