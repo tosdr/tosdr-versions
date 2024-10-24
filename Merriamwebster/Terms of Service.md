@@ -36,18 +36,20 @@ Est. 1828
 Terms of Use
 ============
 
+23 Oct 2024
+
 * * *
 
 **Merriam-Webster, Incorporated (“Merriam-Webster”)**  
 _Terms of Use for Website, Mobile Application and Online Services_
 
-Last Updated and Effective as of: January 26, 2024
+Last Updated and Effective as of: October 23, 2024
 
-Unless other terms and conditions or agreements with Merriam-Webster expressly govern, these Terms of Use govern your use of our websites, mobile applications or online services that link to these Terms of Use (collectively, the "Services"). Please note, these Terms of Use are subject to and incorporate the terms of all other legal notices that appear on the Services, including our [Privacy Policy](https://www.merriam-webster.com/i/privacy-policy) located at [https://www.merriam-webster.com/i/privacy-policy](https://www.merriam-webster.com/i/privacy-policy), which describes how we process the data we collect from our Services.
+Unless other terms and conditions or agreements with Merriam-Webster expressly govern, these Terms of Use govern your use of our websites, mobile applications or online services that link to these Terms of Use (collectively, the "Services"). Please note, these Terms of Use are subject to and incorporate the terms of all other legal notices that appear on the Services, including our [**Privacy Policy**](https://www.merriam-webster.com/i/privacy-policy), which describes how we process the data we collect from our Services.
 
 Unless otherwise provided in a written agreement with Merriam, your use of the Services constitutes your agreement to these Terms of Use. If you do not agree with these Terms of Use, please do not use the Services. Merriam reserves the right to change, modify, add or remove portions of these Terms of Use at any time. If we make any material changes to these Terms of Use that impact your rights, we will notify you by email (sent to the email address in your account) and by a notice on the Services prior to the effective date of such changes with an opportunity for you to review the same, unless otherwise required by applicable law. All non-material amended terms automatically will take effect when they are posted on the Services. Please check this page periodically for any modifications. Your continued use of any of the Services following the posting of any non-material changes to these Terms of Use shall mean that you have accepted those changes. All other amended terms will take effect 30 days after you are notified of the same.
 
-THESE TERMS OF USE CONTAIN [DISCLAIMERS OF WARRANTIES](#disclaimers), [LIMITATION OF LIABILITY](#lim-of-liability), [GOVERNING LAW & VENUE](#governing-law), AND [CLASS ACTION WAIVER](#class-action) PROVISIONS. THESE PROVISIONS AFFECT YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH MERRIAM-WEBSTER. PLEASE READ THEM.
+THESE TERMS OF USE CONTAIN [DISCLAIMERS OF WARRANTIES](#disclaimers), [LIMITATION OF LIABILITY](#lim-of-liability), [GOVERNING LAW & VENUE](#governing-law) AND [CLASS ACTION WAIVER](#class-action) PROVISIONS. THESE PROVISIONS AFFECT YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH MERRIAM-WEBSTER. PLEASE READ THEM.
 
 Merriam-Webster offers three types of access to its Services: (1) advertising-supported; (2) individual and family consumer subscriptions; and (3) institutional subscriptions. [Section 1](#section-1) of these Terms of Use applies to all individuals who use our Services, both advertising-supported and subscription-based. [Section 2](#section-2) applies only to individuals with consumer subscriptions. [Section 3](#section-3) applies only to individuals who are Authorized Users under institutional subscriptions. [Section 4](#section-4)\-Legal Notices-applies to everyone.
 
@@ -70,7 +72,7 @@ Our information collection and use policies with respect to the privacy of perso
 
 **Use of Content**: You may display, reproduce, print or download content, including images, from the Services only for your personal, non-commercial use. If you are a teacher, scholar or student, you may copy reasonable portions of the content, including images, for lesson plans, interactive whiteboards, reports, dissertations, presentations, school newspapers and for similar nonprofit educational purposes to the extent permitted by applicable law. In each case, however, you may not remove or alter any copyright, trademark, service mark or other proprietary notices or legends. You may not publish, distribute, retransmit, sell or provide access to the content on the Services, except as permitted under applicable law or as described in these Terms of Use. Merriam-Webster works to ensure that all the content on its Services complies with applicable U.S. copyright laws. However, in the case of works on the Services authored by parties other than Merriam-Webster, including User-Generated Content as contemplated by the UGC paragraph below, you may wish to check on their copyright status before downloading them if you are in another country. You may not use data mining, robots, screen scraping, or similar data gathering and extraction tools on the Services, **such as artificial intelligence ("AI") for purposes of developing or training AI or conducting computer analysis**, except with our express written consent. You may not decompile, reverse engineer or disassemble any software or other products or processes accessible through the Services, insert any code or product or manipulate the content of the Services in any way that affects the user's experience.
 
-If you want to reproduce or use content for any purpose or in any manner other than as described above, **including for purposes of developing or training AI or to conduct computer analysis**, you will need Merriam-Webster's permission. Requests should be directed to [this syndication form](http://www.merriam-webster.com/contact/business-inquiry.htm).
+If you want to reproduce or use content for any purpose or in any manner other than as described above, **including for purposes of developing or training AI or to conduct computer analysis**, you will need Merriam-Webster's permission. Requests should be submitted using our [**Contact Form**](https://www.merriam-webster.com/contact-us).
 
 **User-Generated Content**: This section applies to the extent we have enabled posting of user-submitted comments, audio, video, text or other materials in the Services or otherwise allow you to send information or materials through the Services (collectively, UGC).
 
@@ -107,7 +109,7 @@ By linking to the Services, you agree that you will not:
 * link to the Services from any Web page or Web site containing libelous, obscene or criminal material, or material that infringes, violates, or advocates the infringement or violation of any third-party rights; or
 * host, publish, broadcast, rewrite or redistribute any content on the Services except as permitted in these Terms of Use or as specifically permitted by Merriam-Webster.
 
-**Mobile Application Services**: You may download certain mobile applications from either Merriam-Webster Web sites or third-party app stores. All of these Terms of Use, including the notices contained in our [Privacy Policy](https://www.merriam-webster.com/i/privacy-policy-adt), apply to the maximum extent relevant to your use of such Merriam-Webster mobile applications. Prices for our mobile applications may change at any time, and the Services do not provide price protection or refunds in the event of a price reduction or promotional offering.
+**Mobile Application Services**: You may download certain mobile applications from either Merriam-Webster Web sites or third-party app stores. All of these Terms of Use, including the notices contained in our [Privacy Policy](https://www.merriam-webster.com/i/privacy-policy), apply to the maximum extent relevant to your use of such Merriam-Webster mobile applications. Prices for our mobile applications may change at any time, and the Services do not provide price protection or refunds in the event of a price reduction or promotional offering.
 
 **Disclaimer of Warranties**: THE SERVICES AND ALL INFORMATION, PRODUCTS, AND OTHER CONTENT INCLUDED IN OR ACCESSIBLE FROM THE SERVICES ARE PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND (EXPRESS, IMPLIED, AND STATUTORY, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE), ALL OF WHICH MERRIAM-WEBSTER EXPRESSLY DISCLAIMS TO THE FULLEST EXTENT PERMITTED BY LAW.
 
@@ -156,11 +158,11 @@ Section 4. Legal Notices
 
 ### Copyrights
 
-All contents of the Services are © Merriam-Webster, Incorporated or its licensors. All rights reserved. Merriam-Webster Online ([www.Merriam-Webster.com](http://www.merriam-webster.com/)) is copyrighted 2023 by Merriam-Webster, Incorporated. Included within the Services are:
+All contents of the Services are © Merriam-Webster, Incorporated or its licensors. All rights reserved. Merriam-Webster Online ([www.Merriam-Webster.com](http://www.merriam-webster.com/)) is copyrighted 2024 by Merriam-Webster, Incorporated. Included within the Services are:
 
-* Merriam-Webster Online Dictionary copyright © 2023 by Merriam-Webster, Incorporated
-* Merriam-Webster Online Thesaurus copyright © 2023 by Merriam-Webster, Incorporated
-* Word of the Day copyright © 1995-2023 by Merriam-Webster, Incorporated
+* Merriam-Webster Online Dictionary copyright © 2024 by Merriam-Webster, Incorporated
+* Merriam-Webster Online Thesaurus copyright © 2024 by Merriam-Webster, Incorporated
+* Word of the Day copyright © 1995-2024 by Merriam-Webster, Incorporated
 * Merriam-Webster's Collegiate Dictionary, Eleventh Edition copyright © 2008 by Merriam-Webster, Incorporated
 * Merriam-Webster's Intermediate Thesaurus copyright © 2004 by Merriam-Webster, Incorporated
 * Merriam-Webster's Spanish-English Dictionary copyright © 1998 by Merriam-Webster, Incorporated
