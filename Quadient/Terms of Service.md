@@ -6,16 +6,13 @@ Cancel
 
 * It seems that there's no more results to display.
 
-* About us [Myquadient](https://www.myquadient.com/US/en_US/CustomerLogin) [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)
-    
-    ![English](/images/icon-us.png)
-    
+* About us[Myquadient](https://www.myquadient.com/US/en_US/CustomerLogin)[Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)
 
-Who we are [News](https://www.quadient.com/en/news) [Our story](https://www.quadient.com/en/about-us) [Standard of excellence](https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](https://www.quadient.com/en/about-us/worldwide-presence) [Leadership team](https://www.quadient.com/en/leadership-team) [Corporate social responsibility](https://invest.quadient.com/en/corporate-social-responsibility)
+Who we are [News](https://www.quadient.com/en/news) [Our story](internal:https://www.quadient.com/en/about-us) [Standard of excellence](internal:https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](internal:https://www.quadient.com/en/about-us/worldwide-presence) [Leadership team](internal:https://www.quadient.com/en/leadership-team) [Corporate social responsibility](internal:https://invest.quadient.com/en/corporate-social-responsibility)
 
-Work with us [Contact us](https://www.quadient.com/en/contact-us) [Investor relations](https://invest.quadient.com/en/quadient-investor-relations) [Distributors](https://www.quadient.com/en/distributors) [Careers](https://careers.quadient.com/)
+Work with us [Contact us](https://www.quadient.com/en/contact-us) [Investor relations](internal:https://invest.quadient.com/en/quadient-investor-relations) [Distributors](https://www.quadient.com/en/distributors) [Careers](internal:https://careers.quadient.com)
 
-Other solutions [Quadient Software](https://www.quadient.com/en/) [Parcel lockers](https://www.parcelpending.com/)
+Other solutions [Quadient Software](internal:https://www.quadient.com/en/) [Parcel lockers](internal:https://www.parcelpending.com/)
 
 Choose your country [Austria](https://www.quadient.com/de-at) [Belgium - NL](https://www.quadient.com/nl-be) [Belgium - FR](https://www.quadient.com/fr-be) [Canada - EN](https://www.quadient.com/en-ca) [Canada - FR](https://www.quadient.com/fr-ca) [Denmark](https://www.quadient.com/da) [Finland](https://www.quadient.com/fi) [France](https://www.quadient.com/fr) [Germany](https://www.quadient.com/de) [India](https://www.quadient.com/in) [Italy](https://www.quadient.com/it) [Japan](https://www.quadient.com/ja) [Netherlands](https://www.quadient.com/nl) [Norway](https://www.quadient.com/no) [Sweden](https://www.quadient.com/sv) [Switzerland - DE](https://www.quadient.com/de-ch) [Switzerland - FR](https://www.quadient.com/fr-ch) [United Kingdom & Ireland](https://www.quadient.com/en-gb) [United States](https://www.quadient.com/en)
 
@@ -40,8 +37,9 @@ Choose your country [Austria](https://www.quadient.com/de-at) [Belgium - NL](htt
     
 * [](https://www.quadient.com/en "Home")
     
-* Mailing and shipping solutions How we help Resources Support Contact us Languages
-* [](https://www.myquadient.com/US/en_US/Shop)
+* Mailing and shipping solutions Customer communications How we help Resources Support Contact us Languages
+* [](#)
+* [](#)
 
 Intelligent mailing [Postage meters & mailing systems](https://www.quadient.com/en/postage-meters-mailing-systems) [Folder inserters](https://www.quadient.com/en/folder-inserters) [Mail openers](https://www.quadient.com/en/mail-openers) [Digital printers & addressing](https://www.quadient.com/en/digital-printers-addressing) [Parcel shipping & tracking solutions](https://www.quadient.com/en/package-shipping-solutions) [Smart mailing software](https://www.quadient.com/en/mailroom-software) [Ink & supplies](https://www.quadient.com/en/postage-meter-ink)
 
@@ -55,7 +53,7 @@ Communications [Quadient newsletter](https://www.quadient.com/en/quadient-connec
 
 Other Resources [Tax information](https://www.quadient.com/en/resources/tax-information) [Terms of use](https://www.quadient.com/en/terms-and-conditions) [Government accounts](https://www.quadient.com/en/government-accounts) [Healthcare group purchasing](https://www.quadient.com/en/healthcare-group-purchasing/premier-gpo) [Quadient financial services](https://www.quadient.com/en/resources/financial-services)
 
-Help & support [Help & support](https://www.quadient.com/en/support) [Myquadient](https://www.myquadient.com/) [Knowledge base](https://kb.quadient.com/?sc_Lang=en-US) [FAQ](https://www.quadient.com/en/faq)
+Help & support [Help & support](https://www.quadient.com/en/support) [Myquadient](internal:https://www.myquadient.com) [Knowledge base](internal:https://kb.quadient.com/?sc_Lang=en-US) [FAQ](https://www.quadient.com/en/faq)
 
 [Contact us](https://www.quadient.com/en/contact-us)
 
@@ -122,10 +120,10 @@ Because connections matter.
 
 * Product
 * [Mailing and Shipping solutions](https://www.quadient.com/en/intelligent-mailing)
-* [Customer Communications](https://www.quadient.com/en-int/customer-communications)
-* [AP Automation](https://www.quadient.com/en/ap-automation)
-* [AR Automation](https://www.quadient.com/en/ar-automation)
-* [Parcel lockers](https://www.parcelpending.com/)
+* [Customer Communications](internal:https://www.quadient.com/en-int/customer-communications)
+* [AP Automation](internal:https://www.quadient.com/en/ap-automation)
+* [AR Automation](internal:https://www.quadient.com/en/ar-automation)
+* [Parcel lockers](internal:https://www.parcelpending.com/)
 
 * Resources
 * [Resource Library](https://www.quadient.com/en/resources)
@@ -135,19 +133,19 @@ Because connections matter.
 * [Learn](https://www.quadient.com/en/learn-about-mail-related-solutions)
 
 * Company
-* [About us](https://www.quadient.com/en/about-us)
-* [Commitments](https://invest.quadient.com/en-US/about-us/corporate-social-responsibility)
-* [Investor Relations](https://invest.quadient.com/en-US)
-* [Partner Programs](https://www.quadient.com/en/partners)
-* [US Partner Portal](https://portal.neopostinc.com/myneopost.aspx)
-* [Careers](https://careers.quadient.com/)
+* [About us](internal:https://www.quadient.com/en/about-us)
+* [Commitments](internal:https://invest.quadient.com/en-US/about-us/corporate-social-responsibility)
+* [Investor Relations](internal:https://invest.quadient.com/en-US)
+* [Partner Programs](internal:https://www.quadient.com/en/partners)
+* [US Partner Portal](internal:https://portal.neopostinc.com/myneopost.aspx)
+* [Careers](internal:https://careers.quadient.com)
 
 * Solutions
 * [How we help](https://www.quadient.com/en/how-we-help)
 
 * Support
 * [Support](https://www.quadient.com/en/support)
-* [Knowledge Base](https://kb.quadient.com/)
+* [Knowledge Base](internal:https://kb.quadient.com/)
 * [Contact us](https://www.quadient.com/en/contact-us)
 
 Product
@@ -162,6 +160,6 @@ Support
 
 © 2024 Quadient. All rights reserved.
 
-[Terms of use](https://www.quadient.com/en/terms-use) [Privacy & Cookies](https://www.quadient.com/en/quadient-website-privacy-statement) [Security](https://www.quadient.com/en/policies-and-certifications)[](https://www.linkedin.com/showcase/quadient-mail)[](https://twitter.com/Quadient)[](https://www.facebook.com/quadient/)[](https://www.instagram.com/quadientgroup/)[](https://www.youtube.com/c/Quadient?sub_confirmation=1)[](https://www.glassdoor.ca/Overview/Working-at-Quadient-EI_IE25100.11,19.htm)
+[Terms of use](https://www.quadient.com/en/terms-use) [Privacy & Cookies](internal:https://www.quadient.com/en/quadient-website-privacy-statement) [Security](https://www.quadient.com/en/policies-and-certifications)[](internal:https://www.linkedin.com/showcase/quadient-mail)[](internal:https://twitter.com/Quadient)[](internal:https://www.facebook.com/quadient/)[](internal:https://www.instagram.com/quadientgroup/)[](internal:https://www.youtube.com/c/Quadient?sub_confirmation=1)[](internal:https://www.glassdoor.ca/Overview/Working-at-Quadient-EI_IE25100.11,19.htm)
 
 Cookie Settings
