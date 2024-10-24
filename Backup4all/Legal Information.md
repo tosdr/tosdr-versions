@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/halloween/ghost.png?ek79cy)
 
-#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
+#### Halloween sale: 40% Discount for Backup4all Pro to unlock new features (Save US$ 20.00)
 
-Buy (US$ 93.33)
+Buy (US$ 29.99)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to clear the backup](https://www.backup4all.com/how-to-clear-the-backup-kb.html)  
+* [How to back up data files from Box using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-box-using-backup4all-kb.html)  
     
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
     
-* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
+* [How to backup your data to QNAP](https://www.backup4all.com/how-to-backup-your-data-to-qnap-kb.html)  
     
-* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
+* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
     
-* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
+* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
     
 
 Choose language:
