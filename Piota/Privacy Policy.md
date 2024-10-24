@@ -2,7 +2,7 @@
 
 [](https://www.piota.co.uk/)
 
-* [School Apps](https://www.piota.co.uk/student-performance/)
+* [School Apps](https://www.piota.co.uk/school-app/)
     * [School App Features](https://www.piota.co.uk/school-app-features/)
 * [Charity Apps](https://www.piota.co.uk/charity-apps/)
     * [Charity App Features](https://www.piota.co.uk/charity-app-features/)
@@ -20,7 +20,7 @@ Book Appointment Now
 
 [![Piota](https://www.piota.co.uk/wp-content/uploads/2024/06/Piota-logo.png)](https://www.piota.co.uk/)
 
-* [School Apps](https://www.piota.co.uk/student-performance/)
+* [School Apps](https://www.piota.co.uk/school-app/)
     * [School App Features](https://www.piota.co.uk/school-app-features/)
 * [Charity Apps](https://www.piota.co.uk/charity-apps/)
     * [Charity App Features](https://www.piota.co.uk/charity-app-features/)
