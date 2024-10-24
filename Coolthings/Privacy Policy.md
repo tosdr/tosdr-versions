@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
+    
+    [Insta360 Ace Pro 2 Brings 8K Video, Dual AI Chips, and Improved Audio Recording](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/boox-palma-2-smartphone-sized-e-reader-faster-hardware-better-security/)
+    
+    [Boox Palma 2 Refreshes the Smartphone-Sized E-Reader with Faster Hardware, Better Security, and More](https://www.coolthings.com/boox-palma-2-smartphone-sized-e-reader-faster-hardware-better-security/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nuio-flow-keyboard-wireless-split-ergonomic-typing-premium-build/)
     
     [Nuio Flow Keyboard Delivers Ergonomic Typing Function in a Premium Package](https://www.coolthings.com/nuio-flow-keyboard-wireless-split-ergonomic-typing-premium-build/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/rolling-square-incharge-xs-keychain-charger-240w-fast-charging/)
-    
-    [Rolling Square inCharge XS Updates the Keychain Charger to Support 240W Fast Charging](https://www.coolthings.com/rolling-square-incharge-xs-keychain-charger-240w-fast-charging/)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-ups-battery-backups-to-protect-your-essential-devices/)
-    
-    [The Best UPS Battery Backups to Protect Your Essential Devices](https://www.coolthings.com/the-best-ups-battery-backups-to-protect-your-essential-devices/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
+    
+    [Insta360 Ace Pro 2 Brings 8K Video, Dual AI Chips, and Improved Audio Recording](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ultimate-ears-miniroll-portable-bluetooth-speaker-rear-mounting-strap/)
     
     [Ultimate Ears Miniroll Speaker Can Be Mounted on Bag Straps, Handlebars, and a Whole Lot More](https://www.coolthings.com/ultimate-ears-miniroll-portable-bluetooth-speaker-rear-mounting-strap/)
@@ -52,11 +57,6 @@
     
     [Outisan e-Wagon Air Motorized Utility Cart Makes Hauling 150 Pounds Easier than Ever](https://www.coolthings.com/outisan-e-wagon-air-motorized-utility-cart-150-pounds-load-10-degree-inclines/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-portable-home-saunas-for-recovery-relaxation-and-health/)
-    
-    [The Best Portable Home Saunas for Recovery, Relaxation, and Health](https://www.coolthings.com/the-best-portable-home-saunas-for-recovery-relaxation-and-health/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
