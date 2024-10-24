@@ -875,7 +875,7 @@ Gesundes Älterwerden
 
 Fitness
 
-[GLP-1-Therapie-Hilfsmittel](https://de.iherb.com/c/glp-1-support/store)
+[GLP-1-Therapie-Hilfsmittel](https://de.iherb.com/c/glp-1-support)
 
 [Flüssigkeitszufuhr](https://de.iherb.com/c/hydration-electrolytes)
 
