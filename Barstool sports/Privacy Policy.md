@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Basketball Collection](https://store.barstoolsports.com/collections/basketball)
+* [Fall Golf Collection](https://store.barstoolsports.com/collections/fore-play)
 * [New York Baseball Collection](https://store.barstoolsports.com/collections/new-york)
 * [Stella Blue Coffee Winter Flavors](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
