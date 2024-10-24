@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project/belgrade.?itok=vmT9HGjj)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2007/2008/36-g.jpg?itok=hj6_2Y6j)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20072008)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/jesenja-aukcija-madlarta121105-quotmadlenianumquot-otvaranje-izlozbe-041105/pertov.jpg?itok=kFE9H2cG)](http://seecult.org/galerija/foto-galerija/foto-arhiva/jesenja-aukcija-madlarta121105-madlenianum-otvaranje-izlozbe)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/brajan-feri-sava-centar-71007/bryan-ferry-010.jpg?itok=8zAhykHh)](http://seecult.org/galerija/foto-galerija/foto-arhiva/brajan-feri-sava-centar-71007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
