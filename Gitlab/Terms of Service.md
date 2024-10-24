@@ -2904,6 +2904,7 @@
                 * [ ]  [Responding to customers security scanners review requests](https://handbook.gitlab.com/handbook/security/product-security/application-security/responding-customers-scan-review-requests/)
                 * [ ]  [Threat Modeling](https://handbook.gitlab.com/handbook/security/product-security/application-security/threat-modeling/)
                     * [ ]  [Threat Modeling HowTo](https://handbook.gitlab.com/handbook/security/product-security/application-security/threat-modeling/howto/)
+            * [ ]  [Data Security](https://handbook.gitlab.com/handbook/security/product-security/data-security/)
             * [ ]  [Infrastructure Security](https://handbook.gitlab.com/handbook/security/product-security/infrastructure-security/)
                 * [ ]  [InfraSec Issue Lifecycle](https://handbook.gitlab.com/handbook/security/product-security/infrastructure-security/issue-lifecycle/)
                 * [ ]  [Infrastructure Security - Capacity Indicators and Workflows](https://handbook.gitlab.com/handbook/security/product-security/infrastructure-security/metrics/capacity/)
