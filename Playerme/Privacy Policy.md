@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/microsofts-new-xbox-wireless-headset-improved-features/)
+    [](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
     
-    ![Microsoft's New Xbox Wireless Headset Features Improved Battery Life and Bluetooth Support From Its 2021 Version](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![LazyFlock's New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/microsofts-new-xbox-wireless-headset-improved-features/)
+    [](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
     
-    ![Microsoft's New Xbox Wireless Headset Features Improved Battery Life and Bluetooth Support From Its 2021 Version](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![LazyFlock's New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/wp-content/uploads/2024/10/LazyFlocks-New-Haunted-Paws-Co-op-Horror-Game-Allows-Players-to-Adventure-as-Dogs.png)
+
+[LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 24, 2024/
+
+Indie game developer LazyFlock has announced Haunted Paws. In this cozy yet spooky co-op horror game, players take on the…
+
+[Read More](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+
+![Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/wp-content/uploads/2024/10/Diablo-4-Halloween-Event-Guide.png)
+
+[Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/diablo-4-halloween-event-guide/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 24, 2024/
+
+Diablo 4 fans have been sinking their teeth into the new Vessel of Hatred expansion for a few weeks, but…
+
+[Read More](https://player.me/diablo-4-halloween-event-guide/)
+
 ![Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus? ](https://player.me/wp-content/uploads/2024/10/Bluesky-vs-Twitter.png)
 
 [Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus?](https://player.me/how-did-bluesky-gain-2-million-users-from-twitter/) 
@@ -218,32 +244,6 @@ October 21, 2024/
 Valley Peaks is a first-person, cozy platformer developed by Tub Club and published by Those Awesome Guys, known for games…
 
 [Read More](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
-
-![Subnautica 2 Is Officially Launching in 2025 on PC and Xbox, with Early Access Release Date Unconfirmed](https://player.me/wp-content/uploads/2024/10/Subnautica-2-Is-Officially-Launching-in-2025-on-PC-and-Xbox-with-Early-Access-Release-Date-Unconfirmed.png)
-
-[Subnautica 2 Is Officially Launching in 2025 on PC and Xbox, with Early Access Release Date Unconfirmed](https://player.me/subnautica-2-is-launching-in-2025-on-pc-and-xbox/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 18, 2024/
-
-During the October 17, 2024, Xbox Partner Preview event, Krafton and Unknown Worlds Entertainment officially announced Subnautica 2. Slated for…
-
-[Read More](https://player.me/subnautica-2-is-launching-in-2025-on-pc-and-xbox/)
-
-![Phasmophobia Console Early Access Release Date Confirmed on October 29, but with a Slight Drawback](https://player.me/wp-content/uploads/2024/10/Phasmophobia-Console-Early-Access-Release-Date-Confirmed-on-October-29-but-with-a-Slight-Drawback.png)
-
-[Phasmophobia Console Early Access Release Date Confirmed on October 29, but with a Slight Drawback](https://player.me/phasmophobia-console-early-access-release-confirmed/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 18, 2024/
-
-Since its original PC launch in 2020, Phasmophobia has garnered a massive fanbase of aspiring ghost hunters and earned a…
-
-[Read More](https://player.me/phasmophobia-console-early-access-release-confirmed/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/wp-content/uploads/2024/10/LazyFlocks-New-Haunted-Paws-Co-op-Horror-Game-Allows-Players-to-Adventure-as-Dogs.png)
+
+[LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 24, 2024/
+
+Indie game developer LazyFlock has announced Haunted Paws. In this cozy yet spooky co-op horror game, players take on the…
+
+[Read More](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+
+![Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/wp-content/uploads/2024/10/Diablo-4-Halloween-Event-Guide.png)
+
+[Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/diablo-4-halloween-event-guide/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 24, 2024/
+
+Diablo 4 fans have been sinking their teeth into the new Vessel of Hatred expansion for a few weeks, but…
+
+[Read More](https://player.me/diablo-4-halloween-event-guide/)
+
 ![Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus? ](https://player.me/wp-content/uploads/2024/10/Bluesky-vs-Twitter.png)
 
 [Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus?](https://player.me/how-did-bluesky-gain-2-million-users-from-twitter/) 
@@ -379,32 +405,6 @@ October 18, 2024/
 Since its original PC launch in 2020, Phasmophobia has garnered a massive fanbase of aspiring ghost hunters and earned a…
 
 [Read More](https://player.me/phasmophobia-console-early-access-release-confirmed/)
-
-![TCG Card Shop Simulator Dissatisfied Customer Guide: 5 Best Ways to Keep Your Customers Happy](https://player.me/wp-content/uploads/2024/10/TCG-Card-Shop-Simulator-Dissatisfied-Customer-Guide.png)
-
-[TCG Card Shop Simulator Dissatisfied Customer Guide: 5 Best Ways to Keep Your Customers Happy](https://player.me/tcg-card-shop-simulator-dissatisfied-customer-guide/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 17, 2024/
-
-In TCG Card Shop Simulator, you step into the shoes of a card shop owner, managing everything from stock to…
-
-[Read More](https://player.me/tcg-card-shop-simulator-dissatisfied-customer-guide/)
-
-![New Apple Business Connect Updates Allows Company to Manage Emails, Calls and Tap-to-Pay Better](https://player.me/wp-content/uploads/2024/10/New-Apple-Business-Connect-Updates-Allows-Company-to-Manage-Emails-Calls-and-Tap-to-Pay-Better.png)
-
-[New Apple Business Connect Updates Allows Company to Manage Emails, Calls and Tap-to-Pay Better](https://player.me/apple-business-connect-updates-enhances-emails-and-calls/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 17, 2024/
-
-Apple has announced new features for its free Apple Business Connect service, designed to help businesses improve their visibility across…
-
-[Read More](https://player.me/apple-business-connect-updates-enhances-emails-and-calls/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world 
 
 player.me
 
+[](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/ "LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs")
+
+[LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+
+October 24, 2024
+
+[](https://player.me/diablo-4-halloween-event-guide/ "Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration")
+
+[Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/diablo-4-halloween-event-guide/)
+
+October 24, 2024
+
 [](https://player.me/how-did-bluesky-gain-2-million-users-from-twitter/ "Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus? ")
 
 [Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus?](https://player.me/how-did-bluesky-gain-2-million-users-from-twitter/) 
@@ -853,22 +865,10 @@ October 21, 2024
 
 October 21, 2024
 
-[](https://player.me/subnautica-2-is-launching-in-2025-on-pc-and-xbox/ "Subnautica 2 Is Officially Launching in 2025 on PC and Xbox, with Early Access Release Date Unconfirmed")
-
-[Subnautica 2 Is Officially Launching in 2025 on PC and Xbox, with Early Access Release Date Unconfirmed](https://player.me/subnautica-2-is-launching-in-2025-on-pc-and-xbox/)
-
-October 18, 2024
-
-[](https://player.me/phasmophobia-console-early-access-release-confirmed/ "Phasmophobia Console Early Access Release Date Confirmed on October 29, but with a Slight Drawback")
-
-[Phasmophobia Console Early Access Release Date Confirmed on October 29, but with a Slight Drawback](https://player.me/phasmophobia-console-early-access-release-confirmed/)
-
-October 18, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 574,435 times, 42 visit(s) today
+Visited 574,518 times, 125 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
