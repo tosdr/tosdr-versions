@@ -1,6 +1,6 @@
 ![](https://api.trustedform.com/ns.gif)  
 
-[![](https://theguardianlegalnetwork.com/wp-content/uploads/2021/02/GLN_Logo.png)](https://guardianlegal.wpengine.com/)
+[![](https://theguardianlegalnetwork.com/wp-content/uploads/2024/10/GLN_logo_Goldwater.png)](https://guardianlegal.wpengine.com/)
 
 [Menu](javascript:void(0);)
 
@@ -177,7 +177,7 @@ _email_
 
 Select a Case Type
 
-Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseDacthal Herbicide LawsuitElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
+Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseDacthal Herbicide LawsuitElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormTransvaginal MeshVideo Game AddictionXeljanzZantacOther
 
 Case Typecase type
 
