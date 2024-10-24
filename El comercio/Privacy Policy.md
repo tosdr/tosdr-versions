@@ -31,6 +31,218 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Quito, en transición al envejecimiento
+======================================
+
+Quito enfrenta un cambio demográfico con más adultos mayores y menos niños. Es hora de profundizar en políticas inclusivas.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Transición de la población de Quito-Ecuador de jóvenes a viejos, en medio del Centro Histórico.](https://www.elcomercio.com/wp-content/uploads/2024/10/Editorial-IA.jpg)
+
+Quito se enfrenta a un cambio demográfico significativo que plantea desafíos y oportunidades. En los últimos años se registra un  mayor incremento de la población de adultos mayores, que la de niños. Esto es un reflejo directo de la caída en la tasa de natalidad. En el caso de Pichincha y, específicamente Quito, está entre las más bajas del país. 
+
+El promedio de hijos por mujer en la provincia cayó a [1,3 hijos](https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html "https://www.elcomercio.com/sociedad/en-quito-el-aumento-de-adultos-mayores-supera-al-de-ninos-desafio-u-oportunidad.html"). Esto está por debajo del nivel de reemplazo que es de 2,1 hijos y, que permite que una población esté estable. En este caso más bien se abre un proceso de transición hacia el envejecimiento. 
+
+Mientras hoy hay **53** adultos mayores por cada **100** niños de cero a 14 años, para el 2035 se calcula que será de **111**.  Simultáneamente, en Quito, un **42,5%** de la población está [soltero](https://www.elcomercio.com/actualidad/quito/quito-la-capital-de-los-solteros.html "https://www.elcomercio.com/actualidad/quito/quito-la-capital-de-los-solteros.html"). Los jóvenes posponen el matrimonio y la paternidad. En esto inciden factores económicos y una priorización del desarrollo personal y la autonomía sobre las tradiciones familiares.  Esto se traduce, además, en un aumento en el número de hogares unipersonales y parejas sin hijos.
+
+Según un reciente estudio de [Pew Research Center](https://www.scrippsnews.com/us-news/study-shows-an-increasing-number-of-young-men-are-single#:~:text=About%206%20in%2010%20(63,in%20a%20committed%20romantic%20relationship. "https://www.scrippsnews.com/us-news/study-shows-an-increasing-number-of-young-men-are-single#:~:text=About%206%20in%2010%20(63,in%20a%20committed%20romantic%20relationship."), para cuando los adultos jóvenes actuales lleguen a los 50 años, una cuarta parte de ellos nunca habrá contraído matrimonio.
+
+El proceso de envejecimiento de la población presenta retos, por ejemplo, para el sistema de pensiones y el cuidado de los ancianos. En otras palabras habrá menos trabajadores en edad activa para sostener a una población jubilada en aumento. Tomando en cuenta, además, que hay un predominio de los trabajadores informales. 
+
+Esta transición demográfica debe ser vista como una oportunidad para cerrar la brecha de desigualdad y lograr una mayor inclusión. El objetivo es que en la ciudad, cada grupo etario pueda prosperar. 
+
+> Es necesario que las autoridades consideren estas dinámicas al diseñar políticas que atiendan las necesidades de los adultos mayores. Pero también las aspiraciones de los jóvenes solteros.
+
+Quito tiene la oportunidad de liderar el camino hacia un futuro donde se valore la experiencia acumulada por los mayores. Y este aporte puede amalgamar perfectamente con la energía e innovación que aportan las generaciones más jóvenes. 
+
+En este contexto es esencial fomentar espacios públicos amigables con los ancianos, promover programas intergeneracionales y garantizar el acceso a servicios básicos. 
+
+Estos cambios demográficos hay que afrontarlos con visión, responsabilidad y un enfoque inclusivo que garantice los derechos y el desarrollo sostenible para todos los quiteños.
+
+Los colores de la música
+========================
+
+El color y el sonido son como el amor.
+--------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**Siempre pensé que la música tenía alguna relación con los colores**. Y la intuición tuvo razón: descubrí que existen varias teorías cromáticas que explican el uso del color en la música. **La teoría del color cromático de Pitágoras, en la antigua Grecia, postula que los colores y los sonidos comparten una conexión,** puesto que ambos se expresan a través de números.
+
+Pues bien: lo primero que se me vino a la mente es el **arco iris –mezcla maravillosa de colores naturales que aparecen después de la lluvia-, y los trinos de las aves que entonan canciones que solo ellas entienden.**
+
+Un día me puse a escudriñar esos sonidos y su supuesta vinculación con la música. ¡Y quedé maravillado! Para ciertos investigadores la música es un invento exclusivo de los seres humanos. **La naturaleza es una verdadera sinfonía de colores y sonidos, que se articulan entre sí para lograr armonías.**
+
+Y dije a mis adentros: preguntemos a los colibríes y sus gemidos, a las flores dulces y su extraordinario aroma. Preguntemos a los delfines y sus silbidos, a las ballenas y sus ondas de sonar… A las plantas que tienen sentimientos y a la música del manantial que surca por las praderas…
+
+**El color y el sonido son como el amor.** **Están siempre juntos y se necesitan.** El color tiene esa capacidad para entretener la vida y entregarnos, gratuitamente, ese variopinto mensaje de la naturaleza y sus gamas que se combinan y relucen con la luz –porque son la misma luz que emana sabiduría ancestral-.
+
+**El sonido, en cambio, tiene la delicadeza de una vibración sutil que añade ritmo a nuestras sensibilidades,** que comunica un estado del espíritu y cadencia a nuestros sentidos. **Ambos –color y sonido- no están en los ojos y oídos de la carne, sino en el espíritu** que emerge todos los días, pero que, sin embargo, no los apreciamos porque hemos perdido la capacidad de asombro.
+
+Por eso me gustaría escribir la historia de los colores –**del rojo, del azul, del amarillo y del negro, y de la suma de todos que es el blanco-.** Y la historia de los sonidos, desde aquellos avatares sencillos como **los de las aves hasta los más complejos: los ruidos de los huracanes…**
+
+Cartas a Quito / 24 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este jueves 24 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Démosle la vuelta al Municipio de Quito
+---------------------------------------
+
+‘El poder tributario en relación con las tasas y contribuciones especiales corresponde a los gobiernos autónomos descentralizados, quienes actuarán mediante ordenanzas’ (A. Aguirre, 2024). Con relación a la contribución especial de mejora, los municipios podrían recuperar su inversión a través de cobrar, según el área de influencia, como determinó la Ordenanza 92 para el caso de Quito, los valores por la obra que la Empresa de Obras Públicas construya. El resto se recupera a través de las tasas de recolección de basura, agua potable, electricidad, etc. El gasto corriente en sueldos, gasto de oficinas, etc. podría reducirse al mínimo si los propios barrios supervisan a los 20 mil empleados y trabajadores poli funcionados trabajando en los mismos barrios donde los servidores públicos viven -sin gastos de oficina ni ‘tiempos muertos de transportación’, y coordinando con la oficina central del Municipio, que manejaría transparentemente indicadores de gestión, y el remanente sería dedicado a inversión priorizada por cada barrio. El mínimo de plantilla podría estar en oficina para elaborar términos de referencia para los distintos contratos para obras grandes, y realizar todo el proceso de contratación y fiscalización, así como la unidad administrativa financiera, de tecnologías de la información, jurídico y concejales -que deberían ser como coordinadores de fiscalización en los sectores que los eligieron. Así, lograremos un día que nuestro dinero no sea dispendiado en artistas internacionales -recordemos el millón de dólares que un alcalde pagó, o, como ahora, los 421 mil dólares destinados a una exposición que duró 4 días (M. Rosero, 2024), o los 30 mil dólares que pagan por cada instalación de ‘sonido’, en lugar de cada barrio tener su propio sonido por ejemplo. Es hora de darle la vuelta al Municipio a través de la estrategia de territorializar a los empleados, de entregar a los barrios el presupuesto de inversión que quede después del presupuesto comprometido para las obras de beneficio para toda la ciudad. Los recursos públicos deben cuidarse ‘como si la plata fuera de uno’. Sí, se puede ser ejemplo para el resto de municipios del país. El de Cuenca lleva la delantera en muchas cosas: el alcalde se planteó, y su gestión es fiscalizada por la ciudad en su más de una centena de objetivos planteados. Se siente el liderazgo del alcalde en esa ciudad. Felicitaciones. En Quito, seguimos con 32 años de lo mismo. 
+
+Diego Fabián Valdivieso Anda
+
+TICs en Ecuador: avances y desafíos
+-----------------------------------
+
+El panorama de las Tecnologías de la Información y Comunicación (TIC) en Ecuador, julio de 2024, muestra avances significativos, pero también desafíos persistentes. Con un 66% de los hogares con acceso a internet, el país ha mejorado respecto a años anteriores, aunque la brecha entre áreas urbanas y rurales sigue siendo notable.
+
+En las zonas urbanas, el acceso a internet alcanza el 73,6%, mientras que en las áreas rurales se reduce a solo 34%. Esta diferencia resalta la necesidad de políticas que aseguren un acceso equitativo a la tecnología, fundamental para el desarrollo social y económico del país. El 33,2% de los hogares ecuatorianos carece de computadoras o dispositivos similares. En contraste, el 51,4% de los hogares urbanos tiene acceso a computadoras. Esta disparidad indica que aún hay un largo camino por recorrer para garantizar que todos los ciudadanos puedan beneficiarse de las TIC.
+
+Aproximadamente el 81,1% de la población de 5 años y más utiliza internet. Sin embargo, este porcentaje varía significativamente entre áreas urbanas y rurales. La alfabetización digital es crucial para asegurar que todos puedan aprovechar al máximo las oportunidades que ofrecen las TIC. En 2024, el 57,7% de la población tiene un teléfono inteligente. Este dato es alentador, ya que los teléfonos inteligentes son herramientas clave para acceder a información y servicios digitales. Sin embargo, la penetración es menor en áreas rurales, donde solo el 42% cuenta con este tipo de dispositivos.
+
+El analfabetismo digital afecta al 5,4% de la población. Esta cifra subraya la necesidad urgente de programas educativos que no solo enseñen habilidades básicas, sino que también capaciten a las personas en el uso efectivo de tecnologías. La educación es esencial para cerrar esta brecha.
+
+Las TIC en Ecuador han avanzado, pero persisten desafíos significativos. La desigualdad en el acceso y el analfabetismo digital son barreras que deben ser superadas para lograr un desarrollo inclusivo. Invertir en educación y tecnología es fundamental para construir un futuro más equitativo y próspero para todos los ecuatorianos.
+
+Roberto Camana-Fiallos
+
+Policía allanó hotel donde se hospedó Liam Payne
+================================================
+
+Liam Payne, exintegrante de One Direction, murió hace una semana, tras caer al vacío desde la habitación de un hotel en Argentina.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Liam Payne falleció el miércoles 16 de octubre de 2024, en Buenos Aires, Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/10/autopsia-liam-payne.jpg)
+
+La Policía **allanó el hotel** donde se hospedó el exintegrante de **One Direction**, **Liam Payne**, en Buenos Aires, este miércoles 23 de octubre de 2024.
+
+Liam Payne murió hace una semana, a los 31 años, tras **caer al vacío** desde la habitación del tercer piso que ocupaba durante su visita a Argentina.
+
+### Más noticias:
+
+* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación")
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "Liam Payne y la controversia de la ‘cocaína rosa’")
+
+Policía allanó hotel donde se hospedó Liam Payne
+------------------------------------------------
+
+Liam Payne, exintegrante de la **banda británica** One Direction, murió en Buenos Aires al caer desde el tercer piso de un hotel.
+
+Ante la llegada del personal policial al **hotel,** el encargado del lugar “afirmó que sintió un fuerte ruido en el pulmón (patio) interno trasero del hotel”,
+
+Cuando los **oficiales** arribaron, constataron el fallecimiento de un hombre que se había arrojado del balcón de su habitación.
+
+La **Fiscalía Criminal y Correccional Nº16** fue asignada al caso y se ordenó la presencia de la Unidad Criminalística y el traslado del cuerpo a la morgue.
+
+### El allanamiento y la habitación de Liam Payne
+
+Las **autoridades argentinas** buscan determinar quién le proporcionó drogas al cantante.
+
+La **División de Investigaciones Especiales y la División de Investigaciones Tecnológicas** de la policía porteña actúan con la supervisión de un fiscal.
+
+Analizan los sistemas informáticos del hotel.
+
+Medios locales señalaron que, según sus fuentes, un **empleado del hotel**, vinculado con el restaurante del lugar, e**s investigado por el posible suministro de drogas a Payne.** 
+
+Durante el allanamiento, los efectivos de seguridad subieron al **tercer piso** del hotel, donde estaba alojado el artista.
+
+Las **investigaciones** sobre la muerte de Payne continúan.
+
+TCE tomó decisión sobre candidatos de Avanza, Pachakutik y Democracia Sí
+========================================================================
+
+El TCE emitió un fallo definitivo sobre candidatos de Avanza, Pachakutik y Democracia Sí.
+-----------------------------------------------------------------------------------------
+
+![El TCE decidió sobre las candidaturas de Avanza, Pachakutik y Democracia Sí este miércoles.](https://www.elcomercio.com/wp-content/uploads/2024/10/tce-candidaturas-3.jpg)
+
+El **Tribunal Contencioso Electoral (TCE)** tomó una decisión sobre los **candidatos a asambleístas nacionales** de **Avanza, Pachakutik y Democracia Sí,** este 23 de octubre de 2024[.](https://es.wikipedia.org/wiki/Avanza)
+
+El TCE emitió un fallo de **última y definitiva instancia**.
+
+### Más noticias:
+
+* [Se aplaza de audiencia de Verónica Abad en el TCE](https://www.elcomercio.com/actualidad/politica/veronica-abad-logra-aplazamiento-audiencia-tce.html "Se aplaza de audiencia de Verónica Abad en el TCE")
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
+
+Decisión del TCE sobre candidatos de Avanza, Pachakutik y Democracia Sí
+-----------------------------------------------------------------------
+
+Los jueces del TCE negaron los recursos presentados por **Avanza, Pachakutik y Democracia Sí**.
+
+Con esto, se ratificó la resolución del **Consejo Nacional Electoral** (CNE), del 8 de octubre, que negó la calificación de estas candidaturas.
+
+La principal razón fue el haber incurrido en incumplimientos “**insubsanables**” a la Ley **Orgánica Electoral** o **Código de la Democracia.**
+
+El CNE acogió un informe de la **dirección nacional de Asesoría Jurídica**, en el que se determinó que las organizaciones incumplen con la ley electoral en lo relacionado con las **elecciones primarias.**
+
+El numeral 1, del artículo 105 del **Código de la Democracia**, determina que el CNE no podrá negar candidaturas, excepto cuando estas no provengan de procesos democráticos internos o **elecciones primarias.**
+
+El primero en la lista de asambleístas nacionales por **Avanza** era Javier Alejandro Orti Torres.
+
+Por Democracia Sí, estaba **Gustavo Larrea** como primero en la lista**.**
+
+La lista de Pachakutik estaba encabezada por **Pedro Juan Bermeo Guarderas**.
+
+El **Partido Sociedad Patriótica** (PSP) se queda sin candidatos al **Parlamento Andino.**
+
+Las elecciones 2025 serán el próximo **9 de febrero** de 2025.
+
+Los ecuatorianos elegirán **Presidente y Vicepresidente de la República** y asambleístas nacionales.
+
+Además, **asambleístas** provinciales y por el exterior y parlamentarios andinos.
+
+Pervis Estupiñán celebra el aniversario de Liga de Quito
+========================================================
+
+El lateral del Brighton y uno de los capitanes de la Selección de Ecuador recordó al club donde se formó.
+---------------------------------------------------------------------------------------------------------
+
+![Pervis Estupiñán se formó en Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-3.jpg)
+
+**Liga de Quito** está de aniversario, celebrando la creación del equipo semiprofesional ‘Club Universitario’, que dio origen a lo que más tarde se convertiría en el ‘Rey de Copas¿. Uno de sus talentos más recientes, **Pervis** **Estupiñán**, no dejó pasar la ocasión y envió un saludo especial.
+
+Este miércoles 23 de octubre, Liga de Quito celebró 106 años desde la creación del equipo que sentó las bases para el desarrollo de la institución. Estupiñán, quien se formó en las filas albas, dedicó una publicación en sus redes sociales para conmemorar la fecha.
+
+### Más noticias:
+
+* [Marco Angulo, la motivación de Liga de Quito en el final de temporada](https://www.elcomercio.com/deportes/futbol/marco-angulo-la-motivacion-de-liga-de-quito-en-el-final-de-temporada.html "Marco Angulo, la motivación de Liga de Quito en el final de temporada")
+* [Liga de Quito está de aniversario, pero ¿por qué celebra dos cumpleaños?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-de-aniversario-pero-por-que-celebra-dos-cumpleanos.html "Liga de Quito está de aniversario, pero ¿por qué celebra dos cumpleaños?")
+* [Pervis Estupiñán y el Brighton sorprenden en la Premier League](https://www.elcomercio.com/deportes/previs-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton sorprenden en la Premier League")
+
+El lateral del Brighton subió a sus historias de Instagram una **imagen felicitando a Liga por su aniversario**, acompañada de varias fotos de su etapa como jugador del club quiteño, recordando sus inicios allá por 2015, cuando debutó como futbolista profesional.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-2-1024x683.jpg)
+
+Pervis Estupiñán en Liga de Quito
+---------------------------------
+
+Pervis Estupiñán inició su carrera en las **divisiones inferiores de Liga de Quito** en 2011, cuando apenas tenía 13 años.
+
+El lateral progresó a través de las distintas categorías juveniles hasta llegar al primer equipo en 2014, aunque tuvo que esperar hasta **2015 para debutar** con el club, bajo la dirección de Luis Zubeldía.
+
+Con tan solo 18 años, Estupiñán se convirtió en titular y en una pieza clave para el equipo de Zubeldía. En su temporada debut disputó **34 partidos entre el Campeonato Ecuatoriano y la Copa Sudamericana**.
+
+En 2016, el lateral hizo su debut en la Copa Libertadores y continuó sumando minutos con el equipo. Su rápido desarrollo llamó la atención del fútbol europeo, y fue transferido al Udinese de Italia.
+
+En total, Estupiñán **disputó 45 partidos oficiales** con la camiseta de Liga de Quito.
+
+Los dos aniversarios de Liga de Quito
+-------------------------------------
+
+El origen de Liga de Quito nos remonta a más de un siglo, específicamente al **23 de octubre de 1918**. Ese día, un grupo de estudiantes de la Universidad Central del Ecuador fundó un equipo semiprofesional conocido como **“Club Universitario”.**
+
+Fue un inicio humilde, pero significativo, un sueño compartido por jóvenes apasionados por el deporte, sin imaginar que estaban creando los cimientos de un gigante del fútbol sudamericano.
+
+Doce años después, el **11 de enero de 1930**, ese grupo de estudiantes y miembros del “Club Universitario” fundaron oficialmente **Liga Deportiva Universitaria**, estableciendo las bases jurídicas del equipo que, con el tiempo, se convertiría en uno de los más grandes y exitosos del continente.
+
+Estas dos fechas son claves en la historia de Liga: el 23 de octubre representa el nacimiento del espíritu deportivo de la institución, mientras que el 11 de enero marca el inicio formal de su exitosa trayectoria.
+
 Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso
 ===========================================================================
 
@@ -71,15 +283,15 @@ En el partido de ida, jugado el domingo 20 de octubre, **Deportivo Quito logró 
 
 El **ganador de esta serie avanzará a los octavos de final**, donde enfrentará al vencedor de la llave entre Toreros FC (Guayas) y Santa Elena Sumpa (Santa Elena), con ventaja de 2-1 para el equipo guayaquileño.
 
-Daniel Noboa recibió a Mónica Palencia y Paola Cabezas insistió en acusaciones
-==============================================================================
+Daniel Noboa recibió a Mónica Palencia, tras la decisión de la Asamblea
+=======================================================================
 
-Paola Cabezas continuó con acusaciones; mientras Daniel Noboa esperó a Mónica Palencia en el Palacio de Carondelet.
--------------------------------------------------------------------------------------------------------------------
+Daniel Noboa emitió un mensaje para la Mónica Palencia en sus redes sociales.
+-----------------------------------------------------------------------------
 
 ![Mónica Palencia fue recibida por Daniel Noboa en el Palacio de Carondelet.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-monica-palencia-1.jpg)
 
-Tras la decisión del Pleno de la **Asamblea** de no aprobar la censura y destitución de **Mónica Palencia**, el presidente **Daniel Noboa** recibió a la funcionaria en Carondelet y la asambleísta del correísmo, **Paola Cabezas**, insistió en acusaciones.
+Tras la decisión del Pleno de la **Asamblea** de no aprobar la censura y destitución de **Mónica Palencia**, el presidente **Daniel Noboa** recibió a la funcionaria en Carondelet[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
 
 Al correísmo le faltaron 15 votos la tarde de este miércoles 23 de octubre para concretar la sanción por el **juicio político** en contra de Mónica Palencia.
 
@@ -88,26 +300,24 @@ Al correísmo le faltaron 15 votos la tarde de este miércoles 23 de octubre par
 * [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
 * [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
 
-Daniel Noboa recibió a Mónica Palencia y Paola Cabezas insistió en sus acusaciones
-----------------------------------------------------------------------------------
+Daniel Noboa recibió a Mónica Palencia
+--------------------------------------
 
 El **Pleno** de la Asamblea se pronunció sobre el juicio político contra Mónica Palencia esta tarde.
 
-Aunque, días atrás, 89 asambleístas habían votado porque el juicio contra Palencia continúe, hoy solo **77 votaron** por la censura y destitución.
+Aunque, días atrás, 89 asambleístas habían votado porque el juicio contra Palencia continúe, este miércoles 23 de octubre solo **77 votaron** por la censura y destitución.
 
-Así, el correísmo truncó, una vez más, su deseo de sancionar a una autoridad por **incumplimiento de funciones.**
+Así, el correísmo truncó, una vez más, su deseo de sancionar a una autoridad**.**
 
 Ya le pasó con la canciller **Gabriela Sommerfeld** y también con la **fiscal general Diana Salazar**.
 
-Luego de terminada la sesión del Pleno, **Mónica Palencia se trasladó al Palacio de Carondelet**.
+Luego de terminada la sesión del Pleno, **Mónica Palencia** se trasladó **al Palacio de Carondelet**.
 
-Allí, le esperaba el presidente Daniel Noboa para **abrazarle y felicitarle**.
+Allí, le esperaba el presidente **Daniel Nobo**a para **abrazarle y felicitarle**.
 
 En redes sociales, el mandatario manifestó: “**Bienvenida a casa, Mónica. Te estábamos esperando**“.
 
 Mientras, **Paola Cabezas**, una de las proponentes del juicio político contra Palencia, continuó insistiendo en sus acusaciones.
-
-Antes de que se dé la votación, Cabezas dijo que los **ministros de Estado** estaban en la Asamblea “salvando a una persona” junto con **funcionarios del Ministerio de Gobierno**.
 
 El pasado 17 de octubre, Cabezas dijo que se **iría a su casa** si no logra un resultado favorable del juicio político en contra de Palencia.
 
@@ -654,265 +864,10 @@ Un polémico segundo tiempo para El Nacional y Mushuc Runa en Copa Ecuador
 
 La segunda mitad del partido entre **El Nacional y Mushuc Runa** estuvo cargada de polémicas. El papel de los árbitros fue determinante para el resultado y el desempeño del partido.
 
-Una expulsión apenas iniciados los últimos 45 minutos dejó con uno menos al ‘Ponchito’. Esta cayó sobre **Enzo Fernández** y después de que el VAR habisase al juez central. Antes, el jugador había realizado una entrada vehemente sobre el arquero **David Cabezas** cuando este tenía el balón en sus manos.
+Una expulsión apenas iniciados los últimos 45 minutos dejó con uno menos al ‘Ponchito’. Esta cayó sobre **Enzo Fernández** y después de que el VAR avisase al juez central. Antes, el jugador había realizado una entrada vehemente sobre el arquero **David Cabezas** cuando este tenía el balón en sus manos.
 
 Instantes después de la expulsión, **Ángel Gracia** igualó el marcador, sin embargo, en el que realizó un polémico festejo. Tras ello, el árbitro volvió a revisar el VAR y expulsó al lateral derecho.
 
 El tanto del triunfo para **El Nacional** llegó a los 79 minutos. Una vez más Ordóñez. El delantero volvió a conectar de cabezazo. Parecía que hubo un fuera de juego, pero tras la intervención de los árbitros asistentes de video, el tanto fue validado.
 
 El cotejo final quedó en un **2-1** a favor del ‘Bi-Tri’. La revancha entre las escuadras será el jueves 31 de octubre. Este será en el Estadio Olímpico Atahualpa.
-
-Barcelona Sporting Club es multado con 80 300 dólares
-=====================================================
-
-Barcelona SC ganó un Clásico del Astillero en el estadio Monumental luego de cuatro años.
------------------------------------------------------------------------------------------
-
-![Localidad del estadio Monumental en el Clásico del Astillero 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/multa_1.jpg)
-
-**Barcelona Sporting Club** sumó una nueva multa impuesta por la Comisión de Disciplina de la Liga Pro, por las múltiples infracciones cometidas en el Clásico del Astillero, ante Emelec, en el estadio Monumental. 
-
-El domingo 20 de octubre de 2024, **Barcelona Sporting Club venció 2-1 a Emelec** en la décima fecha de la segunda etapa de la Liga Pro, pero la victoria le salió cara a los amarillos en su casa ante más de 40 000 espectadores. 
-
-### Más noticias:
-
-* [Barcelona Sporting Club pone fecha para la Noche Amarilla 2025](https://www.elcomercio.com/deportes/futbol/noche-amarilla2025-barcelona-sporting-club.html "Barcelona Sporting Club pone fecha para la Noche Amarilla 2025")
-* [Equipo de Segunda Categoría se pronuncia sobre irregularidades](https://www.elcomercio.com/deportes/equipo-de-segunda-categoria-se-pronuncia-sobre-irregularidades.html "Equipo de Segunda Categoría se pronuncia sobre irregularidades")
-* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
-
-Los tantos de **Janner Corozo y Álex ‘El Bicho’ Rangel**, le dieron los tres puntos a los amarillos en el nuevo debut de Segundo Alejandro Castillo, como nuevo entrenador, en reemplazo del cesado Ariel Holan. 
-
-Con el resultado los canarios **escalaron al sexto puesto en la tabla de posiciones de la segunda etapa** con 16 puntos y se afianzaron en el tercer casillero en la acumulada, con 47, dando un paso más para asegurar un cupo a la Copa Libertadores 2025. 
-
-Este miércoles 23 recibió la **noticia que tendrá que pagar una multa de 80 300 dólares**, principalmente por el comportamiento de un sector de sus hinchas, que infringieron algunas normas establecidas en el Reglamento de Infracciones y Sanciones de la Liga Pro. 
-
-Hay que mencionar que desde la **general sur baja del Monumental**, donde se ubica la barra organizada de los amarillos, se exhibió un tifo gigante con imágenes en contra de equipos como Emelec, El Nacional y Liga de Quito. 
-
-Las sanciones para Barcelona SC
--------------------------------
-
-La tarde de este miércoles 23 de octubre de 2024 la Liga Pro, a través del Comité Disciplinario, basándonos en el Reglamento para la resolución de Controversias de la Liga Pro, y con base a los Informes Arbitrales y de Comisarios, se dio a conocer las sanciones y multas para los canarios.
-
-Por invasión al campo (dos momentos) son **5 000 dólares; uno de banderas antirreglamentarias** (dos momentos) son 600 dólares; y uso de sombrillas no autorizadas son 200 dólares.
-
-Una de las multas más fuertes corresponde a **10 000 por la bandera (tifo gigante)** con mensaje ofensivo y discriminatorio a equipos rivales, con imágenes obscenas para el público, más el cierre de la localidad de la general sur baja por las siguientes dos fechas.
-
-En esas dos jornadas el club torero deberá colocar una pancarta con mensaje en contra de la violencia, además de un comunicado oficial.
-
-La multa más fuerte corresponde a **64 500 dólares por encender objetos pirotécnicos** (33 momentos: bengalas, [bombas de humo y juegos pirotécnicos](https://ligapro.ec/acta-de-sanciones-25-2024-fecha-10-fase-2/)).
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/multa_2-1024x683.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Cpccs hará instructivo relacionado con integrantes del CNE
-==========================================================
-
-El proceso de renovación parcial del CNE avanza.
-------------------------------------------------
-
-![El Pleno del Cpccs resolvió un paso para renovación parcial del CNE.](https://www.elcomercio.com/wp-content/uploads/2024/10/cpccs-3.jpg)
-
-La renovación parcial del **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** contempla un paso. Así lo definió el Pleno del **Consejo de** **Participación Ciudadana y Control Social (Cpccs)**.
-
-Este miércoles, 23 de octubre de 2024, la institución informó que se desarrollará un **instructivo** relacionado con el proceso.
-
-### Más noticias
-
-* [CNE abre nueva etapa para ser observador en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-abre-nueva-etapa-para-observador-elecciones-2025.html "CNE abre nueva etapa para ser observador en las elecciones 2025")
-* [¿Quiénes deben renunciar para inscribirse a elecciones 2025?](https://www.elcomercio.com/actualidad/politica/quienes-deben-renunciar-inscribirse-elecciones-2025-candidatos.html "¿Quiénes deben renunciar para inscribirse a elecciones 2025?")
-* [El Cpccs continúa con el concurso para Fiscal General ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/politica/cpccs-continua-concurso-fiscal-general-motivo.html "El Cpccs continúa con el concurso para Fiscal General ¿Cuál es el motivo?")
-
-Cpccs y la renovación del CNE
------------------------------
-
-EI manual es para realizar el sorteo de dos consejeros titulares del **CNE** y dos suplentes, quienes serán reemplazados en el proceso de renovación parcial.
-
-Según recordó el presidente del Cpccs, **Andrés Fantoni**, los cinco consejeros titulares y los cinco suplentes se eligen para seis años.
-
-El **Código de la Democracia** define que los consejeros principales ejercerán sus funciones por seis años. La institución se renovará parcialmente cada tres.
-
-Es así que, el proceso contempla dos **integrantes** en la primera ocasión, tres en la segunda, etc.
-
-> 📰Boletín de prensa  
->   
-> El [#CPCCS](https://twitter.com/hashtag/CPCCS?src=hash&ref_src=twsrc%5Etfw) elaborará el Instructivo para el sorteo de dos consejeros titulares y dos suplentes del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw) que serán reemplazados en el proceso de Renovación Parcial.[@AndresFantoniB](https://twitter.com/AndresFantoniB?ref_src=twsrc%5Etfw)  
-> Entérate de los detalles⬇️ [pic.twitter.com/ZusJ2HWdmU](https://t.co/ZusJ2HWdmU)
-> 
-> — Participa Ecuador (@CpccsEc) [October 23, 2024](https://twitter.com/CpccsEc/status/1849184943236321455?ref_src=twsrc%5Etfw)
-
-El sorteo para la renovación
-----------------------------
-
-El sorteo se realizará una vez que concluya el **concurso** de renovación que está en marcha. Actualmente, este se encuentra en la fase de oposición.
-
-A la par, el **Pleno del Cpccs** dispuso a la Comisión Ciudadana de Selección de la Renovación Parcial del **CNE** que presente el cronograma de trabajo y necesidades del proceso de selección.
-
-El proyecto de instructivo para el sorteo estará a cargo de la Coordinación General de Asesoría Jurídica del **Cpccs**. Además, este será revisado en mesas de trabajo.
-
-Elecciones 2025 a puertas
--------------------------
-
-El calendario electoral está corriendo. El **CNE** es el encargado de los procesos que incluyen la evaluación de las candidaturas y las papeletas definitivas.
-
-Ese listado se conocerá oficialmente el 30 de diciembre de 2024. Las **votaciones generales** se desarrollarán el 9 de febrero de 2025. No obstante, de haber segunda vuelta se llevará a cabo el 13 de abril.
-
-Los ecuatorianos elegirán cabezas de la **Presidencia, Vicepresidencia**, 151 asambleístas y cinco parlamentarios andinos.
-
-Shakira está profundamente decepcionada del amor de pareja
-==========================================================
-
-La cantante colombiana habló de su proceso de sanación tras la separación de Gerard Piqué.
-------------------------------------------------------------------------------------------
-
-![La cantante colombiana de 47 años sigue imparable con su éxito Soltera. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T165428.094.jpg)
-
-La cantante colombiana **Shakira** compartió su experiencia tras su separación del exfutbolista Gerard Piqué. Lo hizo durante una reciente entrevista con la **revista GQ**.
-
-Sus declaraciones llegaron días después de que Gerard Piqué afirmara en CNN que “las cosas no han sido como se han contado”.
-
-### **Más noticias:**
-
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
-* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html")
-* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link")
-
-**Shakira está profundamente decepcionada del amor de pareja**
---------------------------------------------------------------
-
-La artista expresó su profunda decepción del amor de **pareja**: “El amor de **pareja** me defraudó, es irremediable que haya perdido la confianza en el otro”.
-
-La música ha sido su refugio durante este proceso. Su duodécimo álbum, ‘**Las mujeres no lloran’,** se presentó como una terapia personal. Shakira dijo: “Durante muchos meses después de mi separación había estado en silencio, intentando empezar mi duelo”.
-
-**Shakira sana con la música**
-------------------------------
-
-La canción **Monotonía** reflejó su estado emocional, describiendo una sensación de vacío. Por otro lado, la colaboración con Bizarrap, **Sesión 53**, marcó un punto de inflexión, sintiendo que se liberaba de un peso: “Siento como que estoy flotando ahora mismo”.
-
-A pesar de los desafíos vividos en **España**, donde enfrentó conflictos con Hacienda, Shakira mantiene un cariño especial por el país. “Siempre lo voy a tener en mi corazón”, aseguró, expresando su deseo de volver a cantar en Barcelona y Madrid.
-
-**Shakira perdió un amor, pero ganó amigos**
---------------------------------------------
-
-Establecida en Miami desde hace un año y medio con sus hijos Milan y Sasha, la artista reflexiona sobre el valor de la amistad, que ha superado incluso las decepciones amorosas.
-
-> [View this post on Instagram](https://www.instagram.com/p/DBbdHmLud03/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by GQ México y Latinoamérica (@gqmexico)](https://www.instagram.com/p/DBbdHmLud03/?utm_source=ig_embed&utm_campaign=loading)
-
-“Me di cuenta de que la amistad es más larga que el amor”, destaca, reconociendo el apoyo de sus verdaderos amigos durante momentos difíciles.
-
-El Toachi Pilatón queda a punto para arrancar su operación
-==========================================================
-
-En el complejo hidroeléctrico Toachi - Pilatón se hicieron algunas obras para que entre en funcionamiento, ante los cortes de luz.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![El túnel tiene 8,7 kilómetros de longitud y fue sometido a pruebas de carga. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/tunel-alluriquin.jpg)
-
-La Corporación Eléctrica del Ecuador (Celec) informó sobre la culminación de los trabajos de reparación en el túnel de carga **Toachi-Alluriquín**. Este ducto pertenece al complejo hidroeléctrico **Toachi Pilatón**, ubicado en los límites de Pichincha, Santo Domingo de los Tsáchilas y Cotopaxi[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
-* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
-* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
-
-Obras de reparación del túnel
------------------------------
-
-El gerente Celec, **Gustavo Sánchez**, realizó una inspección a las obras en el túnel **Toachi-Alluriquín** este 22 de octubre del 2024. Los trabajos estuvieron a cargo del **Cuerpo de Ingenieros del Ejército**.
-
-La inspección se desarrolló previo al inicio de pruebas de carga del túnel de 8,7 km. Allí se colocaron nuevas estructuras de acero y revestimiento de hormigón.
-
-Las obras fueron realizadas en cumplimiento a las observaciones de la **Contraloría General del Estado**. Celec recordó que estas obras quedaron inconclusas en 2017 tras el abandono del anterior contratista de la obra civil.
-
-> 📰NOTICIA | Tras años de abandono, el gobierno del presidente Noboa concluye reparación del túnel de carga Toachi – Alluriquín del proyecto hidroeléctrico Toachi Pilatón.➡️ [https://t.co/roISTtb8TE](https://t.co/roISTtb8TE) [pic.twitter.com/aYrD3gHd2t](https://t.co/aYrD3gHd2t)
-> 
-> — Corporación Eléctrica del Ecuador🇪🇨 (@CELECEPOficial) [October 22, 2024](https://twitter.com/CELECEPOficial/status/1848834448147546379?ref_src=twsrc%5Etfw)
-
-Durante la visita, Sánchez también supervisó la casa de máquinas de la central hidroeléctrica Alluriquín, la más importante del complejo **Toachi Pilatón**, que aportará 204 megavatios (MW) al sistema eléctrico del país.
-
-Está previsto que la operación experimental de esta central comience en diciembre de 2024 y ayude a solventar la **crisis energética** por la que atraviesa el Ecuador.
-
-Celec también informó que se están realizando pruebas para verificar el **correcto funcionamiento** de los componentes electromecánicos y de los sistemas auxiliares asociados a la descarga de la central Alluriquín.
-
-El complejo Toachi-Pilatón cuenta con un avance del 98%. Esta infraestructura se ubica en los límites de las provincias de Pichincha, Santo Domingo de los Tsáchilas y Cotopaxi, y se alimenta de los ríos Pilatón y Toachi.
-
-Su ubicación estratégica en la vertiente occidental de los Andes le permite generar electricidad cuando la vertiente oriental enfrenta periodos de estiaje, informó la Celec.
-
-Joven quedó atrapada entre rocas al intentar recuperar su celular
-=================================================================
-
-Campbell salió prácticamente ilesa, con solo algunos rasguños y moretones.
---------------------------------------------------------------------------
-
-![Imagen referencial sobre una mujer atrapada en medio de las rocas.](https://www.elcomercio.com/wp-content/uploads/2024/10/pies-mujer-captura.jpg)
-
-**Matilda Campbell** pasó siete horas atrapada entre rocas en **Nueva Gales del Sur** tras caer intentando recuperar su [celular](https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html "https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html") durante una caminata.
-
-### Más noticias
-
-* [Gobierno lanzó aplicación digital para combatir la desnutrición infantil](https://www.elcomercio.com/actualidad/ecuador/gobierno-aplicacion-desnutricion-infantil.html "https://www.elcomercio.com/actualidad/ecuador/gobierno-aplicacion-desnutricion-infantil.html")
-* [499 celulares, consolas de videojuegos y tabletas fueron incautados por el SRI](https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html "https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html")
-* [Estas son las filtraciones del iPhone 16](https://www.elcomercio.com/tecnologia/estas-filtraciones-iphone-16.html "https://www.elcomercio.com/tecnologia/estas-filtraciones-iphone-16.html")
-
-Rescate en Nueva Gales del Sur
-------------------------------
-
-Matilda Campbell, una joven excursionista en Nueva Gales del Sur, Australia, vivió una **angustiante experiencia** cuando, al intentar **recuperar su celular**, quedó atrapada entre dos enormes rocas. Durante una caminata, Campbell cayó en una grieta de tres metros de profundidad, quedando bocabajo e inmovilizada. El **difícil rescate**, que duró siete horas, implicó el desplazamiento de varias rocas grandes para liberar a la joven, según informó la **BBC**.
-
-Salió prácticamente ilesa
--------------------------
-
-A pesar de las circunstancias, Campbell **salió prácticamente ilesa**, con solo algunos rasguños y moretones. El incidente, que pudo terminar de manera trágica, tuvo un desenlace positivo gracias al rápido accionar de los servicios de emergencia locales.
-
-“Gracias al equipo que me salvó”, escribió Campbell en redes sociales, aunque añadió con humor: “**Lástima lo del teléfono**“. Esta noticia fue ampliamente difundida por **BBC**, que destacó la valentía de la joven y la complejidad del rescate.
-
-Un rescate complicado y sin teléfono
-------------------------------------
-
-Los rescatistas enfrentaron un desafío considerable, ya que el terreno accidentado y la posición en la que quedó atrapada Campbell dificultaron la operación. Finalmente, después de horas de maniobras cuidadosas, lograron liberarla. A pesar de que el objetivo inicial de la joven era **recuperar su teléfono,** este quedó irremediablemente perdido entre las rocas, como reportó **BBC**.
-
-Distracciones tecnológicas
-
-Este caso generó atención internacional, no solo por la **dramática situación de Campbell,** sino por la creciente tendencia de accidentes similares en excursiones debido a distracciones tecnológicas.
-
-Cortes de luz en Cuenca este jueves 24 de octubre
-=================================================
-
-Los cortes de luz en Cuenca para este jueves 24 de octubre son de hasta ocho horas, como en todo el país.
----------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Cuenca este jueves 24 de octubre serán de 00:00 a 24:00.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-jueves-24-octubre.jpg)
-
-Los **cortes de luz** en **Cuenca** para este **jueves 24 de octubre** se mantienen con ocho horas de duración.
-
-La **Centrosur** emitió una programación con horarios vigentes hasta el sábado.
-
-### Más noticias:
-
-* [Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz](https://www.elcomercio.com/actualidad/negocios/modificacion-jornada-laboral-cortes-luz.html "Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz")
-* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
-
-Horario de cortes de luz en Cuenca este jueves 24 de octubre
-------------------------------------------------------------
-
-Esta es la **primera semana de reducción de horas** en los cortes de luz, ordenada por el Gobierno de Daniel Noboa.
-
-Pese a la situación de **los caudales de ríos, los embalses y las hidroeléctricas**, Noboa dispuso una reducción paulatina para el sector residencial.
-
-Esto, mientras varios ministerios toman **acciones** frente a los cortes de luz o crisis energética en el país.
-
-El **Ministerio de Trabajo** emitió un acuerdo ministerial para extender a 10 horas la jornada de trabajo, durante cuatro días a la semana.
-
-Esta modificación debe tener el **consenso** entre trabajadores y empleadores y no puede sobrepasar las 40 horas laborales a la semana.
-
-En tanto, desde el **Ministerio de Energía**, se detalló las acciones que se llevan adelante para lograr la incorporación de 1598 MW.
-
-Así, los cortes de luz en **Cuenca**, durante esta semana, son de ocho horas, divididas en **dos franjas horarias**, de acuerdo al sector.
-
-Los horarios dispuestos por la **Centrosur** tienen vigencia hasta este viernes 25 de octubre.
-
-A continuación, los **horarios de cortes de luz en Cuenca para este jueves 24 de octubre**:
