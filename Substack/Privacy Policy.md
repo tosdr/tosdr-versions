@@ -66,11 +66,11 @@ Resources
 **Privacy Policy**
 ==================
 
-Last Updated: August 28, 2024
+Last Updated: October 24th, 2024
 
 **Changes in the Last Update**
 
-* Address our use of the YouTube API
+* Incorporate the Data Privacy Framework
     
 
 * * *
@@ -186,7 +186,17 @@ In certain cases, we may anonymize your Personal Information in such a way that 
 
 **Where will we send your Personal Information?**
 
-Substack is established in the US and uses service providers established both in the US and in other countries to process Personal Information as described in this Privacy Policy. As such, your Personal Information may be shared internationally.
+Substack is established in the US and uses service providers established both in the US and in other countries to process Personal Information as described in this Privacy Policy. As such, your Personal Information may be shared internationally.  
+  
+**Does Substack participate in the Data Privacy Framework?**
+
+To facilitate the lawful import of Personal Information from the European Union, the United Kingdom, and the Swiss Confederation, Substack participates in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (each, a “DPF”). To verify our participation, please consult the [Data Privacy Framework List](https://www.dataprivacyframework.gov/list).
+
+When we receive Personal Information under a DPF, the [DPF Principles](https://www.dataprivacyframework.gov/EU-US-Framework) apply to our processing of that information. Under any DPF, we are accountable for the onward transfer of Personal Information, and only transfer Personal Information received pursuant to a DPF under agreements that provide the same protections as the DPF. Our adherence to the DPFs specified above is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+In the event of a dispute between you and us regarding our use of Personal Information under a DPF, we ask that you first raise the dispute with us directly at [privacy@substackinc.com. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit](mailto:privacy@substackinc.com) [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) [for more information or to file a complaint. These dispute resolution services are provided at no cost to you.](mailto:privacy@substackinc.com)
+
+If you have a “residual claim” regarding our use of your Personal Information under a DPF that is unresolved after (i) direct contact with us; (ii) your use of the independent dispute resolution mechanism identified above; and (iii) your raising the issue with your data protection authority, you have the the right to seek redress through binding arbitration in accordance with the applicable DPF.
 
 **Is Personal Information about you secure?**
 
