@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Movie Based Games](https://www.somethingawful.com/photoshop-phriday/movie-based-games/1/)
-* [John McCain's Sacrifice](https://www.somethingawful.com/news/john-mccain-vietnam/1/)
-* [Memos from Bear Cave: Daddy's Home](https://www.somethingawful.com/news/bear-cave-daddy/)
-* [The Expendables; Scott Pilgrim vs. The World; Eat Pray Love](https://www.somethingawful.com/current-movie-reviews/eat-pray-love/1/)
-* [Lunch Box Horrors](https://www.somethingawful.com/photoshop-phriday/lunch-box-horrors/1/)
+* [A Girl In The Gaming Store](https://www.somethingawful.com/comedy-goldmine/girl-gaming-store/1/)
+* [Classic Comics III](https://www.somethingawful.com/photoshop-phriday/classic-comics-iii/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [GSA, Google Video, and Youth Meets Truth](https://www.somethingawful.com/weekend-web/gsa-googlevideo-youthtruth/1/)
+* [I Hate You Page 219](https://www.somethingawful.com/cliff-yablonski/i-hate-you-219/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [What's your go-to regional/macro brew?](http://forums.somethingawful.com/showthread.php?threadid=4073493 "What's your go-to regional/macro brew?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Why dont public schools have social skills classes?](http://forums.somethingawful.com/showthread.php?threadid=4073466 "Why dont public schools have social skills classes?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Does everyone just have to work overtime now?](http://forums.somethingawful.com/showthread.php?threadid=4073478 "Does everyone just have to work overtime now?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)](http://forums.somethingawful.com/showthread.php?threadid=4073475 "(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/attention.png) [How often do you vanity search?](http://forums.somethingawful.com/showthread.php?threadid=4073494 "How often do you vanity search?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Does everyone just have to work overtime now?](http://forums.somethingawful.com/showthread.php?threadid=4073478 "Does everyone just have to work overtime now?")
 
 ### Random Articles
 
-* [Sociopathic.net](https://www.somethingawful.com/awful-links/awful-link-3374/)
-* [Pirates of the Caribbean: On Stranger Tides; Everything Must Go; Cave of Forgotten Dreams](https://www.somethingawful.com/current-movie-reviews/pirates-stranger-tides/1/)
-* [These Signs Will Help Your Business Raise Money on Gofundme](https://www.somethingawful.com/news/gofundme-pizza-loesh/)
-* [MormonAds](https://www.somethingawful.com/photoshop-phriday/mormon-posters/1/)
-* [My Own Worst Anime](https://www.somethingawful.com/news/my-worst-anime/1/)
+* [October 23, 2012](https://www.somethingawful.com/twitter-tuesday/tt10-23-12/1/)
+* [Our Most Anticipated Releases Of 2011](https://www.somethingawful.com/video-game-article/anticipated-games-2011/)
+* [Hulk Hogan Meat Shoes!](https://www.somethingawful.com/comedy-goldmine/hulk-hogan-meatshoes/1/)
+* [Pixilated History](https://www.somethingawful.com/photoshop-phriday/pixilated-history/1/)
+* [StarLink Productions (thanks, kyari05!)](https://www.somethingawful.com/awful-links/starlink-productions/)
 
 [Random!](https://www.somethingawful.com/random/)
 
