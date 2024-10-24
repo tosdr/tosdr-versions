@@ -386,7 +386,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 Copyright © 2024 X-Chair. All Rights Reserved.
 
 * [Privacy Policy](https://www.xchair.com/pages/privacy-policy)
-* [Terms of Use](https://www.xchair.com/pages/terms-of-use)
+* [Terms of Service](https://www.xchair.com/pages/terms-of-use)
 * [Accessibility![This icon serves as a link to download the Level Access assistive technology app for individuals with physical disabilities. It is featured as part of our commitment to diversity and inclusion.](//www.xchair.com/cdn/shop/files/level-access-icon_1024x1024.svg?v=1691172932)](https://www.levelaccess.com/a/xchair "Accessibility")
 
 [Chat with us](https://www.livechat.com/chat-with/10142132/), powered by [LiveChat](https://www.livechat.com/?welcome)
