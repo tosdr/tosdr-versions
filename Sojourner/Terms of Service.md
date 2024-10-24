@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a987a648b316158c612402e7f00cd101
+d9463dca7800c9a6de840fcfbf614225
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm black teardrop beads](https://sojourner.biz/images/cache/glass/GL0326.200.jpg)](https://sojourner.biz/beads/glass/12-mm-black-teardrop-beads.html "12 mm black teardrop beads")
+[![Luxurious Lapis necklace](https://sojourner.biz/images/cache/jewelry/N0103.200.webp)](https://sojourner.biz/jewelry/necklaces/luxurious-lapis-necklace.html "Luxurious Lapis necklace")
 
-#### [12 mm black teardrop beads](https://sojourner.biz/beads/glass/12-mm-black-teardrop-beads.html "12 mm black teardrop beads")
+#### [Luxurious Lapis necklace](https://sojourner.biz/jewelry/necklaces/luxurious-lapis-necklace.html "Luxurious Lapis necklace")
 
-$7.50
+$395.00
 
 ### Best Sellers
 
