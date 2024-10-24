@@ -1,4 +1,4 @@
-Our privacy policy was last changed on August 03, 2023.
+Our privacy policy was last changed on October 17, 2024.
 
 General remarks
 ---------------
@@ -197,6 +197,17 @@ The subscription is entirely voluntary for you.
 * Duration of storage: until you unsubscribe from the newsletter
 * Data disclosure: Only board members can access the contact data. The newsletter is sent using the Mailjet service. Therefore, the contact data needs to be sent to Mailjet.  
     Mailjet is run by [Mailjet SAS](https://www.datarequests.org/company/mailjet/), 13-13 bis rue de l’Aubrac, 75012 Paris, France. For more information on how Mailjet processes your data, please refer to [their privacy policy](https://www.mailjet.com/privacy-policy/).
+
+#### Video conferences
+
+[#](#video-conferences "Link to this heading")
+
+We are using a video conferencing system, for example for public events or our membership assemby. In the context of video conference, we need to temporarily process some data.
+
+* Affected data: display name/pseudonym, potentially audio and video data (microphone, webcam, screenshare), uploaded presentations/pictures, chat messages, shared notes, voting results, room name of the conference, technical metadata (start and end of the conference, number of participants), telephone number (only if you join via telephone)
+* Lawful basis: The brief processing of this data is necessary to host the video conferences and the optional phone dial-in, it is based on Art. 6(1) lit. f GDPR.
+* Duration of storage: The data is processed for the duration of the video conference and deleted afterwards.
+* Data disclosure: Our video conferencing system is hosted by Senfcall, a non-profit project that meets our high data protection standards. Senfcall is run by [Computerwerk Darmstadt e. V.](https://www.datarequests.org/company/senfcall/), Karolinenplatz 5, 64289 Darmstadt, Germany ([privacy policy](https://www.senfcall.de/en/gdpr)).
 
 ### External services
 
