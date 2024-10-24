@@ -1,7 +1,8 @@
-Wednesday, October 23 2024
+Thursday, October 24 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Thursday, October 24, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-24-2024/)
 * [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/)
 * [White House Press Briefing with Karine Jean-Pierre – 10/23/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-23-24/)
 * [Major Liberal Newspaper Reportedly Declines To Endorse Presidential Candidate For First time In 20 Years](https://www.conservativedailynews.com/2024/10/major-liberal-newspaper-reportedly-declines-to-endorse-presidential-candidate-for-first-time-in-20-years/)
@@ -9,7 +10,6 @@ Breaking News
 * [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/)
 * [President Joe Biden’s Schedule for Wednesday, October 23, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-23-2024/)
 * [Pentagon’s Trillion Dollar Fighter Jet Program Hasn’t Had Mission-Ready Plane In Six Years, Watchdog Says](https://www.conservativedailynews.com/2024/10/pentagons-trillion-dollar-fighter-jet-program-hasnt-had-mission-ready-plane-in-six-years-watchdog-says/)
-* [Trump’s Polling Momentum Could Be Nail In Coffin For Dem’s Hopes To Hold Senate Majority](https://www.conservativedailynews.com/2024/10/trumps-polling-momentum-could-be-nail-in-coffin-for-dems-hopes-to-hold-senate-majority/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -110,7 +110,10 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.75%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.23%
+
+Red = Recurring Donations  
+Orange = One-Time Donations
 
 * [![Kamala Harris hiding basement](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-bk-basment-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
     
@@ -127,6 +130,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-24-2024/)
+    
+    [President Joe Biden’s Schedule for Thursday, October 24, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-24-2024/)
+    
+    October 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/10/cropped-CDN-Capital-Logo-condensed-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/cdn-funding-update/)
+    
+    [CDN Funding Update](https://www.conservativedailynews.com/2024/10/cdn-funding-update/)
+    
+    October 23, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/images.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/)
     
     [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/)
@@ -163,21 +178,12 @@ Recent Posts
     
     October 23, 2024
     
-* [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/setting-expectations/)
-    
-    [Setting Expectations](https://www.conservativedailynews.com/2024/10/setting-expectations/)
-    
-    October 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/dishwasher-220x150.jfif)](https://www.conservativedailynews.com/2024/10/beyond-dishes-surprising-uses-for-your-dishwasher-you-never-knew/)
-    
-    [Beyond Dishes: Surprising Uses for Your Dishwasher You Never Knew](https://www.conservativedailynews.com/2024/10/beyond-dishes-surprising-uses-for-your-dishwasher-you-never-knew/)
-    
-    October 23, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The History of PKM, the Most Common Machine Gun In the World. Part 6](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-6/10611409)
+* [Wheelgun Wednesday: Ruger New Model Blackhawk Convertible](https://www.thegunpage.com/wheelgun-wednesday-ruger-new-model-blackhawk-convertible/10611410)
+* [POTD: Jack Carr – Bravo Company USA](https://www.thegunpage.com/potd-jack-carr-bravo-company-usa/10611411)
 * [Girsan Regard MC: Turkish M9 Clone Review](https://www.thegunpage.com/girsan-regard-mc-turkish-m9-clone-review/10611404)
 * [Armed Citizen Stops A Man Trying To Run Over Three People](https://www.thegunpage.com/armed-citizen-stops-a-man-trying-to-run-over-three-people/10611402)
 * [Mimic Your Match Rifle Loads With Hornady Aeromatch Bullets](https://www.thegunpage.com/mimic-your-match-rifle-loads-with-hornady-aeromatch-bullets/10611406)
@@ -185,9 +191,6 @@ Recent Posts
 * [2025 NRA National Indoor Sectional Championships: Tournament Sanctioning To Begin Dec. 1, 2024](https://www.thegunpage.com/2025-nra-national-indoor-sectional-championships-tournament-sanctioning-to-begin-dec-1-2024/10611408)
 * [All American Hunters Should Be Warned by Colorado’s Proposed Ban on Mountain Lion Hunting](https://www.thegunpage.com/all-american-hunters-should-be-warned-by-colorados-proposed-ban-on-mountain-lion-hunting/10611400)
 * [GOA, GOF Coalition Urge Judge to Make Final Ruling on Universal Registration Check Rule](https://www.thegunpage.com/goa-gof-coalition-urge-judge-to-make-final-ruling-on-universal-registration-check-rule/10611401)
-* [IWI Masada Slim Review: Is This the Best Budget Concealed Carry Gun?](https://www.thegunpage.com/iwi-masada-slim-review-is-this-the-best-budget-concealed-carry-gun/10611394)
-* [Colorado Ballot Initiative Would Put 6.5% “Sin Tax” On Guns, Ammo](https://www.thegunpage.com/colorado-ballot-initiative-would-put-6-5-sin-tax-on-guns-ammo/10611392)
-* [Pennsylvania Man Faces 20 Years In Prison For Straw Purchases](https://www.thegunpage.com/pennsylvania-man-faces-20-years-in-prison-for-straw-purchases/10611389)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
