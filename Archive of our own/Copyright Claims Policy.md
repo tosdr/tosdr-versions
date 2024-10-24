@@ -45,12 +45,8 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: lex m/m (mature OR explicit) 
+* Work Search  tip: "uchiha sasuke/uzumaki naruto" angst kudos>10 
     
-
-> Due to the [incredible support of the community](https://otw-news.org/2p8zhbtz), we've welcomed **6020** new and renewing members and raised **US$214,698.86** during this drive. Thank you so much! (We also accept [donations](https://otw-news.org/y884aacn) year-round, so you are able to donate whenever is convenient for you.)
-
-[×](https://archiveofourown.org/dmca?hide_banner=true&view_adult=true "hide banner")
 
 DMCA Policy
 -----------
