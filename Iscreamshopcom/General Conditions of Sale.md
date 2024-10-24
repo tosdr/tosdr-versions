@@ -9,7 +9,7 @@ Hello Anonymous Websi...
 
 [Logout](https://www.iscream-shop.com/web/session/logout?redirect=/)
 
-[![Iscream](/web/image/website/2/logo/Iscream?unique=4205f0b)](https://www.iscream-shop.com/)
+[![Iscream](/web/image/website/2/logo/Iscream?unique=947e422)](https://www.iscream-shop.com/)
 
 [](#)
 
