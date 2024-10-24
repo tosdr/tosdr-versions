@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4f70f1f46776440ada95adb246f9f5ba
+6bc882bbb7d5c93da7f28e6d6d7a9be9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Red and gray bicone beads](https://www.sojourner.biz/images/cache/glass/GL0134.200.jpg)](https://www.sojourner.biz/beads/glass/red-and-gray-bicone-beads.html "Red and gray bicone beads")
+[![Vintage German snail shell beads](https://www.sojourner.biz/images/cache/glass/GL0226strand.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-german-snail-shell-beads.html "Vintage German snail shell beads")
 
-#### [Red and gray bicone beads](https://www.sojourner.biz/beads/glass/red-and-gray-bicone-beads.html "Red and gray bicone beads")
+#### [Vintage German snail shell beads](https://www.sojourner.biz/beads/glass/vintage-german-snail-shell-beads.html "Vintage German snail shell beads")
 
-$15.00
+$10.00
 
 ### Best Sellers
 
