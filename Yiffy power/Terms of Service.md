@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 794 1
+0 808 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/juno-and-legoshi-beastars-created-by-sugene/)
+[](https://yiff-party.com/yiff/el-and-vulcane-asterigos-curse-of-the-stars-and-etc-created-by-askart/)
 
-[juno and legoshi (beastars) created by sugene](https://yiff-party.com/yiff/juno-and-legoshi-beastars-created-by-sugene/)
+[el and vulcane (asterigos: curse of the stars and etc) created by askart](https://yiff-party.com/yiff/el-and-vulcane-asterigos-curse-of-the-stars-and-etc-created-by-askart/)
 
-0 2 0
+0 3 0
 
 October 24, 2024
 
-[](https://yiff-party.com/yiff/cristyfur-created-by-barggmel/)
+[](https://yiff-party.com/yiff/jensen-ryba-and-zarii-created-by-neoxyden/)
 
-[cristyfur created by barggmel](https://yiff-party.com/yiff/cristyfur-created-by-barggmel/)
+[jensen ryba and zarii created by neoxyden](https://yiff-party.com/yiff/jensen-ryba-and-zarii-created-by-neoxyden/)
 
-0 152 0
+0 160 0
 
 September 24, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/judy-hopps-directed-by-geidra/)
+[](https://yiff-party.com/yiff/loona-directed-by-thalaria/)
 
-[judy hopps directed by geidra](https://yiff-party.com/yiff-ai-premium/judy-hopps-directed-by-geidra/)
+[loona directed by thalaria!!](https://yiff-party.com/yiff/loona-directed-by-thalaria/)
 
-0 70 0
+0 469 0
 
 September 24, 2024
 
