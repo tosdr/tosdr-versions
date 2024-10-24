@@ -1,10 +1,10 @@
-      Cookie Consent by [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/)
+       Cookie Consent by [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/)
 
 [⬆️](#)
 
 🍪
 
-          
+            
 
 [![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
 
@@ -47,7 +47,7 @@
     * [LOGIN](https://pingperfect.com/clientarea.php)
     * [REGISTER](https://pingperfect.com/register.php)
 
-PingPerfect.com | 404                    
+PingPerfect.com | 404                         
 
 404!
 ====
