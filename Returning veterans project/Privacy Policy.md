@@ -186,11 +186,13 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Phil Gioia](https://cdn.returningveterans.org/images/honor/Phil_Gioia.jpg)  
+![ CPT Kermit M. Lisle](https://cdn.returningveterans.org/images/honor/Kermit_Lisle_Navy_Army.jpg)  
 
-**In Honor of Phil Gioia**  
+**In Memory of CPT Kermit M. Lisle**  
 United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+United States Navy  
+United States Reserves  
+Submitted by Andrew Lisle](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +237,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/23/24 - 8:16:29  
+Printed 10/24/24 - 2:15:24  
 © 2024 Returning Veterans Project
