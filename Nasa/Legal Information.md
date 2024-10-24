@@ -76,7 +76,7 @@ article2 days ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype
 
 ### Just Keep Roving
 
-article6 days ago](https://science.nasa.gov/blog/just-keep-roving/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article7 days ago](https://science.nasa.gov/blog/just-keep-roving/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -269,19 +269,19 @@ article 6 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-4
 
 ### Risk of Reduced Cardiorespiratory and Musculoskeletal Fitness
 
-article 13 hours ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
+article 17 hours ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
 
 2 min read
 
 ###  Risk of Spaceflight-Induced Bone Changes
 
-article 13 hours ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
+article 17 hours ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
 
 2 min read
 
 ### Risk of Injury and Compromised Performance from Extravehicular Activity (EVA)
 
-article 13 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
+article 17 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 13 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromi
 
 ### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
 
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
 2 min read
 
@@ -313,7 +313,7 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
 
-article 11 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
+article 15 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
 
 2 min read
 
@@ -325,7 +325,7 @@ article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-i
 
 ### LExSO
 
-article 5 days ago](https://science.nasa.gov/mission/lexso/)
+article 6 days ago](https://science.nasa.gov/mission/lexso/)
 
 ### Featured
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)
 
-article 2 hours ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)[![SEAQUE (Space Entanglement and Annealing QUantum Experiment)](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/quantum-leaps/bps-investigations/SEAQUE/Space_Entanglement_Annealing_QUantum_Experiment.jpg)
+article 6 hours ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)[![SEAQUE (Space Entanglement and Annealing QUantum Experiment)](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/quantum-leaps/bps-investigations/SEAQUE/Space_Entanglement_Annealing_QUantum_Experiment.jpg)
 
 2 min read
 
 ### SEAQUE (Space Entanglement and Annealing QUantum Experiment)
 
-article 2 hours ago](https://science.nasa.gov/biological-physical/investigations/seaque-space-entanglement-and-annealing-quantum-experiment/)[![GEARS (Genomic Enumeration of Antibiotic Resistance in Space)](https://images-assets.nasa.gov/image/iss071e040186/iss071e040186~large.jpg)
+article 6 hours ago](https://science.nasa.gov/biological-physical/investigations/seaque-space-entanglement-and-annealing-quantum-experiment/)[![GEARS (Genomic Enumeration of Antibiotic Resistance in Space)](https://images-assets.nasa.gov/image/iss071e040186/iss071e040186~large.jpg)
 
 2 min read
 
 ### GEARS (Genomic Enumeration of Antibiotic Resistance in Space)
 
-article 2 hours ago](https://science.nasa.gov/biological-physical/investigations/gears-genomic-enumeration-of-antibiotic-resistance-in-space/)
+article 6 hours ago](https://science.nasa.gov/biological-physical/investigations/gears-genomic-enumeration-of-antibiotic-resistance-in-space/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 10 hours ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 14 hours ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
@@ -413,7 +413,7 @@ article 2 days ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### Station Science Top News: Oct. 18, 2024
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
 
 ### Featured
 
@@ -439,13 +439,13 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/navigati
 
 ### NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 
-article 6 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)[![Liftoff of Atlantis on the STS-34 mission](https://www.nasa.gov/wp-content/uploads/2024/10/sts-34-11-liftoff-s34-s-023.jpg?w=544)
+article 7 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)[![Liftoff of Atlantis on the STS-34 mission](https://www.nasa.gov/wp-content/uploads/2024/10/sts-34-11-liftoff-s34-s-023.jpg?w=544)
 
 11 min read
 
 ### 35 Years Ago: STS-34 Sends Galileo on its Way to Jupiter
 
-article 2 days ago](https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/)
+article 3 days ago](https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/)
 
 ### Highlights
 
