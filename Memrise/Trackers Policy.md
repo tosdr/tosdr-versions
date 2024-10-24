@@ -207,7 +207,7 @@ If you have any questions or concerns, please [contact us](https://www.memrise.c
 * [Learn Spanish](https://www.memrise.com/en/learn-spanish)
 * [Spanish Course](https://www.memrise.com/en/learn-spanish/spanish-course)
 * [Spanish Phrasebook](https://www.memrise.com/en/learn-spanish/spanish-course/phrasebook)
-* [FAQ & Help](https://memrise.zendesk.com/hc/)
+* [FAQ & Help](https://memrisebeta.zendesk.com/hc/)
 * [Learn French](https://www.memrise.com/en/learn-french)
 * [French Course](https://www.memrise.com/en/learn-french/french-course)
 * [French Phrasebook](https://www.memrise.com/en/learn-french/french-course/phrasebook)
