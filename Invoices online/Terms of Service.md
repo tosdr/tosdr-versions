@@ -207,50 +207,49 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=91389917)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=67710454)  
+Know Informatics
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=163352093)  
-VIR Electrical (PTY) LTD
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=192702785)  
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=161881312)  
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=199673393)  
+FlipDesign - Renovation Contracting Firm
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=94517331)  
 Dr V Naik Consult
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=10548650)  
-TRACKFORCE (Pty) Ltd
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=18169693)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=156357772)  
-OptaServ
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=117638888)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=186495038)  
-Goju-Ryu Pretoria East
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=53800045)  
+NWET Pty LTD
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=76011817)  
-Itroniq (Pty) Ltd
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=140919494)  
+Printo
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=124135826)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=199484735)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=150299096)  
-NGB HOLDINGS PTY LTD
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=40803490)  
+M's Frozen Delights
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=155338900)  
-#DiGi3 Marketing & Design
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=210145249)  
+Meyer Towing & Recovery
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=145998803)  
-Gemini-IT Group
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=19872223)  
+Lemba Truck Stop
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=9733015)  
-SAUL ATHOL ACRES RENTAL
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=33183692)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=195977635)  
-Prosper Park
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=208865738)  
+VerdanTech Pty Ltd
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=19391399)  
-Imvubu General Trading
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=185740324)  
-Baby Toddles Infant Care
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=210162507)  
+Cpower Projects t/a Pro Pure Water
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
