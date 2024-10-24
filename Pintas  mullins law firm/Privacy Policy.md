@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
+[![How does mesothelioma affect the body?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-does-mesothelioma-affect-the-body-scaled.jpg "How Does Mesothelioma Affect the Body?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-does-mesothelioma-affect-the-body/ "How Does Mesothelioma Affect the Body?")
 
-[#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
+[#### How Does Mesothelioma Affect the Body?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-does-mesothelioma-affect-the-body/)
 
-[![How do you know if you have asbestos in your body?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-know-if-you-have-asbestos-in-your-body-scaled.jpg "How Do You Know If You Have Asbestos in Your Body?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-asbestos-in-your-body/ "How Do You Know If You Have Asbestos in Your Body?")
+[![What tests are done for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-tests-are-done-for-lung-cancer.jpg "What Tests Are Done For Lung Cancer?")](https://www.pintas.com/lung-cancer/what-tests-are-done-for-lung-cancer/ "What Tests Are Done For Lung Cancer?")
 
-[#### How Do You Know If You Have Asbestos in Your Body?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-asbestos-in-your-body/)
+[#### What Tests Are Done For Lung Cancer?](https://www.pintas.com/lung-cancer/what-tests-are-done-for-lung-cancer/)
 
-[![What are the symptoms of stage 1 ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-are-the-symptoms-of-stage-1-ovarian-cancer-scaled.jpg "What Are the Symptoms of Stage 1 Ovarian Cancer?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/ "What Are the Symptoms of Stage 1 Ovarian Cancer?")
+[![What do i do if i witness nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-do-i-do-if-i-witness-nursing-home-abuse-lawyer-scaled.jpg "What Do I Do if I Witness Nursing Home Abuse?")](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/ "What Do I Do if I Witness Nursing Home Abuse?")
 
-[#### What Are the Symptoms of Stage 1 Ovarian Cancer?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/)
+[#### What Do I Do if I Witness Nursing Home Abuse?](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
