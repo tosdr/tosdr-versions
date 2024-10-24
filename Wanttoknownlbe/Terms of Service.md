@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kurkuma-genezend-en-booster-immuunsysteem/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/artificial-intelligence-versus-scheppingskracht/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
