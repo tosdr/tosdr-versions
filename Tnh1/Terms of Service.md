@@ -202,23 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Influencer brasileira que mora no Japão diz que é confundida com criança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/5/csm_influencer-brasileira-confundida-crianca-japao-redes-sociais_6782e64faf.jpg)
-
-Fez desabafo
-
-Fez desabafo
-
-Influencer brasileira que mora no Japão diz que é confundida com criança
-
-Influencer brasileira que mora no Japão diz que é confundida com criança](https://www.tnh1.com.br/noticia/nid/influencer-brasileira-que-mora-no-japao-diz-que-e-confundida-com-crianca/ "Influencer brasileira que mora no Japão diz que é confundida com criança")[![Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_e2312f41a3.jpg)
-
-marechal deodoro
-
-marechal deodoro
-
-Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês
-
-Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances/ "Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês")[![Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
+[![Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
 
 Maceió
 
@@ -226,15 +210,31 @@ Maceió
 
 Prefeitura de Maceió antecipa salário de servidores municipais; veja data
 
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_homicidio_santos_dumont_-_foto_pc-al_52df56cf90.png)
+Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_9e3163a3a6.jpg)
 
-estava internada
+Educação
 
-estava internada
+Educação
 
-Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont
+Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data
 
-Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont](https://www.tnh1.com.br/noticia/nid/morre-mulher-que-foi-baleada-em-atentado-enquanto-caminhava-com-o-marido-no-santos-dumont/ "Morre mulher que foi baleada em atentado enquanto caminhava com o marido, no Santos Dumont")
+Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")[![Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_confusao_petropolis_-_foto_video_d7a5b1303e.png)
+
+Ao menos um ferido
+
+Ao menos um ferido
+
+Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió
+
+Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")[![Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/c/csm_sec_de_saude_capela_-_foto_facebook_a3af5b6929.jpg)
+
+Mais um caso
+
+Mais um caso
+
+Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió
+
+Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió](https://www.tnh1.com.br/noticia/nid/crianca-e-diagnosticada-com-meningite-no-interior-de-al-e-esta-internada-em-hospital-de-maceio/ "Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió")
 
 [![O membro da Família Real que jamais vai perdoar o Príncipe Harry - e não estamos falando do irmão William](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_principe-harry-foto-netflix_c393cc2fb5.png)
 
