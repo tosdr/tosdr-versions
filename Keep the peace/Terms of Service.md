@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=387497645099510&ev=PageView&noscript=1)      
+![fbpx](https://www.facebook.com/tr?id=387497645099510&ev=PageView&noscript=1)          
 
 * [](https://playktp.com/cart/)
 * [Log in](https://playktp.com/login/ "Log in")
