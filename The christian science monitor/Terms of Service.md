@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Did Disney World get swamped by Helene? Russian bots created pictures to prove it.](https://www.csmonitor.com/USA/2024/1024/Russian-hurricane-election-misinformation-Trump-AI "Did Disney World get swamped by Helene? Russian bots created pictures to prove it.")
+
 [### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
 
 [### Caregivers needed: For children, trees, land, and rivers](https://www.csmonitor.com/World/Points-of-Progress/2024/1023/children-land-trees-rivers-caregiver "Caregivers needed: For children, trees, land, and rivers")
-
-[### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
 
 * * *
 
