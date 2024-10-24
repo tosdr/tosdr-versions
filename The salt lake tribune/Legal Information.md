@@ -52,12 +52,12 @@ Customer Care Contacts
 ##### CONNECT
 
 *  [Facebook](https://www.facebook.com/saltlaketribune/)
-*  [![twitter-logo](https://local.sltrib.com/icons/twitter_logos/x-twitter.svg) Twitter](https://twitter.com/sltrib/)
+*  [![twitter-logo](https://www.sltrib.com/resizer/v2/S2JRURVUNZBUXGAJVY67HBTE6A.png?auth=6f97694ee8a43d294e97af9ab645cc3719955d95936eeab8cff5ebc501db5b08&height=100&quality=88) Twitter](https://twitter.com/sltrib/)
 *  [Instagram](https://www.instagram.com/sltrib/)
 *  [YouTube](https://www.youtube.com/user/sltrib/)
 *  [RSS](https://www.sltrib.com/rss/)
-*  [![](https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/resizer/CBSGy2dz1S4ly9AO9Mvvj47MHV4=/arc-anglerfish-arc2-prod-sltrib/public/YGK4MOY7CNFNRMYWMTTPFDOMCI.png)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
-*  [![](https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/resizer/TKxjYtVOqXV48cgkxOzVfjSPc_c=/arc-anglerfish-arc2-prod-sltrib/public/PI6RFGVVV5CYLIXIYBETYQIUYY.png)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)
+*  [![](https://www.sltrib.com/resizer/v2/YGK4MOY7CNFNRMYWMTTPFDOMCI.png?auth=7c8ecd93d3eb36d6fdde2400ab3650dc88d52714be2fda9155a5f4abe0b43e8c&width=200&quality=100)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
+*  [![](https://www.sltrib.com/resizer/v2/PI6RFGVVV5CYLIXIYBETYQIUYY.png?auth=06db741726c8486e67a60a0529a1ea780a7e7d896eb72e0f6b4d9dc6a8369618&width=200&quality=100)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)
 
 ##### SUBSCRIPTIONS
 
@@ -70,7 +70,6 @@ Customer Care Contacts
 * [Subscription FAQs](https://www.sltrib.com/digital-subscriptions-faq/)
 * [Help and contact info](https://www.sltrib.com/contact-us/)
 * [Gift Subscriptions](https://www.sltrib.com/gift-subscription/)
-* [Group subscriptions](https://sltrib.formstack.com/forms/group_subscriptions)
 
 ##### ABOUT US
 
@@ -101,9 +100,9 @@ Customer Care Contacts
 
 [SUPPORT](https://www.sltrib.com/support)[WEEKLY PRINT EDITION](https://sltiservices.navigacloud.com/cmo_slt-c-cmdb-01/subscriber/web/startoffers.html)[EMAIL NEWSLETTERS](https://www.sltrib.com/newsletters)[PODCASTS](https://www.sltrib.com/podcasts)[NEWS TIPS](https://www.sltrib.com/tips)[DONATE](https://www.sltrib.com/donate)[COOKIE PREFERENCES](#)
 
-![twitter-logo](https://local.sltrib.com/icons/twitter_logos/t-1.png)
+![twitter-logo](/pf/resources/img/t-1.png?d=501)
 
-[![google-play-badge](https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/resizer/TKxjYtVOqXV48cgkxOzVfjSPc_c=/arc-anglerfish-arc2-prod-sltrib/public/PI6RFGVVV5CYLIXIYBETYQIUYY.png)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)[![apple-store-badge](https://cloudfront-us-east-1.images.arcpublishing.com/sltrib/resizer/CBSGy2dz1S4ly9AO9Mvvj47MHV4=/arc-anglerfish-arc2-prod-sltrib/public/YGK4MOY7CNFNRMYWMTTPFDOMCI.png)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
+[![google-play-badge](/pf/resources/img/googleplay.png?d=501)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)[![apple-store-badge](/pf/resources/img/applestore.png?d=501)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
 
   
 
@@ -111,8 +110,8 @@ Report a missed paper by emailing [subscribe@sltrib.com](mailto:subscribe@sltri
 
 For e-edition questions or comments, contact customer support [801-237-2900](tel:801-237-2900) or email [subscribe@sltrib.com](mailto:subscribe@sltrib.com)
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=499)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=501)](https://www.sltrib.com/)
 
 sltrib.com © 1996-2024 The Salt Lake Tribune. All rights reserved.
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=499)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=501)](https://www.sltrib.com/)
