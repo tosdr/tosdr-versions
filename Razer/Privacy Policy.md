@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3Futm_source%3Demail&utm_medium=edm&utm_campaign=241024_EDM_RS_STORE_ALL_PCD_WW_BR_BARRACUDAXCHROMA_24Q4&utm_content=&cid=241024_EDM_RS_STORE_ALL_PCD_WW_BR_BARRACUDAXCHROMA_24Q4&sfid=102860619)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
@@ -487,6 +487,7 @@ Switch to
             
             * [Razer Barracuda Pro](https://www.razer.com/gaming-headsets/razer-barracuda-pro)
             * [Razer Barracuda](https://www.razer.com/gaming-headsets/razer-barracuda)
+            * [Razer Barracuda X Chroma](https://www.razer.com/gaming-headsets/razer-barracuda-x-chroma)
             * [Razer Barracuda X](https://www.razer.com/gaming-headsets/razer-barracuda-x)
             
         
@@ -537,6 +538,7 @@ Switch to
             * [View All Barracuda](https://www.razer.com/pc/gaming-headsets-and-audio/barracuda-line)
             * [Razer Barracuda Pro](https://www.razer.com/gaming-headsets/razer-barracuda-pro)
             * [Razer Barracuda](https://www.razer.com/gaming-headsets/razer-barracuda)
+            * [Razer Barracuda X Chroma](https://www.razer.com/gaming-headsets/razer-barracuda-x-chroma)
             * [Razer Barracuda X](https://www.razer.com/gaming-headsets/razer-barracuda-x)
             
         * [Compare](https://www.razer.com/shop/audio/gaming-headsets)
@@ -640,7 +642,6 @@ Switch to
             * [Razer Seiren V3 Chroma](https://www.razer.com/streaming-microphones/razer-seiren-v3-chroma)
             * [Razer Seiren V2 Pro](https://www.razer.com/streaming-microphones/razer-seiren-v2-pro)
             * [Razer Seiren V3 Mini](https://www.razer.com/streaming-microphones/razer-seiren-v3-mini)
-            * [Razer Seiren Mini](https://www.razer.com/streaming-microphones/razer-seiren-mini)
             
         * Kiyo
             
@@ -999,6 +1000,7 @@ Switch to
         * [Razer Opus](https://www.razer.com/mobile-headsets/razer-opus)
         * [Razer Barracuda Pro](https://www.razer.com/gaming-headsets/razer-barracuda-pro)
         * [Razer Barracuda](https://www.razer.com/gaming-headsets/razer-barracuda)
+        * [Razer Barracuda X Chroma](https://www.razer.com/gaming-headsets/razer-barracuda-x-chroma)
         * [Razer Barracuda X](https://www.razer.com/gaming-headsets/razer-barracuda-x)
         * [Razer Audio App](https://rzr.to/audio-app)
         
@@ -1169,7 +1171,6 @@ Switch to
             Product Line
             ------------
             
-            * [Razer Barracuda X](https://www.razer.com/gaming-headsets/pubg-battlegrounds-razer-barracuda-x)
             * [Razer Viper V2 Pro](https://www.razer.com/gaming-mice/pubg-battlegrounds-razer-viper-v2-pro)
             * [Razer Huntsman V2](https://www.razer.com/gaming-keyboards/pubg-battlegrounds-razer-huntsman-v2)
             * [Razer Viper V2 Pro + HyperPolling Wireless Dongle Bundle](https://www.razer.com/hard-bundles/Razer-Viper-V2-Pro-Razer-HyperPolling-Wireless-Dongle/RZHB-230726-01)
@@ -1198,7 +1199,6 @@ Switch to
             * [Razer Xanthus Double Pocket Oversized Tee](https://www.razer.com/apparel-shirts/razer-xanthus-double-pocket-oversized-tee)
             * [Razer Xanthus Short Sleeve Shirt](https://www.razer.com/apparel-shirts/razer-xanthus-short-sleeve-shirt)
             * [Razer Xanthus Cargo Shorts](https://www.razer.com/apparel-bottom/razer-xanthus-cargo-shorts)
-            * [Razer Xanthus 6-Panel Cap](https://www.razer.com/gear-accessories/razer-xanthus-6-panel-cap)
             * [Razer Xanthus Bucket Hat](https://www.razer.com/gear-accessories/razer-xanthus-bucket-hat)
             * [Razer Xanthus Crossbody Bag](https://www.razer.com/gear-accessories/razer-xanthus-crossbody-bag)
             * [Razer Xanthus Tote Bag](https://www.razer.com/gear-accessories/razer-xanthus-tote-bag)
@@ -1246,7 +1246,6 @@ Switch to
             ------------
             
             * [View All Unleashed](https://www.razer.com/gear-and-apparel/unleashed)
-            * [Razer Unleashed Snapback Cap](https://www.razer.com/gear-accessories/razer-unleashed-snapback-cap)
             * [Razer Unleashed Bucket Hat](https://www.razer.com/gear-accessories/razer-unleashed-bucket-hat)
             
         
@@ -1272,10 +1271,8 @@ Switch to
         -------
         
         * [View All Accessories](https://www.razer.com/lifestyle/gear)
-        * [Razer Xanthus 6-Panel Cap](https://www.razer.com/gear-accessories/razer-xanthus-6-panel-cap)
         * [Razer Xanthus Bucket Hat](https://www.razer.com/gear-accessories/razer-xanthus-bucket-hat)
         * [Razer Genesis Bucket Hat](https://www.razer.com/gear-accessories/razer-genesis-bucket-hat)
-        * [Razer Unleashed Snapback Cap](https://www.razer.com/gear-accessories/razer-unleashed-snapback-cap)
         * [Razer Unleashed Bucket Hat](https://www.razer.com/gear-accessories/razer-unleashed-bucket-hat)
         * [Razer Sneki Snek Wall Light](https://www.razer.com/gear-accessories/razer-sneki-snek-wall-light)
         * [Razersuperfuture Matte Black Glasses](https://www.razer.com/gear-accessories/razersuperfuture-matte-black-glasses)
