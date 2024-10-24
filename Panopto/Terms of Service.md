@@ -31,7 +31,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
         * [\>> See all Add-ons](https://www.panopto.com/add-ons/)
     
-* Generative AI Video
+* Elai Generative AI Video
     
     ![](https://www.panopto.com/wp-content/uploads/2024/10/Photo-Half-introducing@2x-1-650x650.png)
     
@@ -41,7 +41,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
     [Read More](https://www.panopto.com/de/create-impactful-training-videos-with-elai/)
     
-    * Generative AI Video
+    * Elai Generative AI Video
         * [Elai for Business](https://www.panopto.com/create-impactful-training-videos-with-elai/)
         * [Elai for Higher Education](https://www.panopto.com/make-video-learning-more-interactive-and-flexible-with-elai/)
     
