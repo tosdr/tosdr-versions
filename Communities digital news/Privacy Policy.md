@@ -26,43 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mcd-kamala-split-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2171411864-1-1200x630.jpg)](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
 
-[NY Times neglects to inform readers source backing Kamala’s McDonald’s claim is campaign surrogate](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
+(Photo by Valerie Terranova/FilmMagic)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtfox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
+[Kamala scores what’s likely the most apropos endorsement in the history of endorsements](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
 
-[Surprise! Surprise! Media produces 30-year-old claim by ex-model that Trump ‘groped’ her, with an Epstein twist](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-14-1200x630.jpg)](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-17-1200x630.jpg)](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
+[Kamala plans final campaign speech at symbolic spot she hopes will damage Trump](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
 
-[‘Why wasn’t any of that done in last four years?’ Kamala’s CNN townhall wasn’t as easy as the others](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-criminal-aliens-arriving-1200x630.jpg)](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maricopa-ballot-box-1200x630.jpg)](https://americanwirenews.com/maricopa-county-says-they-expect-that-it-will-take-between-10-13-days-to-complete-tabulation-of-votes/)
+[Tenn. AG reveals ICE released thousands of ‘murderers and rapists’ from detention centers into US streets](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
 
-[Maricopa County says they ‘expect that it will take between 10 -13 days to complete tabulation’ of votes](https://americanwirenews.com/maricopa-county-says-they-expect-that-it-will-take-between-10-13-days-to-complete-tabulation-of-votes/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-stock-market-1200x630.jpg)](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-cnn-town-hall-1200x630.jpg)](https://americanwirenews.com/word-salad-city-says-dem-strategist-about-harriss-cnn-town-hall-dr-seuss-has-nothing-on-kamala/)
+[Billionaire investor believes stock market is ‘convinced’ who will win presidential election](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
 
-[‘Word salad city,’ says Dem strategist about Harris’s CNN town hall: Dr. Seuss has nothing on Kamala](https://americanwirenews.com/word-salad-city-says-dem-strategist-about-harriss-cnn-town-hall-dr-seuss-has-nothing-on-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-alex-wagner-1200x630.jpg)](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tucker-carlson-at-trump-rally-1200x630.jpg)](https://americanwirenews.com/tucker-carlson-gives-what-might-be-the-best-political-speech-of-our-day-at-trump-rally-crowd-chants-daddys-home/)
+[Black women voters tell MSNBC that Kamala doesn’t have ‘what it takes’ to go up against world leaders](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
 
-[Tucker Carlson gives what might be the best political speech of our day at Trump rally, crowd chants, ‘Daddy’s home’](https://americanwirenews.com/tucker-carlson-gives-what-might-be-the-best-political-speech-of-our-day-at-trump-rally-crowd-chants-daddys-home/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/college-student--1200x630.png)](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnborderczar-1200-x-628-1200x630.jpg)](https://americanwirenews.com/border-czar-harris-tripped-up-by-question-about-flip-flop-on-stupid-wall-during-cnn-town-hall/)
+[‘Maybe the media’s lying to you’: Charlie Kirk leaves ‘indoctrinated’ Trump hater speechless](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
 
-[‘Border czar’ Harris tripped up by question about flip-flop on ‘stupid’ wall during CNN town hall](https://americanwirenews.com/border-czar-harris-tripped-up-by-question-about-flip-flop-on-stupid-wall-during-cnn-town-hall/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-emhoff-1200x630.jpg)](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2179673547-1-1200x630.jpg)](https://americanwirenews.com/piece-on-kamalas-fashion-sense-has-the-left-eating-their-own/)
+[Woman allegedly slapped by Doug Emhoff breaks her silence, ‘disgusted’ by his ‘fabricated persona’](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
 
-(Photo by Andrew Harnik/Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/admin-ajax-4-1200x630.jpg)](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
 
-[Piece on Kamala’s fashion sense has the left eating their own](https://americanwirenews.com/piece-on-kamalas-fashion-sense-has-the-left-eating-their-own/)
+[George Conway tells off sister of slain soldier at center of latest anti-Trump hit piece](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_bo-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mia-khalifa-1200x630.jpg)
 
-### Trump stirs the pot, jabs Obama over ‘sabotaging’ Joe’s reelection bid amid Kamala collapse](https://americanwirenews.com/trump-stirs-the-pot-jabs-obama-over-sabotaging-joes-reelection-bid-amid-kamala-collapse/)
+### Pro-Hamas porn star ‘influencer’ hits new low in unhinged rant mocking U.S. military with PTSD](https://americanwirenews.com/pro-hamas-porn-star-influencer-hits-new-low-in-unhinged-rant-mocking-u-s-military-with-ptsd/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,9 +80,73 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Judge-gavel-220x180.jpeg)](https://americanwirenews.com/politico-reporter-whines-about-being-targeted-by-gas-thieves-you-support-the-democrats-right/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
 
-[Politico reporter whines about being targeted by gas thieves: ‘You support the Democrats, right?’](https://americanwirenews.com/politico-reporter-whines-about-being-targeted-by-gas-thieves-you-support-the-democrats-right/)
+[Swing state puts voting rights for non-citizens on the ballot to clarify state constitution](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalateeth-1200-x-628-220x180.jpg)](https://americanwirenews.com/desperate-dnc-will-run-billboard-with-debunked-atlantics-hitler-headline-outside-trump-rally/)
+
+[‘Desperate’ DNC will run billboard with ‘debunked’ Atlantic’s Hitler headline outside Trump rally](https://americanwirenews.com/desperate-dnc-will-run-billboard-with-debunked-atlantics-hitler-headline-outside-trump-rally/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-illegal-aliens-220x180.jpg)](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
+
+[‘Quiet amnesty’: Here’s how Biden-Harris regime is making it impossible to deport massive amount of illegals](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-los-angeles-times-220x180.jpg)](https://americanwirenews.com/la-times-editor-quits-after-paper-refuses-to-endorse-kamala-harris-makes-us-look-craven/)
+
+[LA Times editor quits after paper refuses to endorse Kamala Harris: ‘Makes us look craven’](https://americanwirenews.com/la-times-editor-quits-after-paper-refuses-to-endorse-kamala-harris-makes-us-look-craven/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-adam-carolla-pete-buttigieg-split-220x180.jpg)](https://americanwirenews.com/adam-carolla-drops-brutal-reality-check-on-pete-buttigiegs-high-speed-rail-fantasy/)
+
+[Adam Carolla drops brutal reality check on Pete Buttigieg’s high-speed rail fantasy](https://americanwirenews.com/adam-carolla-drops-brutal-reality-check-on-pete-buttigiegs-high-speed-rail-fantasy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-warren-buffet-220x180.jpg)](https://americanwirenews.com/the-oracle-of-omaha-passes-on-endorsing-kamala/)
+
+[The ‘Oracle of Omaha’ passes on endorsing Kamala](https://americanwirenews.com/the-oracle-of-omaha-passes-on-endorsing-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Judge-gavel-220x180.jpeg)](https://americanwirenews.com/reporter-whines-about-being-targeted-by-gas-thieves-you-support-the-democrats-right/)
+
+[Reporter whines about being targeted by gas thieves: ‘You support the Democrats, right?’](https://americanwirenews.com/reporter-whines-about-being-targeted-by-gas-thieves-you-support-the-democrats-right/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2179673547-1-220x180.jpg)](https://americanwirenews.com/piece-on-kamalas-fashion-sense-has-the-left-eating-their-own/)
+
+[Piece on Kamala’s fashion sense has the left eating their own](https://americanwirenews.com/piece-on-kamalas-fashion-sense-has-the-left-eating-their-own/)
+
+(Photo by Andrew Harnik/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnborderczar-1200-x-628-220x180.jpg)](https://americanwirenews.com/border-czar-harris-tripped-up-by-question-about-flip-flop-on-stupid-wall-during-cnn-town-hall/)
+
+[‘Border czar’ Harris tripped up by question about flip-flop on ‘stupid’ wall during CNN town hall](https://americanwirenews.com/border-czar-harris-tripped-up-by-question-about-flip-flop-on-stupid-wall-during-cnn-town-hall/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tucker-carlson-at-trump-rally-220x180.jpg)](https://americanwirenews.com/tucker-carlson-gives-what-might-be-the-best-political-speech-of-our-day-at-trump-rally-crowd-chants-daddys-home/)
+
+[Tucker Carlson gives what might be the best political speech of our day at Trump rally, crowd chants, ‘Daddy’s home’](https://americanwirenews.com/tucker-carlson-gives-what-might-be-the-best-political-speech-of-our-day-at-trump-rally-crowd-chants-daddys-home/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-cnn-town-hall-220x180.jpg)](https://americanwirenews.com/word-salad-city-says-dem-strategist-about-harriss-cnn-town-hall-dr-seuss-has-nothing-on-kamala/)
+
+[‘Word salad city,’ says Dem strategist about Harris’s CNN town hall: Dr. Seuss has nothing on Kamala](https://americanwirenews.com/word-salad-city-says-dem-strategist-about-harriss-cnn-town-hall-dr-seuss-has-nothing-on-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maricopa-ballot-box-220x180.jpg)](https://americanwirenews.com/maricopa-county-says-they-expect-that-it-will-take-between-10-13-days-to-complete-tabulation-of-votes/)
+
+[Maricopa County says they ‘expect that it will take between 10 -13 days to complete tabulation’ of votes](https://americanwirenews.com/maricopa-county-says-they-expect-that-it-will-take-between-10-13-days-to-complete-tabulation-of-votes/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-17-220x180.jpg)](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
+
+[‘Why wasn’t any of that done in last four years?’ Kamala’s CNN townhall wasn’t as easy as the others](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
+
+[Surprise! Surprise! Media produces 30-year-old claim by ex-model that Trump ‘groped’ her, with an Epstein twist](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mcd-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
+
+[NY Times neglects to inform readers source backing Kamala’s McDonald’s claim is campaign surrogate](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_bo-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-stirs-the-pot-jabs-obama-over-sabotaging-joes-reelection-bid-amid-kamala-collapse/)
+
+[Trump stirs the pot, jabs Obama over ‘sabotaging’ Joe’s reelection bid amid Kamala collapse](https://americanwirenews.com/trump-stirs-the-pot-jabs-obama-over-sabotaging-joes-reelection-bid-amid-kamala-collapse/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-orenstein-bralliershirt-220x180.jpg)](https://americanwirenews.com/transgender-suspect-released-by-non-binary-judge-charged-in-fatal-stabbing-of-off-duty-officer/)
 
@@ -117,68 +181,6 @@ Search for:
 [Charges pending after harassment over pro-Trump sign leads to shooting in Vegas](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
 
 Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-michelle-obama-2-220x180.jpg)](https://americanwirenews.com/left-looking-to-michelle-obama-to-be-kamala-harris-ultimate-weapon-in-homestretch/)
-
-[Left looking to Michelle Obama to be Kamala Harris’ ‘ultimate weapon’ in homestretch](https://americanwirenews.com/left-looking-to-michelle-obama-to-be-kamala-harris-ultimate-weapon-in-homestretch/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wonky-neighbor-220x180.jpg)](https://americanwirenews.com/omg-fk-you-for-that-one-woman-has-unhinged-meltdown-over-neighbors-trump-sign/)
-
-[‘OMG. F\*\*k you for that one!’ Woman has unhinged meltdown over neighbor’s Trump sign](https://americanwirenews.com/omg-fk-you-for-that-one-woman-has-unhinged-meltdown-over-neighbors-trump-sign/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1187676255-220x180.jpg)](https://americanwirenews.com/hot-garbage-the-atlantic-brazenly-distorts-mark-meadow-spoxs-statement-in-trump-hit-piece/)
-
-[‘Hot garbage’: The Atlantic brazenly distorts Mark Meadow spox’s statement in Trump hit piece](https://americanwirenews.com/hot-garbage-the-atlantic-brazenly-distorts-mark-meadow-spoxs-statement-in-trump-hit-piece/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whoopi-goldberg-220x180.jpg)](https://americanwirenews.com/whoopi-huffs-over-missing-trump-hairnet-as-leftist-mcdonalds-meltdown-continues/)
-
-[Whoopi huffs over missing Trump hairnet as leftist McDonald’s meltdown continues](https://americanwirenews.com/whoopi-huffs-over-missing-trump-hairnet-as-leftist-mcdonalds-meltdown-continues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kunce-kinzinger-gamboa-220x180.jpg)](https://americanwirenews.com/idiocy-josh-hawleys-dem-opponent-touts-great-day-at-the-range-after-reporter-struck-by-bullet/)
-
-[‘Idiocy’: Josh Hawley’s Dem opponent touts ‘great day at the range’ after reporter struck by bullet](https://americanwirenews.com/idiocy-josh-hawleys-dem-opponent-touts-great-day-at-the-range-after-reporter-struck-by-bullet/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-meeting-with-family-220x180.jpg)](https://americanwirenews.com/sister-of-slain-army-soldier-slams-the-atlantic-over-trump-hit-piece-deemed-to-be-absolutely-false/)
-
-[Sister of slain Army soldier slams The Atlantic over Trump hit piece deemed to be ‘absolutely false’](https://americanwirenews.com/sister-of-slain-army-soldier-slams-the-atlantic-over-trump-hit-piece-deemed-to-be-absolutely-false/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-nbc-220x180.jpg)](https://americanwirenews.com/harris-keeps-focus-on-herself-when-asked-whether-shed-consider-a-pardon-for-trump/)
-
-[Harris keeps focus on herself when asked whether she’d consider a pardon for Trump](https://americanwirenews.com/harris-keeps-focus-on-herself-when-asked-whether-shed-consider-a-pardon-for-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sykes-220x180.jpg)](https://americanwirenews.com/residency-challenge-could-prevent-vulnerable-house-dem-from-voting-for-herself/)
-
-[Residency challenge could prevent vulnerable House Dem from voting for herself](https://americanwirenews.com/residency-challenge-could-prevent-vulnerable-house-dem-from-voting-for-herself/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chris-cuomo-220x180.jpg)](https://americanwirenews.com/chris-cuomo-blasts-dems-for-treating-kamala-like-a-black-female-jesus/)
-
-[Chris Cuomo blasts Dems for treating Kamala like a ‘black female Jesus’](https://americanwirenews.com/chris-cuomo-blasts-dems-for-treating-kamala-like-a-black-female-jesus/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chris-matthews-220x180.png)](https://americanwirenews.com/chris-matthews-says-dems-will-owe-liz-cheney-big-time-if-kamala-wins/)
-
-[Chris Matthews says Dems will owe Liz Cheney big time if Kamala wins](https://americanwirenews.com/chris-matthews-says-dems-will-owe-liz-cheney-big-time-if-kamala-wins/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lithium-mining-220x180.jpg)](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
-
-[Researchers find riches beneath one US state to possibly meet worldwide demand nine times over](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-6-220x180.png)](https://americanwirenews.com/trump-rips-lazy-as-hell-kamala-for-taking-the-day-off-with-14-days-left/)
-
-[Trump rips ‘lazy as hell’ Kamala for taking the day off with 14 days left](https://americanwirenews.com/trump-rips-lazy-as-hell-kamala-for-taking-the-day-off-with-14-days-left/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dimon-kamala-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/jpmorgan-ceo-latest-example-of-filthy-rich-elite-support-for-harris/)
-
-[JPMorgan CEO latest example of filthy rich elite support for Harris](https://americanwirenews.com/jpmorgan-ceo-latest-example-of-filthy-rich-elite-support-for-harris/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walz-cheney-1-220x180.jpg)](https://americanwirenews.com/tampon-tim-boasts-about-being-endorsed-by-dick-and-liz-cheney/)
-
-[‘Tampon Tim’ boasts about being endorsed by Dick and Liz Cheney](https://americanwirenews.com/tampon-tim-boasts-about-being-endorsed-by-dick-and-liz-cheney/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jackson-harris-220x180.jpg)](https://americanwirenews.com/kamala-interviewed-by-clown-journalist-at-nbc-but-she-did-ask-about-bidens-mental-decline-cover-up/)
-
-[Kamala interviewed by ‘clown journalist’ at NBC, but she did ask about Biden’s mental decline cover-up](https://americanwirenews.com/kamala-interviewed-by-clown-journalist-at-nbc-but-she-did-ask-about-bidens-mental-decline-cover-up/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
