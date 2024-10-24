@@ -188,7 +188,7 @@ Follow us for more!
 * [Voicemod Key](https://www.voicemod.net/en/vmkey/)
 * [Black Friday](https://www.voicemod.net/en/blackfriday/)
 
-Supercharge your Voice
+Supercharge Your Voice
 ----------------------
 
 [Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free")
