@@ -14,39 +14,36 @@ Force Open Search
 
 Open main menu
 
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Mongolia - Bactrian camel](https://img.atlasobscura.com/cNxMGevFyDT8k8vMr6k9J4MMMXUAcQE9WJPjJREz-SA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zYzNk/MmZlOS0wZDgzLTQ1/NDMtOTMzYS03MjI2/YmI2ODUzMmFlMzlm/ZjM0NjUzMWFlYzgx/MDlfTW9uZ29saWEg/Q2FtZWwgVHJpcCBM/aXN0aW5nIEhlYWRl/ciBQaG90b3MucG5n.png)](https://www.atlasobscura.com/adventures/trips/mongolia-thousand-camel)
+
+Mongolia • 9 days, 8 nights
+
+[NEW - Mongolia's Winter Camel Festival](https://www.atlasobscura.com/adventures/trips/mongolia-thousand-camel)
+
+from
+
+   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
+
+Egypt • 11 days, 10 nights
+
+[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
+
 Loading...
-
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/Skm1kp1XabJ8vccjW9P-knd3Cb7t_HaSr1_k6WnelWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8wNThk/MTljMy1iOTZhLTRh/MWUtOTk3ZS0xNTU4/MjgzZmY3YmM0Mjc4/MTM2NDc3MmYxOWQ0/Y2NfOGM5YmNmYjct/MmUzYy00MjlmLThm/ZGUtZDJiYzlkOGY1/NWVlYmE3MzkxYzQy/NWVlNDVmYmZkX25h/dGhhbi13cmlnaHQt/aWdwd3V4Wm9mZ28t/dW5zcGxhc2guanBn.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: Halloween Monster Mashup](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-halloween-monster-mashup)
-
-   [![](https://img.atlasobscura.com/qCD_zfu1RLyFP5Gm_fQOivD9S5cOVFJ3SNZOfTaCuss/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9lNWUz/NTU4My1kODVhLTRj/OGQtOTA3ZC0wZTMz/ZTUxY2E0ZTYzMzJi/MGVjMDAxYjllOTY2/MTRfNlVXeFlkZkEu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-portland)
-
-   [![](https://img.atlasobscura.com/47GmlwimpzPiGelKZ8NPUfhFPGMn4DXU85l8m12kxFo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hNjg3/MmE5NS05ZmZjLTRm/YzQtYTg3NS03M2Q3/ZjJjZTIxOTA4MTEx/N2MxZTk1MWE0NmQy/OTBfYXJuZS12ZXJi/aXN0LTB3dTVXYWlL/NnBVLXVuc3BsYXNo/LmpwZw.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: The Albatwitch](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-albatwitch)
-
-   [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
-
-Members Only
-
-Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-6)
-
-   [![](https://img.atlasobscura.com/BtMUa2zrDFXc-OVssjz_wOvaZew_1XXphWiyJnyDX48/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YjU4/YTZlMS1jMDk3LTRh/M2EtOTVmZi1lMTI5/NDE0ZWQwYTBiY2I5/NDY5NjcwMDM3MmUw/MjdfVW50aXRsZWQu/anBn.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
 
 Upcoming Courses
 
