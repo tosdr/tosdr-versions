@@ -257,16 +257,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
-    [12:00 Marko Požlep, BG](javascript:void(0);)
-    
-    **06.06.2024 | 12:00**
-    
-    Galerija Hestia, Toličin venac 14/9, Beograd
-    
-    **MARKO POŽLEP** (Slovenija): **TRAJNI ODMOR / PERMANENT VACATION** - izložba crteža Jadranske magistrale (Trst-Ada Bojana) (5.6.-23.10.2024.)
-    
-    [https://hestiabelgrade.com](https://hestiabelgrade.com/)
-    
     [10:00 10. Trienale sodobne umetnosti - U3, LJ](javascript:void(0);)
     
     **22.06.2024 | 10:00**
@@ -395,14 +385,52 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
     
+    [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
+    
+    **06.09.2024 | 10:00**
+    
+    Muzej savremene umjetnosti Republike Srpske, Trg Srpskih Junaka 2, Banja Luka
+    
+    **NEW ERA: UMJETNIČKI DISKURSI O DRUŠTVENIM I KLIMATSKIM PROMJENAMA** - grupna intermedijska izložba (5.9.-5.11.2024.)
+    
+    **Igor Bošnjak**
+    
+    **Isidora Branković**
+    
+    **Jovan Došenović**
+    
+    **Dejan Marković**
+    
+    **Marija Marković**
+    
+    **Danilo Milovanović DNLM**
+    
+    **Bojan Mrđenović**
+    
+    **Helena Tahir**
+    
+    **Nikola Tomić**
+    
+    **Adrien Ujhazi**
+    
+    **Umjetnička grupa diSTRUKTURA**
+    
+    **Umjetnička grupa PLATEAURESIDUE**
+    
+    Kustosi izložbe: Mladen Banjac (MSURS), Miha Colner (GBJ), dr Sanja Kojić Mladenov (MSUV)
+    
+    organizacija: Muzej savremene umjetnosti Republike Srpske, Muzej savremene umetnosti Vojvodine iz Novog Sada i Galerija Božidar Jakac - Muzej moderne i savremene umjetnosti iz Kostanjevice na Krki
+    
+    [http://msurs.net](http://msurs.net/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f25.jpg?itok=n9fzla9H)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladan-jeremic/dva-obicna-dana-u-telu-dragog-lika/dearface5.jpg?itok=Odn3_vLP)](http://seecult.org/galerija/galerija-umetnika/vladan-jeremic/dva-obicna-dana-u-telu-dragog-lika)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/venders_0.jpg?itok=pZeLQVTP)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/mermer-i-zvuci/park-skulptura/arandjelovac-006.jpg?itok=GFL6hwyd)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/mermer-i-zvuci/park-skulptura)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -418,6 +446,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [FAF pre FAF-a](http://seecult.org/vest/faf-pre-faf)
 * [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
 * [Korugi nagrada Dimitrije Parlić](http://seecult.org/vest/korugi-nagrada-dimitrije-parlic)
 * [Slijepčevićev kanski pobednik na otvaranju 20. Slobodne zone](http://seecult.org/vest/slijepcevicev-kanski-pobednik-na-otvaranju-20-slobodne-zone)
@@ -427,7 +456,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Aktivitet: 100 godina nadrealizma](http://seecult.org/vest/aktivitet-100-godina-nadrealizma)
 * [Pejaković novi direktor Drame SNP-a, Aja Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-aja-jung-direktorka-baleta)
 * [Šta bi bio život da nema reči](http://seecult.org/vest/sta-bi-bio-zivot-da-nema-reci)
-* [Upečatljiv program 43. Skopskog džez festivala](http://seecult.org/vest/upecatljiv-program-43-skopskog-dzez-festivala)
 
 * [Konkursi](#tab1_1)
 
