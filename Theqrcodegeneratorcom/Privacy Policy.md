@@ -73,7 +73,7 @@ _Made with in Germany, India, and the U.S.A_
 
 About
 
-[What's a QR Code?](https://www.the-qrcode-generator.com/whats-a-qr-code "What's a QR Code?") [Blog](https://www.the-qrcode-generator.com/blog/ "blog") [Best QR Code Generator](https://www.the-qrcode-generator.com/blog/best-qr-code-generator/the-ultimate-guide-to-choosing-the-best-qr-code-generator "Best QR Code Generator") [Custom QR Code](https://www.the-qrcode-generator.com/custom-qr-code "Custom qr code") [Dynamic QR Code](https://www.the-qrcode-generator.com/dynamic-qr-code "Dynamic QR Code") [Help Center](https://docs.the-qrcode-generator.com/en/ "Help Center") [Pricing](https://www.the-qrcode-generator.com/pricing?lng=en&upgrade_source=footer "pricing")
+[What's a QR Code?](https://www.the-qrcode-generator.com/whats-a-qr-code "What's a QR Code?") [Blog](https://www.the-qrcode-generator.com/blog/ "blog") [Best QR Code Generator](https://www.the-qrcode-generator.com/blog/best-qr-code-generator/the-ultimate-guide-to-choosing-the-best-qr-code-generator "Best QR Code Generator") [Custom QR Code](https://www.the-qrcode-generator.com/custom-qr-code "Custom qr code") [Dynamic QR Code](https://www.the-qrcode-generator.com/dynamic-qr-code "Dynamic QR Code") [Trackable QR Code](https://www.the-qrcode-generator.com/trackable-qr-code "Trackable QR Code") [Help Center](https://docs.the-qrcode-generator.com/en/ "Help Center") [Pricing](https://www.the-qrcode-generator.com/pricing?lng=en&upgrade_source=footer "pricing")
 
 Contact us
 
