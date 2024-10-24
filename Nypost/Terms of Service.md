@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Argentina police raid Liam Payne's hotel where singer fell to his death, demand more security footage](https://nypost.com/2024/10/24/entertainment/liam-paynes-argentina-hotel-room-raided-by-police-after-one-direction-singer-fell-to-his-death/)
-
 Terms Of Use
 ============
 
