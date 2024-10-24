@@ -244,19 +244,22 @@ Please check back frequently to see any updates or changes to our privacy policy
 
   
 
-![Partner](/content/images/content/strip/Strip-Charter.png)
+![Partner](/content/images/content/strip/wyatt.house.png)
 
   
 
-![Partner](/content/images/content/strip/Strip-BMW.png)
+  
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
 
   
 
-![Partner](/content/images/content/strip/Strip-certifyeu.png)
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
 
   
 
-![Partner](/content/images/content/strip/Strip-Estructuras.png)
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
