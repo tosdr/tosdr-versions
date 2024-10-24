@@ -54,19 +54,7 @@
     
     By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
     
-* *  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [Taylor Swift's Worst Outfits From Each Of Her Eras](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-        
-        Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
-        
-    *  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+* *  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
         
         [Wellness](https://www.women.com/category/wellness/)
         
@@ -78,21 +66,33 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
         
+    *  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        
+        More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        
 
 More Stories
 ------------
 
-*  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+*  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    ### [Taylor Swift's Worst Outfits From Each Of Her Eras](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
     
-    More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+    Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
     
 *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
     
