@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/moongate/moongate-bizarre-maangeologie-en-atmosfeer/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-lobby-tegen-iran-op-volle-toeren/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
