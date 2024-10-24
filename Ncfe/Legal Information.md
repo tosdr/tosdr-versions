@@ -8,9 +8,7 @@
 
    
 
-We're aware of an issue affecting our qualification pages and website search function. We're working to resolve this as soon as possible. In the meantime, you can access qualification pages using an external search engine or bookmarks. We apologise for any inconvenience this may cause.
-
- [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1141)](https://www.ncfe.org.uk/)
+ [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1253) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1253)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
     
