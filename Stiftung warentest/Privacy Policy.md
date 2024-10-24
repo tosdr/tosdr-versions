@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Service Stiftung Warentest
 
