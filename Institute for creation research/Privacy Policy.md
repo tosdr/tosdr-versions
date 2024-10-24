@@ -96,93 +96,69 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More The Universe Was Created Recently
+More Creation Q&A
 
-[![](/i/wide/s_africa_fossil_wide.jpg)](https://www.icr.org/article/myths-dressed-science)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_dont_they_believe_Creation.jpg)](https://www.icr.org/article/why-dont-they-believe-in-creation)
 
-[Myths Dressed as Science](https://www.icr.org/article/myths-dressed-science/)
+[Why Don't They Believe in Creation?](https://www.icr.org/article/why-dont-they-believe-in-creation/)
 
-A recent MSN article claims a fossilized hominid called "Little Foot" found in a cave at the Sterkfontein site near Johannesburg, South Africa,...
-
-BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
-
-[![](/i/wide/comet_closeup_wide.jpg)](https://www.icr.org/article/european-spacecrafts-comet-close-up)
-
-[European Spacecraft's Comet Close-up a World First](https://www.icr.org/article/european-spacecrafts-comet-close-up/)
-
-After a ten-year-long flight, the European Space Agency's (ESA) Rosetta spacecraft entered into orbit around a comet. It will soon attempt to actually...
+After an ICR scientist presents convincing evidence for biblical creation, listeners often ask, “If all you just said is true, then why don’t...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/stage_248/saturnrings-stage.jpg)](https://www.icr.org/article/secular-scientists-dumbfounded-by-saturns)
+[![](/i/articles/af/q%26a_chimp_smile_wide.jpg)](https://www.icr.org/article/why-dont-chimps-smile)
 
-[Secular Scientists Dumbfounded by Saturn's Young Rings](https://www.icr.org/article/secular-scientists-dumbfounded-by-saturns/)
+[Why Don't Chimps Smile?](https://www.icr.org/article/why-dont-chimps-smile/)
 
-Data obtained by an instrument aboard the Cassini space probe have convinced planetary scientists that Saturn’s rings can be no more than a few...
+Chimpanzees might appear human-like to those who’ve decided that humans evolved from primates. But these people tend to ignore big differences....
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-More Creation Science Update
+[![](/i/articles/af/af1712_square7_248_cro_magnon.jpg)](https://www.icr.org/article/who-were-cro-magnon-people)
 
-[![](/i/Main%20Stage%20-%201400x1050/green-algae-relatives-1400x1050)](https://www.icr.org/article/land-plants-algal-relatives)
+[Who Were Cro-Magnon People?](https://www.icr.org/article/who-were-cro-magnon-people/)
 
-[Do Land Plants Have Algal Relatives?](https://www.icr.org/article/land-plants-algal-relatives/)
+If you’re like me, you appreciate the variations God designed the human frame to express. Wide or narrow, tiny or giant, having high or shallow...
 
-Evolutionists recently reported observations about a plant group called the Zygnematophyceae (a class of green algae). They claimed to know more about...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/dragonfly-plant-1400x1050)](https://www.icr.org/article/aerial-engineering-dragonfly)
-
-[Aerial Engineering and Physics of the Dragonfly](https://www.icr.org/article/aerial-engineering-dragonfly/)
-
-Dragonflies (order Odonata) are perhaps one of the most studied and appreciated insects in the world today. Like the hummingbird, the dragonfly is a master...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/Seed_Water_Sensor_CET_1400x1050.jpg)](https://www.icr.org/article/seed-water-sensor-cet)
-
-[Seed Water Sensor Confirms CET Design Model](https://www.icr.org/article/seed-water-sensor-cet/)
-
-The sprouting of a seed is crucial to not only the beginning of a plant’s life, but all life on earth. Despite this fundamental process of importance...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
 
-The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
 
 $7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
-The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
 
 $2.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
-
-The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
-
-$34.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373091/file.jpg)
-
-The Ice Age Real and Recent](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent.html)
-
 $7.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
-
-The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
 
 $4.99
 
 $9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
