@@ -30,7 +30,7 @@ Login
 
 [App Developers](https://www.digitalturbine.com/app-developers)
 
-[DT Hub](https://www.digitalturbine.com/dt-hub)[Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
+[Alternative App Solutions](https://www.digitalturbine.com/alternative-future)[Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
 
 [Brands & Agencies](https://www.digitalturbine.com/brands-agencies)
 
@@ -40,7 +40,7 @@ Login
 
 [Company](https://www.digitalturbine.com/about)
 
-[About](https://www.digitalturbine.com/about)[Careers](https://www.digitalturbine.com/careers)[Investors](https://ir.digitalturbine.com/)
+[About](https://www.digitalturbine.com/about)[Careers](https://www.digitalturbine.com/careers)[Investors](https://ir.digitalturbine.com/)[Trust Center](https://digitalturbine.com/trust-center)
 
 [Resources](https://www.digitalturbine.com/all-resources)
 
