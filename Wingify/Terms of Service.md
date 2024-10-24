@@ -1,6 +1,6 @@
 **This website works best with JavaScript enabled**. [Learn how to enable JavaScript](https://enable-javascript.com/).
 
-* [+1 415-349-0105](tel:+14153490105) [+44 800-088-5450](tel:+448000885450) [+1 844-822-8378](tel:+18448228378) [+61 1-800-614-417](tel:+611800614417)
+* [+1 415-349-3207](tel:+14153493207)
 * [Contact Us](https://vwo.com/contact-us/)
 * Login
     
@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-35-Essential-Customer-Experience-Stats-You-Need-to-Know.jpg?tr=w-60,h-50)
+    
+    35 Essential Customer Experience Statisitics You Need to Know](https://vwo.com/blog/customer-experience-statistics/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-27-Eye-Opening-Cart-Abandonment-Statistics-You-Need-to-Know.jpg?tr=w-60,h-50)
     
     27 Eye-Opening Cart Abandonment Statistics You Need to Know](https://vwo.com/blog/cart-abandonment-statistics/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-CRO-Perspectives-Chester-Ong.jpg?tr=w-60,h-50)
     
     Balancing UX and CRO Necessary for Product Improvement & Impactful Results](https://vwo.com/blog/balancing-ux-cro/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Uncovering-the-Top-50-Website-Traffic-Statistics-1-1.jpg?tr=w-60,h-50)
-    
-    Website Traffic Statistics: Uncovering the Top 50 Stats about Web Traffic](https://vwo.com/blog/website-traffic-statistics/)
     
     Featured Blogs
     
@@ -457,7 +457,7 @@
     
 * [Request Demo](https://vwo.com/demo/)
     
-    [+1 415-349-0105](tel:+14153490105) [+44 800-088-5450](tel:+448000885450) [+1 844-822-8378](tel:+18448228378) [+61 1-800-614-417](tel:+611800614417)
+    [+1 415-349-3207](tel:+14153493207)
     
 
 * Languages
@@ -833,21 +833,9 @@ Scroll To Top
 
 Talk to a sales representative
 
-![USA Flag Icon](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/icon-us-flag1.svg) USA
-
-[+1 844-822-8378 (Toll free)](tel:+18448228378)
-
-![UK Flag Icon](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/icon-gb-flag.svg) UK
-
-[+44 800-088-5450 (Toll free)](tel:+448000885450)
-
-![Australia Flag Icon](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/icon-australia.svg) Australia
-
-[+61 1-800-614-417 (Toll free)](tel:+611800614417)
-
 World Wide
 
-[+1 415-349-0105](tel:+14153490105)
+[+1 415-349-3207](tel:+14153493207)
 
 You can also email us at [support@vwo.com](mailto:support@vwo.com)
 
