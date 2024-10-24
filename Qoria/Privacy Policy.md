@@ -1,4 +1,4 @@
-[![Qoria](https://qoria.com/hs-fs/hubfs/Qoria%20Corporate/images/qoria-logo-teal.png?width=500&height=150&name=qoria-logo-teal.png)](https://qoria.com/?hsLang=en)
+[![Qoria](https://qoria.com/hs-fs/hubfs/Qoria%20Corporate/images/qoria-logo-teal.png?width=500&height=150&name=qoria-logo-teal.png)](https://qoria.com/)
 
 * [Corporate (English)](https://qoria.com/legal/data-processing-addendum)
 * [Corporate (Español)](https://qoria.com/es/legal/data-processing-addendum)
@@ -33,7 +33,7 @@
 
    
 
-[Contact us](https://qoria.com/contact?hsLang=en)
+[Contact us](https://qoria.com/contact)
 
 * [Corporate (English)](https://qoria.com/legal/data-processing-addendum)
 * [Corporate (Español)](https://qoria.com/es/legal/data-processing-addendum)
@@ -57,22 +57,22 @@ Data Processing Addendum
 
 [Download Data Processing Addendum](https://7977292.fs1.hubspotusercontent-na1.net/hubfs/7977292/Qoria%20Legals/Qoria-legal-agreements-data-addendum.pdf)
 
-[Partner Contract](https://qoria.com/legal/partner-contract?hsLang=en)
+[Partner Contract](https://qoria.com/legal/partner-contract)
 
-[Partner Program](https://qoria.com/legal/partner-program?hsLang=en)
+[Partner Program](https://qoria.com/legal/partner-program)
 
-[Partner Terms](https://qoria.com/legal/partner-terms?hsLang=en)
+[Partner Terms](https://qoria.com/legal/partner-terms)
 
 [Customer Terms,  
-Enterprise Customers](https://qoria.com/legal/customer-terms-enterprise?hsLang=en)
+Enterprise Customers](https://qoria.com/legal/customer-terms-enterprise)
 
 [Data Processing Addendum](https://qoria.com/legal/data-processing-addendum)
 
-[Terms of Service](https://qoria.com/legal/terms-of-service?hsLang=en)
+[Terms of Service](https://qoria.com/legal/terms-of-service)
 
-[EULA](https://qoria.com/legal/end-user-license-agreement?hsLang=en)
+[EULA](https://qoria.com/legal/end-user-license-agreement)
 
-[Customer Terms, ySafe](https://qoria.com/legal/customer-terms-ysafe?hsLang=en)
+[Customer Terms, ySafe](https://qoria.com/legal/customer-terms-ysafe)
 
 DATA PROCESSING ADDENDUM
 ------------------------
@@ -80,7 +80,7 @@ DATA PROCESSING ADDENDUM
 [(Versión en español)](https://qoria.com/es/legal/data-processing-addendum)
 
   
-This Data Processing Addendum (“DPA”) forms part of the Terms of Service of Qoria Ltd (“Qoria”, or we, or us). This DPA shall be read in conjunction with (and takes priority over) our [Privacy Policy](https://qoria.com/privacy/privacy-policy?hsLang=en) which forms part of our [Terms of Service](https://qoria.com/legal/terms-of-service?hsLang=en).
+This Data Processing Addendum (“DPA”) forms part of the Terms of Service of Qoria Ltd (“Qoria”, or we, or us). This DPA shall be read in conjunction with (and takes priority over) our [Privacy Policy](https://qoria.com/privacy/privacy-policy) which forms part of our [Terms of Service](https://qoria.com/legal/terms-of-service).
 
 **Definitions**
 
@@ -88,7 +88,7 @@ All terms with capitalised initial letters that are defined in the General Data 
 
 **"Customer"** or **"you"** means the entity that accepts our Terms of Service and DPA directly or through our resellers.
 
-**"Customer Data"** means all data that Qoria collects and processes under the Customer's instructions in order to provide the Service. In particular, it means the data listed in the [Privacy Policy](https://qoria.com/privacy/privacy-policy?hsLang=en).
+**"Customer Data"** means all data that Qoria collects and processes under the Customer's instructions in order to provide the Service. In particular, it means the data listed in the [Privacy Policy](https://qoria.com/privacy/privacy-policy).
 
 **"Applicable Data Protection Legislation"** means:
 
@@ -134,11 +134,11 @@ You undertake to ensure that all notices have been given, and all such authoriza
 
 A “sub-processor" means any third-party data processor engaged by us to assist us to fulfil our obligations under your Customer Agreement and which processes Customer Data. Sub-processors may include third parties or our affiliates.
 
-You agree that: (a) we may engage sub-processors (as listed on our website [https://qoria.com/privacy/sub-processors](https://qoria.com/privacy/sub-processors?hsLang=en)) which may change from time to time; and (b) such sub-processors respectively may engage third party processors to process Customer Data on our behalf.
+You agree that: (a) we may engage sub-processors (as listed on our website [https://qoria.com/privacy/sub-processors](https://qoria.com/privacy/sub-processors)) which may change from time to time; and (b) such sub-processors respectively may engage third party processors to process Customer Data on our behalf.
 
 You provide a general authorization for us to engage onward sub-processors subject to these conditions: a) we will restrict the onward sub-processor’s access to Customer Data only to what is strictly necessary to provide the Services, and we will prohibit the sub-processor from processing the Customer Data for any other purpose; b) to impose contractual data protection obligations, including appropriate technical and organisational measures to protect Customer Data and the EU model contract clauses that require such sub-processor to protect Customer Data to the standard required by Applicable Data Protection Legislation; and c) we will remain liable and accountable for any breach of this DPA that is caused by an act or omission of our sub-processors.
 
-We may, by giving reasonable notice to you, add or remove sub-processors. When we do so we undertake to update the schedule of sub-processors (as listed on our website [https://qoria.com/privacy/sub-processors](https://qoria.com/privacy/sub-processors?hsLang=en)) at least 10 days prior to any change. If you object on reasonable grounds (in our sole opinion, acting reasonably) to such a change then we agree to work with you on a good faith basis to find alternative solutions. In the event that the parties are unable to find such a solution, you may terminate the Agreement at no additional cost.
+We may, by giving reasonable notice to you, add or remove sub-processors. When we do so we undertake to update the schedule of sub-processors (as listed on our website [https://qoria.com/privacy/sub-processors](https://qoria.com/privacy/sub-processors)) at least 10 days prior to any change. If you object on reasonable grounds (in our sole opinion, acting reasonably) to such a change then we agree to work with you on a good faith basis to find alternative solutions. In the event that the parties are unable to find such a solution, you may terminate the Agreement at no additional cost.
 
 **Audits**
 
@@ -500,7 +500,7 @@ Table 2: Appendix Information
 | List of Parties: | as set out above |
 | Description of Transfer: | as described below |
 | Technical and organisational measures to ensure the security of the data: | as set out in Annex 4 |
-| List of Sub processors: | as described at [https://qoria.com/privacy/sub-processor](https://qoria.com/privacy/sub-processor?hsLang=en) |
+| List of Sub processors: | as described at [https://qoria.com/privacy/sub-processor](https://qoria.com/privacy/sub-processor) |
 
 #####   
 Table 3: Description of Transfer
@@ -511,10 +511,10 @@ Table 3: Description of Transfer
 | Categories of personal data transferred | as described in the Customer Agreement |
 | Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures. | as set out in Annex 4 |
 | The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis). | Continuous basis |
-| Nature of the processing | As defined within the Qoria privacy policy available at [www.qoria.com/privacy](https://www.qoria.com/privacy?hsLang=en) |
-| Purpose(s) of the data transfer and further processing | As defined within the Qoria privacy policy available at [www.qoria.com/privacy](https://www.qoria.com/privacy?hsLang=en) |
-| The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period | As defined within the Qoria privacy policy available at [www.qoria.com/privacy](https://www.qoria.com/privacy?hsLang=en) |
-| For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing | As defined within the Qoria privacy policy and the list of sub processors available at [www.qoria.com/privacy](https://www.qoria.com/privacy?hsLang=en) |
+| Nature of the processing | As defined within the Qoria privacy policy available at [www.qoria.com/privacy](https://www.qoria.com/privacy) |
+| Purpose(s) of the data transfer and further processing | As defined within the Qoria privacy policy available at [www.qoria.com/privacy](https://www.qoria.com/privacy) |
+| The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period | As defined within the Qoria privacy policy available at [www.qoria.com/privacy](https://www.qoria.com/privacy) |
+| For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing | As defined within the Qoria privacy policy and the list of sub processors available at [www.qoria.com/privacy](https://www.qoria.com/privacy) |
 
 #####   
 Table 4: Ending this Addendum when the Approved Addendum Changes
@@ -565,7 +565,7 @@ Internally Qoria have implemented the NIST Cybersecurity Framework and hold any 
 
 * * *
 
-[![](https://qoria.com/hubfs/raw_assets/public/q-theme/images/qoria/Qoria_Logo_White.svg)](https://qoria.com/?hsLang=en)
+[![](https://qoria.com/hubfs/raw_assets/public/q-theme/images/qoria/Qoria_Logo_White.svg)](https://qoria.com/)
 
 ###### Registered Office
 
@@ -579,10 +579,10 @@ ABN 331 675 09177
 
 ###### Useful Links
 
-* [Privacy Policy](https://qoria.com/privacy?hsLang=en)
-* [Terms & Conditions](https://qoria.com/legal?hsLang=en)
-* [Site Map](https://qoria.com/site-map?hsLang=en)
-* [Contact Us](https://qoria.com/contact?hsLang=en)
+* [Privacy Policy](https://qoria.com/privacy)
+* [Terms & Conditions](https://qoria.com/legal)
+* [Site Map](https://qoria.com/site-map)
+* [Contact Us](https://qoria.com/contact)
 
 ###### Follow us
 
