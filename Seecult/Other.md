@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladan-jeremic/dva-obicna-dana-u-telu-dragog-lika/dearface5.jpg?itok=Odn3_vLP)](http://seecult.org/galerija/galerija-umetnika/vladan-jeremic/dva-obicna-dana-u-telu-dragog-lika)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/konstruisane-stvarnosti/02.jpg?itok=3oxYMqme)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/konstruisane-stvarnosti)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/mermer-i-zvuci/park-skulptura/arandjelovac-006.jpg?itok=GFL6hwyd)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/mermer-i-zvuci/park-skulptura)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-amp-ljetno-kino-big-band/ljetno-kinojpg-011.?itok=_bhF8JKJ)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-ljetno-kino-big)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
