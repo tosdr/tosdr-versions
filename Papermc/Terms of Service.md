@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,308
+* 9,324
 * 2
 
 ### The 1.21 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 17,433
+* 17,437
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,446
+* 14,450
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 25,602
+* 25,614
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,535
+* 8,536
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,991
+* 14,992
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,704
+* 13,706
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,539
+* 6,541
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,716
+* 13,717
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,188
+* 35,191
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,404
+* 37,406
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,681
+* 23,682
 * 12
 
 ### The 1.18.2 Update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 53 (members: 1, guests: 52)
+Total: 18 (members: 0, guests: 18)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1327,7 +1327,7 @@ Total: 53 (members: 1, guests: 52)
 Question [NoSuchMethodError: Bukkit.getServer().getCommandMap() (1.21)](https://papermc.io/threads/nosuchmethoderror-bukkit-getserver-getcommandmap-1-21.1420/)
 
 * [xyndex](https://papermc.io/members/xyndex.11897/)
-* [Yesterday at 6:03 PM](https://papermc.io/threads/nosuchmethoderror-bukkit-getserver-getcommandmap-1-21.1420/)
+* [Tuesday at 6:03 PM](https://papermc.io/threads/nosuchmethoderror-bukkit-getserver-getcommandmap-1-21.1420/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
@@ -1336,9 +1336,9 @@ Replies
 
 Views
 
-84
+87
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Today at 2:28 PM](https://papermc.io/threads/nosuchmethoderror-bukkit-getserver-getcommandmap-1-21.1420/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 2:28 PM](https://papermc.io/threads/nosuchmethoderror-bukkit-getserver-getcommandmap-1-21.1420/latest)
 
 [xyndex](https://papermc.io/members/xyndex.11897/)
 
@@ -1351,7 +1351,7 @@ Views
 Question [My LuckyPerms on velocity bad working](https://papermc.io/threads/my-luckyperms-on-velocity-bad-working.1424/)
 
 * [JustEnotik](https://papermc.io/members/justenotik.11922/)
-* [Today at 12:04 PM](https://papermc.io/threads/my-luckyperms-on-velocity-bad-working.1424/)
+* [Yesterday at 12:04 PM](https://papermc.io/threads/my-luckyperms-on-velocity-bad-working.1424/)
 * [Help](https://papermc.io/forums/velocity-help/)
 
 Replies
@@ -1360,9 +1360,9 @@ Replies
 
 Views
 
-56
+74
 
-[Help](https://papermc.io/forums/velocity-help/) [Today at 2:01 PM](https://papermc.io/threads/my-luckyperms-on-velocity-bad-working.1424/latest)
+[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 2:01 PM](https://papermc.io/threads/my-luckyperms-on-velocity-bad-working.1424/latest)
 
 [electronicboy](https://papermc.io/members/electronicboy.2/)
 
@@ -1384,7 +1384,7 @@ Replies
 
 Views
 
-98
+101
 
 [Help](https://papermc.io/forums/paper-help/) [Monday at 7:21 AM](https://papermc.io/threads/paper-server-has-crashed-fatal-error-in-java-runtime-envoirement.1417/latest)
 
@@ -1406,7 +1406,7 @@ Replies
 
 Views
 
-166
+167
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Monday at 4:08 AM](https://papermc.io/threads/paperweight-nms-multiversioning.1419/latest)
 
@@ -1421,7 +1421,7 @@ Views
 Question [Server getting spammed with every animal/monster name and / commands no longer working](https://papermc.io/threads/server-getting-spammed-with-every-animal-monster-name-and-commands-no-longer-working.1413/)
 
 * [maggotnap](https://papermc.io/members/maggotnap.11734/)
-* [Thursday at 7:32 AM](https://papermc.io/threads/server-getting-spammed-with-every-animal-monster-name-and-commands-no-longer-working.1413/)
+* [Oct 17, 2024](https://papermc.io/threads/server-getting-spammed-with-every-animal-monster-name-and-commands-no-longer-working.1413/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1467,7 +1467,7 @@ Views
 Question [Disabling Villager Panicking](https://papermc.io/threads/disabling-villager-panicking.1414/)
 
 * [Antike Biene](https://papermc.io/members/antike-biene.11770/)
-* [Thursday at 7:26 PM](https://papermc.io/threads/disabling-villager-panicking.1414/)
+* [Oct 17, 2024](https://papermc.io/threads/disabling-villager-panicking.1414/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
@@ -1478,7 +1478,7 @@ Views
 
 82
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Thursday at 9:19 PM](https://papermc.io/threads/disabling-villager-panicking.1414/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Oct 17, 2024](https://papermc.io/threads/disabling-villager-panicking.1414/latest)
 
 [electronicboy](https://papermc.io/members/electronicboy.2/)
 
@@ -1502,7 +1502,7 @@ Views
 
 198
 
-[Help](https://papermc.io/forums/paper-help/) [Thursday at 3:00 AM](https://papermc.io/threads/starting-up-then-crashing.1412/latest)
+[Help](https://papermc.io/forums/paper-help/) [Oct 17, 2024](https://papermc.io/threads/starting-up-then-crashing.1412/latest)
 
 [mbaxter](https://papermc.io/members/mbaxter.18/)
 
@@ -1522,7 +1522,7 @@ Replies
 
 Views
 
-280
+281
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Oct 15, 2024](https://papermc.io/threads/getinstance-why-get-null.1411/latest)
 
@@ -1546,7 +1546,7 @@ Replies
 
 Views
 
-265
+266
 
 [Help](https://papermc.io/forums/paper-help/) [Oct 13, 2024](https://papermc.io/threads/server-problem.1400/latest)
 
