@@ -635,12 +635,12 @@ If you have any queries about this Privacy Policy, please contact us:
 
 **Ordnance Survey and/or Ordnance Survey International Services Ltd:**
 
-* [Contact our Customer Services team](https://www.ordnancesurvey.co.uk/contact-us)
+* [Contact our Customer Services team](https://www.ordnancesurvey.co.uk/contact-us "contact-us")
 * Post: Customer Services, Ordnance Survey, Explorer House, Adanac Drive, Southampton, SO16 0AS.
 
 **Ordnance Survey Leisure Limited:**
 
-* [Contact our Customer Services team](https://www.ordnancesurvey.co.uk/contact-us)
+* [Contact our Customer Services team](https://www.ordnancesurvey.co.uk/contact-us "contact-us")
 * Post: Ordnance Survey Leisure, Customer Services, Explorer House, Adanac Drive, Southampton, SO16 0AS.
 
 Complaints
@@ -734,11 +734,11 @@ Contact
 
 * [Contact us](https://www.ordnancesurvey.co.uk/contact-us)
 * [Find us](https://www.ordnancesurvey.co.uk/about/find-us)
-* [Complaints](https://www.ordnancesurvey.co.uk/contact-us/complaints)
+* [Complaints](https://www.ordnancesurvey.co.uk/contact-us/complaint)
 * [Media](https://www.ordnancesurvey.co.uk/media)
 * [Meeting room hire](https://www.ordnancesurvey.co.uk/about/meeting-room-hire)
 * [Emergency mapping](https://www.ordnancesurvey.co.uk/contact-us/mapping-for-emergencies)
-* [Report a mapping error](https://www.ordnancesurvey.co.uk/contact-us#Error-with-OS-mapping)
+* [Report a mapping error](https://www.ordnancesurvey.co.uk/contact-us/error)
 
 [](https://www.ordnancesurvey.co.uk/ "Ordnance Survey home")
 
