@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Powerball player wins $478M jackpot — snapping state’s 8-year unlucky streak](https://nypost.com/2024/10/24/us-news/powerball-478m-jackpot-winning-ticket-sold-in-georgia-drawing-numbers/)
+[Argentina police raid Liam Payne's hotel where singer fell to his death, demand more security footage](https://nypost.com/2024/10/24/entertainment/liam-paynes-argentina-hotel-room-raided-by-police-after-one-direction-singer-fell-to-his-death/)
 
 Terms Of Use
 ============
