@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
 
 Service Stiftung Warentest
 
