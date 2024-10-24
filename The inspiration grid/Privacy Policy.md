@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/branding-brother-films-feature.jpg)
+
+[](https://theinspirationgrid.com/brother-films-branding-by-forthback-studio/)
+
+### Brother Films Branding by Forth+Back Studio
+
+![](https://inspgr.id/app/uploads/2024/10/photography-aleksandra-kingo-feature.jpg)
+
+[](https://theinspirationgrid.com/creative-photography-art-direction-by-aleksandra-kingo/)
+
+### Creative Photography & Art Direction by Aleksandra Kingo
+
 ![](https://inspgr.id/app/uploads/2024/10/art-luciano-cian-24-feature.jpg)
 
 [](https://theinspirationgrid.com/artworks-24-new-paintings-by-luciano-cian/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/awesome-3d-artworks-by-geoff-keough/)
 
 ### Awesome 3D Artworks by Geoff Keough
-
-![](https://inspgr.id/app/uploads/2024/10/art-anya-evdokimova-feature.jpg)
-
-[](https://theinspirationgrid.com/digital-collages-poster-designs-by-anya-evdokimova/)
-
-### Digital Collages & Poster Designs by Anya Evdokimova
-
-![](https://inspgr.id/app/uploads/2024/10/design-carly-berry-feature.jpg)
-
-[](https://theinspirationgrid.com/graphic-design-illustrations-by-carly-berry/)
-
-### Graphic Design & Illustrations by Carly Berry
 
 Awesome products for creatives
 ------------------------------
