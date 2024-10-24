@@ -20,16 +20,16 @@ Thursday, October 24 2024
 
 Latest
 
-* [The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
-* [Generative AI Defined: How It Works, Benefits, and Limitations](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
-* [A new study suggests standing desks don’t improve your health — here’s why I use one anyway](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
-* [Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://digitpatrox.com/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
-* [Character.AI and Google sued after chatbot-obsessed teen’s death](https://digitpatrox.com/character-ai-and-google-sued-after-chatbot-obsessed-teens-death/)
-* [Netflix TED Tumblewords: What Is It and How to Play](https://digitpatrox.com/netflix-ted-tumblewords-what-is-it-and-how-to-play/)
-* [How to Unblock Gate.io in The US](https://digitpatrox.com/how-to-unblock-gate-io-in-the-us/)
-* [These tech firms downplayed the impact of the SolarWinds hack – now they’ve been fined by the SEC](https://digitpatrox.com/these-tech-firms-downplayed-the-impact-of-the-solarwinds-hack-now-theyve-been-fined-by-the-sec/)
-* [5 advanced Gboard tricks for smarter Android typing – Computerworld](https://digitpatrox.com/5-advanced-gboard-tricks-for-smarter-android-typing-computerworld/)
-* [All Your Couch-to-5K Questions, Answered](https://digitpatrox.com/all-your-couch-to-5k-questions-answered/)
+* [Dental company Henry Schein raises number of data breach victims from 29K to 166K](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
+* [Best Self-Watering Planters – Consumer Reports](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
+* [Google Play’s Rules Are Killing Indie Android Apps](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
+* [Where next for private cloud networks?](https://digitpatrox.com/where-next-for-private-cloud-networks/)
+* [Master Affiliate Marketing & Watch Your Income Grow](https://digitpatrox.com/master-affiliate-marketing-watch-your-income-grow/)
+* [Lemokey X5 review | Tom’s Guide](https://digitpatrox.com/lemokey-x5-review-toms-guide/)
+* [New Qilin ransomware encryptor features stronger encryption, evasion](https://digitpatrox.com/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/)
+* [A new iMessage safety feature prompts kids to report explicit images to Apple](https://digitpatrox.com/a-new-imessage-safety-feature-prompts-kids-to-report-explicit-images-to-apple/)
+* [Pokemon Bronze Forever Codes (October 2024)](https://digitpatrox.com/pokemon-bronze-forever-codes-october-2024/)
+* [Vendor Spotlight: Cyscale](https://digitpatrox.com/vendor-spotlight-cyscale/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/3N8kr4CVMvYM2E6LUsUo7D-1200-80.jpg)](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Henry-Schein-data-breach-victims-now-number-166K-up-from-29K.jpg)](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
     
-    [The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
+    [Dental company Henry Schein raises number of data breach victims from 29K to 166K](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
     
-    25 mins ago
+    7 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241024-what-is-generative-ai.jpg)](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728574147/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Self-Watering-Plants-10-24)](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
     
-    [Generative AI Defined: How It Works, Benefits, and Limitations](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
+    [Best Self-Watering Planters – Consumer Reports](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
     
-    28 mins ago
+    30 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/b7mzzpdC9naD279kAbqJ5G-1200-80.jpg)](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/34.jpg)](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
     
-    [A new study suggests standing desks don’t improve your health — here’s why I use one anyway](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
+    [Google Play’s Rules Are Killing Indie Android Apps](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
     
-    44 mins ago
+    33 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/22/fortinet-logo.jpg)](https://digitpatrox.com/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
+* [![](https://cdn.mos.cms.futurecdn.net/kkSxF7avnLVjrNeHRABpSa-1200-80.jpg)](https://digitpatrox.com/where-next-for-private-cloud-networks/)
     
-    [Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://digitpatrox.com/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
-    
-    1 hour ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/acjM1CnlZfkPDQem3dZ3VtxxL24=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg)](https://digitpatrox.com/character-ai-and-google-sued-after-chatbot-obsessed-teens-death/)
-    
-    [Character.AI and Google sued after chatbot-obsessed teen’s death](https://digitpatrox.com/character-ai-and-google-sued-after-chatbot-obsessed-teens-death/)
+    [Where next for private cloud networks?](https://digitpatrox.com/where-next-for-private-cloud-networks/)
     
     1 hour ago
+    
+* [![](https://assets.techrepublic.com/uploads/2024/10/tra_20241023-the-affiliate-marketing-passive-income-masterclass-bundle.jpg)](https://digitpatrox.com/master-affiliate-marketing-watch-your-income-grow/)
+    
+    [Master Affiliate Marketing & Watch Your Income Grow](https://digitpatrox.com/master-affiliate-marketing-watch-your-income-grow/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [25 mins ago
+* [7 mins ago
     
-    ### The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
-* [28 mins ago
+    ### Dental company Henry Schein raises number of data breach victims from 29K to 166K](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
+* [30 mins ago
     
-    ### Generative AI Defined: How It Works, Benefits, and Limitations](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
-* [44 mins ago
+    ### Best Self-Watering Planters – Consumer Reports](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
+* [33 mins ago
     
-    ### A new study suggests standing desks don’t improve your health — here’s why I use one anyway](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
+    ### Google Play’s Rules Are Killing Indie Android Apps](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [August 29, 2024
     
-    ### What’s on your desk, David Pierce?](https://digitpatrox.com/whats-on-your-desk-david-pierce/)
-* [August 16, 2024
+    ### California’s contentious AI safety bill gets closer to becoming a law – Computerworld](https://digitpatrox.com/californias-contentious-ai-safety-bill-gets-closer-to-becoming-a-law-computerworld/)
+* [September 4, 2024
     
-    ### How to Use TikTok’s ‘Doom Boxes’ to Organize Your Home](https://digitpatrox.com/how-to-use-tiktoks-doom-boxes-to-organize-your-home/)
-* [August 20, 2024
+    ### OpenAI might use Apple’s TSMC for chips – Computerworld](https://digitpatrox.com/openai-might-use-apples-tsmc-for-chips-computerworld/)
+* [August 22, 2024
     
-    ### Ransomware rakes in record-breaking $450 million in first half of 2024](https://digitpatrox.com/ransomware-rakes-in-record-breaking-450-million-in-first-half-of-2024/)
+    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### New Qilin ransomware encryptor features stronger encryption, evasion](https://digitpatrox.com/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/)
 * [3 hours ago
     
-    ### How to Unblock Gate.io in The US](https://digitpatrox.com/how-to-unblock-gate-io-in-the-us/)
+    ### A new iMessage safety feature prompts kids to report explicit images to Apple](https://digitpatrox.com/a-new-imessage-safety-feature-prompts-kids-to-report-explicit-images-to-apple/)
 * [3 hours ago
     
-    ### These tech firms downplayed the impact of the SolarWinds hack – now they’ve been fined by the SEC](https://digitpatrox.com/these-tech-firms-downplayed-the-impact-of-the-solarwinds-hack-now-theyve-been-fined-by-the-sec/)
-* [3 hours ago
-    
-    ### 5 advanced Gboard tricks for smarter Android typing – Computerworld](https://digitpatrox.com/5-advanced-gboard-tricks-for-smarter-android-typing-computerworld/)
+    ### Pokemon Bronze Forever Codes (October 2024)](https://digitpatrox.com/pokemon-bronze-forever-codes-october-2024/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
