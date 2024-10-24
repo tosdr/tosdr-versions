@@ -2,53 +2,53 @@
 
 Read the Story
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6090c3e871229f0c40404fa3_icons8-sort_right.svg)](https://www.startribune.com/st-paul-lake-superior-minnesota-digital-smartpass-hall-passes-hallway-safety-attendance/600328757/)[SmartPass Co-Founders Listed on Forbes 30 Under 30
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6090c3e871229f0c40404fa3_icons8-sort_right.svg)](https://www.startribune.com/st-paul-lake-superior-minnesota-digital-smartpass-hall-passes-hallway-safety-attendance/600328757/)[SmartPass Co-Founders Listed on Forbes 30 Under 30
 
 Read the Story
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6090c3e871229f0c40404fa3_icons8-sort_right.svg)](https://www.forbes.com/profile/smartpass/?sh=7d0b375144b6)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6090c3e871229f0c40404fa3_icons8-sort_right.svg)](https://www.forbes.com/profile/smartpass/?sh=7d0b375144b6)
 
-[![SmartPass Logo](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5ee02f084452839901aed9be_Longo.svg)](https://www.smartpass.app/)
+[![SmartPass Logo](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5ee02f084452839901aed9be_Longo.svg)](https://www.smartpass.app/)
 
 Products
 
 Solutions
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cc17ad31c88299c5958_Disrupt%20Bathroom%20meetups.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cc17ad31c88299c5958_Disrupt%20Bathroom%20meetups.svg)
 
-Disrupt Bathroom Meetups](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
+Disrupt Bathroom Meetups](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
 
-Prevent Vaping & Vandalism](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
+Prevent Vaping & Vandalism](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
 
-Enter Instant Emergency Lockdown](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
+Enter Instant Emergency Lockdown](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
 
-Manage Tardies & Early Dismissals](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cf7db65f45506760b94_Briefcase.svg)
+Manage Tardies & Early Dismissals](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cf7db65f45506760b94_Briefcase.svg)
 
-Schedule Student Accommodations](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
+Schedule Student Accommodations](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
 
 Monitor Health Room & Counselor Visits](#)
 
 Products
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
 
-Hall Pass](https://www.smartpass.app/hall-pass)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
+Hall Pass](https://www.smartpass.app/hall-pass)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
 
-Flex](https://www.smartpass.app/flex)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
+Flex](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
 
 ID Cards
 
 FREE](https://www.smartpass.app/idcards)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
 SmartPass on G2!
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662e22ca8c5ca3b61c2f53_4-star.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662e22ca8c5ca3b61c2f53_4-star.svg)
 
 “SmartPass has cut down on office traffic so much and helps kids be more responsible for themselves.”
 
-Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
 "We have seen the amount of bathroom incidents, whether behavior or vandalism, go down substantially with SmartPass."
 
@@ -58,21 +58,21 @@ Products
 
 Product Tours
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c724fb0626a5bdda5bc5e_Hall%20Pass%20icon.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c724fb0626a5bdda5bc5e_Hall%20Pass%20icon.svg)
 
 Hall Pass
 
-Make teachers’ lives easier, student-movement data smarter, and school buildings more secure.](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c7336405cf157ff6856ab_ID%20icon.svg)
+Make teachers’ lives easier, student-movement data smarter, and school buildings more secure.](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c7336405cf157ff6856ab_ID%20icon.svg)
 
 ID Cards
 
 FREE
 
-Switching from print to digital lets you set up and distribute IDs to everyone in 5 minutes.](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c6584481427a891f3f0fd_Flex%20icon.svg)
+Switching from print to digital lets you set up and distribute IDs to everyone in 5 minutes.](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c6584481427a891f3f0fd_Flex%20icon.svg)
 
 Flex
 
-Streamlined scheduling and improve accountability for intervention/advisory periods, activities, dances, and more.](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c72ceecf6ba6e6ed23628_Attendance%20icon.svg)
+Streamlined scheduling and improve accountability for intervention/advisory periods, activities, dances, and more.](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/645c72ceecf6ba6e6ed23628_Attendance%20icon.svg)
 
 Attendance
 
@@ -80,59 +80,59 @@ Hands free, hassle-free automated attendance for every class, period, and activi
 
 Solutions
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
 
-Prevent Bathroom Meetups](https://www.smartpass.app/get-started?text=Preventing+Bathroom+Meetups)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
+Prevent Bathroom Meetups](https://www.smartpass.app/get-started?text=Preventing+Bathroom+Meetups)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
 
-Instant Emergency Lockdown](https://www.smartpass.app/get-started?text=Instant+Emergency+Lockdowns)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
+Instant Emergency Lockdown](https://www.smartpass.app/get-started?text=Instant+Emergency+Lockdowns)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
 
-Free Student IDs - No Purchase Needed](https://www.smartpass.app/get-started?text=Free+Student+IDs)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a69d4828ee7ba42ea3_Open%20Book-1.svg)
+Free Student IDs - No Purchase Needed](https://www.smartpass.app/get-started?text=Free+Student+IDs)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a69d4828ee7ba42ea3_Open%20Book-1.svg)
 
-PBIS Rewards](https://www.smartpass.app/get-started?text=PBIS+Rewards)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684db_Open%20Book-2.svg)
+PBIS Rewards](https://www.smartpass.app/get-started?text=PBIS+Rewards)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684db_Open%20Book-2.svg)
 
-Cafeteria Check Ins](https://www.smartpass.app/get-started/attendance?text=Cafeteria+Check+Ins)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
+Cafeteria Check Ins](https://www.smartpass.app/get-started/attendance?text=Cafeteria+Check+Ins)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
 
-Tardy & Early Dismissals](https://www.smartpass.app/get-started/attendance?text=Tardy+%26+Early+Dismissals)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
+Tardy & Early Dismissals](https://www.smartpass.app/get-started/attendance?text=Tardy+%26+Early+Dismissals)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
 
 Daily Nurse Medications](https://www.smartpass.app/get-started?text=Daily+Nurse+Medications)
 
 Solutions
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cc17ad31c88299c5958_Disrupt%20Bathroom%20meetups.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cc17ad31c88299c5958_Disrupt%20Bathroom%20meetups.svg)
 
-Disrupt Bathroom Meetups](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
+Disrupt Bathroom Meetups](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a711bb13f2ed3684d6_No%20Smoking.svg)
 
-Prevent Vaping & Vandalism](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
+Prevent Vaping & Vandalism](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a722c3e9e54929014a_Graph%20Report.svg)
 
-Enter Instant Emergency Lockdown](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
+Enter Instant Emergency Lockdown](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7ce283ae9b99fba1f_Open%20Book-3.svg)
 
-Manage Tardies & Early Dismissals](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cf7db65f45506760b94_Briefcase.svg)
+Manage Tardies & Early Dismissals](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662cf7db65f45506760b94_Briefcase.svg)
 
-Schedule Student Accommodations](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
+Schedule Student Accommodations](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a7be24c4d0188c0f0c_Pill%20Bottle.svg)
 
 Monitor Health Room & Counselor Visits](#)
 
 Products
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
 
-Hall Pass](https://www.smartpass.app/hall-pass)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
+Hall Pass](https://www.smartpass.app/hall-pass)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
 
-Flex](https://www.smartpass.app/flex)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
+Flex](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
 
 ID Cards
 
 FREE](https://www.smartpass.app/idcards)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
 SmartPass on G2!
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662e22ca8c5ca3b61c2f53_4-star.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662e22ca8c5ca3b61c2f53_4-star.svg)
 
 “SmartPass has cut down on office traffic so much and helps kids be more responsible for themselves.”
 
-Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
 "We have seen the amount of bathroom incidents, whether behavior or vandalism, go down substantially with SmartPass."
 
@@ -142,15 +142,15 @@ Customers
 
 Why Our Customers Love Us
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02d3e89f8326198dce_eye%20icon.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02d3e89f8326198dce_eye%20icon.svg)
 
-Streamline Student Monitoring](https://www.smartpass.app/customers/center-for-student-learning-charter-school)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
+Streamline Student Monitoring](https://www.smartpass.app/customers/center-for-student-learning-charter-school)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
 
-Save with Free Student IDs](https://www.smartpass.app/customers/marmion-academy)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e025eec1f23313773db_walking%20icon.svg)
+Save with Free Student IDs](https://www.smartpass.app/customers/marmion-academy)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e025eec1f23313773db_walking%20icon.svg)
 
-Empower Student Mobility](https://www.smartpass.app/customers/st-mary-catholic-schools)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02efa66c07a894bee1_Transform%20icon.svg)
+Empower Student Mobility](https://www.smartpass.app/customers/st-mary-catholic-schools)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02efa66c07a894bee1_Transform%20icon.svg)
 
-Transform Student Behavior](https://www.smartpass.app/customers/pasco-school-district)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02f3938884d0923aa6_horn%20icon.svg)
+Transform Student Behavior](https://www.smartpass.app/customers/pasco-school-district)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02f3938884d0923aa6_horn%20icon.svg)
 
 Hear from our Customers](https://www.smartpass.app/customers)
 
@@ -168,15 +168,15 @@ Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-p
 
 Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
 SmartPass on G2!
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
 “Amazing upgrade to the traditional hallpass. SmartPass makes passes easy!”
 
-Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
 "Excellent program that has streamlined movement in the school."
 
@@ -186,15 +186,15 @@ Customers
 
 Why Our Customers Love Us
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02d3e89f8326198dce_eye%20icon.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02d3e89f8326198dce_eye%20icon.svg)
 
-Streamline Student Monitoring](https://www.smartpass.app/customers/center-for-student-learning-charter-school)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
+Streamline Student Monitoring](https://www.smartpass.app/customers/center-for-student-learning-charter-school)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b574a51720acbe0082b984_Exclude.svg)
 
-Save with Free Student IDs](https://www.smartpass.app/customers/marmion-academy)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e025eec1f23313773db_walking%20icon.svg)
+Save with Free Student IDs](https://www.smartpass.app/customers/marmion-academy)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e025eec1f23313773db_walking%20icon.svg)
 
-Empower Student Mobility](https://www.smartpass.app/customers/st-mary-catholic-schools)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02efa66c07a894bee1_Transform%20icon.svg)
+Empower Student Mobility](https://www.smartpass.app/customers/st-mary-catholic-schools)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02efa66c07a894bee1_Transform%20icon.svg)
 
-Transform Student Behavior](https://www.smartpass.app/customers/pasco-school-district)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02f3938884d0923aa6_horn%20icon.svg)
+Transform Student Behavior](https://www.smartpass.app/customers/pasco-school-district)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66235e02f3938884d0923aa6_horn%20icon.svg)
 
 Hear from our Customers](https://www.smartpass.app/customers)
 
@@ -212,15 +212,15 @@ Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-p
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
 SmartPass on G2!
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
 “Amazing upgrade to the traditional hallpass. SmartPass makes passes easy!”
 
-Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
+Read on G2](https://www.g2.com/products/smartpass/reviews#reviews)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/662369d7acf4936897f63d3d_5-Star%20red.svg)
 
 "Excellent program that has streamlined movement in the school."
 
@@ -230,21 +230,21 @@ Resources
 
 Learn
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295096609847cb9e08_Vector.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295096609847cb9e08_Vector.svg)
 
-Grants & Funding](https://www.smartpass.app/education-grants-federal-funding)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295674f58481838c55_Vector-1.svg)
+Grants & Funding](https://www.smartpass.app/education-grants-federal-funding)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295674f58481838c55_Vector-1.svg)
 
-Case Studies](https://www.smartpass.app/customers)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f29c63f0d9660378f2f_Vector-2.svg)
+Case Studies](https://www.smartpass.app/customers)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f29c63f0d9660378f2f_Vector-2.svg)
 
-Blog](https://www.smartpass.app/blog)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
+Blog](https://www.smartpass.app/blog)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
 
 eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)
 
 Events
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b59fc522ae9509d73e4a5f_Schedule.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b59fc522ae9509d73e4a5f_Schedule.svg)
 
-Conferences](https://www.smartpass.app/conferences)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
+Conferences](https://www.smartpass.app/conferences)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
 
 Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
@@ -266,23 +266,23 @@ How Quiet Hallways and Calm Classrooms Become the New Reality](https://www.smart
 
 Company
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549bb13b86d85a5f60c_Company.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549bb13b86d85a5f60c_Company.svg)
 
 About SmartPass](https://www.smartpass.app/about)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654933d62d3102cb8511_Briefcase.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654933d62d3102cb8511_Briefcase.svg)
 
 Careers](https://www.smartpass.app/careers)
 
 OPEN ROLES
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549a3e34df296b472fe_T-Shirt.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549a3e34df296b472fe_T-Shirt.svg)
 
-Swag Shop](http://shop.smartpass.app/)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654967bb37f6c5487a44_Handshake.svg)
+Swag Shop](http://shop.smartpass.app/)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654967bb37f6c5487a44_Handshake.svg)
 
-Become a Partner](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654890917ecedcc1cb5f_News.svg)
+Become a Partner](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654890917ecedcc1cb5f_News.svg)
 
-Press](https://www.smartpass.app/press)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946548101ca0529b3646a8_Email.svg)
+Press](https://www.smartpass.app/press)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946548101ca0529b3646a8_Email.svg)
 
 Contact Us](#)
 
@@ -290,21 +290,21 @@ Resources
 
 Learn
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295096609847cb9e08_Vector.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295096609847cb9e08_Vector.svg)
 
-Grants & Funding](https://www.smartpass.app/education-grants-federal-funding)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295674f58481838c55_Vector-1.svg)
+Grants & Funding](https://www.smartpass.app/education-grants-federal-funding)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f295674f58481838c55_Vector-1.svg)
 
-Case Studies](https://www.smartpass.app/customers)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f29c63f0d9660378f2f_Vector-2.svg)
+Case Studies](https://www.smartpass.app/customers)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f29c63f0d9660378f2f_Vector-2.svg)
 
-Blog](https://www.smartpass.app/blog)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
+Blog](https://www.smartpass.app/blog)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
 
 eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)
 
 Events
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b59fc522ae9509d73e4a5f_Schedule.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64b59fc522ae9509d73e4a5f_Schedule.svg)
 
-Conferences](https://www.smartpass.app/conferences)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
+Conferences](https://www.smartpass.app/conferences)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
 
 Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
@@ -314,7 +314,7 @@ The Latest
 
 Free Whitepaper
 
-**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c9f3b216bccc02d38659e0_Goochland%20Image.png)
+**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c9f3b216bccc02d38659e0_Goochland%20Image.png)
 
 Case Study
 
@@ -326,55 +326,55 @@ How Quiet Hallways and Calm Classrooms Become the New Reality](https://www.smart
 
 Company
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549bb13b86d85a5f60c_Company.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549bb13b86d85a5f60c_Company.svg)
 
 About SmartPass](#)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654933d62d3102cb8511_Briefcase.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654933d62d3102cb8511_Briefcase.svg)
 
 Careers](https://www.smartpass.app/careers)
 
 OPEN ROLES
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549a3e34df296b472fe_T-Shirt.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946549a3e34df296b472fe_T-Shirt.svg)
 
-Swag Shop](http://shop.smartpass.app/)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654967bb37f6c5487a44_Handshake.svg)
+Swag Shop](http://shop.smartpass.app/)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654967bb37f6c5487a44_Handshake.svg)
 
-Become a Partner](#)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654890917ecedcc1cb5f_News.svg)
+Become a Partner](#)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654890917ecedcc1cb5f_News.svg)
 
-Press](https://www.smartpass.app/press)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946548101ca0529b3646a8_Email.svg)
+Press](https://www.smartpass.app/press)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64946548101ca0529b3646a8_Email.svg)
 
 Contact Us](#)
 
 Support
 
-[Search](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5c3663c87c0559dc5c7d6a7b_icons8-search.webp)
+[Search](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5c3663c87c0559dc5c7d6a7b_icons8-search.webp)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde061d1c852c6bea07_Help.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde061d1c852c6bea07_Help.svg)
 
-Help Center](https://www.smartpass.app/support)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e9588797a309c331bd7400_Mortarboard.svg)
+Help Center](https://www.smartpass.app/support)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e9588797a309c331bd7400_Mortarboard.svg)
 
-SmartPass Academy](https://www.smartpass.app/academy)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde909f7042f5198c59_Map.svg)
+SmartPass Academy](https://www.smartpass.app/academy)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde909f7042f5198c59_Map.svg)
 
 Discover Guides](https://www.smartpass.app/discover-guides)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde82c7a6edf356d4bb_Chat.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde82c7a6edf356d4bb_Chat.svg)
 
-Live Chat](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950d5511407d44a3e74208_Group%20344.webp)
+Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950d5511407d44a3e74208_Group%20344.webp)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde1324cf7a65eee055_Phone.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde1324cf7a65eee055_Phone.svg)
 
 Call Us](#)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
 
-Product Updates](https://www.smartpass.app/product-updates)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
+Product Updates](https://www.smartpass.app/product-updates)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
 
-Suggest a Feature](http://wishlist.smartpass.app/)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/651329c45493ddee1eea8320_Frame%20584.svg)
+Suggest a Feature](http://wishlist.smartpass.app/)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/651329c45493ddee1eea8320_Frame%20584.svg)
 
 For Parents & Families](https://www.smartpass.app/parents)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde4bea1b9f57fe77aa_Ok.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde4bea1b9f57fe77aa_Ok.svg)
 
 Uptime](http://smartpass.instatus.com/)
 
@@ -384,33 +384,33 @@ Uptime](http://smartpass.instatus.com/)
 
 Support
 
-[Search](#)[Search](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5c3663c87c0559dc5c7d6a7b_icons8-search.webp)
+[Search](#)[Search](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5c3663c87c0559dc5c7d6a7b_icons8-search.webp)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde061d1c852c6bea07_Help.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde061d1c852c6bea07_Help.svg)
 
-Help Center](https://www.smartpass.app/support)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e9588797a309c331bd7400_Mortarboard.svg)
+Help Center](https://www.smartpass.app/support)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e9588797a309c331bd7400_Mortarboard.svg)
 
-SmartPass Academy](https://www.smartpass.app/academy)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde909f7042f5198c59_Map.svg)
+SmartPass Academy](https://www.smartpass.app/academy)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde909f7042f5198c59_Map.svg)
 
 Discover Guides](https://www.smartpass.app/discover-guides)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde82c7a6edf356d4bb_Chat.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde82c7a6edf356d4bb_Chat.svg)
 
-Live Chat](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950d5511407d44a3e74208_Group%20344.webp)
+Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950d5511407d44a3e74208_Group%20344.webp)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde1324cf7a65eee055_Phone.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde1324cf7a65eee055_Phone.svg)
 
 Call Us](#)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
 
-Product Updates](https://www.smartpass.app/product-updates)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
+Product Updates](https://www.smartpass.app/product-updates)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
 
-Suggest a Feature](http://wishlist.smartpass.app/)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/651329c45493ddee1eea8320_Frame%20584.svg)
+Suggest a Feature](http://wishlist.smartpass.app/)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/651329c45493ddee1eea8320_Frame%20584.svg)
 
 For Parents & Families](https://www.smartpass.app/parents)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde4bea1b9f57fe77aa_Ok.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde4bea1b9f57fe77aa_Ok.svg)
 
 Uptime](http://smartpass.instatus.com/)
 
@@ -741,7 +741,7 @@ Over 10,000 principals and school leaders use SmartPass for hall passes, ID Card
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e380745f742709e09c9b01_smartpass%20movement%20image.avif)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c58dfcde0296f89ff2f693_Cross.png)](#)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c58dfcde0296f89ff2f693_Cross.png)](#)
 
  Book a Demo  to Make Student Movement Easier with SmartPass
 
@@ -749,25 +749,25 @@ Trusted by 2 million+ Educators & Students
 
   
 
-[![SmartPass Logo](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5d0aa04e0cc55f7301ae2a4f_footerLogo.svg)](https://www.smartpass.app/)
+[![SmartPass Logo](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5d0aa04e0cc55f7301ae2a4f_footerLogo.svg)](https://www.smartpass.app/)
 
 Smarter Movement for [2 million+](https://www.smartpass.app/customers) Educators and Students.
 
 [Demo & Pricing](https://www.smartpass.app/get-started)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 COPPA
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 COPPA
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 CSPC
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 SDPC
 
@@ -787,7 +787,7 @@ Support
 
 [Help Center](https://www.smartpass.app/support)[SmartPass Academy](https://www.smartpass.app/academy)[Discover More Use Cases](https://www.smartpass.app/discover-guides)
 
-[Live Chat](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64966aeed452680d2968a8f7_footer%20live%20chat%20img.png)
+[Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64966aeed452680d2968a8f7_footer%20live%20chat%20img.png)
 
 [Product Updates](https://www.smartpass.app/product-updates)[Suggest a Feature](http://wishlist.smartpass.app/)
 
@@ -805,19 +805,19 @@ OPEN ROLES
 
 [Swag Shop](http://shop.smartpass.app/)[Press](https://www.smartpass.app/press)[Privacy & Trust Center](https://www.smartpass.app/privacy)[Terms of Use](https://www.smartpass.app/terms)[Contact Us](#)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 COPPA
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 COPPA
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 CSPC
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 SDPC
 
@@ -825,19 +825,19 @@ SDPC
 
 [Safety & Security](https://www.smartpass.app/privacy) are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 COPPA
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 COPPA
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 CSPC
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
 SDPC
 
@@ -849,4 +849,4 @@ Safety & Security are our top priority. All SmartPass products are compliant wit
 
 [Privacy Policy](https://www.smartpass.app/privacy)[Terms of Use](https://www.smartpass.app/terms)[Accessibility](https://www.smartpass.app/accessibility)
 
-[![SmartPass Facebook](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9be06e42b0ebbb2153_Facebook.svg)](https://www.facebook.com/smartpass)[![SmartPass Twitter](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9bda6e9b0dbc6610ab_Twitter.svg)](https://twitter.com/getsmartpass)[![Smartpass LinkedIn](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9bb926b3097541df42_Instagram.svg)](https://www.instagram.com/getsmartpass/)[![SmartPass Facebook](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9b803ccd87077fdc65_LinkedIn.svg)](https://www.linkedin.com/company/smartpassco/)[![SmartPass Facebook](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9b76c8b6e81ded75ef_YouTube.svg)](https://www.youtube.com/@smartpass)
+[![SmartPass Facebook](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9be06e42b0ebbb2153_Facebook.svg)](https://www.facebook.com/smartpass)[![SmartPass Twitter](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9bda6e9b0dbc6610ab_Twitter.svg)](https://twitter.com/getsmartpass)[![Smartpass LinkedIn](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9bb926b3097541df42_Instagram.svg)](https://www.instagram.com/getsmartpass/)[![SmartPass Facebook](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9b803ccd87077fdc65_LinkedIn.svg)](https://www.linkedin.com/company/smartpassco/)[![SmartPass Facebook](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64960e9b76c8b6e81ded75ef_YouTube.svg)](https://www.youtube.com/@smartpass)
