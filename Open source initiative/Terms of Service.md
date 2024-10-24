@@ -10,6 +10,14 @@
 * [Programs](https://opensource.org/programs)
 * [Join](https://members.opensource.org/join/)
 
+* [About](https://opensource.org/about)
+* [Open Source Definition](https://opensource.org/osd)
+* [Licenses](https://opensource.org/licenses)
+* [Open Source AI](https://opensource.org/ai)
+* [Blog](https://opensource.org/blog)
+* [Programs](https://opensource.org/programs)
+* [Join](https://members.opensource.org/join/)
+
 [](#)
 
 Open Main Menu
