@@ -6,6 +6,8 @@ Help me look for content related to…
 
 Search for:  Search
 
+WEBINAR: _Are You Prepared for NIS2?_ on November 12, 2024 [Learn More](https://www.aeris.com/news-and-press/webinar-are-you-prepared-for-nis2/) 
+
 * [News & Press](https://www.aeris.com/news-press/ "News & Press")
 * [Resources](https://www.aeris.com/resource-library/ "Resources")
 * [Support](https://www.aeris.com/services-and-support/ "Support")
@@ -219,7 +221,7 @@ Sign up to receive weekly roundups of the latest news and trends with IoT Connec
 
 Email Address(Required)
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -282,3 +284,28 @@ This field is for validation purposes and should be left unchanged.
 [Visit our Facebook page](https://www.facebook.com/AerisCommunications/) [Visit our Twitter page](https://twitter.com/AerisM2M?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Visit our Linkedin page](https://www.linkedin.com/company/aeris-communications)
 
 [Back to top](#)
+
+Join Aeris Partner Network
+--------------------------
+
+First Name\*(Required)
+
+Last Name\*(Required)
+
+Company Name\*(Required)
+
+Job Title\*(Required)
+
+Business Email\*(Required)
+
+Phone Number\*(Required)
+
+Country\*(Required)
+
+United StatesUnited KingdomCanadaIndiaAfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivia, Plurinational State ofBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo, the Democratic Republic of theCook IslandsCosta RicaCote d'IvoireCroatiaCubaCuraçaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHoly See (Vatican City State)HondurasHungaryIcelandIndonesiaIran, Islamic Republic ofIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia, the former Yugoslav Republic ofMadagascarMalawiMalaysiaMaldivesMaliMaltaMartiniqueMauritaniaMauritiusMayotteMexicoMoldova, Republic ofMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorwayOmanPakistanPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalQatarReunionRomaniaRussian FederationRwandaSaint BarthélemySaint Helena, Ascension and Tristan da CunhaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch part)SlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzania, United Republic ofThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUruguayUzbekistanVanuatuVenezuela, Bolivarian Republic ofVietnamVirgin Islands, BritishWallis and FutunaWestern SaharaYemenZambiaZimbabwe
+
+Message\*(Required)
+
+       
+
+Δ
