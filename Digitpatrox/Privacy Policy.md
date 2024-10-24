@@ -20,16 +20,16 @@ Thursday, October 24 2024
 
 Latest
 
-* [Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
-* [Automatic emergency braking is getting better at preventing crashes](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
-* [How to Collaborate on Instagram](https://digitpatrox.com/how-to-collaborate-on-instagram/)
-* [“I have yet to find anyone who’s had a transformational experience with Microsoft Copilot”: Salesforce CEO Marc Benioff hits out at Microsoft’s AI assistant once again – and he isn’t holding back](https://digitpatrox.com/i-have-yet-to-find-anyone-whos-had-a-transformational-experience-with-microsoft-copilot-salesforce-ceo-marc-benioff-hits-out-at-microsofts-ai-assistant-once-again-and-he-isnt-h/)
-* [Are humans reading your AI conversations? – Computerworld](https://digitpatrox.com/are-humans-reading-your-ai-conversations-computerworld/)
-* [The Weirdest Movies You Won’t Believe Actually Exist](https://digitpatrox.com/the-weirdest-movies-you-wont-believe-actually-exist/)
-* [Best Heated Blankets | Electric Blankets](https://digitpatrox.com/best-heated-blankets-electric-blankets/)
-* [How to Capture Your Screen in Linux with OBS Studio](https://digitpatrox.com/how-to-capture-your-screen-in-linux-with-obs-studio/)
-* [IBM just launched powerful new open source AI models – here’s what you need to know](https://digitpatrox.com/ibm-just-launched-powerful-new-open-source-ai-models-heres-what-you-need-to-know/)
-* [Claude 3.5 Sonnet Can Control Your Computer](https://digitpatrox.com/claude-3-5-sonnet-can-control-your-computer/)
+* [The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
+* [Generative AI Defined: How It Works, Benefits, and Limitations](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
+* [A new study suggests standing desks don’t improve your health — here’s why I use one anyway](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
+* [Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://digitpatrox.com/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
+* [Character.AI and Google sued after chatbot-obsessed teen’s death](https://digitpatrox.com/character-ai-and-google-sued-after-chatbot-obsessed-teens-death/)
+* [Netflix TED Tumblewords: What Is It and How to Play](https://digitpatrox.com/netflix-ted-tumblewords-what-is-it-and-how-to-play/)
+* [How to Unblock Gate.io in The US](https://digitpatrox.com/how-to-unblock-gate-io-in-the-us/)
+* [These tech firms downplayed the impact of the SolarWinds hack – now they’ve been fined by the SEC](https://digitpatrox.com/these-tech-firms-downplayed-the-impact-of-the-solarwinds-hack-now-theyve-been-fined-by-the-sec/)
+* [5 advanced Gboard tricks for smarter Android typing – Computerworld](https://digitpatrox.com/5-advanced-gboard-tricks-for-smarter-android-typing-computerworld/)
+* [All Your Couch-to-5K Questions, Answered](https://digitpatrox.com/all-your-couch-to-5k-questions-answered/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg)](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
+* [![](https://cdn.mos.cms.futurecdn.net/3N8kr4CVMvYM2E6LUsUo7D-1200-80.jpg)](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
     
-    [Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
+    [The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
     
-    15 mins ago
+    25 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/UW6rXlACohjHUbFOg_3kBRzyMDU=/0x0:4941x3298/1200x628/filters:focal(2471x1649:2472x1650)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693285/2177315273.jpg)](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241024-what-is-generative-ai.jpg)](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
     
-    [Automatic emergency braking is getting better at preventing crashes](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
+    [Generative AI Defined: How It Works, Benefits, and Limitations](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
     
-    32 mins ago
+    28 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/How-to-add-collaborators-on-Instagram.jpg)](https://digitpatrox.com/how-to-collaborate-on-instagram/)
+* [![](https://cdn.mos.cms.futurecdn.net/b7mzzpdC9naD279kAbqJ5G-1200-80.jpg)](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
     
-    [How to Collaborate on Instagram](https://digitpatrox.com/how-to-collaborate-on-instagram/)
+    [A new study suggests standing desks don’t improve your health — here’s why I use one anyway](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
     
-    47 mins ago
+    44 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/sVNWn2diJk3TJiPCd8nV34-1200-80.jpg)](https://digitpatrox.com/i-have-yet-to-find-anyone-whos-had-a-transformational-experience-with-microsoft-copilot-salesforce-ceo-marc-benioff-hits-out-at-microsofts-ai-assistant-once-again-and-he-isnt-h/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/22/fortinet-logo.jpg)](https://digitpatrox.com/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
     
-    [“I have yet to find anyone who’s had a transformational experience with Microsoft Copilot”: Salesforce CEO Marc Benioff hits out at Microsoft’s AI assistant once again – and he isn’t holding back](https://digitpatrox.com/i-have-yet-to-find-anyone-whos-had-a-transformational-experience-with-microsoft-copilot-salesforce-ceo-marc-benioff-hits-out-at-microsofts-ai-assistant-once-again-and-he-isnt-h/)
+    [Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://digitpatrox.com/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3574984-0-20984500-1729677768-privacy_breach_hacked_vulnerability_binary_eye-100747409-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/are-humans-reading-your-ai-conversations-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/acjM1CnlZfkPDQem3dZ3VtxxL24=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg)](https://digitpatrox.com/character-ai-and-google-sued-after-chatbot-obsessed-teens-death/)
     
-    [Are humans reading your AI conversations? – Computerworld](https://digitpatrox.com/are-humans-reading-your-ai-conversations-computerworld/)
+    [Character.AI and Google sued after chatbot-obsessed teen’s death](https://digitpatrox.com/character-ai-and-google-sued-after-chatbot-obsessed-teens-death/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 mins ago
+* [25 mins ago
     
-    ### Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day](https://digitpatrox.com/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/)
-* [32 mins ago
+    ### The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
+* [28 mins ago
     
-    ### Automatic emergency braking is getting better at preventing crashes](https://digitpatrox.com/automatic-emergency-braking-is-getting-better-at-preventing-crashes/)
-* [47 mins ago
+    ### Generative AI Defined: How It Works, Benefits, and Limitations](https://digitpatrox.com/generative-ai-defined-how-it-works-benefits-and-limitations/)
+* [44 mins ago
     
-    ### How to Collaborate on Instagram](https://digitpatrox.com/how-to-collaborate-on-instagram/)
+    ### A new study suggests standing desks don’t improve your health — here’s why I use one anyway](https://digitpatrox.com/a-new-study-suggests-standing-desks-dont-improve-your-health-heres-why-i-use-one-anyway/)
 
 Most Popular Topics
 
-* [September 21, 2024
+* [3 weeks ago
     
-    ### How to watch Man City vs Arsenal live streams 2024/5](https://digitpatrox.com/how-to-watch-man-city-vs-arsenal-live-streams-2024-5/)
-* [September 16, 2024
+    ### What’s on your desk, David Pierce?](https://digitpatrox.com/whats-on-your-desk-david-pierce/)
+* [August 16, 2024
     
-    ### Best Double Strollers of 2024](https://digitpatrox.com/best-double-strollers-of-2024/)
-* [September 19, 2024
+    ### How to Use TikTok’s ‘Doom Boxes’ to Organize Your Home](https://digitpatrox.com/how-to-use-tiktoks-doom-boxes-to-organize-your-home/)
+* [August 20, 2024
     
-    ### How to watch Anthony Joshua vs Daniel Dubois Online](https://digitpatrox.com/how-to-watch-anthony-joshua-vs-daniel-dubois-online/)
+    ### Ransomware rakes in record-breaking $450 million in first half of 2024](https://digitpatrox.com/ransomware-rakes-in-record-breaking-450-million-in-first-half-of-2024/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### Best Heated Blankets | Electric Blankets](https://digitpatrox.com/best-heated-blankets-electric-blankets/)
-* [4 hours ago
+    ### How to Unblock Gate.io in The US](https://digitpatrox.com/how-to-unblock-gate-io-in-the-us/)
+* [3 hours ago
     
-    ### How to Capture Your Screen in Linux with OBS Studio](https://digitpatrox.com/how-to-capture-your-screen-in-linux-with-obs-studio/)
-* [4 hours ago
+    ### These tech firms downplayed the impact of the SolarWinds hack – now they’ve been fined by the SEC](https://digitpatrox.com/these-tech-firms-downplayed-the-impact-of-the-solarwinds-hack-now-theyve-been-fined-by-the-sec/)
+* [3 hours ago
     
-    ### IBM just launched powerful new open source AI models – here’s what you need to know](https://digitpatrox.com/ibm-just-launched-powerful-new-open-source-ai-models-heres-what-you-need-to-know/)
+    ### 5 advanced Gboard tricks for smarter Android typing – Computerworld](https://digitpatrox.com/5-advanced-gboard-tricks-for-smarter-android-typing-computerworld/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
