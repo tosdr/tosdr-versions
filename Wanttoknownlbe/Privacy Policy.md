@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-ongevaccineerde-werknemers-straffen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/een-geheime-wereldregering-is-het-zeker-niet/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
