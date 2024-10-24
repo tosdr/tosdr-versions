@@ -2,9 +2,9 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
-[**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
+Take 25% off select products with code SPOOKY25.[Terms apply](https://naturesway.com/pages/legal/#Promotions).
 
-[**Sign up**](#signup) today to receive 10% off!
+[**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
 
 [**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
 
@@ -1507,8 +1507,6 @@ Nature's Way Brands | 2024 All Rights Reserved
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
