@@ -141,36 +141,36 @@ Stay Up to Date
 
 Popular Events
 
-* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
+* [Adele Concert Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Concert Tickets")
 * [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
 * [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
 * [Michael Buble Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tickets")
-* [Elton John Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets "Elton John Tickets")
+* [Elton John Tour 2025](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets "Elton John Tour 2025")
 * [Taylor Swift Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Concert Tickets")
-* [New York Yankees Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Tickets")
-* [Tickets for Los Angeles Dodgers](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Tickets for Los Angeles Dodgers")
-* [Rüfüs Du Sol Tour 2025](https://www.viagogo.com/Concert-Tickets/Electronic/Rufus-Du-Sol-Tickets "Rüfüs Du Sol Tour 2025")
-* [Sabrina Carpenter Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tickets")
+* [New York Yankees Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Ticket")
+* [Los Angeles Dodgers Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Los Angeles Dodgers Tickets")
 * [The Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tickets")
+* [Sabrina Carpenter Tickets](https://www.viagogo.com/Concert-Tickets/Pop-Music/Sabrina-Carpenter-Tickets "Sabrina Carpenter Tickets")
 * [Coldplay Tour Dates 2024](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets "Coldplay Tour Dates 2024")
+* [Rüfüs Du Sol Tour 2025](https://www.viagogo.com/Concert-Tickets/Electronic/Rufus-Du-Sol-Tickets "Rüfüs Du Sol Tour 2025")
 * [Shakira Tour 2025](https://www.viagogo.com/Concert-Tickets/Pop-Rock/Dance-Pop/Shakira-Tickets "Shakira Tour 2025")
-* [WWE Wrestlemania Tickets](https://www.viagogo.com/Sports-Tickets/WWE/WWE-Wrestlemania-Tickets "WWE Wrestlemania Tickets")
-* [Boston Celtics Ticket](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Boston-Celtics-Tickets "Boston Celtics Ticket")
-* [La Liga 2024-25 Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/La-Liga-2024-25-Tickets "La Liga 2024-25 Ticket")
-* [Formula 1 Tickets](https://www.viagogo.com/Sports-Tickets/Sports-and-Outdoors/Formula-1-Tickets "Formula 1 Tickets")
-* [Rod Wave Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Rod-Wave-Tickets "Rod Wave Concert Tickets")
-* [Usher Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Tickets")
+* [Los Angeles Rams Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/Los-Angeles-Rams-Tickets "Los Angeles Rams Tickets")
+* [Miami Heat Tickets](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Miami-Heat-Tickets "Miami Heat Tickets")
+* [Formula 1 Ticket](https://www.viagogo.com/Sports-Tickets/Sports-and-Outdoors/Formula-1-Tickets "Formula 1 Ticket")
+* [Rod Wave Tour 2024](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Rod-Wave-Tickets "Rod Wave Tour 2024")
 * [Billie Eilish Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Billie-Eilish-Tickets "Billie Eilish Tickets")
-* [Tickets for Miami Heat](https://www.viagogo.com/Sports-Tickets/Basketball/NBA-Playoffs/Miami-Heat-Tickets "Tickets for Miami Heat")
-* [Tickets for Los Angeles Rams](https://www.viagogo.com/Sports-Tickets/Football/NFL/Los-Angeles-Rams-Tickets "Tickets for Los Angeles Rams")
-* [National Finals Rodeo Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Rodeo/National-Finals-Rodeo-Tickets "National Finals Rodeo Tickets")
-* [Tickets for Texas A&M Aggies Football](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-A-M-Aggies-Football-Tickets "Tickets for Texas A&M Aggies Football")
-* [Las Vegas Raiders Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Las-Vegas-Raiders-Tickets "Las Vegas Raiders Tickets")
+* [Tickets for Minnesota Vikings](https://www.viagogo.com/Sports-Tickets/Football/NFL/Minnesota-Vikings-Tickets "Tickets for Minnesota Vikings")
+* [Usher Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Concert Tickets")
+* [Ohio State Buckeyes Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Ohio-State-Buckeyes-Football-Tickets "Ohio State Buckeyes Football Tickets")
+* [Tickets for Los Angeles Lakers](https://www.viagogo.com/Sports-Tickets/Basketball/NBA/Los-Angeles-Lakers-Tickets "Tickets for Los Angeles Lakers")
+* [San Francisco 49ers Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/San-Francisco-49ers-Tickets "San Francisco 49ers Tickets")
+* [WWE Wrestlemania Ticket](https://www.viagogo.com/Sports-Tickets/WWE/WWE-Wrestlemania-Tickets "WWE Wrestlemania Ticket")
+* [New York Rangers Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Wintersports/Hockey/NHL/New-York-Rangers-Tickets "New York Rangers Tickets")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb11 : -
+\- : ecpuse1-webb12 : -
 
 }
 
