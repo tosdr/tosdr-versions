@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
 
 Neueste Tests
 
+* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
+* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
 * [Blut­zucker­mess­geräte im Test: Bestechend präzise](https://www.test.de/Blutzuckermessgeraete-im-Test-4408717-0/ "Blutzuckermessgeräte im Test - Bestechend präzise")
 * [Kinder­sitze im Test: Gute und sichere Sitze schon für unter 100 Euro](https://www.test.de/Autokindersitze-im-Test-1806826-0/ "Kindersitze im Test - Gute und sichere Sitze schon für unter 100 Euro")
-* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
-* [Zahnpasta im Test: Gute Zahn­cremes – auch ohne Titan­dioxid](https://www.test.de/Zahnpasta-im-Test-4607097-0/ "Zahnpasta im Test - Gute Zahncremes – auch ohne Titandioxid")
 
 test.de entdecken
 
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
 
 Service Stiftung Warentest
 
