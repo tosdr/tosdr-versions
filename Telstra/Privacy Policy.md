@@ -134,7 +134,7 @@ You can download our [Privacy Statement (PDF, 269KB)](https://www.telstra.com.a
 Who is this privacy statement for?
 ----------------------------------
 
-If you're a Telstra customer, use any of our products or services, access our website or interact with us, our Privacy Statement is for you. It applies to Telstra Group Limited and all of its Australian businesses, including Belong, but excluding [Telstra Health](https://www.telstrahealth.com/content/telstrahealth/en/privacy-policy.html), [Telstra Foundation (PDF, 153KB)](https://www.telstra.com.au/content/dam/tcom/lego/2022/documents/Telstra-Foundation-Privacy-Statement-2022.pdf), [Telstra Super](https://www.telstrasuper.com.au/legal/privacy), and other Telstra businesses that have their own privacy policies.  
+If you're a Telstra customer, use any of our products or services, access our website or interact with us, our Privacy Statement is for you. It applies to Telstra Group Limited and all of its Australian businesses, including Belong, but excluding [Telstra Health](https://www.telstrahealth.com/content/telstrahealth/en/privacy-policy.html), [Telstra Foundation (PDF, 130KB)](https://www.telstra.com.au/content/dam/tcom/lego/2024/pdf/Telstra-Foundation-Privacy-Statement-2024-FINAL.pdf), [Telstra Super](https://www.telstrasuper.com.au/legal/privacy), and other Telstra businesses that have their own privacy policies.  
 
 Some parts of this Privacy Statement only apply when you use specific products and services. We'll let you know whenever that's the case.
 
