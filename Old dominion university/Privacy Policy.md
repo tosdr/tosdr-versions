@@ -239,7 +239,7 @@ Mega Menu
     * [Student Success Center](https://ww1.odu.edu/success/center)
     * [Career Development Services](https://ww1.odu.edu/node/279066)
     * [International Student Resources](https://ww1.odu.edu/international)
-    * [Student Outreach & Support](https://ww1.odu.edu/life/dean-students/student-outreach)
+    * [Student Outreach & Support](https://ww1.odu.edu/node/752796)
     * [Counseling](https://ww1.odu.edu/counseling-services)
     * [Women's & Gender Equity Center](https://ww1.odu.edu/wgec)
     * [LGBTQIA+ Initiatives](https://ww1.odu.edu/wgec/lgbt)
