@@ -15,7 +15,7 @@
     * [Resource Center](https://paper.co/resource-center)
 * Insights [ ] 
     * K-12 Topics [ ] 
-        * [Reading literacy](https://paper.co/resources/how-to-teach-reading-the-k12-guide)
+        * [The K-12 Literacy Playbook](https://paper.co/resources/the-k-12-literacy-playbook)
         * [Game-based learning](https://paper.co/resources/the-k-12-guide-to-game-based-learning)
         * [College and career readiness](https://paper.co/resources/the-k-12-guide-to-college-and-career-readiness)
         * [Student-centered learning](https://paper.co/resources/the-k-12-guide-to-student-centered-learning)
