@@ -178,16 +178,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Girsan Regard MC: Turkish M9 Clone Review](https://www.thegunpage.com/girsan-regard-mc-turkish-m9-clone-review/10611404)
 * [Armed Citizen Stops A Man Trying To Run Over Three People](https://www.thegunpage.com/armed-citizen-stops-a-man-trying-to-run-over-three-people/10611402)
+* [Mimic Your Match Rifle Loads With Hornady Aeromatch Bullets](https://www.thegunpage.com/mimic-your-match-rifle-loads-with-hornady-aeromatch-bullets/10611406)
+* [KRG Now Shipping Echo Chassis for Tikka Rifles](https://www.thegunpage.com/krg-now-shipping-echo-chassis-for-tikka-rifles/10611407)
+* [2025 NRA National Indoor Sectional Championships: Tournament Sanctioning To Begin Dec. 1, 2024](https://www.thegunpage.com/2025-nra-national-indoor-sectional-championships-tournament-sanctioning-to-begin-dec-1-2024/10611408)
 * [All American Hunters Should Be Warned by Colorado’s Proposed Ban on Mountain Lion Hunting](https://www.thegunpage.com/all-american-hunters-should-be-warned-by-colorados-proposed-ban-on-mountain-lion-hunting/10611400)
 * [GOA, GOF Coalition Urge Judge to Make Final Ruling on Universal Registration Check Rule](https://www.thegunpage.com/goa-gof-coalition-urge-judge-to-make-final-ruling-on-universal-registration-check-rule/10611401)
 * [IWI Masada Slim Review: Is This the Best Budget Concealed Carry Gun?](https://www.thegunpage.com/iwi-masada-slim-review-is-this-the-best-budget-concealed-carry-gun/10611394)
 * [Colorado Ballot Initiative Would Put 6.5% “Sin Tax” On Guns, Ammo](https://www.thegunpage.com/colorado-ballot-initiative-would-put-6-5-sin-tax-on-guns-ammo/10611392)
 * [Pennsylvania Man Faces 20 Years In Prison For Straw Purchases](https://www.thegunpage.com/pennsylvania-man-faces-20-years-in-prison-for-straw-purchases/10611389)
-* [Premier Body Armor Unveils the Fortis Ballistic Blanket](https://www.thegunpage.com/premier-body-armor-unveils-the-fortis-ballistic-blanket/10611395)
-* [CRPA Files Brief In Nonresident Carry Lawsuit](https://www.thegunpage.com/crpa-files-brief-in-nonresident-carry-lawsuit/10611387)
-* [Chad Heckler Wins Limited Division Title At 2024 IPRF World Championship](https://www.thegunpage.com/chad-heckler-wins-limited-division-title-at-2024-iprf-world-championship/10611391)
-* [Review: Beretta A300 Ultima Competition](https://www.thegunpage.com/review-beretta-a300-ultima-competition/10611386)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
