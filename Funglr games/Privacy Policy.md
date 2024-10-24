@@ -182,6 +182,6 @@ _saiganak.com_ **[esports media | Saiga NAK](https://saiganak.com/ "esports medi
 
 [© Saiga NAK](https://saiganak.com/)
 
-     
+      
 
 ![](//mc.yandex.ru/watch/88656021)
