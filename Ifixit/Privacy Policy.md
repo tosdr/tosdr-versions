@@ -579,11 +579,11 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 **View Statistics:**
 
-Past 24 Hours: 56
+Past 24 Hours: 54
 
-Past 7 Days: 353
+Past 7 Days: 318
 
-Past 30 Days: 1,011
+Past 30 Days: 996
 
 All Time: 82,973
 
