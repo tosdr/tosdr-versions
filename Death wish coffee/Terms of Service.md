@@ -162,7 +162,7 @@ Continue shopping
 
 Access Denied
 
-**IMPORTANT!** If you’re a store owner, please make sure you have [Customer accounts enabled in your Store Admin](https://admin.shopify.com/store//settings/checkout), as you have customer based locks set up with EasyLockdown app. [Enable Customer Accounts](https://admin.shopify.com/store//settings/checkout)
+**IMPORTANT!** If you’re a store owner, please make sure you have [Customer accounts enabled in your Store Admin](https://admin.shopify.com/store/deathwishcoffee/settings/checkout), as you have customer based locks set up with EasyLockdown app. [Enable Customer Accounts](https://admin.shopify.com/store/deathwishcoffee/settings/checkout)
 
 Terms & Conditions
 ==================
