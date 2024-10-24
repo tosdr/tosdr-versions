@@ -100,7 +100,7 @@
 
 Login as existing user](https://app.twipla.com/login?utm_campaign=visaWebsite&utm_source=headerButton&utm_term=login)
 
-[Get started free![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)](https://app.twipla.com/register)
+[Get started free ![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)](https://app.twipla.com/register) 
 
 * [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/home.svg)](https://www.visitor-analytics.io/en/)
 * [Support](https://www.visitor-analytics.io/en/support "Support")
