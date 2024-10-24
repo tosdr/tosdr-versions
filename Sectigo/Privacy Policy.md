@@ -94,7 +94,7 @@ Purpose-built digital certificate management for small businesses
 
 CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
 
-[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [90-Day certificates are coming](https://www.sectigo.com/90-day-ssl)
+[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [90-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
 
 Entrust customer?
 
@@ -203,7 +203,7 @@ Login
     * CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
         
     * [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations)
-    * [90-Day certificates are coming](https://www.sectigo.com/90-day-ssl)
+    * [90-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
     
 * Partners
     
