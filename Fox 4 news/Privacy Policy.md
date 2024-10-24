@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Where refugees in Texas are arriving from](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/GettyImages-1232963130.jpg?ve=1&tl=1)
+ [![Starbucks CEO says company will fix 'overly complex menu' to reverse sales slump](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/starbucks.jpg?ve=1&tl=1)
 
- ![Where refugees in Texas are arriving from](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/592/333/GettyImages-1232963130.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/where-refugees-texas-arriving-from)
+ ![Starbucks CEO says company will fix 'overly complex menu' to reverse sales slump](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/starbucks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/starbucks-ceo-company-menu-sales-slump)
 
-### [Where refugees in Texas are arriving from](https://www.fox4news.com/news/where-refugees-texas-arriving-from)
+### [Starbucks CEO says company will fix 'overly complex menu' to reverse sales slump](https://www.fox4news.com/news/starbucks-ceo-company-menu-sales-slump)
 
- [![Harris-Trump showdown: New national poll shows who has the edge 2 weeks from Election Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-1.jpg?ve=1&tl=1)
+ [![Police release video of deadly Arlington officer-involved shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/arlington-e-lamar-blvd-ois-body-cam_mp4_00.01.29.07.jpg?ve=1&tl=1)
 
- ![Harris-Trump showdown: New national poll shows who has the edge 2 weeks from Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-trump-new-national-poll-2-weeks-until-election-day)
+ ![Police release video of deadly Arlington officer-involved shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/arlington-e-lamar-blvd-ois-body-cam_mp4_00.01.29.07.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-ois-tony-coward-body-camera-video)
 
-### [Harris-Trump showdown: New national poll shows who has the edge 2 weeks from Election Day](https://www.fox4news.com/news/harris-trump-new-national-poll-2-weeks-until-election-day)
+### [Police release video of deadly Arlington officer-involved shooting](https://www.fox4news.com/news/arlington-ois-tony-coward-body-camera-video)
 
- [![McDonald's E. coli update: Quarter Pounders now off the menu in these states](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2180539674.jpg?ve=1&tl=1)
+ [![These trends will influence baby names in 2025, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/the-bear-sabrina-carpenter-getty.jpg?ve=1&tl=1)
 
- ![McDonald's E. coli update: Quarter Pounders now off the menu in these states](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180539674.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-quarter-pounder-e-coli-update-states-pulled-menus)
+ ![These trends will influence baby names in 2025, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/the-bear-sabrina-carpenter-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trends-influence-baby-names-2025-study)
 
-### [McDonald's E. coli update: Quarter Pounders now off the menu in these states](https://www.fox4news.com/news/mcdonalds-quarter-pounder-e-coli-update-states-pulled-menus)
+### [These trends will influence baby names in 2025, study finds](https://www.fox4news.com/news/trends-influence-baby-names-2025-study)
 
- [![Body found in Trinity River; Fort Worth police investigating cause of death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-payton-harold-simmons-park-demolition-day_kdfwce_00.00.03.00.jpg?ve=1&tl=1)
+ [![NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/gettyimages-2180808203-scaled.jpg?ve=1&tl=1)
 
- ![Body found in Trinity River; Fort Worth police investigating cause of death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-payton-harold-simmons-park-demolition-day_kdfwce_00.00.03.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/body-found-trinity-river-fort-worth-police-investigating-cause-death)
+ ![NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180808203-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
 
-### [Body found in Trinity River; Fort Worth police investigating cause of death](https://www.fox4news.com/news/body-found-trinity-river-fort-worth-police-investigating-cause-death)
+### [NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
 
- [![How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-dna-technology-cold-case-murder-9p_00.01.15.08.jpg?ve=1&tl=1)
+ [![This is how much money you need to never work again](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-499180782.jpg?ve=1&tl=1)
 
- ![How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-dna-technology-cold-case-murder-9p_00.01.15.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-new-dna-technology-helped-solve-16-year-old-grand-prairie-cold-case)
+ ![This is how much money you need to never work again](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-499180782.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-how-much-money-you-need-never-work-again)
 
-### [How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://www.fox4news.com/news/how-new-dna-technology-helped-solve-16-year-old-grand-prairie-cold-case)
+### [This is how much money you need to never work again](https://www.fox4news.com/news/is-how-much-money-you-need-never-work-again)
 
 ###### [News](https://www.fox4news.com/news)
 
