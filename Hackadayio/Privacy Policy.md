@@ -231,7 +231,7 @@ We may process the personal data for the following purposes:
 
 **Processing of personal data for customer satisfaction surveys and for direct marketing**
 
-Where and as permitted under applicable law, we may process your contact information for direct marketing purposes (e.g. trade show invitations, newsletters with further information and offers concerning our products and services) and to carry out customer satisfactions surveys, in each case also by e-mail. You may object to the processing of your contact data for these purposes at any time by writing to [contact@siemens.com](mailto:contact@siemens.com) or by using the opt-out mechanism provided in the respective communication you received.
+Where and as permitted under applicable law, we may process your contact information for direct marketing purposes (e.g. trade show invitations, newsletters with further information and offers concerning our products and services) and to carry out customer satisfactions surveys, in each case also by e-mail. You may object to the processing of your contact data for these purposes at any time by writing to [privacy@supplyframe.com](mailto:privacy@supplyframe.com) or by using the opt-out mechanism provided in the respective communication you received.
 
 **5.**
 
