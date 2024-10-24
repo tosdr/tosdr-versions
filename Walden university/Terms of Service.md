@@ -149,7 +149,7 @@ Search Search Close
         * Psychology
             * PSYCHOLOGY MASTER'S PROGRAMS
             * Personalize your studies by selecting from an array of programs.
-            * [Master’s in Applied Behavior Analysis](https://www.waldenu.edu/online-masters-programs/master-in-applied-behavioral-analysis)
+            * [MS in Applied Behavior Analysis](https://www.waldenu.edu/online-masters-programs/master-in-applied-behavioral-analysis)
             * [MS in Clinical Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-clinical-psychology)
             * [MS in Developmental Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-developmental-psychology)
             * [MS in Forensic Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-forensic-psychology)
@@ -533,7 +533,7 @@ Call Us: [**8556465286**](tel:8556465286)
             
             * [PSYCHOLOGY MASTER'S PROGRAMS](# "PSYCHOLOGY MASTER'S PROGRAMS")
             * [Personalize your studies by selecting from an array of programs.](# "Personalize your studies by selecting from an array of programs.")
-            * [Master’s in Applied Behavior Analysis](https://www.waldenu.edu/online-masters-programs/master-in-applied-behavioral-analysis "Master’s in Applied Behavior Analysis")
+            * [MS in Applied Behavior Analysis](https://www.waldenu.edu/online-masters-programs/master-in-applied-behavioral-analysis "MS in Applied Behavior Analysis")
             * [MS in Clinical Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-clinical-psychology "MS in Clinical Psychology ")
             * [MS in Developmental Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-developmental-psychology "MS in Developmental Psychology")
             * [MS in Forensic Psychology](https://www.waldenu.edu/online-masters-programs/ms-in-forensic-psychology "MS in Forensic Psychology")
